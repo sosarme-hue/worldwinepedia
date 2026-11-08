@@ -145,7 +145,8 @@ def layout(l, title, desc, body, alt, active=''):
 <div class="util"><label>{s('ship_to', l)}: <select class="ship" aria-label="{s('ship_to', l)}">{ship_opts}</select></label><span class="langs">{langs}</span></div>
 </div>
 <div class="tag">{s('tagline', l)}</div>
-<nav aria-label="Menu">{nav}<a href="{url(l, 'search')}">{s('search_btn', l)} ⌕</a></nav>
+<nav aria-label="Menu">{nav}</nav>
+<form class="hsearch" role="search" action="{url(l, 'search')}"><input type="search" name="q" aria-label="{s('search_btn', l)}" placeholder="{s('search_ph', l)}"><button>{s('search_btn', l)}</button></form>
 </header>
 {body}
 <footer>
