@@ -1025,6 +1025,240 @@
    "page": "https://commons.wikimedia.org/wiki/File:Weingarten_bei_Goggendorf_im_Herbst.jpg",
    "alt": "Viñedo en otoño cerca de Goggendorf, Weinviertel",
    "specific": true
+  },
+  "tokaj": {
+   "src": "/img/wm/region-tokaj.jpg",
+   "author": "Pudelek",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Vineyard_near_Tokaj,_Hungary.jpg",
+   "alt": "Viñedo cerca de Tokaj (Hungría)",
+   "specific": true
+  },
+  "eger": {
+   "src": "/img/wm/region-eger.jpg",
+   "author": "Hanc Tomasz",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Vineyards_over_Eger._Winnice_nad_Egerem_-_panoramio.jpg",
+   "alt": "Viñedos sobre la ciudad de Eger (Hungría)",
+   "specific": true
+  },
+  "villany": {
+   "src": "/img/wm/region-villany.jpg",
+   "author": "Jacquesverlaeken",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Vineyards_ouest_of_Villany_257.jpg",
+   "alt": "Viñedos al oeste de Villány, bajo el monte Szársomlyó (Hungría)",
+   "specific": true
+  },
+  "santorini": {
+   "src": "/img/wm/region-santorini.jpg",
+   "author": "Norbert Nagel",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Chapel_St_Marina_near_Megalochori_-_Santorini_-_Greece_-_04.jpg",
+   "alt": "Viñedos y capilla de Santa Marina cerca de Megalochori (Santorini)",
+   "specific": true
+  },
+  "naoussa": {
+   "src": "/img/wm/region-naoussa.jpg",
+   "author": "Vagrand",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Vineyard_in_Naoussa,_Central_Macedonia,_Greece.jpg",
+   "alt": "Viñedo de xinomavro en Naoussa, Macedonia Central (Grecia)",
+   "specific": true
+  },
+  "nemea": {
+   "src": "/img/wm/region-nemea.jpg",
+   "author": "Zde",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Vine_tree_near_Archeological_site_of_Nemea,_Neme435.jpg",
+   "alt": "Viña junto al yacimiento arqueológico de Nemea (Grecia)",
+   "specific": true
+  },
+  "kakheti": {
+   "src": "/img/wm/region-kakheti.jpg",
+   "author": "Vladimir Pankratov",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Rainbow_in_Kakheti.jpg",
+   "alt": "Arcoíris sobre los viñedos del valle de Alazani, cerca de Signagi (Kajetia)",
+   "specific": true
+  },
+  "valle-de-tracia": {
+   "src": "/img/wm/region-valle-de-tracia.jpg",
+   "author": "Celoiskra",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Iskra_Grapes.JPG",
+   "alt": "Viñas cerca del pueblo de Iskra, provincia de Plovdiv (valle de Tracia)",
+   "specific": true
+  },
+  "valais": {
+   "src": "/img/wm/region-valais.jpg",
+   "author": "Christian David",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Vignoble_vers_la_vall%C3%A9e_du_Rh%C3%B4ne,_Chamoson,_Valais.jpg",
+   "alt": "Viñedo de Chamoson con el valle del Ródano al fondo (Valais)",
+   "specific": true
+  },
+  "vaud": {
+   "src": "/img/wm/region-vaud.jpg",
+   "author": "visamatti",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Autumn_in_the_vineyards_(44914504795).jpg",
+   "alt": "Viñedos en terraza de Lavaux en otoño (Vaud)",
+   "specific": true
+  },
+  "goriska-brda": {
+   "src": "/img/wm/region-goriska-brda.jpg",
+   "author": "neiljs",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Gori%C5%A1ka_Brda,_Slovenia_vineyards.jpg",
+   "alt": "Viñedos de Goriška Brda (Eslovenia)",
+   "specific": true
+  },
+  "dalmacia": {
+   "src": "/img/wm/region-dalmacia.jpg",
+   "author": "Danilo Tic",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Vineyards_Hvar.jpg",
+   "alt": "Viñedos en la isla de Hvar (Dalmacia)",
+   "specific": true
+  },
+  "dealu-mare": {
+   "src": "/img/wm/region-dealu-mare.jpg",
+   "author": "Andrei Stroe",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:RO_BZ_Pietroasele_vineyard_2.jpg",
+   "alt": "Viñedo del centro vitivinícola de Pietroasele, en Dealu Mare (Rumanía)",
+   "specific": true
+  },
+  "codru": {
+   "src": "/img/wm/region-codru.jpg",
+   "author": "D-Stanley",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Vineyard_at_Cricova_-_Moldova_(by_David_Stanley).jpg",
+   "alt": "Viñedo en Cricova, al norte de Chisináu (Codru)",
+   "specific": true
+  },
+  "kent": {
+   "src": "/img/wm/region-kent.jpg",
+   "author": "Simon Burchell",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Vineyard_between_Eccles_and_Kit's_Coty_01.jpg",
+   "alt": "Viñedo entre Eccles y Kit's Coty (Kent)",
+   "specific": true
+  },
+  "sussex": {
+   "src": "/img/wm/region-sussex.jpg",
+   "author": "Des Blenkinsopp",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Vineyard_and_Oast_House_-_geograph.org.uk_-_3253532.jpg",
+   "alt": "Viñedo y secadero de lúpulo en Bodiam (East Sussex)",
+   "specific": true
+  },
+  "niagara-peninsula": {
+   "src": "/img/wm/region-niagara-peninsula.jpg",
+   "author": "Derek Hatfield from Peterborough, Canada",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Vineyard_(5677814494).jpg",
+   "alt": "Viñedo de Jackson-Triggs en Niagara-on-the-Lake (península del Niágara)",
+   "specific": true
+  },
+  "okanagan-valley": {
+   "src": "/img/wm/region-okanagan-valley.jpg",
+   "author": "Kelly Nigro",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Vineyards_Lake_Okanagan.jpg",
+   "alt": "Viñedos junto al lago Okanagan (Columbia Británica)",
+   "specific": true
+  },
+  "canelones": {
+   "src": "/img/wm/region-canelones.jpg",
+   "author": "Viñavarelazarranz",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Vi%C3%B1a_en_Oto%C3%B1o.jpg",
+   "alt": "Viñedo en otoño en Canelones (Uruguay)",
+   "specific": true
+  },
+  "valle-de-guadalupe": {
+   "src": "/img/wm/region-valle-de-guadalupe.jpg",
+   "author": "Tomascastelazo",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Guadalupe_valley.jpg",
+   "alt": "Viñedos del valle de Guadalupe (Baja California)",
+   "specific": true
+  },
+  "valle-de-la-bekaa": {
+   "src": "/img/wm/region-valle-de-la-bekaa.jpg",
+   "author": "Not home at English Wikipedia",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Beqaa-vineyard.JPG",
+   "alt": "Viñedos cerca de Zahlé, en el valle de la Bekaa (Líbano)",
+   "specific": true
+  },
+  "altos-del-golan": {
+   "src": "/img/wm/region-altos-del-golan.jpg",
+   "author": "Hedva Shnderovitch (חדוה שנדרוביץ)",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_12980_Organic_Vineyard_in_the_Golan_Heights.JPG",
+   "alt": "Viñedo ecológico en los Altos del Golán",
+   "specific": true
+  },
+  "lisboa": {
+   "src": "/img/wm/region-lisboa.jpg",
+   "author": "Alexkom000",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:2025-09-14_Vineyards_in_Torres_Vedras_1.jpg",
+   "alt": "Viñedos en Torres Vedras (Lisboa)",
+   "specific": true
+  },
+  "paso-robles": {
+   "src": "/img/wm/region-paso-robles.jpg",
+   "author": "Pasowine",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Paso_Vineyard.jpg",
+   "alt": "Viñedo en la AVA Paso Robles (California)",
+   "specific": true
+  },
+  "cotnari": {
+   "src": "/img/wm/region-cotnari.jpg",
+   "author": "ciur nicu",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Cotnari_-_panoramio.jpg",
+   "alt": "Racimos de uva en Cotnari (Rumanía)",
+   "specific": true
+  },
+  "utiel-requena": {
+   "src": "/img/wm/region-utiel-requena.jpg",
+   "author": "Pacopac",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:2020-07-04_Port_de_Requena.jpg",
+   "alt": "Viñedos en el Port de Requena (Utiel-Requena)",
+   "specific": true
   }
  },
  "countries": {
@@ -1134,6 +1368,168 @@
    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
    "page": "https://commons.wikimedia.org/wiki/File:Vineyards_in_Stellenbosch_II.jpg",
    "alt": "Viñedos en Stellenbosch, Sudáfrica",
+   "specific": true
+  },
+  "hungria": {
+   "src": "/img/wm/country-hungria.jpg",
+   "author": "Illustratedjc",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Grape_vines_and_badacsonyhegy_-_Folly_Arboretum.jpg",
+   "alt": "Viñedos frente al monte Badacsony, junto al lago Balaton (Hungría)",
+   "specific": true
+  },
+  "grecia": {
+   "src": "/img/wm/country-grecia.jpg",
+   "author": "Winelover10",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Ampelones_.jpg",
+   "alt": "Viñedos en Monemvasía, Peloponeso (Grecia)",
+   "specific": true
+  },
+  "georgia": {
+   "src": "/img/wm/country-georgia.jpg",
+   "author": "Levan Davlianidze",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Dio_Winery_%E2%80%94_2.jpg",
+   "alt": "Viñedo de aleksandrouli cerca de Ambrolauri, en Racha (Georgia)",
+   "specific": true
+  },
+  "turquia": {
+   "src": "/img/wm/country-turquia.jpg",
+   "author": "Zühtü Özçelik",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Gedik_Vineyard.jpg",
+   "alt": "Viñedo de cepas viejas en Turquía",
+   "specific": true
+  },
+  "bulgaria": {
+   "src": "/img/wm/country-bulgaria.jpg",
+   "author": "Martin Zhelyazkov",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Vineyard_Nevestino_Burgas.jpg",
+   "alt": "Viñedos de Nevestino, en la provincia de Burgas (Bulgaria)",
+   "specific": true
+  },
+  "suiza": {
+   "src": "/img/wm/country-suiza.jpg",
+   "author": "Sdnegel",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:La_capite_de_Bourdigny_(Satigny).jpg",
+   "alt": "Viñedos y capite (caseta de viña) en Bourdigny, Satigny, cantón de Ginebra (Suiza)",
+   "specific": true
+  },
+  "eslovenia": {
+   "src": "/img/wm/country-eslovenia.jpg",
+   "author": "walter_himmelbauer",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "page": "https://commons.wikimedia.org/wiki/File:Heart-road-3702183.jpg",
+   "alt": "Carretera en forma de corazón entre viñedos en Eslovenia",
+   "specific": true
+  },
+  "croacia": {
+   "src": "/img/wm/country-croacia.jpg",
+   "author": "Petar Milošević",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Vineyards_of_Istria_(Croatia).jpg",
+   "alt": "Viñedos de Istria (Croacia)",
+   "specific": true
+  },
+  "rumania": {
+   "src": "/img/wm/country-rumania.jpg",
+   "author": "Baluka78",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Szollos.jpg",
+   "alt": "Viñedo en Nagydoba, distrito de Sălaj (Rumanía)",
+   "specific": true
+  },
+  "moldavia": {
+   "src": "/img/wm/country-moldavia.jpg",
+   "author": "Guttorm Flatabø from Sogndal, Norway",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Moldovan_vines_and_maiz_(188781599).jpg",
+   "alt": "Viñedo y bosque en Moldavia",
+   "specific": true
+  },
+  "inglaterra": {
+   "src": "/img/wm/country-inglaterra.jpg",
+   "author": "Peter Trimming",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Denbies_Vineyard_-_geograph.org.uk_-_6361150.jpg",
+   "alt": "Viñedo de Denbies, en Surrey (Inglaterra)",
+   "specific": true
+  },
+  "canada": {
+   "src": "/img/wm/country-canada.jpg",
+   "author": "Charles Hoffman",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Rossignol_Estate_Winery,_Little_Sands,_Prince_Edward_Island.jpg",
+   "alt": "Viñedos de Rossignol Estate en la Isla del Príncipe Eduardo (Canadá)",
+   "specific": true
+  },
+  "uruguay": {
+   "src": "/img/wm/country-uruguay.jpg",
+   "author": "Emagp03",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Vi%C3%B1edos_Uruguay.jpg",
+   "alt": "Viñedos de Bauzá en Uruguay",
+   "specific": true
+  },
+  "brasil": {
+   "src": "/img/wm/country-brasil.jpg",
+   "author": "Jose Alberto Selbach Junior",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Parreirais_no_outono.jpg",
+   "alt": "Viñedos en otoño en São Marcos, Rio Grande do Sul (Brasil)",
+   "specific": true
+  },
+  "mexico": {
+   "src": "/img/wm/country-mexico.jpg",
+   "author": "AlejandroLinaresGarcia",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:VineyardPenaBernalEMontes.JPG",
+   "alt": "Viñedo con la Peña de Bernal al fondo, en Ezequiel Montes, Querétaro (México)",
+   "specific": true
+  },
+  "libano": {
+   "src": "/img/wm/country-libano.jpg",
+   "author": "Serysss97",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Chateau_Marsyas_in_the_Beqaa_valley.jpg",
+   "alt": "Viñedos de Château Marsyas en el valle de la Bekaa (Líbano)",
+   "specific": true
+  },
+  "israel": {
+   "src": "/img/wm/country-israel.jpg",
+   "author": "Amos Meron (עמוס מרון)",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Jerusalem_Vineyard.JPG",
+   "alt": "Viñedo en el corredor de Jerusalén (Israel)",
+   "specific": true
+  },
+  "china": {
+   "src": "/img/wm/country-china.jpg",
+   "author": "Canuckpilot",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Chinese-Vineyards.jpg",
+   "alt": "Viñedos costeros en Shandong (China)",
    "specific": true
   }
  },
@@ -2010,6 +2406,312 @@
    "page": "https://commons.wikimedia.org/wiki/File:Yalumba_Winery.jpg",
    "alt": "Bodega Yalumba en Angaston",
    "specific": true
+  },
+  "chateau-ksara": {
+   "src": "/img/wm/winery-chateau-ksara.jpg",
+   "author": "MyaBell117",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Vineyards-chateau-ksara-lebanese-winery-wine.jpg",
+   "alt": "Vista aérea de los viñedos de Château Ksara en el valle de la Bekaa",
+   "specific": true
+  },
+  "changyu": {
+   "src": "/img/wm/winery-changyu.jpg",
+   "author": "K.Y.K.Z.K.",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Changyu_company.jpg",
+   "alt": "Bodega histórica de Changyu en Yantai (China)",
+   "specific": true
+  },
+  "ca-del-bosco": {
+   "src": "/img/wm/winery-ca-del-bosco.jpg",
+   "author": "Monica CadelBosco",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Ca'_del_Bosco.jpg",
+   "alt": "Viñedos y bodega de Ca' del Bosco en Erbusco (Franciacorta)",
+   "specific": true
+  },
+  "donnafugata": {
+   "src": "/img/wm/winery-donnafugata.jpg",
+   "author": "Michal Osmenda from Brussels, Belgium",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Donnafugata_winery_(4894844288).jpg",
+   "alt": "Sala de barricas de la bodega Donnafugata en Marsala",
+   "specific": true
+  },
+  "casa-valduga": {
+   "src": "/img/wm/winery-casa-valduga.jpg",
+   "author": "Sintegrity",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Bento_Gon%C3%A7alves_-_Casa_Valduga_01.jpg",
+   "alt": "Edificio de Casa Valduga en el Vale dos Vinhedos, Bento Gonçalves",
+   "specific": true
+  },
+  "cricova": {
+   "src": "/img/wm/winery-cricova.jpg",
+   "author": "D-Stanley",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Cricova_Winery_-_Moldova_(by_David_Stanley).jpg",
+   "alt": "Galerías subterráneas de crianza de la bodega Cricova",
+   "specific": true
+  },
+  "la-cetto": {
+   "src": "/img/wm/winery-la-cetto.jpg",
+   "author": "Adam Jones from Kelowna, BC, Canada",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:L.A._Cetto_Winery_and_Vineyards_-_Valle_de_Guadalupe_-_Outside_Ensenada,_BC_-_Mexico_-_01_(6778851318).jpg",
+   "alt": "Bodega y viñedos de L.A. Cetto en el valle de Guadalupe",
+   "specific": true
+  },
+  "miolo": {
+   "src": "/img/wm/winery-miolo.jpg",
+   "author": "Sintegrity",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Bento_Gon%C3%A7alves_-_Vin%C3%ADcola_Miolo_01.jpg",
+   "alt": "Sala de barricas de la vinícola Miolo en Bento Gonçalves",
+   "specific": true
+  },
+  "purcari": {
+   "src": "/img/wm/winery-purcari.jpg",
+   "author": "Diana.moraru",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Purcari.jpg",
+   "alt": "Château Purcari (Moldavia)",
+   "specific": true
+  },
+  "mission-hill": {
+   "src": "/img/wm/winery-mission-hill.jpg",
+   "author": "GoToVan from Vancouver, Canada",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Mission_Hill_Family_Estate_Winery_(35976423265).jpg",
+   "alt": "Mission Hill Family Estate, en West Kelowna (valle del Okanagan)",
+   "specific": true
+  },
+  "golan-heights-winery": {
+   "src": "/img/wm/winery-golan-heights-winery.jpg",
+   "author": "Staselnik",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Golan_Heights_Winery_01.jpg",
+   "alt": "Instalaciones de Golan Heights Winery en Katzrin",
+   "specific": true
+  },
+  "inniskillin": {
+   "src": "/img/wm/winery-inniskillin.jpg",
+   "author": "James G. Milles from Buffalo, NY, USA",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Inniskillin_Winery,_Niagara_on_the_Lake_(2772405201).jpg",
+   "alt": "Bodega Inniskillin en Niagara-on-the-Lake",
+   "specific": true
+  },
+  "trapiche": {
+   "src": "/img/wm/winery-trapiche.jpg",
+   "author": "NMS_FW",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Trapiche_bodega.jpg",
+   "alt": "Edificio histórico de la bodega Trapiche en Maipú (Mendoza)",
+   "specific": true
+  },
+  "casa-de-piedra": {
+   "src": "/img/wm/winery-casa-de-piedra.jpg",
+   "author": "T.Tseng",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Casa_de_Piedra_vineyards_(33085124284).jpg",
+   "alt": "Viñedos de Casa de Piedra en el valle de Guadalupe",
+   "specific": true
+  },
+  "monte-xanic": {
+   "src": "/img/wm/winery-monte-xanic.jpg",
+   "author": "Anacahuas",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Bodega_de_Monte_Xanic.jpg",
+   "alt": "Despalilladora y depósitos de la bodega Monte Xanic",
+   "specific": true
+  },
+  "chapel-down": {
+   "src": "/img/wm/winery-chapel-down.jpg",
+   "author": "John H Darch",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Chapel_Down_winery_-_geograph.org.uk_-_3717535.jpg",
+   "alt": "Bodega de Chapel Down en Tenterden (Kent)",
+   "specific": true
+  },
+  "achaval-ferrer": {
+   "src": "/img/wm/winery-achaval-ferrer.jpg",
+   "author": "Sebadella",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Fondo-mirador.jpg",
+   "alt": "Panorámica de la Finca Mirador de Achaval-Ferrer (Mendoza)",
+   "specific": true
+  },
+  "boutari": {
+   "src": "/img/wm/winery-boutari.jpg",
+   "author": "Cayambe",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Boutari_Winery_%E2%80%93_near_Skalani_village,_Crete.jpg",
+   "alt": "Bodega de Boutari en la finca Fantaxometocho, cerca de Skalani (Creta)",
+   "specific": true
+  },
+  "cotnari-sa": {
+   "src": "/img/wm/winery-cotnari-sa.jpg",
+   "author": "Epop",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Cave_de_Cotnari.JPG",
+   "alt": "Bodega de Cotnari (Rumanía)",
+   "specific": true
+  },
+  "disznoko": {
+   "src": "/img/wm/winery-disznoko.jpg",
+   "author": "Szemes Elek",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Diszn%C3%B3k%C5%91_Sz%C5%91l%C5%91birtok,_Mez%C5%91zombor,_Hungary_-_panoramio_(1).jpg",
+   "alt": "Finca Disznókő en Mezőzombor (Tokaj)",
+   "specific": true
+  },
+  "domaine-drouhin-oregon": {
+   "src": "/img/wm/winery-domaine-drouhin-oregon.jpg",
+   "author": "Luke",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Wine_Country_of_the_Dundee_Hills,_Oregon.jpg",
+   "alt": "Uvas pinot noir en Domaine Drouhin Oregon, Dundee Hills",
+   "specific": true
+  },
+  "domaine-du-castel": {
+   "src": "/img/wm/winery-domaine-du-castel.jpg",
+   "author": "Zeev Stein (זאב שטיין)",
+   "license": "CC BY 2.5",
+   "license_url": "https://creativecommons.org/licenses/by/2.5",
+   "page": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_76432_castel_winery.jpg",
+   "alt": "Bodega Domaine du Castel (Israel)",
+   "specific": true
+  },
+  "domaine-sigalas": {
+   "src": "/img/wm/winery-domaine-sigalas.jpg",
+   "author": "Treephoto",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Old_vines_at_Domaine_Sigalas_in_Santorini,_Greece.jpg",
+   "alt": "Viejas cepas de assyrtiko en kouloura en Domaine Sigalas (Santorini)",
+   "specific": true
+  },
+  "edoardo-miroglio": {
+   "src": "/img/wm/winery-edoardo-miroglio.jpg",
+   "author": "Bikerboy-93",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D0%B0_%22Edoardo_Miroglio%22.jpg",
+   "alt": "Bodega Edoardo Miroglio en Elenovo (Bulgaria)",
+   "specific": true
+  },
+  "kir-yianni": {
+   "src": "/img/wm/winery-kir-yianni.jpg",
+   "author": "Osenji",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Kir_Yianni_2022.jpg",
+   "alt": "Bodega Kir-Yianni en Giannakochori (Naoussa)",
+   "specific": true
+  },
+  "nyetimber": {
+   "src": "/img/wm/winery-nyetimber.jpg",
+   "author": "Brianmaclondon",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "page": "https://commons.wikimedia.org/wiki/File:Nyetimber-Manor-Vineyard-Dusk-4000x2667.jpg",
+   "alt": "Viñedo de Nyetimber Manor al atardecer (Sussex)",
+   "specific": true
+  },
+  "ridgeview": {
+   "src": "/img/wm/winery-ridgeview.jpg",
+   "author": "Peter Trimming",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Entrance_to_the_Ridgeview_Wine_Estate_-_geograph.org.uk_-_4274311.jpg",
+   "alt": "Entrada a la finca Ridgeview, en Ditchling Common (Sussex)",
+   "specific": true
+  },
+  "silver-oak": {
+   "src": "/img/wm/winery-silver-oak.jpg",
+   "author": "Silver Oak Cellars",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Silver_Oak_Cellars,_Oakville3.jpg",
+   "alt": "Bodega de Silver Oak Cellars en Oakville (Napa)",
+   "specific": true
+  },
+  "villa-maria": {
+   "src": "/img/wm/winery-villa-maria.jpg",
+   "author": "Bryndlefly",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Waitomokia_tuff_crater_with_vineyards.JPG",
+   "alt": "Viñedos de Villa Maria en el cráter volcánico de Waitomokia (Auckland)",
+   "specific": true
+  },
+  "felix-solis": {
+   "src": "/img/wm/winery-felix-solis.jpg",
+   "author": "Gobierno de Castilla-La Mancha",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:2022-07-04,_Visita_a_la_nueva_bodega_de_barricas_automatizada_de_F%C3%A9lix_Solis_Avantis_-_52192976024.jpg",
+   "alt": "Nave de barricas automatizada de Félix Solís Avantis en Valdepeñas",
+   "specific": true
+  },
+  "cloudy-bay": {
+   "src": "/img/wm/winery-cloudy-bay.jpg",
+   "author": "Matt Boulton",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Cloudy_Bay_Vineyard.jpg",
+   "alt": "Viñedo de Cloudy Bay en Marlborough",
+   "specific": true
+  },
+  "gerard-bertrand": {
+   "src": "/img/wm/winery-gerard-bertrand.jpg",
+   "author": "ryanovineyards",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Vignoble_du_ch%C3%A2teau_de_l'Hospitalet_AOC_Languedoc_La_Clape.jpg",
+   "alt": "Viñedo del Château l'Hospitalet de Gérard Bertrand, en La Clape",
+   "specific": true
+  },
+  "raimat": {
+   "src": "/img/wm/winery-raimat.jpg",
+   "author": "AlbertRA",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Polvor%C3%AD_de_Raimat_08.jpg",
+   "alt": "Viñedos de Raimat junto al Polvorí de la Cerdera (Lleida)",
+   "specific": true
+  },
+  "mastroberardino": {
+   "src": "/img/wm/winery-mastroberardino.jpg",
+   "author": "Andy Hay",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Pompeii_vineyards.jpg",
+   "alt": "Viñedo en Pompeya plantado con la colaboración de Mastroberardino",
+   "specific": true
   }
  },
  "wines": {
@@ -2416,6 +3118,285 @@
    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
    "page": "https://commons.wikimedia.org/wiki/File:Yalumba_Eden_Valley_Viognier_SA.jpg",
    "alt": "Botella de Yalumba Eden Valley Viognier",
+   "specific": true
+  },
+  "muga-reserva": {
+   "src": "/img/wm/wine-muga-reserva.jpg",
+   "author": "Agne27",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Mugs_unfiltered_Rioja.jpg",
+   "alt": "Botella de Muga Reserva 2007",
+   "specific": true
+  },
+  "vina-tondonia-reserva": {
+   "src": "/img/wm/wine-vina-tondonia-reserva.jpg",
+   "author": "Zarateman",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "page": "https://commons.wikimedia.org/wiki/File:Vinos_de_Bodegas_L%C3%B3pez_de_Heredia_Vi%C3%B1a_Tondonia_(Haro,_Rioja_DOCa).jpg",
+   "alt": "Botellas de Viña Tondonia Reserva de López de Heredia",
+   "specific": true
+  },
+  "mastroberardino-radici-taurasi": {
+   "src": "/img/wm/wine-mastroberardino-radici-taurasi.jpg",
+   "author": "Tomas er",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Radici_Taurasi_Riserva.jpg",
+   "alt": "Botella de Radici Taurasi Riserva 1997 de Mastroberardino",
+   "specific": true
+  },
+  "chateau-musar-rouge": {
+   "src": "/img/wm/wine-chateau-musar-rouge.jpg",
+   "author": "Infrogmation at en.wikipedia",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:ChateauMusar1999.jpg",
+   "alt": "Botella de Château Musar 1999",
+   "specific": true
+  },
+  "royal-tokaji-aszu-5-puttonyos": {
+   "src": "/img/wm/wine-royal-tokaji-aszu-5-puttonyos.jpg",
+   "author": "Dominic Lockyer",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Royal_Tokaji.jpg",
+   "alt": "Botella de Royal Tokaji Aszú 5 puttonyos",
+   "specific": true
+  },
+  "grasa-de-cotnari": {
+   "src": "/img/wm/wine-grasa-de-cotnari.jpg",
+   "author": "Ulrich prokop",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Grasa_de_Cotnari.jpg",
+   "alt": "Botella y copa de Grasă de Cotnari",
+   "specific": true
+  },
+  "negru-de-purcari": {
+   "src": "/img/wm/wine-negru-de-purcari.jpg",
+   "author": "Adelina Palancica",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Negru_de_Purcari.png",
+   "alt": "Botella de Negru de Purcari",
+   "specific": true
+  },
+  "achaval-ferrer-finca-altamira": {
+   "src": "/img/wm/wine-achaval-ferrer-finca-altamira.jpg",
+   "author": "Sebadella",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Vino-finca-altamira.jpg",
+   "alt": "Botella de Achaval-Ferrer Finca Altamira",
+   "specific": true
+  },
+  "achaval-ferrer-malbec": {
+   "src": "/img/wm/wine-achaval-ferrer-malbec.jpg",
+   "author": "Sebadella",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Vino-malbec.jpg",
+   "alt": "Botella de Achaval-Ferrer Malbec",
+   "specific": true
+  },
+  "achaval-ferrer-quimera": {
+   "src": "/img/wm/wine-achaval-ferrer-quimera.jpg",
+   "author": "Sebadella",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Vino-quimera.jpg",
+   "alt": "Botella de Achaval-Ferrer Quimera",
+   "specific": true
+  },
+  "boutari-naoussa": {
+   "src": "/img/wm/wine-boutari-naoussa.jpg",
+   "author": "Pitichinaccio",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Boutari_Naoussa_2001.png",
+   "alt": "Botella de Boutari Naoussa 2001",
+   "specific": true
+  },
+  "la-cetto-petite-sirah": {
+   "src": "/img/wm/wine-la-cetto-petite-sirah.jpg",
+   "author": "Jebarahona",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:WinePetiteSirahCetto.jpg",
+   "alt": "Botella de L.A. Cetto Petite Sirah",
+   "specific": true
+  },
+  "nectar-px": {
+   "src": "/img/wm/wine-nectar-px.jpg",
+   "author": "Nigab Pressbilder",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Nectar_pedro_ximenez_nigab.jpg",
+   "alt": "Botella de Néctar Pedro Ximénez de González Byass",
+   "specific": true
+  },
+  "moet-imperial-brut": {
+   "src": "/img/wm/wine-moet-imperial-brut.jpg",
+   "author": "Dominic Lockyer",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Mo%C3%ABt_%26_Chandon_Brut_Imp%C3%A9rial_bottle_(Fareham_Wine).jpg",
+   "alt": "Botella de Moët & Chandon Brut Impérial",
+   "specific": true
+  },
+  "ornellaia": {
+   "src": "/img/wm/wine-ornellaia.jpg",
+   "author": "Londenp",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Ornellaia.JPG",
+   "alt": "Botella de Ornellaia",
+   "specific": true
+  },
+  "le-volte-dell-ornellaia": {
+   "src": "/img/wm/wine-le-volte-dell-ornellaia.jpg",
+   "author": "Diego",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Le_Volte_-_Tenuta_dell'Ornellaia_2003.jpg",
+   "alt": "Botella de Le Volte dell'Ornellaia 2003",
+   "specific": true
+  },
+  "le-difese": {
+   "src": "/img/wm/wine-le-difese.jpg",
+   "author": "Diego",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Le_Difese_-_Tenuta_San_Guido_2004.jpg",
+   "alt": "Botella de Le Difese 2004 de Tenuta San Guido",
+   "specific": true
+  },
+  "drouhin-clos-des-mouches-blanc": {
+   "src": "/img/wm/wine-drouhin-clos-des-mouches-blanc.jpg",
+   "author": "JDROUHIN",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Beaune_Clos_des_Mouches_blanc1.jpg",
+   "alt": "Botella de Beaune Clos des Mouches blanco de Joseph Drouhin",
+   "specific": true
+  },
+  "tio-pepe": {
+   "src": "/img/wm/wine-tio-pepe.jpg",
+   "author": "Nigab Pressbilder",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Tiopepe_nigab_sherry-418x1536.png",
+   "alt": "Botella de Tío Pepe, fino de González Byass",
+   "specific": true
+  },
+  "veuve-clicquot-brut-carte-jaune": {
+   "src": "/img/wm/wine-veuve-clicquot-brut-carte-jaune.jpg",
+   "author": "Oleg Yunakov",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Champagne_Veuve_Clicquot_Brut.jpg",
+   "alt": "Botellas de Veuve Clicquot Brut Carte Jaune",
+   "specific": true
+  },
+  "anna-de-codorniu": {
+   "src": "/img/wm/wine-anna-de-codorniu.jpg",
+   "author": "Daytona Winos",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Anna_de_Codorniu_Cava.jpg",
+   "alt": "Botella de Anna de Codorníu",
+   "specific": true
+  },
+  "penfolds-rwt-shiraz": {
+   "src": "/img/wm/wine-penfolds-rwt-shiraz.jpg",
+   "author": "ToNG!?",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Penfolds_RWT_Shiraz.jpg",
+   "alt": "Botella de Penfolds RWT Shiraz 1998",
+   "specific": true
+  },
+  "opus-one": {
+   "src": "/img/wm/wine-opus-one.jpg",
+   "author": "Diego Cosenza",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Opus_One_1997.jpg",
+   "alt": "Botella de Opus One 1997",
+   "specific": true
+  },
+  "chateau-margaux": {
+   "src": "/img/wm/wine-chateau-margaux.jpg",
+   "author": "Augustas Didžgalvis",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Chateau_Margaux_1960_by_Augustas_Didzgalvis.jpg",
+   "alt": "Etiqueta de Château Margaux 1960",
+   "specific": true
+  },
+  "pavillon-rouge-du-chateau-margaux": {
+   "src": "/img/wm/wine-pavillon-rouge-du-chateau-margaux.jpg",
+   "author": "BerndB",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Pavillon-Rouge-de-Margaux-1985.JPG",
+   "alt": "Botella de Pavillon Rouge du Château Margaux 1985",
+   "specific": true
+  },
+  "mouton-cadet-rouge": {
+   "src": "/img/wm/wine-mouton-cadet-rouge.jpg",
+   "author": "Murgh",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Mouton_Cadet_detail.JPG",
+   "alt": "Etiqueta de Mouton Cadet tinto 2005",
+   "specific": true
+  },
+  "lustau-east-india-solera": {
+   "src": "/img/wm/wine-lustau-east-india-solera.jpg",
+   "author": "Caballero 1830",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Lustau_East_India.jpg",
+   "alt": "Botella de Lustau East India Solera",
+   "specific": true
+  },
+  "vina-ardanza-reserva": {
+   "src": "/img/wm/wine-vina-ardanza-reserva.jpg",
+   "author": "Zarateman",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "page": "https://commons.wikimedia.org/wiki/File:Vino_tinto_Vi%C3%B1a_Ardanza_(Labastida,_Rioja_DOCa)_1.jpg",
+   "alt": "Botellas de Viña Ardanza Reserva de La Rioja Alta",
+   "specific": true
+  },
+  "monopole": {
+   "src": "/img/wm/wine-monopole.jpg",
+   "author": "CVNE",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Monopole_CVNE.jpg",
+   "alt": "Botella de Monopole de CVNE",
+   "specific": true
+  },
+  "hugel-gewurztraminer-classic": {
+   "src": "/img/wm/wine-hugel-gewurztraminer-classic.jpg",
+   "author": "Michal Osmenda from Brussels, Belgium",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Gewurtztraminer_Hugel_2007.jpg",
+   "alt": "Botella de Hugel Gewurztraminer 2007",
+   "specific": true
+  },
+  "chateau-de-beaucastel-rouge": {
+   "src": "/img/wm/wine-chateau-de-beaucastel-rouge.jpg",
+   "author": "Marianne Casamance",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Chateau_de_Beaucastel_Rouge.jpg",
+   "alt": "Botella de Château de Beaucastel tinto",
    "specific": true
   }
  }
