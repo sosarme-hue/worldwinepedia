@@ -28,7 +28,7 @@ S = {
  "nav_wineries": {"es": "Bodegas", "en": "Wineries", "fr": "Domaines", "it": "Cantine"},
  "nav_learn": {"es": "Aprender", "en": "Learn", "fr": "Apprendre", "it": "Imparare"},
  "nav_glossary": {"es": "Glosario", "en": "Glossary", "fr": "Glossaire", "it": "Glossario"},
- "ship_to": {"es": "Envío a", "en": "Ship to", "fr": "Livraison", "it": "Spedizione"},
+ "ship_to": {"es": "Tu país", "en": "Your country", "fr": "Votre pays", "it": "Il tuo paese"},
  "search_ph": {"es": "Busca un vino, una uva, una bodega, una región…", "en": "Search a wine, grape, winery, region…", "fr": "Cherchez un vin, un cépage, un domaine, une région…", "it": "Cerca un vino, un vitigno, una cantina, una regione…"},
  "search_btn": {"es": "Buscar", "en": "Search", "fr": "Chercher", "it": "Cerca"},
  "hero_eyebrow": {"es": "Una enciclopedia. Todo un mundo por descubrir.", "en": "One encyclopedia. A whole world to discover.", "fr": "Une encyclopédie. Tout un monde à découvrir.", "it": "Un'enciclopedia. Tutto un mondo da scoprire."},
