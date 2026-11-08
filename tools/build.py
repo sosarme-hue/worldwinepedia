@@ -124,9 +124,10 @@ def layout(l, title, desc, body, alt, active=''):
     foot_learn = ''.join('<a href="%s">%s</a>' % (url(l, 'articles') + '#' + sec, T(S['sections'][sec], l)) for sec in ('ciencia', 'viticultura', 'cata', 'maridaje', 'historia')) + '<a href="%s">%s</a>' % (url(l, 'glossary'), s('nav_glossary', l))
     foot_proj = ''.join('<a href="%s">%s</a>' % (url(l, k), s(k + '_t', l)) for k in ('about', 'affiliates', 'privacy', 'legal'))
     return f'''<!doctype html>
-<html lang="{l}">
+<html lang="{l}" translate="no">
 <head>
 <meta charset="utf-8">
+<meta name="google" content="notranslate">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{e(title)}</title>
 <meta name="description" content="{e(desc[:300])}">
@@ -415,7 +416,7 @@ def search_index(l):
 
 def root_index():
     links = ''.join(f'<a href="/{x}/" hreflang="{x}" lang="{x}">{LANG_NAMES[x]}</a>' for x in LANGS)
-    return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>WorldWinePedia · The world wine encyclopedia</title>
+    return f'''<!doctype html><html lang="en" translate="no"><head><meta charset="utf-8"><meta name="google" content="notranslate"><meta name="viewport" content="width=device-width,initial-scale=1"><title>WorldWinePedia · The world wine encyclopedia</title>
 {''.join(f'<link rel="alternate" hreflang="{x}" href="{DOMAIN}/{x}/">' for x in LANGS)}<link rel="alternate" hreflang="x-default" href="{DOMAIN}/">
 <link rel="stylesheet" href="/css/style.css"><script>(function(){{var l=(navigator.language||'en').slice(0,2);if(['es','en','fr','it'].indexOf(l)<0)l='en';var s=null;try{{s=localStorage.getItem('wwp-lang')}}catch(e){{}};location.replace((s||l)+'/'+(window.PV?'index.html':''));}})();</script></head>
 <body style="display:flex;align-items:center;justify-content:center;min-height:100vh"><div style="text-align:center"><div class="logo">World<b>Wine</b>pedia</div><p class="langs" style="display:flex;gap:16px;justify-content:center">{links}</p></div></body></html>'''
