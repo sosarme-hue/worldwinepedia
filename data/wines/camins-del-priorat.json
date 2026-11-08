@@ -1,0 +1,41 @@
+{
+  "slug": "camins-del-priorat",
+  "name": "Camins del Priorat",
+  "winery": "alvaro-palacios",
+  "region": "priorat",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": ["garnacha", "carinena"],
+  "summary": {
+    "es": "El tinto de entrada de la gama de Álvaro Palacios en el Priorat, elaborado con uvas de varios pueblos de la comarca y pensado como una introducción accesible a la denominación.",
+    "en": "The entry-level red in Álvaro Palacios's Priorat range, made from grapes from several villages in the district and designed as an accessible introduction to the designation.",
+    "fr": "Le rouge d'entrée de gamme d'Álvaro Palacios dans le Priorat, élaboré avec des raisins de plusieurs villages de la région et conçu comme une introduction accessible à l'appellation.",
+    "it": "Il rosso d'ingresso della gamma di Álvaro Palacios nel Priorat, prodotto con uve di vari villaggi della zona e pensato come introduzione accessibile alla denominazione."
+  },
+  "body": {
+    "es": "<p>Camins del Priorat («caminos del Priorat») ocupa la base de la pirámide de vinos de Álvaro Palacios, organizada según el origen: comarca, pueblo y finca. Se elabora con uvas procedentes de distintos municipios de la D.O.Ca. Priorat, de modo que refleja el carácter general de la zona más que el de un paraje concreto.</p><p>La base del vino son la <strong>garnacha</strong> y la <strong>cariñena</strong>, a las que según la añada pueden sumarse pequeñas proporciones de otras variedades cultivadas en la comarca. La crianza en madera es breve y discreta, para que predomine la fruta. Es un tinto de consumo relativamente temprano que muestra la expresión cálida y mineral del Priorat en un registro más ligero y fresco que los vinos de finca de la casa.</p>",
+    "en": "<p>Camins del Priorat («paths of Priorat») sits at the base of Álvaro Palacios's pyramid of wines, organised by origin: district, village and vineyard. It is made from grapes from different villages within the Priorat D.O.Ca., so it reflects the general character of the area rather than that of a single site.</p><p>The wine is based on <strong>Garnacha</strong> and <strong>Carignan</strong>, to which small proportions of other varieties grown in the district may be added depending on the vintage. Oak ageing is short and discreet, so that fruit takes the lead. It is a red for relatively early drinking that shows Priorat's warm, mineral expression in a lighter, fresher register than the house's single-vineyard wines.</p>",
+    "fr": "<p>Camins del Priorat (« chemins du Priorat ») se situe à la base de la pyramide des vins d'Álvaro Palacios, organisée selon l'origine : région, village et lieu-dit. Il est élaboré avec des raisins de différentes communes de la D.O.Ca. Priorat, de sorte qu'il reflète le caractère général de la zone plutôt que celui d'un site précis.</p><p>Le vin repose sur le <strong>grenache</strong> et le <strong>carignan</strong>, auxquels peuvent s'ajouter, selon le millésime, de petites proportions d'autres cépages cultivés dans la région. L'élevage sous bois est court et discret, pour laisser la place au fruit. C'est un rouge à boire relativement jeune, qui montre l'expression chaleureuse et minérale du Priorat dans un registre plus léger et plus frais que les vins de lieu-dit de la maison.</p>",
+    "it": "<p>Camins del Priorat («sentieri del Priorat») è alla base della piramide dei vini di Álvaro Palacios, organizzata secondo l'origine: comarca, villaggio e vigna. È prodotto con uve di diversi comuni della D.O.Ca. Priorat, per cui riflette il carattere generale della zona più che quello di un singolo sito.</p><p>La base del vino sono la <strong>Grenache</strong> e il <strong>Carignano</strong>, ai quali, a seconda dell'annata, possono aggiungersi piccole quote di altre varietà coltivate nella zona. L'affinamento in legno è breve e discreto, perché prevalga il frutto. È un rosso da bere relativamente giovane, che mostra l'espressione calda e minerale del Priorat in un registro più leggero e fresco rispetto ai vini di vigna della casa.</p>"
+  },
+  "tasting": {
+    "es": "Fruta roja y negra madura, notas de hierbas mediterráneas y un fondo mineral. En boca es jugoso, de tanino amable y final fresco.",
+    "en": "Ripe red and black fruit, notes of Mediterranean herbs and a mineral background. Juicy on the palate, with gentle tannins and a fresh finish.",
+    "fr": "Fruits rouges et noirs mûrs, notes d'herbes méditerranéennes et fond minéral. En bouche, il est juteux, aux tanins aimables et à la finale fraîche.",
+    "it": "Frutta rossa e nera matura, note di erbe mediterranee e un fondo minerale. In bocca è succoso, con tannino gentile e finale fresco."
+  },
+  "pairing": {
+    "es": "Embutidos ibéricos, carnes a la brasa, arroces de montaña, quesos semicurados",
+    "en": "Iberian charcuterie, grilled meats, mountain-style rice dishes, semi-cured cheeses",
+    "fr": "Charcuterie ibérique, viandes grillées, riz de montagne, fromages mi-affinés",
+    "it": "Salumi iberici, carni alla brace, risi di montagna, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "15-17 °C, copa amplia",
+    "en": "15-17 °C, large glass",
+    "fr": "15-17 °C, grand verre",
+    "it": "15-17 °C, calice ampio"
+  },
+  "search": "Camins del Priorat Álvaro Palacios"
+}

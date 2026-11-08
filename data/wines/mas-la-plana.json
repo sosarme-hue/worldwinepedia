@@ -1,0 +1,43 @@
+{
+  "slug": "mas-la-plana",
+  "name": "Mas La Plana",
+  "winery": "familia-torres",
+  "region": "penedes",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "Cabernet sauvignon de finca de Familia Torres en el Penedès, uno de los vinos que dieron a conocer internacionalmente los tintos catalanes a partir de los años setenta.",
+    "en": "Single-estate Cabernet Sauvignon from Familia Torres in Penedès, one of the wines that brought Catalan reds international recognition from the 1970s onwards.",
+    "fr": "Cabernet-sauvignon de domaine de Familia Torres dans le Penedès, l'un des vins qui ont fait connaître les rouges catalans à l'international à partir des années 1970.",
+    "it": "Cabernet Sauvignon di tenuta di Familia Torres nel Penedès, uno dei vini che hanno fatto conoscere a livello internazionale i rossi catalani a partire dagli anni Settanta."
+  },
+  "body": {
+    "es": "<p>Mas La Plana procede de un viñedo de <strong>cabernet sauvignon</strong> situado junto a la masía del mismo nombre, en Pacs del Penedès, plantado por la familia Torres cuando la variedad era aún poco habitual en España. Durante mucho tiempo se comercializó como Gran Coronas Etiqueta Negra, antes de adoptar el nombre de la finca.</p><p>El viñedo se asienta sobre suelos de grava y arcilla del Penedès central, de clima mediterráneo. El vino se cría en barricas de roble francés durante un periodo prolongado, y después reposa en botella antes de salir al mercado. Es un tinto de estructura y estilo clásico, de los que ganan complejidad con los años, y una referencia histórica para entender la llegada de las variedades internacionales al vino español.</p>",
+    "en": "<p>Mas La Plana comes from a <strong>Cabernet Sauvignon</strong> vineyard next to the farmhouse of the same name in Pacs del Penedès, planted by the Torres family when the variety was still rare in Spain. For a long time it was sold as Gran Coronas Black Label before adopting the estate's name.</p><p>The vineyard lies on gravel and clay soils in central Penedès, with a Mediterranean climate. The wine is aged in French oak barrels for an extended period and then rests in bottle before release. It is a structured, classic-style red that gains complexity with age, and a historic reference for understanding the arrival of international varieties in Spanish wine.</p>",
+    "fr": "<p>Mas La Plana provient d'une vigne de <strong>cabernet-sauvignon</strong> située près de la ferme du même nom, à Pacs del Penedès, plantée par la famille Torres alors que le cépage était encore rare en Espagne. Pendant longtemps, il a été commercialisé sous le nom de Gran Coronas Etiqueta Negra avant d'adopter celui du domaine.</p><p>La vigne repose sur des sols de graves et d'argile du Penedès central, sous climat méditerranéen. Le vin est élevé en barriques de chêne français pendant une période prolongée, puis repose en bouteille avant sa commercialisation. C'est un rouge structuré, de style classique, qui gagne en complexité avec les années, et une référence historique pour comprendre l'arrivée des cépages internationaux dans le vin espagnol.</p>",
+    "it": "<p>Mas La Plana proviene da un vigneto di <strong>Cabernet Sauvignon</strong> accanto alla masseria omonima, a Pacs del Penedès, piantato dalla famiglia Torres quando la varietà era ancora rara in Spagna. Per molto tempo è stato venduto come Gran Coronas Etiqueta Negra, prima di adottare il nome della tenuta.</p><p>Il vigneto si trova su suoli di ghiaia e argilla del Penedès centrale, a clima mediterraneo. Il vino affina in barrique di rovere francese per un periodo prolungato e poi riposa in bottiglia prima dell'uscita. È un rosso strutturato e di stile classico, che guadagna complessità con gli anni, e un riferimento storico per capire l'arrivo delle varietà internazionali nel vino spagnolo.</p>"
+  },
+  "tasting": {
+    "es": "Grosella negra, cassis y notas de pimiento asado, con matices de cedro, tabaco y vainilla de la crianza. Boca estructurada, de tanino firme y final largo.",
+    "en": "Blackcurrant and cassis with notes of roasted pepper, plus hints of cedar, tobacco and vanilla from the oak. Structured palate with firm tannins and a long finish.",
+    "fr": "Cassis et notes de poivron grillé, avec des nuances de cèdre, de tabac et de vanille dues à l'élevage. Bouche structurée, aux tanins fermes et à la finale longue.",
+    "it": "Ribes nero e cassis con note di peperone arrostito, e sfumature di cedro, tabacco e vaniglia dall'affinamento. Bocca strutturata, con tannino deciso e finale lungo."
+  },
+  "pairing": {
+    "es": "Solomillo, cordero, carnes de caza, quesos curados",
+    "en": "Beef tenderloin, lamb, game meats, aged cheeses",
+    "fr": "Filet de bœuf, agneau, gibier, fromages affinés",
+    "it": "Filetto di manzo, agnello, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "17-18 °C, copa tipo Burdeos; decantar si es joven",
+    "en": "17-18 °C, Bordeaux glass; decant when young",
+    "fr": "17-18 °C, verre type Bordeaux ; carafer s'il est jeune",
+    "it": "17-18 °C, calice tipo Bordeaux; decantare se giovane"
+  },
+  "search": "Mas La Plana Torres Cabernet Sauvignon"
+}

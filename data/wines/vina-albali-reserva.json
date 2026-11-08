@@ -1,0 +1,46 @@
+{
+  "slug": "vina-albali-reserva",
+  "name": "Viña Albali Reserva",
+  "winery": "felix-solis",
+  "region": "valdepenas",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": ["tempranillo"],
+  "summary": {
+    "es": "Tinto reserva de tempranillo de Félix Solís en la D.O. Valdepeñas, uno de los reservas españoles más populares y asequibles.",
+    "en": "Tempranillo Reserva from Félix Solís in the Valdepeñas D.O., one of Spain's most popular and affordable Reservas.",
+    "fr": "Rouge Reserva de tempranillo de Félix Solís dans la D.O. Valdepeñas, l'un des Reserva espagnols les plus populaires et abordables.",
+    "it": "Rosso Reserva di Tempranillo di Félix Solís nella D.O. Valdepeñas, uno dei Reserva spagnoli più popolari e accessibili."
+  },
+  "body": {
+    "es": "<p>Viña Albali Reserva es uno de los vinos más difundidos de la D.O. Valdepeñas y de toda la meseta sur. Se elabora con <strong>tempranillo</strong>, conocido en la zona como <em>cencibel</em>, procedente de viñedos de Valdepeñas, en un clima continental de veranos muy calurosos y suelos calizos.</p><p>Como corresponde a la categoría <strong>Reserva</strong>, el vino pasa un periodo de crianza en barricas de roble seguido de reposo en botella antes de salir al mercado. El resultado es un tinto de estilo clásico, con la fruta madura del tempranillo envuelta en notas de crianza como vainilla, especias y tostados. Su amplia distribución y su precio contenido lo han convertido en un vino muy habitual en supermercados y en la mesa cotidiana.</p>",
+    "en": "<p>Viña Albali Reserva is one of the most widely distributed wines of the Valdepeñas D.O. and of the entire southern plateau. It is made from <strong>Tempranillo</strong>, known locally as <em>Cencibel</em>, from Valdepeñas vineyards with a continental climate of very hot summers and limestone soils.</p><p>As befits the <strong>Reserva</strong> category, the wine spends a period ageing in oak barrels followed by rest in bottle before release. The result is a classic-style red, with Tempranillo's ripe fruit wrapped in ageing notes such as vanilla, spice and toast. Its wide distribution and modest price have made it a very common wine in supermarkets and on the everyday table.</p>",
+    "fr": "<p>Viña Albali Reserva est l'un des vins les plus diffusés de la D.O. Valdepeñas et de tout le plateau sud. Il est élaboré avec du <strong>tempranillo</strong>, appelé localement <em>cencibel</em>, issu de vignes de Valdepeñas, sous un climat continental aux étés très chauds et sur des sols calcaires.</p><p>Comme le veut la catégorie <strong>Reserva</strong>, le vin passe une période d'élevage en barriques de chêne, suivie d'un repos en bouteille avant sa commercialisation. Il en résulte un rouge de style classique, où le fruit mûr du tempranillo s'enveloppe de notes d'élevage comme la vanille, les épices et le grillé. Sa large diffusion et son prix modéré en ont fait un vin très courant en grande surface et sur la table de tous les jours.</p>",
+    "it": "<p>Viña Albali Reserva è uno dei vini più diffusi della D.O. Valdepeñas e di tutto l'altopiano meridionale. È prodotto con <strong>Tempranillo</strong>, chiamato localmente <em>Cencibel</em>, da vigneti di Valdepeñas, con un clima continentale di estati molto calde e suoli calcarei.</p><p>Come richiede la categoria <strong>Reserva</strong>, il vino trascorre un periodo di affinamento in barrique di rovere seguito da riposo in bottiglia prima dell'uscita. Il risultato è un rosso di stile classico, con il frutto maturo del Tempranillo avvolto da note di affinamento come vaniglia, spezie e tostature. L'ampia distribuzione e il prezzo contenuto lo hanno reso un vino molto comune nei supermercati e sulla tavola di tutti i giorni.</p>"
+  },
+  "tasting": {
+    "es": "Fruta roja madura, ciruela, vainilla, especias dulces y notas tostadas. Boca suave, de cuerpo medio y tanino redondo.",
+    "en": "Ripe red fruit, plum, vanilla, sweet spice and toasty notes. Smooth, medium-bodied palate with round tannins.",
+    "fr": "Fruits rouges mûrs, prune, vanille, épices douces et notes grillées. Bouche souple, de corps moyen, aux tanins ronds.",
+    "it": "Frutta rossa matura, prugna, vaniglia, spezie dolci e note tostate. Bocca morbida, di medio corpo e tannino rotondo."
+  },
+  "pairing": {
+    "es": "Carnes asadas, guisos, queso manchego, embutidos curados",
+    "en": "Roast meats, stews, Manchego cheese, cured charcuterie",
+    "fr": "Viandes rôties, ragoûts, fromage manchego, charcuterie sèche",
+    "it": "Carni arrosto, stufati, formaggio manchego, salumi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de vino tinto",
+    "en": "16-18 °C, red wine glass",
+    "fr": "16-18 °C, verre à vin rouge",
+    "it": "16-18 °C, calice da vino rosso"
+  },
+  "search": "Viña Albali Reserva Valdepeñas"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "finca-terrerazo",
+  "name": "Finca Terrerazo",
+  "winery": "mustiguillo",
+  "region": "utiel-requena",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": ["bobal"],
+  "summary": {
+    "es": "Bobal de Bodega Mustiguillo, el vino de referencia del Vino de Pago El Terrerazo, en la meseta de Utiel-Requena.",
+    "en": "Bobal from Bodega Mustiguillo, the flagship wine of the El Terrerazo Vino de Pago on the Utiel-Requena plateau.",
+    "fr": "Bobal de Bodega Mustiguillo, le vin de référence du Vino de Pago El Terrerazo, sur le plateau d'Utiel-Requena.",
+    "it": "Bobal di Bodega Mustiguillo, il vino di riferimento del Vino de Pago El Terrerazo, sull'altopiano di Utiel-Requena."
+  },
+  "body": {
+    "es": "<p>Finca Terrerazo es el vino que mejor resume el proyecto de Mustiguillo: demostrar que la <strong>bobal</strong> puede dar tintos finos y con capacidad de envejecimiento. Procede de la finca El Terrerazo, situada en la comarca de Utiel-Requena y reconocida como <strong>Vino de Pago</strong>, por lo que no se etiqueta bajo la D.O. Utiel-Requena sino bajo su propia denominación.</p><p>Las uvas proceden de viñedos a unos 800 metros de altitud, sobre suelos calizos y pedregosos, en un clima continental con fuertes contrastes térmicos. La bobal, de racimos grandes y maduración tardía, aporta color intenso, buena acidez y tanino marcado. El vino se cría en madera de roble con un enfoque que busca pulir el tanino y preservar la fruta, dando un tinto estructurado pero fresco.</p>",
+    "en": "<p>Finca Terrerazo is the wine that best sums up Mustiguillo's project: to show that <strong>Bobal</strong> can produce fine, age-worthy reds. It comes from the El Terrerazo estate, in the Utiel-Requena district, recognised as a <strong>Vino de Pago</strong>, so it is labelled not under the Utiel-Requena D.O. but under its own designation.</p><p>The grapes come from vineyards at about 800 metres, on stony limestone soils, in a continental climate with wide temperature swings. Bobal, with its large bunches and late ripening, brings deep colour, good acidity and marked tannins. The wine is aged in oak with an approach that seeks to polish the tannins and preserve the fruit, giving a structured yet fresh red.</p>",
+    "fr": "<p>Finca Terrerazo est le vin qui résume le mieux le projet de Mustiguillo : démontrer que le <strong>bobal</strong> peut donner des rouges fins et de garde. Il provient du domaine d'El Terrerazo, situé dans la comarque d'Utiel-Requena et reconnu comme <strong>Vino de Pago</strong> ; il n'est donc pas étiqueté sous la D.O. Utiel-Requena, mais sous sa propre appellation.</p><p>Les raisins proviennent de vignes situées à environ 800 mètres d'altitude, sur des sols calcaires et caillouteux, sous un climat continental aux forts écarts de température. Le bobal, aux grosses grappes et à maturation tardive, apporte une couleur intense, une bonne acidité et des tanins marqués. Le vin est élevé en chêne dans une optique qui cherche à polir les tanins et à préserver le fruit, pour donner un rouge structuré mais frais.</p>",
+    "it": "<p>Finca Terrerazo è il vino che meglio riassume il progetto di Mustiguillo: dimostrare che il <strong>Bobal</strong> può dare rossi fini e longevi. Proviene dalla tenuta El Terrerazo, nella zona di Utiel-Requena, riconosciuta come <strong>Vino de Pago</strong>; per questo non è etichettato come D.O. Utiel-Requena ma con la propria denominazione.</p><p>Le uve provengono da vigneti a circa 800 metri di altitudine, su suoli calcarei e sassosi, in un clima continentale con forti escursioni termiche. Il Bobal, dai grappoli grandi e dalla maturazione tardiva, apporta colore intenso, buona acidità e tannino marcato. Il vino affina in rovere con un approccio volto a levigare il tannino e preservare il frutto, dando un rosso strutturato ma fresco.</p>"
+  },
+  "tasting": {
+    "es": "Fruta negra y roja, notas de violeta, hierbas de monte y especias. Boca estructurada, con acidez viva, tanino firme y final largo.",
+    "en": "Black and red fruit, notes of violet, wild herbs and spice. Structured palate with lively acidity, firm tannins and a long finish.",
+    "fr": "Fruits noirs et rouges, notes de violette, d'herbes de garrigue et d'épices. Bouche structurée, à l'acidité vive, aux tanins fermes et à la finale longue.",
+    "it": "Frutta nera e rossa, note di violetta, erbe di macchia e spezie. Bocca strutturata, con acidità vivace, tannino deciso e finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas, embutidos de Requena, cordero, caza, quesos curados",
+    "en": "Red meats, Requena charcuterie, lamb, game, aged cheeses",
+    "fr": "Viandes rouges, charcuterie de Requena, agneau, gibier, fromages affinés",
+    "it": "Carni rosse, salumi di Requena, agnello, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia; decantar si es joven",
+    "en": "16-18 °C, large glass; decant when young",
+    "fr": "16-18 °C, grand verre ; carafer s'il est jeune",
+    "it": "16-18 °C, calice ampio; decantare se giovane"
+  },
+  "search": "Finca Terrerazo Mustiguillo Bobal"
+}

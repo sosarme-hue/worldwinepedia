@@ -1,0 +1,48 @@
+{
+  "slug": "lustau-san-emilio",
+  "name": "Lustau San Emilio",
+  "winery": "lustau",
+  "region": "jerez-xeres-sherry",
+  "country": "espana",
+  "type": "generoso",
+  "category": {
+    "es": "Pedro Ximénez",
+    "en": "Pedro Ximénez",
+    "fr": "Pedro Ximénez",
+    "it": "Pedro Ximénez"
+  },
+  "grapes": [
+    "pedro-ximenez"
+  ],
+  "summary": {
+    "es": "Pedro Ximénez de la gama Solera Reserva de Lustau, vino dulce de uvas pasificadas criado en solera.",
+    "en": "Pedro Ximénez from Lustau's Solera Reserva range, a sweet wine from sun-dried grapes aged in solera.",
+    "fr": "Pedro ximénez de la gamme Solera Reserva de Lustau, vin doux de raisins passerillés élevé en solera.",
+    "it": "Pedro Ximénez della linea Solera Reserva di Lustau, vino dolce da uve appassite affinato in solera."
+  },
+  "body": {
+    "es": "<p>San Emilio es el Pedro Ximénez de la gama Solera Reserva de Lustau. Se elabora con uvas de <strong>Pedro Ximénez</strong> que se dejan secar al sol tras la vendimia, en un proceso de pasificación que reduce su contenido en agua y concentra los azúcares.</p><p>El mosto resultante, muy denso, se encabeza con alcohol vínico y se cría en botas de roble mediante el sistema de <strong>criaderas y solera</strong>. La crianza oxidativa le da un color caoba muy oscuro, casi opaco, y añade a los aromas de fruta pasa notas tostadas y especiadas. Es un vino intensamente dulce, de textura casi de jarabe, que se disfruta en pequeñas cantidades al final de la comida, solo o acompañando postres.</p><p>Gracias a su crianza oxidativa y a su alta concentración, se conserva bien durante semanas una vez abierta la botella, siempre que se guarde bien cerrada y en un lugar fresco.</p>",
+    "en": "<p>San Emilio is the Pedro Ximénez in Lustau's Solera Reserva range. It is made from <strong>Pedro Ximénez</strong> grapes left to dry in the sun after harvest, a raisining process that reduces their water content and concentrates their sugars.</p><p>The resulting very dense must is fortified with grape spirit and aged in oak casks through the <strong>criaderas and solera</strong> system. Oxidative ageing gives it a very dark, almost opaque mahogany colour and adds toasty, spicy notes to the dried-fruit aromas. It is an intensely sweet wine with an almost syrupy texture, enjoyed in small amounts at the end of a meal, on its own or with desserts.</p><p>Thanks to its oxidative ageing and high concentration, it keeps well for weeks once the bottle is opened, provided it is tightly closed and stored somewhere cool.</p>",
+    "fr": "<p>San Emilio est le pedro ximénez de la gamme Solera Reserva de Lustau. Il est élaboré avec des raisins de <strong>pedro ximénez</strong> laissés sécher au soleil après la vendange, un passerillage qui réduit leur teneur en eau et concentre les sucres.</p><p>Le moût obtenu, très dense, est muté à l'alcool vinique et élevé en fûts de chêne selon le système des <strong>criaderas et solera</strong>. L'élevage oxydatif lui donne une couleur acajou très sombre, presque opaque, et ajoute aux arômes de raisins secs des notes grillées et épicées. C'est un vin intensément doux, à la texture presque sirupeuse, que l'on apprécie en petite quantité en fin de repas, seul ou avec un dessert.</p><p>Grâce à son élevage oxydatif et à sa forte concentration, il se conserve bien pendant des semaines une fois la bouteille ouverte, à condition de la garder bien fermée et au frais.</p>",
+    "it": "<p>San Emilio è il Pedro Ximénez della linea Solera Reserva di Lustau. È prodotto con uve di <strong>Pedro Ximénez</strong> lasciate seccare al sole dopo la vendemmia, un appassimento che ne riduce il contenuto d'acqua e concentra gli zuccheri.</p><p>Il mosto ottenuto, molto denso, viene fortificato con alcol di vino e affinato in botti di rovere secondo il sistema di <strong>criaderas e solera</strong>. L'affinamento ossidativo gli conferisce un colore mogano molto scuro, quasi impenetrabile, e aggiunge agli aromi di frutta passa note tostate e speziate. È un vino intensamente dolce, dalla consistenza quasi sciropposa, da gustare in piccole quantità a fine pasto, da solo o con i dessert.</p><p>Grazie all'affinamento ossidativo e all'alta concentrazione, si conserva bene per settimane una volta aperta la bottiglia, purché ben chiusa e in un luogo fresco.</p>"
+  },
+  "tasting": {
+    "es": "Pasas, higos, dátiles, regaliz y notas de café tostado. Boca muy dulce, untuosa y persistente.",
+    "en": "Raisins, figs, dates, liquorice and notes of roasted coffee. Very sweet, unctuous and persistent palate.",
+    "fr": "Raisins secs, figues, dattes, réglisse et notes de café torréfié. Bouche très douce, onctueuse et persistante.",
+    "it": "Uva passa, fichi, datteri, liquirizia e note di caffè tostato. Bocca molto dolce, untuosa e persistente."
+  },
+  "pairing": {
+    "es": "Helado, tartas de chocolate, quesos azules, foie gras",
+    "en": "Ice cream, chocolate cakes, blue cheeses, foie gras",
+    "fr": "Glace, gâteaux au chocolat, fromages à pâte persillée, foie gras",
+    "it": "Gelato, torte al cioccolato, formaggi erborinati, foie gras"
+  },
+  "serve": {
+    "es": "12-14 °C, copa pequeña de vino dulce",
+    "en": "12-14 °C, small dessert wine glass",
+    "fr": "12-14 °C, petit verre à vin doux",
+    "it": "12-14 °C, piccolo calice da vino dolce"
+  },
+  "search": "Lustau San Emilio Pedro Ximénez"
+}

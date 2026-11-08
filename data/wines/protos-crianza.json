@@ -1,0 +1,48 @@
+{
+  "slug": "protos-crianza",
+  "name": "Protos Crianza",
+  "winery": "protos",
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Crianza",
+    "en": "Crianza",
+    "fr": "Crianza",
+    "it": "Crianza"
+  },
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Crianza de Tinto Fino de Bodegas Protos, uno de los Ribera del Duero más extendidos en el mercado.",
+    "en": "Tinto Fino crianza from Bodegas Protos, one of the most widely available Ribera del Duero wines.",
+    "fr": "Crianza de tinto fino de Bodegas Protos, l’un des Ribera del Duero les plus répandus sur le marché.",
+    "it": "Crianza di Tinto Fino di Bodegas Protos, uno dei Ribera del Duero più diffusi sul mercato."
+  },
+  "body": {
+    "es": "<p>El Protos Crianza es uno de los vinos más conocidos de la bodega de Peñafiel. Se elabora exclusivamente con Tinto Fino (Tempranillo), procedente de viñedos propios y de viticultores de la zona.</p><p>Tras la fermentación, el vino se cría en barricas de roble durante al menos doce meses, tal como exige la categoría Crianza en la D.O. Ribera del Duero, y completa su evolución en botella antes de salir al mercado.</p><p>Es un tinto de Ribera clásico y equilibrado, con fruta madura, notas de crianza y una estructura media, que se encuentra con facilidad en tiendas y restaurantes. Puede disfrutarse en sus primeros años tras la comercialización.</p><p>La Tinto Fino de la Ribera del Duero, adaptada a un clima continental extremo y a una altitud elevada, da uvas de piel gruesa y buen color, que se prestan bien a la crianza en barrica. El Crianza es la categoría más extendida de la denominación y la que mejor representa su estilo más habitual.</p>",
+    "en": "<p>Protos Crianza is one of the Peñafiel winery’s best-known wines. It is made exclusively from Tinto Fino (Tempranillo), from the winery’s own vineyards and from local growers.</p><p>After fermentation, the wine is aged in oak barrels for at least twelve months, as required for the Crianza category in the Ribera del Duero D.O., and completes its development in bottle before release.</p><p>It is a classic, balanced Ribera red, with ripe fruit, ageing notes and medium structure, easy to find in shops and restaurants. It can be enjoyed in its first few years after release.</p><p>Ribera del Duero’s Tinto Fino, adapted to an extreme continental climate and high altitude, yields thick-skinned, deeply coloured grapes well suited to barrel ageing. Crianza is the appellation’s most common category and the one that best represents its everyday style.</p>",
+    "fr": "<p>Le Protos Crianza est l’un des vins les plus connus de la bodega de Peñafiel. Il est élaboré exclusivement avec du tinto fino (tempranillo), issu des vignes de la maison et de viticulteurs de la zone.</p><p>Après la fermentation, le vin est élevé en barriques de chêne pendant au moins douze mois, comme l’exige la catégorie Crianza dans la D.O. Ribera del Duero, puis achève son évolution en bouteille avant sa commercialisation.</p><p>C’est un rouge de Ribera classique et équilibré, au fruit mûr, aux notes d’élevage et à la structure moyenne, facile à trouver chez les cavistes et au restaurant. Il s’apprécie dans ses premières années après sa mise en vente.</p><p>Le tinto fino de la Ribera del Duero, adapté à un climat continental extrême et à une altitude élevée, donne des raisins à peau épaisse et bien colorés, qui se prêtent bien à l’élevage en barrique. Le Crianza est la catégorie la plus répandue de l’appellation et celle qui en représente le mieux le style courant.</p>",
+    "it": "<p>Il Protos Crianza è uno dei vini più noti della cantina di Peñafiel. È prodotto esclusivamente con Tinto Fino (Tempranillo), da vigneti propri e di viticoltori della zona.</p><p>Dopo la fermentazione, il vino affina in botti di rovere per almeno dodici mesi, come richiesto dalla categoria Crianza nella D.O. Ribera del Duero, e completa la sua evoluzione in bottiglia prima di uscire sul mercato.</p><p>È un rosso di Ribera classico ed equilibrato, con frutto maturo, note di affinamento e struttura media, facile da trovare in enoteche e ristoranti. Si può gustare nei primi anni dopo la commercializzazione.</p><p>Il Tinto Fino della Ribera del Duero, adattato a un clima continentale estremo e a un’altitudine elevata, dà uve dalla buccia spessa e dal buon colore, adatte all’affinamento in botte. Il Crianza è la categoria più diffusa della denominazione e quella che ne rappresenta meglio lo stile abituale.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de fruta negra y roja madura, regaliz, vainilla y tostados. En boca es sabroso, de cuerpo medio, con tanino presente pero redondo.",
+    "en": "Deep ruby. Aromas of ripe black and red fruit, liquorice, vanilla and toast. Flavourful and medium-bodied on the palate, with present but rounded tannins.",
+    "fr": "Rubis intense. Arômes de fruits noirs et rouges mûrs, de réglisse, de vanille et de grillé. En bouche, savoureux, de corps moyen, aux tanins présents mais ronds.",
+    "it": "Rubino intenso. Aromi di frutta nera e rossa matura, liquirizia, vaniglia e tostatura. In bocca è saporito, di medio corpo, con tannino presente ma rotondo."
+  },
+  "pairing": {
+    "es": "Carnes asadas, embutidos, guisos, quesos de oveja semicurados",
+    "en": "Roast meat, charcuterie, stews, semi-aged sheep’s cheeses",
+    "fr": "Viandes rôties, charcuterie, ragoûts, fromages de brebis mi-affinés",
+    "it": "Carni arrosto, salumi, stufati, pecorini semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Protos Crianza Ribera del Duero"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "tio-pepe",
+  "name": "Tío Pepe",
+  "winery": "gonzalez-byass",
+  "region": "jerez-xeres-sherry",
+  "country": "espana",
+  "type": "generoso",
+  "category": {
+    "es": "Fino",
+    "en": "Fino",
+    "fr": "Fino",
+    "it": "Fino"
+  },
+  "grapes": ["palomino"],
+  "summary": {
+    "es": "El fino más conocido de Jerez, elaborado por González Byass con palomino y criado bajo velo de flor en el sistema de criaderas y solera.",
+    "en": "The best-known fino from Jerez, made by González Byass from Palomino and aged under flor in the criaderas and solera system.",
+    "fr": "Le fino le plus connu de Jerez, élaboré par González Byass avec du palomino et élevé sous voile de flor selon le système des criaderas et solera.",
+    "it": "Il fino più noto di Jerez, prodotto da González Byass con Palomino e affinato sotto velo di flor nel sistema di criaderas e solera."
+  },
+  "body": {
+    "es": "<p>Tío Pepe es el vino emblemático de González Byass, bautizado en honor de José Ángel de la Peña, tío del fundador. Es un <strong>fino</strong>, el estilo seco de crianza biológica característico de Jerez de la Frontera, elaborado con uva <strong>palomino</strong> de viñedos sobre suelos de albariza.</p><p>Tras la fermentación, el vino se encabeza ligeramente con alcohol vínico y pasa a las botas del sistema de <strong>criaderas y solera</strong>. Allí, a lo largo de varios años, se desarrolla sobre su superficie el <strong>velo de flor</strong>, una capa de levaduras que lo protege del oxígeno y le aporta sus aromas característicos. El resultado es un vino muy seco, pálido y punzante, que se recomienda beber fresco y en un plazo razonable una vez abierta la botella. La casa comercializa también versiones <em>en rama</em>, con filtración mínima.</p>",
+    "en": "<p>Tío Pepe is González Byass's flagship wine, named in honour of José Ángel de la Peña, the founder's uncle. It is a <strong>fino</strong>, the dry, biologically aged style characteristic of Jerez de la Frontera, made from <strong>Palomino</strong> grapes from vineyards on albariza soils.</p><p>After fermentation the wine is lightly fortified with grape spirit and goes into the casks of the <strong>criaderas and solera</strong> system. There, over several years, a <strong>veil of flor</strong> grows on its surface: a layer of yeast that protects it from oxygen and gives its characteristic aromas. The result is a very dry, pale, pungent wine, best served chilled and drunk within a reasonable time once the bottle is opened. The house also releases <em>en rama</em> versions with minimal filtration.</p>",
+    "fr": "<p>Tío Pepe est le vin emblématique de González Byass, baptisé en l'honneur de José Ángel de la Peña, oncle du fondateur. C'est un <strong>fino</strong>, le style sec à élevage biologique caractéristique de Jerez de la Frontera, élaboré avec du raisin <strong>palomino</strong> issu de vignes sur sols d'albariza.</p><p>Après la fermentation, le vin est légèrement muté à l'alcool vinique et passe dans les fûts du système des <strong>criaderas et solera</strong>. Là, pendant plusieurs années, se développe à sa surface le <strong>voile de flor</strong>, une couche de levures qui le protège de l'oxygène et lui donne ses arômes caractéristiques. Il en résulte un vin très sec, pâle et piquant, à servir frais et à boire dans un délai raisonnable une fois la bouteille ouverte. La maison commercialise aussi des versions <em>en rama</em>, à filtration minimale.</p>",
+    "it": "<p>Tío Pepe è il vino simbolo di González Byass, battezzato in onore di José Ángel de la Peña, zio del fondatore. È un <strong>fino</strong>, lo stile secco ad affinamento biologico tipico di Jerez de la Frontera, prodotto con uve <strong>Palomino</strong> da vigneti su suoli di albariza.</p><p>Dopo la fermentazione il vino viene leggermente fortificato con alcol di vino e passa nelle botti del sistema di <strong>criaderas e solera</strong>. Lì, nel corso di diversi anni, si sviluppa sulla sua superficie il <strong>velo di flor</strong>, uno strato di lieviti che lo protegge dall'ossigeno e gli conferisce i suoi aromi caratteristici. Il risultato è un vino molto secco, pallido e pungente, da servire fresco e da bere in tempi ragionevoli una volta aperta la bottiglia. La casa commercializza anche versioni <em>en rama</em>, con filtrazione minima.</p>"
+  },
+  "tasting": {
+    "es": "Notas de almendra, levadura, masa de pan y matices salinos y herbáceos. Boca muy seca, ligera y punzante, con final salino.",
+    "en": "Notes of almond, yeast, bread dough and saline, herbal hints. Very dry, light, pungent palate with a saline finish.",
+    "fr": "Notes d'amande, de levure, de pâte à pain et nuances salines et herbacées. Bouche très sèche, légère et piquante, finale saline.",
+    "it": "Note di mandorla, lievito, pasta di pane e sfumature saline ed erbacee. Bocca molto secca, leggera e pungente, con finale salino."
+  },
+  "pairing": {
+    "es": "Jamón ibérico, aceitunas, almendras, pescaíto frito, marisco",
+    "en": "Iberian ham, olives, almonds, fried fish, shellfish",
+    "fr": "Jambon ibérique, olives, amandes, petite friture, fruits de mer",
+    "it": "Prosciutto iberico, olive, mandorle, frittura di pesce, frutti di mare"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de vino blanco",
+    "en": "6-8 °C, white wine glass",
+    "fr": "6-8 °C, verre à vin blanc",
+    "it": "6-8 °C, calice da vino bianco"
+  },
+  "search": "Tío Pepe Fino González Byass"
+}

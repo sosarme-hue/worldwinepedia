@@ -1,0 +1,41 @@
+{
+  "slug": "vina-tondonia-reserva-blanco",
+  "name": "Viña Tondonia Reserva Blanco",
+  "winery": "lopez-de-heredia",
+  "region": "rioja",
+  "country": "espana",
+  "type": "blanco",
+  "category": {"es": "Reserva", "en": "Reserva", "fr": "Reserva", "it": "Reserva"},
+  "grapes": ["macabeo", "malvasia"],
+  "summary": {
+    "es": "Blanco de larga crianza en barrica de López de Heredia, elaborado con Viura y Malvasía, uno de los ejemplos más conocidos del blanco clásico de Rioja.",
+    "en": "Long barrel-aged white from López de Heredia, made from Viura and Malvasía, one of the best-known examples of classic white Rioja.",
+    "fr": "Blanc à long élevage en barrique de López de Heredia, issu de viura et de malvasía, l’un des exemples les plus connus du Rioja blanc classique.",
+    "it": "Bianco a lungo affinamento in botte di López de Heredia, prodotto con Viura e Malvasía, uno degli esempi più noti del Rioja bianco classico."
+  },
+  "body": {
+    "es": "<p>El Viña Tondonia Reserva Blanco procede, como su homólogo tinto, de la finca Tondonia, junto al Ebro. Se elabora principalmente con Viura (nombre riojano de la Macabeo), con una pequeña proporción de Malvasía.</p><p>Tras la fermentación, el vino permanece varios años en barricas de roble usadas, con trasiegos manuales, y después reposa en botella en los calados de la bodega antes de salir al mercado. Esta crianza prolongada, poco habitual en los blancos actuales, le da un perfil evolucionado y complejo, con notas oxidativas suaves que conviven con una acidez todavía marcada.</p><p>Representa un estilo histórico de blanco riojano que hoy elaboran muy pocas bodegas. Gracias a su acidez, es un vino con una notable capacidad de envejecimiento, que suele evolucionar durante muchos años en botella.</p>",
+    "en": "<p>Viña Tondonia Reserva Blanco comes, like its red counterpart, from the Tondonia estate beside the Ebro. It is made mainly from Viura (the Rioja name for Macabeo), with a small proportion of Malvasía.</p><p>After fermentation the wine spends several years in used oak barrels, with manual racking, and then rests in bottle in the winery’s cellars before release. This extended ageing, unusual among today’s whites, gives it an evolved, complex profile, with gentle oxidative notes alongside still-pronounced acidity.</p><p>It represents a historic style of white Rioja that very few wineries make today. Thanks to its acidity, it has remarkable ageing potential and usually continues to develop for many years in bottle.</p>",
+    "fr": "<p>Le Viña Tondonia Reserva Blanco provient, comme son homologue rouge, du domaine de Tondonia, au bord de l’Èbre. Il est élaboré principalement avec de la viura (nom riojan du macabeu), avec une petite proportion de malvasía.</p><p>Après la fermentation, le vin reste plusieurs années en barriques de chêne usagées, avec des soutirages manuels, puis repose en bouteille dans les chais de la maison avant sa commercialisation. Cet élevage prolongé, rare parmi les blancs actuels, lui confère un profil évolué et complexe, avec de douces notes oxydatives associées à une acidité encore marquée.</p><p>Il représente un style historique de Rioja blanc que très peu de bodegas élaborent aujourd’hui. Grâce à son acidité, c’est un vin au remarquable potentiel de garde, qui continue généralement d’évoluer pendant de longues années en bouteille.</p>",
+    "it": "<p>Il Viña Tondonia Reserva Blanco proviene, come il suo omologo rosso, dalla tenuta Tondonia, accanto all’Ebro. È prodotto principalmente con Viura (nome riojano del Macabeo), con una piccola quota di Malvasía.</p><p>Dopo la fermentazione il vino resta diversi anni in botti di rovere usate, con travasi manuali, e riposa poi in bottiglia nelle cantine della casa prima di essere commercializzato. Questo lungo affinamento, insolito tra i bianchi attuali, gli conferisce un profilo evoluto e complesso, con lievi note ossidative accanto a un’acidità ancora marcata.</p><p>Rappresenta uno stile storico di Rioja bianco che oggi pochissime cantine producono. Grazie alla sua acidità, è un vino con una notevole capacità di invecchiamento, che di solito continua a evolvere per molti anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Color dorado. Aromas de fruta blanca madura, frutos secos, cera, miel y notas de crianza. En boca es seco, con buena acidez, textura untuosa y final largo.",
+    "en": "Golden colour. Aromas of ripe white fruit, nuts, wax, honey and ageing notes. Dry on the palate, with good acidity, an unctuous texture and a long finish.",
+    "fr": "Robe dorée. Arômes de fruits blancs mûrs, de fruits secs, de cire, de miel et notes d’élevage. En bouche, sec, avec une bonne acidité, une texture onctueuse et une finale longue.",
+    "it": "Colore dorato. Aromi di frutta bianca matura, frutta secca, cera, miele e note di affinamento. In bocca è secco, con buona acidità, consistenza untuosa e finale lungo."
+  },
+  "pairing": {
+    "es": "Pescados al horno, bacalao, aves, setas, quesos curados",
+    "en": "Baked fish, salt cod, poultry, mushrooms, aged cheeses",
+    "fr": "Poissons au four, morue, volailles, champignons, fromages affinés",
+    "it": "Pesce al forno, baccalà, pollame, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "11-13 °C, copa amplia de blanco",
+    "en": "11-13 °C, large white wine glass",
+    "fr": "11-13 °C, grand verre à vin blanc",
+    "it": "11-13 °C, calice ampio da bianco"
+  },
+  "search": "Viña Tondonia Reserva Blanco López de Heredia"
+}

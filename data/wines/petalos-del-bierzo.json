@@ -1,0 +1,41 @@
+{
+  "slug": "petalos-del-bierzo",
+  "name": "Pétalos del Bierzo",
+  "winery": "descendientes-de-j-palacios",
+  "region": "bierzo",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": ["mencia"],
+  "summary": {
+    "es": "Tinto de Mencía de Descendientes de J. Palacios, el vino de entrada de la casa y uno de los Bierzo más difundidos.",
+    "en": "Mencía red from Descendientes de J. Palacios, the house’s entry-level wine and one of the most widely available Bierzo wines.",
+    "fr": "Rouge de mencía de Descendientes de J. Palacios, le vin d’entrée de la maison et l’un des Bierzo les plus diffusés.",
+    "it": "Rosso di Mencía di Descendientes de J. Palacios, il vino d’ingresso della casa e uno dei Bierzo più diffusi."
+  },
+  "body": {
+    "es": "<p>Pétalos del Bierzo es el vino de base de la jerarquía de Descendientes de J. Palacios. Se elabora principalmente con Mencía, la variedad tinta emblemática del Bierzo, procedente de viñedos en ladera sobre suelos de pizarra del entorno de Corullón y de otras parcelas de la zona, incluidas viñas de cierta edad.</p><p>La elaboración busca preservar la frescura y la expresión floral de la variedad. Tras la fermentación, el vino se cría durante unos meses en barricas y depósitos de madera, sin que la crianza llegue a dominar la fruta.</p><p>Es un tinto de cuerpo medio, aromático y fresco, que ofrece una introducción asequible al estilo de la bodega y al carácter de la Mencía de ladera del Bierzo. Puede disfrutarse en sus primeros años.</p>",
+    "en": "<p>Pétalos del Bierzo is the foundation of the Descendientes de J. Palacios hierarchy. It is made mainly from Mencía, Bierzo’s emblematic red variety, from hillside vineyards on slate soils around Corullón and other plots in the area, including vines of some age.</p><p>Winemaking aims to preserve the variety’s freshness and floral expression. After fermentation the wine is aged for some months in wooden barrels and vats, without the oak dominating the fruit.</p><p>It is a medium-bodied, aromatic and fresh red that offers an affordable introduction to the winery’s style and to the character of hillside Mencía from Bierzo. It can be enjoyed in its first few years.</p>",
+    "fr": "<p>Pétalos del Bierzo est la base de la hiérarchie de Descendientes de J. Palacios. Il est élaboré principalement avec de la mencía, le cépage rouge emblématique du Bierzo, issue de vignes en coteaux sur sols de schiste autour de Corullón et d’autres parcelles de la zone, dont des vignes d’un certain âge.</p><p>La vinification vise à préserver la fraîcheur et l’expression florale du cépage. Après la fermentation, le vin est élevé quelques mois en barriques et en cuves de bois, sans que l’élevage ne domine le fruit.</p><p>C’est un rouge de corps moyen, aromatique et frais, qui offre une introduction abordable au style de la maison et au caractère de la mencía de coteaux du Bierzo. Il s’apprécie dans ses premières années.</p>",
+    "it": "<p>Pétalos del Bierzo è la base della gerarchia di Descendientes de J. Palacios. È prodotto principalmente con Mencía, la varietà rossa emblematica del Bierzo, da vigneti in pendenza su suoli di ardesia intorno a Corullón e da altre parcelle della zona, comprese vigne di una certa età.</p><p>La vinificazione mira a preservare la freschezza e l’espressione floreale della varietà. Dopo la fermentazione il vino affina per alcuni mesi in botti e tini di legno, senza che l’affinamento sovrasti il frutto.</p><p>È un rosso di medio corpo, aromatico e fresco, che offre un’introduzione accessibile allo stile della cantina e al carattere della Mencía di collina del Bierzo. Si può gustare nei primi anni.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota de intensidad media con reflejos violáceos. Aromas de fruta roja y negra fresca, violeta, notas herbáceas y minerales. En boca es fresco, de cuerpo medio y tanino fino.",
+    "en": "Medium-intensity cherry red with violet highlights. Aromas of fresh red and black fruit, violet, herbal and mineral notes. Fresh and medium-bodied on the palate, with fine tannins.",
+    "fr": "Rouge cerise d’intensité moyenne aux reflets violacés. Arômes de fruits rouges et noirs frais, de violette, notes herbacées et minérales. En bouche, frais, de corps moyen et aux tanins fins.",
+    "it": "Rosso ciliegia di media intensità con riflessi violacei. Aromi di frutta rossa e nera fresca, violetta, note erbacee e minerali. In bocca è fresco, di medio corpo e con tannino fine."
+  },
+  "pairing": {
+    "es": "Botillo y embutidos, carnes blancas, setas, legumbres, pulpo a la gallega",
+    "en": "Botillo and charcuterie, white meat, mushrooms, pulses, Galician-style octopus",
+    "fr": "Botillo et charcuterie, viandes blanches, champignons, légumineuses, poulpe à la galicienne",
+    "it": "Botillo e salumi, carni bianche, funghi, legumi, polpo alla galiziana"
+  },
+  "serve": {
+    "es": "14-16 °C, copa de vino tinto",
+    "en": "14-16 °C, red wine glass",
+    "fr": "14-16 °C, verre à vin rouge",
+    "it": "14-16 °C, calice da vino rosso"
+  },
+  "search": "Pétalos del Bierzo Descendientes de J. Palacios"
+}

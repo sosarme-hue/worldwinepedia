@@ -1,0 +1,44 @@
+{
+  "slug": "acustic-tinto",
+  "name": "Acústic",
+  "winery": "acustic-celler",
+  "region": "montsant",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha",
+    "carinena"
+  ],
+  "summary": {
+    "es": "Tinto de Acústic Celler elaborado con garnacha y cariñena de viñas viejas del Montsant, de perfil mediterráneo y crianza moderada.",
+    "en": "Acústic Celler red made from old-vine Garnacha and Carignan from Montsant, Mediterranean in profile with moderate oak ageing.",
+    "fr": "Rouge d'Acústic Celler élaboré avec du grenache et du carignan de vieilles vignes du Montsant, de profil méditerranéen et à élevage modéré.",
+    "it": "Rosso di Acústic Celler prodotto con Grenache e Carignano di vecchie vigne del Montsant, dal profilo mediterraneo e con affinamento moderato."
+  },
+  "body": {
+    "es": "<p>Acústic es el vino que da nombre al proyecto de Albert Jané en el Montsant. Se elabora con <strong>garnacha</strong> y <strong>cariñena</strong> de cepas viejas, las dos variedades tradicionales de la comarca, procedentes de pequeñas parcelas con suelos variados.</p><p>La idea del vino, como sugiere su nombre, es ofrecer una expresión directa del viñedo, sin artificios. La uva se vendimia a mano y el vino se cría durante un periodo moderado en barricas de roble, en buena parte usadas, para que la madera no enmascare la fruta. Es un tinto que combina la madurez del clima mediterráneo con frescura y que muestra por qué el Montsant se ha convertido en una alternativa interesante y más asequible al vecino Priorat.</p><p>Puede disfrutarse desde su salida al mercado, aunque suele ganar en armonía con algunos años de guarda en buenas condiciones; airearlo unos minutos antes de servir ayuda a que se exprese mejor.</p>",
+    "en": "<p>Acústic is the wine that gives its name to Albert Jané's project in Montsant. It is made from old-vine <strong>Garnacha</strong> and <strong>Carignan</strong>, the district's two traditional varieties, from small plots with varied soils.</p><p>As the name suggests, the idea is to offer a direct expression of the vineyard, without artifice. The grapes are hand-harvested and the wine is aged for a moderate period in oak barrels, many of them used, so that the wood does not mask the fruit. It is a red that combines the ripeness of a Mediterranean climate with freshness and shows why Montsant has become an interesting, more affordable alternative to neighbouring Priorat.</p><p>It can be enjoyed on release, although it usually gains in harmony with a few years of cellaring in good conditions; airing it for a few minutes before serving helps it express itself better.</p>",
+    "fr": "<p>Acústic est le vin qui donne son nom au projet d'Albert Jané dans le Montsant. Il est élaboré avec du <strong>grenache</strong> et du <strong>carignan</strong> de vieilles vignes, les deux cépages traditionnels de la région, provenant de petites parcelles aux sols variés.</p><p>L'idée du vin, comme le suggère son nom, est d'offrir une expression directe du vignoble, sans artifice. Le raisin est vendangé à la main et le vin est élevé pendant une durée modérée en barriques de chêne, en bonne partie usagées, afin que le bois ne masque pas le fruit. C'est un rouge qui associe la maturité du climat méditerranéen à la fraîcheur et montre pourquoi le Montsant est devenu une alternative intéressante et plus abordable au Priorat voisin.</p><p>Il peut s'apprécier dès sa commercialisation, mais gagne généralement en harmonie après quelques années de garde dans de bonnes conditions ; l'aérer quelques minutes avant le service l'aide à mieux s'exprimer.</p>",
+    "it": "<p>Acústic è il vino che dà il nome al progetto di Albert Jané nel Montsant. È prodotto con <strong>Grenache</strong> e <strong>Carignano</strong> di vecchie viti, le due varietà tradizionali della zona, da piccole parcelle con suoli diversi.</p><p>L'idea del vino, come suggerisce il nome, è offrire un'espressione diretta del vigneto, senza artifici. L'uva è vendemmiata a mano e il vino affina per un periodo moderato in barrique di rovere, in buona parte usate, perché il legno non copra il frutto. È un rosso che unisce la maturità del clima mediterraneo alla freschezza e mostra perché il Montsant sia diventato un'alternativa interessante e più accessibile al vicino Priorat.</p><p>Si può gustare fin dall'uscita sul mercato, anche se di solito guadagna in armonia con qualche anno di cantina in buone condizioni; arieggiarlo qualche minuto prima di servirlo lo aiuta a esprimersi meglio.</p>"
+  },
+  "tasting": {
+    "es": "Fruta roja y negra madura, notas de monte bajo y un toque especiado. Boca equilibrada, de tanino suave y final fresco.",
+    "en": "Ripe red and black fruit, notes of scrubland herbs and a touch of spice. Balanced palate with soft tannins and a fresh finish.",
+    "fr": "Fruits rouges et noirs mûrs, notes de garrigue et touche épicée. Bouche équilibrée, aux tanins souples et à la finale fraîche.",
+    "it": "Frutta rossa e nera matura, note di macchia mediterranea e un tocco speziato. Bocca equilibrata, con tannino morbido e finale fresco."
+  },
+  "pairing": {
+    "es": "Carnes a la parrilla, embutidos, platos de legumbres, quesos de oveja",
+    "en": "Grilled meats, charcuterie, pulse dishes, sheep's cheeses",
+    "fr": "Viandes grillées, charcuterie, plats de légumineuses, fromages de brebis",
+    "it": "Carni alla griglia, salumi, piatti di legumi, formaggi di pecora"
+  },
+  "serve": {
+    "es": "15-17 °C, copa amplia",
+    "en": "15-17 °C, large glass",
+    "fr": "15-17 °C, grand verre",
+    "it": "15-17 °C, calice ampio"
+  },
+  "search": "Acústic Celler Montsant tinto"
+}

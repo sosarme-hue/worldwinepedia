@@ -1,0 +1,49 @@
+{
+  "slug": "enate-crianza",
+  "name": "Enate Crianza",
+  "winery": "enate",
+  "region": "somontano",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Crianza",
+    "en": "Crianza",
+    "fr": "Crianza",
+    "it": "Crianza"
+  },
+  "grapes": [
+    "tempranillo",
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "Tinto de crianza de Enate que combina Tempranillo y Cabernet Sauvignon, representativo del estilo moderno del Somontano.",
+    "en": "Enate crianza red combining Tempranillo and Cabernet Sauvignon, representative of Somontano’s modern style.",
+    "fr": "Rouge crianza d’Enate associant tempranillo et cabernet-sauvignon, représentatif du style moderne du Somontano.",
+    "it": "Rosso crianza di Enate che unisce Tempranillo e Cabernet Sauvignon, rappresentativo dello stile moderno del Somontano."
+  },
+  "body": {
+    "es": "<p>El Enate Crianza refleja la vocación del Somontano de combinar variedades españolas e internacionales. Se elabora con Tempranillo y Cabernet Sauvignon de viñedos propios en el entorno de Salas Bajas, en la provincia de Huesca.</p><p>El vino se cría en barricas de roble antes de completar su evolución en botella, de acuerdo con los requisitos de la categoría Crianza. La Tempranillo aporta fruta roja y redondez, mientras que la Cabernet Sauvignon suma estructura y notas de fruta negra.</p><p>Es un tinto equilibrado y de precio moderado, que se encuentra con facilidad y permite conocer el estilo de los tintos del Somontano. Puede disfrutarse en sus primeros años.</p><p>La Denominación de Origen Somontano autoriza tanto variedades tradicionales de Aragón como otras de origen francés, y esa combinación es una de las señas de identidad de la zona. En este vino, el ensamblaje busca sumar el carácter de cada uva en un tinto de perfil afrutado y equilibrado.</p>",
+    "en": "<p>Enate Crianza reflects Somontano’s tendency to combine Spanish and international varieties. It is made from Tempranillo and Cabernet Sauvignon from the winery’s own vineyards around Salas Bajas, in the province of Huesca.</p><p>The wine is aged in oak barrels before completing its development in bottle, in line with the requirements of the Crianza category. Tempranillo brings red fruit and roundness, while Cabernet Sauvignon adds structure and black fruit notes.</p><p>It is a balanced, moderately priced red that is easy to find and offers a good introduction to the style of Somontano reds. It can be enjoyed in its first few years.</p><p>The Somontano Designation of Origin permits both traditional Aragonese varieties and others of French origin, and that combination is one of the area’s hallmarks. In this wine, the blend seeks to bring together the character of each grape in a fruity, balanced red.</p>",
+    "fr": "<p>L’Enate Crianza reflète la vocation du Somontano à associer cépages espagnols et internationaux. Il est élaboré avec du tempranillo et du cabernet-sauvignon issus des vignes de la maison autour de Salas Bajas, dans la province de Huesca.</p><p>Le vin est élevé en barriques de chêne avant d’achever son évolution en bouteille, conformément aux exigences de la catégorie Crianza. Le tempranillo apporte fruits rouges et rondeur, tandis que le cabernet-sauvignon ajoute structure et notes de fruits noirs.</p><p>C’est un rouge équilibré et à prix modéré, facile à trouver, qui permet de découvrir le style des rouges du Somontano. Il s’apprécie dans ses premières années.</p><p>L’appellation d’origine Somontano autorise aussi bien des cépages traditionnels d’Aragon que d’autres d’origine française, et cette combinaison est l’un des traits distinctifs de la zone. Dans ce vin, l’assemblage cherche à réunir le caractère de chaque cépage dans un rouge fruité et équilibré.</p>",
+    "it": "<p>L’Enate Crianza riflette la vocazione del Somontano a unire varietà spagnole e internazionali. È prodotto con Tempranillo e Cabernet Sauvignon da vigneti di proprietà intorno a Salas Bajas, in provincia di Huesca.</p><p>Il vino affina in botti di rovere prima di completare la sua evoluzione in bottiglia, secondo i requisiti della categoria Crianza. Il Tempranillo apporta frutta rossa e rotondità, mentre il Cabernet Sauvignon aggiunge struttura e note di frutta nera.</p><p>È un rosso equilibrato e dal prezzo moderato, facile da trovare, che permette di conoscere lo stile dei rossi del Somontano. Si può gustare nei primi anni.</p><p>La Denominazione di Origine Somontano ammette sia varietà tradizionali aragonesi sia altre di origine francese, e questa combinazione è uno dei tratti distintivi della zona. In questo vino l’assemblaggio cerca di sommare il carattere di ciascuna uva in un rosso fruttato ed equilibrato.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de fruta roja y negra madura, pimiento asado, especias y notas tostadas. En boca es de cuerpo medio, con tanino suave y buena acidez.",
+    "en": "Deep ruby. Aromas of ripe red and black fruit, roasted pepper, spice and toasty notes. Medium-bodied on the palate, with soft tannins and good acidity.",
+    "fr": "Rubis intense. Arômes de fruits rouges et noirs mûrs, de poivron grillé, d’épices et notes grillées. En bouche, corps moyen, tanins souples et bonne acidité.",
+    "it": "Rubino intenso. Aromi di frutta rossa e nera matura, peperone arrostito, spezie e note tostate. In bocca ha corpo medio, tannino morbido e buona acidità."
+  },
+  "pairing": {
+    "es": "Carnes a la brasa, ternasco, embutidos, pasta con salsas de carne, quesos semicurados",
+    "en": "Chargrilled meat, Aragonese ternasco lamb, charcuterie, pasta with meat sauces, semi-aged cheeses",
+    "fr": "Viandes à la braise, ternasco d’Aragon, charcuterie, pâtes en sauce à la viande, fromages mi-affinés",
+    "it": "Carni alla brace, ternasco aragonese, salumi, pasta al ragù, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "15-17 °C, copa de vino tinto",
+    "en": "15-17 °C, red wine glass",
+    "fr": "15-17 °C, verre à vin rouge",
+    "it": "15-17 °C, calice da vino rosso"
+  },
+  "search": "Enate Crianza Somontano"
+}

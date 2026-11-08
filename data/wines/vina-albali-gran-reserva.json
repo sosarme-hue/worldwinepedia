@@ -1,0 +1,48 @@
+{
+  "slug": "vina-albali-gran-reserva",
+  "name": "Viña Albali Gran Reserva",
+  "winery": "felix-solis",
+  "region": "valdepenas",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Gran Reserva",
+    "en": "Gran Reserva",
+    "fr": "Gran Reserva",
+    "it": "Gran Reserva"
+  },
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Tinto gran reserva de tempranillo de Félix Solís en la D.O. Valdepeñas, de larga crianza en barrica y botella a un precio asequible.",
+    "en": "Tempranillo Gran Reserva from Félix Solís in the Valdepeñas D.O., with long ageing in barrel and bottle at an affordable price.",
+    "fr": "Rouge Gran Reserva de tempranillo de Félix Solís dans la D.O. Valdepeñas, à long élevage en barrique et en bouteille, à un prix abordable.",
+    "it": "Rosso Gran Reserva di Tempranillo di Félix Solís nella D.O. Valdepeñas, a lungo affinamento in barrique e bottiglia a un prezzo accessibile."
+  },
+  "body": {
+    "es": "<p>Viña Albali Gran Reserva ocupa el escalón superior de la gama clásica de esta marca de Félix Solís. Es un tinto de <strong>tempranillo</strong> (cencibel) de la D.O. Valdepeñas, elaborado según los requisitos de la categoría <strong>Gran Reserva</strong>, la de mayor tiempo mínimo de crianza en la normativa española.</p><p>El vino pasa un periodo prolongado en barricas de roble y, después, varios años en botella en las bodegas antes de comercializarse. Esa larga crianza oxidativa y reductiva le da un perfil evolucionado, con fruta madura que deja paso a notas de cuero, tabaco, especias y madera. Es un ejemplo del estilo tradicional de los tintos de crianza españoles, accesible tanto por su precio como por su disponibilidad.</p><p>Puede disfrutarse desde su salida al mercado, aunque suele ganar en armonía con algunos años de guarda en buenas condiciones; airearlo unos minutos antes de servir ayuda a que se exprese mejor.</p>",
+    "en": "<p>Viña Albali Gran Reserva sits at the top of the classic range of this Félix Solís brand. It is a <strong>Tempranillo</strong> (Cencibel) red from the Valdepeñas D.O., made to the requirements of the <strong>Gran Reserva</strong> category, the one with the longest minimum ageing under Spanish regulations.</p><p>The wine spends an extended period in oak barrels and then several years in bottle in the cellars before release. This long oxidative and reductive ageing gives it an evolved profile, with ripe fruit giving way to notes of leather, tobacco, spice and wood. It is an example of the traditional style of Spanish aged reds, accessible in both price and availability.</p><p>It can be enjoyed on release, although it usually gains in harmony with a few years of cellaring in good conditions; airing it for a few minutes before serving helps it express itself better.</p>",
+    "fr": "<p>Viña Albali Gran Reserva occupe le sommet de la gamme classique de cette marque de Félix Solís. C'est un rouge de <strong>tempranillo</strong> (cencibel) de la D.O. Valdepeñas, élaboré selon les exigences de la catégorie <strong>Gran Reserva</strong>, celle dont la durée minimale d'élevage est la plus longue dans la réglementation espagnole.</p><p>Le vin passe une longue période en barriques de chêne, puis plusieurs années en bouteille dans les chais avant sa commercialisation. Ce long élevage oxydatif puis réducteur lui donne un profil évolué, où le fruit mûr laisse place à des notes de cuir, de tabac, d'épices et de bois. C'est un exemple du style traditionnel des rouges de garde espagnols, accessible par son prix comme par sa disponibilité.</p><p>Il peut s'apprécier dès sa commercialisation, mais gagne généralement en harmonie après quelques années de garde dans de bonnes conditions ; l'aérer quelques minutes avant le service l'aide à mieux s'exprimer.</p>",
+    "it": "<p>Viña Albali Gran Reserva occupa il gradino più alto della gamma classica di questo marchio di Félix Solís. È un rosso di <strong>Tempranillo</strong> (Cencibel) della D.O. Valdepeñas, prodotto secondo i requisiti della categoria <strong>Gran Reserva</strong>, quella con il tempo minimo di affinamento più lungo nella normativa spagnola.</p><p>Il vino trascorre un lungo periodo in barrique di rovere e poi diversi anni in bottiglia nelle cantine prima della commercializzazione. Questo lungo affinamento ossidativo e riduttivo gli conferisce un profilo evoluto, in cui il frutto maturo lascia spazio a note di cuoio, tabacco, spezie e legno. È un esempio dello stile tradizionale dei rossi invecchiati spagnoli, accessibile sia per prezzo sia per disponibilità.</p><p>Si può gustare fin dall'uscita sul mercato, anche se di solito guadagna in armonia con qualche anno di cantina in buone condizioni; arieggiarlo qualche minuto prima di servirlo lo aiuta a esprimersi meglio.</p>"
+  },
+  "tasting": {
+    "es": "Fruta roja madura y confitada, cuero, tabaco, vainilla y especias. Boca suave y evolucionada, de tanino pulido y final especiado.",
+    "en": "Ripe and candied red fruit, leather, tobacco, vanilla and spice. Smooth, evolved palate with polished tannins and a spicy finish.",
+    "fr": "Fruits rouges mûrs et confits, cuir, tabac, vanille et épices. Bouche souple et évoluée, aux tanins polis et à la finale épicée.",
+    "it": "Frutta rossa matura e candita, cuoio, tabacco, vaniglia e spezie. Bocca morbida ed evoluta, con tannino levigato e finale speziato."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes de caza, guisos tradicionales, quesos curados",
+    "en": "Roast lamb, game meats, traditional stews, aged cheeses",
+    "fr": "Agneau rôti, gibier, plats mijotés traditionnels, fromages affinés",
+    "it": "Agnello arrosto, selvaggina, stufati tradizionali, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, grand verre",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Viña Albali Gran Reserva Valdepeñas"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "gran-coronas",
+  "name": "Gran Coronas",
+  "winery": "familia-torres",
+  "region": "penedes",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Tinto reserva clásico de Familia Torres en la D.O. Penedès, basado en cabernet sauvignon con aporte de tempranillo, de amplia distribución.",
+    "en": "Classic Reserva red from Familia Torres in the Penedès D.O., based on Cabernet Sauvignon with a contribution of Tempranillo, widely available.",
+    "fr": "Rouge Reserva classique de Familia Torres dans la D.O. Penedès, fondé sur le cabernet-sauvignon avec un apport de tempranillo, largement diffusé.",
+    "it": "Rosso Reserva classico di Familia Torres nella D.O. Penedès, a base di Cabernet Sauvignon con un apporto di Tempranillo, di ampia diffusione."
+  },
+  "body": {
+    "es": "<p>Gran Coronas es una de las marcas históricas de Familia Torres, presente en el mercado desde hace décadas. Es un tinto de la <strong>D.O. Penedès</strong> en el que la <strong>cabernet sauvignon</strong> es la variedad principal, acompañada de una parte de <strong>tempranillo</strong> que aporta fruta y redondez.</p><p>Las uvas proceden de viñedos del Penedès, de clima mediterráneo y suelos calizos y arcillosos. El vino se cría en barricas de roble y completa su afinado en botella, conforme a los requisitos de la categoría <strong>Reserva</strong>. Es un tinto de estilo clásico, con presencia de la variedad bordelesa y notas de crianza bien integradas, que ofrece una buena aproximación a los tintos de corte internacional del Penedès a un precio razonable.</p><p>Puede disfrutarse desde su salida al mercado, aunque suele ganar en armonía con algunos años de guarda en buenas condiciones; airearlo unos minutos antes de servir ayuda a que se exprese mejor.</p>",
+    "en": "<p>Gran Coronas is one of Familia Torres's historic brands, on the market for decades. It is a <strong>Penedès D.O.</strong> red in which <strong>Cabernet Sauvignon</strong> is the main variety, accompanied by a share of <strong>Tempranillo</strong> that adds fruit and roundness.</p><p>The grapes come from Penedès vineyards with a Mediterranean climate and limestone and clay soils. The wine is aged in oak barrels and completes its maturation in bottle, in line with the requirements of the <strong>Reserva</strong> category. It is a classic-style red, with the Bordeaux variety to the fore and well-integrated oak notes, offering a good introduction to the international-style reds of Penedès at a reasonable price.</p><p>It can be enjoyed on release, although it usually gains in harmony with a few years of cellaring in good conditions; airing it for a few minutes before serving helps it express itself better.</p>",
+    "fr": "<p>Gran Coronas est l'une des marques historiques de Familia Torres, présente sur le marché depuis des décennies. C'est un rouge de la <strong>D.O. Penedès</strong> dont le <strong>cabernet-sauvignon</strong> est le cépage principal, accompagné d'une part de <strong>tempranillo</strong> qui apporte fruit et rondeur.</p><p>Les raisins proviennent de vignobles du Penedès, au climat méditerranéen et aux sols argilo-calcaires. Le vin est élevé en barriques de chêne puis achève son affinage en bouteille, conformément aux exigences de la catégorie <strong>Reserva</strong>. C'est un rouge de style classique, où s'exprime le cépage bordelais avec des notes d'élevage bien intégrées, qui offre une bonne approche des rouges de facture internationale du Penedès à un prix raisonnable.</p><p>Il peut s'apprécier dès sa commercialisation, mais gagne généralement en harmonie après quelques années de garde dans de bonnes conditions ; l'aérer quelques minutes avant le service l'aide à mieux s'exprimer.</p>",
+    "it": "<p>Gran Coronas è uno dei marchi storici di Familia Torres, presente sul mercato da decenni. È un rosso della <strong>D.O. Penedès</strong> in cui il <strong>Cabernet Sauvignon</strong> è la varietà principale, accompagnato da una quota di <strong>Tempranillo</strong> che dona frutto e rotondità.</p><p>Le uve provengono da vigneti del Penedès, a clima mediterraneo e con suoli calcareo-argillosi. Il vino affina in barrique di rovere e completa la maturazione in bottiglia, secondo i requisiti della categoria <strong>Reserva</strong>. È un rosso di stile classico, con il vitigno bordolese in evidenza e note di affinamento ben integrate, che offre un buon approccio ai rossi di taglio internazionale del Penedès a un prezzo ragionevole.</p><p>Si può gustare fin dall'uscita sul mercato, anche se di solito guadagna in armonia con qualche anno di cantina in buone condizioni; arieggiarlo qualche minuto prima di servirlo lo aiuta a esprimersi meglio.</p>"
+  },
+  "tasting": {
+    "es": "Fruta negra, notas de pimiento, especias y tostados de la barrica. Boca de cuerpo medio, tanino maduro y final especiado.",
+    "en": "Black fruit, notes of pepper, spice and toasty oak. Medium-bodied palate with ripe tannins and a spicy finish.",
+    "fr": "Fruits noirs, notes de poivron, d'épices et de boisé grillé. Bouche de corps moyen, aux tanins mûrs et à la finale épicée.",
+    "it": "Frutta nera, note di peperone, spezie e tostature del legno. Bocca di medio corpo, tannino maturo e finale speziato."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la plancha, cordero, guisos, quesos semicurados",
+    "en": "Seared red meats, lamb, stews, semi-cured cheeses",
+    "fr": "Viandes rouges à la plancha, agneau, ragoûts, fromages mi-affinés",
+    "it": "Carni rosse alla piastra, agnello, stufati, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa tipo Burdeos",
+    "en": "16-18 °C, Bordeaux glass",
+    "fr": "16-18 °C, verre type Bordeaux",
+    "it": "16-18 °C, calice tipo Bordeaux"
+  },
+  "search": "Gran Coronas Reserva Torres"
+}

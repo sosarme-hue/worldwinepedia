@@ -1,0 +1,48 @@
+{
+  "slug": "nectar-px",
+  "name": "Néctar Pedro Ximénez",
+  "winery": "gonzalez-byass",
+  "region": "jerez-xeres-sherry",
+  "country": "espana",
+  "type": "generoso",
+  "category": {
+    "es": "Pedro Ximénez",
+    "en": "Pedro Ximénez",
+    "fr": "Pedro Ximénez",
+    "it": "Pedro Ximénez"
+  },
+  "grapes": [
+    "pedro-ximenez"
+  ],
+  "summary": {
+    "es": "Vino dulce de Pedro Ximénez de González Byass, elaborado con uvas pasificadas y criado en solera, uno de los PX más fáciles de encontrar.",
+    "en": "Sweet Pedro Ximénez from González Byass, made from sun-dried grapes and aged in solera, one of the easiest PX wines to find.",
+    "fr": "Vin doux de pedro ximénez de González Byass, élaboré avec des raisins passerillés et élevé en solera, l'un des PX les plus faciles à trouver.",
+    "it": "Vino dolce di Pedro Ximénez di González Byass, prodotto con uve appassite e affinato in solera, uno dei PX più facili da trovare."
+  },
+  "body": {
+    "es": "<p>Néctar es el Pedro Ximénez de la gama de González Byass. Se elabora con uvas de la variedad <strong>Pedro Ximénez</strong> que, tras la vendimia, se exponen al sol para que se pasifiquen y concentren su azúcar. El mosto obtenido, muy denso y dulce, se encabeza con alcohol vínico para detener la fermentación.</p><p>El vino envejece después en botas de roble según el sistema de <strong>criaderas y solera</strong>, en una crianza oxidativa que oscurece su color hasta tonos caoba y añade complejidad a los aromas de fruta pasa. Es un vino muy dulce y untuoso, de los que se sirven en pequeñas cantidades, y uno de los PX más populares por su disponibilidad y su precio razonable.</p><p>Gracias a su crianza oxidativa y a su alta concentración, se conserva bien durante semanas una vez abierta la botella, siempre que se guarde bien cerrada y en un lugar fresco.</p>",
+    "en": "<p>Néctar is the Pedro Ximénez in González Byass's range. It is made from grapes of the <strong>Pedro Ximénez</strong> variety which, after harvest, are laid out in the sun to raisin and concentrate their sugar. The resulting very dense, sweet must is fortified with grape spirit to stop fermentation.</p><p>The wine then ages in oak casks under the <strong>criaderas and solera</strong> system, in an oxidative ageing that darkens its colour to mahogany and adds complexity to its dried-fruit aromas. It is a very sweet, unctuous wine, served in small quantities, and one of the most popular PX wines thanks to its availability and reasonable price.</p><p>Thanks to its oxidative ageing and high concentration, it keeps well for weeks once the bottle is opened, provided it is tightly closed and stored somewhere cool.</p>",
+    "fr": "<p>Néctar est le pedro ximénez de la gamme de González Byass. Il est élaboré avec des raisins de <strong>pedro ximénez</strong> qui, après la vendange, sont exposés au soleil pour se passeriller et concentrer leur sucre. Le moût obtenu, très dense et doux, est muté à l'alcool vinique pour arrêter la fermentation.</p><p>Le vin vieillit ensuite en fûts de chêne selon le système des <strong>criaderas et solera</strong>, dans un élevage oxydatif qui fonce sa couleur jusqu'à l'acajou et ajoute de la complexité à ses arômes de raisins secs. C'est un vin très doux et onctueux, servi en petites quantités, et l'un des PX les plus populaires grâce à sa disponibilité et à son prix raisonnable.</p><p>Grâce à son élevage oxydatif et à sa forte concentration, il se conserve bien pendant des semaines une fois la bouteille ouverte, à condition de la garder bien fermée et au frais.</p>",
+    "it": "<p>Néctar è il Pedro Ximénez della gamma di González Byass. È prodotto con uve della varietà <strong>Pedro Ximénez</strong> che, dopo la vendemmia, vengono esposte al sole perché appassiscano e concentrino gli zuccheri. Il mosto ottenuto, molto denso e dolce, viene fortificato con alcol di vino per arrestare la fermentazione.</p><p>Il vino invecchia poi in botti di rovere secondo il sistema di <strong>criaderas e solera</strong>, in un affinamento ossidativo che scurisce il colore fino a tonalità mogano e aggiunge complessità agli aromi di frutta passa. È un vino molto dolce e untuoso, da servire in piccole quantità, e uno dei PX più popolari per disponibilità e prezzo ragionevole.</p><p>Grazie all'affinamento ossidativo e all'alta concentrazione, si conserva bene per settimane una volta aperta la bottiglia, purché ben chiusa e in un luogo fresco.</p>"
+  },
+  "tasting": {
+    "es": "Pasas, higos secos, dátiles, melaza y notas de café y cacao. Boca muy dulce, densa y aterciopelada.",
+    "en": "Raisins, dried figs, dates, molasses and notes of coffee and cocoa. Very sweet, dense, velvety palate.",
+    "fr": "Raisins secs, figues sèches, dattes, mélasse et notes de café et de cacao. Bouche très douce, dense et veloutée.",
+    "it": "Uva passa, fichi secchi, datteri, melassa e note di caffè e cacao. Bocca molto dolce, densa e vellutata."
+  },
+  "pairing": {
+    "es": "Helado de vainilla, postres de chocolate, quesos azules, frutos secos",
+    "en": "Vanilla ice cream, chocolate desserts, blue cheeses, nuts",
+    "fr": "Glace à la vanille, desserts au chocolat, fromages à pâte persillée, fruits secs",
+    "it": "Gelato alla vaniglia, dolci al cioccolato, formaggi erborinati, frutta secca"
+  },
+  "serve": {
+    "es": "12-14 °C, copa pequeña de vino dulce",
+    "en": "12-14 °C, small dessert wine glass",
+    "fr": "12-14 °C, petit verre à vin doux",
+    "it": "12-14 °C, piccolo calice da vino dolce"
+  },
+  "search": "Néctar Pedro Ximénez González Byass"
+}

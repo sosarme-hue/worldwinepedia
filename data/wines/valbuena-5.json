@@ -1,0 +1,41 @@
+{
+  "slug": "valbuena-5",
+  "name": "Valbuena 5º",
+  "winery": "vega-sicilia",
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": ["tempranillo", "merlot"],
+  "summary": {
+    "es": "Segundo gran tinto de Vega Sicilia, basado en la Tinto Fino, que sale al mercado en su quinto año, de ahí su nombre.",
+    "en": "Vega Sicilia’s second great red, based on Tinto Fino, released in its fifth year, hence its name.",
+    "fr": "Deuxième grand rouge de Vega Sicilia, à base de tinto fino, commercialisé dans sa cinquième année, d’où son nom.",
+    "it": "Secondo grande rosso di Vega Sicilia, a base di Tinto Fino, che esce sul mercato nel suo quinto anno, da cui il nome."
+  },
+  "body": {
+    "es": "<p>Valbuena 5º es el otro gran tinto de la finca de Vega Sicilia en Valbuena de Duero. Su nombre alude a que sale al mercado en el quinto año desde la vendimia, mucho antes que el Único. Se elabora principalmente con Tinto Fino (Tempranillo), con una proporción de Merlot.</p><p>Como el resto de vinos de la casa, se cría combinando barricas y tinos de madera, con un periodo posterior de afinamiento en botella. Su crianza más corta le da un perfil algo más frutal y accesible en su juventud que el del Único, aunque mantiene la estructura y la elegancia propias de la bodega.</p><p>Es un vino muy apreciado dentro de la Ribera del Duero, con buena capacidad de guarda, que permite conocer el estilo de Vega Sicilia en una versión más temprana.</p>",
+    "en": "<p>Valbuena 5º is the other great red from Vega Sicilia’s estate in Valbuena de Duero. Its name refers to its release in the fifth year after the harvest, much earlier than Único. It is made mainly from Tinto Fino (Tempranillo), with a proportion of Merlot.</p><p>Like the house’s other wines, it is aged in a combination of barrels and wooden vats, followed by a period of refinement in bottle. Its shorter ageing gives it a somewhat fruitier, more approachable profile in youth than Único, while retaining the winery’s characteristic structure and elegance.</p><p>It is a highly regarded wine within Ribera del Duero, with good ageing potential, offering a way to discover the Vega Sicilia style in an earlier-release version.</p>",
+    "fr": "<p>Valbuena 5º est l’autre grand rouge du domaine de Vega Sicilia à Valbuena de Duero. Son nom rappelle qu’il est commercialisé la cinquième année après les vendanges, bien avant l’Único. Il est élaboré principalement avec du tinto fino (tempranillo), avec une proportion de merlot.</p><p>Comme les autres vins de la maison, il est élevé en combinant barriques et cuves en bois, suivi d’une période d’affinage en bouteille. Son élevage plus court lui donne dans sa jeunesse un profil un peu plus fruité et accessible que celui de l’Único, tout en conservant la structure et l’élégance propres à la maison.</p><p>C’est un vin très apprécié au sein de la Ribera del Duero, au bon potentiel de garde, qui permet de découvrir le style de Vega Sicilia dans une version plus précoce.</p>",
+    "it": "<p>Valbuena 5º è l’altro grande rosso della tenuta di Vega Sicilia a Valbuena de Duero. Il nome allude al fatto che esce sul mercato nel quinto anno dalla vendemmia, molto prima dell’Único. È prodotto principalmente con Tinto Fino (Tempranillo), con una quota di Merlot.</p><p>Come gli altri vini della casa, affina combinando barrique e tini di legno, seguito da un periodo di affinamento in bottiglia. L’affinamento più breve gli conferisce in gioventù un profilo un po’ più fruttato e accessibile rispetto all’Único, pur mantenendo la struttura e l’eleganza tipiche della cantina.</p><p>È un vino molto apprezzato nella Ribera del Duero, con buona capacità di invecchiamento, che permette di conoscere lo stile di Vega Sicilia in una versione più precoce.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de fruta negra y roja madura, especias, notas de madera fina y toques balsámicos. En boca es estructurado y elegante, con tanino firme pero fino y buena acidez.",
+    "en": "Deep ruby. Aromas of ripe black and red fruit, spice, fine wood and balsamic touches. Structured and elegant on the palate, with firm but fine tannins and good acidity.",
+    "fr": "Rubis intense. Arômes de fruits noirs et rouges mûrs, d’épices, de bois fin et touches balsamiques. En bouche, structuré et élégant, aux tanins fermes mais fins et à la bonne acidité.",
+    "it": "Rubino intenso. Aromi di frutta nera e rossa matura, spezie, legno fine e tocchi balsamici. In bocca è strutturato ed elegante, con tannino deciso ma fine e buona acidità."
+  },
+  "pairing": {
+    "es": "Lechazo asado, carnes rojas, caza, quesos curados de oveja",
+    "en": "Roast suckling lamb, red meat, game, aged sheep’s cheeses",
+    "fr": "Agneau de lait rôti, viandes rouges, gibier, fromages de brebis affinés",
+    "it": "Agnello da latte arrosto, carni rosse, cacciagione, pecorini stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia; conviene decantar",
+    "en": "16-18 °C, large glass; decanting is advisable",
+    "fr": "16-18 °C, verre ample ; il est conseillé de carafer",
+    "it": "16-18 °C, calice ampio; è consigliabile decantare"
+  },
+  "search": "Vega Sicilia Valbuena 5º"
+}

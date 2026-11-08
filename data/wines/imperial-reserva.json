@@ -1,0 +1,41 @@
+{
+  "slug": "imperial-reserva",
+  "name": "Imperial Reserva",
+  "winery": "cvne",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {"es": "Reserva", "en": "Reserva", "fr": "Reserva", "it": "Reserva"},
+  "grapes": ["tempranillo", "graciano", "carinena"],
+  "summary": {
+    "es": "Reserva clásico de CVNE elaborado en Haro con uvas de Rioja Alta, una de las marcas históricas de la casa.",
+    "en": "Classic CVNE reserva made in Haro from Rioja Alta grapes, one of the house’s historic brands.",
+    "fr": "Reserva classique de CVNE élaboré à Haro avec des raisins de la Rioja Alta, l’une des marques historiques de la maison.",
+    "it": "Reserva classico di CVNE prodotto a Haro con uve della Rioja Alta, uno dei marchi storici della casa."
+  },
+  "body": {
+    "es": "<p>Imperial es una de las marcas más antiguas de CVNE. Su nombre suele relacionarse con un formato de botella que la bodega utilizaba para el mercado británico a comienzos del siglo XX. Hoy agrupa los reservas y grandes reservas de corte más clásico de la casa, elaborados en Haro con uvas de la Rioja Alta.</p><p>El Imperial Reserva se basa en la Tempranillo, a la que acompañan proporciones menores de Graciano y Mazuelo (Cariñena). Se cría en barricas de roble y después reposa en botella antes de salir al mercado, de acuerdo con los tiempos mínimos que exige la categoría Reserva.</p><p>Es un Rioja de estilo tradicional, que busca la elegancia y el equilibrio más que la potencia, con buena acidez y capacidad para evolucionar varios años en botella.</p>",
+    "en": "<p>Imperial is one of CVNE’s oldest brands. Its name is usually linked to a bottle size the winery used for the British market in the early twentieth century. Today it groups the house’s most classically styled reservas and gran reservas, made in Haro from Rioja Alta grapes.</p><p>Imperial Reserva is based on Tempranillo, accompanied by smaller proportions of Graciano and Mazuelo (Carignan). It is aged in oak barrels and then rests in bottle before release, in accordance with the minimum periods required for the Reserva category.</p><p>It is a traditional-style Rioja that seeks elegance and balance rather than power, with good acidity and the capacity to evolve for several years in bottle.</p>",
+    "fr": "<p>Imperial est l’une des plus anciennes marques de CVNE. Son nom est généralement associé à un format de bouteille que la maison utilisait pour le marché britannique au début du XXe siècle. Elle regroupe aujourd’hui les reservas et gran reservas les plus classiques de la maison, élaborés à Haro avec des raisins de la Rioja Alta.</p><p>L’Imperial Reserva repose sur le tempranillo, accompagné de plus petites proportions de graciano et de mazuelo (carignan). Il est élevé en barriques de chêne puis repose en bouteille avant sa commercialisation, conformément aux durées minimales exigées pour la catégorie Reserva.</p><p>C’est un Rioja de style traditionnel, qui recherche l’élégance et l’équilibre plutôt que la puissance, avec une bonne acidité et la capacité d’évoluer plusieurs années en bouteille.</p>",
+    "it": "<p>Imperial è uno dei marchi più antichi di CVNE. Il nome viene di solito collegato a un formato di bottiglia che la cantina usava per il mercato britannico all’inizio del Novecento. Oggi riunisce i reserva e gran reserva di taglio più classico della casa, prodotti a Haro con uve della Rioja Alta.</p><p>L’Imperial Reserva si basa sul Tempranillo, accompagnato da quote minori di Graciano e Mazuelo (Carignano). Affina in botti di rovere e riposa poi in bottiglia prima di uscire sul mercato, secondo i tempi minimi richiesti dalla categoria Reserva.</p><p>È un Rioja di stile tradizionale, che cerca eleganza ed equilibrio più che potenza, con buona acidità e capacità di evolvere per diversi anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rubí con ribete granate. Aromas de fruta roja y negra madura, especias, regaliz y notas de crianza. En boca es elegante y equilibrado, con tanino fino y final persistente.",
+    "en": "Ruby with a garnet rim. Aromas of ripe red and black fruit, spice, liquorice and ageing notes. Elegant and balanced on the palate, with fine tannins and a persistent finish.",
+    "fr": "Rubis aux reflets grenat. Arômes de fruits rouges et noirs mûrs, d’épices, de réglisse et notes d’élevage. En bouche, élégant et équilibré, avec des tanins fins et une finale persistante.",
+    "it": "Rubino con unghia granata. Aromi di frutta rossa e nera matura, spezie, liquirizia e note di affinamento. In bocca è elegante ed equilibrato, con tannino fine e finale persistente."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes rojas, caza, guisos, quesos curados",
+    "en": "Roast lamb, red meat, game, stews, aged cheeses",
+    "fr": "Agneau rôti, viandes rouges, gibier, ragoûts, fromages affinés",
+    "it": "Agnello arrosto, carni rosse, cacciagione, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Imperial Reserva CVNE Rioja"
+}

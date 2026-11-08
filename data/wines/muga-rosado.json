@@ -1,0 +1,45 @@
+{
+  "slug": "muga-rosado",
+  "name": "Muga Rosado",
+  "winery": "muga",
+  "region": "rioja",
+  "country": "espana",
+  "type": "rosado",
+  "category": null,
+  "grapes": [
+    "garnacha",
+    "macabeo",
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Rosado de color pálido de Bodegas Muga, basado en la Garnacha, fresco y pensado para beber joven.",
+    "en": "Pale-coloured rosé from Bodegas Muga, based on Grenache, fresh and meant to be drunk young.",
+    "fr": "Rosé à la robe pâle de Bodegas Muga, à base de grenache, frais et destiné à être bu jeune.",
+    "it": "Rosato dal colore tenue di Bodegas Muga, a base di Grenache, fresco e pensato per essere bevuto giovane."
+  },
+  "body": {
+    "es": "<p>El Muga Rosado se elabora principalmente con Garnacha, junto a una parte de Viura (Macabeo) y Tempranillo. Las uvas proceden de viñedos del entorno de Haro y se vendimian buscando conservar la frescura.</p><p>Para obtener su característico color pálido, el mosto se separa de los hollejos tras un breve contacto. El vino no busca aromas de crianza, sino una expresión limpia de la fruta.</p><p>Es un rosado de estilo delicado, que se aleja de los rosados intensos tradicionales de la zona y se acerca a un perfil más ligero y aromático. Se aprecia sobre todo en su primer año.</p><p>Los rosados tienen una larga tradición en Rioja, donde históricamente se elaboraban a partir de Garnacha y se conocían en algunas zonas como «claretes». El Muga Rosado se inscribe en la tendencia actual hacia rosados más claros y delicados, pensados para acompañar la mesa más que para el aperitivo únicamente.</p>",
+    "en": "<p>Muga Rosado is made mainly from Grenache, together with some Viura (Macabeo) and Tempranillo. The grapes come from vineyards around Haro and are harvested with the aim of preserving freshness.</p><p>To obtain its characteristic pale colour, the must is separated from the skins after brief contact. The wine does not aim for ageing aromas but for a clean expression of fruit.</p><p>It is a delicate rosé, moving away from the deeply coloured traditional rosés of the area towards a lighter, more aromatic profile. It is best enjoyed in its first year.</p><p>Rosés have a long tradition in Rioja, where they were historically made from Grenache and known in some areas as “claretes”. Muga Rosado belongs to the current trend towards paler, more delicate rosés, designed to accompany meals rather than serve only as an aperitif.</p>",
+    "fr": "<p>Le Muga Rosado est élaboré principalement avec du grenache, accompagné d’une part de viura (macabeu) et de tempranillo. Les raisins proviennent de vignes situées autour de Haro et sont vendangés de manière à préserver la fraîcheur.</p><p>Pour obtenir sa robe pâle caractéristique, le moût est séparé des peaux après un bref contact. Le vin ne recherche pas les arômes d’élevage mais une expression nette du fruit.</p><p>C’est un rosé délicat, qui s’éloigne des rosés traditionnels très colorés de la zone pour un profil plus léger et aromatique. Il s’apprécie surtout dans sa première année.</p><p>Les rosés ont une longue tradition en Rioja, où ils étaient historiquement élaborés à partir de grenache et appelés dans certaines zones « claretes ». Le Muga Rosado s’inscrit dans la tendance actuelle vers des rosés plus clairs et plus délicats, pensés pour accompagner le repas plutôt que pour le seul apéritif.</p>",
+    "it": "<p>Il Muga Rosado è prodotto principalmente con Grenache, insieme a una parte di Viura (Macabeo) e Tempranillo. Le uve provengono da vigneti nei dintorni di Haro e sono vendemmiate cercando di preservare la freschezza.</p><p>Per ottenere il caratteristico colore tenue, il mosto viene separato dalle bucce dopo un breve contatto. Il vino non cerca aromi di affinamento, bensì un’espressione pulita del frutto.</p><p>È un rosato delicato, che si allontana dai rosati tradizionali molto colorati della zona per avvicinarsi a un profilo più leggero e aromatico. Si apprezza soprattutto nel primo anno.</p><p>I rosati hanno una lunga tradizione in Rioja, dove storicamente si producevano con Grenache e in alcune zone erano noti come «claretes». Il Muga Rosado si inserisce nella tendenza attuale verso rosati più chiari e delicati, pensati per accompagnare il pasto più che per il solo aperitivo.</p>"
+  },
+  "tasting": {
+    "es": "Rosa pálido. Aromas de fresa, frutas de hueso y notas florales. En boca es seco, ligero y fresco, con acidez viva.",
+    "en": "Pale pink. Aromas of strawberry, stone fruit and floral notes. Dry, light and fresh on the palate, with lively acidity.",
+    "fr": "Rose pâle. Arômes de fraise, de fruits à noyau et notes florales. En bouche, sec, léger et frais, avec une acidité vive.",
+    "it": "Rosa tenue. Aromi di fragola, frutta a nocciolo e note floreali. In bocca è secco, leggero e fresco, con acidità vivace."
+  },
+  "pairing": {
+    "es": "Aperitivos, ensaladas, arroces, pescados a la plancha, cocina mediterránea",
+    "en": "Appetisers, salads, rice dishes, grilled fish, Mediterranean cooking",
+    "fr": "Apéritifs, salades, plats de riz, poissons grillés, cuisine méditerranéenne",
+    "it": "Aperitivi, insalate, piatti di riso, pesce alla piastra, cucina mediterranea"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Muga Rosado Rioja"
+}

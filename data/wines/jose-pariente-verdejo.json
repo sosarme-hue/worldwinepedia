@@ -1,0 +1,41 @@
+{
+  "slug": "jose-pariente-verdejo",
+  "name": "José Pariente Verdejo",
+  "winery": "jose-pariente",
+  "region": "rueda",
+  "country": "espana",
+  "type": "blanco",
+  "category": null,
+  "grapes": ["verdejo"],
+  "summary": {
+    "es": "Verdejo joven de Bodegas José Pariente, una de las referencias de la D.O. Rueda, elaborado con uva de viñas de La Seca.",
+    "en": "Young Verdejo from Bodegas José Pariente, one of the benchmarks of the Rueda D.O., made from grapes grown in La Seca.",
+    "fr": "Verdejo jeune de Bodegas José Pariente, l’une des références de la D.O. Rueda, élaboré avec des raisins de La Seca.",
+    "it": "Verdejo giovane di Bodegas José Pariente, uno dei riferimenti della D.O. Rueda, prodotto con uve di La Seca."
+  },
+  "body": {
+    "es": "<p>El José Pariente Verdejo es el vino más conocido de la bodega fundada por Victoria Pariente. Se elabora con Verdejo de viñedos de La Seca y alrededores, entre ellos cepas viejas en vaso, sobre los suelos pedregosos característicos de la zona.</p><p>La elaboración se centra en conservar la expresión de la uva: vendimia en el momento adecuado de maduración, fermentación a temperatura controlada en depósitos de acero inoxidable y un periodo de reposo sobre lías finas antes del embotellado, que aporta textura y volumen.</p><p>El resultado es un Verdejo de perfil limpio y equilibrado, que busca la complejidad de la fruta y una textura amplia más que aromas exuberantes. Es un blanco versátil que se disfruta en su juventud, aunque puede evolucionar bien uno o dos años en botella.</p>",
+    "en": "<p>José Pariente Verdejo is the best-known wine of the winery founded by Victoria Pariente. It is made from Verdejo grown in and around La Seca, including old bush vines, on the area’s characteristic stony soils.</p><p>Winemaking focuses on preserving the grape’s expression: harvesting at the right point of ripeness, temperature-controlled fermentation in stainless steel tanks and a period of rest on fine lees before bottling, which adds texture and volume.</p><p>The result is a clean, balanced Verdejo that seeks complexity of fruit and a broad texture rather than exuberant aromas. It is a versatile white best enjoyed young, although it can develop well for a year or two in bottle.</p>",
+    "fr": "<p>Le José Pariente Verdejo est le vin le plus connu de la bodega fondée par Victoria Pariente. Il est élaboré avec du verdejo de La Seca et de ses environs, dont de vieux ceps en gobelet, sur les sols caillouteux caractéristiques de la zone.</p><p>La vinification vise à préserver l’expression du raisin : vendange au bon stade de maturité, fermentation à température contrôlée en cuves inox et période de repos sur lies fines avant la mise en bouteille, qui apporte texture et volume.</p><p>Il en résulte un verdejo net et équilibré, qui privilégie la complexité du fruit et une texture ample plutôt que des arômes exubérants. C’est un blanc polyvalent à apprécier jeune, même s’il peut bien évoluer un ou deux ans en bouteille.</p>",
+    "it": "<p>Il José Pariente Verdejo è il vino più noto della cantina fondata da Victoria Pariente. È prodotto con Verdejo di La Seca e dintorni, comprese vecchie viti ad alberello, sui suoli ciottolosi caratteristici della zona.</p><p>La vinificazione punta a preservare l’espressione dell’uva: vendemmia al giusto grado di maturazione, fermentazione a temperatura controllata in vasche d’acciaio inox e un periodo di riposo sulle fecce fini prima dell’imbottigliamento, che apporta consistenza e volume.</p><p>Il risultato è un Verdejo pulito ed equilibrato, che cerca la complessità del frutto e una consistenza ampia più che aromi esuberanti. È un bianco versatile da gustare giovane, anche se può evolvere bene per uno o due anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido con reflejos verdosos. Aromas de fruta blanca, cítricos, hinojo y notas herbáceas. En boca es fresco y untuoso a la vez, con buena acidez y un final ligeramente amargo.",
+    "en": "Pale yellow with green highlights. Aromas of white fruit, citrus, fennel and herbal notes. Both fresh and unctuous on the palate, with good acidity and a slightly bitter finish.",
+    "fr": "Jaune pâle aux reflets verts. Arômes de fruits blancs, d’agrumes, de fenouil et notes herbacées. En bouche, à la fois frais et onctueux, avec une bonne acidité et une finale légèrement amère.",
+    "it": "Giallo paglierino tenue con riflessi verdolini. Aromi di frutta bianca, agrumi, finocchio e note erbacee. In bocca è insieme fresco e untuoso, con buona acidità e finale leggermente amarognolo."
+  },
+  "pairing": {
+    "es": "Pescados, marisco, arroces, ensaladas, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, salads, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, salades, fromages frais",
+    "it": "Pesce, frutti di mare, piatti di riso, insalate, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "José Pariente Verdejo Rueda"
+}

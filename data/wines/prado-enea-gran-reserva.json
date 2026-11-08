@@ -1,0 +1,41 @@
+{
+  "slug": "prado-enea-gran-reserva",
+  "name": "Prado Enea Gran Reserva",
+  "winery": "muga",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {"es": "Gran Reserva", "en": "Gran Reserva", "fr": "Gran Reserva", "it": "Gran Reserva"},
+  "grapes": ["tempranillo", "garnacha", "carinena", "graciano"],
+  "summary": {
+    "es": "El gran reserva clásico de Muga, elaborado sólo en añadas seleccionadas y con una crianza prolongada en barrica y botella.",
+    "en": "Muga’s classic gran reserva, made only in selected vintages and given extended ageing in barrel and bottle.",
+    "fr": "Le gran reserva classique de Muga, élaboré seulement dans des millésimes sélectionnés et longuement élevé en barrique et en bouteille.",
+    "it": "Il gran reserva classico di Muga, prodotto solo in annate selezionate e con un lungo affinamento in botte e bottiglia."
+  },
+  "body": {
+    "es": "<p>Prado Enea es el gran reserva de corte tradicional de Bodegas Muga y uno de sus vinos más prestigiosos. Se elabora únicamente en las añadas que la bodega considera adecuadas, con uvas de Tempranillo, Garnacha, Mazuelo (Cariñena) y Graciano procedentes de viñedos de mayor altitud y maduración más tardía.</p><p>Fermenta en tinos de roble y se cría durante un periodo prolongado en barricas, seguido de varios años de reposo en botella antes de salir al mercado, en línea con las exigencias de la categoría Gran Reserva y con los tiempos propios de la casa.</p><p>Es un vino pensado para la guarda, que combina la complejidad de la crianza larga con una estructura firme y una acidez que le permiten evolucionar durante muchos años.</p>",
+    "en": "<p>Prado Enea is Bodegas Muga’s traditionally styled gran reserva and one of its most prestigious wines. It is made only in vintages the winery considers suitable, from Tempranillo, Grenache, Mazuelo (Carignan) and Graciano grown in higher-altitude, later-ripening vineyards.</p><p>It ferments in oak vats and is aged for an extended period in barrels, followed by several years of bottle rest before release, in line with the requirements of the Gran Reserva category and the house’s own timing.</p><p>It is a wine made for cellaring, combining the complexity of long ageing with a firm structure and acidity that allow it to evolve for many years.</p>",
+    "fr": "<p>Prado Enea est le gran reserva de style traditionnel de Bodegas Muga et l’un de ses vins les plus prestigieux. Il n’est élaboré que dans les millésimes que la maison juge adaptés, avec du tempranillo, du grenache, du mazuelo (carignan) et du graciano issus de vignes plus en altitude, à maturité plus tardive.</p><p>Il fermente en cuves de chêne et bénéficie d’un long élevage en barriques, suivi de plusieurs années de repos en bouteille avant sa commercialisation, conformément aux exigences de la catégorie Gran Reserva et au rythme propre à la maison.</p><p>C’est un vin de garde, qui associe la complexité d’un long élevage à une structure ferme et à une acidité qui lui permettent d’évoluer pendant de nombreuses années.</p>",
+    "it": "<p>Prado Enea è il gran reserva di stile tradizionale di Bodegas Muga e uno dei suoi vini più prestigiosi. Viene prodotto solo nelle annate che la cantina ritiene adatte, con Tempranillo, Grenache, Mazuelo (Carignano) e Graciano provenienti da vigneti più alti e a maturazione più tardiva.</p><p>Fermenta in tini di rovere e affina a lungo in barrique, seguito da diversi anni di riposo in bottiglia prima di uscire sul mercato, in linea con i requisiti della categoria Gran Reserva e con i tempi della casa.</p><p>È un vino da invecchiamento, che unisce la complessità del lungo affinamento a una struttura decisa e a un’acidità che gli permettono di evolvere per molti anni.</p>"
+  },
+  "tasting": {
+    "es": "Rubí con ribete granate o teja. Nariz compleja de fruta madura, especias, cuero, tabaco y sotobosque. En boca es elegante, con tanino fino, buena acidez y final largo.",
+    "en": "Ruby with a garnet or brick rim. A complex nose of ripe fruit, spice, leather, tobacco and forest floor. Elegant on the palate, with fine tannins, good acidity and a long finish.",
+    "fr": "Rubis aux reflets grenat ou tuilés. Nez complexe de fruits mûrs, d’épices, de cuir, de tabac et de sous-bois. En bouche, élégant, avec des tanins fins, une bonne acidité et une finale longue.",
+    "it": "Rubino con unghia granata o aranciata. Naso complesso di frutta matura, spezie, cuoio, tabacco e sottobosco. In bocca è elegante, con tannino fine, buona acidità e finale lungo."
+  },
+  "pairing": {
+    "es": "Asados de cordero y cabrito, caza, platos con trufa o setas, quesos curados",
+    "en": "Roast lamb and kid, game, dishes with truffle or mushrooms, aged cheeses",
+    "fr": "Agneau et chevreau rôtis, gibier, plats à la truffe ou aux champignons, fromages affinés",
+    "it": "Agnello e capretto arrosto, cacciagione, piatti al tartufo o ai funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia; decantar si tiene sedimento",
+    "en": "16-18 °C, large glass; decant if there is sediment",
+    "fr": "16-18 °C, verre ample ; carafer en cas de dépôt",
+    "it": "16-18 °C, calice ampio; decantare in presenza di sedimento"
+  },
+  "search": "Prado Enea Gran Reserva Muga"
+}

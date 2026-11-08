@@ -1,0 +1,41 @@
+{
+  "slug": "perelada-5-fincas",
+  "name": "Perelada 5 Fincas",
+  "winery": "perelada",
+  "region": "emporda",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": ["merlot", "cabernet-sauvignon", "garnacha", "syrah"],
+  "summary": {
+    "es": "Tinto de Perelada en la D.O. Empordà, ensamblaje de uvas de varias fincas propias con distintos suelos y microclimas.",
+    "en": "Perelada red from the Empordà D.O., a blend of grapes from several of the estate's vineyards with different soils and microclimates.",
+    "fr": "Rouge de Perelada dans la D.O. Empordà, assemblage de raisins de plusieurs domaines de la maison aux sols et microclimats différents.",
+    "it": "Rosso di Perelada nella D.O. Empordà, assemblaggio di uve di diverse tenute della casa con suoli e microclimi differenti."
+  },
+  "body": {
+    "es": "<p>Como indica su nombre, Perelada 5 Fincas nace de la combinación de uvas procedentes de varias de las fincas que la bodega cultiva en el <strong>Alt Empordà</strong>. Cada una aporta un matiz distinto: suelos de pizarra, granito descompuesto, arcillas o gravas, y diferentes grados de exposición a la tramontana y a la influencia del mar.</p><p>Es un ensamblaje de variedades tintas cuya composición varía según la añada; habitualmente incluye <strong>merlot</strong>, <strong>cabernet sauvignon</strong>, <strong>garnacha</strong> y <strong>syrah</strong>, entre otras. Las variedades se vinifican por separado y el vino se cría en barricas de roble antes del ensamblaje final. Es un tinto de perfil mediterráneo, con fruta madura y notas de crianza, que resume el estilo de la casa.</p>",
+    "en": "<p>As its name suggests, Perelada 5 Fincas («5 estates») is born from the combination of grapes from several of the estates the winery farms in <strong>Alt Empordà</strong>. Each brings a different nuance: slate, decomposed granite, clay or gravel soils, and varying exposure to the tramontane and to the influence of the sea.</p><p>It is a blend of red varieties whose make-up varies with the vintage; it usually includes <strong>Merlot</strong>, <strong>Cabernet Sauvignon</strong>, <strong>Garnacha</strong> and <strong>Syrah</strong>, among others. The varieties are vinified separately and the wine is aged in oak barrels before the final blend. It is a Mediterranean-style red, with ripe fruit and notes from oak ageing, that sums up the house style.</p>",
+    "fr": "<p>Comme son nom l'indique, Perelada 5 Fincas (« 5 domaines ») naît de l'assemblage de raisins provenant de plusieurs des propriétés que la maison cultive dans l'<strong>Alt Empordà</strong>. Chacune apporte une nuance différente : sols de schiste, de granite décomposé, d'argile ou de graves, et exposition variable à la tramontane et à l'influence de la mer.</p><p>C'est un assemblage de cépages rouges dont la composition varie selon le millésime ; il comprend habituellement du <strong>merlot</strong>, du <strong>cabernet-sauvignon</strong>, du <strong>grenache</strong> et de la <strong>syrah</strong>, entre autres. Les cépages sont vinifiés séparément et le vin est élevé en barriques de chêne avant l'assemblage final. C'est un rouge de profil méditerranéen, au fruit mûr et aux notes d'élevage, qui résume le style de la maison.</p>",
+    "it": "<p>Come indica il nome, Perelada 5 Fincas («5 tenute») nasce dall'unione di uve provenienti da diverse tenute che la cantina coltiva nell'<strong>Alt Empordà</strong>. Ognuna apporta una sfumatura diversa: suoli di ardesia, granito decomposto, argilla o ghiaia, e diversa esposizione alla tramontana e all'influenza del mare.</p><p>È un assemblaggio di varietà rosse la cui composizione varia secondo l'annata; di solito comprende <strong>Merlot</strong>, <strong>Cabernet Sauvignon</strong>, <strong>Grenache</strong> e <strong>Syrah</strong>, tra le altre. Le varietà sono vinificate separatamente e il vino affina in barrique di rovere prima dell'assemblaggio finale. È un rosso dal profilo mediterraneo, con frutto maturo e note di affinamento, che riassume lo stile della casa.</p>"
+  },
+  "tasting": {
+    "es": "Fruta negra madura, notas de hierbas mediterráneas, especias y tostados suaves. Boca amplia, de tanino redondo y final especiado.",
+    "en": "Ripe black fruit, notes of Mediterranean herbs, spice and gentle toast. Broad palate with rounded tannins and a spicy finish.",
+    "fr": "Fruits noirs mûrs, notes d'herbes méditerranéennes, d'épices et de grillé léger. Bouche ample, aux tanins ronds et à la finale épicée.",
+    "it": "Frutta nera matura, note di erbe mediterranee, spezie e tostature delicate. Bocca ampia, con tannino rotondo e finale speziato."
+  },
+  "pairing": {
+    "es": "Carnes a la brasa, cordero, arroces de carne, quesos curados",
+    "en": "Chargrilled meats, lamb, meat rice dishes, aged cheeses",
+    "fr": "Viandes à la braise, agneau, riz à la viande, fromages affinés",
+    "it": "Carni alla brace, agnello, risi di carne, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, grand verre",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Perelada 5 Fincas Empordà tinto"
+}

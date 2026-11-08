@@ -1,0 +1,41 @@
+{
+  "slug": "ramon-bilbao-reserva",
+  "name": "Ramón Bilbao Reserva",
+  "winery": "ramon-bilbao",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {"es": "Reserva", "en": "Reserva", "fr": "Reserva", "it": "Reserva"},
+  "grapes": ["tempranillo"],
+  "summary": {
+    "es": "Reserva de Bodegas Ramón Bilbao basado en la Tempranillo, con una crianza más prolongada que su conocido Crianza.",
+    "en": "Tempranillo-based reserva from Bodegas Ramón Bilbao, with longer ageing than its well-known Crianza.",
+    "fr": "Reserva de Bodegas Ramón Bilbao à base de tempranillo, au vieillissement plus long que son célèbre Crianza.",
+    "it": "Reserva di Bodegas Ramón Bilbao a base di Tempranillo, con un affinamento più lungo del suo noto Crianza."
+  },
+  "body": {
+    "es": "<p>El Ramón Bilbao Reserva ocupa un escalón por encima del Crianza dentro de la gama clásica de la bodega. Se basa en la Tempranillo, de viñedos seleccionados de la Rioja Alta, a la que en algunas añadas pueden acompañar pequeñas proporciones de otras variedades tintas tradicionales.</p><p>Según las normas de la D.O.Ca. Rioja, un tinto Reserva debe envejecer un mínimo de tres años entre barrica y botella, con al menos uno en madera. El vino se cría en barricas de roble y reposa después en botella antes de su salida al mercado.</p><p>El resultado es un Rioja de estilo clásico, con más presencia de notas de crianza y mayor complejidad que el Crianza, pero con la fruta todavía bien definida. Puede evolucionar favorablemente varios años en botella.</p>",
+    "en": "<p>Ramón Bilbao Reserva sits one step above the Crianza within the winery’s classic range. It is based on Tempranillo from selected Rioja Alta vineyards, which in some vintages may be joined by small proportions of other traditional red varieties.</p><p>Under the rules of the Rioja D.O.Ca., a red Reserva must age for at least three years between barrel and bottle, with at least one in wood. The wine is aged in oak barrels and then rests in bottle before release.</p><p>The result is a classically styled Rioja, with more prominent ageing notes and greater complexity than the Crianza, yet with fruit still well defined. It can develop favourably for several years in bottle.</p>",
+    "fr": "<p>Le Ramón Bilbao Reserva se situe un cran au-dessus du Crianza dans la gamme classique de la maison. Il repose sur le tempranillo issu de vignes sélectionnées de la Rioja Alta, auquel peuvent s’ajouter certains millésimes de petites proportions d’autres cépages rouges traditionnels.</p><p>Selon les règles de la D.O.Ca. Rioja, un rouge Reserva doit vieillir au minimum trois ans entre barrique et bouteille, dont au moins un an sous bois. Le vin est élevé en barriques de chêne puis repose en bouteille avant sa commercialisation.</p><p>Il en résulte un Rioja classique, aux notes d’élevage plus présentes et à la complexité plus grande que le Crianza, mais au fruit encore bien dessiné. Il peut évoluer favorablement plusieurs années en bouteille.</p>",
+    "it": "<p>Il Ramón Bilbao Reserva si colloca un gradino sopra il Crianza nella gamma classica della cantina. Si basa sul Tempranillo di vigneti selezionati della Rioja Alta, a cui in alcune annate possono affiancarsi piccole quote di altre varietà rosse tradizionali.</p><p>Secondo le norme della D.O.Ca. Rioja, un rosso Reserva deve invecchiare almeno tre anni tra botte e bottiglia, di cui almeno uno nel legno. Il vino affina in botti di rovere e riposa poi in bottiglia prima di uscire sul mercato.</p><p>Il risultato è un Rioja di stile classico, con note di affinamento più presenti e maggiore complessità rispetto al Crianza, ma con il frutto ancora ben definito. Può evolvere favorevolmente per diversi anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rubí con ribete granate. Aromas de fruta negra madura, especias, cacao, vainilla y notas tostadas. En boca es amplio y equilibrado, con tanino pulido y final persistente.",
+    "en": "Ruby with a garnet rim. Aromas of ripe black fruit, spice, cocoa, vanilla and toasty notes. Broad and balanced on the palate, with polished tannins and a persistent finish.",
+    "fr": "Rubis aux reflets grenat. Arômes de fruits noirs mûrs, d’épices, de cacao, de vanille et notes grillées. En bouche, ample et équilibré, aux tanins polis et à la finale persistante.",
+    "it": "Rubino con unghia granata. Aromi di frutta nera matura, spezie, cacao, vaniglia e note tostate. In bocca è ampio ed equilibrato, con tannino levigato e finale persistente."
+  },
+  "pairing": {
+    "es": "Carnes rojas, cordero, guisos, caza menor, quesos curados",
+    "en": "Red meat, lamb, stews, small game, aged cheeses",
+    "fr": "Viandes rouges, agneau, ragoûts, petit gibier, fromages affinés",
+    "it": "Carni rosse, agnello, stufati, selvaggina minuta, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Ramón Bilbao Reserva Rioja"
+}

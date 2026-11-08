@@ -141,7 +141,7 @@ BOTTLE = {'tinto': 'redb', 'blanco': 'whiteb', 'rosado': 'roseb', 'espumoso': 's
 def wine_card(l, w):
     reg = R.get(w.get('region'), {})
     win = B.get(w.get('winery'), {})
-    label = (T(reg.get('name'), l) or '')[:14]
+    label = re.split(r'[ \-/]', T(reg.get('name'), l) or '')[0][:11]
     txt = (w['name'] + ' ' + win.get('name', '') + ' ' + T(reg.get('name'), l) + ' ' + ' '.join(T(G[g]['name'], l) for g in w.get('grapes', []) if g in G)).lower()
     grapes = ', '.join(T(G[g]['name'], l) for g in w.get('grapes', []) if g in G)
     return f'''<article class="wine" data-item data-type="{w.get('type','')}" data-region="{w.get('region','')}" data-text="{e(txt)}">

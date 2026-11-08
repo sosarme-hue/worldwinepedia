@@ -1,0 +1,41 @@
+{
+  "slug": "casa-castillo-monastrell",
+  "name": "Casa Castillo Monastrell",
+  "winery": "casa-castillo",
+  "region": "jumilla",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": ["monastrell"],
+  "summary": {
+    "es": "El monastrell más accesible de Casa Castillo, un tinto jugoso y fresco que expresa el estilo de la finca en Jumilla.",
+    "en": "Casa Castillo's most accessible Monastrell, a juicy, fresh red expressing the estate's style in Jumilla.",
+    "fr": "Le monastrell le plus accessible de Casa Castillo, un rouge juteux et frais qui exprime le style du domaine à Jumilla.",
+    "it": "Il Monastrell più accessibile di Casa Castillo, un rosso succoso e fresco che esprime lo stile della tenuta a Jumilla."
+  },
+  "body": {
+    "es": "<p>Casa Castillo Monastrell es la puerta de entrada a los vinos de la finca de la familia Vicente en Jumilla. Se elabora con <strong>monastrell</strong> de distintas parcelas de la propiedad, situadas en un altiplano rodeado de sierras, con suelos calizos, de gravas y arenas.</p><p>El objetivo es mostrar la cara más fresca y frutal de la variedad, lejos de los tintos muy extraídos y maderizados que en otro tiempo caracterizaron a la zona. Las uvas se vendimian buscando un buen equilibrio entre madurez y acidez, y el vino tiene una crianza breve, en la que la madera tiene un papel secundario. El resultado es un tinto jugoso y mediterráneo, de buena relación calidad-precio, que permite entender la evolución reciente de la monastrell en Jumilla.</p>",
+    "en": "<p>Casa Castillo Monastrell is the gateway to the wines of the Vicente family's estate in Jumilla. It is made from <strong>Monastrell</strong> from different plots on the property, located on a high plateau surrounded by mountains, with limestone, gravel and sandy soils.</p><p>The aim is to show the variety's fresher, fruitier side, far from the heavily extracted, oaky reds that once characterised the area. The grapes are harvested seeking a good balance between ripeness and acidity, and the wine has a short ageing in which oak plays a secondary role. The result is a juicy, Mediterranean red offering good value, which helps to understand the recent evolution of Monastrell in Jumilla.</p>",
+    "fr": "<p>Casa Castillo Monastrell est la porte d'entrée des vins du domaine de la famille Vicente à Jumilla. Il est élaboré avec du <strong>monastrell</strong> provenant de différentes parcelles de la propriété, situées sur un haut plateau entouré de sierras, aux sols calcaires, de graves et de sables.</p><p>L'objectif est de montrer le visage le plus frais et le plus fruité du cépage, loin des rouges très extraits et boisés qui caractérisaient autrefois la région. Les raisins sont vendangés en recherchant un bon équilibre entre maturité et acidité, et le vin bénéficie d'un élevage court où le bois joue un rôle secondaire. Il en résulte un rouge juteux et méditerranéen, au bon rapport qualité-prix, qui permet de comprendre l'évolution récente du monastrell à Jumilla.</p>",
+    "it": "<p>Casa Castillo Monastrell è la porta d'ingresso ai vini della tenuta della famiglia Vicente a Jumilla. È prodotto con <strong>Monastrell</strong> di diverse parcelle della proprietà, situate su un altopiano circondato da sierre, con suoli calcarei, ghiaiosi e sabbiosi.</p><p>L'obiettivo è mostrare il lato più fresco e fruttato della varietà, lontano dai rossi molto estratti e boisé che un tempo caratterizzavano la zona. Le uve si vendemmiano cercando un buon equilibrio tra maturità e acidità, e il vino ha un affinamento breve in cui il legno ha un ruolo secondario. Il risultato è un rosso succoso e mediterraneo, dal buon rapporto qualità-prezzo, che permette di capire l'evoluzione recente del Monastrell a Jumilla.</p>"
+  },
+  "tasting": {
+    "es": "Fruta negra fresca, notas de hierbas de monte, pimienta y un fondo terroso. Boca jugosa, de tanino fino y final fresco.",
+    "en": "Fresh black fruit, notes of wild herbs, pepper and an earthy background. Juicy palate with fine tannins and a fresh finish.",
+    "fr": "Fruits noirs frais, notes d'herbes de garrigue, de poivre et fond terreux. Bouche juteuse, aux tanins fins et à la finale fraîche.",
+    "it": "Frutta nera fresca, note di erbe di macchia, pepe e un fondo terroso. Bocca succosa, con tannino fine e finale fresco."
+  },
+  "pairing": {
+    "es": "Embutidos, carnes a la parrilla, arroces de carne, verduras asadas",
+    "en": "Charcuterie, grilled meats, meat rice dishes, roasted vegetables",
+    "fr": "Charcuterie, viandes grillées, riz à la viande, légumes rôtis",
+    "it": "Salumi, carni alla griglia, risi di carne, verdure arrosto"
+  },
+  "serve": {
+    "es": "15-17 °C, copa amplia",
+    "en": "15-17 °C, large glass",
+    "fr": "15-17 °C, grand verre",
+    "it": "15-17 °C, calice ampio"
+  },
+  "search": "Casa Castillo Monastrell Jumilla"
+}

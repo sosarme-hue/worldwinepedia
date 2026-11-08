@@ -1,0 +1,48 @@
+{
+  "slug": "jose-pariente-fermentado-en-barrica",
+  "name": "José Pariente Fermentado en Barrica",
+  "winery": "jose-pariente",
+  "region": "rueda",
+  "country": "espana",
+  "type": "blanco",
+  "category": {
+    "es": "Fermentado en barrica",
+    "en": "Barrel-fermented",
+    "fr": "Fermenté en barrique",
+    "it": "Fermentato in barrique"
+  },
+  "grapes": [
+    "verdejo"
+  ],
+  "summary": {
+    "es": "Verdejo fermentado y criado sobre lías en barrica de Bodegas José Pariente, de textura más amplia y mayor capacidad de guarda.",
+    "en": "Verdejo fermented and aged on lees in barrel by Bodegas José Pariente, with a broader texture and greater ageing potential.",
+    "fr": "Verdejo fermenté et élevé sur lies en barrique par Bodegas José Pariente, à la texture plus ample et au meilleur potentiel de garde.",
+    "it": "Verdejo fermentato e affinato sulle fecce in barrique da Bodegas José Pariente, dalla consistenza più ampia e con maggiore capacità di invecchiamento."
+  },
+  "body": {
+    "es": "<p>La D.O. Rueda reconoce la elaboración de blancos fermentados en barrica, un estilo que aporta volumen y complejidad a la Verdejo. José Pariente elabora esta versión con uvas de sus viñas más viejas de La Seca, de menor rendimiento y mayor concentración.</p><p>El mosto fermenta en barricas de roble y el vino permanece después varios meses en ellas sobre sus lías, que se remueven periódicamente para integrar la madera y ganar textura. Antes de salir al mercado completa un periodo en botella.</p><p>El resultado es un blanco más amplio y complejo que el Verdejo joven de la casa, en el que la madera se integra con la fruta sin dominarla. Tiene mayor capacidad de guarda y puede mejorar con algunos años en botella.</p>",
+    "en": "<p>The Rueda D.O. recognises barrel-fermented whites, a style that adds volume and complexity to Verdejo. José Pariente makes this version from its oldest vines in La Seca, which give lower yields and greater concentration.</p><p>The must ferments in oak barrels and the wine then stays in them for several months on its lees, which are stirred periodically to integrate the oak and build texture. It completes a period in bottle before release.</p><p>The result is a broader, more complex white than the house’s young Verdejo, in which the oak blends with the fruit without dominating it. It has greater ageing potential and can improve over a few years in bottle.</p>",
+    "fr": "<p>La D.O. Rueda reconnaît l’élaboration de blancs fermentés en barrique, un style qui apporte volume et complexité au verdejo. José Pariente élabore cette version avec les raisins de ses plus vieilles vignes de La Seca, aux rendements plus faibles et à la concentration plus grande.</p><p>Le moût fermente en barriques de chêne puis le vin y reste plusieurs mois sur ses lies, remuées régulièrement pour intégrer le bois et gagner en texture. Il achève un séjour en bouteille avant sa commercialisation.</p><p>Il en résulte un blanc plus ample et plus complexe que le verdejo jeune de la maison, où le bois se fond dans le fruit sans le dominer. Il offre un meilleur potentiel de garde et peut se bonifier quelques années en bouteille.</p>",
+    "it": "<p>La D.O. Rueda riconosce la produzione di bianchi fermentati in barrique, uno stile che apporta volume e complessità al Verdejo. José Pariente produce questa versione con le uve delle sue vigne più vecchie di La Seca, dalle rese più basse e dalla maggiore concentrazione.</p><p>Il mosto fermenta in barrique di rovere e il vino vi resta poi per diversi mesi sulle fecce, che vengono rimescolate periodicamente per integrare il legno e guadagnare consistenza. Prima dell’uscita sul mercato completa un periodo in bottiglia.</p><p>Il risultato è un bianco più ampio e complesso del Verdejo giovane della casa, in cui il legno si integra con il frutto senza sovrastarlo. Ha maggiore capacità di invecchiamento e può migliorare con qualche anno di bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo dorado. Aromas de fruta blanca madura, notas de pastelería, frutos secos, vainilla y matices herbáceos. En boca es untuoso y amplio, con buena acidez y final largo.",
+    "en": "Golden yellow. Aromas of ripe white fruit, pastry, nuts, vanilla and herbal nuances. Unctuous and broad on the palate, with good acidity and a long finish.",
+    "fr": "Jaune doré. Arômes de fruits blancs mûrs, notes de pâtisserie, de fruits secs, de vanille et nuances herbacées. En bouche, onctueux et ample, avec une bonne acidité et une finale longue.",
+    "it": "Giallo dorato. Aromi di frutta bianca matura, note di pasticceria, frutta secca, vaniglia e sfumature erbacee. In bocca è untuoso e ampio, con buona acidità e finale lungo."
+  },
+  "pairing": {
+    "es": "Pescados en salsa, aves, arroces cremosos, setas, quesos semicurados",
+    "en": "Fish in sauce, poultry, creamy rice dishes, mushrooms, semi-aged cheeses",
+    "fr": "Poissons en sauce, volailles, riz crémeux, champignons, fromages mi-affinés",
+    "it": "Pesce in salsa, pollame, risotti cremosi, funghi, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "10-12 °C, copa amplia de blanco",
+    "en": "10-12 °C, large white wine glass",
+    "fr": "10-12 °C, grand verre à vin blanc",
+    "it": "10-12 °C, calice ampio da bianco"
+  },
+  "search": "José Pariente Fermentado en Barrica Verdejo"
+}

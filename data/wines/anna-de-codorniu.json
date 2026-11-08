@@ -1,0 +1,46 @@
+{
+  "slug": "anna-de-codorniu",
+  "name": "Anna de Codorníu Blanc de Blancs",
+  "winery": "codorniu",
+  "region": "cava",
+  "country": "espana",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut",
+    "en": "Brut",
+    "fr": "Brut",
+    "it": "Brut"
+  },
+  "grapes": ["chardonnay", "parellada", "xarel-lo", "macabeo"],
+  "summary": {
+    "es": "Cava de Codorníu que combina chardonnay con las variedades tradicionales del Penedès, uno de los cavas más populares y fáciles de encontrar.",
+    "en": "Codorníu cava combining Chardonnay with the traditional Penedès varieties, one of the most popular and widely available cavas.",
+    "fr": "Cava de Codorníu associant le chardonnay aux cépages traditionnels du Penedès, l'un des cavas les plus populaires et les plus faciles à trouver.",
+    "it": "Cava di Codorníu che unisce lo Chardonnay alle varietà tradizionali del Penedès, uno dei cava più popolari e facili da trovare."
+  },
+  "body": {
+    "es": "<p>El nombre de este cava rinde homenaje a Anna de Codorníu, la heredera de la familia que en el siglo XVII unió su linaje al de los Raventós. Codorníu fue de las primeras casas en incorporar la <strong>chardonnay</strong> al cava, y esta etiqueta se convirtió en el símbolo de esa apuesta.</p><p>Es un <em>blanc de blancs</em>, es decir, elaborado únicamente con uvas blancas: chardonnay junto a <strong>parellada</strong>, <strong>xarel·lo</strong> y <strong>macabeo</strong>. Sigue el método tradicional, con segunda fermentación en botella y crianza sobre lías en las cavas de Sant Sadurní d'Anoia. El resultado es un espumoso de perfil fresco y afrutado, con una burbuja fina y un punto de cremosidad aportado por la chardonnay, muy versátil como aperitivo y en la mesa.</p>",
+    "en": "<p>The name of this cava pays tribute to Anna de Codorníu, the family heiress who in the 17th century joined her line to that of the Raventós family. Codorníu was among the first houses to introduce <strong>Chardonnay</strong> into cava, and this label became the symbol of that choice.</p><p>It is a <em>blanc de blancs</em>, that is, made only from white grapes: Chardonnay together with <strong>Parellada</strong>, <strong>Xarel·lo</strong> and <strong>Macabeo</strong>. It follows the traditional method, with a second fermentation in bottle and ageing on the lees in the cellars of Sant Sadurní d'Anoia. The result is a fresh, fruity sparkling wine with fine bubbles and a touch of creaminess from the Chardonnay, very versatile as an aperitif and at the table.</p>",
+    "fr": "<p>Le nom de ce cava rend hommage à Anna de Codorníu, l'héritière de la famille qui, au XVIIe siècle, unit sa lignée à celle des Raventós. Codorníu fut l'une des premières maisons à introduire le <strong>chardonnay</strong> dans le cava, et cette cuvée est devenue le symbole de ce choix.</p><p>C'est un <em>blanc de blancs</em>, c'est-à-dire élaboré uniquement avec des raisins blancs : chardonnay accompagné de <strong>parellada</strong>, de <strong>xarel·lo</strong> et de <strong>macabeu</strong>. Il suit la méthode traditionnelle, avec seconde fermentation en bouteille et élevage sur lies dans les caves de Sant Sadurní d'Anoia. Il en résulte un effervescent frais et fruité, aux bulles fines, avec une touche de crémeux apportée par le chardonnay, très polyvalent à l'apéritif comme à table.</p>",
+    "it": "<p>Il nome di questo cava rende omaggio ad Anna de Codorníu, l'erede della famiglia che nel Seicento unì la propria discendenza a quella dei Raventós. Codorníu fu tra le prime case a introdurre lo <strong>Chardonnay</strong> nel cava, e questa etichetta è diventata il simbolo di quella scelta.</p><p>È un <em>blanc de blancs</em>, cioè prodotto solo con uve bianche: Chardonnay insieme a <strong>Parellada</strong>, <strong>Xarel·lo</strong> e <strong>Macabeo</strong>. Segue il metodo classico, con seconda fermentazione in bottiglia e affinamento sui lieviti nelle cantine di Sant Sadurní d'Anoia. Il risultato è uno spumante fresco e fruttato, con perlage fine e un tocco di cremosità dato dallo Chardonnay, molto versatile come aperitivo e a tavola.</p>"
+  },
+  "tasting": {
+    "es": "Fruta blanca y tropical suave, cítricos y un ligero toque de bollería. Boca fresca, burbuja fina y final limpio.",
+    "en": "White and gentle tropical fruit, citrus and a light hint of pastry. Fresh palate, fine bubbles and a clean finish.",
+    "fr": "Fruits blancs et notes tropicales légères, agrumes et touche de viennoiserie. Bouche fraîche, bulles fines et finale nette.",
+    "it": "Frutta bianca e tropicale delicata, agrumi e un leggero tocco di pasticceria. Bocca fresca, perlage fine e finale pulito."
+  },
+  "pairing": {
+    "es": "Aperitivos, canapés, sushi, pescados ligeros, ensaladas",
+    "en": "Appetisers, canapés, sushi, light fish dishes, salads",
+    "fr": "Apéritifs, canapés, sushis, poissons légers, salades",
+    "it": "Aperitivi, tartine, sushi, piatti di pesce leggeri, insalate"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de vino blanco o tulipa",
+    "en": "6-8 °C, white wine or tulip glass",
+    "fr": "6-8 °C, verre à vin blanc ou tulipe",
+    "it": "6-8 °C, calice da bianco o a tulipano"
+  },
+  "search": "Anna de Codorníu Blanc de Blancs cava"
+}

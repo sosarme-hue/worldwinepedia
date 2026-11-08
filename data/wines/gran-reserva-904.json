@@ -1,0 +1,41 @@
+{
+  "slug": "gran-reserva-904",
+  "name": "Gran Reserva 904",
+  "winery": "la-rioja-alta",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {"es": "Gran Reserva", "en": "Gran Reserva", "fr": "Gran Reserva", "it": "Gran Reserva"},
+  "grapes": ["tempranillo", "graciano"],
+  "summary": {
+    "es": "Gran reserva de La Rioja Alta, de Tempranillo con Graciano, con larga crianza en roble americano y elaborado sólo en grandes añadas.",
+    "en": "Gran reserva from La Rioja Alta, made from Tempranillo with Graciano, long aged in American oak and produced only in great vintages.",
+    "fr": "Gran reserva de La Rioja Alta, de tempranillo et graciano, longuement élevé en chêne américain et produit seulement dans les grands millésimes.",
+    "it": "Gran reserva de La Rioja Alta, di Tempranillo con Graciano, a lungo affinato in rovere americano e prodotto solo nelle grandi annate."
+  },
+  "body": {
+    "es": "<p>El Gran Reserva 904 es uno de los vinos de mayor rango de La Rioja Alta. Su nombre remite al año 1904, una fecha relevante en la historia de la bodega. Se elabora con una mayoría de Tempranillo y una pequeña proporción de Graciano, procedentes de viñedos propios de la Rioja Alta.</p><p>El vino se cría durante un periodo prolongado en barricas de roble americano de la propia tonelería, con trasiegos manuales tradicionales, y después reposa varios años en botella antes de salir al mercado. Sólo se elabora en las añadas que la bodega considera excepcionales.</p><p>Es un ejemplo representativo del gran reserva clásico riojano: un tinto de crianza larga, complejo y elegante, en el que la Graciano aporta frescura y la Tempranillo, estructura. Tiene una gran capacidad de envejecimiento.</p>",
+    "en": "<p>Gran Reserva 904 is one of La Rioja Alta’s top wines. Its name refers to the year 1904, an important date in the winery’s history. It is made from a majority of Tempranillo and a small proportion of Graciano from the winery’s own vineyards in Rioja Alta.</p><p>The wine is aged for an extended period in American oak barrels from the house cooperage, with traditional manual racking, and then rests for several years in bottle before release. It is made only in vintages the winery considers exceptional.</p><p>It is a representative example of classic Rioja gran reserva: a long-aged, complex and elegant red in which Graciano brings freshness and Tempranillo structure. It has great ageing potential.</p>",
+    "fr": "<p>Le Gran Reserva 904 est l’un des vins les plus prestigieux de La Rioja Alta. Son nom renvoie à l’année 1904, une date importante dans l’histoire de la maison. Il est élaboré avec une majorité de tempranillo et une petite proportion de graciano, issus des vignes de la maison en Rioja Alta.</p><p>Le vin est élevé longuement en barriques de chêne américain de la tonnellerie maison, avec des soutirages manuels traditionnels, puis repose plusieurs années en bouteille avant sa commercialisation. Il n’est élaboré que dans les millésimes que la maison juge exceptionnels.</p><p>C’est un exemple représentatif du gran reserva classique de la Rioja : un rouge de long élevage, complexe et élégant, où le graciano apporte la fraîcheur et le tempranillo la structure. Il possède un grand potentiel de garde.</p>",
+    "it": "<p>Il Gran Reserva 904 è uno dei vini di punta de La Rioja Alta. Il nome rimanda all’anno 1904, una data importante nella storia della cantina. È prodotto con una maggioranza di Tempranillo e una piccola quota di Graciano, da vigneti di proprietà della Rioja Alta.</p><p>Il vino affina a lungo in botti di rovere americano della bottaia di casa, con travasi manuali tradizionali, e riposa poi diversi anni in bottiglia prima di uscire sul mercato. Viene prodotto solo nelle annate che la cantina considera eccezionali.</p><p>È un esempio rappresentativo del gran reserva classico riojano: un rosso a lungo affinamento, complesso ed elegante, in cui il Graciano apporta freschezza e il Tempranillo struttura. Ha una grande capacità di invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Rubí con ribete teja. Nariz compleja de fruta roja madura, especias, cuero, tabaco, vainilla y notas balsámicas. En boca es fino y sedoso, con acidez fresca y final persistente.",
+    "en": "Ruby with a brick rim. A complex nose of ripe red fruit, spice, leather, tobacco, vanilla and balsamic notes. Fine and silky on the palate, with fresh acidity and a persistent finish.",
+    "fr": "Rubis aux reflets tuilés. Nez complexe de fruits rouges mûrs, d’épices, de cuir, de tabac, de vanille et notes balsamiques. En bouche, fin et soyeux, avec une acidité fraîche et une finale persistante.",
+    "it": "Rubino con unghia aranciata. Naso complesso di frutta rossa matura, spezie, cuoio, tabacco, vaniglia e note balsamiche. In bocca è fine e setoso, con acidità fresca e finale persistente."
+  },
+  "pairing": {
+    "es": "Asados, caza, guisos tradicionales, platos con setas o trufa, quesos curados",
+    "en": "Roasts, game, traditional stews, dishes with mushrooms or truffle, aged cheeses",
+    "fr": "Rôtis, gibier, plats mijotés traditionnels, plats aux champignons ou à la truffe, fromages affinés",
+    "it": "Arrosti, cacciagione, stufati tradizionali, piatti con funghi o tartufo, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia; decantar si tiene sedimento",
+    "en": "16-18 °C, large glass; decant if there is sediment",
+    "fr": "16-18 °C, verre ample ; carafer en cas de dépôt",
+    "it": "16-18 °C, calice ampio; decantare in presenza di sedimento"
+  },
+  "search": "La Rioja Alta Gran Reserva 904"
+}

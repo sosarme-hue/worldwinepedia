@@ -1,0 +1,41 @@
+{
+  "slug": "monopole",
+  "name": "Monopole",
+  "winery": "cvne",
+  "region": "rioja",
+  "country": "espana",
+  "type": "blanco",
+  "category": null,
+  "grapes": ["macabeo"],
+  "summary": {
+    "es": "Blanco joven de Viura de CVNE, una marca de vino blanco riojano con larga trayectoria.",
+    "en": "Young Viura white from CVNE, a white Rioja brand with a long history.",
+    "fr": "Blanc jeune de viura de CVNE, une marque de Rioja blanc à la longue histoire.",
+    "it": "Bianco giovane di Viura di CVNE, un marchio di Rioja bianco di lunga tradizione."
+  },
+  "body": {
+    "es": "<p>Monopole es una de las marcas históricas de CVNE y una de las más antiguas del vino blanco de Rioja. En su versión actual más difundida es un blanco joven elaborado con Viura, nombre que recibe la Macabeo en La Rioja, procedente de viñedos de la Rioja Alta.</p><p>La elaboración busca preservar la fruta y la frescura: la uva se vendimia en su punto óptimo de acidez y el vino fermenta a temperatura controlada en depósito, sin crianza en barrica. Se embotella pronto para conservar sus aromas.</p><p>La bodega ha recuperado también versiones de mayor crianza bajo la misma marca, inspiradas en el estilo antiguo del blanco riojano. El Monopole joven es un blanco seco, ligero y versátil, pensado para beberse en sus primeros años.</p>",
+    "en": "<p>Monopole is one of CVNE’s historic brands and one of the oldest in white Rioja. In its most widely available current version it is a young white made from Viura, as Macabeo is called in La Rioja, from Rioja Alta vineyards.</p><p>Winemaking aims to preserve fruit and freshness: the grapes are picked at their optimum acidity and the wine ferments at controlled temperature in tank, without barrel ageing. It is bottled early to retain its aromas.</p><p>The winery has also revived longer-aged versions under the same brand, inspired by the old style of white Rioja. The young Monopole is a dry, light and versatile white, meant to be drunk in its first few years.</p>",
+    "fr": "<p>Monopole est l’une des marques historiques de CVNE et l’une des plus anciennes du Rioja blanc. Dans sa version actuelle la plus diffusée, c’est un blanc jeune élaboré avec de la viura, nom que porte le macabeu en Rioja, issu de vignes de la Rioja Alta.</p><p>La vinification vise à préserver le fruit et la fraîcheur : le raisin est vendangé à son point optimal d’acidité et le vin fermente à température contrôlée en cuve, sans élevage en barrique. Il est mis en bouteille rapidement pour conserver ses arômes.</p><p>La maison a aussi relancé des versions plus longuement élevées sous la même marque, inspirées de l’ancien style du Rioja blanc. Le Monopole jeune est un blanc sec, léger et polyvalent, destiné à être bu dans ses premières années.</p>",
+    "it": "<p>Monopole è uno dei marchi storici di CVNE e uno dei più antichi del Rioja bianco. Nella sua versione attuale più diffusa è un bianco giovane prodotto con Viura, nome che il Macabeo assume in Rioja, da vigneti della Rioja Alta.</p><p>La vinificazione mira a preservare frutto e freschezza: l’uva viene raccolta al punto ottimale di acidità e il vino fermenta a temperatura controllata in vasca, senza affinamento in botte. Viene imbottigliato presto per conservarne gli aromi.</p><p>La cantina ha anche recuperato versioni più affinate con lo stesso marchio, ispirate allo stile antico del Rioja bianco. Il Monopole giovane è un bianco secco, leggero e versatile, pensato per essere bevuto nei primi anni.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido. Aromas de fruta blanca, manzana, cítricos y notas florales. En boca es seco, ligero y fresco, con acidez equilibrada.",
+    "en": "Pale yellow. Aromas of white fruit, apple, citrus and floral notes. Dry, light and fresh on the palate, with balanced acidity.",
+    "fr": "Jaune pâle. Arômes de fruits blancs, de pomme, d’agrumes et notes florales. En bouche, sec, léger et frais, avec une acidité équilibrée.",
+    "it": "Giallo paglierino tenue. Aromi di frutta bianca, mela, agrumi e note floreali. In bocca è secco, leggero e fresco, con acidità equilibrata."
+  },
+  "pairing": {
+    "es": "Aperitivos, ensaladas, pescados blancos, marisco, verduras",
+    "en": "Appetisers, salads, white fish, shellfish, vegetables",
+    "fr": "Apéritifs, salades, poissons blancs, fruits de mer, légumes",
+    "it": "Aperitivi, insalate, pesce bianco, frutti di mare, verdure"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Monopole Blanco CVNE Rioja"
+}

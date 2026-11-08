@@ -1,0 +1,41 @@
+{
+  "slug": "protos-verdejo",
+  "name": "Protos Verdejo",
+  "winery": "protos",
+  "region": "rueda",
+  "country": "espana",
+  "type": "blanco",
+  "category": null,
+  "grapes": ["verdejo"],
+  "summary": {
+    "es": "Blanco joven de Verdejo que Bodegas Protos elabora en la D.O. Rueda, fresco, aromático y fácil de encontrar.",
+    "en": "Young Verdejo white made by Bodegas Protos in the Rueda D.O., fresh, aromatic and easy to find.",
+    "fr": "Blanc jeune de verdejo élaboré par Bodegas Protos dans la D.O. Rueda, frais, aromatique et facile à trouver.",
+    "it": "Bianco giovane di Verdejo prodotto da Bodegas Protos nella D.O. Rueda, fresco, aromatico e facile da trovare."
+  },
+  "body": {
+    "es": "<p>Además de sus tintos de Ribera del Duero, Protos elabora blancos en la vecina Denominación de Origen Rueda, en una bodega propia en la zona. El Protos Verdejo es el más difundido de ellos y se elabora con la variedad emblemática de la denominación.</p><p>Las uvas proceden de viñedos de la meseta, con suelos pedregosos y clima continental. La elaboración se orienta a preservar los aromas varietales: fermentación a temperatura controlada en depósitos de acero inoxidable y embotellado temprano, sin paso por madera. En algunas elaboraciones se emplea un breve contacto con las lías para ganar volumen en boca.</p><p>Es un blanco de consumo habitual, fresco y aromático, adecuado como aperitivo y para acompañar cocina ligera. Se disfruta mejor en su primer año.</p>",
+    "en": "<p>Besides its Ribera del Duero reds, Protos makes whites in the neighbouring Rueda Designation of Origin, at its own winery in the area. Protos Verdejo is the most widely available of them and is made from the appellation’s emblematic variety.</p><p>The grapes come from vineyards on the plateau, with stony soils and a continental climate. Winemaking aims to preserve varietal aromas: temperature-controlled fermentation in stainless steel tanks and early bottling, without oak. Some vintages may include brief contact with the lees to add palate weight.</p><p>It is a fresh, aromatic everyday white, suitable as an aperitif and with light dishes. It is best enjoyed in its first year.</p>",
+    "fr": "<p>Outre ses rouges de Ribera del Duero, Protos élabore des blancs dans l’appellation d’origine voisine de Rueda, dans sa propre bodega sur place. Le Protos Verdejo est le plus diffusé d’entre eux et il est élaboré avec le cépage emblématique de l’appellation.</p><p>Les raisins proviennent de vignes du plateau, aux sols caillouteux et au climat continental. La vinification vise à préserver les arômes variétaux : fermentation à température contrôlée en cuves inox et mise en bouteille précoce, sans passage en bois. Un bref contact avec les lies peut être employé pour apporter du volume en bouche.</p><p>C’est un blanc de consommation courante, frais et aromatique, idéal à l’apéritif et avec une cuisine légère. Il s’apprécie surtout dans sa première année.</p>",
+    "it": "<p>Oltre ai suoi rossi della Ribera del Duero, Protos produce bianchi nella vicina Denominazione di Origine Rueda, in una propria cantina nella zona. Il Protos Verdejo è il più diffuso ed è prodotto con la varietà emblematica della denominazione.</p><p>Le uve provengono da vigneti dell’altopiano, con suoli ciottolosi e clima continentale. La vinificazione mira a preservare gli aromi varietali: fermentazione a temperatura controllata in vasche d’acciaio inox e imbottigliamento precoce, senza passaggio in legno. Si può ricorrere a un breve contatto con le fecce per dare più volume in bocca.</p><p>È un bianco da consumo quotidiano, fresco e aromatico, adatto come aperitivo e con una cucina leggera. Si gusta al meglio nel primo anno.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido con reflejos verdosos. Aromas de hierba fresca, hinojo, fruta tropical y cítricos. En boca es fresco y sabroso, con el característico final ligeramente amargo de la Verdejo.",
+    "en": "Pale yellow with green highlights. Aromas of fresh grass, fennel, tropical fruit and citrus. Fresh and flavourful on the palate, with Verdejo’s characteristic slightly bitter finish.",
+    "fr": "Jaune pâle aux reflets verts. Arômes d’herbe fraîche, de fenouil, de fruits exotiques et d’agrumes. En bouche, frais et savoureux, avec la finale légèrement amère caractéristique du verdejo.",
+    "it": "Giallo paglierino tenue con riflessi verdolini. Aromi di erba fresca, finocchio, frutta tropicale e agrumi. In bocca è fresco e saporito, con il caratteristico finale leggermente amarognolo del Verdejo."
+  },
+  "pairing": {
+    "es": "Aperitivos, ensaladas, pescados a la plancha, marisco, cocina asiática suave",
+    "en": "Appetisers, salads, grilled fish, shellfish, mild Asian cooking",
+    "fr": "Apéritifs, salades, poissons grillés, fruits de mer, cuisine asiatique douce",
+    "it": "Aperitivi, insalate, pesce alla piastra, frutti di mare, cucina asiatica delicata"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Protos Verdejo Rueda"
+}

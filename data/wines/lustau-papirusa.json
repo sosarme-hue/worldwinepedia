@@ -1,0 +1,48 @@
+{
+  "slug": "lustau-papirusa",
+  "name": "Lustau Papirusa",
+  "winery": "lustau",
+  "region": "jerez-xeres-sherry",
+  "country": "espana",
+  "type": "generoso",
+  "category": {
+    "es": "Manzanilla",
+    "en": "Manzanilla",
+    "fr": "Manzanilla",
+    "it": "Manzanilla"
+  },
+  "grapes": [
+    "palomino"
+  ],
+  "summary": {
+    "es": "Manzanilla de Lustau criada en Sanlúcar de Barrameda bajo velo de flor, de estilo ligero, seco y salino.",
+    "en": "Manzanilla from Lustau aged in Sanlúcar de Barrameda under flor, light, dry and saline in style.",
+    "fr": "Manzanilla de Lustau élevée à Sanlúcar de Barrameda sous voile de flor, de style léger, sec et salin.",
+    "it": "Manzanilla di Lustau affinata a Sanlúcar de Barrameda sotto velo di flor, di stile leggero, secco e salino."
+  },
+  "body": {
+    "es": "<p>Papirusa es la manzanilla de la gama Solera Reserva de Lustau. Como exige la denominación <strong>Manzanilla-Sanlúcar de Barrameda</strong>, se cría en bodegas de Sanlúcar, en la desembocadura del Guadalquivir, donde la humedad y la influencia atlántica favorecen un velo de flor especialmente activo durante todo el año.</p><p>Elaborada con <strong>palomino</strong>, sigue el sistema tradicional de <strong>criaderas y solera</strong>, en el que el vino joven va refrescando a los más viejos. La crianza biológica bajo la flor, sin contacto con el oxígeno, da lugar a un vino pálido, ligero y muy seco, con los matices salinos que caracterizan a la manzanilla frente al fino de Jerez o de El Puerto. Conviene beberla fresca y poco tiempo después de abrir la botella.</p>",
+    "en": "<p>Papirusa is the manzanilla in Lustau's Solera Reserva range. As the <strong>Manzanilla-Sanlúcar de Barrameda</strong> designation requires, it is aged in bodegas in Sanlúcar, at the mouth of the Guadalquivir, where humidity and Atlantic influence keep the flor especially active all year round.</p><p>Made from <strong>Palomino</strong>, it follows the traditional <strong>criaderas and solera</strong> system, in which younger wine refreshes the older ones. Biological ageing under flor, without contact with oxygen, produces a pale, light and very dry wine with the saline nuances that set manzanilla apart from the finos of Jerez or El Puerto. It is best drunk chilled and soon after opening.</p>",
+    "fr": "<p>Papirusa est la manzanilla de la gamme Solera Reserva de Lustau. Comme l'exige l'appellation <strong>Manzanilla-Sanlúcar de Barrameda</strong>, elle est élevée dans des chais de Sanlúcar, à l'embouchure du Guadalquivir, où l'humidité et l'influence atlantique entretiennent un voile de flor particulièrement actif toute l'année.</p><p>Élaborée avec du <strong>palomino</strong>, elle suit le système traditionnel des <strong>criaderas et solera</strong>, où le vin jeune rafraîchit les plus anciens. L'élevage biologique sous flor, sans contact avec l'oxygène, donne un vin pâle, léger et très sec, aux nuances salines qui distinguent la manzanilla des finos de Jerez ou d'El Puerto. Il est préférable de la boire fraîche et peu de temps après l'ouverture.</p>",
+    "it": "<p>Papirusa è la manzanilla della linea Solera Reserva di Lustau. Come richiede la denominazione <strong>Manzanilla-Sanlúcar de Barrameda</strong>, affina in bodegas di Sanlúcar, alla foce del Guadalquivir, dove l'umidità e l'influenza atlantica mantengono il velo di flor particolarmente attivo tutto l'anno.</p><p>Prodotta con <strong>Palomino</strong>, segue il sistema tradizionale di <strong>criaderas e solera</strong>, in cui il vino giovane rinfresca quelli più vecchi. L'affinamento biologico sotto flor, senza contatto con l'ossigeno, dà un vino pallido, leggero e molto secco, con le sfumature saline che distinguono la manzanilla dai fino di Jerez o di El Puerto. È meglio berla fresca e poco dopo l'apertura.</p>"
+  },
+  "tasting": {
+    "es": "Notas de camomila, almendra, levadura y brisa marina. Boca ligera, muy seca y salina, con final fresco.",
+    "en": "Notes of chamomile, almond, yeast and sea breeze. Light, very dry and saline palate with a fresh finish.",
+    "fr": "Notes de camomille, d'amande, de levure et d'air marin. Bouche légère, très sèche et saline, finale fraîche.",
+    "it": "Note di camomilla, mandorla, lievito e brezza marina. Bocca leggera, molto secca e salina, con finale fresco."
+  },
+  "pairing": {
+    "es": "Langostinos, marisco, pescaíto frito, aceitunas, jamón",
+    "en": "Prawns, shellfish, fried fish, olives, ham",
+    "fr": "Crevettes, fruits de mer, petite friture, olives, jambon",
+    "it": "Gamberi, frutti di mare, frittura di pesce, olive, prosciutto"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de vino blanco",
+    "en": "6-8 °C, white wine glass",
+    "fr": "6-8 °C, verre à vin blanc",
+    "it": "6-8 °C, calice da vino bianco"
+  },
+  "search": "Lustau Papirusa Manzanilla"
+}

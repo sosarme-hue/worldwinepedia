@@ -1,0 +1,48 @@
+{
+  "slug": "tinto-pesquera-reserva",
+  "name": "Tinto Pesquera Reserva",
+  "winery": "pesquera",
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Reserva de Tempranillo de Pesquera, de mayor crianza y estructura que el Crianza, elaborado en añadas seleccionadas.",
+    "en": "Tempranillo reserva from Pesquera, with longer ageing and more structure than the Crianza, made in selected vintages.",
+    "fr": "Reserva de tempranillo de Pesquera, plus longuement élevé et plus structuré que le Crianza, élaboré dans des millésimes sélectionnés.",
+    "it": "Reserva di Tempranillo di Pesquera, con affinamento più lungo e più struttura del Crianza, prodotto in annate selezionate."
+  },
+  "body": {
+    "es": "<p>El Tinto Pesquera Reserva se elabora, como el resto de la gama, exclusivamente con Tempranillo de viñedos del entorno de Pesquera de Duero, seleccionando las uvas de mayor concentración en las añadas adecuadas.</p><p>La categoría Reserva en Ribera del Duero exige una crianza mínima de treinta y seis meses, de los cuales al menos doce en barrica. El vino se cría en roble, mayoritariamente americano, y reposa después en botella antes de su salida al mercado.</p><p>El resultado es un tinto de Ribera clásico y estructurado, con más complejidad y notas de crianza que el Crianza, y con capacidad para evolucionar durante varios años en botella.</p><p>Los viñedos de la zona de Pesquera de Duero se sitúan en la parte central de la denominación, a una altitud elevada y con un clima continental de inviernos fríos, veranos calurosos y fuertes contrastes entre el día y la noche durante la maduración, condiciones que favorecen tintos de color intenso y buena acidez.</p>",
+    "en": "<p>Tinto Pesquera Reserva, like the rest of the range, is made exclusively from Tempranillo grown around Pesquera de Duero, selecting the most concentrated grapes in suitable vintages.</p><p>The Reserva category in Ribera del Duero requires a minimum of thirty-six months of ageing, at least twelve of them in barrel. The wine is aged in oak, mostly American, and then rests in bottle before release.</p><p>The result is a classic, structured Ribera red, with more complexity and ageing notes than the Crianza and the capacity to evolve for several years in bottle.</p><p>The vineyards around Pesquera de Duero lie in the central part of the appellation, at high altitude and with a continental climate of cold winters, hot summers and sharp day-night contrasts during ripening, conditions that favour deeply coloured reds with good acidity.</p>",
+    "fr": "<p>Le Tinto Pesquera Reserva est élaboré, comme le reste de la gamme, exclusivement avec du tempranillo de vignes situées autour de Pesquera de Duero, en sélectionnant les raisins les plus concentrés dans les millésimes adaptés.</p><p>La catégorie Reserva en Ribera del Duero exige un élevage minimum de trente-six mois, dont au moins douze en barrique. Le vin est élevé en chêne, majoritairement américain, puis repose en bouteille avant sa commercialisation.</p><p>Il en résulte un rouge de Ribera classique et structuré, plus complexe et plus marqué par l’élevage que le Crianza, capable d’évoluer plusieurs années en bouteille.</p><p>Les vignes de la zone de Pesquera de Duero se situent dans la partie centrale de l’appellation, en altitude, sous un climat continental aux hivers froids, aux étés chauds et aux forts contrastes entre le jour et la nuit pendant la maturation, conditions qui favorisent des rouges très colorés et à la bonne acidité.</p>",
+    "it": "<p>Il Tinto Pesquera Reserva è prodotto, come il resto della gamma, esclusivamente con Tempranillo di vigneti intorno a Pesquera de Duero, selezionando le uve più concentrate nelle annate adatte.</p><p>La categoria Reserva nella Ribera del Duero richiede un affinamento minimo di trentasei mesi, di cui almeno dodici in botte. Il vino affina in rovere, in prevalenza americano, e riposa poi in bottiglia prima di uscire sul mercato.</p><p>Il risultato è un rosso di Ribera classico e strutturato, con più complessità e note di affinamento rispetto al Crianza, capace di evolvere per diversi anni in bottiglia.</p><p>I vigneti della zona di Pesquera de Duero si trovano nella parte centrale della denominazione, ad altitudine elevata e con un clima continentale dagli inverni freddi, dalle estati calde e dalle forti escursioni tra giorno e notte durante la maturazione, condizioni che favoriscono rossi dal colore intenso e con buona acidità.</p>"
+  },
+  "tasting": {
+    "es": "Rubí profundo con ribete granate. Aromas de fruta negra madura, especias, cuero, tabaco y tostados. En boca es amplio y estructurado, con tanino firme y final largo.",
+    "en": "Deep ruby with a garnet rim. Aromas of ripe black fruit, spice, leather, tobacco and toast. Broad and structured on the palate, with firm tannins and a long finish.",
+    "fr": "Rubis profond aux reflets grenat. Arômes de fruits noirs mûrs, d’épices, de cuir, de tabac et de grillé. En bouche, ample et structuré, aux tanins fermes et à la finale longue.",
+    "it": "Rubino profondo con unghia granata. Aromi di frutta nera matura, spezie, cuoio, tabacco e tostatura. In bocca è ampio e strutturato, con tannino deciso e finale lungo."
+  },
+  "pairing": {
+    "es": "Lechazo asado, carnes rojas, caza, quesos curados de oveja",
+    "en": "Roast suckling lamb, red meat, game, aged sheep’s cheeses",
+    "fr": "Agneau de lait rôti, viandes rouges, gibier, fromages de brebis affinés",
+    "it": "Agnello da latte arrosto, carni rosse, cacciagione, pecorini stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia; conviene decantar",
+    "en": "16-18 °C, large glass; decanting is advisable",
+    "fr": "16-18 °C, verre ample ; il est conseillé de carafer",
+    "it": "16-18 °C, calice ampio; è consigliabile decantare"
+  },
+  "search": "Tinto Pesquera Reserva Ribera del Duero"
+}

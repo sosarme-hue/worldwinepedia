@@ -1,0 +1,43 @@
+{
+  "slug": "la-tremenda",
+  "name": "La Tremenda",
+  "winery": "enrique-mendoza",
+  "region": "alicante",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "monastrell"
+  ],
+  "summary": {
+    "es": "Monastrell de Bodegas Enrique Mendoza en la D.O. Alicante, un tinto frutal y mediterráneo de buena relación calidad-precio.",
+    "en": "Monastrell from Bodegas Enrique Mendoza in the Alicante D.O., a fruity, Mediterranean red offering good value.",
+    "fr": "Monastrell de Bodegas Enrique Mendoza dans la D.O. Alicante, un rouge fruité et méditerranéen au bon rapport qualité-prix.",
+    "it": "Monastrell di Bodegas Enrique Mendoza nella D.O. Alicante, un rosso fruttato e mediterraneo dal buon rapporto qualità-prezzo."
+  },
+  "body": {
+    "es": "<p>La Tremenda es uno de los tintos más conocidos de Enrique Mendoza. Se elabora con <strong>monastrell</strong>, la variedad tinta tradicional del interior de Alicante, procedente de viñedos de la zona de Villena y del Vinalopó, donde el clima es continental, seco y de grandes contrastes térmicos.</p><p>El vino se elabora para resaltar la fruta madura de la monastrell, con una crianza en madera moderada que suaviza el tanino sin restar frescura. El resultado es un tinto de perfil mediterráneo, generoso pero equilibrado, pensado para disfrutarse en sus primeros años. Su nombre y su precio asequible lo han convertido en una buena introducción a los tintos alicantinos y a la monastrell de la zona.</p><p>Se recomienda servirlo ligeramente por debajo de la temperatura ambiente, para que la fruta y la frescura se muestren con nitidez, y disfrutarlo preferentemente en sus primeros años tras la cosecha.</p>",
+    "en": "<p>La Tremenda is one of Enrique Mendoza's best-known reds. It is made from <strong>Monastrell</strong>, the traditional red variety of inland Alicante, from vineyards around Villena and the Vinalopó, where the climate is continental, dry and marked by wide temperature swings.</p><p>The wine is made to highlight Monastrell's ripe fruit, with moderate oak ageing that softens the tannins without taking away freshness. The result is a Mediterranean-style red, generous yet balanced, designed to be enjoyed in its first few years. Its name and affordable price have made it a good introduction to Alicante reds and the area's Monastrell.</p><p>It is best served slightly below room temperature, so that its fruit and freshness show clearly, and preferably enjoyed within its first few years after the harvest.</p>",
+    "fr": "<p>La Tremenda est l'un des rouges les plus connus d'Enrique Mendoza. Il est élaboré avec du <strong>monastrell</strong>, le cépage rouge traditionnel de l'intérieur de la province d'Alicante, provenant de vignes de la zone de Villena et du Vinalopó, où le climat est continental, sec et marqué par de grands écarts de température.</p><p>Le vin est élaboré pour mettre en valeur le fruit mûr du monastrell, avec un élevage modéré en bois qui assouplit les tanins sans ôter de fraîcheur. Il en résulte un rouge de profil méditerranéen, généreux mais équilibré, à apprécier dans ses premières années. Son nom et son prix abordable en ont fait une bonne introduction aux rouges d'Alicante et au monastrell de la région.</p><p>Il est conseillé de le servir légèrement en dessous de la température ambiante, pour que le fruit et la fraîcheur s'expriment nettement, et de l'apprécier de préférence dans ses premières années après la récolte.</p>",
+    "it": "<p>La Tremenda è uno dei rossi più noti di Enrique Mendoza. È prodotto con <strong>Monastrell</strong>, la varietà rossa tradizionale dell'entroterra di Alicante, da vigneti della zona di Villena e del Vinalopó, dove il clima è continentale, secco e con forti escursioni termiche.</p><p>Il vino è prodotto per esaltare il frutto maturo del Monastrell, con un affinamento moderato in legno che ammorbidisce il tannino senza togliere freschezza. Il risultato è un rosso dal profilo mediterraneo, generoso ma equilibrato, pensato per essere gustato nei primi anni. Il nome e il prezzo accessibile lo hanno reso una buona introduzione ai rossi alicantini e al Monastrell della zona.</p><p>Si consiglia di servirlo leggermente al di sotto della temperatura ambiente, perché frutto e freschezza emergano con nitidezza, e di gustarlo preferibilmente nei primi anni dopo la vendemmia.</p>"
+  },
+  "tasting": {
+    "es": "Fruta negra madura, ciruela, notas de hierbas mediterráneas y especias suaves. Boca carnosa, de tanino amable y final cálido.",
+    "en": "Ripe black fruit, plum, notes of Mediterranean herbs and gentle spice. Fleshy palate with friendly tannins and a warm finish.",
+    "fr": "Fruits noirs mûrs, prune, notes d'herbes méditerranéennes et d'épices douces. Bouche charnue, aux tanins aimables et à la finale chaleureuse.",
+    "it": "Frutta nera matura, prugna, note di erbe mediterranee e spezie delicate. Bocca carnosa, con tannino gentile e finale caldo."
+  },
+  "pairing": {
+    "es": "Arroz con conejo, gazpachos manchegos, carnes a la brasa, embutidos",
+    "en": "Rice with rabbit, game flatbread stews, chargrilled meats, charcuterie",
+    "fr": "Riz au lapin, gaspachos manchegos, viandes à la braise, charcuterie",
+    "it": "Riso con coniglio, gazpachos manchegos, carni alla brace, salumi"
+  },
+  "serve": {
+    "es": "15-17 °C, copa amplia",
+    "en": "15-17 °C, large glass",
+    "fr": "15-17 °C, grand verre",
+    "it": "15-17 °C, calice ampio"
+  },
+  "search": "La Tremenda Monastrell Enrique Mendoza"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "alvear-fino-cb",
+  "name": "Alvear Fino C.B.",
+  "winery": "alvear",
+  "region": "montilla-moriles",
+  "country": "espana",
+  "type": "generoso",
+  "category": {
+    "es": "Fino",
+    "en": "Fino",
+    "fr": "Fino",
+    "it": "Fino"
+  },
+  "grapes": ["pedro-ximenez"],
+  "summary": {
+    "es": "Fino clásico de Alvear en la D.O. Montilla-Moriles, elaborado con Pedro Ximénez y criado bajo velo de flor.",
+    "en": "Classic Alvear fino from the Montilla-Moriles D.O., made from Pedro Ximénez and aged under flor.",
+    "fr": "Fino classique d'Alvear dans la D.O. Montilla-Moriles, élaboré avec du pedro ximénez et élevé sous voile de flor.",
+    "it": "Fino classico di Alvear nella D.O. Montilla-Moriles, prodotto con Pedro Ximénez e affinato sotto velo di flor."
+  },
+  "body": {
+    "es": "<p>El Fino C.B. es uno de los vinos más conocidos de Alvear y un buen ejemplo del fino de <strong>Montilla-Moriles</strong>. A diferencia del fino de Jerez, se elabora con <strong>Pedro Ximénez</strong>, una uva que en el clima cálido del sur de Córdoba madura hasta alcanzar de forma natural la graduación necesaria, por lo que estos finos no suelen requerir encabezamiento con alcohol.</p><p>Tras la fermentación, que tradicionalmente se realiza en grandes tinajas, el vino pasa al sistema de <strong>criaderas y solera</strong>, donde se cría bajo el <strong>velo de flor</strong>. El resultado es un fino pálido, seco y aromático, algo más amplio y suave en boca que muchos finos jerezanos. Conviene servirlo fresco y consumirlo en un plazo razonable una vez abierto.</p>",
+    "en": "<p>Fino C.B. is one of Alvear's best-known wines and a good example of <strong>Montilla-Moriles</strong> fino. Unlike Jerez fino, it is made from <strong>Pedro Ximénez</strong>, a grape that in the warm climate of southern Córdoba ripens enough to reach the required strength naturally, so these finos do not usually need fortification.</p><p>After fermentation, traditionally carried out in large tinajas (earthenware or concrete vats), the wine goes into the <strong>criaderas and solera</strong> system, where it ages under <strong>flor</strong>. The result is a pale, dry, aromatic fino, somewhat broader and softer on the palate than many Jerez finos. It should be served chilled and drunk within a reasonable time once opened.</p>",
+    "fr": "<p>Le Fino C.B. est l'un des vins les plus connus d'Alvear et un bon exemple du fino de <strong>Montilla-Moriles</strong>. Contrairement au fino de Jerez, il est élaboré avec du <strong>pedro ximénez</strong>, un raisin qui, sous le climat chaud du sud de la province de Cordoue, mûrit jusqu'à atteindre naturellement le degré requis ; ces finos n'ont donc généralement pas besoin d'être mutés.</p><p>Après la fermentation, traditionnellement réalisée dans de grandes jarres (tinajas), le vin passe dans le système des <strong>criaderas et solera</strong>, où il s'élève sous le <strong>voile de flor</strong>. Il en résulte un fino pâle, sec et aromatique, un peu plus ample et plus doux en bouche que bien des finos de Jerez. Il se sert frais et se boit dans un délai raisonnable une fois ouvert.</p>",
+    "it": "<p>Il Fino C.B. è uno dei vini più noti di Alvear e un buon esempio di fino di <strong>Montilla-Moriles</strong>. A differenza del fino di Jerez, è prodotto con <strong>Pedro Ximénez</strong>, un'uva che nel clima caldo del sud della provincia di Córdoba matura fino a raggiungere naturalmente la gradazione necessaria; per questo questi fino di solito non richiedono fortificazione.</p><p>Dopo la fermentazione, tradizionalmente svolta in grandi giare (tinajas), il vino passa nel sistema di <strong>criaderas e solera</strong>, dove affina sotto il <strong>velo di flor</strong>. Il risultato è un fino pallido, secco e aromatico, un po' più ampio e morbido in bocca di molti fino di Jerez. Va servito fresco e consumato in tempi ragionevoli una volta aperto.</p>"
+  },
+  "tasting": {
+    "es": "Almendra, levadura, notas de pan y un toque herbáceo. Boca seca, suave y fresca, con final ligeramente amargo.",
+    "en": "Almond, yeast, bready notes and a herbal touch. Dry, smooth, fresh palate with a slightly bitter finish.",
+    "fr": "Amande, levure, notes de pain et touche herbacée. Bouche sèche, souple et fraîche, à la finale légèrement amère.",
+    "it": "Mandorla, lievito, note di pane e un tocco erbaceo. Bocca secca, morbida e fresca, con finale leggermente amarognolo."
+  },
+  "pairing": {
+    "es": "Salmorejo, aceitunas, jamón, pescado frito, berenjenas con miel",
+    "en": "Salmorejo, olives, ham, fried fish, aubergines with honey",
+    "fr": "Salmorejo, olives, jambon, poisson frit, aubergines au miel",
+    "it": "Salmorejo, olive, prosciutto, pesce fritto, melanzane al miele"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de vino blanco",
+    "en": "6-8 °C, white wine glass",
+    "fr": "6-8 °C, verre à vin blanc",
+    "it": "6-8 °C, calice da vino bianco"
+  },
+  "search": "Alvear Fino C.B. Montilla"
+}

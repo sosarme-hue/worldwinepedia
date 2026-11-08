@@ -1,0 +1,46 @@
+{
+  "slug": "recaredo-terrers",
+  "name": "Recaredo Terrers",
+  "winery": "recaredo",
+  "region": "penedes",
+  "country": "espana",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut Nature",
+    "en": "Brut Nature",
+    "fr": "Brut Nature",
+    "it": "Brut Nature"
+  },
+  "grapes": ["xarel-lo", "macabeo", "parellada"],
+  "summary": {
+    "es": "Espumoso Brut Nature de larga crianza de Recaredo, elaborado con uva propia de viticultura biodinámica y amparado por la marca colectiva Corpinnat.",
+    "en": "Long-aged Brut Nature sparkling wine from Recaredo, made from the estate's own biodynamically farmed grapes and released under the Corpinnat collective brand.",
+    "fr": "Effervescent Brut Nature à long vieillissement de Recaredo, élaboré avec des raisins propres cultivés en biodynamie et commercialisé sous la marque collective Corpinnat.",
+    "it": "Spumante Brut Nature a lungo affinamento di Recaredo, prodotto con uve proprie da viticoltura biodinamica e commercializzato con il marchio collettivo Corpinnat."
+  },
+  "body": {
+    "es": "<p>Terrers es uno de los espumosos centrales de la gama de Recaredo. Su nombre alude a los suelos (<em>terrers</em>) calcáreos del Alt Penedès en los que se cultivan las uvas, todas de viñedos propios trabajados según principios biodinámicos.</p><p>Se elabora mayoritariamente con <strong>xarel·lo</strong>, junto a <strong>macabeo</strong> y <strong>parellada</strong>, por el método tradicional, con segunda fermentación en botella. Durante la crianza las botellas se cierran con tapón de corcho y reposan varios años sobre sus lías antes de un degüelle manual. Como todos los vinos de la casa, es un <strong>Brut Nature</strong>, sin azúcar añadido en el licor de expedición, lo que deja ver con nitidez la acidez y el carácter de la uva. Desde 2019 se comercializa bajo la marca <strong>Corpinnat</strong> y no como Cava.</p>",
+    "en": "<p>Terrers is one of the core sparkling wines in Recaredo's range. Its name refers to the limestone soils (<em>terrers</em>) of Alt Penedès where the grapes are grown, all from the estate's own vineyards farmed according to biodynamic principles.</p><p>It is made mostly from <strong>Xarel·lo</strong>, together with <strong>Macabeo</strong> and <strong>Parellada</strong>, by the traditional method, with a second fermentation in bottle. During ageing the bottles are sealed with a cork stopper and rest for several years on their lees before manual disgorgement. Like all the house's wines it is a <strong>Brut Nature</strong>, with no sugar added in the dosage, which lets the acidity and character of the grapes show clearly. Since 2019 it has been sold under the <strong>Corpinnat</strong> brand rather than as Cava.</p>",
+    "fr": "<p>Terrers est l'un des effervescents centraux de la gamme de Recaredo. Son nom fait référence aux sols calcaires (<em>terrers</em>) de l'Alt Penedès où sont cultivés les raisins, tous issus des vignes du domaine conduites selon les principes de la biodynamie.</p><p>Il est élaboré majoritairement avec du <strong>xarel·lo</strong>, accompagné de <strong>macabeu</strong> et de <strong>parellada</strong>, selon la méthode traditionnelle, avec seconde fermentation en bouteille. Pendant l'élevage, les bouteilles sont fermées par un bouchon de liège et reposent plusieurs années sur lies avant un dégorgement manuel. Comme tous les vins de la maison, c'est un <strong>Brut Nature</strong>, sans sucre ajouté dans la liqueur d'expédition, ce qui laisse apparaître nettement l'acidité et le caractère du raisin. Depuis 2019, il est commercialisé sous la marque <strong>Corpinnat</strong> et non comme Cava.</p>",
+    "it": "<p>Terrers è uno degli spumanti centrali della gamma di Recaredo. Il nome allude ai suoli calcarei (<em>terrers</em>) dell'Alt Penedès dove si coltivano le uve, tutte da vigneti propri condotti secondo principi biodinamici.</p><p>È prodotto in prevalenza con <strong>Xarel·lo</strong>, insieme a <strong>Macabeo</strong> e <strong>Parellada</strong>, con il metodo classico e seconda fermentazione in bottiglia. Durante l'affinamento le bottiglie sono chiuse con tappo di sughero e riposano diversi anni sui lieviti prima della sboccatura manuale. Come tutti i vini della casa è un <strong>Brut Nature</strong>, senza zucchero aggiunto nella liqueur d'expédition, il che lascia emergere con nitidezza l'acidità e il carattere dell'uva. Dal 2019 è commercializzato con il marchio <strong>Corpinnat</strong> e non come Cava.</p>"
+  },
+  "tasting": {
+    "es": "Fruta blanca, cítricos, notas de hierbas, frutos secos y pan tostado de la larga crianza. Burbuja fina, boca seca, tensa y con final largo.",
+    "en": "White fruit, citrus, herbal notes, nuts and toast from the long ageing. Fine bubbles, a dry, taut palate and a long finish.",
+    "fr": "Fruits blancs, agrumes, notes d'herbes, de fruits secs et de pain grillé dues au long élevage. Bulles fines, bouche sèche et tendue, finale longue.",
+    "it": "Frutta bianca, agrumi, note erbacee, frutta secca e pane tostato dal lungo affinamento. Perlage fine, bocca secca e tesa, finale lungo."
+  },
+  "pairing": {
+    "es": "Marisco, pescados a la plancha, arroces, jamón ibérico",
+    "en": "Shellfish, grilled fish, rice dishes, Iberian ham",
+    "fr": "Fruits de mer, poissons à la plancha, plats de riz, jambon ibérique",
+    "it": "Frutti di mare, pesce alla piastra, risi, prosciutto iberico"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Recaredo Terrers Brut Nature Corpinnat"
+}

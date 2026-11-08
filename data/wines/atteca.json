@@ -1,0 +1,43 @@
+{
+  "slug": "atteca",
+  "name": "Atteca",
+  "winery": "bodegas-ateca",
+  "region": "calatayud",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Garnacha de viñas viejas de altitud de Bodegas Ateca, en la D.O. Calatayud, con crianza en barrica.",
+    "en": "High-altitude old-vine Garnacha from Bodegas Ateca in the Calatayud D.O., aged in barrel.",
+    "fr": "Grenache de vieilles vignes d'altitude de Bodegas Ateca, dans la D.O. Calatayud, élevé en barrique.",
+    "it": "Grenache di vecchie vigne d'altura di Bodegas Ateca, nella D.O. Calatayud, affinata in barrique."
+  },
+  "body": {
+    "es": "<p>Atteca es el vino que da nombre a la gama principal de Bodegas Ateca. Se elabora con <strong>garnacha</strong> de cepas viejas plantadas en vaso en los alrededores de Ateca, en el valle del Jalón, dentro de la D.O. Calatayud. Los viñedos se sitúan a gran altitud, sobre suelos pobres de pizarra, cantos y caliza.</p><p>El clima continental extremo, con noches frescas incluso en verano, permite que la garnacha madure sin perder del todo su acidez. El vino se cría en barricas de roble durante varios meses, lo que añade estructura y notas especiadas. Es una garnacha concentrada y madura, pero con frescura, que representa bien el carácter de los tintos de altura de Calatayud.</p><p>Puede disfrutarse desde su salida al mercado, aunque suele ganar en armonía con algunos años de guarda en buenas condiciones; airearlo unos minutos antes de servir ayuda a que se exprese mejor.</p>",
+    "en": "<p>Atteca is the wine that gives its name to Bodegas Ateca's main range. It is made from old bush-trained <strong>Garnacha</strong> vines around Ateca, in the Jalón valley, within the Calatayud D.O. The vineyards lie at high altitude, on poor soils of slate, stones and limestone.</p><p>The extreme continental climate, with cool nights even in summer, allows Garnacha to ripen without entirely losing its acidity. The wine is aged in oak barrels for several months, which adds structure and spicy notes. It is a concentrated, ripe Garnacha with freshness, a good representative of the high-altitude reds of Calatayud.</p><p>It can be enjoyed on release, although it usually gains in harmony with a few years of cellaring in good conditions; airing it for a few minutes before serving helps it express itself better.</p>",
+    "fr": "<p>Atteca est le vin qui donne son nom à la gamme principale de Bodegas Ateca. Il est élaboré avec du <strong>grenache</strong> de vieilles vignes en gobelet des environs d'Ateca, dans la vallée du Jalón, au sein de la D.O. Calatayud. Les vignes se situent en altitude, sur des sols pauvres de schiste, de cailloux et de calcaire.</p><p>Le climat continental extrême, avec des nuits fraîches même en été, permet au grenache de mûrir sans perdre toute son acidité. Le vin est élevé plusieurs mois en barriques de chêne, ce qui lui apporte structure et notes épicées. C'est un grenache concentré et mûr, mais frais, représentatif des rouges d'altitude de Calatayud.</p><p>Il peut s'apprécier dès sa commercialisation, mais gagne généralement en harmonie après quelques années de garde dans de bonnes conditions ; l'aérer quelques minutes avant le service l'aide à mieux s'exprimer.</p>",
+    "it": "<p>Atteca è il vino che dà il nome alla linea principale di Bodegas Ateca. È prodotto con <strong>Grenache</strong> di vecchie viti ad alberello dei dintorni di Ateca, nella valle del Jalón, all'interno della D.O. Calatayud. I vigneti si trovano ad alta quota, su suoli poveri di ardesia, ciottoli e calcare.</p><p>Il clima continentale estremo, con notti fresche anche d'estate, permette alla Grenache di maturare senza perdere del tutto l'acidità. Il vino affina per diversi mesi in barrique di rovere, che aggiungono struttura e note speziate. È una Grenache concentrata e matura ma fresca, ben rappresentativa dei rossi d'altura di Calatayud.</p><p>Si può gustare fin dall'uscita sul mercato, anche se di solito guadagna in armonia con qualche anno di cantina in buone condizioni; arieggiarlo qualche minuto prima di servirlo lo aiuta a esprimersi meglio.</p>"
+  },
+  "tasting": {
+    "es": "Fruta negra y roja madura, notas de monte, especias y un fondo mineral. Boca con cuerpo, tanino maduro y final largo.",
+    "en": "Ripe black and red fruit, notes of wild herbs, spice and a mineral background. Full-bodied palate with ripe tannins and a long finish.",
+    "fr": "Fruits noirs et rouges mûrs, notes de garrigue, d'épices et fond minéral. Bouche ample, aux tanins mûrs et à la finale longue.",
+    "it": "Frutta nera e rossa matura, note di macchia, spezie e un fondo minerale. Bocca di corpo, con tannino maturo e finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero, carnes rojas a la brasa, guisos, quesos curados",
+    "en": "Lamb, chargrilled red meats, stews, aged cheeses",
+    "fr": "Agneau, viandes rouges à la braise, ragoûts, fromages affinés",
+    "it": "Agnello, carni rosse alla brace, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, grand verre",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Atteca Garnacha Calatayud"
+}

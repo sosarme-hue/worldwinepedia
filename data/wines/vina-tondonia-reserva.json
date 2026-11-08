@@ -1,0 +1,41 @@
+{
+  "slug": "vina-tondonia-reserva",
+  "name": "Viña Tondonia Reserva",
+  "winery": "lopez-de-heredia",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {"es": "Reserva", "en": "Reserva", "fr": "Reserva", "it": "Reserva"},
+  "grapes": ["tempranillo", "garnacha", "graciano", "carinena"],
+  "summary": {
+    "es": "Tinto emblemático de López de Heredia, procedente de la finca Tondonia, que encarna el Rioja clásico de larga crianza en barrica.",
+    "en": "López de Heredia’s emblematic red from the Tondonia estate, embodying classic Rioja with long barrel ageing.",
+    "fr": "Rouge emblématique de López de Heredia, issu du domaine de Tondonia, qui incarne le Rioja classique à long élevage en barrique.",
+    "it": "Rosso emblematico di López de Heredia, proveniente dalla tenuta Tondonia, che incarna il Rioja classico a lungo affinamento in botte."
+  },
+  "body": {
+    "es": "<p>El Viña Tondonia Reserva se elabora con uvas de la finca Tondonia, situada junto al Ebro en las cercanías de Haro, a partir de una mezcla dominada por la Tempranillo, completada con Garnacha, Graciano y Mazuelo (Cariñena). La fermentación se realiza en grandes tinas de roble, siguiendo los métodos tradicionales de la casa.</p><p>El vino pasa después varios años en barricas de roble usadas, con trasiegos manuales periódicos, y se clarifica con clara de huevo antes de embotellarse. La bodega lo saca al mercado muchos años después de la vendimia, cuando considera que ha alcanzado su punto, por lo que las añadas disponibles suelen ser antiguas en comparación con otros reservas.</p><p>Es un tinto de estilo deliberadamente clásico, en el que la crianza oxidativa en madera domina sobre la fruta primaria. Su acidez y su estructura le confieren una notable capacidad de guarda, y muchos aficionados lo consideran una referencia para entender el Rioja tradicional.</p>",
+    "en": "<p>Viña Tondonia Reserva is made from grapes grown on the Tondonia estate, beside the Ebro near Haro, from a blend dominated by Tempranillo and completed with Grenache, Graciano and Mazuelo (Carignan). Fermentation takes place in large oak vats, following the house’s traditional methods.</p><p>The wine then spends several years in used oak barrels, with regular manual racking, and is fined with egg whites before bottling. The winery releases it many years after the harvest, when it judges it to be ready, so the vintages on sale are usually older than those of other reservas.</p><p>It is a deliberately classic red, in which oxidative ageing in wood dominates over primary fruit. Its acidity and structure give it remarkable ageing potential, and many enthusiasts regard it as a benchmark for understanding traditional Rioja.</p>",
+    "fr": "<p>Le Viña Tondonia Reserva est élaboré avec des raisins du domaine de Tondonia, au bord de l’Èbre près de Haro, à partir d’un assemblage dominé par le tempranillo, complété par le grenache, le graciano et le mazuelo (carignan). La fermentation a lieu dans de grandes cuves en chêne, selon les méthodes traditionnelles de la maison.</p><p>Le vin passe ensuite plusieurs années en barriques de chêne usagées, avec des soutirages manuels réguliers, et il est collé au blanc d’œuf avant la mise en bouteille. La maison le commercialise de nombreuses années après les vendanges, lorsqu’elle le juge prêt, si bien que les millésimes disponibles sont souvent plus anciens que ceux d’autres reservas.</p><p>C’est un rouge au style délibérément classique, où l’élevage oxydatif sous bois prend le pas sur le fruit primaire. Son acidité et sa structure lui donnent un remarquable potentiel de garde, et de nombreux amateurs le considèrent comme une référence pour comprendre le Rioja traditionnel.</p>",
+    "it": "<p>Il Viña Tondonia Reserva è prodotto con uve della tenuta Tondonia, accanto all’Ebro nei pressi di Haro, da un uvaggio dominato dal Tempranillo e completato da Grenache, Graciano e Mazuelo (Carignano). La fermentazione avviene in grandi tini di rovere, secondo i metodi tradizionali della casa.</p><p>Il vino trascorre poi diversi anni in botti di rovere usate, con travasi manuali periodici, e viene chiarificato con albume d’uovo prima dell’imbottigliamento. La cantina lo mette in commercio molti anni dopo la vendemmia, quando lo ritiene pronto, per cui le annate disponibili sono di solito più vecchie rispetto ad altri reserva.</p><p>È un rosso di stile volutamente classico, in cui l’affinamento ossidativo nel legno prevale sul frutto primario. La sua acidità e la sua struttura gli conferiscono una notevole capacità di invecchiamento, e molti appassionati lo considerano un riferimento per capire il Rioja tradizionale.</p>"
+  },
+  "tasting": {
+    "es": "Color rubí de intensidad media con ribete teja. En nariz, fruta roja madura junto a notas de cuero, tabaco, especias y madera vieja. En boca es de cuerpo medio, con acidez viva y tanino pulido.",
+    "en": "Medium-intensity ruby with a brick-coloured rim. On the nose, ripe red fruit alongside notes of leather, tobacco, spice and old wood. Medium-bodied on the palate, with lively acidity and polished tannins.",
+    "fr": "Robe rubis d’intensité moyenne aux reflets tuilés. Au nez, fruits rouges mûrs accompagnés de notes de cuir, de tabac, d’épices et de vieux bois. En bouche, corps moyen, acidité vive et tanins polis.",
+    "it": "Colore rubino di media intensità con unghia aranciata. Al naso, frutta rossa matura con note di cuoio, tabacco, spezie e legno vecchio. In bocca ha corpo medio, acidità vivace e tannino levigato."
+  },
+  "pairing": {
+    "es": "Chuletillas de cordero, asados, guisos de caza, setas, quesos curados",
+    "en": "Lamb chops, roasts, game stews, mushrooms, aged cheeses",
+    "fr": "Côtelettes d’agneau, rôtis, civets de gibier, champignons, fromages affinés",
+    "it": "Costolette d’agnello, arrosti, stufati di cacciagione, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia; conviene decantar si tiene sedimento",
+    "en": "16-18 °C, large glass; decant if there is sediment",
+    "fr": "16-18 °C, verre ample ; carafer en cas de dépôt",
+    "it": "16-18 °C, calice ampio; decantare in presenza di sedimento"
+  },
+  "search": "Viña Tondonia Reserva López de Heredia"
+}
