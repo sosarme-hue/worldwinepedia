@@ -5,7 +5,7 @@
     "FR": {"name": "Amazon.fr", "domain": "www.amazon.fr", "tag": ""},
     "IT": {"name": "Amazon.it", "domain": "www.amazon.it", "tag": ""},
     "DE": {"name": "Amazon.de", "domain": "www.amazon.de", "tag": ""},
-    "UK": {"name": "Amazon.co.uk", "domain": "www.amazon.co.uk", "tag": ""}
+    "UK": {"name": "Amazon.co.uk", "domain": "www.amazon.co.uk", "tag": "partenopide04-21"}
   },
   "shops": [],
   "_ejemplo_shop": {"name": "Tienda", "countries": ["ES", "FR"], "url": "https://www.awin1.com/cread.php?awinmid=MERCHANT&awinaffid=PUBLISHER&ued=https%3A%2F%2Ftienda.com%2Fbuscar%3Fq%3D{q}"},
