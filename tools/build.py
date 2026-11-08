@@ -53,6 +53,19 @@ def photo(f, l, w=1400, cls='hero-photo'):
             f'<a href="https://unsplash.com/{ref}" rel="nofollow noopener" target="_blank">Unsplash</a>{ill}</figcaption></figure>')
 STORES = json.load(open(os.path.join(ROOT, 'stores.json'), encoding='utf-8'))
 
+try: CUL = json.load(open(os.path.join(ROOT, 'data', 'culinapedia_links.json'), encoding='utf-8'))
+except Exception: CUL = {}
+CUL_T = {"es": ("Más historia en Culinapedia", "Historia y cultura de {n} en Culinapedia, la enciclopedia de la gastronomía."),
+         "en": ("More history on Culinapedia", "History and culture of {n} on Culinapedia, the encyclopedia of food and culinary culture."),
+         "fr": ("Plus d'histoire sur Culinapedia", "Histoire et culture de {n} sur Culinapedia (en anglais)."),
+         "it": ("Più storia su Culinapedia", "Storia e cultura di {n} su Culinapedia (in inglese).")}
+def cul_box(l, kind, slug, name):
+    p = CUL.get(kind, {}).get(slug)
+    if not p: return ''
+    href = 'https://culinapedia.com/' + ('' if l == 'es' else 'en/') + p
+    t, d = CUL_T[l]
+    return f'<div class="box"><h3>{t}</h3><p><a href="{e(href)}" rel="noopener" target="_blank">{e(d.format(n=name))} ↗</a></p></div>'
+
 def T(x, l):
     if x is None: return ''
     if isinstance(x, dict): return x.get(l) or x.get('es') or x.get('en') or ''
@@ -330,7 +343,7 @@ def winery_page(l, b):
     reg = R.get(b.get('region'), {}); co = C.get(b.get('country') or reg.get('country'), {})
     wines = [w for w in V.values() if w.get('winery') == b['slug']]
     site = f'<a href="{e(b["website"])}" rel="nofollow noopener" target="_blank">{e(re.sub("^https?://(www.)?", "", b["website"]).strip("/"))}</a>' if b.get('website') else ''
-    side = '<aside>' + facts([(s('region', l), a_(url(l, 'regions', reg['slug']), T(reg['name'], l)) if reg else ''), (s('country', l), a_(url(l, 'countries', co['slug']), T(co['name'], l)) if co else ''), (s('town', l), e(b.get('town') or '')), (s('founded', l), str(b['founded']) if b.get('founded') else ''), (s('website', l), site)]) + '</aside>'
+    side = '<aside>' + facts([(s('region', l), a_(url(l, 'regions', reg['slug']), T(reg['name'], l)) if reg else ''), (s('country', l), a_(url(l, 'countries', co['slug']), T(co['name'], l)) if co else ''), (s('town', l), e(b.get('town') or '')), (s('founded', l), str(b['founded']) if b.get('founded') else ''), (s('website', l), site)]) + cul_box(l, 'wineries', b['slug'], b["name"]) + '</aside>'
     visits = f'<div class="box"><h3>{s("visits", l)}</h3><p>{e(T(b.get("visits"), l))}</p></div>' if b.get('visits') else ''
     wl = f'<h2 style="margin-top:36px">{s("wines_of", l)}</h2><div class="listgrid" data-filter-scope>' + ''.join(wine_card(l, w) for w in wines) + '</div>' if wines else ''
     main = f'<div>{crumbs(l, [(T(co.get("name"), l), url(l, "countries", co["slug"]) if co else None), (T(reg.get("name"), l), url(l, "regions", reg["slug"]) if reg else None), (b["name"], None)])}<span class="eyebrow">{s("winery", l)}</span><h1>{e(b["name"])}</h1><p class="lead">{e(T(b.get("summary"), l))}</p>{photo(WM.get("wineries", {}).get(b["slug"]) or pick(IMG.get("wineries_pool", []), b["slug"]), l)}<div class="prose">{T(b.get("body"), l)}</div>{visits}</div>'
@@ -341,7 +354,7 @@ def region_page(l, r):
     co = C.get(r.get('country'), {})
     wines = [w for w in V.values() if w.get('region') == r['slug']]
     wins = [b for b in B.values() if b.get('region') == r['slug']]
-    side = '<aside>' + facts([(s('country', l), a_(url(l, 'countries', co['slug']), T(co['name'], l)) if co else ''), ('', ''), (s('climate', l), e(T(r.get('climate'), l))), (s('soils', l), e(T(r.get('soils'), l))), (s('styles', l), e(T(r.get('styles'), l))), (s('grapes', l), grape_links(l, r.get('grapes', [])))]) + (f'<div class="box"><h3>{s("wineries_of", l)}</h3>{linklist([(b["name"], url(l, "wineries", b["slug"])) for b in wins])}</div>' if wins else '') + '</aside>'
+    side = '<aside>' + facts([(s('country', l), a_(url(l, 'countries', co['slug']), T(co['name'], l)) if co else ''), ('', ''), (s('climate', l), e(T(r.get('climate'), l))), (s('soils', l), e(T(r.get('soils'), l))), (s('styles', l), e(T(r.get('styles'), l))), (s('grapes', l), grape_links(l, r.get('grapes', [])))]) + (f'<div class="box"><h3>{s("wineries_of", l)}</h3>{linklist([(b["name"], url(l, "wineries", b["slug"])) for b in wins])}</div>' if wins else '') + cul_box(l, 'regions', r['slug'], T(r["name"], l)) + '</aside>'
     main = f'<div>{crumbs(l, [(T(co.get("name"), l), url(l, "countries", co["slug"]) if co else None), (T(r["name"], l), None)])}<span class="eyebrow">{e(T(r.get("kind"), l))}</span><h1>{e(T(r["name"], l))}</h1><p class="lead">{e(T(r.get("summary"), l))}</p>{photo(WM.get("regions", {}).get(r["slug"]) or IMG.get("regions", {}).get(r["slug"]), l)}<div class="prose">{T(r.get("body"), l)}</div></div>'
     wl = f'<section data-filter-scope style="margin-top:40px"><h2>{s("wines_of", l)} · {e(T(r["name"], l))}</h2>{type_pills(l, set(w.get("type") for w in wines))}<div class="listgrid">' + ''.join(wine_card(l, w) for w in wines) + '</div></section>' if wines else ''
     body = f'<main class="page"><div class="detail">{main}{side}</div>{wl}</main>'
@@ -359,7 +372,7 @@ def country_page(l, c):
 def grape_page(l, g):
     regs = [r for r in R.values() if g['slug'] in r.get('grapes', [])]
     wines = [w for w in V.values() if g['slug'] in w.get('grapes', [])]
-    side = '<aside>' + facts([(s('origin', l), e(T(g.get('origin'), l))), (s('synonyms', l), e(', '.join(g.get('synonyms') or []))), (s('aromas', l), e(T(g.get('aromas'), l))), (s('type', l), s('color_' + g.get('color', 'tinta'), l))]) + (f'<div class="box"><h3>{s("where_grown", l)}</h3>{linklist([(T(r["name"], l), url(l, "regions", r["slug"])) for r in regs])}</div>' if regs else '') + '</aside>'
+    side = '<aside>' + facts([(s('origin', l), e(T(g.get('origin'), l))), (s('synonyms', l), e(', '.join(g.get('synonyms') or []))), (s('aromas', l), e(T(g.get('aromas'), l))), (s('type', l), s('color_' + g.get('color', 'tinta'), l))]) + (f'<div class="box"><h3>{s("where_grown", l)}</h3>{linklist([(T(r["name"], l), url(l, "regions", r["slug"])) for r in regs])}</div>' if regs else '') + cul_box(l, 'grapes', g['slug'], T(g["name"], l)) + '</aside>'
     main = f'<div>{crumbs(l, [(s("nav_grapes", l), url(l, "grapes")), (T(g["name"], l), None)])}<span class="eyebrow">{s("color_" + g.get("color", "tinta"), l)}</span><h1>{e(T(g["name"], l))}</h1><p class="lead">{e(T(g.get("summary"), l))}</p>{photo(pick(IMG.get("grapes_" + g.get("color", "tinta"), []), g["slug"]), l)}<div class="prose">{T(g.get("body"), l)}</div></div>'
     wl = f'<section data-filter-scope style="margin-top:40px"><h2>{s("wines_with", l)}</h2><div class="listgrid">' + ''.join(wine_card(l, w) for w in wines) + '</div></section>' if wines else ''
     body = f'<main class="page"><div class="detail">{main}{side}</div>{wl}</main>'

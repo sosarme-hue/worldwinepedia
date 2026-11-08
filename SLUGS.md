@@ -26,3 +26,18 @@ grapes nuevas (tanda 2): gamay, chenin-blanc, viognier, semillon, cinsault, pino
  barbera, dolcetto, corvina, glera, garganega, montepulciano, aglianico, nero-davola, primitivo, nerello-mascalese, vermentino, trebbiano, fiano, lambrusco,
  touriga-nacional, touriga-franca, baga, arinto, encruzado, castelao, alicante-bouschet, sercial, verdelho
 (Equivalencias: Grenache = garnacha, Mourvèdre = monastrell, Carignan = carinena, Tinta Roriz/Aragonez = tempranillo, Alvarinho = albarino, Pinot Grigio = pinot-gris, Malvasia/Malmsey = malvasia, Moscato = moscatel)
+
+# Tanda 3: Alemania, Austria, EE. UU., Argentina, Chile, Australia, Nueva Zelanda, Sudáfrica
+countries: alemania, austria, estados-unidos, argentina, chile, australia, nueva-zelanda, sudafrica
+
+regions alemania: mosel, rheingau, pfalz, rheinhessen, nahe, baden, franken
+regions austria: wachau, kamptal, kremstal, burgenland, weinviertel
+regions estados-unidos: napa-valley, sonoma, paso-robles, santa-barbara, willamette-valley, columbia-valley, finger-lakes
+regions argentina: mendoza, valle-de-uco, lujan-de-cuyo, salta, patagonia
+regions chile: valle-del-maipo, colchagua, casablanca, aconcagua, maule, itata
+regions australia: barossa-valley, mclaren-vale, clare-valley, eden-valley, coonawarra, hunter-valley, yarra-valley, margaret-river, tasmania
+regions nueva-zelanda: marlborough, central-otago, hawkes-bay, martinborough
+regions sudafrica: stellenbosch, swartland, constantia, franschhoek, paarl
+
+grapes nuevas (tanda 3): gruner-veltliner, blaufrankisch, zweigelt, silvaner, muller-thurgau, torrontes, carmenere, pinotage, pais, bonarda, petite-sirah
+(Equivalencias: Zinfandel = primitivo, Spätburgunder = pinot-noir, Shiraz = syrah, Grauburgunder = pinot-gris, Weissburgunder/Pinot Blanc: sólo en texto, Lemberger = blaufrankisch, Steen = chenin-blanc, Cot = malbec)
