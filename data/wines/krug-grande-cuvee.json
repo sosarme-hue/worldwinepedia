@@ -1,0 +1,49 @@
+{
+  "slug": "krug-grande-cuvee",
+  "name": "Krug Grande Cuvée",
+  "winery": "krug",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut",
+    "en": "Brut",
+    "fr": "Brut",
+    "it": "Brut"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Cuvée de prestige de Krug, ensamblaje de más de cien vinos de numerosas parcelas y de muchos años distintos, comercializado con un número de edición.",
+    "en": "Krug’s prestige cuvée, a blend of more than a hundred wines from many plots and many different years, sold with an edition number.",
+    "fr": "Cuvée de prestige de Krug, assemblage de plus d’une centaine de vins issus de nombreuses parcelles et de nombreuses années différentes, commercialisé avec un numéro d’édition.",
+    "it": "Cuvée di prestigio di Krug, assemblaggio di oltre cento vini di numerose parcelle e di molti anni diversi, commercializzato con un numero di edizione."
+  },
+  "body": {
+    "es": "<p>La Grande Cuvée es el vino que mejor resume la filosofía de Krug. Cada edición se construye a partir de una cosecha base, a la que se añaden numerosos <strong>vinos de reserva</strong> de muchos años anteriores, conservados en la bodega de la casa. En total, el ensamblaje reúne habitualmente más de un centenar de vinos distintos.</p><p>Las variedades son las tres clásicas de Champagne: <strong>Pinot Noir</strong>, <strong>Chardonnay</strong> y Pinot Meunier, en proporciones que varían según la edición. Los vinos base se fermentan en pequeñas barricas de roble usadas y, tras el ensamblaje y la segunda fermentación en botella, el champán reposa durante muchos años sobre sus lías antes de salir al mercado. Desde 2016 la etiqueta indica el número de edición, que identifica la cosecha base.</p><p>Es un champán de gran riqueza y complejidad, con aromas de fruta madura, frutos secos, brioche y especias, y una burbuja fina. Aunque no es un champán de añada, puede evolucionar durante años en botella.</p>",
+    "en": "<p>Grande Cuvée is the wine that best sums up Krug’s philosophy. Each edition is built on a base harvest, to which many <strong>reserve wines</strong> from numerous earlier years, kept in the house cellar, are added. In all, the blend usually brings together more than a hundred different wines.</p><p>The varieties are the three classic Champagne grapes: <strong>Pinot Noir</strong>, <strong>Chardonnay</strong> and Pinot Meunier, in proportions that vary with each edition. The base wines are fermented in small used oak casks and, after blending and the second fermentation in bottle, the champagne rests on its lees for many years before release. Since 2016 the label has shown the edition number, which identifies the base harvest.</p><p>It is a champagne of great richness and complexity, with aromas of ripe fruit, nuts, brioche and spice, and a fine mousse. Although it is not a vintage champagne, it can develop for years in bottle.</p>",
+    "fr": "<p>La Grande Cuvée est le vin qui résume le mieux la philosophie de Krug. Chaque édition se construit autour d’une récolte de base, à laquelle s’ajoutent de nombreux <strong>vins de réserve</strong> de multiples années antérieures, conservés dans la cave de la maison. Au total, l’assemblage réunit habituellement plus d’une centaine de vins différents.</p><p>Les cépages sont les trois classiques de la Champagne : <strong>pinot noir</strong>, <strong>chardonnay</strong> et pinot meunier, dans des proportions qui varient selon l’édition. Les vins de base sont fermentés en petits fûts de chêne usagés et, après l’assemblage et la prise de mousse en bouteille, le champagne repose de nombreuses années sur ses lies avant sa commercialisation. Depuis 2016, l’étiquette indique le numéro d’édition, qui identifie la récolte de base.</p><p>C’est un champagne d’une grande richesse et d’une grande complexité, aux arômes de fruits mûrs, de fruits secs, de brioche et d’épices, à la bulle fine. Sans être millésimé, il peut évoluer pendant des années en bouteille.</p>",
+    "it": "<p>La Grande Cuvée è il vino che meglio riassume la filosofia di Krug. Ogni edizione si costruisce a partire da una vendemmia di base, a cui si aggiungono numerosi <strong>vini di riserva</strong> di molti anni precedenti, conservati nella cantina della casa. In tutto, l’assemblaggio riunisce di solito più di cento vini diversi.</p><p>Le varietà sono le tre classiche della Champagne: <strong>Pinot Nero</strong>, <strong>Chardonnay</strong> e Pinot Meunier, in proporzioni che variano secondo l’edizione. I vini base fermentano in piccole botti di rovere usate e, dopo l’assemblaggio e la seconda fermentazione in bottiglia, lo champagne riposa per molti anni sui lieviti prima di essere commercializzato. Dal 2016 l’etichetta riporta il numero di edizione, che identifica la vendemmia di base.</p><p>È uno champagne di grande ricchezza e complessità, con aromi di frutta matura, frutta secca, brioche e spezie, e un perlage fine. Pur non essendo millesimato, può evolvere per anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Dorado intenso con burbuja fina. Aromas de fruta madura, cítricos confitados, avellana, almendra tostada, brioche y especias. Boca amplia y vinosa, a la vez rica y fresca, con final muy largo.",
+    "en": "Deep gold with fine bubbles. Aromas of ripe fruit, candied citrus, hazelnut, toasted almond, brioche and spice. Broad, vinous palate, both rich and fresh, with a very long finish.",
+    "fr": "Or soutenu à la bulle fine. Arômes de fruits mûrs, d’agrumes confits, de noisette, d’amande grillée, de brioche et d’épices. Bouche ample et vineuse, à la fois riche et fraîche, finale très longue.",
+    "it": "Oro intenso dal perlage fine. Aromi di frutta matura, agrumi canditi, nocciola, mandorla tostata, brioche e spezie. Bocca ampia e vinosa, ricca e insieme fresca, dal finale lunghissimo."
+  },
+  "pairing": {
+    "es": "Langosta, caviar, rodaballo, aves con trufa, quesos curados como el comté",
+    "en": "Lobster, caviar, turbot, poultry with truffle, aged cheeses such as Comté",
+    "fr": "Homard, caviar, turbot, volaille truffée, fromages affinés comme le comté",
+    "it": "Aragosta, caviale, rombo, pollame al tartufo, formaggi stagionati come il Comté"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de vino blanco amplia, no flauta",
+    "en": "10-12 °C, large white wine glass rather than a flute",
+    "fr": "10-12 °C, grand verre à vin blanc plutôt qu’une flûte",
+    "it": "10-12 °C, calice ampio da vino bianco anziché flûte"
+  },
+  "search": "Krug Grande Cuvée Champagne Brut"
+}

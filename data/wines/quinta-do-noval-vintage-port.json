@@ -1,0 +1,50 @@
+{
+  "slug": "quinta-do-noval-vintage-port",
+  "name": "Quinta do Noval Vintage Port",
+  "winery": "quinta-do-noval",
+  "region": "porto",
+  "country": "portugal",
+  "type": "generoso",
+  "category": {
+    "es": "Vintage",
+    "en": "Vintage Port",
+    "fr": "Vintage",
+    "it": "Vintage"
+  },
+  "grapes": [
+    "touriga-nacional",
+    "touriga-franca",
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Oporto Vintage de una sola quinta, elaborado con uvas de Quinta do Noval, en el valle del Pinhão, y declarado solo en las cosechas que la casa considera excepcionales.",
+    "en": "Single-quinta Vintage Port made from the grapes of Quinta do Noval, in the Pinhão valley, and declared only in harvests the house considers exceptional.",
+    "fr": "Porto Vintage d’une seule quinta, élaboré avec les raisins de la Quinta do Noval, dans la vallée du Pinhão, et déclaré seulement les années jugées exceptionnelles par la maison.",
+    "it": "Porto Vintage di una sola quinta, prodotto con le uve della Quinta do Noval, nella valle del Pinhão, e dichiarato solo nelle annate che la casa considera eccezionali."
+  },
+  "body": {
+    "es": "<p>A diferencia de muchas casas, que elaboran sus Vintage con uvas de varias fincas, el Quinta do Noval Vintage procede de los viñedos de la propia quinta, en terrazas de esquisto que descienden hacia el río Pinhão, afluente del Douro. Por ello, cada cosecha expresa de forma muy directa las condiciones del año en ese lugar.</p><p>Se elabora con variedades tradicionales del Douro como la Touriga Nacional, la Touriga Franca y la Tinta Roriz (Tempranillo), junto a otras como el Sousão o el Tinto Cão; las proporciones cambian según la añada. La uva se pisa en <em>lagares</em> y la fermentación se interrumpe con aguardiente vínica. Tras unos dos años en madera, el vino se embotella sin filtrar.</p><p>La casa es muy selectiva al declarar sus Vintage. El Noval Vintage se caracteriza por su equilibrio y su perfil aromático, y necesita muchos años de botella para mostrar toda su complejidad. Debe decantarse.</p>",
+    "en": "<p>Unlike many houses, which make their Vintage Port from several estates, Quinta do Noval Vintage comes from the quinta’s own vineyards, on schist terraces descending towards the river Pinhão, a tributary of the Douro. Each vintage therefore expresses that year’s conditions in that place very directly.</p><p>It is made from traditional Douro varieties such as Touriga Nacional, Touriga Franca and Tinta Roriz (Tempranillo), along with others such as Sousão and Tinto Cão; the proportions change with the vintage. The grapes are trodden in <em>lagares</em> and fermentation is stopped with grape spirit. After about two years in wood, the wine is bottled unfiltered.</p><p>The house is very selective in declaring its Vintage Ports. Noval Vintage is marked by its balance and aromatic profile, and needs many years in bottle to show its full complexity. It should be decanted.</p>",
+    "fr": "<p>Contrairement à de nombreuses maisons, qui élaborent leurs Vintage avec les raisins de plusieurs domaines, le Quinta do Noval Vintage provient des vignes de la quinta elle-même, sur des terrasses de schiste qui descendent vers le Pinhão, affluent du Douro. Chaque millésime exprime donc très directement les conditions de l’année en ce lieu.</p><p>Il est élaboré avec des cépages traditionnels du Douro comme la touriga nacional, la touriga franca et la tinta roriz (tempranillo), ainsi que d’autres comme le sousão ou le tinto cão ; les proportions changent selon le millésime. Le raisin est foulé au pied dans des <em>lagares</em> et la fermentation est arrêtée par l’ajout d’eau-de-vie de vin. Après environ deux ans sous bois, le vin est mis en bouteille sans filtration.</p><p>La maison est très sélective dans la déclaration de ses Vintage. Le Noval Vintage se distingue par son équilibre et son profil aromatique, et il lui faut de nombreuses années de bouteille pour montrer toute sa complexité. Il doit être carafé.</p>",
+    "it": "<p>A differenza di molte case, che producono i loro Vintage con uve di più tenute, il Quinta do Noval Vintage proviene dai vigneti della quinta stessa, su terrazze di scisto che scendono verso il fiume Pinhão, affluente del Douro. Ogni annata esprime quindi in modo molto diretto le condizioni dell’anno in quel luogo.</p><p>È prodotto con varietà tradizionali del Douro come Touriga Nacional, Touriga Franca e Tinta Roriz (Tempranillo), insieme ad altre come Sousão e Tinto Cão; le proporzioni cambiano secondo l’annata. L’uva viene pigiata con i piedi nei <em>lagares</em> e la fermentazione è interrotta con acquavite di vino. Dopo circa due anni in legno, il vino viene imbottigliato senza filtrazione.</p><p>La casa è molto selettiva nel dichiarare i suoi Vintage. Il Noval Vintage si distingue per il suo equilibrio e il profilo aromatico, e ha bisogno di molti anni di bottiglia per mostrare tutta la sua complessità. Va decantato.</p>"
+  },
+  "tasting": {
+    "es": "De joven, color púrpura intenso, aromas florales de violeta y fruta negra fresca, con notas de jara y especias; boca dulce, tensa y estructurada. Con la guarda gana matices de frutos secos, cacao y sotobosque.",
+    "en": "When young, intense purple, with floral aromas of violet and fresh black fruit and notes of rockrose and spice; sweet, taut and structured palate. With cellaring it gains nuances of nuts, cocoa and forest floor.",
+    "fr": "Jeune, robe pourpre intense, arômes floraux de violette et de fruits noirs frais, avec des notes de ciste et d’épices ; bouche douce, tendue et structurée. Avec la garde, il gagne des nuances de fruits secs, de cacao et de sous-bois.",
+    "it": "Da giovane, porpora intenso, aromi floreali di viola e frutta nera fresca, con note di cisto e spezie; sorso dolce, teso e strutturato. Con l’affinamento acquista sfumature di frutta secca, cacao e sottobosco."
+  },
+  "pairing": {
+    "es": "Quesos azules como el Stilton, chocolate negro, frutos secos, sola tras la comida",
+    "en": "Blue cheeses such as Stilton, dark chocolate, nuts, on its own after a meal",
+    "fr": "Fromages à pâte persillée comme le stilton, chocolat noir, fruits secs, seul en fin de repas",
+    "it": "Formaggi erborinati come lo Stilton, cioccolato fondente, frutta secca, da solo a fine pasto"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado para separar el sedimento, copa de vino de Oporto o de vino tinto",
+    "en": "16-18 °C, decanted off its sediment, Port or red wine glass",
+    "fr": "16-18 °C, carafé pour séparer le dépôt, verre à porto ou à vin rouge",
+    "it": "16-18 °C, decantato per separare il sedimento, calice da Porto o da vino rosso"
+  },
+  "search": "Quinta do Noval Vintage Port"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "gazela-vinho-verde",
+  "name": "Gazela Vinho Verde",
+  "winery": "sogrape",
+  "region": "vinho-verde",
+  "country": "portugal",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "loureira",
+    "treixadura"
+  ],
+  "summary": {
+    "es": "Vinho Verde blanco de Sogrape, joven, ligero y con una suave aguja, una de las marcas más populares de la denominación.",
+    "en": "White Vinho Verde from Sogrape, young, light and gently spritzy, one of the most popular brands of the designation.",
+    "fr": "Vinho Verde blanc de Sogrape, jeune, léger et légèrement perlant, l’une des marques les plus populaires de l’appellation.",
+    "it": "Vinho Verde bianco di Sogrape, giovane, leggero e lievemente frizzante, uno dei marchi più popolari della denominazione."
+  },
+  "body": {
+    "es": "<p>Gazela es una de las marcas de Vinho Verde de <strong>Sogrape</strong> y representa el estilo más conocido de la denominación: un blanco joven, de graduación moderada, fresco y con una ligera aguja. La región del Vinho Verde, en el noroeste de Portugal, entre los ríos Miño y Duero, tiene un clima atlántico, lluvioso y templado, y suelos mayoritariamente graníticos, condiciones que dan vinos de acidez viva.</p><p>Se elabora con variedades autóctonas de la región, como la Loureiro y la Trajadura (Treixadura), entre otras, en proporciones que varían según la cosecha. La uva se vinifica en depósitos de acero inoxidable con fermentación a temperatura controlada, para preservar los aromas frutales y florales. Antes del embotellado se conserva o se añade una pequeña cantidad de gas carbónico, que le da la sensación ligeramente chispeante característica de muchos vinhos verdes de gran consumo.</p><p>No tiene crianza y se embotella pronto para beberse joven. Su perfil fresco y su moderado grado alcohólico lo hacen apropiado como aperitivo y para comidas ligeras.</p>",
+    "en": "<p>Gazela is one of <strong>Sogrape</strong>’s Vinho Verde brands and represents the best-known style of the designation: a young white of moderate alcohol, fresh and slightly spritzy. The Vinho Verde region, in north-western Portugal between the rivers Minho and Douro, has a rainy, mild Atlantic climate and mostly granitic soils, conditions that give wines of lively acidity.</p><p>It is made from native varieties of the region, such as Loureiro and Trajadura (Treixadura), among others, in proportions that vary with the vintage. The grapes are vinified in stainless steel tanks with temperature-controlled fermentation to preserve fruity and floral aromas. Before bottling a small amount of carbon dioxide is retained or added, giving the slightly prickly sensation typical of many popular Vinho Verde wines.</p><p>It has no ageing and is bottled early to be drunk young. Its fresh profile and moderate alcohol make it suitable as an aperitif and for light meals.</p>",
+    "fr": "<p>Gazela est l’une des marques de Vinho Verde de <strong>Sogrape</strong> et représente le style le plus connu de l’appellation : un blanc jeune, de degré modéré, frais et légèrement perlant. La région du Vinho Verde, dans le nord-ouest du Portugal, entre le Minho et le Douro, connaît un climat atlantique pluvieux et doux et des sols majoritairement granitiques, des conditions qui donnent des vins à l’acidité vive.</p><p>Il est élaboré avec des cépages autochtones de la région, comme le loureiro et la trajadura (treixadura), entre autres, dans des proportions qui varient selon le millésime. Le raisin est vinifié en cuves d’inox avec une fermentation à température contrôlée, afin de préserver les arômes fruités et floraux. Avant la mise en bouteille, on conserve ou on ajoute une petite quantité de gaz carbonique, qui donne la sensation légèrement pétillante propre à de nombreux vinhos verdes de grande consommation.</p><p>Il ne connaît pas d’élevage et il est mis en bouteille tôt pour être bu jeune. Son profil frais et son degré modéré en font un vin adapté à l’apéritif et aux repas légers.</p>",
+    "it": "<p>Gazela è uno dei marchi di Vinho Verde di <strong>Sogrape</strong> e rappresenta lo stile più conosciuto della denominazione: un bianco giovane, di gradazione moderata, fresco e leggermente frizzante. La regione del Vinho Verde, nel nord-ovest del Portogallo tra i fiumi Minho e Douro, ha un clima atlantico piovoso e mite e suoli in prevalenza granitici, condizioni che danno vini di acidità vivace.</p><p>È prodotto con varietà autoctone della regione, come Loureiro e Trajadura (Treixadura), tra le altre, in proporzioni che variano secondo l’annata. L’uva viene vinificata in vasche d’acciaio inox con fermentazione a temperatura controllata, per preservare gli aromi fruttati e floreali. Prima dell’imbottigliamento si conserva o si aggiunge una piccola quantità di anidride carbonica, che dà la sensazione lievemente frizzante tipica di molti Vinho Verde di largo consumo.</p><p>Non ha affinamento e viene imbottigliato presto per essere bevuto giovane. Il profilo fresco e la gradazione moderata lo rendono adatto come aperitivo e per pasti leggeri.</p>"
+  },
+  "tasting": {
+    "es": "Color amarillo pálido con reflejos verdosos. Aromas de limón, manzana verde, pera y flores blancas. Boca ligera, fresca y viva, con una sutil efervescencia y un final limpio.",
+    "en": "Pale yellow with greenish glints. Aromas of lemon, green apple, pear and white flowers. Light, fresh, lively palate with a subtle effervescence and a clean finish.",
+    "fr": "Robe jaune pâle aux reflets verts. Arômes de citron, de pomme verte, de poire et de fleurs blanches. Bouche légère, fraîche et vive, avec une effervescence subtile et une finale nette.",
+    "it": "Colore giallo paglierino con riflessi verdognoli. Aromi di limone, mela verde, pera e fiori bianchi. Sorso leggero, fresco e vivace, con una sottile effervescenza e un finale pulito."
+  },
+  "pairing": {
+    "es": "Mariscos, sardinas a la brasa, ensaladas, pescado frito, aperitivos",
+    "en": "Shellfish, grilled sardines, salads, fried fish, appetisers",
+    "fr": "Fruits de mer, sardines grillées, salades, poisson frit, amuse-bouches",
+    "it": "Frutti di mare, sardine alla griglia, insalate, pesce fritto, stuzzichini"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de vino blanco",
+    "en": "6-8 °C, white wine glass",
+    "fr": "6-8 °C, verre à vin blanc",
+    "it": "6-8 °C, calice da vino bianco"
+  },
+  "search": "Gazela Vinho Verde Sogrape"
+}

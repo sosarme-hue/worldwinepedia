@@ -1,0 +1,45 @@
+{
+  "slug": "casa-ferreirinha-vinha-grande",
+  "name": "Casa Ferreirinha Vinha Grande",
+  "winery": "sogrape",
+  "region": "douro",
+  "country": "portugal",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "touriga-franca",
+    "touriga-nacional",
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Tinto del Douro de Casa Ferreirinha, de estilo clásico, con crianza en barrica, que se sitúa entre los vinos jóvenes de la casa y sus grandes reservas.",
+    "en": "Douro red from Casa Ferreirinha, classic in style and barrel-aged, positioned between the house’s young wines and its great reserves.",
+    "fr": "Rouge du Douro de Casa Ferreirinha, de style classique, élevé en barrique, situé entre les vins jeunes de la maison et ses grandes réserves.",
+    "it": "Rosso del Douro di Casa Ferreirinha, di stile classico, affinato in barrique, che si colloca tra i vini giovani della casa e le sue grandi riserve."
+  },
+  "body": {
+    "es": "<p>Vinha Grande es una de las etiquetas históricas de <strong>Casa Ferreirinha</strong>, la marca de vinos tranquilos del Douro de Sogrape, heredera de la tradición iniciada por Fernando Nicolau de Almeida con el Barca Velha. Dentro de la gama ocupa un lugar intermedio: por encima de tintos jóvenes como Esteva y Papa Figos, y por debajo de los Reserva Especial y del propio Barca Velha.</p><p>Se elabora con uvas de distintas zonas del Douro, incluido el Douro Superior, y de variedades tradicionales como la Touriga Franca, la Touriga Nacional, la Tinta Roriz (Tempranillo) y la Tinta Barroca; las proporciones varían según la cosecha. Tras la fermentación en depósitos con control de temperatura, el vino se cría durante un tiempo en barricas de roble, que aportan estructura y matices especiados sin dominar la fruta, y completa su evolución en botella antes de salir al mercado.</p><p>Es un tinto de estilo clásico, equilibrado y de taninos firmes, que puede beberse en sus primeros años o guardarse algún tiempo.</p>",
+    "en": "<p>Vinha Grande is one of the historic labels of <strong>Casa Ferreirinha</strong>, Sogrape’s still Douro wine brand, heir to the tradition begun by Fernando Nicolau de Almeida with Barca Velha. Within the range it sits in the middle: above young reds such as Esteva and Papa Figos, and below the Reserva Especial and Barca Velha itself.</p><p>It is made from grapes from different parts of the Douro, including the Douro Superior, and from traditional varieties such as Touriga Franca, Touriga Nacional, Tinta Roriz (Tempranillo) and Tinta Barroca; the proportions vary with the vintage. After fermentation in temperature-controlled tanks, the wine spends some time in oak barrels, which add structure and spicy nuances without dominating the fruit, and completes its development in bottle before release.</p><p>It is a classic-style red, balanced and with firm tannins, which can be drunk in its first years or kept for a while.</p>",
+    "fr": "<p>Vinha Grande est l’une des étiquettes historiques de <strong>Casa Ferreirinha</strong>, la marque de vins tranquilles du Douro de Sogrape, héritière de la tradition initiée par Fernando Nicolau de Almeida avec le Barca Velha. Dans la gamme, il occupe une place intermédiaire : au-dessus de rouges jeunes comme Esteva et Papa Figos, et en dessous des Reserva Especial et du Barca Velha lui-même.</p><p>Il est élaboré avec des raisins de différentes zones du Douro, dont le Douro Superior, et de cépages traditionnels comme la touriga franca, la touriga nacional, la tinta roriz (tempranillo) et la tinta barroca ; les proportions varient selon le millésime. Après la fermentation en cuves thermorégulées, le vin est élevé un certain temps en barriques de chêne, qui apportent structure et nuances épicées sans dominer le fruit, puis achève son évolution en bouteille avant sa commercialisation.</p><p>C’est un rouge de style classique, équilibré et aux tanins fermes, qui peut se boire dans ses premières années ou se garder quelque temps.</p>",
+    "it": "<p>Vinha Grande è una delle etichette storiche di <strong>Casa Ferreirinha</strong>, il marchio di vini fermi del Douro di Sogrape, erede della tradizione avviata da Fernando Nicolau de Almeida con il Barca Velha. Nella gamma occupa un posto intermedio: al di sopra di rossi giovani come Esteva e Papa Figos e al di sotto dei Reserva Especial e dello stesso Barca Velha.</p><p>È prodotto con uve di diverse zone del Douro, compreso il Douro Superior, e da varietà tradizionali come Touriga Franca, Touriga Nacional, Tinta Roriz (Tempranillo) e Tinta Barroca; le proporzioni variano secondo l’annata. Dopo la fermentazione in vasche a temperatura controllata, il vino affina per un periodo in barrique di rovere, che apportano struttura e sfumature speziate senza coprire il frutto, e completa la sua evoluzione in bottiglia prima di essere messo in commercio.</p><p>È un rosso di stile classico, equilibrato e dai tannini decisi, che si può bere nei primi anni o conservare per qualche tempo.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de fruta negra y roja madura, con notas de jara, especias y un toque tostado de la barrica. Boca de cuerpo medio, con taninos firmes, buena acidez y un final persistente.",
+    "en": "Intense ruby. Aromas of ripe black and red fruit, with notes of rockrose, spice and a toasty touch from the barrel. Medium-bodied palate with firm tannins, good acidity and a persistent finish.",
+    "fr": "Rubis intense. Arômes de fruits noirs et rouges mûrs, avec des notes de ciste, d’épices et une touche grillée de la barrique. Bouche de corps moyen, aux tanins fermes, à la bonne acidité et à la finale persistante.",
+    "it": "Rubino intenso. Aromi di frutta nera e rossa matura, con note di cisto, spezie e un tocco tostato della barrique. Sorso di medio corpo, con tannini decisi, buona acidità e un finale persistente."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes rojas a la parrilla, bacalao gratinado, quesos curados",
+    "en": "Roast lamb, grilled red meat, baked salt cod, aged cheeses",
+    "fr": "Agneau rôti, viandes rouges grillées, morue gratinée, fromages affinés",
+    "it": "Agnello arrosto, carni rosse alla griglia, baccalà gratinato, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Casa Ferreirinha Vinha Grande Douro tinto"
+}

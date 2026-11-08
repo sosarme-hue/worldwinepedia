@@ -1,0 +1,48 @@
+{
+  "slug": "cantina-terlano-quarz",
+  "name": "Cantina Terlano Quarz Sauvignon",
+  "winery": "cantina-terlano",
+  "region": "trentino-alto-adige",
+  "country": "italia",
+  "type": "blanco",
+  "category": {
+    "es": "Alto Adige Terlano DOC",
+    "en": "Alto Adige Terlano DOC",
+    "fr": "Alto Adige Terlano DOC",
+    "it": "Alto Adige Terlano DOC"
+  },
+  "grapes": [
+    "sauvignon-blanc"
+  ],
+  "summary": {
+    "es": "Sauvignon Blanc de la Cantina Terlano, cuyo nombre alude al cuarzo presente en los suelos de pórfido de la zona, uno de los blancos más reputados del Alto Adige.",
+    "en": "Cantina Terlano Sauvignon Blanc, named after the quartz found in the area’s porphyry soils, one of Alto Adige’s most highly regarded whites.",
+    "fr": "Sauvignon blanc de la Cantina Terlano, dont le nom évoque le quartz présent dans les sols de porphyre de la zone, l’un des blancs les plus réputés du Haut-Adige.",
+    "it": "Sauvignon della Cantina Terlano, il cui nome richiama il quarzo presente nei suoli porfirici della zona, uno dei bianchi più rinomati dell’Alto Adige."
+  },
+  "body": {
+    "es": "<p><strong>Quarz</strong> es uno de los vinos emblemáticos de la Cantina Terlano. Su nombre, «cuarzo», recuerda los suelos de pórfido de las laderas de Terlano, ricos en este mineral, que según la bodega contribuyen a la tensión y a la mineralidad de sus blancos.</p><p>Se elabora con <strong>Sauvignon Blanc</strong> de una selección de viñedos de los socios de la cooperativa, situados en laderas soleadas y bien drenadas. La fermentación tiene lugar en parte en grandes toneles de madera y en parte en acero inoxidable, y el vino reposa sobre sus lías durante varios meses antes del embotellado, lo que aporta textura y complejidad sin restar frescura.</p><p>A diferencia de muchos Sauvignon de consumo rápido, Quarz es un blanco de estructura y concentración, con un perfil aromático intenso pero contenido y una notable capacidad de guarda. Puede evolucionar durante años en botella, como otros blancos de la casa.</p>",
+    "en": "<p><strong>Quarz</strong> is one of Cantina Terlano’s emblematic wines. Its name, “quartz”, recalls the porphyry soils of the Terlano slopes, rich in this mineral, which according to the winery contribute to the tension and minerality of its whites.</p><p>It is made from <strong>Sauvignon Blanc</strong> from a selection of the cooperative members’ vineyards, on sunny, well-drained slopes. Fermentation takes place partly in large wooden casks and partly in stainless steel, and the wine rests on its lees for several months before bottling, which adds texture and complexity without reducing freshness.</p><p>Unlike many Sauvignons made for early drinking, Quarz is a white of structure and concentration, with an intense yet restrained aromatic profile and remarkable ageing potential. It can evolve for years in bottle, like other whites from the house.</p>",
+    "fr": "<p><strong>Quarz</strong> est l’un des vins emblématiques de la Cantina Terlano. Son nom, « quartz », rappelle les sols de porphyre des coteaux de Terlano, riches en ce minéral, qui selon la cave contribuent à la tension et à la minéralité de ses blancs.</p><p>Il est élaboré avec du <strong>sauvignon blanc</strong> issu d’une sélection de vignes des membres de la coopérative, sur des coteaux ensoleillés et bien drainés. La fermentation se déroule en partie en grands foudres de bois et en partie en cuves d’inox, et le vin repose sur ses lies plusieurs mois avant la mise en bouteille, ce qui apporte texture et complexité sans nuire à la fraîcheur.</p><p>Contrairement à de nombreux sauvignons à boire rapidement, Quarz est un blanc de structure et de concentration, au profil aromatique intense mais retenu et au remarquable potentiel de garde. Il peut évoluer pendant des années en bouteille, comme d’autres blancs de la maison.</p>",
+    "it": "<p><strong>Quarz</strong> è uno dei vini simbolo della Cantina Terlano. Il nome ricorda i suoli porfirici dei pendii di Terlano, ricchi di questo minerale, che secondo la cantina contribuiscono alla tensione e alla mineralità dei suoi bianchi.</p><p>Si produce con <strong>Sauvignon</strong> da una selezione di vigneti dei soci della cooperativa, su pendii soleggiati e ben drenati. La fermentazione avviene in parte in grandi botti di legno e in parte in acciaio inox, e il vino riposa sui lieviti per diversi mesi prima dell’imbottigliamento, il che apporta struttura e complessità senza togliere freschezza.</p><p>A differenza di molti Sauvignon da bere subito, Quarz è un bianco di struttura e concentrazione, con un profilo aromatico intenso ma composto e notevoli capacità di invecchiamento. Può evolvere per anni in bottiglia, come altri bianchi della casa.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pajizo con reflejos verdosos. Aromas de grosella blanca, fruta de la pasión, cítricos, hierbas y notas minerales. Boca concentrada y tensa, con acidez viva y final largo.",
+    "en": "Straw yellow with green hints. Aromas of white currant, passion fruit, citrus, herbs and mineral notes. Concentrated, taut palate with lively acidity and a long finish.",
+    "fr": "Jaune paille aux reflets verts. Arômes de groseille blanche, de fruit de la passion, d’agrumes, d’herbes et notes minérales. Bouche concentrée et tendue, à l’acidité vive et à la finale longue.",
+    "it": "Giallo paglierino con riflessi verdolini. Profumi di ribes bianco, frutto della passione, agrumi, erbe e note minerali. Bocca concentrata e tesa, con acidità viva e finale lungo."
+  },
+  "pairing": {
+    "es": "Pescado, marisco, carnes blancas, risotto, quesos de media curación",
+    "en": "Fish, shellfish, white meat, risotto, medium-aged cheeses",
+    "fr": "Poissons, fruits de mer, viandes blanches, risotto, fromages mi-affinés",
+    "it": "Pesce, crostacei, carni bianche, risotto, formaggi di media stagionatura"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de vino blanco amplia",
+    "en": "10-12 °C, large white wine glass",
+    "fr": "10-12 °C, grand verre à vin blanc",
+    "it": "10-12 °C, calice ampio da vino bianco"
+  },
+  "search": "Cantina Terlano Quarz Sauvignon"
+}

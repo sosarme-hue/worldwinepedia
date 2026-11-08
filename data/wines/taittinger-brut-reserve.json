@@ -1,0 +1,49 @@
+{
+  "slug": "taittinger-brut-reserve",
+  "name": "Taittinger Brut Réserve",
+  "winery": "taittinger",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut",
+    "en": "Brut",
+    "fr": "Brut",
+    "it": "Brut"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Champagne brut sin añada de Taittinger, con una proporción de Chardonnay más alta que la de muchos bruts de su categoría, de estilo fino y fresco.",
+    "en": "Taittinger’s non-vintage brut champagne, with a higher share of Chardonnay than many bruts in its category, fine and fresh in style.",
+    "fr": "Champagne brut non millésimé de Taittinger, avec une part de chardonnay plus élevée que bien des bruts de sa catégorie, au style fin et frais.",
+    "it": "Champagne brut senza annata di Taittinger, con una quota di Chardonnay più alta di molti brut della sua categoria, di stile fine e fresco."
+  },
+  "body": {
+    "es": "<p>El Brut Réserve es el champán más difundido de Taittinger y la expresión más directa del estilo de la casa. Se elabora con las tres variedades de Champagne, <strong>Chardonnay</strong>, <strong>Pinot Noir</strong> y Pinot Meunier, procedentes de numerosos municipios, y se distingue por una proporción de Chardonnay superior a la de muchos champanes sin añada, lo que le confiere un perfil especialmente delicado. Las proporciones pueden variar ligeramente según el ensamblaje.</p><p>Incluye vinos de varias cosechas, entre ellos vinos de reserva de años anteriores que garantizan la regularidad del estilo. Tras la segunda fermentación en botella, el champán reposa en las bodegas de creta de Reims durante varios años antes del degüelle, más tiempo que el mínimo exigido por la denominación.</p><p>Es un champán ligero y elegante, con notas de fruta blanca, cítricos, flores y brioche, una burbuja fina y una acidez refrescante. Es muy adecuado como aperitivo y para acompañar platos delicados.</p>",
+    "en": "<p>Brut Réserve is Taittinger’s most widely distributed champagne and the most direct expression of the house style. It is made from the three Champagne varieties, <strong>Chardonnay</strong>, <strong>Pinot Noir</strong> and Pinot Meunier, from many villages, and stands out for a higher proportion of Chardonnay than many non-vintage champagnes, which gives it a particularly delicate profile. The proportions may vary slightly from blend to blend.</p><p>It includes wines from several harvests, among them reserve wines from earlier years that ensure the consistency of the style. After the second fermentation in bottle, the champagne rests in the house’s chalk cellars in Reims for several years before disgorgement, longer than the minimum required by the appellation.</p><p>It is a light, elegant champagne, with notes of white fruit, citrus, flowers and brioche, a fine mousse and refreshing acidity. It is well suited as an aperitif and with delicate dishes.</p>",
+    "fr": "<p>Le Brut Réserve est le champagne le plus diffusé de Taittinger et l’expression la plus directe du style de la maison. Il est élaboré avec les trois cépages de la Champagne, <strong>chardonnay</strong>, <strong>pinot noir</strong> et pinot meunier, issus de nombreux villages, et se distingue par une part de chardonnay supérieure à celle de nombreux champagnes non millésimés, ce qui lui confère un profil particulièrement délicat. Les proportions peuvent varier légèrement d’un assemblage à l’autre.</p><p>Il comprend des vins de plusieurs récoltes, dont des vins de réserve d’années antérieures qui garantissent la régularité du style. Après la prise de mousse en bouteille, le champagne repose dans les caves de craie de Reims pendant plusieurs années avant le dégorgement, plus longtemps que le minimum exigé par l’appellation.</p><p>C’est un champagne léger et élégant, aux notes de fruits blancs, d’agrumes, de fleurs et de brioche, à la bulle fine et à l’acidité rafraîchissante. Il convient très bien à l’apéritif et aux plats délicats.</p>",
+    "it": "<p>Il Brut Réserve è lo champagne più diffuso di Taittinger e l’espressione più diretta dello stile della casa. È prodotto con le tre varietà della Champagne, <strong>Chardonnay</strong>, <strong>Pinot Nero</strong> e Pinot Meunier, provenienti da numerosi villaggi, e si distingue per una quota di Chardonnay superiore a quella di molti champagne senza annata, che gli conferisce un profilo particolarmente delicato. Le proporzioni possono variare leggermente da un assemblaggio all’altro.</p><p>Comprende vini di diverse vendemmie, tra cui vini di riserva di anni precedenti che garantiscono la regolarità dello stile. Dopo la seconda fermentazione in bottiglia, lo champagne riposa nelle cantine di gesso di Reims per diversi anni prima della sboccatura, più a lungo del minimo richiesto dalla denominazione.</p><p>È uno champagne leggero ed elegante, con note di frutta bianca, agrumi, fiori e brioche, un perlage fine e un’acidità rinfrescante. È molto adatto come aperitivo e con piatti delicati.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido dorado con burbuja fina. Aromas de melocotón blanco, cítricos, flores blancas y brioche. Boca fresca y ligera, cremosa, con final limpio y elegante.",
+    "en": "Pale golden yellow with fine bubbles. Aromas of white peach, citrus, white flowers and brioche. Fresh, light, creamy palate with a clean, elegant finish.",
+    "fr": "Robe jaune doré pâle à la bulle fine. Arômes de pêche blanche, d’agrumes, de fleurs blanches et de brioche. Bouche fraîche, légère et crémeuse, finale nette et élégante.",
+    "it": "Giallo dorato tenue dal perlage fine. Aromi di pesca bianca, agrumi, fiori bianchi e brioche. Bocca fresca, leggera e cremosa, dal finale pulito ed elegante."
+  },
+  "pairing": {
+    "es": "Aperitivo, marisco, ostras, sushi, frituras ligeras, quesos de pasta blanda",
+    "en": "Aperitif, shellfish, oysters, sushi, light fried food, soft cheeses",
+    "fr": "Apéritif, fruits de mer, huîtres, sushis, fritures légères, fromages à pâte molle",
+    "it": "Aperitivo, frutti di mare, ostriche, sushi, fritture leggere, formaggi a pasta molle"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco o de tulipa",
+    "en": "8-10 °C, white wine or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da vino bianco o a tulipano"
+  },
+  "search": "Taittinger Brut Réserve Champagne"
+}

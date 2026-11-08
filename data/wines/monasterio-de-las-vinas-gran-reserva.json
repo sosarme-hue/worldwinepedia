@@ -1,0 +1,50 @@
+{
+  "slug": "monasterio-de-las-vinas-gran-reserva",
+  "name": "Monasterio de las Viñas Gran Reserva",
+  "winery": "grandes-vinos-y-vinedos",
+  "region": "carinena",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Gran Reserva",
+    "en": "Gran Reserva",
+    "fr": "Gran Reserva",
+    "it": "Gran Reserva"
+  },
+  "grapes": [
+    "garnacha",
+    "tempranillo",
+    "carinena"
+  ],
+  "summary": {
+    "es": "Tinto de larga crianza de la D.O. Cariñena elaborado por Grandes Vinos y Viñedos con garnacha, tempranillo y cariñena, en el estilo tradicional.",
+    "en": "Long-aged red from the Cariñena D.O. made by Grandes Vinos y Viñedos from Garnacha, Tempranillo and Cariñena, in the traditional style.",
+    "fr": "Rouge de long élevage de la D.O. Cariñena élaboré par Grandes Vinos y Viñedos avec du grenache, du tempranillo et du carignan, dans le style traditionnel.",
+    "it": "Rosso di lungo affinamento della D.O. Cariñena prodotto da Grandes Vinos y Viñedos con Garnacha, Tempranillo e Cariñena, nello stile tradizionale."
+  },
+  "body": {
+    "es": "<p>Monasterio de las Viñas es una de las marcas históricas de Grandes Vinos y Viñedos y la que mejor representa el estilo tradicional de crianza de la D.O. <strong>Cariñena</strong>. Su versión <strong>Gran Reserva</strong> es la más prolongada en madera y en botella de la gama, y suele encontrarse a un precio contenido para su categoría.</p><p>Se elabora con las variedades tradicionales de la comarca: <strong>garnacha</strong>, que aporta fruta madura y carnosidad; <strong>tempranillo</strong>, que suma color y estructura; y <strong>cariñena</strong>, la uva que lleva el nombre de la zona, que aporta acidez y frescura. Las proporciones varían según la añada. La categoría de Gran Reserva exige un largo envejecimiento, con al menos dieciocho meses en barrica de roble y un periodo adicional en botella antes de su salida al mercado. Esta crianza da al vino notas de evolución —cuero, tabaco, especias— sobre un fondo de fruta madura, y un tanino suavizado por el tiempo.</p>",
+    "en": "<p>Monasterio de las Viñas is one of the historic brands of Grandes Vinos y Viñedos and the one that best represents the traditional ageing style of the <strong>Cariñena</strong> D.O. Its <strong>Gran Reserva</strong> version spends the longest time in oak and bottle of the range and is usually found at a modest price for its category.</p><p>It is made from the area's traditional varieties: <strong>Garnacha</strong>, which brings ripe fruit and flesh; <strong>Tempranillo</strong>, which adds colour and structure; and <strong>Cariñena</strong>, the grape that bears the name of the area, which contributes acidity and freshness. The proportions vary with the vintage. The Gran Reserva category requires long ageing, with at least eighteen months in oak barrels and an additional period in bottle before release. This ageing gives the wine evolved notes —leather, tobacco, spice— over a background of ripe fruit, and tannins softened by time.</p>",
+    "fr": "<p>Monasterio de las Viñas est l'une des marques historiques de Grandes Vinos y Viñedos et celle qui représente le mieux le style traditionnel d'élevage de la D.O. <strong>Cariñena</strong>. Sa version <strong>Gran Reserva</strong> est la plus longuement élevée en fût et en bouteille de la gamme, et on la trouve généralement à un prix modéré pour sa catégorie.</p><p>Il est élaboré avec les cépages traditionnels de la région : le <strong>grenache</strong>, qui apporte fruit mûr et chair ; le <strong>tempranillo</strong>, qui ajoute couleur et structure ; et le <strong>carignan</strong>, le raisin qui porte le nom de la zone, qui apporte acidité et fraîcheur. Les proportions varient selon le millésime. La catégorie Gran Reserva impose un long vieillissement, avec au moins dix-huit mois en barrique de chêne et une période supplémentaire en bouteille avant la commercialisation. Cet élevage donne au vin des notes d'évolution —cuir, tabac, épices— sur un fond de fruits mûrs, et des tanins assouplis par le temps.</p>",
+    "it": "<p>Monasterio de las Viñas è uno dei marchi storici di Grandes Vinos y Viñedos e quello che meglio rappresenta lo stile tradizionale di affinamento della D.O. <strong>Cariñena</strong>. La sua versione <strong>Gran Reserva</strong> è quella che resta più a lungo in legno e in bottiglia nella gamma e si trova di solito a un prezzo contenuto per la sua categoria.</p><p>È prodotto con le varietà tradizionali della zona: la <strong>Garnacha</strong>, che apporta frutto maturo e polpa; il <strong>Tempranillo</strong>, che aggiunge colore e struttura; e la <strong>Cariñena</strong>, l'uva che porta il nome della zona, che contribuisce con acidità e freschezza. Le proporzioni variano secondo l'annata. La categoria Gran Reserva richiede un lungo invecchiamento, con almeno diciotto mesi in barrique di rovere e un periodo aggiuntivo in bottiglia prima dell'uscita sul mercato. Questo affinamento conferisce al vino note evolute —cuoio, tabacco, spezie— su un fondo di frutta matura, e tannini ammorbiditi dal tempo.</p>"
+  },
+  "tasting": {
+    "es": "Rojo granate con ribete teja. Aromas de fruta madura, cuero, tabaco, vainilla y especias. En boca es suave y redondo, con tanino integrado y final especiado.",
+    "en": "Garnet red with a brick rim. Aromas of ripe fruit, leather, tobacco, vanilla and spice. Smooth and round on the palate, with integrated tannins and a spicy finish.",
+    "fr": "Grenat au disque tuilé. Arômes de fruits mûrs, de cuir, de tabac, de vanille et d'épices. En bouche, souple et rond, aux tanins intégrés et à la finale épicée.",
+    "it": "Rosso granato con unghia aranciata. Aromi di frutta matura, cuoio, tabacco, vaniglia e spezie. In bocca è morbido e rotondo, con tannino integrato e finale speziato."
+  },
+  "pairing": {
+    "es": "Asados, carnes guisadas, caza menor, quesos curados",
+    "en": "Roasts, braised meats, small game, aged cheeses",
+    "fr": "Rôtis, viandes mijotées, petit gibier, fromages affinés",
+    "it": "Arrosti, carni in umido, selvaggina minuta, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, grand verre",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Monasterio de las Viñas Gran Reserva Cariñena"
+}

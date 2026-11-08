@@ -1,0 +1,46 @@
+{
+  "slug": "ridge-monte-bello",
+  "name": "Monte Bello",
+  "winery": "ridge",
+  "region": null,
+  "country": "estados-unidos",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "petit-verdot",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Tinto de mezcla bordelesa de Ridge procedente del viñedo Monte Bello, en las montañas de Santa Cruz, uno de los grandes vinos de guarda de California.",
+    "en": "Bordeaux-style blend from Ridge’s Monte Bello vineyard in the Santa Cruz Mountains, one of California’s great wines for ageing.",
+    "fr": "Assemblage de type bordelais de Ridge issu du vignoble de Monte Bello, dans les montagnes de Santa Cruz, l’un des grands vins de garde de Californie.",
+    "it": "Uvaggio bordolese di Ridge proveniente dal vigneto Monte Bello, nelle montagne di Santa Cruz, uno dei grandi vini da invecchiamento della California."
+  },
+  "body": {
+    "es": "<p>Monte Bello es el vino más emblemático de Ridge y procede del viñedo del mismo nombre, situado en lo alto de la cresta de Monte Bello, en las <strong>montañas de Santa Cruz</strong>, al sur de la bahía de San Francisco. Los viñedos se encuentran a gran altitud, sobre suelos de arcilla y piedra con un subsuelo de caliza poco habitual en California, y están expuestos a la influencia fresca del Pacífico, lo que da uvas de maduración lenta y buena acidez.</p><p>El vino se basa en el <strong>Cabernet Sauvignon</strong>, con Merlot, Petit Verdot y, en algunos años, Cabernet Franc, en proporciones que varían según la añada. Ridge sigue una vinificación de intervención mínima, con levaduras autóctonas, y cría el vino en barricas de roble estadounidense, una elección característica de la casa. Monte Bello es conocido por su longevidad: en su juventud puede ser firme y reservado, y desarrolla con los años una gran complejidad.</p>",
+    "en": "<p>Monte Bello is Ridge’s most emblematic wine and comes from the vineyard of the same name, high on Monte Bello Ridge in the <strong>Santa Cruz Mountains</strong>, south of San Francisco Bay. The vineyards lie at high altitude, on clay and stony soils over a limestone subsoil that is unusual in California, and they are exposed to the cool influence of the Pacific, giving slow-ripening grapes with good acidity.</p><p>The wine is based on <strong>Cabernet Sauvignon</strong>, with Merlot, Petit Verdot and, in some years, Cabernet Franc, in proportions that vary with the vintage. Ridge follows a minimal-intervention approach to winemaking, with native yeasts, and ages the wine in American oak barrels, a choice characteristic of the house. Monte Bello is known for its longevity: when young it can be firm and reserved, and over the years it develops great complexity.</p>",
+    "fr": "<p>Monte Bello est le vin le plus emblématique de Ridge et provient du vignoble du même nom, situé au sommet de la crête de Monte Bello, dans les <strong>montagnes de Santa Cruz</strong>, au sud de la baie de San Francisco. Les vignes se trouvent à haute altitude, sur des sols d’argile et de pierres reposant sur un sous-sol calcaire peu courant en Californie, et elles sont exposées à l’influence fraîche du Pacifique, ce qui donne des raisins à maturation lente et à bonne acidité.</p><p>Le vin repose sur le <strong>cabernet-sauvignon</strong>, avec du merlot, du petit verdot et, certaines années, du cabernet franc, dans des proportions qui varient selon le millésime. Ridge pratique une vinification peu interventionniste, avec des levures indigènes, et élève le vin en fûts de chêne américain, un choix caractéristique de la maison. Monte Bello est connu pour sa longévité : jeune, il peut être ferme et réservé, et il développe avec les années une grande complexité.</p>",
+    "it": "<p>Monte Bello è il vino più emblematico di Ridge e proviene dal vigneto omonimo, situato in cima alla cresta di Monte Bello, nelle <strong>montagne di Santa Cruz</strong>, a sud della baia di San Francisco. I vigneti si trovano ad alta quota, su suoli di argilla e pietre con un sottosuolo calcareo poco comune in California, e sono esposti all’influenza fresca del Pacifico, il che dà uve a maturazione lenta e di buona acidità.</p><p>Il vino si basa sul <strong>Cabernet Sauvignon</strong>, con Merlot, Petit Verdot e, in alcuni anni, Cabernet Franc, in proporzioni che variano secondo l’annata. Ridge segue una vinificazione a intervento minimo, con lieviti indigeni, e affina il vino in botti di rovere americano, una scelta caratteristica della casa. Monte Bello è noto per la sua longevità: da giovane può risultare austero e chiuso, e con gli anni sviluppa una grande complessità.</p>"
+  },
+  "tasting": {
+    "es": "Granate profundo. Aromas de cassis, cereza negra, cedro, hierbas, grafito y notas minerales. Boca firme y elegante, de acidez fresca y gran persistencia.",
+    "en": "Deep garnet. Aromas of blackcurrant, black cherry, cedar, herbs, graphite and mineral notes. Firm, elegant palate with fresh acidity and great length.",
+    "fr": "Grenat profond. Arômes de cassis, de cerise noire, de cèdre, d’herbes, de graphite et notes minérales. Bouche ferme et élégante, à l’acidité fraîche et à la grande persistance.",
+    "it": "Granato profondo. Aromi di cassis, ciliegia nera, cedro, erbe, grafite e note minerali. Bocca salda ed elegante, di acidità fresca e grande persistenza."
+  },
+  "pairing": {
+    "es": "Cordero asado, solomillo, caza de pluma y pelo, quesos curados",
+    "en": "Roast lamb, beef fillet, feathered and furred game, aged cheeses",
+    "fr": "Agneau rôti, filet de bœuf, gibier à plume et à poil, fromages affinés",
+    "it": "Agnello arrosto, filetto di manzo, selvaggina da piuma e da pelo, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia; puede beneficiarse de un decantado",
+    "en": "16-18 °C, large glass; may benefit from decanting",
+    "fr": "16-18 °C, verre ample ; peut gagner à être carafé",
+    "it": "16-18 °C, calice ampio; può giovarsi della decantazione"
+  },
+  "search": "Ridge Monte Bello Santa Cruz Mountains"
+}

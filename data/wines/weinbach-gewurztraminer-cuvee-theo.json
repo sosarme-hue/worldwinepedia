@@ -1,0 +1,48 @@
+{
+  "slug": "weinbach-gewurztraminer-cuvee-theo",
+  "name": "Gewurztraminer Cuvée Théo",
+  "winery": "domaine-weinbach",
+  "region": "alsace",
+  "country": "francia",
+  "type": "blanco",
+  "category": {
+    "es": "Alsace",
+    "en": "Alsace",
+    "fr": "Alsace",
+    "it": "Alsace"
+  },
+  "grapes": [
+    "gewurztraminer"
+  ],
+  "summary": {
+    "es": "Gewurztraminer del Domaine Weinbach procedente del Clos des Capucins y dedicado a Théo Faller, aromático y de textura amplia.",
+    "en": "Domaine Weinbach Gewurztraminer from the Clos des Capucins, dedicated to Théo Faller, aromatic and broad in texture.",
+    "fr": "Gewurztraminer du domaine Weinbach issu du Clos des Capucins et dédié à Théo Faller, aromatique et à la texture ample.",
+    "it": "Gewurztraminer del Domaine Weinbach proveniente dal Clos des Capucins e dedicato a Théo Faller, aromatico e di trama ampia."
+  },
+  "body": {
+    "es": "<p>La Cuvée Théo lleva el nombre de Théo Faller, que dirigió el Domaine Weinbach durante buena parte del siglo XX y forjó su reputación. Procede del <strong>Clos des Capucins</strong>, el viñedo cercado que rodea la casa, en el fondo del valle a las afueras de Kaysersberg, con suelos más profundos que los de las laderas de los grands crus.</p><p>Se elabora con <strong>Gewurztraminer</strong> cultivado en biodinamia y vendimiado a mano en plena madurez. La fermentación, con levaduras autóctonas, tiene lugar en grandes fudres antiguos y puede dejar un ligero azúcar residual, según la añada, que se equilibra con la acidez y la amplitud del vino.</p><p>Es un Gewurztraminer muy aromático, característico de la variedad, pero con la elegancia que busca la casa. Puede disfrutarse joven y también evoluciona bien durante varios años en botella, cuando sus notas florales se funden con matices más especiados y melosos.</p>",
+    "en": "<p>Cuvée Théo bears the name of Théo Faller, who ran Domaine Weinbach for much of the 20th century and built its reputation. It comes from the <strong>Clos des Capucins</strong>, the walled vineyard around the house, on the valley floor on the outskirts of Kaysersberg, with deeper soils than those on the grand cru slopes.</p><p>It is made from biodynamically farmed <strong>Gewurztraminer</strong>, hand-picked at full ripeness. Fermentation, with indigenous yeasts, takes place in large old casks and may leave a little residual sugar, depending on the vintage, balanced by the wine’s acidity and breadth.</p><p>It is a very aromatic Gewurztraminer, typical of the variety, but with the elegance the house seeks. It can be enjoyed young and also develops well for several years in bottle, when its floral notes blend with spicier, honeyed nuances.</p>",
+    "fr": "<p>La Cuvée Théo porte le nom de Théo Faller, qui a dirigé le domaine Weinbach pendant une bonne partie du XXe siècle et en a forgé la réputation. Elle provient du <strong>Clos des Capucins</strong>, le vignoble clos de murs qui entoure la maison, en fond de vallée à la sortie de Kaysersberg, sur des sols plus profonds que ceux des coteaux de grands crus.</p><p>Elle est élaborée à partir de <strong>gewurztraminer</strong> cultivé en biodynamie et vendangé à la main à pleine maturité. La fermentation, aux levures indigènes, se déroule dans de grands foudres anciens et peut laisser un léger sucre résiduel, selon le millésime, équilibré par l’acidité et l’ampleur du vin.</p><p>C’est un gewurztraminer très aromatique, typique du cépage, mais doté de l’élégance recherchée par la maison. Il peut s’apprécier jeune et évolue aussi favorablement pendant plusieurs années en bouteille, lorsque ses notes florales se fondent dans des nuances plus épicées et miellées.</p>",
+    "it": "<p>La Cuvée Théo porta il nome di Théo Faller, che guidò il Domaine Weinbach per buona parte del Novecento e ne costruì la reputazione. Proviene dal <strong>Clos des Capucins</strong>, il vigneto cinto da mura che circonda la casa, nel fondovalle alle porte di Kaysersberg, con suoli più profondi di quelli dei pendii dei grand cru.</p><p>È prodotta con <strong>Gewurztraminer</strong> coltivato in biodinamica e vendemmiato a mano in piena maturità. La fermentazione, con lieviti indigeni, avviene in grandi botti antiche e può lasciare un leggero residuo zuccherino, secondo l’annata, bilanciato dall’acidità e dall’ampiezza del vino.</p><p>È un Gewurztraminer molto aromatico, tipico della varietà, ma con l’eleganza ricercata dalla casa. Si può gustare giovane ed evolve bene per diversi anni in bottiglia, quando le note floreali si fondono con sfumature più speziate e mielate.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo dorado. Aromas intensos de rosa, lichi, fruta de la pasión y especias dulces. Boca amplia y sedosa, con un toque de dulzor equilibrado y final aromático.",
+    "en": "Golden yellow. Intense aromas of rose, lychee, passion fruit and sweet spice. Broad, silky palate with a balanced touch of sweetness and an aromatic finish.",
+    "fr": "Jaune doré. Arômes intenses de rose, de litchi, de fruit de la passion et d’épices douces. Bouche ample et soyeuse, avec une touche de douceur équilibrée et une finale aromatique.",
+    "it": "Giallo dorato. Aromi intensi di rosa, litchi, frutto della passione e spezie dolci. Bocca ampia e setosa, con un tocco di dolcezza equilibrato e finale aromatico."
+  },
+  "pairing": {
+    "es": "Cocina asiática especiada, foie gras, munster, postres de fruta",
+    "en": "Spiced Asian cuisine, foie gras, Munster cheese, fruit desserts",
+    "fr": "Cuisine asiatique épicée, foie gras, munster, desserts aux fruits",
+    "it": "Cucina asiatica speziata, foie gras, munster, dessert alla frutta"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de blanco amplia",
+    "en": "10-12 °C, large white wine glass",
+    "fr": "10-12 °C, grand verre à vin blanc",
+    "it": "10-12 °C, calice ampio da bianco"
+  },
+  "search": "Domaine Weinbach Gewurztraminer Cuvée Théo"
+}

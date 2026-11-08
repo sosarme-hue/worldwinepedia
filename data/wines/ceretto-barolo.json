@@ -1,0 +1,48 @@
+{
+  "slug": "ceretto-barolo",
+  "name": "Ceretto Barolo",
+  "winery": "ceretto",
+  "region": "barolo",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "Barolo DOCG",
+    "en": "Barolo DOCG",
+    "fr": "Barolo DOCG",
+    "it": "Barolo DOCG"
+  },
+  "grapes": [
+    "nebbiolo"
+  ],
+  "summary": {
+    "es": "Barolo de ensamblaje de Ceretto, elaborado con Nebbiolo de varios viñedos de la denominación como complemento de sus Barolo de pago.",
+    "en": "Ceretto’s blended Barolo, made from Nebbiolo from several vineyards in the appellation as a complement to its single-cru Barolos.",
+    "fr": "Barolo d’assemblage de Ceretto, élaboré avec du nebbiolo de plusieurs vignobles de l’appellation en complément de ses barolos de cru.",
+    "it": "Barolo di assemblaggio di Ceretto, prodotto con Nebbiolo di diverse vigne della denominazione a complemento dei suoi Barolo di cru."
+  },
+  "body": {
+    "es": "<p>Ceretto posee viñedos en distintos municipios de la zona del <strong>Barolo</strong>, de los que proceden sus vinos de pago, como Bricco Rocche, Brunate o Prapò. Su Barolo sin indicación de viñedo reúne uvas de varias de estas parcelas y de otras de la familia, con el objetivo de ofrecer una visión de conjunto de la denominación.</p><p>Se elabora exclusivamente con Nebbiolo. Tras la fermentación y una maceración prolongada, el vino se cría en roble, principalmente en toneles de gran tamaño, antes de pasar un periodo en botella. La combinación de suelos y exposiciones distintas aporta a la vez fruta, perfume y estructura.</p><p>Es un Barolo de perfil clásico, algo más abierto en su juventud que los vinos de pago de la casa, pero con la acidez y los taninos característicos del Nebbiolo, que le permiten evolucionar durante años en botella.</p>",
+    "en": "<p>Ceretto owns vineyards in several communes of the <strong>Barolo</strong> zone, which provide its single-cru wines such as Bricco Rocche, Brunate and Prapò. Its Barolo without a vineyard designation brings together grapes from several of these plots and from other family vineyards, with the aim of offering an overall picture of the appellation.</p><p>It is made solely from Nebbiolo. After fermentation and prolonged maceration, the wine is aged in oak, mainly in large casks, before spending a period in bottle. The combination of different soils and exposures provides fruit, perfume and structure at the same time.</p><p>It is a Barolo of classical profile, somewhat more open in its youth than the house’s cru wines, but with the acidity and tannins typical of Nebbiolo that allow it to evolve for years in bottle.</p>",
+    "fr": "<p>Ceretto possède des vignes dans plusieurs communes de la zone du <strong>barolo</strong>, d’où proviennent ses vins de cru comme Bricco Rocche, Brunate ou Prapò. Son barolo sans mention de vignoble réunit des raisins de plusieurs de ces parcelles et d’autres vignes de la famille, avec l’objectif d’offrir une vision d’ensemble de l’appellation.</p><p>Il est élaboré uniquement avec du nebbiolo. Après la fermentation et une macération prolongée, le vin est élevé sous bois, principalement en grands foudres, avant de passer une période en bouteille. La combinaison de sols et d’expositions différents apporte à la fois fruit, parfum et structure.</p><p>C’est un barolo de profil classique, un peu plus ouvert dans sa jeunesse que les vins de cru de la maison, mais doté de l’acidité et des tanins caractéristiques du nebbiolo qui lui permettent d’évoluer pendant des années en bouteille.</p>",
+    "it": "<p>Ceretto possiede vigneti in diversi comuni della zona del <strong>Barolo</strong>, da cui provengono i vini di cru come Bricco Rocche, Brunate o Prapò. Il suo Barolo senza menzione di vigna riunisce uve di diverse di queste parcelle e di altri vigneti di famiglia, con l’obiettivo di offrire una visione d’insieme della denominazione.</p><p>È prodotto esclusivamente con Nebbiolo. Dopo la fermentazione e una macerazione prolungata, il vino affina in rovere, soprattutto in botti di grandi dimensioni, prima di sostare in bottiglia. La combinazione di suoli ed esposizioni diverse apporta insieme frutto, profumo e struttura.</p><p>È un Barolo di profilo classico, un po’ più aperto in gioventù rispetto ai vini di cru della casa, ma con l’acidità e i tannini tipici del Nebbiolo, che gli permettono di evolvere per anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Granate de capa media. Aromas de cereza, rosa, regaliz, especias y notas balsámicas. Boca equilibrada, con taninos firmes, buena acidez y final largo.",
+    "en": "Medium garnet. Aromas of cherry, rose, liquorice, spice and balsamic notes. Balanced palate with firm tannins, good acidity and a long finish.",
+    "fr": "Grenat moyen. Arômes de cerise, de rose, de réglisse, d’épices et notes balsamiques. Bouche équilibrée, aux tanins fermes, avec une bonne acidité et une finale longue.",
+    "it": "Granato di media intensità. Profumi di ciliegia, rosa, liquirizia, spezie e note balsamiche. Bocca equilibrata, con tannini saldi, buona acidità e finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas estofadas, brasato al Barolo, caza, platos con trufa, quesos curados",
+    "en": "Braised red meat, brasato al Barolo, game, truffle dishes, aged cheeses",
+    "fr": "Viandes rouges braisées, brasato au barolo, gibier, plats à la truffe, fromages affinés",
+    "it": "Carni rosse brasate, brasato al Barolo, selvaggina, piatti al tartufo, formaggi stagionati"
+  },
+  "serve": {
+    "es": "17-18 °C, decantado, copa amplia",
+    "en": "17-18 °C, decanted, large glass",
+    "fr": "17-18 °C, carafé, verre ample",
+    "it": "17-18 °C, decantato, calice ampio"
+  },
+  "search": "Ceretto Barolo"
+}

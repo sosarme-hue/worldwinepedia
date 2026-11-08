@@ -1,0 +1,50 @@
+{
+  "slug": "roda-reserva",
+  "name": "Roda Reserva",
+  "winery": "roda",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [
+    "tempranillo",
+    "graciano",
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Reserva de Bodegas Roda, en Haro, elaborado con Tempranillo de viñas viejas y pequeñas aportaciones de Graciano y Garnacha, de perfil fresco y fruta roja.",
+    "en": "Reserva from Bodegas Roda in Haro, made from old-vine Tempranillo with small contributions of Graciano and Garnacha, with a fresh, red-fruited profile.",
+    "fr": "Reserva de Bodegas Roda, à Haro, élaboré avec du tempranillo de vieilles vignes et de petits apports de graciano et de grenache, au profil frais et aux fruits rouges.",
+    "it": "Reserva di Bodegas Roda, a Haro, prodotto con Tempranillo di vecchie vigne e piccoli apporti di Graciano e Garnacha, dal profilo fresco e di frutto rosso."
+  },
+  "body": {
+    "es": "<p>Roda es el tinto que da nombre a la bodega fundada en 1987 por Mario Rotllant y Carmen Daurella en el Barrio de la Estación de Haro. Se elabora con uva de viñas viejas de la Rioja Alta, mayoritariamente Tempranillo, con pequeñas proporciones de Graciano y, en ocasiones, de Garnacha, que varían según la añada.</p><p>La bodega vinifica por separado la uva de cada viñedo y, tras la fermentación y la crianza, clasifica los distintos lotes según su perfil. Los de carácter más fresco, con predominio de fruta roja, se destinan a Roda, mientras que los más profundos y de fruta negra se reservan para Roda I. El vino se cría en barricas de roble francés y reposa después en botella, cumpliendo los tiempos de la categoría Reserva.</p><p>El resultado es un rioja moderno pero arraigado en la tradición de Haro, que combina madurez, frescura y taninos finos, y que gana complejidad con algunos años de guarda.</p>",
+    "en": "<p>Roda is the red that gives its name to the winery founded in 1987 by Mario Rotllant and Carmen Daurella in Haro’s Station District. It is made from old vines in Rioja Alta, mostly Tempranillo, with small proportions of Graciano and sometimes Garnacha, which vary with the vintage.</p><p>The winery vinifies the grapes from each vineyard separately and, after fermentation and ageing, classifies the different lots according to their profile. Those of fresher character, with red fruit predominating, go into Roda, while the deeper, black-fruited ones are kept for Roda I. The wine is aged in French oak barrels and then rests in bottle, meeting the times of the Reserva category.</p><p>The result is a modern Rioja that is nonetheless rooted in Haro tradition, combining ripeness, freshness and fine tannins, and gaining complexity with a few years of ageing.</p>",
+    "fr": "<p>Roda est le rouge qui donne son nom à la bodega fondée en 1987 par Mario Rotllant et Carmen Daurella dans le Quartier de la Gare de Haro. Il est élaboré avec le raisin de vieilles vignes de la Rioja Alta, majoritairement du tempranillo, avec de petites proportions de graciano et parfois de grenache, qui varient selon le millésime.</p><p>La bodega vinifie séparément le raisin de chaque vignoble et, après la fermentation et l’élevage, classe les différents lots selon leur profil. Les plus frais, où dominent les fruits rouges, sont destinés à Roda, tandis que les plus profonds, aux fruits noirs, sont réservés à Roda I. Le vin est élevé en barriques de chêne français puis repose en bouteille, conformément aux durées de la catégorie Reserva.</p><p>Il en résulte un rioja moderne mais ancré dans la tradition de Haro, qui allie maturité, fraîcheur et tanins fins, et qui gagne en complexité avec quelques années de garde.</p>",
+    "it": "<p>Roda è il rosso che dà il nome alla cantina fondata nel 1987 da Mario Rotllant e Carmen Daurella nel Quartiere della Stazione di Haro. È prodotto con uve di vecchie vigne della Rioja Alta, in maggioranza Tempranillo, con piccole percentuali di Graciano e talvolta di Garnacha, che variano secondo l’annata.</p><p>La cantina vinifica separatamente le uve di ogni vigneto e, dopo la fermentazione e l’affinamento, classifica i diversi lotti secondo il loro profilo. Quelli di carattere più fresco, con prevalenza di frutto rosso, sono destinati a Roda, mentre i più profondi e di frutto nero sono riservati a Roda I. Il vino affina in barrique di rovere francese e riposa poi in bottiglia, rispettando i tempi della categoria Reserva.</p><p>Il risultato è un Rioja moderno ma radicato nella tradizione di Haro, che unisce maturità, freschezza e tannini fini e acquista complessità con alcuni anni di invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota de capa media-alta. Fruta roja madura, como cereza y frambuesa, con notas florales, especias y un fondo mineral. En boca es fresco y elegante, de taninos finos.",
+    "en": "Medium-deep cherry red. Ripe red fruit such as cherry and raspberry, with floral notes, spice and a mineral background. Fresh and elegant on the palate, with fine tannins.",
+    "fr": "Rouge cerise burlat de moyenne à forte intensité. Fruits rouges mûrs, comme la cerise et la framboise, avec des notes florales, des épices et un fond minéral. Frais et élégant en bouche, aux tanins fins.",
+    "it": "Rosso ciliegia di intensità medio-alta. Frutta rossa matura, come ciliegia e lampone, con note floreali, spezie e un fondo minerale. In bocca è fresco ed elegante, con tannini fini."
+  },
+  "pairing": {
+    "es": "Cordero asado, chuletillas a la brasa, embutidos ibéricos, quesos semicurados",
+    "en": "Roast lamb, grilled lamb chops, Iberian cured meats, semi-cured cheeses",
+    "fr": "Agneau rôti, côtelettes grillées, charcuterie ibérique, fromages mi-affinés",
+    "it": "Agnello arrosto, costolette alla brace, salumi iberici, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Roda Reserva Bodegas Roda Rioja"
+}

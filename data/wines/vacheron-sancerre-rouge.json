@@ -1,0 +1,48 @@
+{
+  "slug": "vacheron-sancerre-rouge",
+  "name": "Vacheron Sancerre Rouge",
+  "winery": "domaine-vacheron",
+  "region": "sancerre",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Sancerre",
+    "en": "Sancerre",
+    "fr": "Sancerre",
+    "it": "Sancerre"
+  },
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Sancerre tinto del Domaine Vacheron elaborado con Pinot Noir de cultivo biodinámico, ligero, afrutado y de buena frescura.",
+    "en": "Red Sancerre from Domaine Vacheron made from biodynamically farmed Pinot Noir, light, fruity and fresh.",
+    "fr": "Sancerre rouge du domaine Vacheron élaboré à partir de pinot noir cultivé en biodynamie, léger, fruité et frais.",
+    "it": "Sancerre rosso del Domaine Vacheron prodotto con Pinot Noir coltivato in biodinamica, leggero, fruttato e fresco."
+  },
+  "body": {
+    "es": "<p>Aunque Sancerre es conocido sobre todo por sus blancos, la denominación admite también tintos y rosados de <strong>Pinot Noir</strong>, la variedad tinta de la vecina Borgoña. El Domaine Vacheron es uno de los productores que más han contribuido a mejorar la reputación de los Sancerre tintos.</p><p>Este vino procede de viñas de Pinot Noir cultivadas en biodinamia en distintos suelos de la denominación. La vendimia es manual, con una selección cuidadosa de las uvas, y la fermentación se realiza con levaduras autóctonas. La crianza, en madera usada, busca suavizar la textura sin aportar notas tostadas marcadas.</p><p>Es un tinto de clima fresco, de cuerpo ligero a medio, con fruta roja precisa y una acidez que le da vivacidad. Puede beberse joven y ligeramente fresco, aunque las buenas añadas evolucionan bien durante algunos años.</p>",
+    "en": "<p>Although Sancerre is known above all for its whites, the appellation also allows reds and rosés from <strong>Pinot Noir</strong>, the red variety of neighbouring Burgundy. Domaine Vacheron is one of the producers that has done most to improve the reputation of red Sancerre.</p><p>This wine comes from biodynamically farmed Pinot Noir vines on different soils across the appellation. Harvesting is by hand, with careful selection of the grapes, and fermentation is carried out with indigenous yeasts. Ageing in used wood aims to soften the texture without adding marked toasty notes.</p><p>It is a cool-climate red, light to medium in body, with precise red fruit and an acidity that gives it liveliness. It can be drunk young and slightly cool, though good vintages develop well for a few years.</p>",
+    "fr": "<p>Si Sancerre est surtout connu pour ses blancs, l’appellation autorise aussi des rouges et des rosés de <strong>pinot noir</strong>, le cépage rouge de la Bourgogne voisine. Le domaine Vacheron est l’un des producteurs qui ont le plus contribué à améliorer la réputation des sancerres rouges.</p><p>Ce vin provient de vignes de pinot noir conduites en biodynamie sur différents sols de l’appellation. Les vendanges sont manuelles, avec un tri soigneux des raisins, et la fermentation se fait aux levures indigènes. L’élevage, en bois usagé, vise à assouplir la texture sans apporter de notes grillées marquées.</p><p>C’est un rouge de climat frais, au corps léger à moyen, au fruit rouge précis et d’une acidité qui lui donne de la vivacité. Il peut se boire jeune et légèrement frais, même si les bons millésimes évoluent bien pendant quelques années.</p>",
+    "it": "<p>Sebbene Sancerre sia noto soprattutto per i bianchi, la denominazione ammette anche rossi e rosati da <strong>Pinot Noir</strong>, la varietà rossa della vicina Borgogna. Il Domaine Vacheron è uno dei produttori che più hanno contribuito a migliorare la reputazione dei Sancerre rossi.</p><p>Questo vino proviene da vigne di Pinot Noir coltivate in biodinamica su diversi suoli della denominazione. La vendemmia è manuale, con un’accurata selezione delle uve, e la fermentazione avviene con lieviti indigeni. L’affinamento, in legno usato, mira ad ammorbidire la trama senza conferire note tostate marcate.</p><p>È un rosso di clima fresco, di corpo da leggero a medio, con frutto rosso preciso e un’acidità che gli dà vivacità. Si può bere giovane e leggermente fresco, anche se le buone annate evolvono bene per alcuni anni.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí claro. Aromas de cereza, frambuesa, grosella y un toque terroso. Boca ligera y fresca, de taninos finos y final afrutado.",
+    "en": "Light ruby. Aromas of cherry, raspberry, redcurrant and an earthy touch. Light, fresh palate with fine tannins and a fruity finish.",
+    "fr": "Rubis clair. Arômes de cerise, de framboise, de groseille et une touche terreuse. Bouche légère et fraîche, aux tanins fins et à la finale fruitée.",
+    "it": "Rubino chiaro. Aromi di ciliegia, lampone, ribes rosso e un tocco terroso. Bocca leggera e fresca, dai tannini fini e dal finale fruttato."
+  },
+  "pairing": {
+    "es": "Aves asadas, salmón, charcutería, quesos de pasta blanda",
+    "en": "Roast poultry, salmon, charcuterie, soft cheeses",
+    "fr": "Volailles rôties, saumon, charcuterie, fromages à pâte molle",
+    "it": "Pollame arrosto, salmone, salumi, formaggi a pasta molle"
+  },
+  "serve": {
+    "es": "14-15 °C, copa de tipo Borgoña",
+    "en": "14-15 °C, Burgundy-style glass",
+    "fr": "14-15 °C, verre de type bourguignon",
+    "it": "14-15 °C, calice tipo Borgogna"
+  },
+  "search": "Domaine Vacheron Sancerre Rouge"
+}

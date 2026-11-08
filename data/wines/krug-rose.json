@@ -1,0 +1,49 @@
+{
+  "slug": "krug-rose",
+  "name": "Krug Rosé",
+  "winery": "krug",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut Rosé",
+    "en": "Brut Rosé",
+    "fr": "Brut Rosé",
+    "it": "Brut Rosé"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Champagne rosado sin añada de Krug, ensamblaje de vinos de varios años al que se añade un vino tinto de Pinot Noir.",
+    "en": "Krug’s non-vintage rosé champagne, a blend of wines from several years to which a Pinot Noir red wine is added.",
+    "fr": "Champagne rosé non millésimé de Krug, assemblage de vins de plusieurs années auquel est ajouté un vin rouge de pinot noir.",
+    "it": "Champagne rosé senza annata di Krug, assemblaggio di vini di diversi anni a cui si aggiunge un vino rosso di Pinot Nero."
+  },
+  "body": {
+    "es": "<p>Krug Rosé se lanzó en los años ochenta y aplica al rosado la misma filosofía que la Grande Cuvée: un ensamblaje de vinos de distintas parcelas y de varios años, concebido para ofrecer un estilo propio de la casa más que la expresión de una sola cosecha. Como la Grande Cuvée, se comercializa con un número de edición.</p><p>El color se obtiene añadiendo al ensamblaje de vinos blancos una proporción de <strong>vino tinto de Pinot Noir</strong>, elaborado con uvas seleccionadas y maceradas con sus hollejos. La base combina <strong>Pinot Noir</strong>, <strong>Chardonnay</strong> y Pinot Meunier, en proporciones que varían según la edición. Los vinos base fermentan en pequeñas barricas usadas y el champán se cría durante años sobre lías.</p><p>No es un rosado ligero y afrutado, sino un champán de estructura notable, con aromas de frutos rojos, especias y notas tostadas. Se aprecia sobre todo en la mesa, con platos de cierta intensidad.</p>",
+    "en": "<p>Krug Rosé was launched in the 1980s and applies to rosé the same philosophy as Grande Cuvée: a blend of wines from different plots and several years, designed to offer a distinctive house style rather than the expression of a single harvest. Like Grande Cuvée, it is sold with an edition number.</p><p>The colour is obtained by adding to the blend of white wines a proportion of <strong>Pinot Noir red wine</strong>, made from selected grapes macerated on their skins. The base combines <strong>Pinot Noir</strong>, <strong>Chardonnay</strong> and Pinot Meunier, in proportions that vary with the edition. The base wines ferment in small used casks and the champagne is aged for years on its lees.</p><p>It is not a light, fruity rosé but a champagne of notable structure, with aromas of red fruit, spice and toasty notes. It is best appreciated at the table, with dishes of some intensity.</p>",
+    "fr": "<p>Krug Rosé a été lancé dans les années 1980 et applique au rosé la même philosophie que la Grande Cuvée : un assemblage de vins de différentes parcelles et de plusieurs années, conçu pour offrir un style propre à la maison plutôt que l’expression d’une seule récolte. Comme la Grande Cuvée, il est commercialisé avec un numéro d’édition.</p><p>La couleur s’obtient en ajoutant à l’assemblage de vins blancs une proportion de <strong>vin rouge de pinot noir</strong>, élaboré avec des raisins sélectionnés et macérés avec leurs peaux. La base associe <strong>pinot noir</strong>, <strong>chardonnay</strong> et pinot meunier, dans des proportions qui varient selon l’édition. Les vins de base fermentent en petits fûts usagés et le champagne est élevé pendant des années sur lies.</p><p>Ce n’est pas un rosé léger et fruité, mais un champagne d’une structure remarquable, aux arômes de fruits rouges, d’épices et de notes toastées. Il s’apprécie surtout à table, avec des plats d’une certaine intensité.</p>",
+    "it": "<p>Krug Rosé è stato lanciato negli anni Ottanta e applica al rosé la stessa filosofia della Grande Cuvée: un assemblaggio di vini di diverse parcelle e di più anni, pensato per offrire uno stile proprio della casa più che l’espressione di una sola vendemmia. Come la Grande Cuvée, è commercializzato con un numero di edizione.</p><p>Il colore si ottiene aggiungendo all’assemblaggio di vini bianchi una quota di <strong>vino rosso di Pinot Nero</strong>, prodotto con uve selezionate e macerate con le bucce. La base unisce <strong>Pinot Nero</strong>, <strong>Chardonnay</strong> e Pinot Meunier, in proporzioni che variano secondo l’edizione. I vini base fermentano in piccole botti usate e lo champagne affina per anni sui lieviti.</p><p>Non è un rosé leggero e fruttato, ma uno champagne di notevole struttura, con aromi di frutti rossi, spezie e note tostate. Si apprezza soprattutto a tavola, con piatti di una certa intensità.</p>"
+  },
+  "tasting": {
+    "es": "Rosa salmón con burbuja fina. Aromas de frambuesa, escaramujo, pomelo rosado, especias y tostados. Boca seca y estructurada, de gran frescura y final largo.",
+    "en": "Salmon pink with fine bubbles. Aromas of raspberry, rosehip, pink grapefruit, spice and toast. Dry, structured palate of great freshness with a long finish.",
+    "fr": "Rose saumoné à la bulle fine. Arômes de framboise, d’églantine, de pamplemousse rose, d’épices et de toasté. Bouche sèche et structurée, d’une grande fraîcheur, finale longue.",
+    "it": "Rosa salmone dal perlage fine. Aromi di lampone, rosa canina, pompelmo rosa, spezie e tostato. Bocca secca e strutturata, di grande freschezza, dal finale lungo."
+  },
+  "pairing": {
+    "es": "Salmón, atún en tataki, pato, cocina asiática, postres de frutos rojos poco dulces",
+    "en": "Salmon, tuna tataki, duck, Asian cuisine, not-too-sweet red fruit desserts",
+    "fr": "Saumon, tataki de thon, canard, cuisine asiatique, desserts aux fruits rouges peu sucrés",
+    "it": "Salmone, tataki di tonno, anatra, cucina asiatica, dolci ai frutti rossi poco zuccherati"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de vino blanco amplia, no flauta",
+    "en": "10-12 °C, large white wine glass rather than a flute",
+    "fr": "10-12 °C, grand verre à vin blanc plutôt qu’une flûte",
+    "it": "10-12 °C, calice ampio da vino bianco anziché flûte"
+  },
+  "search": "Krug Rosé Champagne Brut"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "erre-punto",
+  "name": "Erre Punto",
+  "winery": "remirez-de-ganuza",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Tinto joven de Remírez de Ganuza elaborado por maceración carbónica, al estilo tradicional de los cosecheros de la Rioja Alavesa.",
+    "en": "Young red from Remírez de Ganuza made by carbonic maceration, in the traditional style of the small growers of Rioja Alavesa.",
+    "fr": "Rouge jeune de Remírez de Ganuza élaboré par macération carbonique, dans le style traditionnel des vignerons de la Rioja Alavesa.",
+    "it": "Rosso giovane di Remírez de Ganuza prodotto per macerazione carbonica, secondo lo stile tradizionale dei piccoli vignaioli della Rioja Alavesa."
+  },
+  "body": {
+    "es": "<p>Erre Punto es el tinto joven de Bodegas Remírez de Ganuza y un homenaje al vino de cosechero, el tinto del año que tradicionalmente elaboraban los pequeños viticultores de la Rioja Alavesa. Se elabora sobre todo con Tempranillo, a veces acompañado de una pequeña proporción de uva blanca, como era costumbre en las viñas viejas de la zona.</p><p>Su método de elaboración es la maceración carbónica: los racimos enteros, sin despalillar, se introducen en el depósito y una parte de la fermentación se produce dentro de la propia uva, en un ambiente saturado de gas carbónico. Esta técnica da vinos de color vivo, aromas muy afrutados y taninos suaves. El vino no pasa por barrica y se embotella poco después de la vendimia.</p><p>El resultado es un tinto fresco, ligero y aromático, pensado para beberse en su primer año, que muestra una cara de la Rioja Alavesa distinta de la de los vinos de crianza.</p>",
+    "en": "<p>Erre Punto is the young red of Bodegas Remírez de Ganuza and a tribute to vino de cosechero, the red of the year traditionally made by the small growers of Rioja Alavesa. It is made mainly from Tempranillo, sometimes with a small proportion of white grapes, as was customary in the area’s old vineyards.</p><p>It is made by carbonic maceration: whole, undestemmed bunches are placed in the tank and part of the fermentation takes place inside the grapes themselves, in an atmosphere saturated with carbon dioxide. This technique produces wines with vivid colour, very fruity aromas and soft tannins. The wine does not go into barrel and is bottled shortly after the harvest.</p><p>The result is a fresh, light and aromatic red, designed to be drunk in its first year, showing a side of Rioja Alavesa different from that of its aged wines.</p>",
+    "fr": "<p>Erre Punto est le rouge jeune de Bodegas Remírez de Ganuza et un hommage au vino de cosechero, le rouge de l’année que les petits viticulteurs de la Rioja Alavesa élaboraient traditionnellement. Il est élaboré surtout avec du tempranillo, parfois accompagné d’une petite proportion de raisin blanc, comme c’était l’usage dans les vieilles vignes de la région.</p><p>Il est élaboré par macération carbonique : les grappes entières, non égrappées, sont placées en cuve et une partie de la fermentation se produit à l’intérieur même des baies, dans une atmosphère saturée de gaz carbonique. Cette technique donne des vins à la couleur vive, aux arômes très fruités et aux tanins souples. Le vin ne passe pas en barrique et il est mis en bouteille peu après les vendanges.</p><p>Il en résulte un rouge frais, léger et aromatique, conçu pour être bu dans l’année, qui montre un visage de la Rioja Alavesa différent de celui des vins élevés.</p>",
+    "it": "<p>Erre Punto è il rosso giovane di Bodegas Remírez de Ganuza e un omaggio al vino de cosechero, il rosso dell’annata tradizionalmente prodotto dai piccoli viticoltori della Rioja Alavesa. È prodotto soprattutto con Tempranillo, talvolta accompagnato da una piccola percentuale di uva bianca, come era consuetudine nelle vecchie vigne della zona.</p><p>Si ottiene per macerazione carbonica: i grappoli interi, non diraspati, vengono messi in vasca e parte della fermentazione avviene all’interno degli acini stessi, in un ambiente saturo di anidride carbonica. Questa tecnica dà vini dal colore vivace, dagli aromi molto fruttati e dai tannini morbidi. Il vino non passa in barrique e viene imbottigliato poco dopo la vendemmia.</p><p>Il risultato è un rosso fresco, leggero e aromatico, pensato per essere bevuto entro il primo anno, che mostra un volto della Rioja Alavesa diverso da quello dei vini affinati.</p>"
+  },
+  "tasting": {
+    "es": "Rojo violáceo intenso. Aromas de fruta roja y negra muy fresca, como frambuesa y mora, con notas de regaliz. En boca es ligero, jugoso y de taninos suaves.",
+    "en": "Intense violet-red. Aromas of very fresh red and black fruit such as raspberry and blackberry, with notes of liquorice. Light, juicy and soft-tannined on the palate.",
+    "fr": "Rouge violacé intense. Arômes de fruits rouges et noirs très frais, comme la framboise et la mûre, avec des notes de réglisse. En bouche, il est léger, juteux et aux tanins souples.",
+    "it": "Rosso violaceo intenso. Aromi di frutta rossa e nera freschissima, come lampone e mora, con note di liquirizia. In bocca è leggero, succoso e dai tannini morbidi."
+  },
+  "pairing": {
+    "es": "Tapas, embutidos, carnes a la plancha, arroces de carne, pasta",
+    "en": "Tapas, charcuterie, grilled meat, meat rice dishes, pasta",
+    "fr": "Tapas, charcuterie, viandes à la plancha, riz à la viande, pâtes",
+    "it": "Tapas, salumi, carni alla piastra, risi con carne, pasta"
+  },
+  "serve": {
+    "es": "14-16 °C, copa de tinto",
+    "en": "14-16 °C, red wine glass",
+    "fr": "14-16 °C, verre à vin rouge",
+    "it": "14-16 °C, calice da rosso"
+  },
+  "search": "Erre Punto Remírez de Ganuza Rioja"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "manyetes",
+  "name": "Manyetes",
+  "winery": "clos-mogador",
+  "region": "priorat",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "carinena"
+  ],
+  "summary": {
+    "es": "Tinto de Clos Mogador centrado en la cariñena, procedente de una parcela del mismo nombre en Gratallops.",
+    "en": "Red from Clos Mogador centred on Cariñena, from a plot of the same name in Gratallops.",
+    "fr": "Rouge de Clos Mogador centré sur le carignan, issu d'une parcelle du même nom à Gratallops.",
+    "it": "Rosso di Clos Mogador incentrato sulla Cariñena, da una parcella omonima a Gratallops."
+  },
+  "body": {
+    "es": "<p>Manyetes es el vino de parcela de Clos Mogador, la bodega de la familia de René Barbier en <strong>Gratallops</strong>. Toma su nombre de la viña de la que procede y se ha convertido en una de las expresiones más reconocidas de la <strong>cariñena</strong> en el Priorat, una variedad que durante años se consideró rústica y que hoy se valora por su frescura y su capacidad de transmitir el suelo.</p><p>La viña se asienta sobre <strong>llicorella</strong> y arcillas, con cepas de cariñena de cierta edad, a las que puede sumarse una pequeña parte de otras variedades locales según la añada. La cariñena, de maduración tardía y acidez elevada, encuentra en el clima cálido y seco del Priorat las condiciones para madurar plenamente sin perder tensión. La elaboración busca respetar la fruta, con una crianza en madera que acompaña sin dominar. Es un tinto de color profundo, con fruta negra, notas de hierbas y un carácter mineral marcado.</p>",
+    "en": "<p>Manyetes is the single-plot wine of Clos Mogador, the René Barbier family winery in <strong>Gratallops</strong>. It takes its name from the vineyard it comes from and has become one of the best-known expressions of <strong>Cariñena</strong> in the Priorat, a variety long regarded as rustic and now prized for its freshness and its ability to convey the soil.</p><p>The vineyard lies on <strong>llicorella</strong> and clay, with Cariñena vines of some age, which may be joined by a small share of other local varieties depending on the vintage. Late-ripening and high in acidity, Cariñena finds in the warm, dry climate of the Priorat the conditions to ripen fully without losing tension. Winemaking seeks to respect the fruit, with oak ageing that accompanies rather than dominates. It is a deeply coloured red, with black fruit, herbal notes and a marked mineral character.</p>",
+    "fr": "<p>Manyetes est le vin parcellaire de Clos Mogador, le domaine de la famille de René Barbier à <strong>Gratallops</strong>. Il tient son nom de la vigne dont il provient et il est devenu l'une des expressions les plus reconnues du <strong>carignan</strong> dans le Priorat, un cépage longtemps jugé rustique et aujourd'hui apprécié pour sa fraîcheur et sa capacité à traduire le sol.</p><p>La vigne repose sur la <strong>llicorella</strong> et des argiles, avec des carignans d'un certain âge, auxquels peut s'ajouter une petite part d'autres cépages locaux selon le millésime. Tardif et riche en acidité, le carignan trouve dans le climat chaud et sec du Priorat les conditions pour mûrir pleinement sans perdre sa tension. L'élaboration cherche à respecter le fruit, avec un élevage sous bois qui accompagne sans dominer. C'est un rouge à la couleur profonde, au fruit noir, aux notes d'herbes et au caractère minéral marqué.</p>",
+    "it": "<p>Manyetes è il vino di parcella di Clos Mogador, la cantina della famiglia di René Barbier a <strong>Gratallops</strong>. Prende il nome dalla vigna da cui proviene ed è diventato una delle espressioni più riconosciute della <strong>Cariñena</strong> nel Priorat, una varietà a lungo considerata rustica e oggi apprezzata per la freschezza e la capacità di trasmettere il suolo.</p><p>La vigna poggia su <strong>llicorella</strong> e argille, con viti di Cariñena di una certa età, a cui può aggiungersi una piccola parte di altre varietà locali secondo l'annata. Tardiva e di acidità elevata, la Cariñena trova nel clima caldo e secco del Priorat le condizioni per maturare pienamente senza perdere tensione. La vinificazione cerca di rispettare il frutto, con un affinamento in legno che accompagna senza dominare. È un rosso di colore profondo, con frutta nera, note erbacee e un marcato carattere minerale.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota profundo. Aromas de mora, ciruela, hierbas de monte, regaliz y notas de grafito. En boca es tenso y fresco, con tanino firme y final mineral.",
+    "en": "Deep cherry red. Aromas of blackberry, plum, wild herbs, liquorice and graphite notes. Taut and fresh on the palate, with firm tannins and a mineral finish.",
+    "fr": "Rouge cerise profond. Arômes de mûre, de prune, d'herbes de garrigue, de réglisse et notes de graphite. En bouche, tendu et frais, aux tanins fermes et à la finale minérale.",
+    "it": "Rosso ciliegia profondo. Aromi di mora, prugna, erbe di macchia, liquirizia e note di grafite. In bocca è teso e fresco, con tannino deciso e finale minerale."
+  },
+  "pairing": {
+    "es": "Caza, cordero, carnes estofadas, quesos curados",
+    "en": "Game, lamb, braised meats, aged cheeses",
+    "fr": "Gibier, agneau, viandes braisées, fromages affinés",
+    "it": "Selvaggina, agnello, carni brasate, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, grand verre",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Manyetes Clos Mogador Priorat"
+}

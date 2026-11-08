@@ -1,0 +1,46 @@
+{
+  "slug": "the-prisoner",
+  "name": "The Prisoner",
+  "winery": "the-prisoner-wine-company",
+  "region": "napa-valley",
+  "country": "estados-unidos",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "primitivo",
+    "cabernet-sauvignon",
+    "petite-sirah",
+    "syrah"
+  ],
+  "summary": {
+    "es": "Tinto de mezcla del Napa Valley basado en el Zinfandel, creado por Dave Phinney con la cosecha de 2000 y reconocible por su etiqueta con un grabado de Goya.",
+    "en": "Zinfandel-based red blend from the Napa Valley, created by Dave Phinney with the 2000 vintage and recognisable by its label featuring a Goya etching.",
+    "fr": "Assemblage rouge de la Napa Valley à base de zinfandel, créé par Dave Phinney avec le millésime 2000 et reconnaissable à son étiquette ornée d’une gravure de Goya.",
+    "it": "Rosso da uvaggio della Napa Valley a base di Zinfandel, creato da Dave Phinney con l’annata 2000 e riconoscibile per l’etichetta con un’incisione di Goya."
+  },
+  "body": {
+    "es": "<p>The Prisoner apareció con la cosecha de 2000 como una propuesta poco habitual en el Napa Valley, una región dominada por el Cabernet Sauvignon: una mezcla con el <strong>Zinfandel</strong> como base, acompañado de Cabernet Sauvignon, Petite Sirah, Syrah y, en ocasiones, pequeñas cantidades de Charbono. Las proporciones varían según la añada. El vino lleva la denominación Napa Valley, aunque las uvas proceden de distintos viñedos del valle.</p><p>Cada variedad se fermenta por separado y el vino se cría en barricas de roble francés y estadounidense antes de realizar la mezcla final. El estilo busca fruta muy madura, textura suave y una sensación de dulzor frutal, con taninos redondeados, lo que lo hace agradable desde su salida al mercado. Su éxito comercial contribuyó a popularizar en Estados Unidos los tintos californianos de mezcla vendidos con nombre propio, y sigue siendo uno de los más buscados de su categoría.</p>",
+    "en": "<p>The Prisoner appeared with the 2000 vintage as an unusual proposition in the Napa Valley, a region dominated by Cabernet Sauvignon: a blend with <strong>Zinfandel</strong> as its base, accompanied by Cabernet Sauvignon, Petite Sirah, Syrah and, at times, small amounts of Charbono. The proportions vary with the vintage. The wine carries the Napa Valley appellation, although the grapes come from various vineyards across the valley.</p><p>Each variety is fermented separately and the wine is aged in French and American oak barrels before the final blend is made. The style aims for very ripe fruit, a smooth texture and an impression of fruity sweetness, with rounded tannins, which makes it enjoyable from the time it is released. Its commercial success helped popularise in the United States Californian red blends sold under a proprietary name, and it remains one of the most sought-after wines in its category.</p>",
+    "fr": "<p>The Prisoner est apparu avec le millésime 2000 comme une proposition inhabituelle dans la Napa Valley, une région dominée par le cabernet-sauvignon : un assemblage à base de <strong>zinfandel</strong>, accompagné de cabernet-sauvignon, de petite sirah, de syrah et parfois de petites quantités de charbono. Les proportions varient selon le millésime. Le vin porte l’appellation Napa Valley, bien que les raisins proviennent de différents vignobles de la vallée.</p><p>Chaque cépage est fermenté séparément et le vin est élevé en fûts de chêne français et américain avant l’assemblage final. Le style recherche un fruit très mûr, une texture souple et une impression de douceur fruitée, avec des tanins arrondis, ce qui le rend agréable dès sa mise en marché. Son succès commercial a contribué à populariser aux États-Unis les assemblages rouges californiens vendus sous un nom propre, et il reste l’un des plus recherchés de sa catégorie.</p>",
+    "it": "<p>The Prisoner è apparso con l’annata 2000 come una proposta insolita nella Napa Valley, una regione dominata dal Cabernet Sauvignon: un uvaggio con lo <strong>Zinfandel</strong> come base, accompagnato da Cabernet Sauvignon, Petite Sirah, Syrah e talvolta piccole quantità di Charbono. Le proporzioni variano secondo l’annata. Il vino porta la denominazione Napa Valley, anche se le uve provengono da diversi vigneti della valle.</p><p>Ogni varietà viene fermentata separatamente e il vino affina in botti di rovere francese e americano prima dell’assemblaggio finale. Lo stile ricerca un frutto molto maturo, una trama morbida e una sensazione di dolcezza fruttata, con tannini arrotondati, il che lo rende piacevole fin dall’uscita sul mercato. Il suo successo commerciale ha contribuito a rendere popolari negli Stati Uniti gli uvaggi rossi californiani venduti con un nome di fantasia, e resta uno dei più ricercati della sua categoria.</p>"
+  },
+  "tasting": {
+    "es": "Rubí muy oscuro. Aromas de mora, cereza en licor, ciruela, especias dulces y vainilla. Boca amplia y aterciopelada, de taninos redondos.",
+    "en": "Very dark ruby. Aromas of blackberry, cherry liqueur, plum, sweet spice and vanilla. Broad, velvety palate with round tannins.",
+    "fr": "Rubis très sombre. Arômes de mûre, de cerise à l’eau-de-vie, de prune, d’épices douces et de vanille. Bouche ample et veloutée, aux tanins ronds.",
+    "it": "Rubino molto scuro. Aromi di mora, ciliegia sotto spirito, prugna, spezie dolci e vaniglia. Bocca ampia e vellutata, dai tannini rotondi."
+  },
+  "pairing": {
+    "es": "Costillas a la barbacoa, carnes asadas, hamburguesas gourmet, quesos curados",
+    "en": "Barbecued ribs, roast meats, gourmet burgers, aged cheeses",
+    "fr": "Travers au barbecue, viandes rôties, hamburgers gastronomiques, fromages affinés",
+    "it": "Costine al barbecue, carni arrosto, hamburger gourmet, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "The Prisoner Red Blend Napa Valley"
+}

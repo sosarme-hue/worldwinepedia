@@ -1,0 +1,48 @@
+{
+  "slug": "melior-de-matarromera",
+  "name": "Melior de Matarromera",
+  "winery": "matarromera",
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Roble",
+    "en": "Roble",
+    "fr": "Roble",
+    "it": "Roble"
+  },
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Tinto roble de Bodegas Matarromera, elaborado con Tinto Fino y con una crianza breve en barrica, de estilo afrutado y accesible.",
+    "en": "Oak-aged red from Bodegas Matarromera, made from Tinto Fino with a short spell in barrel, fruity and approachable in style.",
+    "fr": "Rouge « roble » de Bodegas Matarromera, élaboré avec du tinto fino et brièvement élevé en barrique, de style fruité et accessible.",
+    "it": "Rosso «roble» di Bodegas Matarromera, prodotto con Tinto Fino e con un breve affinamento in barrique, di stile fruttato e accessibile."
+  },
+  "body": {
+    "es": "<p>Melior es el vino de entrada de la gama de Bodegas Matarromera en la Ribera del Duero. Pertenece a la categoría que en la región se conoce popularmente como «roble»: tintos que pasan unos meses en barrica, menos de los exigidos para un Crianza, con el fin de añadir un ligero matiz de madera sin perder la fruta de juventud.</p><p>Se elabora con Tinto Fino, la variante local del Tempranillo, procedente de viñedos de la bodega y de la zona de Valbuena de Duero. Tras la fermentación a temperatura controlada, el vino pasa un periodo breve en barricas de roble y se embotella pronto, de modo que llega al mercado con la fruta todavía en primer plano.</p><p>El resultado es un tinto jugoso y fácil de beber, con la intensidad de color y la fruta negra propias de la Ribera, pero más ligero y accesible que los vinos de crianza de la casa. Es una opción habitual para el consumo diario y la cocina informal.</p>",
+    "en": "<p>Melior is the entry-level wine in the Bodegas Matarromera range in Ribera del Duero. It belongs to the category popularly known in the region as ‘roble’ (oak): reds that spend a few months in barrel, less than required for a Crianza, in order to add a light touch of wood without losing their youthful fruit.</p><p>It is made from Tinto Fino, the local variant of Tempranillo, from the winery’s vineyards and from the Valbuena de Duero area. After temperature-controlled fermentation, the wine spends a short period in oak barrels and is bottled early, so that it reaches the market with the fruit still in the foreground.</p><p>The result is a juicy, easy-drinking red, with the depth of colour and black fruit typical of Ribera, but lighter and more approachable than the house’s aged wines. It is a common choice for everyday drinking and informal cooking.</p>",
+    "fr": "<p>Melior est le vin d’entrée de la gamme de Bodegas Matarromera en Ribera del Duero. Il appartient à la catégorie que l’on appelle couramment dans la région « roble » (chêne) : des rouges qui passent quelques mois en barrique, moins que ce qu’exige un Crianza, afin d’ajouter une légère touche boisée sans perdre le fruit de la jeunesse.</p><p>Il est élaboré avec du tinto fino, variante locale du tempranillo, provenant des vignes de la bodega et du secteur de Valbuena de Duero. Après une fermentation à température contrôlée, le vin passe une courte période en barriques de chêne et il est mis en bouteille tôt, si bien qu’il arrive sur le marché avec le fruit encore au premier plan.</p><p>Il en résulte un rouge juteux et facile à boire, avec l’intensité de couleur et les fruits noirs propres à la Ribera, mais plus léger et plus accessible que les vins élevés de la maison. C’est un choix courant pour la consommation quotidienne et la cuisine informelle.</p>",
+    "it": "<p>Melior è il vino d’ingresso della gamma di Bodegas Matarromera in Ribera del Duero. Appartiene alla categoria che nella regione è nota popolarmente come «roble» (rovere): rossi che trascorrono alcuni mesi in barrique, meno di quanto richiesto per un Crianza, per aggiungere un leggero tocco di legno senza perdere il frutto giovanile.</p><p>È prodotto con Tinto Fino, la variante locale del Tempranillo, proveniente dai vigneti della cantina e dalla zona di Valbuena de Duero. Dopo la fermentazione a temperatura controllata, il vino trascorre un breve periodo in barrique di rovere e viene imbottigliato presto, così da arrivare sul mercato con il frutto ancora in primo piano.</p><p>Il risultato è un rosso succoso e facile da bere, con l’intensità di colore e il frutto nero tipici della Ribera, ma più leggero e accessibile dei vini affinati della casa. È una scelta abituale per il consumo quotidiano e la cucina informale.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota con ribete violáceo. Fruta negra y roja fresca, con un ligero toque tostado. En boca es jugoso, con taninos presentes pero amables.",
+    "en": "Deep cherry red with a violet rim. Fresh black and red fruit with a light toasty touch. Juicy on the palate, with present but gentle tannins.",
+    "fr": "Rouge cerise burlat à reflets violacés. Fruits noirs et rouges frais, avec une légère touche toastée. En bouche, il est juteux, aux tanins présents mais aimables.",
+    "it": "Rosso ciliegia con unghia violacea. Frutta nera e rossa fresca, con un leggero tocco tostato. In bocca è succoso, con tannini presenti ma gentili."
+  },
+  "pairing": {
+    "es": "Tapas, embutidos, carnes a la plancha, arroces de carne, pasta",
+    "en": "Tapas, charcuterie, grilled meat, meat rice dishes, pasta",
+    "fr": "Tapas, charcuterie, viandes à la plancha, riz à la viande, pâtes",
+    "it": "Tapas, salumi, carni alla piastra, risi con carne, pasta"
+  },
+  "serve": {
+    "es": "14-16 °C, copa de tinto",
+    "en": "14-16 °C, red wine glass",
+    "fr": "14-16 °C, verre à vin rouge",
+    "it": "14-16 °C, calice da rosso"
+  },
+  "search": "Melior Matarromera Ribera del Duero roble"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "arzuaga-reserva",
+  "name": "Arzuaga Reserva",
+  "winery": "arzuaga",
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Reserva de Bodegas Arzuaga Navarro elaborado con Tinto Fino seleccionado de la finca La Planta, y envejecido al menos tres años.",
+    "en": "Reserva from Bodegas Arzuaga Navarro made from selected Tinto Fino from the La Planta estate, and aged for at least three years.",
+    "fr": "Reserva de Bodegas Arzuaga Navarro élaboré avec du tinto fino sélectionné du domaine de La Planta, et vieilli au moins trois ans.",
+    "it": "Reserva di Bodegas Arzuaga Navarro prodotto con Tinto Fino selezionato della tenuta La Planta, e invecchiato almeno tre anni."
+  },
+  "body": {
+    "es": "<p>Arzuaga Reserva es uno de los tintos de mayor crianza de Bodegas Arzuaga Navarro. Se elabora con uva seleccionada de los viñedos de la finca La Planta y de otras parcelas de la familia en Quintanilla de Onésimo, principalmente Tinto Fino, que en algunas añadas puede completarse con pequeñas proporciones de otras variedades.</p><p>Según la normativa de la Denominación de Origen Ribera del Duero, un Reserva debe envejecer al menos treinta y seis meses entre barrica y botella, con un mínimo de doce meses en madera. La bodega cría el vino en barricas de roble francés y americano y lo mantiene después en botella en sus instalaciones hasta considerar que ha alcanzado el equilibrio adecuado.</p><p>El resultado es un tinto más complejo y estructurado que el Crianza, con fruta negra madura, notas de especias, tostados y cacao, y taninos firmes que se suavizan con el tiempo. Tiene buena capacidad de guarda y se beneficia de la decantación cuando se bebe joven.</p>",
+    "en": "<p>Arzuaga Reserva is one of the longest-aged reds from Bodegas Arzuaga Navarro. It is made from selected grapes from the vineyards of the La Planta estate and other family plots in Quintanilla de Onésimo, mainly Tinto Fino, which in some vintages may be complemented by small proportions of other varieties.</p><p>Under the rules of the Ribera del Duero Denominación de Origen, a Reserva must age for at least thirty-six months between barrel and bottle, with a minimum of twelve months in wood. The winery ages the wine in French and American oak barrels and then keeps it in bottle at its premises until it judges that it has reached the right balance.</p><p>The result is a red that is more complex and structured than the Crianza, with ripe black fruit, notes of spice, toast and cocoa, and firm tannins that soften over time. It has good ageing potential and benefits from decanting when drunk young.</p>",
+    "fr": "<p>Arzuaga Reserva est l’un des rouges aux élevages les plus longs de Bodegas Arzuaga Navarro. Il est élaboré avec le raisin sélectionné des vignes du domaine de La Planta et d’autres parcelles de la famille à Quintanilla de Onésimo, principalement du tinto fino, qui peut être complété certains millésimes par de petites proportions d’autres cépages.</p><p>Selon la réglementation de la Denominación de Origen Ribera del Duero, un Reserva doit vieillir au moins trente-six mois entre barrique et bouteille, dont douze mois minimum sous bois. La bodega élève le vin en barriques de chêne français et américain, puis le conserve en bouteille dans ses installations jusqu’à ce qu’elle estime qu’il a atteint le bon équilibre.</p><p>Il en résulte un rouge plus complexe et plus structuré que le Crianza, aux fruits noirs mûrs, aux notes d’épices, de toasté et de cacao, et aux tanins fermes qui s’assouplissent avec le temps. Il possède un bon potentiel de garde et gagne à être carafé lorsqu’on le boit jeune.</p>",
+    "it": "<p>Arzuaga Reserva è uno dei rossi di più lungo affinamento di Bodegas Arzuaga Navarro. È prodotto con uve selezionate dai vigneti della tenuta La Planta e da altre parcelle di famiglia a Quintanilla de Onésimo, principalmente Tinto Fino, che in alcune annate può essere completato da piccole percentuali di altre varietà.</p><p>Secondo la normativa della Denominación de Origen Ribera del Duero, un Reserva deve invecchiare almeno trentasei mesi tra barrique e bottiglia, di cui almeno dodici in legno. La cantina affina il vino in barrique di rovere francese e americano e lo conserva poi in bottiglia nelle proprie strutture finché non ritiene che abbia raggiunto il giusto equilibrio.</p><p>Il risultato è un rosso più complesso e strutturato del Crianza, con frutto nero maturo, note di spezie, tostatura e cacao, e tannini decisi che si ammorbidiscono con il tempo. Ha una buona capacità d’invecchiamento e beneficia della decantazione quando viene bevuto giovane.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de fruta negra madura, regaliz, especias y tostados de la barrica. En boca es carnoso y estructurado, con taninos firmes y final persistente.",
+    "en": "Intense deep cherry red. Aromas of ripe black fruit, liquorice, spice and toasty oak. Fleshy and structured on the palate, with firm tannins and a persistent finish.",
+    "fr": "Rouge cerise burlat intense. Arômes de fruits noirs mûrs, réglisse, épices et toasté de la barrique. En bouche, il est charnu et structuré, aux tanins fermes et à la finale persistante.",
+    "it": "Rosso ciliegia intenso. Aromi di frutta nera matura, liquirizia, spezie e tostatura della barrique. In bocca è carnoso e strutturato, con tannini decisi e finale persistente."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, lechazo asado, caza mayor, quesos curados de oveja",
+    "en": "Chargrilled red meat, roast milk-fed lamb, large game, aged sheep’s cheeses",
+    "fr": "Viandes rouges à la braise, agneau de lait rôti, gros gibier, fromages de brebis affinés",
+    "it": "Carni rosse alla brace, agnello da latte arrosto, selvaggina di grossa taglia, pecorini stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Arzuaga Reserva Ribera del Duero"
+}

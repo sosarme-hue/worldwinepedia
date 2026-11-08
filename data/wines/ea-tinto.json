@@ -1,0 +1,43 @@
+{
+  "slug": "ea-tinto",
+  "name": "EA Tinto",
+  "winery": "fundacao-eugenio-de-almeida",
+  "region": "alentejo",
+  "country": "portugal",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Tinto joven del Alentejo de la Fundação Eugénio de Almeida, afrutado y suave, que constituye la línea más accesible de la casa.",
+    "en": "Young Alentejo red from the Fundação Eugénio de Almeida, fruity and smooth, forming the house’s most approachable line.",
+    "fr": "Rouge jeune de l’Alentejo de la Fundação Eugénio de Almeida, fruité et souple, qui constitue la ligne la plus accessible de la maison.",
+    "it": "Rosso giovane dell’Alentejo della Fundação Eugénio de Almeida, fruttato e morbido, che costituisce la linea più accessibile della casa."
+  },
+  "body": {
+    "es": "<p>EA, iniciales de Eugénio de Almeida, es la línea de vinos jóvenes de la fundación de Évora, pensada para el consumo diario. Se sitúa por debajo de las gamas Cartuxa y Pêra-Manca, y su tinto es uno de los vinos alentejanos más fáciles de encontrar dentro y fuera de Portugal.</p><p>Se elabora con uvas de la región, de variedades tradicionales del Alentejo como la Aragonez (Tempranillo) y la Trincadeira, entre otras, en proporciones que varían según la cosecha. La vinificación se orienta a preservar la fruta: fermentación en depósitos con control de temperatura, maceraciones moderadas y, en general, sin crianza prolongada en madera, de modo que el vino se embotella joven.</p><p>El resultado es un tinto de perfil afrutado, cuerpo ligero a medio y taninos suaves, que refleja el carácter generoso del clima alentejano sin la estructura de los vinos de guarda. Se recomienda beberlo en sus primeros años.</p>",
+    "en": "<p>EA, the initials of Eugénio de Almeida, is the young-wine line of the Évora foundation, designed for everyday drinking. It sits below the Cartuxa and Pêra-Manca ranges, and its red is one of the Alentejo wines most easily found inside and outside Portugal.</p><p>It is made from grapes from the region, from traditional Alentejo varieties such as Aragonez (Tempranillo) and Trincadeira, among others, in proportions that vary with the vintage. Winemaking is geared to preserving fruit: fermentation in temperature-controlled tanks, moderate macerations and, generally, no extended oak ageing, so the wine is bottled young.</p><p>The result is a red with a fruity profile, light to medium body and soft tannins, reflecting the generous character of the Alentejo climate without the structure of wines for cellaring. It is best drunk in its first years.</p>",
+    "fr": "<p>EA, initiales d’Eugénio de Almeida, est la ligne de vins jeunes de la fondation d’Évora, conçue pour la consommation quotidienne. Elle se situe en dessous des gammes Cartuxa et Pêra-Manca, et son rouge est l’un des vins de l’Alentejo les plus faciles à trouver au Portugal comme à l’étranger.</p><p>Il est élaboré avec des raisins de la région, de cépages traditionnels de l’Alentejo comme l’aragonez (tempranillo) et la trincadeira, entre autres, dans des proportions qui varient selon le millésime. La vinification vise à préserver le fruit : fermentation en cuves thermorégulées, macérations modérées et, en général, pas d’élevage prolongé sous bois, de sorte que le vin est mis en bouteille jeune.</p><p>Le résultat est un rouge au profil fruité, de corps léger à moyen et aux tanins souples, qui reflète le caractère généreux du climat alentejano sans la structure des vins de garde. Il est recommandé de le boire dans ses premières années.</p>",
+    "it": "<p>EA, iniziali di Eugénio de Almeida, è la linea di vini giovani della fondazione di Évora, pensata per il consumo quotidiano. Si colloca al di sotto delle gamme Cartuxa e Pêra-Manca, e il suo rosso è uno dei vini dell’Alentejo più facili da trovare in Portogallo e all’estero.</p><p>È prodotto con uve della regione, da varietà tradizionali dell’Alentejo come Aragonez (Tempranillo) e Trincadeira, tra le altre, in proporzioni che variano secondo l’annata. La vinificazione mira a preservare il frutto: fermentazione in vasche a temperatura controllata, macerazioni moderate e, in generale, nessun affinamento prolungato in legno, così che il vino viene imbottigliato giovane.</p><p>Il risultato è un rosso dal profilo fruttato, di corpo da leggero a medio e tannini morbidi, che riflette il carattere generoso del clima alentejano senza la struttura dei vini da invecchiamento. Si consiglia di berlo nei primi anni.</p>"
+  },
+  "tasting": {
+    "es": "Rubí violáceo. Aromas de frutos rojos y negros frescos, como cereza y mora, con un toque especiado. Boca suave, afrutada y fácil, con taninos redondos.",
+    "en": "Violet-tinged ruby. Aromas of fresh red and black fruit such as cherry and blackberry, with a spicy touch. Smooth, fruity, easy palate with rounded tannins.",
+    "fr": "Rubis violacé. Arômes de fruits rouges et noirs frais, comme la cerise et la mûre, avec une touche épicée. Bouche souple, fruitée et facile, aux tanins ronds.",
+    "it": "Rubino violaceo. Aromi di frutti rossi e neri freschi, come ciliegia e mora, con un tocco speziato. Sorso morbido, fruttato e facile, con tannini rotondi."
+  },
+  "pairing": {
+    "es": "Carnes a la brasa, embutidos, hamburguesas, pasta, platos de cuchara",
+    "en": "Grilled meat, charcuterie, burgers, pasta, hearty stews",
+    "fr": "Viandes grillées, charcuterie, burgers, pâtes, plats mijotés",
+    "it": "Carni alla brace, salumi, hamburger, pasta, piatti in umido"
+  },
+  "serve": {
+    "es": "15-17 °C, copa de vino tinto",
+    "en": "15-17 °C, red wine glass",
+    "fr": "15-17 °C, verre à vin rouge",
+    "it": "15-17 °C, calice da vino rosso"
+  },
+  "search": "EA Tinto Fundação Eugénio de Almeida Alentejo"
+}

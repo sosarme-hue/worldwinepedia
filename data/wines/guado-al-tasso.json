@@ -1,0 +1,51 @@
+{
+  "slug": "guado-al-tasso",
+  "name": "Guado al Tasso",
+  "winery": "antinori",
+  "region": "bolgheri",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "Bolgheri DOC Superiore",
+    "en": "Bolgheri DOC Superiore",
+    "fr": "Bolgheri DOC Superiore",
+    "it": "Bolgheri DOC Superiore"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "cabernet-franc",
+    "petit-verdot"
+  ],
+  "summary": {
+    "es": "Bolgheri Superiore de la finca que la familia Antinori posee en la costa toscana, elaborado con variedades bordelesas.",
+    "en": "Bolgheri Superiore from the estate the Antinori family owns on the Tuscan coast, made from Bordeaux varieties.",
+    "fr": "Bolgheri Superiore du domaine que la famille Antinori possède sur la côte toscane, élaboré avec des cépages bordelais.",
+    "it": "Bolgheri Superiore della tenuta che la famiglia Antinori possiede sulla costa toscana, prodotto con vitigni bordolesi."
+  },
+  "body": {
+    "es": "<p><strong>Guado al Tasso</strong>, «el vado del tejón», es el nombre de la finca de los Antinori en <strong>Bolgheri</strong>, en la costa de la provincia de Livorno. La propiedad llegó a la familia a través de la rama materna de Piero Antinori, ligada a los condes Della Gherardesca, antiguos señores de esta zona. Se encuentra en una llanura rodeada de colinas, cerca del mar, en un entorno de clima mediterráneo templado por las brisas marinas.</p><p>El vino principal de la finca lleva su mismo nombre y se comercializa como Bolgheri Superiore. Se elabora con <strong>Cabernet Sauvignon</strong>, <strong>Merlot</strong>, <strong>Cabernet Franc</strong> y <strong>Petit Verdot</strong>, en proporciones que varían según la añada. Las variedades se vinifican por separado y el vino se cría en barricas de roble antes del ensamblaje.</p><p>Es un tinto de gran estructura y fruta madura, representativo del estilo de Bolgheri, con capacidad para evolucionar durante muchos años en botella.</p>",
+    "en": "<p><strong>Guado al Tasso</strong>, “the badger’s ford”, is the name of the Antinori estate in <strong>Bolgheri</strong>, on the coast of the province of Livorno. The property came to the family through Piero Antinori’s maternal line, connected to the Della Gherardesca counts, the historic lords of this area. It lies on a plain surrounded by hills, near the sea, with a Mediterranean climate tempered by sea breezes.</p><p>The estate’s main wine bears the same name and is sold as Bolgheri Superiore. It is made from <strong>Cabernet Sauvignon</strong>, <strong>Merlot</strong>, <strong>Cabernet Franc</strong> and <strong>Petit Verdot</strong>, in proportions that vary with the vintage. The varieties are vinified separately and the wine is aged in oak barriques before blending.</p><p>It is a red of great structure and ripe fruit, representative of the Bolgheri style, able to evolve for many years in bottle.</p>",
+    "fr": "<p><strong>Guado al Tasso</strong>, « le gué du blaireau », est le nom du domaine des Antinori à <strong>Bolgheri</strong>, sur la côte de la province de Livourne. La propriété est arrivée dans la famille par la branche maternelle de Piero Antinori, liée aux comtes Della Gherardesca, anciens seigneurs de la région. Elle se trouve dans une plaine entourée de collines, près de la mer, sous un climat méditerranéen tempéré par les brises marines.</p><p>Le vin principal du domaine porte le même nom et il est commercialisé en Bolgheri Superiore. Il est élaboré avec du <strong>cabernet sauvignon</strong>, du <strong>merlot</strong>, du <strong>cabernet franc</strong> et du <strong>petit verdot</strong>, dans des proportions qui varient selon le millésime. Les cépages sont vinifiés séparément et le vin est élevé en barriques de chêne avant l’assemblage.</p><p>C’est un rouge d’une grande structure, au fruit mûr, représentatif du style de Bolgheri, capable d’évoluer de nombreuses années en bouteille.</p>",
+    "it": "<p><strong>Guado al Tasso</strong> è il nome della tenuta degli Antinori a <strong>Bolgheri</strong>, sulla costa della provincia di Livorno. La proprietà è arrivata alla famiglia attraverso il ramo materno di Piero Antinori, legato ai conti Della Gherardesca, antichi signori di questa zona. Si trova in una pianura circondata da colline, vicino al mare, con un clima mediterraneo mitigato dalle brezze marine.</p><p>Il vino principale della tenuta porta lo stesso nome ed è commercializzato come Bolgheri Superiore. Si produce con <strong>Cabernet Sauvignon</strong>, <strong>Merlot</strong>, <strong>Cabernet Franc</strong> e <strong>Petit Verdot</strong>, in proporzioni che variano a seconda dell’annata. I vitigni sono vinificati separatamente e il vino affina in barrique di rovere prima dell’assemblaggio.</p><p>È un rosso di grande struttura e frutto maturo, rappresentativo dello stile di Bolgheri, capace di evolvere per molti anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rubí muy intenso. Aromas de grosella negra, mora, ciruela, hierbas mediterráneas, tabaco y especias. Boca amplia, con taninos densos y aterciopelados y final largo.",
+    "en": "Very deep ruby. Aromas of blackcurrant, blackberry, plum, Mediterranean herbs, tobacco and spice. Broad palate with dense, velvety tannins and a long finish.",
+    "fr": "Rubis très intense. Arômes de cassis, de mûre, de prune, d’herbes méditerranéennes, de tabac et d’épices. Bouche ample, aux tanins denses et veloutés et à la finale longue.",
+    "it": "Rubino molto intenso. Profumi di ribes nero, mora, prugna, erbe mediterranee, tabacco e spezie. Bocca ampia, con tannini densi e vellutati e finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, cordero asado, caza, quesos curados",
+    "en": "Chargrilled red meat, roast lamb, game, aged cheeses",
+    "fr": "Viandes rouges à la braise, agneau rôti, gibier, fromages affinés",
+    "it": "Carni rosse alla brace, agnello arrosto, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "17-18 °C, decantado, copa amplia",
+    "en": "17-18 °C, decanted, large glass",
+    "fr": "17-18 °C, carafé, verre ample",
+    "it": "17-18 °C, decantato, calice ampio"
+  },
+  "search": "Guado al Tasso Antinori Bolgheri Superiore"
+}

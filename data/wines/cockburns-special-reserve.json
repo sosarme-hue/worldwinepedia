@@ -1,0 +1,50 @@
+{
+  "slug": "cockburns-special-reserve",
+  "name": "Cockburn’s Special Reserve",
+  "winery": "cockburns",
+  "region": "porto",
+  "country": "portugal",
+  "type": "generoso",
+  "category": {
+    "es": "Reserve Ruby",
+    "en": "Reserve Ruby",
+    "fr": "Reserve Ruby",
+    "it": "Reserve Ruby"
+  },
+  "grapes": [
+    "touriga-nacional",
+    "touriga-franca",
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Reserve Ruby lanzado por Cockburn’s en 1969, considerado uno de los vinos que dieron forma a la categoría Reserve, de fruta madura y estilo firme.",
+    "en": "Reserve Ruby launched by Cockburn’s in 1969, regarded as one of the wines that shaped the Reserve category, with ripe fruit and a firm style.",
+    "fr": "Reserve Ruby lancé par Cockburn’s en 1969, considéré comme l’un des vins qui ont façonné la catégorie Reserve, au fruit mûr et au style ferme.",
+    "it": "Reserve Ruby lanciato da Cockburn’s nel 1969, considerato uno dei vini che hanno dato forma alla categoria Reserve, dal frutto maturo e dallo stile deciso."
+  },
+  "body": {
+    "es": "<p>El Special Reserve fue lanzado por Cockburn’s en 1969 como un Oporto situado entre los rubies jóvenes y los vinos de larga crianza, con más concentración y algo más de tiempo en madera. Su éxito, sobre todo en el Reino Unido, contribuyó a consolidar la categoría <strong>Reserve</strong>, hoy una de las más importantes del Oporto.</p><p>Desde que la familia Symington adquirió la marca en 2010, el vino se elabora con uvas de Quinta dos Canais, en el Douro Superior, y de otras fincas y viticultores de la región, de variedades como la Touriga Nacional, la Touriga Franca y la Tinta Roriz (Tempranillo), junto a otras tradicionales; el ensamblaje varía de un lote a otro. Tras la fermentación, detenida con aguardiente vínica, los vinos envejecen varios años en toneles de roble antes de ensamblarse. El objetivo es un Oporto de fruta madura, pero con estructura y un final relativamente seco, en la línea tradicional de la casa. Se embotella filtrado y listo para beber.</p>",
+    "en": "<p>Special Reserve was launched by Cockburn’s in 1969 as a Port positioned between young rubies and long-aged wines, with more concentration and somewhat longer in wood. Its success, above all in the United Kingdom, helped to establish the <strong>Reserve</strong> category, today one of the most important in Port.</p><p>Since the Symington family acquired the brand in 2010, the wine has been made from grapes from Quinta dos Canais, in the Douro Superior, and from other estates and growers in the region, from varieties such as Touriga Nacional, Touriga Franca and Tinta Roriz (Tempranillo), along with other traditional grapes; the blend varies from lot to lot. After fermentation, stopped with grape spirit, the wines age for several years in oak vats before blending. The aim is a Port of ripe fruit but with structure and a relatively dry finish, in the house’s traditional style. It is bottled filtered and ready to drink.</p>",
+    "fr": "<p>Le Special Reserve a été lancé par Cockburn’s en 1969 comme un porto situé entre les rubies jeunes et les vins de long vieillissement, plus concentré et un peu plus longtemps élevé sous bois. Son succès, surtout au Royaume-Uni, a contribué à imposer la catégorie <strong>Reserve</strong>, aujourd’hui l’une des plus importantes du porto.</p><p>Depuis que la famille Symington a racheté la marque en 2010, le vin est élaboré à partir de raisins de la Quinta dos Canais, dans le Douro Superior, et d’autres domaines et viticulteurs de la région, de cépages comme la touriga nacional, la touriga franca et la tinta roriz (tempranillo), aux côtés d’autres cépages traditionnels ; l’assemblage varie d’un lot à l’autre. Après la fermentation, arrêtée par l’ajout d’eau-de-vie de vin, les vins vieillissent plusieurs années en foudres de chêne avant l’assemblage. L’objectif est un porto au fruit mûr mais structuré, avec une finale relativement sèche, dans le style traditionnel de la maison. Il est mis en bouteille filtré et prêt à boire.</p>",
+    "it": "<p>Lo Special Reserve fu lanciato da Cockburn’s nel 1969 come un Porto collocato tra i ruby giovani e i vini a lungo invecchiamento, con più concentrazione e un po’ più di tempo in legno. Il suo successo, soprattutto nel Regno Unito, contribuì ad affermare la categoria <strong>Reserve</strong>, oggi una delle più importanti del Porto.</p><p>Da quando la famiglia Symington ha acquistato il marchio nel 2010, il vino è prodotto con uve della Quinta dos Canais, nel Douro Superior, e di altre tenute e viticoltori della regione, da varietà come Touriga Nacional, Touriga Franca e Tinta Roriz (Tempranillo), insieme ad altre uve tradizionali; l’assemblaggio varia da un lotto all’altro. Dopo la fermentazione, interrotta con acquavite di vino, i vini invecchiano per diversi anni in botti di rovere prima dell’assemblaggio. L’obiettivo è un Porto dal frutto maturo ma strutturato, con un finale relativamente secco, nello stile tradizionale della casa. Viene imbottigliato filtrato e pronto da bere.</p>"
+  },
+  "tasting": {
+    "es": "Rubí profundo. Aromas de ciruela, mora y cereza negra, con notas especiadas y un leve toque de madera. Boca de cuerpo medio, dulce pero firme, con taninos presentes y un final limpio.",
+    "en": "Deep ruby. Aromas of plum, blackberry and black cherry, with spicy notes and a light touch of wood. Medium-bodied palate, sweet but firm, with noticeable tannins and a clean finish.",
+    "fr": "Rubis profond. Arômes de prune, de mûre et de cerise noire, avec des notes épicées et une légère touche boisée. Bouche de corps moyen, douce mais ferme, avec des tanins présents et une finale nette.",
+    "it": "Rubino profondo. Aromi di prugna, mora e ciliegia nera, con note speziate e un leggero tocco di legno. Sorso di medio corpo, dolce ma deciso, con tannini presenti e un finale pulito."
+  },
+  "pairing": {
+    "es": "Postres de chocolate negro, frutos rojos, quesos azules, quesos curados",
+    "en": "Dark chocolate desserts, red berries, blue cheeses, aged cheeses",
+    "fr": "Desserts au chocolat noir, fruits rouges, fromages à pâte persillée, fromages affinés",
+    "it": "Dolci al cioccolato fondente, frutti rossi, formaggi erborinati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "14-16 °C, copa de vino de Oporto o de vino blanco",
+    "en": "14-16 °C, Port or white wine glass",
+    "fr": "14-16 °C, verre à porto ou à vin blanc",
+    "it": "14-16 °C, calice da Porto o da vino bianco"
+  },
+  "search": "Cockburn's Special Reserve Port"
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "sandeman-fine-ruby",
+  "name": "Sandeman Fine Ruby Porto",
+  "winery": "sandeman",
+  "region": "porto",
+  "country": "portugal",
+  "type": "generoso",
+  "category": {
+    "es": "Ruby",
+    "en": "Ruby",
+    "fr": "Ruby",
+    "it": "Ruby"
+  },
+  "grapes": [
+    "touriga-nacional",
+    "touriga-franca",
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Ruby básico de Sandeman, joven y afrutado, una de las formas más sencillas y populares de acercarse al vino de Oporto.",
+    "en": "Sandeman’s basic ruby, young and fruity, one of the simplest and most popular ways to get to know Port.",
+    "fr": "Ruby de base de Sandeman, jeune et fruité, l’une des façons les plus simples et les plus populaires de découvrir le porto.",
+    "it": "Ruby di base di Sandeman, giovane e fruttato, uno dei modi più semplici e popolari per avvicinarsi al Porto."
+  },
+  "body": {
+    "es": "<p>El Fine Ruby es el Oporto de entrada de la gama de Sandeman y representa el estilo <strong>ruby</strong> en su forma más directa: un vino joven, de color intenso y fruta fresca, que no busca la complejidad de la crianza prolongada sino la expresión de la uva.</p><p>Es un ensamblaje de vinos jóvenes de distintas cosechas, procedentes del Douro y elaborados con variedades tradicionales como la Touriga Nacional, la Touriga Franca y la Tinta Roriz (Tempranillo), además de otras de la región, en proporciones variables. La fermentación se detiene con aguardiente vínica para conservar parte del azúcar de la uva, lo que da al vino su dulzor natural y su graduación característica. Después pasa un periodo relativamente breve en grandes depósitos o toneles, que limitan el contacto con el oxígeno y preservan el color y los aromas frutales.</p><p>Se embotella filtrado y listo para beber. Es un Oporto versátil, que puede tomarse solo, como acompañamiento del postre o en combinados.</p>",
+    "en": "<p>Fine Ruby is the entry-level Port in Sandeman’s range and represents the <strong>ruby</strong> style in its most direct form: a young wine of intense colour and fresh fruit that seeks not the complexity of extended ageing but the expression of the grape.</p><p>It is a blend of young wines from different harvests, from the Douro and made with traditional varieties such as Touriga Nacional, Touriga Franca and Tinta Roriz (Tempranillo), as well as others from the region, in variable proportions. Fermentation is stopped with grape spirit to retain part of the grape’s sugar, which gives the wine its natural sweetness and characteristic strength. It then spends a relatively short period in large tanks or vats, which limit contact with oxygen and preserve its colour and fruity aromas.</p><p>It is bottled filtered and ready to drink. It is a versatile Port that can be enjoyed on its own, alongside dessert or in mixed drinks.</p>",
+    "fr": "<p>Le Fine Ruby est le porto d’entrée de gamme de Sandeman et représente le style <strong>ruby</strong> dans sa forme la plus directe : un vin jeune, à la couleur intense et au fruit frais, qui ne recherche pas la complexité d’un long élevage mais l’expression du raisin.</p><p>C’est un assemblage de vins jeunes de différentes récoltes, issus du Douro et élaborés avec des cépages traditionnels comme la touriga nacional, la touriga franca et la tinta roriz (tempranillo), ainsi que d’autres de la région, en proportions variables. La fermentation est arrêtée par l’ajout d’eau-de-vie de vin pour conserver une partie du sucre du raisin, ce qui donne au vin sa douceur naturelle et son degré caractéristique. Il passe ensuite une période relativement courte en grandes cuves ou en foudres, qui limitent le contact avec l’oxygène et préservent la couleur et les arômes fruités.</p><p>Il est mis en bouteille filtré et prêt à boire. C’est un porto polyvalent, à déguster seul, avec le dessert ou en cocktail.</p>",
+    "it": "<p>Il Fine Ruby è il Porto d’ingresso della gamma Sandeman e rappresenta lo stile <strong>ruby</strong> nella sua forma più diretta: un vino giovane, di colore intenso e frutto fresco, che non cerca la complessità di un lungo invecchiamento ma l’espressione dell’uva.</p><p>È un assemblaggio di vini giovani di diverse vendemmie, provenienti dal Douro e prodotti con varietà tradizionali come Touriga Nacional, Touriga Franca e Tinta Roriz (Tempranillo), oltre ad altre della regione, in proporzioni variabili. La fermentazione viene interrotta con acquavite di vino per conservare parte dello zucchero dell’uva, il che conferisce al vino la sua dolcezza naturale e la gradazione caratteristica. Trascorre poi un periodo relativamente breve in grandi vasche o botti, che limitano il contatto con l’ossigeno e preservano il colore e gli aromi fruttati.</p><p>Viene imbottigliato filtrato e pronto da bere. È un Porto versatile, da gustare da solo, con il dessert o in miscelazione.</p>"
+  },
+  "tasting": {
+    "es": "Rubí vivo. Aromas frescos de cereza, frambuesa y ciruela roja. En boca es dulce, ligero y afrutado, con taninos suaves y un final sencillo.",
+    "en": "Bright ruby. Fresh aromas of cherry, raspberry and red plum. Sweet, light and fruity on the palate, with soft tannins and a simple finish.",
+    "fr": "Rubis vif. Arômes frais de cerise, de framboise et de prune rouge. En bouche, il est doux, léger et fruité, avec des tanins souples et une finale simple.",
+    "it": "Rubino vivo. Aromi freschi di ciliegia, lampone e prugna rossa. In bocca è dolce, leggero e fruttato, con tannini morbidi e un finale semplice."
+  },
+  "pairing": {
+    "es": "Postres de frutos rojos, chocolate con leche, quesos semicurados, combinados con tónica",
+    "en": "Red berry desserts, milk chocolate, semi-hard cheeses, mixed with tonic",
+    "fr": "Desserts aux fruits rouges, chocolat au lait, fromages mi-affinés, en long drink avec du tonic",
+    "it": "Dolci ai frutti rossi, cioccolato al latte, formaggi semistagionati, miscelato con acqua tonica"
+  },
+  "serve": {
+    "es": "14-16 °C, copa de vino de Oporto o de vino blanco",
+    "en": "14-16 °C, Port or white wine glass",
+    "fr": "14-16 °C, verre à porto ou à vin blanc",
+    "it": "14-16 °C, calice da Porto o da vino bianco"
+  },
+  "search": "Sandeman Fine Ruby Port"
+}

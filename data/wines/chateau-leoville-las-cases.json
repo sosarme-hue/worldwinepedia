@@ -1,0 +1,50 @@
+{
+  "slug": "chateau-leoville-las-cases",
+  "name": "Château Léoville Las Cases",
+  "winery": "chateau-leoville-las-cases",
+  "region": "medoc",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Segundo Grand Cru Classé (1855)",
+    "en": "Second Grand Cru Classé (1855)",
+    "fr": "Deuxième Grand Cru Classé (1855)",
+    "it": "Secondo Grand Cru Classé (1855)"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Gran vino de Léoville Las Cases, segundo gran cru clasificado de Saint-Julien, procedente del Grand Enclos vecino de Latour y conocido por su concentración y longevidad.",
+    "en": "The grand vin of Léoville Las Cases, a Saint-Julien second growth from the Grand Enclos next to Latour, known for its concentration and longevity.",
+    "fr": "Grand vin de Léoville Las Cases, deuxième grand cru classé de Saint-Julien, issu du Grand Clos voisin de Latour et connu pour sa concentration et sa longévité.",
+    "it": "Grand vin di Léoville Las Cases, secondo grand cru classé di Saint-Julien, proveniente dal Grand Enclos vicino a Latour e noto per la sua concentrazione e longevità."
+  },
+  "body": {
+    "es": "<p>El gran vino de Léoville Las Cases procede principalmente del <strong>Grand Enclos</strong>, el viñedo amurallado que la finca posee en el norte de Saint-Julien, junto a la Gironda y en el límite con Pauillac. Su proximidad a Château Latour y sus suelos de gravas explican en parte un carácter que muchos consideran cercano al de los grandes Pauillac.</p><p>La <strong>Cabernet Sauvignon</strong> es la base del ensamblaje, acompañada de <strong>Merlot</strong> y de una proporción a veces notable de <strong>Cabernet Franc</strong>; las proporciones varían según la añada. La selección es muy estricta y solo una parte de la cosecha del Grand Enclos se destina al gran vino. La crianza se realiza en barricas de roble francés, en gran parte nuevas.</p><p>Es un Saint-Julien de gran densidad y estructura, a menudo cerrado en su juventud, que necesita muchos años de botella para desplegar su complejidad aromática.</p>",
+    "en": "<p>The grand vin of Léoville Las Cases comes mainly from the <strong>Grand Enclos</strong>, the walled vineyard the estate owns in the north of Saint-Julien, next to the Gironde and on the boundary with Pauillac. Its proximity to Château Latour and its gravel soils partly explain a character that many consider close to that of the great Pauillacs.</p><p><strong>Cabernet Sauvignon</strong> forms the basis of the blend, alongside <strong>Merlot</strong> and a sometimes notable proportion of <strong>Cabernet Franc</strong>; the proportions vary with the vintage. Selection is very strict and only part of the Grand Enclos harvest goes into the grand vin. The wine is aged in French oak barrels, largely new.</p><p>It is a Saint-Julien of great density and structure, often closed in its youth, which needs many years in bottle to unfold its aromatic complexity.</p>",
+    "fr": "<p>Le grand vin de Léoville Las Cases provient principalement du <strong>Grand Clos</strong>, le vignoble ceint de murs que le domaine possède au nord de Saint-Julien, au bord de la Gironde et en limite de Pauillac. Sa proximité avec Château Latour et ses sols de graves expliquent en partie un caractère que beaucoup jugent proche de celui des grands pauillacs.</p><p>Le <strong>cabernet-sauvignon</strong> constitue la base de l’assemblage, accompagné de <strong>merlot</strong> et d’une proportion parfois notable de <strong>cabernet franc</strong> ; les proportions varient selon le millésime. La sélection est très stricte et seule une partie de la récolte du Grand Clos entre dans le grand vin. L’élevage se fait en barriques de chêne français, en grande partie neuves.</p><p>C’est un saint-julien d’une grande densité et d’une grande structure, souvent fermé dans sa jeunesse, qui demande de nombreuses années de bouteille pour déployer sa complexité aromatique.</p>",
+    "it": "<p>Il grand vin di Léoville Las Cases proviene principalmente dal <strong>Grand Enclos</strong>, il vigneto cintato da mura che la tenuta possiede nel nord di Saint-Julien, accanto alla Gironda e al confine con Pauillac. La vicinanza a Château Latour e i suoli ghiaiosi spiegano in parte un carattere che molti considerano vicino a quello dei grandi Pauillac.</p><p>Il <strong>Cabernet Sauvignon</strong> è la base dell’uvaggio, affiancato dal <strong>Merlot</strong> e da una quota talvolta notevole di <strong>Cabernet Franc</strong>; le proporzioni variano secondo l’annata. La selezione è molto rigorosa e solo una parte del raccolto del Grand Enclos è destinata al grand vin. L’affinamento avviene in barrique di rovere francese, in gran parte nuove.</p><p>È un Saint-Julien di grande densità e struttura, spesso chiuso in gioventù, che ha bisogno di molti anni di bottiglia per esprimere la sua complessità aromatica.</p>"
+  },
+  "tasting": {
+    "es": "Granate muy oscuro. Aromas de casis, mora, grafito y cedro, con notas de tabaco y especias. Boca densa, de taninos apretados y gran frescura, con un final muy persistente.",
+    "en": "Very dark garnet. Aromas of blackcurrant, blackberry, graphite and cedar, with notes of tobacco and spice. Dense palate with tight-knit tannins, great freshness and a very persistent finish.",
+    "fr": "Robe grenat très sombre. Arômes de cassis, de mûre, de graphite et de cèdre, avec des notes de tabac et d’épices. Bouche dense, aux tanins serrés, très fraîche, finale très persistante.",
+    "it": "Granato molto scuro. Aromi di ribes nero, mora, grafite e cedro, con note di tabacco e spezie. Bocca densa, dai tannini fitti e di grande freschezza, con un finale molto persistente."
+  },
+  "pairing": {
+    "es": "Cordero asado, entrecot a la parrilla, caza, quesos curados de pasta dura",
+    "en": "Roast lamb, grilled rib steak, game, hard aged cheeses",
+    "fr": "Agneau rôti, entrecôte grillée, gibier, fromages affinés à pâte dure",
+    "it": "Agnello arrosto, costata alla griglia, selvaggina, formaggi stagionati a pasta dura"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia de tipo Burdeos",
+    "en": "16-18 °C, decanted, large Bordeaux glass",
+    "fr": "16-18 °C, carafé, grand verre de type bordeaux",
+    "it": "16-18 °C, decantato, calice ampio tipo Bordeaux"
+  },
+  "search": "Château Léoville Las Cases Saint-Julien"
+}

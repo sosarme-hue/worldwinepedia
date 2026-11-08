@@ -1,0 +1,48 @@
+{
+  "slug": "duboeuf-fleurie",
+  "name": "Georges Duboeuf Fleurie",
+  "winery": "georges-duboeuf",
+  "region": "beaujolais",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Fleurie",
+    "en": "Fleurie",
+    "fr": "Fleurie",
+    "it": "Fleurie"
+  },
+  "grapes": [
+    "gamay"
+  ],
+  "summary": {
+    "es": "Fleurie de Georges Duboeuf, Gamay de uno de los crus más delicados y florales del Beaujolais, reconocible por la etiqueta de flores de la casa.",
+    "en": "Fleurie from Georges Duboeuf, Gamay from one of the most delicate and floral Beaujolais crus, recognisable by the house’s flower label.",
+    "fr": "Fleurie de Georges Duboeuf, gamay de l’un des crus les plus délicats et floraux du Beaujolais, reconnaissable à l’étiquette fleurie de la maison.",
+    "it": "Fleurie di Georges Duboeuf, Gamay di uno dei cru più delicati e floreali del Beaujolais, riconoscibile dall’etichetta a fiori della casa."
+  },
+  "body": {
+    "es": "<p>Fleurie es uno de los diez crus del Beaujolais y quizá el que mejor encarna su faceta más elegante y aromática. Sus viñas, situadas en torno al pueblo del mismo nombre y a la capilla de La Madone, crecen principalmente sobre granito rosado de grano grueso, que da vinos de textura fina y aromas florales.</p><p>Georges Duboeuf, la casa de Romanèche-Thorins que más ha contribuido a la difusión internacional del Beaujolais, elabora este Fleurie a partir de uvas de <strong>Gamay</strong> de viticultores con los que trabaja desde hace años. La vinificación sigue el método tradicional de la región, con maceración de racimos enteros, que favorece la fruta y la suavidad de los taninos. El vino se embotella joven para preservar su frescura.</p><p>La etiqueta de flores de la casa, utilizada para varios de sus crus, lo hace fácil de reconocer en las tiendas. Es un tinto ligero a medio, afrutado y floral, que puede servirse ligeramente fresco.</p>",
+    "en": "<p>Fleurie is one of the ten Beaujolais crus and perhaps the one that best embodies its most elegant and aromatic side. Its vines, around the village of the same name and the chapel of La Madone, grow mainly on coarse-grained pink granite, which produces wines with a fine texture and floral aromas.</p><p>Georges Duboeuf, the Romanèche-Thorins house that has done most to spread Beaujolais internationally, makes this Fleurie from <strong>Gamay</strong> grapes grown by growers it has worked with for years. Vinification follows the region’s traditional method, with whole-bunch maceration, which favours fruit and soft tannins. The wine is bottled young to preserve its freshness.</p><p>The house’s flower label, used for several of its crus, makes it easy to recognise in shops. It is a light to medium-bodied red, fruity and floral, which can be served slightly cool.</p>",
+    "fr": "<p>Fleurie est l’un des dix crus du Beaujolais et peut-être celui qui incarne le mieux sa facette la plus élégante et aromatique. Ses vignes, situées autour du village du même nom et de la chapelle de la Madone, poussent principalement sur un granite rose à gros grain, qui donne des vins à la texture fine et aux arômes floraux.</p><p>Georges Duboeuf, la maison de Romanèche-Thorins qui a le plus contribué à la diffusion internationale du beaujolais, élabore ce fleurie à partir de raisins de <strong>gamay</strong> de viticulteurs avec lesquels elle travaille depuis des années. La vinification suit la méthode traditionnelle de la région, avec macération en grappes entières, qui favorise le fruit et la souplesse des tanins. Le vin est mis en bouteille jeune pour préserver sa fraîcheur.</p><p>L’étiquette fleurie de la maison, utilisée pour plusieurs de ses crus, le rend facile à reconnaître dans les rayons. C’est un rouge de corps léger à moyen, fruité et floral, qui peut être servi légèrement frais.</p>",
+    "it": "<p>Fleurie è uno dei dieci cru del Beaujolais e forse quello che meglio incarna il suo lato più elegante e aromatico. Le sue vigne, situate intorno al paese omonimo e alla cappella della Madone, crescono soprattutto su granito rosa a grana grossa, che dà vini di trama fine e aromi floreali.</p><p>Georges Duboeuf, la casa di Romanèche-Thorins che più ha contribuito alla diffusione internazionale del Beaujolais, produce questo Fleurie con uve di <strong>Gamay</strong> di viticoltori con cui lavora da anni. La vinificazione segue il metodo tradizionale della regione, con macerazione a grappolo intero, che favorisce il frutto e la morbidezza dei tannini. Il vino viene imbottigliato giovane per preservarne la freschezza.</p><p>L’etichetta a fiori della casa, usata per diversi suoi cru, lo rende facile da riconoscere nei negozi. È un rosso di corpo da leggero a medio, fruttato e floreale, che si può servire leggermente fresco.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí brillante. Aromas de violeta, rosa, frambuesa y cereza. Boca suave y fresca, de taninos ligeros y final afrutado.",
+    "en": "Bright ruby. Aromas of violet, rose, raspberry and cherry. Soft, fresh palate with light tannins and a fruity finish.",
+    "fr": "Rubis brillant. Arômes de violette, de rose, de framboise et de cerise. Bouche souple et fraîche, aux tanins légers et à la finale fruitée.",
+    "it": "Rubino brillante. Aromi di violetta, rosa, lampone e ciliegia. Bocca morbida e fresca, dai tannini leggeri e dal finale fruttato."
+  },
+  "pairing": {
+    "es": "Charcutería, quenelles, aves asadas, quesos de pasta blanda",
+    "en": "Charcuterie, quenelles, roast poultry, soft cheeses",
+    "fr": "Charcuterie, quenelles, volailles rôties, fromages à pâte molle",
+    "it": "Salumi, quenelle, pollame arrosto, formaggi a pasta molle"
+  },
+  "serve": {
+    "es": "13-14 °C, copa de tinto ligera",
+    "en": "13-14 °C, light red wine glass",
+    "fr": "13-14 °C, verre à vin rouge léger",
+    "it": "13-14 °C, calice da rosso leggero"
+  },
+  "search": "Georges Duboeuf Fleurie"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "gosset-grande-reserve",
+  "name": "Gosset Grande Réserve Brut",
+  "winery": "gosset",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut",
+    "en": "Brut",
+    "fr": "Brut",
+    "it": "Brut"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Champagne brut sin añada de Gosset, elaborado sin fermentación maloláctica y con una larga crianza sobre lías, de estilo vinoso y fresco.",
+    "en": "Gosset’s non-vintage brut champagne, made without malolactic fermentation and with long lees ageing, vinous and fresh in style.",
+    "fr": "Champagne brut non millésimé de Gosset, élaboré sans fermentation malolactique et longuement élevé sur lies, au style vineux et frais.",
+    "it": "Champagne brut senza annata di Gosset, prodotto senza fermentazione malolattica e con un lungo affinamento sui lieviti, di stile vinoso e fresco."
+  },
+  "body": {
+    "es": "<p>El Grande Réserve es el brut sin añada de Gosset y el vino que mejor representa el estilo de la casa. Se elabora con <strong>Chardonnay</strong>, <strong>Pinot Noir</strong> y una pequeña parte de Pinot Meunier, procedentes en buena medida de municipios clasificados como grand cru y premier cru. Las proporciones varían según el ensamblaje, que incluye vinos de varias cosechas.</p><p>Como la mayoría de los vinos de la casa, se elabora en general <strong>sin fermentación maloláctica</strong>, lo que preserva una acidez viva. Para equilibrarla, el champán permanece sobre sus lías durante un periodo largo, de varios años, antes del degüelle. Se presenta en la botella de forma antigua característica de Gosset.</p><p>Es un champán de cuerpo medio a pleno, con aromas de fruta madura, cítricos, frutos secos y brioche, y una boca fresca y vinosa a la vez. Su estructura lo hace especialmente adecuado para acompañar comidas, aunque también funciona como aperitivo.</p>",
+    "en": "<p>Grande Réserve is Gosset’s non-vintage brut and the wine that best represents the house style. It is made from <strong>Chardonnay</strong>, <strong>Pinot Noir</strong> and a small share of Pinot Meunier, largely from grand cru and premier cru villages. The proportions vary from blend to blend, which includes wines from several harvests.</p><p>Like most of the house’s wines, it is generally made <strong>without malolactic fermentation</strong>, which preserves lively acidity. To balance it, the champagne stays on its lees for a long period, several years, before disgorgement. It is presented in Gosset’s characteristic antique-shaped bottle.</p><p>It is a medium- to full-bodied champagne, with aromas of ripe fruit, citrus, nuts and brioche, and a palate that is both fresh and vinous. Its structure makes it particularly suitable with meals, although it also works as an aperitif.</p>",
+    "fr": "<p>Le Grande Réserve est le brut non millésimé de Gosset et le vin qui représente le mieux le style de la maison. Il est élaboré avec du <strong>chardonnay</strong>, du <strong>pinot noir</strong> et une petite part de pinot meunier, provenant en bonne partie de villages classés grand cru et premier cru. Les proportions varient selon l’assemblage, qui comprend des vins de plusieurs récoltes.</p><p>Comme la plupart des vins de la maison, il est généralement élaboré <strong>sans fermentation malolactique</strong>, ce qui préserve une acidité vive. Pour l’équilibrer, le champagne reste sur ses lies pendant une longue période, de plusieurs années, avant le dégorgement. Il est présenté dans la bouteille de forme ancienne caractéristique de Gosset.</p><p>C’est un champagne de corps moyen à ample, aux arômes de fruits mûrs, d’agrumes, de fruits secs et de brioche, à la bouche à la fois fraîche et vineuse. Sa structure le rend particulièrement adapté à la table, même s’il convient aussi à l’apéritif.</p>",
+    "it": "<p>Il Grande Réserve è il brut senza annata di Gosset e il vino che meglio rappresenta lo stile della casa. È prodotto con <strong>Chardonnay</strong>, <strong>Pinot Nero</strong> e una piccola parte di Pinot Meunier, provenienti in buona misura da villaggi grand cru e premier cru. Le proporzioni variano secondo l’assemblaggio, che comprende vini di più vendemmie.</p><p>Come la maggior parte dei vini della casa, è in genere prodotto <strong>senza fermentazione malolattica</strong>, il che preserva un’acidità vivace. Per bilanciarla, lo champagne resta sui lieviti per un lungo periodo, di diversi anni, prima della sboccatura. È presentato nella bottiglia dalla forma antica caratteristica di Gosset.</p><p>È uno champagne di corpo medio-pieno, con aromi di frutta matura, agrumi, frutta secca e brioche, e una bocca al tempo stesso fresca e vinosa. La sua struttura lo rende particolarmente adatto ad accompagnare i pasti, anche se funziona pure come aperitivo.</p>"
+  },
+  "tasting": {
+    "es": "Dorado con burbuja fina. Aromas de fruta madura, membrillo, limón, avellana y brioche. Boca vinosa y fresca, de acidez viva y final largo.",
+    "en": "Gold with fine bubbles. Aromas of ripe fruit, quince, lemon, hazelnut and brioche. Vinous, fresh palate with lively acidity and a long finish.",
+    "fr": "Robe dorée à la bulle fine. Arômes de fruits mûrs, de coing, de citron, de noisette et de brioche. Bouche vineuse et fraîche, à l’acidité vive, finale longue.",
+    "it": "Oro dal perlage fine. Aromi di frutta matura, mela cotogna, limone, nocciola e brioche. Bocca vinosa e fresca, di acidità vivace e dal finale lungo."
+  },
+  "pairing": {
+    "es": "Pescados en salsa, aves, ternera, quesos curados como el comté o el parmesano",
+    "en": "Fish in sauce, poultry, veal, aged cheeses such as Comté or Parmesan",
+    "fr": "Poissons en sauce, volailles, veau, fromages affinés comme le comté ou le parmesan",
+    "it": "Pesce in salsa, pollame, vitello, formaggi stagionati come Comté o Parmigiano"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de vino blanco amplia, no flauta",
+    "en": "10-12 °C, large white wine glass rather than a flute",
+    "fr": "10-12 °C, grand verre à vin blanc plutôt qu’une flûte",
+    "it": "10-12 °C, calice ampio da vino bianco anziché flûte"
+  },
+  "search": "Gosset Grande Réserve Brut Champagne"
+}

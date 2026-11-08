@@ -1,0 +1,43 @@
+{
+  "slug": "el-enemigo-chardonnay",
+  "name": "El Enemigo Chardonnay",
+  "winery": "el-enemigo",
+  "region": "valle-de-uco",
+  "country": "argentina",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Chardonnay de altura del Valle de Uco elaborado por El Enemigo, con una crianza parcial bajo velo de levaduras que le da un perfil salino y original.",
+    "en": "High-altitude Uco Valley Chardonnay made by El Enemigo, partly aged under a veil of yeast, which gives it an original, saline profile.",
+    "fr": "Chardonnay d’altitude de la vallée d’Uco élaboré par El Enemigo, en partie élevé sous voile de levures, ce qui lui donne un profil salin et original.",
+    "it": "Chardonnay d’altura della Valle de Uco prodotto da El Enemigo, affinato in parte sotto velo di lieviti, che gli conferisce un profilo salino e originale."
+  },
+  "body": {
+    "es": "<p>El Chardonnay de <strong>El Enemigo</strong> procede de viñedos de gran altitud del Valle de Uco, en particular de Gualtallary, en Tupungato. Allí las noches frías y la intensa radiación solar permiten una maduración completa sin pérdida de acidez, y los suelos pedregosos con presencia de caliza contribuyen a la tensión del vino.</p><p>La elaboración es uno de sus rasgos más llamativos: tras la fermentación, parte del vino se cría en barricas que no se llenan por completo, de modo que en la superficie se forma un <strong>velo de levaduras</strong>, semejante a la flor de los vinos de Jerez. Esa crianza biológica protege el vino de la oxidación y aporta notas de frutos secos, pan y salinidad. El resultado es un blanco de personalidad marcada, que conserva la fruta y la frescura del Chardonnay de altura y que gana complejidad con algunos años en botella.</p>",
+    "en": "<p><strong>El Enemigo</strong> Chardonnay comes from high-altitude vineyards in the Uco Valley, particularly Gualtallary, in Tupungato. There, cold nights and intense sunlight allow full ripening without loss of acidity, and the stony soils with some limestone contribute to the tension of the wine.</p><p>The winemaking is one of its most striking features: after fermentation, part of the wine is aged in barrels that are not filled completely, so that a <strong>veil of yeast</strong> forms on the surface, similar to the flor of Sherry wines. This biological ageing protects the wine from oxidation and contributes notes of nuts, bread and salinity. The result is a white with a strong personality, which keeps the fruit and freshness of high-altitude Chardonnay and gains complexity with a few years in bottle.</p>",
+    "fr": "<p>Le chardonnay d’<strong>El Enemigo</strong> provient de vignobles de haute altitude de la vallée d’Uco, en particulier de Gualtallary, à Tupungato. Les nuits froides et l’intense rayonnement solaire y permettent une maturation complète sans perte d’acidité, et les sols caillouteux contenant du calcaire contribuent à la tension du vin.</p><p>L’élaboration est l’un de ses traits les plus remarquables : après la fermentation, une partie du vin est élevée dans des barriques qui ne sont pas entièrement remplies, de sorte qu’un <strong>voile de levures</strong> se forme en surface, semblable à la flor des vins de Jerez. Cet élevage biologique protège le vin de l’oxydation et apporte des notes de fruits secs, de pain et de salinité. Il en résulte un blanc à forte personnalité, qui garde le fruit et la fraîcheur du chardonnay d’altitude et gagne en complexité avec quelques années de bouteille.</p>",
+    "it": "<p>Lo Chardonnay di <strong>El Enemigo</strong> proviene da vigneti d’alta quota della Valle de Uco, in particolare da Gualtallary, a Tupungato. Lì le notti fredde e l’intensa radiazione solare permettono una maturazione completa senza perdita di acidità, e i suoli sassosi con presenza di calcare contribuiscono alla tensione del vino.</p><p>La vinificazione è uno dei suoi tratti più singolari: dopo la fermentazione, parte del vino affina in botti non riempite del tutto, così che in superficie si forma un <strong>velo di lieviti</strong>, simile alla flor dei vini di Jerez. Questo affinamento biologico protegge il vino dall’ossidazione e apporta note di frutta secca, pane e salinità. Il risultato è un bianco di forte personalità, che conserva il frutto e la freschezza dello Chardonnay d’altura e acquista complessità con qualche anno di bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo dorado pálido. Aromas de pera, cítricos, almendra, pan tostado y notas salinas. Boca tensa, con volumen y final largo.",
+    "en": "Pale golden yellow. Aromas of pear, citrus, almond, toast and saline notes. Taut palate with volume and a long finish.",
+    "fr": "Jaune doré pâle. Arômes de poire, d’agrumes, d’amande, de pain grillé et notes salines. Bouche tendue, avec du volume et une finale longue.",
+    "it": "Giallo dorato tenue. Aromi di pera, agrumi, mandorla, pane tostato e note saline. Bocca tesa, con volume e finale lungo."
+  },
+  "pairing": {
+    "es": "Pescados grasos, mariscos a la plancha, quesos semicurados, cocina con frutos secos",
+    "en": "Oily fish, grilled shellfish, semi-hard cheeses, dishes with nuts",
+    "fr": "Poissons gras, fruits de mer grillés, fromages mi-affinés, cuisine aux fruits secs",
+    "it": "Pesce grasso, crostacei alla piastra, formaggi semistagionati, piatti con frutta secca"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de vino blanco amplia",
+    "en": "10-12 °C, large white wine glass",
+    "fr": "10-12 °C, verre à vin blanc ample",
+    "it": "10-12 °C, calice da vino bianco ampio"
+  },
+  "search": "El Enemigo Chardonnay Valle de Uco"
+}

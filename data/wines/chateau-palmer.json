@@ -1,0 +1,50 @@
+{
+  "slug": "chateau-palmer",
+  "name": "Château Palmer",
+  "winery": "chateau-palmer",
+  "region": "medoc",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Tercer Grand Cru Classé (1855)",
+    "en": "Third Grand Cru Classé (1855)",
+    "fr": "Troisième Grand Cru Classé (1855)",
+    "it": "Terzo Grand Cru Classé (1855)"
+  },
+  "grapes": [
+    "merlot",
+    "cabernet-sauvignon",
+    "petit-verdot"
+  ],
+  "summary": {
+    "es": "Gran vino de Château Palmer, tercer gran cru clasificado de Margaux, con una proporción de Merlot muy alta para el Médoc y un estilo aromático y sedoso.",
+    "en": "The grand vin of Château Palmer, a Margaux third growth with a very high proportion of Merlot for the Médoc and an aromatic, silky style.",
+    "fr": "Grand vin de Château Palmer, troisième grand cru classé de Margaux, avec une proportion de merlot très élevée pour le Médoc et un style aromatique et soyeux.",
+    "it": "Grand vin di Château Palmer, terzo grand cru classé di Margaux, con una quota di Merlot molto alta per il Médoc e uno stile aromatico e setoso."
+  },
+  "body": {
+    "es": "<p>El gran vino de Château Palmer procede de las mejores parcelas de la finca, sobre las gravas de la meseta de Margaux, en los municipios de Cantenac y Margaux. A diferencia de la mayoría de los grandes vinos del Médoc, su ensamblaje concede un papel muy importante a la <strong>Merlot</strong>, a menudo en proporción similar a la de la <strong>Cabernet Sauvignon</strong>, con una pequeña aportación de <strong>Petit Verdot</strong>. Las proporciones varían según la añada.</p><p>El viñedo se cultiva según los principios de la biodinámica, y el vino se cría en barricas de roble francés, con una proporción importante de madera nueva. La selección es rigurosa, y los lotes no retenidos se destinan a Alter Ego.</p><p>Su estilo combina la fragancia floral y la finura asociadas a Margaux con una textura carnosa y aterciopelada. Es un vino que puede resultar seductor bastante pronto, pero que posee una gran capacidad de envejecimiento.</p>",
+    "en": "<p>The grand vin of Château Palmer comes from the estate’s best plots, on the gravels of the Margaux plateau, in the communes of Cantenac and Margaux. Unlike most of the great Médoc wines, its blend gives a very important role to <strong>Merlot</strong>, often in a proportion similar to that of <strong>Cabernet Sauvignon</strong>, with a small contribution of <strong>Petit Verdot</strong>. The proportions vary with the vintage.</p><p>The vineyard is farmed according to biodynamic principles, and the wine is aged in French oak barrels, with a significant proportion of new wood. Selection is rigorous, and the lots not retained go into Alter Ego.</p><p>Its style combines the floral fragrance and finesse associated with Margaux with a fleshy, velvety texture. It can be seductive fairly early, yet it has great ageing potential.</p>",
+    "fr": "<p>Le grand vin de Château Palmer provient des meilleures parcelles du domaine, sur les graves du plateau de Margaux, dans les communes de Cantenac et de Margaux. Contrairement à la plupart des grands vins du Médoc, son assemblage accorde un rôle très important au <strong>merlot</strong>, souvent dans une proportion proche de celle du <strong>cabernet-sauvignon</strong>, avec un petit apport de <strong>petit verdot</strong>. Les proportions varient selon le millésime.</p><p>Le vignoble est conduit selon les principes de la biodynamie et le vin est élevé en barriques de chêne français, avec une proportion importante de bois neuf. La sélection est rigoureuse et les lots non retenus rejoignent Alter Ego.</p><p>Son style associe le parfum floral et la finesse propres à Margaux à une texture charnue et veloutée. C’est un vin qui peut séduire assez tôt, mais qui possède une grande aptitude au vieillissement.</p>",
+    "it": "<p>Il grand vin di Château Palmer proviene dalle migliori parcelle della tenuta, sulle ghiaie dell’altopiano di Margaux, nei comuni di Cantenac e Margaux. A differenza della maggior parte dei grandi vini del Médoc, il suo uvaggio assegna un ruolo molto importante al <strong>Merlot</strong>, spesso in proporzione simile a quella del <strong>Cabernet Sauvignon</strong>, con un piccolo contributo di <strong>Petit Verdot</strong>. Le proporzioni variano secondo l’annata.</p><p>Il vigneto è coltivato secondo i principi della biodinamica e il vino affina in barrique di rovere francese, con una quota importante di legno nuovo. La selezione è rigorosa e i lotti non trattenuti confluiscono in Alter Ego.</p><p>Il suo stile unisce la fragranza floreale e la finezza associate a Margaux a una tessitura carnosa e vellutata. È un vino che può sedurre piuttosto presto, ma che possiede una grande capacità di invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Granate profundo. Aromas de ciruela, mora, violeta y especias, con notas de trufa y cuero con los años. Boca aterciopelada y amplia, de taninos finos y final largo.",
+    "en": "Deep garnet. Aromas of plum, blackberry, violet and spice, with notes of truffle and leather over the years. Velvety, broad palate with fine tannins and a long finish.",
+    "fr": "Robe grenat profond. Arômes de prune, de mûre, de violette et d’épices, avec des notes de truffe et de cuir au fil des ans. Bouche veloutée et ample, aux tanins fins, finale longue.",
+    "it": "Granato profondo. Aromi di prugna, mora, violetta e spezie, con note di tartufo e cuoio con gli anni. Bocca vellutata e ampia, dai tannini fini e dal finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, entrecot a la parrilla, caza, quesos curados de pasta dura",
+    "en": "Roast lamb, grilled rib steak, game, hard aged cheeses",
+    "fr": "Agneau rôti, entrecôte grillée, gibier, fromages affinés à pâte dure",
+    "it": "Agnello arrosto, costata alla griglia, selvaggina, formaggi stagionati a pasta dura"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia de tipo Burdeos",
+    "en": "16-18 °C, decanted, large Bordeaux glass",
+    "fr": "16-18 °C, carafé, grand verre de type bordeaux",
+    "it": "16-18 °C, decantato, calice ampio tipo Bordeaux"
+  },
+  "search": "Château Palmer Margaux"
+}

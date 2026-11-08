@@ -1,0 +1,49 @@
+{
+  "slug": "dom-perignon-vintage",
+  "name": "Dom Pérignon Vintage",
+  "winery": "dom-perignon",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut Millésimé",
+    "en": "Vintage Brut",
+    "fr": "Brut Millésimé",
+    "it": "Brut Millesimato"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Champagne de añada de Dom Pérignon, ensamblaje de Chardonnay y Pinot Noir de una sola cosecha, criado durante años sobre lías antes de su lanzamiento.",
+    "en": "Dom Pérignon’s vintage champagne, a blend of Chardonnay and Pinot Noir from a single harvest, aged for years on the lees before release.",
+    "fr": "Champagne millésimé de Dom Pérignon, assemblage de chardonnay et de pinot noir d’une seule récolte, élevé pendant des années sur lies avant sa commercialisation.",
+    "it": "Champagne millesimato di Dom Pérignon, assemblaggio di Chardonnay e Pinot Nero di un’unica vendemmia, affinato per anni sui lieviti prima della commercializzazione."
+  },
+  "body": {
+    "es": "<p>El Dom Pérignon blanco es siempre un champán de <strong>añada</strong>, elaborado con uvas de una sola cosecha y solo en los años que la casa considera adecuados. Se basa en dos variedades, <strong>Chardonnay</strong> y <strong>Pinot Noir</strong>, que suelen estar presentes en proporciones relativamente equilibradas, aunque varían según la añada. Las uvas proceden de municipios clasificados de Champagne y de la parcela histórica de la abadía de Hautvillers.</p><p>Tras la primera fermentación y el ensamblaje, el vino se embotella para la segunda fermentación según el método tradicional y permanece en las bodegas sobre sus lías durante muchos años, en general bastante más que el mínimo exigido para los champanes de añada, antes del degüelle y el lanzamiento.</p><p>Es un champán de gran complejidad, con notas de fruta blanca, flores, brioche y tostados, una burbuja fina y una textura cremosa. Puede disfrutarse en el momento de su salida, pero muchas añadas evolucionan durante largo tiempo.</p>",
+    "en": "<p>White Dom Pérignon is always a <strong>vintage</strong> champagne, made from grapes from a single harvest and only in years the house considers suitable. It is based on two varieties, <strong>Chardonnay</strong> and <strong>Pinot Noir</strong>, usually present in relatively balanced proportions, although these vary with the vintage. The grapes come from classified Champagne villages and from the historic plot of the abbey of Hautvillers.</p><p>After the first fermentation and blending, the wine is bottled for the second fermentation by the traditional method and remains in the cellars on its lees for many years, generally well beyond the minimum required for vintage champagnes, before disgorgement and release.</p><p>It is a champagne of great complexity, with notes of white fruit, flowers, brioche and toast, a fine mousse and a creamy texture. It can be enjoyed on release, but many vintages develop for a long time.</p>",
+    "fr": "<p>Le Dom Pérignon blanc est toujours un champagne <strong>millésimé</strong>, élaboré avec des raisins d’une seule récolte et uniquement les années que la maison juge adaptées. Il repose sur deux cépages, le <strong>chardonnay</strong> et le <strong>pinot noir</strong>, généralement présents dans des proportions relativement équilibrées, qui varient toutefois selon le millésime. Les raisins proviennent de crus classés de Champagne et de la parcelle historique de l’abbaye d’Hautvillers.</p><p>Après la première fermentation et l’assemblage, le vin est mis en bouteille pour la prise de mousse selon la méthode traditionnelle et reste en cave sur ses lies pendant de nombreuses années, en général bien au-delà du minimum exigé pour les champagnes millésimés, avant le dégorgement et la commercialisation.</p><p>C’est un champagne d’une grande complexité, aux notes de fruits blancs, de fleurs, de brioche et de toasté, à la bulle fine et à la texture crémeuse. Il peut être apprécié dès sa sortie, mais de nombreux millésimes évoluent pendant longtemps.</p>",
+    "it": "<p>Il Dom Pérignon bianco è sempre uno champagne <strong>millesimato</strong>, prodotto con uve di un’unica vendemmia e solo negli anni che la casa ritiene adatti. Si basa su due varietà, <strong>Chardonnay</strong> e <strong>Pinot Nero</strong>, di solito presenti in proporzioni relativamente equilibrate, che però variano secondo l’annata. Le uve provengono da villaggi classificati della Champagne e dalla parcella storica dell’abbazia di Hautvillers.</p><p>Dopo la prima fermentazione e l’assemblaggio, il vino viene imbottigliato per la seconda fermentazione secondo il metodo tradizionale e resta in cantina sui propri lieviti per molti anni, in genere ben oltre il minimo richiesto per gli champagne millesimati, prima della sboccatura e della commercializzazione.</p><p>È uno champagne di grande complessità, con note di frutta bianca, fiori, brioche e tostato, un perlage fine e una tessitura cremosa. Si può apprezzare al momento dell’uscita, ma molte annate evolvono a lungo.</p>"
+  },
+  "tasting": {
+    "es": "Dorado pálido con burbuja muy fina. Aromas de flores blancas, cítricos, fruta de hueso, brioche y notas tostadas y ahumadas. Boca cremosa y precisa, de gran amplitud y final largo y salino.",
+    "en": "Pale gold with very fine bubbles. Aromas of white flowers, citrus, stone fruit, brioche and toasty, smoky notes. Creamy, precise palate of great breadth, with a long, saline finish.",
+    "fr": "Or pâle à la bulle très fine. Arômes de fleurs blanches, d’agrumes, de fruits à noyau, de brioche et notes toastées et fumées. Bouche crémeuse et précise, d’une grande ampleur, finale longue et saline.",
+    "it": "Oro tenue dal perlage finissimo. Aromi di fiori bianchi, agrumi, frutta a nocciolo, brioche e note tostate e affumicate. Bocca cremosa e precisa, di grande ampiezza, dal finale lungo e salino."
+  },
+  "pairing": {
+    "es": "Langosta, caviar, rodaballo, aves con trufa, quesos curados como el comté",
+    "en": "Lobster, caviar, turbot, poultry with truffle, aged cheeses such as Comté",
+    "fr": "Homard, caviar, turbot, volaille truffée, fromages affinés comme le comté",
+    "it": "Aragosta, caviale, rombo, pollame al tartufo, formaggi stagionati come il Comté"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de vino blanco amplia, no flauta",
+    "en": "10-12 °C, large white wine glass rather than a flute",
+    "fr": "10-12 °C, grand verre à vin blanc plutôt qu’une flûte",
+    "it": "10-12 °C, calice ampio da vino bianco anziché flûte"
+  },
+  "search": "Dom Pérignon Vintage Champagne Brut"
+}

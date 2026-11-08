@@ -1,0 +1,50 @@
+{
+  "slug": "sandeman-founders-reserve",
+  "name": "Sandeman Founders Reserve",
+  "winery": "sandeman",
+  "region": "porto",
+  "country": "portugal",
+  "type": "generoso",
+  "category": {
+    "es": "Reserve Ruby",
+    "en": "Reserve Ruby",
+    "fr": "Reserve Ruby",
+    "it": "Reserve Ruby"
+  },
+  "grapes": [
+    "touriga-nacional",
+    "touriga-franca",
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Reserve Ruby de Sandeman, dedicado al fundador de la casa, George Sandeman, de fruta roja y negra madura y estilo redondo y accesible.",
+    "en": "Sandeman’s Reserve Ruby, dedicated to the founder of the house, George Sandeman, with ripe red and black fruit and a round, approachable style.",
+    "fr": "Reserve Ruby de Sandeman, dédié au fondateur de la maison, George Sandeman, au fruit rouge et noir mûr et au style rond et accessible.",
+    "it": "Reserve Ruby di Sandeman, dedicato al fondatore della casa, George Sandeman, dal frutto rosso e nero maturo e dallo stile rotondo e accessibile."
+  },
+  "body": {
+    "es": "<p>Founders Reserve es uno de los Oportos más conocidos de Sandeman y debe su nombre a George Sandeman, que fundó la casa en Londres en 1790. Pertenece a la categoría <strong>Reserve</strong>, que reúne a los rubies de mayor calidad, aprobados por la cámara de cata del organismo regulador.</p><p>Se elabora a partir de un ensamblaje de vinos de distintas cosechas, procedentes de viñedos del Douro, incluida Quinta do Seixo, y de variedades tradicionales como la Touriga Nacional, la Touriga Franca y la Tinta Roriz (Tempranillo), además de otras de la región; las proporciones varían de un lote a otro. Tras la fermentación, detenida con aguardiente vínica para conservar parte del azúcar natural de la uva, el vino envejece en grandes toneles de roble durante varios años, una crianza que preserva el color y la fruta y suaviza la textura. Se embotella filtrado, listo para beber, y conserva bien sus cualidades durante algunas semanas tras abrir la botella.</p>",
+    "en": "<p>Founders Reserve is one of Sandeman’s best-known Ports and takes its name from George Sandeman, who founded the house in London in 1790. It belongs to the <strong>Reserve</strong> category, which brings together the highest-quality rubies, approved by the tasting panel of the regulatory body.</p><p>It is made from a blend of wines from different harvests, from Douro vineyards including Quinta do Seixo, and from traditional varieties such as Touriga Nacional, Touriga Franca and Tinta Roriz (Tempranillo), as well as others from the region; the proportions vary from lot to lot. After fermentation, stopped with grape spirit to retain part of the grape’s natural sugar, the wine ages in large oak vats for several years, an ageing that preserves colour and fruit while softening the texture. It is bottled filtered, ready to drink, and keeps its qualities well for a few weeks after the bottle is opened.</p>",
+    "fr": "<p>Founders Reserve est l’un des portos les plus connus de Sandeman et doit son nom à George Sandeman, qui fonda la maison à Londres en 1790. Il appartient à la catégorie <strong>Reserve</strong>, qui réunit les rubies de plus haute qualité, approuvés par le comité de dégustation de l’organisme de régulation.</p><p>Il est élaboré à partir d’un assemblage de vins de différentes récoltes, issus de vignobles du Douro, dont la Quinta do Seixo, et de cépages traditionnels comme la touriga nacional, la touriga franca et la tinta roriz (tempranillo), ainsi que d’autres de la région ; les proportions varient d’un lot à l’autre. Après la fermentation, arrêtée par l’ajout d’eau-de-vie de vin pour conserver une partie du sucre naturel du raisin, le vin vieillit plusieurs années en grands foudres de chêne, un élevage qui préserve la couleur et le fruit tout en assouplissant la texture. Il est mis en bouteille filtré, prêt à boire, et garde bien ses qualités quelques semaines après l’ouverture.</p>",
+    "it": "<p>Founders Reserve è uno dei Porto più noti di Sandeman e deve il suo nome a George Sandeman, che fondò la casa a Londra nel 1790. Appartiene alla categoria <strong>Reserve</strong>, che riunisce i ruby di qualità più alta, approvati dalla commissione di degustazione dell’ente regolatore.</p><p>È prodotto da un assemblaggio di vini di diverse vendemmie, provenienti da vigneti del Douro tra cui la Quinta do Seixo, e da varietà tradizionali come Touriga Nacional, Touriga Franca e Tinta Roriz (Tempranillo), oltre ad altre della regione; le proporzioni variano da un lotto all’altro. Dopo la fermentazione, interrotta con acquavite di vino per conservare parte dello zucchero naturale dell’uva, il vino invecchia per diversi anni in grandi botti di rovere, un affinamento che preserva colore e frutto ammorbidendo la trama. Viene imbottigliato filtrato, pronto da bere, e conserva bene le sue qualità per alcune settimane dopo l’apertura.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de frutos rojos y negros maduros, como cereza, frambuesa y ciruela, con un toque especiado. En boca es dulce, suave y equilibrado, con taninos redondos.",
+    "en": "Intense ruby. Aromas of ripe red and black fruit such as cherry, raspberry and plum, with a spicy touch. Sweet, smooth and balanced on the palate, with rounded tannins.",
+    "fr": "Rubis intense. Arômes de fruits rouges et noirs mûrs, comme la cerise, la framboise et la prune, avec une touche épicée. En bouche, il est doux, souple et équilibré, avec des tanins arrondis.",
+    "it": "Rubino intenso. Aromi di frutti rossi e neri maturi, come ciliegia, lampone e prugna, con un tocco speziato. In bocca è dolce, morbido ed equilibrato, con tannini rotondi."
+  },
+  "pairing": {
+    "es": "Postres de chocolate negro, frutos rojos, quesos azules, quesos curados",
+    "en": "Dark chocolate desserts, red berries, blue cheeses, aged cheeses",
+    "fr": "Desserts au chocolat noir, fruits rouges, fromages à pâte persillée, fromages affinés",
+    "it": "Dolci al cioccolato fondente, frutti rossi, formaggi erborinati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "14-16 °C, copa de vino de Oporto o de vino blanco",
+    "en": "14-16 °C, Port or white wine glass",
+    "fr": "14-16 °C, verre à porto ou à vin blanc",
+    "it": "14-16 °C, calice da Porto o da vino bianco"
+  },
+  "search": "Sandeman Founders Reserve Port"
+}

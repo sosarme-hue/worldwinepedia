@@ -1,0 +1,49 @@
+{
+  "slug": "brundlmayer-brut-rose",
+  "name": "Bründlmayer Brut Rosé",
+  "winery": "brundlmayer",
+  "region": "kamptal",
+  "country": "austria",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut",
+    "en": "Brut",
+    "fr": "Brut",
+    "it": "Brut"
+  },
+  "grapes": [
+    "pinot-noir",
+    "zweigelt"
+  ],
+  "summary": {
+    "es": "Espumoso rosado de método tradicional de Bründlmayer, en el Kamptal, elaborado principalmente con variedades tintas y criado largo tiempo sobre lías.",
+    "en": "Traditional-method rosé sparkling wine from Bründlmayer in the Kamptal, made mainly from red varieties and aged at length on the lees.",
+    "fr": "Effervescent rosé de méthode traditionnelle de Bründlmayer, dans le Kamptal, élaboré principalement à partir de cépages rouges et longuement élevé sur lies.",
+    "it": "Spumante rosato metodo classico di Bründlmayer, nel Kamptal, prodotto principalmente con varietà rosse e affinato a lungo sui lieviti."
+  },
+  "body": {
+    "es": "<p>Además de sus Grüner Veltliner y Riesling, la finca Bründlmayer de Langenlois es uno de los productores austriacos más reconocidos de espumosos de <strong>método tradicional</strong>, el mismo que se emplea en Champagne, con una segunda fermentación en botella. Su Brut Rosé es una de sus etiquetas más apreciadas.</p><p>Se elabora principalmente con variedades tintas, entre ellas el <strong>Pinot Noir</strong> y el <strong>Zweigelt</strong>, en proporciones que varían según la añada. Las uvas se vendimian a mano, temprano, para conservar la acidez, y se prensan con suavidad para obtener un mosto de color pálido. Tras la segunda fermentación en botella, el vino reposa sobre sus lías durante un periodo prolongado antes del degüelle, lo que le aporta finura de burbuja y complejidad.</p><p>Es un espumoso seco, de color rosa pálido, con fruta roja delicada y notas de pastelería. Puede servirse como aperitivo o acompañar una comida completa.</p>",
+    "en": "<p>As well as its Grüner Veltliner and Riesling, the Bründlmayer estate in Langenlois is one of Austria’s most respected producers of <strong>traditional-method</strong> sparkling wines, the same method used in Champagne, with a second fermentation in bottle. Its Brut Rosé is one of its most prized labels.</p><p>It is made mainly from red varieties, among them <strong>Pinot Noir</strong> and <strong>Zweigelt</strong>, in proportions that vary with the vintage. The grapes are hand-picked early to retain acidity and pressed gently to obtain pale-coloured juice. After the second fermentation in bottle, the wine rests on its lees for an extended period before disgorgement, which gives it a fine mousse and complexity.</p><p>It is a dry, pale pink sparkling wine with delicate red fruit and pastry notes. It can be served as an aperitif or accompany a full meal.</p>",
+    "fr": "<p>Outre ses grüner veltliner et rieslings, le domaine Bründlmayer de Langenlois est l’un des producteurs autrichiens les plus reconnus d’effervescents de <strong>méthode traditionnelle</strong>, la même que celle employée en Champagne, avec une seconde fermentation en bouteille. Son Brut Rosé est l’une de ses étiquettes les plus appréciées.</p><p>Il est élaboré principalement à partir de cépages rouges, dont le <strong>pinot noir</strong> et le <strong>zweigelt</strong>, dans des proportions qui varient selon le millésime. Les raisins sont vendangés à la main, tôt, pour conserver l’acidité, et pressés délicatement afin d’obtenir un moût de couleur pâle. Après la seconde fermentation en bouteille, le vin repose sur ses lies pendant une période prolongée avant le dégorgement, ce qui lui apporte finesse de bulle et complexité.</p><p>C’est un effervescent sec, de couleur rose pâle, au fruit rouge délicat et aux notes de pâtisserie. Il peut être servi à l’apéritif ou accompagner un repas complet.</p>",
+    "it": "<p>Oltre ai Grüner Veltliner e Riesling, la tenuta Bründlmayer di Langenlois è uno dei produttori austriaci più apprezzati di spumanti <strong>metodo classico</strong>, lo stesso usato in Champagne, con una seconda fermentazione in bottiglia. Il suo Brut Rosé è una delle etichette più apprezzate.</p><p>È prodotto principalmente con varietà rosse, tra cui <strong>Pinot Noir</strong> e <strong>Zweigelt</strong>, in proporzioni che variano secondo l’annata. Le uve sono vendemmiate a mano, precocemente, per conservare l’acidità, e pressate delicatamente per ottenere un mosto di colore chiaro. Dopo la seconda fermentazione in bottiglia, il vino riposa sui lieviti per un periodo prolungato prima della sboccatura, il che gli conferisce finezza di perlage e complessità.</p><p>È uno spumante secco, di colore rosa chiaro, con frutto rosso delicato e note di pasticceria. Si può servire come aperitivo o accompagnare un pasto completo.</p>"
+  },
+  "tasting": {
+    "es": "Rosa pálido, burbuja fina. Aromas de fresa, frambuesa, cítricos y notas de brioche. Boca seca, fresca y cremosa, con final persistente.",
+    "en": "Pale pink with fine bubbles. Aromas of strawberry, raspberry, citrus and brioche notes. Dry, fresh and creamy palate with a persistent finish.",
+    "fr": "Rose pâle, bulle fine. Arômes de fraise, de framboise, d’agrumes et notes de brioche. Bouche sèche, fraîche et crémeuse, à la finale persistante.",
+    "it": "Rosa chiaro, perlage fine. Aromi di fragola, lampone, agrumi e note di brioche. Bocca secca, fresca e cremosa, con finale persistente."
+  },
+  "pairing": {
+    "es": "Aperitivo, salmón ahumado, sushi, aves, postres de frutos rojos poco dulces",
+    "en": "Aperitif, smoked salmon, sushi, poultry, lightly sweet red-fruit desserts",
+    "fr": "Apéritif, saumon fumé, sushis, volailles, desserts peu sucrés aux fruits rouges",
+    "it": "Aperitivo, salmone affumicato, sushi, pollame, dessert poco dolci ai frutti rossi"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de vino blanco o flauta",
+    "en": "6-8 °C, white wine glass or flute",
+    "fr": "6-8 °C, verre à vin blanc ou flûte",
+    "it": "6-8 °C, calice da bianco o flûte"
+  },
+  "search": "Bründlmayer Brut Rosé"
+}

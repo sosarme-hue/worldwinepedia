@@ -1,0 +1,51 @@
+{
+  "slug": "chateau-talbot",
+  "name": "Château Talbot",
+  "winery": "chateau-talbot",
+  "region": "medoc",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Cuarto Grand Cru Classé (1855)",
+    "en": "Fourth Grand Cru Classé (1855)",
+    "fr": "Quatrième Grand Cru Classé (1855)",
+    "it": "Quarto Grand Cru Classé (1855)"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "cabernet-franc",
+    "petit-verdot"
+  ],
+  "summary": {
+    "es": "Gran vino de Château Talbot, cuarto gran cru clasificado de Saint-Julien, de estilo clásico, con Cabernet Sauvignon y Merlot y una evolución hacia notas de cedro y tabaco.",
+    "en": "The grand vin of Château Talbot, a Saint-Julien fourth growth in a classic style, with Cabernet Sauvignon and Merlot and an evolution towards cedar and tobacco notes.",
+    "fr": "Grand vin de Château Talbot, quatrième grand cru classé de Saint-Julien, de style classique, avec cabernet-sauvignon et merlot, qui évolue vers des notes de cèdre et de tabac.",
+    "it": "Grand vin di Château Talbot, quarto grand cru classé di Saint-Julien, di stile classico, con Cabernet Sauvignon e Merlot e un’evoluzione verso note di cedro e tabacco."
+  },
+  "body": {
+    "es": "<p>El gran vino de Château Talbot procede del viñedo de la finca en el centro de la denominación Saint-Julien, sobre suelos de gravas. El ensamblaje se basa en la <strong>Cabernet Sauvignon</strong>, que aporta estructura y fruta negra, completada con <strong>Merlot</strong>, que suaviza el conjunto, y con pequeñas cantidades de Petit Verdot y, en algunos años, Cabernet Franc. Las proporciones varían según la añada.</p><p>Tras la vinificación por parcelas, el vino se cría en barricas de roble francés, una parte de ellas nuevas. La renovación de las bodegas emprendida por la familia propietaria ha permitido afinar la selección, y los lotes no retenidos se destinan al Connétable de Talbot.</p><p>Es un Saint-Julien de perfil clásico, con fruta madura, taninos firmes pero redondos y un carácter equilibrado. Joven muestra sobre todo fruta, y con unos años de botella desarrolla las notas de cedro, tabaco y especias típicas de los buenos tintos del Médoc.</p>",
+    "en": "<p>The grand vin of Château Talbot comes from the estate’s vineyard in the centre of the Saint-Julien appellation, on gravel soils. The blend is based on <strong>Cabernet Sauvignon</strong>, which brings structure and black fruit, completed with <strong>Merlot</strong>, which softens the whole, and small amounts of Petit Verdot and, in some years, Cabernet Franc. The proportions vary with the vintage.</p><p>After plot-by-plot vinification, the wine is aged in French oak barrels, some of them new. The renovation of the cellars undertaken by the owning family has allowed selection to be refined, and lots not retained go into Connétable de Talbot.</p><p>It is a Saint-Julien with a classic profile, with ripe fruit, firm but rounded tannins and a balanced character. Young, it shows mainly fruit, and after a few years in bottle it develops the cedar, tobacco and spice notes typical of good Médoc reds.</p>",
+    "fr": "<p>Le grand vin de Château Talbot provient du vignoble du domaine au centre de l’appellation Saint-Julien, sur des sols de graves. L’assemblage repose sur le <strong>cabernet-sauvignon</strong>, qui apporte structure et fruits noirs, complété par le <strong>merlot</strong>, qui assouplit l’ensemble, et par de petites quantités de petit verdot et, certaines années, de cabernet franc. Les proportions varient selon le millésime.</p><p>Après une vinification parcellaire, le vin est élevé en barriques de chêne français, dont une partie neuves. La rénovation des chais entreprise par la famille propriétaire a permis d’affiner la sélection, et les lots non retenus rejoignent le Connétable de Talbot.</p><p>C’est un saint-julien au profil classique, au fruit mûr, aux tanins fermes mais ronds et au caractère équilibré. Jeune, il montre surtout du fruit, et après quelques années de bouteille il développe les notes de cèdre, de tabac et d’épices typiques des bons rouges du Médoc.</p>",
+    "it": "<p>Il grand vin di Château Talbot proviene dal vigneto della tenuta al centro della denominazione Saint-Julien, su suoli ghiaiosi. L’uvaggio si basa sul <strong>Cabernet Sauvignon</strong>, che apporta struttura e frutta nera, completato dal <strong>Merlot</strong>, che ammorbidisce l’insieme, e da piccole quantità di Petit Verdot e, in alcune annate, di Cabernet Franc. Le proporzioni variano secondo l’annata.</p><p>Dopo la vinificazione parcellare, il vino affina in barrique di rovere francese, in parte nuove. Il rinnovamento delle cantine intrapreso dalla famiglia proprietaria ha permesso di affinare la selezione, e i lotti non trattenuti confluiscono nel Connétable de Talbot.</p><p>È un Saint-Julien dal profilo classico, con frutto maturo, tannini decisi ma rotondi e un carattere equilibrato. Da giovane mostra soprattutto frutto e dopo qualche anno di bottiglia sviluppa le note di cedro, tabacco e spezie tipiche dei buoni rossi del Médoc.</p>"
+  },
+  "tasting": {
+    "es": "Granate intenso. Aromas de casis, ciruela y cedro, con notas de tabaco y especias con la edad. Boca de cuerpo medio a pleno, con taninos redondos y final persistente.",
+    "en": "Intense garnet. Aromas of blackcurrant, plum and cedar, with tobacco and spice notes with age. Medium- to full-bodied palate with rounded tannins and a persistent finish.",
+    "fr": "Robe grenat intense. Arômes de cassis, de prune et de cèdre, avec des notes de tabac et d’épices avec l’âge. Bouche de corps moyen à ample, aux tanins ronds, finale persistante.",
+    "it": "Granato intenso. Aromi di ribes nero, prugna e cedro, con note di tabacco e spezie con l’età. Bocca di corpo medio-pieno, dai tannini rotondi e dal finale persistente."
+  },
+  "pairing": {
+    "es": "Cordero asado, entrecot a la parrilla, caza, quesos curados de pasta dura",
+    "en": "Roast lamb, grilled rib steak, game, hard aged cheeses",
+    "fr": "Agneau rôti, entrecôte grillée, gibier, fromages affinés à pâte dure",
+    "it": "Agnello arrosto, costata alla griglia, selvaggina, formaggi stagionati a pasta dura"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia de tipo Burdeos",
+    "en": "16-18 °C, decanted, large Bordeaux glass",
+    "fr": "16-18 °C, carafé, grand verre de type bordeaux",
+    "it": "16-18 °C, decantato, calice ampio tipo Bordeaux"
+  },
+  "search": "Château Talbot Saint-Julien Grand Cru Classé"
+}

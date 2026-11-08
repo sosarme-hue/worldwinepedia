@@ -1,0 +1,49 @@
+{
+  "slug": "cartuxa-reserva-tinto",
+  "name": "Cartuxa Reserva Tinto",
+  "winery": "fundacao-eugenio-de-almeida",
+  "region": "alentejo",
+  "country": "portugal",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Riserva"
+  },
+  "grapes": [
+    "tempranillo",
+    "alicante-bouschet"
+  ],
+  "summary": {
+    "es": "Tinto Reserva de la Adega da Cartuxa, en Évora, elaborado con una selección de uvas y una crianza más larga que el Colheita, con estructura para la guarda.",
+    "en": "Reserva red from the Adega da Cartuxa in Évora, made from a selection of grapes with longer ageing than the Colheita and the structure to age.",
+    "fr": "Rouge Reserva de l’Adega da Cartuxa, à Évora, élaboré à partir d’une sélection de raisins et d’un élevage plus long que le Colheita, avec la structure nécessaire à la garde.",
+    "it": "Rosso Reserva dell’Adega da Cartuxa, a Évora, prodotto con una selezione di uve e un affinamento più lungo del Colheita, con la struttura per invecchiare."
+  },
+  "body": {
+    "es": "<p>El Cartuxa Reserva ocupa un escalón por encima del Colheita en la gama de la Fundação Eugénio de Almeida, y por debajo del Pêra-Manca, el vino más ambicioso de la casa.</p><p>Procede de una selección de uvas de los viñedos de la fundación en torno a Évora, en suelos de granito y esquisto, de variedades alentejanas como la Aragonez (Tempranillo), la Trincadeira y la Alicante Bouschet, en proporciones que varían según la añada. La vinificación busca una extracción más intensa que en los vinos jóvenes, y la crianza en barricas de roble se prolonga durante más tiempo, seguida de un periodo de reposo en botella en la bodega antes del lanzamiento.</p><p>El resultado es un tinto de mayor concentración y estructura, en el que la fruta madura del Alentejo se combina con notas de crianza. Puede beberse tras su salida al mercado, pero gana complejidad con varios años de botella.</p>",
+    "en": "<p>Cartuxa Reserva sits a step above the Colheita in the range of the Fundação Eugénio de Almeida, and below Pêra-Manca, the house’s most ambitious wine.</p><p>It comes from a selection of grapes from the foundation’s vineyards around Évora, on granite and schist soils, from Alentejo varieties such as Aragonez (Tempranillo), Trincadeira and Alicante Bouschet, in proportions that vary with the vintage. Winemaking aims for more intense extraction than in the young wines, and ageing in oak barrels lasts longer, followed by a period of rest in bottle in the cellar before release.</p><p>The result is a red of greater concentration and structure, in which the ripe fruit of the Alentejo combines with notes from ageing. It can be drunk on release but gains complexity with several years in bottle.</p>",
+    "fr": "<p>Le Cartuxa Reserva se situe un échelon au-dessus du Colheita dans la gamme de la Fundação Eugénio de Almeida, et en dessous du Pêra-Manca, le vin le plus ambitieux de la maison.</p><p>Il provient d’une sélection de raisins des vignes de la fondation autour d’Évora, sur des sols de granit et de schiste, de cépages alentejanos comme l’aragonez (tempranillo), la trincadeira et l’alicante bouschet, dans des proportions qui varient selon le millésime. La vinification recherche une extraction plus intense que pour les vins jeunes, et l’élevage en barriques de chêne se prolonge davantage, suivi d’une période de repos en bouteille dans la cave avant la commercialisation.</p><p>Le résultat est un rouge plus concentré et plus structuré, où le fruit mûr de l’Alentejo se marie aux notes d’élevage. Il peut se boire dès sa sortie, mais gagne en complexité après plusieurs années de bouteille.</p>",
+    "it": "<p>Il Cartuxa Reserva si colloca un gradino sopra il Colheita nella gamma della Fundação Eugénio de Almeida, e sotto il Pêra-Manca, il vino più ambizioso della casa.</p><p>Proviene da una selezione di uve dei vigneti della fondazione intorno a Évora, su suoli di granito e scisto, da varietà alentejane come Aragonez (Tempranillo), Trincadeira e Alicante Bouschet, in proporzioni che variano secondo l’annata. La vinificazione punta a un’estrazione più intensa rispetto ai vini giovani, e l’affinamento in barrique di rovere si prolunga più a lungo, seguito da un periodo di riposo in bottiglia in cantina prima dell’uscita.</p><p>Il risultato è un rosso di maggiore concentrazione e struttura, in cui il frutto maturo dell’Alentejo si unisce alle note dell’affinamento. Si può bere all’uscita, ma acquista complessità con diversi anni di bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Color granate profundo. Aromas de fruta negra madura, ciruela pasa, especias, cacao y notas tostadas. Boca amplia y estructurada, con taninos firmes pero pulidos y un final largo.",
+    "en": "Deep garnet. Aromas of ripe black fruit, prune, spice, cocoa and toasty notes. Broad, structured palate with firm but polished tannins and a long finish.",
+    "fr": "Robe grenat profond. Arômes de fruits noirs mûrs, de pruneau, d’épices, de cacao et de notes grillées. Bouche ample et structurée, aux tanins fermes mais polis et à la finale longue.",
+    "it": "Granato profondo. Aromi di frutta nera matura, prugna secca, spezie, cacao e note tostate. Sorso ampio e strutturato, con tannini decisi ma levigati e un finale lungo."
+  },
+  "pairing": {
+    "es": "Cerdo ibérico, cordero asado, migas, guisos de caza, quesos de oveja curados",
+    "en": "Iberian pork, roast lamb, migas, game stews, aged sheep’s cheeses",
+    "fr": "Porc ibérique, agneau rôti, migas, ragoûts de gibier, fromages de brebis affinés",
+    "it": "Maiale iberico, agnello arrosto, migas, stufati di selvaggina, pecorini stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Cartuxa Reserva Tinto Alentejo"
+}

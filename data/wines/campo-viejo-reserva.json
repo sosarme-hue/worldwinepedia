@@ -1,0 +1,50 @@
+{
+  "slug": "campo-viejo-reserva",
+  "name": "Campo Viejo Reserva",
+  "winery": "campo-viejo",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [
+    "tempranillo",
+    "graciano",
+    "carinena"
+  ],
+  "summary": {
+    "es": "Reserva de Rioja de estilo clásico y amplia distribución, elaborado con Tempranillo, Graciano y Mazuelo y envejecido al menos tres años entre barrica y botella.",
+    "en": "Classic-style, widely distributed Rioja Reserva, made from Tempranillo, Graciano and Mazuelo and aged for at least three years between barrel and bottle.",
+    "fr": "Reserva de Rioja de style classique et largement diffusé, élaboré avec du tempranillo, du graciano et du mazuelo, et vieilli au moins trois ans entre barrique et bouteille.",
+    "it": "Reserva della Rioja di stile classico e ampia distribuzione, prodotto con Tempranillo, Graciano e Mazuelo e invecchiato almeno tre anni tra barrique e bottiglia."
+  },
+  "body": {
+    "es": "<p>Campo Viejo Reserva es uno de los reservas de Rioja más fáciles de encontrar en el mercado internacional. Se elabora con una mezcla en la que predomina el Tempranillo, completado con Graciano, que aporta acidez y color, y Mazuelo (Cariñena), que contribuye a la estructura. Las proporciones varían según la añada.</p><p>Como exige la normativa de la Denominación de Origen Calificada Rioja para la categoría Reserva, el vino envejece un mínimo de tres años antes de salir al mercado, de los cuales al menos uno transcurre en barrica de roble. Campo Viejo utiliza barricas de roble americano y francés, y completa la crianza con un periodo de reposo en botella en su bodega de Logroño, construida en gran parte bajo tierra.</p><p>El estilo es el del Rioja clásico, con fruta madura, notas de especias y vainilla procedentes del roble y una textura suave, en un vino pensado para la mesa y capaz de evolucionar algunos años en botella.</p>",
+    "en": "<p>Campo Viejo Reserva is one of the easiest Rioja Reservas to find on the international market. It is made from a blend dominated by Tempranillo, completed with Graciano, which brings acidity and colour, and Mazuelo (Carignan), which contributes structure. The proportions vary with the vintage.</p><p>As required by the rules of the Rioja Denominación de Origen Calificada for the Reserva category, the wine ages for at least three years before release, of which at least one is spent in oak barrels. Campo Viejo uses American and French oak barrels and completes the ageing with a period of bottle rest in its Logroño winery, built largely underground.</p><p>The style is classic Rioja, with ripe fruit, notes of spice and vanilla from the oak and a smooth texture, in a wine designed for the table and able to develop for a few years in bottle.</p>",
+    "fr": "<p>Campo Viejo Reserva est l’un des Reserva de Rioja les plus faciles à trouver sur le marché international. Il est élaboré à partir d’un assemblage dominé par le tempranillo, complété par le graciano, qui apporte acidité et couleur, et par le mazuelo (carignan), qui contribue à la structure. Les proportions varient selon le millésime.</p><p>Comme l’exige la réglementation de la Denominación de Origen Calificada Rioja pour la catégorie Reserva, le vin vieillit au moins trois ans avant sa commercialisation, dont au minimum un an en barrique de chêne. Campo Viejo utilise des barriques de chêne américain et français et complète l’élevage par une période de repos en bouteille dans sa bodega de Logroño, construite en grande partie sous terre.</p><p>Le style est celui du Rioja classique, avec un fruit mûr, des notes d’épices et de vanille apportées par le chêne et une texture souple, dans un vin conçu pour la table et capable d’évoluer quelques années en bouteille.</p>",
+    "it": "<p>Campo Viejo Reserva è uno dei Reserva della Rioja più facili da trovare sul mercato internazionale. È prodotto con un assemblaggio in cui prevale il Tempranillo, completato dal Graciano, che apporta acidità e colore, e dal Mazuelo (Carignano), che contribuisce alla struttura. Le proporzioni variano a seconda dell’annata.</p><p>Come richiede la normativa della Denominación de Origen Calificada Rioja per la categoria Reserva, il vino invecchia almeno tre anni prima di essere messo in commercio, di cui almeno uno in barrique di rovere. Campo Viejo utilizza barrique di rovere americano e francese e completa l’affinamento con un periodo di riposo in bottiglia nella sua cantina di Logroño, costruita in gran parte sottoterra.</p><p>Lo stile è quello del Rioja classico, con frutto maturo, note di spezie e vaniglia del rovere e una trama morbida, in un vino pensato per la tavola e capace di evolvere per alcuni anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí con ribete teja. Fruta roja madura, ciruela, vainilla, clavo y notas tostadas. En boca es redondo, con taninos suaves y final especiado.",
+    "en": "Ruby red with a brick rim. Ripe red fruit, plum, vanilla, clove and toasty notes. Round on the palate, with soft tannins and a spicy finish.",
+    "fr": "Rouge rubis à reflets tuilés. Fruits rouges mûrs, prune, vanille, clou de girofle et notes toastées. Rond en bouche, aux tanins souples et à la finale épicée.",
+    "it": "Rosso rubino con unghia mattone. Frutta rossa matura, prugna, vaniglia, chiodi di garofano e note tostate. In bocca è rotondo, con tannini morbidi e finale speziato."
+  },
+  "pairing": {
+    "es": "Cordero asado, chuletillas a la brasa, embutidos ibéricos, quesos semicurados",
+    "en": "Roast lamb, grilled lamb chops, Iberian cured meats, semi-cured cheeses",
+    "fr": "Agneau rôti, côtelettes grillées, charcuterie ibérique, fromages mi-affinés",
+    "it": "Agnello arrosto, costolette alla brace, salumi iberici, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Campo Viejo Reserva Rioja"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "krug-clos-du-mesnil",
+  "name": "Krug Clos du Mesnil",
+  "winery": "krug",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Blanc de Blancs Brut",
+    "en": "Blanc de Blancs Brut",
+    "fr": "Blanc de Blancs Brut",
+    "it": "Blanc de Blancs Brut"
+  },
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Champagne blanc de blancs de añada de Krug, procedente de un pequeño viñedo amurallado de Chardonnay en Le Mesnil-sur-Oger, en la Côte des Blancs.",
+    "en": "Krug’s vintage blanc de blancs champagne, from a small walled Chardonnay vineyard in Le Mesnil-sur-Oger, in the Côte des Blancs.",
+    "fr": "Champagne blanc de blancs millésimé de Krug, issu d’un petit clos de chardonnay ceint de murs au Mesnil-sur-Oger, dans la Côte des Blancs.",
+    "it": "Champagne blanc de blancs millesimato di Krug, proveniente da un piccolo vigneto cintato di Chardonnay a Le Mesnil-sur-Oger, nella Côte des Blancs."
+  },
+  "body": {
+    "es": "<p>El Clos du Mesnil es un viñedo de menos de dos hectáreas rodeado de muros, situado en el pueblo de <strong>Le Mesnil-sur-Oger</strong>, uno de los grands crus de la Côte des Blancs. Krug lo adquirió en 1971 y lanzó como primera añada la de 1979, un ejemplo temprano de champán de prestigio procedente de una sola parcela y una sola variedad.</p><p>Se elabora únicamente con <strong>Chardonnay</strong> del clos, y solo en los años que la casa considera adecuados. Como los demás vinos de Krug, el vino base fermenta en pequeñas barricas de roble usadas. Tras la segunda fermentación en botella, el champán permanece muchos años sobre sus lías antes de su lanzamiento.</p><p>Es un blanc de blancs de gran pureza y tensión, con notas cítricas, florales y minerales, que con el tiempo desarrolla matices de frutos secos y pan tostado. Su producción es muy reducida, y está concebido para una larga guarda.</p>",
+    "en": "<p>The Clos du Mesnil is a walled vineyard of less than two hectares in the village of <strong>Le Mesnil-sur-Oger</strong>, one of the grands crus of the Côte des Blancs. Krug acquired it in 1971 and released 1979 as its first vintage, an early example of a prestige champagne from a single plot and a single variety.</p><p>It is made solely from <strong>Chardonnay</strong> from the clos, and only in years the house considers suitable. Like Krug’s other wines, the base wine ferments in small used oak casks. After the second fermentation in bottle, the champagne stays on its lees for many years before release.</p><p>It is a blanc de blancs of great purity and tension, with citrus, floral and mineral notes, which over time develops hints of nuts and toast. Production is very small and it is designed for long ageing.</p>",
+    "fr": "<p>Le Clos du Mesnil est un vignoble de moins de deux hectares ceint de murs, situé dans le village du <strong>Mesnil-sur-Oger</strong>, l’un des grands crus de la Côte des Blancs. Krug l’a acquis en 1971 et a lancé comme premier millésime le 1979, un exemple précoce de champagne de prestige issu d’une seule parcelle et d’un seul cépage.</p><p>Il est élaboré uniquement avec le <strong>chardonnay</strong> du clos, et seulement les années que la maison juge adaptées. Comme les autres vins de Krug, le vin de base fermente en petits fûts de chêne usagés. Après la prise de mousse en bouteille, le champagne reste de nombreuses années sur ses lies avant sa commercialisation.</p><p>C’est un blanc de blancs d’une grande pureté et d’une grande tension, aux notes d’agrumes, de fleurs et de minéraux, qui développe avec le temps des nuances de fruits secs et de pain grillé. Sa production est très réduite et il est conçu pour une longue garde.</p>",
+    "it": "<p>Il Clos du Mesnil è un vigneto di meno di due ettari circondato da mura, situato nel villaggio di <strong>Le Mesnil-sur-Oger</strong>, uno dei grand cru della Côte des Blancs. Krug lo acquistò nel 1971 e lanciò come prima annata la 1979, un esempio precoce di champagne di prestigio da una sola parcella e una sola varietà.</p><p>È prodotto unicamente con lo <strong>Chardonnay</strong> del clos, e solo negli anni che la casa ritiene adatti. Come gli altri vini di Krug, il vino base fermenta in piccole botti di rovere usate. Dopo la seconda fermentazione in bottiglia, lo champagne resta per molti anni sui lieviti prima della commercializzazione.</p><p>È un blanc de blancs di grande purezza e tensione, con note agrumate, floreali e minerali, che col tempo sviluppa sfumature di frutta secca e pane tostato. La produzione è molto ridotta ed è pensato per un lungo invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Dorado pálido con burbuja muy fina. Aromas de limón, flores blancas, tiza, avellana y pan tostado. Boca tensa y precisa, de gran pureza, con un final largo y mineral.",
+    "en": "Pale gold with very fine bubbles. Aromas of lemon, white flowers, chalk, hazelnut and toast. Taut, precise palate of great purity, with a long, mineral finish.",
+    "fr": "Or pâle à la bulle très fine. Arômes de citron, de fleurs blanches, de craie, de noisette et de pain grillé. Bouche tendue et précise, d’une grande pureté, finale longue et minérale.",
+    "it": "Oro tenue dal perlage finissimo. Aromi di limone, fiori bianchi, gesso, nocciola e pane tostato. Bocca tesa e precisa, di grande purezza, dal finale lungo e minerale."
+  },
+  "pairing": {
+    "es": "Langosta, caviar, rodaballo, aves con trufa, quesos curados como el comté",
+    "en": "Lobster, caviar, turbot, poultry with truffle, aged cheeses such as Comté",
+    "fr": "Homard, caviar, turbot, volaille truffée, fromages affinés comme le comté",
+    "it": "Aragosta, caviale, rombo, pollame al tartufo, formaggi stagionati come il Comté"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de vino blanco amplia, no flauta",
+    "en": "10-12 °C, large white wine glass rather than a flute",
+    "fr": "10-12 °C, grand verre à vin blanc plutôt qu’une flûte",
+    "it": "10-12 °C, calice ampio da vino bianco anziché flûte"
+  },
+  "search": "Krug Clos du Mesnil Blanc de Blancs Champagne"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "baron-de-l",
+  "name": "Baron de L",
+  "winery": "de-ladoucette",
+  "region": "loire",
+  "country": "francia",
+  "type": "blanco",
+  "category": {
+    "es": "Pouilly-Fumé",
+    "en": "Pouilly-Fumé",
+    "fr": "Pouilly-Fumé",
+    "it": "Pouilly-Fumé"
+  },
+  "grapes": [
+    "sauvignon-blanc"
+  ],
+  "summary": {
+    "es": "Cuvée de prestigio de la casa de Ladoucette: un Pouilly-Fumé elaborado con una selección de las mejores parcelas y elaborado en cantidades más reducidas.",
+    "en": "The prestige cuvée of the de Ladoucette house: a Pouilly-Fumé made from a selection of the best parcels and made in smaller quantities.",
+    "fr": "Cuvée de prestige de la maison de Ladoucette : un pouilly-fumé élaboré à partir d’une sélection des meilleures parcelles et produit en plus petites quantités.",
+    "it": "Cuvée di prestigio della casa de Ladoucette: un Pouilly-Fumé prodotto con una selezione delle migliori parcelle e prodotto in quantità più ridotte."
+  },
+  "body": {
+    "es": "<p>Baron de L es el vino de prestigio de la casa de Ladoucette, creado por el barón Patrick de Ladoucette como expresión máxima del Pouilly-Fumé del Château du Nozet. Se elabora a partir de una selección de las parcelas mejor situadas y de las uvas más maduras y sanas de cada cosecha.</p><p>Como todo Pouilly-Fumé, es un blanco de <strong>Sauvignon Blanc</strong>. La selección de parcelas y de uvas, más estricta que la del vino principal, busca obtener mayor concentración y profundidad, manteniendo la frescura propia de la denominación. La elaboración privilegia la pureza de la fruta y el reposo sobre lías.</p><p>Es un blanco más amplio y complejo que el Pouilly-Fumé clásico de la casa, con mayor capacidad de envejecimiento. Con algunos años de botella puede desarrollar notas más profundas, manteniendo una acidez que le da longitud.</p>",
+    "en": "<p>Baron de L is the prestige wine of the de Ladoucette house, created by Baron Patrick de Ladoucette as the ultimate expression of Pouilly-Fumé from the Château du Nozet. It is made from a selection of the best-sited parcels and of the ripest, healthiest grapes of each harvest.</p><p>Like all Pouilly-Fumé, it is a <strong>Sauvignon Blanc</strong> white. The selection of parcels and grapes, stricter than for the main wine, seeks greater concentration and depth while keeping the freshness typical of the appellation. Winemaking favours purity of fruit and lees ageing.</p><p>It is a broader and more complex white than the house’s classic Pouilly-Fumé, with greater ageing potential. With a few years in bottle it can develop deeper notes while retaining an acidity that gives it length.</p>",
+    "fr": "<p>Baron de L est le vin de prestige de la maison de Ladoucette, créé par le baron Patrick de Ladoucette comme expression ultime du pouilly-fumé du château du Nozet. Il est élaboré à partir d’une sélection des parcelles les mieux situées et des raisins les plus mûrs et les plus sains de chaque récolte.</p><p>Comme tout pouilly-fumé, c’est un blanc de <strong>sauvignon blanc</strong>. La sélection des parcelles et des raisins, plus stricte que pour le vin principal, vise davantage de concentration et de profondeur tout en conservant la fraîcheur propre à l’appellation. La vinification privilégie la pureté du fruit et l’élevage sur lies.</p><p>C’est un blanc plus ample et plus complexe que le pouilly-fumé classique de la maison, doté d’un meilleur potentiel de vieillissement. Avec quelques années de bouteille, il peut développer des notes plus profondes tout en conservant une acidité qui lui donne de la longueur.</p>",
+    "it": "<p>Baron de L è il vino di prestigio della casa de Ladoucette, creato dal barone Patrick de Ladoucette come massima espressione del Pouilly-Fumé dello Château du Nozet. È prodotto con una selezione delle parcelle meglio esposte e delle uve più mature e sane di ogni vendemmia.</p><p>Come ogni Pouilly-Fumé, è un bianco da <strong>Sauvignon Blanc</strong>. La selezione di parcelle e uve, più severa rispetto al vino principale, cerca maggiore concentrazione e profondità mantenendo la freschezza tipica della denominazione. La vinificazione privilegia la purezza del frutto e l’affinamento sulle fecce.</p><p>È un bianco più ampio e complesso del Pouilly-Fumé classico della casa, con maggiore capacità di invecchiamento. Con qualche anno di bottiglia può sviluppare note più profonde, mantenendo un’acidità che gli dà lunghezza.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo dorado pálido. Aromas de fruta blanca madura, cítricos, flores y notas de piedra. Boca amplia, fresca y persistente.",
+    "en": "Pale gold. Aromas of ripe white fruit, citrus, flowers and stony notes. Broad, fresh and persistent palate.",
+    "fr": "Or pâle. Arômes de fruits blancs mûrs, d’agrumes, de fleurs et notes de pierre. Bouche ample, fraîche et persistante.",
+    "it": "Oro pallido. Aromi di frutta bianca matura, agrumi, fiori e note di pietra. Bocca ampia, fresca e persistente."
+  },
+  "pairing": {
+    "es": "Rodaballo, vieiras, langosta, aves en salsa cremosa",
+    "en": "Turbot, scallops, lobster, poultry in cream sauce",
+    "fr": "Turbot, coquilles Saint-Jacques, homard, volaille à la crème",
+    "it": "Rombo, capesante, aragosta, pollame in salsa cremosa"
+  },
+  "serve": {
+    "es": "12-13 °C, copa de blanco amplia",
+    "en": "12-13 °C, large white wine glass",
+    "fr": "12-13 °C, grand verre à vin blanc",
+    "it": "12-13 °C, calice ampio da bianco"
+  },
+  "search": "Baron de L Pouilly-Fumé de Ladoucette"
+}

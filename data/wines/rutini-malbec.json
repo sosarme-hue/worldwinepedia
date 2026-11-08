@@ -1,0 +1,43 @@
+{
+  "slug": "rutini-malbec",
+  "name": "Rutini Malbec",
+  "winery": "rutini",
+  "region": "valle-de-uco",
+  "country": "argentina",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "malbec"
+  ],
+  "summary": {
+    "es": "Malbec del Valle de Uco de Rutini Wines, con crianza en roble y un estilo de fruta madura y frescura de altura.",
+    "en": "Uco Valley Malbec from Rutini Wines, aged in oak, combining ripe fruit with high-altitude freshness.",
+    "fr": "Malbec de la vallée d’Uco de Rutini Wines, élevé en chêne, au style alliant fruit mûr et fraîcheur d’altitude.",
+    "it": "Malbec della Valle de Uco di Rutini Wines, affinato in rovere, dallo stile che unisce frutto maturo e freschezza d’altura."
+  },
+  "body": {
+    "es": "<p>El Malbec varietal es una de las referencias principales de la marca <strong>Rutini</strong>. Las uvas proceden de viñedos del <strong>Valle de Uco</strong>, en particular de la zona de Tupungato, donde se encuentra la bodega moderna de la casa, a una altitud elevada al pie de la cordillera de los Andes.</p><p>La altitud, con noches frescas y una gran amplitud térmica, permite que el Malbec madure de forma completa sin perder acidez, y da vinos de color profundo y aromas florales. El vino se cría durante un tiempo en barricas de roble, en su mayor parte francés, que redondean la estructura y aportan notas especiadas y tostadas. Es un tinto de buena concentración, fruta madura y taninos suaves, representativo del Malbec de altura de Mendoza, que puede disfrutarse joven o tras algunos años en botella.</p>",
+    "en": "<p>The varietal Malbec is one of the main wines of the <strong>Rutini</strong> brand. The grapes come from vineyards in the <strong>Uco Valley</strong>, particularly the Tupungato area, where the house’s modern winery stands at high altitude at the foot of the Andes.</p><p>The altitude, with cool nights and a wide daily temperature range, allows Malbec to ripen fully without losing acidity, and gives wines of deep colour and floral aromas. The wine is aged for some time in oak barrels, mostly French, which round out the structure and contribute spicy and toasty notes. It is a red with good concentration, ripe fruit and soft tannins, representative of high-altitude Mendoza Malbec, which can be enjoyed young or after a few years in bottle.</p>",
+    "fr": "<p>Le malbec de cépage est l’une des principales références de la marque <strong>Rutini</strong>. Les raisins proviennent de vignobles de la <strong>vallée d’Uco</strong>, en particulier du secteur de Tupungato, où se trouve la cave moderne de la maison, à haute altitude, au pied de la cordillère des Andes.</p><p>L’altitude, avec des nuits fraîches et une forte amplitude thermique, permet au malbec de mûrir complètement sans perdre son acidité, et donne des vins à la couleur profonde et aux arômes floraux. Le vin est élevé un certain temps en fûts de chêne, en majorité français, qui arrondissent la structure et apportent des notes épicées et grillées. C’est un rouge bien concentré, au fruit mûr et aux tanins souples, représentatif du malbec d’altitude de Mendoza, que l’on peut apprécier jeune ou après quelques années de bouteille.</p>",
+    "it": "<p>Il Malbec varietale è una delle etichette principali del marchio <strong>Rutini</strong>. Le uve provengono da vigneti della <strong>Valle de Uco</strong>, in particolare dalla zona di Tupungato, dove si trova la cantina moderna della casa, ad alta quota ai piedi della cordigliera delle Ande.</p><p>L’altitudine, con notti fresche e un’ampia escursione termica, permette al Malbec di maturare completamente senza perdere acidità, e dà vini dal colore profondo e dagli aromi floreali. Il vino affina per un certo periodo in botti di rovere, in gran parte francese, che ne arrotondano la struttura e apportano note speziate e tostate. È un rosso di buona concentrazione, dal frutto maturo e dai tannini morbidi, rappresentativo del Malbec d’altura di Mendoza, che si può gustare giovane o dopo qualche anno in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Violáceo profundo. Aromas de ciruela, mora, violeta, especias y vainilla. Boca concentrada, de taninos suaves y buena frescura.",
+    "en": "Deep purple. Aromas of plum, blackberry, violet, spice and vanilla. Concentrated palate with soft tannins and good freshness.",
+    "fr": "Violacé profond. Arômes de prune, de mûre, de violette, d’épices et de vanille. Bouche concentrée, aux tanins souples et à la bonne fraîcheur.",
+    "it": "Violaceo profondo. Aromi di prugna, mora, viola, spezie e vaniglia. Bocca concentrata, dai tannini morbidi e di buona freschezza."
+  },
+  "pairing": {
+    "es": "Asado argentino, carnes a la parrilla, empanadas, quesos semicurados",
+    "en": "Argentine asado, grilled meats, empanadas, semi-hard cheeses",
+    "fr": "Asado argentin, viandes grillées, empanadas, fromages mi-affinés",
+    "it": "Asado argentino, carni alla griglia, empanadas, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Rutini Malbec Valle de Uco"
+}

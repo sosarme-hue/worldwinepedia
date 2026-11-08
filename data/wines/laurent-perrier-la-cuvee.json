@@ -1,0 +1,49 @@
+{
+  "slug": "laurent-perrier-la-cuvee",
+  "name": "Laurent-Perrier La Cuvée Brut",
+  "winery": "laurent-perrier",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut",
+    "en": "Brut",
+    "fr": "Brut",
+    "it": "Brut"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Champagne brut sin añada de Laurent-Perrier, con una proporción importante de Chardonnay y un estilo ligero, fresco y elegante.",
+    "en": "Laurent-Perrier’s non-vintage brut champagne, with a significant share of Chardonnay and a light, fresh, elegant style.",
+    "fr": "Champagne brut non millésimé de Laurent-Perrier, avec une part importante de chardonnay et un style léger, frais et élégant.",
+    "it": "Champagne brut senza annata di Laurent-Perrier, con una quota importante di Chardonnay e uno stile leggero, fresco ed elegante."
+  },
+  "body": {
+    "es": "<p>La Cuvée es el brut sin añada de Laurent-Perrier, conocido durante mucho tiempo como Laurent-Perrier Brut. Se elabora con las tres variedades de Champagne: <strong>Chardonnay</strong>, que ocupa un lugar destacado en el ensamblaje y aporta frescura y finura, <strong>Pinot Noir</strong> y Pinot Meunier, procedentes de numerosos municipios de la región. Las proporciones varían según el ensamblaje.</p><p>La casa utiliza principalmente primeros mostos, la fracción más fina del prensado, y vinifica en depósitos de acero inoxidable para preservar la pureza aromática, una práctica que introdujo en Champagne a mediados del siglo XX. El ensamblaje incluye vinos de reserva de cosechas anteriores, y el champán se cría varios años sobre lías antes del degüelle.</p><p>Es un champán de cuerpo ligero, con notas de cítricos, fruta blanca y flores y una burbuja fina y persistente. Por su frescura es especialmente adecuado como aperitivo.</p>",
+    "en": "<p>La Cuvée is Laurent-Perrier’s non-vintage brut, long known as Laurent-Perrier Brut. It is made from the three Champagne varieties: <strong>Chardonnay</strong>, which plays a prominent role in the blend and brings freshness and finesse, <strong>Pinot Noir</strong> and Pinot Meunier, from many villages in the region. The proportions vary from blend to blend.</p><p>The house mainly uses first-pressing juice, the finest fraction of the press, and vinifies in stainless steel tanks to preserve aromatic purity, a practice it introduced in Champagne in the mid-20th century. The blend includes reserve wines from earlier harvests, and the champagne is aged for several years on its lees before disgorgement.</p><p>It is a light-bodied champagne, with notes of citrus, white fruit and flowers and a fine, persistent mousse. Its freshness makes it particularly suitable as an aperitif.</p>",
+    "fr": "<p>La Cuvée est le brut non millésimé de Laurent-Perrier, longtemps connu sous le nom de Laurent-Perrier Brut. Il est élaboré avec les trois cépages de la Champagne : le <strong>chardonnay</strong>, qui occupe une place importante dans l’assemblage et apporte fraîcheur et finesse, le <strong>pinot noir</strong> et le pinot meunier, issus de nombreux villages de la région. Les proportions varient selon l’assemblage.</p><p>La maison utilise principalement les jus de cuvée, la fraction la plus fine du pressurage, et vinifie en cuves inox pour préserver la pureté aromatique, une pratique qu’elle introduisit en Champagne au milieu du XXe siècle. L’assemblage comprend des vins de réserve de récoltes antérieures, et le champagne est élevé plusieurs années sur lies avant le dégorgement.</p><p>C’est un champagne de corps léger, aux notes d’agrumes, de fruits blancs et de fleurs, à la bulle fine et persistante. Sa fraîcheur le rend particulièrement adapté à l’apéritif.</p>",
+    "it": "<p>La Cuvée è il brut senza annata di Laurent-Perrier, a lungo conosciuto come Laurent-Perrier Brut. È prodotto con le tre varietà della Champagne: lo <strong>Chardonnay</strong>, che ha un ruolo di primo piano nell’assemblaggio e apporta freschezza e finezza, il <strong>Pinot Nero</strong> e il Pinot Meunier, provenienti da numerosi villaggi della regione. Le proporzioni variano secondo l’assemblaggio.</p><p>La casa utilizza principalmente il mosto di prima spremitura, la frazione più fine della pressatura, e vinifica in vasche d’acciaio inox per preservare la purezza aromatica, una pratica che introdusse in Champagne a metà del Novecento. L’assemblaggio comprende vini di riserva di vendemmie precedenti e lo champagne affina diversi anni sui lieviti prima della sboccatura.</p><p>È uno champagne di corpo leggero, con note di agrumi, frutta bianca e fiori e un perlage fine e persistente. La sua freschezza lo rende particolarmente adatto come aperitivo.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido con reflejos dorados y burbuja fina. Aromas de limón, melocotón blanco, flores y un ligero toque de brioche. Boca fresca, delicada y equilibrada, con final limpio.",
+    "en": "Pale yellow with golden hints and fine bubbles. Aromas of lemon, white peach, flowers and a light touch of brioche. Fresh, delicate, balanced palate with a clean finish.",
+    "fr": "Robe jaune pâle aux reflets dorés, bulle fine. Arômes de citron, de pêche blanche, de fleurs et une légère touche de brioche. Bouche fraîche, délicate et équilibrée, finale nette.",
+    "it": "Giallo paglierino con riflessi dorati e perlage fine. Aromi di limone, pesca bianca, fiori e un leggero tocco di brioche. Bocca fresca, delicata ed equilibrata, dal finale pulito."
+  },
+  "pairing": {
+    "es": "Aperitivo, marisco, ostras, sushi, frituras ligeras, quesos de pasta blanda",
+    "en": "Aperitif, shellfish, oysters, sushi, light fried food, soft cheeses",
+    "fr": "Apéritif, fruits de mer, huîtres, sushis, fritures légères, fromages à pâte molle",
+    "it": "Aperitivo, frutti di mare, ostriche, sushi, fritture leggere, formaggi a pasta molle"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco o de tulipa",
+    "en": "8-10 °C, white wine or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da vino bianco o a tulipano"
+  },
+  "search": "Laurent-Perrier La Cuvée Brut Champagne"
+}

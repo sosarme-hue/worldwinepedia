@@ -1,0 +1,51 @@
+{
+  "slug": "muga-seleccion-especial",
+  "name": "Muga Selección Especial",
+  "winery": "muga",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [
+    "tempranillo",
+    "garnacha",
+    "carinena",
+    "graciano"
+  ],
+  "summary": {
+    "es": "Reserva de selección de Bodegas Muga, elaborado con la uva de sus mejores parcelas y con una crianza más prolongada que el Muga Reserva.",
+    "en": "Selection Reserva from Bodegas Muga, made from the grapes of its best plots and with longer ageing than Muga Reserva.",
+    "fr": "Reserva de sélection de Bodegas Muga, élaboré avec le raisin de ses meilleures parcelles et avec un élevage plus long que le Muga Reserva.",
+    "it": "Reserva di selezione di Bodegas Muga, prodotto con le uve delle sue migliori parcelle e con un affinamento più lungo del Muga Reserva."
+  },
+  "body": {
+    "es": "<p>Muga Selección Especial es una versión de mayor ambición del Reserva de Bodegas Muga. Se elabora con uva de las parcelas que la bodega considera de mejor calidad en cada añada, situadas en las faldas de los Montes Obarenes, en el entorno de Haro, y lleva la mención Reserva.</p><p>La mezcla se basa en el Tempranillo, acompañado de Garnacha, Mazuelo (Cariñena) y Graciano, en proporciones que varían según la cosecha. Siguiendo el método de la casa, el vino fermenta en tinos de roble y se cría en barricas fabricadas en la tonelería de la bodega, durante más tiempo que el Reserva, para después reposar en botella. Se mantienen prácticas tradicionales, como la clarificación con clara de huevo y los trasiegos por gravedad.</p><p>El resultado es un rioja de estilo clásico pero concentrado, con fruta madura, notas especiadas y de crianza y una estructura firme que le permite evolucionar durante muchos años.</p>",
+    "en": "<p>Muga Selección Especial is a more ambitious version of the Bodegas Muga Reserva. It is made from the plots the winery considers of the highest quality in each vintage, on the slopes of the Montes Obarenes around Haro, and carries the Reserva designation.</p><p>The blend is based on Tempranillo, accompanied by Garnacha, Mazuelo (Carignan) and Graciano in proportions that vary with the harvest. Following the house method, the wine ferments in oak vats and is aged in barrels made in the winery’s cooperage, for longer than the Reserva, before resting in bottle. Traditional practices are maintained, such as fining with egg white and racking by gravity.</p><p>The result is a classic-style but concentrated Rioja, with ripe fruit, spicy and ageing notes and a firm structure that allows it to develop for many years.</p>",
+    "fr": "<p>Muga Selección Especial est une version plus ambitieuse du Reserva de Bodegas Muga. Il est élaboré avec le raisin des parcelles que la bodega juge les meilleures chaque millésime, sur les pentes des Montes Obarenes autour de Haro, et porte la mention Reserva.</p><p>L’assemblage repose sur le tempranillo, accompagné de grenache, de mazuelo (carignan) et de graciano, dans des proportions qui varient selon la récolte. Selon la méthode de la maison, le vin fermente en cuves de chêne et s’élève dans des barriques fabriquées dans la tonnellerie de la bodega, plus longtemps que le Reserva, avant de reposer en bouteille. Les pratiques traditionnelles sont maintenues, comme le collage au blanc d’œuf et les soutirages par gravité.</p><p>Il en résulte un rioja de style classique mais concentré, au fruit mûr, aux notes épicées et d’élevage et à la structure ferme qui lui permet d’évoluer de nombreuses années.</p>",
+    "it": "<p>Muga Selección Especial è una versione più ambiziosa del Reserva di Bodegas Muga. È prodotto con le uve delle parcelle che la cantina considera migliori in ogni annata, sulle pendici dei Montes Obarenes nei dintorni di Haro, e reca la menzione Reserva.</p><p>L’assemblaggio si basa sul Tempranillo, accompagnato da Garnacha, Mazuelo (Carignano) e Graciano in proporzioni che variano secondo la vendemmia. Secondo il metodo della casa, il vino fermenta in tini di rovere e affina in barrique costruite nella bottaia della cantina, più a lungo del Reserva, prima di riposare in bottiglia. Si mantengono pratiche tradizionali, come la chiarifica con albume d’uovo e i travasi per gravità.</p><p>Il risultato è un Rioja di stile classico ma concentrato, con frutto maturo, note speziate e di affinamento e una struttura salda che gli permette di evolvere per molti anni.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí con ribete teja. Fruta roja y negra madura, especias dulces, cuero suave y notas tostadas. En boca es amplio, de taninos pulidos y final largo.",
+    "en": "Ruby red with a brick rim. Ripe red and black fruit, sweet spice, soft leather and toasty notes. Broad on the palate, with polished tannins and a long finish.",
+    "fr": "Rouge rubis à reflets tuilés. Fruits rouges et noirs mûrs, épices douces, cuir léger et notes toastées. Ample en bouche, aux tanins polis et à la finale longue.",
+    "it": "Rosso rubino con unghia mattone. Frutta rossa e nera matura, spezie dolci, cuoio leggero e note tostate. In bocca è ampio, con tannini levigati e finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes guisadas, caza, quesos curados",
+    "en": "Roast lamb, braised meats, game, aged cheeses",
+    "fr": "Agneau rôti, viandes braisées, gibier, fromages affinés",
+    "it": "Agnello arrosto, carni brasate, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Muga Selección Especial Reserva Rioja"
+}

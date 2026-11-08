@@ -1,0 +1,50 @@
+{
+  "slug": "fonseca-vintage-port",
+  "name": "Fonseca Vintage Port",
+  "winery": "fonseca",
+  "region": "porto",
+  "country": "portugal",
+  "type": "generoso",
+  "category": {
+    "es": "Vintage",
+    "en": "Vintage Port",
+    "fr": "Vintage",
+    "it": "Vintage"
+  },
+  "grapes": [
+    "touriga-nacional",
+    "touriga-franca",
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Oporto Vintage de Fonseca, declarado solo en las mejores cosechas, conocido por su fruta opulenta y su gran capacidad de envejecimiento en botella.",
+    "en": "Fonseca’s Vintage Port, declared only in the finest harvests, known for its opulent fruit and its great capacity to age in bottle.",
+    "fr": "Porto Vintage de Fonseca, déclaré seulement lors des meilleures récoltes, connu pour son fruit opulent et sa grande aptitude au vieillissement en bouteille.",
+    "it": "Porto Vintage di Fonseca, dichiarato solo nelle migliori vendemmie, noto per il suo frutto opulento e la grande capacità di invecchiare in bottiglia."
+  },
+  "body": {
+    "es": "<p>El Vintage es la categoría más prestigiosa del Oporto: un vino de una sola cosecha, embotellado tras unos dos años en madera y sin filtrar, que evoluciona durante décadas en la botella. La decisión de «declarar» un Vintage corresponde a cada casa, que lo hace solo cuando considera que la cosecha es excepcional.</p><p>El Fonseca Vintage se elabora con uvas de las quintas de la casa, principalmente Panascal, Cruzeiro y Santo António, de variedades como la Touriga Nacional, la Touriga Franca y la Tinta Roriz (Tempranillo), entre otras, en proporciones que varían según el año. Una parte de la uva se pisa en <em>lagares</em> de granito. Se le reconoce un estilo de fruta muy madura y rica, con gran concentración, aunque en su juventud muestra una estructura tánica firme.</p><p>Como todo Vintage, forma un sedimento en botella y conviene decantarlo antes de servirlo. Puede beberse joven por su fruta, pero gana en complejidad con muchos años de guarda.</p>",
+    "en": "<p>Vintage is the most prestigious category of Port: a wine from a single harvest, bottled unfiltered after about two years in wood, which evolves for decades in bottle. The decision to “declare” a Vintage rests with each house, which does so only when it judges the harvest to be exceptional.</p><p>Fonseca Vintage is made from the fruit of the house’s quintas, mainly Panascal, Cruzeiro and Santo António, from varieties such as Touriga Nacional, Touriga Franca and Tinta Roriz (Tempranillo), among others, in proportions that vary with the year. Part of the fruit is trodden in granite <em>lagares</em>. It is recognised for a style of very ripe, rich fruit with great concentration, although in its youth it shows a firm tannic structure.</p><p>Like every Vintage Port, it throws a sediment in bottle and should be decanted before serving. It can be drunk young for its fruit, but gains complexity with many years of cellaring.</p>",
+    "fr": "<p>Le Vintage est la catégorie la plus prestigieuse du porto : un vin d’une seule récolte, mis en bouteille sans filtration après environ deux ans sous bois, qui évolue pendant des décennies en bouteille. La décision de « déclarer » un Vintage revient à chaque maison, qui ne le fait que lorsqu’elle juge la récolte exceptionnelle.</p><p>Le Fonseca Vintage est élaboré à partir des raisins des quintas de la maison, principalement Panascal, Cruzeiro et Santo António, de cépages comme la touriga nacional, la touriga franca et la tinta roriz (tempranillo), entre autres, dans des proportions qui varient selon l’année. Une partie du raisin est foulée au pied dans des <em>lagares</em> de granit. On lui reconnaît un style au fruit très mûr et riche, d’une grande concentration, même si dans sa jeunesse il montre une structure tannique ferme.</p><p>Comme tout Vintage, il forme un dépôt en bouteille et doit être carafé avant le service. Il peut se boire jeune pour son fruit, mais gagne en complexité après de nombreuses années de garde.</p>",
+    "it": "<p>Il Vintage è la categoria più prestigiosa del Porto: un vino di una sola vendemmia, imbottigliato senza filtrazione dopo circa due anni in legno, che evolve per decenni in bottiglia. La decisione di «dichiarare» un Vintage spetta a ciascuna casa, che lo fa solo quando giudica eccezionale l’annata.</p><p>Il Fonseca Vintage è prodotto con le uve delle quintas della casa, soprattutto Panascal, Cruzeiro e Santo António, da varietà come Touriga Nacional, Touriga Franca e Tinta Roriz (Tempranillo), tra le altre, in proporzioni che variano secondo l’annata. Una parte dell’uva viene pigiata con i piedi nei <em>lagares</em> di granito. Gli si riconosce uno stile dal frutto molto maturo e ricco, di grande concentrazione, anche se in gioventù mostra una struttura tannica decisa.</p><p>Come ogni Vintage, forma un sedimento in bottiglia ed è opportuno decantarlo prima di servirlo. Si può bere giovane per il suo frutto, ma acquista complessità con molti anni di affinamento.</p>"
+  },
+  "tasting": {
+    "es": "De joven, color púrpura casi opaco, aromas intensos de mora, casis, ciruela y violeta, y una boca dulce, densa y tánica. Con los años desarrolla notas de especias, cacao y frutos secos, y se vuelve más sedoso.",
+    "en": "When young, an almost opaque purple colour, intense aromas of blackberry, blackcurrant, plum and violet, and a sweet, dense, tannic palate. With age it develops notes of spice, cocoa and nuts and becomes silkier.",
+    "fr": "Jeune, robe pourpre presque opaque, arômes intenses de mûre, de cassis, de prune et de violette, et une bouche douce, dense et tannique. Avec les années, il développe des notes d’épices, de cacao et de fruits secs et devient plus soyeux.",
+    "it": "Da giovane, colore porpora quasi impenetrabile, aromi intensi di mora, ribes nero, prugna e viola, e un sorso dolce, denso e tannico. Con gli anni sviluppa note di spezie, cacao e frutta secca e diventa più setoso."
+  },
+  "pairing": {
+    "es": "Quesos azules como el Stilton, chocolate negro, frutos secos, sola tras la comida",
+    "en": "Blue cheeses such as Stilton, dark chocolate, nuts, on its own after a meal",
+    "fr": "Fromages à pâte persillée comme le stilton, chocolat noir, fruits secs, seul en fin de repas",
+    "it": "Formaggi erborinati come lo Stilton, cioccolato fondente, frutta secca, da solo a fine pasto"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado para separar el sedimento, copa de vino de Oporto o de vino tinto",
+    "en": "16-18 °C, decanted off its sediment, Port or red wine glass",
+    "fr": "16-18 °C, carafé pour séparer le dépôt, verre à porto ou à vin rouge",
+    "it": "16-18 °C, decantato per separare il sedimento, calice da Porto o da vino rosso"
+  },
+  "search": "Fonseca Vintage Port"
+}

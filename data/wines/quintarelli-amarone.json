@@ -1,0 +1,48 @@
+{
+  "slug": "quintarelli-amarone",
+  "name": "Quintarelli Amarone della Valpolicella Classico",
+  "winery": "quintarelli",
+  "region": "valpolicella",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "Amarone della Valpolicella Classico DOCG",
+    "en": "Amarone della Valpolicella Classico DOCG",
+    "fr": "Amarone della Valpolicella Classico DOCG",
+    "it": "Amarone della Valpolicella Classico DOCG"
+  },
+  "grapes": [
+    "corvina"
+  ],
+  "summary": {
+    "es": "Amarone de Giuseppe Quintarelli, elaborado con uvas secadas durante meses y criado durante muchos años en grandes toneles, uno de los vinos de culto de Italia.",
+    "en": "Giuseppe Quintarelli’s Amarone, made from grapes dried for months and aged for many years in large casks, one of Italy’s cult wines.",
+    "fr": "Amarone de Giuseppe Quintarelli, élaboré avec des raisins séchés pendant des mois et élevé de nombreuses années en grands foudres, l’un des vins cultes d’Italie.",
+    "it": "Amarone di Giuseppe Quintarelli, prodotto con uve appassite per mesi e affinato per molti anni in grandi botti, uno dei vini di culto d’Italia."
+  },
+  "body": {
+    "es": "<p>El <strong>Amarone</strong> de Quintarelli se elabora en la pequeña bodega familiar de Negrar, en la Valpolicella Classica, siguiendo los métodos que estableció Giuseppe Quintarelli. Las uvas, sobre todo <strong>Corvina</strong>, Corvinone y Rondinella, junto a otras variedades de la finca, se secan durante varios meses en los desvanes de la bodega antes de prensarse, un proceso que concentra azúcares, aromas y extracto.</p><p>La fermentación es lenta y el vino se cría después durante muchos años en grandes toneles de roble, un periodo bastante más largo que el mínimo que exige la denominación. Solo se elabora en las añadas consideradas adecuadas; en las demás, la uva se destina a otros vinos de la casa, como el Rosso del Bepi.</p><p>Es un tinto de gran riqueza y complejidad, seco pero opulento, que combina la potencia propia del Amarone con una notable elegancia. Puede evolucionar durante décadas.</p>",
+    "en": "<p>Quintarelli’s <strong>Amarone</strong> is made at the small family winery in Negrar, in Valpolicella Classica, following the methods established by Giuseppe Quintarelli. The grapes, mainly <strong>Corvina</strong>, Corvinone and Rondinella together with other estate varieties, are dried for several months in the winery’s lofts before pressing, a process that concentrates sugars, aromas and extract.</p><p>Fermentation is slow and the wine is then aged for many years in large oak casks, a period considerably longer than the minimum required by the appellation. It is made only in vintages considered suitable; in the others, the grapes go into other house wines, such as Rosso del Bepi.</p><p>It is a red of great richness and complexity, dry yet opulent, combining the power typical of Amarone with remarkable elegance. It can evolve for decades.</p>",
+    "fr": "<p>L’<strong>amarone</strong> de Quintarelli est élaboré dans le petit domaine familial de Negrar, dans la Valpolicella Classica, selon les méthodes établies par Giuseppe Quintarelli. Les raisins, surtout de la <strong>corvina</strong>, du corvinone et de la rondinella, avec d’autres cépages du domaine, sèchent plusieurs mois dans les greniers de la cave avant d’être pressés, un procédé qui concentre sucres, arômes et extrait.</p><p>La fermentation est lente et le vin est ensuite élevé de nombreuses années en grands foudres de chêne, une durée bien supérieure au minimum exigé par l’appellation. Il n’est produit que les années jugées adaptées ; les autres, les raisins sont destinés à d’autres vins de la maison, comme le Rosso del Bepi.</p><p>C’est un rouge d’une grande richesse et d’une grande complexité, sec mais opulent, qui associe la puissance propre à l’amarone à une remarquable élégance. Il peut évoluer pendant des décennies.</p>",
+    "it": "<p>L’<strong>Amarone</strong> di Quintarelli si produce nella piccola cantina di famiglia a Negrar, nella Valpolicella Classica, secondo i metodi stabiliti da Giuseppe Quintarelli. Le uve, soprattutto <strong>Corvina</strong>, Corvinone e Rondinella insieme ad altri vitigni della tenuta, appassiscono per diversi mesi nei fruttai della cantina prima della pigiatura, un processo che concentra zuccheri, aromi ed estratto.</p><p>La fermentazione è lenta e il vino affina poi per molti anni in grandi botti di rovere, un periodo ben più lungo del minimo richiesto dal disciplinare. Si produce solo nelle annate ritenute adatte; nelle altre le uve sono destinate ad altri vini della casa, come il Rosso del Bepi.</p><p>È un rosso di grande ricchezza e complessità, secco ma opulento, che unisce la potenza tipica dell’Amarone a una notevole eleganza. Può evolvere per decenni.</p>"
+  },
+  "tasting": {
+    "es": "Granate profundo. Aromas complejos de cereza en licor, pasas, higos secos, especias, chocolate y notas balsámicas. Boca amplia y aterciopelada, de gran persistencia.",
+    "en": "Deep garnet. Complex aromas of cherry liqueur, raisins, dried figs, spice, chocolate and balsamic notes. Broad, velvety palate of great length.",
+    "fr": "Grenat profond. Arômes complexes de cerise à l’eau-de-vie, de raisins secs, de figues sèches, d’épices, de chocolat et notes balsamiques. Bouche ample et veloutée, d’une grande persistance.",
+    "it": "Granato profondo. Profumi complessi di ciliegia sotto spirito, uvetta, fichi secchi, spezie, cioccolato e note balsamiche. Bocca ampia e vellutata, di grande persistenza."
+  },
+  "pairing": {
+    "es": "Carnes rojas estofadas, caza, risotto all’Amarone, quesos curados como el Monte Veronese o el Parmigiano",
+    "en": "Braised red meat, game, risotto all’Amarone, aged cheeses such as Monte Veronese or Parmigiano",
+    "fr": "Viandes rouges braisées, gibier, risotto à l’amarone, fromages affinés comme le Monte Veronese ou le parmigiano",
+    "it": "Carni rosse brasate, selvaggina, risotto all’Amarone, formaggi stagionati come Monte Veronese o Parmigiano"
+  },
+  "serve": {
+    "es": "17-18 °C, decantado, copa amplia",
+    "en": "17-18 °C, decanted, large glass",
+    "fr": "17-18 °C, carafé, verre ample",
+    "it": "17-18 °C, decantato, calice ampio"
+  },
+  "search": "Quintarelli Amarone della Valpolicella Classico"
+}

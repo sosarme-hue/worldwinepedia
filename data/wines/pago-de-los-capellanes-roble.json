@@ -1,0 +1,48 @@
+{
+  "slug": "pago-de-los-capellanes-roble",
+  "name": "Pago de los Capellanes Roble",
+  "winery": "pago-de-los-capellanes",
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Roble",
+    "en": "Roble",
+    "fr": "Roble",
+    "it": "Roble"
+  },
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Tinto roble de Pago de los Capellanes, en Pedrosa de Duero, elaborado con Tinto Fino de viñedos propios y una breve crianza en roble francés.",
+    "en": "Oak-aged red from Pago de los Capellanes in Pedrosa de Duero, made from Tinto Fino from its own vineyards with a short spell in French oak.",
+    "fr": "Rouge « roble » de Pago de los Capellanes, à Pedrosa de Duero, élaboré avec du tinto fino de ses propres vignes et brièvement élevé en chêne français.",
+    "it": "Rosso «roble» di Pago de los Capellanes, a Pedrosa de Duero, prodotto con Tinto Fino di vigneti propri e con un breve affinamento in rovere francese."
+  },
+  "body": {
+    "es": "<p>El Roble es el vino más joven de la gama de Pago de los Capellanes y una de sus etiquetas más difundidas. Se elabora con Tinto Fino, la variante local del Tempranillo, procedente de los viñedos que la familia Rodero-Villa posee en Pedrosa de Duero y su entorno, en la zona central de la Ribera del Duero burgalesa.</p><p>Tras la fermentación, el vino pasa unos meses en barricas de roble francés, un periodo más corto que el exigido para un Crianza, que le aporta un ligero matiz especiado y ayuda a redondear los taninos sin ocultar la fruta. Se embotella pronto, de modo que conserva la frescura y la intensidad aromática propias de un tinto joven.</p><p>El resultado es un vino jugoso, de color intenso y fruta negra y roja, con la estructura característica de la Ribera pero más accesible que los vinos de crianza de la casa. Es adecuado para beberse en sus primeros años y para acompañar una cocina variada.</p>",
+    "en": "<p>The Roble is the youngest wine in the Pago de los Capellanes range and one of its most widely distributed labels. It is made from Tinto Fino, the local variant of Tempranillo, from the vineyards the Rodero-Villa family owns in and around Pedrosa de Duero, in the central part of the Burgos side of Ribera del Duero.</p><p>After fermentation the wine spends a few months in French oak barrels, a shorter period than required for a Crianza, which gives it a light spicy touch and helps round out the tannins without hiding the fruit. It is bottled early, so that it keeps the freshness and aromatic intensity of a young red.</p><p>The result is a juicy wine, deep in colour, with black and red fruit and the structure characteristic of Ribera, but more approachable than the house’s aged wines. It is suited to drinking in its first years and to accompanying a varied cuisine.</p>",
+    "fr": "<p>Le Roble est le vin le plus jeune de la gamme de Pago de los Capellanes et l’une de ses étiquettes les plus diffusées. Il est élaboré avec du tinto fino, variante locale du tempranillo, provenant des vignes que la famille Rodero-Villa possède à Pedrosa de Duero et alentour, dans la partie centrale de la Ribera del Duero de Burgos.</p><p>Après la fermentation, le vin passe quelques mois en barriques de chêne français, une période plus courte que celle exigée pour un Crianza, qui lui apporte une légère touche épicée et aide à arrondir les tanins sans masquer le fruit. Il est mis en bouteille tôt, de sorte qu’il conserve la fraîcheur et l’intensité aromatique d’un rouge jeune.</p><p>Il en résulte un vin juteux, à la couleur intense, aux fruits noirs et rouges, doté de la structure caractéristique de la Ribera mais plus accessible que les vins élevés de la maison. Il convient pour être bu dans ses premières années et pour accompagner une cuisine variée.</p>",
+    "it": "<p>Il Roble è il vino più giovane della gamma di Pago de los Capellanes e una delle sue etichette più diffuse. È prodotto con Tinto Fino, la variante locale del Tempranillo, proveniente dai vigneti che la famiglia Rodero-Villa possiede a Pedrosa de Duero e dintorni, nella zona centrale della Ribera del Duero di Burgos.</p><p>Dopo la fermentazione il vino trascorre alcuni mesi in barrique di rovere francese, un periodo più breve di quello richiesto per un Crianza, che gli conferisce un leggero tocco speziato e aiuta ad arrotondare i tannini senza nascondere il frutto. Viene imbottigliato presto, così da conservare la freschezza e l’intensità aromatica di un rosso giovane.</p><p>Il risultato è un vino succoso, dal colore intenso, con frutto nero e rosso e la struttura caratteristica della Ribera, ma più accessibile dei vini affinati della casa. È adatto a essere bevuto nei primi anni e ad accompagnare una cucina varia.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota con ribete violáceo. Fruta negra y roja fresca, con un ligero toque tostado. En boca es jugoso, con taninos presentes pero amables.",
+    "en": "Deep cherry red with a violet rim. Fresh black and red fruit with a light toasty touch. Juicy on the palate, with present but gentle tannins.",
+    "fr": "Rouge cerise burlat à reflets violacés. Fruits noirs et rouges frais, avec une légère touche toastée. En bouche, il est juteux, aux tanins présents mais aimables.",
+    "it": "Rosso ciliegia con unghia violacea. Frutta nera e rossa fresca, con un leggero tocco tostato. In bocca è succoso, con tannini presenti ma gentili."
+  },
+  "pairing": {
+    "es": "Tapas, embutidos, carnes a la plancha, arroces de carne, pasta",
+    "en": "Tapas, charcuterie, grilled meat, meat rice dishes, pasta",
+    "fr": "Tapas, charcuterie, viandes à la plancha, riz à la viande, pâtes",
+    "it": "Tapas, salumi, carni alla piastra, risi con carne, pasta"
+  },
+  "serve": {
+    "es": "14-16 °C, copa de tinto",
+    "en": "14-16 °C, red wine glass",
+    "fr": "14-16 °C, verre à vin rouge",
+    "it": "14-16 °C, calice da rosso"
+  },
+  "search": "Pago de los Capellanes Roble Ribera del Duero"
+}

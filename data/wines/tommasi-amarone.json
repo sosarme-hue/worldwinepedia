@@ -1,0 +1,48 @@
+{
+  "slug": "tommasi-amarone",
+  "name": "Tommasi Amarone della Valpolicella Classico",
+  "winery": "tommasi",
+  "region": "valpolicella",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "Amarone della Valpolicella Classico DOCG",
+    "en": "Amarone della Valpolicella Classico DOCG",
+    "fr": "Amarone della Valpolicella Classico DOCG",
+    "it": "Amarone della Valpolicella Classico DOCG"
+  },
+  "grapes": [
+    "corvina"
+  ],
+  "summary": {
+    "es": "Amarone Classico de la familia Tommasi, elaborado con uvas secadas de sus viñedos de la zona clásica y criado en grandes toneles de roble.",
+    "en": "Amarone Classico from the Tommasi family, made from dried grapes from its vineyards in the classic zone and aged in large oak casks.",
+    "fr": "Amarone Classico de la famille Tommasi, élaboré avec des raisins séchés de ses vignes de la zone classique et élevé en grands foudres de chêne.",
+    "it": "Amarone Classico della famiglia Tommasi, prodotto con uve appassite dei suoi vigneti della zona classica e affinato in grandi botti di rovere."
+  },
+  "body": {
+    "es": "<p>El <strong>Amarone della Valpolicella Classico</strong> es el vino de referencia de Tommasi, la casa fundada en 1902 en Pedemonte. Se elabora con uvas de los viñedos de la familia en la zona clásica, de las variedades tradicionales <strong>Corvina</strong>, Corvinone y Rondinella, junto a pequeñas cantidades de otras uvas locales; la composición varía según la añada.</p><p>Las uvas seleccionadas se secan durante varios meses en locales ventilados, como exige el método del Amarone. En invierno se prensan y fermentan lentamente hasta convertirse en un tinto seco y de alta graduación. Fiel a la tradición de la zona, la casa cría su Amarone sobre todo en <strong>grandes toneles de roble</strong>, que permiten una evolución lenta sin aportar aromas de madera marcados.</p><p>Es un Amarone de estilo clásico, potente pero equilibrado, con fruta madura, especias y una acidez que le da frescura. Tiene buena capacidad de guarda.</p>",
+    "en": "<p><strong>Amarone della Valpolicella Classico</strong> is the flagship wine of Tommasi, the house founded in 1902 in Pedemonte. It is made from grapes from the family’s vineyards in the classic zone, from the traditional varieties <strong>Corvina</strong>, Corvinone and Rondinella, together with small amounts of other local grapes; the composition varies with the vintage.</p><p>The selected grapes are dried for several months in ventilated rooms, as the Amarone method requires. In winter they are pressed and ferment slowly into a dry, high-alcohol red. True to local tradition, the house ages its Amarone mainly in <strong>large oak casks</strong>, which allow slow development without adding marked oak aromas.</p><p>It is an Amarone in a classic style, powerful yet balanced, with ripe fruit, spice and an acidity that gives it freshness. It has good ageing potential.</p>",
+    "fr": "<p>L’<strong>Amarone della Valpolicella Classico</strong> est le vin phare de Tommasi, la maison fondée en 1902 à Pedemonte. Il est élaboré avec des raisins des vignes familiales de la zone classique, issus des cépages traditionnels <strong>corvina</strong>, corvinone et rondinella, avec de petites quantités d’autres raisins locaux ; la composition varie selon le millésime.</p><p>Les raisins sélectionnés sèchent plusieurs mois dans des locaux ventilés, comme l’exige la méthode de l’amarone. En hiver, ils sont pressés et fermentent lentement jusqu’à donner un rouge sec et riche en alcool. Fidèle à la tradition locale, la maison élève son amarone surtout en <strong>grands foudres de chêne</strong>, qui permettent une évolution lente sans apporter d’arômes boisés marqués.</p><p>C’est un amarone de style classique, puissant mais équilibré, au fruit mûr, aux épices et à l’acidité qui lui apporte de la fraîcheur. Il possède un bon potentiel de garde.</p>",
+    "it": "<p>L’<strong>Amarone della Valpolicella Classico</strong> è il vino di riferimento di Tommasi, la casa fondata nel 1902 a Pedemonte. Si produce con uve dei vigneti di famiglia nella zona classica, dei vitigni tradizionali <strong>Corvina</strong>, Corvinone e Rondinella, insieme a piccole quantità di altre uve locali; la composizione varia a seconda dell’annata.</p><p>Le uve selezionate appassiscono per diversi mesi in locali ventilati, come richiede il metodo dell’Amarone. In inverno vengono pigiate e fermentano lentamente fino a diventare un rosso secco e di alta gradazione. Fedele alla tradizione della zona, la casa affina il suo Amarone soprattutto in <strong>grandi botti di rovere</strong>, che consentono un’evoluzione lenta senza apportare aromi marcati di legno.</p><p>È un Amarone di stile classico, potente ma equilibrato, con frutto maturo, spezie e un’acidità che gli dona freschezza. Ha buone capacità di invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Granate intenso. Aromas de cereza en licor, ciruela pasa, especias, cacao y notas balsámicas. Boca amplia y equilibrada, de taninos firmes y final largo.",
+    "en": "Deep garnet. Aromas of cherry liqueur, prune, spice, cocoa and balsamic notes. Broad, balanced palate with firm tannins and a long finish.",
+    "fr": "Grenat intense. Arômes de cerise à l’eau-de-vie, de pruneau, d’épices, de cacao et notes balsamiques. Bouche ample et équilibrée, aux tanins fermes et à la finale longue.",
+    "it": "Granato intenso. Profumi di ciliegia sotto spirito, prugna secca, spezie, cacao e note balsamiche. Bocca ampia ed equilibrata, con tannini saldi e finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas estofadas, caza, risotto all’Amarone, quesos curados como el Monte Veronese o el Parmigiano",
+    "en": "Braised red meat, game, risotto all’Amarone, aged cheeses such as Monte Veronese or Parmigiano",
+    "fr": "Viandes rouges braisées, gibier, risotto à l’amarone, fromages affinés comme le Monte Veronese ou le parmigiano",
+    "it": "Carni rosse brasate, selvaggina, risotto all’Amarone, formaggi stagionati come Monte Veronese o Parmigiano"
+  },
+  "serve": {
+    "es": "17-18 °C, decantado, copa amplia",
+    "en": "17-18 °C, decanted, large glass",
+    "fr": "17-18 °C, carafé, verre ample",
+    "it": "17-18 °C, decantato, calice ampio"
+  },
+  "search": "Tommasi Amarone della Valpolicella Classico"
+}

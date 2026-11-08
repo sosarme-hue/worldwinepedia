@@ -1,0 +1,49 @@
+{
+  "slug": "dom-perignon-rose",
+  "name": "Dom Pérignon Rosé Vintage",
+  "winery": "dom-perignon",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut Rosé Millésimé",
+    "en": "Vintage Brut Rosé",
+    "fr": "Brut Rosé Millésimé",
+    "it": "Brut Rosé Millesimato"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Champagne rosado de añada de Dom Pérignon, en el que una parte de vino tinto de Pinot Noir se añade al ensamblaje de Chardonnay y Pinot Noir.",
+    "en": "Dom Pérignon’s vintage rosé champagne, in which a portion of Pinot Noir red wine is added to the blend of Chardonnay and Pinot Noir.",
+    "fr": "Champagne rosé millésimé de Dom Pérignon, dans lequel une part de vin rouge de pinot noir est ajoutée à l’assemblage de chardonnay et de pinot noir.",
+    "it": "Champagne rosé millesimato di Dom Pérignon, in cui una quota di vino rosso di Pinot Nero viene aggiunta all’assemblaggio di Chardonnay e Pinot Nero."
+  },
+  "body": {
+    "es": "<p>El Dom Pérignon Rosé es, como el blanco, un champán exclusivamente de <strong>añada</strong>. Su primera cosecha fue la de 1959. Se elabora mediante el método de ensamblaje, el más habitual en Champagne para los rosados: al vino base de <strong>Chardonnay</strong> y <strong>Pinot Noir</strong> se añade una proporción de vino tinto tranquilo de Pinot Noir, elaborado con uvas de parcelas seleccionadas y muy maduras, que aporta color, aromas y estructura.</p><p>La proporción de cada componente varía según la añada. Tras la segunda fermentación en botella, el vino permanece muchos años en contacto con sus lías antes del degüelle, lo que refuerza su complejidad y su textura.</p><p>Es un rosado de carácter vinoso, más estructurado que la mayoría de los champanes rosados, con notas de frutos rojos, especias y tostados. Su producción es más limitada que la del blanco, y se aprecia tanto como aperitivo de prestigio como, sobre todo, en la mesa.</p>",
+    "en": "<p>Dom Pérignon Rosé is, like the white, an exclusively <strong>vintage</strong> champagne. Its first vintage was 1959. It is made by the blending method, the most common in Champagne for rosés: a proportion of still red Pinot Noir wine, made from very ripe grapes from selected plots, is added to the base wine of <strong>Chardonnay</strong> and <strong>Pinot Noir</strong>, bringing colour, aromas and structure.</p><p>The proportion of each component varies with the vintage. After the second fermentation in bottle, the wine stays in contact with its lees for many years before disgorgement, which enhances its complexity and texture.</p><p>It is a vinous rosé, more structured than most rosé champagnes, with notes of red fruit, spice and toast. Its production is more limited than that of the white, and it is appreciated as a prestigious aperitif but, above all, at the table.</p>",
+    "fr": "<p>Le Dom Pérignon Rosé est, comme le blanc, un champagne exclusivement <strong>millésimé</strong>. Son premier millésime fut 1959. Il est élaboré par assemblage, la méthode la plus courante en Champagne pour les rosés : au vin de base de <strong>chardonnay</strong> et de <strong>pinot noir</strong> s’ajoute une proportion de vin rouge tranquille de pinot noir, issu de raisins très mûrs de parcelles sélectionnées, qui apporte couleur, arômes et structure.</p><p>La proportion de chaque composante varie selon le millésime. Après la prise de mousse en bouteille, le vin reste de nombreuses années au contact de ses lies avant le dégorgement, ce qui renforce sa complexité et sa texture.</p><p>C’est un rosé au caractère vineux, plus structuré que la plupart des champagnes rosés, aux notes de fruits rouges, d’épices et de toasté. Sa production est plus limitée que celle du blanc, et il s’apprécie à l’apéritif de prestige mais surtout à table.</p>",
+    "it": "<p>Il Dom Pérignon Rosé è, come il bianco, uno champagne esclusivamente <strong>millesimato</strong>. La prima annata fu la 1959. È prodotto con il metodo dell’assemblaggio, il più diffuso in Champagne per i rosé: al vino base di <strong>Chardonnay</strong> e <strong>Pinot Nero</strong> si aggiunge una quota di vino rosso fermo di Pinot Nero, ottenuto da uve molto mature di parcelle selezionate, che apporta colore, aromi e struttura.</p><p>La proporzione di ogni componente varia secondo l’annata. Dopo la seconda fermentazione in bottiglia, il vino resta per molti anni a contatto con i propri lieviti prima della sboccatura, il che ne rafforza la complessità e la tessitura.</p><p>È un rosé dal carattere vinoso, più strutturato della maggior parte degli champagne rosé, con note di frutti rossi, spezie e tostato. La sua produzione è più limitata di quella del bianco, e si apprezza come aperitivo di prestigio ma soprattutto a tavola.</p>"
+  },
+  "tasting": {
+    "es": "Rosa cobrizo con burbuja fina. Aromas de fresa silvestre, cereza, naranja sanguina, especias y tostados. Boca amplia y vinosa, con buena estructura, frescura y final largo.",
+    "en": "Coppery pink with fine bubbles. Aromas of wild strawberry, cherry, blood orange, spice and toast. Broad, vinous palate with good structure, freshness and a long finish.",
+    "fr": "Rose cuivré à la bulle fine. Arômes de fraise des bois, de cerise, d’orange sanguine, d’épices et de toasté. Bouche ample et vineuse, bien structurée, fraîche, finale longue.",
+    "it": "Rosa ramato dal perlage fine. Aromi di fragolina di bosco, ciliegia, arancia sanguinella, spezie e tostato. Bocca ampia e vinosa, di buona struttura, fresca, dal finale lungo."
+  },
+  "pairing": {
+    "es": "Salmón, atún en tataki, pato, cocina asiática, postres de frutos rojos poco dulces",
+    "en": "Salmon, tuna tataki, duck, Asian cuisine, not-too-sweet red fruit desserts",
+    "fr": "Saumon, tataki de thon, canard, cuisine asiatique, desserts aux fruits rouges peu sucrés",
+    "it": "Salmone, tataki di tonno, anatra, cucina asiatica, dolci ai frutti rossi poco zuccherati"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de vino blanco amplia, no flauta",
+    "en": "10-12 °C, large white wine glass rather than a flute",
+    "fr": "10-12 °C, grand verre à vin blanc plutôt qu’une flûte",
+    "it": "10-12 °C, calice ampio da vino bianco anziché flûte"
+  },
+  "search": "Dom Pérignon Rosé Vintage Champagne"
+}

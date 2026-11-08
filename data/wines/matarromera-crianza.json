@@ -1,0 +1,48 @@
+{
+  "slug": "matarromera-crianza",
+  "name": "Matarromera Crianza",
+  "winery": "matarromera",
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Crianza",
+    "en": "Crianza",
+    "fr": "Crianza",
+    "it": "Crianza"
+  },
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Crianza de Ribera del Duero de Bodegas Matarromera, elaborado con Tinto Fino de viñedos de Valbuena de Duero y criado al menos un año en barrica.",
+    "en": "Ribera del Duero Crianza from Bodegas Matarromera, made from Tinto Fino from vineyards in Valbuena de Duero and aged for at least a year in barrel.",
+    "fr": "Crianza de Ribera del Duero de Bodegas Matarromera, élaboré avec du tinto fino de vignes de Valbuena de Duero et élevé au moins un an en barrique.",
+    "it": "Crianza della Ribera del Duero di Bodegas Matarromera, prodotto con Tinto Fino da vigneti di Valbuena de Duero e affinato almeno un anno in barrique."
+  },
+  "body": {
+    "es": "<p>Matarromera Crianza es el vino más conocido de la bodega fundada en 1988 por Carlos Moro en Valbuena de Duero, en el sector vallisoletano de la Ribera del Duero. Se elabora con Tinto Fino, el nombre que recibe el Tempranillo en la región, procedente de viñedos propios situados en las terrazas del río.</p><p>La uva madura bajo el clima continental extremo de la meseta, con fuertes contrastes entre el día y la noche que favorecen el color y la conservación de la acidez. Tras la fermentación, el vino se cría en barricas de roble francés y americano durante al menos doce meses, como exige la categoría Crianza en la Denominación de Origen Ribera del Duero, y completa su envejecimiento en botella antes de salir al mercado.</p><p>El resultado es un tinto de la Ribera clásica, con fruta negra madura, buena estructura y una crianza en madera integrada, que puede beberse en sus primeros años o guardarse algún tiempo.</p>",
+    "en": "<p>Matarromera Crianza is the best-known wine from the winery founded in 1988 by Carlos Moro in Valbuena de Duero, in the Valladolid sector of Ribera del Duero. It is made from Tinto Fino, as Tempranillo is called in the region, from the estate’s own vineyards on the river terraces.</p><p>The grapes ripen under the extreme continental climate of the plateau, with sharp contrasts between day and night that favour colour and the retention of acidity. After fermentation the wine is aged in French and American oak barrels for at least twelve months, as the Crianza category requires in the Ribera del Duero Denominación de Origen, and completes its ageing in bottle before release.</p><p>The result is a classic Ribera red, with ripe black fruit, good structure and well-integrated oak, which can be drunk in its first years or kept for a while.</p>",
+    "fr": "<p>Matarromera Crianza est le vin le plus connu de la bodega fondée en 1988 par Carlos Moro à Valbuena de Duero, dans le secteur de Valladolid de la Ribera del Duero. Il est élaboré avec du tinto fino, nom que porte le tempranillo dans la région, provenant des vignes de la propriété situées sur les terrasses du fleuve.</p><p>Le raisin mûrit sous le climat continental extrême du plateau, avec de forts contrastes entre le jour et la nuit qui favorisent la couleur et la préservation de l’acidité. Après la fermentation, le vin est élevé en barriques de chêne français et américain pendant au moins douze mois, comme l’exige la catégorie Crianza dans la Denominación de Origen Ribera del Duero, puis achève son vieillissement en bouteille avant sa commercialisation.</p><p>Il en résulte un rouge de la Ribera classique, aux fruits noirs mûrs, à la bonne structure et à l’élevage sous bois bien intégré, qui peut se boire dans ses premières années ou se garder un certain temps.</p>",
+    "it": "<p>Matarromera Crianza è il vino più noto della cantina fondata nel 1988 da Carlos Moro a Valbuena de Duero, nel settore di Valladolid della Ribera del Duero. È prodotto con Tinto Fino, il nome che il Tempranillo riceve nella regione, proveniente da vigneti di proprietà situati sulle terrazze del fiume.</p><p>L’uva matura sotto il clima continentale estremo dell’altopiano, con forti escursioni tra giorno e notte che favoriscono il colore e la conservazione dell’acidità. Dopo la fermentazione il vino affina in barrique di rovere francese e americano per almeno dodici mesi, come richiede la categoria Crianza nella Denominación de Origen Ribera del Duero, e completa l’invecchiamento in bottiglia prima della messa in commercio.</p><p>Il risultato è un rosso della Ribera classica, con frutto nero maturo, buona struttura e un affinamento in legno ben integrato, che si può bere nei primi anni o conservare per qualche tempo.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de fruta negra madura, regaliz, especias y tostados de la barrica. En boca es carnoso y estructurado, con taninos firmes y final persistente.",
+    "en": "Intense deep cherry red. Aromas of ripe black fruit, liquorice, spice and toasty oak. Fleshy and structured on the palate, with firm tannins and a persistent finish.",
+    "fr": "Rouge cerise burlat intense. Arômes de fruits noirs mûrs, réglisse, épices et toasté de la barrique. En bouche, il est charnu et structuré, aux tanins fermes et à la finale persistante.",
+    "it": "Rosso ciliegia intenso. Aromi di frutta nera matura, liquirizia, spezie e tostatura della barrique. In bocca è carnoso e strutturato, con tannini decisi e finale persistente."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, lechazo asado, caza mayor, quesos curados de oveja",
+    "en": "Chargrilled red meat, roast milk-fed lamb, large game, aged sheep’s cheeses",
+    "fr": "Viandes rouges à la braise, agneau de lait rôti, gros gibier, fromages de brebis affinés",
+    "it": "Carni rosse alla brace, agnello da latte arrosto, selvaggina di grossa taglia, pecorini stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Matarromera Crianza Ribera del Duero"
+}

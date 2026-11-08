@@ -1,0 +1,45 @@
+{
+  "slug": "musar-jeune-rouge",
+  "name": "Musar Jeune Rouge",
+  "winery": "chateau-musar",
+  "region": "valle-de-la-bekaa",
+  "country": "libano",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cinsault",
+    "syrah",
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "Tinto joven de Château Musar, elaborado sin crianza en madera para ofrecer la fruta de la Bekaa en su estado más directo.",
+    "en": "Young red from Château Musar, made without oak ageing to offer Bekaa fruit in its most direct form.",
+    "fr": "Rouge jeune de Château Musar, élaboré sans élevage sous bois pour offrir le fruit de la Bekaa dans sa forme la plus directe.",
+    "it": "Rosso giovane di Château Musar, prodotto senza affinamento in legno per offrire il frutto della Bekaa nella sua forma più diretta."
+  },
+  "body": {
+    "es": "<p>Château Musar es famoso por sus tintos de larga crianza, que salen al mercado muchos años después de la vendimia. <strong>Musar Jeune</strong> («joven») representa la propuesta opuesta: una gama pensada para beberse pronto, en la que el objetivo es preservar la fruta fresca y el carácter de las uvas de la <strong>Bekaa</strong>.</p><p>La versión tinta se elabora con <strong>Cinsault</strong>, <strong>Syrah</strong> y <strong>Cabernet Sauvignon</strong>, cuyas proporciones varían según la añada. Las uvas proceden de viñedos de la Bekaa situados en altitud, donde los días calurosos y las noches frescas favorecen una maduración completa sin perder frescura. A diferencia de los otros tintos de la casa, el vino <strong>no pasa por barrica</strong>: se fermenta y se conserva en depósito hasta su embotellado, unos meses después de la vendimia. Es un tinto jugoso y fácil de beber, que conviene disfrutar en sus primeros años.</p>",
+    "en": "<p>Château Musar is famous for its long-aged reds, released many years after the harvest. <strong>Musar Jeune</strong> («young») represents the opposite proposition: a range designed to be drunk early, in which the aim is to preserve fresh fruit and the character of <strong>Bekaa</strong> grapes.</p><p>The red version is made from <strong>Cinsault</strong>, <strong>Syrah</strong> and <strong>Cabernet Sauvignon</strong>, whose proportions vary with the vintage. The grapes come from high-altitude Bekaa vineyards, where hot days and cool nights favour full ripening without loss of freshness. Unlike the house's other reds, the wine <strong>does not see barrels</strong>: it is fermented and kept in tank until bottling, a few months after the harvest. It is a juicy, easy-drinking red best enjoyed in its first few years.</p>",
+    "fr": "<p>Château Musar est célèbre pour ses rouges de long élevage, commercialisés de nombreuses années après la vendange. <strong>Musar Jeune</strong> représente la démarche inverse : une gamme pensée pour être bue tôt, dont l'objectif est de préserver le fruit frais et le caractère des raisins de la <strong>Bekaa</strong>.</p><p>La version rouge est élaborée avec du <strong>cinsault</strong>, de la <strong>syrah</strong> et du <strong>cabernet-sauvignon</strong>, dont les proportions varient selon le millésime. Les raisins proviennent de vignes d'altitude de la Bekaa, où les journées chaudes et les nuits fraîches favorisent une maturité complète sans perte de fraîcheur. Contrairement aux autres rouges de la maison, le vin <strong>ne passe pas en fût</strong> : il est fermenté et conservé en cuve jusqu'à la mise en bouteille, quelques mois après la vendange. C'est un rouge juteux et facile à boire, à apprécier dans ses premières années.</p>",
+    "it": "<p>Château Musar è famoso per i suoi rossi a lungo affinamento, messi in commercio molti anni dopo la vendemmia. <strong>Musar Jeune</strong> («giovane») rappresenta la proposta opposta: una gamma pensata per essere bevuta presto, il cui obiettivo è preservare il frutto fresco e il carattere delle uve della <strong>Bekaa</strong>.</p><p>La versione rossa è prodotta con <strong>Cinsault</strong>, <strong>Syrah</strong> e <strong>Cabernet Sauvignon</strong>, le cui proporzioni variano a seconda dell'annata. Le uve provengono da vigneti d'altura della Bekaa, dove giornate calde e notti fresche favoriscono una maturazione completa senza perdita di freschezza. A differenza degli altri rossi della casa, il vino <strong>non passa in barrique</strong>: viene fermentato e conservato in vasca fino all'imbottigliamento, pochi mesi dopo la vendemmia. È un rosso succoso e facile da bere, da gustare nei primi anni.</p>"
+  },
+  "tasting": {
+    "es": "Aromas de frutos rojos frescos, cereza y ciruela, con notas de pimienta y hierbas. Boca ligera a media, jugosa y fresca, con taninos suaves.",
+    "en": "Aromas of fresh red fruit, cherry and plum, with notes of pepper and herbs. Light- to medium-bodied, juicy and fresh, with soft tannins.",
+    "fr": "Arômes de fruits rouges frais, de cerise et de prune, avec des notes de poivre et d'herbes. Bouche légère à moyenne, juteuse et fraîche, aux tanins souples.",
+    "it": "Profumi di frutti rossi freschi, ciliegia e prugna, con note di pepe ed erbe. Bocca da leggera a media, succosa e fresca, con tannini morbidi."
+  },
+  "pairing": {
+    "es": "Mezze, falafel, pizza, carnes a la parrilla",
+    "en": "Mezze, falafel, pizza, grilled meats",
+    "fr": "Mezzés, falafels, pizza, viandes grillées",
+    "it": "Mezze, falafel, pizza, carni alla griglia"
+  },
+  "serve": {
+    "es": "14-16 °C, copa de vino tinto",
+    "en": "14-16 °C, red wine glass",
+    "fr": "14-16 °C, verre à vin rouge",
+    "it": "14-16 °C, calice da vino rosso"
+  },
+  "search": "Musar Jeune Rouge Château Musar"
+}

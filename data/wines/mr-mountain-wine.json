@@ -1,0 +1,43 @@
+{
+  "slug": "mr-mountain-wine",
+  "name": "MR Mountain Wine",
+  "winery": "telmo-rodriguez",
+  "region": "malaga",
+  "country": "espana",
+  "type": "dulce",
+  "category": null,
+  "grapes": [
+    "moscatel"
+  ],
+  "summary": {
+    "es": "Vino dulce de moscatel de las montañas de Málaga elaborado por Telmo Rodríguez, que recupera la tradición histórica del «Mountain» malagueño.",
+    "en": "Sweet Moscatel wine from the mountains of Málaga made by Telmo Rodríguez, reviving the historic tradition of Málaga “Mountain”.",
+    "fr": "Vin doux de muscat des montagnes de Málaga élaboré par Telmo Rodríguez, qui fait revivre la tradition historique du « Mountain » de Málaga.",
+    "it": "Vino dolce di Moscato delle montagne di Málaga prodotto da Telmo Rodríguez, che recupera la tradizione storica del «Mountain» malagueño."
+  },
+  "body": {
+    "es": "<p>MR es la versión más accesible de los vinos dulces de moscatel que Telmo Rodríguez elabora en la <strong>Axarquía</strong>, la comarca montañosa del este de la provincia de Málaga, donde también produce Molino Real. Su denominación como <em>Mountain Wine</em> recuerda el nombre con el que los comerciantes ingleses conocieron durante siglos los vinos dulces de Málaga, muy apreciados en el norte de Europa.</p><p>Se elabora con <strong>moscatel de Alejandría</strong> de viñas viejas en laderas muy empinadas de pizarra, donde el trabajo es manual. A diferencia de los málagas tradicionales encabezados, MR es un dulce natural: las uvas se vendimian muy maduras y se dejan concentrar, y el mosto fermenta hasta que la propia riqueza en azúcar detiene a las levaduras, sin adición de alcohol. Así se conserva la frescura aromática de la variedad. El resultado es un vino dulce, de graduación moderada y acidez viva, que se presenta en botella de medio litro.</p>",
+    "en": "<p>MR is the most accessible version of the sweet Moscatel wines that Telmo Rodríguez makes in the <strong>Axarquía</strong>, the mountainous area in the east of Málaga province, where he also produces Molino Real. Its description as a <em>Mountain Wine</em> recalls the name by which English merchants knew the sweet wines of Málaga for centuries, when they were highly prized in northern Europe.</p><p>It is made from <strong>Muscat of Alexandria</strong> from old vines on very steep slate slopes, where all work is done by hand. Unlike traditional fortified Málaga wines, MR is naturally sweet: the grapes are picked very ripe and allowed to concentrate, and the must ferments until its own high sugar content stops the yeasts, with no added alcohol. This preserves the aromatic freshness of the variety. The result is a sweet wine of moderate alcohol and lively acidity, sold in half-litre bottles.</p>",
+    "fr": "<p>MR est la version la plus accessible des vins doux de muscat que Telmo Rodríguez élabore dans l'<strong>Axarquía</strong>, la région montagneuse de l'est de la province de Málaga, où il produit aussi Molino Real. Sa désignation de <em>Mountain Wine</em> rappelle le nom sous lequel les négociants anglais connurent pendant des siècles les vins doux de Málaga, très appréciés en Europe du Nord.</p><p>Il est élaboré avec du <strong>muscat d'Alexandrie</strong> de vieilles vignes plantées sur des pentes de schiste très abruptes, où tout le travail est manuel. Contrairement aux málagas traditionnels mutés, MR est un vin doux naturel : les raisins sont vendangés très mûrs et laissés se concentrer, et le moût fermente jusqu'à ce que sa richesse en sucre arrête les levures, sans ajout d'alcool. On préserve ainsi la fraîcheur aromatique du cépage. Le résultat est un vin doux, au degré modéré et à l'acidité vive, présenté en bouteille de cinquante centilitres.</p>",
+    "it": "<p>MR è la versione più accessibile dei vini dolci di Moscato che Telmo Rodríguez produce nell'<strong>Axarquía</strong>, la zona montuosa dell'est della provincia di Málaga, dove produce anche Molino Real. La sua denominazione di <em>Mountain Wine</em> ricorda il nome con cui i commercianti inglesi conobbero per secoli i vini dolci di Málaga, molto apprezzati nel nord Europa.</p><p>È prodotto con <strong>Moscato d'Alessandria</strong> di vecchie vigne su pendii molto ripidi di scisto, dove il lavoro è interamente manuale. A differenza dei Málaga tradizionali fortificati, MR è un dolce naturale: le uve vengono vendemmiate molto mature e lasciate concentrare, e il mosto fermenta finché la sua stessa ricchezza zuccherina ferma i lieviti, senza aggiunta di alcol. Si preserva così la freschezza aromatica della varietà. Il risultato è un vino dolce, di gradazione moderata e acidità vivace, presentato in bottiglia da mezzo litro.</p>"
+  },
+  "tasting": {
+    "es": "Dorado brillante. Aromas de uva moscatel, flor de azahar, albaricoque, miel y cítricos. En boca es dulce, fresco y delicado, con final aromático.",
+    "en": "Bright gold. Aromas of Muscat grape, orange blossom, apricot, honey and citrus. Sweet, fresh and delicate on the palate, with an aromatic finish.",
+    "fr": "Or brillant. Arômes de raisin muscat, de fleur d'oranger, d'abricot, de miel et d'agrumes. En bouche, doux, frais et délicat, à la finale aromatique.",
+    "it": "Oro brillante. Aromi di uva moscato, fiori d'arancio, albicocca, miele e agrumi. In bocca è dolce, fresco e delicato, con finale aromatico."
+  },
+  "pairing": {
+    "es": "Foie gras, quesos azules, postres de fruta, almendras",
+    "en": "Foie gras, blue cheeses, fruit desserts, almonds",
+    "fr": "Foie gras, fromages persillés, desserts aux fruits, amandes",
+    "it": "Foie gras, formaggi erborinati, dolci alla frutta, mandorle"
+  },
+  "serve": {
+    "es": "8-10 °C, copa pequeña",
+    "en": "8-10 °C, small glass",
+    "fr": "8-10 °C, petit verre",
+    "it": "8-10 °C, calice piccolo"
+  },
+  "search": "MR Mountain Wine Telmo Rodríguez Málaga moscatel"
+}

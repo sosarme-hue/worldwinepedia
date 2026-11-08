@@ -1,0 +1,43 @@
+{
+  "slug": "aalto-ps",
+  "name": "Aalto PS",
+  "winery": "aalto",
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Tinto de alta gama de Bodegas Aalto, cuyas siglas significan «Pagos Seleccionados», elaborado con una selección de las viñas más viejas de Tinto Fino de la bodega.",
+    "en": "Top red from Bodegas Aalto, whose initials stand for ‘Pagos Seleccionados’ (selected sites), made from a selection of the winery’s oldest Tinto Fino vines.",
+    "fr": "Rouge haut de gamme de Bodegas Aalto, dont le sigle signifie « Pagos Seleccionados » (lieux-dits sélectionnés), élaboré avec une sélection des plus vieilles vignes de tinto fino de la bodega.",
+    "it": "Rosso di punta di Bodegas Aalto, la cui sigla significa «Pagos Seleccionados» (appezzamenti selezionati), prodotto con una selezione delle vigne più vecchie di Tinto Fino della cantina."
+  },
+  "body": {
+    "es": "<p>Aalto PS es el vino más ambicioso de Bodegas Aalto. Sus siglas corresponden a «Pagos Seleccionados», en referencia a la selección de parcelas de la que procede: un grupo de viñedos muy viejos de Tinto Fino, plantados en vaso, situados en distintos pueblos de la Ribera del Duero y elegidos por la calidad y la concentración de su uva.</p><p>La uva se vendimia a mano y se selecciona con rigor. La elaboración sigue el mismo principio que el Aalto, con vinificación por parcelas, pero con una crianza más prolongada en barricas nuevas de roble francés y un reposo posterior en botella. El vino solo se elabora en añadas que la bodega considera adecuadas.</p><p>El resultado es un tinto de gran concentración y profundidad, con fruta negra muy madura, notas minerales y tostadas y una estructura tánica firme, pensado para una larga guarda. En su juventud conviene decantarlo con antelación.</p>",
+    "en": "<p>Aalto PS is Bodegas Aalto’s most ambitious wine. Its initials stand for ‘Pagos Seleccionados’, referring to the selection of plots from which it comes: a group of very old, bush-trained Tinto Fino vineyards located in different villages of Ribera del Duero and chosen for the quality and concentration of their grapes.</p><p>The grapes are hand-harvested and rigorously selected. Winemaking follows the same principle as Aalto, with plot-by-plot vinification, but with longer ageing in new French oak barrels and subsequent bottle rest. The wine is made only in vintages the winery considers suitable.</p><p>The result is a red of great concentration and depth, with very ripe black fruit, mineral and toasty notes and a firm tannic structure, designed for long ageing. In its youth it should be decanted well in advance.</p>",
+    "fr": "<p>Aalto PS est le vin le plus ambitieux de Bodegas Aalto. Son sigle correspond à « Pagos Seleccionados », en référence à la sélection de parcelles dont il provient : un groupe de très vieilles vignes de tinto fino, conduites en gobelet, situées dans différents villages de la Ribera del Duero et choisies pour la qualité et la concentration de leur raisin.</p><p>Le raisin est vendangé à la main et rigoureusement sélectionné. L’élaboration suit le même principe que l’Aalto, avec une vinification par parcelle, mais avec un élevage plus long en barriques neuves de chêne français et un repos ultérieur en bouteille. Le vin n’est élaboré que les millésimes jugés propices par la bodega.</p><p>Il en résulte un rouge d’une grande concentration et d’une grande profondeur, aux fruits noirs très mûrs, aux notes minérales et toastées, et à la structure tannique ferme, conçu pour une longue garde. Jeune, il convient de le carafer longtemps à l’avance.</p>",
+    "it": "<p>Aalto PS è il vino più ambizioso di Bodegas Aalto. La sigla corrisponde a «Pagos Seleccionados», in riferimento alla selezione di parcelle da cui proviene: un gruppo di vigneti molto vecchi di Tinto Fino, allevati ad alberello, situati in diversi paesi della Ribera del Duero e scelti per la qualità e la concentrazione delle loro uve.</p><p>Le uve sono vendemmiate a mano e selezionate con rigore. La vinificazione segue lo stesso principio dell’Aalto, per parcelle, ma con un affinamento più lungo in barrique nuove di rovere francese e un successivo riposo in bottiglia. Il vino si produce solo nelle annate che la cantina ritiene adatte.</p><p>Il risultato è un rosso di grande concentrazione e profondità, con frutto nero molto maturo, note minerali e tostate e una struttura tannica salda, pensato per un lungo invecchiamento. In gioventù conviene decantarlo con largo anticipo.</p>"
+  },
+  "tasting": {
+    "es": "Color picota casi opaco. Fruta negra muy madura, regaliz, grafito, especias y tostados. En boca es denso y poderoso, con taninos firmes y un final largo.",
+    "en": "Almost opaque deep cherry colour. Very ripe black fruit, liquorice, graphite, spice and toast. Dense and powerful on the palate, with firm tannins and a long finish.",
+    "fr": "Couleur cerise burlat presque opaque. Fruits noirs très mûrs, réglisse, graphite, épices et toasté. Dense et puissant en bouche, aux tanins fermes et à la finale longue.",
+    "it": "Colore ciliegia quasi impenetrabile. Frutta nera molto matura, liquirizia, grafite, spezie e tostatura. In bocca è denso e potente, con tannini decisi e un finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, lechazo asado, caza mayor, quesos curados de oveja",
+    "en": "Chargrilled red meat, roast milk-fed lamb, large game, aged sheep’s cheeses",
+    "fr": "Viandes rouges à la braise, agneau de lait rôti, gros gibier, fromages de brebis affinés",
+    "it": "Carni rosse alla brace, agnello da latte arrosto, selvaggina di grossa taglia, pecorini stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Aalto PS Pagos Seleccionados Ribera del Duero"
+}

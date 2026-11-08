@@ -1,0 +1,44 @@
+{
+  "slug": "sangre-de-toro",
+  "name": "Sangre de Toro",
+  "winery": "familia-torres",
+  "region": null,
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha",
+    "carinena"
+  ],
+  "summary": {
+    "es": "Tinto mediterráneo de Familia Torres elaborado con garnacha y cariñena, famoso por el pequeño toro que cuelga del cuello de la botella.",
+    "en": "Mediterranean red from Familia Torres made from Garnacha and Cariñena, famous for the little bull hanging from the neck of the bottle.",
+    "fr": "Rouge méditerranéen de Familia Torres élaboré avec du grenache et du carignan, célèbre pour le petit taureau suspendu au col de la bouteille.",
+    "it": "Rosso mediterraneo di Familia Torres prodotto con Garnacha e Cariñena, famoso per il piccolo toro appeso al collo della bottiglia."
+  },
+  "body": {
+    "es": "<p>Sangre de Toro es uno de los vinos españoles más conocidos en el mundo y una de las marcas históricas de <strong>Familia Torres</strong>, que lo lanzó a mediados del siglo XX. Su nombre alude a la mitología mediterránea y al vínculo del vino con el toro, y cada botella lleva colgado del cuello un pequeño toro de plástico, convertido en un objeto de colección para muchos consumidores.</p><p>Se elabora con <strong>garnacha</strong> y <strong>cariñena</strong>, dos variedades tradicionales de Cataluña bien adaptadas al calor y a la sequía, procedentes de distintas zonas vitícolas catalanas y amparadas por la D.O. Catalunya; las proporciones varían según la añada. Tras la fermentación, el vino pasa un periodo breve en barricas de roble americano, que añade notas especiadas sin ocultar la fruta. Es un tinto de cuerpo medio, frutal y fácil de beber, pensado para la mesa diaria y para consumirse en sus primeros años.</p>",
+    "en": "<p>Sangre de Toro is one of the best-known Spanish wines in the world and one of the historic brands of <strong>Familia Torres</strong>, which launched it in the mid-twentieth century. Its name alludes to Mediterranean mythology and to the link between wine and the bull, and every bottle has a small plastic bull hanging from its neck, which has become a collector's item for many consumers.</p><p>It is made from <strong>Garnacha</strong> and <strong>Cariñena</strong>, two traditional Catalan varieties well suited to heat and drought, sourced from various Catalan wine areas and covered by the Catalunya D.O.; the proportions vary with the vintage. After fermentation the wine spends a short period in American oak barrels, which adds spicy notes without masking the fruit. It is a medium-bodied, fruity, easy-drinking red, intended for everyday meals and for drinking in its first few years.</p>",
+    "fr": "<p>Sangre de Toro est l'un des vins espagnols les plus connus au monde et l'une des marques historiques de <strong>Familia Torres</strong>, qui l'a lancé au milieu du XXe siècle. Son nom fait allusion à la mythologie méditerranéenne et au lien entre le vin et le taureau, et chaque bouteille porte, suspendu au col, un petit taureau en plastique devenu objet de collection pour de nombreux consommateurs.</p><p>Il est élaboré avec du <strong>grenache</strong> et du <strong>carignan</strong>, deux cépages traditionnels de Catalogne bien adaptés à la chaleur et à la sécheresse, issus de différentes zones viticoles catalanes et couverts par la D.O. Catalunya ; les proportions varient selon le millésime. Après la fermentation, le vin passe une courte période en barriques de chêne américain, qui ajoute des notes épicées sans masquer le fruit. C'est un rouge de corps moyen, fruité et facile à boire, pensé pour la table de tous les jours et à consommer dans ses premières années.</p>",
+    "it": "<p>Sangre de Toro è uno dei vini spagnoli più conosciuti al mondo e uno dei marchi storici di <strong>Familia Torres</strong>, che lo lanciò a metà del Novecento. Il nome allude alla mitologia mediterranea e al legame tra vino e toro, e ogni bottiglia porta appeso al collo un piccolo toro di plastica, diventato oggetto da collezione per molti consumatori.</p><p>È prodotto con <strong>Garnacha</strong> e <strong>Cariñena</strong>, due varietà tradizionali della Catalogna ben adattate al caldo e alla siccità, provenienti da diverse zone viticole catalane e tutelate dalla D.O. Catalunya; le proporzioni variano secondo l'annata. Dopo la fermentazione il vino trascorre un breve periodo in barrique di rovere americano, che aggiunge note speziate senza coprire il frutto. È un rosso di corpo medio, fruttato e facile da bere, pensato per la tavola quotidiana e da consumare nei primi anni.</p>"
+  },
+  "tasting": {
+    "es": "Rojo cereza intenso. Aromas de fruta roja y negra madura, con notas especiadas y un leve toque de vainilla. En boca es amable, de tanino suave y final frutal.",
+    "en": "Intense cherry red. Aromas of ripe red and black fruit, with spicy notes and a slight touch of vanilla. Smooth on the palate, with soft tannins and a fruity finish.",
+    "fr": "Rouge cerise intense. Arômes de fruits rouges et noirs mûrs, avec des notes épicées et une légère touche de vanille. En bouche, aimable, aux tanins souples et à la finale fruitée.",
+    "it": "Rosso ciliegia intenso. Aromi di frutta rossa e nera matura, con note speziate e un lieve tocco di vaniglia. In bocca è morbido, dal tannino soave e dal finale fruttato."
+  },
+  "pairing": {
+    "es": "Pasta, pizza, embutidos, carnes a la brasa, arroces de carne",
+    "en": "Pasta, pizza, charcuterie, grilled meats, meat rice dishes",
+    "fr": "Pâtes, pizza, charcuterie, viandes grillées, riz à la viande",
+    "it": "Pasta, pizza, salumi, carni alla brace, risi di carne"
+  },
+  "serve": {
+    "es": "14-16 °C, copa de vino tinto",
+    "en": "14-16 °C, red wine glass",
+    "fr": "14-16 °C, verre à vin rouge",
+    "it": "14-16 °C, calice da vino rosso"
+  },
+  "search": "Sangre de Toro Torres tinto"
+}

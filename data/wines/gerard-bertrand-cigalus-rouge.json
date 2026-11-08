@@ -1,0 +1,51 @@
+{
+  "slug": "gerard-bertrand-cigalus-rouge",
+  "name": "Cigalus Rouge",
+  "winery": "gerard-bertrand",
+  "region": "languedoc-roussillon",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "IGP Aude Hauterive",
+    "en": "IGP Aude Hauterive",
+    "fr": "IGP Aude Hauterive",
+    "it": "IGP Aude Hauterive"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "syrah",
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Tinto del Domaine de Cigalus, finca de Gérard Bertrand cerca de Narbona cultivada en biodinamia, que ensambla variedades bordelesas y mediterráneas.",
+    "en": "Red from Domaine de Cigalus, Gérard Bertrand’s biodynamically farmed estate near Narbonne, blending Bordeaux and Mediterranean varieties.",
+    "fr": "Rouge du domaine de Cigalus, propriété de Gérard Bertrand près de Narbonne conduite en biodynamie, qui assemble cépages bordelais et méditerranéens.",
+    "it": "Rosso del Domaine de Cigalus, tenuta di Gérard Bertrand vicino a Narbona coltivata in biodinamica, che assembla varietà bordolesi e mediterranee."
+  },
+  "body": {
+    "es": "<p>Cigalus es una de las fincas de Gérard Bertrand en el departamento del Aude, en el entorno de Narbona. Sus viñas se cultivan en biodinamia, un enfoque que Bertrand ha extendido a gran parte de sus propiedades. Como el vino ensambla variedades de orígenes diversos, se comercializa bajo la indicación geográfica protegida Aude Hauterive, y no bajo una denominación de origen.</p><p>El tinto combina variedades bordelesas, como el <strong>Cabernet Sauvignon</strong>, el <strong>Merlot</strong> y el Cabernet Franc, con variedades mediterráneas como la <strong>Syrah</strong>, la <strong>Garnacha</strong> y la Cariñena; las proporciones varían según la añada. Las variedades se vendimian a mano y se vinifican por separado, y el vino se cría en barricas antes del ensamblaje final.</p><p>El resultado es un tinto de buena estructura, que une la fruta negra y las notas de cedro de las variedades bordelesas con la calidez especiada del sur. Puede guardarse varios años en botella.</p>",
+    "en": "<p>Cigalus is one of Gérard Bertrand’s estates in the Aude department, near Narbonne. Its vines are farmed biodynamically, an approach Bertrand has extended to most of his properties. Because the wine blends varieties of diverse origins, it is sold under the Aude Hauterive protected geographical indication rather than under an appellation.</p><p>The red combines Bordeaux varieties such as <strong>Cabernet Sauvignon</strong>, <strong>Merlot</strong> and Cabernet Franc with Mediterranean varieties such as <strong>Syrah</strong>, <strong>Grenache</strong> and Carignan; the proportions vary with the vintage. The varieties are hand-picked and vinified separately, and the wine is aged in barrel before the final blend.</p><p>The result is a red of good structure, combining the black fruit and cedar notes of the Bordeaux varieties with the spicy warmth of the south. It can be kept for several years in bottle.</p>",
+    "fr": "<p>Cigalus est l’une des propriétés de Gérard Bertrand dans le département de l’Aude, près de Narbonne. Ses vignes sont conduites en biodynamie, une approche que Bertrand a étendue à la plupart de ses domaines. Le vin assemblant des cépages d’origines diverses, il est commercialisé sous l’indication géographique protégée Aude Hauterive et non sous une appellation d’origine.</p><p>Le rouge associe des cépages bordelais, comme le <strong>cabernet sauvignon</strong>, le <strong>merlot</strong> et le cabernet franc, à des cépages méditerranéens comme la <strong>syrah</strong>, le <strong>grenache</strong> et le carignan ; les proportions varient selon le millésime. Les cépages sont vendangés à la main et vinifiés séparément, et le vin est élevé en barriques avant l’assemblage final.</p><p>Il en résulte un rouge bien structuré, qui unit les fruits noirs et les notes de cèdre des cépages bordelais à la chaleur épicée du Sud. Il peut se garder plusieurs années en bouteille.</p>",
+    "it": "<p>Cigalus è una delle tenute di Gérard Bertrand nel dipartimento dell’Aude, nei dintorni di Narbona. Le sue vigne sono coltivate in biodinamica, un approccio che Bertrand ha esteso a gran parte delle sue proprietà. Poiché il vino assembla varietà di origini diverse, è commercializzato con l’indicazione geografica protetta Aude Hauterive e non con una denominazione d’origine.</p><p>Il rosso unisce varietà bordolesi come <strong>Cabernet Sauvignon</strong>, <strong>Merlot</strong> e Cabernet Franc a varietà mediterranee come <strong>Syrah</strong>, <strong>Grenache</strong> e Carignan; le proporzioni variano secondo l’annata. Le varietà sono vendemmiate a mano e vinificate separatamente, e il vino affina in barrique prima dell’assemblaggio finale.</p><p>Il risultato è un rosso di buona struttura, che unisce la frutta nera e le note di cedro delle varietà bordolesi al calore speziato del sud. Può essere conservato per diversi anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rojo oscuro. Aromas de casis, mora, especias, cedro y hierbas mediterráneas. Boca amplia, de taninos firmes y redondos, con final especiado.",
+    "en": "Dark red. Aromas of blackcurrant, blackberry, spice, cedar and Mediterranean herbs. Broad palate with firm, rounded tannins and a spicy finish.",
+    "fr": "Rouge sombre. Arômes de cassis, de mûre, d’épices, de cèdre et d’herbes méditerranéennes. Bouche ample, aux tanins fermes et ronds, à la finale épicée.",
+    "it": "Rosso scuro. Aromi di ribes nero, mora, spezie, cedro ed erbe mediterranee. Bocca ampia, dai tannini decisi e rotondi, con finale speziato."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, cordero, guisos de caza, quesos curados",
+    "en": "Grilled red meats, lamb, game stews, aged cheeses",
+    "fr": "Viandes rouges grillées, agneau, civets de gibier, fromages affinés",
+    "it": "Carni rosse alla brace, agnello, stufati di selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Gérard Bertrand Cigalus Rouge"
+}

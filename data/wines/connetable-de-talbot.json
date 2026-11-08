@@ -1,0 +1,49 @@
+{
+  "slug": "connetable-de-talbot",
+  "name": "Connétable de Talbot",
+  "winery": "chateau-talbot",
+  "region": "medoc",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Segundo vino",
+    "en": "Second wine",
+    "fr": "Second vin",
+    "it": "Secondo vino"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Segundo vino de Château Talbot en Saint-Julien, cuyo nombre recuerda al condestable John Talbot, de estilo afrutado y accesible en su juventud.",
+    "en": "The second wine of Château Talbot in Saint-Julien, whose name recalls the constable John Talbot, fruity and approachable in its youth.",
+    "fr": "Second vin de Château Talbot à Saint-Julien, dont le nom rappelle le connétable John Talbot, au style fruité et accessible dans sa jeunesse.",
+    "it": "Secondo vino di Château Talbot a Saint-Julien, il cui nome ricorda il connestabile John Talbot, di stile fruttato e accessibile in gioventù."
+  },
+  "body": {
+    "es": "<p>Connétable de Talbot es el segundo vino de Château Talbot. Su nombre alude al título de condestable que ostentaba John Talbot, el comandante inglés con el que la tradición relaciona la finca. Se elabora con uvas del viñedo de la propiedad en Saint-Julien, procedentes sobre todo de viñas más jóvenes y de los lotes que, tras la cata de selección, no se incorporan al gran vino.</p><p>Como el vino principal, se basa en la <strong>Cabernet Sauvignon</strong> y la <strong>Merlot</strong>, aunque esta última suele tener un papel algo mayor; las proporciones varían según la añada. Se cría en barrica, con una parte reducida de madera nueva.</p><p>Es un Saint-Julien de perfil afrutado, con taninos suaves y una estructura moderada, pensado para disfrutarse en los primeros años tras la cosecha. Ofrece una primera aproximación al estilo de la casa y es una referencia habitual en las tiendas especializadas en vinos de Burdeos.</p>",
+    "en": "<p>Connétable de Talbot is the second wine of Château Talbot. Its name refers to the title of constable held by John Talbot, the English commander with whom tradition links the estate. It is made from grapes from the property’s vineyard in Saint-Julien, mainly from younger vines and from lots that, after the selection tasting, are not included in the grand vin.</p><p>Like the main wine, it is based on <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong>, although the latter usually plays a slightly larger role; the proportions vary with the vintage. It is aged in barrel, with a small share of new wood.</p><p>It is a Saint-Julien with a fruity profile, soft tannins and moderate structure, intended to be enjoyed in the first years after the harvest. It offers an introduction to the house style and is a regular feature in shops specialising in Bordeaux wines.</p>",
+    "fr": "<p>Le Connétable de Talbot est le second vin de Château Talbot. Son nom fait référence au titre de connétable porté par John Talbot, le commandant anglais auquel la tradition rattache le domaine. Il est élaboré avec des raisins du vignoble de la propriété à Saint-Julien, issus surtout de vignes plus jeunes et des lots qui, après la dégustation de sélection, n’entrent pas dans le grand vin.</p><p>Comme le vin principal, il repose sur le <strong>cabernet-sauvignon</strong> et le <strong>merlot</strong>, ce dernier y jouant généralement un rôle un peu plus important ; les proportions varient selon le millésime. Il est élevé en barrique, avec une faible part de bois neuf.</p><p>C’est un saint-julien au profil fruité, aux tanins souples et à la structure modérée, destiné à être apprécié dans les premières années suivant la vendange. Il offre une première approche du style de la maison et figure régulièrement chez les cavistes spécialisés dans les vins de Bordeaux.</p>",
+    "it": "<p>Connétable de Talbot è il secondo vino di Château Talbot. Il nome allude al titolo di connestabile di John Talbot, il comandante inglese a cui la tradizione collega la tenuta. È prodotto con uve del vigneto della proprietà a Saint-Julien, soprattutto da viti più giovani e dai lotti che, dopo la degustazione di selezione, non entrano nel grand vin.</p><p>Come il vino principale, si basa su <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong>, anche se quest’ultimo ha di solito un ruolo un po’ maggiore; le proporzioni variano secondo l’annata. Affina in barrique, con una piccola quota di legno nuovo.</p><p>È un Saint-Julien dal profilo fruttato, con tannini morbidi e una struttura moderata, pensato per essere gustato nei primi anni dopo la vendemmia. Offre un primo approccio allo stile della casa ed è una presenza abituale nelle enoteche specializzate in vini di Bordeaux.</p>"
+  },
+  "tasting": {
+    "es": "Rubí brillante. Aromas de frutos rojos y negros, con un toque de cedro y vainilla. Boca suave y jugosa, de taninos amables y final fresco.",
+    "en": "Bright ruby. Aromas of red and black fruit, with a touch of cedar and vanilla. Soft, juicy palate with gentle tannins and a fresh finish.",
+    "fr": "Rubis brillant. Arômes de fruits rouges et noirs, avec une touche de cèdre et de vanille. Bouche souple et juteuse, aux tanins aimables, finale fraîche.",
+    "it": "Rubino brillante. Aromi di frutti rossi e neri, con un tocco di cedro e vaniglia. Bocca morbida e succosa, dai tannini gentili e dal finale fresco."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, pato asado, guisos de carne, quesos semicurados",
+    "en": "Grilled red meat, roast duck, meat stews, semi-hard cheeses",
+    "fr": "Viandes rouges grillées, canard rôti, ragoûts de viande, fromages à pâte pressée",
+    "it": "Carni rosse alla brace, anatra arrosto, stufati di carne, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-17 °C, copa de tipo Burdeos",
+    "en": "16-17 °C, Bordeaux glass",
+    "fr": "16-17 °C, verre de type bordeaux",
+    "it": "16-17 °C, calice tipo Bordeaux"
+  },
+  "search": "Connétable de Talbot Saint-Julien"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "lz-telmo-rodriguez",
+  "name": "LZ",
+  "winery": "telmo-rodriguez",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tempranillo",
+    "garnacha",
+    "graciano"
+  ],
+  "summary": {
+    "es": "Tinto joven de Telmo Rodríguez en la Rioja Alavesa, elaborado con Tempranillo, Garnacha y Graciano de viñedos del entorno de Lanciego y de estilo fresco y afrutado.",
+    "en": "Young red from Telmo Rodríguez in Rioja Alavesa, made from Tempranillo, Garnacha and Graciano from vineyards around Lanciego, in a fresh, fruity style.",
+    "fr": "Rouge jeune de Telmo Rodríguez dans la Rioja Alavesa, élaboré avec du tempranillo, du grenache et du graciano de vignes des environs de Lanciego, dans un style frais et fruité.",
+    "it": "Rosso giovane di Telmo Rodríguez nella Rioja Alavesa, prodotto con Tempranillo, Garnacha e Graciano da vigneti dei dintorni di Lanciego, di stile fresco e fruttato."
+  },
+  "body": {
+    "es": "<p>LZ es el vino de entrada de la gama Lanzaga, el proyecto de la Compañía de Vinos Telmo Rodríguez en la Rioja Alavesa. Su nombre es una abreviatura de Lanzaga y procede de viñedos situados en el entorno de Lanciego, un pueblo al pie de la Sierra de Cantabria donde la empresa cultiva viñas en agricultura ecológica.</p><p>Se elabora con una mezcla de Tempranillo, Garnacha y Graciano, las variedades tradicionales de la zona, cuyas proporciones varían según la añada. La vinificación busca la fruta y la frescura: fermentación en depósito y una crianza breve o nula en madera, de modo que el vino conserve el carácter de la uva.</p><p>LZ refleja la idea, defendida por Telmo Rodríguez, de que un vino sencillo puede expresar con claridad su origen. Es un tinto ligero y jugoso, pensado para beberse joven y ligeramente fresco, muy distinto del Rioja de larga crianza en barrica.</p>",
+    "en": "<p>LZ is the entry-level wine of the Lanzaga range, the project of the Compañía de Vinos Telmo Rodríguez in Rioja Alavesa. Its name is an abbreviation of Lanzaga, and it comes from vineyards around Lanciego, a village at the foot of the Sierra de Cantabria where the company farms vines organically.</p><p>It is made from a blend of Tempranillo, Garnacha and Graciano, the area’s traditional varieties, whose proportions vary with the vintage. Winemaking seeks fruit and freshness: fermentation in tank and brief or no ageing in wood, so that the wine keeps the character of the grape.</p><p>LZ reflects the idea, championed by Telmo Rodríguez, that a simple wine can clearly express its origin. It is a light, juicy red designed to be drunk young and slightly cool, very different from long barrel-aged Rioja.</p>",
+    "fr": "<p>LZ est le vin d’entrée de la gamme Lanzaga, le projet de la Compañía de Vinos Telmo Rodríguez dans la Rioja Alavesa. Son nom est une abréviation de Lanzaga et il provient de vignes situées autour de Lanciego, village au pied de la Sierra de Cantabria où l’entreprise cultive la vigne en agriculture biologique.</p><p>Il est élaboré à partir d’un assemblage de tempranillo, de grenache et de graciano, les cépages traditionnels du secteur, dont les proportions varient selon le millésime. La vinification recherche le fruit et la fraîcheur : fermentation en cuve et élevage sous bois bref ou inexistant, afin que le vin conserve le caractère du raisin.</p><p>LZ reflète l’idée, défendue par Telmo Rodríguez, qu’un vin simple peut exprimer clairement son origine. C’est un rouge léger et juteux, conçu pour être bu jeune et légèrement frais, très différent du Rioja longuement élevé en barrique.</p>",
+    "it": "<p>LZ è il vino d’ingresso della gamma Lanzaga, il progetto della Compañía de Vinos Telmo Rodríguez nella Rioja Alavesa. Il nome è un’abbreviazione di Lanzaga e proviene da vigneti situati nei dintorni di Lanciego, un paese ai piedi della Sierra de Cantabria dove l’azienda coltiva la vite in regime biologico.</p><p>È prodotto con un assemblaggio di Tempranillo, Garnacha e Graciano, le varietà tradizionali della zona, le cui proporzioni variano secondo l’annata. La vinificazione cerca frutto e freschezza: fermentazione in vasca e affinamento in legno breve o assente, in modo che il vino conservi il carattere dell’uva.</p><p>LZ riflette l’idea, sostenuta da Telmo Rodríguez, che un vino semplice possa esprimere con chiarezza la propria origine. È un rosso leggero e succoso, pensato per essere bevuto giovane e leggermente fresco, molto diverso dal Rioja di lungo affinamento in barrique.</p>"
+  },
+  "tasting": {
+    "es": "Rojo cereza brillante. Aromas de fruta roja fresca, como fresa y cereza, con notas florales. En boca es ligero, jugoso y fresco.",
+    "en": "Bright cherry red. Aromas of fresh red fruit such as strawberry and cherry, with floral notes. Light, juicy and fresh on the palate.",
+    "fr": "Rouge cerise brillant. Arômes de fruits rouges frais, comme la fraise et la cerise, avec des notes florales. En bouche, il est léger, juteux et frais.",
+    "it": "Rosso ciliegia brillante. Aromi di frutta rossa fresca, come fragola e ciliegia, con note floreali. In bocca è leggero, succoso e fresco."
+  },
+  "pairing": {
+    "es": "Tapas, embutidos, carnes a la plancha, arroces de carne, pasta",
+    "en": "Tapas, charcuterie, grilled meat, meat rice dishes, pasta",
+    "fr": "Tapas, charcuterie, viandes à la plancha, riz à la viande, pâtes",
+    "it": "Tapas, salumi, carni alla piastra, risi con carne, pasta"
+  },
+  "serve": {
+    "es": "14-16 °C, copa de tinto",
+    "en": "14-16 °C, red wine glass",
+    "fr": "14-16 °C, verre à vin rouge",
+    "it": "14-16 °C, calice da rosso"
+  },
+  "search": "LZ Telmo Rodríguez Rioja"
+}

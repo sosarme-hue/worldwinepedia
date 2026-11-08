@@ -1,0 +1,50 @@
+{
+  "slug": "taylors-vintage-port",
+  "name": "Taylor’s Vintage Port",
+  "winery": "taylors",
+  "region": "porto",
+  "country": "portugal",
+  "type": "generoso",
+  "category": {
+    "es": "Vintage",
+    "en": "Vintage Port",
+    "fr": "Vintage",
+    "it": "Vintage"
+  },
+  "grapes": [
+    "touriga-nacional",
+    "touriga-franca",
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Oporto Vintage de Taylor’s, basado en sus quintas del Douro, como Vargellas y Terra Feita, de estilo estructurado y muy longevo.",
+    "en": "Taylor’s Vintage Port, based on its Douro quintas such as Vargellas and Terra Feita, structured in style and very long-lived.",
+    "fr": "Porto Vintage de Taylor’s, fondé sur ses quintas du Douro comme Vargellas et Terra Feita, au style structuré et de très longue garde.",
+    "it": "Porto Vintage di Taylor’s, basato sulle sue quintas del Douro come Vargellas e Terra Feita, di stile strutturato e molto longevo."
+  },
+  "body": {
+    "es": "<p>Taylor’s es una de las casas de referencia en el Oporto Vintage, el vino de una sola cosecha embotellado sin filtrar tras unos dos años en madera, que se desarrolla durante décadas en la botella. La casa solo declara un Vintage en los años que juzga excepcionales; en otras buenas cosechas puede elaborar Vintage de quinta, como el Quinta de Vargellas.</p><p>El vino se elabora con uvas de las principales fincas de la casa, entre ellas <strong>Quinta de Vargellas</strong>, en el Douro Superior, Quinta da Terra Feita, en el valle del Pinhão, y Quinta do Junco. Las variedades son las tradicionales del Douro, como la Touriga Nacional, la Touriga Franca y la Tinta Roriz (Tempranillo), además de otras, en proporciones que cambian con cada año. Parte de la uva se pisa en <em>lagares</em> de granito y la fermentación se interrumpe con aguardiente vínica.</p><p>El estilo de Taylor’s se asocia a una estructura firme, una gran concentración y una notable capacidad de guarda. Al no filtrarse, forma sedimento y debe decantarse antes de servirse.</p>",
+    "en": "<p>Taylor’s is one of the benchmark houses for Vintage Port, the single-harvest wine bottled unfiltered after about two years in wood, which develops for decades in bottle. The house declares a Vintage only in years it judges exceptional; in other good harvests it may make single-quinta Vintage Ports such as Quinta de Vargellas.</p><p>The wine is made from grapes from the house’s main estates, among them <strong>Quinta de Vargellas</strong>, in the Douro Superior, Quinta da Terra Feita, in the Pinhão valley, and Quinta do Junco. The varieties are the traditional Douro ones, such as Touriga Nacional, Touriga Franca and Tinta Roriz (Tempranillo), as well as others, in proportions that change every year. Part of the fruit is trodden in granite <em>lagares</em> and fermentation is stopped with grape spirit.</p><p>Taylor’s style is associated with firm structure, great concentration and remarkable ageing potential. Being unfiltered, it throws a sediment and should be decanted before serving.</p>",
+    "fr": "<p>Taylor’s est l’une des maisons de référence du porto Vintage, le vin d’une seule récolte mis en bouteille sans filtration après environ deux ans sous bois, qui se développe pendant des décennies en bouteille. La maison ne déclare un Vintage que les années qu’elle juge exceptionnelles ; lors d’autres bonnes récoltes, elle peut élaborer des Vintage de quinta, comme le Quinta de Vargellas.</p><p>Le vin est élaboré avec les raisins des principaux domaines de la maison, parmi lesquels la <strong>Quinta de Vargellas</strong>, dans le Douro Superior, la Quinta da Terra Feita, dans la vallée du Pinhão, et la Quinta do Junco. Les cépages sont les cépages traditionnels du Douro, comme la touriga nacional, la touriga franca et la tinta roriz (tempranillo), entre autres, dans des proportions qui changent chaque année. Une partie du raisin est foulée au pied dans des <em>lagares</em> de granit et la fermentation est arrêtée par l’ajout d’eau-de-vie de vin.</p><p>Le style Taylor’s est associé à une structure ferme, une grande concentration et une remarquable aptitude à la garde. Non filtré, il forme un dépôt et doit être carafé avant le service.</p>",
+    "it": "<p>Taylor’s è una delle case di riferimento del Porto Vintage, il vino di una sola vendemmia imbottigliato senza filtrazione dopo circa due anni in legno, che si sviluppa per decenni in bottiglia. La casa dichiara un Vintage solo nelle annate che giudica eccezionali; in altre buone vendemmie può produrre Vintage di quinta, come il Quinta de Vargellas.</p><p>Il vino è prodotto con le uve delle principali tenute della casa, tra cui la <strong>Quinta de Vargellas</strong>, nel Douro Superior, la Quinta da Terra Feita, nella valle del Pinhão, e la Quinta do Junco. Le varietà sono quelle tradizionali del Douro, come Touriga Nacional, Touriga Franca e Tinta Roriz (Tempranillo), oltre ad altre, in proporzioni che cambiano ogni anno. Una parte dell’uva viene pigiata con i piedi nei <em>lagares</em> di granito e la fermentazione è interrotta con acquavite di vino.</p><p>Lo stile di Taylor’s è associato a una struttura decisa, una grande concentrazione e una notevole capacità di invecchiamento. Non essendo filtrato, forma un sedimento e va decantato prima di servirlo.</p>"
+  },
+  "tasting": {
+    "es": "De joven, color casi opaco, aromas de fruta negra, violeta, regaliz y especias, y una boca potente, dulce y tánica. Con la guarda gana notas de frutos secos, cacao, cedro y tabaco y se vuelve más sedoso.",
+    "en": "When young, almost opaque, with aromas of black fruit, violet, liquorice and spice, and a powerful, sweet, tannic palate. With cellaring it gains notes of nuts, cocoa, cedar and tobacco and becomes silkier.",
+    "fr": "Jeune, robe presque opaque, arômes de fruits noirs, de violette, de réglisse et d’épices, et une bouche puissante, douce et tannique. Avec la garde, il gagne des notes de fruits secs, de cacao, de cèdre et de tabac et devient plus soyeux.",
+    "it": "Da giovane, colore quasi impenetrabile, aromi di frutta nera, viola, liquirizia e spezie, e un sorso potente, dolce e tannico. Con l’affinamento acquista note di frutta secca, cacao, cedro e tabacco e diventa più setoso."
+  },
+  "pairing": {
+    "es": "Quesos azules como el Stilton, chocolate negro, frutos secos, sola tras la comida",
+    "en": "Blue cheeses such as Stilton, dark chocolate, nuts, on its own after a meal",
+    "fr": "Fromages à pâte persillée comme le stilton, chocolat noir, fruits secs, seul en fin de repas",
+    "it": "Formaggi erborinati come lo Stilton, cioccolato fondente, frutta secca, da solo a fine pasto"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado para separar el sedimento, copa de vino de Oporto o de vino tinto",
+    "en": "16-18 °C, decanted off its sediment, Port or red wine glass",
+    "fr": "16-18 °C, carafé pour séparer le dépôt, verre à porto ou à vin rouge",
+    "it": "16-18 °C, decantato per separare il sedimento, calice da Porto o da vino rosso"
+  },
+  "search": "Taylor's Vintage Port"
+}

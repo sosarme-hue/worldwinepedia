@@ -1,0 +1,44 @@
+{
+  "slug": "gaudium",
+  "name": "Gaudium",
+  "winery": "marques-de-caceres",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tempranillo",
+    "graciano"
+  ],
+  "summary": {
+    "es": "Tinto de alta gama de Marqués de Cáceres, elaborado solo en añadas seleccionadas con uva de viñas viejas, principalmente de Tempranillo.",
+    "en": "Top red from Marqués de Cáceres, made only in selected vintages from old-vine grapes, mainly Tempranillo.",
+    "fr": "Rouge haut de gamme de Marqués de Cáceres, élaboré seulement les millésimes sélectionnés avec le raisin de vieilles vignes, principalement du tempranillo.",
+    "it": "Rosso di punta di Marqués de Cáceres, prodotto solo nelle annate selezionate con uve di vecchie vigne, principalmente Tempranillo."
+  },
+  "body": {
+    "es": "<p>Gaudium es uno de los vinos de mayor ambición de Marqués de Cáceres. Su nombre, que en latín significa «alegría» o «gozo», se eligió para un tinto concebido como expresión de las mejores uvas de la casa. Se elabora únicamente en las añadas que la bodega considera excepcionales, con uva procedente de viñedos viejos de la Rioja Alta, en su mayor parte Tempranillo, con una pequeña aportación de Graciano cuya proporción varía según la cosecha.</p><p>La uva se selecciona con cuidado en el viñedo y en la bodega, y el vino se cría en barricas nuevas de roble francés antes de pasar un periodo de reposo en botella. Frente al perfil más ligero del Crianza, Gaudium busca concentración, profundidad y capacidad de guarda, siguiendo la línea de los riojas de autor que se desarrollaron a partir de los años noventa.</p><p>Es un vino pensado para evolucionar en botella y que gana con la decantación cuando se bebe joven.</p>",
+    "en": "<p>Gaudium is one of Marqués de Cáceres’s most ambitious wines. Its name, which means ‘joy’ in Latin, was chosen for a red conceived as an expression of the house’s finest grapes. It is made only in vintages the winery considers exceptional, from grapes from old vineyards in Rioja Alta, mostly Tempranillo, with a small contribution of Graciano whose proportion varies with the harvest.</p><p>The grapes are carefully selected in the vineyard and in the winery, and the wine is aged in new French oak barrels before a period of bottle rest. In contrast to the lighter profile of the Crianza, Gaudium seeks concentration, depth and ageing potential, in the line of the signature Riojas that developed from the 1990s onwards.</p><p>It is a wine designed to develop in bottle, and it benefits from decanting when drunk young.</p>",
+    "fr": "<p>Gaudium est l’un des vins les plus ambitieux de Marqués de Cáceres. Son nom, qui signifie « joie » en latin, fut choisi pour un rouge conçu comme l’expression des meilleurs raisins de la maison. Il n’est élaboré que les millésimes jugés exceptionnels par la bodega, avec le raisin de vieilles vignes de la Rioja Alta, en majorité du tempranillo, avec un petit apport de graciano dont la proportion varie selon la récolte.</p><p>Le raisin est soigneusement sélectionné à la vigne et à la cave, et le vin est élevé en barriques neuves de chêne français avant une période de repos en bouteille. À l’opposé du profil plus léger du Crianza, Gaudium recherche concentration, profondeur et potentiel de garde, dans la lignée des riojas d’auteur apparus à partir des années 1990.</p><p>C’est un vin conçu pour évoluer en bouteille, qui gagne à être carafé lorsqu’on le boit jeune.</p>",
+    "it": "<p>Gaudium è uno dei vini più ambiziosi di Marqués de Cáceres. Il nome, che in latino significa «gioia», fu scelto per un rosso concepito come espressione delle migliori uve della casa. Si produce soltanto nelle annate che la cantina considera eccezionali, con uve di vecchi vigneti della Rioja Alta, in gran parte Tempranillo, con un piccolo apporto di Graciano la cui percentuale varia secondo la vendemmia.</p><p>Le uve sono selezionate con cura in vigna e in cantina, e il vino affina in barrique nuove di rovere francese prima di un periodo di riposo in bottiglia. Rispetto al profilo più leggero del Crianza, Gaudium cerca concentrazione, profondità e capacità d’invecchiamento, nel solco dei Rioja d’autore sviluppatisi a partire dagli anni Novanta.</p><p>È un vino pensato per evolvere in bottiglia, che beneficia della decantazione quando viene bevuto giovane.</p>"
+  },
+  "tasting": {
+    "es": "Color picota intenso. Fruta negra madura, regaliz, cacao y notas tostadas del roble. En boca es denso y estructurado, con taninos firmes pero maduros y un final largo.",
+    "en": "Intense deep cherry colour. Ripe black fruit, liquorice, cocoa and toasty oak notes. Dense and structured on the palate, with firm but ripe tannins and a long finish.",
+    "fr": "Couleur cerise burlat intense. Fruits noirs mûrs, réglisse, cacao et notes toastées du chêne. En bouche, il est dense et structuré, aux tanins fermes mais mûrs, avec une longue finale.",
+    "it": "Colore ciliegia intenso. Frutta nera matura, liquirizia, cacao e note tostate del rovere. In bocca è denso e strutturato, con tannini decisi ma maturi e un finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, cordero asado, caza mayor, quesos curados de oveja",
+    "en": "Chargrilled red meat, roast lamb, large game, aged sheep’s cheeses",
+    "fr": "Viandes rouges à la braise, agneau rôti, gros gibier, fromages de brebis affinés",
+    "it": "Carni rosse alla brace, agnello arrosto, selvaggina di grossa taglia, pecorini stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Gaudium Marqués de Cáceres Rioja"
+}

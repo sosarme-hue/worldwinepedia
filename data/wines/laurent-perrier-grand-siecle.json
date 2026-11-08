@@ -1,0 +1,49 @@
+{
+  "slug": "laurent-perrier-grand-siecle",
+  "name": "Laurent-Perrier Grand Siècle",
+  "winery": "laurent-perrier",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut",
+    "en": "Brut",
+    "fr": "Brut",
+    "it": "Brut"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Cuvée de prestige de Laurent-Perrier que ensambla vinos de varias añadas excepcionales, en lugar de proceder de una sola cosecha.",
+    "en": "Laurent-Perrier’s prestige cuvée, which blends wines from several exceptional vintages instead of coming from a single harvest.",
+    "fr": "Cuvée de prestige de Laurent-Perrier qui assemble des vins de plusieurs millésimes exceptionnels, au lieu de provenir d’une seule récolte.",
+    "it": "Cuvée di prestigio di Laurent-Perrier che assembla vini di diverse annate eccezionali, invece di provenire da un’unica vendemmia."
+  },
+  "body": {
+    "es": "<p>Grand Siècle fue creado por Bernard de Nonancourt con la idea de que el champán perfecto no siempre procede de un solo año. Por eso, a diferencia de la mayoría de las cuvées de prestige, que son champanes de añada, Grand Siècle se elabora habitualmente <strong>ensamblando vinos de tres añadas</strong> consideradas excepcionales, con el fin de combinar sus cualidades. Su nombre alude al siglo de Luis XIV, el «gran siglo».</p><p>Se elabora con <strong>Chardonnay</strong> y <strong>Pinot Noir</strong> de municipios clasificados como grand cru, en proporciones que varían según la composición. La Chardonnay suele tener un peso importante, en coherencia con el estilo de la casa. El champán se cría durante muchos años sobre lías antes del degüelle. La casa ha comercializado sus distintas composiciones con un número de iteración.</p><p>Es un champán de gran complejidad y frescura, con notas de cítricos, frutos secos, brioche y miel, y una textura fina y cremosa. Puede evolucionar durante muchos años.</p>",
+    "en": "<p>Grand Siècle was created by Bernard de Nonancourt on the idea that the perfect champagne does not always come from a single year. So, unlike most prestige cuvées, which are vintage champagnes, Grand Siècle is usually made by <strong>blending wines from three vintages</strong> considered exceptional, in order to combine their qualities. Its name refers to the century of Louis XIV, the “great century”.</p><p>It is made from <strong>Chardonnay</strong> and <strong>Pinot Noir</strong> from villages classified as grand cru, in proportions that vary with each composition. Chardonnay usually carries significant weight, in line with the house style. The champagne is aged for many years on its lees before disgorgement. The house has released its successive compositions with an iteration number.</p><p>It is a champagne of great complexity and freshness, with notes of citrus, nuts, brioche and honey and a fine, creamy texture. It can develop for many years.</p>",
+    "fr": "<p>Grand Siècle a été créé par Bernard de Nonancourt avec l’idée que le champagne parfait ne provient pas toujours d’une seule année. C’est pourquoi, contrairement à la plupart des cuvées de prestige, qui sont des champagnes millésimés, Grand Siècle est habituellement élaboré en <strong>assemblant des vins de trois millésimes</strong> jugés exceptionnels, afin d’en réunir les qualités. Son nom fait référence au siècle de Louis XIV, le « Grand Siècle ».</p><p>Il est élaboré avec du <strong>chardonnay</strong> et du <strong>pinot noir</strong> de villages classés grand cru, dans des proportions qui varient selon la composition. Le chardonnay y tient généralement une place importante, conformément au style de la maison. Le champagne est élevé de nombreuses années sur lies avant le dégorgement. La maison a commercialisé ses compositions successives avec un numéro d’itération.</p><p>C’est un champagne d’une grande complexité et d’une grande fraîcheur, aux notes d’agrumes, de fruits secs, de brioche et de miel, à la texture fine et crémeuse. Il peut évoluer pendant de nombreuses années.</p>",
+    "it": "<p>Grand Siècle fu creato da Bernard de Nonancourt con l’idea che lo champagne perfetto non provenga sempre da un solo anno. Per questo, a differenza della maggior parte delle cuvée di prestigio, che sono champagne millesimati, Grand Siècle si ottiene di solito <strong>assemblando vini di tre annate</strong> considerate eccezionali, per unirne le qualità. Il nome allude al secolo di Luigi XIV, il «grande secolo».</p><p>È prodotto con <strong>Chardonnay</strong> e <strong>Pinot Nero</strong> di villaggi classificati grand cru, in proporzioni che variano secondo la composizione. Lo Chardonnay ha di solito un peso importante, in coerenza con lo stile della casa. Lo champagne affina per molti anni sui lieviti prima della sboccatura. La casa ha commercializzato le sue composizioni successive con un numero di iterazione.</p><p>È uno champagne di grande complessità e freschezza, con note di agrumi, frutta secca, brioche e miele e una tessitura fine e cremosa. Può evolvere per molti anni.</p>"
+  },
+  "tasting": {
+    "es": "Dorado brillante con burbuja muy fina. Aromas de cítricos confitados, almendra, avellana tostada, brioche y miel. Boca cremosa y fresca, de gran complejidad y final largo.",
+    "en": "Bright gold with very fine bubbles. Aromas of candied citrus, almond, toasted hazelnut, brioche and honey. Creamy, fresh palate of great complexity with a long finish.",
+    "fr": "Or brillant à la bulle très fine. Arômes d’agrumes confits, d’amande, de noisette grillée, de brioche et de miel. Bouche crémeuse et fraîche, d’une grande complexité, finale longue.",
+    "it": "Oro brillante dal perlage finissimo. Aromi di agrumi canditi, mandorla, nocciola tostata, brioche e miele. Bocca cremosa e fresca, di grande complessità, dal finale lungo."
+  },
+  "pairing": {
+    "es": "Langosta, caviar, rodaballo, aves con trufa, quesos curados como el comté",
+    "en": "Lobster, caviar, turbot, poultry with truffle, aged cheeses such as Comté",
+    "fr": "Homard, caviar, turbot, volaille truffée, fromages affinés comme le comté",
+    "it": "Aragosta, caviale, rombo, pollame al tartufo, formaggi stagionati come il Comté"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de vino blanco amplia, no flauta",
+    "en": "10-12 °C, large white wine glass rather than a flute",
+    "fr": "10-12 °C, grand verre à vin blanc plutôt qu’une flûte",
+    "it": "10-12 °C, calice ampio da vino bianco anziché flûte"
+  },
+  "search": "Laurent-Perrier Grand Siècle Champagne"
+}

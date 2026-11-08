@@ -1,0 +1,44 @@
+{
+  "slug": "scala-dei-cartoixa",
+  "name": "Scala Dei Cartoixa",
+  "winery": "cellers-de-scala-dei",
+  "region": "priorat",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha",
+    "carinena"
+  ],
+  "summary": {
+    "es": "Tinto de alta gama de Cellers de Scala Dei, cuyo nombre recuerda la cartuja medieval, elaborado con garnacha y cariñena de viñedos de Escaladei.",
+    "en": "Top red from Cellers de Scala Dei, whose name recalls the medieval Carthusian monastery, made from Garnacha and Cariñena from Escaladei vineyards.",
+    "fr": "Rouge haut de gamme de Cellers de Scala Dei, dont le nom rappelle la chartreuse médiévale, élaboré avec du grenache et du carignan des vignes d'Escaladei.",
+    "it": "Rosso di alta gamma di Cellers de Scala Dei, il cui nome ricorda la certosa medievale, prodotto con Garnacha e Cariñena dei vigneti di Escaladei."
+  },
+  "body": {
+    "es": "<p>Cartoixa, «cartuja» en catalán, rinde homenaje al monasterio de Scala Dei, fundado en el siglo XII, cuyos monjes extendieron el cultivo de la vid por el <strong>Priorat</strong>. Es uno de los vinos de mayor ambición de Cellers de Scala Dei y uno de los tintos con más trayectoria de la comarca, ya que la bodega lo elaboraba antes de la llegada de los nuevos proyectos de finales de los ochenta.</p><p>Se elabora con <strong>garnacha</strong> y <strong>cariñena</strong> de viñas viejas del entorno de Escaladei, a las que pueden sumarse otras variedades en pequeña proporción; las proporciones varían según la añada. Los viñedos, al pie de los riscos del Montsant, se benefician de una altitud que suaviza el calor del verano. El vino se cría en barricas de roble durante un periodo más largo que el de los vinos de entrada de la casa. Es un tinto de buena estructura y carácter especiado, con potencial de guarda.</p>",
+    "en": "<p>Cartoixa, Catalan for “charterhouse”, pays tribute to the monastery of Scala Dei, founded in the twelfth century, whose monks spread vine growing across the <strong>Priorat</strong>. It is one of the most ambitious wines of Cellers de Scala Dei and one of the area's longest-established reds, as the winery was making it before the arrival of the new projects of the late 1980s.</p><p>It is made from old-vine <strong>Garnacha</strong> and <strong>Cariñena</strong> from around Escaladei, which may be joined by other varieties in small proportions; the proportions vary with the vintage. The vineyards, below the Montsant cliffs, benefit from an altitude that tempers the summer heat. The wine is aged in oak barrels for longer than the house's entry-level wines. It is a well-structured red with a spicy character and ageing potential.</p>",
+    "fr": "<p>Cartoixa, « chartreuse » en catalan, rend hommage au monastère de Scala Dei, fondé au XIIe siècle, dont les moines étendirent la culture de la vigne dans le <strong>Priorat</strong>. C'est l'un des vins les plus ambitieux de Cellers de Scala Dei et l'un des rouges les plus anciens de la région, puisque le domaine l'élaborait avant l'arrivée des nouveaux projets de la fin des années 1980.</p><p>Il est élaboré avec du <strong>grenache</strong> et du <strong>carignan</strong> de vieilles vignes des environs d'Escaladei, auxquels peuvent s'ajouter d'autres cépages en petite proportion ; les proportions varient selon le millésime. Les vignes, au pied des falaises du Montsant, bénéficient d'une altitude qui tempère la chaleur estivale. Le vin est élevé en barriques de chêne plus longtemps que les vins d'entrée de gamme de la maison. C'est un rouge bien structuré, au caractère épicé et doté d'un potentiel de garde.</p>",
+    "it": "<p>Cartoixa, «certosa» in catalano, rende omaggio al monastero di Scala Dei, fondato nel XII secolo, i cui monaci diffusero la coltivazione della vite nel <strong>Priorat</strong>. È uno dei vini più ambiziosi di Cellers de Scala Dei e uno dei rossi di più lunga tradizione della comarca, poiché la cantina lo produceva già prima dell'arrivo dei nuovi progetti della fine degli anni Ottanta.</p><p>È prodotto con <strong>Garnacha</strong> e <strong>Cariñena</strong> di vecchie vigne dei dintorni di Escaladei, a cui possono aggiungersi altre varietà in piccola proporzione; le proporzioni variano secondo l'annata. I vigneti, sotto le rupi del Montsant, beneficiano di un'altitudine che mitiga il caldo estivo. Il vino affina in barrique di rovere più a lungo dei vini d'ingresso della casa. È un rosso ben strutturato, dal carattere speziato e con potenziale d'invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de fruta negra madura, especias, regaliz, hierbas de monte y notas de crianza. En boca es estructurado y sabroso, con final persistente.",
+    "en": "Intense cherry red. Aromas of ripe black fruit, spice, liquorice, wild herbs and oak notes. Structured and savoury on the palate, with a persistent finish.",
+    "fr": "Rouge cerise intense. Arômes de fruits noirs mûrs, d'épices, de réglisse, d'herbes de garrigue et notes d'élevage. En bouche, structuré et savoureux, à la finale persistante.",
+    "it": "Rosso ciliegia intenso. Aromi di frutta nera matura, spezie, liquirizia, erbe di macchia e note di affinamento. In bocca è strutturato e sapido, con finale persistente."
+  },
+  "pairing": {
+    "es": "Cordero asado, caza, carnes a la brasa, quesos curados",
+    "en": "Roast lamb, game, grilled meats, aged cheeses",
+    "fr": "Agneau rôti, gibier, viandes grillées, fromages affinés",
+    "it": "Agnello arrosto, selvaggina, carni alla brace, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, grand verre",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Scala Dei Cartoixa Priorat"
+}

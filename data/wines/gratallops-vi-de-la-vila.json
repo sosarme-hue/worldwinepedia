@@ -1,0 +1,44 @@
+{
+  "slug": "gratallops-vi-de-la-vila",
+  "name": "Gratallops Vi de la Vila",
+  "winery": "alvaro-palacios",
+  "region": "priorat",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha",
+    "carinena"
+  ],
+  "summary": {
+    "es": "Vino de pueblo de Álvaro Palacios elaborado con garnacha y cariñena de distintas parcelas del término de Gratallops.",
+    "en": "Village wine from Álvaro Palacios made from Garnacha and Cariñena from various plots in the municipality of Gratallops.",
+    "fr": "Vin de village d'Álvaro Palacios élaboré avec du grenache et du carignan de différentes parcelles de la commune de Gratallops.",
+    "it": "Vino di paese di Álvaro Palacios prodotto con Garnacha e Cariñena di diverse parcelle del comune di Gratallops."
+  },
+  "body": {
+    "es": "<p>Gratallops Vi de la Vila ocupa el escalón de <strong>vino de pueblo</strong> en la gama de Álvaro Palacios, inspirada en la organización de los vinos de Borgoña. El Priorat reconoce oficialmente la mención <em>Vi de Vila</em>, que identifica los vinos elaborados con uvas de un solo municipio, y Gratallops es uno de los pueblos con más tradición vitícola de la comarca.</p><p>El vino se elabora con <strong>garnacha</strong> y <strong>cariñena</strong>, en proporciones que varían según la añada, procedentes de diversas parcelas del término, tanto propias como de viticultores locales, muchas de ellas de cepas viejas sobre <strong>llicorella</strong>. La combinación de viñas con distintas orientaciones y altitudes busca ofrecer un retrato del pueblo más que de una finca concreta. La crianza se realiza en barricas y fudres de roble durante un periodo moderado. Es un tinto con la intensidad y el carácter mineral propios del Priorat, pero más accesible en su juventud que los vinos de finca de la casa.</p>",
+    "en": "<p>Gratallops Vi de la Vila occupies the <strong>village wine</strong> tier in Álvaro Palacios' range, which is inspired by the way Burgundy's wines are organised. The Priorat officially recognises the term <em>Vi de Vila</em>, which identifies wines made from the grapes of a single municipality, and Gratallops is one of the villages with the strongest winegrowing tradition in the area.</p><p>The wine is made from <strong>Garnacha</strong> and <strong>Cariñena</strong>, in proportions that vary with the vintage, from various plots in the municipality, both the winery's own and those of local growers, many of them old vines on <strong>llicorella</strong>. Combining vineyards with different exposures and altitudes aims to offer a portrait of the village rather than of a single estate. Ageing takes place in oak barrels and large casks for a moderate period. It is a red with the intensity and mineral character typical of the Priorat, but more approachable in its youth than the house's estate wines.</p>",
+    "fr": "<p>Gratallops Vi de la Vila occupe l'échelon du <strong>vin de village</strong> dans la gamme d'Álvaro Palacios, inspirée de l'organisation des vins de Bourgogne. Le Priorat reconnaît officiellement la mention <em>Vi de Vila</em>, qui identifie les vins élaborés avec les raisins d'une seule commune, et Gratallops est l'un des villages à la plus forte tradition viticole de la région.</p><p>Le vin est élaboré avec du <strong>grenache</strong> et du <strong>carignan</strong>, dans des proportions qui varient selon le millésime, issus de diverses parcelles de la commune, aussi bien propres que de viticulteurs locaux, dont beaucoup de vieilles vignes sur <strong>llicorella</strong>. L'association de vignes aux expositions et aux altitudes différentes vise à offrir un portrait du village plutôt que d'un domaine précis. L'élevage se fait en barriques et en foudres de chêne pendant une durée modérée. C'est un rouge doté de l'intensité et du caractère minéral propres au Priorat, mais plus accessible dans sa jeunesse que les vins de domaine de la maison.</p>",
+    "it": "<p>Gratallops Vi de la Vila occupa il gradino del <strong>vino di paese</strong> nella gamma di Álvaro Palacios, ispirata all'organizzazione dei vini di Borgogna. Il Priorat riconosce ufficialmente la menzione <em>Vi de Vila</em>, che identifica i vini prodotti con uve di un solo comune, e Gratallops è uno dei paesi di più antica tradizione viticola della comarca.</p><p>Il vino è prodotto con <strong>Garnacha</strong> e <strong>Cariñena</strong>, in proporzioni che variano secondo l'annata, provenienti da varie parcelle del comune, sia proprie sia di viticoltori locali, molte delle quali di vecchie viti sulla <strong>llicorella</strong>. L'unione di vigne con esposizioni e altitudini diverse mira a offrire un ritratto del paese più che di una singola tenuta. L'affinamento avviene in barrique e botti grandi di rovere per un periodo moderato. È un rosso con l'intensità e il carattere minerale tipici del Priorat, ma più accessibile in gioventù rispetto ai vini di tenuta della casa.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí intenso. Aromas de fruta roja y negra madura, regaliz, hierbas de monte y notas de pizarra. En boca es sabroso, con tanino maduro y frescura.",
+    "en": "Intense ruby red. Aromas of ripe red and black fruit, liquorice, wild herbs and slate notes. Savoury on the palate, with ripe tannins and freshness.",
+    "fr": "Rubis intense. Arômes de fruits rouges et noirs mûrs, de réglisse, d'herbes de garrigue et notes de schiste. En bouche, savoureux, aux tanins mûrs et frais.",
+    "it": "Rosso rubino intenso. Aromi di frutta rossa e nera matura, liquirizia, erbe di macchia e note di ardesia. In bocca è sapido, con tannino maturo e freschezza."
+  },
+  "pairing": {
+    "es": "Carnes a la brasa, guisos de caza, embutidos, quesos curados",
+    "en": "Grilled meats, game stews, charcuterie, aged cheeses",
+    "fr": "Viandes grillées, civets de gibier, charcuterie, fromages affinés",
+    "it": "Carni alla brace, stufati di selvaggina, salumi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, grand verre",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Gratallops Vi de la Vila Álvaro Palacios Priorat"
+}

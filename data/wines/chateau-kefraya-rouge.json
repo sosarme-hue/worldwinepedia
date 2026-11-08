@@ -1,0 +1,44 @@
+{
+  "slug": "chateau-kefraya-rouge",
+  "name": "Château Kefraya Rouge",
+  "winery": "chateau-kefraya",
+  "region": "valle-de-la-bekaa",
+  "country": "libano",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon",
+    "syrah"
+  ],
+  "summary": {
+    "es": "Gran vino tinto de Château Kefraya, en la Bekaa occidental, una mezcla de variedades bordelesas y mediterráneas criada en barrica.",
+    "en": "The grand vin red of Château Kefraya in the western Bekaa, a barrel-aged blend of Bordeaux and Mediterranean varieties.",
+    "fr": "Grand vin rouge de Château Kefraya, dans la Bekaa occidentale, un assemblage de cépages bordelais et méditerranéens élevé en fût.",
+    "it": "Grand vin rosso di Château Kefraya, nella Bekaa occidentale, un blend di varietà bordolesi e mediterranee affinato in barrique."
+  },
+  "body": {
+    "es": "<p>El tinto que lleva el nombre de la finca, <strong>Château Kefraya</strong>, es el vino de referencia de la bodega, junto a su selección Comte de M. Procede de los viñedos que la familia de Bustros plantó en la localidad de Kefraya, en la parte occidental del valle de la <strong>Bekaa</strong>, en las laderas que ascienden hacia el monte Barouk.</p><p>Se elabora con una mezcla de variedades bordelesas y mediterráneas, con el <strong>Cabernet Sauvignon</strong> y la <strong>Syrah</strong> como protagonistas habituales, a las que pueden sumarse otras como el Mourvèdre o la Garnacha; las proporciones varían según la añada. La altitud de los viñedos aporta noches frescas que preservan la acidez, mientras que los veranos secos permiten una maduración completa. El vino se cría en barricas de roble francés durante un periodo prolongado. El resultado es un tinto estructurado y especiado, con fruta madura y buena capacidad de guarda.</p>",
+    "en": "<p>The red that bears the estate's name, <strong>Château Kefraya</strong>, is the winery's benchmark wine, alongside its Comte de M selection. It comes from the vineyards the de Bustros family planted in the village of Kefraya, in the western part of the <strong>Bekaa</strong> Valley, on the slopes rising towards Mount Barouk.</p><p>It is made from a blend of Bordeaux and Mediterranean varieties, with <strong>Cabernet Sauvignon</strong> and <strong>Syrah</strong> usually playing the leading roles, sometimes joined by others such as Mourvèdre or Grenache; the proportions vary with the vintage. The altitude of the vineyards brings cool nights that preserve acidity, while dry summers allow full ripening. The wine is aged for an extended period in French oak barrels. The result is a structured, spicy red with ripe fruit and good ageing potential.</p>",
+    "fr": "<p>Le rouge qui porte le nom du domaine, <strong>Château Kefraya</strong>, est le vin de référence de la maison, aux côtés de sa sélection Comte de M. Il provient des vignes que la famille de Bustros a plantées dans le village de Kefraya, dans la partie occidentale de la vallée de la <strong>Bekaa</strong>, sur les pentes qui montent vers le mont Barouk.</p><p>Il est élaboré à partir d'un assemblage de cépages bordelais et méditerranéens, où le <strong>cabernet-sauvignon</strong> et la <strong>syrah</strong> jouent habituellement les premiers rôles, parfois rejoints par d'autres comme le mourvèdre ou le grenache ; les proportions varient selon le millésime. L'altitude des vignes apporte des nuits fraîches qui préservent l'acidité, tandis que les étés secs permettent une maturité complète. Le vin est élevé longuement en barriques de chêne français. Le résultat est un rouge structuré et épicé, au fruit mûr et au bon potentiel de garde.</p>",
+    "it": "<p>Il rosso che porta il nome della tenuta, <strong>Château Kefraya</strong>, è il vino di riferimento della cantina, accanto alla selezione Comte de M. Proviene dai vigneti che la famiglia de Bustros piantò nel villaggio di Kefraya, nella parte occidentale della valle della <strong>Bekaa</strong>, sui pendii che salgono verso il monte Barouk.</p><p>È prodotto con un blend di varietà bordolesi e mediterranee, in cui <strong>Cabernet Sauvignon</strong> e <strong>Syrah</strong> sono di solito protagonisti, talvolta affiancati da altre come Mourvèdre o Grenache; le proporzioni variano a seconda dell'annata. L'altitudine dei vigneti porta notti fresche che preservano l'acidità, mentre le estati secche permettono una maturazione completa. Il vino affina a lungo in barrique di rovere francese. Il risultato è un rosso strutturato e speziato, con frutto maturo e una buona capacità di invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Aromas de mora, ciruela y cassis, con notas de especias, cedro, tabaco y hierbas secas. Boca amplia y estructurada, con taninos firmes y final especiado.",
+    "en": "Aromas of blackberry, plum and cassis, with notes of spice, cedar, tobacco and dried herbs. Broad and structured, with firm tannins and a spicy finish.",
+    "fr": "Arômes de mûre, de prune et de cassis, avec des notes d'épices, de cèdre, de tabac et d'herbes sèches. Bouche ample et structurée, aux tanins fermes et à la finale épicée.",
+    "it": "Profumi di mora, prugna e cassis, con note di spezie, cedro, tabacco ed erbe secche. Bocca ampia e strutturata, con tannini decisi e finale speziato."
+  },
+  "pairing": {
+    "es": "Cordero asado, kibbeh, carnes de caza, quesos curados",
+    "en": "Roast lamb, kibbeh, game, aged cheeses",
+    "fr": "Agneau rôti, kebbé, gibier, fromages affinés",
+    "it": "Agnello arrosto, kibbeh, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Château Kefraya Rouge Bekaa"
+}

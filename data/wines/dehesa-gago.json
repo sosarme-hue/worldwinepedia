@@ -1,0 +1,43 @@
+{
+  "slug": "dehesa-gago",
+  "name": "Dehesa Gago",
+  "winery": "telmo-rodriguez",
+  "region": "toro",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Tinto de Toro de Telmo Rodríguez elaborado con Tinta de Toro, la variante local del Tempranillo, de estilo más fresco y afrutado que el habitual en la denominación.",
+    "en": "Toro red from Telmo Rodríguez made from Tinta de Toro, the local variant of Tempranillo, fresher and fruitier in style than is usual in the appellation.",
+    "fr": "Rouge de Toro de Telmo Rodríguez élaboré avec la tinta de toro, variante locale du tempranillo, dans un style plus frais et plus fruité que la moyenne de l’appellation.",
+    "it": "Rosso di Toro di Telmo Rodríguez prodotto con Tinta de Toro, la variante locale del Tempranillo, di stile più fresco e fruttato di quanto sia abituale nella denominazione."
+  },
+  "body": {
+    "es": "<p>Dehesa Gago es el vino de la Compañía de Vinos Telmo Rodríguez en la Denominación de Origen Toro, en la provincia de Zamora. La región es conocida por sus tintos potentes, elaborados con la Tinta de Toro, una variante local del Tempranillo adaptada al clima continental extremo, de veranos muy calurosos, y a suelos arenosos y pedregosos donde sobreviven numerosos viñedos viejos.</p><p>Con Dehesa Gago, Telmo Rodríguez y Pablo Eguzkiza quisieron mostrar una cara más fresca y accesible de Toro. La uva procede de viñedos de la zona y se vendimia buscando un equilibrio entre madurez y frescura. La vinificación prima la fruta, con fermentación en depósito y una crianza breve, de forma que la madera no domine el conjunto.</p><p>El resultado es un tinto de fruta negra jugosa y taninos más amables de lo que suele asociarse a la región, pensado para beberse joven. Toro se encuentra en el valle del Duero, aguas abajo de la Ribera del Duero.</p>",
+    "en": "<p>Dehesa Gago is the wine of the Compañía de Vinos Telmo Rodríguez in the Toro Denominación de Origen, in the province of Zamora. The region is known for its powerful reds made from Tinta de Toro, a local variant of Tempranillo adapted to the extreme continental climate, with very hot summers, and to sandy, stony soils where many old vineyards survive.</p><p>With Dehesa Gago, Telmo Rodríguez and Pablo Eguzkiza wanted to show a fresher, more approachable side of Toro. The grapes come from vineyards in the area and are harvested seeking a balance between ripeness and freshness. Winemaking favours fruit, with fermentation in tank and brief ageing, so that oak does not dominate.</p><p>The result is a red with juicy black fruit and gentler tannins than are usually associated with the region, designed to be drunk young. Toro lies in the Duero valley, downstream of Ribera del Duero.</p>",
+    "fr": "<p>Dehesa Gago est le vin de la Compañía de Vinos Telmo Rodríguez dans la Denominación de Origen Toro, dans la province de Zamora. La région est connue pour ses rouges puissants, élaborés avec la tinta de toro, variante locale du tempranillo adaptée au climat continental extrême, aux étés très chauds, et à des sols sableux et caillouteux où subsistent de nombreuses vieilles vignes.</p><p>Avec Dehesa Gago, Telmo Rodríguez et Pablo Eguzkiza ont voulu montrer un visage plus frais et plus accessible de Toro. Le raisin provient de vignes de la région et il est vendangé en recherchant l’équilibre entre maturité et fraîcheur. La vinification privilégie le fruit, avec une fermentation en cuve et un élevage bref, afin que le bois ne domine pas.</p><p>Il en résulte un rouge aux fruits noirs juteux et aux tanins plus aimables que ceux que l’on associe habituellement à la région, conçu pour être bu jeune. Toro se situe dans la vallée du Duero, en aval de la Ribera del Duero.</p>",
+    "it": "<p>Dehesa Gago è il vino della Compañía de Vinos Telmo Rodríguez nella Denominación de Origen Toro, in provincia di Zamora. La regione è nota per i suoi rossi potenti, prodotti con la Tinta de Toro, una variante locale del Tempranillo adattata al clima continentale estremo, con estati molto calde, e a suoli sabbiosi e sassosi dove sopravvivono numerosi vecchi vigneti.</p><p>Con Dehesa Gago, Telmo Rodríguez e Pablo Eguzkiza vollero mostrare un volto più fresco e accessibile di Toro. Le uve provengono da vigneti della zona e sono vendemmiate cercando un equilibrio tra maturità e freschezza. La vinificazione privilegia il frutto, con fermentazione in vasca e un affinamento breve, in modo che il legno non domini.</p><p>Il risultato è un rosso di frutto nero succoso e dai tannini più gentili di quanto si associ di solito alla regione, pensato per essere bevuto giovane. Toro si trova nella valle del Duero, a valle della Ribera del Duero.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota con reflejos violáceos. Fruta negra madura, como mora y ciruela, con notas de regaliz. En boca es jugoso y carnoso, con taninos amables.",
+    "en": "Deep cherry red with violet tints. Ripe black fruit such as blackberry and plum, with notes of liquorice. Juicy and fleshy on the palate, with gentle tannins.",
+    "fr": "Rouge cerise burlat aux reflets violacés. Fruits noirs mûrs, comme la mûre et la prune, avec des notes de réglisse. En bouche, il est juteux et charnu, aux tanins aimables.",
+    "it": "Rosso ciliegia con riflessi violacei. Frutta nera matura, come mora e prugna, con note di liquirizia. In bocca è succoso e carnoso, con tannini gentili."
+  },
+  "pairing": {
+    "es": "Tapas, embutidos, carnes a la plancha, arroces de carne, pasta",
+    "en": "Tapas, charcuterie, grilled meat, meat rice dishes, pasta",
+    "fr": "Tapas, charcuterie, viandes à la plancha, riz à la viande, pâtes",
+    "it": "Tapas, salumi, carni alla piastra, risi con carne, pasta"
+  },
+  "serve": {
+    "es": "14-16 °C, copa de tinto",
+    "en": "14-16 °C, red wine glass",
+    "fr": "14-16 °C, verre à vin rouge",
+    "it": "14-16 °C, calice da rosso"
+  },
+  "search": "Dehesa Gago Telmo Rodríguez Toro"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "el-nido",
+  "name": "El Nido",
+  "winery": "bodegas-el-nido",
+  "region": "jumilla",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon",
+    "monastrell"
+  ],
+  "summary": {
+    "es": "Tinto principal de Bodegas El Nido en Jumilla, basado en la cabernet sauvignon con una parte de monastrell.",
+    "en": "The flagship red of Bodegas El Nido in Jumilla, based on Cabernet Sauvignon with a share of Monastrell.",
+    "fr": "Rouge principal de Bodegas El Nido à Jumilla, à base de cabernet sauvignon avec une part de monastrell.",
+    "it": "Il rosso principale di Bodegas El Nido a Jumilla, a base di Cabernet Sauvignon con una parte di Monastrell."
+  },
+  "body": {
+    "es": "<p>El Nido es el vino que da nombre a la bodega creada en <strong>Jumilla</strong> por la familia Gil y Chris Ringland, y el más ambicioso de la casa. A diferencia de Clio, en el que manda la monastrell, aquí la variedad principal es la <strong>cabernet sauvignon</strong>.</p><p>El vino combina cabernet sauvignon con una parte de <strong>monastrell</strong> de cepas viejas, en proporciones que varían según la añada. En el clima semiárido de Jumilla, con veranos muy calurosos y noches algo más frescas en el altiplano, la cabernet alcanza una madurez muy elevada, mientras que la monastrell aporta carnosidad y carácter mediterráneo. Las uvas proceden de parcelas de rendimientos muy bajos, sobre suelos calizos y pedregosos, y se vendimian a mano. Tras la fermentación, el vino se cría durante un periodo prolongado en barricas nuevas de roble. Es un tinto de enorme concentración, color profundo y estructura firme, en un estilo opulento pensado para una larga guarda.</p>",
+    "en": "<p>El Nido is the wine that gives its name to the winery created in <strong>Jumilla</strong> by the Gil family and Chris Ringland, and the house's most ambitious. Unlike Clio, where Monastrell leads, the main variety here is <strong>Cabernet Sauvignon</strong>.</p><p>The wine combines Cabernet Sauvignon with a share of old-vine <strong>Monastrell</strong>, in proportions that vary with the vintage. In Jumilla's semi-arid climate, with very hot summers and somewhat cooler nights on the plateau, Cabernet reaches very high ripeness, while Monastrell contributes flesh and Mediterranean character. The grapes come from very low-yielding plots on calcareous, stony soils and are picked by hand. After fermentation the wine is aged for an extended period in new oak barrels. It is a red of enormous concentration, deep colour and firm structure, in an opulent style designed for long ageing.</p>",
+    "fr": "<p>El Nido est le vin qui donne son nom au domaine créé à <strong>Jumilla</strong> par la famille Gil et Chris Ringland, et le plus ambitieux de la maison. Contrairement à Clio, où le monastrell domine, le cépage principal est ici le <strong>cabernet sauvignon</strong>.</p><p>Le vin associe le cabernet sauvignon à une part de <strong>monastrell</strong> de vieilles vignes, dans des proportions qui varient selon le millésime. Sous le climat semi-aride de Jumilla, avec des étés très chauds et des nuits un peu plus fraîches sur le plateau, le cabernet atteint une maturité très élevée, tandis que le monastrell apporte chair et caractère méditerranéen. Les raisins proviennent de parcelles aux rendements très faibles, sur des sols calcaires et caillouteux, et sont vendangés à la main. Après la fermentation, le vin est élevé longuement en barriques de chêne neuves. C'est un rouge d'une énorme concentration, à la couleur profonde et à la structure ferme, dans un style opulent conçu pour une longue garde.</p>",
+    "it": "<p>El Nido è il vino che dà il nome alla cantina creata a <strong>Jumilla</strong> dalla famiglia Gil e da Chris Ringland, e il più ambizioso della casa. A differenza di Clio, in cui comanda il Monastrell, qui la varietà principale è il <strong>Cabernet Sauvignon</strong>.</p><p>Il vino unisce Cabernet Sauvignon e una parte di <strong>Monastrell</strong> di vecchie viti, in proporzioni che variano secondo l'annata. Nel clima semiarido di Jumilla, con estati molto calde e notti un po' più fresche sull'altopiano, il Cabernet raggiunge una maturazione molto elevata, mentre il Monastrell apporta polpa e carattere mediterraneo. Le uve provengono da parcelle a rese bassissime, su suoli calcarei e sassosi, e sono vendemmiate a mano. Dopo la fermentazione il vino affina a lungo in barrique nuove di rovere. È un rosso di enorme concentrazione, colore profondo e struttura decisa, in uno stile opulento pensato per un lungo invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota opaco. Aromas de cassis, mora, cedro, chocolate, especias y tostados. En boca es denso y estructurado, con tanino firme y final muy largo.",
+    "en": "Opaque deep cherry red. Aromas of blackcurrant, blackberry, cedar, chocolate, spice and toast. Dense and structured on the palate, with firm tannins and a very long finish.",
+    "fr": "Rouge cerise opaque. Arômes de cassis, de mûre, de cèdre, de chocolat, d'épices et de grillé. En bouche, dense et structuré, aux tanins fermes et à la finale très longue.",
+    "it": "Rosso ciliegia impenetrabile. Aromi di cassis, mora, cedro, cioccolato, spezie e tostature. In bocca è denso e strutturato, con tannino deciso e finale lunghissimo."
+  },
+  "pairing": {
+    "es": "Carnes rojas, caza, guisos contundentes, quesos curados",
+    "en": "Red meats, game, hearty stews, aged cheeses",
+    "fr": "Viandes rouges, gibier, plats mijotés copieux, fromages affinés",
+    "it": "Carni rosse, selvaggina, stufati sostanziosi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, grand verre",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "El Nido Bodegas El Nido Jumilla"
+}

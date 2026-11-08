@@ -1,0 +1,49 @@
+{
+  "slug": "mazzei-siepi",
+  "name": "Mazzei Siepi",
+  "winery": "mazzei",
+  "region": "toscana",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "Toscana IGT",
+    "en": "Toscana IGT",
+    "fr": "Toscana IGT",
+    "it": "Toscana IGT"
+  },
+  "grapes": [
+    "sangiovese",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Tinto de Sangiovese y Merlot de la familia Mazzei, procedente de un viñedo concreto de Castello di Fonterutoli.",
+    "en": "Sangiovese and Merlot red from the Mazzei family, from a specific vineyard at Castello di Fonterutoli.",
+    "fr": "Rouge de sangiovese et de merlot de la famille Mazzei, issu d’un vignoble précis de Castello di Fonterutoli.",
+    "it": "Rosso da Sangiovese e Merlot della famiglia Mazzei, proveniente da una vigna precisa di Castello di Fonterutoli."
+  },
+  "body": {
+    "es": "<p><strong>Siepi</strong> toma su nombre de un viñedo de la finca de Fonterutoli, en Castellina in Chianti, y es uno de los vinos más ambiciosos de la familia Mazzei. Pertenece a la generación de tintos toscanos que, desde finales del siglo XX, combinaron la Sangiovese con variedades internacionales.</p><p>Se elabora con <strong>Sangiovese</strong> y <strong>Merlot</strong> en proporciones similares, aunque el equilibrio entre ambas puede variar según la añada. Las dos variedades se vinifican por separado y se crían en barricas de roble antes del ensamblaje. Al apartarse de las normas del Chianti Classico, se comercializa como Toscana IGT.</p><p>El resultado es un tinto de buena concentración, en el que la Sangiovese aporta acidez, perfume y estructura, y el Merlot redondez y fruta madura. Es un vino de guarda que se beneficia de algunos años en botella.</p>",
+    "en": "<p><strong>Siepi</strong> takes its name from a vineyard on the Fonterutoli estate in Castellina in Chianti and is one of the Mazzei family’s most ambitious wines. It belongs to the generation of Tuscan reds that, from the late twentieth century, combined Sangiovese with international varieties.</p><p>It is made from <strong>Sangiovese</strong> and <strong>Merlot</strong> in similar proportions, although the balance between the two may vary with the vintage. The two varieties are vinified separately and aged in oak barriques before blending. Because it departs from Chianti Classico rules, it is sold as Toscana IGT.</p><p>The result is a red of good concentration, in which Sangiovese provides acidity, perfume and structure, and Merlot roundness and ripe fruit. It is a wine for cellaring that benefits from a few years in bottle.</p>",
+    "fr": "<p><strong>Siepi</strong> tire son nom d’un vignoble du domaine de Fonterutoli, à Castellina in Chianti, et c’est l’un des vins les plus ambitieux de la famille Mazzei. Il appartient à la génération de rouges toscans qui, depuis la fin du XXe siècle, associent le sangiovese à des cépages internationaux.</p><p>Il est élaboré avec du <strong>sangiovese</strong> et du <strong>merlot</strong> en proportions semblables, même si l’équilibre entre les deux peut varier selon le millésime. Les deux cépages sont vinifiés séparément et élevés en barriques de chêne avant l’assemblage. Comme il s’écarte des règles du Chianti Classico, il est commercialisé en Toscana IGT.</p><p>Le résultat est un rouge d’une bonne concentration, dans lequel le sangiovese apporte acidité, parfum et structure, et le merlot rondeur et fruit mûr. C’est un vin de garde qui gagne à passer quelques années en bouteille.</p>",
+    "it": "<p><strong>Siepi</strong> prende il nome da una vigna della tenuta di Fonterutoli, a Castellina in Chianti, ed è uno dei vini più ambiziosi della famiglia Mazzei. Appartiene alla generazione di rossi toscani che, dalla fine del Novecento, hanno unito il Sangiovese a vitigni internazionali.</p><p>Si produce con <strong>Sangiovese</strong> e <strong>Merlot</strong> in proporzioni simili, anche se l’equilibrio tra i due può variare a seconda dell’annata. I due vitigni sono vinificati separatamente e affinati in barrique di rovere prima dell’assemblaggio. Poiché si discosta dalle regole del Chianti Classico, è commercializzato come Toscana IGT.</p><p>Il risultato è un rosso di buona concentrazione, in cui il Sangiovese apporta acidità, profumo e struttura e il Merlot rotondità e frutto maturo. È un vino da invecchiamento che beneficia di qualche anno in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rubí profundo. Aromas de cereza negra, ciruela, mora, especias y notas tostadas. Boca amplia y redonda, con taninos densos, buena acidez y final largo.",
+    "en": "Deep ruby. Aromas of black cherry, plum, blackberry, spice and toasty notes. Broad, rounded palate with dense tannins, good acidity and a long finish.",
+    "fr": "Rubis profond. Arômes de cerise noire, de prune, de mûre, d’épices et notes grillées. Bouche ample et ronde, aux tanins denses, avec une bonne acidité et une finale longue.",
+    "it": "Rubino profondo. Profumi di ciliegia nera, prugna, mora, spezie e note tostate. Bocca ampia e rotonda, con tannini densi, buona acidità e finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas asadas, caza, estofados, setas, quesos curados",
+    "en": "Roast red meat, game, stews, mushrooms, aged cheeses",
+    "fr": "Viandes rouges rôties, gibier, ragoûts, champignons, fromages affinés",
+    "it": "Carni rosse arrosto, selvaggina, stufati, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "17-18 °C, decantado, copa amplia",
+    "en": "17-18 °C, decanted, large glass",
+    "fr": "17-18 °C, carafé, verre ample",
+    "it": "17-18 °C, decantato, calice ampio"
+  },
+  "search": "Mazzei Siepi Castello di Fonterutoli"
+}

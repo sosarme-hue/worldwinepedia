@@ -1,0 +1,50 @@
+{
+  "slug": "campo-viejo-gran-reserva",
+  "name": "Campo Viejo Gran Reserva",
+  "winery": "campo-viejo",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Gran Reserva",
+    "en": "Gran Reserva",
+    "fr": "Gran Reserva",
+    "it": "Gran Reserva"
+  },
+  "grapes": [
+    "tempranillo",
+    "graciano",
+    "carinena"
+  ],
+  "summary": {
+    "es": "Gran Reserva de Campo Viejo, elaborado en añadas seleccionadas y envejecido al menos cinco años, dos de ellos como mínimo en barrica.",
+    "en": "Campo Viejo Gran Reserva, made in selected vintages and aged for at least five years, at least two of them in barrel.",
+    "fr": "Gran Reserva de Campo Viejo, élaboré les millésimes sélectionnés et vieilli au moins cinq ans, dont deux au minimum en barrique.",
+    "it": "Gran Reserva di Campo Viejo, prodotto nelle annate selezionate e invecchiato almeno cinque anni, di cui almeno due in barrique."
+  },
+  "body": {
+    "es": "<p>El Gran Reserva es el vino de crianza más larga de la gama clásica de Campo Viejo. Solo se elabora en añadas que la bodega considera aptas para un envejecimiento prolongado, con una mezcla de Tempranillo, Graciano y Mazuelo (Cariñena) cuyas proporciones varían según la cosecha.</p><p>Las normas de la Denominación de Origen Calificada Rioja exigen que un Gran Reserva envejezca un mínimo de cinco años, con al menos dos en barrica de roble y el resto en botella. Durante ese tiempo, el vino pierde la fruta primaria de juventud y desarrolla aromas terciarios propios de la larga crianza, como cuero, tabaco, frutos secos y especias. Campo Viejo combina roble americano y francés y conserva el vino en botella en sus calados de Logroño hasta su salida al mercado.</p><p>Es un tinto de perfil tradicional, elegante y suave, que representa el estilo de crianza larga por el que Rioja se hizo famosa.</p>",
+    "en": "<p>The Gran Reserva is the longest-aged wine in Campo Viejo’s classic range. It is made only in vintages the winery considers suitable for extended ageing, from a blend of Tempranillo, Graciano and Mazuelo (Carignan) whose proportions vary with the harvest.</p><p>The rules of the Rioja Denominación de Origen Calificada require a Gran Reserva to age for at least five years, with at least two in oak barrels and the rest in bottle. During that time the wine loses its youthful primary fruit and develops tertiary aromas typical of long ageing, such as leather, tobacco, nuts and spice. Campo Viejo combines American and French oak and keeps the wine in bottle in its Logroño cellars until release.</p><p>It is a red of traditional profile, elegant and smooth, representing the long-aged style for which Rioja became famous.</p>",
+    "fr": "<p>Le Gran Reserva est le vin au plus long élevage de la gamme classique de Campo Viejo. Il n’est élaboré que les millésimes jugés propices à un vieillissement prolongé, à partir d’un assemblage de tempranillo, de graciano et de mazuelo (carignan) dont les proportions varient selon la récolte.</p><p>Les règles de la Denominación de Origen Calificada Rioja exigent qu’un Gran Reserva vieillisse au moins cinq ans, dont au moins deux en barrique de chêne et le reste en bouteille. Pendant ce temps, le vin perd le fruit primaire de la jeunesse et développe des arômes tertiaires propres aux longs élevages, comme le cuir, le tabac, les fruits secs et les épices. Campo Viejo associe chêne américain et français et garde le vin en bouteille dans ses caves de Logroño jusqu’à sa commercialisation.</p><p>C’est un rouge au profil traditionnel, élégant et souple, qui représente le style de long élevage qui a fait la renommée de la Rioja.</p>",
+    "it": "<p>Il Gran Reserva è il vino dall’affinamento più lungo della gamma classica di Campo Viejo. Si produce solo nelle annate che la cantina considera adatte a un invecchiamento prolungato, con un assemblaggio di Tempranillo, Graciano e Mazuelo (Carignano) le cui proporzioni variano secondo la vendemmia.</p><p>Le norme della Denominación de Origen Calificada Rioja impongono che un Gran Reserva invecchi almeno cinque anni, di cui almeno due in barrique di rovere e il resto in bottiglia. In questo periodo il vino perde il frutto primario della giovinezza e sviluppa aromi terziari tipici dei lunghi affinamenti, come cuoio, tabacco, frutta secca e spezie. Campo Viejo combina rovere americano e francese e conserva il vino in bottiglia nelle sue cantine di Logroño fino alla messa in commercio.</p><p>È un rosso dal profilo tradizionale, elegante e morbido, che rappresenta lo stile di lungo affinamento che ha reso celebre la Rioja.</p>"
+  },
+  "tasting": {
+    "es": "Granate con ribete teja. Aromas de fruta madura y confitada, cuero, tabaco, especias y notas de sotobosque. En boca es sedoso, con taninos finos y un final largo.",
+    "en": "Garnet with a brick rim. Aromas of ripe and preserved fruit, leather, tobacco, spice and forest-floor notes. Silky on the palate, with fine tannins and a long finish.",
+    "fr": "Grenat à reflets tuilés. Arômes de fruits mûrs et confits, cuir, tabac, épices et notes de sous-bois. Soyeux en bouche, aux tanins fins et à la finale longue.",
+    "it": "Granato con unghia mattone. Aromi di frutta matura e candita, cuoio, tabacco, spezie e note di sottobosco. In bocca è setoso, con tannini fini e un finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes guisadas, caza, quesos curados",
+    "en": "Roast lamb, braised meats, game, aged cheeses",
+    "fr": "Agneau rôti, viandes braisées, gibier, fromages affinés",
+    "it": "Agnello arrosto, carni brasate, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Campo Viejo Gran Reserva Rioja"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "pesus",
+  "name": "Pesus",
+  "winery": "hermanos-sastre",
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tempranillo",
+    "merlot",
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "Tinto de alta gama de Bodegas Hermanos Sastre, elaborado con uva de viñas muy viejas de La Horra, principalmente Tinto Fino con algo de Merlot y Cabernet Sauvignon.",
+    "en": "Top red from Bodegas Hermanos Sastre, made from very old vines in La Horra, mainly Tinto Fino with some Merlot and Cabernet Sauvignon.",
+    "fr": "Rouge haut de gamme de Bodegas Hermanos Sastre, élaboré avec le raisin de très vieilles vignes de La Horra, principalement du tinto fino avec un peu de merlot et de cabernet-sauvignon.",
+    "it": "Rosso di punta di Bodegas Hermanos Sastre, prodotto con uve di vigne molto vecchie di La Horra, principalmente Tinto Fino con un po’ di Merlot e Cabernet Sauvignon."
+  },
+  "body": {
+    "es": "<p>Pesus es el vino más ambicioso de Bodegas Hermanos Sastre y uno de los tintos de producción limitada más buscados de la Ribera del Duero. Procede de viñedos muy viejos de la familia en La Horra, en los que, como era habitual en las plantaciones antiguas, junto al Tinto Fino crecen pequeñas cantidades de otras variedades. En el caso de Pesus, la mezcla incluye una pequeña proporción de Merlot y Cabernet Sauvignon, cuya presencia varía según la añada.</p><p>La uva se vendimia a mano y se selecciona de forma estricta. El vino se cría durante un periodo prolongado en barricas nuevas de roble francés y reposa después en botella antes de su comercialización. Solo se elabora en las añadas que la familia considera adecuadas.</p><p>El resultado es un tinto de gran concentración, profundo y estructurado, con un notable potencial de guarda. En su juventud se beneficia de una decantación prolongada, y con los años desarrolla mayor complejidad aromática.</p>",
+    "en": "<p>Pesus is the most ambitious wine from Bodegas Hermanos Sastre and one of the most sought-after limited-production reds in Ribera del Duero. It comes from the family’s very old vineyards in La Horra, in which, as was usual in old plantings, small amounts of other varieties grow alongside Tinto Fino. In the case of Pesus, the blend includes a small proportion of Merlot and Cabernet Sauvignon, whose presence varies with the vintage.</p><p>The grapes are hand-harvested and strictly selected. The wine is aged for an extended period in new French oak barrels and then rests in bottle before release. It is made only in vintages the family considers suitable.</p><p>The result is a red of great concentration, deep and structured, with considerable ageing potential. In its youth it benefits from lengthy decanting, and with the years it develops greater aromatic complexity.</p>",
+    "fr": "<p>Pesus est le vin le plus ambitieux de Bodegas Hermanos Sastre et l’un des rouges de production limitée les plus recherchés de la Ribera del Duero. Il provient de très vieilles vignes de la famille à La Horra, où, comme souvent dans les plantations anciennes, poussent à côté du tinto fino de petites quantités d’autres cépages. Dans le cas de Pesus, l’assemblage comprend une petite proportion de merlot et de cabernet-sauvignon, dont la présence varie selon le millésime.</p><p>Le raisin est vendangé à la main et rigoureusement sélectionné. Le vin est élevé longuement en barriques neuves de chêne français, puis repose en bouteille avant sa commercialisation. Il n’est élaboré que les millésimes jugés propices par la famille.</p><p>Il en résulte un rouge d’une grande concentration, profond et structuré, doté d’un potentiel de garde considérable. Jeune, il gagne à être longuement carafé ; avec les années, il développe une plus grande complexité aromatique.</p>",
+    "it": "<p>Pesus è il vino più ambizioso di Bodegas Hermanos Sastre e uno dei rossi a produzione limitata più ricercati della Ribera del Duero. Proviene da vigneti molto vecchi della famiglia a La Horra, in cui, come era consuetudine nei vecchi impianti, accanto al Tinto Fino crescono piccole quantità di altre varietà. Nel caso di Pesus, l’assemblaggio comprende una piccola percentuale di Merlot e Cabernet Sauvignon, la cui presenza varia secondo l’annata.</p><p>Le uve sono vendemmiate a mano e selezionate rigorosamente. Il vino affina a lungo in barrique nuove di rovere francese e riposa poi in bottiglia prima della messa in commercio. Si produce solo nelle annate che la famiglia ritiene adatte.</p><p>Il risultato è un rosso di grande concentrazione, profondo e strutturato, con un notevole potenziale d’invecchiamento. In gioventù beneficia di una lunga decantazione e con gli anni sviluppa una maggiore complessità aromatica.</p>"
+  },
+  "tasting": {
+    "es": "Color picota casi opaco. Fruta negra muy madura, regaliz, cacao, especias y notas tostadas y minerales. En boca es denso, poderoso y largo, con taninos abundantes y maduros.",
+    "en": "Almost opaque deep cherry colour. Very ripe black fruit, liquorice, cocoa, spice and toasty, mineral notes. Dense, powerful and long on the palate, with abundant ripe tannins.",
+    "fr": "Couleur cerise burlat presque opaque. Fruits noirs très mûrs, réglisse, cacao, épices et notes toastées et minérales. En bouche, il est dense, puissant et long, aux tanins abondants et mûrs.",
+    "it": "Colore ciliegia quasi impenetrabile. Frutta nera molto matura, liquirizia, cacao, spezie e note tostate e minerali. In bocca è denso, potente e lungo, con tannini abbondanti e maturi."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, lechazo asado, caza mayor, quesos curados de oveja",
+    "en": "Chargrilled red meat, roast milk-fed lamb, large game, aged sheep’s cheeses",
+    "fr": "Viandes rouges à la braise, agneau de lait rôti, gros gibier, fromages de brebis affinés",
+    "it": "Carni rosse alla brace, agnello da latte arrosto, selvaggina di grossa taglia, pecorini stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Pesus Hermanos Sastre Ribera del Duero"
+}

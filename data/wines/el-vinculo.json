@@ -1,0 +1,43 @@
+{
+  "slug": "el-vinculo",
+  "name": "El Vínculo",
+  "winery": "pesquera",
+  "region": "la-mancha",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Tinto de tempranillo de La Mancha elaborado por la familia Fernández Rivera, de Tinto Pesquera, en su bodega de Campo de Criptana.",
+    "en": "Tempranillo red from La Mancha made by the Fernández Rivera family, of Tinto Pesquera, at their winery in Campo de Criptana.",
+    "fr": "Rouge de tempranillo de la Manche élaboré par la famille Fernández Rivera, de Tinto Pesquera, dans son domaine de Campo de Criptana.",
+    "it": "Rosso di Tempranillo della Mancia prodotto dalla famiglia Fernández Rivera, di Tinto Pesquera, nella sua cantina di Campo de Criptana."
+  },
+  "body": {
+    "es": "<p>El Vínculo es el proyecto de la familia de Alejandro Fernández, creador de Tinto Pesquera en Ribera del Duero, en <strong>La Mancha</strong>. La bodega se encuentra en <strong>Campo de Criptana</strong>, la localidad manchega conocida por sus molinos de viento, y su nombre alude al vínculo de la familia con la tierra y con la tradición vitícola.</p><p>El vino se elabora exclusivamente con <strong>tempranillo</strong>, la misma variedad con la que la familia trabaja en la Ribera, aquí llamada cencibel. Las uvas proceden de viñedos viejos en vaso, cultivados en secano en la meseta manchega, a una altitud considerable, con un clima continental extremo de veranos muy calurosos, inviernos fríos y escasa lluvia, y suelos calizos. Siguiendo el estilo de la casa, el vino se cría en barricas de roble americano, que le aportan notas especiadas y de vainilla. El resultado es un tinto de fruta madura, cuerpo amplio y tanino firme, en un estilo clásico que recuerda a los tintos de la familia en el Duero.</p>",
+    "en": "<p>El Vínculo is the <strong>La Mancha</strong> project of the family of Alejandro Fernández, creator of Tinto Pesquera in Ribera del Duero. The winery is in <strong>Campo de Criptana</strong>, the La Mancha town known for its windmills, and its name, meaning “the bond”, alludes to the family's ties to the land and to winegrowing tradition.</p><p>The wine is made exclusively from <strong>Tempranillo</strong>, the same variety the family works with in Ribera, here called Cencibel. The grapes come from old dry-farmed bush vines on the La Mancha plateau, at considerable altitude, with an extreme continental climate of very hot summers, cold winters and scant rain, and calcareous soils. In keeping with the house style, the wine is aged in American oak barrels, which give it spicy and vanilla notes. The result is a red with ripe fruit, a full body and firm tannins, in a classic style reminiscent of the family's Duero reds.</p>",
+    "fr": "<p>El Vínculo est le projet de la famille d'Alejandro Fernández, créateur de Tinto Pesquera en Ribera del Duero, dans la <strong>Manche</strong>. Le domaine se trouve à <strong>Campo de Criptana</strong>, la localité manchega connue pour ses moulins à vent, et son nom, « le lien », fait allusion au lien de la famille avec la terre et la tradition viticole.</p><p>Le vin est élaboré exclusivement avec du <strong>tempranillo</strong>, le même cépage que la famille travaille dans la Ribera, appelé ici cencibel. Les raisins proviennent de vieilles vignes en gobelet, cultivées sans irrigation sur le plateau manchego, à une altitude considérable, sous un climat continental extrême aux étés très chauds, aux hivers froids et aux pluies rares, sur des sols calcaires. Fidèle au style de la maison, le vin est élevé en barriques de chêne américain, qui lui apportent des notes épicées et vanillées. Le résultat est un rouge au fruit mûr, au corps ample et aux tanins fermes, dans un style classique qui rappelle les rouges de la famille sur le Duero.</p>",
+    "it": "<p>El Vínculo è il progetto nella <strong>Mancia</strong> della famiglia di Alejandro Fernández, creatore di Tinto Pesquera nella Ribera del Duero. La cantina si trova a <strong>Campo de Criptana</strong>, la località mancega nota per i suoi mulini a vento, e il nome, «il legame», allude al vincolo della famiglia con la terra e con la tradizione viticola.</p><p>Il vino è prodotto esclusivamente con <strong>Tempranillo</strong>, la stessa varietà con cui la famiglia lavora nella Ribera, qui chiamata Cencibel. Le uve provengono da vecchie viti ad alberello, coltivate senza irrigazione sull'altopiano mancego, a un'altitudine considerevole, con un clima continentale estremo di estati molto calde, inverni freddi e piogge scarse, su suoli calcarei. Secondo lo stile della casa, il vino affina in barrique di rovere americano, che gli conferiscono note speziate e di vaniglia. Il risultato è un rosso di frutto maturo, corpo ampio e tannino deciso, in uno stile classico che ricorda i rossi della famiglia sul Duero.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota con ribete granate. Aromas de fruta negra madura, regaliz, vainilla, coco y especias. En boca es amplio, con tanino firme y final especiado.",
+    "en": "Deep cherry red with a garnet rim. Aromas of ripe black fruit, liquorice, vanilla, coconut and spice. Broad on the palate, with firm tannins and a spicy finish.",
+    "fr": "Rouge cerise au disque grenat. Arômes de fruits noirs mûrs, de réglisse, de vanille, de noix de coco et d'épices. En bouche, ample, aux tanins fermes et à la finale épicée.",
+    "it": "Rosso ciliegia con unghia granata. Aromi di frutta nera matura, liquirizia, vaniglia, cocco e spezie. In bocca è ampio, con tannino deciso e finale speziato."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes a la brasa, queso manchego, guisos de caza",
+    "en": "Roast lamb, grilled meats, Manchego cheese, game stews",
+    "fr": "Agneau rôti, viandes grillées, manchego, civets de gibier",
+    "it": "Agnello arrosto, carni alla brace, manchego, stufati di selvaggina"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, grand verre",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "El Vínculo Alejandro Fernández La Mancha"
+}

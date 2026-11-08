@@ -1,0 +1,50 @@
+{
+  "slug": "clos-des-papes-rouge",
+  "name": "Clos des Papes Châteauneuf-du-Pape Rouge",
+  "winery": "clos-des-papes",
+  "region": "chateauneuf-du-pape",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Châteauneuf-du-Pape",
+    "en": "Châteauneuf-du-Pape",
+    "fr": "Châteauneuf-du-Pape",
+    "it": "Châteauneuf-du-Pape"
+  },
+  "grapes": [
+    "garnacha",
+    "monastrell",
+    "syrah"
+  ],
+  "summary": {
+    "es": "Châteauneuf-du-Pape tinto de la familia Avril, ensamblaje de Garnacha, Mourvèdre y Syrah procedente de parcelas repartidas por toda la denominación.",
+    "en": "Red Châteauneuf-du-Pape from the Avril family, a blend of Grenache, Mourvèdre and Syrah from parcels spread across the appellation.",
+    "fr": "Châteauneuf-du-pape rouge de la famille Avril, assemblage de grenache, de mourvèdre et de syrah issu de parcelles réparties dans toute l’appellation.",
+    "it": "Châteauneuf-du-Pape rosso della famiglia Avril, assemblaggio di Grenache, Mourvèdre e Syrah da parcelle distribuite in tutta la denominazione."
+  },
+  "body": {
+    "es": "<p>El tinto de Clos des Papes es el vino principal del dominio y uno de los Châteauneuf-du-Pape más reconocidos. Se elabora con uvas de las numerosas parcelas que la familia Avril posee en distintos sectores de la denominación, lo que permite combinar la potencia de los suelos de cantos rodados con la frescura de las arenas y las calizas.</p><p>La <strong>Garnacha</strong> es la base del ensamblaje, acompañada de una parte destacada de <strong>Mourvèdre</strong>, de Syrah y de pequeñas cantidades de otras variedades autorizadas; las proporciones varían según la añada. Las uvas se vendimian a mano, con rendimientos bajos, y el vino se cría en fudres de roble, sin protagonismo de la madera nueva.</p><p>Es un vino de estructura firme y gran capacidad de envejecimiento. Joven puede resultar algo cerrado, y suele ganar en complejidad tras varios años de botella, con notas de fruta negra, especias, garriga y cuero.</p>",
+    "en": "<p>The Clos des Papes red is the domaine’s main wine and one of the most respected Châteauneuf-du-Papes. It is made from grapes grown on the many parcels the Avril family owns in different sectors of the appellation, which makes it possible to combine the power of the pebbly soils with the freshness of sand and limestone.</p><p><strong>Grenache</strong> forms the basis of the blend, accompanied by a substantial share of <strong>Mourvèdre</strong>, by Syrah and by small amounts of other authorised varieties; the proportions vary with the vintage. The grapes are hand-picked at low yields, and the wine is aged in oak casks, with no prominent role for new oak.</p><p>It is a wine of firm structure and great ageing potential. Young, it can be somewhat closed, and it usually gains complexity after several years in bottle, with notes of black fruit, spice, garrigue and leather.</p>",
+    "fr": "<p>Le rouge de Clos des Papes est le vin principal du domaine et l’un des châteauneuf-du-pape les plus réputés. Il est élaboré avec les raisins des nombreuses parcelles que la famille Avril possède dans différents secteurs de l’appellation, ce qui permet d’allier la puissance des sols de galets roulés à la fraîcheur des sables et des calcaires.</p><p>Le <strong>grenache</strong> constitue la base de l’assemblage, accompagné d’une part importante de <strong>mourvèdre</strong>, de syrah et de petites quantités d’autres cépages autorisés ; les proportions varient selon le millésime. Les raisins sont vendangés à la main, avec de faibles rendements, et le vin est élevé en foudres de chêne, sans rôle marquant du bois neuf.</p><p>C’est un vin à la structure ferme et au grand potentiel de vieillissement. Jeune, il peut paraître un peu fermé, et il gagne généralement en complexité après plusieurs années de bouteille, avec des notes de fruits noirs, d’épices, de garrigue et de cuir.</p>",
+    "it": "<p>Il rosso di Clos des Papes è il vino principale del domaine e uno degli Châteauneuf-du-Pape più apprezzati. È prodotto con uve delle numerose parcelle che la famiglia Avril possiede in diversi settori della denominazione, il che permette di unire la potenza dei suoli di ciottoli alla freschezza delle sabbie e dei calcari.</p><p>Il <strong>Grenache</strong> costituisce la base dell’assemblaggio, accompagnato da una quota importante di <strong>Mourvèdre</strong>, da Syrah e da piccole quantità di altre varietà autorizzate; le proporzioni variano secondo l’annata. Le uve sono vendemmiate a mano, con rese basse, e il vino affina in botti di rovere, senza protagonismo del legno nuovo.</p><p>È un vino di struttura decisa e grande capacità di invecchiamento. Da giovane può risultare un po’ chiuso, e di solito guadagna complessità dopo diversi anni di bottiglia, con note di frutta nera, spezie, macchia mediterranea e cuoio.</p>"
+  },
+  "tasting": {
+    "es": "Rojo granate profundo. Aromas de mora, cereza negra, especias, garriga y notas terrosas. Boca estructurada, de taninos firmes, frescura y final largo.",
+    "en": "Deep garnet. Aromas of blackberry, black cherry, spice, garrigue and earthy notes. Structured palate with firm tannins, freshness and a long finish.",
+    "fr": "Grenat profond. Arômes de mûre, de cerise noire, d’épices, de garrigue et notes terreuses. Bouche structurée, aux tanins fermes, fraîche et à la finale longue.",
+    "it": "Granato profondo. Aromi di mora, ciliegia nera, spezie, macchia mediterranea e note terrose. Bocca strutturata, dai tannini decisi, fresca e dal finale lungo."
+  },
+  "pairing": {
+    "es": "Caza de pelo, cordero lechal asado, carrillera estofada, quesos curados",
+    "en": "Furred game, roast milk-fed lamb, braised cheek, aged cheeses",
+    "fr": "Gibier à poil, agneau de lait rôti, joue braisée, fromages affinés",
+    "it": "Selvaggina da pelo, agnello da latte arrosto, guancia brasata, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Clos des Papes Châteauneuf-du-Pape Rouge Paul Avril"
+}

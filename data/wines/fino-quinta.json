@@ -1,0 +1,48 @@
+{
+  "slug": "fino-quinta",
+  "name": "Fino Quinta",
+  "winery": "osborne",
+  "region": "jerez-xeres-sherry",
+  "country": "espana",
+  "type": "generoso",
+  "category": {
+    "es": "Fino",
+    "en": "Fino",
+    "fr": "Fino",
+    "it": "Fino"
+  },
+  "grapes": [
+    "palomino"
+  ],
+  "summary": {
+    "es": "Fino de Osborne criado bajo velo de flor en El Puerto de Santa María, el jerez seco más conocido de la casa.",
+    "en": "Fino from Osborne aged under flor in El Puerto de Santa María, the house's best-known dry sherry.",
+    "fr": "Fino d'Osborne élevé sous voile de flor à El Puerto de Santa María, le xérès sec le plus connu de la maison.",
+    "it": "Fino di Osborne affinato sotto il velo di flor a El Puerto de Santa María, lo sherry secco più noto della casa."
+  },
+  "body": {
+    "es": "<p>Fino Quinta es el fino más conocido de Osborne y un ejemplo del estilo de <strong>El Puerto de Santa María</strong>, la ciudad situada en la desembocadura del Guadalete, frente a la bahía de Cádiz. Los finos de El Puerto se consideran a menudo un punto intermedio entre los de Jerez y la manzanilla de Sanlúcar: la cercanía del mar suaviza las temperaturas y mantiene una humedad que favorece el desarrollo del velo de flor.</p><p>Se elabora con <strong>palomino</strong> de viñedos de albariza del Marco de Jerez. Tras la fermentación, el vino se encabeza hasta la graduación adecuada para la crianza biológica y entra en el sistema de <strong>criaderas y solera</strong> de las bodegas de Osborne en El Puerto, donde permanece varios años bajo el velo de <strong>flor</strong>, protegido del oxígeno. Esta crianza le da su color pálido, sus aromas punzantes de levadura y su sequedad. Es un fino ligero y fresco, que debe servirse bien frío y consumirse pronto una vez abierto.</p>",
+    "en": "<p>Fino Quinta is Osborne's best-known fino and an example of the style of <strong>El Puerto de Santa María</strong>, the town at the mouth of the Guadalete, facing the Bay of Cádiz. El Puerto finos are often considered a halfway point between those of Jerez and the manzanilla of Sanlúcar: the nearby sea moderates temperatures and maintains a humidity that encourages the growth of flor.</p><p>It is made from <strong>Palomino</strong> from albariza vineyards in the Jerez area. After fermentation the wine is fortified to the strength suitable for biological ageing and enters the <strong>criaderas and solera</strong> system of Osborne's bodegas in El Puerto, where it spends several years under <strong>flor</strong>, protected from oxygen. This ageing gives it its pale colour, pungent yeasty aromas and dryness. It is a light, fresh fino that should be served well chilled and drunk soon after opening.</p>",
+    "fr": "<p>Fino Quinta est le fino le plus connu d'Osborne et un exemple du style d'<strong>El Puerto de Santa María</strong>, la ville située à l'embouchure du Guadalete, face à la baie de Cadix. Les finos d'El Puerto sont souvent considérés comme un intermédiaire entre ceux de Jerez et la manzanilla de Sanlúcar : la proximité de la mer adoucit les températures et entretient une humidité favorable au développement du voile de flor.</p><p>Il est élaboré avec du <strong>palomino</strong> de vignes d'albariza du Marco de Jerez. Après la fermentation, le vin est muté au degré adapté à l'élevage biologique et entre dans le système de <strong>criaderas et solera</strong> des bodegas d'Osborne à El Puerto, où il passe plusieurs années sous le voile de <strong>flor</strong>, à l'abri de l'oxygène. Cet élevage lui donne sa couleur pâle, ses arômes piquants de levure et sa sécheresse. C'est un fino léger et frais, à servir bien frais et à consommer rapidement après ouverture.</p>",
+    "it": "<p>Fino Quinta è il fino più noto di Osborne e un esempio dello stile di <strong>El Puerto de Santa María</strong>, la città alla foce del Guadalete, di fronte alla baia di Cadice. I fino di El Puerto sono spesso considerati una via di mezzo tra quelli di Jerez e la manzanilla di Sanlúcar: la vicinanza del mare mitiga le temperature e mantiene un'umidità che favorisce lo sviluppo del velo di flor.</p><p>È prodotto con <strong>Palomino</strong> di vigneti di albariza del Marco de Jerez. Dopo la fermentazione il vino viene fortificato fino alla gradazione adatta all'affinamento biologico ed entra nel sistema di <strong>criaderas e solera</strong> delle bodegas di Osborne a El Puerto, dove trascorre diversi anni sotto il velo di <strong>flor</strong>, protetto dall'ossigeno. Questo affinamento gli conferisce il colore pallido, gli aromi pungenti di lievito e la secchezza. È un fino leggero e fresco, da servire ben freddo e da consumare presto una volta aperto.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pajizo pálido. Aromas de levadura, almendra, pan fresco y notas salinas. En boca es seco, ligero y fresco, con un final ligeramente amargo.",
+    "en": "Pale straw yellow. Aromas of yeast, almond, fresh bread and saline notes. Dry, light and fresh on the palate, with a slightly bitter finish.",
+    "fr": "Jaune paille pâle. Arômes de levure, d'amande, de pain frais et notes salines. En bouche, sec, léger et frais, avec une finale légèrement amère.",
+    "it": "Giallo paglierino pallido. Aromi di lievito, mandorla, pane fresco e note saline. In bocca è secco, leggero e fresco, con un finale leggermente amarognolo."
+  },
+  "pairing": {
+    "es": "Jamón ibérico, aceitunas, almendras, marisco, pescado frito",
+    "en": "Iberian ham, olives, almonds, shellfish, fried fish",
+    "fr": "Jambon ibérique, olives, amandes, fruits de mer, friture de poisson",
+    "it": "Prosciutto iberico, olive, mandorle, frutti di mare, frittura di pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de vino blanco",
+    "en": "6-8 °C, white wine glass",
+    "fr": "6-8 °C, verre à vin blanc",
+    "it": "6-8 °C, calice da vino bianco"
+  },
+  "search": "Fino Quinta Osborne"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "muga-blanco",
+  "name": "Muga Blanco",
+  "winery": "muga",
+  "region": "rioja",
+  "country": "espana",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "macabeo",
+    "malvasia"
+  ],
+  "summary": {
+    "es": "Blanco de Bodegas Muga elaborado principalmente con Viura y algo de Malvasía, fermentado en barrica y criado brevemente sobre lías.",
+    "en": "White from Bodegas Muga made mainly from Viura with some Malvasía, barrel-fermented and briefly aged on lees.",
+    "fr": "Blanc de Bodegas Muga élaboré principalement avec du viura et un peu de malvasia, fermenté en barrique et brièvement élevé sur lies.",
+    "it": "Bianco di Bodegas Muga prodotto principalmente con Viura e un po’ di Malvasía, fermentato in barrique e affinato brevemente sulle fecce."
+  },
+  "body": {
+    "es": "<p>Muga Blanco es el blanco de la bodega de Haro y aplica a una uva blanca el uso de la madera que caracteriza a toda la producción de la casa. Se elabora principalmente con Viura (Macabeo), la variedad blanca más extendida de Rioja, acompañada de una proporción menor de Malvasía, que aporta aromas y volumen; las proporciones varían según la añada.</p><p>El mosto fermenta en barricas de roble francés fabricadas en la propia tonelería de la bodega, y el vino permanece unos meses sobre sus lías finas, que se remueven periódicamente para aportar textura. La crianza en madera es breve, de modo que el roble se integra sin dominar la fruta.</p><p>El resultado es un blanco de cuerpo medio, fresco y aromático, con notas de fruta blanca, flores y un ligero matiz tostado. Se disfruta en sus primeros años, aunque su estructura le permite evolucionar algo en botella.</p>",
+    "en": "<p>Muga Blanco is the Haro winery’s white and applies to a white grape the use of wood that characterises the house’s entire production. It is made mainly from Viura (Macabeo), the most widely planted white variety in Rioja, with a smaller proportion of Malvasía, which adds aroma and body; the proportions vary with the vintage.</p><p>The must ferments in French oak barrels made in the winery’s own cooperage, and the wine stays for a few months on its fine lees, which are stirred periodically to add texture. Ageing in wood is short, so that the oak integrates without dominating the fruit.</p><p>The result is a medium-bodied, fresh and aromatic white with notes of white fruit, flowers and a light toasty touch. It is enjoyed in its first years, although its structure allows it to develop somewhat in bottle.</p>",
+    "fr": "<p>Muga Blanco est le blanc de la bodega de Haro et applique à un raisin blanc l’usage du bois qui caractérise toute la production de la maison. Il est élaboré principalement avec du viura (macabeu), le cépage blanc le plus répandu de la Rioja, accompagné d’une proportion plus faible de malvasia, qui apporte arômes et volume ; les proportions varient selon le millésime.</p><p>Le moût fermente dans des barriques de chêne français fabriquées dans la tonnellerie de la bodega, et le vin reste quelques mois sur ses lies fines, remuées périodiquement pour apporter de la texture. L’élevage sous bois est bref, de sorte que le chêne s’intègre sans dominer le fruit.</p><p>Il en résulte un blanc de corps moyen, frais et aromatique, aux notes de fruits blancs, de fleurs et à une légère touche toastée. Il s’apprécie dans ses premières années, même si sa structure lui permet d’évoluer un peu en bouteille.</p>",
+    "it": "<p>Muga Blanco è il bianco della cantina di Haro e applica a un’uva bianca l’uso del legno che caratterizza l’intera produzione della casa. È prodotto principalmente con Viura (Macabeo), il vitigno bianco più diffuso della Rioja, accompagnato da una percentuale minore di Malvasía, che apporta aromi e volume; le proporzioni variano secondo l’annata.</p><p>Il mosto fermenta in barrique di rovere francese costruite nella bottaia della cantina, e il vino resta alcuni mesi sulle fecce fini, rimescolate periodicamente per conferire struttura. L’affinamento in legno è breve, così che il rovere si integri senza dominare il frutto.</p><p>Il risultato è un bianco di medio corpo, fresco e aromatico, con note di frutta bianca, fiori e un leggero tocco tostato. Si gusta nei primi anni, anche se la sua struttura gli permette di evolvere un po’ in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pajizo brillante. Aromas de manzana, pera, flores blancas y un ligero tostado. En boca es fresco y untuoso, con buena acidez y final sabroso.",
+    "en": "Bright straw yellow. Aromas of apple, pear, white flowers and a light toastiness. Fresh and creamy on the palate, with good acidity and a savoury finish.",
+    "fr": "Jaune paille brillant. Arômes de pomme, de poire, de fleurs blanches et léger toasté. En bouche, il est frais et onctueux, avec une bonne acidité et une finale savoureuse.",
+    "it": "Giallo paglierino brillante. Aromi di mela, pera, fiori bianchi e una leggera tostatura. In bocca è fresco e untuoso, con buona acidità e finale sapido."
+  },
+  "pairing": {
+    "es": "Pescados al horno, arroces de marisco, aves en salsa, quesos de pasta blanda",
+    "en": "Baked fish, seafood rice dishes, poultry in sauce, soft cheeses",
+    "fr": "Poissons au four, riz aux fruits de mer, volailles en sauce, fromages à pâte molle",
+    "it": "Pesce al forno, risi ai frutti di mare, pollame in salsa, formaggi a pasta molle"
+  },
+  "serve": {
+    "es": "10-12 °C, copa amplia",
+    "en": "10-12 °C, large glass",
+    "fr": "10-12 °C, verre ample",
+    "it": "10-12 °C, calice ampio"
+  },
+  "search": "Muga Blanco fermentado en barrica Rioja"
+}

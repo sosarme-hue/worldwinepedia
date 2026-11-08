@@ -1,0 +1,48 @@
+{
+  "slug": "la-tache",
+  "name": "La Tâche Grand Cru",
+  "winery": "domaine-de-la-romanee-conti",
+  "region": "cote-de-nuits",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Grand Cru",
+    "en": "Grand Cru",
+    "fr": "Grand Cru",
+    "it": "Grand Cru"
+  },
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Grand cru de Vosne-Romanée propiedad exclusiva del Domaine de la Romanée-Conti, elaborado con Pinot Noir y conocido por su intensidad aromática y su estructura.",
+    "en": "Vosne-Romanée grand cru solely owned by the Domaine de la Romanée-Conti, made from Pinot Noir and known for its aromatic intensity and structure.",
+    "fr": "Grand cru de Vosne-Romanée, propriété exclusive du Domaine de la Romanée-Conti, élaboré avec du pinot noir et connu pour son intensité aromatique et sa structure.",
+    "it": "Grand cru di Vosne-Romanée di proprietà esclusiva del Domaine de la Romanée-Conti, prodotto con Pinot Nero e noto per la sua intensità aromatica e la sua struttura."
+  },
+  "body": {
+    "es": "<p>La Tâche es, como Romanée-Conti, un grand cru de Vosne-Romanée que pertenece en exclusiva al Domaine de la Romanée-Conti, que lo adquirió en la década de 1930. Es bastante más extenso que Romanée-Conti y se sitúa al sur de este, en la misma ladera, sobre suelos de arcilla y caliza con pendientes variables que dan exposiciones algo distintas de una parte a otra del viñedo.</p><p>El vino se elabora con <strong>Pinot Noir</strong> cultivado en biodinámica, con rendimientos bajos y vendimia manual. La vinificación sigue los mismos principios que para los demás grands crus del domaine: selección rigurosa, fermentación con una parte importante de racimos enteros y crianza en barricas nuevas de roble francés.</p><p>La Tâche se describe a menudo como más intenso y especiado que Romanée-Conti en su juventud, con una estructura notable y una gran riqueza aromática. Necesita muchos años de botella para mostrar toda su complejidad, y sus mejores añadas evolucionan durante décadas.</p>",
+    "en": "<p>La Tâche is, like Romanée-Conti, a Vosne-Romanée grand cru belonging exclusively to the Domaine de la Romanée-Conti, which acquired it in the 1930s. It is considerably larger than Romanée-Conti and lies to the south of it, on the same slope, on clay and limestone soils with varying gradients that give slightly different exposures from one part of the vineyard to another.</p><p>The wine is made from biodynamically farmed <strong>Pinot Noir</strong>, with low yields and hand harvesting. Vinification follows the same principles as for the domaine’s other grands crus: rigorous sorting, fermentation with a significant proportion of whole bunches and ageing in new French oak barrels.</p><p>La Tâche is often described as more intense and spicy than Romanée-Conti in its youth, with notable structure and great aromatic richness. It needs many years in bottle to reveal its full complexity, and its best vintages develop for decades.</p>",
+    "fr": "<p>La Tâche est, comme la Romanée-Conti, un grand cru de Vosne-Romanée qui appartient exclusivement au Domaine de la Romanée-Conti, lequel l’a acquis dans les années 1930. Nettement plus étendu que la Romanée-Conti, il se situe au sud de celle-ci, sur le même coteau, sur des sols argilo-calcaires aux pentes variables qui offrent des expositions un peu différentes d’une partie à l’autre du vignoble.</p><p>Le vin est élaboré avec du <strong>pinot noir</strong> cultivé en biodynamie, avec des rendements faibles et des vendanges manuelles. La vinification suit les mêmes principes que pour les autres grands crus du domaine : tri rigoureux, fermentation avec une part importante de vendange entière et élevage en barriques neuves de chêne français.</p><p>La Tâche est souvent décrite comme plus intense et plus épicée que la Romanée-Conti dans sa jeunesse, avec une structure remarquable et une grande richesse aromatique. Elle demande de nombreuses années de bouteille pour révéler toute sa complexité, et ses meilleurs millésimes évoluent pendant des décennies.</p>",
+    "it": "<p>La Tâche è, come Romanée-Conti, un grand cru di Vosne-Romanée che appartiene in esclusiva al Domaine de la Romanée-Conti, che lo acquistò negli anni Trenta. È molto più esteso di Romanée-Conti e si trova a sud di questo, sullo stesso pendio, su suoli argillo-calcarei con pendenze variabili che offrono esposizioni un po’ diverse da una parte all’altra del vigneto.</p><p>Il vino è prodotto con <strong>Pinot Nero</strong> coltivato in biodinamica, con rese basse e vendemmia manuale. La vinificazione segue gli stessi principi degli altri grand cru del domaine: selezione rigorosa, fermentazione con una quota importante di grappoli interi e affinamento in barrique nuove di rovere francese.</p><p>La Tâche è spesso descritta come più intensa e speziata di Romanée-Conti in gioventù, con una struttura notevole e una grande ricchezza aromatica. Ha bisogno di molti anni di bottiglia per mostrare tutta la sua complessità, e le sue migliori annate evolvono per decenni.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de cereza negra, frambuesa, rosa, especias y notas terrosas. Boca profunda y sedosa, con una estructura firme, taninos finos y un final muy largo.",
+    "en": "Intense ruby. Aromas of black cherry, raspberry, rose, spice and earthy notes. Deep, silky palate with a firm structure, fine tannins and a very long finish.",
+    "fr": "Rubis intense. Arômes de cerise noire, de framboise, de rose, d’épices et notes terreuses. Bouche profonde et soyeuse, à la structure ferme, aux tanins fins, finale très longue.",
+    "it": "Rubino intenso. Aromi di ciliegia nera, lampone, rosa, spezie e note terrose. Bocca profonda e setosa, con una struttura decisa, tannini fini e un finale molto lungo."
+  },
+  "pairing": {
+    "es": "Aves asadas, pichón, caza de pluma, platos con setas y trufa",
+    "en": "Roast poultry, squab, game birds, mushroom and truffle dishes",
+    "fr": "Volailles rôties, pigeon, gibier à plume, plats aux champignons et à la truffe",
+    "it": "Pollame arrosto, piccione, selvaggina da piuma, piatti con funghi e tartufo"
+  },
+  "serve": {
+    "es": "15-17 °C, copa amplia de tipo Borgoña",
+    "en": "15-17 °C, large Burgundy glass",
+    "fr": "15-17 °C, grand verre de type bourgogne",
+    "it": "15-17 °C, calice ampio tipo Borgogna"
+  },
+  "search": "La Tâche Grand Cru Domaine de la Romanée-Conti"
+}

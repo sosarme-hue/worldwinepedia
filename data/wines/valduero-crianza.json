@@ -1,0 +1,48 @@
+{
+  "slug": "valduero-crianza",
+  "name": "Valduero Crianza",
+  "winery": "valduero",
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Crianza",
+    "en": "Crianza",
+    "fr": "Crianza",
+    "it": "Crianza"
+  },
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Crianza de Bodegas Valduero, en Gumiel del Mercado, elaborado con Tinto Fino de viñedos propios y criado en barrica en sus galerías subterráneas.",
+    "en": "Crianza from Bodegas Valduero in Gumiel del Mercado, made from Tinto Fino from its own vineyards and aged in barrel in its underground galleries.",
+    "fr": "Crianza de Bodegas Valduero, à Gumiel del Mercado, élaboré avec du tinto fino de ses propres vignes et élevé en barrique dans ses galeries souterraines.",
+    "it": "Crianza di Bodegas Valduero, a Gumiel del Mercado, prodotto con Tinto Fino di vigneti propri e affinato in barrique nelle sue gallerie sotterranee."
+  },
+  "body": {
+    "es": "<p>Valduero Crianza es el vino más difundido de Bodegas Valduero, la bodega familiar de Gumiel del Mercado, en el sector norte de la Ribera del Duero burgalesa. Se elabora con Tinto Fino, la variante local del Tempranillo, procedente de los viñedos propios que la familia cultiva en el entorno del pueblo, a una altitud elevada y sobre suelos de arcilla y caliza.</p><p>Tras la fermentación, el vino se cría en barrica de roble durante al menos doce meses, como establece la categoría Crianza en la Denominación de Origen Ribera del Duero. La crianza se realiza en las galerías excavadas en la ladera junto a la bodega, donde la temperatura y la humedad se mantienen estables durante todo el año, y se completa con un periodo de reposo en botella.</p><p>El resultado es un tinto de estilo tradicional, con fruta negra madura, notas de roble y especias y una estructura firme. Puede beberse en sus primeros años, aunque también evoluciona bien con algo de guarda.</p>",
+    "en": "<p>Valduero Crianza is the most widely distributed wine from Bodegas Valduero, the family winery in Gumiel del Mercado, in the northern sector of the Burgos side of Ribera del Duero. It is made from Tinto Fino, the local variant of Tempranillo, from the family’s own vineyards around the village, at high altitude and on clay and limestone soils.</p><p>After fermentation the wine is aged in oak barrels for at least twelve months, as the Crianza category lays down in the Ribera del Duero Denominación de Origen. Ageing takes place in the galleries dug into the hillside next to the winery, where temperature and humidity remain stable all year round, and is completed by a period of bottle rest.</p><p>The result is a traditional-style red, with ripe black fruit, notes of oak and spice and a firm structure. It can be drunk in its first years, although it also develops well with some ageing.</p>",
+    "fr": "<p>Valduero Crianza est le vin le plus diffusé de Bodegas Valduero, la bodega familiale de Gumiel del Mercado, dans le secteur nord de la Ribera del Duero de Burgos. Il est élaboré avec du tinto fino, variante locale du tempranillo, provenant des vignes que la famille cultive autour du village, en altitude et sur des sols d’argile et de calcaire.</p><p>Après la fermentation, le vin est élevé en barrique de chêne pendant au moins douze mois, comme le prévoit la catégorie Crianza dans la Denominación de Origen Ribera del Duero. L’élevage a lieu dans les galeries creusées dans le coteau à côté de la bodega, où la température et l’humidité restent stables toute l’année, et se complète par une période de repos en bouteille.</p><p>Il en résulte un rouge de style traditionnel, aux fruits noirs mûrs, aux notes de chêne et d’épices et à la structure ferme. Il peut se boire dans ses premières années, mais il évolue aussi bien avec un peu de garde.</p>",
+    "it": "<p>Valduero Crianza è il vino più diffuso di Bodegas Valduero, la cantina di famiglia di Gumiel del Mercado, nel settore settentrionale della Ribera del Duero di Burgos. È prodotto con Tinto Fino, la variante locale del Tempranillo, proveniente dai vigneti che la famiglia coltiva nei dintorni del paese, ad alta quota e su suoli di argilla e calcare.</p><p>Dopo la fermentazione il vino affina in barrique di rovere per almeno dodici mesi, come stabilisce la categoria Crianza nella Denominación de Origen Ribera del Duero. L’affinamento avviene nelle gallerie scavate nel pendio accanto alla cantina, dove temperatura e umidità restano stabili tutto l’anno, e si completa con un periodo di riposo in bottiglia.</p><p>Il risultato è un rosso di stile tradizionale, con frutto nero maturo, note di rovere e spezie e una struttura salda. Si può bere nei primi anni, ma evolve bene anche con un po’ di invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de fruta negra madura, regaliz, especias y tostados de la barrica. En boca es carnoso y estructurado, con taninos firmes y final persistente.",
+    "en": "Intense deep cherry red. Aromas of ripe black fruit, liquorice, spice and toasty oak. Fleshy and structured on the palate, with firm tannins and a persistent finish.",
+    "fr": "Rouge cerise burlat intense. Arômes de fruits noirs mûrs, réglisse, épices et toasté de la barrique. En bouche, il est charnu et structuré, aux tanins fermes et à la finale persistante.",
+    "it": "Rosso ciliegia intenso. Aromi di frutta nera matura, liquirizia, spezie e tostatura della barrique. In bocca è carnoso e strutturato, con tannini decisi e finale persistente."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, lechazo asado, caza mayor, quesos curados de oveja",
+    "en": "Chargrilled red meat, roast milk-fed lamb, large game, aged sheep’s cheeses",
+    "fr": "Viandes rouges à la braise, agneau de lait rôti, gros gibier, fromages de brebis affinés",
+    "it": "Carni rosse alla brace, agnello da latte arrosto, selvaggina di grossa taglia, pecorini stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Valduero Crianza Ribera del Duero"
+}

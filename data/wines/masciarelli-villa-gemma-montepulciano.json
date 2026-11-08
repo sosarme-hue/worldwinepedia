@@ -1,0 +1,48 @@
+{
+  "slug": "masciarelli-villa-gemma-montepulciano",
+  "name": "Masciarelli Villa Gemma Montepulciano d’Abruzzo Riserva",
+  "winery": "masciarelli",
+  "region": "abruzzo",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "Montepulciano d’Abruzzo DOC Riserva",
+    "en": "Montepulciano d’Abruzzo DOC Riserva",
+    "fr": "Montepulciano d’Abruzzo DOC Riserva",
+    "it": "Montepulciano d’Abruzzo DOC Riserva"
+  },
+  "grapes": [
+    "montepulciano"
+  ],
+  "summary": {
+    "es": "Montepulciano d’Abruzzo Riserva de Masciarelli, el tinto de mayor rango de la casa, criado durante un periodo prolongado en roble y en botella.",
+    "en": "Masciarelli’s Montepulciano d’Abruzzo Riserva, the house’s top red, aged for an extended period in oak and bottle.",
+    "fr": "Montepulciano d’Abruzzo Riserva de Masciarelli, le rouge le plus prestigieux de la maison, élevé longuement sous bois et en bouteille.",
+    "it": "Montepulciano d’Abruzzo Riserva di Masciarelli, il rosso di punta della casa, affinato a lungo in rovere e in bottiglia."
+  },
+  "body": {
+    "es": "<p><strong>Villa Gemma</strong> es la línea de mayor ambición de Masciarelli, la bodega fundada por Gianni Masciarelli en San Martino sulla Marrucina, en la provincia de Chieti. Su tinto es un <strong>Montepulciano d’Abruzzo Riserva</strong> que ha contribuido a demostrar el potencial de esta variedad para dar vinos de guarda.</p><p>Se elabora exclusivamente con <strong>Montepulciano</strong> de viñedos seleccionados de la familia, cultivados con rendimientos bajos en las colinas situadas entre el macizo de la Maiella y el Adriático. Tras la fermentación con maceración, el vino se cría durante un periodo prolongado en barricas de roble y reposa después en botella antes de su comercialización.</p><p>El Montepulciano es una variedad rica en color y en taninos, y en esta versión da un tinto de gran concentración, con fruta negra madura, especias y notas balsámicas. Es un vino de larga guarda, que necesita tiempo para mostrar toda su complejidad.</p>",
+    "en": "<p><strong>Villa Gemma</strong> is the most ambitious line from Masciarelli, the winery founded by Gianni Masciarelli in San Martino sulla Marrucina, in the province of Chieti. Its red is a <strong>Montepulciano d’Abruzzo Riserva</strong> that has helped show the variety’s potential for age-worthy wines.</p><p>It is made solely from <strong>Montepulciano</strong> from selected family vineyards, farmed for low yields in the hills between the Maiella massif and the Adriatic. After fermentation with maceration, the wine is aged for an extended period in oak barriques and then rests in bottle before release.</p><p>Montepulciano is a variety rich in colour and tannin, and in this version it gives a red of great concentration, with ripe black fruit, spice and balsamic notes. It is a wine for long cellaring that needs time to show its full complexity.</p>",
+    "fr": "<p><strong>Villa Gemma</strong> est la ligne la plus ambitieuse de Masciarelli, le domaine fondé par Gianni Masciarelli à San Martino sulla Marrucina, dans la province de Chieti. Son rouge est un <strong>Montepulciano d’Abruzzo Riserva</strong> qui a contribué à montrer le potentiel de ce cépage pour des vins de garde.</p><p>Il est élaboré uniquement avec du <strong>montepulciano</strong> de vignes familiales sélectionnées, cultivées avec de faibles rendements sur les collines situées entre le massif de la Maiella et l’Adriatique. Après une fermentation avec macération, le vin est élevé longuement en barriques de chêne puis repose en bouteille avant sa commercialisation.</p><p>Le montepulciano est un cépage riche en couleur et en tanins, et il donne ici un rouge d’une grande concentration, au fruit noir mûr, aux épices et aux notes balsamiques. C’est un vin de longue garde, qui a besoin de temps pour montrer toute sa complexité.</p>",
+    "it": "<p><strong>Villa Gemma</strong> è la linea più ambiziosa di Masciarelli, la cantina fondata da Gianni Masciarelli a San Martino sulla Marrucina, in provincia di Chieti. Il suo rosso è un <strong>Montepulciano d’Abruzzo Riserva</strong> che ha contribuito a dimostrare il potenziale di questo vitigno per vini da invecchiamento.</p><p>Si produce esclusivamente con <strong>Montepulciano</strong> di vigneti di famiglia selezionati, coltivati con rese basse sulle colline tra il massiccio della Maiella e l’Adriatico. Dopo la fermentazione con macerazione, il vino affina a lungo in barrique di rovere e poi riposa in bottiglia prima di essere messo in commercio.</p><p>Il Montepulciano è un vitigno ricco di colore e di tannini e in questa versione dà un rosso di grande concentrazione, con frutta nera matura, spezie e note balsamiche. È un vino da lungo invecchiamento, che ha bisogno di tempo per mostrare tutta la sua complessità.</p>"
+  },
+  "tasting": {
+    "es": "Rubí casi opaco. Aromas de mora, ciruela, cereza negra, especias, regaliz, cacao y notas balsámicas. Boca potente y densa, con taninos firmes y final largo.",
+    "en": "Almost opaque ruby. Aromas of blackberry, plum, black cherry, spice, liquorice, cocoa and balsamic notes. Powerful, dense palate with firm tannins and a long finish.",
+    "fr": "Rubis presque opaque. Arômes de mûre, de prune, de cerise noire, d’épices, de réglisse, de cacao et notes balsamiques. Bouche puissante et dense, aux tanins fermes et à la finale longue.",
+    "it": "Rubino quasi impenetrabile. Profumi di mora, prugna, ciliegia nera, spezie, liquirizia, cacao e note balsamiche. Bocca potente e densa, con tannini saldi e finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, cordero asado, caza, quesos curados",
+    "en": "Chargrilled red meat, roast lamb, game, aged cheeses",
+    "fr": "Viandes rouges à la braise, agneau rôti, gibier, fromages affinés",
+    "it": "Carni rosse alla brace, agnello arrosto, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "17-18 °C, decantado, copa amplia",
+    "en": "17-18 °C, decanted, large glass",
+    "fr": "17-18 °C, carafé, verre ample",
+    "it": "17-18 °C, decantato, calice ampio"
+  },
+  "search": "Masciarelli Villa Gemma Montepulciano d'Abruzzo Riserva"
+}

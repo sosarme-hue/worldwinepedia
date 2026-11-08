@@ -1,0 +1,49 @@
+{
+  "slug": "taittinger-nocturne",
+  "name": "Taittinger Nocturne Sec",
+  "winery": "taittinger",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Sec",
+    "en": "Sec",
+    "fr": "Sec",
+    "it": "Sec"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Champagne de Taittinger con una dosificación más alta que la de un brut, en la categoría sec, pensado para las celebraciones nocturnas.",
+    "en": "Taittinger champagne with a higher dosage than a brut, in the sec category, intended for evening celebrations.",
+    "fr": "Champagne de Taittinger au dosage plus élevé que celui d’un brut, dans la catégorie sec, pensé pour les fêtes du soir.",
+    "it": "Champagne di Taittinger con un dosaggio più alto di un brut, nella categoria sec, pensato per le feste serali."
+  },
+  "body": {
+    "es": "<p>Nocturne es un champán de Taittinger que, como indica su nombre, la casa ha concebido para la noche y las celebraciones. Su particularidad es la <strong>dosificación</strong>: el licor de expedición que se añade tras el degüelle contiene más azúcar que el de un brut, y el vino se sitúa en la categoría <strong>sec</strong>, que en Champagne corresponde a un champán ligeramente dulce. Se presenta en una botella de color violáceo que la distingue del resto de la gama.</p><p>Se elabora con las tres variedades de Champagne, <strong>Chardonnay</strong>, <strong>Pinot Noir</strong> y Pinot Meunier, de numerosos municipios, en proporciones que varían según el ensamblaje. Incluye vinos de reserva y se cría durante un periodo más largo que el Brut Réserve antes del degüelle, lo que le da una mayor redondez.</p><p>Es un champán suave y redondo, con aromas de fruta madura, flores y notas de bollería, cuyo ligero dulzor lo hace adecuado para acompañar postres poco azucarados o para beber solo.</p>",
+    "en": "<p>Nocturne is a Taittinger champagne which, as its name suggests, the house designed for the night and for celebrations. Its distinctive feature is the <strong>dosage</strong>: the liqueur added after disgorgement contains more sugar than that of a brut, placing the wine in the <strong>sec</strong> category, which in Champagne corresponds to a slightly sweet champagne. It comes in a violet-tinted bottle that sets it apart from the rest of the range.</p><p>It is made from the three Champagne varieties, <strong>Chardonnay</strong>, <strong>Pinot Noir</strong> and Pinot Meunier, from many villages, in proportions that vary from blend to blend. It includes reserve wines and is aged for longer than Brut Réserve before disgorgement, which gives it greater roundness.</p><p>It is a soft, round champagne, with aromas of ripe fruit, flowers and pastry notes, whose slight sweetness makes it suitable with not-too-sweet desserts or on its own.</p>",
+    "fr": "<p>Nocturne est un champagne de Taittinger que la maison a conçu, comme son nom l’indique, pour la nuit et les fêtes. Sa particularité tient au <strong>dosage</strong> : la liqueur d’expédition ajoutée après le dégorgement contient plus de sucre que celle d’un brut, et le vin se situe dans la catégorie <strong>sec</strong>, qui correspond en Champagne à un champagne légèrement doux. Il est présenté dans une bouteille aux reflets violets qui le distingue du reste de la gamme.</p><p>Il est élaboré avec les trois cépages de la Champagne, <strong>chardonnay</strong>, <strong>pinot noir</strong> et pinot meunier, issus de nombreux villages, dans des proportions qui varient selon l’assemblage. Il comprend des vins de réserve et il est élevé plus longtemps que le Brut Réserve avant le dégorgement, ce qui lui donne davantage de rondeur.</p><p>C’est un champagne souple et rond, aux arômes de fruits mûrs, de fleurs et de viennoiserie, dont la légère douceur le rend adapté aux desserts peu sucrés ou à la dégustation seul.</p>",
+    "it": "<p>Nocturne è uno champagne di Taittinger che, come suggerisce il nome, la casa ha pensato per la notte e le feste. La sua particolarità è il <strong>dosaggio</strong>: il liqueur d’expédition aggiunto dopo la sboccatura contiene più zucchero di quello di un brut, e il vino rientra nella categoria <strong>sec</strong>, che in Champagne corrisponde a uno champagne leggermente dolce. È presentato in una bottiglia dai riflessi violacei che lo distingue dal resto della gamma.</p><p>È prodotto con le tre varietà della Champagne, <strong>Chardonnay</strong>, <strong>Pinot Nero</strong> e Pinot Meunier, provenienti da numerosi villaggi, in proporzioni che variano secondo l’assemblaggio. Comprende vini di riserva e affina più a lungo del Brut Réserve prima della sboccatura, il che gli conferisce maggiore rotondità.</p><p>È uno champagne morbido e rotondo, con aromi di frutta matura, fiori e note di pasticceria, la cui leggera dolcezza lo rende adatto a dolci poco zuccherati o da gustare da solo.</p>"
+  },
+  "tasting": {
+    "es": "Dorado con burbuja fina. Aromas de melocotón, fruta confitada, flores y brioche. Boca suave y redonda, con un ligero dulzor y final fresco.",
+    "en": "Gold with fine bubbles. Aromas of peach, candied fruit, flowers and brioche. Soft, round palate with slight sweetness and a fresh finish.",
+    "fr": "Robe dorée à la bulle fine. Arômes de pêche, de fruits confits, de fleurs et de brioche. Bouche souple et ronde, légèrement douce, finale fraîche.",
+    "it": "Oro dal perlage fine. Aromi di pesca, frutta candita, fiori e brioche. Bocca morbida e rotonda, leggermente dolce, dal finale fresco."
+  },
+  "pairing": {
+    "es": "Tartas de frutas, postres poco dulces, foie gras, quesos azules suaves",
+    "en": "Fruit tarts, not-too-sweet desserts, foie gras, mild blue cheeses",
+    "fr": "Tartes aux fruits, desserts peu sucrés, foie gras, bleus doux",
+    "it": "Crostate di frutta, dolci poco zuccherati, foie gras, erborinati dolci"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco o de tulipa",
+    "en": "8-10 °C, white wine or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da vino bianco o a tulipano"
+  },
+  "search": "Taittinger Nocturne Sec Champagne"
+}

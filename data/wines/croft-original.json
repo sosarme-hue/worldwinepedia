@@ -1,0 +1,48 @@
+{
+  "slug": "croft-original",
+  "name": "Croft Original",
+  "winery": "gonzalez-byass",
+  "region": "jerez-xeres-sherry",
+  "country": "espana",
+  "type": "generoso",
+  "category": {
+    "es": "Pale Cream",
+    "en": "Pale Cream",
+    "fr": "Pale Cream",
+    "it": "Pale Cream"
+  },
+  "grapes": [
+    "palomino"
+  ],
+  "summary": {
+    "es": "Jerez dulce de tipo pale cream, de color pálido, creado por la casa Croft y hoy elaborado por González Byass.",
+    "en": "Pale-coloured sweet pale cream sherry, created by the Croft house and now made by González Byass.",
+    "fr": "Xérès doux de type pale cream, à la couleur pâle, créé par la maison Croft et aujourd'hui élaboré par González Byass.",
+    "it": "Sherry dolce di tipo pale cream, dal colore pallido, creato dalla casa Croft e oggi prodotto da González Byass."
+  },
+  "body": {
+    "es": "<p>Croft Original es el vino que popularizó la categoría <strong>pale cream</strong>, un jerez dulce de color claro. Lo creó la casa Croft, de origen británico, con la idea de ofrecer un jerez con el dulzor del cream pero con el aspecto pálido de un fino. Desde comienzos del siglo XXI la marca forma parte de <strong>González Byass</strong>.</p><p>A diferencia de los cream tradicionales, que se basan en olorosos oscuros endulzados con Pedro Ximénez, el pale cream parte de vinos de <strong>crianza biológica</strong>, criados bajo velo de flor como un fino, elaborados con <strong>palomino</strong>. Estos vinos pálidos se endulzan después sin oscurecerlos, lo que da como resultado un jerez de color dorado claro, suave y con un dulzor moderado. Los vinos base se crían en el sistema de criaderas y solera. Croft Original se ha consumido tradicionalmente muy frío o con hielo, como aperitivo, y ha sido muy popular en el Reino Unido.</p>",
+    "en": "<p>Croft Original is the wine that popularised the <strong>pale cream</strong> category, a light-coloured sweet sherry. It was created by the Croft house, of British origin, with the idea of offering a sherry with the sweetness of a cream but the pale appearance of a fino. Since the early twenty-first century the brand has belonged to <strong>González Byass</strong>.</p><p>Unlike traditional creams, which are based on dark olorosos sweetened with Pedro Ximénez, pale cream starts from <strong>biologically aged</strong> wines, aged under flor like a fino and made from <strong>Palomino</strong>. These pale wines are then sweetened without darkening them, resulting in a light golden sherry that is smooth, with moderate sweetness. The base wines are aged in the criaderas and solera system. Croft Original has traditionally been drunk very cold or over ice as an aperitif, and it has been very popular in the United Kingdom.</p>",
+    "fr": "<p>Croft Original est le vin qui a popularisé la catégorie <strong>pale cream</strong>, un xérès doux de couleur claire. Il a été créé par la maison Croft, d'origine britannique, avec l'idée de proposer un xérès ayant la douceur du cream mais l'aspect pâle d'un fino. Depuis le début du XXIe siècle, la marque fait partie de <strong>González Byass</strong>.</p><p>Contrairement aux creams traditionnels, à base d'olorosos foncés adoucis au Pedro Ximénez, le pale cream part de vins d'<strong>élevage biologique</strong>, élevés sous voile de flor comme un fino et élaborés avec du <strong>palomino</strong>. Ces vins pâles sont ensuite adoucis sans être foncés, ce qui donne un xérès doré clair, souple et d'une douceur modérée. Les vins de base sont élevés dans le système des criaderas et solera. Croft Original se consomme traditionnellement très frais ou sur glace, à l'apéritif, et il a été très populaire au Royaume-Uni.</p>",
+    "it": "<p>Croft Original è il vino che ha reso popolare la categoria <strong>pale cream</strong>, uno sherry dolce di colore chiaro. Fu creato dalla casa Croft, di origine britannica, con l'idea di offrire uno sherry con la dolcezza del cream ma l'aspetto pallido di un fino. Dall'inizio del XXI secolo il marchio fa parte di <strong>González Byass</strong>.</p><p>A differenza dei cream tradizionali, basati su oloroso scuri addolciti con Pedro Ximénez, il pale cream parte da vini ad <strong>affinamento biologico</strong>, affinati sotto il velo di flor come un fino e prodotti con <strong>Palomino</strong>. Questi vini pallidi vengono poi addolciti senza scurirli, ottenendo uno sherry dorato chiaro, morbido e di dolcezza moderata. I vini base affinano nel sistema di criaderas e solera. Croft Original si beve tradizionalmente molto freddo o con ghiaccio, come aperitivo, ed è stato molto popolare nel Regno Unito.</p>"
+  },
+  "tasting": {
+    "es": "Dorado pálido. Aromas de almendra, fruta blanca madura, miel ligera y un toque de levadura. En boca es suave, dulce sin exceso y fresco.",
+    "en": "Pale gold. Aromas of almond, ripe white fruit, light honey and a hint of yeast. Smooth, sweet without excess and fresh on the palate.",
+    "fr": "Or pâle. Arômes d'amande, de fruits blancs mûrs, de miel léger et une touche de levure. En bouche, souple, doux sans excès et frais.",
+    "it": "Oro pallido. Aromi di mandorla, frutta bianca matura, miele leggero e un tocco di lievito. In bocca è morbido, dolce senza eccessi e fresco."
+  },
+  "pairing": {
+    "es": "Aperitivo con hielo, patés, fruta fresca, cocina especiada",
+    "en": "Aperitif over ice, pâtés, fresh fruit, spicy cuisine",
+    "fr": "Apéritif sur glace, pâtés, fruits frais, cuisine épicée",
+    "it": "Aperitivo con ghiaccio, paté, frutta fresca, cucina speziata"
+  },
+  "serve": {
+    "es": "8-10 °C o con hielo, copa de vino blanco",
+    "en": "8-10 °C or over ice, white wine glass",
+    "fr": "8-10 °C ou sur glace, verre à vin blanc",
+    "it": "8-10 °C o con ghiaccio, calice da vino bianco"
+  },
+  "search": "Croft Original Pale Cream Sherry"
+}

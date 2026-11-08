@@ -1,0 +1,51 @@
+{
+  "slug": "chateau-cos-d-estournel",
+  "name": "Château Cos d’Estournel",
+  "winery": "chateau-cos-d-estournel",
+  "region": "medoc",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Segundo Grand Cru Classé (1855)",
+    "en": "Second Grand Cru Classé (1855)",
+    "fr": "Deuxième Grand Cru Classé (1855)",
+    "it": "Secondo Grand Cru Classé (1855)"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "cabernet-franc",
+    "petit-verdot"
+  ],
+  "summary": {
+    "es": "Gran vino de Cos d’Estournel, segundo gran cru clasificado de Saint-Estèphe, de estilo rico y especiado, basado en la Cabernet Sauvignon de la colina vecina de Lafite.",
+    "en": "The grand vin of Cos d’Estournel, a Saint-Estèphe second growth in a rich, spicy style, based on Cabernet Sauvignon from the hill next to Lafite.",
+    "fr": "Grand vin de Cos d’Estournel, deuxième grand cru classé de Saint-Estèphe, au style riche et épicé, fondé sur le cabernet-sauvignon de la croupe voisine de Lafite.",
+    "it": "Grand vin di Cos d’Estournel, secondo grand cru classé di Saint-Estèphe, di stile ricco e speziato, basato sul Cabernet Sauvignon della collina vicina a Lafite."
+  },
+  "body": {
+    "es": "<p>El gran vino de Cos d’Estournel procede de las parcelas de la colina de gravas que domina el sur de Saint-Estèphe, frente a Lafite Rothschild. En esta parte de la denominación los suelos combinan gravas con arcillas y calizas en profundidad, lo que da vinos de gran estructura.</p><p>El ensamblaje se basa en la <strong>Cabernet Sauvignon</strong>, que suele representar la mayor parte, completada con <strong>Merlot</strong> y pequeñas cantidades de Cabernet Franc y Petit Verdot; las proporciones varían según la añada. La vinificación se realiza en la bodega por gravedad inaugurada a finales de la década de 2000, con depósitos de distintos tamaños que permiten trabajar por parcelas, y la crianza tiene lugar en barricas de roble francés, en gran parte nuevas.</p><p>Es un tinto opulento y profundo, con fruta negra madura, especias exóticas y taninos densos. Se considera uno de los vinos de mayor potencial de guarda de la orilla izquierda de Burdeos.</p>",
+    "en": "<p>The grand vin of Cos d’Estournel comes from plots on the gravel hill overlooking the south of Saint-Estèphe, opposite Lafite Rothschild. In this part of the appellation the soils combine gravel with clay and limestone at depth, which gives wines of great structure.</p><p>The blend is based on <strong>Cabernet Sauvignon</strong>, which usually makes up the majority, completed with <strong>Merlot</strong> and small amounts of Cabernet Franc and Petit Verdot; the proportions vary with the vintage. Vinification takes place in the gravity-fed winery opened at the end of the 2000s, with vats of different sizes that allow plot-by-plot work, and the wine is aged in French oak barrels, largely new.</p><p>It is an opulent, deep red with ripe black fruit, exotic spice and dense tannins. It is considered one of the wines with the greatest ageing potential on Bordeaux’s Left Bank.</p>",
+    "fr": "<p>Le grand vin de Cos d’Estournel provient des parcelles de la croupe de graves qui domine le sud de Saint-Estèphe, face à Lafite Rothschild. Dans cette partie de l’appellation, les sols associent graves, argiles et calcaires en profondeur, ce qui donne des vins d’une grande structure.</p><p>L’assemblage repose sur le <strong>cabernet-sauvignon</strong>, généralement majoritaire, complété par le <strong>merlot</strong> et de petites quantités de cabernet franc et de petit verdot ; les proportions varient selon le millésime. La vinification se fait dans le chai gravitaire inauguré à la fin des années 2000, avec des cuves de tailles différentes qui permettent un travail parcellaire, et l’élevage a lieu en barriques de chêne français, en grande partie neuves.</p><p>C’est un rouge opulent et profond, aux fruits noirs mûrs, aux épices exotiques et aux tanins denses. Il est considéré comme l’un des vins au plus fort potentiel de garde de la rive gauche bordelaise.</p>",
+    "it": "<p>Il grand vin di Cos d’Estournel proviene dalle parcelle della collina di ghiaie che domina il sud di Saint-Estèphe, di fronte a Lafite Rothschild. In questa parte della denominazione i suoli uniscono ghiaie, argille e calcari in profondità, il che dà vini di grande struttura.</p><p>L’uvaggio si basa sul <strong>Cabernet Sauvignon</strong>, di solito maggioritario, completato dal <strong>Merlot</strong> e da piccole quantità di Cabernet Franc e Petit Verdot; le proporzioni variano secondo l’annata. La vinificazione avviene nella cantina a gravità inaugurata alla fine degli anni Duemila, con vasche di dimensioni diverse che permettono di lavorare per parcelle, e l’affinamento si svolge in barrique di rovere francese, in gran parte nuove.</p><p>È un rosso opulento e profondo, con frutta nera matura, spezie esotiche e tannini densi. È considerato uno dei vini con il maggiore potenziale di invecchiamento della riva sinistra di Bordeaux.</p>"
+  },
+  "tasting": {
+    "es": "Granate muy oscuro. Aromas de mora, casis, especias orientales, cacao y cedro. Boca rica y envolvente, de taninos densos pero maduros y final largo y especiado.",
+    "en": "Very dark garnet. Aromas of blackberry, blackcurrant, oriental spice, cocoa and cedar. Rich, enveloping palate with dense but ripe tannins and a long, spicy finish.",
+    "fr": "Robe grenat très sombre. Arômes de mûre, de cassis, d’épices orientales, de cacao et de cèdre. Bouche riche et enveloppante, aux tanins denses mais mûrs, finale longue et épicée.",
+    "it": "Granato molto scuro. Aromi di mora, ribes nero, spezie orientali, cacao e cedro. Bocca ricca e avvolgente, dai tannini densi ma maturi e dal finale lungo e speziato."
+  },
+  "pairing": {
+    "es": "Cordero asado, entrecot a la parrilla, caza, quesos curados de pasta dura",
+    "en": "Roast lamb, grilled rib steak, game, hard aged cheeses",
+    "fr": "Agneau rôti, entrecôte grillée, gibier, fromages affinés à pâte dure",
+    "it": "Agnello arrosto, costata alla griglia, selvaggina, formaggi stagionati a pasta dura"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia de tipo Burdeos",
+    "en": "16-18 °C, decanted, large Bordeaux glass",
+    "fr": "16-18 °C, carafé, grand verre de type bordeaux",
+    "it": "16-18 °C, decantato, calice ampio tipo Bordeaux"
+  },
+  "search": "Château Cos d’Estournel Saint-Estèphe"
+}

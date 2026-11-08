@@ -1,0 +1,50 @@
+{
+  "slug": "noval-black",
+  "name": "Noval Black",
+  "winery": "quinta-do-noval",
+  "region": "porto",
+  "country": "portugal",
+  "type": "generoso",
+  "category": {
+    "es": "Reserve Ruby",
+    "en": "Reserve Ruby",
+    "fr": "Reserve Ruby",
+    "it": "Reserve Ruby"
+  },
+  "grapes": [
+    "touriga-nacional",
+    "touriga-franca",
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Reserve Ruby de Quinta do Noval, de fruta negra intensa y estilo moderno, pensado para beberse joven, solo o como acompañamiento de postres.",
+    "en": "Quinta do Noval’s Reserve Ruby, with intense black fruit and a modern style, designed to be drunk young, on its own or with desserts.",
+    "fr": "Reserve Ruby de la Quinta do Noval, au fruit noir intense et au style moderne, conçu pour être bu jeune, seul ou avec des desserts.",
+    "it": "Reserve Ruby della Quinta do Noval, dal frutto nero intenso e dallo stile moderno, pensato per essere bevuto giovane, da solo o con i dolci."
+  },
+  "body": {
+    "es": "<p>Noval Black es la propuesta de Quinta do Noval en la categoría <strong>Reserve</strong>, la de los rubies de mayor calidad. Se presentó como un Oporto de estilo contemporáneo, con una imagen distinta de la tradicional, destinado a un público que busca un vino afrutado y fácil de disfrutar sin necesidad de guarda.</p><p>Se elabora con uvas de la quinta y de viñedos del valle del Douro, de variedades tradicionales como la Touriga Nacional, la Touriga Franca y la Tinta Roriz (Tempranillo), entre otras; el ensamblaje varía en cada lote. Tras la fermentación, interrumpida con aguardiente vínica, los vinos se crían durante algunos años en madera, en recipientes de gran tamaño que preservan el color y la fruta fresca. El resultado es un Oporto de perfil frutal y aterciopelado, más cercano en espíritu a un Vintage joven que a un tawny.</p><p>Se embotella filtrado y listo para beber, y puede servirse algo fresco. Una vez abierto se conserva bien durante algunas semanas.</p>",
+    "en": "<p>Noval Black is Quinta do Noval’s offering in the <strong>Reserve</strong> category, the top tier of ruby Port. It was presented as a contemporary-style Port, with an image different from the traditional one, aimed at drinkers looking for a fruity wine that is easy to enjoy without cellaring.</p><p>It is made from grapes from the quinta and from vineyards in the Douro valley, from traditional varieties such as Touriga Nacional, Touriga Franca and Tinta Roriz (Tempranillo), among others; the blend varies with each lot. After fermentation, stopped with grape spirit, the wines are aged for a few years in wood, in large vessels that preserve colour and fresh fruit. The result is a Port with a fruity, velvety profile, closer in spirit to a young Vintage than to a tawny.</p><p>It is bottled filtered and ready to drink, and can be served slightly cool. Once opened, it keeps well for a few weeks.</p>",
+    "fr": "<p>Noval Black est la proposition de la Quinta do Noval dans la catégorie <strong>Reserve</strong>, la plus haute des portos ruby. Il a été présenté comme un porto de style contemporain, avec une image différente de l’image traditionnelle, destiné à un public qui recherche un vin fruité et facile à apprécier sans garde.</p><p>Il est élaboré avec des raisins de la quinta et de vignobles de la vallée du Douro, de cépages traditionnels comme la touriga nacional, la touriga franca et la tinta roriz (tempranillo), entre autres ; l’assemblage varie à chaque lot. Après la fermentation, arrêtée par l’ajout d’eau-de-vie de vin, les vins sont élevés quelques années sous bois, dans de grands contenants qui préservent la couleur et le fruit frais. Le résultat est un porto au profil fruité et velouté, plus proche dans l’esprit d’un jeune Vintage que d’un tawny.</p><p>Il est mis en bouteille filtré et prêt à boire, et peut être servi un peu frais. Une fois ouvert, il se conserve bien quelques semaines.</p>",
+    "it": "<p>Noval Black è la proposta della Quinta do Noval nella categoria <strong>Reserve</strong>, il livello più alto dei Porto ruby. È stato presentato come un Porto di stile contemporaneo, con un’immagine diversa da quella tradizionale, destinato a chi cerca un vino fruttato e facile da apprezzare senza invecchiamento.</p><p>È prodotto con uve della quinta e di vigneti della valle del Douro, da varietà tradizionali come Touriga Nacional, Touriga Franca e Tinta Roriz (Tempranillo), tra le altre; l’assemblaggio varia a ogni lotto. Dopo la fermentazione, interrotta con acquavite di vino, i vini affinano per alcuni anni in legno, in contenitori di grandi dimensioni che preservano colore e frutto fresco. Il risultato è un Porto dal profilo fruttato e vellutato, più vicino nello spirito a un Vintage giovane che a un tawny.</p><p>Viene imbottigliato filtrato e pronto da bere, e si può servire leggermente fresco. Una volta aperto si conserva bene per alcune settimane.</p>"
+  },
+  "tasting": {
+    "es": "Color casi negro con ribete púrpura. Aromas de mora, arándano y cereza negra, con notas de chocolate. Boca dulce, carnosa y aterciopelada, con taninos maduros.",
+    "en": "Almost black with a purple rim. Aromas of blackberry, blueberry and black cherry, with notes of chocolate. Sweet, fleshy, velvety palate with ripe tannins.",
+    "fr": "Robe presque noire au disque pourpre. Arômes de mûre, de myrtille et de cerise noire, avec des notes de chocolat. Bouche douce, charnue et veloutée, aux tanins mûrs.",
+    "it": "Colore quasi nero con unghia porpora. Aromi di mora, mirtillo e ciliegia nera, con note di cioccolato. Sorso dolce, carnoso e vellutato, con tannini maturi."
+  },
+  "pairing": {
+    "es": "Postres de chocolate negro, frutos rojos, quesos azules, quesos curados",
+    "en": "Dark chocolate desserts, red berries, blue cheeses, aged cheeses",
+    "fr": "Desserts au chocolat noir, fruits rouges, fromages à pâte persillée, fromages affinés",
+    "it": "Dolci al cioccolato fondente, frutti rossi, formaggi erborinati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "14-16 °C, copa de vino de Oporto o de vino blanco",
+    "en": "14-16 °C, Port or white wine glass",
+    "fr": "14-16 °C, verre à porto ou à vin blanc",
+    "it": "14-16 °C, calice da Porto o da vino bianco"
+  },
+  "search": "Noval Black Reserve Port Quinta do Noval"
+}

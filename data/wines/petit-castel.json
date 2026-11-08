@@ -1,0 +1,44 @@
+{
+  "slug": "petit-castel",
+  "name": "Petit Castel",
+  "winery": "domaine-du-castel",
+  "region": null,
+  "country": "israel",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "merlot",
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "Segundo tinto de Domaine du Castel, en las montañas de Judea, una mezcla de variedades bordelesas de estilo más accesible que el Grand Vin.",
+    "en": "Second red from Domaine du Castel in the Judean Hills, a blend of Bordeaux varieties in a more approachable style than the Grand Vin.",
+    "fr": "Second vin rouge du Domaine du Castel, dans les monts de Judée, un assemblage de cépages bordelais au style plus accessible que le Grand Vin.",
+    "it": "Secondo rosso di Domaine du Castel, sui monti della Giudea, un blend di varietà bordolesi di stile più accessibile rispetto al Grand Vin."
+  },
+  "body": {
+    "es": "<p>Domaine du Castel, la bodega familiar creada por Eli Ben Zaken en las <strong>montañas de Judea</strong>, cerca de Jerusalén, fue una de las pioneras de los vinos de pequeña producción y alta calidad en Israel. Su gama tinta se organiza siguiendo el modelo de Burdeos: el <strong>Grand Vin</strong> ocupa la cima, y el <strong>Petit Castel</strong> actúa como segundo vino.</p><p>Se elabora con variedades bordelesas, principalmente <strong>Merlot</strong> y <strong>Cabernet Sauvignon</strong>, a las que pueden sumarse otras como el Cabernet Franc o el Petit Verdot; las proporciones varían según la añada. Las uvas proceden de viñedos de altitud de la zona de Judea, con suelos calcáreos y noches frescas. El vino se cría durante un periodo en barricas de roble francés, más breve y con menos madera nueva que el vino principal. El resultado es un tinto elegante y frutal, más accesible en su juventud que el vino principal de la casa, con certificación kosher.</p>",
+    "en": "<p>Domaine du Castel, the family winery created by Eli Ben Zaken in the <strong>Judean Hills</strong> near Jerusalem, was one of the pioneers of small-production, high-quality wines in Israel. Its red range is organised along Bordeaux lines: the <strong>Grand Vin</strong> sits at the top, and <strong>Petit Castel</strong> serves as the second wine.</p><p>It is made from Bordeaux varieties, mainly <strong>Merlot</strong> and <strong>Cabernet Sauvignon</strong>, sometimes joined by others such as Cabernet Franc or Petit Verdot; the proportions vary with the vintage. The grapes come from high-altitude vineyards in the Judean area, with limestone soils and cool nights. The wine is aged for a period in French oak barrels, more briefly and with less new oak than the main wine. The result is an elegant, fruity red, more approachable in its youth than the house's main wine, and certified kosher.</p>",
+    "fr": "<p>Le Domaine du Castel, domaine familial créé par Eli Ben Zaken dans les <strong>monts de Judée</strong>, près de Jérusalem, fut l'un des pionniers des vins de petite production et de haute qualité en Israël. Sa gamme rouge est organisée selon le modèle bordelais : le <strong>Grand Vin</strong> occupe le sommet, et le <strong>Petit Castel</strong> joue le rôle de second vin.</p><p>Il est élaboré avec des cépages bordelais, principalement du <strong>merlot</strong> et du <strong>cabernet-sauvignon</strong>, parfois rejoints par d'autres comme le cabernet franc ou le petit verdot ; les proportions varient selon le millésime. Les raisins proviennent de vignes d'altitude de la zone de Judée, aux sols calcaires et aux nuits fraîches. Le vin est élevé un temps en barriques de chêne français, moins longtemps et avec moins de bois neuf que le vin principal. Le résultat est un rouge élégant et fruité, plus accessible dans sa jeunesse que le vin principal de la maison, et certifié casher.</p>",
+    "it": "<p>Domaine du Castel, la cantina di famiglia creata da Eli Ben Zaken sui <strong>monti della Giudea</strong>, vicino a Gerusalemme, fu una delle pioniere dei vini di piccola produzione e alta qualità in Israele. La sua gamma di rossi è organizzata secondo il modello bordolese: il <strong>Grand Vin</strong> è al vertice, e il <strong>Petit Castel</strong> funge da secondo vino.</p><p>È prodotto con varietà bordolesi, principalmente <strong>Merlot</strong> e <strong>Cabernet Sauvignon</strong>, talvolta affiancate da altre come Cabernet Franc o Petit Verdot; le proporzioni variano a seconda dell'annata. Le uve provengono da vigneti d'altura della zona della Giudea, con suoli calcarei e notti fresche. Il vino affina per un periodo in barrique di rovere francese, più breve e con meno legno nuovo rispetto al vino principale. Il risultato è un rosso elegante e fruttato, più accessibile in gioventù rispetto al vino principale della casa, con certificazione kosher.</p>"
+  },
+  "tasting": {
+    "es": "Aromas de cereza negra, ciruela y grosella, con notas de cedro, especias suaves y hierbas. Boca redonda y fresca, de cuerpo medio y taninos finos.",
+    "en": "Aromas of black cherry, plum and currant, with notes of cedar, gentle spice and herbs. Rounded and fresh, medium-bodied, with fine tannins.",
+    "fr": "Arômes de cerise noire, de prune et de cassis, avec des notes de cèdre, d'épices douces et d'herbes. Bouche ronde et fraîche, de corps moyen, aux tanins fins.",
+    "it": "Profumi di ciliegia nera, prugna e ribes, con note di cedro, spezie delicate ed erbe. Bocca rotonda e fresca, di medio corpo, con tannini fini."
+  },
+  "pairing": {
+    "es": "Cordero asado, pato, carnes a la parrilla, quesos semicurados",
+    "en": "Roast lamb, duck, grilled meats, semi-hard cheeses",
+    "fr": "Agneau rôti, canard, viandes grillées, fromages mi-affinés",
+    "it": "Agnello arrosto, anatra, carni alla griglia, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Petit Castel Domaine du Castel"
+}

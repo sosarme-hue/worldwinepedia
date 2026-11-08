@@ -1,0 +1,48 @@
+{
+  "slug": "dal-forno-valpolicella-superiore",
+  "name": "Dal Forno Romano Valpolicella Superiore",
+  "winery": "dal-forno-romano",
+  "region": "valpolicella",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "Valpolicella Superiore DOC",
+    "en": "Valpolicella Superiore DOC",
+    "fr": "Valpolicella Superiore DOC",
+    "it": "Valpolicella Superiore DOC"
+  },
+  "grapes": [
+    "corvina"
+  ],
+  "summary": {
+    "es": "Valpolicella Superiore de la finca Monte Lodoletta, elaborado por Dal Forno con una parte de uva secada y una crianza larga en barrica.",
+    "en": "Valpolicella Superiore from the Monte Lodoletta estate, made by Dal Forno with a proportion of dried grapes and long barrique ageing.",
+    "fr": "Valpolicella Superiore du domaine de Monte Lodoletta, élaboré par Dal Forno avec une part de raisins séchés et un long élevage en barrique.",
+    "it": "Valpolicella Superiore della tenuta Monte Lodoletta, prodotto da Dal Forno con una parte di uve appassite e un lungo affinamento in barrique."
+  },
+  "body": {
+    "es": "<p>El <strong>Valpolicella Superiore</strong> de Dal Forno procede de la finca <strong>Monte Lodoletta</strong>, en Cellore d’Illasi, la misma de la que salen el Amarone y el Recioto de la casa. A diferencia de la mayoría de los Valpolicella, no es un tinto ligero, sino un vino de gran concentración que sigue el mismo enfoque riguroso de la bodega.</p><p>Se elabora con <strong>Corvina</strong>, Rondinella y otras variedades autóctonas cultivadas con rendimientos muy bajos. Una parte de la uva se somete a un periodo de secado antes de la vinificación, lo que aumenta la concentración del vino. Tras la fermentación, se cría durante un periodo prolongado en barricas de roble nuevo y reposa después en botella.</p><p>Es un tinto potente y denso, con una estructura poco habitual en su categoría, que necesita tiempo en botella para integrar la madera y desarrollar su complejidad.</p>",
+    "en": "<p>Dal Forno’s <strong>Valpolicella Superiore</strong> comes from the <strong>Monte Lodoletta</strong> estate in Cellore d’Illasi, the same one that provides the house’s Amarone and Recioto. Unlike most Valpolicellas, it is not a light red but a highly concentrated wine that follows the winery’s rigorous approach.</p><p>It is made from <strong>Corvina</strong>, Rondinella and other native varieties grown for very low yields. Part of the fruit undergoes a period of drying before vinification, which increases the wine’s concentration. After fermentation it is aged for an extended period in new oak barriques and then rests in bottle.</p><p>It is a powerful, dense red with a structure unusual in its category, which needs time in bottle to integrate the oak and develop its complexity.</p><p>It is made in limited quantities.</p>",
+    "fr": "<p>Le <strong>Valpolicella Superiore</strong> de Dal Forno provient du domaine de <strong>Monte Lodoletta</strong>, à Cellore d’Illasi, le même que celui dont sont issus l’amarone et le recioto de la maison. Contrairement à la plupart des valpolicellas, ce n’est pas un rouge léger, mais un vin très concentré qui suit l’approche rigoureuse du domaine.</p><p>Il est élaboré avec de la <strong>corvina</strong>, de la rondinella et d’autres cépages autochtones cultivés avec des rendements très faibles. Une partie des raisins subit une période de séchage avant la vinification, ce qui accroît la concentration du vin. Après la fermentation, il est élevé longuement en barriques de chêne neuf puis repose en bouteille.</p><p>C’est un rouge puissant et dense, d’une structure peu courante dans sa catégorie, qui a besoin de temps en bouteille pour intégrer le bois et développer sa complexité.</p>",
+    "it": "<p>Il <strong>Valpolicella Superiore</strong> di Dal Forno proviene dalla tenuta <strong>Monte Lodoletta</strong>, a Cellore d’Illasi, la stessa da cui escono l’Amarone e il Recioto della casa. A differenza della maggior parte dei Valpolicella, non è un rosso leggero, ma un vino di grande concentrazione che segue lo stesso approccio rigoroso della cantina.</p><p>Si produce con <strong>Corvina</strong>, Rondinella e altri vitigni autoctoni coltivati con rese molto basse. Una parte delle uve viene sottoposta a un periodo di appassimento prima della vinificazione, che aumenta la concentrazione del vino. Dopo la fermentazione affina a lungo in barrique di rovere nuovo e poi riposa in bottiglia.</p><p>È un rosso potente e denso, con una struttura insolita per la sua categoria, che ha bisogno di tempo in bottiglia per integrare il legno e sviluppare la sua complessità.</p>"
+  },
+  "tasting": {
+    "es": "Rubí muy intenso. Aromas de cereza negra, mora, ciruela, especias, vainilla y notas tostadas. Boca densa, concentrada y firme, con final largo.",
+    "en": "Very deep ruby. Aromas of black cherry, blackberry, plum, spice, vanilla and toasty notes. Dense, concentrated, firm palate with a long finish.",
+    "fr": "Rubis très intense. Arômes de cerise noire, de mûre, de prune, d’épices, de vanille et notes grillées. Bouche dense, concentrée et ferme, à la finale longue.",
+    "it": "Rubino molto intenso. Profumi di ciliegia nera, mora, prugna, spezie, vaniglia e note tostate. Bocca densa, concentrata e salda, con finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas estofadas, caza, risotto all’Amarone, quesos curados como el Monte Veronese o el Parmigiano",
+    "en": "Braised red meat, game, risotto all’Amarone, aged cheeses such as Monte Veronese or Parmigiano",
+    "fr": "Viandes rouges braisées, gibier, risotto à l’amarone, fromages affinés comme le Monte Veronese ou le parmigiano",
+    "it": "Carni rosse brasate, selvaggina, risotto all’Amarone, formaggi stagionati come Monte Veronese o Parmigiano"
+  },
+  "serve": {
+    "es": "17-18 °C, decantado, copa amplia",
+    "en": "17-18 °C, decanted, large glass",
+    "fr": "17-18 °C, carafé, verre ample",
+    "it": "17-18 °C, decantato, calice ampio"
+  },
+  "search": "Dal Forno Romano Valpolicella Superiore Monte Lodoletta"
+}

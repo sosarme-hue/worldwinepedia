@@ -1,0 +1,48 @@
+{
+  "slug": "tio-diego",
+  "name": "Amontillado Tío Diego",
+  "winery": "valdespino",
+  "region": "jerez-xeres-sherry",
+  "country": "espana",
+  "type": "generoso",
+  "category": {
+    "es": "Amontillado",
+    "en": "Amontillado",
+    "fr": "Amontillado",
+    "it": "Amontillado"
+  },
+  "grapes": [
+    "palomino"
+  ],
+  "summary": {
+    "es": "Amontillado seco de Valdespino, de uvas del pago de Macharnudo, que combina una larga crianza biológica con una crianza oxidativa posterior.",
+    "en": "Dry amontillado from Valdespino, from Macharnudo grapes, combining long biological ageing with subsequent oxidative ageing.",
+    "fr": "Amontillado sec de Valdespino, issu de raisins du pago de Macharnudo, qui associe un long élevage biologique à un élevage oxydatif ultérieur.",
+    "it": "Amontillado secco di Valdespino, da uve del pago di Macharnudo, che unisce un lungo affinamento biologico a un successivo affinamento ossidativo."
+  },
+  "body": {
+    "es": "<p>Tío Diego es uno de los amontillados clásicos de Valdespino. Como todos los amontillados, es un vino de <strong>doble crianza</strong>: comienza su vida como un fino, criándose bajo el velo de flor, y cuando este desaparece —de forma natural o porque se aumenta la graduación del vino— continúa envejeciendo en contacto con el oxígeno, lo que le da color ámbar y aromas más complejos.</p><p>Se elabora con <strong>palomino</strong> de viñedos de la casa en <strong>Macharnudo</strong>, el pago de albariza al norte de Jerez con el que Valdespino está estrechamente vinculado. La fase biológica aporta las notas punzantes y de levadura propias del fino; la fase oxidativa, en el sistema de <strong>criaderas y solera</strong>, añade aromas de frutos secos tostados, madera y especias, y una textura más amplia. Es un vino totalmente seco, de gran intensidad aromática, que se conserva bien una vez abierto y es muy versátil en la mesa, especialmente con platos de difícil maridaje como las sopas o las alcachofas.</p>",
+    "en": "<p>Tío Diego is one of Valdespino's classic amontillados. Like all amontillados, it is a wine of <strong>dual ageing</strong>: it begins life as a fino, ageing under flor, and when the flor disappears —naturally or because the wine's strength is raised— it continues ageing in contact with oxygen, which gives it its amber colour and more complex aromas.</p><p>It is made from <strong>Palomino</strong> from the house's vineyards in <strong>Macharnudo</strong>, the albariza district north of Jerez with which Valdespino is closely associated. The biological phase brings the pungent, yeasty notes typical of fino; the oxidative phase, in the <strong>criaderas and solera</strong> system, adds aromas of toasted nuts, wood and spice, and a broader texture. It is a completely dry wine of great aromatic intensity, which keeps well once opened and is very versatile at the table, particularly with dishes that are hard to pair, such as soups or artichokes.</p>",
+    "fr": "<p>Tío Diego est l'un des amontillados classiques de Valdespino. Comme tous les amontillados, c'est un vin à <strong>double élevage</strong> : il commence sa vie comme un fino, élevé sous voile de flor, et lorsque celui-ci disparaît —naturellement ou parce que l'on relève le degré du vin— il continue de vieillir au contact de l'oxygène, ce qui lui donne sa couleur ambrée et des arômes plus complexes.</p><p>Il est élaboré avec du <strong>palomino</strong> des vignes de la maison à <strong>Macharnudo</strong>, le pago d'albariza au nord de Jerez auquel Valdespino est étroitement lié. La phase biologique apporte les notes piquantes et levurées propres au fino ; la phase oxydative, dans le système des <strong>criaderas et solera</strong>, ajoute des arômes de fruits secs grillés, de bois et d'épices, et une texture plus ample. C'est un vin totalement sec, d'une grande intensité aromatique, qui se conserve bien une fois ouvert et se montre très polyvalent à table, notamment avec des plats difficiles à accorder comme les soupes ou les artichauts.</p>",
+    "it": "<p>Tío Diego è uno degli amontillado classici di Valdespino. Come tutti gli amontillado, è un vino a <strong>doppio affinamento</strong>: inizia la sua vita come fino, affinandosi sotto il velo di flor, e quando questo scompare —in modo naturale o perché si aumenta la gradazione del vino— continua a invecchiare a contatto con l'ossigeno, il che gli conferisce il colore ambrato e aromi più complessi.</p><p>È prodotto con <strong>Palomino</strong> dei vigneti della casa a <strong>Macharnudo</strong>, il pago di albariza a nord di Jerez a cui Valdespino è strettamente legata. La fase biologica apporta le note pungenti e di lievito tipiche del fino; la fase ossidativa, nel sistema di <strong>criaderas e solera</strong>, aggiunge aromi di frutta secca tostata, legno e spezie, e una consistenza più ampia. È un vino completamente secco, di grande intensità aromatica, che si conserva bene una volta aperto ed è molto versatile a tavola, in particolare con piatti difficili da abbinare come le zuppe o i carciofi.</p>"
+  },
+  "tasting": {
+    "es": "Ámbar brillante. Aromas de avellana tostada, almendra, madera noble, especias y un fondo salino. En boca es seco, intenso y largo, con un final ligeramente amargo.",
+    "en": "Bright amber. Aromas of toasted hazelnut, almond, fine wood, spice and a saline background. Dry, intense and long on the palate, with a slightly bitter finish.",
+    "fr": "Ambre brillant. Arômes de noisette grillée, d'amande, de bois noble, d'épices et un fond salin. En bouche, sec, intense et long, avec une finale légèrement amère.",
+    "it": "Ambra brillante. Aromi di nocciola tostata, mandorla, legno nobile, spezie e un fondo salino. In bocca è secco, intenso e lungo, con un finale leggermente amarognolo."
+  },
+  "pairing": {
+    "es": "Consomés, alcachofas, setas, carnes blancas, quesos curados",
+    "en": "Consommés, artichokes, mushrooms, white meats, aged cheeses",
+    "fr": "Consommés, artichauts, champignons, viandes blanches, fromages affinés",
+    "it": "Consommé, carciofi, funghi, carni bianche, formaggi stagionati"
+  },
+  "serve": {
+    "es": "12-14 °C, copa de vino blanco",
+    "en": "12-14 °C, white wine glass",
+    "fr": "12-14 °C, verre à vin blanc",
+    "it": "12-14 °C, calice da vino bianco"
+  },
+  "search": "Amontillado Tío Diego Valdespino"
+}

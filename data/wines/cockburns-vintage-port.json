@@ -1,0 +1,50 @@
+{
+  "slug": "cockburns-vintage-port",
+  "name": "Cockburn’s Vintage Port",
+  "winery": "cockburns",
+  "region": "porto",
+  "country": "portugal",
+  "type": "generoso",
+  "category": {
+    "es": "Vintage",
+    "en": "Vintage Port",
+    "fr": "Vintage",
+    "it": "Vintage"
+  },
+  "grapes": [
+    "touriga-nacional",
+    "touriga-franca",
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Oporto Vintage de Cockburn’s, basado en la uva de Quinta dos Canais, en el Douro Superior, de estilo firme y relativamente seco, pensado para una larga guarda.",
+    "en": "Cockburn’s Vintage Port, based on fruit from Quinta dos Canais in the Douro Superior, firm and relatively dry in style and intended for long cellaring.",
+    "fr": "Porto Vintage de Cockburn’s, fondé sur les raisins de la Quinta dos Canais, dans le Douro Superior, de style ferme et relativement sec, conçu pour une longue garde.",
+    "it": "Porto Vintage di Cockburn’s, basato sulle uve della Quinta dos Canais, nel Douro Superior, di stile deciso e relativamente secco, pensato per un lungo invecchiamento."
+  },
+  "body": {
+    "es": "<p>Cockburn’s cuenta con una larga tradición en la elaboración de Oporto Vintage, el vino de una sola cosecha que se embotella sin filtrar tras unos dos años en madera y evoluciona durante décadas en botella. Como en otras casas, el Vintage solo se «declara» en los años considerados excepcionales.</p><p>La base del vino procede de <strong>Quinta dos Canais</strong>, en el Douro Superior, una de las zonas más cálidas y secas de la región, con viñedos en laderas de esquisto sobre el río. Se elabora con variedades tradicionales como la Touriga Nacional y la Touriga Franca, junto a otras, en proporciones que varían según la cosecha. Bajo la propiedad de la familia Symington, la casa ha buscado recuperar el estilo histórico de sus Vintage, de estructura firme, menor dulzor aparente y gran capacidad de guarda.</p><p>Al no filtrarse, forma sedimento en la botella con el paso del tiempo, por lo que conviene decantarlo antes de servirlo.</p>",
+    "en": "<p>Cockburn’s has a long tradition of making Vintage Port, the single-harvest wine bottled unfiltered after about two years in wood, which evolves for decades in bottle. As at other houses, a Vintage is “declared” only in years considered exceptional.</p><p>The backbone of the wine comes from <strong>Quinta dos Canais</strong>, in the Douro Superior, one of the hottest and driest parts of the region, with vineyards on schist slopes above the river. It is made from traditional varieties such as Touriga Nacional and Touriga Franca, along with others, in proportions that vary with the vintage. Under the ownership of the Symington family, the house has sought to restore the historic style of its Vintage Ports, with firm structure, less apparent sweetness and great ageing potential.</p><p>As it is not filtered, it throws a sediment in the bottle over time, so it should be decanted before serving.</p>",
+    "fr": "<p>Cockburn’s possède une longue tradition d’élaboration du porto Vintage, le vin d’une seule récolte mis en bouteille sans filtration après environ deux ans sous bois, qui évolue pendant des décennies en bouteille. Comme dans d’autres maisons, le Vintage n’est « déclaré » que les années jugées exceptionnelles.</p><p>L’ossature du vin provient de la <strong>Quinta dos Canais</strong>, dans le Douro Superior, l’une des zones les plus chaudes et les plus sèches de la région, avec des vignes sur des coteaux de schiste au-dessus du fleuve. Il est élaboré avec des cépages traditionnels comme la touriga nacional et la touriga franca, entre autres, dans des proportions qui varient selon le millésime. Sous la propriété de la famille Symington, la maison a cherché à retrouver le style historique de ses Vintage, à la structure ferme, à la douceur apparente moindre et à la grande aptitude à la garde.</p><p>N’étant pas filtré, il forme avec le temps un dépôt dans la bouteille ; il convient donc de le carafer avant le service.</p>",
+    "it": "<p>Cockburn’s vanta una lunga tradizione nella produzione di Porto Vintage, il vino di una sola vendemmia imbottigliato senza filtrazione dopo circa due anni in legno, che evolve per decenni in bottiglia. Come in altre case, il Vintage viene «dichiarato» solo nelle annate considerate eccezionali.</p><p>L’ossatura del vino proviene dalla <strong>Quinta dos Canais</strong>, nel Douro Superior, una delle zone più calde e secche della regione, con vigneti su pendii di scisto sopra il fiume. È prodotto con varietà tradizionali come Touriga Nacional e Touriga Franca, insieme ad altre, in proporzioni che variano secondo l’annata. Sotto la proprietà della famiglia Symington, la casa ha cercato di recuperare lo stile storico dei suoi Vintage, di struttura decisa, minore dolcezza percepita e grande capacità di invecchiamento.</p><p>Non essendo filtrato, con il tempo forma un sedimento in bottiglia, per cui conviene decantarlo prima di servirlo.</p>"
+  },
+  "tasting": {
+    "es": "De joven, color muy oscuro, aromas de fruta negra, violeta, jara y especias, y una boca potente, con taninos firmes y final seco. Con la edad gana notas de frutos secos, cacao y tabaco.",
+    "en": "When young, very dark in colour, with aromas of black fruit, violet, rockrose and spice, and a powerful palate with firm tannins and a dry finish. With age it gains notes of nuts, cocoa and tobacco.",
+    "fr": "Jeune, robe très sombre, arômes de fruits noirs, de violette, de ciste et d’épices, et une bouche puissante aux tanins fermes et à la finale sèche. Avec l’âge, il gagne des notes de fruits secs, de cacao et de tabac.",
+    "it": "Da giovane, colore molto scuro, aromi di frutta nera, viola, cisto e spezie, e un sorso potente con tannini decisi e finale secco. Con l’età acquista note di frutta secca, cacao e tabacco."
+  },
+  "pairing": {
+    "es": "Quesos azules como el Stilton, chocolate negro, frutos secos, sola tras la comida",
+    "en": "Blue cheeses such as Stilton, dark chocolate, nuts, on its own after a meal",
+    "fr": "Fromages à pâte persillée comme le stilton, chocolat noir, fruits secs, seul en fin de repas",
+    "it": "Formaggi erborinati come lo Stilton, cioccolato fondente, frutta secca, da solo a fine pasto"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado para separar el sedimento, copa de vino de Oporto o de vino tinto",
+    "en": "16-18 °C, decanted off its sediment, Port or red wine glass",
+    "fr": "16-18 °C, carafé pour séparer le dépôt, verre à porto ou à vin rouge",
+    "it": "16-18 °C, decantato per separare il sedimento, calice da Porto o da vino rosso"
+  },
+  "search": "Cockburn's Vintage Port"
+}

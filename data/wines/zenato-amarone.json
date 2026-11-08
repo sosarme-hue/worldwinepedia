@@ -1,0 +1,48 @@
+{
+  "slug": "zenato-amarone",
+  "name": "Zenato Amarone della Valpolicella Classico",
+  "winery": "zenato",
+  "region": "valpolicella",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "Amarone della Valpolicella Classico DOCG",
+    "en": "Amarone della Valpolicella Classico DOCG",
+    "fr": "Amarone della Valpolicella Classico DOCG",
+    "it": "Amarone della Valpolicella Classico DOCG"
+  },
+  "grapes": [
+    "corvina"
+  ],
+  "summary": {
+    "es": "Amarone Classico de Zenato elaborado con uvas de su finca de Sant’Ambrogio di Valpolicella, secadas durante meses antes de la vinificación.",
+    "en": "Zenato’s Amarone Classico, made from grapes from its estate in Sant’Ambrogio di Valpolicella, dried for months before vinification.",
+    "fr": "Amarone Classico de Zenato élaboré avec des raisins de son domaine de Sant’Ambrogio di Valpolicella, séchés pendant des mois avant la vinification.",
+    "it": "Amarone Classico di Zenato prodotto con uve della tenuta di Sant’Ambrogio di Valpolicella, appassite per mesi prima della vinificazione."
+  },
+  "body": {
+    "es": "<p>El <strong>Amarone della Valpolicella Classico</strong> de Zenato procede principalmente de la finca Costalunga, en Sant’Ambrogio di Valpolicella, en el sector occidental de la zona clásica. Se elabora con las variedades tradicionales de la denominación, sobre todo <strong>Corvina</strong> y Corvinone, junto a Rondinella y otras uvas locales; las proporciones varían según la añada.</p><p>Tras la vendimia, los racimos seleccionados se dejan secar durante varios meses en locales ventilados, según la técnica del <em>appassimento</em>. La pérdida de agua concentra azúcares y aromas. Las uvas se prensan en invierno y fermentan lentamente hasta convertirse en un vino seco y de alta graduación. La crianza tiene lugar en roble, en barricas y toneles, y el vino reposa después en botella.</p><p>Es un Amarone de estilo opulento, con fruta madura y especiada, cuerpo pleno y taninos redondos. Su orujo se aprovecha para elaborar el Ripassa de la casa.</p>",
+    "en": "<p>Zenato’s <strong>Amarone della Valpolicella Classico</strong> comes mainly from the Costalunga estate in Sant’Ambrogio di Valpolicella, in the western part of the classic zone. It is made from the appellation’s traditional varieties, mainly <strong>Corvina</strong> and Corvinone, together with Rondinella and other local grapes; the proportions vary with the vintage.</p><p>After the harvest, selected bunches are left to dry for several months in ventilated rooms, following the <em>appassimento</em> technique. Water loss concentrates sugars and aromas. The grapes are pressed in winter and ferment slowly into a dry, high-alcohol wine. Ageing takes place in oak, in barriques and casks, and the wine then rests in bottle.</p><p>It is an Amarone in an opulent style, with ripe, spicy fruit, full body and rounded tannins. Its pomace is used to make the house’s Ripassa.</p>",
+    "fr": "<p>L’<strong>Amarone della Valpolicella Classico</strong> de Zenato provient principalement du domaine de Costalunga, à Sant’Ambrogio di Valpolicella, dans le secteur occidental de la zone classique. Il est élaboré avec les cépages traditionnels de l’appellation, surtout la <strong>corvina</strong> et le corvinone, avec de la rondinella et d’autres raisins locaux ; les proportions varient selon le millésime.</p><p>Après la vendange, les grappes sélectionnées sèchent plusieurs mois dans des locaux ventilés, selon la technique de l’<em>appassimento</em>. La perte d’eau concentre sucres et arômes. Les raisins sont pressés en hiver et fermentent lentement jusqu’à donner un vin sec et riche en alcool. L’élevage se fait sous bois, en barriques et en foudres, puis le vin repose en bouteille.</p><p>C’est un amarone de style opulent, au fruit mûr et épicé, au corps ample et aux tanins ronds. Son marc sert à élaborer le Ripassa de la maison.</p>",
+    "it": "<p>L’<strong>Amarone della Valpolicella Classico</strong> di Zenato proviene principalmente dalla tenuta Costalunga, a Sant’Ambrogio di Valpolicella, nel settore occidentale della zona classica. Si produce con i vitigni tradizionali della denominazione, soprattutto <strong>Corvina</strong> e Corvinone, insieme a Rondinella e ad altre uve locali; le proporzioni variano a seconda dell’annata.</p><p>Dopo la vendemmia i grappoli selezionati appassiscono per diversi mesi in locali ventilati, secondo la tecnica dell’<em>appassimento</em>. La perdita d’acqua concentra zuccheri e aromi. Le uve vengono pigiate in inverno e fermentano lentamente fino a dare un vino secco e di alta gradazione. L’affinamento avviene in rovere, in barrique e botti, e il vino riposa poi in bottiglia.</p><p>È un Amarone di stile opulento, con frutto maturo e speziato, corpo pieno e tannini rotondi. Le sue vinacce servono a produrre il Ripassa della casa.</p>"
+  },
+  "tasting": {
+    "es": "Granate intenso. Aromas de cereza madura, ciruela pasa, higos, especias dulces y chocolate. Boca amplia y cálida, de taninos aterciopelados y final largo.",
+    "en": "Deep garnet. Aromas of ripe cherry, prune, figs, sweet spice and chocolate. Broad, warm palate with velvety tannins and a long finish.",
+    "fr": "Grenat intense. Arômes de cerise mûre, de pruneau, de figue, d’épices douces et de chocolat. Bouche ample et chaleureuse, aux tanins veloutés et à la finale longue.",
+    "it": "Granato intenso. Profumi di ciliegia matura, prugna secca, fichi, spezie dolci e cioccolato. Bocca ampia e calda, con tannini vellutati e finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas estofadas, caza, risotto all’Amarone, quesos curados como el Monte Veronese o el Parmigiano",
+    "en": "Braised red meat, game, risotto all’Amarone, aged cheeses such as Monte Veronese or Parmigiano",
+    "fr": "Viandes rouges braisées, gibier, risotto à l’amarone, fromages affinés comme le Monte Veronese ou le parmigiano",
+    "it": "Carni rosse brasate, selvaggina, risotto all’Amarone, formaggi stagionati come Monte Veronese o Parmigiano"
+  },
+  "serve": {
+    "es": "17-18 °C, decantado, copa amplia",
+    "en": "17-18 °C, decanted, large glass",
+    "fr": "17-18 °C, carafé, verre ample",
+    "it": "17-18 °C, decantato, calice ampio"
+  },
+  "search": "Zenato Amarone della Valpolicella Classico"
+}

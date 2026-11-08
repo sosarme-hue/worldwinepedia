@@ -1,0 +1,49 @@
+{
+  "slug": "dry-sack",
+  "name": "Dry Sack",
+  "winery": "williams-humbert",
+  "region": "jerez-xeres-sherry",
+  "country": "espana",
+  "type": "generoso",
+  "category": {
+    "es": "Medium",
+    "en": "Medium",
+    "fr": "Medium",
+    "it": "Medium"
+  },
+  "grapes": [
+    "palomino",
+    "pedro-ximenez"
+  ],
+  "summary": {
+    "es": "Jerez de tipo medium de Williams & Humbert, una de las marcas de jerez más difundidas internacionalmente.",
+    "en": "Medium sherry from Williams & Humbert, one of the most internationally widespread sherry brands.",
+    "fr": "Xérès de type medium de Williams & Humbert, l'une des marques de xérès les plus diffusées à l'international.",
+    "it": "Sherry di tipo medium di Williams & Humbert, uno dei marchi di sherry più diffusi a livello internazionale."
+  },
+  "body": {
+    "es": "<p>Dry Sack es la marca más famosa de Williams & Humbert y uno de los jereces más conocidos fuera de España. Durante décadas se vendió en una botella envuelta en una pequeña bolsa de arpillera, en alusión a la palabra <em>sack</em>, nombre con el que los ingleses designaban antiguamente los vinos secos importados de España, incluido el de Jerez.</p><p>Pese a su nombre, no es un vino completamente seco, sino un jerez de tipo <strong>medium</strong>, la categoría de la D.O. Jerez que agrupa los vinos de mezcla con un dulzor moderado. Se elabora combinando vinos de <strong>palomino</strong> de crianza oxidativa, principalmente amontillado y oloroso, con una parte de vino dulce de <strong>pedro ximénez</strong>; las proporciones no se especifican. Los vinos base se crían en el sistema de criaderas y solera. El resultado es un jerez de color ámbar, con aromas de frutos secos y un ligero dulzor que lo hace accesible a quienes se inician en estos vinos.</p>",
+    "en": "<p>Dry Sack is Williams & Humbert's most famous brand and one of the best-known sherries outside Spain. For decades it was sold in a bottle wrapped in a small burlap sack, alluding to the word <em>sack</em>, the old English name for dry wines imported from Spain, including sherry.</p><p>Despite its name, it is not a completely dry wine but a <strong>medium</strong> sherry, the category of the Jerez D.O. covering blended wines with moderate sweetness. It is made by combining oxidatively aged <strong>Palomino</strong> wines, mainly amontillado and oloroso, with a share of sweet <strong>Pedro Ximénez</strong> wine; the proportions are not specified. The base wines are aged in the criaderas and solera system. The result is an amber sherry with nutty aromas and a slight sweetness that makes it accessible to those new to these wines.</p>",
+    "fr": "<p>Dry Sack est la marque la plus célèbre de Williams & Humbert et l'un des xérès les plus connus hors d'Espagne. Pendant des décennies, il fut vendu dans une bouteille enveloppée d'un petit sac de jute, en allusion au mot <em>sack</em>, nom par lequel les Anglais désignaient autrefois les vins secs importés d'Espagne, y compris celui de Jerez.</p><p>Malgré son nom, ce n'est pas un vin entièrement sec, mais un xérès de type <strong>medium</strong>, la catégorie de la D.O. Jerez qui regroupe les vins d'assemblage d'une douceur modérée. Il est élaboré en associant des vins de <strong>palomino</strong> d'élevage oxydatif, principalement amontillado et oloroso, à une part de vin doux de <strong>pedro ximénez</strong> ; les proportions ne sont pas précisées. Les vins de base sont élevés dans le système des criaderas et solera. Le résultat est un xérès ambré, aux arômes de fruits secs et à la légère douceur qui le rend accessible à ceux qui découvrent ces vins.</p>",
+    "it": "<p>Dry Sack è il marchio più famoso di Williams & Humbert e uno degli sherry più conosciuti fuori dalla Spagna. Per decenni fu venduto in una bottiglia avvolta in un piccolo sacco di iuta, in allusione alla parola <em>sack</em>, nome con cui gli inglesi indicavano anticamente i vini secchi importati dalla Spagna, compreso quello di Jerez.</p><p>Nonostante il nome, non è un vino completamente secco, ma uno sherry di tipo <strong>medium</strong>, la categoria della D.O. Jerez che riunisce i vini di miscela con una dolcezza moderata. È prodotto unendo vini di <strong>Palomino</strong> ad affinamento ossidativo, principalmente amontillado e oloroso, a una parte di vino dolce di <strong>Pedro Ximénez</strong>; le proporzioni non sono specificate. I vini base affinano nel sistema di criaderas e solera. Il risultato è uno sherry ambrato, con aromi di frutta secca e una leggera dolcezza che lo rende accessibile a chi si avvicina a questi vini.</p>"
+  },
+  "tasting": {
+    "es": "Ámbar oscuro. Aromas de nuez, avellana, pasas y caramelo, con notas de madera. En boca es suave, ligeramente dulce y de final amplio.",
+    "en": "Dark amber. Aromas of walnut, hazelnut, raisins and caramel, with wood notes. Smooth and slightly sweet on the palate, with a broad finish.",
+    "fr": "Ambre foncé. Arômes de noix, de noisette, de raisins secs et de caramel, avec des notes boisées. En bouche, souple, légèrement doux, à la finale ample.",
+    "it": "Ambra scura. Aromi di noce, nocciola, uvetta e caramello, con note di legno. In bocca è morbido, leggermente dolce e dal finale ampio."
+  },
+  "pairing": {
+    "es": "Aperitivo con hielo, patés, quesos curados, frutos secos",
+    "en": "Aperitif over ice, pâtés, aged cheeses, nuts",
+    "fr": "Apéritif sur glace, pâtés, fromages affinés, fruits secs",
+    "it": "Aperitivo con ghiaccio, paté, formaggi stagionati, frutta secca"
+  },
+  "serve": {
+    "es": "10-12 °C o con hielo, copa de vino blanco",
+    "en": "10-12 °C or over ice, white wine glass",
+    "fr": "10-12 °C ou sur glace, verre à vin blanc",
+    "it": "10-12 °C o con ghiaccio, calice da vino bianco"
+  },
+  "search": "Dry Sack Medium Sherry Williams & Humbert"
+}

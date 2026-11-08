@@ -1,0 +1,45 @@
+{
+  "slug": "clos-du-marquis",
+  "name": "Clos du Marquis",
+  "winery": "chateau-leoville-las-cases",
+  "region": "medoc",
+  "country": "francia",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Tinto de Saint-Julien de la familia Delon, procedente de parcelas propias situadas fuera del Grand Enclos de Léoville Las Cases y considerado hoy un vino con identidad propia.",
+    "en": "Saint-Julien red from the Delon family, made from its own plots outside the Grand Enclos of Léoville Las Cases and now regarded as a wine with its own identity.",
+    "fr": "Rouge de Saint-Julien de la famille Delon, issu de parcelles propres situées hors du Grand Clos de Léoville Las Cases et considéré aujourd’hui comme un vin à part entière.",
+    "it": "Rosso di Saint-Julien della famiglia Delon, proveniente da parcelle proprie situate fuori dal Grand Enclos di Léoville Las Cases e oggi considerato un vino con una propria identità."
+  },
+  "body": {
+    "es": "<p>Clos du Marquis nació como segundo vino de Léoville Las Cases, pero con el tiempo la familia Delon lo ha presentado como un vino independiente, procedente de parcelas concretas de Saint-Julien situadas fuera del Grand Enclos. El segundo vino propiamente dicho de Las Cases es hoy Le Petit Lion.</p><p>Elaborado con <strong>Cabernet Sauvignon</strong>, <strong>Merlot</strong> y algo de <strong>Cabernet Franc</strong>, en proporciones que varían según la añada, se vinifica en las bodegas de la finca y se cría en barricas de roble francés con una proporción moderada de madera nueva.</p><p>Comparte con el vino principal la precisión y la sobriedad del estilo Delon, con fruta negra, notas de cedro y una estructura firme. Su perfil es algo más accesible en la juventud, pero tiene capacidad para mejorar durante bastantes años en botella, y es un buen ejemplo del carácter equilibrado de Saint-Julien.</p>",
+    "en": "<p>Clos du Marquis began as the second wine of Léoville Las Cases, but over time the Delon family has presented it as a separate wine, made from specific plots in Saint-Julien outside the Grand Enclos. The actual second wine of Las Cases is now Le Petit Lion.</p><p>Made from <strong>Cabernet Sauvignon</strong>, <strong>Merlot</strong> and some <strong>Cabernet Franc</strong>, in proportions that vary with the vintage, it is vinified in the estate’s cellars and aged in French oak barrels with a moderate proportion of new wood.</p><p>It shares the precision and restraint of the Delon style with the main wine, showing black fruit, cedar notes and a firm structure. Its profile is somewhat more approachable in youth, but it can improve for many years in bottle, and it is a good example of the balanced character of Saint-Julien.</p>",
+    "fr": "<p>Le Clos du Marquis est né comme second vin de Léoville Las Cases, mais la famille Delon l’a peu à peu présenté comme un vin indépendant, issu de parcelles précises de Saint-Julien situées hors du Grand Clos. Le véritable second vin de Las Cases est aujourd’hui Le Petit Lion.</p><p>Élaboré avec du <strong>cabernet-sauvignon</strong>, du <strong>merlot</strong> et un peu de <strong>cabernet franc</strong>, dans des proportions qui varient selon le millésime, il est vinifié dans les chais du domaine et élevé en barriques de chêne français avec une proportion modérée de bois neuf.</p><p>Il partage avec le vin principal la précision et la sobriété du style Delon, avec des fruits noirs, des notes de cèdre et une structure ferme. Son profil est un peu plus accessible dans la jeunesse, mais il peut se bonifier pendant de nombreuses années en bouteille, et il illustre bien le caractère équilibré de Saint-Julien.</p>",
+    "it": "<p>Clos du Marquis nacque come secondo vino di Léoville Las Cases, ma col tempo la famiglia Delon lo ha presentato come un vino indipendente, proveniente da parcelle precise di Saint-Julien situate fuori dal Grand Enclos. Il vero secondo vino di Las Cases è oggi Le Petit Lion.</p><p>Prodotto con <strong>Cabernet Sauvignon</strong>, <strong>Merlot</strong> e un po’ di <strong>Cabernet Franc</strong>, in proporzioni che variano secondo l’annata, è vinificato nelle cantine della tenuta e affina in barrique di rovere francese con una quota moderata di legno nuovo.</p><p>Condivide con il vino principale la precisione e la sobrietà dello stile Delon, con frutta nera, note di cedro e una struttura decisa. Il suo profilo è un po’ più accessibile in gioventù, ma può migliorare per molti anni in bottiglia ed è un buon esempio del carattere equilibrato di Saint-Julien.</p>"
+  },
+  "tasting": {
+    "es": "Rubí oscuro. Aromas de grosella negra, ciruela y cedro, con un fondo mineral. Boca firme y equilibrada, de taninos finos y final fresco.",
+    "en": "Dark ruby. Aromas of blackcurrant, plum and cedar over a mineral background. Firm, balanced palate with fine tannins and a fresh finish.",
+    "fr": "Rubis sombre. Arômes de cassis, de prune et de cèdre, sur un fond minéral. Bouche ferme et équilibrée, aux tanins fins, finale fraîche.",
+    "it": "Rubino scuro. Aromi di ribes nero, prugna e cedro, su un fondo minerale. Bocca decisa ed equilibrata, dai tannini fini e dal finale fresco."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, pato asado, guisos de carne, quesos semicurados",
+    "en": "Grilled red meat, roast duck, meat stews, semi-hard cheeses",
+    "fr": "Viandes rouges grillées, canard rôti, ragoûts de viande, fromages à pâte pressée",
+    "it": "Carni rosse alla brace, anatra arrosto, stufati di carne, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia de tipo Burdeos",
+    "en": "16-18 °C, decanted, large Bordeaux glass",
+    "fr": "16-18 °C, carafé, grand verre de type bordeaux",
+    "it": "16-18 °C, decantato, calice ampio tipo Bordeaux"
+  },
+  "search": "Clos du Marquis Saint-Julien Léoville Las Cases"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "mas-doix-salanques",
+  "name": "Salanques",
+  "winery": "mas-doix",
+  "region": "priorat",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha",
+    "carinena"
+  ],
+  "summary": {
+    "es": "Tinto de Mas Doix elaborado con garnacha y cariñena de viñas viejas de Poboleda, el escalón intermedio de la bodega.",
+    "en": "Red from Mas Doix made from old-vine Garnacha and Cariñena from Poboleda, the winery's intermediate tier.",
+    "fr": "Rouge de Mas Doix élaboré avec du grenache et du carignan de vieilles vignes de Poboleda, l'échelon intermédiaire du domaine.",
+    "it": "Rosso di Mas Doix prodotto con Garnacha e Cariñena di vecchie vigne di Poboleda, il gradino intermedio della cantina."
+  },
+  "body": {
+    "es": "<p>Salanques ocupa el lugar intermedio en la gama de Mas Doix, entre el joven Les Crestes y Doix, el vino de las cepas más antiguas. Es quizá el tinto que mejor resume el estilo de la bodega de <strong>Poboleda</strong>: concentración de viñas viejas y frescura del norte del Priorat.</p><p>Se elabora con <strong>garnacha</strong> y <strong>cariñena</strong> de viñas viejas en vaso, a las que puede sumarse una pequeña parte de syrah según la añada; las proporciones cambian de un año a otro. Las viñas crecen sobre <strong>llicorella</strong> en laderas y bancales de fuerte pendiente, trabajados a mano, con rendimientos muy reducidos. Las uvas se vinifican por parcelas y el vino se cría en barricas de roble francés durante más de un año. El resultado es un tinto de color profundo, fruta negra madura, notas minerales y especiadas, y una estructura que le permite evolucionar en botella durante bastantes años.</p>",
+    "en": "<p>Salanques holds the intermediate place in the Mas Doix range, between the young Les Crestes and Doix, the wine from the oldest vines. It is perhaps the red that best sums up the style of this <strong>Poboleda</strong> winery: old-vine concentration and the freshness of the northern Priorat.</p><p>It is made from old bush-trained <strong>Garnacha</strong> and <strong>Cariñena</strong>, which may be joined by a small share of Syrah depending on the vintage; the proportions change from year to year. The vines grow on <strong>llicorella</strong> on steep slopes and terraces worked by hand, with very low yields. The grapes are vinified plot by plot and the wine is aged in French oak barrels for more than a year. The result is a deeply coloured red with ripe black fruit, mineral and spicy notes, and a structure that allows it to develop in bottle for a good number of years.</p>",
+    "fr": "<p>Salanques occupe la place intermédiaire dans la gamme de Mas Doix, entre le jeune Les Crestes et Doix, le vin des ceps les plus anciens. C'est peut-être le rouge qui résume le mieux le style du domaine de <strong>Poboleda</strong> : la concentration des vieilles vignes et la fraîcheur du nord du Priorat.</p><p>Il est élaboré avec du <strong>grenache</strong> et du <strong>carignan</strong> de vieilles vignes en gobelet, auxquels peut s'ajouter une petite part de syrah selon le millésime ; les proportions changent d'une année à l'autre. Les vignes poussent sur la <strong>llicorella</strong>, sur des coteaux et des terrasses très pentus travaillés à la main, avec des rendements très réduits. Les raisins sont vinifiés par parcelle et le vin est élevé en barriques de chêne français pendant plus d'un an. Le résultat est un rouge à la couleur profonde, au fruit noir mûr, aux notes minérales et épicées, avec une structure qui lui permet d'évoluer en bouteille pendant de nombreuses années.</p>",
+    "it": "<p>Salanques occupa il posto intermedio nella gamma di Mas Doix, tra il giovane Les Crestes e Doix, il vino delle viti più antiche. È forse il rosso che meglio riassume lo stile della cantina di <strong>Poboleda</strong>: la concentrazione delle vecchie vigne e la freschezza del nord del Priorat.</p><p>È prodotto con <strong>Garnacha</strong> e <strong>Cariñena</strong> di vecchie viti ad alberello, a cui può aggiungersi una piccola parte di Syrah secondo l'annata; le proporzioni cambiano di anno in anno. Le viti crescono sulla <strong>llicorella</strong> su pendii e terrazze molto ripidi lavorati a mano, con rese molto ridotte. Le uve sono vinificate per parcelle e il vino affina in barrique di rovere francese per più di un anno. Il risultato è un rosso di colore profondo, frutta nera matura, note minerali e speziate e una struttura che gli consente di evolvere in bottiglia per parecchi anni.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de fruta negra madura, regaliz, hierbas de monte, especias y notas de pizarra. En boca es amplio y profundo, con tanino firme y final largo.",
+    "en": "Intense cherry red. Aromas of ripe black fruit, liquorice, wild herbs, spice and slate notes. Broad and deep on the palate, with firm tannins and a long finish.",
+    "fr": "Rouge cerise intense. Arômes de fruits noirs mûrs, de réglisse, d'herbes de garrigue, d'épices et notes de schiste. En bouche, ample et profond, aux tanins fermes et à la longue finale.",
+    "it": "Rosso ciliegia intenso. Aromi di frutta nera matura, liquirizia, erbe di macchia, spezie e note di ardesia. In bocca è ampio e profondo, con tannino deciso e finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, caza, carnes a la brasa, quesos curados",
+    "en": "Roast lamb, game, grilled meats, aged cheeses",
+    "fr": "Agneau rôti, gibier, viandes grillées, fromages affinés",
+    "it": "Agnello arrosto, selvaggina, carni alla brace, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, grand verre",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Salanques Mas Doix Priorat"
+}

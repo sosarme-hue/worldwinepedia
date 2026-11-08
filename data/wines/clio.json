@@ -1,0 +1,44 @@
+{
+  "slug": "clio",
+  "name": "Clio",
+  "winery": "bodegas-el-nido",
+  "region": "jumilla",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "monastrell",
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "Tinto de Bodegas El Nido en Jumilla, ensamblaje de monastrell de viñas viejas y cabernet sauvignon, de estilo concentrado.",
+    "en": "Red from Bodegas El Nido in Jumilla, a concentrated blend of old-vine Monastrell and Cabernet Sauvignon.",
+    "fr": "Rouge de Bodegas El Nido à Jumilla, assemblage concentré de monastrell de vieilles vignes et de cabernet sauvignon.",
+    "it": "Rosso di Bodegas El Nido a Jumilla, uvaggio concentrato di Monastrell di vecchie vigne e Cabernet Sauvignon."
+  },
+  "body": {
+    "es": "<p>Clio, nombre de la musa griega de la historia, es uno de los dos tintos de Bodegas El Nido, el proyecto de la familia Gil y del enólogo australiano Chris Ringland en <strong>Jumilla</strong>. Es un vino de gran ambición, pensado para mostrar el potencial de la monastrell de viñas viejas en un estilo de máxima concentración.</p><p>Es un ensamblaje en el que predomina la <strong>monastrell</strong>, procedente de cepas viejas en vaso, completada con <strong>cabernet sauvignon</strong>; las proporciones varían según la añada. Los viñedos, sobre suelos calizos y pedregosos en el clima semiárido del altiplano de Jumilla, dan rendimientos muy bajos. Las uvas se vendimian a mano en plena madurez, y el vino se cría durante más de un año en barricas nuevas de roble francés y americano. El resultado es un tinto de color casi opaco, con fruta negra muy madura, notas de chocolate, especias y tostados, y una textura densa. Puede guardarse varios años.</p>",
+    "en": "<p>Clio, named after the Greek muse of history, is one of the two reds from Bodegas El Nido, the project of the Gil family and Australian winemaker Chris Ringland in <strong>Jumilla</strong>. It is a highly ambitious wine, designed to show the potential of old-vine Monastrell in a style of maximum concentration.</p><p>It is a blend dominated by <strong>Monastrell</strong>, from old bush vines, completed with <strong>Cabernet Sauvignon</strong>; the proportions vary with the vintage. The vineyards, on calcareous, stony soils in the semi-arid climate of the Jumilla plateau, give very low yields. The grapes are hand-picked at full ripeness, and the wine is aged for more than a year in new French and American oak barrels. The result is an almost opaque red with very ripe black fruit, notes of chocolate, spice and toast, and a dense texture. It can be kept for several years.</p>",
+    "fr": "<p>Clio, du nom de la muse grecque de l'histoire, est l'un des deux rouges de Bodegas El Nido, le projet de la famille Gil et de l'œnologue australien Chris Ringland à <strong>Jumilla</strong>. C'est un vin très ambitieux, conçu pour montrer le potentiel du monastrell de vieilles vignes dans un style de concentration maximale.</p><p>C'est un assemblage où domine le <strong>monastrell</strong>, issu de vieux ceps en gobelet, complété par du <strong>cabernet sauvignon</strong> ; les proportions varient selon le millésime. Les vignes, sur des sols calcaires et caillouteux sous le climat semi-aride du plateau de Jumilla, donnent des rendements très faibles. Les raisins sont vendangés à la main à pleine maturité, et le vin est élevé plus d'un an en barriques neuves de chêne français et américain. Le résultat est un rouge à la couleur presque opaque, au fruit noir très mûr, aux notes de chocolat, d'épices et de grillé, et à la texture dense. Il peut se garder plusieurs années.</p>",
+    "it": "<p>Clio, dal nome della musa greca della storia, è uno dei due rossi di Bodegas El Nido, il progetto della famiglia Gil e dell'enologo australiano Chris Ringland a <strong>Jumilla</strong>. È un vino molto ambizioso, pensato per mostrare il potenziale del Monastrell di vecchie vigne in uno stile di massima concentrazione.</p><p>È un uvaggio in cui predomina il <strong>Monastrell</strong>, da vecchie viti ad alberello, completato dal <strong>Cabernet Sauvignon</strong>; le proporzioni variano secondo l'annata. I vigneti, su suoli calcarei e sassosi nel clima semiarido dell'altopiano di Jumilla, danno rese bassissime. Le uve sono vendemmiate a mano a piena maturità e il vino affina per oltre un anno in barrique nuove di rovere francese e americano. Il risultato è un rosso di colore quasi impenetrabile, con frutta nera molto matura, note di cioccolato, spezie e tostature e una consistenza densa. Si può conservare diversi anni.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota casi opaco. Aromas de mora, ciruela pasa, chocolate, regaliz, especias y tostados. En boca es denso, potente y aterciopelado.",
+    "en": "Almost opaque deep cherry red. Aromas of blackberry, prune, chocolate, liquorice, spice and toast. Dense, powerful and velvety on the palate.",
+    "fr": "Rouge cerise presque opaque. Arômes de mûre, de pruneau, de chocolat, de réglisse, d'épices et de grillé. En bouche, dense, puissant et velouté.",
+    "it": "Rosso ciliegia quasi impenetrabile. Aromi di mora, prugna secca, cioccolato, liquirizia, spezie e tostature. In bocca è denso, potente e vellutato."
+  },
+  "pairing": {
+    "es": "Carnes rojas, caza, guisos contundentes, quesos curados",
+    "en": "Red meats, game, hearty stews, aged cheeses",
+    "fr": "Viandes rouges, gibier, plats mijotés copieux, fromages affinés",
+    "it": "Carni rosse, selvaggina, stufati sostanziosi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, grand verre",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Clio Bodegas El Nido Jumilla"
+}

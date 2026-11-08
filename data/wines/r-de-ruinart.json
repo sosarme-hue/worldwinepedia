@@ -1,0 +1,49 @@
+{
+  "slug": "r-de-ruinart",
+  "name": "R de Ruinart Brut",
+  "winery": "ruinart",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut",
+    "en": "Brut",
+    "fr": "Brut",
+    "it": "Brut"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Champagne brut sin añada de Ruinart, ensamblaje de Pinot Noir, Chardonnay y Pinot Meunier con vinos de reserva, de estilo fresco y afrutado.",
+    "en": "Ruinart’s non-vintage brut champagne, a blend of Pinot Noir, Chardonnay and Pinot Meunier with reserve wines, fresh and fruity in style.",
+    "fr": "Champagne brut non millésimé de Ruinart, assemblage de pinot noir, de chardonnay et de pinot meunier avec des vins de réserve, au style frais et fruité.",
+    "it": "Champagne brut senza annata di Ruinart, assemblaggio di Pinot Nero, Chardonnay e Pinot Meunier con vini di riserva, di stile fresco e fruttato."
+  },
+  "body": {
+    "es": "<p>R de Ruinart es el champán brut sin añada de Ruinart. Su nombre toma la inicial de la familia fundadora. Se elabora con las tres variedades de Champagne: <strong>Pinot Noir</strong>, que suele ser mayoritaria, <strong>Chardonnay</strong>, que aporta la frescura característica de la casa, y una pequeña parte de Pinot Meunier. Las uvas proceden de numerosos municipios, y las proporciones varían según el ensamblaje.</p><p>Una parte importante del ensamblaje está formada por vinos de reserva de las dos cosechas anteriores, que dan regularidad y redondez al estilo. Tras la segunda fermentación en botella, el champán se cría durante varios años sobre lías en las crayères de Reims antes del degüelle.</p><p>Es un champán equilibrado, con aromas de fruta fresca, como pera y manzana, notas de frutos secos y brioche y una boca viva y redonda. Es adecuado como aperitivo y con platos ligeros.</p>",
+    "en": "<p>R de Ruinart is Ruinart’s non-vintage brut champagne. Its name takes the initial of the founding family. It is made from the three Champagne varieties: <strong>Pinot Noir</strong>, usually the majority, <strong>Chardonnay</strong>, which brings the freshness characteristic of the house, and a small proportion of Pinot Meunier. The grapes come from many villages, and the proportions vary from blend to blend.</p><p>A significant part of the blend is made up of reserve wines from the two previous harvests, which give the style consistency and roundness. After the second fermentation in bottle, the champagne is aged for several years on its lees in the Reims crayères before disgorgement.</p><p>It is a balanced champagne, with aromas of fresh fruit such as pear and apple, notes of nuts and brioche and a lively, rounded palate. It is suitable as an aperitif and with light dishes.</p>",
+    "fr": "<p>R de Ruinart est le champagne brut non millésimé de Ruinart. Son nom reprend l’initiale de la famille fondatrice. Il est élaboré avec les trois cépages de la Champagne : le <strong>pinot noir</strong>, généralement majoritaire, le <strong>chardonnay</strong>, qui apporte la fraîcheur caractéristique de la maison, et une petite part de pinot meunier. Les raisins proviennent de nombreux villages, et les proportions varient selon l’assemblage.</p><p>Une part importante de l’assemblage est constituée de vins de réserve des deux récoltes précédentes, qui donnent au style régularité et rondeur. Après la prise de mousse en bouteille, le champagne est élevé plusieurs années sur lies dans les crayères de Reims avant le dégorgement.</p><p>C’est un champagne équilibré, aux arômes de fruits frais comme la poire et la pomme, aux notes de fruits secs et de brioche, à la bouche vive et ronde. Il convient à l’apéritif et aux plats légers.</p>",
+    "it": "<p>R de Ruinart è lo champagne brut senza annata di Ruinart. Il nome riprende l’iniziale della famiglia fondatrice. È prodotto con le tre varietà della Champagne: il <strong>Pinot Nero</strong>, di solito maggioritario, lo <strong>Chardonnay</strong>, che apporta la freschezza caratteristica della casa, e una piccola parte di Pinot Meunier. Le uve provengono da numerosi villaggi e le proporzioni variano secondo l’assemblaggio.</p><p>Una parte importante dell’assemblaggio è costituita da vini di riserva delle due vendemmie precedenti, che danno regolarità e rotondità allo stile. Dopo la seconda fermentazione in bottiglia, lo champagne affina per diversi anni sui lieviti nelle crayères di Reims prima della sboccatura.</p><p>È uno champagne equilibrato, con aromi di frutta fresca come pera e mela, note di frutta secca e brioche e una bocca vivace e rotonda. È adatto come aperitivo e con piatti leggeri.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo dorado con burbuja fina. Aromas de pera, manzana, cítricos, avellana y brioche. Boca fresca y redonda, con buena vivacidad y final afrutado.",
+    "en": "Golden yellow with fine bubbles. Aromas of pear, apple, citrus, hazelnut and brioche. Fresh, round palate with good liveliness and a fruity finish.",
+    "fr": "Robe jaune doré à la bulle fine. Arômes de poire, de pomme, d’agrumes, de noisette et de brioche. Bouche fraîche et ronde, bien vive, finale fruitée.",
+    "it": "Giallo dorato dal perlage fine. Aromi di pera, mela, agrumi, nocciola e brioche. Bocca fresca e rotonda, di buona vivacità e dal finale fruttato."
+  },
+  "pairing": {
+    "es": "Aperitivo, marisco, ostras, sushi, frituras ligeras, quesos de pasta blanda",
+    "en": "Aperitif, shellfish, oysters, sushi, light fried food, soft cheeses",
+    "fr": "Apéritif, fruits de mer, huîtres, sushis, fritures légères, fromages à pâte molle",
+    "it": "Aperitivo, frutti di mare, ostriche, sushi, fritture leggere, formaggi a pasta molle"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco o de tulipa",
+    "en": "8-10 °C, white wine or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da vino bianco o a tulipano"
+  },
+  "search": "R de Ruinart Brut Champagne"
+}

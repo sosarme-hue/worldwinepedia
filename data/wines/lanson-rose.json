@@ -1,0 +1,49 @@
+{
+  "slug": "lanson-rose",
+  "name": "Lanson Rosé",
+  "winery": "lanson",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut Rosé",
+    "en": "Brut Rosé",
+    "fr": "Brut Rosé",
+    "it": "Brut Rosé"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Champagne rosado sin añada de Lanson, elaborado por ensamblaje con vino tinto de Pinot Noir, de estilo fresco y afrutado.",
+    "en": "Lanson’s non-vintage rosé champagne, made by blending with Pinot Noir red wine, fresh and fruity in style.",
+    "fr": "Champagne rosé non millésimé de Lanson, élaboré par assemblage avec du vin rouge de pinot noir, au style frais et fruité.",
+    "it": "Champagne rosé senza annata di Lanson, prodotto per assemblaggio con vino rosso di Pinot Nero, di stile fresco e fruttato."
+  },
+  "body": {
+    "es": "<p>El rosado de Lanson, conocido durante años como Rosé Label, es uno de los champanes rosados más difundidos de la región. Se elabora mediante el método de ensamblaje: a una base de vinos blancos de <strong>Pinot Noir</strong>, <strong>Chardonnay</strong> y Pinot Meunier se añade una proporción de vino tinto tranquilo de Pinot Noir, que aporta el color y los aromas de frutos rojos. Las proporciones varían según el ensamblaje.</p><p>Como en el brut de la casa, una parte de los vinos se elabora sin fermentación maloláctica, lo que mantiene una acidez viva y un perfil fresco. El champán incluye vinos de reserva y se cría varios años sobre lías antes del degüelle.</p><p>Es un rosado de color salmón, con aromas de fresa, frambuesa y un toque de cítricos, y una boca fresca, ligera y afrutada. Es adecuado como aperitivo y con platos de pescado o cocina ligera.</p>",
+    "en": "<p>Lanson’s rosé, known for years as Rosé Label, is one of the region’s most widely distributed rosé champagnes. It is made by the blending method: a proportion of still red Pinot Noir wine, which brings colour and red fruit aromas, is added to a base of white wines from <strong>Pinot Noir</strong>, <strong>Chardonnay</strong> and Pinot Meunier. The proportions vary from blend to blend.</p><p>As with the house brut, some of the wines are made without malolactic fermentation, which keeps the acidity lively and the profile fresh. The champagne includes reserve wines and is aged for several years on its lees before disgorgement.</p><p>It is a salmon-coloured rosé, with aromas of strawberry, raspberry and a touch of citrus, and a fresh, light, fruity palate. It is suitable as an aperitif and with fish or light dishes.</p>",
+    "fr": "<p>Le rosé de Lanson, longtemps connu sous le nom de Rosé Label, est l’un des champagnes rosés les plus diffusés de la région. Il est élaboré par assemblage : à une base de vins blancs de <strong>pinot noir</strong>, de <strong>chardonnay</strong> et de pinot meunier, on ajoute une proportion de vin rouge tranquille de pinot noir, qui apporte la couleur et les arômes de fruits rouges. Les proportions varient selon l’assemblage.</p><p>Comme pour le brut de la maison, une partie des vins est élaborée sans fermentation malolactique, ce qui maintient une acidité vive et un profil frais. Le champagne comprend des vins de réserve et il est élevé plusieurs années sur lies avant le dégorgement.</p><p>C’est un rosé à la couleur saumonée, aux arômes de fraise, de framboise et une touche d’agrumes, à la bouche fraîche, légère et fruitée. Il convient à l’apéritif et aux plats de poisson ou à une cuisine légère.</p>",
+    "it": "<p>Il rosé di Lanson, conosciuto per anni come Rosé Label, è uno degli champagne rosé più diffusi della regione. È prodotto con il metodo dell’assemblaggio: a una base di vini bianchi di <strong>Pinot Nero</strong>, <strong>Chardonnay</strong> e Pinot Meunier si aggiunge una quota di vino rosso fermo di Pinot Nero, che apporta il colore e gli aromi di frutti rossi. Le proporzioni variano secondo l’assemblaggio.</p><p>Come per il brut della casa, una parte dei vini è prodotta senza fermentazione malolattica, il che mantiene un’acidità vivace e un profilo fresco. Lo champagne comprende vini di riserva e affina per diversi anni sui lieviti prima della sboccatura.</p><p>È un rosé di colore salmone, con aromi di fragola, lampone e un tocco di agrumi, e una bocca fresca, leggera e fruttata. È adatto come aperitivo e con piatti di pesce o di cucina leggera.</p>"
+  },
+  "tasting": {
+    "es": "Rosa salmón con burbuja fina. Aromas de fresa, frambuesa y pomelo rosado. Boca fresca, viva y afrutada, con final limpio.",
+    "en": "Salmon pink with fine bubbles. Aromas of strawberry, raspberry and pink grapefruit. Fresh, lively, fruity palate with a clean finish.",
+    "fr": "Rose saumoné à la bulle fine. Arômes de fraise, de framboise et de pamplemousse rose. Bouche fraîche, vive et fruitée, finale nette.",
+    "it": "Rosa salmone dal perlage fine. Aromi di fragola, lampone e pompelmo rosa. Bocca fresca, vivace e fruttata, dal finale pulito."
+  },
+  "pairing": {
+    "es": "Salmón, atún en tataki, pato, cocina asiática, postres de frutos rojos poco dulces",
+    "en": "Salmon, tuna tataki, duck, Asian cuisine, not-too-sweet red fruit desserts",
+    "fr": "Saumon, tataki de thon, canard, cuisine asiatique, desserts aux fruits rouges peu sucrés",
+    "it": "Salmone, tataki di tonno, anatra, cucina asiatica, dolci ai frutti rossi poco zuccherati"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco o de tulipa",
+    "en": "8-10 °C, white wine or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da vino bianco o a tulipano"
+  },
+  "search": "Lanson Rosé Champagne Brut"
+}

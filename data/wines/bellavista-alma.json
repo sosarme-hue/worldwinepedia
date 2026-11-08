@@ -1,0 +1,49 @@
+{
+  "slug": "bellavista-alma",
+  "name": "Bellavista Alma Gran Cuvée Brut",
+  "winery": "bellavista",
+  "region": "franciacorta",
+  "country": "italia",
+  "type": "espumoso",
+  "category": {
+    "es": "Franciacorta DOCG Brut",
+    "en": "Franciacorta DOCG Brut",
+    "fr": "Franciacorta DOCG Brut",
+    "it": "Franciacorta DOCG Brut"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Franciacorta brut sin añada de Bellavista, el vino más difundido de la casa, elaborado con Chardonnay y Pinot Noir y una parte de vinos de reserva.",
+    "en": "Bellavista’s non-vintage brut Franciacorta, the house’s most widely available wine, made from Chardonnay and Pinot Noir with a share of reserve wines.",
+    "fr": "Franciacorta brut sans millésime de Bellavista, le vin le plus diffusé de la maison, élaboré avec du chardonnay et du pinot noir et une part de vins de réserve.",
+    "it": "Franciacorta brut senza annata di Bellavista, il vino più diffuso della casa, prodotto con Chardonnay e Pinot Nero e una parte di vini di riserva."
+  },
+  "body": {
+    "es": "<p><strong>Alma</strong> es el Franciacorta de base de Bellavista y el que mejor representa el estilo de la casa de Erbusco. Al tratarse de un vino sin añada, su objetivo es mantener un carácter constante de un año a otro, gracias al ensamblaje de vinos de distintas cosechas.</p><p>Se elabora principalmente con <strong>Chardonnay</strong>, completado con <strong>Pinot Noir</strong> y una pequeña parte de Pinot Bianco, procedentes de numerosas parcelas de la Franciacorta. Una fracción de los vinos base fermenta en pequeñas barricas de roble, y al ensamblaje se añaden vinos de reserva de añadas anteriores. A continuación, el vino realiza la segunda fermentación en botella, según el <strong>método tradicional</strong>, y reposa sobre sus lías durante varios años antes del degüelle.</p><p>Es un espumoso elegante y equilibrado, de burbuja fina, que combina fruta fresca, notas florales y matices de crianza. Resulta muy versátil, desde el aperitivo hasta la mesa.</p>",
+    "en": "<p><strong>Alma</strong> is Bellavista’s core Franciacorta and the wine that best represents the style of the Erbusco house. As a non-vintage wine, it aims to keep a consistent character from year to year, thanks to the blending of wines from different harvests.</p><p>It is made mainly from <strong>Chardonnay</strong>, complemented by <strong>Pinot Noir</strong> and a small share of Pinot Bianco, from numerous plots in Franciacorta. A portion of the base wines is fermented in small oak barrels, and reserve wines from earlier vintages are added to the blend. The wine then undergoes its second fermentation in bottle by the <strong>traditional method</strong> and rests on its lees for several years before disgorgement.</p><p>It is an elegant, balanced sparkling wine with fine bubbles, combining fresh fruit, floral notes and nuances from ageing. It is very versatile, from aperitif to the table.</p>",
+    "fr": "<p><strong>Alma</strong> est le franciacorta de base de Bellavista et celui qui représente le mieux le style de la maison d’Erbusco. S’agissant d’un vin sans millésime, il vise à conserver un caractère constant d’une année à l’autre, grâce à l’assemblage de vins de différentes récoltes.</p><p>Il est élaboré principalement avec du <strong>chardonnay</strong>, complété par du <strong>pinot noir</strong> et une petite part de pinot blanc, issus de nombreuses parcelles de la Franciacorta. Une partie des vins de base fermente en petits fûts de chêne, et des vins de réserve de millésimes antérieurs sont ajoutés à l’assemblage. Le vin effectue ensuite sa seconde fermentation en bouteille selon la <strong>méthode traditionnelle</strong> et repose sur ses lies plusieurs années avant le dégorgement.</p><p>C’est un effervescent élégant et équilibré, à la bulle fine, qui associe fruit frais, notes florales et nuances d’élevage. Il est très polyvalent, de l’apéritif à la table.</p>",
+    "it": "<p><strong>Alma</strong> è il Franciacorta di base di Bellavista e quello che meglio rappresenta lo stile della casa di Erbusco. Trattandosi di un vino senza annata, mira a mantenere un carattere costante da un anno all’altro, grazie all’assemblaggio di vini di vendemmie diverse.</p><p>Si produce principalmente con <strong>Chardonnay</strong>, completato da <strong>Pinot Nero</strong> e da una piccola parte di Pinot Bianco, provenienti da numerose parcelle della Franciacorta. Una parte dei vini base fermenta in piccole botti di rovere e all’assemblaggio si aggiungono vini di riserva di annate precedenti. Il vino compie poi la seconda fermentazione in bottiglia secondo il <strong>metodo classico</strong> e riposa sui lieviti per diversi anni prima della sboccatura.</p><p>È uno spumante elegante ed equilibrato, dal perlage fine, che unisce frutto fresco, note floreali e sfumature di affinamento. È molto versatile, dall’aperitivo alla tavola.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pajizo brillante, burbuja fina. Aromas de manzana, pera, cítricos, flores blancas y un toque de pan tostado. Boca fresca, cremosa y equilibrada, con final limpio.",
+    "en": "Bright straw yellow, fine bubbles. Aromas of apple, pear, citrus, white flowers and a touch of toast. Fresh, creamy, balanced palate with a clean finish.",
+    "fr": "Jaune paille brillant, bulle fine. Arômes de pomme, de poire, d’agrumes, de fleurs blanches et une touche de pain grillé. Bouche fraîche, crémeuse et équilibrée, à la finale nette.",
+    "it": "Giallo paglierino brillante, perlage fine. Profumi di mela, pera, agrumi, fiori bianchi e un tocco di pane tostato. Bocca fresca, cremosa ed equilibrata, con finale pulito."
+  },
+  "pairing": {
+    "es": "Aperitivo, marisco, pescado crudo, risotto, frituras, quesos de pasta blanda",
+    "en": "Aperitif, shellfish, raw fish, risotto, fried food, soft cheeses",
+    "fr": "Apéritif, fruits de mer, poisson cru, risotto, fritures, fromages à pâte molle",
+    "it": "Aperitivo, crostacei, pesce crudo, risotto, fritture, formaggi a pasta molle"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de vino blanco o flauta",
+    "en": "6-8 °C, white wine glass or flute",
+    "fr": "6-8 °C, verre à vin blanc ou flûte",
+    "it": "6-8 °C, calice da vino bianco o flûte"
+  },
+  "search": "Bellavista Alma Gran Cuvée Brut Franciacorta"
+}

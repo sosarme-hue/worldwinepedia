@@ -1,0 +1,50 @@
+{
+  "slug": "lan-crianza",
+  "name": "LAN Crianza",
+  "winery": "bodegas-lan",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Crianza",
+    "en": "Crianza",
+    "fr": "Crianza",
+    "it": "Crianza"
+  },
+  "grapes": [
+    "tempranillo",
+    "carinena",
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Crianza de Bodegas LAN, uno de los riojas más conocidos de la bodega de Fuenmayor, elaborado sobre todo con Tempranillo y criado en barrica.",
+    "en": "Crianza from Bodegas LAN, one of the best-known Riojas from the Fuenmayor winery, made mainly from Tempranillo and aged in barrel.",
+    "fr": "Crianza de Bodegas LAN, l’un des riojas les plus connus de la bodega de Fuenmayor, élaboré surtout avec du tempranillo et élevé en barrique.",
+    "it": "Crianza di Bodegas LAN, uno dei Rioja più noti della cantina di Fuenmayor, prodotto soprattutto con Tempranillo e affinato in barrique."
+  },
+  "body": {
+    "es": "<p>LAN Crianza es el vino de mayor difusión de Bodegas LAN y una de sus señas de identidad desde los primeros años de la bodega, fundada en 1972 en Fuenmayor. Se elabora principalmente con Tempranillo, acompañado en pequeñas proporciones de Mazuelo (Cariñena) y Garnacha, según la añada, con uva de viñedos de distintas zonas de la Denominación de Origen Calificada Rioja.</p><p>Tras una fermentación orientada a conservar la fruta, el vino se cría en barrica durante al menos un año, como establece la categoría Crianza. LAN combina barricas de roble americano y francés para equilibrar la fruta con las notas especiadas y de vainilla de la madera, y completa el envejecimiento con un periodo en botella antes de comercializarlo.</p><p>El resultado es un rioja de cuerpo medio, equilibrado y fácil de beber, que representa bien el estilo de crianza clásica de la región y que se adapta a la cocina de diario.</p>",
+    "en": "<p>LAN Crianza is Bodegas LAN’s most widely distributed wine and one of its hallmarks since the early years of the winery, founded in 1972 in Fuenmayor. It is made mainly from Tempranillo, accompanied by small proportions of Mazuelo (Carignan) and Garnacha depending on the vintage, from vineyards in different parts of the Rioja Denominación de Origen Calificada.</p><p>After a fermentation designed to preserve the fruit, the wine is aged in barrel for at least a year, as the Crianza category requires. LAN combines American and French oak barrels to balance the fruit with the spicy and vanilla notes of the wood, and completes ageing with a period in bottle before release.</p><p>The result is a medium-bodied, balanced and easy-drinking Rioja that represents the region’s classic aged style well and suits everyday cooking.</p>",
+    "fr": "<p>LAN Crianza est le vin le plus diffusé de Bodegas LAN et l’une de ses signatures depuis les premières années de la bodega, fondée en 1972 à Fuenmayor. Il est élaboré principalement avec du tempranillo, accompagné de petites proportions de mazuelo (carignan) et de grenache selon le millésime, à partir de vignes de différents secteurs de la Denominación de Origen Calificada Rioja.</p><p>Après une fermentation pensée pour préserver le fruit, le vin est élevé en barrique pendant au moins un an, comme l’exige la catégorie Crianza. LAN associe barriques de chêne américain et français pour équilibrer le fruit et les notes épicées et vanillées du bois, et complète le vieillissement par une période en bouteille avant la commercialisation.</p><p>Il en résulte un rioja de corps moyen, équilibré et facile à boire, qui représente bien le style d’élevage classique de la région et s’accorde avec la cuisine de tous les jours.</p>",
+    "it": "<p>LAN Crianza è il vino più diffuso di Bodegas LAN e uno dei suoi tratti distintivi fin dai primi anni della cantina, fondata nel 1972 a Fuenmayor. È prodotto principalmente con Tempranillo, accompagnato da piccole percentuali di Mazuelo (Carignano) e Garnacha a seconda dell’annata, con uve di vigneti di diverse zone della Denominación de Origen Calificada Rioja.</p><p>Dopo una fermentazione orientata a preservare il frutto, il vino affina in barrique per almeno un anno, come richiede la categoria Crianza. LAN combina barrique di rovere americano e francese per equilibrare il frutto con le note speziate e di vaniglia del legno, e completa l’invecchiamento con un periodo in bottiglia prima della messa in commercio.</p><p>Il risultato è un Rioja di medio corpo, equilibrato e facile da bere, che rappresenta bene lo stile di affinamento classico della regione e si adatta alla cucina di tutti i giorni.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota de capa media. Aromas de fruta roja madura con notas de vainilla, coco y especias. En boca es suave y equilibrado, de taninos amables y final afrutado.",
+    "en": "Medium-intensity deep cherry red. Aromas of ripe red fruit with notes of vanilla, coconut and spice. Smooth and balanced on the palate, with gentle tannins and a fruity finish.",
+    "fr": "Rouge cerise burlat de moyenne intensité. Arômes de fruits rouges mûrs avec des notes de vanille, de noix de coco et d’épices. Souple et équilibré en bouche, aux tanins aimables et à la finale fruitée.",
+    "it": "Rosso ciliegia di media intensità. Aromi di frutta rossa matura con note di vaniglia, cocco e spezie. In bocca è morbido ed equilibrato, con tannini gentili e finale fruttato."
+  },
+  "pairing": {
+    "es": "Tapas, embutidos, carnes a la plancha, arroces de carne, pasta",
+    "en": "Tapas, charcuterie, grilled meat, meat rice dishes, pasta",
+    "fr": "Tapas, charcuterie, viandes à la plancha, riz à la viande, pâtes",
+    "it": "Tapas, salumi, carni alla piastra, risi con carne, pasta"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "LAN Crianza Rioja Bodegas LAN"
+}

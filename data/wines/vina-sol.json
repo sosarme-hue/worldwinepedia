@@ -1,0 +1,44 @@
+{
+  "slug": "vina-sol",
+  "name": "Viña Sol",
+  "winery": "familia-torres",
+  "region": null,
+  "country": "espana",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "parellada",
+    "garnacha-blanca"
+  ],
+  "summary": {
+    "es": "Blanco joven y fresco de Familia Torres, basado en la variedad catalana parellada, uno de los blancos históricos de la casa.",
+    "en": "Young, fresh white from Familia Torres based on the Catalan Parellada variety, one of the house's historic whites.",
+    "fr": "Blanc jeune et frais de Familia Torres, à base du cépage catalan parellada, l'un des blancs historiques de la maison.",
+    "it": "Bianco giovane e fresco di Familia Torres, a base della varietà catalana Parellada, uno dei bianchi storici della casa."
+  },
+  "body": {
+    "es": "<p>Viña Sol es uno de los blancos más antiguos y difundidos de <strong>Familia Torres</strong>, presente desde hace décadas en restaurantes y tiendas de España y del extranjero. Representa un estilo de blanco mediterráneo ligero y fresco, pensado para beberse en su juventud.</p><p>Su base es la <strong>parellada</strong>, la variedad blanca tradicional del Penedès, que se cultiva sobre todo en las zonas más altas y frescas de la comarca y da vinos de graduación moderada, aromas florales y de fruta blanca y acidez delicada. Suele completarse con una parte de <strong>garnacha blanca</strong>, que aporta algo más de cuerpo; las proporciones varían según la añada. La elaboración se realiza en depósitos de acero inoxidable a baja temperatura, sin crianza en madera, para preservar la frescura y los aromas primarios. Es un vino sencillo y versátil, adecuado para el aperitivo y para platos de pescado y marisco.</p>",
+    "en": "<p>Viña Sol is one of <strong>Familia Torres</strong>' oldest and most widely distributed whites, found for decades in restaurants and shops in Spain and abroad. It represents a light, fresh Mediterranean style of white, intended for drinking young.</p><p>Its base is <strong>Parellada</strong>, the traditional white variety of the Penedès, grown mainly in the higher, cooler parts of the area, which gives wines of moderate alcohol, floral and white fruit aromas and delicate acidity. It is usually completed with a share of <strong>Garnacha Blanca</strong>, which adds a little more body; the proportions vary with the vintage. Winemaking takes place in stainless steel tanks at low temperatures, without oak ageing, to preserve freshness and primary aromas. It is a simple, versatile wine, well suited to aperitifs and to fish and shellfish dishes.</p>",
+    "fr": "<p>Viña Sol est l'un des blancs les plus anciens et les plus diffusés de <strong>Familia Torres</strong>, présent depuis des décennies dans les restaurants et les commerces d'Espagne et de l'étranger. Il représente un style de blanc méditerranéen léger et frais, conçu pour être bu jeune.</p><p>Sa base est le <strong>parellada</strong>, le cépage blanc traditionnel du Penedès, cultivé surtout dans les zones les plus hautes et les plus fraîches de la région, qui donne des vins au degré modéré, aux arômes floraux et de fruits blancs et à l'acidité délicate. Il est généralement complété par une part de <strong>grenache blanc</strong>, qui apporte un peu plus de corps ; les proportions varient selon le millésime. L'élaboration se fait en cuves d'inox à basse température, sans élevage sous bois, pour préserver la fraîcheur et les arômes primaires. C'est un vin simple et polyvalent, adapté à l'apéritif et aux plats de poisson et de fruits de mer.</p>",
+    "it": "<p>Viña Sol è uno dei bianchi più antichi e diffusi di <strong>Familia Torres</strong>, presente da decenni nei ristoranti e nei negozi in Spagna e all'estero. Rappresenta uno stile di bianco mediterraneo leggero e fresco, pensato per essere bevuto giovane.</p><p>La sua base è il <strong>Parellada</strong>, la varietà bianca tradizionale del Penedès, coltivata soprattutto nelle zone più alte e fresche della comarca, che dà vini di gradazione moderata, aromi floreali e di frutta bianca e acidità delicata. Di solito è completato da una parte di <strong>Garnacha Blanca</strong>, che apporta un po' più di corpo; le proporzioni variano secondo l'annata. La vinificazione avviene in vasche d'acciaio inox a bassa temperatura, senza affinamento in legno, per preservare freschezza e aromi primari. È un vino semplice e versatile, adatto all'aperitivo e a piatti di pesce e frutti di mare.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido. Aromas de manzana, fruta blanca, flores y un toque herbáceo. En boca es ligero, fresco y de final limpio.",
+    "en": "Pale yellow. Aromas of apple, white fruit, flowers and a herbaceous touch. Light and fresh on the palate, with a clean finish.",
+    "fr": "Jaune pâle. Arômes de pomme, de fruits blancs, de fleurs et une touche herbacée. En bouche, léger, frais, à la finale nette.",
+    "it": "Giallo pallido. Aromi di mela, frutta bianca, fiori e un tocco erbaceo. In bocca è leggero, fresco e dal finale pulito."
+  },
+  "pairing": {
+    "es": "Aperitivo, ensaladas, pescado a la plancha, marisco, arroces",
+    "en": "Aperitifs, salads, grilled fish, shellfish, rice dishes",
+    "fr": "Apéritif, salades, poisson à la plancha, fruits de mer, riz",
+    "it": "Aperitivo, insalate, pesce alla piastra, frutti di mare, risi"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de vino blanco",
+    "en": "6-8 °C, white wine glass",
+    "fr": "6-8 °C, verre à vin blanc",
+    "it": "6-8 °C, calice da vino bianco"
+  },
+  "search": "Viña Sol Torres blanco"
+}

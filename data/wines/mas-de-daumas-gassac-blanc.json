@@ -1,0 +1,50 @@
+{
+  "slug": "mas-de-daumas-gassac-blanc",
+  "name": "Mas de Daumas Gassac Blanc",
+  "winery": "mas-de-daumas-gassac",
+  "region": "languedoc-roussillon",
+  "country": "francia",
+  "type": "blanco",
+  "category": {
+    "es": "IGP Saint-Guilhem-le-Désert",
+    "en": "IGP Saint-Guilhem-le-Désert",
+    "fr": "IGP Saint-Guilhem-le-Désert",
+    "it": "IGP Saint-Guilhem-le-Désert"
+  },
+  "grapes": [
+    "viognier",
+    "chardonnay",
+    "chenin-blanc"
+  ],
+  "summary": {
+    "es": "Blanco de Mas de Daumas Gassac que ensambla numerosas variedades, entre ellas Viognier, Chardonnay y Chenin Blanc, de perfil aromático y buena capacidad de guarda.",
+    "en": "Mas de Daumas Gassac white blending numerous varieties, among them Viognier, Chardonnay and Chenin Blanc, with an aromatic profile and good ageing potential.",
+    "fr": "Blanc du Mas de Daumas Gassac assemblant de nombreux cépages, dont le viognier, le chardonnay et le chenin blanc, au profil aromatique et doté d’un bon potentiel de garde.",
+    "it": "Bianco di Mas de Daumas Gassac che assembla numerose varietà, tra cui Viognier, Chardonnay e Chenin Blanc, dal profilo aromatico e con buona capacità di invecchiamento."
+  },
+  "body": {
+    "es": "<p>El blanco de Mas de Daumas Gassac nació algunos años después del tinto y refleja el mismo espíritu de libertad respecto a las normas de las denominaciones locales. Se elabora con uvas de parcelas situadas en las zonas más frescas de la finca, en el valle del Gassac.</p><p>Es un ensamblaje de numerosas variedades. Entre las principales figuran la <strong>Viognier</strong>, la <strong>Chardonnay</strong> y la <strong>Chenin Blanc</strong>, junto con la Petit Manseng y otras cepas menos comunes; las proporciones varían según la añada. Cada variedad aporta un matiz: la Viognier, notas florales y de albaricoque; la Chardonnay, cuerpo; la Chenin, acidez y frescura.</p><p>Las uvas se vendimian a mano y el vino se elabora buscando preservar sus aromas. Es un blanco amplio y aromático, que puede disfrutarse joven, cuando domina la fruta, o tras varios años de botella, cuando aparecen notas de miel y frutos secos.</p>",
+    "en": "<p>The Mas de Daumas Gassac white was born a few years after the red and reflects the same spirit of freedom from the rules of the local appellations. It is made from grapes grown on parcels in the coolest parts of the estate, in the Gassac valley.</p><p>It is a blend of numerous varieties. Among the main ones are <strong>Viognier</strong>, <strong>Chardonnay</strong> and <strong>Chenin Blanc</strong>, together with Petit Manseng and other less common vines; the proportions vary with the vintage. Each variety brings a nuance: Viognier floral and apricot notes, Chardonnay body, Chenin acidity and freshness.</p><p>The grapes are hand-picked and the wine is made with a view to preserving its aromas. It is a broad, aromatic white that can be enjoyed young, when fruit dominates, or after several years in bottle, when notes of honey and nuts appear.</p>",
+    "fr": "<p>Le blanc du Mas de Daumas Gassac est né quelques années après le rouge et reflète le même esprit de liberté vis-à-vis des règles des appellations locales. Il est élaboré à partir de raisins issus de parcelles situées dans les secteurs les plus frais du domaine, dans la vallée du Gassac.</p><p>C’est un assemblage de nombreux cépages. Parmi les principaux figurent le <strong>viognier</strong>, le <strong>chardonnay</strong> et le <strong>chenin blanc</strong>, avec le petit manseng et d’autres cépages moins courants ; les proportions varient selon le millésime. Chaque cépage apporte une nuance : le viognier des notes florales et d’abricot, le chardonnay du corps, le chenin de l’acidité et de la fraîcheur.</p><p>Les raisins sont vendangés à la main et le vin est élaboré de façon à préserver ses arômes. C’est un blanc ample et aromatique, qui peut s’apprécier jeune, quand le fruit domine, ou après plusieurs années de bouteille, quand apparaissent des notes de miel et de fruits secs.</p>",
+    "it": "<p>Il bianco di Mas de Daumas Gassac è nato alcuni anni dopo il rosso e riflette lo stesso spirito di libertà rispetto alle regole delle denominazioni locali. È prodotto con uve di parcelle situate nelle zone più fresche della tenuta, nella valle del Gassac.</p><p>È un assemblaggio di numerose varietà. Tra le principali figurano <strong>Viognier</strong>, <strong>Chardonnay</strong> e <strong>Chenin Blanc</strong>, insieme al Petit Manseng e ad altri vitigni meno comuni; le proporzioni variano secondo l’annata. Ogni varietà apporta una sfumatura: il Viognier note floreali e di albicocca, lo Chardonnay corpo, lo Chenin acidità e freschezza.</p><p>Le uve sono vendemmiate a mano e il vino è prodotto in modo da preservarne gli aromi. È un bianco ampio e aromatico, che si può gustare giovane, quando domina il frutto, oppure dopo diversi anni di bottiglia, quando emergono note di miele e frutta secca.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo dorado. Aromas de albaricoque, flores blancas, cítricos y notas de miel. Boca amplia y fresca, de buena textura y final aromático.",
+    "en": "Golden yellow. Aromas of apricot, white flowers, citrus and honey notes. Broad, fresh palate with good texture and an aromatic finish.",
+    "fr": "Jaune doré. Arômes d’abricot, de fleurs blanches, d’agrumes et notes de miel. Bouche ample et fraîche, de belle texture, à la finale aromatique.",
+    "it": "Giallo dorato. Aromi di albicocca, fiori bianchi, agrumi e note di miele. Bocca ampia e fresca, di buona consistenza e finale aromatico."
+  },
+  "pairing": {
+    "es": "Pescados en salsa, marisco, aves, cocina especiada",
+    "en": "Fish in sauce, shellfish, poultry, spiced cuisine",
+    "fr": "Poissons en sauce, fruits de mer, volailles, cuisine épicée",
+    "it": "Pesce in salsa, frutti di mare, pollame, cucina speziata"
+  },
+  "serve": {
+    "es": "11-13 °C, copa de blanco amplia",
+    "en": "11-13 °C, large white wine glass",
+    "fr": "11-13 °C, grand verre à vin blanc",
+    "it": "11-13 °C, calice ampio da bianco"
+  },
+  "search": "Mas de Daumas Gassac Blanc"
+}

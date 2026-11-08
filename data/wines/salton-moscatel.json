@@ -1,0 +1,43 @@
+{
+  "slug": "salton-moscatel",
+  "name": "Salton Moscatel",
+  "winery": "salton",
+  "region": "serra-gaucha",
+  "country": "brasil",
+  "type": "espumoso",
+  "category": null,
+  "grapes": [
+    "moscatel"
+  ],
+  "summary": {
+    "es": "Espumante brasileño de Moscatel de la Vinícola Salton, dulce, ligero y aromático, representativo de uno de los estilos más populares de Brasil.",
+    "en": "Brazilian Moscatel espumante from Vinícola Salton, sweet, light and aromatic, representative of one of Brazil’s most popular styles.",
+    "fr": "Espumante brésilien de muscat de la Vinícola Salton, doux, léger et aromatique, représentatif de l’un des styles les plus populaires du Brésil.",
+    "it": "Spumante brasiliano di Moscato della Vinícola Salton, dolce, leggero e aromatico, rappresentativo di uno degli stili più popolari del Brasile."
+  },
+  "body": {
+    "es": "<p>El <strong>espumante de Moscatel</strong> es uno de los estilos de vino más apreciados en Brasil, y Salton, con sede en Bento Gonçalves, en la Serra Gaúcha, es uno de sus elaboradores más conocidos. Se trata de un vino espumoso dulce y de baja graduación alcohólica, en la línea del Asti italiano, elaborado con uvas de la familia de los moscateles, de aroma muy intenso.</p><p>Las uvas proceden de la Serra Gaúcha y de otras zonas de Rio Grande do Sul. El mosto se fermenta en depósitos cerrados a presión, y la fermentación se detiene antes de que todo el azúcar se haya transformado en alcohol, de modo que el vino conserva un dulzor natural y el gas carbónico producido durante el proceso. No se cría en madera ni se busca la evolución: es un vino pensado para beberse muy joven, cuando su aroma floral y frutal es más vivo. Es habitual en celebraciones y como acompañamiento de postres.</p>",
+    "en": "<p><strong>Moscatel espumante</strong> is one of the most popular styles of wine in Brazil, and Salton, based in Bento Gonçalves in the Serra Gaúcha, is one of its best-known producers. It is a sweet, low-alcohol sparkling wine in the manner of Italy’s Asti, made from grapes of the Muscat family, with a very intense aroma.</p><p>The grapes come from the Serra Gaúcha and other parts of Rio Grande do Sul. The must is fermented in closed pressurised tanks, and fermentation is stopped before all the sugar has turned into alcohol, so that the wine retains natural sweetness and the carbon dioxide produced during the process. It is not aged in wood and is not meant to evolve: it is a wine intended to be drunk very young, when its floral and fruity aroma is at its liveliest. It is a common choice at celebrations and with desserts.</p>",
+    "fr": "<p>L’<strong>espumante de muscat</strong> est l’un des styles de vin les plus appréciés au Brésil, et Salton, installée à Bento Gonçalves, dans la Serra Gaúcha, en est l’un des producteurs les plus connus. Il s’agit d’un vin effervescent doux et peu alcoolisé, dans la lignée de l’Asti italien, élaboré avec des raisins de la famille des muscats, à l’arôme très intense.</p><p>Les raisins proviennent de la Serra Gaúcha et d’autres zones du Rio Grande do Sul. Le moût fermente dans des cuves closes sous pression, et la fermentation est arrêtée avant que tout le sucre ne soit transformé en alcool, de sorte que le vin conserve une douceur naturelle et le gaz carbonique produit pendant le processus. Il n’est pas élevé en bois et ne vise pas l’évolution : c’est un vin à boire très jeune, lorsque son arôme floral et fruité est le plus vif. Il est courant lors des fêtes et pour accompagner les desserts.</p>",
+    "it": "<p>Lo <strong>spumante di Moscato</strong> è uno degli stili di vino più apprezzati in Brasile, e Salton, con sede a Bento Gonçalves, nella Serra Gaúcha, è uno dei suoi produttori più noti. Si tratta di uno spumante dolce e a bassa gradazione alcolica, sulla linea dell’Asti italiano, ottenuto da uve della famiglia dei moscati, dall’aroma molto intenso.</p><p>Le uve provengono dalla Serra Gaúcha e da altre zone del Rio Grande do Sul. Il mosto fermenta in autoclavi chiuse sotto pressione, e la fermentazione viene interrotta prima che tutto lo zucchero si trasformi in alcol, così che il vino conserva una dolcezza naturale e l’anidride carbonica prodotta durante il processo. Non affina in legno e non è pensato per evolvere: è un vino da bere molto giovane, quando il suo aroma floreale e fruttato è più vivo. È abituale nelle feste e in abbinamento ai dessert.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido con burbuja fina. Aromas intensos de uva fresca, flores blancas, melocotón y miel. Boca dulce, ligera y refrescante.",
+    "en": "Pale yellow with fine bubbles. Intense aromas of fresh grapes, white flowers, peach and honey. Sweet, light and refreshing palate.",
+    "fr": "Jaune pâle à la bulle fine. Arômes intenses de raisin frais, de fleurs blanches, de pêche et de miel. Bouche douce, légère et rafraîchissante.",
+    "it": "Giallo paglierino dal perlage fine. Aromi intensi di uva fresca, fiori bianchi, pesca e miele. Bocca dolce, leggera e rinfrescante."
+  },
+  "pairing": {
+    "es": "Postres de frutas, macedonias, pasteles poco dulces, brigadeiros",
+    "en": "Fruit desserts, fruit salads, lightly sweet cakes, brigadeiros",
+    "fr": "Desserts aux fruits, salades de fruits, gâteaux peu sucrés, brigadeiros",
+    "it": "Dessert alla frutta, macedonie, torte poco dolci, brigadeiros"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Salton Espumante Moscatel"
+}

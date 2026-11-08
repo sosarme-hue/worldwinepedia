@@ -1,0 +1,49 @@
+{
+  "slug": "remirez-de-ganuza-reserva",
+  "name": "Remírez de Ganuza Reserva",
+  "winery": "remirez-de-ganuza",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [
+    "tempranillo",
+    "graciano"
+  ],
+  "summary": {
+    "es": "Reserva de Remírez de Ganuza, en Samaniego, elaborado solo con los «hombros» de los racimos de viñas viejas de la Rioja Alavesa, sobre todo Tempranillo.",
+    "en": "Reserva from Remírez de Ganuza in Samaniego, made only from the ‘shoulders’ of bunches from old vines in Rioja Alavesa, mainly Tempranillo.",
+    "fr": "Reserva de Remírez de Ganuza, à Samaniego, élaboré uniquement avec les « épaules » des grappes de vieilles vignes de la Rioja Alavesa, surtout du tempranillo.",
+    "it": "Reserva di Remírez de Ganuza, a Samaniego, prodotto solo con le «spalle» dei grappoli di vecchie vigne della Rioja Alavesa, soprattutto Tempranillo."
+  },
+  "body": {
+    "es": "<p>El Reserva es el vino más representativo de Bodegas Remírez de Ganuza y resume el método de selección que distingue a la casa. La uva procede de pequeñas viñas viejas repartidas por varios municipios de la Rioja Alavesa, al pie de la Sierra de Cantabria, y es mayoritariamente Tempranillo, con una pequeña aportación de Graciano que varía según la añada.</p><p>En la mesa de selección, cada racimo se divide: solo los «hombros», la parte superior, mejor expuesta al sol y de maduración más completa, se destinan al Reserva, mientras que las puntas se emplean en otros vinos de la bodega. La fermentación se realiza con sistemas diseñados por la propia casa para tratar la uva con suavidad, y el vino se cría en barrica de roble durante un periodo prolongado, seguido de un largo reposo en botella.</p><p>El resultado es un tinto concentrado, de fruta madura y taninos pulidos, pensado para evolucionar muchos años en botella.</p>",
+    "en": "<p>The Reserva is the most representative wine of Bodegas Remírez de Ganuza and sums up the selection method that sets the house apart. The grapes come from small old vineyards spread across several villages of Rioja Alavesa, at the foot of the Sierra de Cantabria, and are mostly Tempranillo, with a small contribution of Graciano that varies with the vintage.</p><p>On the sorting table each bunch is divided: only the ‘shoulders’, the upper part, better exposed to the sun and more fully ripe, go into the Reserva, while the tips are used for other wines of the winery. Fermentation is carried out with systems designed by the house itself to handle the grapes gently, and the wine is aged in oak barrels for an extended period, followed by a long rest in bottle.</p><p>The result is a concentrated red with ripe fruit and polished tannins, designed to develop for many years in bottle.</p>",
+    "fr": "<p>Le Reserva est le vin le plus représentatif de Bodegas Remírez de Ganuza et résume la méthode de sélection qui distingue la maison. Le raisin provient de petites vieilles vignes réparties sur plusieurs communes de la Rioja Alavesa, au pied de la Sierra de Cantabria ; il s’agit en majorité de tempranillo, avec un petit apport de graciano qui varie selon le millésime.</p><p>Sur la table de tri, chaque grappe est divisée : seules les « épaules », la partie supérieure, mieux exposée au soleil et plus mûre, sont destinées au Reserva, tandis que les pointes servent à d’autres vins de la bodega. La fermentation se fait avec des systèmes conçus par la maison pour traiter le raisin en douceur, et le vin est élevé en barrique de chêne pendant une longue période, suivie d’un long repos en bouteille.</p><p>Il en résulte un rouge concentré, au fruit mûr et aux tanins polis, conçu pour évoluer de nombreuses années en bouteille.</p>",
+    "it": "<p>Il Reserva è il vino più rappresentativo di Bodegas Remírez de Ganuza e riassume il metodo di selezione che distingue la casa. Le uve provengono da piccole vecchie vigne sparse in diversi comuni della Rioja Alavesa, ai piedi della Sierra de Cantabria, e sono in maggioranza Tempranillo, con un piccolo apporto di Graciano che varia secondo l’annata.</p><p>Sul tavolo di cernita ogni grappolo viene diviso: solo le «spalle», la parte superiore, meglio esposta al sole e più matura, sono destinate al Reserva, mentre le punte vengono impiegate in altri vini della cantina. La fermentazione avviene con sistemi progettati dalla casa stessa per trattare l’uva con delicatezza, e il vino affina in barrique di rovere per un periodo prolungato, seguito da un lungo riposo in bottiglia.</p><p>Il risultato è un rosso concentrato, dal frutto maturo e dai tannini levigati, pensato per evolvere molti anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Color picota intenso. Fruta negra madura, especias, cacao y notas balsámicas. En boca es carnoso y amplio, con taninos maduros y un final largo.",
+    "en": "Intense deep cherry colour. Ripe black fruit, spice, cocoa and balsamic notes. Fleshy and broad on the palate, with ripe tannins and a long finish.",
+    "fr": "Couleur cerise burlat intense. Fruits noirs mûrs, épices, cacao et notes balsamiques. Charnu et ample en bouche, aux tanins mûrs et à la finale longue.",
+    "it": "Colore ciliegia intenso. Frutta nera matura, spezie, cacao e note balsamiche. In bocca è carnoso e ampio, con tannini maturi e un finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, lechazo asado, caza mayor, quesos curados de oveja",
+    "en": "Chargrilled red meat, roast milk-fed lamb, large game, aged sheep’s cheeses",
+    "fr": "Viandes rouges à la braise, agneau de lait rôti, gros gibier, fromages de brebis affinés",
+    "it": "Carni rosse alla brace, agnello da latte arrosto, selvaggina di grossa taglia, pecorini stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Remírez de Ganuza Reserva Rioja"
+}

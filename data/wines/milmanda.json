@@ -1,0 +1,43 @@
+{
+  "slug": "milmanda",
+  "name": "Milmanda",
+  "winery": "familia-torres",
+  "region": null,
+  "country": "espana",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Chardonnay de finca de Familia Torres procedente de la Conca de Barberà, junto al castillo de Milmanda, cerca del monasterio de Poblet.",
+    "en": "Estate Chardonnay from Familia Torres from the Conca de Barberà, beside Milmanda castle near the monastery of Poblet.",
+    "fr": "Chardonnay de domaine de Familia Torres issu de la Conca de Barberà, au pied du château de Milmanda, près du monastère de Poblet.",
+    "it": "Chardonnay di tenuta di Familia Torres proveniente dalla Conca de Barberà, accanto al castello di Milmanda, vicino al monastero di Poblet."
+  },
+  "body": {
+    "es": "<p>Milmanda es el gran blanco de <strong>Familia Torres</strong> y uno de los chardonnay de referencia de España. Procede de la finca que rodea el <strong>castillo de Milmanda</strong>, una torre medieval situada en la D.O. Conca de Barberà, en Tarragona, muy cerca del monasterio cisterciense de Poblet, cuyos monjes cultivaron la vid en la zona durante siglos.</p><p>La Conca de Barberà es una depresión rodeada de sierras, con un clima mediterráneo de influencia continental y noches frescas que favorecen la acidez de la uva. Los viñedos de <strong>chardonnay</strong> crecen sobre suelos calcáreos y arcillosos. El vino se elabora al estilo de los blancos de Borgoña: el mosto <strong>fermenta en barricas</strong> de roble francés y el vino se cría en ellas sobre sus lías durante varios meses. El resultado es un blanco de textura amplia y gran complejidad, con la frescura que aporta el clima de la zona, capaz de evolucionar durante años en botella.</p>",
+    "en": "<p>Milmanda is <strong>Familia Torres</strong>' great white and one of Spain's benchmark Chardonnays. It comes from the estate surrounding <strong>Milmanda castle</strong>, a medieval tower in the Conca de Barberà D.O., in Tarragona, very close to the Cistercian monastery of Poblet, whose monks grew vines in the area for centuries.</p><p>The Conca de Barberà is a basin surrounded by hills, with a Mediterranean climate of continental influence and cool nights that help the grapes retain acidity. The <strong>Chardonnay</strong> vineyards grow on calcareous and clay soils. The wine is made in the style of white Burgundy: the must <strong>ferments in French oak barrels</strong> and the wine is aged in them on its lees for several months. The result is a broad-textured, highly complex white with the freshness brought by the local climate, able to develop for years in bottle.</p>",
+    "fr": "<p>Milmanda est le grand blanc de <strong>Familia Torres</strong> et l'un des chardonnays de référence d'Espagne. Il provient du domaine qui entoure le <strong>château de Milmanda</strong>, une tour médiévale située dans la D.O. Conca de Barberà, à Tarragone, tout près du monastère cistercien de Poblet, dont les moines ont cultivé la vigne dans la région pendant des siècles.</p><p>La Conca de Barberà est une dépression entourée de sierras, au climat méditerranéen d'influence continentale, avec des nuits fraîches qui favorisent l'acidité du raisin. Les vignes de <strong>chardonnay</strong> poussent sur des sols calcaires et argileux. Le vin est élaboré à la manière des blancs de Bourgogne : le moût <strong>fermente en barriques</strong> de chêne français et le vin y est élevé sur lies pendant plusieurs mois. Le résultat est un blanc à la texture ample et d'une grande complexité, avec la fraîcheur qu'apporte le climat local, capable d'évoluer pendant des années en bouteille.</p>",
+    "it": "<p>Milmanda è il grande bianco di <strong>Familia Torres</strong> e uno degli Chardonnay di riferimento in Spagna. Proviene dalla tenuta che circonda il <strong>castello di Milmanda</strong>, una torre medievale situata nella D.O. Conca de Barberà, a Tarragona, molto vicino al monastero cistercense di Poblet, i cui monaci coltivarono la vite nella zona per secoli.</p><p>La Conca de Barberà è una conca circondata da rilievi, con un clima mediterraneo di influenza continentale e notti fresche che favoriscono l'acidità dell'uva. I vigneti di <strong>Chardonnay</strong> crescono su suoli calcarei e argillosi. Il vino è prodotto alla maniera dei bianchi di Borgogna: il mosto <strong>fermenta in barrique</strong> di rovere francese e il vino vi affina sulle fecce per diversi mesi. Il risultato è un bianco di consistenza ampia e grande complessità, con la freschezza data dal clima della zona, capace di evolvere per anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo dorado brillante. Aromas de fruta blanca y de hueso, cítricos maduros, frutos secos, mantequilla y notas tostadas. En boca es amplio y untuoso, con acidez fresca y final largo.",
+    "en": "Bright golden yellow. Aromas of white and stone fruit, ripe citrus, nuts, butter and toasty notes. Broad and unctuous on the palate, with fresh acidity and a long finish.",
+    "fr": "Jaune doré brillant. Arômes de fruits blancs et à noyau, d'agrumes mûrs, de fruits secs, de beurre et notes grillées. En bouche, ample et onctueux, à l'acidité fraîche et à la longue finale.",
+    "it": "Giallo dorato brillante. Aromi di frutta bianca e a nocciolo, agrumi maturi, frutta secca, burro e note tostate. In bocca è ampio e untuoso, con acidità fresca e finale lungo."
+  },
+  "pairing": {
+    "es": "Pescados nobles, bogavante, aves en salsa, setas, quesos cremosos",
+    "en": "Fine fish, lobster, poultry in sauce, mushrooms, creamy cheeses",
+    "fr": "Poissons nobles, homard, volailles en sauce, champignons, fromages crémeux",
+    "it": "Pesci pregiati, astice, pollame in salsa, funghi, formaggi cremosi"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de vino blanco amplia",
+    "en": "10-12 °C, large white wine glass",
+    "fr": "10-12 °C, grand verre à vin blanc",
+    "it": "10-12 °C, calice ampio da vino bianco"
+  },
+  "search": "Milmanda Torres Chardonnay Conca de Barberà"
+}

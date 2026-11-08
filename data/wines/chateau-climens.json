@@ -1,0 +1,48 @@
+{
+  "slug": "chateau-climens",
+  "name": "Château Climens",
+  "winery": "chateau-climens",
+  "region": "sauternes",
+  "country": "francia",
+  "type": "dulce",
+  "category": {
+    "es": "Premier Cru Classé (1855), Barsac",
+    "en": "Premier Cru Classé (1855), Barsac",
+    "fr": "Premier Cru Classé (1855), Barsac",
+    "it": "Premier Cru Classé (1855), Barsac"
+  },
+  "grapes": [
+    "semillon"
+  ],
+  "summary": {
+    "es": "Vino dulce de podredumbre noble de Barsac, primer cru clasificado en 1855, elaborado únicamente con Sémillon y conocido por su frescura.",
+    "en": "Noble-rot sweet wine from Barsac, a first growth in 1855, made solely from Sémillon and known for its freshness.",
+    "fr": "Vin liquoreux de pourriture noble de Barsac, premier cru classé en 1855, élaboré uniquement avec du sémillon et connu pour sa fraîcheur.",
+    "it": "Vino dolce da muffa nobile di Barsac, primo cru classé nel 1855, prodotto unicamente con Sémillon e noto per la sua freschezza."
+  },
+  "body": {
+    "es": "<p>Château Climens se elabora exclusivamente con <strong>Sémillon</strong> procedente del viñedo de la finca en la meseta de Barsac. En otoño, las nieblas matinales y las tardes soleadas permiten el desarrollo de la <em>Botrytis cinerea</em>, que concentra los azúcares, la acidez y los aromas de las uvas. La vendimia se realiza a mano en sucesivas pasadas por el viñedo, a lo largo de varias semanas, para recoger solo las uvas afectadas por la podredumbre noble.</p><p>El mosto fermenta en barrica y el vino se cría durante un periodo prolongado en roble antes del ensamblaje final de los distintos lotes. En las añadas en que la calidad no se considera suficiente, la finca puede no elaborar gran vino.</p><p>Es un vino dulce de gran riqueza, pero conocido sobre todo por su frescura y su equilibrio, que lo hacen agradable joven y le permiten envejecer durante décadas.</p>",
+    "en": "<p>Château Climens is made exclusively from <strong>Sémillon</strong> grown in the estate’s vineyard on the Barsac plateau. In autumn, morning mists and sunny afternoons allow the development of <em>Botrytis cinerea</em>, which concentrates the sugars, acidity and aromas of the grapes. The harvest is done by hand in successive passes through the vineyard over several weeks, to pick only the grapes affected by noble rot.</p><p>The must ferments in barrel and the wine is aged for an extended period in oak before the final blending of the different lots. In vintages when quality is not considered sufficient, the estate may decide not to make a grand vin.</p><p>It is a richly sweet wine, but known above all for its freshness and balance, which make it pleasant in youth and allow it to age for decades.</p>",
+    "fr": "<p>Château Climens est élaboré exclusivement avec du <strong>sémillon</strong> issu du vignoble du domaine sur le plateau de Barsac. En automne, les brumes matinales et les après-midi ensoleillés permettent le développement du <em>Botrytis cinerea</em>, qui concentre les sucres, l’acidité et les arômes des raisins. Les vendanges se font à la main en tries successives dans les vignes, pendant plusieurs semaines, afin de ne récolter que les raisins atteints de pourriture noble.</p><p>Le moût fermente en barrique et le vin est élevé longuement sous bois avant l’assemblage final des différents lots. Les années où la qualité n’est pas jugée suffisante, le domaine peut renoncer à produire un grand vin.</p><p>C’est un liquoreux d’une grande richesse, mais connu avant tout pour sa fraîcheur et son équilibre, qui le rendent agréable jeune et lui permettent de vieillir pendant des décennies.</p>",
+    "it": "<p>Château Climens è prodotto esclusivamente con <strong>Sémillon</strong> del vigneto della tenuta sull’altopiano di Barsac. In autunno le nebbie mattutine e i pomeriggi soleggiati permettono lo sviluppo della <em>Botrytis cinerea</em>, che concentra zuccheri, acidità e aromi delle uve. La vendemmia si fa a mano con passaggi successivi nel vigneto, nell’arco di diverse settimane, per raccogliere solo gli acini colpiti dalla muffa nobile.</p><p>Il mosto fermenta in barrique e il vino affina a lungo in legno prima dell’assemblaggio finale dei diversi lotti. Nelle annate in cui la qualità non è ritenuta sufficiente, la tenuta può rinunciare a produrre il grand vin.</p><p>È un vino dolce di grande ricchezza, ma noto soprattutto per la sua freschezza e il suo equilibrio, che lo rendono piacevole da giovane e gli permettono di invecchiare per decenni.</p>"
+  },
+  "tasting": {
+    "es": "Dorado brillante que se vuelve ámbar con los años. Aromas de albaricoque, piña, cítricos confitados, miel y flores blancas. Boca rica pero muy fresca, con una acidez viva que equilibra el dulzor y un final muy largo.",
+    "en": "Bright gold, turning amber with age. Aromas of apricot, pineapple, candied citrus, honey and white flowers. Rich yet very fresh palate, with lively acidity balancing the sweetness and a very long finish.",
+    "fr": "Robe or brillant qui s’ambre avec les années. Arômes d’abricot, d’ananas, d’agrumes confits, de miel et de fleurs blanches. Bouche riche mais très fraîche, avec une acidité vive qui équilibre la douceur et une finale très longue.",
+    "it": "Oro brillante che diventa ambrato con gli anni. Aromi di albicocca, ananas, agrumi canditi, miele e fiori bianchi. Bocca ricca ma molto fresca, con un’acidità vivace che bilancia la dolcezza e un finale lunghissimo."
+  },
+  "pairing": {
+    "es": "Foie gras, quesos azules como el roquefort, postres de frutas, cocina asiática especiada",
+    "en": "Foie gras, blue cheeses such as Roquefort, fruit desserts, spicy Asian dishes",
+    "fr": "Foie gras, fromages bleus comme le roquefort, desserts aux fruits, cuisine asiatique épicée",
+    "it": "Foie gras, formaggi erborinati come il Roquefort, dolci alla frutta, cucina asiatica speziata"
+  },
+  "serve": {
+    "es": "10-12 °C, copa pequeña de vino blanco",
+    "en": "10-12 °C, small white wine glass",
+    "fr": "10-12 °C, petit verre à vin blanc",
+    "it": "10-12 °C, piccolo calice da vino bianco"
+  },
+  "search": "Château Climens Barsac Premier Cru"
+}

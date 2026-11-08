@@ -1,0 +1,45 @@
+{
+  "slug": "casa-madero-3v",
+  "name": "Casa Madero 3V",
+  "winery": "casa-madero",
+  "region": null,
+  "country": "mexico",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Tinto de mezcla de tres variedades de Casa Madero, en el valle de Parras, uno de los vinos mexicanos más conocidos.",
+    "en": "Three-variety red blend from Casa Madero in the Parras Valley, one of the best-known Mexican wines.",
+    "fr": "Assemblage rouge de trois cépages de Casa Madero, dans la vallée de Parras, l’un des vins mexicains les plus connus.",
+    "it": "Rosso da uvaggio di tre varietà di Casa Madero, nella valle di Parras, uno dei vini messicani più noti."
+  },
+  "body": {
+    "es": "<p>El nombre <strong>3V</strong> hace referencia a las tres variedades que componen este tinto: <strong>Cabernet Sauvignon</strong>, <strong>Merlot</strong> y <strong>Tempranillo</strong>, en proporciones que varían según la añada. Es uno de los vinos más difundidos de Casa Madero, la bodega de Parras de la Fuente, en Coahuila, considerada la más antigua de América, y uno de los tintos mexicanos más presentes en restaurantes y tiendas del país.</p><p>Las uvas proceden de los viñedos de la casa en el <strong>valle de Parras</strong>, situado a unos 1.500 metros de altitud en el norte de México. La altitud modera el calor de una región de clima semidesértico y da noches frescas que ayudan a conservar la acidez. Cada variedad se vinifica por separado y el vino se cría durante varios meses en barricas de roble antes de la mezcla. El Cabernet aporta estructura, el Merlot suavidad y el Tempranillo fruta y notas especiadas. Es un tinto equilibrado, apto para beber joven o tras algunos años en botella.</p>",
+    "en": "<p>The name <strong>3V</strong> refers to the three varieties that make up this red: <strong>Cabernet Sauvignon</strong>, <strong>Merlot</strong> and <strong>Tempranillo</strong>, in proportions that vary with the vintage. It is one of the most widely distributed wines from Casa Madero, the winery in Parras de la Fuente, Coahuila, regarded as the oldest in the Americas, and one of the Mexican reds most often found in the country’s restaurants and shops.</p><p>The grapes come from the house’s vineyards in the <strong>Parras Valley</strong>, at around 1,500 metres above sea level in northern Mexico. The altitude tempers the heat of a region with a semi-desert climate and brings cool nights that help preserve acidity. Each variety is vinified separately and the wine is aged for several months in oak barrels before blending. Cabernet contributes structure, Merlot softness and Tempranillo fruit and spicy notes. It is a balanced red, suitable for drinking young or after a few years in bottle.</p>",
+    "fr": "<p>Le nom <strong>3V</strong> fait référence aux trois cépages qui composent ce rouge : le <strong>cabernet-sauvignon</strong>, le <strong>merlot</strong> et le <strong>tempranillo</strong>, dans des proportions qui varient selon le millésime. C’est l’un des vins les plus diffusés de Casa Madero, le domaine de Parras de la Fuente, dans le Coahuila, considéré comme le plus ancien des Amériques, et l’un des rouges mexicains les plus présents dans les restaurants et les boutiques du pays.</p><p>Les raisins proviennent des vignes de la maison dans la <strong>vallée de Parras</strong>, située à environ 1 500 mètres d’altitude dans le nord du Mexique. L’altitude modère la chaleur d’une région au climat semi-désertique et apporte des nuits fraîches qui aident à préserver l’acidité. Chaque cépage est vinifié séparément et le vin est élevé plusieurs mois en fûts de chêne avant l’assemblage. Le cabernet apporte la structure, le merlot la souplesse et le tempranillo le fruit et des notes épicées. C’est un rouge équilibré, à boire jeune ou après quelques années de bouteille.</p>",
+    "it": "<p>Il nome <strong>3V</strong> si riferisce alle tre varietà che compongono questo rosso: <strong>Cabernet Sauvignon</strong>, <strong>Merlot</strong> e <strong>Tempranillo</strong>, in proporzioni che variano secondo l’annata. È uno dei vini più diffusi di Casa Madero, la cantina di Parras de la Fuente, nel Coahuila, considerata la più antica delle Americhe, e uno dei rossi messicani più presenti nei ristoranti e nei negozi del paese.</p><p>Le uve provengono dai vigneti della casa nella <strong>valle di Parras</strong>, a circa 1.500 metri di altitudine nel nord del Messico. L’altitudine modera il caldo di una regione dal clima semidesertico e porta notti fresche che aiutano a conservare l’acidità. Ogni varietà viene vinificata separatamente e il vino affina per diversi mesi in botti di rovere prima dell’assemblaggio. Il Cabernet apporta struttura, il Merlot morbidezza e il Tempranillo frutto e note speziate. È un rosso equilibrato, da bere giovane o dopo qualche anno in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de cereza negra, ciruela, frutos rojos, especias y vainilla. Boca redonda, de taninos suaves y final especiado.",
+    "en": "Deep ruby. Aromas of black cherry, plum, red fruit, spice and vanilla. Round palate with soft tannins and a spicy finish.",
+    "fr": "Rubis intense. Arômes de cerise noire, de prune, de fruits rouges, d’épices et de vanille. Bouche ronde, aux tanins souples et à la finale épicée.",
+    "it": "Rubino intenso. Aromi di ciliegia nera, prugna, frutti rossi, spezie e vaniglia. Bocca rotonda, dai tannini morbidi e dal finale speziato."
+  },
+  "pairing": {
+    "es": "Carne asada, cabrito al pastor, mole, quesos semicurados",
+    "en": "Carne asada, roast kid, mole, semi-hard cheeses",
+    "fr": "Carne asada, chevreau rôti, mole, fromages mi-affinés",
+    "it": "Carne asada, capretto arrosto, mole, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Casa Madero 3V Parras"
+}

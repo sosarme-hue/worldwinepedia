@@ -1,0 +1,44 @@
+{
+  "slug": "vina-esmeralda",
+  "name": "Viña Esmeralda",
+  "winery": "familia-torres",
+  "region": null,
+  "country": "espana",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "moscatel",
+    "gewurztraminer"
+  ],
+  "summary": {
+    "es": "Blanco aromático de Familia Torres elaborado con moscatel y gewürztraminer, uno de los blancos españoles más populares para el aperitivo.",
+    "en": "Aromatic white from Familia Torres made from Moscatel and Gewürztraminer, one of the most popular Spanish whites for aperitif drinking.",
+    "fr": "Blanc aromatique de Familia Torres élaboré avec du muscat et du gewurztraminer, l'un des blancs espagnols les plus populaires à l'apéritif.",
+    "it": "Bianco aromatico di Familia Torres prodotto con Moscato e Gewürztraminer, uno dei bianchi spagnoli più apprezzati come aperitivo."
+  },
+  "body": {
+    "es": "<p>Viña Esmeralda es uno de los blancos más vendidos de <strong>Familia Torres</strong> y debe su nombre al color verde esmeralda de su botella. Pertenece a la D.O. Catalunya y nació como un vino fresco y aromático, pensado para beberse joven, en una época en que los blancos españoles solían ser más neutros.</p><p>Se elabora con <strong>moscatel de Alejandría</strong> y <strong>gewürztraminer</strong>, dos variedades de gran intensidad aromática; las proporciones pueden variar según la añada. La moscatel aporta notas de uva fresca y flores, y la gewürztraminer, rosas y especias. La vinificación se realiza a temperatura controlada en depósitos de acero inoxidable, sin paso por madera, para preservar los aromas primarios. Es un blanco ligero, de graduación moderada y con un punto de redondez que equilibra su acidez, lo que lo hace muy fácil de beber. Conviene tomarlo en el año siguiente a la vendimia.</p>",
+    "en": "<p>Viña Esmeralda is one of <strong>Familia Torres</strong>' best-selling whites and owes its name to the emerald-green colour of its bottle. It belongs to the Catalunya D.O. and was created as a fresh, aromatic wine for drinking young, at a time when Spanish whites tended to be more neutral.</p><p>It is made from <strong>Muscat of Alexandria</strong> and <strong>Gewürztraminer</strong>, two highly aromatic varieties; the proportions may vary with the vintage. Muscat contributes notes of fresh grapes and flowers, and Gewürztraminer adds roses and spice. Winemaking takes place at controlled temperatures in stainless steel tanks, without oak, to preserve the primary aromas. It is a light white with moderate alcohol and a touch of roundness that balances its acidity, making it very easy to drink. It is best enjoyed in the year after the harvest.</p>",
+    "fr": "<p>Viña Esmeralda est l'un des blancs les plus vendus de <strong>Familia Torres</strong> et doit son nom à la couleur vert émeraude de sa bouteille. Il relève de la D.O. Catalunya et est né comme un vin frais et aromatique, à boire jeune, à une époque où les blancs espagnols étaient plutôt neutres.</p><p>Il est élaboré avec du <strong>muscat d'Alexandrie</strong> et du <strong>gewurztraminer</strong>, deux cépages d'une grande intensité aromatique ; les proportions peuvent varier selon le millésime. Le muscat apporte des notes de raisin frais et de fleurs, le gewurztraminer de rose et d'épices. La vinification se fait à température contrôlée en cuves d'inox, sans passage en bois, afin de préserver les arômes primaires. C'est un blanc léger, au degré modéré, avec une pointe de rondeur qui équilibre son acidité et le rend très facile à boire. Il est préférable de le consommer dans l'année qui suit la vendange.</p>",
+    "it": "<p>Viña Esmeralda è uno dei bianchi più venduti di <strong>Familia Torres</strong> e deve il nome al colore verde smeraldo della bottiglia. Appartiene alla D.O. Catalunya ed è nato come vino fresco e aromatico, da bere giovane, in un'epoca in cui i bianchi spagnoli erano piuttosto neutri.</p><p>È prodotto con <strong>Moscato d'Alessandria</strong> e <strong>Gewürztraminer</strong>, due varietà di grande intensità aromatica; le proporzioni possono variare secondo l'annata. Il Moscato apporta note di uva fresca e fiori, il Gewürztraminer rosa e spezie. La vinificazione avviene a temperatura controllata in vasche d'acciaio inox, senza passaggio in legno, per preservare gli aromi primari. È un bianco leggero, di gradazione moderata e con un tocco di rotondità che bilancia l'acidità, il che lo rende molto facile da bere. Va consumato nell'anno successivo alla vendemmia.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido con reflejos verdosos. Aromas intensos de uva moscatel, pétalos de rosa, lichi y cítricos. En boca es ligero, fresco y ligeramente goloso.",
+    "en": "Pale yellow with greenish hints. Intense aromas of Muscat grape, rose petals, lychee and citrus. Light, fresh and slightly mellow on the palate.",
+    "fr": "Jaune pâle aux reflets verts. Arômes intenses de raisin muscat, de pétales de rose, de litchi et d'agrumes. En bouche, léger, frais et légèrement gourmand.",
+    "it": "Giallo pallido con riflessi verdolini. Aromi intensi di uva moscato, petali di rosa, litchi e agrumi. In bocca è leggero, fresco e leggermente morbido."
+  },
+  "pairing": {
+    "es": "Aperitivo, cocina asiática especiada, ensaladas con fruta, marisco",
+    "en": "Aperitifs, spicy Asian cuisine, salads with fruit, shellfish",
+    "fr": "Apéritif, cuisine asiatique épicée, salades aux fruits, fruits de mer",
+    "it": "Aperitivo, cucina asiatica speziata, insalate con frutta, frutti di mare"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de vino blanco",
+    "en": "6-8 °C, white wine glass",
+    "fr": "6-8 °C, verre à vin blanc",
+    "it": "6-8 °C, calice da vino bianco"
+  },
+  "search": "Viña Esmeralda Torres blanco"
+}

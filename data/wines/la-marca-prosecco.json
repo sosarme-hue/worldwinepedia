@@ -1,0 +1,48 @@
+{
+  "slug": "la-marca-prosecco",
+  "name": "La Marca Prosecco",
+  "winery": "la-marca",
+  "region": "prosecco",
+  "country": "italia",
+  "type": "espumoso",
+  "category": {
+    "es": "Prosecco DOC",
+    "en": "Prosecco DOC",
+    "fr": "Prosecco DOC",
+    "it": "Prosecco DOC"
+  },
+  "grapes": [
+    "glera"
+  ],
+  "summary": {
+    "es": "Prosecco DOC de La Marca, reconocible por su etiqueta azul claro, uno de los espumosos italianos más vendidos en el mundo.",
+    "en": "La Marca Prosecco DOC, recognisable by its light blue label, one of the world’s best-selling Italian sparkling wines.",
+    "fr": "Prosecco DOC de La Marca, reconnaissable à son étiquette bleu clair, l’un des effervescents italiens les plus vendus au monde.",
+    "it": "Prosecco DOC di La Marca, riconoscibile dall’etichetta azzurra, uno degli spumanti italiani più venduti al mondo."
+  },
+  "body": {
+    "es": "<p><strong>La Marca Prosecco</strong> es el producto más conocido de La Marca Vini e Spumanti, el grupo de cooperativas de la provincia de Treviso. Su botella con etiqueta azul claro se ha convertido en una imagen familiar en supermercados y tiendas de vino, especialmente en Estados Unidos.</p><p>Se elabora con <strong>Glera</strong> procedente de los viñedos de los viticultores asociados en la zona de producción del <strong>Prosecco DOC</strong>, en el noreste de Italia. Tras una primera fermentación, el vino base pasa a grandes depósitos cerrados de acero inoxidable donde realiza la segunda fermentación que genera la burbuja, según el método Charmat o Martinotti. Este sistema conserva los aromas frescos de la uva y da un espumoso ligero y afrutado.</p><p>Su estilo, con un ligero dulzor, lo hace fácil de beber. Se toma joven, como aperitivo o en cócteles como el spritz.</p>",
+    "en": "<p><strong>La Marca Prosecco</strong> is the best-known product of La Marca Vini e Spumanti, the group of cooperatives in the province of Treviso. Its bottle with a light blue label has become a familiar sight in supermarkets and wine shops, especially in the United States.</p><p>It is made from <strong>Glera</strong> from the vineyards of member growers within the <strong>Prosecco DOC</strong> production area in north-eastern Italy. After a first fermentation, the base wine goes into large closed stainless steel tanks where it undergoes the second fermentation that creates the bubbles, using the Charmat or Martinotti method. This system preserves the grape’s fresh aromas and gives a light, fruity sparkling wine.</p><p>Its style, with a touch of sweetness, makes it easy to drink. It is enjoyed young, as an aperitif or in cocktails such as the spritz.</p>",
+    "fr": "<p><strong>La Marca Prosecco</strong> est le produit le plus connu de La Marca Vini e Spumanti, le groupe de coopératives de la province de Trévise. Sa bouteille à l’étiquette bleu clair est devenue une image familière dans les supermarchés et chez les cavistes, notamment aux États-Unis.</p><p>Il est élaboré avec de la <strong>glera</strong> provenant des vignes des viticulteurs associés dans la zone de production du <strong>prosecco DOC</strong>, dans le nord-est de l’Italie. Après une première fermentation, le vin de base passe dans de grandes cuves closes en inox où il effectue la seconde fermentation qui crée la bulle, selon la méthode Charmat ou Martinotti. Ce procédé préserve les arômes frais du raisin et donne un effervescent léger et fruité.</p><p>Son style, avec une légère douceur, le rend facile à boire. Il se boit jeune, à l’apéritif ou dans des cocktails comme le spritz.</p>",
+    "it": "<p><strong>La Marca Prosecco</strong> è il prodotto più noto di La Marca Vini e Spumanti, il gruppo di cooperative della provincia di Treviso. La bottiglia con l’etichetta azzurra è diventata un’immagine familiare in supermercati ed enoteche, soprattutto negli Stati Uniti.</p><p>Si produce con <strong>Glera</strong> proveniente dai vigneti dei viticoltori associati nella zona di produzione del <strong>Prosecco DOC</strong>, nell’Italia nord-orientale. Dopo una prima fermentazione, il vino base passa in grandi autoclavi d’acciaio inox dove compie la seconda fermentazione che genera le bollicine, secondo il metodo Charmat o Martinotti. Questo sistema preserva gli aromi freschi dell’uva e dà uno spumante leggero e fruttato.</p><p>Il suo stile, con una leggera dolcezza, lo rende facile da bere. Si beve giovane, come aperitivo o in cocktail come lo spritz.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pajizo pálido, burbuja fina y abundante. Aromas de manzana verde, melocotón, limón y flores. Boca ligera, fresca y ligeramente dulce.",
+    "en": "Pale straw, fine and abundant bubbles. Aromas of green apple, peach, lemon and flowers. Light, fresh, slightly sweet palate.",
+    "fr": "Jaune paille pâle, bulle fine et abondante. Arômes de pomme verte, de pêche, de citron et de fleurs. Bouche légère, fraîche et légèrement douce.",
+    "it": "Giallo paglierino tenue, perlage fine e abbondante. Profumi di mela verde, pesca, limone e fiori. Bocca leggera, fresca e leggermente dolce."
+  },
+  "pairing": {
+    "es": "Aperitivo, spritz, embutidos suaves, ensaladas, postres de fruta",
+    "en": "Aperitif, spritz, mild cured meats, salads, fruit desserts",
+    "fr": "Apéritif, spritz, charcuterie douce, salades, desserts aux fruits",
+    "it": "Aperitivo, spritz, salumi delicati, insalate, dolci alla frutta"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de vino blanco o flauta",
+    "en": "6-8 °C, white wine glass or flute",
+    "fr": "6-8 °C, verre à vin blanc ou flûte",
+    "it": "6-8 °C, calice da vino bianco o flûte"
+  },
+  "search": "La Marca Prosecco DOC"
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "perrin-reserve-cotes-du-rhone-rouge",
+  "name": "Perrin Réserve Côtes du Rhône Rouge",
+  "winery": "famille-perrin",
+  "region": null,
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Côtes du Rhône",
+    "en": "Côtes du Rhône",
+    "fr": "Côtes du Rhône",
+    "it": "Côtes du Rhône"
+  },
+  "grapes": [
+    "garnacha",
+    "syrah",
+    "monastrell"
+  ],
+  "summary": {
+    "es": "Côtes du Rhône tinto de la familia Perrin, ensamblaje de Garnacha, Syrah y Mourvèdre en un estilo afrutado y especiado, muy presente en el comercio.",
+    "en": "Red Côtes du Rhône from the Perrin family, a blend of Grenache, Syrah and Mourvèdre in a fruity, spicy style, widely available in shops.",
+    "fr": "Côtes-du-rhône rouge de la famille Perrin, assemblage de grenache, de syrah et de mourvèdre dans un style fruité et épicé, très présent dans le commerce.",
+    "it": "Côtes du Rhône rosso della famiglia Perrin, assemblaggio di Grenache, Syrah e Mourvèdre in uno stile fruttato e speziato, molto presente in commercio."
+  },
+  "body": {
+    "es": "<p>Perrin Réserve es la gama de Côtes du Rhône de Famille Perrin, la casa de los propietarios de Château de Beaucastel. Su tinto es uno de los vinos del Ródano más fáciles de encontrar en tiendas y vinotecas, y refleja la filosofía de la familia de ensamblar las variedades mediterráneas tradicionales de la zona.</p><p>Se elabora a partir de uvas de distintos viñedos del Ródano meridional. La <strong>Garnacha</strong> aporta fruta madura y redondez, la <strong>Syrah</strong> suma color y notas especiadas, y la <strong>Mourvèdre</strong>, estructura y matices más sombríos; las proporciones varían según la añada. Las variedades suelen vinificarse por separado antes del ensamblaje, y la crianza, breve, se realiza mayoritariamente en depósito y fudre para preservar la fruta.</p><p>Es un tinto pensado para disfrutarse en sus primeros años, que ofrece una buena expresión del estilo del sur del Ródano.</p>",
+    "en": "<p>Perrin Réserve is the Côtes du Rhône range of Famille Perrin, the house of the owners of Château de Beaucastel. Its red is one of the easiest Rhône wines to find in shops and wine merchants, and it reflects the family’s philosophy of blending the area’s traditional Mediterranean varieties.</p><p>It is made from grapes from various southern Rhône vineyards. <strong>Grenache</strong> contributes ripe fruit and roundness, <strong>Syrah</strong> adds colour and spicy notes, and <strong>Mourvèdre</strong> brings structure and darker nuances; the proportions vary with the vintage. The varieties are usually vinified separately before blending, and the short ageing takes place mostly in tank and large cask to preserve the fruit.</p><p>It is a red designed to be enjoyed in its first few years, offering a good expression of the southern Rhône style.</p>",
+    "fr": "<p>Perrin Réserve est la gamme de côtes-du-rhône de Famille Perrin, la maison des propriétaires du château de Beaucastel. Son rouge est l’un des vins du Rhône les plus faciles à trouver chez les cavistes et en grande distribution, et il reflète la philosophie de la famille, qui assemble les cépages méditerranéens traditionnels du secteur.</p><p>Il est élaboré à partir de raisins de différents vignobles du Rhône méridional. Le <strong>grenache</strong> apporte des fruits mûrs et de la rondeur, la <strong>syrah</strong> ajoute couleur et notes épicées, et le <strong>mourvèdre</strong> de la structure et des nuances plus sombres ; les proportions varient selon le millésime. Les cépages sont généralement vinifiés séparément avant l’assemblage, et l’élevage, court, se fait principalement en cuve et en foudre afin de préserver le fruit.</p><p>C’est un rouge conçu pour être apprécié dans ses premières années, qui offre une bonne expression du style du Rhône méridional.</p>",
+    "it": "<p>Perrin Réserve è la gamma di Côtes du Rhône di Famille Perrin, la casa dei proprietari di Château de Beaucastel. Il suo rosso è uno dei vini del Rodano più facili da trovare nei negozi e nelle enoteche, e riflette la filosofia della famiglia di assemblare le varietà mediterranee tradizionali della zona.</p><p>È prodotto con uve di diversi vigneti del Rodano meridionale. Il <strong>Grenache</strong> apporta frutto maturo e rotondità, il <strong>Syrah</strong> aggiunge colore e note speziate e il <strong>Mourvèdre</strong> struttura e sfumature più scure; le proporzioni variano secondo l’annata. Le varietà vengono di solito vinificate separatamente prima dell’assemblaggio, e il breve affinamento avviene soprattutto in vasca e in botte grande per preservare il frutto.</p><p>È un rosso pensato per essere goduto nei primi anni, che offre una buona espressione dello stile del Rodano meridionale.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí intenso. Aromas de cereza, mora, pimienta y hierbas de la garriga. Boca redonda y jugosa, con taninos suaves y final especiado.",
+    "en": "Deep ruby. Aromas of cherry, blackberry, pepper and garrigue herbs. Round, juicy palate with soft tannins and a spicy finish.",
+    "fr": "Rubis intense. Arômes de cerise, de mûre, de poivre et d’herbes de garrigue. Bouche ronde et juteuse, aux tanins souples et à la finale épicée.",
+    "it": "Rubino intenso. Aromi di ciliegia, mora, pepe ed erbe di macchia mediterranea. Bocca rotonda e succosa, con tannini morbidi e finale speziato."
+  },
+  "pairing": {
+    "es": "Carnes a la parrilla, lasaña, pollo asado, quesos semicurados",
+    "en": "Grilled meats, lasagne, roast chicken, semi-hard cheeses",
+    "fr": "Viandes grillées, lasagnes, poulet rôti, fromages mi-affinés",
+    "it": "Carni alla griglia, lasagne, pollo arrosto, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "15-16 °C, copa de tinto estándar",
+    "en": "15-16 °C, standard red wine glass",
+    "fr": "15-16 °C, verre à vin rouge standard",
+    "it": "15-16 °C, calice da rosso standard"
+  },
+  "search": "Perrin Réserve Côtes du Rhône Rouge Famille Perrin"
+}

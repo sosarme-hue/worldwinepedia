@@ -1,0 +1,50 @@
+{
+  "slug": "solaia",
+  "name": "Solaia",
+  "winery": "antinori",
+  "region": "toscana",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "Toscana IGT",
+    "en": "Toscana IGT",
+    "fr": "Toscana IGT",
+    "it": "Toscana IGT"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "sangiovese",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Tinto de Antinori procedente del viñedo Solaia, contiguo al de Tignanello, en el que predomina el Cabernet Sauvignon junto a la Sangiovese.",
+    "en": "Antinori red from the Solaia vineyard, next to Tignanello, in which Cabernet Sauvignon predominates alongside Sangiovese.",
+    "fr": "Rouge d’Antinori issu du vignoble Solaia, voisin de Tignanello, dans lequel le cabernet sauvignon domine aux côtés du sangiovese.",
+    "it": "Rosso di Antinori proveniente dalla vigna Solaia, accanto a quella del Tignanello, in cui prevale il Cabernet Sauvignon accanto al Sangiovese."
+  },
+  "body": {
+    "es": "<p><strong>Solaia</strong> procede de un viñedo de la finca de Tignanello, en las colinas del Chianti Classico entre los valles del Greve y del Pesa. Su nombre, «la soleada», alude a la buena exposición de la parcela, que linda con la del Tignanello. Fue uno de los tintos que, a partir de finales de los años setenta, dieron forma al fenómeno de los llamados «supertoscanos».</p><p>A diferencia del Tignanello, en el que domina la Sangiovese, en Solaia predomina el <strong>Cabernet Sauvignon</strong>, acompañado de <strong>Sangiovese</strong> y de una pequeña parte de <strong>Cabernet Franc</strong>; las proporciones varían según la añada. Solo se elabora en los años que la familia considera favorables. Las uvas se vinifican por separado y el vino se cría en barricas de roble antes de un periodo de afinamiento en botella.</p><p>Es un tinto de gran estructura y concentración, con taninos firmes y una larga capacidad de guarda. Se comercializa como Toscana IGT.</p>",
+    "en": "<p><strong>Solaia</strong> comes from a vineyard on the Tignanello estate, in the Chianti Classico hills between the Greve and Pesa valleys. Its name, “the sunny one”, refers to the plot’s good exposure; it borders the Tignanello vineyard. It was one of the reds that, from the late 1970s onwards, shaped the phenomenon of the so-called “Super Tuscans”.</p><p>Unlike Tignanello, in which Sangiovese dominates, Solaia is led by <strong>Cabernet Sauvignon</strong>, accompanied by <strong>Sangiovese</strong> and a small share of <strong>Cabernet Franc</strong>; the proportions vary with the vintage. It is made only in years the family considers favourable. The grapes are vinified separately and the wine is aged in oak barriques before a period of bottle maturation.</p><p>It is a red of great structure and concentration, with firm tannins and long ageing potential. It is sold as Toscana IGT.</p>",
+    "fr": "<p><strong>Solaia</strong> provient d’un vignoble du domaine de Tignanello, sur les collines du Chianti Classico entre les vallées de la Greve et de la Pesa. Son nom, « l’ensoleillée », évoque la bonne exposition de la parcelle, voisine de celle du Tignanello. Ce fut l’un des rouges qui, à partir de la fin des années 1970, donnèrent forme au phénomène des « super-toscans ».</p><p>Contrairement au Tignanello, dominé par le sangiovese, Solaia est mené par le <strong>cabernet sauvignon</strong>, accompagné de <strong>sangiovese</strong> et d’une petite part de <strong>cabernet franc</strong> ; les proportions varient selon le millésime. Il n’est élaboré que les années que la famille juge favorables. Les raisins sont vinifiés séparément et le vin est élevé en barriques de chêne avant une période d’affinage en bouteille.</p><p>C’est un rouge d’une grande structure et d’une grande concentration, aux tanins fermes et au long potentiel de garde. Il est commercialisé en Toscana IGT.</p>",
+    "it": "<p><strong>Solaia</strong> proviene da una vigna della tenuta Tignanello, sulle colline del Chianti Classico tra le valli della Greve e della Pesa. Il nome, «la soleggiata», richiama la buona esposizione della parcella, confinante con quella del Tignanello. Fu uno dei rossi che, dalla fine degli anni Settanta, diedero forma al fenomeno dei cosiddetti «Supertuscan».</p><p>A differenza del Tignanello, dominato dal Sangiovese, nel Solaia prevale il <strong>Cabernet Sauvignon</strong>, accompagnato da <strong>Sangiovese</strong> e da una piccola parte di <strong>Cabernet Franc</strong>; le proporzioni variano a seconda dell’annata. Si produce solo negli anni che la famiglia ritiene favorevoli. Le uve sono vinificate separatamente e il vino affina in barrique di rovere prima di un periodo in bottiglia.</p><p>È un rosso di grande struttura e concentrazione, con tannini saldi e lunghe capacità di invecchiamento. È commercializzato come Toscana IGT.</p>"
+  },
+  "tasting": {
+    "es": "Rubí muy profundo. Aromas de grosella negra, mora, cereza, especias, tabaco y notas balsámicas. Boca potente y elegante, con taninos firmes y finos y final muy largo.",
+    "en": "Very deep ruby. Aromas of blackcurrant, blackberry, cherry, spice, tobacco and balsamic notes. Powerful, elegant palate with firm, fine tannins and a very long finish.",
+    "fr": "Rubis très profond. Arômes de cassis, de mûre, de cerise, d’épices, de tabac et notes balsamiques. Bouche puissante et élégante, aux tanins fermes et fins et à la finale très longue.",
+    "it": "Rubino molto profondo. Profumi di ribes nero, mora, ciliegia, spezie, tabacco e note balsamiche. Bocca potente ed elegante, con tannini saldi e fini e finale lunghissimo."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, cordero asado, caza, quesos curados",
+    "en": "Chargrilled red meat, roast lamb, game, aged cheeses",
+    "fr": "Viandes rouges à la braise, agneau rôti, gibier, fromages affinés",
+    "it": "Carni rosse alla brace, agnello arrosto, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "17-18 °C, decantado, copa amplia",
+    "en": "17-18 °C, decanted, large glass",
+    "fr": "17-18 °C, carafé, verre ample",
+    "it": "17-18 °C, decantato, calice ampio"
+  },
+  "search": "Solaia Antinori Toscana"
+}

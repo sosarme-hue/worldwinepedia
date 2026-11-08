@@ -1,0 +1,49 @@
+{
+  "slug": "lanson-black-label-brut",
+  "name": "Lanson Black Label Brut",
+  "winery": "lanson",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut",
+    "en": "Brut",
+    "fr": "Brut",
+    "it": "Brut"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Champagne brut sin añada de Lanson, durante mucho tiempo comercializado como Black Label, de estilo fresco y vivo, con predominio de Pinot Noir.",
+    "en": "Lanson’s non-vintage brut champagne, long sold as Black Label, fresh and lively in style, with Pinot Noir predominating.",
+    "fr": "Champagne brut non millésimé de Lanson, longtemps commercialisé sous le nom de Black Label, au style frais et vif, à dominante de pinot noir.",
+    "it": "Champagne brut senza annata di Lanson, a lungo commercializzato come Black Label, di stile fresco e vivace, con prevalenza di Pinot Nero."
+  },
+  "body": {
+    "es": "<p>El brut sin añada de Lanson ha sido durante décadas uno de los champanes más conocidos del mercado, vendido con el nombre de <strong>Black Label</strong> por el color de su etiqueta. En los últimos años la casa ha renovado su presentación y la denominación de este vino, por lo que pueden encontrarse botellas con distintos nombres comerciales, aunque se trata del mismo brut de la casa.</p><p>Se elabora con las tres variedades de Champagne, con predominio de <strong>Pinot Noir</strong>, seguido de <strong>Chardonnay</strong> y Pinot Meunier, procedentes de numerosos municipios; las proporciones varían según el ensamblaje. Fiel al estilo tradicional de la casa, buena parte de los vinos se elabora sin fermentación maloláctica, lo que preserva una acidez viva. El ensamblaje incluye vinos de reserva y el champán se cría varios años sobre lías.</p><p>Es un champán fresco y tenso, con aromas de cítricos, manzana y notas de tostado, y un final limpio. Su acidez lo hace adecuado para el aperitivo y para acompañar marisco.</p>",
+    "en": "<p>Lanson’s non-vintage brut has for decades been one of the best-known champagnes on the market, sold under the name <strong>Black Label</strong> after the colour of its label. In recent years the house has renewed the wine’s presentation and name, so bottles may be found under different commercial names, although it is the same house brut.</p><p>It is made from the three Champagne varieties, with <strong>Pinot Noir</strong> predominating, followed by <strong>Chardonnay</strong> and Pinot Meunier, from many villages; the proportions vary from blend to blend. In keeping with the house’s traditional style, many of the wines are made without malolactic fermentation, which preserves lively acidity. The blend includes reserve wines and the champagne is aged for several years on its lees.</p><p>It is a fresh, taut champagne, with aromas of citrus, apple and toasty notes, and a clean finish. Its acidity makes it suitable as an aperitif and with shellfish.</p>",
+    "fr": "<p>Le brut non millésimé de Lanson est depuis des décennies l’un des champagnes les plus connus du marché, vendu sous le nom de <strong>Black Label</strong> en raison de la couleur de son étiquette. Ces dernières années, la maison a renouvelé la présentation et le nom de ce vin, si bien que l’on peut trouver des bouteilles sous différents noms commerciaux, bien qu’il s’agisse du même brut de la maison.</p><p>Il est élaboré avec les trois cépages de la Champagne, à dominante de <strong>pinot noir</strong>, suivi du <strong>chardonnay</strong> et du pinot meunier, issus de nombreux villages ; les proportions varient selon l’assemblage. Fidèle au style traditionnel de la maison, une bonne partie des vins est élaborée sans fermentation malolactique, ce qui préserve une acidité vive. L’assemblage comprend des vins de réserve et le champagne est élevé plusieurs années sur lies.</p><p>C’est un champagne frais et tendu, aux arômes d’agrumes, de pomme et de notes toastées, à la finale nette. Son acidité le rend adapté à l’apéritif et aux fruits de mer.</p>",
+    "it": "<p>Il brut senza annata di Lanson è da decenni uno degli champagne più conosciuti sul mercato, venduto con il nome di <strong>Black Label</strong> per il colore dell’etichetta. Negli ultimi anni la casa ne ha rinnovato la presentazione e il nome, per cui si possono trovare bottiglie con nomi commerciali diversi, anche se si tratta dello stesso brut della casa.</p><p>È prodotto con le tre varietà della Champagne, con prevalenza di <strong>Pinot Nero</strong>, seguito da <strong>Chardonnay</strong> e Pinot Meunier, provenienti da numerosi villaggi; le proporzioni variano secondo l’assemblaggio. Fedele allo stile tradizionale della casa, buona parte dei vini è prodotta senza fermentazione malolattica, il che preserva un’acidità vivace. L’assemblaggio comprende vini di riserva e lo champagne affina diversi anni sui lieviti.</p><p>È uno champagne fresco e teso, con aromi di agrumi, mela e note tostate, e un finale pulito. La sua acidità lo rende adatto all’aperitivo e ai frutti di mare.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido con burbuja fina y persistente. Aromas de limón, manzana verde, flores y un toque tostado. Boca viva y fresca, tensa, con final limpio.",
+    "en": "Pale yellow with fine, persistent bubbles. Aromas of lemon, green apple, flowers and a toasty touch. Lively, fresh, taut palate with a clean finish.",
+    "fr": "Robe jaune pâle à la bulle fine et persistante. Arômes de citron, de pomme verte, de fleurs et une touche toastée. Bouche vive et fraîche, tendue, finale nette.",
+    "it": "Giallo paglierino dal perlage fine e persistente. Aromi di limone, mela verde, fiori e un tocco tostato. Bocca vivace e fresca, tesa, dal finale pulito."
+  },
+  "pairing": {
+    "es": "Aperitivo, marisco, ostras, sushi, frituras ligeras, quesos de pasta blanda",
+    "en": "Aperitif, shellfish, oysters, sushi, light fried food, soft cheeses",
+    "fr": "Apéritif, fruits de mer, huîtres, sushis, fritures légères, fromages à pâte molle",
+    "it": "Aperitivo, frutti di mare, ostriche, sushi, fritture leggere, formaggi a pasta molle"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco o de tulipa",
+    "en": "8-10 °C, white wine or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da vino bianco o a tulipano"
+  },
+  "search": "Lanson Black Label Brut Champagne"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "la-vieille-ferme-rouge",
+  "name": "La Vieille Ferme Rouge",
+  "winery": "famille-perrin",
+  "region": null,
+  "country": "francia",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha",
+    "syrah"
+  ],
+  "summary": {
+    "es": "Tinto sencillo y afrutado creado por Jean-Pierre Perrin en 1970, reconocible por las gallinas de su etiqueta y uno de los vinos franceses más difundidos.",
+    "en": "Simple, fruity red created by Jean-Pierre Perrin in 1970, recognisable by the hens on its label and one of the most widely distributed French wines.",
+    "fr": "Rouge simple et fruité créé par Jean-Pierre Perrin en 1970, reconnaissable aux poules de son étiquette et l’un des vins français les plus diffusés.",
+    "it": "Rosso semplice e fruttato creato da Jean-Pierre Perrin nel 1970, riconoscibile dalle galline in etichetta e uno dei vini francesi più diffusi."
+  },
+  "body": {
+    "es": "<p>La Vieille Ferme nació en 1970 por iniciativa de Jean-Pierre Perrin, de la familia propietaria de Château de Beaucastel, con la idea de ofrecer vinos del sudeste de Francia sencillos, afrutados y asequibles. Con el tiempo se ha convertido en una de las marcas francesas más conocidas en el mundo, reconocible por las gallinas de su etiqueta.</p><p>El tinto se elabora con uvas de viñedos del sudeste de Francia, tradicionalmente vinculados a las zonas del Ventoux y del valle del Ródano; la denominación que figura en la etiqueta ha variado según las épocas y los mercados. Se basa en la <strong>Garnacha</strong> y la <strong>Syrah</strong>, a menudo completadas con otras variedades mediterráneas como la Cariñena o la Cinsault; las proporciones varían según la añada.</p><p>La elaboración busca conservar la fruta fresca, con una crianza corta en depósito. Es un tinto ligero y fácil de beber, pensado para el consumo diario y para beberse joven.</p>",
+    "en": "<p>La Vieille Ferme was born in 1970 on the initiative of Jean-Pierre Perrin, of the family that owns Château de Beaucastel, with the idea of offering simple, fruity and affordable wines from south-eastern France. Over time it has become one of the best-known French brands in the world, recognisable by the hens on its label.</p><p>The red is made from grapes grown in vineyards in south-eastern France, traditionally associated with the Ventoux area and the Rhône valley; the appellation shown on the label has varied over time and between markets. It is based on <strong>Grenache</strong> and <strong>Syrah</strong>, often completed by other Mediterranean varieties such as Carignan or Cinsault; the proportions vary with the vintage.</p><p>Winemaking aims to preserve fresh fruit, with short ageing in tank. It is a light, easy-drinking red, intended for everyday enjoyment and best drunk young.</p>",
+    "fr": "<p>La Vieille Ferme est née en 1970 à l’initiative de Jean-Pierre Perrin, de la famille propriétaire du château de Beaucastel, avec l’idée de proposer des vins du sud-est de la France simples, fruités et abordables. Avec le temps, elle est devenue l’une des marques françaises les plus connues dans le monde, reconnaissable aux poules de son étiquette.</p><p>Le rouge est élaboré à partir de raisins de vignobles du sud-est de la France, traditionnellement liés au secteur du Ventoux et à la vallée du Rhône ; l’appellation indiquée sur l’étiquette a varié selon les époques et les marchés. Il repose sur le <strong>grenache</strong> et la <strong>syrah</strong>, souvent complétés par d’autres cépages méditerranéens comme le carignan ou le cinsault ; les proportions varient selon le millésime.</p><p>La vinification vise à préserver le fruit frais, avec un élevage court en cuve. C’est un rouge léger et facile à boire, pensé pour la consommation quotidienne et à boire jeune.</p>",
+    "it": "<p>La Vieille Ferme è nata nel 1970 per iniziativa di Jean-Pierre Perrin, della famiglia proprietaria di Château de Beaucastel, con l’idea di offrire vini del sud-est della Francia semplici, fruttati e accessibili. Col tempo è diventata uno dei marchi francesi più conosciuti al mondo, riconoscibile dalle galline in etichetta.</p><p>Il rosso è prodotto con uve di vigneti del sud-est della Francia, tradizionalmente legati alla zona del Ventoux e alla valle del Rodano; la denominazione riportata in etichetta è cambiata a seconda delle epoche e dei mercati. Si basa su <strong>Grenache</strong> e <strong>Syrah</strong>, spesso completati da altre varietà mediterranee come Carignan o Cinsault; le proporzioni variano secondo l’annata.</p><p>La vinificazione mira a preservare il frutto fresco, con un breve affinamento in vasca. È un rosso leggero e facile da bere, pensato per il consumo quotidiano e da bere giovane.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí. Aromas de frutos rojos frescos, cereza y un toque especiado. Boca ligera y afrutada, de taninos suaves.",
+    "en": "Ruby red. Aromas of fresh red berries, cherry and a touch of spice. Light, fruity palate with soft tannins.",
+    "fr": "Rouge rubis. Arômes de fruits rouges frais, de cerise et une touche épicée. Bouche légère et fruitée, aux tanins souples.",
+    "it": "Rosso rubino. Aromi di frutti rossi freschi, ciliegia e un tocco speziato. Bocca leggera e fruttata, dai tannini morbidi."
+  },
+  "pairing": {
+    "es": "Pizza, pasta, embutidos, barbacoa, tapas",
+    "en": "Pizza, pasta, charcuterie, barbecue, tapas",
+    "fr": "Pizza, pâtes, charcuterie, barbecue, tapas",
+    "it": "Pizza, pasta, salumi, barbecue, stuzzichini"
+  },
+  "serve": {
+    "es": "14-16 °C, copa de tinto estándar",
+    "en": "14-16 °C, standard red wine glass",
+    "fr": "14-16 °C, verre à vin rouge standard",
+    "it": "14-16 °C, calice da rosso standard"
+  },
+  "search": "La Vieille Ferme Rouge Famille Perrin"
+}

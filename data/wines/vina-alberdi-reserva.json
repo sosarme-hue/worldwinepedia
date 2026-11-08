@@ -1,0 +1,48 @@
+{
+  "slug": "vina-alberdi-reserva",
+  "name": "Viña Alberdi Reserva",
+  "winery": "la-rioja-alta",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Reserva de Tempranillo de La Rioja Alta, S.A., en Haro, criado en barricas de roble americano fabricadas en la tonelería de la propia bodega.",
+    "en": "Tempranillo Reserva from La Rioja Alta, S.A., in Haro, aged in American oak barrels made in the winery’s own cooperage.",
+    "fr": "Reserva de tempranillo de La Rioja Alta, S.A., à Haro, élevé en barriques de chêne américain fabriquées dans la tonnellerie de la bodega.",
+    "it": "Reserva di Tempranillo di La Rioja Alta, S.A., a Haro, affinato in barrique di rovere americano costruite nella bottaia della cantina."
+  },
+  "body": {
+    "es": "<p>Viña Alberdi es el vino más joven de la gama clásica de La Rioja Alta, S.A., la bodega fundada en 1890 en el Barrio de la Estación de Haro. Durante años se comercializó como Crianza, y en la actualidad se presenta como Reserva, en coherencia con el estilo de crianza larga de la casa.</p><p>Se elabora exclusivamente con Tempranillo de viñedos propios en la Rioja Alta. El vino se cría en barricas de roble americano que la bodega construye en su propia tonelería, y durante la crianza se trasiega periódicamente de forma tradicional, a la luz de una vela, para separar el vino de los sedimentos. Después reposa en botella antes de su salida al mercado.</p><p>El resultado es un rioja clásico de cuerpo medio, con fruta roja madura, notas de vainilla, coco y especias y una acidez fresca, que ofrece una buena introducción al estilo tradicional de Haro.</p>",
+    "en": "<p>Viña Alberdi is the youngest wine in the classic range of La Rioja Alta, S.A., the winery founded in 1890 in Haro’s Station District. For years it was sold as a Crianza, and it is now released as a Reserva, in keeping with the house’s long-aged style.</p><p>It is made exclusively from Tempranillo from its own vineyards in Rioja Alta. The wine is aged in American oak barrels that the winery builds in its own cooperage, and during ageing it is periodically racked in the traditional way, by candlelight, to separate the wine from its sediment. It then rests in bottle before release.</p><p>The result is a classic medium-bodied Rioja, with ripe red fruit, notes of vanilla, coconut and spice and fresh acidity, offering a good introduction to the traditional Haro style.</p>",
+    "fr": "<p>Viña Alberdi est le vin le plus jeune de la gamme classique de La Rioja Alta, S.A., la bodega fondée en 1890 dans le Quartier de la Gare de Haro. Pendant des années, il fut commercialisé comme Crianza ; il est aujourd’hui présenté comme Reserva, en cohérence avec le style de long élevage de la maison.</p><p>Il est élaboré exclusivement avec du tempranillo de ses propres vignes de la Rioja Alta. Le vin est élevé en barriques de chêne américain que la bodega fabrique dans sa propre tonnellerie et, pendant l’élevage, il est soutiré périodiquement de manière traditionnelle, à la lueur d’une bougie, pour séparer le vin de ses dépôts. Il repose ensuite en bouteille avant sa commercialisation.</p><p>Il en résulte un rioja classique de corps moyen, aux fruits rouges mûrs, aux notes de vanille, de noix de coco et d’épices et à l’acidité fraîche, qui offre une bonne introduction au style traditionnel de Haro.</p>",
+    "it": "<p>Viña Alberdi è il vino più giovane della gamma classica di La Rioja Alta, S.A., la cantina fondata nel 1890 nel Quartiere della Stazione di Haro. Per anni fu commercializzato come Crianza e oggi è presentato come Reserva, in coerenza con lo stile di lungo affinamento della casa.</p><p>È prodotto esclusivamente con Tempranillo di vigneti propri nella Rioja Alta. Il vino affina in barrique di rovere americano che la cantina costruisce nella propria bottaia e, durante l’affinamento, viene travasato periodicamente in modo tradizionale, alla luce di una candela, per separarlo dai sedimenti. Riposa poi in bottiglia prima della messa in commercio.</p><p>Il risultato è un Rioja classico di medio corpo, con frutto rosso maturo, note di vaniglia, cocco e spezie e un’acidità fresca, che offre una buona introduzione allo stile tradizionale di Haro.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí con ribete teja. Fruta roja y negra madura, especias dulces, cuero suave y notas tostadas. En boca es amplio, de taninos pulidos y final largo.",
+    "en": "Ruby red with a brick rim. Ripe red and black fruit, sweet spice, soft leather and toasty notes. Broad on the palate, with polished tannins and a long finish.",
+    "fr": "Rouge rubis à reflets tuilés. Fruits rouges et noirs mûrs, épices douces, cuir léger et notes toastées. Ample en bouche, aux tanins polis et à la finale longue.",
+    "it": "Rosso rubino con unghia mattone. Frutta rossa e nera matura, spezie dolci, cuoio leggero e note tostate. In bocca è ampio, con tannini levigati e finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, chuletillas a la brasa, embutidos ibéricos, quesos semicurados",
+    "en": "Roast lamb, grilled lamb chops, Iberian cured meats, semi-cured cheeses",
+    "fr": "Agneau rôti, côtelettes grillées, charcuterie ibérique, fromages mi-affinés",
+    "it": "Agnello arrosto, costolette alla brace, salumi iberici, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Viña Alberdi Reserva La Rioja Alta"
+}

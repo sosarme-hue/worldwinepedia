@@ -1,0 +1,48 @@
+{
+  "slug": "lustau-puerto-fino",
+  "name": "Lustau Puerto Fino",
+  "winery": "lustau",
+  "region": "jerez-xeres-sherry",
+  "country": "espana",
+  "type": "generoso",
+  "category": {
+    "es": "Fino",
+    "en": "Fino",
+    "fr": "Fino",
+    "it": "Fino"
+  },
+  "grapes": [
+    "palomino"
+  ],
+  "summary": {
+    "es": "Fino de Lustau criado en El Puerto de Santa María, de estilo delicado y salino.",
+    "en": "Fino from Lustau aged in El Puerto de Santa María, delicate and saline in style.",
+    "fr": "Fino de Lustau élevé à El Puerto de Santa María, au style délicat et salin.",
+    "it": "Fino di Lustau affinato a El Puerto de Santa María, dallo stile delicato e salino."
+  },
+  "body": {
+    "es": "<p>Puerto Fino forma parte de la serie de vinos de Lustau que muestran las diferencias entre las tres ciudades del triángulo del jerez: Jerez de la Frontera, Sanlúcar de Barrameda y <strong>El Puerto de Santa María</strong>. Mientras que la manzanilla solo puede criarse en Sanlúcar, el fino de El Puerto tiene un carácter propio, que muchos aficionados sitúan entre la finura de la manzanilla y la mayor intensidad del fino de Jerez.</p><p>Se elabora con <strong>palomino</strong> de viñedos de albariza y se cría en una bodega de Lustau en El Puerto, a orillas del Guadalete y cerca de la bahía de Cádiz. La influencia del mar mantiene una humedad elevada y temperaturas suaves, que favorecen un velo de <strong>flor</strong> grueso y constante durante buena parte del año. Tras varios años en el sistema de <strong>criaderas y solera</strong> bajo esa capa de levaduras, el vino desarrolla su color pálido, sus aromas punzantes y su característica nota salina. Es un fino seco y delicado que debe servirse frío.</p>",
+    "en": "<p>Puerto Fino belongs to Lustau's series of wines that show the differences between the three towns of the sherry triangle: Jerez de la Frontera, Sanlúcar de Barrameda and <strong>El Puerto de Santa María</strong>. While manzanilla can only be aged in Sanlúcar, El Puerto fino has a character of its own, which many enthusiasts place between the finesse of manzanilla and the greater intensity of Jerez fino.</p><p>It is made from <strong>Palomino</strong> from albariza vineyards and aged in a Lustau bodega in El Puerto, on the banks of the Guadalete near the Bay of Cádiz. The influence of the sea maintains high humidity and mild temperatures, which favour a thick, consistent layer of <strong>flor</strong> for much of the year. After several years in the <strong>criaderas and solera</strong> system under this layer of yeast, the wine develops its pale colour, pungent aromas and characteristic saline note. It is a dry, delicate fino that should be served chilled.</p>",
+    "fr": "<p>Puerto Fino fait partie de la série de vins de Lustau qui montrent les différences entre les trois villes du triangle du xérès : Jerez de la Frontera, Sanlúcar de Barrameda et <strong>El Puerto de Santa María</strong>. Si la manzanilla ne peut être élevée qu'à Sanlúcar, le fino d'El Puerto possède un caractère propre, que de nombreux amateurs situent entre la finesse de la manzanilla et l'intensité plus grande du fino de Jerez.</p><p>Il est élaboré avec du <strong>palomino</strong> de vignes d'albariza et élevé dans une bodega de Lustau à El Puerto, sur les rives du Guadalete, près de la baie de Cadix. L'influence de la mer maintient une humidité élevée et des températures douces, qui favorisent un voile de <strong>flor</strong> épais et constant pendant une bonne partie de l'année. Après plusieurs années dans le système des <strong>criaderas et solera</strong> sous cette couche de levures, le vin développe sa couleur pâle, ses arômes piquants et sa note saline caractéristique. C'est un fino sec et délicat, à servir frais.</p>",
+    "it": "<p>Puerto Fino fa parte della serie di vini di Lustau che mostrano le differenze tra le tre città del triangolo dello sherry: Jerez de la Frontera, Sanlúcar de Barrameda ed <strong>El Puerto de Santa María</strong>. Mentre la manzanilla può essere affinata solo a Sanlúcar, il fino di El Puerto ha un carattere proprio, che molti appassionati collocano tra la finezza della manzanilla e la maggiore intensità del fino di Jerez.</p><p>È prodotto con <strong>Palomino</strong> di vigneti di albariza e affinato in una bodega di Lustau a El Puerto, sulle rive del Guadalete, vicino alla baia di Cadice. L'influenza del mare mantiene un'umidità elevata e temperature miti, che favoriscono un velo di <strong>flor</strong> spesso e costante per buona parte dell'anno. Dopo diversi anni nel sistema di <strong>criaderas e solera</strong> sotto questo strato di lieviti, il vino sviluppa il colore pallido, gli aromi pungenti e la caratteristica nota salina. È un fino secco e delicato, da servire freddo.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pajizo pálido. Aromas de levadura, almendra, pan y brisa marina. En boca es seco, fino y salino, con final ligeramente amargo.",
+    "en": "Pale straw yellow. Aromas of yeast, almond, bread and sea breeze. Dry, fine and saline on the palate, with a slightly bitter finish.",
+    "fr": "Jaune paille pâle. Arômes de levure, d'amande, de pain et de brise marine. En bouche, sec, fin et salin, avec une finale légèrement amère.",
+    "it": "Giallo paglierino pallido. Aromi di lievito, mandorla, pane e brezza marina. In bocca è secco, fine e sapido, con finale leggermente amarognolo."
+  },
+  "pairing": {
+    "es": "Jamón ibérico, aceitunas, almendras, marisco, pescado frito",
+    "en": "Iberian ham, olives, almonds, shellfish, fried fish",
+    "fr": "Jambon ibérique, olives, amandes, fruits de mer, friture de poisson",
+    "it": "Prosciutto iberico, olive, mandorle, frutti di mare, frittura di pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de vino blanco",
+    "en": "6-8 °C, white wine glass",
+    "fr": "6-8 °C, verre à vin blanc",
+    "it": "6-8 °C, calice da vino bianco"
+  },
+  "search": "Lustau Puerto Fino"
+}

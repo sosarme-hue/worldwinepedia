@@ -1,0 +1,51 @@
+{
+  "slug": "chateau-latour",
+  "name": "Château Latour",
+  "winery": "chateau-latour",
+  "region": "medoc",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Premier Grand Cru Classé (1855)",
+    "en": "Premier Grand Cru Classé (1855)",
+    "fr": "Premier Grand Cru Classé (1855)",
+    "it": "Premier Grand Cru Classé (1855)"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "cabernet-franc",
+    "petit-verdot"
+  ],
+  "summary": {
+    "es": "Gran vino de Château Latour, primer gran cru clasificado de Pauillac, dominado por la Cabernet Sauvignon del viñedo de L’Enclos y concebido para una guarda muy larga.",
+    "en": "The grand vin of Château Latour, a Pauillac first growth, dominated by Cabernet Sauvignon from the L’Enclos vineyard and built for very long ageing.",
+    "fr": "Grand vin de Château Latour, premier grand cru classé de Pauillac, dominé par le cabernet-sauvignon du vignoble de l’Enclos et conçu pour une très longue garde.",
+    "it": "Grand vin di Château Latour, primo grand cru classé di Pauillac, dominato dal Cabernet Sauvignon del vigneto de L’Enclos e pensato per un lunghissimo invecchiamento."
+  },
+  "body": {
+    "es": "<p>El gran vino de Château Latour procede casi por completo de <strong>L’Enclos</strong>, la parcela histórica de gravas que rodea el château, junto a la Gironda. La influencia del estuario modera las temperaturas y las gravas profundas favorecen la maduración de la <strong>Cabernet Sauvignon</strong>, que constituye la mayor parte del ensamblaje; la completan la Merlot y, en menor medida, la Cabernet Franc y la Petit Verdot. Las proporciones varían según la añada.</p><p>Cada parcela se vinifica por separado y el vino se cría en barricas de roble francés, en gran parte nuevas, antes de su embotellado en el château. Desde la cosecha de 2012, Latour ya no vende en primeur y saca cada añada al mercado varios años después, cuando la considera más cercana a su momento de consumo.</p><p>Es un tinto de gran concentración y estructura tánica, que en su juventud puede resultar austero y que necesita muchos años de botella para mostrar toda su complejidad.</p>",
+    "en": "<p>The grand vin of Château Latour comes almost entirely from <strong>L’Enclos</strong>, the historic gravel plot surrounding the château beside the Gironde. The estuary moderates temperatures, and the deep gravel favours the ripening of <strong>Cabernet Sauvignon</strong>, which makes up most of the blend; Merlot completes it, with smaller amounts of Cabernet Franc and Petit Verdot. The proportions vary with the vintage.</p><p>Each plot is vinified separately and the wine is aged in French oak barrels, largely new, before being bottled at the château. Since the 2012 vintage Latour no longer sells en primeur and releases each vintage several years later, when it considers it closer to its drinking window.</p><p>It is a red of great concentration and tannic structure, which can seem austere in its youth and needs many years in bottle to reveal its full complexity.</p>",
+    "fr": "<p>Le grand vin de Château Latour provient presque entièrement de <strong>l’Enclos</strong>, la parcelle historique de graves qui entoure le château, au bord de la Gironde. L’estuaire tempère les températures et les graves profondes favorisent la maturation du <strong>cabernet-sauvignon</strong>, qui constitue l’essentiel de l’assemblage ; le merlot le complète et, dans une moindre mesure, le cabernet franc et le petit verdot. Les proportions varient selon le millésime.</p><p>Chaque parcelle est vinifiée séparément et le vin est élevé en barriques de chêne français, en grande partie neuves, avant d’être mis en bouteille au château. Depuis le millésime 2012, Latour ne vend plus en primeur et commercialise chaque millésime plusieurs années plus tard, lorsqu’il le juge plus proche de sa période d’apogée.</p><p>C’est un rouge d’une grande concentration et d’une structure tannique marquée, qui peut paraître austère dans sa jeunesse et demande de nombreuses années de bouteille pour révéler toute sa complexité.</p>",
+    "it": "<p>Il grand vin di Château Latour proviene quasi interamente da <strong>L’Enclos</strong>, lo storico appezzamento di ghiaie che circonda lo château, accanto alla Gironda. L’estuario mitiga le temperature e le ghiaie profonde favoriscono la maturazione del <strong>Cabernet Sauvignon</strong>, che costituisce la maggior parte dell’uvaggio; lo completano il Merlot e, in misura minore, il Cabernet Franc e il Petit Verdot. Le proporzioni variano secondo l’annata.</p><p>Ogni parcella è vinificata separatamente e il vino affina in barrique di rovere francese, in gran parte nuove, prima dell’imbottigliamento allo château. Dall’annata 2012 Latour non vende più en primeur e mette in commercio ogni annata diversi anni dopo, quando la ritiene più vicina al momento ideale di consumo.</p><p>È un rosso di grande concentrazione e struttura tannica, che in gioventù può risultare austero e ha bisogno di molti anni di bottiglia per esprimere tutta la sua complessità.</p>"
+  },
+  "tasting": {
+    "es": "Color granate muy profundo. Aromas de casis, mora y grafito, con notas de cedro, tabaco y especias que ganan protagonismo con la edad. Boca densa y firme, de taninos poderosos y final muy largo.",
+    "en": "Very deep garnet. Aromas of blackcurrant, blackberry and graphite, with notes of cedar, tobacco and spice that come to the fore with age. Dense, firm palate with powerful tannins and a very long finish.",
+    "fr": "Robe grenat très profonde. Arômes de cassis, de mûre et de graphite, avec des notes de cèdre, de tabac et d’épices qui s’affirment avec l’âge. Bouche dense et ferme, aux tanins puissants et à la finale très longue.",
+    "it": "Colore granato molto profondo. Aromi di ribes nero, mora e grafite, con note di cedro, tabacco e spezie che emergono con l’età. Bocca densa e decisa, dai tannini potenti e dal finale lunghissimo."
+  },
+  "pairing": {
+    "es": "Cordero asado, entrecot a la parrilla, caza, quesos curados de pasta dura",
+    "en": "Roast lamb, grilled rib steak, game, hard aged cheeses",
+    "fr": "Agneau rôti, entrecôte grillée, gibier, fromages affinés à pâte dure",
+    "it": "Agnello arrosto, costata alla griglia, selvaggina, formaggi stagionati a pasta dura"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia de tipo Burdeos",
+    "en": "16-18 °C, decanted, large Bordeaux glass",
+    "fr": "16-18 °C, carafé, grand verre de type bordeaux",
+    "it": "16-18 °C, decantato, calice ampio tipo Bordeaux"
+  },
+  "search": "Château Latour Pauillac Premier Grand Cru Classé"
+}

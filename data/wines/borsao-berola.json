@@ -1,0 +1,44 @@
+{
+  "slug": "borsao-berola",
+  "name": "Borsao Berola",
+  "winery": "borsao",
+  "region": "campo-de-borja",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha",
+    "syrah"
+  ],
+  "summary": {
+    "es": "Tinto de Bodegas Borsao basado en garnacha de viñedos de altura del Campo de Borja, con una parte de syrah y crianza en barrica.",
+    "en": "Red from Bodegas Borsao based on Garnacha from high-altitude Campo de Borja vineyards, with a share of Syrah and barrel ageing.",
+    "fr": "Rouge de Bodegas Borsao à base de grenache de vignes d'altitude du Campo de Borja, avec une part de syrah et un élevage en barrique.",
+    "it": "Rosso di Bodegas Borsao a base di Garnacha di vigneti d'altura del Campo de Borja, con una parte di Syrah e affinamento in barrique."
+  },
+  "body": {
+    "es": "<p>Berola es uno de los vinos de mayor ambición de Bodegas Borsao, situado por encima de las garnachas de entrada de la casa como Borsao Selección. Se elabora con uvas de los viñedos más altos de la comarca, en las laderas que ascienden hacia el <strong>Moncayo</strong>, la montaña que domina el Campo de Borja.</p><p>Su base es la <strong>garnacha</strong>, a menudo de cepas viejas en vaso, a la que se suma una parte de <strong>syrah</strong>; las proporciones varían según la añada. En estas zonas altas, de suelos pobres y pedregosos y muy expuestas al <strong>cierzo</strong>, el viento frío y seco del noroeste, la maduración es más lenta que en la llanura, lo que favorece una fruta más fresca y una buena acidez. Tras la fermentación, el vino se cría durante algo más de un año en barricas de roble. El resultado es un tinto concentrado y especiado, con la fruta madura propia de la garnacha aragonesa y una estructura que le permite evolucionar en botella.</p>",
+    "en": "<p>Berola is one of the most ambitious wines from Bodegas Borsao, positioned above the house's entry-level Garnachas such as Borsao Selección. It is made from grapes from the highest vineyards in the area, on the slopes rising towards the <strong>Moncayo</strong>, the mountain that dominates Campo de Borja.</p><p>Its base is <strong>Garnacha</strong>, often from old bush vines, joined by a share of <strong>Syrah</strong>; the proportions vary with the vintage. In these high areas, with poor, stony soils and heavily exposed to the <strong>cierzo</strong>, the cold, dry north-westerly wind, ripening is slower than on the plain, which encourages fresher fruit and good acidity. After fermentation the wine is aged for a little over a year in oak barrels. The result is a concentrated, spicy red with the ripe fruit typical of Aragonese Garnacha and a structure that allows it to develop in bottle.</p>",
+    "fr": "<p>Berola est l'un des vins les plus ambitieux de Bodegas Borsao, situé au-dessus des grenaches d'entrée de gamme de la maison comme Borsao Selección. Il est élaboré avec des raisins des vignes les plus hautes de la région, sur les pentes qui montent vers le <strong>Moncayo</strong>, la montagne qui domine le Campo de Borja.</p><p>Sa base est le <strong>grenache</strong>, souvent de vieux ceps en gobelet, auquel s'ajoute une part de <strong>syrah</strong> ; les proportions varient selon le millésime. Dans ces zones élevées, aux sols pauvres et caillouteux et très exposées au <strong>cierzo</strong>, le vent froid et sec du nord-ouest, la maturation est plus lente que dans la plaine, ce qui favorise un fruit plus frais et une bonne acidité. Après la fermentation, le vin est élevé un peu plus d'un an en barriques de chêne. Le résultat est un rouge concentré et épicé, au fruit mûr propre au grenache aragonais, doté d'une structure qui lui permet d'évoluer en bouteille.</p>",
+    "it": "<p>Berola è uno dei vini più ambiziosi di Bodegas Borsao, posizionato al di sopra delle Garnacha d'ingresso della casa come Borsao Selección. È prodotto con uve dei vigneti più alti della zona, sui pendii che salgono verso il <strong>Moncayo</strong>, la montagna che domina il Campo de Borja.</p><p>La sua base è la <strong>Garnacha</strong>, spesso di vecchie viti ad alberello, a cui si aggiunge una parte di <strong>Syrah</strong>; le proporzioni variano secondo l'annata. In queste zone alte, dai suoli poveri e sassosi e molto esposte al <strong>cierzo</strong>, il vento freddo e secco di nord-ovest, la maturazione è più lenta che in pianura, il che favorisce un frutto più fresco e una buona acidità. Dopo la fermentazione il vino affina per poco più di un anno in barrique di rovere. Il risultato è un rosso concentrato e speziato, con il frutto maturo tipico della Garnacha aragonese e una struttura che gli consente di evolvere in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de fruta negra y roja madura, regaliz, especias y notas tostadas. En boca es carnoso y potente, con tanino maduro.",
+    "en": "Intense cherry red. Aromas of ripe black and red fruit, liquorice, spice and toasty notes. Fleshy and powerful on the palate, with ripe tannins.",
+    "fr": "Rouge cerise intense. Arômes de fruits noirs et rouges mûrs, de réglisse, d'épices et notes grillées. En bouche, charnu et puissant, aux tanins mûrs.",
+    "it": "Rosso ciliegia intenso. Aromi di frutta nera e rossa matura, liquirizia, spezie e note tostate. In bocca è carnoso e potente, con tannino maturo."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes a la brasa, embutidos, migas, quesos curados",
+    "en": "Roast lamb, grilled meats, charcuterie, migas, aged cheeses",
+    "fr": "Agneau rôti, viandes grillées, charcuterie, migas, fromages affinés",
+    "it": "Agnello arrosto, carni alla brace, salumi, migas, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, grand verre",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Borsao Berola Campo de Borja"
+}

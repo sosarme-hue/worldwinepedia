@@ -1,0 +1,51 @@
+{
+  "slug": "vina-real-crianza",
+  "name": "Viña Real Crianza",
+  "winery": "cvne",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Crianza",
+    "en": "Crianza",
+    "fr": "Crianza",
+    "it": "Crianza"
+  },
+  "grapes": [
+    "tempranillo",
+    "garnacha",
+    "carinena",
+    "graciano"
+  ],
+  "summary": {
+    "es": "Crianza de CVNE bajo la marca Viña Real, asociada a la Rioja Alavesa y elaborada en la bodega de Laguardia, con Tempranillo como variedad principal.",
+    "en": "Crianza from CVNE under the Viña Real brand, associated with Rioja Alavesa and made at the Laguardia winery, with Tempranillo as the main variety.",
+    "fr": "Crianza de CVNE sous la marque Viña Real, associée à la Rioja Alavesa et élaborée dans la bodega de Laguardia, avec le tempranillo comme cépage principal.",
+    "it": "Crianza di CVNE con il marchio Viña Real, legato alla Rioja Alavesa e prodotto nella cantina di Laguardia, con il Tempranillo come varietà principale."
+  },
+  "body": {
+    "es": "<p>Viña Real es una de las marcas históricas de la Compañía Vinícola del Norte de España (CVNE), la bodega fundada en 1879 en Haro. Desde sus orígenes se ha asociado a la uva de la Rioja Alavesa, y a comienzos del siglo XXI la empresa construyó en Laguardia una bodega propia para esta marca, un edificio circular semienterrado en un cerro, rodeado de viñedo.</p><p>El Crianza se elabora principalmente con Tempranillo, acompañado de pequeñas proporciones de Garnacha, Mazuelo (Cariñena) y Graciano, cuyas cantidades varían según la añada. La uva procede de viñedos de la Rioja Alavesa, al pie de la Sierra de Cantabria, sobre suelos arcillo-calcáreos. El vino se cría en barrica de roble durante al menos un año, como exige la categoría Crianza, y reposa después en botella.</p><p>El resultado es un rioja de fruta madura, cuerpo medio y crianza bien integrada, con la redondez característica de los vinos alaveses, pensado para disfrutarse en sus primeros años.</p>",
+    "en": "<p>Viña Real is one of the historic brands of the Compañía Vinícola del Norte de España (CVNE), the winery founded in 1879 in Haro. From its origins it has been associated with grapes from Rioja Alavesa, and at the beginning of the twenty-first century the company built a dedicated winery for the brand in Laguardia, a circular, partly buried building on a hill surrounded by vineyards.</p><p>The Crianza is made mainly from Tempranillo, with small proportions of Garnacha, Mazuelo (Carignan) and Graciano, whose amounts vary with the vintage. The grapes come from vineyards in Rioja Alavesa, at the foot of the Sierra de Cantabria, on clay-limestone soils. The wine is aged in oak barrels for at least a year, as the Crianza category requires, and then rests in bottle.</p><p>The result is a Rioja with ripe fruit, medium body and well-integrated oak, with the roundness characteristic of Álava wines, designed to be enjoyed in its first years.</p>",
+    "fr": "<p>Viña Real est l’une des marques historiques de la Compañía Vinícola del Norte de España (CVNE), la bodega fondée en 1879 à Haro. Dès ses origines, elle a été associée au raisin de la Rioja Alavesa et, au début du XXIe siècle, l’entreprise a construit à Laguardia une bodega dédiée à cette marque, un bâtiment circulaire à demi enterré dans une colline, entouré de vignes.</p><p>Le Crianza est élaboré principalement avec du tempranillo, accompagné de petites proportions de grenache, de mazuelo (carignan) et de graciano, dont les quantités varient selon le millésime. Le raisin provient de vignes de la Rioja Alavesa, au pied de la Sierra de Cantabria, sur des sols argilo-calcaires. Le vin est élevé en barrique de chêne pendant au moins un an, comme l’exige la catégorie Crianza, puis repose en bouteille.</p><p>Il en résulte un rioja au fruit mûr, de corps moyen et à l’élevage bien intégré, avec la rondeur caractéristique des vins alavais, conçu pour être apprécié dans ses premières années.</p>",
+    "it": "<p>Viña Real è uno dei marchi storici della Compañía Vinícola del Norte de España (CVNE), la cantina fondata nel 1879 a Haro. Fin dalle origini è stato associato alle uve della Rioja Alavesa e all’inizio del XXI secolo l’azienda ha costruito a Laguardia una cantina dedicata a questo marchio, un edificio circolare semi-interrato su una collina, circondato da vigneti.</p><p>Il Crianza è prodotto principalmente con Tempranillo, accompagnato da piccole percentuali di Garnacha, Mazuelo (Carignano) e Graciano, le cui quantità variano secondo l’annata. Le uve provengono da vigneti della Rioja Alavesa, ai piedi della Sierra de Cantabria, su suoli argilloso-calcarei. Il vino affina in barrique di rovere per almeno un anno, come richiede la categoria Crianza, e riposa poi in bottiglia.</p><p>Il risultato è un Rioja dal frutto maturo, di medio corpo e dall’affinamento ben integrato, con la rotondità caratteristica dei vini alavesi, pensato per essere gustato nei primi anni.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota de capa media. Aromas de fruta roja madura con notas de vainilla, coco y especias. En boca es suave y equilibrado, de taninos amables y final afrutado.",
+    "en": "Medium-intensity deep cherry red. Aromas of ripe red fruit with notes of vanilla, coconut and spice. Smooth and balanced on the palate, with gentle tannins and a fruity finish.",
+    "fr": "Rouge cerise burlat de moyenne intensité. Arômes de fruits rouges mûrs avec des notes de vanille, de noix de coco et d’épices. Souple et équilibré en bouche, aux tanins aimables et à la finale fruitée.",
+    "it": "Rosso ciliegia di media intensità. Aromi di frutta rossa matura con note di vaniglia, cocco e spezie. In bocca è morbido ed equilibrato, con tannini gentili e finale fruttato."
+  },
+  "pairing": {
+    "es": "Tapas, embutidos, carnes a la plancha, arroces de carne, pasta",
+    "en": "Tapas, charcuterie, grilled meat, meat rice dishes, pasta",
+    "fr": "Tapas, charcuterie, viandes à la plancha, riz à la viande, pâtes",
+    "it": "Tapas, salumi, carni alla piastra, risi con carne, pasta"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Viña Real Crianza CVNE Rioja"
+}

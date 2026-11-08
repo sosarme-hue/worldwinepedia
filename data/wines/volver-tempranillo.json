@@ -1,0 +1,43 @@
+{
+  "slug": "volver-tempranillo",
+  "name": "Volver",
+  "winery": "bodegas-volver",
+  "region": "la-mancha",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Tempranillo de viñas viejas de La Mancha elaborado por Bodegas Volver, con crianza en barrica.",
+    "en": "Old-vine Tempranillo from La Mancha made by Bodegas Volver, aged in barrel.",
+    "fr": "Tempranillo de vieilles vignes de la Manche élaboré par Bodegas Volver, élevé en barrique.",
+    "it": "Tempranillo di vecchie vigne della Mancia prodotto da Bodegas Volver, affinato in barrique."
+  },
+  "body": {
+    "es": "<p>Volver es el vino que da nombre a la bodega y una de las referencias de una nueva generación de tintos de <strong>La Mancha</strong> elaborados a partir de viñas viejas. Su objetivo es mostrar que la mayor región vitícola de España, asociada durante mucho tiempo al vino a granel, puede dar tintos de concentración y carácter.</p><p>Se elabora con <strong>tempranillo</strong>, que en La Mancha recibe el nombre de cencibel, procedente de viñedos viejos cultivados en vaso y en secano. El clima continental extremo de la meseta manchega, con veranos muy calurosos y secos, inviernos fríos y suelos calizos, da uvas de piel gruesa y maduración completa. Los rendimientos de estas viñas viejas son bajos, lo que concentra el color y la fruta. Tras la fermentación, el vino se cría durante algo más de un año en barricas de roble. El resultado es un tinto de fruta negra madura, notas especiadas y tostadas y cuerpo amplio, a un precio contenido para su perfil.</p>",
+    "en": "<p>Volver is the wine that gives the winery its name and one of the benchmarks of a new generation of <strong>La Mancha</strong> reds made from old vines. Its aim is to show that Spain's largest wine region, long associated with bulk wine, can produce reds of concentration and character.</p><p>It is made from <strong>Tempranillo</strong>, known in La Mancha as Cencibel, from old dry-farmed bush vines. The extreme continental climate of the La Mancha plateau, with very hot, dry summers, cold winters and calcareous soils, gives thick-skinned, fully ripe grapes. The yields of these old vines are low, which concentrates colour and fruit. After fermentation the wine is aged for a little over a year in oak barrels. The result is a red with ripe black fruit, spicy and toasty notes and a full body, at a modest price for its profile.</p>",
+    "fr": "<p>Volver est le vin qui donne son nom au domaine et l'une des références d'une nouvelle génération de rouges de la <strong>Manche</strong> élaborés à partir de vieilles vignes. Son objectif est de montrer que la plus grande région viticole d'Espagne, longtemps associée au vin en vrac, peut donner des rouges de concentration et de caractère.</p><p>Il est élaboré avec du <strong>tempranillo</strong>, appelé cencibel dans la Manche, issu de vieilles vignes conduites en gobelet et sans irrigation. Le climat continental extrême du plateau manchego, aux étés très chauds et secs, aux hivers froids et aux sols calcaires, donne des raisins à peau épaisse et à maturité complète. Les rendements de ces vieilles vignes sont faibles, ce qui concentre la couleur et le fruit. Après la fermentation, le vin est élevé un peu plus d'un an en barriques de chêne. Le résultat est un rouge au fruit noir mûr, aux notes épicées et grillées et au corps ample, à un prix modéré pour son profil.</p>",
+    "it": "<p>Volver è il vino che dà il nome alla cantina e uno dei riferimenti di una nuova generazione di rossi della <strong>Mancia</strong> prodotti da vecchie vigne. Il suo obiettivo è dimostrare che la più grande regione viticola spagnola, a lungo associata al vino sfuso, può dare rossi di concentrazione e carattere.</p><p>È prodotto con <strong>Tempranillo</strong>, che nella Mancia prende il nome di Cencibel, proveniente da vecchie viti ad alberello e non irrigue. Il clima continentale estremo dell'altopiano mancego, con estati molto calde e secche, inverni freddi e suoli calcarei, dà uve dalla buccia spessa e a maturazione completa. Le rese di queste vecchie vigne sono basse, il che concentra colore e frutto. Dopo la fermentazione il vino affina per poco più di un anno in barrique di rovere. Il risultato è un rosso di frutta nera matura, note speziate e tostate e corpo ampio, a un prezzo contenuto per il suo profilo.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de mora, ciruela madura, regaliz, especias y tostados. En boca es amplio y carnoso, con tanino maduro.",
+    "en": "Intense cherry red. Aromas of blackberry, ripe plum, liquorice, spice and toast. Broad and fleshy on the palate, with ripe tannins.",
+    "fr": "Rouge cerise intense. Arômes de mûre, de prune mûre, de réglisse, d'épices et de grillé. En bouche, ample et charnu, aux tanins mûrs.",
+    "it": "Rosso ciliegia intenso. Aromi di mora, prugna matura, liquirizia, spezie e tostature. In bocca è ampio e carnoso, con tannino maturo."
+  },
+  "pairing": {
+    "es": "Carnes a la brasa, cordero, queso manchego curado, guisos de caza",
+    "en": "Grilled meats, lamb, aged Manchego cheese, game stews",
+    "fr": "Viandes grillées, agneau, manchego affiné, civets de gibier",
+    "it": "Carni alla brace, agnello, manchego stagionato, stufati di selvaggina"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, grand verre",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Volver Tempranillo La Mancha Bodegas Volver"
+}

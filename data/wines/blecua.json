@@ -1,0 +1,46 @@
+{
+  "slug": "blecua",
+  "name": "Blecua",
+  "winery": "vinas-del-vero",
+  "region": "somontano",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "tempranillo",
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Tinto de alta gama de Viñas del Vero, elaborado en una bodega propia dentro de la finca con una selección de las mejores parcelas del Somontano.",
+    "en": "Top red from Viñas del Vero, made in a dedicated winery on the estate from a selection of the best Somontano plots.",
+    "fr": "Rouge haut de gamme de Viñas del Vero, élaboré dans une cave dédiée au sein du domaine à partir d'une sélection des meilleures parcelles du Somontano.",
+    "it": "Rosso di alta gamma di Viñas del Vero, prodotto in una cantina dedicata all'interno della tenuta con una selezione delle migliori parcelle del Somontano."
+  },
+  "body": {
+    "es": "<p>Blecua es el vino más ambicioso de Viñas del Vero y uno de los tintos de referencia del <strong>Somontano</strong>. Se elabora en una pequeña bodega independiente, construida dentro de la finca, que lleva el mismo nombre y funciona como un proyecto separado del resto de la producción.</p><p>Es un ensamblaje de variedades que se adaptan bien a la comarca: <strong>cabernet sauvignon</strong>, <strong>merlot</strong>, <strong>tempranillo</strong> y <strong>garnacha</strong>, a veces con otras como la syrah. Las proporciones cambian según la añada, en función de cómo se haya comportado cada variedad. Las uvas proceden de una selección de las mejores parcelas de la bodega, se vendimian a mano y se vinifican por separado. El vino se cría durante un periodo prolongado en barricas de roble francés y reposa después en botella antes de salir al mercado. Solo se elabora en las añadas que la bodega considera adecuadas. Es un tinto de estructura y complejidad, pensado para la guarda.</p>",
+    "en": "<p>Blecua is Viñas del Vero's most ambitious wine and one of the benchmark reds of <strong>Somontano</strong>. It is made in a small independent winery built on the estate, which bears the same name and operates as a project separate from the rest of production.</p><p>It is a blend of varieties well suited to the area: <strong>Cabernet Sauvignon</strong>, <strong>Merlot</strong>, <strong>Tempranillo</strong> and <strong>Garnacha</strong>, sometimes with others such as Syrah. The proportions change with the vintage, depending on how each variety has performed. The grapes come from a selection of the winery's best plots, are picked by hand and vinified separately. The wine is aged for an extended period in French oak barrels and then rests in bottle before release. It is made only in vintages the winery considers suitable. It is a structured, complex red intended for ageing.</p>",
+    "fr": "<p>Blecua est le vin le plus ambitieux de Viñas del Vero et l'un des rouges de référence du <strong>Somontano</strong>. Il est élaboré dans une petite cave indépendante, construite au sein du domaine, qui porte le même nom et fonctionne comme un projet distinct du reste de la production.</p><p>C'est un assemblage de cépages bien adaptés à la région : <strong>cabernet sauvignon</strong>, <strong>merlot</strong>, <strong>tempranillo</strong> et <strong>grenache</strong>, parfois avec d'autres comme la syrah. Les proportions changent selon le millésime, en fonction du comportement de chaque cépage. Les raisins proviennent d'une sélection des meilleures parcelles du domaine, sont vendangés à la main et vinifiés séparément. Le vin est élevé pendant une longue période en barriques de chêne français, puis repose en bouteille avant sa commercialisation. Il n'est produit que les années que le domaine juge favorables. C'est un rouge structuré et complexe, conçu pour la garde.</p>",
+    "it": "<p>Blecua è il vino più ambizioso di Viñas del Vero e uno dei rossi di riferimento del <strong>Somontano</strong>. È prodotto in una piccola cantina indipendente, costruita all'interno della tenuta, che porta lo stesso nome e funziona come un progetto separato dal resto della produzione.</p><p>È un uvaggio di varietà ben adattate alla zona: <strong>Cabernet Sauvignon</strong>, <strong>Merlot</strong>, <strong>Tempranillo</strong> e <strong>Garnacha</strong>, talvolta con altre come la Syrah. Le proporzioni cambiano secondo l'annata, in base al comportamento di ciascuna varietà. Le uve provengono da una selezione delle migliori parcelle della cantina, sono vendemmiate a mano e vinificate separatamente. Il vino affina a lungo in barrique di rovere francese e riposa poi in bottiglia prima di essere messo in commercio. Viene prodotto solo nelle annate che la cantina ritiene adatte. È un rosso strutturato e complesso, pensato per l'invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota profundo. Aromas de fruta negra madura, cedro, especias, tabaco y notas balsámicas. En boca es amplio y estructurado, con tanino pulido y final largo.",
+    "en": "Deep cherry red. Aromas of ripe black fruit, cedar, spice, tobacco and balsamic notes. Broad and structured on the palate, with polished tannins and a long finish.",
+    "fr": "Rouge cerise profond. Arômes de fruits noirs mûrs, de cèdre, d'épices, de tabac et notes balsamiques. En bouche, ample et structuré, aux tanins polis et à la longue finale.",
+    "it": "Rosso ciliegia profondo. Aromi di frutta nera matura, cedro, spezie, tabacco e note balsamiche. In bocca è ampio e strutturato, con tannino levigato e finale lungo."
+  },
+  "pairing": {
+    "es": "Ternasco asado, caza, carnes rojas, quesos curados",
+    "en": "Roast young lamb, game, red meats, aged cheeses",
+    "fr": "Agneau rôti, gibier, viandes rouges, fromages affinés",
+    "it": "Agnello arrosto, selvaggina, carni rosse, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, grand verre",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Blecua Viñas del Vero Somontano"
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "raventos-i-blanc-de-nit",
+  "name": "Raventós i Blanc De Nit",
+  "winery": "raventos-i-blanc",
+  "region": "penedes",
+  "country": "espana",
+  "type": "espumoso",
+  "category": {
+    "es": "Rosado Brut",
+    "en": "Rosé Brut",
+    "fr": "Rosé Brut",
+    "it": "Rosato Brut"
+  },
+  "grapes": [
+    "macabeo",
+    "xarel-lo",
+    "parellada",
+    "monastrell"
+  ],
+  "summary": {
+    "es": "Espumoso rosado de Raventós i Blanc, de color pálido, que combina las variedades blancas tradicionales con una pequeña parte de monastrell.",
+    "en": "Pale rosé sparkling wine from Raventós i Blanc, combining the traditional white varieties with a small proportion of Monastrell.",
+    "fr": "Effervescent rosé pâle de Raventós i Blanc, qui associe les cépages blancs traditionnels à une petite part de monastrell.",
+    "it": "Spumante rosato pallido di Raventós i Blanc, che unisce le varietà bianche tradizionali a una piccola parte di Monastrell."
+  },
+  "body": {
+    "es": "<p>De Nit, «de noche» en catalán, es el espumoso rosado de Raventós i Blanc y uno de sus vinos más populares. Como el resto de la gama, se etiqueta como <strong>Conca del Riu Anoia</strong>, la denominación geográfica que la bodega adoptó tras salir de la D.O. Cava.</p><p>Su particularidad está en la composición: a las variedades blancas autóctonas —<strong>macabeo</strong>, <strong>xarel·lo</strong> y <strong>parellada</strong>— se suma una pequeña proporción de <strong>monastrell</strong>, la uva tinta mediterránea, que aporta el color y un matiz de fruta roja. Las proporciones varían según la añada. Las uvas son de cultivo ecológico y se vendimian a mano. El vino se elabora por el método tradicional, con segunda fermentación en botella y una crianza sobre lías más larga que el mínimo exigido al cava. El resultado es un rosado de tono muy pálido, seco y delicado, alejado de los rosados de color intenso y fruta dulce.</p>",
+    "en": "<p>De Nit, meaning “by night” in Catalan, is the rosé sparkling wine of Raventós i Blanc and one of its most popular wines. Like the rest of the range, it is labelled <strong>Conca del Riu Anoia</strong>, the geographical designation the winery adopted after leaving the Cava D.O.</p><p>Its distinctive feature lies in its make-up: the native white varieties —<strong>Macabeo</strong>, <strong>Xarel·lo</strong> and <strong>Parellada</strong>— are joined by a small proportion of <strong>Monastrell</strong>, the Mediterranean red grape, which provides the colour and a hint of red fruit. The proportions vary with the vintage. The grapes are organically grown and picked by hand. The wine is made by the traditional method, with a second fermentation in bottle and ageing on the lees longer than the minimum required of Cava. The result is a very pale, dry and delicate rosé, far removed from deeply coloured, sweetly fruity rosés.</p>",
+    "fr": "<p>De Nit, « de nuit » en catalan, est l'effervescent rosé de Raventós i Blanc et l'un de ses vins les plus populaires. Comme le reste de la gamme, il est étiqueté <strong>Conca del Riu Anoia</strong>, l'appellation géographique adoptée par le domaine après sa sortie de la D.O. Cava.</p><p>Sa particularité tient à sa composition : aux cépages blancs autochtones —<strong>macabeo</strong>, <strong>xarel·lo</strong> et <strong>parellada</strong>— s'ajoute une petite proportion de <strong>monastrell</strong> (mourvèdre), le raisin rouge méditerranéen, qui apporte la couleur et une nuance de fruits rouges. Les proportions varient selon le millésime. Les raisins sont issus de l'agriculture biologique et vendangés à la main. Le vin est élaboré selon la méthode traditionnelle, avec seconde fermentation en bouteille et un vieillissement sur lies plus long que le minimum exigé pour le cava. Le résultat est un rosé de teinte très pâle, sec et délicat, loin des rosés à la couleur soutenue et au fruit sucré.</p>",
+    "it": "<p>De Nit, «di notte» in catalano, è lo spumante rosato di Raventós i Blanc e uno dei suoi vini più popolari. Come il resto della gamma, è etichettato <strong>Conca del Riu Anoia</strong>, la denominazione geografica adottata dalla cantina dopo l'uscita dalla D.O. Cava.</p><p>La sua particolarità sta nella composizione: alle varietà bianche autoctone —<strong>Macabeo</strong>, <strong>Xarel·lo</strong> e <strong>Parellada</strong>— si aggiunge una piccola proporzione di <strong>Monastrell</strong>, l'uva rossa mediterranea, che apporta il colore e una sfumatura di frutti rossi. Le proporzioni variano secondo l'annata. Le uve provengono da agricoltura biologica e sono vendemmiate a mano. Il vino è prodotto con il metodo classico, con seconda fermentazione in bottiglia e un affinamento sui lieviti più lungo del minimo richiesto per il Cava. Il risultato è un rosato dal colore molto tenue, secco e delicato, lontano dai rosati di colore intenso e frutto dolce.</p>"
+  },
+  "tasting": {
+    "es": "Rosa muy pálido, con burbuja fina. Aromas de fresa silvestre, piel de cítricos y flores blancas. En boca es seco, fresco y delicado, con final ligeramente salino.",
+    "en": "Very pale pink with fine bubbles. Aromas of wild strawberry, citrus peel and white flowers. Dry, fresh and delicate on the palate, with a slightly saline finish.",
+    "fr": "Rose très pâle à la bulle fine. Arômes de fraise des bois, de zeste d'agrumes et de fleurs blanches. En bouche, sec, frais et délicat, avec une finale légèrement saline.",
+    "it": "Rosa molto tenue, con perlage fine. Aromi di fragolina di bosco, scorza di agrumi e fiori bianchi. In bocca è secco, fresco e delicato, con finale leggermente sapido."
+  },
+  "pairing": {
+    "es": "Aperitivo, embutidos, atún, salmón, cocina japonesa",
+    "en": "Aperitifs, charcuterie, tuna, salmon, Japanese cuisine",
+    "fr": "Apéritif, charcuterie, thon, saumon, cuisine japonaise",
+    "it": "Aperitivo, salumi, tonno, salmone, cucina giapponese"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de vino blanco o flauta",
+    "en": "6-8 °C, white wine glass or flute",
+    "fr": "6-8 °C, verre à vin blanc ou flûte",
+    "it": "6-8 °C, calice da bianco o flûte"
+  },
+  "search": "Raventós i Blanc De Nit Rosé"
+}

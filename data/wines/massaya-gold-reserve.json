@@ -1,0 +1,45 @@
+{
+  "slug": "massaya-gold-reserve",
+  "name": "Massaya Gold Reserve",
+  "winery": "massaya",
+  "region": "valle-de-la-bekaa",
+  "country": "libano",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon",
+    "monastrell",
+    "syrah"
+  ],
+  "summary": {
+    "es": "Tinto de mayor ambición de Massaya, en la Bekaa, una mezcla de Cabernet Sauvignon, Mourvèdre y Syrah criada en barrica.",
+    "en": "Massaya's most ambitious red from the Bekaa, a barrel-aged blend of Cabernet Sauvignon, Mourvèdre and Syrah.",
+    "fr": "Rouge le plus ambitieux de Massaya, dans la Bekaa, un assemblage de cabernet-sauvignon, de mourvèdre et de syrah élevé en fût.",
+    "it": "Rosso più ambizioso di Massaya, nella Bekaa, un blend di Cabernet Sauvignon, Mourvèdre e Syrah affinato in barrique."
+  },
+  "body": {
+    "es": "<p>El <strong>Gold Reserve</strong> es el tinto con el que Massaya, la bodega fundada en 1998 por los hermanos Ramzi y Sami Ghosn en Tanaïl, en la <strong>Bekaa</strong>, muestra su máxima ambición. Su concepción refleja la influencia de los socios franceses que acompañaron a la bodega en sus comienzos, procedentes de Burdeos y del sur del Ródano.</p><p>La mezcla combina <strong>Cabernet Sauvignon</strong>, que aporta estructura y notas de cassis, con <strong>Mourvèdre</strong> y <strong>Syrah</strong>, que añaden carnosidad, especias y profundidad; las proporciones varían según la añada. Las uvas proceden de viñedos de altitud de la Bekaa, con veranos secos y noches frescas. El vino se cría en barricas de roble francés durante un periodo prolongado antes de su embotellado. El resultado es un tinto denso y especiado, con fruta negra madura y taninos firmes, pensado para mejorar durante varios años en botella.</p>",
+    "en": "<p><strong>Gold Reserve</strong> is the red with which Massaya, the winery founded in 1998 by the brothers Ramzi and Sami Ghosn at Tanaïl in the <strong>Bekaa</strong>, shows its highest ambition. Its conception reflects the influence of the French partners who accompanied the winery in its early days, from Bordeaux and the southern Rhône.</p><p>The blend combines <strong>Cabernet Sauvignon</strong>, which brings structure and cassis notes, with <strong>Mourvèdre</strong> and <strong>Syrah</strong>, which add flesh, spice and depth; the proportions vary with the vintage. The grapes come from high-altitude Bekaa vineyards with dry summers and cool nights. The wine is aged for an extended period in French oak barrels before bottling. The result is a dense, spicy red with ripe black fruit and firm tannins, intended to improve for several years in bottle.</p>",
+    "fr": "<p>Le <strong>Gold Reserve</strong> est le rouge par lequel Massaya, le domaine fondé en 1998 par les frères Ramzi et Sami Ghosn à Tanaïl, dans la <strong>Bekaa</strong>, exprime sa plus haute ambition. Sa conception reflète l'influence des partenaires français qui ont accompagné le domaine à ses débuts, venus de Bordeaux et du Rhône méridional.</p><p>L'assemblage associe le <strong>cabernet-sauvignon</strong>, qui apporte structure et notes de cassis, au <strong>mourvèdre</strong> et à la <strong>syrah</strong>, qui ajoutent chair, épices et profondeur ; les proportions varient selon le millésime. Les raisins proviennent de vignes d'altitude de la Bekaa, aux étés secs et aux nuits fraîches. Le vin est élevé longuement en barriques de chêne français avant sa mise en bouteille. Le résultat est un rouge dense et épicé, au fruit noir mûr et aux tanins fermes, conçu pour se bonifier plusieurs années en bouteille.</p>",
+    "it": "<p>Il <strong>Gold Reserve</strong> è il rosso con cui Massaya, la cantina fondata nel 1998 dai fratelli Ramzi e Sami Ghosn a Tanaïl, nella <strong>Bekaa</strong>, esprime la sua massima ambizione. La sua concezione riflette l'influenza dei soci francesi che accompagnarono la cantina agli inizi, provenienti da Bordeaux e dal Rodano meridionale.</p><p>Il blend unisce il <strong>Cabernet Sauvignon</strong>, che apporta struttura e note di cassis, al <strong>Mourvèdre</strong> e al <strong>Syrah</strong>, che aggiungono polpa, spezie e profondità; le proporzioni variano a seconda dell'annata. Le uve provengono da vigneti d'altura della Bekaa, con estati secche e notti fresche. Il vino affina a lungo in barrique di rovere francese prima dell'imbottigliamento. Il risultato è un rosso denso e speziato, con frutto nero maturo e tannini decisi, pensato per migliorare per diversi anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Aromas de mora, cassis y ciruela madura, con notas de especias orientales, cuero y chocolate. Boca densa y estructurada, con taninos firmes y final largo.",
+    "en": "Aromas of blackberry, cassis and ripe plum, with notes of oriental spice, leather and chocolate. Dense and structured, with firm tannins and a long finish.",
+    "fr": "Arômes de mûre, de cassis et de prune mûre, avec des notes d'épices orientales, de cuir et de chocolat. Bouche dense et structurée, aux tanins fermes et à la finale longue.",
+    "it": "Profumi di mora, cassis e prugna matura, con note di spezie orientali, cuoio e cioccolato. Bocca densa e strutturata, con tannini decisi e finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado con especias, carnes de caza, estofados, quesos curados",
+    "en": "Spiced roast lamb, game, stews, aged cheeses",
+    "fr": "Agneau rôti aux épices, gibier, ragoûts, fromages affinés",
+    "it": "Agnello arrosto speziato, selvaggina, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Massaya Gold Reserve Bekaa"
+}

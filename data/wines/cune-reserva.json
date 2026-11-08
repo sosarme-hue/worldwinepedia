@@ -1,0 +1,51 @@
+{
+  "slug": "cune-reserva",
+  "name": "Cune Reserva",
+  "winery": "cvne",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [
+    "tempranillo",
+    "garnacha",
+    "carinena",
+    "graciano"
+  ],
+  "summary": {
+    "es": "Reserva clásico de CVNE, en Haro, elaborado con Tempranillo y pequeñas proporciones de otras variedades riojanas y envejecido al menos tres años.",
+    "en": "Classic Reserva from CVNE in Haro, made from Tempranillo with small proportions of other Rioja varieties and aged for at least three years.",
+    "fr": "Reserva classique de CVNE, à Haro, élaboré avec du tempranillo et de petites proportions d’autres cépages de la Rioja, et vieilli au moins trois ans.",
+    "it": "Reserva classico di CVNE, a Haro, prodotto con Tempranillo e piccole percentuali di altre varietà riojane, e invecchiato almeno tre anni."
+  },
+  "body": {
+    "es": "<p>Cune Reserva forma parte de la gama con la que la Compañía Vinícola del Norte de España, fundada en 1879 en el Barrio de la Estación de Haro, comercializa sus vinos bajo la marca Cune, nacida de una lectura popular de las siglas de la empresa. Es un rioja de estilo clásico, que sigue la línea tradicional de la casa.</p><p>Se elabora principalmente con Tempranillo, completado con pequeñas proporciones de Garnacha, Mazuelo (Cariñena) y Graciano, en cantidades que varían según la añada. La uva procede sobre todo de viñedos de la Rioja Alta. Conforme a la normativa de la Denominación de Origen Calificada Rioja para los reservas, el vino envejece al menos tres años, con un mínimo de uno en barrica de roble, y completa el periodo en botella en las instalaciones de Haro.</p><p>El resultado es un tinto de fruta roja madura, notas especiadas y de vainilla y una acidez fresca, propia de la Rioja Alta, que le permite evolucionar varios años en botella.</p>",
+    "en": "<p>Cune Reserva is part of the range with which the Compañía Vinícola del Norte de España, founded in 1879 in Haro’s Station District, sells its wines under the Cune brand, which arose from a popular reading of the company’s initials. It is a classic-style Rioja, following the house’s traditional line.</p><p>It is made mainly from Tempranillo, completed by small proportions of Garnacha, Mazuelo (Carignan) and Graciano, in amounts that vary with the vintage. The grapes come mainly from vineyards in Rioja Alta. In accordance with the rules of the Rioja Denominación de Origen Calificada for Reservas, the wine ages for at least three years, with a minimum of one in oak barrels, and completes the period in bottle at the Haro premises.</p><p>The result is a red with ripe red fruit, spicy and vanilla notes and the fresh acidity typical of Rioja Alta, which allows it to develop for several years in bottle.</p>",
+    "fr": "<p>Cune Reserva fait partie de la gamme avec laquelle la Compañía Vinícola del Norte de España, fondée en 1879 dans le Quartier de la Gare de Haro, commercialise ses vins sous la marque Cune, née d’une lecture populaire du sigle de l’entreprise. C’est un rioja de style classique, dans la lignée traditionnelle de la maison.</p><p>Il est élaboré principalement avec du tempranillo, complété par de petites proportions de grenache, de mazuelo (carignan) et de graciano, en quantités qui varient selon le millésime. Le raisin provient surtout de vignes de la Rioja Alta. Conformément à la réglementation de la Denominación de Origen Calificada Rioja pour les Reserva, le vin vieillit au moins trois ans, dont un an minimum en barrique de chêne, et achève cette période en bouteille dans les installations de Haro.</p><p>Il en résulte un rouge aux fruits rouges mûrs, aux notes épicées et vanillées et à l’acidité fraîche propre à la Rioja Alta, qui lui permet d’évoluer plusieurs années en bouteille.</p>",
+    "it": "<p>Cune Reserva fa parte della gamma con cui la Compañía Vinícola del Norte de España, fondata nel 1879 nel Quartiere della Stazione di Haro, commercializza i suoi vini con il marchio Cune, nato da una lettura popolare della sigla dell’azienda. È un Rioja di stile classico, nel solco della linea tradizionale della casa.</p><p>È prodotto principalmente con Tempranillo, completato da piccole percentuali di Garnacha, Mazuelo (Carignano) e Graciano, in quantità che variano secondo l’annata. Le uve provengono soprattutto da vigneti della Rioja Alta. Secondo la normativa della Denominación de Origen Calificada Rioja per i Reserva, il vino invecchia almeno tre anni, di cui almeno uno in barrique di rovere, e completa il periodo in bottiglia nelle cantine di Haro.</p><p>Il risultato è un rosso con frutto rosso maturo, note speziate e di vaniglia e la fresca acidità tipica della Rioja Alta, che gli permette di evolvere per diversi anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí con ribete teja. Fruta roja y negra madura, especias dulces, cuero suave y notas tostadas. En boca es amplio, de taninos pulidos y final largo.",
+    "en": "Ruby red with a brick rim. Ripe red and black fruit, sweet spice, soft leather and toasty notes. Broad on the palate, with polished tannins and a long finish.",
+    "fr": "Rouge rubis à reflets tuilés. Fruits rouges et noirs mûrs, épices douces, cuir léger et notes toastées. Ample en bouche, aux tanins polis et à la finale longue.",
+    "it": "Rosso rubino con unghia mattone. Frutta rossa e nera matura, spezie dolci, cuoio leggero e note tostate. In bocca è ampio, con tannini levigati e finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, chuletillas a la brasa, embutidos ibéricos, quesos semicurados",
+    "en": "Roast lamb, grilled lamb chops, Iberian cured meats, semi-cured cheeses",
+    "fr": "Agneau rôti, côtelettes grillées, charcuterie ibérique, fromages mi-affinés",
+    "it": "Agnello arrosto, costolette alla brace, salumi iberici, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Cune Reserva Rioja CVNE"
+}

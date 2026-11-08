@@ -1,0 +1,43 @@
+{
+  "slug": "alion",
+  "name": "Alión",
+  "winery": "vega-sicilia",
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Tinto de Tinto Fino elaborado en Bodegas Alión, en Padilla de Duero, la bodega creada a comienzos de los años noventa por el grupo Vega Sicilia, con crianza en roble francés.",
+    "en": "Tinto Fino red made at Bodegas Alión in Padilla de Duero, the winery created in the early 1990s by the Vega Sicilia group, aged in French oak.",
+    "fr": "Rouge de tinto fino élaboré à Bodegas Alión, à Padilla de Duero, la bodega créée au début des années 1990 par le groupe Vega Sicilia, élevé en chêne français.",
+    "it": "Rosso di Tinto Fino prodotto da Bodegas Alión, a Padilla de Duero, la cantina creata all’inizio degli anni Novanta dal gruppo Vega Sicilia, affinato in rovere francese."
+  },
+  "body": {
+    "es": "<p>Alión es el vino de la bodega del mismo nombre que la familia Álvarez, propietaria de Vega Sicilia, puso en marcha a comienzos de los años noventa en Padilla de Duero, cerca de Peñafiel, en el tramo vallisoletano de la Ribera del Duero. El proyecto se concibió como un complemento de Vega Sicilia, con un estilo propio y más moderno que el del Único.</p><p>Se elabora exclusivamente con Tinto Fino, la variante local del Tempranillo, procedente de viñedos propios y de parcelas seleccionadas de la zona. A diferencia de los vinos de Vega Sicilia, que combinan distintos tipos de madera y crianzas muy largas, Alión se cría en barricas de roble francés, en buena parte nuevas, durante un periodo más corto, seguido de un reposo en botella.</p><p>El resultado es un tinto de fruta negra intensa, buena concentración y una estructura firme pero pulida, con las notas tostadas y especiadas del roble francés. Tiene capacidad para evolucionar durante años y se beneficia de la decantación cuando se bebe joven.</p>",
+    "en": "<p>Alión is the wine of the winery of the same name that the Álvarez family, owners of Vega Sicilia, set up in the early 1990s in Padilla de Duero, near Peñafiel, on the Valladolid stretch of Ribera del Duero. The project was conceived as a complement to Vega Sicilia, with a style of its own, more modern than that of Único.</p><p>It is made exclusively from Tinto Fino, the local variant of Tempranillo, from its own vineyards and from selected plots in the area. Unlike the wines of Vega Sicilia, which combine different types of oak and very long ageing, Alión is aged in French oak barrels, largely new, for a shorter period, followed by bottle rest.</p><p>The result is a red with intense black fruit, good concentration and a firm but polished structure, with the toasty, spicy notes of French oak. It is able to develop for years and benefits from decanting when drunk young.</p>",
+    "fr": "<p>Alión est le vin de la bodega du même nom que la famille Álvarez, propriétaire de Vega Sicilia, a créée au début des années 1990 à Padilla de Duero, près de Peñafiel, sur le tronçon de Valladolid de la Ribera del Duero. Le projet fut conçu comme un complément de Vega Sicilia, avec un style propre, plus moderne que celui de l’Único.</p><p>Il est élaboré exclusivement avec du tinto fino, variante locale du tempranillo, provenant de ses propres vignes et de parcelles sélectionnées du secteur. Contrairement aux vins de Vega Sicilia, qui associent différents types de bois et des élevages très longs, Alión est élevé en barriques de chêne français, en grande partie neuves, pendant une période plus courte, suivie d’un repos en bouteille.</p><p>Il en résulte un rouge aux fruits noirs intenses, à la bonne concentration et à la structure ferme mais polie, avec les notes toastées et épicées du chêne français. Il peut évoluer pendant des années et gagne à être carafé lorsqu’on le boit jeune.</p>",
+    "it": "<p>Alión è il vino dell’omonima cantina che la famiglia Álvarez, proprietaria di Vega Sicilia, avviò all’inizio degli anni Novanta a Padilla de Duero, vicino a Peñafiel, nel tratto di Valladolid della Ribera del Duero. Il progetto fu concepito come complemento di Vega Sicilia, con uno stile proprio, più moderno di quello dell’Único.</p><p>È prodotto esclusivamente con Tinto Fino, la variante locale del Tempranillo, proveniente da vigneti propri e da parcelle selezionate della zona. A differenza dei vini di Vega Sicilia, che combinano diversi tipi di legno e affinamenti molto lunghi, Alión affina in barrique di rovere francese, in buona parte nuove, per un periodo più breve, seguito da un riposo in bottiglia.</p><p>Il risultato è un rosso di frutto nero intenso, buona concentrazione e struttura salda ma levigata, con le note tostate e speziate del rovere francese. È in grado di evolvere per anni e beneficia della decantazione quando viene bevuto giovane.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de fruta negra madura, regaliz, especias y tostados de la barrica. En boca es carnoso y estructurado, con taninos firmes y final persistente.",
+    "en": "Intense deep cherry red. Aromas of ripe black fruit, liquorice, spice and toasty oak. Fleshy and structured on the palate, with firm tannins and a persistent finish.",
+    "fr": "Rouge cerise burlat intense. Arômes de fruits noirs mûrs, réglisse, épices et toasté de la barrique. En bouche, il est charnu et structuré, aux tanins fermes et à la finale persistante.",
+    "it": "Rosso ciliegia intenso. Aromi di frutta nera matura, liquirizia, spezie e tostatura della barrique. In bocca è carnoso e strutturato, con tannini decisi e finale persistente."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, lechazo asado, caza mayor, quesos curados de oveja",
+    "en": "Chargrilled red meat, roast milk-fed lamb, large game, aged sheep’s cheeses",
+    "fr": "Viandes rouges à la braise, agneau de lait rôti, gros gibier, fromages de brebis affinés",
+    "it": "Carni rosse alla brace, agnello da latte arrosto, selvaggina di grossa taglia, pecorini stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Alión Vega Sicilia Ribera del Duero"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "lapierre-raisins-gaulois",
+  "name": "Raisins Gaulois",
+  "winery": "marcel-lapierre",
+  "region": "beaujolais",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Vin de France",
+    "en": "Vin de France",
+    "fr": "Vin de France",
+    "it": "Vin de France"
+  },
+  "grapes": [
+    "gamay"
+  ],
+  "summary": {
+    "es": "Tinto ligero y afrutado de Gamay del Domaine Marcel Lapierre, comercializado como Vin de France y pensado para beberse joven y fresco.",
+    "en": "Light, fruity Gamay red from Domaine Marcel Lapierre, sold as Vin de France and designed to be drunk young and slightly chilled.",
+    "fr": "Rouge léger et fruité de gamay du domaine Marcel Lapierre, commercialisé en Vin de France et conçu pour être bu jeune et frais.",
+    "it": "Rosso leggero e fruttato da Gamay del Domaine Marcel Lapierre, commercializzato come Vin de France e pensato per essere bevuto giovane e fresco."
+  },
+  "body": {
+    "es": "<p>Raisins Gaulois es el vino más sencillo y accesible del Domaine Marcel Lapierre. Se elabora con <strong>Gamay</strong> de viñas más jóvenes de la zona de Morgon y alrededores, y se comercializa bajo la categoría Vin de France, sin mención de denominación, lo que da a la familia libertad para elaborarlo con uvas de distintas parcelas.</p><p>La elaboración sigue los principios de la casa: viticultura ecológica, vendimia manual, maceración de racimos enteros con levaduras autóctonas y un uso mínimo del azufre. La crianza es corta, con el fin de embotellar un vino joven, de fruta fresca y muy fácil de beber.</p><p>Su nombre juega con la palabra «gaulois», que alude a los antiguos galos y a cierto carácter popular y festivo. Es un tinto de cuerpo ligero, ideal para servir algo fresco, en el espíritu de los vinos de bistró franceses, y una puerta de entrada al estilo de los vinos naturales del Beaujolais.</p>",
+    "en": "<p>Raisins Gaulois is the simplest and most accessible wine of Domaine Marcel Lapierre. It is made from <strong>Gamay</strong> from younger vines in and around Morgon and is sold under the Vin de France category, without an appellation, which gives the family freedom to make it from grapes from different parcels.</p><p>Winemaking follows the house’s principles: organic farming, hand harvesting, whole-bunch maceration with indigenous yeasts and minimal use of sulphur. Ageing is short, in order to bottle a young wine with fresh fruit that is very easy to drink.</p><p>Its name plays on the word “gaulois”, which alludes to the ancient Gauls and to a certain popular, festive character. It is a light-bodied red, ideal served slightly cool, in the spirit of French bistro wines, and a gateway to the style of Beaujolais natural wines.</p>",
+    "fr": "<p>Raisins Gaulois est le vin le plus simple et le plus accessible du domaine Marcel Lapierre. Il est élaboré à partir de <strong>gamay</strong> issu de vignes plus jeunes de Morgon et des environs, et il est commercialisé en Vin de France, sans mention d’appellation, ce qui laisse à la famille la liberté de l’élaborer avec des raisins de différentes parcelles.</p><p>La vinification suit les principes de la maison : viticulture biologique, vendanges manuelles, macération en grappes entières avec des levures indigènes et usage minimal du soufre. L’élevage est court, afin de mettre en bouteille un vin jeune, au fruit frais et très facile à boire.</p><p>Son nom joue avec le mot « gaulois », qui évoque les anciens Gaulois et un certain caractère populaire et festif. C’est un rouge léger, idéal servi un peu frais, dans l’esprit des vins de bistrot, et une porte d’entrée vers le style des vins nature du Beaujolais.</p>",
+    "it": "<p>Raisins Gaulois è il vino più semplice e accessibile del Domaine Marcel Lapierre. È prodotto con <strong>Gamay</strong> di vigne più giovani di Morgon e dintorni ed è commercializzato nella categoria Vin de France, senza menzione di denominazione, il che lascia alla famiglia la libertà di produrlo con uve di parcelle diverse.</p><p>La vinificazione segue i principi della casa: viticoltura biologica, vendemmia manuale, macerazione a grappolo intero con lieviti indigeni e uso minimo dello zolfo. L’affinamento è breve, per imbottigliare un vino giovane, dal frutto fresco e molto facile da bere.</p><p>Il nome gioca con la parola «gaulois», che allude agli antichi Galli e a un certo carattere popolare e festoso. È un rosso di corpo leggero, ideale servito un po’ fresco, nello spirito dei vini da bistrot francesi, e una porta d’ingresso allo stile dei vini naturali del Beaujolais.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí claro. Aromas de fresa, cereza ácida y frambuesa, con un toque floral. Boca ligera, jugosa y refrescante.",
+    "en": "Light ruby. Aromas of strawberry, sour cherry and raspberry, with a floral touch. Light, juicy and refreshing palate.",
+    "fr": "Rubis clair. Arômes de fraise, de griotte et de framboise, avec une touche florale. Bouche légère, juteuse et rafraîchissante.",
+    "it": "Rubino chiaro. Aromi di fragola, amarena e lampone, con un tocco floreale. Bocca leggera, succosa e rinfrescante."
+  },
+  "pairing": {
+    "es": "Embutidos, quesos, pizza, cocina de bistró, picoteo",
+    "en": "Cold cuts, cheeses, pizza, bistro food, snacks",
+    "fr": "Charcuterie, fromages, pizza, cuisine de bistrot, grignotages",
+    "it": "Salumi, formaggi, pizza, cucina da bistrot, stuzzichini"
+  },
+  "serve": {
+    "es": "13-14 °C, copa de tinto ligera",
+    "en": "13-14 °C, light red wine glass",
+    "fr": "13-14 °C, verre à vin rouge léger",
+    "it": "13-14 °C, calice da rosso leggero"
+  },
+  "search": "Lapierre Raisins Gaulois Vin de France"
+}

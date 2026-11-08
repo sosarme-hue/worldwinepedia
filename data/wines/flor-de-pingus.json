@@ -1,0 +1,43 @@
+{
+  "slug": "flor-de-pingus",
+  "name": "Flor de Pingus",
+  "winery": "dominio-de-pingus",
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Segundo vino de Dominio de Pingus, elaborado con Tinto Fino de viñedos propios y de viticultores de La Horra y su entorno, de producción más amplia que Pingus aunque también limitada.",
+    "en": "Second wine of Dominio de Pingus, made from Tinto Fino from its own vineyards and from growers in and around La Horra, with larger though still limited production than Pingus.",
+    "fr": "Second vin de Dominio de Pingus, élaboré avec du tinto fino de ses propres vignes et de viticulteurs de La Horra et des environs, en quantité plus importante que Pingus mais toujours limitée.",
+    "it": "Secondo vino di Dominio de Pingus, prodotto con Tinto Fino di vigneti propri e di viticoltori di La Horra e dintorni, in quantità maggiori rispetto a Pingus ma comunque limitate."
+  },
+  "body": {
+    "es": "<p>Flor de Pingus es el segundo vino de la bodega de Peter Sisseck y la forma más accesible de conocer su trabajo en la Ribera del Duero. Se elabora con Tinto Fino, la variante local del Tempranillo, procedente de viñedos propios y de parcelas de viticultores de La Horra y de pueblos cercanos, en la provincia de Burgos, muchos de ellos de cepas viejas.</p><p>Como en Pingus, la viticultura sigue principios biodinámicos en los viñedos de la casa, y la bodega colabora estrechamente con los viticultores que le suministran uva. La vinificación busca preservar la frescura y la pureza de la fruta, y el vino se cría en barricas de roble francés durante un periodo algo más corto que el de su hermano mayor.</p><p>El resultado es un tinto concentrado y expresivo, con la fruta intensa de la Ribera de altura y una estructura que le permite evolucionar varios años en botella. Aunque se produce en mayor cantidad que Pingus, su disponibilidad sigue siendo limitada.</p>",
+    "en": "<p>Flor de Pingus is the second wine from Peter Sisseck’s winery and the most accessible way to discover his work in Ribera del Duero. It is made from Tinto Fino, the local variant of Tempranillo, from its own vineyards and from growers’ plots in La Horra and nearby villages in the province of Burgos, many of them old vines.</p><p>As with Pingus, viticulture in the house’s own vineyards follows biodynamic principles, and the winery works closely with the growers who supply it with grapes. Winemaking seeks to preserve the freshness and purity of the fruit, and the wine is aged in French oak barrels for a somewhat shorter period than its older sibling.</p><p>The result is a concentrated, expressive red with the intense fruit of high-altitude Ribera and a structure that allows it to develop for several years in bottle. Although produced in greater quantity than Pingus, its availability remains limited.</p>",
+    "fr": "<p>Flor de Pingus est le second vin de la bodega de Peter Sisseck et la façon la plus accessible de découvrir son travail en Ribera del Duero. Il est élaboré avec du tinto fino, variante locale du tempranillo, provenant de ses propres vignes et de parcelles de viticulteurs de La Horra et de villages voisins, dans la province de Burgos, souvent de vieux ceps.</p><p>Comme pour Pingus, la viticulture suit les principes de la biodynamie dans les vignes de la maison, et la bodega travaille en étroite collaboration avec les viticulteurs qui lui fournissent du raisin. La vinification cherche à préserver la fraîcheur et la pureté du fruit, et le vin est élevé en barriques de chêne français pendant une période un peu plus courte que son aîné.</p><p>Il en résulte un rouge concentré et expressif, au fruit intense de la Ribera d’altitude, doté d’une structure qui lui permet d’évoluer plusieurs années en bouteille. Bien qu’il soit produit en plus grande quantité que Pingus, sa disponibilité reste limitée.</p>",
+    "it": "<p>Flor de Pingus è il secondo vino della cantina di Peter Sisseck e il modo più accessibile per conoscere il suo lavoro in Ribera del Duero. È prodotto con Tinto Fino, la variante locale del Tempranillo, proveniente da vigneti propri e da parcelle di viticoltori di La Horra e dei paesi vicini, in provincia di Burgos, molti dei quali di vecchie viti.</p><p>Come per Pingus, la viticoltura nei vigneti della casa segue principi biodinamici, e la cantina collabora strettamente con i viticoltori che le forniscono le uve. La vinificazione cerca di preservare la freschezza e la purezza del frutto, e il vino affina in barrique di rovere francese per un periodo un po’ più breve rispetto al fratello maggiore.</p><p>Il risultato è un rosso concentrato ed espressivo, con il frutto intenso della Ribera d’altura e una struttura che gli consente di evolvere per diversi anni in bottiglia. Pur essendo prodotto in quantità maggiori di Pingus, la sua disponibilità resta limitata.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de fruta negra madura, regaliz, especias y tostados de la barrica. En boca es carnoso y estructurado, con taninos firmes y final persistente.",
+    "en": "Intense deep cherry red. Aromas of ripe black fruit, liquorice, spice and toasty oak. Fleshy and structured on the palate, with firm tannins and a persistent finish.",
+    "fr": "Rouge cerise burlat intense. Arômes de fruits noirs mûrs, réglisse, épices et toasté de la barrique. En bouche, il est charnu et structuré, aux tanins fermes et à la finale persistante.",
+    "it": "Rosso ciliegia intenso. Aromi di frutta nera matura, liquirizia, spezie e tostatura della barrique. In bocca è carnoso e strutturato, con tannini decisi e finale persistente."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, lechazo asado, caza mayor, quesos curados de oveja",
+    "en": "Chargrilled red meat, roast milk-fed lamb, large game, aged sheep’s cheeses",
+    "fr": "Viandes rouges à la braise, agneau de lait rôti, gros gibier, fromages de brebis affinés",
+    "it": "Carni rosse alla brace, agnello da latte arrosto, selvaggina di grossa taglia, pecorini stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Flor de Pingus Ribera del Duero"
+}

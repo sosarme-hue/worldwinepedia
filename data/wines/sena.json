@@ -1,0 +1,47 @@
+{
+  "slug": "sena",
+  "name": "Seña",
+  "winery": "sena",
+  "region": "aconcagua",
+  "country": "chile",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon",
+    "carmenere",
+    "malbec",
+    "merlot",
+    "petit-verdot"
+  ],
+  "summary": {
+    "es": "Tinto de mezcla del valle del Aconcagua basado en el Cabernet Sauvignon, creado por Eduardo Chadwick y Robert Mondavi con la cosecha de 1995.",
+    "en": "Aconcagua Valley red blend based on Cabernet Sauvignon, created by Eduardo Chadwick and Robert Mondavi with the 1995 vintage.",
+    "fr": "Assemblage rouge de la vallée de l’Aconcagua à base de cabernet-sauvignon, créé par Eduardo Chadwick et Robert Mondavi avec le millésime 1995.",
+    "it": "Rosso da uvaggio della valle dell’Aconcagua a base di Cabernet Sauvignon, creato da Eduardo Chadwick e Robert Mondavi con l’annata 1995."
+  },
+  "body": {
+    "es": "<p><strong>Seña</strong> nació con la cosecha de 1995 como fruto de la alianza entre Eduardo Chadwick, de Viña Errázuriz, y Robert Mondavi, con la ambición de crear en Chile un tinto de mezcla de nivel internacional. Desde mediados de la década de 2000 pertenece por completo a la familia Chadwick. El nombre alude a la idea de una «seña», una marca o firma de identidad.</p><p>El vino procede de un viñedo propio en el <strong>valle del Aconcagua</strong>, plantado en laderas a unos cuarenta kilómetros del Pacífico y cultivado según los principios biodinámicos. Es una mezcla basada en el Cabernet Sauvignon, con Carmenère, Malbec, Merlot y Petit Verdot en proporciones que varían según la añada. Cada parcela y variedad se vinifica por separado y el vino se cría en barricas de roble francés, en buena parte nuevas, antes de su embotellado. Es un tinto concentrado y estructurado, con taninos firmes y finos, pensado para una larga evolución en botella.</p>",
+    "en": "<p><strong>Seña</strong> was born with the 1995 vintage from the partnership between Eduardo Chadwick, of Viña Errázuriz, and Robert Mondavi, with the ambition of creating a red blend of international standing in Chile. Since the mid-2000s it has belonged entirely to the Chadwick family. The name evokes the idea of a “seña”, a sign or signature of identity.</p><p>The wine comes from an estate vineyard in the <strong>Aconcagua Valley</strong>, planted on slopes some forty kilometres from the Pacific and farmed according to biodynamic principles. It is a blend based on Cabernet Sauvignon, with Carmenère, Malbec, Merlot and Petit Verdot in proportions that vary with the vintage. Each plot and variety is vinified separately and the wine is aged in French oak barrels, a good share of them new, before bottling. It is a concentrated, structured red with firm, fine tannins, intended for long development in bottle.</p>",
+    "fr": "<p><strong>Seña</strong> est né avec le millésime 1995 de l’alliance entre Eduardo Chadwick, de Viña Errázuriz, et Robert Mondavi, avec l’ambition de créer au Chili un assemblage rouge de niveau international. Depuis le milieu des années 2000, il appartient entièrement à la famille Chadwick. Le nom évoque l’idée d’une « seña », une marque ou une signature d’identité.</p><p>Le vin provient d’un vignoble propre dans la <strong>vallée de l’Aconcagua</strong>, planté sur des coteaux à une quarantaine de kilomètres du Pacifique et conduit selon les principes biodynamiques. C’est un assemblage à base de cabernet-sauvignon, avec carmenère, malbec, merlot et petit verdot dans des proportions qui varient selon le millésime. Chaque parcelle et chaque cépage sont vinifiés séparément, et le vin est élevé en fûts de chêne français, en bonne partie neufs, avant la mise en bouteille. C’est un rouge concentré et structuré, aux tanins fermes et fins, conçu pour une longue évolution en bouteille.</p>",
+    "it": "<p><strong>Seña</strong> è nato con l’annata 1995 dall’alleanza tra Eduardo Chadwick, di Viña Errázuriz, e Robert Mondavi, con l’ambizione di creare in Cile un rosso da uvaggio di livello internazionale. Dalla metà degli anni Duemila appartiene interamente alla famiglia Chadwick. Il nome richiama l’idea di una «seña», un segno o una firma d’identità.</p><p>Il vino proviene da un vigneto di proprietà nella <strong>valle dell’Aconcagua</strong>, piantato su pendii a circa quaranta chilometri dal Pacifico e coltivato secondo i principi biodinamici. È un uvaggio a base di Cabernet Sauvignon, con Carmenère, Malbec, Merlot e Petit Verdot in proporzioni che variano secondo l’annata. Ogni parcella e varietà viene vinificata separatamente e il vino affina in barrique di rovere francese, in buona parte nuove, prima dell’imbottigliamento. È un rosso concentrato e strutturato, dai tannini fermi e fini, pensato per una lunga evoluzione in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Granate profundo. Aromas de cassis, mora, cereza negra, hierbas, grafito y especias. Boca densa y elegante, de taninos finos y final muy largo.",
+    "en": "Deep garnet. Aromas of blackcurrant, blackberry, black cherry, herbs, graphite and spice. Dense, elegant palate with fine tannins and a very long finish.",
+    "fr": "Grenat profond. Arômes de cassis, de mûre, de cerise noire, d’herbes, de graphite et d’épices. Bouche dense et élégante, aux tanins fins et à la finale très longue.",
+    "it": "Granato profondo. Aromi di cassis, mora, ciliegia nera, erbe, grafite e spezie. Bocca densa ed elegante, dai tannini fini e dal finale molto lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, filete de ternera, caza, quesos curados",
+    "en": "Roast lamb, beef fillet, game, aged cheeses",
+    "fr": "Agneau rôti, filet de bœuf, gibier, fromages affinés",
+    "it": "Agnello arrosto, filetto di manzo, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia; puede beneficiarse de un decantado",
+    "en": "16-18 °C, large glass; may benefit from decanting",
+    "fr": "16-18 °C, verre ample ; peut gagner à être carafé",
+    "it": "16-18 °C, calice ampio; può giovarsi della decantazione"
+  },
+  "search": "Seña Aconcagua Valley"
+}

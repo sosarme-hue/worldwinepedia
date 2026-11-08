@@ -1,0 +1,44 @@
+{
+  "slug": "dourthe-la-grande-cuvee-rouge",
+  "name": "Dourthe La Grande Cuvée Bordeaux Rouge",
+  "winery": "dourthe",
+  "region": "bordeaux",
+  "country": "francia",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "merlot",
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "Tinto de la denominación Bordeaux de la casa Dourthe, ensamblaje de Merlot y Cabernet Sauvignon de estilo afrutado, pensado para el consumo cotidiano.",
+    "en": "Bordeaux appellation red from the Dourthe house, a fruity blend of Merlot and Cabernet Sauvignon designed for everyday drinking.",
+    "fr": "Rouge d’appellation Bordeaux de la maison Dourthe, assemblage fruité de merlot et de cabernet-sauvignon conçu pour la consommation quotidienne.",
+    "it": "Rosso della denominazione Bordeaux della casa Dourthe, uvaggio fruttato di Merlot e Cabernet Sauvignon pensato per il consumo quotidiano."
+  },
+  "body": {
+    "es": "<p>El tinto de La Grande Cuvée es uno de los vinos más difundidos de Dourthe. Se elabora bajo la denominación <strong>Bordeaux</strong>, que permite reunir uvas de distintas zonas de la región, a partir de viñedos de viticultores asociados con los que la casa trabaja de forma continuada.</p><p>La base del ensamblaje es la <strong>Merlot</strong>, que aporta fruta y redondez, completada con <strong>Cabernet Sauvignon</strong>, que da estructura y frescura; en algunas añadas puede incluir pequeñas cantidades de otras variedades bordelesas. Las proporciones varían según la añada. La vinificación busca extraer fruta y taninos suaves, y una parte del vino puede pasar por madera para aportar matices especiados sin ocultar la fruta.</p><p>Es un Burdeos de estilo moderno, afrutado y equilibrado, con taninos amables, pensado para beberse en los primeros años tras la cosecha y para acompañar comidas sencillas.</p>",
+    "en": "<p>The La Grande Cuvée red is one of Dourthe’s most widely distributed wines. It is made under the <strong>Bordeaux</strong> appellation, which allows grapes from different parts of the region to be blended, from the vineyards of partner growers with whom the house works on a long-term basis.</p><p>The basis of the blend is <strong>Merlot</strong>, which brings fruit and roundness, completed with <strong>Cabernet Sauvignon</strong>, which adds structure and freshness; in some vintages it may include small amounts of other Bordeaux varieties. The proportions vary with the vintage. Vinification aims to extract fruit and soft tannins, and part of the wine may spend time in oak to add spicy hints without masking the fruit.</p><p>It is a modern-style Bordeaux, fruity and balanced, with gentle tannins, intended to be drunk in the first years after the harvest and to accompany simple meals.</p>",
+    "fr": "<p>Le rouge de La Grande Cuvée est l’un des vins les plus diffusés de Dourthe. Il est élaboré sous l’appellation <strong>Bordeaux</strong>, qui permet d’assembler des raisins de différentes zones de la région, à partir des vignes de viticulteurs partenaires avec lesquels la maison travaille dans la durée.</p><p>L’assemblage repose sur le <strong>merlot</strong>, qui apporte fruit et rondeur, complété par le <strong>cabernet-sauvignon</strong>, qui donne structure et fraîcheur ; certaines années, il peut comprendre de petites quantités d’autres cépages bordelais. Les proportions varient selon le millésime. La vinification vise à extraire le fruit et des tanins souples, et une partie du vin peut passer sous bois pour apporter des nuances épicées sans masquer le fruit.</p><p>C’est un bordeaux de style moderne, fruité et équilibré, aux tanins aimables, destiné à être bu dans les premières années suivant la vendange et à accompagner des repas simples.</p>",
+    "it": "<p>Il rosso de La Grande Cuvée è uno dei vini più diffusi di Dourthe. È prodotto con la denominazione <strong>Bordeaux</strong>, che permette di riunire uve di diverse zone della regione, dai vigneti di viticoltori partner con cui la casa lavora stabilmente.</p><p>La base dell’uvaggio è il <strong>Merlot</strong>, che apporta frutto e rotondità, completato dal <strong>Cabernet Sauvignon</strong>, che dà struttura e freschezza; in alcune annate può includere piccole quantità di altre varietà bordolesi. Le proporzioni variano secondo l’annata. La vinificazione mira a estrarre frutto e tannini morbidi, e una parte del vino può passare in legno per aggiungere sfumature speziate senza coprire il frutto.</p><p>È un Bordeaux di stile moderno, fruttato ed equilibrato, con tannini gentili, pensato per essere bevuto nei primi anni dopo la vendemmia e per accompagnare pasti semplici.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de frutos rojos y negros maduros, como cereza y ciruela, con un ligero toque especiado. Boca suave y redonda, de taninos amables y final afrutado.",
+    "en": "Intense ruby. Aromas of ripe red and black fruit, such as cherry and plum, with a light spicy touch. Soft, round palate with gentle tannins and a fruity finish.",
+    "fr": "Rubis intense. Arômes de fruits rouges et noirs mûrs, comme la cerise et la prune, avec une légère touche épicée. Bouche souple et ronde, aux tanins aimables, finale fruitée.",
+    "it": "Rubino intenso. Aromi di frutti rossi e neri maturi, come ciliegia e prugna, con un leggero tocco speziato. Bocca morbida e rotonda, dai tannini gentili e dal finale fruttato."
+  },
+  "pairing": {
+    "es": "Carnes a la parrilla, hamburguesas, pasta con ragú, quesos semicurados",
+    "en": "Grilled meat, burgers, pasta with ragù, semi-hard cheeses",
+    "fr": "Viandes grillées, burgers, pâtes à la bolognaise, fromages à pâte pressée",
+    "it": "Carni alla griglia, hamburger, pasta al ragù, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-17 °C, copa de tipo Burdeos",
+    "en": "16-17 °C, Bordeaux glass",
+    "fr": "16-17 °C, verre de type bordeaux",
+    "it": "16-17 °C, calice tipo Bordeaux"
+  },
+  "search": "Dourthe La Grande Cuvée Bordeaux Rouge"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "laurent-perrier-cuvee-rose",
+  "name": "Laurent-Perrier Cuvée Rosé",
+  "winery": "laurent-perrier",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut Rosé",
+    "en": "Brut Rosé",
+    "fr": "Brut Rosé",
+    "it": "Brut Rosé"
+  },
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Champagne rosado de Laurent-Perrier elaborado solo con Pinot Noir mediante maceración, presentado en una botella de forma característica.",
+    "en": "Laurent-Perrier’s rosé champagne made solely from Pinot Noir by maceration, presented in a distinctively shaped bottle.",
+    "fr": "Champagne rosé de Laurent-Perrier élaboré uniquement avec du pinot noir par macération, présenté dans une bouteille à la forme caractéristique.",
+    "it": "Champagne rosé di Laurent-Perrier prodotto solo con Pinot Nero per macerazione, presentato in una bottiglia dalla forma caratteristica."
+  },
+  "body": {
+    "es": "<p>La Cuvée Rosé de Laurent-Perrier se lanzó a finales de los años sesenta y se ha convertido en uno de los champanes rosados más conocidos. A diferencia de la mayoría de los rosados de Champagne, que se obtienen añadiendo vino tinto a un ensamblaje de vinos blancos, se elabora mediante <strong>maceración</strong>: el mosto de <strong>Pinot Noir</strong> permanece en contacto con los hollejos durante un tiempo, hasta obtener el color y los aromas deseados.</p><p>Las uvas proceden de municipios de la Montaña de Reims y de otras zonas reconocidas para la Pinot Noir. Es una técnica delicada, que exige controlar con precisión la extracción. El vino incluye vinos de reserva y se cría durante varios años sobre lías antes del degüelle. Se presenta en una botella de forma inspirada en modelos antiguos, que la hace fácilmente reconocible.</p><p>Es un rosado de color intenso, con aromas de frutos rojos frescos, como fresa, frambuesa y cereza, y una boca fresca y afrutada con buena estructura.</p>",
+    "en": "<p>Laurent-Perrier’s Cuvée Rosé was launched in the late 1960s and has become one of the best-known rosé champagnes. Unlike most Champagne rosés, which are made by adding red wine to a blend of white wines, it is made by <strong>maceration</strong>: the <strong>Pinot Noir</strong> must stays in contact with the skins for a time, until the desired colour and aromas are obtained.</p><p>The grapes come from villages in the Montagne de Reims and other areas known for Pinot Noir. It is a delicate technique that requires precise control of extraction. The wine includes reserve wines and is aged for several years on its lees before disgorgement. It is presented in a bottle whose shape is inspired by historic models, making it easily recognisable.</p><p>It is an intensely coloured rosé, with aromas of fresh red fruit such as strawberry, raspberry and cherry, and a fresh, fruity palate with good structure.</p>",
+    "fr": "<p>La Cuvée Rosé de Laurent-Perrier a été lancée à la fin des années 1960 et elle est devenue l’un des champagnes rosés les plus connus. Contrairement à la plupart des rosés de Champagne, obtenus en ajoutant du vin rouge à un assemblage de vins blancs, elle est élaborée par <strong>macération</strong> : le moût de <strong>pinot noir</strong> reste un certain temps au contact des peaux, jusqu’à obtenir la couleur et les arômes souhaités.</p><p>Les raisins proviennent de villages de la Montagne de Reims et d’autres secteurs réputés pour le pinot noir. C’est une technique délicate, qui exige un contrôle précis de l’extraction. Le vin comprend des vins de réserve et il est élevé plusieurs années sur lies avant le dégorgement. Il est présenté dans une bouteille dont la forme s’inspire de modèles anciens, ce qui le rend facilement reconnaissable.</p><p>C’est un rosé à la couleur soutenue, aux arômes de fruits rouges frais comme la fraise, la framboise et la cerise, et à la bouche fraîche et fruitée, bien structurée.</p>",
+    "it": "<p>La Cuvée Rosé di Laurent-Perrier è stata lanciata alla fine degli anni Sessanta ed è diventata uno degli champagne rosé più conosciuti. A differenza della maggior parte dei rosé della Champagne, ottenuti aggiungendo vino rosso a un assemblaggio di vini bianchi, è prodotta per <strong>macerazione</strong>: il mosto di <strong>Pinot Nero</strong> resta per un certo tempo a contatto con le bucce, fino a ottenere il colore e gli aromi desiderati.</p><p>Le uve provengono da villaggi della Montagne de Reims e da altre zone note per il Pinot Nero. È una tecnica delicata, che richiede un controllo preciso dell’estrazione. Il vino comprende vini di riserva e affina per diversi anni sui lieviti prima della sboccatura. È presentato in una bottiglia la cui forma si ispira a modelli antichi, che la rende facilmente riconoscibile.</p><p>È un rosé dal colore intenso, con aromi di frutti rossi freschi come fragola, lampone e ciliegia, e una bocca fresca e fruttata, di buona struttura.</p>"
+  },
+  "tasting": {
+    "es": "Rosa frambuesa intenso con burbuja fina. Aromas de fresa, frambuesa, cereza y grosella negra. Boca fresca y afrutada, redonda y con buena estructura y final persistente.",
+    "en": "Intense raspberry pink with fine bubbles. Aromas of strawberry, raspberry, cherry and blackcurrant. Fresh, fruity, round palate with good structure and a persistent finish.",
+    "fr": "Rose framboise soutenu à la bulle fine. Arômes de fraise, de framboise, de cerise et de cassis. Bouche fraîche et fruitée, ronde, bien structurée, finale persistante.",
+    "it": "Rosa lampone intenso dal perlage fine. Aromi di fragola, lampone, ciliegia e ribes nero. Bocca fresca e fruttata, rotonda, di buona struttura e dal finale persistente."
+  },
+  "pairing": {
+    "es": "Salmón, atún en tataki, pato, cocina asiática, postres de frutos rojos poco dulces",
+    "en": "Salmon, tuna tataki, duck, Asian cuisine, not-too-sweet red fruit desserts",
+    "fr": "Saumon, tataki de thon, canard, cuisine asiatique, desserts aux fruits rouges peu sucrés",
+    "it": "Salmone, tataki di tonno, anatra, cucina asiatica, dolci ai frutti rossi poco zuccherati"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco o de tulipa",
+    "en": "8-10 °C, white wine or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da vino bianco o a tulipano"
+  },
+  "search": "Laurent-Perrier Cuvée Rosé Champagne Brut"
+}
