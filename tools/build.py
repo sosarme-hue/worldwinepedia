@@ -202,17 +202,28 @@ def linklist(items):
     return '<div class="linklist">' + ''.join('<a href="%s">%s</a>' % (u, e(n)) for n, u in items) + '</div>'
 
 # ---------------- HOME ----------------
+
+CONT_ORDER = ['europa', 'america', 'oceania', 'africa', 'asia']
+HOME_COUNTRIES = ['espana', 'francia', 'italia', 'portugal', 'alemania', 'austria', 'estados-unidos', 'argentina', 'chile', 'australia', 'nueva-zelanda', 'sudafrica']
+SOON = [("japon", "asia", "JP", {"es": "Japón", "en": "Japan", "fr": "Japon", "it": "Giappone"}, "Yamanashi · Koshu"),
+        ("india", "asia", "IN", {"es": "India", "en": "India", "fr": "Inde", "it": "India"}, "Nashik · Karnataka")]
+def country_card(l, c):
+    regs = ' · '.join(T(R[r]['name'], l) for r in c.get('regions', [])[:5] if r in R)
+    return f'<a class="country" data-code="{e(c.get("code", ""))}" href="{url(l, "countries", c["slug"])}"><small>{T(S["continents"][c["continent"]], l).upper()}</small><h3>{e(T(c["name"], l))}</h3><p>{regs}</p></a>'
+def all_country_cards(l):
+    cs = sorted(C.values(), key=lambda c: (CONT_ORDER.index(c.get('continent', 'asia')) if c.get('continent') in CONT_ORDER else 9, -len(c.get('regions', [])), T(c['name'], l)))
+    out = ''.join(country_card(l, c) for c in cs)
+    for slug, cont, code, name, regs in SOON:
+        if slug not in C:
+            out += f'<a class="country" data-code="{code}" href="#"><small>{T(S["continents"][cont], l).upper()} · <em>{s("soon", l)}</em></small><h3>{T(name, l)}</h3><p>{regs}</p></a>'
+    return out
+
 def home(l):
     cards = ''
     for i, (k, key) in enumerate([('wines', 'card_wines'), ('countries', 'card_atlas'), ('grapes', 'card_grapes'), ('wineries', 'card_wineries')]):
         h, p = S[key][l]
         cards += f'<div class="card"><span class="num">0{i+1}</span><h3>{h}</h3><p>{p}</p><a class="textlink" href="{url(l, k)}">{s("explore", l)} →</a></div>'
-    atlas = ''
-    for slug, cont, code, name, regs in ATLAS[:6] if False else ATLAS:
-        has = slug in C
-        href = url(l, 'countries', slug) if has else url(l, 'countries')
-        soon = '' if has else ' · <em>%s</em>' % s('soon', l)
-        atlas += f'<a class="country" data-code="{code}" href="{href}"><small>{T(S["continents"][cont], l).upper()}{soon}</small><h3>{T(name, l)}</h3><p>{regs}</p></a>'
+    atlas = ''.join(country_card(l, C[x]) for x in HOME_COUNTRIES if x in C)
     sci = ''.join(f'<a class="topic" href="{url(l, "articles", a["slug"])}"><i>↗</i><strong>{e(T(a["title"], l))}</strong><span>{e(T(a["summary"], l))[:140]}</span></a>' for a in A.values() if a.get('section') == 'ciencia')
     viti = ''.join(f'<li><a href="{url(l, "articles", a["slug"])}">{e(T(a["title"], l))}</a></li>' for a in A.values() if a.get('section') == 'viticultura')
     gp = ''.join(f'<a class="pill" href="{url(l, "grapes", g)}">{e(T(G[g]["name"], l))} ↗</a>' for g in ['tempranillo', 'garnacha', 'albarino', 'verdejo', 'mencia', 'monastrell', 'cabernet-sauvignon', 'pinot-noir', 'chardonnay', 'riesling', 'sangiovese', 'nebbiolo'] if g in G)
@@ -272,11 +283,7 @@ def wineries_list(l):
     return layout(l, s('nav_wineries', l) + ' · WorldWinePedia', s('wineries_intro', l), page_wrap(l, s('nav_wineries', l), s('wineries_intro', l), inner, [(s('nav_wineries', l), None)]), alts('wineries'), 'wineries')
 
 def countries_list(l):
-    atlas = ''
-    for slug, cont, code, name, regs in ATLAS:
-        has = slug in C
-        soon = '' if has else ' · <em>%s</em>' % s('soon', l)
-        atlas += f'<a class="country" data-code="{code}" href="{url(l, "countries", slug) if has else "#"}"><small>{T(S["continents"][cont], l).upper()}{soon}</small><h3>{T(name, l)}</h3><p>{regs}</p></a>'
+    atlas = all_country_cards(l)
     inner = f'<div class="grid three" style="margin-top:24px">{atlas}</div>'
     return layout(l, s('nav_atlas', l) + ' · WorldWinePedia', s('atlas_intro', l), page_wrap(l, s('nav_atlas', l), s('atlas_intro', l), inner, [(s('nav_atlas', l), None)]), alts('countries'), 'countries')
 
