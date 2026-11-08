@@ -53,3 +53,5 @@
 .hsearch{display:flex;gap:0;margin:0 0 16px;border:1px solid var(--line);background:white;border-radius:3px;overflow:hidden}.hsearch input{flex:1;min-width:0;border:0;padding:12px 14px;font-size:16px;background:white;color:var(--ink)}.hsearch button{border:0;background:var(--wine);color:white;padding:0 18px;font-size:15px;cursor:pointer}@media(max-width:850px){header .hsearch{order:5}}@media print{.hsearch{display:none}}
 body:has([data-filter-scope]) .hsearch,body:has(#sq) .hsearch{display:none}
 @media(max-width:850px){body:has(.hero) .hsearch{display:none}}
+@media(min-width:851px){.top,header,main section,footer,.hero{padding-left:max(5%,calc((100% - 1180px)/2));padding-right:max(5%,calc((100% - 1180px)/2))}.page{max-width:1180px;padding-left:0;padding-right:0;width:90%}.hero{min-height:500px}}
+@media(max-width:850px){body{line-height:1.5}.prose{font-size:16px;line-height:1.55}.prose h2{font-size:24px;margin:26px 0 8px}.prose p{margin:0 0 12px}main section{padding:34px 5%}.page{padding:24px 5% 44px}.eyebrow{letter-spacing:1.5px}.hero{padding:36px 5%}h1{line-height:1.1}}
