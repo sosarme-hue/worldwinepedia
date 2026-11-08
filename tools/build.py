@@ -140,7 +140,7 @@ def layout(l, title, desc, body, alt, active=''):
 <div class="top"><span>{s('topbar', l)}</span><span>{s('topbar2', l)}</span></div>
 <header>
 <div class="brand">
-<a href="{url(l)}" class="logo" aria-label="WorldWinePedia"><span class="mark">W</span>World<b>Wine</b>pedia</a>
+<a href="{url(l)}" class="logo" aria-label="WorldWinePedia"><img class="mark" src="/img/logo.svg" alt="" width="48" height="48">World<b>Wine</b>pedia</a>
 <div class="util"><label>{s('ship_to', l)}: <select class="ship" aria-label="{s('ship_to', l)}">{ship_opts}</select></label><span class="langs">{langs}</span></div>
 </div>
 <div class="tag">{s('tagline', l)}</div>
