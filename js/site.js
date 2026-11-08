@@ -111,15 +111,30 @@
   }
 })();
 
-/* Aviso de cookies (2026-11-08) */
-window.AVISO_COOKIES={politica:{es:"/es/privacidad/",en:"/en/privacy/",fr:"/fr/confidentialite/",it:"/it/privacy/"},color:"#612c42"};
+/* Google Analytics (G-JQJP65WZSJ) con modo de consentimiento: todo denegado por defecto; gtag.js solo se carga si se aceptan «Estadísticas» (2026-11-08) */
+window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('consent','default',{analytics_storage:'denied',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied'});
+(function(){
+  var ID='G-JQJP65WZSJ';
+  function cargar(){if(window.gaCargado)return;window.gaCargado=true;gtag('consent','update',{analytics_storage:'granted'});
+    var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id='+ID;document.head.appendChild(s);gtag('js',new Date());gtag('config',ID);}
+  function borrar(){document.cookie.split(';').forEach(function(c){var n=c.split('=')[0].trim();if(/^_ga/.test(n))['','.worldwinepedia.com','worldwinepedia.com'].forEach(function(d){document.cookie=n+'=;expires=Thu, 01 Jan 1970 00:00:00 GMT;path=/'+(d?';domain='+d:'');});});}
+  try{var v=JSON.parse(localStorage.getItem('aviso-cookies'));if(v&&v.v===2&&v.estadisticas&&Date.now()-v.d<365*864e5)cargar();}catch(e){}
+  document.addEventListener('avisocookies',function(e){if(e.detail&&e.detail.estadisticas)cargar();else{if(window.gaCargado)gtag('consent','update',{analytics_storage:'denied'});borrar();}});
+})();
+/* Aviso de cookies: versión 2 (desde que se usa Google Analytics, se vuelve a preguntar a todos) */
+window.AVISO_COOKIES={politica:{es:"/es/privacidad/",en:"/en/privacy/",fr:"/fr/confidentialite/",it:"/it/privacy/"},color:"#612c42",version:2,textos:{
+  es:{p:'Usamos lo necesario para que la web funcione y, si lo aceptas, Google Analytics para saber qué páginas se visitan y mejorar la web. No usamos cookies de publicidad. Puedes cambiar de opinión cuando quieras en «Configurar cookies», al pie de la página.',estD:'Google Analytics: qué páginas se visitan y desde dónde llegan las visitas, de forma agregada. Solo si lo aceptas.'},
+  en:{p:'We use what is needed for the site to work and, if you accept, Google Analytics to see which pages are visited and improve the site. We do not use advertising cookies. You can change your mind at any time in “Cookie settings” at the bottom of the page.',estD:'Google Analytics: which pages are visited and where visits come from, in aggregate. Only if you accept.'},
+  fr:{p:'Nous utilisons le nécessaire au fonctionnement du site et, si vous l\'acceptez, Google Analytics pour savoir quelles pages sont consultées et améliorer le site. Nous n\'utilisons pas de cookies publicitaires. Vous pouvez changer d\'avis à tout moment via « Paramètres des cookies », en bas de page.',estD:'Google Analytics : pages consultées et provenance des visites, de façon agrégée. Uniquement avec votre accord.'},
+  it:{p:'Usiamo il necessario per far funzionare il sito e, se accetti, Google Analytics per sapere quali pagine vengono visitate e migliorare il sito. Non usiamo cookie pubblicitari. Puoi cambiare idea quando vuoi da «Impostazioni cookie», in fondo alla pagina.',estD:'Google Analytics: quali pagine vengono visitate e da dove arrivano le visite, in forma aggregata. Solo se accetti.'}}};
 /* Aviso de cookies (RGPD / LSSI) · común a celebraciones.org, catdogpedia.com y worldwinepedia.com · 2026-11-08
    Configuración: window.AVISO_COOKIES = {politica: {es: '/cookies.html', en: ...}, color: '#123', texto: '#fff'} antes de este bloque.
    Categorías: necesarias (siempre), estadisticas, publicidad. Se guarda en localStorage 'aviso-cookies' 12 meses.
    Para activar un script solo con permiso: <script type="text/plain" data-cookies="estadisticas" src="..."></script>
    API: window.avisoCookies.abrir(), .permiso('estadisticas'), evento 'avisocookies' en document. */
 (function () {
-  var C = window.AVISO_COOKIES || {}, d = document, CLAVE = 'aviso-cookies', VERSION = 1, DOCE_MESES = 365 * 864e5;
+  var C = window.AVISO_COOKIES || {}, d = document, CLAVE = 'aviso-cookies', VERSION = C.version || 1, DOCE_MESES = 365 * 864e5;
   var L = (d.documentElement.lang || 'es').slice(0, 2);
   var TX = {
     es: { t: 'Cookies', p: 'Usamos solo lo necesario para que la web funcione. Con tu permiso podríamos usar también cookies de estadísticas y de publicidad. Puedes cambiar de opinión cuando quieras en «Configurar cookies», al pie de la página.', mas: 'Política de cookies', ok: 'Aceptar', no: 'Rechazar', conf: 'Configurar', guardar: 'Guardar mi elección', todo: 'Aceptar todas', nec: 'Necesarias', necD: 'Hacen que la web funcione y recuerdan tus preferencias (idioma, esta elección). Siempre activas.', est: 'Estadísticas', estD: 'Nos dirían qué páginas se visitan, de forma agregada. Ahora no se usan.', pub: 'Publicidad', pubD: 'Anuncios y medición de anuncios. Ahora no se usan.', siempre: 'Siempre activas', pie: 'Configurar cookies', cerrar: 'Cerrar' },
@@ -128,7 +143,8 @@ window.AVISO_COOKIES={politica:{es:"/es/privacidad/",en:"/en/privacy/",fr:"/fr/c
     fr: { t: 'Cookies', p: 'Nous n\'utilisons que le nécessaire au fonctionnement du site. Avec votre accord, nous pourrions aussi utiliser des cookies de statistiques et de publicité. Vous pouvez changer d\'avis à tout moment via « Paramètres des cookies », en bas de page.', mas: 'Politique de cookies', ok: 'Accepter', no: 'Refuser', conf: 'Paramétrer', guardar: 'Enregistrer mon choix', todo: 'Tout accepter', nec: 'Nécessaires', necD: 'Elles font fonctionner le site et retiennent vos préférences (langue, ce choix). Toujours actives.', est: 'Statistiques', estD: 'Elles nous indiqueraient les pages visitées, de façon agrégée. Non utilisées actuellement.', pub: 'Publicité', pubD: 'Annonces et mesure des annonces. Non utilisées actuellement.', siempre: 'Toujours actives', pie: 'Paramètres des cookies', cerrar: 'Fermer' },
     it: { t: 'Cookie', p: 'Usiamo solo il necessario per far funzionare il sito. Con il tuo consenso potremmo usare anche cookie statistici e pubblicitari. Puoi cambiare idea quando vuoi da «Impostazioni cookie», in fondo alla pagina.', mas: 'Cookie policy', ok: 'Accetta', no: 'Rifiuta', conf: 'Personalizza', guardar: 'Salva la mia scelta', todo: 'Accetta tutti', nec: 'Necessari', necD: 'Fanno funzionare il sito e ricordano le tue preferenze (lingua, questa scelta). Sempre attivi.', est: 'Statistiche', estD: 'Ci direbbero quali pagine vengono visitate, in forma aggregata. Al momento non usati.', pub: 'Pubblicità', pubD: 'Annunci e misurazione degli annunci. Al momento non usati.', siempre: 'Sempre attivi', pie: 'Impostazioni cookie', cerrar: 'Chiudi' }
   };
-  var t = TX[L] || TX.en, POL = (C.politica || {})[L] || (C.politica || {}).en || '#';
+  var t = TX[L] || TX.en; if (C.textos && C.textos[L]) for (var k in C.textos[L]) t[k] = C.textos[L][k];
+  var POL = (C.politica || {})[L] || (C.politica || {}).en || '#';
 
   function leer() { try { var v = JSON.parse(localStorage.getItem(CLAVE)); if (v && v.v === VERSION && Date.now() - v.d < DOCE_MESES) return v; } catch (e) {} return null; }
   function guardar(est, pub) {
