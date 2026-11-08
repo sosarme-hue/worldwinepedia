@@ -38,24 +38,5 @@
     "pinot-gris",
     "moscatel"
   ],
-  "regions": [
-    "piemonte",
-    "barolo",
-    "barbaresco",
-    "toscana",
-    "chianti-classico",
-    "brunello-di-montalcino",
-    "bolgheri",
-    "veneto",
-    "valpolicella",
-    "prosecco",
-    "soave",
-    "trentino-alto-adige",
-    "franciacorta",
-    "sicilia",
-    "etna",
-    "campania",
-    "puglia",
-    "abruzzo"
-  ]
+  "regions": ["piemonte", "barolo", "barbaresco", "toscana", "chianti-classico", "brunello-di-montalcino", "bolgheri", "veneto", "valpolicella", "prosecco", "soave", "trentino-alto-adige", "franciacorta", "sicilia", "etna", "campania", "puglia", "abruzzo", "langhe", "roero", "asti", "gavi", "lugana", "bardolino", "collio", "friuli-colli-orientali", "vino-nobile-di-montepulciano", "montefalco", "maremma", "verdicchio-dei-castelli-di-jesi", "taurasi", "fiano-di-avellino", "greco-di-tufo", "aglianico-del-vulture", "ciro", "sardegna", "valtellina", "lambrusco-emilia", "oltrepo-pavese", "friuli"]
 }
