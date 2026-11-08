@@ -55,3 +55,7 @@ body:has([data-filter-scope]) .hsearch,body:has(#sq) .hsearch{display:none}
 @media(max-width:850px){body:has(.hero) .hsearch{display:none}}
 @media(min-width:851px){.top,header,main section,footer,.hero{padding-left:max(5%,calc((100% - 1180px)/2));padding-right:max(5%,calc((100% - 1180px)/2))}.page{max-width:1180px;padding-left:0;padding-right:0;width:90%}.hero{min-height:500px}}
 @media(max-width:850px){body{line-height:1.5}.prose{font-size:16px;line-height:1.55}.prose h2{font-size:24px;margin:26px 0 8px}.prose p{margin:0 0 12px}main section{padding:34px 5%}.page{padding:24px 5% 44px}.eyebrow{letter-spacing:1.5px}.hero{padding:36px 5%}h1{line-height:1.1}}
+.webs-hermanas{font-size:12px;line-height:1.8;color:#b9c6bb;border-top:1px solid #ffffff22;margin:24px 0 0;padding-top:16px}.webs-hermanas a{color:#dbe2d7;text-decoration:none;white-space:nowrap}.webs-hermanas a:hover{text-decoration:underline}
+nav{font-size:15px}.util{font-size:14px}.top{font-size:12px}.hsearch input{font-size:17px;padding:14px 16px}.hsearch button{font-size:16px;padding:0 22px}.btn{font-size:15px}
+@media(max-width:850px){nav{font-size:16px;gap:20px}}
+footer .webs-hermanas a{display:inline;padding:0;margin:0}.search input{font-size:17px}.search button{font-size:16px;padding:12px 20px}.quick a{font-size:14px}
