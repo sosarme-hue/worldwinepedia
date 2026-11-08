@@ -1,0 +1,43 @@
+{
+  "slug": "vinoterra-saperavi",
+  "name": "Vinoterra Saperavi",
+  "winery": "schuchmann-wines",
+  "region": "kakheti",
+  "country": "georgia",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "saperavi"
+  ],
+  "summary": {
+    "es": "Tinto de Saperavi de la gama Vinoterra de Schuchmann Wines, elaborado según el método tradicional en qvevri en Kakheti.",
+    "en": "A Saperavi red from Schuchmann Wines’ Vinoterra range, made by the traditional qvevri method in Kakheti.",
+    "fr": "Rouge de saperavi de la gamme Vinoterra de Schuchmann Wines, élaboré selon la méthode traditionnelle en qvevri en Kakhétie.",
+    "it": "Rosso di Saperavi della linea Vinoterra di Schuchmann Wines, prodotto secondo il metodo tradizionale in qvevri nel Kakheti."
+  },
+  "body": {
+    "es": "<p>Vinoterra es la gama de vinos tradicionales de Schuchmann Wines, la bodega de Kisiskhevi, cerca de Telavi. Este tinto se elabora con <strong>Saperavi</strong> de viñedos del valle del Alazani, en Kakheti, la región de origen de la variedad.</p><p>Siguiendo el método kakhetiano, el mosto fermenta en <em>qvevri</em> enterrados, en contacto con los hollejos, y el vino permanece en las tinajas durante un periodo de maceración prolongado antes de ser trasegado. Este proceso extrae el color intenso propio de una variedad de pulpa coloreada y una estructura tánica notable, que la acidez natural de la Saperavi mantiene en equilibrio. El vino puede pasar después un tiempo en reposo antes de su embotellado. El resultado es un tinto seco, oscuro, de fruta negra y taninos firmes, que ilustra el estilo clásico de los tintos de qvevri de Kakheti y que evoluciona favorablemente con algunos años de botella.</p>",
+    "en": "<p>Vinoterra is the traditional wine range of Schuchmann Wines, the winery in Kisiskhevi near Telavi. This red is made from <strong>Saperavi</strong> from vineyards in the Alazani valley in Kakheti, the variety’s home region.</p><p>Following the Kakhetian method, the must ferments in buried <em>qvevri</em> in contact with the skins, and the wine stays in the vessels for an extended maceration before being racked. This process extracts the intense colour typical of a variety with coloured flesh and a notable tannic structure, which Saperavi’s natural acidity keeps in balance. The wine may then rest for a time before bottling. The result is a dry, dark red with black fruit and firm tannins, which illustrates the classic style of Kakheti’s qvevri reds and develops favourably with a few years in bottle.</p>",
+    "fr": "<p>Vinoterra est la gamme de vins traditionnels de Schuchmann Wines, le domaine de Kisiskhevi, près de Telavi. Ce rouge est élaboré à partir de <strong>saperavi</strong> de vignes de la vallée de l’Alazani, en Kakhétie, région d’origine du cépage.</p><p>Selon la méthode kakhétienne, le moût fermente en <em>qvevri</em> enterrés, au contact des peaux, et le vin reste dans les jarres pendant une macération prolongée avant d’être soutiré. Ce procédé extrait la couleur intense propre à un cépage à pulpe colorée et une structure tannique notable, que l’acidité naturelle du saperavi maintient en équilibre. Le vin peut ensuite reposer un certain temps avant la mise en bouteille. Il en résulte un rouge sec et sombre, aux fruits noirs et aux tanins fermes, qui illustre le style classique des rouges de qvevri de Kakhétie et évolue favorablement après quelques années de bouteille.</p>",
+    "it": "<p>Vinoterra è la linea di vini tradizionali di Schuchmann Wines, la cantina di Kisiskhevi, vicino a Telavi. Questo rosso si ottiene da <strong>Saperavi</strong> di vigneti della valle dell’Alazani, nel Kakheti, la regione d’origine del vitigno.</p><p>Secondo il metodo kakhetiano, il mosto fermenta in <em>qvevri</em> interrati, a contatto con le bucce, e il vino resta nelle giare per una macerazione prolungata prima del travaso. Questo processo estrae il colore intenso tipico di un vitigno a polpa colorata e una notevole struttura tannica, che l’acidità naturale del Saperavi mantiene in equilibrio. Il vino può poi riposare per un certo tempo prima dell’imbottigliamento. Il risultato è un rosso secco e scuro, di frutta nera e tannini decisi, che illustra lo stile classico dei rossi in qvevri del Kakheti ed evolve favorevolmente con qualche anno di bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rojo violáceo muy intenso. Aromas de mora, arándano, ciruela, regaliz y especias, con notas terrosas. En boca es seco, estructurado y fresco, de taninos firmes y final largo.",
+    "en": "Very intense purplish red. Aromas of blackberry, blueberry, plum, liquorice and spice, with earthy notes. Dry, structured and fresh on the palate, with firm tannins and a long finish.",
+    "fr": "Rouge violacé très intense. Arômes de mûre, de myrtille, de prune, de réglisse et d’épices, avec des notes terreuses. En bouche, il est sec, structuré et frais, aux tanins fermes et à la finale longue.",
+    "it": "Rosso violaceo molto intenso. Profumi di mora, mirtillo, prugna, liquirizia e spezie, con note terrose. In bocca è secco, strutturato e fresco, con tannini decisi e finale lungo."
+  },
+  "pairing": {
+    "es": "cordero y cerdo a la parrilla, mtsvadi (brochetas georgianas), guisos especiados, quesos curados",
+    "en": "grilled lamb and pork, mtsvadi (Georgian skewers), spiced stews, aged cheeses",
+    "fr": "agneau et porc grillés, mtsvadi (brochettes géorgiennes), ragoûts épicés, fromages affinés",
+    "it": "agnello e maiale alla griglia, mtsvadi (spiedini georgiani), stufati speziati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Vinoterra Saperavi Schuchmann"
+}

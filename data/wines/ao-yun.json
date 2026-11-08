@@ -1,0 +1,44 @@
+{
+  "slug": "ao-yun",
+  "name": "Ao Yun",
+  "winery": "ao-yun",
+  "region": null,
+  "country": "china",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Tinto de alta montaña elaborado por Moët Hennessy en el noroeste de Yunnan, con Cabernet Sauvignon y Cabernet Franc de viñedos situados a más de dos mil metros. Su primera cosecha fue la de 2013.",
+    "en": "A high-mountain red made by Moët Hennessy in north-western Yunnan, from Cabernet Sauvignon and Cabernet Franc grown at more than two thousand metres. Its first vintage was 2013.",
+    "fr": "Rouge de haute montagne élaboré par Moët Hennessy dans le nord-ouest du Yunnan, à partir de cabernet-sauvignon et de cabernet franc de vignes situées à plus de deux mille mètres. Son premier millésime fut 2013.",
+    "it": "Rosso d’alta montagna prodotto da Moët Hennessy nello Yunnan nord-occidentale, con Cabernet Sauvignon e Cabernet Franc da vigneti a oltre duemila metri. La sua prima annata è stata il 2013."
+  },
+  "body": {
+    "es": "<p>Ao Yun es el único vino de la bodega del mismo nombre, creada por el grupo Moët Hennessy en las montañas del noroeste de la provincia de Yunnan, cerca del monte Meili. Se elabora con uvas de pequeñas parcelas repartidas entre varias aldeas de montaña, a altitudes que superan los dos mil metros, cultivadas en colaboración con familias campesinas de la zona.</p><p>El ensamblaje se basa en la <strong>Cabernet Sauvignon</strong>, completada con <strong>Cabernet Franc</strong> y, según la añada, pequeñas proporciones de otras variedades. Las parcelas se vinifican por separado, y el vino se cría en barricas de roble francés antes del ensamblaje y el embotellado. La altitud, con días soleados y noches frescas, y el largo ciclo de maduración dan un tinto de fruta concentrada, frescura marcada y taninos firmes, concebido para evolucionar en botella.</p>",
+    "en": "<p>Ao Yun is the only wine of the winery of the same name, created by the Moët Hennessy group in the mountains of north-western Yunnan province, near Meili Snow Mountain. It is made from grapes from small plots spread among several mountain villages, at altitudes above two thousand metres, farmed in collaboration with local farming families.</p><p>The blend is based on <strong>Cabernet Sauvignon</strong>, completed with <strong>Cabernet Franc</strong> and, depending on the vintage, small proportions of other varieties. The plots are vinified separately, and the wine is aged in French oak barrels before blending and bottling. The altitude, with sunny days and cool nights, and the long ripening season give a red with concentrated fruit, marked freshness and firm tannins, designed to evolve in bottle. It is also seen as a symbol of the potential of high-altitude viticulture in China.</p>",
+    "fr": "<p>Ao Yun est l’unique vin de la cave du même nom, créée par le groupe Moët Hennessy dans les montagnes du nord-ouest de la province du Yunnan, près du mont Meili. Il est élaboré à partir de raisins de petites parcelles réparties entre plusieurs villages de montagne, à des altitudes dépassant deux mille mètres, cultivées en collaboration avec des familles paysannes de la zone.</p><p>L’assemblage repose sur le <strong>cabernet-sauvignon</strong>, complété par du <strong>cabernet franc</strong> et, selon le millésime, de petites proportions d’autres cépages. Les parcelles sont vinifiées séparément et le vin est élevé en barriques de chêne français avant l’assemblage et la mise en bouteille. L’altitude, avec des journées ensoleillées et des nuits fraîches, et un long cycle de maturation donnent un rouge au fruit concentré, d’une fraîcheur marquée et aux tanins fermes, conçu pour évoluer en bouteille.</p>",
+    "it": "<p>Ao Yun è l’unico vino della cantina omonima, creata dal gruppo Moët Hennessy sulle montagne dello Yunnan nord-occidentale, vicino al monte Meili. È prodotto con uve di piccoli appezzamenti distribuiti tra diversi villaggi di montagna, ad altitudini superiori ai duemila metri, coltivati in collaborazione con famiglie contadine della zona.</p><p>L’assemblaggio si basa sul <strong>Cabernet Sauvignon</strong>, completato dal <strong>Cabernet Franc</strong> e, a seconda dell’annata, da piccole percentuali di altri vitigni. Le parcelle vengono vinificate separatamente e il vino affina in barrique di rovere francese prima dell’assemblaggio e dell’imbottigliamento. L’altitudine, con giornate soleggiate e notti fresche, e il lungo ciclo di maturazione danno un rosso dal frutto concentrato, di spiccata freschezza e dai tannini decisi, pensato per evolvere in bottiglia. È considerato anche un simbolo del potenziale della viticoltura d’alta quota in Cina, oltre che del crescente interesse internazionale per lo Yunnan.</p>"
+  },
+  "tasting": {
+    "es": "Color profundo. Aromas de fruta negra, casis, notas herbáceas y especiadas y un fondo tostado de la crianza. En boca es concentrado y fresco, con taninos firmes y final largo.",
+    "en": "Deep colour. Aromas of black fruit, blackcurrant, herbal and spicy notes and a toasty background from ageing. Concentrated and fresh on the palate, with firm tannins and a long finish.",
+    "fr": "Robe profonde. Arômes de fruits noirs, de cassis, notes herbacées et épicées et un fond grillé issu de l’élevage. En bouche, il est concentré et frais, avec des tanins fermes et une finale longue.",
+    "it": "Colore profondo. Aromi di frutta nera, cassis, note erbacee e speziate e un fondo tostato dell’affinamento. In bocca è concentrato e fresco, con tannini decisi e finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas asadas, cordero, caza, setas, platos de la cocina de Yunnan con carne",
+    "en": "Roast red meat, lamb, game, mushrooms, Yunnan meat dishes",
+    "fr": "Viandes rouges rôties, agneau, gibier, champignons, plats de viande de la cuisine du Yunnan",
+    "it": "Carni rosse arrosto, agnello, selvaggina, funghi, piatti di carne della cucina dello Yunnan"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Ao Yun Moët Hennessy Yunnan"
+}

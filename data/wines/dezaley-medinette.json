@@ -1,0 +1,48 @@
+{
+  "slug": "dezaley-medinette",
+  "name": "Dézaley Médinette",
+  "winery": "louis-bovard",
+  "region": "vaud",
+  "country": "suiza",
+  "type": "blanco",
+  "category": {
+    "es": "Grand Cru",
+    "en": "Grand Cru",
+    "fr": "Grand Cru",
+    "it": "Grand Cru"
+  },
+  "grapes": [
+    "chasselas"
+  ],
+  "summary": {
+    "es": "Chasselas de la denominación Dézaley Grand Cru, en Lavaux, el vino más conocido del Domaine Louis Bovard y un clásico de la región.",
+    "en": "A Chasselas from the Dézaley Grand Cru appellation in Lavaux, the best-known wine of Domaine Louis Bovard and a regional classic.",
+    "fr": "Chasselas de l’appellation Dézaley Grand Cru, en Lavaux, le vin le plus connu du Domaine Louis Bovard et un classique de la région.",
+    "it": "Chasselas della denominazione Dézaley Grand Cru, nel Lavaux, il vino più noto del Domaine Louis Bovard e un classico della regione."
+  },
+  "body": {
+    "es": "<p>Dézaley es una de las dos denominaciones Grand Cru de Lavaux, en el cantón de Vaud, y ocupa algunas de las terrazas más empinadas que caen sobre el lago Lemán. Sus viñas, sobre suelos de conglomerados y molasa, reciben el sol directo, el reflejo del lago y el calor acumulado por los muros de piedra, lo que permite una maduración completa de la <strong>Chasselas</strong>.</p><p>El Médinette es el vino más conocido del Domaine Louis Bovard en esta denominación. Se elabora con Chasselas, siguiendo la tradición vaudense: fermentación maloláctica y crianza sobre lías, que dan a este blanco redondez y textura sin restarle finura. Comparado con otros Chasselas, los Dézaley suelen ser más amplios y profundos, y el Médinette es apreciado por su capacidad de envejecimiento: con los años desarrolla notas de miel, frutos secos tostados y matices minerales más marcados. Es una referencia para comprender el potencial de la Chasselas en sus mejores terruños.</p>",
+    "en": "<p>Dézaley is one of the two Grand Cru appellations of Lavaux, in the canton of Vaud, and occupies some of the steepest terraces dropping to Lake Geneva. Its vines, on conglomerate and molasse soils, receive direct sunlight, the reflection from the lake and the heat stored in the stone walls, which allows <strong>Chasselas</strong> to ripen fully.</p><p>Médinette is the best-known wine of Domaine Louis Bovard in this appellation. It is made from Chasselas following Vaud tradition: malolactic fermentation and ageing on the lees, which give this white roundness and texture without diminishing its finesse. Compared with other Chasselas, Dézaley wines tend to be broader and deeper, and Médinette is prized for its ageing potential: over the years it develops notes of honey, toasted nuts and more pronounced mineral nuances. It is a reference for understanding the potential of Chasselas in its finest terroirs.</p>",
+    "fr": "<p>Dézaley est l’une des deux appellations Grand Cru de Lavaux, dans le canton de Vaud, et occupe certaines des terrasses les plus raides qui plongent vers le Léman. Ses vignes, sur des sols de poudingues et de molasse, reçoivent le soleil direct, le reflet du lac et la chaleur emmagasinée par les murs de pierre, ce qui permet une pleine maturité du <strong>chasselas</strong>.</p><p>Le Médinette est le vin le plus connu du Domaine Louis Bovard dans cette appellation. Il est élaboré en chasselas selon la tradition vaudoise : fermentation malolactique et élevage sur lies, qui donnent à ce blanc rondeur et texture sans nuire à sa finesse. Par rapport à d’autres chasselas, les Dézaley sont souvent plus amples et plus profonds, et le Médinette est apprécié pour son aptitude au vieillissement : avec les années, il développe des notes de miel, de fruits secs grillés et des nuances minérales plus marquées. C’est une référence pour comprendre le potentiel du chasselas sur ses meilleurs terroirs.</p>",
+    "it": "<p>Dézaley è una delle due denominazioni Grand Cru del Lavaux, nel cantone di Vaud, e occupa alcune delle terrazze più ripide che scendono sul Lago Lemano. Le sue vigne, su suoli di conglomerati e molassa, ricevono il sole diretto, il riflesso del lago e il calore accumulato dai muri in pietra, il che permette una piena maturazione dello <strong>Chasselas</strong>.</p><p>Il Médinette è il vino più noto del Domaine Louis Bovard in questa denominazione. È prodotto con Chasselas secondo la tradizione vodese: fermentazione malolattica e affinamento sulle fecce, che danno a questo bianco rotondità e struttura senza togliergli finezza. Rispetto ad altri Chasselas, i Dézaley sono di solito più ampi e profondi, e il Médinette è apprezzato per la capacità di invecchiamento: con gli anni sviluppa note di miele, frutta secca tostata e sfumature minerali più marcate. È un riferimento per comprendere il potenziale dello Chasselas nei suoi terroir migliori.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido con reflejos dorados. Aromas de tilo, fruta blanca, almendra y notas minerales; con la edad, miel y avellana tostada. Boca amplia, sedosa y persistente.",
+    "en": "Pale yellow with golden highlights. Aromas of lime blossom, white fruit, almond and mineral notes; with age, honey and toasted hazelnut. Broad, silky, persistent palate.",
+    "fr": "Jaune pâle aux reflets dorés. Arômes de tilleul, de fruits blancs, d’amande et notes minérales ; avec l’âge, miel et noisette grillée. Bouche ample, soyeuse et persistante.",
+    "it": "Giallo paglierino con riflessi dorati. Profumi di tiglio, frutta bianca, mandorla e note minerali; con l’età, miele e nocciola tostata. Bocca ampia, setosa e persistente."
+  },
+  "pairing": {
+    "es": "Filetes de perca, pescados de lago, quesos alpinos, aves en salsa",
+    "en": "Perch fillets, lake fish, Alpine cheeses, poultry in sauce",
+    "fr": "Filets de perche, poissons du lac, fromages alpins, volaille en sauce",
+    "it": "Filetti di pesce persico, pesci di lago, formaggi alpini, pollame in salsa"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de vino blanco amplia",
+    "en": "10-12 °C, large white-wine glass",
+    "fr": "10-12 °C, grand verre à vin blanc",
+    "it": "10-12 °C, calice ampio da vino bianco"
+  },
+  "search": "Dézaley Médinette Louis Bovard"
+}

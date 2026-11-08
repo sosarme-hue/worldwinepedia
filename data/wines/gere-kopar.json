@@ -1,0 +1,45 @@
+{
+  "slug": "gere-kopar",
+  "name": "Gere Kopar",
+  "winery": "gere-attila",
+  "region": "villany",
+  "country": "hungria",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-franc",
+    "merlot",
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "Tinto de corte bordelés de la bodega de Attila Gere, en Villány, que toma su nombre de la ladera de Kopar. Es uno de los tintos de referencia del sur de Hungría.",
+    "en": "A Bordeaux-style red from Attila Gere’s winery in Villány, named after the Kopar hillside. It is one of the benchmark reds of southern Hungary.",
+    "fr": "Rouge de type bordelais du domaine d’Attila Gere, à Villány, qui tire son nom du coteau de Kopar. C’est l’un des rouges de référence du sud de la Hongrie.",
+    "it": "Rosso di taglio bordolese della cantina di Attila Gere, a Villány, che prende il nome dal pendio di Kopar. È uno dei rossi di riferimento dell’Ungheria meridionale."
+  },
+  "body": {
+    "es": "<p>Kopar es una ladera de los montes de Villány, bien expuesta al sol, y da nombre a uno de los vinos más conocidos de la bodega Gere. Se trata de un ensamblaje de variedades bordelesas, en el que intervienen la <strong>Cabernet Franc</strong>, la <strong>Merlot</strong> y la <strong>Cabernet Sauvignon</strong>, cuyas proporciones pueden variar según la añada.</p><p>Las uvas proceden de viñedos sobre suelos de loess, arcillas y caliza, en el clima cálido y soleado que caracteriza a Villány dentro de Hungría. Tras la fermentación, el vino se cría en barricas de roble durante un periodo prolongado y reposa en botella antes de salir al mercado. Es un tinto de cuerpo y estructura, que combina la fruta madura propia de la zona con taninos firmes y una crianza integrada. Gana complejidad con varios años de guarda, y representa bien la apuesta de Villány por las variedades bordelesas.</p>",
+    "en": "<p>Kopar is a sunny, well-exposed hillside in the Villány hills, and gives its name to one of the Gere winery’s best-known wines. It is a blend of Bordeaux varieties, including <strong>Cabernet Franc</strong>, <strong>Merlot</strong> and <strong>Cabernet Sauvignon</strong>, whose proportions may vary with the vintage.</p><p>The grapes come from vineyards on loess, clay and limestone soils, in the warm, sunny climate that sets Villány apart within Hungary. After fermentation, the wine is aged in oak barrels for an extended period and rests in bottle before release. It is a red with body and structure, combining the ripe fruit typical of the area with firm tannins and well-integrated oak. It gains complexity with several years of cellaring, and it is a good illustration of Villány’s commitment to Bordeaux varieties.</p>",
+    "fr": "<p>Kopar est un coteau bien exposé des monts de Villány, qui donne son nom à l’un des vins les plus connus du domaine Gere. Il s’agit d’un assemblage de cépages bordelais, où entrent le <strong>cabernet franc</strong>, le <strong>merlot</strong> et le <strong>cabernet-sauvignon</strong>, dans des proportions qui peuvent varier selon le millésime.</p><p>Les raisins proviennent de vignes plantées sur des sols de lœss, d’argiles et de calcaire, sous le climat chaud et ensoleillé qui distingue Villány au sein de la Hongrie. Après la fermentation, le vin est élevé longuement en barriques de chêne et repose en bouteille avant sa commercialisation. C’est un rouge corsé et structuré, qui associe le fruit mûr propre à la zone à des tanins fermes et à un élevage bien intégré. Il gagne en complexité après plusieurs années de garde et illustre bien le choix de Villány en faveur des cépages bordelais.</p>",
+    "it": "<p>Kopar è un pendio ben esposto dei monti di Villány, che dà il nome a uno dei vini più noti della cantina Gere. Si tratta di un uvaggio di vitigni bordolesi, in cui entrano <strong>Cabernet Franc</strong>, <strong>Merlot</strong> e <strong>Cabernet Sauvignon</strong>, in proporzioni che possono variare secondo l’annata.</p><p>Le uve provengono da vigneti su suoli di loess, argille e calcare, nel clima caldo e soleggiato che distingue Villány all’interno dell’Ungheria. Dopo la fermentazione il vino affina a lungo in barrique di rovere e riposa in bottiglia prima della messa in commercio. È un rosso di corpo e struttura, che unisce il frutto maturo tipico della zona a tannini decisi e a un affinamento ben integrato. Acquista complessità con diversi anni di invecchiamento e rappresenta bene la scelta di Villány a favore dei vitigni bordolesi.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota profundo. Aromas de grosella negra, cereza madura y ciruela, con notas de especias, cedro, tabaco y vainilla. En boca es amplio y estructurado, de taninos firmes y final largo.",
+    "en": "Deep cherry red. Aromas of blackcurrant, ripe cherry and plum, with notes of spice, cedar, tobacco and vanilla. Broad and structured on the palate, with firm tannins and a long finish.",
+    "fr": "Rouge cerise profond. Arômes de cassis, de cerise mûre et de prune, avec des notes d’épices, de cèdre, de tabac et de vanille. Ample et structuré en bouche, aux tanins fermes et à la finale longue.",
+    "it": "Rosso ciliegia profondo. Profumi di ribes nero, ciliegia matura e prugna, con note di spezie, cedro, tabacco e vaniglia. In bocca è ampio e strutturato, con tannini decisi e finale lungo."
+  },
+  "pairing": {
+    "es": "carnes rojas a la brasa, guisos de caza, gulash, quesos curados",
+    "en": "grilled red meat, game stews, goulash, aged cheeses",
+    "fr": "viandes rouges grillées, ragoûts de gibier, goulash, fromages affinés",
+    "it": "carni rosse alla brace, stufati di selvaggina, gulasch, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Gere Kopar Villány"
+}

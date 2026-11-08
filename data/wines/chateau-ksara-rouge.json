@@ -1,0 +1,45 @@
+{
+  "slug": "chateau-ksara-rouge",
+  "name": "Château Ksara",
+  "winery": "chateau-ksara",
+  "region": "valle-de-la-bekaa",
+  "country": "libano",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "petit-verdot"
+  ],
+  "summary": {
+    "es": "Tinto de crianza que lleva el nombre de la casa, ensamblaje de corte bordelés de viñedos de la Bekaa. Es uno de los vinos de mayor ambición de la bodega más antigua del Líbano moderno.",
+    "en": "An aged red bearing the house name, a Bordeaux-style blend from Bekaa vineyards. It is one of the most ambitious wines from the oldest winery of modern Lebanon.",
+    "fr": "Rouge de garde qui porte le nom de la maison, assemblage de type bordelais issu de vignes de la Bekaa. C’est l’un des vins les plus ambitieux de la plus ancienne cave du Liban moderne.",
+    "it": "Rosso d’affinamento che porta il nome della casa, assemblaggio di taglio bordolese da vigneti della Bekaa. È uno dei vini più ambiziosi della cantina più antica del Libano moderno."
+  },
+  "body": {
+    "es": "<p>El tinto Château Ksara se sitúa en la parte alta de la gama de la bodega. Es un ensamblaje de corte bordelés en el que intervienen la <strong>Cabernet Sauvignon</strong>, la <strong>Merlot</strong> y la <strong>Petit Verdot</strong>, en proporciones que varían según la añada, procedentes de viñedos de la Bekaa situados a unos mil metros de altitud.</p><p>Tras la fermentación, el vino se cría en barricas de roble y completa su afinado en las galerías subterráneas de la bodega, cuya temperatura y humedad estables favorecen una evolución lenta. El resultado es un tinto que combina la fruta madura propia de los veranos secos y soleados de la Bekaa con la estructura de las variedades bordelesas y la frescura que aportan las noches de altitud. Puede beberse tras unos años de botella, aunque admite una guarda prolongada. Es un buen ejemplo del estilo de los tintos de crianza de la Bekaa.</p>",
+    "en": "<p>The red Château Ksara sits at the top of the winery’s range. It is a Bordeaux-style blend of <strong>Cabernet Sauvignon</strong>, <strong>Merlot</strong> and <strong>Petit Verdot</strong>, in proportions that vary with the vintage, from Bekaa vineyards at around a thousand metres above sea level.</p><p>After fermentation the wine is aged in oak barrels and completes its maturation in the winery’s underground galleries, whose stable temperature and humidity encourage slow development. The result is a red that combines the ripe fruit of the Bekaa’s dry, sunny summers with the structure of the Bordeaux varieties and the freshness brought by cool high-altitude nights. It can be drunk after a few years in bottle, though it will also age for a long time. It is a good example of the style of the Bekaa’s aged reds, and a decanting before serving can help it open up.</p>",
+    "fr": "<p>Le rouge Château Ksara se situe dans le haut de la gamme de la cave. C’est un assemblage de type bordelais de <strong>cabernet-sauvignon</strong>, de <strong>merlot</strong> et de <strong>petit verdot</strong>, dans des proportions qui varient selon le millésime, issu de vignes de la Bekaa situées à environ mille mètres d’altitude.</p><p>Après la fermentation, le vin est élevé en barriques de chêne et achève son affinage dans les galeries souterraines de la cave, dont la température et l’humidité stables favorisent une évolution lente. Il en résulte un rouge qui associe le fruit mûr des étés secs et ensoleillés de la Bekaa à la structure des cépages bordelais et à la fraîcheur apportée par les nuits d’altitude. Il peut se boire après quelques années de bouteille, mais supporte aussi une garde prolongée. C’est un bon exemple du style des rouges de garde de la Bekaa, et un passage en carafe peut l’aider à s’ouvrir.</p>",
+    "it": "<p>Il rosso Château Ksara si colloca nella fascia alta della gamma della cantina. È un assemblaggio di taglio bordolese di <strong>Cabernet Sauvignon</strong>, <strong>Merlot</strong> e <strong>Petit Verdot</strong>, in proporzioni che variano secondo l’annata, da vigneti della Bekaa situati a circa mille metri di quota.</p><p>Dopo la fermentazione il vino affina in barrique di rovere e completa la maturazione nelle gallerie sotterranee della cantina, la cui temperatura e umidità stabili favoriscono un’evoluzione lenta. Ne risulta un rosso che unisce il frutto maturo delle estati secche e soleggiate della Bekaa alla struttura dei vitigni bordolesi e alla freschezza data dalle notti d’altura. Si può bere dopo qualche anno di bottiglia, ma regge anche un lungo invecchiamento. È un buon esempio dello stile dei rossi d’affinamento della Bekaa, e una decantazione prima del servizio può aiutarlo ad aprirsi.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota profundo. Aromas de fruta negra madura, cedro, especias y notas tostadas de la crianza. En boca es estructurado, con taninos firmes y un final persistente.",
+    "en": "Deep cherry red. Aromas of ripe black fruit, cedar, spice and toasty notes from ageing. Structured on the palate, with firm tannins and a persistent finish.",
+    "fr": "Rouge cerise profond. Arômes de fruits noirs mûrs, de cèdre, d’épices et notes grillées de l’élevage. En bouche, il est structuré, avec des tanins fermes et une finale persistante.",
+    "it": "Rosso ciliegia profondo. Aromi di frutta nera matura, cedro, spezie e note tostate dell’affinamento. In bocca è strutturato, con tannini decisi e un finale persistente."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, cordero, guisos especiados, quesos curados",
+    "en": "Grilled red meat, lamb, spiced stews, aged cheeses",
+    "fr": "Viandes rouges grillées, agneau, ragoûts épicés, fromages affinés",
+    "it": "Carni rosse alla brace, agnello, stufati speziati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Château Ksara Rouge Château Ksara"
+}

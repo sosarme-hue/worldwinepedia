@@ -1,0 +1,41 @@
+{
+  "slug": "chateau-musar-rouge",
+  "name": "Château Musar Rouge",
+  "winery": "chateau-musar",
+  "region": "valle-de-la-bekaa",
+  "country": "libano",
+  "type": "tinto",
+  "category": null,
+  "grapes": ["cabernet-sauvignon", "cinsault", "carinena"],
+  "summary": {
+    "es": "El tinto emblemático de Château Musar, ensamblaje de Cabernet Sauvignon, Cinsault y Cariñena de la Bekaa que sale al mercado varios años después de la vendimia. Es conocido por su estilo personal y su capacidad de evolucionar durante décadas.",
+    "en": "Château Musar’s emblematic red, a blend of Cabernet Sauvignon, Cinsault and Carignan from the Bekaa released several years after the harvest. It is known for its personal style and its ability to evolve over decades.",
+    "fr": "Le rouge emblématique de Château Musar, assemblage de cabernet-sauvignon, de cinsault et de carignan de la Bekaa commercialisé plusieurs années après les vendanges. Il est connu pour son style personnel et sa capacité à évoluer pendant des décennies.",
+    "it": "Il rosso emblematico di Château Musar, assemblaggio di Cabernet Sauvignon, Cinsault e Carignano della Bekaa messo in commercio diversi anni dopo la vendemmia. È noto per il suo stile personale e per la capacità di evolvere per decenni."
+  },
+  "body": {
+    "es": "<p>El Château Musar tinto se elabora con uvas de <strong>Cabernet Sauvignon</strong>, <strong>Cinsault</strong> y <strong>Cariñena</strong> procedentes de viñedos de la Bekaa, cuyas proporciones varían según la añada. Las variedades se fermentan por separado y se crían durante un tiempo en barricas de roble francés antes de ensamblarse. El vino pasa después un largo periodo en botella en las bodegas de Ghazir, de modo que llega al mercado varios años después de la vendimia.</p><p>La casa defiende una intervención mínima y un estilo que no busca la uniformidad entre cosechas, por lo que cada añada tiene un carácter propio. El Musar tinto combina la estructura de la Cabernet Sauvignon con la finura y la fruta especiada de la Cinsault y la Cariñena, y suele mostrar notas de evolución, a veces con una acidez volátil perceptible que forma parte de su estilo. Es un vino concebido para la guarda, que puede seguir evolucionando en botella durante décadas.</p>",
+    "en": "<p>The red Château Musar is made from <strong>Cabernet Sauvignon</strong>, <strong>Cinsault</strong> and <strong>Carignan</strong> grapes from vineyards in the Bekaa, in proportions that vary with the vintage. The varieties are fermented separately and aged for a time in French oak barrels before blending. The wine then spends a long period in bottle in the cellars at Ghazir, so that it reaches the market several years after the harvest.</p><p>The house champions minimal intervention and a style that does not seek uniformity between vintages, so each year has its own character. The red Musar combines the structure of Cabernet Sauvignon with the finesse and spicy fruit of Cinsault and Carignan, and usually shows notes of evolution, sometimes with a perceptible volatile acidity that is part of its style. It is a wine made for ageing, which can go on developing in bottle for decades.</p>",
+    "fr": "<p>Le Château Musar rouge est élaboré à partir de raisins de <strong>cabernet-sauvignon</strong>, de <strong>cinsault</strong> et de <strong>carignan</strong> issus de vignes de la Bekaa, dans des proportions qui varient selon le millésime. Les cépages sont vinifiés séparément et élevés un temps en barriques de chêne français avant l’assemblage. Le vin passe ensuite une longue période en bouteille dans les caves de Ghazir, de sorte qu’il n’est commercialisé que plusieurs années après les vendanges.</p><p>La maison défend une intervention minimale et un style qui ne recherche pas l’uniformité d’un millésime à l’autre, si bien que chaque année a son propre caractère. Le Musar rouge associe la structure du cabernet-sauvignon à la finesse et au fruit épicé du cinsault et du carignan, et montre souvent des notes d’évolution, parfois avec une acidité volatile perceptible qui fait partie de son style. C’est un vin conçu pour la garde, qui peut continuer d’évoluer en bouteille pendant des décennies.</p>",
+    "it": "<p>Il Château Musar rosso è prodotto con uve di <strong>Cabernet Sauvignon</strong>, <strong>Cinsault</strong> e <strong>Carignano</strong> provenienti da vigneti della Bekaa, in proporzioni che variano secondo l’annata. Le varietà vengono vinificate separatamente e affinate per un periodo in barrique di rovere francese prima dell’assemblaggio. Il vino trascorre poi un lungo periodo in bottiglia nelle cantine di Ghazir, così che arriva sul mercato diversi anni dopo la vendemmia.</p><p>La casa sostiene un intervento minimo e uno stile che non cerca l’uniformità tra le annate, per cui ogni anno ha un carattere proprio. Il Musar rosso unisce la struttura del Cabernet Sauvignon alla finezza e al frutto speziato di Cinsault e Carignano, e mostra di solito note evolutive, talvolta con un’acidità volatile percettibile che fa parte del suo stile. È un vino pensato per l’invecchiamento, che può continuare a evolvere in bottiglia per decenni.</p>"
+  },
+  "tasting": {
+    "es": "Color rubí o granate, a menudo con ribete evolutivo. Aromas de fruta roja y negra madura, especias, cuero y notas terrosas. En boca es sabroso y de taninos ya pulidos, con buena acidez y final largo.",
+    "en": "Ruby or garnet in colour, often with an evolved rim. Aromas of ripe red and black fruit, spice, leather and earthy notes. Savoury on the palate, with already polished tannins, good acidity and a long finish.",
+    "fr": "Robe rubis ou grenat, souvent avec un disque évolué. Arômes de fruits rouges et noirs mûrs, d’épices, de cuir et notes terreuses. En bouche, il est savoureux, aux tanins déjà polis, avec une bonne acidité et une finale longue.",
+    "it": "Colore rubino o granato, spesso con unghia evoluta. Aromi di frutta rossa e nera matura, spezie, cuoio e note terrose. In bocca è sapido, con tannini già levigati, buona acidità e finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, kebabs y carnes a la brasa, caza, platos especiados de Oriente Medio, quesos curados",
+    "en": "Roast lamb, kebabs and grilled meats, game, spiced Middle Eastern dishes, aged cheeses",
+    "fr": "Agneau rôti, kebabs et viandes grillées, gibier, plats épicés du Proche-Orient, fromages affinés",
+    "it": "Agnello arrosto, kebab e carni alla brace, selvaggina, piatti speziati mediorientali, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Château Musar Rouge Château Musar"
+}

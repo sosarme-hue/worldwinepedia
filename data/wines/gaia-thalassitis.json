@@ -1,0 +1,48 @@
+{
+  "slug": "gaia-thalassitis",
+  "name": "Gaia Thalassitis",
+  "winery": "gaia-wines",
+  "region": "santorini",
+  "country": "grecia",
+  "type": "blanco",
+  "category": {
+    "es": "Santorini DOP",
+    "en": "Santorini PDO",
+    "fr": "Santorin AOP",
+    "it": "Santorini DOP"
+  },
+  "grapes": [
+    "assyrtiko"
+  ],
+  "summary": {
+    "es": "Blanco seco de Assyrtiko de la DOP Santorini elaborado por Gaia con uvas de viñas viejas de la isla. Su nombre alude al mar que rodea los viñedos.",
+    "en": "A dry Assyrtiko white from the Santorini PDO made by Gaia from the island’s old vines. Its name alludes to the sea surrounding the vineyards.",
+    "fr": "Blanc sec d’assyrtiko de l’AOP Santorin élaboré par Gaia à partir de vieilles vignes de l’île. Son nom évoque la mer qui entoure les vignobles.",
+    "it": "Bianco secco di Assyrtiko della DOP Santorini prodotto da Gaia con uve di vecchie vigne dell’isola. Il nome allude al mare che circonda i vigneti."
+  },
+  "body": {
+    "es": "<p>Thalassitis se elabora con <strong>Assyrtiko</strong> de Santorini, procedente de viñas viejas que crecen sobre sus propias raíces en los suelos volcánicos de la isla y que se conducen en la forma tradicional de cesta para protegerse del viento. Los rendimientos son muy bajos, y la uva conserva una acidez muy elevada pese al clima cálido y seco.</p><p>La vinificación se orienta a preservar la pureza de la fruta y la tensión de la variedad: fermentación en depósito a temperatura controlada y crianza sin madera, a veces con cierto contacto con las lías para ganar textura. El resultado es un blanco seco de perfil cítrico y mineral, con la sensación salina que se asocia a los vinos de la isla. Puede beberse joven, pero su acidez le permite evolucionar varios años en botella, adquiriendo notas más complejas.</p><p>Es uno de los blancos que más han contribuido a la difusión internacional de la Assyrtiko de Santorini.</p>",
+    "en": "<p>Thalassitis is made from Santorini <strong>Assyrtiko</strong>, from old vines growing on their own roots in the island’s volcanic soils and trained in the traditional basket shape to protect them from the wind. Yields are very low, and the grapes keep very high acidity despite the hot, dry climate.</p><p>Winemaking aims to preserve the purity of the fruit and the variety’s tension: fermentation in tank at controlled temperature and ageing without oak, sometimes with some lees contact to add texture. The result is a dry white with a citrus and mineral profile and the saline sensation associated with the island’s wines. It can be drunk young, but its acidity allows it to evolve for several years in bottle, acquiring more complex notes.</p><p>It is one of the whites that have done most to spread Santorini Assyrtiko internationally.</p>",
+    "fr": "<p>Thalassitis est élaboré à partir d’<strong>assyrtiko</strong> de Santorin, issu de vieilles vignes franches de pied plantées dans les sols volcaniques de l’île et conduites en corbeille selon la tradition pour les protéger du vent. Les rendements sont très faibles, et le raisin conserve une acidité très élevée malgré le climat chaud et sec.</p><p>La vinification vise à préserver la pureté du fruit et la tension du cépage : fermentation en cuve à température contrôlée et élevage sans bois, parfois avec un certain contact sur lies pour gagner en texture. Il en résulte un blanc sec au profil d’agrumes et minéral, avec la sensation saline associée aux vins de l’île. Il peut se boire jeune, mais son acidité lui permet d’évoluer plusieurs années en bouteille, en développant des notes plus complexes.</p><p>C’est l’un des blancs qui ont le plus contribué à la diffusion internationale de l’assyrtiko de Santorin.</p>",
+    "it": "<p>Thalassitis si ottiene da <strong>Assyrtiko</strong> di Santorini, proveniente da vecchie vigne franche di piede nei suoli vulcanici dell’isola e allevate nella tradizionale forma a cesto per proteggerle dal vento. Le rese sono molto basse, e l’uva conserva un’acidità molto elevata nonostante il clima caldo e secco.</p><p>La vinificazione punta a preservare la purezza del frutto e la tensione del vitigno: fermentazione in vasca a temperatura controllata e affinamento senza legno, talvolta con un certo contatto con le fecce per acquistare consistenza. Il risultato è un bianco secco dal profilo agrumato e minerale, con la sensazione sapida associata ai vini dell’isola. Si può bere giovane, ma l’acidità gli permette di evolvere per diversi anni in bottiglia, sviluppando note più complesse.</p><p>È uno dei bianchi che più hanno contribuito alla diffusione internazionale dell’Assyrtiko di Santorini.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido con reflejos verdosos. Aromas de limón, lima, piedra mojada y flores blancas. Boca seca, tensa y salina, de acidez muy viva y final largo y mineral.",
+    "en": "Pale yellow with green hints. Aromas of lemon, lime, wet stone and white flowers. Dry, taut and saline on the palate, with very lively acidity and a long, mineral finish.",
+    "fr": "Jaune pâle aux reflets verts. Arômes de citron, de citron vert, de pierre mouillée et de fleurs blanches. Bouche sèche, tendue et saline, à l’acidité très vive et à la finale longue et minérale.",
+    "it": "Giallo paglierino con riflessi verdolini. Profumi di limone, lime, pietra bagnata e fiori bianchi. Bocca secca, tesa e sapida, con acidità molto vivace e finale lungo e minerale."
+  },
+  "pairing": {
+    "es": "pescados a la plancha, marisco, ostras, pulpo, cocina griega con aceite y limón",
+    "en": "grilled fish, shellfish, oysters, octopus, Greek dishes with olive oil and lemon",
+    "fr": "poissons grillés, fruits de mer, huîtres, poulpe, cuisine grecque à l’huile d’olive et au citron",
+    "it": "pesce alla griglia, frutti di mare, ostriche, polpo, cucina greca con olio e limone"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de vino blanco",
+    "en": "10-12 °C, white wine glass",
+    "fr": "10-12 °C, verre à vin blanc",
+    "it": "10-12 °C, calice da vino bianco"
+  },
+  "search": "Gaia Thalassitis Santorini Assyrtiko"
+}

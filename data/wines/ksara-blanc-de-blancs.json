@@ -1,0 +1,41 @@
+{
+  "slug": "ksara-blanc-de-blancs",
+  "name": "Blanc de Blancs",
+  "winery": "chateau-ksara",
+  "region": "valle-de-la-bekaa",
+  "country": "libano",
+  "type": "blanco",
+  "category": null,
+  "grapes": ["chardonnay", "sauvignon-blanc", "semillon"],
+  "summary": {
+    "es": "Blanco seco de Château Ksara elaborado con Chardonnay, Sauvignon Blanc y Sémillon de la Bekaa, con una parte del vino fermentada en barrica. Combina frescura y textura.",
+    "en": "A dry white from Château Ksara made from Chardonnay, Sauvignon Blanc and Sémillon from the Bekaa, with part of the wine fermented in barrel. It combines freshness and texture.",
+    "fr": "Blanc sec de Château Ksara élaboré à partir de chardonnay, de sauvignon blanc et de sémillon de la Bekaa, dont une partie est fermentée en barrique. Il associe fraîcheur et texture.",
+    "it": "Bianco secco di Château Ksara prodotto con Chardonnay, Sauvignon Blanc e Sémillon della Bekaa, con una parte del vino fermentata in barrique. Unisce freschezza e struttura."
+  },
+  "body": {
+    "es": "<p>El Blanc de Blancs es uno de los blancos más conocidos de Château Ksara. Se elabora con <strong>Chardonnay</strong>, <strong>Sauvignon Blanc</strong> y <strong>Sémillon</strong> procedentes de viñedos de la Bekaa, en proporciones que pueden variar de una añada a otra. La altitud de los viñedos y la frescura de las noches estivales permiten conservar la acidez de la uva a pesar de la intensa insolación del verano.</p><p>En su elaboración, una parte del vino, en general la de Chardonnay, fermenta y se cría durante un tiempo en barrica, mientras que el resto se elabora en depósito para preservar la fruta y la frescura aromática de la Sauvignon Blanc. El ensamblaje da un blanco seco de perfil equilibrado, con la viveza de los blancos jóvenes y una textura algo más amplia aportada por la madera. Puede beberse joven o tras unos pocos años en botella.</p>",
+    "en": "<p>Blanc de Blancs is one of Château Ksara’s best-known whites. It is made from <strong>Chardonnay</strong>, <strong>Sauvignon Blanc</strong> and <strong>Sémillon</strong> from vineyards in the Bekaa, in proportions that may vary from one vintage to another. The altitude of the vineyards and the cool summer nights help the grapes keep their acidity despite the intense summer sunshine.</p><p>In winemaking, part of the wine, generally the Chardonnay, is fermented and aged for a time in barrel, while the rest is made in tank to preserve the fruit and aromatic freshness of the Sauvignon Blanc. The blend gives a dry white with a balanced profile, combining the liveliness of young whites with a somewhat broader texture from the oak. It can be drunk young or after a few years in bottle.</p>",
+    "fr": "<p>Le Blanc de Blancs est l’un des blancs les plus connus de Château Ksara. Il est élaboré à partir de <strong>chardonnay</strong>, de <strong>sauvignon blanc</strong> et de <strong>sémillon</strong> issus de vignes de la Bekaa, dans des proportions qui peuvent varier d’un millésime à l’autre. L’altitude des vignes et la fraîcheur des nuits d’été permettent au raisin de conserver son acidité malgré l’ensoleillement intense de l’été.</p><p>Lors de la vinification, une partie du vin, en général le chardonnay, fermente et s’élève un temps en barrique, tandis que le reste est élaboré en cuve pour préserver le fruit et la fraîcheur aromatique du sauvignon blanc. L’assemblage donne un blanc sec au profil équilibré, qui allie la vivacité des blancs jeunes à une texture un peu plus ample apportée par le bois. Il peut se boire jeune ou après quelques années de bouteille.</p>",
+    "it": "<p>Il Blanc de Blancs è uno dei bianchi più noti di Château Ksara. È prodotto con <strong>Chardonnay</strong>, <strong>Sauvignon Blanc</strong> e <strong>Sémillon</strong> provenienti da vigneti della Bekaa, in proporzioni che possono variare da un’annata all’altra. L’altitudine dei vigneti e la freschezza delle notti estive permettono all’uva di conservare l’acidità nonostante l’intensa insolazione dell’estate.</p><p>In vinificazione una parte del vino, in genere lo Chardonnay, fermenta e affina per un periodo in barrique, mentre il resto viene vinificato in vasca per preservare il frutto e la freschezza aromatica del Sauvignon Blanc. L’assemblaggio dà un bianco secco dal profilo equilibrato, che unisce la vivacità dei bianchi giovani a una trama un po’ più ampia data dal legno. Si può bere giovane o dopo qualche anno di bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido con reflejos dorados. Aromas de fruta blanca, cítricos y notas florales, con un ligero fondo tostado. En boca es fresco, de cuerpo medio y final limpio.",
+    "en": "Pale yellow with golden glints. Aromas of white fruit, citrus and floral notes, with a light toasty background. Fresh and medium-bodied on the palate, with a clean finish.",
+    "fr": "Jaune pâle aux reflets dorés. Arômes de fruits blancs, d’agrumes et notes florales, avec un léger fond grillé. En bouche, il est frais, de corps moyen, avec une finale nette.",
+    "it": "Giallo paglierino con riflessi dorati. Aromi di frutta bianca, agrumi e note floreali, con un leggero fondo tostato. In bocca è fresco, di corpo medio e dal finale pulito."
+  },
+  "pairing": {
+    "es": "Mezze, pescados a la plancha, ensaladas, aves, quesos frescos",
+    "en": "Mezze, grilled fish, salads, poultry, fresh cheeses",
+    "fr": "Mezzés, poissons grillés, salades, volailles, fromages frais",
+    "it": "Mezze, pesce alla griglia, insalate, pollame, formaggi freschi"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de vino blanco",
+    "en": "10-12 °C, white wine glass",
+    "fr": "10-12 °C, verre à vin blanc",
+    "it": "10-12 °C, calice da vino bianco"
+  },
+  "search": "Blanc de Blancs Château Ksara"
+}

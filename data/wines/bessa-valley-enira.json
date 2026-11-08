@@ -1,0 +1,46 @@
+{
+  "slug": "bessa-valley-enira",
+  "name": "Bessa Valley Enira",
+  "winery": "bessa-valley",
+  "region": "valle-de-tracia",
+  "country": "bulgaria",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "merlot",
+    "syrah",
+    "cabernet-sauvignon",
+    "petit-verdot"
+  ],
+  "summary": {
+    "es": "Tinto de ensamblaje de Bessa Valley Winery, en el valle de Tracia, de inspiración bordelesa y con la Merlot como variedad principal. Es el vino que dio a conocer la bodega.",
+    "en": "A blended red from Bessa Valley Winery in the Thracian Valley, Bordeaux-inspired and led by Merlot. It is the wine that made the winery’s name.",
+    "fr": "Rouge d’assemblage de Bessa Valley Winery, dans la vallée de Thrace, d’inspiration bordelaise et dominé par le merlot. C’est le vin qui a fait connaître le domaine.",
+    "it": "Rosso di uvaggio di Bessa Valley Winery, nella valle della Tracia, di ispirazione bordolese e con il Merlot come vitigno principale. È il vino che ha fatto conoscere la cantina."
+  },
+  "body": {
+    "es": "<p>Enira se elabora con uvas de la finca de Bessa Valley, cerca de Pazardzhik, en la parte occidental del valle de Tracia, donde el viñedo se plantó a comienzos de los años 2000 con variedades de origen bordelés y del Ródano. El ensamblaje se basa sobre todo en la <strong>Merlot</strong>, acompañada de <strong>Syrah</strong>, <strong>Cabernet Sauvignon</strong> y <strong>Petit Verdot</strong>, en proporciones que varían según la añada.</p><p>Las variedades suelen vinificarse por separado y, tras el ensamblaje, el vino se cría en barricas de roble antes del embotellado. El estilo refleja la experiencia bordelesa de los fundadores de la bodega: un tinto de fruta madura, taninos redondos y crianza bien integrada, en el que el clima cálido de Tracia aporta generosidad y la Syrah añade notas especiadas. Puede disfrutarse en sus primeros años, aunque también evoluciona en botella durante un tiempo.</p>",
+    "en": "<p>Enira is made from grapes from the Bessa Valley estate, near Pazardzhik, in the western part of the Thracian Valley, where the vineyard was planted in the early 2000s with varieties from Bordeaux and the Rhône. The blend is based mainly on <strong>Merlot</strong>, accompanied by <strong>Syrah</strong>, <strong>Cabernet Sauvignon</strong> and <strong>Petit Verdot</strong>, in proportions that vary with the vintage.</p><p>The varieties are usually vinified separately and, after blending, the wine is aged in oak barrels before bottling. The style reflects the Bordeaux experience of the winery’s founders: a red with ripe fruit, rounded tannins and well-integrated oak, in which the warm Thracian climate brings generosity and Syrah adds spicy notes. It can be enjoyed in its first few years, although it also evolves in bottle for some time.</p>",
+    "fr": "<p>Enira est élaboré à partir de raisins du domaine de Bessa Valley, près de Pazardjik, dans la partie occidentale de la vallée de Thrace, où le vignoble a été planté au début des années 2000 avec des cépages bordelais et rhodaniens. L’assemblage repose surtout sur le <strong>merlot</strong>, accompagné de <strong>syrah</strong>, de <strong>cabernet-sauvignon</strong> et de <strong>petit verdot</strong>, dans des proportions qui varient selon le millésime.</p><p>Les cépages sont généralement vinifiés séparément et, après l’assemblage, le vin est élevé en barriques de chêne avant la mise en bouteille. Le style reflète l’expérience bordelaise des fondateurs du domaine : un rouge au fruit mûr, aux tanins ronds et à l’élevage bien intégré, où le climat chaud de la Thrace apporte de la générosité et la syrah des notes épicées. Il peut s’apprécier dans ses premières années, mais évolue aussi en bouteille pendant un certain temps.</p>",
+    "it": "<p>Enira si ottiene da uve della tenuta di Bessa Valley, vicino a Pazardzhik, nella parte occidentale della valle della Tracia, dove il vigneto è stato piantato all’inizio degli anni Duemila con vitigni bordolesi e del Rodano. L’uvaggio si basa soprattutto sul <strong>Merlot</strong>, affiancato da <strong>Syrah</strong>, <strong>Cabernet Sauvignon</strong> e <strong>Petit Verdot</strong>, in proporzioni che variano secondo l’annata.</p><p>I vitigni vengono di solito vinificati separatamente e, dopo l’assemblaggio, il vino affina in barrique di rovere prima dell’imbottigliamento. Lo stile riflette l’esperienza bordolese dei fondatori della cantina: un rosso dal frutto maturo, tannini rotondi e affinamento ben integrato, in cui il clima caldo della Tracia dà generosità e il Syrah aggiunge note speziate. Si può apprezzare nei primi anni, anche se evolve in bottiglia per un certo tempo.</p>"
+  },
+  "tasting": {
+    "es": "Rojo granate intenso. Aromas de ciruela madura, cereza negra, mora y especias, con notas de vainilla y tostado. En boca es amplio y redondo, de taninos suaves y final especiado.",
+    "en": "Intense garnet red. Aromas of ripe plum, black cherry, blackberry and spice, with vanilla and toasty notes. Broad and round on the palate, with soft tannins and a spicy finish.",
+    "fr": "Rouge grenat intense. Arômes de prune mûre, de cerise noire, de mûre et d’épices, avec des notes de vanille et de grillé. Ample et rond en bouche, aux tanins souples et à la finale épicée.",
+    "it": "Rosso granato intenso. Profumi di prugna matura, ciliegia nera, mora e spezie, con note di vaniglia e tostatura. In bocca è ampio e rotondo, con tannini morbidi e finale speziato."
+  },
+  "pairing": {
+    "es": "carnes rojas asadas, cordero, embutidos curados, quesos semicurados",
+    "en": "roast red meat, lamb, cured sausages, semi-hard cheeses",
+    "fr": "viandes rouges rôties, agneau, charcuterie sèche, fromages à pâte pressée",
+    "it": "carni rosse arrosto, agnello, salumi stagionati, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Bessa Valley Enira"
+}

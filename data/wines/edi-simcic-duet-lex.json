@@ -1,0 +1,45 @@
+{
+  "slug": "edi-simcic-duet-lex",
+  "name": "Duet Lex",
+  "winery": "edi-simcic",
+  "region": "goriska-brda",
+  "country": "eslovenia",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "merlot",
+    "cabernet-franc",
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "Tinto de crianza de Edi Simčič, ensamblaje de Merlot con Cabernet Franc y Cabernet Sauvignon de Goriška Brda, uno de los tintos eslovenos más reconocidos.",
+    "en": "An oak-aged red from Edi Simčič, a blend of Merlot with Cabernet Franc and Cabernet Sauvignon from Goriška Brda and one of Slovenia’s most highly regarded reds.",
+    "fr": "Rouge de garde d’Edi Simčič, assemblage de merlot, de cabernet franc et de cabernet-sauvignon de Goriška Brda, l’un des rouges slovènes les plus réputés.",
+    "it": "Rosso da invecchiamento di Edi Simčič, uvaggio di Merlot con Cabernet Franc e Cabernet Sauvignon di Goriška Brda, uno dei rossi sloveni più apprezzati."
+  },
+  "body": {
+    "es": "<p>Aunque Goriška Brda es conocida sobre todo por sus blancos, sus laderas mejor expuestas producen también tintos de corte bordelés de gran calidad, y <strong>Duet Lex</strong> es uno de los ejemplos más conocidos. Lo elabora la finca de Edi y Aleks Simčič en Vipolže a partir de un ensamblaje dominado por el <strong>Merlot</strong>, completado con <strong>Cabernet Franc</strong> y <strong>Cabernet Sauvignon</strong>.</p><p>Las uvas proceden de viñas de bajo rendimiento sobre los suelos de margas y areniscas de la zona. Tras la fermentación, el vino se cría durante un largo periodo en barricas de roble y reposa después en botella antes de salir al mercado, de acuerdo con el estilo paciente de la casa. Es un tinto concentrado y estructurado, con taninos firmes pero pulidos y una acidez que le da frescura. Se trata de un vino pensado para la guarda, que puede evolucionar favorablemente durante muchos años.</p>",
+    "en": "<p>Although Goriška Brda is known above all for its whites, its best-exposed slopes also produce high-quality Bordeaux-style reds, and <strong>Duet Lex</strong> is one of the best-known examples. It is made by Edi and Aleks Simčič’s estate in Vipolže from a blend dominated by <strong>Merlot</strong>, completed with <strong>Cabernet Franc</strong> and <strong>Cabernet Sauvignon</strong>.</p><p>The grapes come from low-yielding vines on the area’s marl and sandstone soils. After fermentation the wine is aged for a long period in oak barrels and then rests in bottle before release, in keeping with the house’s patient style. It is a concentrated, structured red with firm but polished tannins and acidity that gives it freshness. It is a wine designed for ageing, which can develop favourably for many years.</p>",
+    "fr": "<p>Même si Goriška Brda est surtout connue pour ses blancs, ses coteaux les mieux exposés donnent aussi des rouges de type bordelais de grande qualité, et <strong>Duet Lex</strong> en est l’un des exemples les plus connus. Il est élaboré par le domaine d’Edi et Aleks Simčič à Vipolže, à partir d’un assemblage dominé par le <strong>merlot</strong> et complété par le <strong>cabernet franc</strong> et le <strong>cabernet-sauvignon</strong>.</p><p>Les raisins proviennent de vignes à faibles rendements sur les sols de marnes et de grès de la zone. Après la fermentation, le vin est longuement élevé en barriques de chêne, puis repose en bouteille avant sa commercialisation, selon le style patient de la maison. C’est un rouge concentré et structuré, aux tanins fermes mais polis et à l’acidité qui lui apporte de la fraîcheur. C’est un vin de garde, capable d’évoluer favorablement pendant de nombreuses années.</p>",
+    "it": "<p>Anche se Goriška Brda è nota soprattutto per i bianchi, i suoi pendii meglio esposti producono anche rossi di taglio bordolese di grande qualità, e <strong>Duet Lex</strong> ne è uno degli esempi più noti. Lo produce la tenuta di Edi e Aleks Simčič a Vipolže con un uvaggio dominato dal <strong>Merlot</strong>, completato da <strong>Cabernet Franc</strong> e <strong>Cabernet Sauvignon</strong>.</p><p>Le uve provengono da vigne a bassa resa sui suoli di marne e arenarie della zona. Dopo la fermentazione il vino affina a lungo in barrique di rovere e riposa poi in bottiglia prima di uscire sul mercato, secondo lo stile paziente della casa. È un rosso concentrato e strutturato, con tannini decisi ma levigati e un’acidità che gli dà freschezza. È un vino pensato per l’invecchiamento, che può evolvere favorevolmente per molti anni.</p>"
+  },
+  "tasting": {
+    "es": "Rubí oscuro. Aromas de cereza negra, ciruela, grosella, especias, tabaco y notas tostadas. Boca concentrada, con taninos firmes y pulidos y final largo.",
+    "en": "Dark ruby. Aromas of black cherry, plum, currant, spice, tobacco and toasty notes. Concentrated palate with firm, polished tannins and a long finish.",
+    "fr": "Rubis foncé. Arômes de cerise noire, de prune, de cassis, d’épices, de tabac et notes grillées. Bouche concentrée, aux tanins fermes et polis, à la finale longue.",
+    "it": "Rubino scuro. Profumi di ciliegia nera, prugna, ribes, spezie, tabacco e note tostate. Bocca concentrata, con tannini decisi e levigati e finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas asadas, caza, guisos, quesos curados",
+    "en": "Roast red meats, game, stews, aged cheeses",
+    "fr": "Viandes rouges rôties, gibier, ragoûts, fromages affinés",
+    "it": "Carni rosse arrosto, selvaggina, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, grand verre",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Edi Simčič Duet Lex"
+}

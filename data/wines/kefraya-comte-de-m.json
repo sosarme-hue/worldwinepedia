@@ -1,0 +1,41 @@
+{
+  "slug": "kefraya-comte-de-m",
+  "name": "Comte de M",
+  "winery": "chateau-kefraya",
+  "region": "valle-de-la-bekaa",
+  "country": "libano",
+  "type": "tinto",
+  "category": null,
+  "grapes": ["cabernet-sauvignon", "syrah"],
+  "summary": {
+    "es": "El tinto de mayor ambición de Château Kefraya, nombrado en homenaje a Michel de Bustros. Es un vino de crianza basado en la Cabernet Sauvignon y la Syrah de la Bekaa occidental.",
+    "en": "Château Kefraya’s most ambitious red, named in tribute to Michel de Bustros. It is an aged wine based on Cabernet Sauvignon and Syrah from the West Bekaa.",
+    "fr": "Le rouge le plus ambitieux de Château Kefraya, nommé en hommage à Michel de Bustros. C’est un vin de garde à base de cabernet-sauvignon et de syrah de la Bekaa occidentale.",
+    "it": "Il rosso più ambizioso di Château Kefraya, chiamato così in omaggio a Michel de Bustros. È un vino d’affinamento a base di Cabernet Sauvignon e Syrah della Bekaa occidentale."
+  },
+  "body": {
+    "es": "<p>El Comte de M es el vino de cabecera de Château Kefraya y debe su nombre a Michel de Bustros, el propietario que plantó los viñedos de la finca. Se elabora con una selección de uvas de las parcelas de la bodega en la Bekaa occidental, situadas en laderas a unos mil metros de altitud, y se basa principalmente en la <strong>Cabernet Sauvignon</strong> y la <strong>Syrah</strong>, en proporciones que varían según la añada.</p><p>Tras una vinificación cuidadosa, el vino se cría en barricas de roble francés durante un periodo prolongado y se afina después en botella antes de salir al mercado. Es un tinto de estilo concentrado, en el que la fruta madura de la Bekaa se combina con la estructura de la Cabernet Sauvignon y el carácter especiado de la Syrah. Está concebido para la guarda y se beneficia de varios años de botella.</p>",
+    "en": "<p>Comte de M is Château Kefraya’s flagship wine and owes its name to Michel de Bustros, the owner who planted the estate’s vineyards. It is made from a selection of grapes from the winery’s plots in the West Bekaa, on slopes at around a thousand metres, and is based mainly on <strong>Cabernet Sauvignon</strong> and <strong>Syrah</strong>, in proportions that vary with the vintage.</p><p>After careful winemaking, the wine is aged in French oak barrels for an extended period and then refined in bottle before release. It is a red of concentrated style, in which the ripe fruit of the Bekaa combines with the structure of Cabernet Sauvignon and the spicy character of Syrah. It is designed for ageing and benefits from several years in bottle.</p>",
+    "fr": "<p>Le Comte de M est le vin phare de Château Kefraya et doit son nom à Michel de Bustros, le propriétaire qui planta les vignes du domaine. Il est élaboré à partir d’une sélection de raisins des parcelles de la cave dans la Bekaa occidentale, situées sur des coteaux à environ mille mètres d’altitude, et repose principalement sur le <strong>cabernet-sauvignon</strong> et la <strong>syrah</strong>, dans des proportions qui varient selon le millésime.</p><p>Après une vinification soignée, le vin est élevé en barriques de chêne français pendant une période prolongée, puis affiné en bouteille avant sa commercialisation. C’est un rouge de style concentré, où le fruit mûr de la Bekaa s’allie à la structure du cabernet-sauvignon et au caractère épicé de la syrah. Il est conçu pour la garde et gagne à passer plusieurs années en bouteille.</p>",
+    "it": "<p>Il Comte de M è il vino di punta di Château Kefraya e deve il nome a Michel de Bustros, il proprietario che piantò i vigneti della tenuta. È prodotto con una selezione di uve dagli appezzamenti della cantina nella Bekaa occidentale, situati su pendii a circa mille metri di quota, e si basa principalmente su <strong>Cabernet Sauvignon</strong> e <strong>Syrah</strong>, in proporzioni che variano secondo l’annata.</p><p>Dopo una vinificazione accurata, il vino affina in barrique di rovere francese per un periodo prolungato e poi in bottiglia prima di essere messo in commercio. È un rosso di stile concentrato, in cui il frutto maturo della Bekaa si unisce alla struttura del Cabernet Sauvignon e al carattere speziato del Syrah. È pensato per l’invecchiamento e trae beneficio da alcuni anni di bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Color intenso y profundo. Aromas de fruta negra madura, especias, regaliz y notas de roble. En boca es potente y estructurado, con taninos firmes y final largo.",
+    "en": "Deep, intense colour. Aromas of ripe black fruit, spice, liquorice and oak notes. Powerful and structured on the palate, with firm tannins and a long finish.",
+    "fr": "Robe intense et profonde. Arômes de fruits noirs mûrs, d’épices, de réglisse et notes boisées. En bouche, il est puissant et structuré, avec des tanins fermes et une finale longue.",
+    "it": "Colore intenso e profondo. Aromi di frutta nera matura, spezie, liquirizia e note di rovere. In bocca è potente e strutturato, con tannini decisi e finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes rojas, caza, quesos curados",
+    "en": "Roast lamb, red meat, game, aged cheeses",
+    "fr": "Agneau rôti, viandes rouges, gibier, fromages affinés",
+    "it": "Agnello arrosto, carni rosse, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Comte de M Château Kefraya"
+}

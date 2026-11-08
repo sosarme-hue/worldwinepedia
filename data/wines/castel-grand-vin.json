@@ -1,0 +1,41 @@
+{
+  "slug": "castel-grand-vin",
+  "name": "Grand Vin Castel",
+  "winery": "domaine-du-castel",
+  "region": null,
+  "country": "israel",
+  "type": "tinto",
+  "category": null,
+  "grapes": ["cabernet-sauvignon", "merlot", "cabernet-franc", "petit-verdot"],
+  "summary": {
+    "es": "El tinto principal de Domaine du Castel, ensamblaje de corte bordelés basado en la Cabernet Sauvignon de las montañas de Judea y criado en barrica. Es uno de los vinos que impulsaron las bodegas de pequeña producción en Israel.",
+    "en": "Domaine du Castel’s main red, a barrel-aged Bordeaux-style blend based on Cabernet Sauvignon from the Judean Hills. It is one of the wines that drove the rise of small-production wineries in Israel.",
+    "fr": "Le rouge principal du Domaine du Castel, assemblage de type bordelais à base de cabernet-sauvignon des monts de Judée, élevé en barrique. C’est l’un des vins qui ont porté l’essor des caves de petite production en Israël.",
+    "it": "Il rosso principale di Domaine du Castel, assemblaggio di taglio bordolese a base di Cabernet Sauvignon delle colline della Giudea, affinato in barrique. È uno dei vini che hanno dato impulso alle cantine di piccola produzione in Israele."
+  },
+  "body": {
+    "es": "<p>El Grand Vin es el vino de cabecera de Domaine du Castel y el que dio a conocer la bodega a comienzos de los años noventa. Se elabora con uvas de los viñedos de la finca en las montañas de Judea, a varios cientos de metros de altitud, sobre suelos de caliza y terra rossa. Es un ensamblaje de corte bordelés en el que predomina la <strong>Cabernet Sauvignon</strong>, acompañada de <strong>Merlot</strong>, <strong>Cabernet Franc</strong> y <strong>Petit Verdot</strong>, en proporciones que varían según la añada.</p><p>Las variedades se vinifican por separado y el vino se cría en barricas de roble francés antes del ensamblaje final y el embotellado. El estilo busca la elegancia y el equilibrio más que la potencia, con una fruta madura propia del clima mediterráneo matizada por la frescura de la altitud. Es un tinto apto para la guarda. Es un vino kosher.</p>",
+    "en": "<p>Grand Vin is Domaine du Castel’s flagship wine and the one that made the winery’s name in the early 1990s. It is made from grapes from the estate’s vineyards in the Judean Hills, several hundred metres above sea level, on limestone and terra rossa soils. It is a Bordeaux-style blend dominated by <strong>Cabernet Sauvignon</strong>, with <strong>Merlot</strong>, <strong>Cabernet Franc</strong> and <strong>Petit Verdot</strong>, in proportions that vary with the vintage.</p><p>The varieties are vinified separately and the wine is aged in French oak barrels before final blending and bottling. The style seeks elegance and balance rather than power, with ripe fruit typical of the Mediterranean climate tempered by the freshness of altitude. It is a red suited to ageing. It is a kosher wine.</p>",
+    "fr": "<p>Le Grand Vin est le vin phare du Domaine du Castel et celui qui fit connaître la cave au début des années 1990. Il est élaboré à partir de raisins des vignes du domaine dans les monts de Judée, à plusieurs centaines de mètres d’altitude, sur des sols de calcaire et de terra rossa. C’est un assemblage de type bordelais dominé par le <strong>cabernet-sauvignon</strong>, accompagné de <strong>merlot</strong>, de <strong>cabernet franc</strong> et de <strong>petit verdot</strong>, dans des proportions qui varient selon le millésime.</p><p>Les cépages sont vinifiés séparément et le vin est élevé en barriques de chêne français avant l’assemblage final et la mise en bouteille. Le style recherche l’élégance et l’équilibre plutôt que la puissance, avec un fruit mûr propre au climat méditerranéen, nuancé par la fraîcheur de l’altitude. C’est un rouge apte à la garde. C’est un vin casher.</p>",
+    "it": "<p>Il Grand Vin è il vino di punta di Domaine du Castel e quello che fece conoscere la cantina all’inizio degli anni Novanta. È prodotto con uve dei vigneti della tenuta sulle colline della Giudea, a diverse centinaia di metri di quota, su suoli di calcare e terra rossa. È un assemblaggio di taglio bordolese in cui predomina il <strong>Cabernet Sauvignon</strong>, accompagnato da <strong>Merlot</strong>, <strong>Cabernet Franc</strong> e <strong>Petit Verdot</strong>, in proporzioni che variano secondo l’annata.</p><p>Le varietà vengono vinificate separatamente e il vino affina in barrique di rovere francese prima dell’assemblaggio finale e dell’imbottigliamento. Lo stile ricerca eleganza ed equilibrio più che potenza, con un frutto maturo tipico del clima mediterraneo, attenuato dalla freschezza dell’altitudine. È un rosso adatto all’invecchiamento. È un vino kasher.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota profundo. Aromas de casis, ciruela, cedro y especias dulces. En boca es equilibrado y elegante, con taninos finos y un final largo.",
+    "en": "Deep cherry red. Aromas of blackcurrant, plum, cedar and sweet spice. Balanced and elegant on the palate, with fine tannins and a long finish.",
+    "fr": "Rouge cerise profond. Arômes de cassis, de prune, de cèdre et d’épices douces. En bouche, il est équilibré et élégant, avec des tanins fins et une finale longue.",
+    "it": "Rosso ciliegia profondo. Aromi di cassis, prugna, cedro e spezie dolci. In bocca è equilibrato ed elegante, con tannini fini e finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas asadas, cordero, pato, setas",
+    "en": "Roast red meat, lamb, duck, mushrooms",
+    "fr": "Viandes rouges rôties, agneau, canard, champignons",
+    "it": "Carni rosse arrosto, agnello, anatra, funghi"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Grand Vin Castel Domaine du Castel"
+}

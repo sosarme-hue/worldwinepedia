@@ -1,0 +1,41 @@
+{
+  "slug": "yatir-forest",
+  "name": "Yatir Forest",
+  "winery": "yatir",
+  "region": null,
+  "country": "israel",
+  "type": "tinto",
+  "category": null,
+  "grapes": ["cabernet-sauvignon"],
+  "summary": {
+    "es": "El tinto de cabecera de Yatir Winery, ensamblaje basado en la Cabernet Sauvignon de viñedos de altitud situados en torno al bosque de Yatir. Es un vino concentrado, criado en barrica y pensado para la guarda.",
+    "en": "Yatir Winery’s flagship red, a blend based on Cabernet Sauvignon from high-altitude vineyards around the Yatir Forest. It is a concentrated, barrel-aged wine made for ageing.",
+    "fr": "Le rouge phare de Yatir Winery, assemblage à base de cabernet-sauvignon issu de vignes d’altitude situées autour de la forêt de Yatir. C’est un vin concentré, élevé en barrique et conçu pour la garde.",
+    "it": "Il rosso di punta di Yatir Winery, assemblaggio a base di Cabernet Sauvignon da vigneti d’altura situati attorno alla foresta di Yatir. È un vino concentrato, affinato in barrique e pensato per l’invecchiamento."
+  },
+  "body": {
+    "es": "<p>El Yatir Forest es el vino más ambicioso de Yatir Winery y toma su nombre del bosque que rodea los viñedos, en el extremo sur de las montañas de Judea, junto al límite con el desierto del Néguev. Se elabora con una selección de las mejores parcelas de la bodega y se basa en la <strong>Cabernet Sauvignon</strong>, que suele acompañarse de pequeñas proporciones de otras variedades según la añada.</p><p>Los viñedos, situados a altitudes elevadas para la región y regados por goteo, se benefician de noches frescas que compensan el calor diurno. Las uvas, de piel gruesa y color intenso, dan un vino de gran concentración, que se cría en barricas de roble francés antes de embotellarse. El resultado es un tinto potente pero con frescura, que gana complejidad con algunos años de botella. Es un vino kosher.</p>",
+    "en": "<p>Yatir Forest is Yatir Winery’s most ambitious wine and takes its name from the forest surrounding the vineyards, at the southern end of the Judean Hills, on the edge of the Negev desert. It is made from a selection of the winery’s best plots and is based on <strong>Cabernet Sauvignon</strong>, usually accompanied by small proportions of other varieties depending on the vintage.</p><p>The vineyards, at high altitudes for the region and drip-irrigated, benefit from cool nights that offset the daytime heat. The thick-skinned, deeply coloured grapes give a highly concentrated wine, which is aged in French oak barrels before bottling. The result is a powerful red that keeps its freshness and gains complexity with a few years in bottle. It is a kosher wine.</p>",
+    "fr": "<p>Le Yatir Forest est le vin le plus ambitieux de Yatir Winery et tire son nom de la forêt qui entoure les vignes, à l’extrémité sud des monts de Judée, en lisière du désert du Néguev. Il est élaboré à partir d’une sélection des meilleures parcelles de la cave et repose sur le <strong>cabernet-sauvignon</strong>, généralement accompagné de petites proportions d’autres cépages selon le millésime.</p><p>Les vignes, situées à des altitudes élevées pour la région et irriguées au goutte-à-goutte, bénéficient de nuits fraîches qui compensent la chaleur diurne. Les raisins, à peau épaisse et à la couleur intense, donnent un vin très concentré, élevé en barriques de chêne français avant la mise en bouteille. Il en résulte un rouge puissant mais frais, qui gagne en complexité après quelques années de bouteille. C’est un vin casher.</p>",
+    "it": "<p>Lo Yatir Forest è il vino più ambizioso di Yatir Winery e prende il nome dalla foresta che circonda i vigneti, all’estremità meridionale delle colline della Giudea, al margine del deserto del Negev. È prodotto con una selezione dei migliori appezzamenti della cantina e si basa sul <strong>Cabernet Sauvignon</strong>, di solito accompagnato da piccole percentuali di altri vitigni a seconda dell’annata.</p><p>I vigneti, situati ad altitudini elevate per la regione e irrigati a goccia, beneficiano di notti fresche che compensano il caldo diurno. Le uve, dalla buccia spessa e dal colore intenso, danno un vino molto concentrato, che affina in barrique di rovere francese prima dell’imbottigliamento. Ne risulta un rosso potente ma fresco, che acquista complessità con qualche anno di bottiglia. È un vino kasher.</p>"
+  },
+  "tasting": {
+    "es": "Color muy intenso. Aromas de fruta negra madura, hierbas mediterráneas, especias y notas de roble. En boca es potente y concentrado, con taninos abundantes y maduros y un final largo.",
+    "en": "Very deep colour. Aromas of ripe black fruit, Mediterranean herbs, spice and oak notes. Powerful and concentrated on the palate, with abundant ripe tannins and a long finish.",
+    "fr": "Robe très intense. Arômes de fruits noirs mûrs, d’herbes méditerranéennes, d’épices et notes boisées. En bouche, il est puissant et concentré, avec des tanins abondants et mûrs et une finale longue.",
+    "it": "Colore molto intenso. Aromi di frutta nera matura, erbe mediterranee, spezie e note di rovere. In bocca è potente e concentrato, con tannini abbondanti e maturi e un finale lungo."
+  },
+  "pairing": {
+    "es": "Chuletón y carnes a la brasa, cordero, caza, guisos especiados",
+    "en": "Rib steak and grilled meat, lamb, game, spiced stews",
+    "fr": "Côte de bœuf et viandes grillées, agneau, gibier, ragoûts épicés",
+    "it": "Costata e carni alla brace, agnello, selvaggina, stufati speziati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Yatir Forest Yatir Winery"
+}

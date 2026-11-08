@@ -1,0 +1,48 @@
+{
+  "slug": "boutari-grande-reserve-naoussa",
+  "name": "Boutari Grande Reserve Naoussa",
+  "winery": "boutari",
+  "region": "naoussa",
+  "country": "grecia",
+  "type": "tinto",
+  "category": {
+    "es": "Grande Reserve",
+    "en": "Grande Reserve",
+    "fr": "Grande Reserve",
+    "it": "Grande Reserve"
+  },
+  "grapes": [
+    "xinomavro"
+  ],
+  "summary": {
+    "es": "Versión de larga crianza del Naoussa de Boutari, elaborada con una selección de Xinomavro y comercializada con la mención tradicional Grande Reserve.",
+    "en": "The long-aged version of Boutari’s Naoussa, made from a selection of Xinomavro and sold under the traditional Grande Reserve designation.",
+    "fr": "Version de long élevage du Naoussa de Boutari, élaborée à partir d’une sélection de xinomavro et commercialisée sous la mention traditionnelle Grande Reserve.",
+    "it": "Versione a lungo affinamento del Naoussa di Boutari, ottenuta da una selezione di Xinomavro e commercializzata con la menzione tradizionale Grande Reserve."
+  },
+  "body": {
+    "es": "<p>El Grande Reserve Naoussa es el tinto de mayor crianza de la casa Boutari en esta denominación. Se elabora exclusivamente con <strong>Xinomavro</strong>, a partir de una selección de uvas de viñedos de la zona de Naoussa.</p><p>Tras la fermentación, el vino pasa un periodo prolongado en barricas y toneles de roble y otro en botella antes de su salida, conforme a las exigencias de la mención Grande Reserve, que en Grecia se reserva a los vinos de crianza más larga. El resultado es un tinto de estilo tradicional, en el que la acidez y los taninos de la Xinomavro se han suavizado con el tiempo y en el que los aromas de fruta dejan paso a notas terciarias. Es un vino que puede seguir evolucionando en botella y que se aprecia mejor tras una decantación.</p><p>Frente al Naoussa clásico de la casa, ofrece una lectura más evolucionada y compleja de la Xinomavro, cercana al estilo tradicional de los grandes tintos de guarda del norte de Grecia, y muestra hasta qué punto esta variedad gana con el tiempo.</p>",
+    "en": "<p>Grande Reserve Naoussa is the Boutari house’s longest-aged red in this appellation. It is made exclusively from <strong>Xinomavro</strong>, from a selection of grapes from vineyards in the Naoussa area.</p><p>After fermentation, the wine spends an extended period in oak barrels and casks and another in bottle before release, in line with the requirements of the Grande Reserve designation, which in Greece is reserved for wines with the longest ageing. The result is a traditional-style red in which Xinomavro’s acidity and tannins have softened with time and fruit aromas give way to tertiary notes. It is a wine that can continue to evolve in bottle and is best appreciated after decanting.</p><p>Compared with the house’s classic Naoussa, it offers a more evolved and complex reading of Xinomavro, close to the traditional style of the great age-worthy reds of northern Greece, and shows how much this variety gains with time.</p>",
+    "fr": "<p>Le Grande Reserve Naoussa est le rouge au plus long élevage de la maison Boutari dans cette appellation. Il est élaboré exclusivement à partir de <strong>xinomavro</strong>, avec une sélection de raisins de vignes de la zone de Naoussa.</p><p>Après la fermentation, le vin passe une longue période en barriques et en foudres de chêne, puis en bouteille avant sa sortie, conformément aux exigences de la mention Grande Reserve, réservée en Grèce aux vins à l’élevage le plus long. Il en résulte un rouge de style traditionnel, où l’acidité et les tanins du xinomavro se sont assouplis avec le temps et où les arômes de fruit cèdent la place à des notes tertiaires. C’est un vin qui peut continuer à évoluer en bouteille et qui s’apprécie mieux après carafage.</p><p>Par rapport au Naoussa classique de la maison, il propose une lecture plus évoluée et plus complexe du xinomavro, proche du style traditionnel des grands rouges de garde du nord de la Grèce, et montre combien ce cépage gagne avec le temps.</p>",
+    "it": "<p>Il Grande Reserve Naoussa è il rosso a più lungo affinamento della casa Boutari in questa denominazione. Si ottiene esclusivamente da <strong>Xinomavro</strong>, da una selezione di uve di vigneti della zona di Naoussa.</p><p>Dopo la fermentazione il vino trascorre un lungo periodo in barrique e botti di rovere e poi in bottiglia prima della messa in commercio, secondo i requisiti della menzione Grande Reserve, che in Grecia è riservata ai vini con l’affinamento più lungo. Il risultato è un rosso di stile tradizionale, in cui l’acidità e i tannini dello Xinomavro si sono ammorbiditi con il tempo e i profumi di frutta lasciano spazio a note terziarie. È un vino che può continuare a evolvere in bottiglia e che si apprezza meglio dopo una decantazione.</p><p>Rispetto al Naoussa classico della casa, offre una lettura più evoluta e complessa dello Xinomavro, vicina allo stile tradizionale dei grandi rossi da invecchiamento della Grecia settentrionale, e mostra quanto questo vitigno guadagni con il tempo.</p>"
+  },
+  "tasting": {
+    "es": "Granate con ribete teja. Aromas de fruta roja madura y confitada, cuero, tabaco, setas, hierbas secas y especias. En boca es amplio y sedoso, con taninos pulidos, acidez viva y final largo.",
+    "en": "Garnet with a brick rim. Aromas of ripe, candied red fruit, leather, tobacco, mushroom, dried herbs and spice. Broad and silky on the palate, with polished tannins, lively acidity and a long finish.",
+    "fr": "Grenat au bord tuilé. Arômes de fruits rouges mûrs et confits, de cuir, de tabac, de champignon, d’herbes sèches et d’épices. Ample et soyeux en bouche, aux tanins polis, à l’acidité vive et à la finale longue.",
+    "it": "Granato con unghia aranciata. Profumi di frutta rossa matura e candita, cuoio, tabacco, funghi, erbe secche e spezie. In bocca è ampio e setoso, con tannini levigati, acidità vivace e finale lungo."
+  },
+  "pairing": {
+    "es": "cordero asado, carnes a la brasa, guisos con tomate, setas, quesos curados",
+    "en": "roast lamb, grilled meat, tomato-based stews, mushrooms, aged cheeses",
+    "fr": "agneau rôti, viandes grillées, ragoûts à la tomate, champignons, fromages affinés",
+    "it": "agnello arrosto, carni alla brace, stufati al pomodoro, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Boutari Grande Reserve Naoussa"
+}

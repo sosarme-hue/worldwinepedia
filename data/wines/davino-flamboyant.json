@@ -1,0 +1,45 @@
+{
+  "slug": "davino-flamboyant",
+  "name": "Flamboyant",
+  "winery": "davino",
+  "region": "dealu-mare",
+  "country": "rumania",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "feteasca-neagra",
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Ensamblaje tinto de crianza de Davino, en Dealu Mare, que combina la Fetească Neagră con variedades bordelesas.",
+    "en": "An oak-aged red blend from Davino, in Dealu Mare, combining Fetească Neagră with Bordeaux varieties.",
+    "fr": "Assemblage rouge de garde de Davino, à Dealu Mare, qui associe la fetească neagră à des cépages bordelais.",
+    "it": "Uvaggio rosso da invecchiamento di Davino, nel Dealu Mare, che unisce la Fetească Neagră a vitigni bordolesi."
+  },
+  "body": {
+    "es": "<p>Flamboyant es el vino más conocido de Davino, la bodega de la familia Balaban en Ceptura, en la denominación <strong>Dealu Mare</strong>. Es un ensamblaje en el que la <strong>Fetească Neagră</strong>, la gran tinta autóctona de Rumanía, se combina con <strong>Cabernet Sauvignon</strong> y <strong>Merlot</strong>, variedades muy asentadas en estas colinas desde el siglo XIX.</p><p>Las uvas proceden de los viñedos propios de la bodega en las laderas de Ceptura, orientadas al sur al pie de los Cárpatos, y se vendimian a mano. El vino se cría en barricas de roble durante un periodo prolongado antes del embotellado. La Fetească Neagră aporta fruta, especias y suavidad, y las variedades bordelesas, estructura y capacidad de guarda. El resultado es un tinto concentrado y complejo, considerado uno de los referentes de la nueva generación de vinos rumanos, que puede evolucionar durante muchos años en botella.</p>",
+    "en": "<p>Flamboyant is the best-known wine from Davino, the Balaban family winery in Ceptura, in the <strong>Dealu Mare</strong> appellation. It is a blend in which <strong>Fetească Neagră</strong>, Romania’s great native red, is combined with <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong>, varieties well established on these hills since the nineteenth century.</p><p>The grapes come from the winery’s own vineyards on the slopes of Ceptura, facing south at the foot of the Carpathians, and are harvested by hand. The wine is aged in oak barrels for an extended period before bottling. Fetească Neagră contributes fruit, spice and softness, the Bordeaux varieties structure and ageing potential. The result is a concentrated, complex red, regarded as one of the benchmarks of the new generation of Romanian wines, which can develop for many years in bottle.</p>",
+    "fr": "<p>Flamboyant est le vin le plus connu de Davino, le domaine de la famille Balaban à Ceptura, dans l’appellation <strong>Dealu Mare</strong>. C’est un assemblage où la <strong>fetească neagră</strong>, grand cépage rouge autochtone de Roumanie, s’associe au <strong>cabernet-sauvignon</strong> et au <strong>merlot</strong>, cépages bien implantés sur ces collines depuis le XIXe siècle.</p><p>Les raisins proviennent des vignes du domaine sur les coteaux de Ceptura, exposés au sud au pied des Carpates, et sont vendangés à la main. Le vin est élevé longuement en barriques de chêne avant la mise en bouteille. La fetească neagră apporte le fruit, les épices et la souplesse ; les cépages bordelais, la structure et le potentiel de garde. Il en résulte un rouge concentré et complexe, considéré comme l’une des références de la nouvelle génération de vins roumains, capable d’évoluer de nombreuses années en bouteille.</p>",
+    "it": "<p>Flamboyant è il vino più noto di Davino, la cantina della famiglia Balaban a Ceptura, nella denominazione <strong>Dealu Mare</strong>. È un uvaggio in cui la <strong>Fetească Neagră</strong>, la grande uva rossa autoctona della Romania, si unisce a <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong>, vitigni ben radicati su queste colline dall’Ottocento.</p><p>Le uve provengono dai vigneti di proprietà sui pendii di Ceptura, esposti a sud ai piedi dei Carpazi, e sono vendemmiate a mano. Il vino affina a lungo in barrique di rovere prima dell’imbottigliamento. La Fetească Neagră apporta frutto, spezie e morbidezza; i vitigni bordolesi struttura e longevità. Il risultato è un rosso concentrato e complesso, considerato uno dei riferimenti della nuova generazione di vini romeni, che può evolvere per molti anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rubí muy oscuro. Aromas de ciruela, cereza negra, grosella, especias, cacao y notas tostadas. Boca concentrada, con taninos firmes y finos y final largo.",
+    "en": "Very dark ruby. Aromas of plum, black cherry, blackcurrant, spice, cocoa and toasty notes. Concentrated palate with firm, fine tannins and a long finish.",
+    "fr": "Rubis très sombre. Arômes de prune, de cerise noire, de cassis, d’épices, de cacao et notes grillées. Bouche concentrée, aux tanins fermes et fins, à la finale longue.",
+    "it": "Rubino molto scuro. Profumi di prugna, ciliegia nera, ribes nero, spezie, cacao e note tostate. Bocca concentrata, con tannini decisi e fini e finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas asadas, caza, estofados, quesos curados",
+    "en": "Roast red meats, game, braises, aged cheeses",
+    "fr": "Viandes rouges rôties, gibier, plats mijotés, fromages affinés",
+    "it": "Carni rosse arrosto, selvaggina, brasati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, grand verre",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Davino Flamboyant"
+}
