@@ -33,12 +33,5 @@
     "chardonnay",
     "moscatel"
   ],
-  "regions": [
-    "valle-del-maipo",
-    "colchagua",
-    "casablanca",
-    "aconcagua",
-    "maule",
-    "itata"
-  ]
+  "regions": ["valle-del-maipo", "colchagua", "casablanca", "aconcagua", "maule", "itata", "valle-de-leyda", "valle-de-curico", "valle-central", "valle-del-limari", "valle-del-bio-bio"]
 }

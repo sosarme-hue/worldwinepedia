@@ -30,11 +30,5 @@
     "merlot",
     "cinsault"
   ],
-  "regions": [
-    "stellenbosch",
-    "swartland",
-    "constantia",
-    "franschhoek",
-    "paarl"
-  ]
+  "regions": ["stellenbosch", "swartland", "constantia", "franschhoek", "paarl", "hemel-en-aarde", "elgin", "walker-bay"]
 }

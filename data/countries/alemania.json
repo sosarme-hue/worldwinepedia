@@ -28,13 +28,5 @@
     "pinot-gris",
     "blaufrankisch"
   ],
-  "regions": [
-    "mosel",
-    "rheingau",
-    "pfalz",
-    "rheinhessen",
-    "nahe",
-    "baden",
-    "franken"
-  ]
+  "regions": ["mosel", "rheingau", "pfalz", "rheinhessen", "nahe", "baden", "franken", "ahr", "wurttemberg", "mittelrhein"]
 }

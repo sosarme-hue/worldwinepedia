@@ -28,11 +28,5 @@
     "sauvignon-blanc",
     "chardonnay"
   ],
-  "regions": [
-    "wachau",
-    "kamptal",
-    "kremstal",
-    "burgenland",
-    "weinviertel"
-  ]
+  "regions": ["wachau", "kamptal", "kremstal", "burgenland", "weinviertel", "wien", "thermenregion", "steiermark", "carnuntum"]
 }

@@ -36,25 +36,5 @@
     "melon-de-bourgogne",
     "viognier"
   ],
-  "regions": [
-    "bordeaux",
-    "medoc",
-    "saint-emilion",
-    "pomerol",
-    "pessac-leognan",
-    "sauternes",
-    "bourgogne",
-    "chablis",
-    "cote-de-nuits",
-    "cote-de-beaune",
-    "beaujolais",
-    "champagne",
-    "loire",
-    "sancerre",
-    "rhone-nord",
-    "chateauneuf-du-pape",
-    "alsace",
-    "provence",
-    "languedoc-roussillon"
-  ]
+  "regions": ["bordeaux", "medoc", "saint-emilion", "pomerol", "pessac-leognan", "sauternes", "bourgogne", "chablis", "cote-de-nuits", "cote-de-beaune", "beaujolais", "champagne", "loire", "sancerre", "rhone-nord", "chateauneuf-du-pape", "alsace", "provence", "languedoc-roussillon", "margaux", "pauillac", "saint-julien", "saint-estephe", "graves", "entre-deux-mers", "cotes-de-bordeaux", "cote-chalonnaise", "maconnais", "pouilly-fuisse", "cote-rotie", "hermitage", "condrieu", "cornas", "saint-joseph", "gigondas", "vacqueyras", "cotes-du-rhone", "tavel", "vouvray", "savennieres", "muscadet", "chinon", "anjou", "pouilly-fume", "jura", "savoie", "cahors", "madiran", "jurancon", "bandol", "corse", "limoux", "banyuls"]
 }

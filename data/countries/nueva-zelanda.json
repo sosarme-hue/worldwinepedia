@@ -30,10 +30,5 @@
     "syrah",
     "muller-thurgau"
   ],
-  "regions": [
-    "marlborough",
-    "central-otago",
-    "hawkes-bay",
-    "martinborough"
-  ]
+  "regions": ["marlborough", "central-otago", "hawkes-bay", "martinborough", "wairarapa"]
 }

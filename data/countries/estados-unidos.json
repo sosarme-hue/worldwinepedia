@@ -31,13 +31,5 @@
     "riesling",
     "petite-sirah"
   ],
-  "regions": [
-    "napa-valley",
-    "sonoma",
-    "paso-robles",
-    "santa-barbara",
-    "willamette-valley",
-    "columbia-valley",
-    "finger-lakes"
-  ]
+  "regions": ["napa-valley", "sonoma", "paso-robles", "santa-barbara", "willamette-valley", "columbia-valley", "finger-lakes", "russian-river-valley", "los-carneros", "santa-cruz-mountains", "lodi", "sta-rita-hills", "walla-walla-valley"]
 }

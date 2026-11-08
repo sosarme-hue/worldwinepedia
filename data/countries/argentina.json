@@ -31,11 +31,5 @@
     "chardonnay",
     "sauvignon-blanc"
   ],
-  "regions": [
-    "mendoza",
-    "valle-de-uco",
-    "lujan-de-cuyo",
-    "salta",
-    "patagonia"
-  ]
+  "regions": ["mendoza", "valle-de-uco", "lujan-de-cuyo", "salta", "patagonia", "san-juan"]
 }

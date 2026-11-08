@@ -30,15 +30,5 @@
     "pinot-noir",
     "monastrell"
   ],
-  "regions": [
-    "barossa-valley",
-    "mclaren-vale",
-    "clare-valley",
-    "eden-valley",
-    "coonawarra",
-    "hunter-valley",
-    "yarra-valley",
-    "margaret-river",
-    "tasmania"
-  ]
+  "regions": ["barossa-valley", "mclaren-vale", "clare-valley", "eden-valley", "coonawarra", "hunter-valley", "yarra-valley", "margaret-river", "tasmania", "adelaide-hills", "riverina", "mudgee"]
 }
