@@ -1,0 +1,41 @@
+{
+  "slug": "faiveley-gevrey-chambertin",
+  "name": "Domaine Faiveley Gevrey-Chambertin",
+  "winery": "domaine-faiveley",
+  "region": "cote-de-nuits",
+  "country": "francia",
+  "type": "tinto",
+  "category": {"es": "Village (denominación municipal)", "en": "Village (communal appellation)", "fr": "Village (appellation communale)", "it": "Village (denominazione comunale)"},
+  "grapes": ["pinot-noir"],
+  "summary": {
+    "es": "Un Gevrey-Chambertin de denominación municipal de Faiveley, Pinot Noir de uno de los pueblos más célebres de la Côte de Nuits.",
+    "en": "A village-level Gevrey-Chambertin from Faiveley, Pinot Noir from one of the most famous villages in the Côte de Nuits.",
+    "fr": "Un gevrey-chambertin d’appellation village de Faiveley, pinot noir de l’un des villages les plus célèbres de la Côte de Nuits.",
+    "it": "Un Gevrey-Chambertin a denominazione comunale di Faiveley, Pinot Noir di uno dei villaggi più celebri della Côte de Nuits."
+  },
+  "body": {
+    "es": "<p>Gevrey-Chambertin es el municipio con mayor número de Grands Crus de la Côte de Nuits, entre ellos Chambertin y Chambertin-Clos de Bèze, y su denominación municipal es una de las más demandadas de Borgoña. Faiveley posee viñedos en Gevrey, que amplió con nuevas adquisiciones en la década de 2010.</p><p>Este tinto se elabora exclusivamente con Pinot Noir de distintas parcelas clasificadas en la denominación municipal Gevrey-Chambertin, ensambladas para ofrecer una visión general del pueblo. Se cría en barricas de roble francés, con una parte de madera nueva.</p><p>Los tintos de Gevrey suelen considerarse de los más estructurados y profundos de la Côte de Nuits. Este vino combina fruta roja y negra con una estructura firme, y gana en complejidad tras algunos años de botella.</p>",
+    "en": "<p>Gevrey-Chambertin is the commune with the largest number of Grands Crus in the Côte de Nuits, including Chambertin and Chambertin-Clos de Bèze, and its village appellation is one of the most sought-after in Burgundy. Faiveley owns vineyards in Gevrey, which it expanded with new acquisitions in the 2010s.</p><p>This red is made exclusively from Pinot Noir from various plots classified under the Gevrey-Chambertin village appellation, blended to give an overview of the village. It is aged in French oak barrels, with a proportion of new wood.</p><p>Gevrey reds are generally considered among the most structured and deep in the Côte de Nuits. This wine combines red and black fruit with a firm structure and gains complexity after a few years in bottle.</p>",
+    "fr": "<p>Gevrey-Chambertin est la commune qui compte le plus de grands crus en Côte de Nuits, dont le Chambertin et le Chambertin-Clos de Bèze, et son appellation village est l’une des plus recherchées de Bourgogne. Faiveley possède des vignes à Gevrey, qu’elle a agrandies par de nouvelles acquisitions dans les années 2010.</p><p>Ce rouge est élaboré exclusivement à partir de pinot noir de différentes parcelles classées en appellation village Gevrey-Chambertin, assemblées pour offrir une vision d’ensemble du village. Il est élevé en fûts de chêne français, avec une part de bois neuf.</p><p>Les rouges de Gevrey passent généralement pour parmi les plus structurés et profonds de la Côte de Nuits. Ce vin allie fruits rouges et noirs à une structure ferme, et gagne en complexité après quelques années de bouteille.</p>",
+    "it": "<p>Gevrey-Chambertin è il comune con il maggior numero di Grands Crus della Côte de Nuits, tra cui Chambertin e Chambertin-Clos de Bèze, e la sua denominazione comunale è tra le più richieste della Borgogna. Faiveley possiede vigneti a Gevrey, ampliati con nuove acquisizioni negli anni Dieci di questo secolo.</p><p>Questo rosso si ottiene esclusivamente da Pinot Noir di diverse parcelle classificate nella denominazione comunale Gevrey-Chambertin, assemblate per offrire una visione d’insieme del villaggio. Affina in barrique di rovere francese, con una quota di legno nuovo.</p><p>I rossi di Gevrey sono considerati in genere tra i più strutturati e profondi della Côte de Nuits. Questo vino unisce frutta rossa e nera a una struttura decisa e guadagna complessità dopo alcuni anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de cereza negra, frambuesa, especias y notas de sotobosque. En boca es de cuerpo medio, con tanino firme, buena acidez y final persistente.",
+    "en": "Deep ruby. Aromas of black cherry, raspberry, spice and forest-floor notes. Medium-bodied on the palate, with firm tannins, good acidity and a persistent finish.",
+    "fr": "Rubis intense. Arômes de cerise noire, de framboise, d’épices et notes de sous-bois. En bouche, corps moyen, tanins fermes, bonne acidité et finale persistante.",
+    "it": "Rubino intenso. Aromi di ciliegia nera, lampone, spezie e note di sottobosco. In bocca ha corpo medio, tannino deciso, buona acidità e finale persistente."
+  },
+  "pairing": {
+    "es": "Buey a la borgoñona, pato, caza menor, quesos de corteza lavada",
+    "en": "Boeuf bourguignon, duck, small game, washed-rind cheeses",
+    "fr": "Bœuf bourguignon, canard, petit gibier, fromages à croûte lavée",
+    "it": "Boeuf bourguignon, anatra, selvaggina minuta, formaggi a crosta lavata"
+  },
+  "serve": {
+    "es": "15-17 °C, copa de Borgoña",
+    "en": "15-17 °C, Burgundy glass",
+    "fr": "15-17 °C, verre à bourgogne",
+    "it": "15-17 °C, calice da Borgogna"
+  },
+  "search": "Faiveley Gevrey-Chambertin"
+}

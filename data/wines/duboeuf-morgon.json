@@ -1,0 +1,41 @@
+{
+  "slug": "duboeuf-morgon",
+  "name": "Georges Duboeuf Morgon",
+  "winery": "georges-duboeuf",
+  "region": "beaujolais",
+  "country": "francia",
+  "type": "tinto",
+  "category": {"es": "Cru du Beaujolais", "en": "Beaujolais cru", "fr": "Cru du Beaujolais", "it": "Cru del Beaujolais"},
+  "grapes": ["gamay"],
+  "summary": {
+    "es": "Un Morgon de Georges Duboeuf, Gamay de uno de los diez crus del Beaujolais, conocido por dar tintos con más cuerpo y capacidad de guarda.",
+    "en": "A Morgon from Georges Duboeuf, Gamay from one of the ten Beaujolais crus, known for producing fuller-bodied reds with ageing potential.",
+    "fr": "Un morgon de Georges Duboeuf, gamay de l’un des dix crus du Beaujolais, connu pour donner des rouges plus corsés et aptes à la garde.",
+    "it": "Un Morgon di Georges Duboeuf, Gamay di uno dei dieci cru del Beaujolais, noto per dare rossi più corposi e adatti all’invecchiamento."
+  },
+  "body": {
+    "es": "<p>Morgon es uno de los diez crus del Beaujolais, las denominaciones municipales situadas en el norte de la región que representan su escalón de mayor calidad. Sus suelos, de granito y esquistos descompuestos, en especial en la célebre Côte du Py, dan tintos de Gamay más estructurados que los de otros crus, que con el tiempo pueden recordar a algunos tintos de Borgoña.</p><p>Georges Duboeuf comercializa varios Morgon, tanto de su gama con etiqueta floral como de propiedades concretas con nombre propio. Se elaboran con Gamay y una vinificación orientada a preservar la fruta, con una crianza breve antes del embotellado.</p><p>Es un tinto con más cuerpo que un Beaujolais-Villages, de fruta madura y tanino presente pero suave, que puede beberse joven o guardarse unos años.</p>",
+    "en": "<p>Morgon is one of the ten Beaujolais crus, the communal appellations in the north of the region that represent its top quality tier. Its soils of decomposed granite and schist, especially on the famous Côte du Py, produce Gamay reds that are more structured than those of other crus and which with age can recall some Burgundy reds.</p><p>Georges Duboeuf sells several Morgons, both from its floral-label range and from named individual estates. They are made from Gamay with a vinification aimed at preserving the fruit, with short ageing before bottling.</p><p>It is a fuller-bodied red than a Beaujolais-Villages, with ripe fruit and present but soft tannins, which can be drunk young or kept for a few years.</p>",
+    "fr": "<p>Morgon est l’un des dix crus du Beaujolais, les appellations communales du nord de la région qui en constituent le meilleur échelon. Ses sols de granite et de schistes décomposés, notamment sur la célèbre Côte du Py, donnent des rouges de gamay plus structurés que ceux d’autres crus, qui peuvent rappeler en vieillissant certains vins de Bourgogne.</p><p>Georges Duboeuf commercialise plusieurs morgons, tant dans sa gamme à étiquette fleurie qu’issus de domaines particuliers portant leur nom. Ils sont élaborés à partir de gamay selon une vinification visant à préserver le fruit, avec un court élevage avant la mise en bouteille.</p><p>C’est un rouge plus corsé qu’un beaujolais-villages, au fruit mûr et aux tanins présents mais souples, à boire jeune ou à garder quelques années.</p>",
+    "it": "<p>Morgon è uno dei dieci cru del Beaujolais, le denominazioni comunali del nord della regione che ne rappresentano il livello qualitativo più alto. I suoi suoli di granito e scisti decomposti, in particolare sulla celebre Côte du Py, danno rossi di Gamay più strutturati di quelli di altri cru, che con il tempo possono ricordare alcuni rossi di Borgogna.</p><p>Georges Duboeuf commercializza diversi Morgon, sia della linea con etichetta floreale sia di singole proprietà con nome proprio. Si ottengono da Gamay con una vinificazione volta a preservare il frutto e un breve affinamento prima dell’imbottigliamento.</p><p>È un rosso più corposo di un Beaujolais-Villages, con frutto maturo e tannino presente ma morbido, da bere giovane o da conservare qualche anno.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de cereza madura, ciruela, frutos negros y notas florales y especiadas. En boca es de cuerpo medio, jugoso y con tanino suave.",
+    "en": "Deep ruby. Aromas of ripe cherry, plum, black fruit and floral and spicy notes. Medium-bodied and juicy on the palate, with soft tannins.",
+    "fr": "Rubis intense. Arômes de cerise mûre, de prune, de fruits noirs, avec des notes florales et épicées. En bouche, corps moyen, juteux, aux tanins souples.",
+    "it": "Rubino intenso. Aromi di ciliegia matura, prugna, frutti neri e note floreali e speziate. In bocca ha corpo medio, è succoso e con tannino morbido."
+  },
+  "pairing": {
+    "es": "Coq au vin, salchichas, cerdo asado, setas, quesos semicurados",
+    "en": "Coq au vin, sausages, roast pork, mushrooms, semi-aged cheeses",
+    "fr": "Coq au vin, saucisses, rôti de porc, champignons, fromages mi-affinés",
+    "it": "Coq au vin, salsicce, arrosto di maiale, funghi, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "14-16 °C, copa de Borgoña",
+    "en": "14-16 °C, Burgundy glass",
+    "fr": "14-16 °C, verre à bourgogne",
+    "it": "14-16 °C, calice da Borgogna"
+  },
+  "search": "Georges Duboeuf Morgon"
+}

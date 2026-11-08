@@ -1,0 +1,50 @@
+{
+  "slug": "esporao-reserva-tinto",
+  "name": "Esporão Reserva Tinto",
+  "winery": "esporao",
+  "region": "alentejo",
+  "country": "portugal",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [
+    "tempranillo",
+    "alicante-bouschet",
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "El tinto emblemático de Esporão, elaborado desde los años ochenta en Reguengos de Monsaraz y uno de los vinos más conocidos del Alentejo.",
+    "en": "Esporão’s flagship red, made since the 1980s in Reguengos de Monsaraz and one of the best-known wines of the Alentejo.",
+    "fr": "Le rouge emblématique d’Esporão, élaboré depuis les années 1980 à Reguengos de Monsaraz et l’un des vins les plus connus de l’Alentejo.",
+    "it": "Il rosso simbolo di Esporão, prodotto dagli anni Ottanta a Reguengos de Monsaraz e uno dei vini più noti dell’Alentejo."
+  },
+  "body": {
+    "es": "<p>El Esporão Reserva tinto fue uno de los primeros vinos de la casa y contribuyó a dar a conocer los tintos del Alentejo dentro y fuera de Portugal. Procede de los viñedos de la Herdade do Esporão, en la subregión de Reguengos, en el Alentejo central.</p><p>Es un ensamblaje cuya composición puede variar según la cosecha. Suele incluir variedades como la Aragonez (Tempranillo), la Trincadeira, la Alicante Bouschet y la Cabernet Sauvignon. Las variedades se vinifican por separado y el vino se cría después en barricas de roble antes del ensamblaje y el embotellado. El clima cálido y seco de la zona da uvas maduras, y la crianza aporta estructura y notas especiadas. Es un tinto de cuerpo medio a pleno, que puede beberse en sus primeros años y también evolucionar en botella.</p><p>Por su trayectoria, se considera uno de los tintos que mejor representan la evolución moderna del vino alentejano.</p>",
+    "en": "<p>Esporão Reserva red was one of the house’s first wines and helped to make Alentejo reds known in Portugal and abroad. It comes from the vineyards of the Herdade do Esporão, in the Reguengos subregion of the central Alentejo.</p><p>It is a blend whose composition may vary with the vintage. It usually includes varieties such as Aragonez (Tempranillo), Trincadeira, Alicante Bouschet and Cabernet Sauvignon. The varieties are vinified separately, and the wine is then aged in oak barrels before blending and bottling. The area’s hot, dry climate gives ripe grapes, while barrel ageing adds structure and spicy notes. It is a medium- to full-bodied red that can be drunk in its early years and can also develop in bottle.</p><p>Given its long track record, it is regarded as one of the reds that best represent the modern development of Alentejo wine.</p>",
+    "fr": "<p>L’Esporão Reserva rouge a été l’un des premiers vins de la maison et a contribué à faire connaître les rouges de l’Alentejo au Portugal et à l’étranger. Il provient des vignes de la Herdade do Esporão, dans la sous-région de Reguengos, au centre de l’Alentejo.</p><p>C’est un assemblage dont la composition peut varier selon le millésime. Il comprend généralement des cépages comme l’aragonez (tempranillo), la trincadeira, l’alicante bouschet et le cabernet-sauvignon. Les cépages sont vinifiés séparément, puis le vin est élevé en barriques de chêne avant l’assemblage et la mise en bouteille. Le climat chaud et sec de la zone donne des raisins mûrs, et l’élevage apporte structure et notes épicées. C’est un rouge de corps moyen à corsé, qui peut se boire dans ses premières années et aussi évoluer en bouteille.</p><p>Par son parcours, il est considéré comme l’un des rouges qui représentent le mieux l’évolution moderne du vin de l’Alentejo.</p>",
+    "it": "<p>L’Esporão Reserva rosso è stato uno dei primi vini della casa e ha contribuito a far conoscere i rossi dell’Alentejo in Portogallo e all’estero. Proviene dai vigneti della Herdade do Esporão, nella sottoregione di Reguengos, nell’Alentejo centrale.</p><p>È un uvaggio la cui composizione può variare secondo l’annata. Di solito comprende varietà come Aragonez (Tempranillo), Trincadeira, Alicante Bouschet e Cabernet Sauvignon. Le varietà sono vinificate separatamente e il vino affina poi in barrique di rovere prima dell’assemblaggio e dell’imbottigliamento. Il clima caldo e secco della zona dà uve mature, mentre l’affinamento apporta struttura e note speziate. È un rosso di corpo medio-pieno, che si può bere nei primi anni e può anche evolvere in bottiglia.</p><p>Per la sua lunga storia, è considerato uno dei rossi che meglio rappresentano l’evoluzione moderna del vino alentejano.</p>"
+  },
+  "tasting": {
+    "es": "Rubí oscuro. Aromas de fruta negra madura, ciruela, especias y notas de vainilla y tostado. En boca es amplio, con taninos maduros y final especiado.",
+    "en": "Dark ruby. Aromas of ripe black fruit, plum, spice and notes of vanilla and toast. Broad on the palate, with ripe tannins and a spicy finish.",
+    "fr": "Rubis sombre. Arômes de fruits noirs mûrs, de prune, d’épices et notes de vanille et de grillé. En bouche, il est ample, avec des tanins mûrs et une finale épicée.",
+    "it": "Rubino scuro. Aromi di frutta nera matura, prugna, spezie e note di vaniglia e tostatura. In bocca è ampio, con tannini maturi e finale speziato."
+  },
+  "pairing": {
+    "es": "Cerdo ibérico, carnes rojas asadas, guisos de caza, quesos curados",
+    "en": "Black pork, roast red meat, game stews, aged cheeses",
+    "fr": "Porc noir, viandes rouges rôties, civets de gibier, fromages affinés",
+    "it": "Maiale nero, carni rosse arrosto, stufati di selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Esporão Reserva Tinto Alentejo"
+}

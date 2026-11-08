@@ -1,0 +1,41 @@
+{
+  "slug": "mouton-cadet-rouge",
+  "name": "Mouton Cadet Rouge",
+  "winery": "baron-philippe-de-rothschild",
+  "region": "bordeaux",
+  "country": "francia",
+  "type": "tinto",
+  "category": null,
+  "grapes": ["merlot", "cabernet-sauvignon", "cabernet-franc"],
+  "summary": {
+    "es": "El tinto de denominación Bordeaux creado por el barón Philippe de Rothschild, una de las etiquetas bordelesas más fáciles de encontrar.",
+    "en": "The Bordeaux appellation red created by Baron Philippe de Rothschild, one of the easiest Bordeaux labels to find.",
+    "fr": "Le rouge d’appellation Bordeaux créé par le baron Philippe de Rothschild, l’une des étiquettes bordelaises les plus faciles à trouver.",
+    "it": "Il rosso a denominazione Bordeaux creato dal barone Philippe de Rothschild, una delle etichette bordolesi più facili da trovare."
+  },
+  "body": {
+    "es": "<p>Mouton Cadet Rouge es el vino más conocido de la gama Mouton Cadet, creada por el barón Philippe de Rothschild en los años treinta. Se elabora con uvas de distintas zonas de la región de Burdeos, seleccionadas entre viticultores con los que trabaja la casa, y se comercializa con la denominación genérica Bordeaux.</p><p>El Merlot es la variedad principal del ensamblaje, que le da redondez y fruta, completado con Cabernet Sauvignon y Cabernet Franc. Una parte del vino puede pasar por barrica, pero el objetivo es un tinto en el que domine la fruta sobre la madera.</p><p>Es un Burdeos de perfil accesible, pensado para beberse en sus primeros años, que ofrece una buena introducción al estilo de los tintos bordeleses.</p>",
+    "en": "<p>Mouton Cadet Rouge is the best-known wine in the Mouton Cadet range, created by Baron Philippe de Rothschild in the 1930s. It is made from grapes from different parts of the Bordeaux region, sourced from growers the house works with, and is sold under the generic Bordeaux appellation.</p><p>Merlot is the main variety in the blend, giving roundness and fruit, completed with Cabernet Sauvignon and Cabernet Franc. Part of the wine may spend time in barrel, but the aim is a red in which fruit dominates over oak.</p><p>It is an approachable Bordeaux, designed to be drunk in its early years, and offers a good introduction to the style of Bordeaux reds.</p>",
+    "fr": "<p>Mouton Cadet Rouge est le vin le plus connu de la gamme Mouton Cadet, créée par le baron Philippe de Rothschild dans les années 1930. Il est élaboré à partir de raisins de différents secteurs du Bordelais, sélectionnés auprès de vignerons partenaires de la maison, et commercialisé en appellation générique Bordeaux.</p><p>Le merlot est le cépage principal de l’assemblage, qui lui apporte rondeur et fruit, complété par le cabernet sauvignon et le cabernet franc. Une partie du vin peut passer en barrique, mais l’objectif est un rouge où le fruit domine le bois.</p><p>C’est un bordeaux au profil accessible, pensé pour être bu dans ses premières années, qui constitue une bonne introduction au style des rouges bordelais.</p>",
+    "it": "<p>Mouton Cadet Rouge è il vino più noto della linea Mouton Cadet, creata dal barone Philippe de Rothschild negli anni Trenta. Si produce con uve di diverse zone della regione di Bordeaux, selezionate presso viticoltori con cui la casa collabora, ed è commercializzato con la denominazione generica Bordeaux.</p><p>Il Merlot è la varietà principale dell’assemblaggio, che gli dà rotondità e frutto, completato da Cabernet Sauvignon e Cabernet Franc. Una parte del vino può passare in barrique, ma l’obiettivo è un rosso in cui il frutto prevalga sul legno.</p><p>È un Bordeaux dal profilo accessibile, pensato per essere bevuto nei primi anni, che offre una buona introduzione allo stile dei rossi bordolesi.</p>"
+  },
+  "tasting": {
+    "es": "Rubí. Aromas de fruta roja y negra, como cereza y ciruela, con un toque especiado. En boca es de cuerpo medio, redondo y con tanino suave.",
+    "en": "Ruby. Aromas of red and black fruit such as cherry and plum, with a touch of spice. Medium-bodied and round on the palate, with soft tannins.",
+    "fr": "Rubis. Arômes de fruits rouges et noirs, comme la cerise et la prune, avec une touche épicée. En bouche, corps moyen, rond, aux tanins souples.",
+    "it": "Rubino. Aromi di frutta rossa e nera, come ciliegia e prugna, con un tocco speziato. In bocca ha corpo medio, è rotondo e con tannino morbido."
+  },
+  "pairing": {
+    "es": "Carnes a la parrilla, pasta con ragú, embutidos, quesos semicurados",
+    "en": "Grilled meat, pasta with ragù, charcuterie, semi-aged cheeses",
+    "fr": "Viandes grillées, pâtes à la bolognaise, charcuterie, fromages mi-affinés",
+    "it": "Carni alla griglia, pasta al ragù, salumi, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "15-17 °C, copa de Burdeos",
+    "en": "15-17 °C, Bordeaux glass",
+    "fr": "15-17 °C, verre à bordeaux",
+    "it": "15-17 °C, calice da Bordeaux"
+  },
+  "search": "Mouton Cadet Rouge Bordeaux Baron Philippe de Rothschild"
+}

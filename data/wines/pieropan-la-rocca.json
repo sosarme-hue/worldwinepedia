@@ -1,0 +1,41 @@
+{
+  "slug": "pieropan-la-rocca",
+  "name": "Pieropan La Rocca Soave Classico",
+  "winery": "pieropan",
+  "region": "soave",
+  "country": "italia",
+  "type": "blanco",
+  "category": {"es": "Soave Classico DOC", "en": "Soave Classico DOC", "fr": "Soave Classico DOC", "it": "Soave Classico DOC"},
+  "grapes": ["garganega"],
+  "summary": {
+    "es": "Soave Classico de viñedo único de Pieropan, de Garganega cultivada sobre suelos calcáreos al pie del castillo de Soave y criado en madera.",
+    "en": "Pieropan’s single-vineyard Soave Classico, from Garganega grown on limestone soils below Soave castle and aged in wood.",
+    "fr": "Soave Classico de vignoble unique de Pieropan, issu de garganega cultivée sur des sols calcaires au pied du château de Soave et élevé sous bois.",
+    "it": "Soave Classico da singola vigna di Pieropan, da Garganega coltivata su suoli calcarei ai piedi del castello di Soave e affinato in legno."
+  },
+  "body": {
+    "es": "<p>La Rocca es uno de los dos vinos de viñedo único que dieron fama a Pieropan. El viñedo se sitúa en la ladera que desciende del castillo medieval de Soave, sobre suelos calcáreos y arcillosos, a diferencia de los suelos volcánicos de otras zonas de la denominación.</p><p>Se elabora sólo con Garganega, que en esta parcela se vendimia con una madurez avanzada. A diferencia del Soave de base, el vino fermenta y se cría en madera, en barricas y toneles de roble, durante varios meses sobre sus lías, antes de un periodo en botella.</p><p>El resultado es un Soave más amplio, cremoso y complejo que el de base, que demuestra la capacidad de la Garganega para dar blancos de guarda. Gana en matices con algunos años en botella.</p>",
+    "en": "<p>La Rocca is one of the two single-vineyard wines that made Pieropan’s name. The vineyard lies on the slope descending from the medieval castle of Soave, on limestone and clay soils, unlike the volcanic soils of other parts of the appellation.</p><p>It is made solely from Garganega, which on this plot is picked at advanced ripeness. Unlike the basic Soave, the wine is fermented and aged in wood, in oak barrels and casks, for several months on its lees, before a period in bottle.</p><p>The result is a broader, creamier and more complex Soave than the basic wine, showing Garganega’s ability to produce whites for ageing. It gains nuance with a few years in bottle.</p>",
+    "fr": "<p>La Rocca est l’un des deux vins de vignoble unique qui ont fait la renommée de Pieropan. La vigne se trouve sur le coteau qui descend du château médiéval de Soave, sur des sols calcaires et argileux, contrairement aux sols volcaniques d’autres zones de l’appellation.</p><p>Il est élaboré uniquement avec de la garganega, vendangée sur cette parcelle à une maturité avancée. Contrairement au Soave de base, le vin fermente et s’élève sous bois, en barriques et en foudres de chêne, pendant plusieurs mois sur lies, avant un séjour en bouteille.</p><p>Il en résulte un Soave plus ample, plus crémeux et plus complexe que le vin de base, qui démontre l’aptitude de la garganega à donner des blancs de garde. Il gagne en nuances après quelques années de bouteille.</p>",
+    "it": "<p>La Rocca è uno dei due vini da singola vigna che hanno reso celebre Pieropan. Il vigneto si trova sul pendio che scende dal castello medievale di Soave, su suoli calcarei e argillosi, a differenza dei suoli vulcanici di altre zone della denominazione.</p><p>È prodotto solo con Garganega, che in questa parcella viene vendemmiata a maturazione avanzata. A differenza del Soave di base, il vino fermenta e affina in legno, in barrique e botti di rovere, per diversi mesi sulle fecce fini, prima di un periodo in bottiglia.</p><p>Il risultato è un Soave più ampio, cremoso e complesso di quello di base, che dimostra la capacità della Garganega di dare bianchi da invecchiamento. Acquista sfumature con qualche anno di bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo dorado. Aromas de fruta amarilla madura, flores, almendra y un ligero toque de vainilla y especias. En boca es amplio y cremoso, con buena acidez y final persistente.",
+    "en": "Golden yellow. Aromas of ripe yellow fruit, flowers, almond and a light touch of vanilla and spice. Broad and creamy on the palate, with good acidity and a persistent finish.",
+    "fr": "Jaune doré. Arômes de fruits jaunes mûrs, de fleurs, d’amande et une légère touche de vanille et d’épices. En bouche, il est ample et crémeux, avec une bonne acidité et une finale persistante.",
+    "it": "Giallo dorato. Profumi di frutta gialla matura, fiori, mandorla e un leggero tocco di vaniglia e spezie. In bocca è ampio e cremoso, con buona acidità e finale persistente."
+  },
+  "pairing": {
+    "es": "Pescados en salsa, aves, risotto con setas o espárragos, quesos semicurados",
+    "en": "Fish in sauce, poultry, risotto with mushrooms or asparagus, semi-aged cheeses",
+    "fr": "Poissons en sauce, volailles, risotto aux champignons ou aux asperges, fromages mi-affinés",
+    "it": "Pesce in salsa, pollame, risotto ai funghi o agli asparagi, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "10-12 °C, copa amplia de vino blanco",
+    "en": "10-12 °C, large white wine glass",
+    "fr": "10-12 °C, grand verre à vin blanc",
+    "it": "10-12 °C, ampio calice da vino bianco"
+  },
+  "search": "Pieropan La Rocca Soave Classico"
+}

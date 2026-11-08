@@ -1,0 +1,41 @@
+{
+  "slug": "bisol-crede",
+  "name": "Bisol Crede Valdobbiadene Prosecco Superiore",
+  "winery": "bisol",
+  "region": "prosecco",
+  "country": "italia",
+  "type": "espumoso",
+  "category": {"es": "Valdobbiadene Prosecco Superiore DOCG Brut", "en": "Valdobbiadene Prosecco Superiore DOCG Brut", "fr": "Valdobbiadene Prosecco Superiore DOCG Brut", "it": "Valdobbiadene Prosecco Superiore DOCG Brut"},
+  "grapes": ["glera"],
+  "summary": {
+    "es": "Prosecco Superiore Brut de Bisol procedente de viñedos de ladera de Valdobbiadene sobre suelos arcillosos, un espumoso seco y floral.",
+    "en": "Bisol’s Prosecco Superiore Brut from hillside vineyards in Valdobbiadene on clay soils, a dry, floral sparkling wine.",
+    "fr": "Prosecco Superiore Brut de Bisol issu de vignes de coteau de Valdobbiadene sur sols argileux, un effervescent sec et floral.",
+    "it": "Prosecco Superiore Brut di Bisol da vigneti collinari di Valdobbiadene su suoli argillosi, uno spumante secco e floreale."
+  },
+  "body": {
+    "es": "<p>Crede es uno de los Valdobbiadene Prosecco Superiore más conocidos de Bisol. Su nombre procede del término local con que se designan los suelos arcillosos de algunas laderas de la zona, de donde proceden las uvas.</p><p>Se elabora principalmente con Glera, la variedad del Prosecco, a la que pueden sumarse pequeñas proporciones de otras uvas tradicionales de la zona. Como la mayoría de los Prosecco, la segunda fermentación tiene lugar en depósitos cerrados a presión (método Martinotti o Charmat), lo que preserva los aromas primarios de la uva.</p><p>El resultado es un espumoso seco, de burbuja fina y gran frescura, con un perfil aromático floral y frutal. Al proceder de las colinas de la DOCG Conegliano Valdobbiadene, muestra más tensión y finura que muchos Prosecco de llanura. Se bebe joven.</p>",
+    "en": "<p>Crede is one of Bisol’s best-known Valdobbiadene Prosecco Superiore wines. Its name comes from the local term for the clay soils found on some of the area’s slopes, where the grapes are grown.</p><p>It is made mainly from Glera, the Prosecco variety, with which small proportions of other traditional local grapes may be blended. Like most Proseccos, the second fermentation takes place in sealed pressurised tanks (the Martinotti or Charmat method), preserving the grape’s primary aromas.</p><p>The result is a dry, very fresh sparkling wine with fine bubbles and a floral, fruity aromatic profile. Coming from the hills of the Conegliano Valdobbiadene DOCG, it shows more tension and finesse than many lowland Proseccos. It is drunk young.</p>",
+    "fr": "<p>Le Crede est l’un des Valdobbiadene Prosecco Superiore les plus connus de Bisol. Son nom vient du terme local désignant les sols argileux de certains coteaux de la zone, d’où proviennent les raisins.</p><p>Il est élaboré principalement avec de la glera, le cépage du Prosecco, à laquelle peuvent s’ajouter de petites proportions d’autres cépages traditionnels locaux. Comme la plupart des Prosecco, la seconde fermentation a lieu en cuves closes sous pression (méthode Martinotti ou Charmat), ce qui préserve les arômes primaires du raisin.</p><p>Il en résulte un effervescent sec, à la bulle fine et d’une grande fraîcheur, au profil aromatique floral et fruité. Issu des collines de la DOCG Conegliano Valdobbiadene, il montre plus de tension et de finesse que bien des Prosecco de plaine. Il se boit jeune.</p>",
+    "it": "<p>Il Crede è uno dei Valdobbiadene Prosecco Superiore più noti di Bisol. Il nome deriva dal termine locale con cui si indicano i terreni argillosi di alcuni pendii della zona, da cui provengono le uve.</p><p>È prodotto principalmente con Glera, il vitigno del Prosecco, a cui possono unirsi piccole quote di altre uve tradizionali della zona. Come la maggior parte dei Prosecco, la seconda fermentazione avviene in autoclave (metodo Martinotti o Charmat), che preserva gli aromi primari dell’uva.</p><p>Il risultato è uno spumante secco, dal perlage fine e di grande freschezza, con un profilo aromatico floreale e fruttato. Provenendo dalle colline della DOCG Conegliano Valdobbiadene, mostra più tensione e finezza di molti Prosecco di pianura. Si beve giovane.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pajizo pálido, con burbuja fina. Aromas de flores blancas, manzana verde, pera y cítricos. En boca es seco, ligero y vivo, con una acidez refrescante.",
+    "en": "Pale straw yellow, with fine bubbles. Aromas of white flowers, green apple, pear and citrus. Dry, light and lively on the palate, with refreshing acidity.",
+    "fr": "Jaune paille pâle, à la bulle fine. Arômes de fleurs blanches, de pomme verte, de poire et d’agrumes. En bouche, il est sec, léger et vif, avec une acidité rafraîchissante.",
+    "it": "Giallo paglierino tenue, con perlage fine. Profumi di fiori bianchi, mela verde, pera e agrumi. In bocca è secco, leggero e vivace, con un’acidità rinfrescante."
+  },
+  "pairing": {
+    "es": "Aperitivo, entrantes de pescado, marisco, fritos ligeros",
+    "en": "Aperitif, fish starters, shellfish, light fried food",
+    "fr": "Apéritif, entrées de poisson, fruits de mer, fritures légères",
+    "it": "Aperitivo, antipasti di pesce, frutti di mare, fritture leggere"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de vino blanco o tulipa",
+    "en": "6-8 °C, white wine glass or tulip",
+    "fr": "6-8 °C, verre à vin blanc ou tulipe",
+    "it": "6-8 °C, calice da vino bianco o tulipano"
+  },
+  "search": "Bisol Crede Valdobbiadene Prosecco Superiore Brut"
+}

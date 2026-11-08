@@ -1,0 +1,41 @@
+{
+  "slug": "masciarelli-trebbiano-d-abruzzo",
+  "name": "Masciarelli Trebbiano d'Abruzzo",
+  "winery": "masciarelli",
+  "region": "abruzzo",
+  "country": "italia",
+  "type": "blanco",
+  "category": {"es": "Trebbiano d’Abruzzo DOC", "en": "Trebbiano d’Abruzzo DOC", "fr": "Trebbiano d’Abruzzo DOC", "it": "Trebbiano d’Abruzzo DOC"},
+  "grapes": ["trebbiano"],
+  "summary": {
+    "es": "El Trebbiano d’Abruzzo de la línea Classica de Masciarelli, un blanco seco, fresco y ligero de la costa adriática.",
+    "en": "The Trebbiano d’Abruzzo from Masciarelli’s Classica line, a dry, fresh, light white from the Adriatic coast.",
+    "fr": "Le Trebbiano d’Abruzzo de la ligne Classica de Masciarelli, un blanc sec, frais et léger de la côte adriatique.",
+    "it": "Il Trebbiano d’Abruzzo della linea Classica di Masciarelli, un bianco secco, fresco e leggero della costa adriatica."
+  },
+  "body": {
+    "es": "<p>El Trebbiano d’Abruzzo es el blanco tradicional de los Abruzos. La denominación se elabora con Trebbiano Abruzzese, una variedad local distinta del Trebbiano Toscano, a la que pueden sumarse otras uvas blancas de la región. Durante mucho tiempo se asoció a vinos sencillos, pero algunos productores han demostrado que puede dar blancos de carácter.</p><p>El Trebbiano de la línea Classica de Masciarelli procede de viñedos de la bodega en los Abruzos, entre la montaña y el Adriático. Se vinifica en depósitos de acero inoxidable a temperatura controlada, sin madera, para preservar los aromas frescos y la acidez.</p><p>Es un blanco ligero, seco y refrescante, de aromas delicados, pensado para beberse joven y muy versátil con la cocina de pescado y verduras.</p>",
+    "en": "<p>Trebbiano d’Abruzzo is the traditional white wine of Abruzzo. The appellation is made from Trebbiano Abruzzese, a local variety distinct from Trebbiano Toscano, with which other white grapes of the region may be blended. For a long time it was associated with simple wines, but some producers have shown that it can give whites of character.</p><p>The Trebbiano from Masciarelli’s Classica line comes from the winery’s vineyards in Abruzzo, between the mountains and the Adriatic. It is vinified in temperature-controlled stainless-steel tanks, without oak, to preserve fresh aromas and acidity.</p><p>It is a light, dry, refreshing white with delicate aromas, meant to be drunk young and very versatile with fish and vegetable dishes.</p>",
+    "fr": "<p>Le Trebbiano d’Abruzzo est le blanc traditionnel des Abruzzes. L’appellation est élaborée avec du trebbiano abruzzese, un cépage local distinct du trebbiano toscano, auquel peuvent s’ajouter d’autres raisins blancs de la région. Longtemps associé à des vins simples, il a montré chez certains producteurs qu’il pouvait donner des blancs de caractère.</p><p>Le Trebbiano de la ligne Classica de Masciarelli provient des vignes du domaine dans les Abruzzes, entre la montagne et l’Adriatique. Il est vinifié en cuves d’acier inoxydable à température contrôlée, sans bois, pour préserver les arômes frais et l’acidité.</p><p>C’est un blanc léger, sec et rafraîchissant, aux arômes délicats, à boire jeune et très polyvalent avec la cuisine de poisson et de légumes.</p>",
+    "it": "<p>Il Trebbiano d’Abruzzo è il bianco tradizionale dell’Abruzzo. La denominazione si produce con Trebbiano Abruzzese, un vitigno locale distinto dal Trebbiano Toscano, a cui possono unirsi altre uve bianche della regione. A lungo associato a vini semplici, ha dimostrato con alcuni produttori di poter dare bianchi di carattere.</p><p>Il Trebbiano della linea Classica di Masciarelli proviene dai vigneti della cantina in Abruzzo, tra la montagna e l’Adriatico. Viene vinificato in acciaio inox a temperatura controllata, senza legno, per preservare gli aromi freschi e l’acidità.</p><p>È un bianco leggero, secco e rinfrescante, dai profumi delicati, pensato per essere bevuto giovane e molto versatile con la cucina di pesce e di verdure.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pajizo pálido. Aromas de manzana, pera, cítricos y flores blancas, con un toque herbáceo. En boca es ligero, seco y fresco, con un final limpio y ligeramente almendrado.",
+    "en": "Pale straw yellow. Aromas of apple, pear, citrus and white flowers, with a herbal touch. Light, dry and fresh on the palate, with a clean, slightly almondy finish.",
+    "fr": "Jaune paille pâle. Arômes de pomme, de poire, d’agrumes et de fleurs blanches, avec une touche herbacée. En bouche, il est léger, sec et frais, avec une finale nette et légèrement amandée.",
+    "it": "Giallo paglierino tenue. Profumi di mela, pera, agrumi e fiori bianchi, con un tocco erbaceo. In bocca è leggero, secco e fresco, con un finale pulito e leggermente ammandorlato."
+  },
+  "pairing": {
+    "es": "Pescado a la plancha, brodetto, marisco, pasta con verduras, ensaladas",
+    "en": "Grilled fish, brodetto fish stew, shellfish, pasta with vegetables, salads",
+    "fr": "Poisson grillé, brodetto, fruits de mer, pâtes aux légumes, salades",
+    "it": "Pesce alla griglia, brodetto, frutti di mare, pasta con verdure, insalate"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Masciarelli Trebbiano d'Abruzzo"
+}

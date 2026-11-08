@@ -1,0 +1,41 @@
+{
+  "slug": "mionetto-prosecco-brut",
+  "name": "Mionetto Prosecco Brut",
+  "winery": "mionetto",
+  "region": "prosecco",
+  "country": "italia",
+  "type": "espumoso",
+  "category": {"es": "Prosecco DOC Treviso Brut", "en": "Prosecco DOC Treviso Brut", "fr": "Prosecco DOC Treviso Brut", "it": "Prosecco DOC Treviso Brut"},
+  "grapes": ["glera"],
+  "summary": {
+    "es": "El popular Prosecco DOC de etiqueta naranja de Mionetto, un espumoso de Glera ligero, afrutado y fácil de encontrar.",
+    "en": "Mionetto’s popular orange-label Prosecco DOC, a light, fruity, widely available Glera sparkling wine.",
+    "fr": "Le populaire Prosecco DOC à l’étiquette orange de Mionetto, un effervescent de glera léger, fruité et facile à trouver.",
+    "it": "Il popolare Prosecco DOC dall’etichetta arancione di Mionetto, uno spumante di Glera leggero, fruttato e facile da trovare."
+  },
+  "body": {
+    "es": "<p>Este Prosecco Brut, reconocible por su etiqueta naranja, es el vino más conocido de Mionetto y uno de los Prosecco más difundidos internacionalmente. Se ampara en la DOC Prosecco con la mención Treviso, que indica que las uvas proceden de la provincia de Treviso, el corazón histórico de la producción.</p><p>Se elabora con Glera por el método Martinotti o Charmat: tras una primera fermentación, el vino base realiza una segunda fermentación en grandes depósitos de acero cerrados a presión, donde se forma la burbuja. Es un proceso relativamente rápido, que preserva los aromas frescos de la uva.</p><p>Es un espumoso ligero y alegre, seco pero con una fruta generosa, pensado para beberse joven. Se usa también con frecuencia como base de cócteles como el Spritz o el Bellini.</p>",
+    "en": "<p>This Prosecco Brut, recognisable by its orange label, is Mionetto’s best-known wine and one of the most internationally widespread Proseccos. It falls under the Prosecco DOC with the Treviso designation, indicating that the grapes come from the province of Treviso, the historic heart of production.</p><p>It is made from Glera by the Martinotti or Charmat method: after a first fermentation, the base wine undergoes a second fermentation in large sealed, pressurised steel tanks, where the bubbles form. The process is relatively quick and preserves the grape’s fresh aromas.</p><p>It is a light, cheerful sparkling wine, dry but with generous fruit, meant to be drunk young. It is also often used as a base for cocktails such as the Spritz or the Bellini.</p>",
+    "fr": "<p>Ce Prosecco Brut, reconnaissable à son étiquette orange, est le vin le plus connu de Mionetto et l’un des Prosecco les plus diffusés à l’international. Il relève de la DOC Prosecco avec la mention Treviso, qui indique que les raisins proviennent de la province de Trévise, cœur historique de la production.</p><p>Il est élaboré avec de la glera selon la méthode Martinotti ou Charmat : après une première fermentation, le vin de base effectue une seconde fermentation dans de grandes cuves d’acier closes sous pression, où se forme la bulle. Le procédé, relativement rapide, préserve les arômes frais du raisin.</p><p>C’est un effervescent léger et gai, sec mais au fruit généreux, à boire jeune. On l’utilise aussi souvent comme base de cocktails comme le Spritz ou le Bellini.</p>",
+    "it": "<p>Questo Prosecco Brut, riconoscibile per l’etichetta arancione, è il vino più noto di Mionetto e uno dei Prosecco più diffusi a livello internazionale. Rientra nella DOC Prosecco con la menzione Treviso, che indica che le uve provengono dalla provincia di Treviso, cuore storico della produzione.</p><p>È prodotto con Glera secondo il metodo Martinotti o Charmat: dopo una prima fermentazione, il vino base compie una seconda fermentazione in grandi autoclavi d’acciaio, dove si forma la bollicina. È un processo relativamente rapido, che preserva gli aromi freschi dell’uva.</p><p>È uno spumante leggero e allegro, secco ma dal frutto generoso, pensato per essere bevuto giovane. Viene spesso usato anche come base per cocktail come lo Spritz o il Bellini.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pajizo pálido, con burbuja abundante. Aromas de manzana, pera, melocotón blanco y flores. En boca es ligero, fresco y afrutado, con un final limpio.",
+    "en": "Pale straw yellow, with abundant bubbles. Aromas of apple, pear, white peach and flowers. Light, fresh and fruity on the palate, with a clean finish.",
+    "fr": "Jaune paille pâle, à la bulle abondante. Arômes de pomme, de poire, de pêche blanche et de fleurs. En bouche, il est léger, frais et fruité, avec une finale nette.",
+    "it": "Giallo paglierino tenue, con perlage abbondante. Profumi di mela, pera, pesca bianca e fiori. In bocca è leggero, fresco e fruttato, con un finale pulito."
+  },
+  "pairing": {
+    "es": "Aperitivo, tapas, embutidos suaves, ensaladas, cócteles",
+    "en": "Aperitif, tapas, mild cured meats, salads, cocktails",
+    "fr": "Apéritif, tapas, charcuteries douces, salades, cocktails",
+    "it": "Aperitivo, stuzzichini, salumi delicati, insalate, cocktail"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de vino blanco o flauta",
+    "en": "6-8 °C, white wine glass or flute",
+    "fr": "6-8 °C, verre à vin blanc ou flûte",
+    "it": "6-8 °C, calice da vino bianco o flûte"
+  },
+  "search": "Mionetto Prosecco Brut Treviso"
+}

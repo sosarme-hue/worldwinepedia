@@ -1,6 +1,11 @@
 {
   "slug": "chardonnay",
-  "name": {"es": "Chardonnay", "en": "Chardonnay", "fr": "Chardonnay", "it": "Chardonnay"},
+  "name": {
+    "es": "Chardonnay",
+    "en": "Chardonnay",
+    "fr": "Chardonnay",
+    "it": "Chardonnay"
+  },
   "color": "blanca",
   "origin": {
     "es": "Borgoña (Francia), cruce natural de Pinot y Gouais Blanc",
@@ -8,7 +13,11 @@
     "fr": "Bourgogne (France), croisement naturel de pinot et de gouais blanc",
     "it": "Borgogna (Francia), incrocio naturale tra Pinot e Gouais Blanc"
   },
-  "synonyms": ["Morillon", "Beaunois", "Melon d’Arbois"],
+  "synonyms": [
+    "Morillon",
+    "Beaunois",
+    "Melon d’Arbois"
+  ],
   "summary": {
     "es": "La gran blanca de Borgoña y del champagne, muy adaptable, que refleja con fidelidad su clima y la elaboración, desde Chablis hasta California o Australia.",
     "en": "The great white grape of Burgundy and Champagne, highly adaptable, faithfully reflecting climate and winemaking, from Chablis to California and Australia.",
@@ -27,5 +36,18 @@
     "fr": "pomme, citron, pêche, ananas, beurre, noisette, vanille",
     "it": "mela, limone, pesca, ananas, burro, nocciola, vaniglia"
   },
-  "countries": ["francia", "estados-unidos", "australia", "nueva-zelanda", "chile", "argentina", "sudafrica", "italia", "austria", "alemania", "espana"]
+  "countries": [
+    "francia",
+    "estados-unidos",
+    "australia",
+    "nueva-zelanda",
+    "chile",
+    "argentina",
+    "sudafrica",
+    "italia",
+    "austria",
+    "alemania",
+    "espana",
+    "portugal"
+  ]
 }

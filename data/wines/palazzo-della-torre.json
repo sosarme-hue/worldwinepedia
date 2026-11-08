@@ -1,0 +1,41 @@
+{
+  "slug": "palazzo-della-torre",
+  "name": "Palazzo della Torre",
+  "winery": "allegrini",
+  "region": "veneto",
+  "country": "italia",
+  "type": "tinto",
+  "category": {"es": "Veronese IGT", "en": "Veronese IGT", "fr": "Veronese IGT", "it": "Veronese IGT"},
+  "grapes": ["corvina"],
+  "summary": {
+    "es": "Tinto de Allegrini a base de Corvina en el que una parte de las uvas se seca y se añade al vino en una segunda fermentación, entre un Valpolicella y un Amarone.",
+    "en": "Allegrini red based on Corvina in which part of the grapes is dried and added to the wine in a second fermentation, halfway between a Valpolicella and an Amarone.",
+    "fr": "Rouge d’Allegrini à base de corvina dont une partie des raisins est séchée puis ajoutée au vin lors d’une seconde fermentation, entre un Valpolicella et un Amarone.",
+    "it": "Rosso di Allegrini a base di Corvina in cui una parte delle uve viene appassita e aggiunta al vino in una seconda fermentazione, a metà tra un Valpolicella e un Amarone."
+  },
+  "body": {
+    "es": "<p>Palazzo della Torre toma el nombre del viñedo situado junto a Villa Della Torre, el palacio renacentista de Fumane vinculado a la familia Allegrini. Es uno de los vinos más conocidos de la bodega y un buen ejemplo de los tintos de la zona que se inspiran en el método del Amarone sin llegar a su concentración.</p><p>Se elabora principalmente con Corvina Veronese, junto con Rondinella y una pequeña parte de Sangiovese. La mayoría de las uvas se vinifica justo después de la vendimia; el resto se deja secar durante varias semanas y, una vez pasificado, se añade al vino, que inicia así una segunda fermentación. Esta técnica aporta más cuerpo, color y aromas de fruta madura.</p><p>Tras la crianza en barrica, el resultado es un tinto redondo y afrutado, con algo de la riqueza del Amarone pero más ligero y fácil de combinar con la comida.</p>",
+    "en": "<p>Palazzo della Torre takes its name from the vineyard beside Villa Della Torre, the Renaissance palace in Fumane linked to the Allegrini family. It is one of the winery’s best-known wines and a good example of the local reds that draw on the Amarone method without reaching its concentration.</p><p>It is made mainly from Corvina Veronese, together with Rondinella and a small share of Sangiovese. Most of the grapes are vinified right after harvest; the rest are left to dry for several weeks and, once raisined, are added to the wine, which then starts a second fermentation. This technique adds body, colour and ripe-fruit aromas.</p><p>After barrel ageing, the result is a round, fruity red with some of Amarone’s richness but lighter and easier to pair with food.</p>",
+    "fr": "<p>Palazzo della Torre doit son nom au vignoble situé près de la Villa Della Torre, le palais Renaissance de Fumane lié à la famille Allegrini. C’est l’un des vins les plus connus de la maison et un bon exemple des rouges de la zone qui s’inspirent de la méthode de l’Amarone sans en atteindre la concentration.</p><p>Il est élaboré principalement avec de la corvina veronese, avec de la rondinella et une petite part de sangiovese. La majorité des raisins est vinifiée juste après la vendange ; le reste est mis à sécher pendant plusieurs semaines puis, une fois passerillé, ajouté au vin, qui entame ainsi une seconde fermentation. Cette technique apporte davantage de corps, de couleur et d’arômes de fruits mûrs.</p><p>Après un élevage en barriques, il en résulte un rouge rond et fruité, qui a un peu de la richesse de l’Amarone tout en étant plus léger et plus facile à marier avec les plats.</p>",
+    "it": "<p>Palazzo della Torre prende il nome dal vigneto accanto a Villa Della Torre, il palazzo rinascimentale di Fumane legato alla famiglia Allegrini. È uno dei vini più noti della cantina e un buon esempio dei rossi della zona che si ispirano al metodo dell’Amarone senza raggiungerne la concentrazione.</p><p>È prodotto principalmente con Corvina Veronese, insieme a Rondinella e a una piccola quota di Sangiovese. La maggior parte delle uve viene vinificata subito dopo la vendemmia; il resto viene lasciato appassire per alcune settimane e, una volta appassito, aggiunto al vino, che avvia così una seconda fermentazione. Questa tecnica apporta più corpo, colore e profumi di frutta matura.</p><p>Dopo l’affinamento in barrique, il risultato è un rosso rotondo e fruttato, con qualcosa della ricchezza dell’Amarone ma più leggero e facile da abbinare.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de cereza madura, ciruela y frutos rojos secos, con notas de especias y vainilla. En boca es redondo y suave, con tanino amable y final afrutado.",
+    "en": "Deep ruby. Aromas of ripe cherry, plum and dried red fruit, with notes of spice and vanilla. Round and smooth on the palate, with gentle tannins and a fruity finish.",
+    "fr": "Rubis intense. Arômes de cerise mûre, de prune et de fruits rouges secs, avec des notes d’épices et de vanille. En bouche, il est rond et souple, aux tanins aimables et à la finale fruitée.",
+    "it": "Rubino intenso. Profumi di ciliegia matura, prugna e frutti rossi secchi, con note di spezie e vaniglia. In bocca è rotondo e morbido, con tannino gentile e finale fruttato."
+  },
+  "pairing": {
+    "es": "Pasta con salsas de carne, carnes asadas, polenta con guiso, quesos semicurados",
+    "en": "Pasta with meat sauces, roast meat, polenta with stew, semi-aged cheeses",
+    "fr": "Pâtes à la sauce à la viande, viandes rôties, polenta avec ragoût, fromages mi-affinés",
+    "it": "Pasta con sughi di carne, carni arrosto, polenta con spezzatino, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Allegrini Palazzo della Torre"
+}

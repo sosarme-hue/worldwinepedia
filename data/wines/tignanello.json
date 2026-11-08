@@ -1,0 +1,41 @@
+{
+  "slug": "tignanello",
+  "name": "Tignanello",
+  "winery": "antinori",
+  "region": "toscana",
+  "country": "italia",
+  "type": "tinto",
+  "category": {"es": "Toscana IGT", "en": "Toscana IGT", "fr": "Toscana IGT", "it": "Toscana IGT"},
+  "grapes": ["sangiovese", "cabernet-sauvignon", "cabernet-franc"],
+  "summary": {
+    "es": "El tinto de Marchesi Antinori que en los años setenta abrió el camino de los supertoscanos: Sangiovese con una pequeña parte de Cabernet, criado en barrica.",
+    "en": "The Marchesi Antinori red that paved the way for the Super Tuscans in the 1970s: Sangiovese with a small share of Cabernet, aged in barriques.",
+    "fr": "Le rouge de Marchesi Antinori qui a ouvert la voie aux super-toscans dans les années 1970 : du sangiovese avec une petite part de cabernet, élevé en barriques.",
+    "it": "Il rosso di Marchesi Antinori che negli anni Settanta ha aperto la strada ai Supertuscan: Sangiovese con una piccola parte di Cabernet, affinato in barrique."
+  },
+  "body": {
+    "es": "<p>Tignanello procede del viñedo del mismo nombre, en la Tenuta Tignanello, situada en las colinas del Chianti Classico entre los valles del Greve y del Pesa. Los viñedos se asientan sobre suelos calcáreos y margosos, con abundante galestro y alberese, los suelos típicos de la zona.</p><p>Elaborado a partir de 1971, fue uno de los primeros tintos toscanos que se criaron en barrica pequeña y en combinar la Sangiovese con variedades no tradicionales, en este caso Cabernet Sauvignon y Cabernet Franc, prescindiendo de las uvas blancas. Como no se ajustaba a la normativa del Chianti de la época, salió al mercado como vino de mesa; hoy se ampara en la IGT Toscana.</p><p>La Sangiovese es claramente mayoritaria en el ensamblaje. Tras la fermentación, el vino se cría en barricas de roble durante un periodo prolongado antes de embotellarse. Es un tinto de buena estructura y capacidad de guarda, que gana complejidad con los años en botella.</p>",
+    "en": "<p>Tignanello comes from the vineyard of the same name on the Tenuta Tignanello estate, in the Chianti Classico hills between the Greve and Pesa valleys. The vines grow on limestone and marl soils, rich in galestro and alberese, the area’s typical soils.</p><p>First made in 1971, it was one of the first Tuscan reds to be aged in small barrels and to blend Sangiovese with non-traditional varieties, in this case Cabernet Sauvignon and Cabernet Franc, while leaving out white grapes. Since it did not comply with the Chianti regulations of the time, it was released as a table wine; today it is a Toscana IGT.</p><p>Sangiovese clearly dominates the blend. After fermentation the wine is aged in oak barrels for an extended period before bottling. It is a well-structured red with ageing potential that gains complexity over years in bottle.</p>",
+    "fr": "<p>Le Tignanello provient du vignoble du même nom, sur la Tenuta Tignanello, dans les collines du Chianti Classico entre les vallées de la Greve et de la Pesa. Les vignes poussent sur des sols calcaires et marneux, riches en galestro et en alberese, les sols typiques de la zone.</p><p>Élaboré à partir de 1971, il fut l’un des premiers rouges toscans élevés en petites barriques et à associer le sangiovese à des cépages non traditionnels, ici le cabernet-sauvignon et le cabernet franc, en renonçant aux raisins blancs. Comme il ne respectait pas le règlement du Chianti de l’époque, il fut commercialisé comme vin de table ; il relève aujourd’hui de l’IGT Toscana.</p><p>Le sangiovese est nettement majoritaire dans l’assemblage. Après la fermentation, le vin est élevé en barriques de chêne pendant une période prolongée avant la mise en bouteille. C’est un rouge bien structuré, apte à la garde, qui gagne en complexité au fil des années en bouteille.</p>",
+    "it": "<p>Il Tignanello proviene dall’omonimo vigneto della Tenuta Tignanello, sulle colline del Chianti Classico tra le valli della Greve e della Pesa. Le viti crescono su suoli calcarei e marnosi, ricchi di galestro e alberese, i terreni tipici della zona.</p><p>Prodotto dal 1971, fu uno dei primi rossi toscani affinati in barrique e ad abbinare il Sangiovese a varietà non tradizionali, in questo caso Cabernet Sauvignon e Cabernet Franc, rinunciando alle uve bianche. Poiché non rispettava il disciplinare del Chianti dell’epoca, uscì come vino da tavola; oggi è un IGT Toscana.</p><p>Il Sangiovese è nettamente prevalente nell’uvaggio. Dopo la fermentazione il vino affina in barrique di rovere per un periodo prolungato prima dell’imbottigliamento. È un rosso ben strutturato e longevo, che acquista complessità con gli anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de cereza y fruta roja madura, con notas de especias, tabaco y un toque tostado de la barrica. En boca es amplio, con tanino firme y fino y una acidez viva propia de la Sangiovese.",
+    "en": "Deep ruby. Aromas of cherry and ripe red fruit, with notes of spice, tobacco and a toasty touch from the barrel. Broad on the palate, with firm, fine tannins and the lively acidity typical of Sangiovese.",
+    "fr": "Rubis intense. Arômes de cerise et de fruits rouges mûrs, avec des notes d’épices, de tabac et une touche grillée de la barrique. En bouche, il est ample, avec des tanins fermes et fins et l’acidité vive propre au sangiovese.",
+    "it": "Rubino intenso. Profumi di ciliegia e frutta rossa matura, con note di spezie, tabacco e un tocco tostato della barrique. In bocca è ampio, con tannino deciso e fine e la vivace acidità tipica del Sangiovese."
+  },
+  "pairing": {
+    "es": "Bistecca a la florentina, carnes rojas asadas, caza, setas, quesos curados",
+    "en": "Bistecca alla fiorentina, roast red meat, game, mushrooms, aged cheeses",
+    "fr": "Bistecca alla fiorentina, viandes rouges rôties, gibier, champignons, fromages affinés",
+    "it": "Bistecca alla fiorentina, carni rosse arrosto, selvaggina, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Tignanello Antinori Toscana"
+}

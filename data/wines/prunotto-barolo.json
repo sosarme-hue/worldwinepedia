@@ -1,0 +1,41 @@
+{
+  "slug": "prunotto-barolo",
+  "name": "Prunotto Barolo",
+  "winery": "prunotto",
+  "region": "barolo",
+  "country": "italia",
+  "type": "tinto",
+  "category": {"es": "Barolo DOCG", "en": "Barolo DOCG", "fr": "Barolo DOCG", "it": "Barolo DOCG"},
+  "grapes": ["nebbiolo"],
+  "summary": {
+    "es": "El Barolo de base de Prunotto, un Nebbiolo que combina uvas de varios municipios de la denominación en un estilo clásico y equilibrado.",
+    "en": "Prunotto’s core Barolo, a Nebbiolo combining grapes from several municipalities of the appellation in a balanced, classic style.",
+    "fr": "Le Barolo de base de Prunotto, un nebbiolo qui associe des raisins de plusieurs communes de l’appellation dans un style classique et équilibré.",
+    "it": "Il Barolo di base di Prunotto, un Nebbiolo che unisce uve di diversi comuni della denominazione in uno stile classico ed equilibrato."
+  },
+  "body": {
+    "es": "<p>El Barolo de Prunotto se elabora con Nebbiolo de viñedos situados en distintos municipios de la denominación, siguiendo la tradición de ensamblar uvas de zonas complementarias. Junto a él, la bodega produce el Barolo Bussia, de su viñedo en el cru del mismo nombre en Monforte d’Alba.</p><p>Tras la fermentación con maceración, el vino se cría en madera de roble durante un periodo prolongado y reposa después en botella antes de salir al mercado, como exige la denominación.</p><p>Es un Barolo de estilo clásico y equilibrado, en el que los aromas florales y de fruta roja de la Nebbiolo se combinan con notas de especias y una estructura tánica firme. Puede disfrutarse a partir de unos años de su vendimia y evoluciona bien en botella.</p>",
+    "en": "<p>Prunotto’s Barolo is made from Nebbiolo from vineyards in different municipalities of the appellation, following the tradition of blending grapes from complementary areas. Alongside it, the winery produces Barolo Bussia, from its vineyard in the cru of the same name in Monforte d’Alba.</p><p>After fermentation with maceration, the wine is aged in oak for an extended period and then rests in bottle before release, as the appellation requires.</p><p>It is a balanced, classically styled Barolo in which Nebbiolo’s floral and red-fruit aromas combine with spicy notes and a firm tannic structure. It can be enjoyed a few years after the vintage and evolves well in bottle.</p>",
+    "fr": "<p>Le Barolo de Prunotto est élaboré avec du nebbiolo de vignes situées dans différentes communes de l’appellation, selon la tradition qui consiste à assembler des raisins de zones complémentaires. À ses côtés, la maison produit le Barolo Bussia, issu de sa vigne dans le cru du même nom à Monforte d’Alba.</p><p>Après une fermentation avec macération, le vin est élevé longuement en chêne puis repose en bouteille avant sa commercialisation, comme l’exige l’appellation.</p><p>C’est un Barolo de style classique et équilibré, où les arômes floraux et de fruits rouges du nebbiolo s’associent à des notes épicées et à une structure tannique ferme. Il s’apprécie quelques années après le millésime et évolue bien en bouteille.</p>",
+    "it": "<p>Il Barolo di Prunotto è prodotto con Nebbiolo di vigneti situati in diversi comuni della denominazione, secondo la tradizione di assemblare uve di zone complementari. Accanto a questo, la cantina produce il Barolo Bussia, dal suo vigneto nell’omonimo cru di Monforte d’Alba.</p><p>Dopo la fermentazione con macerazione, il vino affina a lungo in rovere e riposa poi in bottiglia prima dell’uscita sul mercato, come previsto dal disciplinare.</p><p>È un Barolo di stile classico ed equilibrato, in cui i profumi floreali e di frutto rosso del Nebbiolo si uniscono a note speziate e a una struttura tannica decisa. Si può apprezzare qualche anno dopo la vendemmia ed evolve bene in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Granate de capa media. Aromas de rosa, cereza, frambuesa y especias, con notas de regaliz. En boca es seco y firme, con tanino presente, buena acidez y final persistente.",
+    "en": "Medium-depth garnet. Aromas of rose, cherry, raspberry and spice, with notes of liquorice. Dry and firm on the palate, with present tannins, good acidity and a persistent finish.",
+    "fr": "Grenat de profondeur moyenne. Arômes de rose, de cerise, de framboise et d’épices, avec des notes de réglisse. En bouche, il est sec et ferme, aux tanins présents, à la bonne acidité et à la finale persistante.",
+    "it": "Granato di media intensità. Profumi di rosa, ciliegia, lampone e spezie, con note di liquirizia. In bocca è secco e deciso, con tannino presente, buona acidità e finale persistente."
+  },
+  "pairing": {
+    "es": "Carnes rojas estofadas, agnolotti del plin, caza, quesos curados",
+    "en": "Braised red meat, agnolotti del plin, game, aged cheeses",
+    "fr": "Viandes rouges braisées, agnolotti del plin, gibier, fromages affinés",
+    "it": "Carni rosse brasate, agnolotti del plin, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "17-18 °C, copa amplia de tipo borgoña",
+    "en": "17-18 °C, large Burgundy-style glass",
+    "fr": "17-18 °C, grand verre de type bourguignon",
+    "it": "17-18 °C, ampio calice tipo borgogna"
+  },
+  "search": "Prunotto Barolo"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "nipozzano-riserva",
+  "name": "Castello di Nipozzano Riserva",
+  "winery": "frescobaldi",
+  "region": "toscana",
+  "country": "italia",
+  "type": "tinto",
+  "category": {"es": "Chianti Rufina Riserva DOCG", "en": "Chianti Rufina Riserva DOCG", "fr": "Chianti Rufina Riserva DOCG", "it": "Chianti Rufina Riserva DOCG"},
+  "grapes": ["sangiovese"],
+  "summary": {
+    "es": "El Chianti Rufina Riserva del Castello di Nipozzano, finca histórica de los Frescobaldi al este de Florencia, uno de los Chianti Riserva más conocidos.",
+    "en": "The Chianti Rufina Riserva from Castello di Nipozzano, the Frescobaldi family’s historic estate east of Florence, one of the best-known Chianti Riservas.",
+    "fr": "Le Chianti Rufina Riserva du Castello di Nipozzano, domaine historique des Frescobaldi à l’est de Florence, l’un des Chianti Riserva les plus connus.",
+    "it": "Il Chianti Rufina Riserva del Castello di Nipozzano, storica tenuta dei Frescobaldi a est di Firenze, uno dei Chianti Riserva più conosciuti."
+  },
+  "body": {
+    "es": "<p>El Castello di Nipozzano se alza en las colinas del Chianti Rufina, una de las subzonas del Chianti situada al este de Florencia, en el valle del río Sieve. Es una zona más fresca que otras partes del Chianti, con viñedos en ladera y suelos ricos en galestro y alberese, que suelen dar tintos de buena acidez y larga vida.</p><p>La Riserva de Nipozzano se elabora sobre todo con Sangiovese, completada con pequeñas proporciones de otras variedades tintas cultivadas en la finca. Tras la fermentación, el vino se cría en madera y después en botella; la categoría Riserva exige un periodo de crianza más largo que el del Chianti Rufina básico.</p><p>Es uno de los vinos más populares de los Frescobaldi y un tinto de estilo clásico, en el que la fruta de la Sangiovese se combina con notas de crianza y una estructura firme.</p>",
+    "en": "<p>Castello di Nipozzano stands on the hills of Chianti Rufina, a Chianti subzone east of Florence in the valley of the River Sieve. The area is cooler than other parts of Chianti, with hillside vineyards and soils rich in galestro and alberese, which tend to give reds with good acidity and long life.</p><p>Nipozzano Riserva is made mainly from Sangiovese, completed with small proportions of other red varieties grown on the estate. After fermentation the wine is aged in wood and then in bottle; the Riserva category requires a longer ageing period than basic Chianti Rufina.</p><p>It is one of the Frescobaldi family’s most popular wines and a classically styled red, in which Sangiovese’s fruit combines with ageing notes and a firm structure.</p>",
+    "fr": "<p>Le Castello di Nipozzano se dresse sur les collines du Chianti Rufina, une sous-zone du Chianti située à l’est de Florence, dans la vallée de la Sieve. La zone est plus fraîche que d’autres parties du Chianti, avec des vignes en coteaux et des sols riches en galestro et en alberese, qui donnent volontiers des rouges de bonne acidité et de longue garde.</p><p>La Riserva de Nipozzano est élaborée surtout avec du sangiovese, complété par de petites proportions d’autres cépages rouges cultivés sur le domaine. Après la fermentation, le vin est élevé sous bois puis en bouteille ; la catégorie Riserva impose un élevage plus long que celui du Chianti Rufina de base.</p><p>C’est l’un des vins les plus populaires des Frescobaldi et un rouge de style classique, où le fruit du sangiovese s’associe à des notes d’élevage et à une structure ferme.</p>",
+    "it": "<p>Il Castello di Nipozzano sorge sulle colline del Chianti Rufina, una sottozona del Chianti a est di Firenze, nella valle della Sieve. La zona è più fresca di altre parti del Chianti, con vigneti in collina e suoli ricchi di galestro e alberese, che tendono a dare rossi di buona acidità e lunga vita.</p><p>La Riserva di Nipozzano è prodotta soprattutto con Sangiovese, completato da piccole quote di altre varietà a bacca rossa coltivate nella tenuta. Dopo la fermentazione il vino affina in legno e poi in bottiglia; la categoria Riserva richiede un affinamento più lungo rispetto al Chianti Rufina di base.</p><p>È uno dei vini più popolari dei Frescobaldi e un rosso di stile classico, in cui il frutto del Sangiovese si unisce a note di affinamento e a una struttura solida.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de cereza, ciruela y violeta, con notas de especias y de madera. En boca es de cuerpo medio, con tanino firme y una acidez fresca.",
+    "en": "Deep ruby. Aromas of cherry, plum and violet, with notes of spice and oak. Medium-bodied on the palate, with firm tannins and fresh acidity.",
+    "fr": "Rubis intense. Arômes de cerise, de prune et de violette, avec des notes d’épices et de bois. En bouche, corps moyen, tanins fermes et acidité fraîche.",
+    "it": "Rubino intenso. Profumi di ciliegia, prugna e violetta, con note di spezie e di legno. In bocca ha corpo medio, tannino deciso e acidità fresca."
+  },
+  "pairing": {
+    "es": "Carnes rojas asadas, caza menor, pasta con ragú, quesos curados",
+    "en": "Roast red meat, small game, pasta with ragù, aged cheeses",
+    "fr": "Viandes rouges rôties, petit gibier, pâtes au ragù, fromages affinés",
+    "it": "Carni rosse arrosto, selvaggina da piuma, pasta al ragù, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Nipozzano Riserva Chianti Rufina Frescobaldi"
+}

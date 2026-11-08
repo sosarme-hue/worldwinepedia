@@ -1,0 +1,41 @@
+{
+  "slug": "taylors-10-year-old-tawny",
+  "name": "Taylor’s 10 Year Old Tawny Port",
+  "winery": "taylors",
+  "region": "porto",
+  "country": "portugal",
+  "type": "generoso",
+  "category": {"es": "Tawny 10 años", "en": "10 Year Old Tawny", "fr": "Tawny 10 ans", "it": "Tawny 10 anni"},
+  "grapes": ["touriga-nacional", "touriga-franca", "tempranillo"],
+  "summary": {
+    "es": "Tawny de 10 años de Taylor’s, ensamblaje de vinos de distintas cosechas criados en barricas de roble, que equilibra la fruta madura con los aromas de la crianza oxidativa.",
+    "en": "Taylor’s 10-year-old tawny, a blend of wines from several harvests aged in oak casks, balancing ripe fruit with the aromas of oxidative ageing.",
+    "fr": "Tawny de 10 ans de Taylor’s, assemblage de vins de différentes récoltes élevés en fûts de chêne, qui équilibre le fruit mûr et les arômes de l’élevage oxydatif.",
+    "it": "Tawny di 10 anni di Taylor’s, uvaggio di vini di diverse vendemmie affinati in botti di rovere, che bilancia il frutto maturo con gli aromi dell’invecchiamento ossidativo."
+  },
+  "body": {
+    "es": "<p>El Taylor’s 10 Year Old Tawny pertenece a la familia de los tawnies con indicación de edad, ensamblajes de vinos de varias cosechas cuya edad media responde a la mención de la etiqueta y cuyo carácter certifica el organismo regulador. La casa elabora también versiones de 20, 30 y 40 años.</p><p>Las uvas proceden del Douro, incluidas las quintas de la casa, y de variedades tradicionales como la Touriga Nacional, la Touriga Franca y la Tinta Roriz (Tempranillo). Tras la fermentación, interrumpida con aguardiente vínica, los vinos envejecen en barricas de roble en las bodegas de Vila Nova de Gaia. La madera permite un contacto lento con el oxígeno que suaviza el vino, aclara su color y desarrolla notas de frutos secos y especias. Se embotella filtrado, listo para beber, y una vez abierto se conserva bien durante algunas semanas.</p>",
+    "en": "<p>Taylor’s 10 Year Old Tawny belongs to the family of age-dated tawnies, blends of wines from several harvests whose average age matches the indication on the label and whose character is certified by the regulatory body. The house also makes 20, 30 and 40-year-old versions.</p><p>The grapes come from the Douro, including the house’s own quintas, and from traditional varieties such as Touriga Nacional, Touriga Franca and Tinta Roriz (Tempranillo). After fermentation, stopped with grape spirit, the wines age in oak casks in the lodges of Vila Nova de Gaia. The wood allows slow contact with oxygen that softens the wine, lightens its colour and develops notes of nuts and spice. It is bottled filtered, ready to drink, and once opened it keeps well for a few weeks.</p>",
+    "fr": "<p>Le Taylor’s 10 Year Old Tawny appartient à la famille des tawnies avec indication d’âge, assemblages de vins de plusieurs récoltes dont l’âge moyen correspond à la mention de l’étiquette et dont le caractère est certifié par l’organisme de régulation. La maison élabore aussi des versions de 20, 30 et 40 ans.</p><p>Les raisins proviennent du Douro, notamment des quintas de la maison, et de cépages traditionnels comme la touriga nacional, la touriga franca et la tinta roriz (tempranillo). Après la fermentation, arrêtée par l’ajout d’eau-de-vie de vin, les vins vieillissent en fûts de chêne dans les chais de Vila Nova de Gaia. Le bois permet un contact lent avec l’oxygène qui assouplit le vin, éclaircit sa couleur et développe des notes de fruits secs et d’épices. Il est mis en bouteille filtré, prêt à boire, et se conserve bien quelques semaines une fois ouvert.</p>",
+    "it": "<p>Il Taylor’s 10 Year Old Tawny appartiene alla famiglia dei tawny con indicazione d’età, uvaggi di vini di diverse vendemmie la cui età media corrisponde alla menzione in etichetta e il cui carattere è certificato dall’ente regolatore. La casa produce anche versioni di 20, 30 e 40 anni.</p><p>Le uve provengono dal Douro, comprese le quintas della casa, e da varietà tradizionali come Touriga Nacional, Touriga Franca e Tinta Roriz (Tempranillo). Dopo la fermentazione, interrotta con acquavite di vino, i vini invecchiano in botti di rovere nelle cantine di Vila Nova de Gaia. Il legno consente un contatto lento con l’ossigeno che ammorbidisce il vino, ne schiarisce il colore e sviluppa note di frutta secca e spezie. Viene imbottigliato filtrato, pronto da bere, e una volta aperto si conserva bene per alcune settimane.</p>"
+  },
+  "tasting": {
+    "es": "Color ámbar rojizo. Aromas de fruta madura y pasificada, almendra tostada, toffee y especias dulces. En boca es sedoso, dulce y con un final largo y fresco.",
+    "en": "Reddish amber colour. Aromas of ripe and dried fruit, toasted almond, toffee and sweet spice. Silky and sweet on the palate, with a long, fresh finish.",
+    "fr": "Couleur ambre rougeâtre. Arômes de fruits mûrs et secs, d’amande grillée, de caramel au beurre et d’épices douces. En bouche, il est soyeux, doux, avec une finale longue et fraîche.",
+    "it": "Colore ambra rossastro. Aromi di frutta matura e appassita, mandorla tostata, toffee e spezie dolci. In bocca è setoso, dolce, con un finale lungo e fresco."
+  },
+  "pairing": {
+    "es": "Tartas de frutos secos, flan, quesos curados, foie gras",
+    "en": "Nut tarts, crème caramel, aged cheeses, foie gras",
+    "fr": "Tartes aux fruits secs, crème caramel, fromages affinés, foie gras",
+    "it": "Crostate alla frutta secca, crème caramel, formaggi stagionati, foie gras"
+  },
+  "serve": {
+    "es": "10-14 °C, ligeramente fresco, copa de vino generoso",
+    "en": "10-14 °C, lightly chilled, Port glass",
+    "fr": "10-14 °C, légèrement frais, verre à porto",
+    "it": "10-14 °C, leggermente fresco, calice da Porto"
+  },
+  "search": "Taylor's 10 Year Old Tawny Port"
+}

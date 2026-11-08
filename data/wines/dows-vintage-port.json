@@ -1,0 +1,41 @@
+{
+  "slug": "dows-vintage-port",
+  "name": "Dow’s Vintage Port",
+  "winery": "symington",
+  "region": "porto",
+  "country": "portugal",
+  "type": "generoso",
+  "category": {"es": "Vintage", "en": "Vintage", "fr": "Vintage", "it": "Vintage"},
+  "grapes": ["touriga-nacional", "touriga-franca"],
+  "summary": {
+    "es": "El Vintage de Dow’s, casa de la familia Symington, solo se elabora en cosechas declaradas y es conocido por un estilo algo más seco que el de otras casas.",
+    "en": "The Vintage Port of Dow’s, a Symington family house, is made only in declared years and is known for a somewhat drier style than that of other houses.",
+    "fr": "Le Vintage de Dow’s, maison de la famille Symington, n’est élaboré que les années déclarées et il est connu pour un style un peu plus sec que celui d’autres maisons.",
+    "it": "Il Vintage di Dow’s, casa della famiglia Symington, si produce solo nelle annate dichiarate ed è noto per uno stile un po’ più secco rispetto ad altre case."
+  },
+  "body": {
+    "es": "<p>El Dow’s Vintage Port se elabora únicamente en los años en que la casa considera que la cosecha es excepcional y declara un Vintage, con la aprobación del organismo regulador. Procede principalmente de las quintas de la casa en el Douro, como Quinta do Bomfim, en el Cima Corgo, y Quinta da Senhora da Ribeira, en el Douro Superior, y se basa en variedades como la Touriga Nacional y la Touriga Franca.</p><p>Tras la fermentación, interrumpida con aguardiente vínica, el vino pasa unos dos años en madera y se embotella sin filtrar. Por eso evoluciona durante décadas en botella y forma con el tiempo un sedimento, lo que hace aconsejable decantarlo. La casa lo asocia a un estilo con menos dulzor aparente que otros Vintage, con un final más seco y firme.</p>",
+    "en": "<p>Dow’s Vintage Port is made only in years when the house judges the harvest to be exceptional and declares a Vintage, with the approval of the regulatory body. It comes mainly from the house’s quintas in the Douro, such as Quinta do Bomfim, in the Cima Corgo, and Quinta da Senhora da Ribeira, in the Douro Superior, and is based on varieties such as Touriga Nacional and Touriga Franca.</p><p>After fermentation, stopped with grape spirit, the wine spends about two years in wood and is bottled unfiltered. As a result it develops for decades in bottle and throws a deposit over time, so decanting is advisable. The house associates it with a style that has less apparent sweetness than other Vintage Ports, with a drier, firmer finish.</p>",
+    "fr": "<p>Le Dow’s Vintage Port n’est élaboré que les années où la maison juge la récolte exceptionnelle et déclare un Vintage, avec l’approbation de l’organisme de régulation. Il provient principalement des quintas de la maison dans le Douro, comme la Quinta do Bomfim, dans le Cima Corgo, et la Quinta da Senhora da Ribeira, dans le Douro Superior, et repose sur des cépages comme la touriga nacional et la touriga franca.</p><p>Après la fermentation, arrêtée par l’ajout d’eau-de-vie de vin, le vin passe environ deux ans sous bois et il est mis en bouteille sans filtration. Il évolue donc pendant des décennies en bouteille et forme avec le temps un dépôt, ce qui rend le carafage conseillé. La maison l’associe à un style moins doux en apparence que d’autres Vintage, avec une finale plus sèche et plus ferme.</p>",
+    "it": "<p>Il Dow’s Vintage Port si produce soltanto negli anni in cui la casa giudica eccezionale la vendemmia e dichiara un Vintage, con l’approvazione dell’ente regolatore. Proviene soprattutto dalle quintas della casa nel Douro, come Quinta do Bomfim, nel Cima Corgo, e Quinta da Senhora da Ribeira, nel Douro Superior, e si basa su varietà come Touriga Nacional e Touriga Franca.</p><p>Dopo la fermentazione, interrotta con acquavite di vino, il vino trascorre circa due anni in legno e viene imbottigliato senza filtrazione. Per questo evolve per decenni in bottiglia e con il tempo forma un deposito, per cui è consigliabile decantarlo. La casa lo associa a uno stile con una dolcezza percepita inferiore rispetto ad altri Vintage, con un finale più secco e deciso.</p>"
+  },
+  "tasting": {
+    "es": "De joven, color muy oscuro y aromas intensos de fruta negra, violeta y especias, con taninos firmes y final seco. Con los años gana notas de frutos secos, cacao y fruta confitada.",
+    "en": "When young, very deep colour and intense aromas of black fruit, violet and spice, with firm tannins and a dry finish. With age it develops notes of nuts, cocoa and candied fruit.",
+    "fr": "Jeune, couleur très sombre et arômes intenses de fruits noirs, de violette et d’épices, avec des tanins fermes et une finale sèche. Avec les années, il acquiert des notes de fruits secs, de cacao et de fruits confits.",
+    "it": "Da giovane, colore molto scuro e aromi intensi di frutta nera, violetta e spezie, con tannini decisi e finale secco. Con gli anni sviluppa note di frutta secca, cacao e frutta candita."
+  },
+  "pairing": {
+    "es": "Quesos azules como el Stilton, chocolate negro, frutos secos",
+    "en": "Blue cheeses such as Stilton, dark chocolate, nuts",
+    "fr": "Fromages à pâte persillée comme le stilton, chocolat noir, fruits secs",
+    "it": "Formaggi erborinati come lo Stilton, cioccolato fondente, frutta secca"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa de vino generoso",
+    "en": "16-18 °C, decanted, Port glass",
+    "fr": "16-18 °C, carafé, verre à porto",
+    "it": "16-18 °C, decantato, calice da Porto"
+  },
+  "search": "Dow's Vintage Port"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "donnafugata-sedara",
+  "name": "Donnafugata Sedàra",
+  "winery": "donnafugata",
+  "region": "sicilia",
+  "country": "italia",
+  "type": "tinto",
+  "category": {"es": "Sicilia DOC", "en": "Sicilia DOC", "fr": "Sicilia DOC", "it": "Sicilia DOC"},
+  "grapes": ["nero-davola"],
+  "summary": {
+    "es": "Tinto siciliano de Donnafugata a base de Nero d’Avola, afrutado y fácil de beber, cuyo nombre procede de un personaje de El gatopardo.",
+    "en": "A Nero d’Avola-based Sicilian red from Donnafugata, fruity and easy to drink, whose name comes from a character in The Leopard.",
+    "fr": "Rouge sicilien de Donnafugata à base de nero d’avola, fruité et facile à boire, dont le nom vient d’un personnage du Guépard.",
+    "it": "Rosso siciliano di Donnafugata a base di Nero d’Avola, fruttato e di facile beva, il cui nome viene da un personaggio del Gattopardo."
+  },
+  "body": {
+    "es": "<p>Sedàra es uno de los tintos más difundidos de Donnafugata. Como otros vinos de la casa, su nombre está tomado de la novela <em>El gatopardo</em>, en este caso de la familia Sedàra, a la que pertenece Angelica, uno de los personajes principales.</p><p>Se elabora sobre todo con Nero d’Avola, la principal uva tinta de Sicilia, a la que pueden sumarse otras variedades en proporciones menores. Las uvas proceden en su mayor parte de los viñedos de Contessa Entellina, en las colinas del interior del oeste de Sicilia. La vinificación busca un tinto afrutado: tras la fermentación, el vino se cría principalmente en depósito y una parte puede pasar por madera.</p><p>El resultado es un tinto de cuerpo medio, con la fruta madura y suave propia del Nero d’Avola, pensado para beberse en sus primeros años.</p>",
+    "en": "<p>Sedàra is one of Donnafugata’s most widely available reds. Like other wines from the house, its name is taken from the novel <em>The Leopard</em>, in this case from the Sedàra family, to which Angelica, one of the main characters, belongs.</p><p>It is made mainly from Nero d’Avola, Sicily’s principal red grape, with which other varieties may be blended in smaller proportions. The grapes come mostly from the Contessa Entellina vineyards, in the hills of inland western Sicily. Winemaking aims for a fruity red: after fermentation the wine is aged mainly in tank, and part may spend time in wood.</p><p>The result is a medium-bodied red with the ripe, smooth fruit typical of Nero d’Avola, meant to be drunk in its first few years.</p>",
+    "fr": "<p>Sedàra est l’un des rouges les plus diffusés de Donnafugata. Comme d’autres vins de la maison, son nom est emprunté au roman <em>Le Guépard</em>, en l’occurrence à la famille Sedàra, à laquelle appartient Angelica, l’un des personnages principaux.</p><p>Il est élaboré surtout avec du nero d’avola, le principal cépage rouge de Sicile, auquel peuvent s’ajouter d’autres cépages en proportions moindres. Les raisins proviennent en majorité des vignes de Contessa Entellina, dans les collines de l’intérieur de la Sicile occidentale. La vinification vise un rouge fruité : après la fermentation, le vin est élevé principalement en cuve, une partie pouvant passer sous bois.</p><p>Il en résulte un rouge de corps moyen, au fruit mûr et souple propre au nero d’avola, à boire dans ses premières années.</p>",
+    "it": "<p>Sedàra è uno dei rossi più diffusi di Donnafugata. Come altri vini della casa, il nome è tratto dal romanzo <em>Il Gattopardo</em>, in questo caso dalla famiglia Sedàra, a cui appartiene Angelica, uno dei personaggi principali.</p><p>È prodotto soprattutto con Nero d’Avola, la principale uva a bacca rossa della Sicilia, a cui possono aggiungersi altre varietà in quote minori. Le uve provengono in gran parte dai vigneti di Contessa Entellina, sulle colline dell’entroterra della Sicilia occidentale. La vinificazione punta a un rosso fruttato: dopo la fermentazione il vino affina principalmente in vasca e una parte può passare in legno.</p><p>Il risultato è un rosso di medio corpo, con il frutto maturo e morbido tipico del Nero d’Avola, pensato per essere bevuto nei primi anni.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso con reflejos violáceos. Aromas de ciruela, cereza negra y moras, con notas de especias y hierbas mediterráneas. En boca es suave y afrutado, con tanino amable.",
+    "en": "Deep ruby with purple glints. Aromas of plum, black cherry and blackberry, with notes of spice and Mediterranean herbs. Smooth and fruity on the palate, with gentle tannins.",
+    "fr": "Rubis intense aux reflets violacés. Arômes de prune, de cerise noire et de mûre, avec des notes d’épices et d’herbes méditerranéennes. En bouche, il est souple et fruité, aux tanins aimables.",
+    "it": "Rubino intenso con riflessi violacei. Profumi di prugna, ciliegia nera e mora, con note di spezie ed erbe mediterranee. In bocca è morbido e fruttato, con tannino gentile."
+  },
+  "pairing": {
+    "es": "Pasta con salsas de carne o tomate, pizza, carnes a la parrilla, berenjenas a la parmesana",
+    "en": "Pasta with meat or tomato sauce, pizza, grilled meat, aubergine parmigiana",
+    "fr": "Pâtes à la sauce à la viande ou à la tomate, pizza, viandes grillées, aubergines à la parmesane",
+    "it": "Pasta al ragù o al pomodoro, pizza, carni alla griglia, parmigiana di melanzane"
+  },
+  "serve": {
+    "es": "15-17 °C, copa mediana",
+    "en": "15-17 °C, medium-sized glass",
+    "fr": "15-17 °C, verre moyen",
+    "it": "15-17 °C, calice medio"
+  },
+  "search": "Donnafugata Sedàra Sicilia"
+}

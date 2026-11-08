@@ -1,0 +1,41 @@
+{
+  "slug": "ferreira-dona-antonia-reserva",
+  "name": "Ferreira Dona Antónia Reserva Tawny Port",
+  "winery": "sogrape",
+  "region": "porto",
+  "country": "portugal",
+  "type": "generoso",
+  "category": {"es": "Tawny Reserva", "en": "Reserve Tawny", "fr": "Tawny Reserva", "it": "Tawny Reserva"},
+  "grapes": ["touriga-nacional", "touriga-franca", "tempranillo"],
+  "summary": {
+    "es": "Oporto tawny de categoría Reserva de la casa Ferreira, dedicado a Dona Antónia Adelaide Ferreira, figura histórica del Douro.",
+    "en": "Reserve tawny Port from the Ferreira house, dedicated to Dona Antónia Adelaide Ferreira, a historic figure of the Douro.",
+    "fr": "Porto tawny de catégorie Reserva de la maison Ferreira, dédié à Dona Antónia Adelaide Ferreira, figure historique du Douro.",
+    "it": "Porto tawny di categoria Reserva della casa Ferreira, dedicato a Dona Antónia Adelaide Ferreira, figura storica del Douro."
+  },
+  "body": {
+    "es": "<p>La casa Ferreira, hoy parte de Sogrape, es una de las firmas de Oporto de origen portugués más conocidas. Este tawny lleva el nombre de <strong>Dona Antónia Adelaide Ferreira</strong>, la «Ferreirinha», que en el siglo XIX dirigió el negocio familiar, adquirió numerosas quintas en el Douro y se convirtió en una figura legendaria de la región.</p><p>Se elabora con uvas del Douro de variedades tradicionales como la Touriga Nacional, la Touriga Franca y la Tinta Roriz (Tempranillo). Tras la fermentación, interrumpida con aguardiente vínica, el vino envejece varios años en barricas de roble en las bodegas de Vila Nova de Gaia. La categoría Reserva indica un tawny de mayor calidad y crianza que un tawny básico, aunque más joven que los tawnies con indicación de edad. Ferreira suele asociarse a un estilo de tawny de dulzor moderado y perfil elegante, en el que los aromas de la crianza conviven con la fruta.</p>",
+    "en": "<p>The Ferreira house, now part of Sogrape, is one of the best-known Port firms of Portuguese origin. This tawny bears the name of <strong>Dona Antónia Adelaide Ferreira</strong>, the «Ferreirinha», who ran the family business in the nineteenth century, acquired many quintas in the Douro and became a legendary figure in the region.</p><p>It is made from Douro grapes of traditional varieties such as Touriga Nacional, Touriga Franca and Tinta Roriz (Tempranillo). After fermentation, stopped with grape spirit, the wine ages for several years in oak casks in the lodges of Vila Nova de Gaia. The Reserve category indicates a tawny of higher quality and longer ageing than a basic tawny, though younger than age-dated tawnies. Ferreira is usually associated with a tawny style of moderate sweetness and elegant profile, in which ageing aromas sit alongside the fruit.</p>",
+    "fr": "<p>La maison Ferreira, qui fait aujourd’hui partie de Sogrape, est l’une des maisons de porto d’origine portugaise les plus connues. Ce tawny porte le nom de <strong>Dona Antónia Adelaide Ferreira</strong>, la « Ferreirinha », qui dirigea l’entreprise familiale au XIXe siècle, acquit de nombreuses quintas dans le Douro et devint une figure légendaire de la région.</p><p>Il est élaboré avec des raisins du Douro de cépages traditionnels comme la touriga nacional, la touriga franca et la tinta roriz (tempranillo). Après la fermentation, arrêtée par l’ajout d’eau-de-vie de vin, le vin vieillit plusieurs années en fûts de chêne dans les chais de Vila Nova de Gaia. La catégorie Reserva désigne un tawny de qualité supérieure et de plus long vieillissement qu’un tawny de base, mais plus jeune que les tawnies avec indication d’âge. Ferreira est généralement associée à un style de tawny d’une douceur modérée et d’un profil élégant, où les arômes d’élevage côtoient le fruit.</p>",
+    "it": "<p>La casa Ferreira, oggi parte di Sogrape, è una delle case di Porto di origine portoghese più conosciute. Questo tawny porta il nome di <strong>Dona Antónia Adelaide Ferreira</strong>, la «Ferreirinha», che nell’Ottocento guidò l’azienda di famiglia, acquistò numerose quintas nel Douro e divenne una figura leggendaria della regione.</p><p>È prodotto con uve del Douro di varietà tradizionali come Touriga Nacional, Touriga Franca e Tinta Roriz (Tempranillo). Dopo la fermentazione, interrotta con acquavite di vino, il vino invecchia diversi anni in botti di rovere nelle cantine di Vila Nova de Gaia. La categoria Reserva indica un tawny di qualità superiore e affinamento più lungo rispetto a un tawny base, ma più giovane dei tawny con indicazione d’età. Ferreira è di solito associata a uno stile di tawny di dolcezza moderata e profilo elegante, in cui gli aromi dell’invecchiamento convivono con il frutto.</p>"
+  },
+  "tasting": {
+    "es": "Color teja dorado. Aromas de fruta madura, frutos secos, miel y especias suaves. En boca es suave, de dulzor medio y final fresco.",
+    "en": "Golden tawny colour. Aromas of ripe fruit, nuts, honey and gentle spice. Smooth on the palate, medium-sweet, with a fresh finish.",
+    "fr": "Couleur tuilée dorée. Arômes de fruits mûrs, de fruits secs, de miel et d’épices douces. En bouche, il est souple, d’une douceur moyenne, avec une finale fraîche.",
+    "it": "Colore aranciato dorato. Aromi di frutta matura, frutta secca, miele e spezie delicate. In bocca è morbido, di dolcezza media, con finale fresco."
+  },
+  "pairing": {
+    "es": "Postres de almendra, arroz con leche, quesos curados, frutos secos",
+    "en": "Almond desserts, rice pudding, aged cheeses, nuts",
+    "fr": "Desserts aux amandes, riz au lait, fromages affinés, fruits secs",
+    "it": "Dolci alle mandorle, budino di riso, formaggi stagionati, frutta secca"
+  },
+  "serve": {
+    "es": "12-14 °C, copa de vino generoso",
+    "en": "12-14 °C, Port glass",
+    "fr": "12-14 °C, verre à porto",
+    "it": "12-14 °C, calice da Porto"
+  },
+  "search": "Ferreira Dona Antónia Reserva Tawny Port"
+}

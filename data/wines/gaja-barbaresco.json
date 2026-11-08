@@ -1,0 +1,41 @@
+{
+  "slug": "gaja-barbaresco",
+  "name": "Gaja Barbaresco",
+  "winery": "gaja",
+  "region": "barbaresco",
+  "country": "italia",
+  "type": "tinto",
+  "category": {"es": "Barbaresco DOCG", "en": "Barbaresco DOCG", "fr": "Barbaresco DOCG", "it": "Barbaresco DOCG"},
+  "grapes": ["nebbiolo"],
+  "summary": {
+    "es": "El Barbaresco emblemático de la casa Gaja, un Nebbiolo procedente de varias parcelas del municipio de Barbaresco.",
+    "en": "The Gaja house’s emblematic Barbaresco, a Nebbiolo from several plots in the municipality of Barbaresco.",
+    "fr": "Le Barbaresco emblématique de la maison Gaja, un nebbiolo issu de plusieurs parcelles de la commune de Barbaresco.",
+    "it": "Il Barbaresco simbolo della casa Gaja, un Nebbiolo proveniente da diverse parcelle del comune di Barbaresco."
+  },
+  "body": {
+    "es": "<p>El Barbaresco de Gaja es el vino histórico de la familia y el que mejor resume su vinculación con el pueblo donde se fundó la bodega en 1859. Se elabora con Nebbiolo procedente de distintos viñedos propios situados en el municipio de Barbaresco, cuyo ensamblaje busca expresar el carácter del conjunto de la zona más que el de una parcela concreta.</p><p>La Nebbiolo es una variedad de maduración tardía, de color relativamente claro pero rica en taninos y acidez, que en las colinas calcáreas y margosas de Barbaresco da vinos aromáticos y de gran longevidad. Tras la fermentación, el vino se cría en madera, combinando barricas y toneles grandes, y después en botella.</p><p>Es un Barbaresco que suele mostrar más finura que potencia, con aromas complejos y un tanino firme pero pulido. Se beneficia de unos años de guarda y puede evolucionar durante mucho tiempo en botella.</p>",
+    "en": "<p>Gaja’s Barbaresco is the family’s historic wine and the one that best sums up its bond with the village where the winery was founded in 1859. It is made from Nebbiolo from various estate vineyards in the municipality of Barbaresco, blended to express the character of the area as a whole rather than that of a single plot.</p><p>Nebbiolo is a late-ripening variety, relatively pale in colour but rich in tannin and acidity, which on the limestone and marl hills of Barbaresco gives aromatic, very long-lived wines. After fermentation the wine is aged in wood, combining barriques and large casks, and then in bottle.</p><p>It is a Barbaresco that tends to show more finesse than power, with complex aromas and firm yet polished tannins. It benefits from a few years’ cellaring and can evolve in bottle for a long time.</p>",
+    "fr": "<p>Le Barbaresco de Gaja est le vin historique de la famille et celui qui résume le mieux son attachement au village où la maison fut fondée en 1859. Il est élaboré avec du nebbiolo provenant de différentes vignes du domaine situées sur la commune de Barbaresco, assemblées pour exprimer le caractère de l’ensemble de la zone plutôt que celui d’une parcelle précise.</p><p>Le nebbiolo est un cépage tardif, à la couleur relativement claire mais riche en tanins et en acidité, qui donne sur les collines calcaires et marneuses de Barbaresco des vins aromatiques et de très longue garde. Après la fermentation, le vin est élevé sous bois, entre barriques et grands foudres, puis en bouteille.</p><p>C’est un Barbaresco qui montre généralement plus de finesse que de puissance, aux arômes complexes et aux tanins fermes mais polis. Il gagne à attendre quelques années et peut évoluer longtemps en bouteille.</p>",
+    "it": "<p>Il Barbaresco di Gaja è il vino storico della famiglia e quello che meglio riassume il suo legame con il paese in cui la cantina fu fondata nel 1859. È prodotto con Nebbiolo proveniente da diversi vigneti di proprietà nel comune di Barbaresco, assemblati per esprimere il carattere della zona nel suo insieme più che quello di una singola parcella.</p><p>Il Nebbiolo è un vitigno a maturazione tardiva, di colore relativamente scarico ma ricco di tannini e acidità, che sulle colline calcareo-marnose di Barbaresco dà vini aromatici e di grande longevità. Dopo la fermentazione il vino affina in legno, tra barrique e botti grandi, e poi in bottiglia.</p><p>È un Barbaresco che tende a mostrare più finezza che potenza, con profumi complessi e un tannino deciso ma levigato. Trae beneficio da qualche anno di cantina e può evolvere a lungo in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Granate de capa media. Aromas de rosa, violeta, cereza y frambuesa, con notas de regaliz, especias y tierra. En boca es elegante, con acidez viva, tanino firme y fino y un final largo.",
+    "en": "Medium-depth garnet. Aromas of rose, violet, cherry and raspberry, with notes of liquorice, spice and earth. Elegant on the palate, with lively acidity, firm, fine tannins and a long finish.",
+    "fr": "Grenat de profondeur moyenne. Arômes de rose, de violette, de cerise et de framboise, avec des notes de réglisse, d’épices et de terre. En bouche, il est élégant, avec une acidité vive, des tanins fermes et fins et une finale longue.",
+    "it": "Granato di media intensità. Profumi di rosa, violetta, ciliegia e lampone, con note di liquirizia, spezie e terra. In bocca è elegante, con acidità vivace, tannino deciso e fine e finale lungo."
+  },
+  "pairing": {
+    "es": "Tajarin con trufa, brasato al Barolo, carnes rojas asadas, caza, quesos curados",
+    "en": "Tajarin with truffle, brasato al Barolo, roast red meat, game, aged cheeses",
+    "fr": "Tajarin à la truffe, brasato al Barolo, viandes rouges rôties, gibier, fromages affinés",
+    "it": "Tajarin al tartufo, brasato al Barolo, carni rosse arrosto, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia de tipo borgoña; se beneficia de la decantación",
+    "en": "16-18 °C, large Burgundy-style glass; benefits from decanting",
+    "fr": "16-18 °C, grand verre de type bourguignon ; gagne à être carafé",
+    "it": "16-18 °C, ampio calice tipo borgogna; trae beneficio dalla decantazione"
+  },
+  "search": "Gaja Barbaresco"
+}

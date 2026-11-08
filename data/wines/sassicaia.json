@@ -1,0 +1,41 @@
+{
+  "slug": "sassicaia",
+  "name": "Sassicaia",
+  "winery": "tenuta-san-guido",
+  "region": "bolgheri",
+  "country": "italia",
+  "type": "tinto",
+  "category": {"es": "Bolgheri Sassicaia DOC", "en": "Bolgheri Sassicaia DOC", "fr": "Bolgheri Sassicaia DOC", "it": "Bolgheri Sassicaia DOC"},
+  "grapes": ["cabernet-sauvignon", "cabernet-franc"],
+  "summary": {
+    "es": "El tinto de Cabernet Sauvignon y Cabernet Franc de Tenuta San Guido, pionero de los grandes vinos de la costa toscana y con denominación propia.",
+    "en": "Tenuta San Guido’s Cabernet Sauvignon and Cabernet Franc red, the pioneer of the great wines of the Tuscan coast, with its own appellation.",
+    "fr": "Le rouge de cabernet-sauvignon et de cabernet franc de la Tenuta San Guido, pionnier des grands vins de la côte toscane et doté de sa propre appellation.",
+    "it": "Il rosso di Cabernet Sauvignon e Cabernet Franc della Tenuta San Guido, pioniere dei grandi vini della costa toscana e con una denominazione propria."
+  },
+  "body": {
+    "es": "<p>Sassicaia nació del interés del marqués Mario Incisa della Rocchetta por los vinos de Burdeos. Las primeras cepas de Cabernet se plantaron en los años cuarenta en una parcela pedregosa de la finca, y tras décadas de consumo familiar el vino se comercializó por primera vez con la añada 1968. Su nombre alude a los «sassi», las piedras del suelo.</p><p>Hoy se elabora con una mayoría de Cabernet Sauvignon y una parte menor de Cabernet Franc, procedentes de varios viñedos de la finca situados a distintas altitudes, entre la costa y las colinas de Bolgheri. Tras la fermentación, el vino se cría en barricas de roble y completa su afinamiento en botella antes de salir al mercado.</p><p>Es un vino de estilo elegante más que opulento, con una estructura firme y una notable capacidad de envejecimiento. Con el tiempo la zona obtuvo una denominación específica, Bolgheri Sassicaia, reservada a este vino.</p>",
+    "en": "<p>Sassicaia grew out of Marchese Mario Incisa della Rocchetta’s interest in the wines of Bordeaux. The first Cabernet vines were planted in the 1940s on a stony plot of the estate, and after decades of family consumption the wine was first sold commercially with the 1968 vintage. Its name refers to the “sassi”, the stones in the soil.</p><p>Today it is made from a majority of Cabernet Sauvignon and a smaller share of Cabernet Franc, from several of the estate’s vineyards at different altitudes between the coast and the Bolgheri hills. After fermentation the wine is aged in oak barrels and completes its maturation in bottle before release.</p><p>It is a wine whose style is elegant rather than opulent, with a firm structure and remarkable ageing capacity. In time the area was given a specific appellation, Bolgheri Sassicaia, reserved for this wine.</p>",
+    "fr": "<p>Le Sassicaia est né de l’intérêt du marquis Mario Incisa della Rocchetta pour les vins de Bordeaux. Les premiers ceps de cabernet furent plantés dans les années 1940 sur une parcelle caillouteuse du domaine et, après des décennies de consommation familiale, le vin fut commercialisé pour la première fois avec le millésime 1968. Son nom évoque les « sassi », les pierres du sol.</p><p>Il est aujourd’hui élaboré avec une majorité de cabernet-sauvignon et une part moindre de cabernet franc, issus de plusieurs vignobles du domaine situés à différentes altitudes, entre la côte et les collines de Bolgheri. Après la fermentation, le vin est élevé en barriques de chêne et achève son affinage en bouteille avant sa commercialisation.</p><p>C’est un vin d’un style élégant plutôt qu’opulent, à la structure ferme et à la remarquable aptitude au vieillissement. Avec le temps, la zone a obtenu une appellation spécifique, Bolgheri Sassicaia, réservée à ce vin.</p>",
+    "it": "<p>Il Sassicaia nacque dall’interesse del marchese Mario Incisa della Rocchetta per i vini di Bordeaux. Le prime viti di Cabernet furono piantate negli anni Quaranta in un appezzamento sassoso della tenuta e, dopo decenni di consumo familiare, il vino fu messo in commercio per la prima volta con l’annata 1968. Il nome richiama i sassi del terreno.</p><p>Oggi è prodotto con una prevalenza di Cabernet Sauvignon e una quota minore di Cabernet Franc, da diversi vigneti della tenuta situati a varie altitudini, tra la costa e le colline di Bolgheri. Dopo la fermentazione il vino affina in barrique di rovere e completa la maturazione in bottiglia prima dell’uscita sul mercato.</p><p>È un vino di stile elegante più che opulento, dalla struttura solida e dalla notevole capacità d’invecchiamento. Con il tempo la zona ha ottenuto una denominazione specifica, Bolgheri Sassicaia, riservata a questo vino.</p>"
+  },
+  "tasting": {
+    "es": "Rubí profundo. Aromas de casis, mora y cereza negra, con notas de hierbas mediterráneas, grafito y especias. En boca es elegante y firme, con tanino fino, buena acidez y un final largo.",
+    "en": "Deep ruby. Aromas of blackcurrant, blackberry and black cherry, with notes of Mediterranean herbs, graphite and spice. Elegant and firm on the palate, with fine tannins, good acidity and a long finish.",
+    "fr": "Rubis profond. Arômes de cassis, de mûre et de cerise noire, avec des notes d’herbes méditerranéennes, de graphite et d’épices. En bouche, il est élégant et ferme, aux tanins fins, à la bonne acidité et à la finale longue.",
+    "it": "Rubino profondo. Profumi di ribes nero, mora e ciliegia nera, con note di erbe mediterranee, grafite e spezie. In bocca è elegante e deciso, con tannino fine, buona acidità e finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, solomillo, caza, platos de setas, quesos curados",
+    "en": "Roast lamb, beef fillet, game, mushroom dishes, aged cheeses",
+    "fr": "Agneau rôti, filet de bœuf, gibier, plats aux champignons, fromages affinés",
+    "it": "Agnello arrosto, filetto di manzo, selvaggina, piatti ai funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "17-18 °C, copa amplia; se beneficia de la decantación",
+    "en": "17-18 °C, large glass; benefits from decanting",
+    "fr": "17-18 °C, verre ample ; gagne à être carafé",
+    "it": "17-18 °C, calice ampio; trae beneficio dalla decantazione"
+  },
+  "search": "Sassicaia Tenuta San Guido Bolgheri"
+}

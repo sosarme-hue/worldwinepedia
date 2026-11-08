@@ -1,0 +1,41 @@
+{
+  "slug": "bollinger-special-cuvee",
+  "name": "Bollinger Special Cuvée",
+  "winery": "bollinger",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {"es": "Brut", "en": "Brut", "fr": "Brut", "it": "Brut"},
+  "grapes": ["pinot-noir", "chardonnay"],
+  "summary": {
+    "es": "El brut sin añada de Bollinger, de predominio de Pinot Noir, con parte de los vinos fermentados en barrica y vinos de reserva conservados en magnum.",
+    "en": "Bollinger’s non-vintage brut, led by Pinot Noir, with some wines fermented in barrel and reserve wines kept in magnum.",
+    "fr": "Le brut sans année de Bollinger, dominé par le pinot noir, avec une partie des vins fermentée en fût et des vins de réserve conservés en magnum.",
+    "it": "Il brut senza annata di Bollinger, a prevalenza di Pinot Noir, con parte dei vini fermentati in botte e vini di riserva conservati in magnum."
+  },
+  "body": {
+    "es": "<p>El Special Cuvée es el champagne de referencia de Bollinger y el que mejor resume el estilo de la casa. El Pinot Noir es la variedad principal del ensamblaje, completada con Chardonnay y una proporción menor de Pinot Meunier, con uvas procedentes en buena parte de los viñedos propios de la casa.</p><p>Una parte de los vinos base fermenta en barricas de roble usadas, y el ensamblaje incluye una proporción importante de vinos de reserva, muchos de ellos conservados en botellas magnum. Tras la segunda fermentación en botella, el vino reposa sobre sus lías durante un periodo superior al mínimo exigido para los champagnes sin añada.</p><p>El resultado es un champagne de estilo vinoso, con cuerpo y complejidad, que se presta especialmente a acompañar comidas.</p>",
+    "en": "<p>Special Cuvée is Bollinger’s benchmark champagne and the one that best sums up the house style. Pinot Noir is the main variety in the blend, completed with Chardonnay and a smaller proportion of Pinot Meunier, with grapes largely from the house’s own vineyards.</p><p>Some of the base wines are fermented in used oak barrels, and the blend includes a significant proportion of reserve wines, many of them kept in magnums. After the second fermentation in bottle, the wine rests on its lees for longer than the minimum required for non-vintage champagnes.</p><p>The result is a vinous-style champagne, with body and complexity, particularly well suited to accompanying meals.</p>",
+    "fr": "<p>Le Special Cuvée est le champagne de référence de Bollinger et celui qui résume le mieux le style de la maison. Le pinot noir est le cépage principal de l’assemblage, complété par le chardonnay et une plus faible part de pinot meunier, avec des raisins issus en grande partie des vignes de la maison.</p><p>Une partie des vins de base fermente en fûts de chêne usagés, et l’assemblage comprend une part importante de vins de réserve, dont beaucoup sont conservés en magnums. Après la seconde fermentation en bouteille, le vin repose sur lies plus longtemps que le minimum exigé pour les champagnes sans année.</p><p>Il en résulte un champagne de style vineux, de corps et de complexité, qui se prête particulièrement bien à la table.</p>",
+    "it": "<p>Lo Special Cuvée è lo champagne di riferimento di Bollinger e quello che meglio riassume lo stile della casa. Il Pinot Noir è la varietà principale dell’assemblaggio, completato da Chardonnay e da una quota minore di Pinot Meunier, con uve provenienti in buona parte dai vigneti di proprietà.</p><p>Una parte dei vini base fermenta in botti di rovere usate, e l’assemblaggio comprende una quota importante di vini di riserva, molti dei quali conservati in magnum. Dopo la seconda fermentazione in bottiglia, il vino riposa sui lieviti per un periodo superiore al minimo richiesto per gli champagne senza annata.</p><p>Il risultato è uno champagne di stile vinoso, con corpo e complessità, particolarmente adatto ad accompagnare i pasti.</p>"
+  },
+  "tasting": {
+    "es": "Dorado con burbuja fina. Aromas de manzana asada, pera, especias y notas de nuez y brioche. En boca es estructurado y amplio, con acidez firme y final largo.",
+    "en": "Golden with fine bubbles. Aromas of baked apple, pear, spice and notes of walnut and brioche. Structured and broad on the palate, with firm acidity and a long finish.",
+    "fr": "Doré à la bulle fine. Arômes de pomme cuite, de poire, d’épices, avec des notes de noix et de brioche. En bouche, structuré et ample, à l’acidité ferme et à la finale longue.",
+    "it": "Dorato con perlage fine. Aromi di mela cotta, pera, spezie e note di noce e brioche. In bocca è strutturato e ampio, con acidità decisa e finale lungo."
+  },
+  "pairing": {
+    "es": "Aves asadas, pescados en salsa, setas, quesos curados, jamón",
+    "en": "Roast poultry, fish in sauce, mushrooms, aged cheeses, cured ham",
+    "fr": "Volailles rôties, poissons en sauce, champignons, fromages affinés, jambon cru",
+    "it": "Pollame arrosto, pesce in salsa, funghi, formaggi stagionati, prosciutto crudo"
+  },
+  "serve": {
+    "es": "9-11 °C, copa de vino blanco",
+    "en": "9-11 °C, white wine glass",
+    "fr": "9-11 °C, verre à vin blanc",
+    "it": "9-11 °C, calice da vino bianco"
+  },
+  "search": "Bollinger Special Cuvée Brut Champagne"
+}

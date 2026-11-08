@@ -1,0 +1,41 @@
+{
+  "slug": "quinta-dos-carvalhais-encruzado",
+  "name": "Quinta dos Carvalhais Encruzado",
+  "winery": "sogrape",
+  "region": "dao",
+  "country": "portugal",
+  "type": "blanco",
+  "category": null,
+  "grapes": ["encruzado"],
+  "summary": {
+    "es": "Blanco varietal de Encruzado de Quinta dos Carvalhais, la finca de Sogrape en el Dão, que muestra el potencial de esta variedad autóctona.",
+    "en": "Varietal Encruzado white from Quinta dos Carvalhais, Sogrape’s estate in the Dão, showing the potential of this native grape.",
+    "fr": "Blanc de cépage encruzado de la Quinta dos Carvalhais, le domaine de Sogrape dans le Dão, qui montre le potentiel de ce cépage autochtone.",
+    "it": "Bianco varietale di Encruzado della Quinta dos Carvalhais, la tenuta di Sogrape nel Dão, che mostra il potenziale di questo vitigno autoctono."
+  },
+  "body": {
+    "es": "<p>Quinta dos Carvalhais, en el municipio de Mangualde, es la finca y bodega de Sogrape en el Dão. Entre sus vinos destaca este blanco elaborado exclusivamente con <strong>Encruzado</strong>, la principal variedad blanca de la región, apreciada por su capacidad para dar vinos con estructura, acidez y aptitud para la crianza.</p><p>Las uvas proceden de viñedos plantados en los suelos graníticos de la quinta, en un clima de inviernos fríos y veranos cálidos con noches frescas. El vino suele fermentar, al menos en parte, en barricas de roble y permanece después un tiempo sobre sus lías, lo que le aporta textura y complejidad sin restarle frescura. El Encruzado tiene un perfil aromático contenido, más mineral que exuberante, y es capaz de evolucionar bien en botella durante varios años, ganando notas tostadas y de frutos secos.</p>",
+    "en": "<p>Quinta dos Carvalhais, in the municipality of Mangualde, is Sogrape’s estate and winery in the Dão. Among its wines, this white made exclusively from <strong>Encruzado</strong> stands out: it is the region’s main white grape, valued for its ability to give wines with structure, acidity and ageing potential.</p><p>The grapes come from vineyards planted on the quinta’s granite soils, in a climate of cold winters and warm summers with cool nights. The wine is usually fermented, at least in part, in oak barrels and then rests for some time on its lees, which brings texture and complexity without reducing freshness. Encruzado has a restrained aromatic profile, more mineral than exuberant, and can develop well in bottle for several years, gaining toasty and nutty notes.</p>",
+    "fr": "<p>La Quinta dos Carvalhais, dans la commune de Mangualde, est le domaine et la cave de Sogrape dans le Dão. Parmi ses vins se distingue ce blanc élaboré exclusivement avec de l’<strong>encruzado</strong>, le principal cépage blanc de la région, apprécié pour sa capacité à donner des vins structurés, d’une bonne acidité et aptes au vieillissement.</p><p>Les raisins proviennent de vignes plantées sur les sols granitiques de la quinta, sous un climat d’hivers froids et d’étés chauds aux nuits fraîches. Le vin fermente généralement, au moins en partie, en barriques de chêne, puis repose un temps sur ses lies, ce qui lui apporte texture et complexité sans nuire à sa fraîcheur. L’encruzado présente un profil aromatique retenu, plus minéral qu’exubérant, et peut bien évoluer en bouteille pendant plusieurs années, en gagnant des notes grillées et de fruits secs.</p>",
+    "it": "<p>La Quinta dos Carvalhais, nel comune di Mangualde, è la tenuta e cantina di Sogrape nel Dão. Tra i suoi vini spicca questo bianco prodotto esclusivamente con <strong>Encruzado</strong>, il principale vitigno bianco della regione, apprezzato per la capacità di dare vini strutturati, di buona acidità e adatti all’invecchiamento.</p><p>Le uve provengono da vigneti piantati sui suoli granitici della quinta, in un clima di inverni freddi ed estati calde con notti fresche. Il vino fermenta di solito, almeno in parte, in barrique di rovere e riposa poi per un periodo sui propri lieviti, che gli conferiscono consistenza e complessità senza togliere freschezza. L’Encruzado ha un profilo aromatico contenuto, più minerale che esuberante, e può evolvere bene in bottiglia per diversi anni, acquisendo note tostate e di frutta secca.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido con reflejos dorados. Aromas de cítricos, fruta blanca, notas minerales y un ligero tostado. En boca es amplio, con buena acidez y final largo.",
+    "en": "Pale yellow with golden glints. Aromas of citrus, white fruit, mineral notes and light toast. Broad on the palate, with good acidity and a long finish.",
+    "fr": "Jaune pâle aux reflets dorés. Arômes d’agrumes, de fruits blancs, notes minérales et léger grillé. En bouche, il est ample, avec une bonne acidité et une finale longue.",
+    "it": "Giallo paglierino con riflessi dorati. Aromi di agrumi, frutta bianca, note minerali e una leggera tostatura. In bocca è ampio, con buona acidità e finale lungo."
+  },
+  "pairing": {
+    "es": "Pescados al horno, bacalao, aves, quesos de pasta blanda",
+    "en": "Baked fish, salt cod, poultry, soft cheeses",
+    "fr": "Poissons au four, morue, volailles, fromages à pâte molle",
+    "it": "Pesce al forno, baccalà, pollame, formaggi a pasta molle"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de vino blanco amplia",
+    "en": "10-12 °C, large white wine glass",
+    "fr": "10-12 °C, grand verre à vin blanc",
+    "it": "10-12 °C, calice ampio da vino bianco"
+  },
+  "search": "Quinta dos Carvalhais Encruzado Dão"
+}

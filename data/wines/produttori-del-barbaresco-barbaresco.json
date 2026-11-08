@@ -1,0 +1,41 @@
+{
+  "slug": "produttori-del-barbaresco-barbaresco",
+  "name": "Produttori del Barbaresco Barbaresco",
+  "winery": "produttori-del-barbaresco",
+  "region": "barbaresco",
+  "country": "italia",
+  "type": "tinto",
+  "category": {"es": "Barbaresco DOCG", "en": "Barbaresco DOCG", "fr": "Barbaresco DOCG", "it": "Barbaresco DOCG"},
+  "grapes": ["nebbiolo"],
+  "summary": {
+    "es": "El Barbaresco de la cooperativa del pueblo, un Nebbiolo de estilo clásico que reúne uvas de los viñedos de sus socios en todo el municipio.",
+    "en": "The village cooperative’s Barbaresco, a classically styled Nebbiolo that brings together grapes from its members’ vineyards across the municipality.",
+    "fr": "Le Barbaresco de la coopérative du village, un nebbiolo de style classique qui réunit des raisins des vignes de ses adhérents dans toute la commune.",
+    "it": "Il Barbaresco della cooperativa del paese, un Nebbiolo di stile classico che riunisce uve dei vigneti dei soci in tutto il comune."
+  },
+  "body": {
+    "es": "<p>Este Barbaresco es el vino principal de los Produttori del Barbaresco y procede de uvas de Nebbiolo cultivadas por los socios de la cooperativa en distintos viñedos del municipio de Barbaresco. El ensamblaje de parcelas con diferentes exposiciones y suelos da un vino representativo del conjunto de la zona.</p><p>En las añadas en que la cooperativa decide elaborar sus Riserva de viñedo único, las mejores uvas de esos crus se vinifican por separado; en los demás años, todas se integran en este Barbaresco.</p><p>La elaboración es tradicional: fermentación con maceración en contacto con los hollejos y crianza en grandes toneles de roble antes del embotellado. Es un Barbaresco clásico, aromático y de tanino firme, con una relación calidad-precio a menudo destacada entre los vinos de la denominación, que mejora con algunos años de botella.</p>",
+    "en": "<p>This Barbaresco is the main wine of Produttori del Barbaresco and comes from Nebbiolo grapes grown by the cooperative’s members in various vineyards across the municipality of Barbaresco. Blending plots with different exposures and soils gives a wine that is representative of the area as a whole.</p><p>In vintages when the cooperative decides to make its single-vineyard Riservas, the best grapes from those crus are vinified separately; in other years, they all go into this Barbaresco.</p><p>Winemaking is traditional: fermentation with skin-contact maceration and ageing in large oak casks before bottling. It is a classic Barbaresco, aromatic and firmly tannic, often noted for its value among the wines of the appellation, and it improves with a few years in bottle.</p>",
+    "fr": "<p>Ce Barbaresco est le vin principal des Produttori del Barbaresco et provient de raisins de nebbiolo cultivés par les adhérents de la coopérative dans différentes vignes de la commune de Barbaresco. L’assemblage de parcelles aux expositions et aux sols variés donne un vin représentatif de l’ensemble de la zone.</p><p>Les années où la coopérative décide d’élaborer ses Riserva de vignoble unique, les meilleurs raisins de ces crus sont vinifiés séparément ; les autres années, ils entrent tous dans ce Barbaresco.</p><p>La vinification est traditionnelle : fermentation avec macération sur les peaux et élevage en grands foudres de chêne avant la mise en bouteille. C’est un Barbaresco classique, aromatique et aux tanins fermes, souvent remarqué pour son rapport qualité-prix parmi les vins de l’appellation, qui s’améliore après quelques années en bouteille.</p>",
+    "it": "<p>Questo Barbaresco è il vino principale dei Produttori del Barbaresco e nasce da uve Nebbiolo coltivate dai soci della cooperativa in diversi vigneti del comune di Barbaresco. L’assemblaggio di parcelle con esposizioni e suoli diversi dà un vino rappresentativo della zona nel suo insieme.</p><p>Nelle annate in cui la cooperativa decide di produrre le Riserva da singola vigna, le uve migliori di quei cru vengono vinificate separatamente; negli altri anni confluiscono tutte in questo Barbaresco.</p><p>La vinificazione è tradizionale: fermentazione con macerazione sulle bucce e affinamento in grandi botti di rovere prima dell’imbottigliamento. È un Barbaresco classico, aromatico e dal tannino deciso, spesso apprezzato per il rapporto qualità-prezzo tra i vini della denominazione, che migliora con qualche anno di bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Granate claro y luminoso. Aromas de cereza, frambuesa, rosa seca y especias, con notas de regaliz y tierra. En boca es seco y firme, con acidez viva y tanino marcado.",
+    "en": "Bright, light garnet. Aromas of cherry, raspberry, dried rose and spice, with notes of liquorice and earth. Dry and firm on the palate, with lively acidity and pronounced tannins.",
+    "fr": "Grenat clair et lumineux. Arômes de cerise, de framboise, de rose séchée et d’épices, avec des notes de réglisse et de terre. En bouche, il est sec et ferme, avec une acidité vive et des tanins marqués.",
+    "it": "Granato chiaro e luminoso. Profumi di ciliegia, lampone, rosa appassita e spezie, con note di liquirizia e terra. In bocca è secco e deciso, con acidità vivace e tannino marcato."
+  },
+  "pairing": {
+    "es": "Risotto con setas, carnes estofadas, vitello tonnato, quesos curados",
+    "en": "Mushroom risotto, braised meat, vitello tonnato, aged cheeses",
+    "fr": "Risotto aux champignons, viandes braisées, vitello tonnato, fromages affinés",
+    "it": "Risotto ai funghi, carni brasate, vitello tonnato, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia de tipo borgoña",
+    "en": "16-18 °C, large Burgundy-style glass",
+    "fr": "16-18 °C, grand verre de type bourguignon",
+    "it": "16-18 °C, ampio calice tipo borgogna"
+  },
+  "search": "Produttori del Barbaresco Barbaresco DOCG"
+}

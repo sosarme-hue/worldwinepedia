@@ -1,0 +1,41 @@
+{
+  "slug": "peppoli-chianti-classico",
+  "name": "Peppoli Chianti Classico",
+  "winery": "antinori",
+  "region": "chianti-classico",
+  "country": "italia",
+  "type": "tinto",
+  "category": {"es": "Chianti Classico DOCG", "en": "Chianti Classico DOCG", "fr": "Chianti Classico DOCG", "it": "Chianti Classico DOCG"},
+  "grapes": ["sangiovese"],
+  "summary": {
+    "es": "Chianti Classico de Marchesi Antinori procedente de la finca Peppoli, un tinto de Sangiovese afrutado y fácil de encontrar.",
+    "en": "Marchesi Antinori’s Chianti Classico from the Peppoli estate, a fruity, widely available Sangiovese red.",
+    "fr": "Chianti Classico de Marchesi Antinori issu du domaine de Peppoli, un rouge de sangiovese fruité et facile à trouver.",
+    "it": "Chianti Classico di Marchesi Antinori dalla tenuta Peppoli, un rosso di Sangiovese fruttato e facile da trovare."
+  },
+  "body": {
+    "es": "<p>Peppoli toma su nombre de una finca de Antinori situada en el municipio de San Casciano Val di Pesa, en la zona del Chianti Classico, cerca de la Tenuta Tignanello. Los viñedos se encuentran en las colinas de esa parte del Chianti, en un valle pequeño y protegido.</p><p>El vino se elabora principalmente con Sangiovese, completada con una pequeña proporción de otras variedades tintas, como permite la denominación. Tras la fermentación se cría durante algunos meses en madera, de manera que el roble no domina y se preserva la fruta.</p><p>Es un Chianti Classico pensado para disfrutarse joven, de estilo afrutado y fácil de beber, con la acidez característica de la Sangiovese. Es uno de los vinos más difundidos de la casa y una buena introducción a la denominación.</p>",
+    "en": "<p>Peppoli takes its name from an Antinori estate in the municipality of San Casciano Val di Pesa, in the Chianti Classico area, near Tenuta Tignanello. The vineyards lie on the hills of that part of Chianti, in a small, sheltered valley.</p><p>The wine is made mainly from Sangiovese, completed with a small proportion of other red varieties, as the appellation allows. After fermentation it is aged for a few months in wood, in such a way that the oak does not dominate and the fruit is preserved.</p><p>It is a Chianti Classico meant to be enjoyed young, fruity and easy to drink, with Sangiovese’s characteristic acidity. It is one of the house’s most widely available wines and a good introduction to the appellation.</p>",
+    "fr": "<p>Peppoli doit son nom à un domaine d’Antinori situé sur la commune de San Casciano Val di Pesa, dans la zone du Chianti Classico, non loin de la Tenuta Tignanello. Les vignes se trouvent sur les collines de cette partie du Chianti, dans un petit vallon abrité.</p><p>Le vin est élaboré principalement avec du sangiovese, complété par une faible proportion d’autres cépages rouges, comme l’autorise l’appellation. Après la fermentation, il est élevé quelques mois sous bois, de manière à ce que le chêne ne domine pas et que le fruit soit préservé.</p><p>C’est un Chianti Classico conçu pour être apprécié jeune, fruité et facile à boire, avec l’acidité caractéristique du sangiovese. C’est l’un des vins les plus diffusés de la maison et une bonne introduction à l’appellation.</p>",
+    "it": "<p>Peppoli prende il nome da una tenuta Antinori nel comune di San Casciano Val di Pesa, nella zona del Chianti Classico, vicino alla Tenuta Tignanello. I vigneti si trovano sulle colline di quella parte del Chianti, in una piccola valle riparata.</p><p>Il vino è prodotto principalmente con Sangiovese, completato da una piccola quota di altre varietà a bacca rossa, come consente la denominazione. Dopo la fermentazione affina per alcuni mesi in legno, in modo che il rovere non prevalga e il frutto venga preservato.</p><p>È un Chianti Classico pensato per essere goduto giovane, fruttato e di facile beva, con l’acidità caratteristica del Sangiovese. È uno dei vini più diffusi della casa e una buona introduzione alla denominazione.</p>"
+  },
+  "tasting": {
+    "es": "Rubí brillante. Aromas de cereza, frambuesa y violeta, con un fondo ligeramente especiado. En boca es de cuerpo medio, fresco y con tanino suave.",
+    "en": "Bright ruby. Aromas of cherry, raspberry and violet, with a lightly spicy background. Medium-bodied on the palate, fresh, with soft tannins.",
+    "fr": "Rubis brillant. Arômes de cerise, de framboise et de violette, sur un fond légèrement épicé. En bouche, corps moyen, fraîcheur et tanins souples.",
+    "it": "Rubino brillante. Profumi di ciliegia, lampone e violetta, con un fondo leggermente speziato. In bocca ha corpo medio, è fresco e dal tannino morbido."
+  },
+  "pairing": {
+    "es": "Pasta con ragú, pizza, embutidos, carnes a la parrilla, quesos semicurados",
+    "en": "Pasta with ragù, pizza, cured meats, grilled meat, semi-aged cheeses",
+    "fr": "Pâtes au ragù, pizza, charcuterie, viandes grillées, fromages mi-affinés",
+    "it": "Pasta al ragù, pizza, salumi, carni alla griglia, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "15-17 °C, copa mediana",
+    "en": "15-17 °C, medium-sized glass",
+    "fr": "15-17 °C, verre moyen",
+    "it": "15-17 °C, calice medio"
+  },
+  "search": "Peppoli Chianti Classico Antinori"
+}

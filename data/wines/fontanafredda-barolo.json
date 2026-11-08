@@ -1,0 +1,41 @@
+{
+  "slug": "fontanafredda-barolo",
+  "name": "Fontanafredda Barolo",
+  "winery": "fontanafredda",
+  "region": "barolo",
+  "country": "italia",
+  "type": "tinto",
+  "category": {"es": "Barolo DOCG", "en": "Barolo DOCG", "fr": "Barolo DOCG", "it": "Barolo DOCG"},
+  "grapes": ["nebbiolo"],
+  "summary": {
+    "es": "El Barolo de base de Fontanafredda, un Nebbiolo de estilo clásico y amplia difusión, procedente de la histórica finca de Serralunga d’Alba y de otros viñedos de la zona.",
+    "en": "Fontanafredda’s core Barolo, a widely available, classically styled Nebbiolo from the historic Serralunga d’Alba estate and other vineyards in the area.",
+    "fr": "Le Barolo de base de Fontanafredda, un nebbiolo de style classique et largement diffusé, issu du domaine historique de Serralunga d’Alba et d’autres vignes de la zone.",
+    "it": "Il Barolo di base di Fontanafredda, un Nebbiolo di stile classico e ampia diffusione, proveniente dalla storica tenuta di Serralunga d’Alba e da altri vigneti della zona."
+  },
+  "body": {
+    "es": "<p>El Barolo de Fontanafredda es uno de los Barolo más fáciles de encontrar a la venta y una buena puerta de entrada a la denominación. Se elabora con Nebbiolo de los viñedos de la finca en Serralunga d’Alba y de otros municipios de la zona del Barolo.</p><p>Serralunga, en el sector oriental de la denominación, se asocia a Barolos de estructura firme y tanino marcado, gracias a sus suelos más compactos y calcáreos. El ensamblaje con uvas de otras zonas aporta equilibrio y aromas.</p><p>Tras la fermentación, el vino se cría en grandes toneles de roble durante un periodo prolongado y reposa después en botella, cumpliendo la crianza mínima de algo más de tres años que exige la denominación. Es un Barolo clásico, que gana en complejidad con algunos años de botella.</p>",
+    "en": "<p>Fontanafredda’s Barolo is one of the easiest Barolos to find on sale and a good gateway to the appellation. It is made from Nebbiolo from the estate’s vineyards in Serralunga d’Alba and from other municipalities in the Barolo area.</p><p>Serralunga, in the eastern part of the appellation, is associated with firmly structured, tannic Barolos, thanks to its more compact, calcareous soils. Blending with grapes from other areas adds balance and aroma.</p><p>After fermentation the wine is aged in large oak casks for an extended period and then rests in bottle, meeting the appellation’s minimum ageing of just over three years. It is a classic Barolo that gains complexity with a few years in bottle.</p>",
+    "fr": "<p>Le Barolo de Fontanafredda est l’un des Barolo les plus faciles à trouver dans le commerce et une bonne porte d’entrée dans l’appellation. Il est élaboré avec du nebbiolo des vignes du domaine à Serralunga d’Alba et d’autres communes de la zone du Barolo.</p><p>Serralunga, dans le secteur oriental de l’appellation, est associée à des Barolo de structure ferme et aux tanins marqués, grâce à des sols plus compacts et calcaires. L’assemblage avec des raisins d’autres zones apporte équilibre et arômes.</p><p>Après la fermentation, le vin est élevé longuement en grands foudres de chêne puis repose en bouteille, respectant l’élevage minimum d’un peu plus de trois ans exigé par l’appellation. C’est un Barolo classique, qui gagne en complexité après quelques années de bouteille.</p>",
+    "it": "<p>Il Barolo di Fontanafredda è uno dei Barolo più facili da trovare in commercio e una buona porta d’ingresso alla denominazione. È prodotto con Nebbiolo dei vigneti della tenuta a Serralunga d’Alba e di altri comuni della zona del Barolo.</p><p>Serralunga, nel settore orientale della denominazione, è associata a Barolo di struttura solida e tannino marcato, grazie ai suoi suoli più compatti e calcarei. L’assemblaggio con uve di altre zone apporta equilibrio e profumi.</p><p>Dopo la fermentazione il vino affina a lungo in grandi botti di rovere e riposa poi in bottiglia, rispettando l’invecchiamento minimo di poco più di tre anni richiesto dal disciplinare. È un Barolo classico, che acquista complessità con qualche anno di bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Granate con reflejos anaranjados. Aromas de cereza, rosa marchita, especias y regaliz, con notas de tabaco y cuero. En boca es firme, con tanino marcado, buena acidez y final largo.",
+    "en": "Garnet with orange glints. Aromas of cherry, faded rose, spice and liquorice, with notes of tobacco and leather. Firm on the palate, with pronounced tannins, good acidity and a long finish.",
+    "fr": "Grenat aux reflets orangés. Arômes de cerise, de rose fanée, d’épices et de réglisse, avec des notes de tabac et de cuir. En bouche, il est ferme, aux tanins marqués, à la bonne acidité et à la finale longue.",
+    "it": "Granato con riflessi aranciati. Profumi di ciliegia, rosa appassita, spezie e liquirizia, con note di tabacco e cuoio. In bocca è deciso, con tannino marcato, buona acidità e finale lungo."
+  },
+  "pairing": {
+    "es": "Brasato, carnes rojas asadas, caza, platos con trufa, quesos curados",
+    "en": "Braised beef, roast red meat, game, truffle dishes, aged cheeses",
+    "fr": "Bœuf braisé, viandes rouges rôties, gibier, plats à la truffe, fromages affinés",
+    "it": "Brasato, carni rosse arrosto, selvaggina, piatti al tartufo, formaggi stagionati"
+  },
+  "serve": {
+    "es": "17-18 °C, copa amplia de tipo borgoña; se beneficia de la decantación",
+    "en": "17-18 °C, large Burgundy-style glass; benefits from decanting",
+    "fr": "17-18 °C, grand verre de type bourguignon ; gagne à être carafé",
+    "it": "17-18 °C, ampio calice tipo borgogna; trae beneficio dalla decantazione"
+  },
+  "search": "Fontanafredda Barolo"
+}

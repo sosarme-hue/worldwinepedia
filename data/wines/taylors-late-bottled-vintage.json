@@ -1,0 +1,41 @@
+{
+  "slug": "taylors-late-bottled-vintage",
+  "name": "Taylor’s Late Bottled Vintage Port",
+  "winery": "taylors",
+  "region": "porto",
+  "country": "portugal",
+  "type": "generoso",
+  "category": {"es": "Late Bottled Vintage (LBV)", "en": "Late Bottled Vintage (LBV)", "fr": "Late Bottled Vintage (LBV)", "it": "Late Bottled Vintage (LBV)"},
+  "grapes": ["touriga-nacional", "touriga-franca", "tempranillo"],
+  "summary": {
+    "es": "LBV de Taylor’s, la casa que contribuyó a popularizar esta categoría: un Oporto de una sola cosecha, criado varios años en madera y listo para beber al salir al mercado.",
+    "en": "Taylor’s LBV, from the house that helped to popularise the category: a single-harvest Port, aged for several years in wood and ready to drink on release.",
+    "fr": "LBV de Taylor’s, la maison qui a contribué à populariser cette catégorie : un porto d’une seule récolte, élevé plusieurs années sous bois et prêt à boire dès sa commercialisation.",
+    "it": "LBV di Taylor’s, la casa che ha contribuito a rendere popolare questa categoria: un Porto di una sola vendemmia, affinato per alcuni anni in legno e pronto da bere all’uscita."
+  },
+  "body": {
+    "es": "<p>El <em>Late Bottled Vintage</em> es un Oporto de estilo ruby procedente de una sola cosecha que, a diferencia del Vintage, se embotella más tarde, entre el cuarto y el sexto año después de la vendimia. Taylor’s comercializó en 1970 uno de los primeros LBV, y desde entonces este vino es uno de los más conocidos de la casa.</p><p>Se elabora con uvas del Douro de variedades como la Touriga Nacional, la Touriga Franca y la Tinta Roriz (Tempranillo), procedentes de las quintas de la casa y de viticultores de la región. La fermentación se interrumpe con aguardiente vínica y el vino envejece después en grandes toneles de roble. El tiempo adicional en madera hace que llegue a la botella más evolucionado y accesible que un Vintage. La versión habitual de Taylor’s se filtra antes de embotellarse, por lo que no necesita decantación, y en la etiqueta figura el año de cosecha.</p>",
+    "en": "<p><em>Late Bottled Vintage</em> is a ruby-style Port from a single harvest which, unlike Vintage, is bottled later, between the fourth and sixth year after the harvest. In 1970 Taylor’s released one of the first LBVs, and the wine has been one of the house’s best known ever since.</p><p>It is made from Douro grapes of varieties such as Touriga Nacional, Touriga Franca and Tinta Roriz (Tempranillo), from the house’s quintas and from growers in the region. Fermentation is stopped with grape spirit, and the wine then ages in large oak vats. The extra time in wood means it reaches the bottle more developed and approachable than a Vintage. Taylor’s usual version is filtered before bottling, so it does not need decanting, and the label shows the year of harvest.</p>",
+    "fr": "<p>Le <em>Late Bottled Vintage</em> est un porto de style ruby issu d’une seule récolte qui, contrairement au Vintage, est mis en bouteille plus tard, entre la quatrième et la sixième année après les vendanges. En 1970, Taylor’s commercialisa l’un des premiers LBV, et ce vin est depuis l’un des plus connus de la maison.</p><p>Il est élaboré avec des raisins du Douro de cépages comme la touriga nacional, la touriga franca et la tinta roriz (tempranillo), provenant des quintas de la maison et de viticulteurs de la région. La fermentation est arrêtée par l’ajout d’eau-de-vie de vin, puis le vin vieillit dans de grands foudres de chêne. Ce temps supplémentaire sous bois fait qu’il arrive en bouteille plus évolué et plus accessible qu’un Vintage. La version habituelle de Taylor’s est filtrée avant la mise en bouteille, si bien qu’elle ne nécessite pas de carafage, et l’étiquette indique l’année de récolte.</p>",
+    "it": "<p>Il <em>Late Bottled Vintage</em> è un Porto in stile ruby di una sola vendemmia che, a differenza del Vintage, viene imbottigliato più tardi, tra il quarto e il sesto anno dopo la raccolta. Nel 1970 Taylor’s mise in commercio uno dei primi LBV, e da allora questo vino è uno dei più noti della casa.</p><p>È prodotto con uve del Douro di varietà come Touriga Nacional, Touriga Franca e Tinta Roriz (Tempranillo), provenienti dalle quintas della casa e da viticoltori della regione. La fermentazione viene interrotta con acquavite di vino e il vino invecchia poi in grandi botti di rovere. Il tempo supplementare in legno fa sì che arrivi in bottiglia più evoluto e accessibile di un Vintage. La versione abituale di Taylor’s viene filtrata prima dell’imbottigliamento, per cui non richiede decantazione, e in etichetta compare l’anno di vendemmia.</p>"
+  },
+  "tasting": {
+    "es": "Color rubí oscuro. Aromas de fruta negra madura, cereza y especias, con un fondo de chocolate. En boca es dulce, con cuerpo y taninos maduros.",
+    "en": "Dark ruby colour. Aromas of ripe black fruit, cherry and spice, with a chocolate background. Sweet and full on the palate, with ripe tannins.",
+    "fr": "Couleur rubis sombre. Arômes de fruits noirs mûrs, de cerise et d’épices, sur un fond de chocolat. En bouche, il est doux, corsé, avec des tanins mûrs.",
+    "it": "Colore rubino scuro. Aromi di frutta nera matura, ciliegia e spezie, su un fondo di cioccolato. In bocca è dolce, corposo, con tannini maturi."
+  },
+  "pairing": {
+    "es": "Quesos curados y azules, postres de chocolate, frutos rojos",
+    "en": "Aged and blue cheeses, chocolate desserts, red berries",
+    "fr": "Fromages affinés et persillés, desserts au chocolat, fruits rouges",
+    "it": "Formaggi stagionati ed erborinati, dolci al cioccolato, frutti rossi"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de vino generoso",
+    "en": "16-18 °C, Port glass",
+    "fr": "16-18 °C, verre à porto",
+    "it": "16-18 °C, calice da Porto"
+  },
+  "search": "Taylor's Late Bottled Vintage Port"
+}

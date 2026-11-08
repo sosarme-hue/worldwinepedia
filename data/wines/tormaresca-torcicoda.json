@@ -1,0 +1,41 @@
+{
+  "slug": "tormaresca-torcicoda",
+  "name": "Tormaresca Torcicoda Primitivo",
+  "winery": "tormaresca",
+  "region": "puglia",
+  "country": "italia",
+  "type": "tinto",
+  "category": {"es": "Salento IGT", "en": "Salento IGT", "fr": "Salento IGT", "it": "Salento IGT"},
+  "grapes": ["primitivo"],
+  "summary": {
+    "es": "Primitivo del Salento de Tormaresca, procedente de la finca Masseria Maime, un tinto generoso de fruta madura y estructura suave.",
+    "en": "Tormaresca’s Primitivo from Salento, from the Masseria Maime estate, a generous red with ripe fruit and a smooth structure.",
+    "fr": "Primitivo du Salento de Tormaresca, issu du domaine de Masseria Maime, un rouge généreux au fruit mûr et à la structure souple.",
+    "it": "Primitivo del Salento di Tormaresca, dalla tenuta Masseria Maime, un rosso generoso dal frutto maturo e dalla struttura morbida."
+  },
+  "body": {
+    "es": "<p>El Primitivo es una de las uvas tintas más características de Apulia, en particular del Salento, la península del extremo sur de la región. Genéticamente es la misma variedad que el Zinfandel californiano y el Crljenak Kaštelanski de Croacia. Su nombre alude a su maduración temprana.</p><p>Torcicoda procede de los viñedos de Masseria Maime, la finca de Tormaresca en San Pietro Vernotico, en el Salento, una zona llana y cálida próxima al Adriático, con suelos arcillosos y calcáreos.</p><p>Tras la fermentación, el vino se cría durante algunos meses en barricas de roble. El resultado es un tinto de cuerpo pleno, con la fruta madura y generosa del Primitivo, notas especiadas y un tanino suave.</p>",
+    "en": "<p>Primitivo is one of Apulia’s most characteristic red grapes, particularly in Salento, the peninsula at the southern tip of the region. Genetically it is the same variety as California’s Zinfandel and Croatia’s Crljenak Kaštelanski. Its name refers to its early ripening.</p><p>Torcicoda comes from the vineyards of Masseria Maime, Tormaresca’s estate at San Pietro Vernotico in Salento, a flat, warm area near the Adriatic with clay and limestone soils.</p><p>After fermentation the wine is aged for a few months in oak barrels. The result is a full-bodied red with Primitivo’s ripe, generous fruit, spicy notes and soft tannins.</p>",
+    "fr": "<p>Le primitivo est l’un des cépages rouges les plus caractéristiques des Pouilles, en particulier du Salento, la péninsule qui forme l’extrémité sud de la région. Génétiquement, c’est le même cépage que le zinfandel californien et le crljenak kaštelanski de Croatie. Son nom fait allusion à sa maturité précoce.</p><p>Torcicoda provient des vignes de Masseria Maime, le domaine de Tormaresca à San Pietro Vernotico, dans le Salento, une zone plate et chaude proche de l’Adriatique, aux sols argileux et calcaires.</p><p>Après la fermentation, le vin est élevé quelques mois en barriques de chêne. Il en résulte un rouge corsé, au fruit mûr et généreux du primitivo, aux notes épicées et aux tanins souples.</p>",
+    "it": "<p>Il Primitivo è uno dei vitigni rossi più caratteristici della Puglia, in particolare del Salento, la penisola all’estremo sud della regione. Geneticamente è la stessa varietà dello Zinfandel californiano e del Crljenak Kaštelanski croato. Il nome allude alla sua maturazione precoce.</p><p>Torcicoda proviene dai vigneti di Masseria Maime, la tenuta di Tormaresca a San Pietro Vernotico, nel Salento, una zona pianeggiante e calda vicina all’Adriatico, con suoli argillosi e calcarei.</p><p>Dopo la fermentazione il vino affina alcuni mesi in barrique di rovere. Il risultato è un rosso di corpo pieno, con il frutto maturo e generoso del Primitivo, note speziate e un tannino morbido.</p>"
+  },
+  "tasting": {
+    "es": "Rubí oscuro con reflejos violáceos. Aromas de ciruela madura, mora, cereza negra en confitura y especias dulces, con un toque de vainilla. En boca es amplio, cálido y redondo, con tanino suave.",
+    "en": "Dark ruby with purple glints. Aromas of ripe plum, blackberry, black-cherry jam and sweet spice, with a touch of vanilla. Broad, warm and round on the palate, with soft tannins.",
+    "fr": "Rubis sombre aux reflets violacés. Arômes de prune mûre, de mûre, de confiture de cerise noire et d’épices douces, avec une touche de vanille. En bouche, il est ample, chaleureux et rond, aux tanins souples.",
+    "it": "Rubino scuro con riflessi violacei. Profumi di prugna matura, mora, confettura di ciliegia nera e spezie dolci, con un tocco di vaniglia. In bocca è ampio, caldo e rotondo, con tannino morbido."
+  },
+  "pairing": {
+    "es": "Carnes a la brasa, orecchiette con ragú, embutidos curados, quesos curados, barbacoa",
+    "en": "Chargrilled meat, orecchiette with ragù, cured meats, aged cheeses, barbecue",
+    "fr": "Viandes à la braise, orecchiette au ragù, charcuterie, fromages affinés, barbecue",
+    "it": "Carni alla brace, orecchiette al ragù, salumi stagionati, formaggi stagionati, barbecue"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Tormaresca Torcicoda Primitivo Salento"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "soalheiro-alvarinho",
+  "name": "Soalheiro Alvarinho",
+  "winery": "soalheiro",
+  "region": "vinho-verde",
+  "country": "portugal",
+  "type": "blanco",
+  "category": null,
+  "grapes": ["albarino"],
+  "summary": {
+    "es": "Alvarinho de Melgaço elaborado por Soalheiro, uno de los blancos de referencia de la subregión de Monção e Melgaço.",
+    "en": "Alvarinho from Melgaço made by Soalheiro, one of the benchmark whites of the Monção e Melgaço subregion.",
+    "fr": "Alvarinho de Melgaço élaboré par Soalheiro, l’un des blancs de référence de la sous-région de Monção e Melgaço.",
+    "it": "Alvarinho di Melgaço prodotto da Soalheiro, uno dei bianchi di riferimento della sottoregione di Monção e Melgaço."
+  },
+  "body": {
+    "es": "<p>El Soalheiro Alvarinho es el vino principal de la casa y el heredero directo del primer vino que la familia Cerdeira embotelló en 1982. Se elabora exclusivamente con <strong>Alvarinho</strong> (Albariño) procedente de los viñedos de la familia y de viticultores asociados de Melgaço, en la subregión de Monção e Melgaço, la más septentrional del Vinho Verde.</p><p>Esta zona, protegida por montañas, tiene veranos algo más cálidos y secos que el resto de la región, con noches frescas y suelos graníticos, lo que permite una maduración completa de la uva sin pérdida de acidez. El vino se fermenta en depósito a temperatura controlada y se embotella sin paso por madera, con el objetivo de expresar la fruta y el carácter del lugar. Es un blanco aromático y fresco, con más cuerpo que el Vinho Verde clásico, que puede beberse joven pero también evoluciona bien en botella durante algunos años.</p>",
+    "en": "<p>Soalheiro Alvarinho is the house’s main wine and the direct heir to the first wine the Cerdeira family bottled in 1982. It is made exclusively from <strong>Alvarinho</strong> (Albariño) from the family’s vineyards and those of partner growers in Melgaço, in the Monção e Melgaço subregion, the northernmost part of Vinho Verde.</p><p>This area, sheltered by mountains, has somewhat warmer, drier summers than the rest of the region, with cool nights and granite soils, which allows the grapes to ripen fully without losing acidity. The wine is fermented in tank at controlled temperatures and bottled without passing through wood, with the aim of expressing the fruit and the character of the place. It is an aromatic, fresh white with more body than classic Vinho Verde, which can be drunk young but also develops well in bottle for a few years.</p>",
+    "fr": "<p>Le Soalheiro Alvarinho est le vin principal de la maison et l’héritier direct du premier vin mis en bouteille par la famille Cerdeira en 1982. Il est élaboré exclusivement avec de l’<strong>alvarinho</strong> (albariño) provenant des vignes de la famille et de viticulteurs partenaires de Melgaço, dans la sous-région de Monção e Melgaço, la plus septentrionale du Vinho Verde.</p><p>Cette zone, abritée par des montagnes, connaît des étés un peu plus chauds et plus secs que le reste de la région, avec des nuits fraîches et des sols granitiques, ce qui permet au raisin d’atteindre une pleine maturité sans perdre son acidité. Le vin fermente en cuve à température contrôlée et il est mis en bouteille sans passage sous bois, afin d’exprimer le fruit et le caractère du lieu. C’est un blanc aromatique et frais, plus corsé que le Vinho Verde classique, qui peut se boire jeune mais évolue aussi bien en bouteille pendant quelques années.</p>",
+    "it": "<p>Il Soalheiro Alvarinho è il vino principale della casa e l’erede diretto del primo vino imbottigliato dalla famiglia Cerdeira nel 1982. È prodotto esclusivamente con <strong>Alvarinho</strong> (Albariño) proveniente dai vigneti della famiglia e da viticoltori associati di Melgaço, nella sottoregione di Monção e Melgaço, la più settentrionale del Vinho Verde.</p><p>Questa zona, protetta dalle montagne, ha estati un po’ più calde e secche rispetto al resto della regione, con notti fresche e suoli granitici, il che consente all’uva di maturare completamente senza perdere acidità. Il vino fermenta in vasca a temperatura controllata e viene imbottigliato senza passaggio in legno, con l’obiettivo di esprimere il frutto e il carattere del luogo. È un bianco aromatico e fresco, con più corpo del Vinho Verde classico, che si può bere giovane ma evolve bene anche in bottiglia per alcuni anni.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo limón brillante. Aromas de melocotón, cítricos, fruta tropical y flores blancas, con un fondo mineral. En boca es fresco, con buen volumen y acidez vibrante.",
+    "en": "Bright lemon yellow. Aromas of peach, citrus, tropical fruit and white flowers, with a mineral background. Fresh on the palate, with good volume and vibrant acidity.",
+    "fr": "Jaune citron brillant. Arômes de pêche, d’agrumes, de fruits tropicaux et de fleurs blanches, sur un fond minéral. En bouche, il est frais, avec un bon volume et une acidité vibrante.",
+    "it": "Giallo limone brillante. Aromi di pesca, agrumi, frutta tropicale e fiori bianchi, con un fondo minerale. In bocca è fresco, con buon volume e acidità vibrante."
+  },
+  "pairing": {
+    "es": "Marisco, pescados a la brasa, cocina asiática, quesos frescos",
+    "en": "Shellfish, chargrilled fish, Asian cuisine, fresh cheeses",
+    "fr": "Fruits de mer, poissons à la braise, cuisine asiatique, fromages frais",
+    "it": "Frutti di mare, pesce alla brace, cucina asiatica, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Soalheiro Alvarinho Vinho Verde"
+}

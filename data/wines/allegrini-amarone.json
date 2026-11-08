@@ -1,0 +1,41 @@
+{
+  "slug": "allegrini-amarone",
+  "name": "Allegrini Amarone della Valpolicella Classico",
+  "winery": "allegrini",
+  "region": "valpolicella",
+  "country": "italia",
+  "type": "tinto",
+  "category": {"es": "Amarone della Valpolicella Classico DOCG", "en": "Amarone della Valpolicella Classico DOCG", "fr": "Amarone della Valpolicella Classico DOCG", "it": "Amarone della Valpolicella Classico DOCG"},
+  "grapes": ["corvina"],
+  "summary": {
+    "es": "El Amarone de Allegrini, un tinto seco y potente elaborado con uvas de Corvina y otras variedades locales secadas durante meses tras la vendimia.",
+    "en": "Allegrini’s Amarone, a dry, powerful red made from Corvina and other local grapes dried for months after harvest.",
+    "fr": "L’Amarone d’Allegrini, un rouge sec et puissant élaboré avec de la corvina et d’autres cépages locaux séchés pendant des mois après la vendange.",
+    "it": "L’Amarone di Allegrini, un rosso secco e potente prodotto con Corvina e altre uve locali appassite per mesi dopo la vendemmia."
+  },
+  "body": {
+    "es": "<p>El Amarone della Valpolicella es el gran tinto de la zona de Verona y se distingue por su método de elaboración: las uvas se vendimian a mano, se colocan en cajas o cañizos en locales ventilados y se dejan secar durante varios meses, de modo que pierden buena parte de su agua y concentran azúcares, color y aromas. Sólo después se prensan y se fermentan hasta que el vino queda seco.</p><p>El de Allegrini procede de viñedos de ladera de la familia en la zona clásica de la Valpolicella, en torno a Fumane. Se elabora sobre todo con Corvina Veronese, acompañada de Rondinella y Oseleta. Tras la fermentación, el vino se cría durante un periodo largo en barricas de roble y después en botella.</p><p>El resultado es un tinto de gran cuerpo y graduación alcohólica elevada, rico y concentrado, pero con la frescura que aporta la Corvina. Tiene una notable capacidad de guarda.</p>",
+    "en": "<p>Amarone della Valpolicella is the great red of the Verona area and stands out for its winemaking method: the grapes are hand-picked, laid in crates or on racks in ventilated lofts and left to dry for several months, so that they lose much of their water and concentrate sugars, colour and aromas. Only then are they pressed and fermented until the wine is dry.</p><p>Allegrini’s comes from the family’s hillside vineyards in the classic Valpolicella zone, around Fumane. It is made mainly from Corvina Veronese, with Rondinella and Oseleta. After fermentation the wine is aged for a long period in oak barrels and then in bottle.</p><p>The result is a full-bodied, high-alcohol red, rich and concentrated, yet with the freshness Corvina brings. It has remarkable ageing potential.</p>",
+    "fr": "<p>L’Amarone della Valpolicella est le grand rouge de la région de Vérone et se distingue par sa méthode d’élaboration : les raisins sont vendangés à la main, disposés en cagettes ou sur des claies dans des greniers ventilés et laissés à sécher pendant plusieurs mois, de sorte qu’ils perdent une grande partie de leur eau et concentrent sucres, couleur et arômes. Ce n’est qu’ensuite qu’ils sont pressés et fermentés jusqu’à ce que le vin soit sec.</p><p>Celui d’Allegrini provient des vignes de coteau de la famille dans la zone classique de la Valpolicella, autour de Fumane. Il est élaboré surtout avec de la corvina veronese, accompagnée de rondinella et d’oseleta. Après la fermentation, le vin est élevé longuement en barriques de chêne puis en bouteille.</p><p>Il en résulte un rouge corsé et riche en alcool, généreux et concentré, mais doté de la fraîcheur qu’apporte la corvina. Il possède une remarquable aptitude à la garde.</p>",
+    "it": "<p>L’Amarone della Valpolicella è il grande rosso del Veronese e si distingue per il metodo di produzione: le uve vengono vendemmiate a mano, disposte in cassette o su graticci in fruttai ventilati e lasciate appassire per diversi mesi, così da perdere buona parte dell’acqua e concentrare zuccheri, colore e profumi. Solo dopo vengono pigiate e fermentate fino a ottenere un vino secco.</p><p>Quello di Allegrini proviene dai vigneti collinari della famiglia nella zona classica della Valpolicella, attorno a Fumane. È prodotto soprattutto con Corvina Veronese, insieme a Rondinella e Oseleta. Dopo la fermentazione il vino affina a lungo in barrique di rovere e poi in bottiglia.</p><p>Il risultato è un rosso di gran corpo e alta gradazione, ricco e concentrato, ma con la freschezza che apporta la Corvina. Ha una notevole capacità d’invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Granate profundo. Aromas de cereza en licor, ciruela pasa, higo y especias, con notas de cacao y tabaco. En boca es amplio, cálido y aterciopelado, con tanino maduro y final muy largo.",
+    "en": "Deep garnet. Aromas of cherry liqueur, prune, fig and spice, with notes of cocoa and tobacco. Broad, warm and velvety on the palate, with ripe tannins and a very long finish.",
+    "fr": "Grenat profond. Arômes de cerise à l’eau-de-vie, de pruneau, de figue et d’épices, avec des notes de cacao et de tabac. En bouche, il est ample, chaleureux et velouté, aux tanins mûrs et à la finale très longue.",
+    "it": "Granato profondo. Profumi di ciliegia sotto spirito, prugna secca, fico e spezie, con note di cacao e tabacco. In bocca è ampio, caldo e vellutato, con tannino maturo e finale molto lungo."
+  },
+  "pairing": {
+    "es": "Carnes estofadas, caza, risotto all’Amarone, quesos curados como el Monte Veronese o el parmesano",
+    "en": "Braised meat, game, risotto all’Amarone, aged cheeses such as Monte Veronese or Parmesan",
+    "fr": "Viandes braisées, gibier, risotto all’Amarone, fromages affinés comme le Monte Veronese ou le parmesan",
+    "it": "Brasati, selvaggina, risotto all’Amarone, formaggi stagionati come Monte Veronese o Parmigiano"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia; se beneficia de la decantación",
+    "en": "16-18 °C, large glass; benefits from decanting",
+    "fr": "16-18 °C, verre ample ; gagne à être carafé",
+    "it": "16-18 °C, calice ampio; trae beneficio dalla decantazione"
+  },
+  "search": "Allegrini Amarone della Valpolicella Classico"
+}

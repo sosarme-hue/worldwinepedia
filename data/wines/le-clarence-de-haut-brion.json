@@ -1,0 +1,41 @@
+{
+  "slug": "le-clarence-de-haut-brion",
+  "name": "Le Clarence de Haut-Brion",
+  "winery": "chateau-haut-brion",
+  "region": "pessac-leognan",
+  "country": "francia",
+  "type": "tinto",
+  "category": {"es": "Segundo vino", "en": "Second wine", "fr": "Second vin", "it": "Secondo vino"},
+  "grapes": ["merlot", "cabernet-sauvignon", "cabernet-franc"],
+  "summary": {
+    "es": "El segundo vino tinto de Château Haut-Brion, llamado Bahans Haut-Brion hasta 2007 y rebautizado en honor de Clarence Dillon.",
+    "en": "The second red wine of Château Haut-Brion, called Bahans Haut-Brion until 2007 and renamed in honour of Clarence Dillon.",
+    "fr": "Le second vin rouge du Château Haut-Brion, appelé Bahans Haut-Brion jusqu’en 2007 et rebaptisé en hommage à Clarence Dillon.",
+    "it": "Il secondo vino rosso di Château Haut-Brion, chiamato Bahans Haut-Brion fino al 2007 e ribattezzato in onore di Clarence Dillon."
+  },
+  "body": {
+    "es": "<p>Le Clarence de Haut-Brion es el segundo vino de la propiedad. Durante décadas se comercializó como Bahans Haut-Brion y, a partir de la añada 2007, adoptó su nombre actual en homenaje a Clarence Dillon, el banquero estadounidense que compró la finca en 1935.</p><p>Se elabora con uvas del mismo viñedo de gravas de Pessac, procedentes sobre todo de viñas más jóvenes y de lotes que no se seleccionan para el gran vino. El ensamblaje combina Merlot, Cabernet Sauvignon y Cabernet Franc, y la crianza se realiza en barricas de roble francés, con una menor proporción de madera nueva que el gran vino.</p><p>Comparte el estilo de la casa —complejidad, notas ahumadas y textura fina— con un perfil más afrutado y accesible a una edad más temprana.</p>",
+    "en": "<p>Le Clarence de Haut-Brion is the estate’s second wine. For decades it was sold as Bahans Haut-Brion and, from the 2007 vintage, it took its current name in tribute to Clarence Dillon, the American banker who bought the estate in 1935.</p><p>It is made from grapes from the same Pessac gravel vineyard, mainly from younger vines and lots not selected for the grand vin. The blend combines Merlot, Cabernet Sauvignon and Cabernet Franc, and ageing takes place in French oak barrels, with a lower proportion of new wood than the grand vin.</p><p>It shares the house style — complexity, smoky notes and fine texture — with a fruitier profile that is approachable at a younger age.</p>",
+    "fr": "<p>Le Clarence de Haut-Brion est le second vin de la propriété. Pendant des décennies, il fut commercialisé sous le nom de Bahans Haut-Brion et adopta à partir du millésime 2007 son nom actuel, en hommage à Clarence Dillon, le banquier américain qui acheta le domaine en 1935.</p><p>Il est élaboré à partir du même vignoble de graves de Pessac, principalement de jeunes vignes et de lots non retenus pour le grand vin. L’assemblage associe merlot, cabernet sauvignon et cabernet franc, et l’élevage se fait en barriques de chêne français, avec une part de bois neuf inférieure à celle du grand vin.</p><p>Il partage le style de la maison — complexité, notes fumées, texture fine — avec un profil plus fruité et accessible plus jeune.</p>",
+    "it": "<p>Le Clarence de Haut-Brion è il secondo vino della tenuta. Per decenni è stato commercializzato come Bahans Haut-Brion e, a partire dall’annata 2007, ha adottato il nome attuale in omaggio a Clarence Dillon, il banchiere statunitense che acquistò la tenuta nel 1935.</p><p>Si produce con uve dello stesso vigneto di ghiaie di Pessac, soprattutto da vigne più giovani e da lotti non selezionati per il grand vin. L’assemblaggio unisce Merlot, Cabernet Sauvignon e Cabernet Franc, e l’affinamento avviene in barrique di rovere francese, con una quota di legno nuovo inferiore a quella del grand vin.</p><p>Condivide lo stile della casa — complessità, note affumicate, trama fine — con un profilo più fruttato e accessibile già da giovane.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de fruta roja y negra, notas ahumadas, tabaco y especias. En boca es de cuerpo medio, suave y equilibrado.",
+    "en": "Deep ruby. Aromas of red and black fruit, smoky notes, tobacco and spice. Medium-bodied, smooth and balanced on the palate.",
+    "fr": "Rubis intense. Arômes de fruits rouges et noirs, notes fumées, tabac et épices. En bouche, corps moyen, souple et équilibré.",
+    "it": "Rubino intenso. Aromi di frutta rossa e nera, note affumicate, tabacco e spezie. In bocca ha corpo medio, è morbido ed equilibrato."
+  },
+  "pairing": {
+    "es": "Carnes rojas asadas, pato, guisos de carne, quesos curados",
+    "en": "Roast red meat, duck, meat stews, aged cheeses",
+    "fr": "Viandes rouges rôties, canard, ragoûts de viande, fromages affinés",
+    "it": "Carni rosse arrosto, anatra, stufati di carne, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de Burdeos",
+    "en": "16-18 °C, Bordeaux glass",
+    "fr": "16-18 °C, verre à bordeaux",
+    "it": "16-18 °C, calice da Bordeaux"
+  },
+  "search": "Le Clarence de Haut-Brion Pessac-Léognan"
+}

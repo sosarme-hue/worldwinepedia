@@ -1,0 +1,41 @@
+{
+  "slug": "esporao-reserva-branco",
+  "name": "Esporão Reserva Branco",
+  "winery": "esporao",
+  "region": "alentejo",
+  "country": "portugal",
+  "type": "blanco",
+  "category": {"es": "Reserva", "en": "Reserva", "fr": "Reserva", "it": "Reserva"},
+  "grapes": ["arinto"],
+  "summary": {
+    "es": "Blanco Reserva de Esporão, ensamblaje de variedades del Alentejo como Antão Vaz, Arinto y Roupeiro, con parte de crianza en barrica.",
+    "en": "Esporão’s Reserva white, a blend of Alentejo varieties such as Antão Vaz, Arinto and Roupeiro, partly aged in barrel.",
+    "fr": "Blanc Reserva d’Esporão, assemblage de cépages de l’Alentejo comme l’antão vaz, l’arinto et le roupeiro, en partie élevé en barrique.",
+    "it": "Bianco Reserva di Esporão, uvaggio di vitigni dell’Alentejo come Antão Vaz, Arinto e Roupeiro, in parte affinato in barrique."
+  },
+  "body": {
+    "es": "<p>El Esporão Reserva blanco es la contrapartida del tinto Reserva de la casa y uno de los blancos más conocidos del Alentejo. Procede de los viñedos de la Herdade do Esporão, en Reguengos de Monsaraz.</p><p>Se elabora principalmente con variedades autóctonas: la <strong>Antão Vaz</strong>, típica del Alentejo, que aporta cuerpo y fruta madura; la <strong>Arinto</strong>, que contribuye con acidez y frescura; y la Roupeiro, de carácter aromático. La proporción de cada una puede variar según la cosecha. Una parte del vino fermenta y se cría en barricas de roble, y el resto en depósito, lo que permite combinar textura y notas de crianza con la fruta. En una región cálida como el Alentejo, la presencia de la Arinto es importante para mantener el equilibrio. Es un blanco con cuerpo, apto para acompañar platos consistentes, que puede evolucionar unos años en botella.</p>",
+    "en": "<p>Esporão Reserva white is the counterpart to the house’s Reserva red and one of the best-known whites of the Alentejo. It comes from the vineyards of the Herdade do Esporão, in Reguengos de Monsaraz.</p><p>It is made mainly from native varieties: <strong>Antão Vaz</strong>, typical of the Alentejo, which brings body and ripe fruit; <strong>Arinto</strong>, which contributes acidity and freshness; and the aromatic Roupeiro. The proportion of each may vary with the vintage. Part of the wine is fermented and aged in oak barrels and the rest in tank, which makes it possible to combine texture and ageing notes with fruit. In a warm region like the Alentejo, Arinto plays an important role in maintaining balance. It is a full-bodied white, suited to substantial dishes, that can develop for a few years in bottle.</p>",
+    "fr": "<p>L’Esporão Reserva blanc est le pendant du Reserva rouge de la maison et l’un des blancs les plus connus de l’Alentejo. Il provient des vignes de la Herdade do Esporão, à Reguengos de Monsaraz.</p><p>Il est élaboré principalement avec des cépages autochtones : l’<strong>antão vaz</strong>, typique de l’Alentejo, qui apporte du corps et un fruit mûr ; l’<strong>arinto</strong>, qui contribue par son acidité et sa fraîcheur ; et le roupeiro, de caractère aromatique. La proportion de chacun peut varier selon le millésime. Une partie du vin fermente et est élevée en barriques de chêne, le reste en cuve, ce qui permet d’associer texture et notes d’élevage au fruit. Dans une région chaude comme l’Alentejo, la présence de l’arinto est importante pour maintenir l’équilibre. C’est un blanc corsé, adapté aux plats consistants, qui peut évoluer quelques années en bouteille.</p>",
+    "it": "<p>L’Esporão Reserva bianco è il corrispettivo del Reserva rosso della casa e uno dei bianchi più noti dell’Alentejo. Proviene dai vigneti della Herdade do Esporão, a Reguengos de Monsaraz.</p><p>È prodotto principalmente con vitigni autoctoni: l’<strong>Antão Vaz</strong>, tipico dell’Alentejo, che apporta corpo e frutto maturo; l’<strong>Arinto</strong>, che contribuisce con acidità e freschezza; e il Roupeiro, di carattere aromatico. La proporzione di ciascuno può variare secondo l’annata. Una parte del vino fermenta e affina in barrique di rovere e il resto in vasca, il che permette di unire consistenza e note di affinamento al frutto. In una regione calda come l’Alentejo, la presenza dell’Arinto è importante per mantenere l’equilibrio. È un bianco di corpo, adatto a piatti sostanziosi, che può evolvere qualche anno in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo dorado. Aromas de fruta tropical y de hueso madura, cítricos y notas tostadas de la barrica. En boca es amplio y cremoso, con acidez equilibrada.",
+    "en": "Golden yellow. Aromas of ripe tropical and stone fruit, citrus and toasty notes from the barrel. Broad and creamy on the palate, with balanced acidity.",
+    "fr": "Jaune doré. Arômes de fruits tropicaux et à noyau mûrs, d’agrumes et notes grillées de la barrique. En bouche, il est ample et crémeux, avec une acidité équilibrée.",
+    "it": "Giallo dorato. Aromi di frutta tropicale e a nocciolo matura, agrumi e note tostate della barrique. In bocca è ampio e cremoso, con acidità equilibrata."
+  },
+  "pairing": {
+    "es": "Bacalao, pescados al horno, aves asadas, arroces de marisco",
+    "en": "Salt cod, baked fish, roast poultry, seafood rice",
+    "fr": "Morue, poissons au four, volailles rôties, riz aux fruits de mer",
+    "it": "Baccalà, pesce al forno, pollame arrosto, risotti di mare"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de vino blanco amplia",
+    "en": "10-12 °C, large white wine glass",
+    "fr": "10-12 °C, grand verre à vin blanc",
+    "it": "10-12 °C, calice ampio da vino bianco"
+  },
+  "search": "Esporão Reserva Branco Alentejo"
+}

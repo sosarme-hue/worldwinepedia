@@ -1,0 +1,41 @@
+{
+  "slug": "le-volte-dell-ornellaia",
+  "name": "Le Volte dell'Ornellaia",
+  "winery": "ornellaia",
+  "region": "toscana",
+  "country": "italia",
+  "type": "tinto",
+  "category": {"es": "Toscana IGT", "en": "Toscana IGT", "fr": "Toscana IGT", "it": "Toscana IGT"},
+  "grapes": ["merlot", "sangiovese", "cabernet-sauvignon"],
+  "summary": {
+    "es": "El tinto más accesible de la Tenuta dell’Ornellaia, que combina Merlot, Sangiovese y Cabernet Sauvignon en un estilo afrutado.",
+    "en": "Tenuta dell’Ornellaia’s most approachable red, combining Merlot, Sangiovese and Cabernet Sauvignon in a fruity style.",
+    "fr": "Le rouge le plus accessible de la Tenuta dell’Ornellaia, qui associe merlot, sangiovese et cabernet-sauvignon dans un style fruité.",
+    "it": "Il rosso più accessibile della Tenuta dell’Ornellaia, che unisce Merlot, Sangiovese e Cabernet Sauvignon in uno stile fruttato."
+  },
+  "body": {
+    "es": "<p>Le Volte dell’Ornellaia es el vino de entrada de la finca de Bolgheri y está concebido como un tinto para disfrutar sin esperar, que refleje el carácter de la costa toscana.</p><p>A diferencia de los otros vinos de la casa, combina las variedades bordelesas con la Sangiovese, la uva tradicional de Toscana: Merlot, Sangiovese y Cabernet Sauvignon, en proporciones que varían cada año. Por eso se ampara en la IGT Toscana y no en la DOC Bolgheri.</p><p>Las variedades se vinifican por separado en depósitos de acero y el vino se cría unos meses en madera, en parte en barricas ya usadas, de modo que la madera queda en segundo plano. Es un tinto afrutado, suave y versátil en la mesa.</p>",
+    "en": "<p>Le Volte dell’Ornellaia is the Bolgheri estate’s entry-level wine and is conceived as a red to be enjoyed without waiting, reflecting the character of the Tuscan coast.</p><p>Unlike the house’s other wines, it combines Bordeaux varieties with Sangiovese, Tuscany’s traditional grape: Merlot, Sangiovese and Cabernet Sauvignon, in proportions that vary each year. That is why it is labelled as Toscana IGT rather than Bolgheri DOC.</p><p>The varieties are vinified separately in steel tanks, and the wine is aged for a few months in wood, partly in previously used barrels, so that the oak stays in the background. It is a fruity, smooth red that is versatile at the table.</p>",
+    "fr": "<p>Le Volte dell’Ornellaia est le vin d’entrée de gamme du domaine de Bolgheri, conçu comme un rouge à apprécier sans attendre, qui reflète le caractère de la côte toscane.</p><p>Contrairement aux autres vins de la maison, il associe les cépages bordelais au sangiovese, le raisin traditionnel de Toscane : merlot, sangiovese et cabernet-sauvignon, dans des proportions qui varient chaque année. C’est pourquoi il relève de l’IGT Toscana et non de la DOC Bolgheri.</p><p>Les cépages sont vinifiés séparément en cuves d’acier et le vin est élevé quelques mois sous bois, en partie dans des barriques ayant déjà servi, de sorte que le bois reste en retrait. C’est un rouge fruité, souple et polyvalent à table.</p>",
+    "it": "<p>Le Volte dell’Ornellaia è il vino d’ingresso della tenuta di Bolgheri, pensato come un rosso da godere senza attese, che rifletta il carattere della costa toscana.</p><p>A differenza degli altri vini della casa, unisce le varietà bordolesi al Sangiovese, l’uva tradizionale della Toscana: Merlot, Sangiovese e Cabernet Sauvignon, in proporzioni che variano ogni anno. Per questo è un IGT Toscana e non un Bolgheri DOC.</p><p>Le varietà vengono vinificate separatamente in acciaio e il vino affina alcuni mesi in legno, in parte in barrique già usate, così che il legno resti in secondo piano. È un rosso fruttato, morbido e versatile a tavola.</p>"
+  },
+  "tasting": {
+    "es": "Rubí brillante. Aromas de cereza, ciruela y frutos rojos, con un toque de hierbas mediterráneas y especias. En boca es suave, de cuerpo medio y final fresco.",
+    "en": "Bright ruby. Aromas of cherry, plum and red berries, with a touch of Mediterranean herbs and spice. Smooth and medium-bodied on the palate, with a fresh finish.",
+    "fr": "Rubis brillant. Arômes de cerise, de prune et de fruits rouges, avec une touche d’herbes méditerranéennes et d’épices. En bouche, il est souple, de corps moyen, à la finale fraîche.",
+    "it": "Rubino brillante. Profumi di ciliegia, prugna e frutti rossi, con un tocco di erbe mediterranee e spezie. In bocca è morbido, di medio corpo, con finale fresco."
+  },
+  "pairing": {
+    "es": "Pasta, pizza, hamburguesas, carnes a la parrilla, quesos tiernos",
+    "en": "Pasta, pizza, burgers, grilled meat, young cheeses",
+    "fr": "Pâtes, pizza, burgers, viandes grillées, fromages jeunes",
+    "it": "Pasta, pizza, hamburger, carni alla griglia, formaggi freschi"
+  },
+  "serve": {
+    "es": "15-17 °C, copa mediana",
+    "en": "15-17 °C, medium-sized glass",
+    "fr": "15-17 °C, verre moyen",
+    "it": "15-17 °C, calice medio"
+  },
+  "search": "Le Volte dell'Ornellaia Toscana"
+}

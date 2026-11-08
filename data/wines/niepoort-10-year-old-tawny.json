@@ -1,0 +1,41 @@
+{
+  "slug": "niepoort-10-year-old-tawny",
+  "name": "Niepoort 10 Years Old Tawny Port",
+  "winery": "niepoort",
+  "region": "porto",
+  "country": "portugal",
+  "type": "generoso",
+  "category": {"es": "Tawny 10 años", "en": "10 Year Old Tawny", "fr": "Tawny 10 ans", "it": "Tawny 10 anni"},
+  "grapes": ["touriga-nacional", "touriga-franca", "tempranillo"],
+  "summary": {
+    "es": "Tawny de 10 años de Niepoort, casa especializada en Oportos de larga crianza en madera, de estilo fresco y equilibrado.",
+    "en": "Niepoort’s 10-year-old tawny, from a house specialising in long wood-aged Ports, fresh and balanced in style.",
+    "fr": "Tawny de 10 ans de Niepoort, maison spécialisée dans les portos de long vieillissement sous bois, au style frais et équilibré.",
+    "it": "Tawny di 10 anni di Niepoort, casa specializzata in Porto a lungo invecchiamento in legno, di stile fresco ed equilibrato."
+  },
+  "body": {
+    "es": "<p>Niepoort tiene una larga tradición en los Oportos de crianza oxidativa, como los tawnies con indicación de edad y los Colheita, y conserva en sus bodegas de Vila Nova de Gaia existencias de vinos de muchas décadas. Su tawny de 10 años es un ensamblaje de vinos de distintas cosechas cuya edad media corresponde a la mención de la etiqueta.</p><p>Las uvas proceden de viñedos del Douro, incluidas viñas viejas con variedades mezcladas, en las que están presentes la Touriga Nacional, la Touriga Franca y la Tinta Roriz (Tempranillo), entre otras. Tras la fermentación, interrumpida con aguardiente vínica, los vinos envejecen en barricas y toneles de roble usados, donde la oxidación lenta transforma el color y los aromas. La casa busca un estilo con menos peso y dulzor aparente, en el que la acidez aporte frescura y longitud. Se embotella listo para beber.</p>",
+    "en": "<p>Niepoort has a long tradition of oxidatively aged Ports, such as age-dated tawnies and Colheitas, and keeps stocks of wines going back many decades in its Vila Nova de Gaia lodges. Its 10-year-old tawny is a blend of wines from different harvests whose average age matches the indication on the label.</p><p>The grapes come from Douro vineyards, including old vines with mixed varieties that include Touriga Nacional, Touriga Franca and Tinta Roriz (Tempranillo), among others. After fermentation, stopped with grape spirit, the wines age in used oak casks and vats, where slow oxidation transforms their colour and aromas. The house seeks a style with less weight and apparent sweetness, in which acidity brings freshness and length. It is bottled ready to drink.</p>",
+    "fr": "<p>Niepoort possède une longue tradition de portos à élevage oxydatif, comme les tawnies avec indication d’âge et les Colheitas, et conserve dans ses chais de Vila Nova de Gaia des stocks de vins remontant à de nombreuses décennies. Son tawny de 10 ans est un assemblage de vins de différentes récoltes dont l’âge moyen correspond à la mention de l’étiquette.</p><p>Les raisins proviennent de vignobles du Douro, dont de vieilles vignes en complantation où figurent notamment la touriga nacional, la touriga franca et la tinta roriz (tempranillo). Après la fermentation, arrêtée par l’ajout d’eau-de-vie de vin, les vins vieillissent dans des fûts et des foudres de chêne usagés, où l’oxydation lente transforme leur couleur et leurs arômes. La maison recherche un style moins lourd et moins doux en apparence, où l’acidité apporte fraîcheur et longueur. Il est mis en bouteille prêt à boire.</p>",
+    "it": "<p>Niepoort vanta una lunga tradizione nei Porto a invecchiamento ossidativo, come i tawny con indicazione d’età e i Colheita, e conserva nelle sue cantine di Vila Nova de Gaia scorte di vini di molti decenni. Il suo tawny di 10 anni è un uvaggio di vini di diverse vendemmie la cui età media corrisponde alla menzione in etichetta.</p><p>Le uve provengono da vigneti del Douro, comprese vigne vecchie a varietà miste in cui sono presenti, tra le altre, Touriga Nacional, Touriga Franca e Tinta Roriz (Tempranillo). Dopo la fermentazione, interrotta con acquavite di vino, i vini invecchiano in botti e tini di rovere usati, dove l’ossidazione lenta ne trasforma colore e aromi. La casa cerca uno stile con meno peso e dolcezza percepita, in cui l’acidità apporti freschezza e lunghezza. Viene imbottigliato pronto da bere.</p>"
+  },
+  "tasting": {
+    "es": "Color teja claro. Aromas de frutos secos, piel de naranja, higo seco y especias. En boca es elegante, con dulzor moderado y una acidez viva que alarga el final.",
+    "en": "Light tawny colour. Aromas of nuts, orange peel, dried fig and spice. Elegant on the palate, with moderate sweetness and lively acidity that lengthens the finish.",
+    "fr": "Couleur tuilée claire. Arômes de fruits secs, d’écorce d’orange, de figue sèche et d’épices. En bouche, il est élégant, d’une douceur modérée, avec une acidité vive qui allonge la finale.",
+    "it": "Colore aranciato chiaro. Aromi di frutta secca, scorza d’arancia, fico secco e spezie. In bocca è elegante, di dolcezza moderata, con un’acidità vivace che allunga il finale."
+  },
+  "pairing": {
+    "es": "Dulces de almendra, tarta de queso, quesos curados, frutos secos",
+    "en": "Almond sweets, cheesecake, aged cheeses, nuts",
+    "fr": "Douceurs aux amandes, gâteau au fromage, fromages affinés, fruits secs",
+    "it": "Dolci alle mandorle, cheesecake, formaggi stagionati, frutta secca"
+  },
+  "serve": {
+    "es": "10-14 °C, ligeramente fresco, copa de vino generoso",
+    "en": "10-14 °C, lightly chilled, Port glass",
+    "fr": "10-14 °C, légèrement frais, verre à porto",
+    "it": "10-14 °C, leggermente fresco, calice da Porto"
+  },
+  "search": "Niepoort 10 Years Old Tawny Port"
+}

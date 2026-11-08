@@ -1,0 +1,41 @@
+{
+  "slug": "barca-velha",
+  "name": "Barca Velha",
+  "winery": "sogrape",
+  "region": "douro",
+  "country": "portugal",
+  "type": "tinto",
+  "category": null,
+  "grapes": ["touriga-franca", "touriga-nacional", "tempranillo"],
+  "summary": {
+    "es": "Tinto histórico del Douro de Casa Ferreirinha, creado por Fernando Nicolau de Almeida con la cosecha de 1952 y lanzado únicamente en años considerados excepcionales.",
+    "en": "Historic Douro red from Casa Ferreirinha, created by Fernando Nicolau de Almeida with the 1952 vintage and released only in years considered exceptional.",
+    "fr": "Rouge historique du Douro de Casa Ferreirinha, créé par Fernando Nicolau de Almeida avec le millésime 1952 et commercialisé uniquement les années jugées exceptionnelles.",
+    "it": "Rosso storico del Douro di Casa Ferreirinha, creato da Fernando Nicolau de Almeida con l’annata 1952 e messo in commercio solo negli anni ritenuti eccezionali."
+  },
+  "body": {
+    "es": "<p>Barca Velha ocupa un lugar especial en la historia del vino portugués. Fue creado por Fernando Nicolau de Almeida, enólogo de la casa Ferreira, que se propuso elaborar en el Douro un gran tinto tranquilo en una región dedicada casi por completo al Oporto. La primera cosecha fue la de 1952, y durante décadas fue prácticamente el único tinto de prestigio de la región. Hoy pertenece a Casa Ferreirinha, marca de vinos tranquilos de Sogrape.</p><p>Las uvas proceden principalmente del Douro Superior, en particular de Quinta da Leda, y de variedades como la Touriga Franca, la Touriga Nacional y la Tinta Roriz (Tempranillo). El vino se cría en barrica y pasa después un largo periodo en botella en la bodega antes de su lanzamiento. Solo se comercializa como Barca Velha en años que la casa juzga excepcionales; en otras cosechas de calidad, el vino puede salir como Casa Ferreirinha Reserva Especial. Es un tinto pensado para una larga guarda.</p>",
+    "en": "<p>Barca Velha holds a special place in the history of Portuguese wine. It was created by Fernando Nicolau de Almeida, winemaker at the Ferreira house, who set out to make a great still red in the Douro, a region devoted almost entirely to Port. The first vintage was 1952, and for decades it was practically the region’s only prestige red. Today it belongs to Casa Ferreirinha, Sogrape’s still wine brand.</p><p>The grapes come mainly from the Douro Superior, in particular from Quinta da Leda, and from varieties such as Touriga Franca, Touriga Nacional and Tinta Roriz (Tempranillo). The wine is aged in barrel and then spends a long period in bottle in the cellar before release. It is sold as Barca Velha only in years the house judges to be exceptional; in other good vintages, the wine may be released as Casa Ferreirinha Reserva Especial. It is a red intended for long ageing.</p>",
+    "fr": "<p>Barca Velha occupe une place particulière dans l’histoire du vin portugais. Il a été créé par Fernando Nicolau de Almeida, œnologue de la maison Ferreira, qui entreprit d’élaborer un grand rouge tranquille dans le Douro, une région presque entièrement vouée au porto. Le premier millésime fut 1952, et pendant des décennies il fut pratiquement le seul rouge de prestige de la région. Il appartient aujourd’hui à Casa Ferreirinha, la marque de vins tranquilles de Sogrape.</p><p>Les raisins proviennent principalement du Douro Superior, en particulier de la Quinta da Leda, et de cépages comme la touriga franca, la touriga nacional et la tinta roriz (tempranillo). Le vin est élevé en barrique puis passe une longue période en bouteille dans la cave avant sa commercialisation. Il ne sort sous le nom de Barca Velha que les années jugées exceptionnelles par la maison ; d’autres bons millésimes peuvent être commercialisés sous le nom de Casa Ferreirinha Reserva Especial. C’est un rouge conçu pour une longue garde.</p>",
+    "it": "<p>Barca Velha occupa un posto speciale nella storia del vino portoghese. Fu creato da Fernando Nicolau de Almeida, enologo della casa Ferreira, che si propose di produrre nel Douro un grande rosso fermo in una regione dedicata quasi interamente al Porto. La prima annata fu il 1952, e per decenni fu praticamente l’unico rosso di prestigio della regione. Oggi appartiene a Casa Ferreirinha, marchio di vini fermi di Sogrape.</p><p>Le uve provengono soprattutto dal Douro Superior, in particolare dalla Quinta da Leda, e da varietà come Touriga Franca, Touriga Nacional e Tinta Roriz (Tempranillo). Il vino affina in barrique e trascorre poi un lungo periodo in bottiglia in cantina prima di essere messo in commercio. Esce come Barca Velha solo negli anni che la casa giudica eccezionali; in altre buone annate il vino può essere commercializzato come Casa Ferreirinha Reserva Especial. È un rosso pensato per un lungo invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Rubí profundo con reflejos que evolucionan con la edad. Aromas complejos de fruta negra madura, especias, notas balsámicas y de sotobosque. En boca es estructurado y elegante, con taninos finos y gran persistencia.",
+    "en": "Deep ruby with hues that evolve with age. Complex aromas of ripe black fruit, spice, balsamic and forest-floor notes. Structured and elegant on the palate, with fine tannins and great length.",
+    "fr": "Rubis profond aux reflets qui évoluent avec l’âge. Arômes complexes de fruits noirs mûrs, d’épices, notes balsamiques et de sous-bois. En bouche, il est structuré et élégant, avec des tanins fins et une grande persistance.",
+    "it": "Rubino profondo con riflessi che evolvono con l’età. Aromi complessi di frutta nera matura, spezie, note balsamiche e di sottobosco. In bocca è strutturato ed elegante, con tannini fini e grande persistenza."
+  },
+  "pairing": {
+    "es": "Asados de cordero y cabrito, caza mayor, platos de setas, quesos curados",
+    "en": "Roast lamb and kid, large game, mushroom dishes, aged cheeses",
+    "fr": "Rôtis d’agneau et de chevreau, gros gibier, plats aux champignons, fromages affinés",
+    "it": "Arrosti di agnello e capretto, selvaggina da pelo, piatti ai funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Barca Velha Casa Ferreirinha Douro"
+}

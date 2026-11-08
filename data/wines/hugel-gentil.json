@@ -1,0 +1,41 @@
+{
+  "slug": "hugel-gentil",
+  "name": "Hugel Gentil",
+  "winery": "hugel",
+  "region": "alsace",
+  "country": "francia",
+  "type": "blanco",
+  "category": null,
+  "grapes": ["gewurztraminer", "pinot-gris", "riesling", "moscatel"],
+  "summary": {
+    "es": "Ensamblaje blanco de Hugel que recupera la tradición alsaciana del «Gentil», mezcla de las variedades nobles de la región.",
+    "en": "A white blend from Hugel that revives the Alsace tradition of “Gentil”, a blend of the region’s noble varieties.",
+    "fr": "Assemblage blanc de Hugel qui renoue avec la tradition alsacienne du « gentil », mélange des cépages nobles de la région.",
+    "it": "Assemblaggio bianco di Hugel che riprende la tradizione alsaziana del «Gentil», miscela delle varietà nobili della regione."
+  },
+  "body": {
+    "es": "<p>En Alsacia, el término «Gentil» designaba tradicionalmente los vinos elaborados con una mezcla de variedades nobles, a diferencia del «Edelzwicker», ensamblaje más sencillo. Hugel ha recuperado este nombre para uno de sus vinos más populares.</p><p>Se elabora con Gewurztraminer, Pinot Gris, Riesling, Muscat y Sylvaner, de viñedos de la familia y de viticultores con los que trabaja en el entorno de Riquewihr. Cada variedad se vinifica por separado y se ensambla después, buscando combinar el perfume del Gewurztraminer y del Muscat, la amplitud del Pinot Gris y la frescura del Riesling y el Sylvaner.</p><p>Es un blanco seco, aromático y ligero, pensado para beberse joven, como aperitivo o con platos sencillos, y una buena introducción a la diversidad de las variedades de Alsacia.</p>",
+    "en": "<p>In Alsace, the term “Gentil” traditionally referred to wines made from a blend of noble varieties, as opposed to “Edelzwicker”, a simpler blend. Hugel has revived the name for one of its most popular wines.</p><p>It is made from Gewurztraminer, Pinot Gris, Riesling, Muscat and Sylvaner, from the family’s vineyards and from growers it works with around Riquewihr. Each variety is vinified separately and then blended, aiming to combine the perfume of Gewurztraminer and Muscat, the breadth of Pinot Gris and the freshness of Riesling and Sylvaner.</p><p>It is a dry, aromatic, light white, designed to be drunk young, as an aperitif or with simple dishes, and a good introduction to the diversity of Alsace’s varieties.</p>",
+    "fr": "<p>En Alsace, le terme « gentil » désignait traditionnellement les vins issus d’un assemblage de cépages nobles, par opposition à l’« edelzwicker », assemblage plus simple. Hugel a repris ce nom pour l’un de ses vins les plus populaires.</p><p>Il est élaboré à partir de gewurztraminer, de pinot gris, de riesling, de muscat et de sylvaner, issus des vignes de la famille et de vignerons partenaires des environs de Riquewihr. Chaque cépage est vinifié séparément puis assemblé, afin d’associer le parfum du gewurztraminer et du muscat, l’ampleur du pinot gris et la fraîcheur du riesling et du sylvaner.</p><p>C’est un blanc sec, aromatique et léger, à boire jeune, à l’apéritif ou avec des plats simples, et une bonne introduction à la diversité des cépages d’Alsace.</p>",
+    "it": "<p>In Alsazia il termine «Gentil» indicava tradizionalmente i vini ottenuti da una miscela di varietà nobili, a differenza dell’«Edelzwicker», assemblaggio più semplice. Hugel ha ripreso questo nome per uno dei suoi vini più popolari.</p><p>Si produce con Gewurztraminer, Pinot Gris, Riesling, Muscat e Sylvaner, dai vigneti di famiglia e da viticoltori con cui collabora nei dintorni di Riquewihr. Ogni varietà è vinificata separatamente e poi assemblata, per unire il profumo del Gewurztraminer e del Muscat, l’ampiezza del Pinot Gris e la freschezza del Riesling e del Sylvaner.</p><p>È un bianco secco, aromatico e leggero, pensato per essere bevuto giovane, come aperitivo o con piatti semplici, e una buona introduzione alla varietà dei vitigni alsaziani.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido. Aromas florales y frutales, con notas de uva fresca, cítricos, pera y un toque de especias. En boca es ligero, fresco y seco.",
+    "en": "Pale yellow. Floral and fruity aromas, with notes of fresh grape, citrus, pear and a touch of spice. Light, fresh and dry on the palate.",
+    "fr": "Jaune pâle. Arômes floraux et fruités, avec des notes de raisin frais, d’agrumes, de poire et une touche épicée. En bouche, léger, frais et sec.",
+    "it": "Giallo tenue. Aromi floreali e fruttati, con note di uva fresca, agrumi, pera e un tocco di spezie. In bocca è leggero, fresco e secco."
+  },
+  "pairing": {
+    "es": "Aperitivo, tarte flambée, quiche, ensaladas, cocina asiática suave",
+    "en": "Aperitif, tarte flambée, quiche, salads, mild Asian cuisine",
+    "fr": "Apéritif, tarte flambée, quiche, salades, cuisine asiatique douce",
+    "it": "Aperitivo, tarte flambée, quiche, insalate, cucina asiatica delicata"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Hugel Gentil Alsace"
+}
