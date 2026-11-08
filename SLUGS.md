@@ -66,3 +66,21 @@ regions china: ningxia
 
 grapes nuevas (tanda 4): furmint, harslevelu, assyrtiko, xinomavro, agiorgitiko, moschofilero, saperavi, rkatsiteli, chasselas, petite-arvine, tannat, feteasca-neagra, feteasca-alba, mavrud, plavac-mali, grasevina, rebula, kalecik-karasi, okuzgozu, vidal
 (Equivalencias: Kékfrankos = blaufrankisch, Welschriesling/Olaszrizling = grasevina, Ribolla Gialla = rebula, Fendant = chasselas, Crljenak = primitivo, Muscat/Muskat = moscatel, Tămâioasă/Grasă: sólo en texto)
+
+# Tanda 5 (fase 3): más regiones y uvas
+regions españa: tierra-de-leon, arlanza, tierra-del-vino-de-zamora, bizkaiko-txakolina, arabako-txakolina, conca-de-barbera, alella, pla-de-bages, tarragona, catalunya, binissalem, pla-i-llevant, valencia, manchuela, almansa, yecla, bullas, ribera-del-guadiana, vinos-de-madrid, mentrida, ucles, condado-de-huelva, sierras-de-malaga, tacoronte-acentejo, valle-de-la-orotava, ycoden-daute-isora, la-palma, gran-canaria, ribera-del-jucar, cangas
+regions francia: margaux, pauillac, saint-julien, saint-estephe, graves, entre-deux-mers, cotes-de-bordeaux, cote-chalonnaise, maconnais, pouilly-fuisse, cote-rotie, hermitage, condrieu, cornas, saint-joseph, gigondas, vacqueyras, cotes-du-rhone, tavel, vouvray, savennieres, muscadet, chinon, anjou, pouilly-fume, jura, savoie, cahors, madiran, jurancon, bandol, corse, limoux, banyuls
+regions italia: langhe, roero, asti, gavi, lugana, bardolino, collio, friuli-colli-orientali, vino-nobile-di-montepulciano, montefalco, maremma, verdicchio-dei-castelli-di-jesi, taurasi, fiano-di-avellino, greco-di-tufo, aglianico-del-vulture, ciro, sardegna, valtellina, lambrusco-emilia, oltrepo-pavese, friuli
+regions portugal: tejo, beira-interior, algarve, colares, bucelas
+regions alemania y austria: ahr, wurttemberg, mittelrhein, wien, thermenregion, steiermark, carnuntum
+regions estados-unidos: russian-river-valley, los-carneros, santa-cruz-mountains, lodi, sta-rita-hills, walla-walla-valley
+regions chile y argentina: valle-de-leyda, valle-de-curico, valle-central, valle-del-limari, valle-del-bio-bio, san-juan
+regions oceania y sudafrica: adelaide-hills, riverina, mudgee, wairarapa, hemel-en-aarde, elgin, walker-bay
+regions israel y otros: judea, galilea, shandong
+
+grapes nuevas (tanda 5):
+ francia: pinot-meunier, pinot-blanc, roussanne, marsanne, colombard, muscadelle, petit-manseng, gros-manseng, savagnin, trousseau, poulsard, clairette, counoise, marselan, mondeuse-noire, folle-blanche
+ italia: negroamaro, sagrantino, lagrein, arneis, cortese, verdicchio, falanghina, greco, teroldego, grillo, frappato, canaiolo, rondinella, nero-di-troia, pecorino, vernaccia, carricante, catarratto, friulano, refosco
+ iberia: caino, brancellao, souson, maturana-tinta, hondarrabi-beltza, moristel, listan-blanco, trincadeira, antao-vaz, tinta-barroca, tinto-cao, fernao-pires, alfrocheiro, avesso, boal, tinta-negra
+ otras: malagousia, roditis, kadarka, posip
+(Equivalencias nuevas: Merenzao/Bastardo = trousseau; Pinot Bianco/Weissburgunder = pinot-blanc; Meunier/Schwarzriesling = pinot-meunier; Sauvignonasse/Tocai = friulano; Ribolla = rebula; Trajadura = treixadura; Uva di Troia = nero-di-troia; Garnacha Tintorera = alicante-bouschet)
