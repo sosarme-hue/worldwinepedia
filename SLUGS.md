@@ -41,3 +41,28 @@ regions sudafrica: stellenbosch, swartland, constantia, franschhoek, paarl
 
 grapes nuevas (tanda 3): gruner-veltliner, blaufrankisch, zweigelt, silvaner, muller-thurgau, torrontes, carmenere, pinotage, pais, bonarda, petite-sirah
 (Equivalencias: Zinfandel = primitivo, Spätburgunder = pinot-noir, Shiraz = syrah, Grauburgunder = pinot-gris, Weissburgunder/Pinot Blanc: sólo en texto, Lemberger = blaufrankisch, Steen = chenin-blanc, Cot = malbec)
+
+# Tanda 4: 18 países más (Europa del Este y Mediterráneo, América, Oriente Medio y Asia)
+countries: hungria, grecia, georgia, turquia, bulgaria, suiza, eslovenia, croacia, rumania, moldavia, inglaterra, canada, uruguay, brasil, mexico, libano, israel, china
+
+regions hungria: tokaj, eger, villany
+regions grecia: santorini, naoussa, nemea
+regions georgia: kakheti
+regions turquia: capadocia
+regions bulgaria: valle-de-tracia
+regions suiza: valais, vaud
+regions eslovenia: goriska-brda
+regions croacia: dalmacia
+regions rumania: dealu-mare, cotnari
+regions moldavia: codru
+regions inglaterra: sussex, kent
+regions canada: niagara-peninsula, okanagan-valley
+regions uruguay: canelones, maldonado
+regions brasil: serra-gaucha
+regions mexico: valle-de-guadalupe
+regions libano: valle-de-la-bekaa
+regions israel: altos-del-golan
+regions china: ningxia
+
+grapes nuevas (tanda 4): furmint, harslevelu, assyrtiko, xinomavro, agiorgitiko, moschofilero, saperavi, rkatsiteli, chasselas, petite-arvine, tannat, feteasca-neagra, feteasca-alba, mavrud, plavac-mali, grasevina, rebula, kalecik-karasi, okuzgozu, vidal
+(Equivalencias: Kékfrankos = blaufrankisch, Welschriesling/Olaszrizling = grasevina, Ribolla Gialla = rebula, Fendant = chasselas, Crljenak = primitivo, Muscat/Muskat = moscatel, Tămâioasă/Grasă: sólo en texto)
