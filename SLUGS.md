@@ -14,3 +14,15 @@ tempranillo, garnacha, garnacha-blanca, monastrell, mencia, bobal, carinena, gra
 pinot-noir, cabernet-franc, malbec, prieto-picudo, juan-garcia, listan-negro,
 albarino, verdejo, godello, treixadura, loureira, macabeo, xarel-lo, parellada, palomino, pedro-ximenez, moscatel,
 hondarrabi-zuri, malvasia, chardonnay, sauvignon-blanc, riesling, sangiovese, nebbiolo, airen
+
+# Tanda 2: Francia, Italia, Portugal (además de todo lo anterior)
+countries: francia, italia, portugal
+
+regions francia: bordeaux, medoc, saint-emilion, pomerol, pessac-leognan, sauternes, bourgogne, chablis, cote-de-nuits, cote-de-beaune, beaujolais, champagne, loire, sancerre, rhone-nord, chateauneuf-du-pape, alsace, provence, languedoc-roussillon
+regions italia: piemonte, barolo, barbaresco, toscana, chianti-classico, brunello-di-montalcino, bolgheri, veneto, valpolicella, prosecco, soave, trentino-alto-adige, franciacorta, sicilia, etna, campania, puglia, abruzzo
+regions portugal: douro, porto, vinho-verde, dao, alentejo, bairrada, madeira, lisboa, setubal
+
+grapes nuevas (tanda 2): gamay, chenin-blanc, viognier, semillon, cinsault, pinot-gris, gewurztraminer, melon-de-bourgogne, petit-verdot, aligote,
+ barbera, dolcetto, corvina, glera, garganega, montepulciano, aglianico, nero-davola, primitivo, nerello-mascalese, vermentino, trebbiano, fiano, lambrusco,
+ touriga-nacional, touriga-franca, baga, arinto, encruzado, castelao, alicante-bouschet, sercial, verdelho
+(Equivalencias: Grenache = garnacha, Mourvèdre = monastrell, Carignan = carinena, Tinta Roriz/Aragonez = tempranillo, Alvarinho = albarino, Pinot Grigio = pinot-gris, Malvasia/Malmsey = malvasia, Moscato = moscatel)
