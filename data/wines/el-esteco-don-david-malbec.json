@@ -1,0 +1,43 @@
+{
+  "slug": "el-esteco-don-david-malbec",
+  "name": "Don David Malbec",
+  "winery": "el-esteco",
+  "region": "salta",
+  "country": "argentina",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "malbec"
+  ],
+  "summary": {
+    "es": "Malbec de la línea Don David de El Esteco, procedente de viñedos de altura de Cafayate y criado en roble.",
+    "en": "Malbec from El Esteco’s Don David line, from high-altitude vineyards in Cafayate and aged in oak.",
+    "fr": "Malbec de la ligne Don David d’El Esteco, issu de vignobles d’altitude de Cafayate et élevé en chêne.",
+    "it": "Malbec della linea Don David di El Esteco, proveniente da vigneti d’altura di Cafayate e affinato in rovere."
+  },
+  "body": {
+    "es": "<p>Junto a su Torrontés, el Malbec es uno de los vinos más difundidos de la línea Don David, con la que El Esteco recuerda a David Michel, cofundador de la bodega. Las uvas proceden de viñedos de <strong>Cafayate</strong>, en los Valles Calchaquíes, a unos 1.700 metros de altitud.</p><p>La altitud y la fuerte insolación de Salta dan a la Malbec un color muy intenso, hollejos gruesos y taninos firmes, mientras que las noches frescas aportan frescura. Tras la fermentación, el vino se cría en roble, que suaviza su estructura y añaden notas especiadas. El resultado es un Malbec de estilo norteño, concentrado y con carácter, diferente de los de Mendoza por su intensidad de color y sus notas de pimienta y hierbas. Es un buen ejemplo para comparar la expresión de la variedad en las distintas regiones argentinas. Se disfruta en sus primeros años y acompaña bien las carnes y la cocina regional del norte argentino.</p>",
+    "en": "<p>Alongside its Torrontés, the Malbec is one of the most widely available wines in the Don David line, with which El Esteco remembers David Michel, co-founder of the winery. The grapes come from vineyards in <strong>Cafayate</strong>, in the Calchaquí Valleys, at about 1,700 metres above sea level.</p><p>Salta’s altitude and strong sunlight give Malbec very deep colour, thick skins and firm tannins, while the cool nights bring freshness. After fermentation, the wine is aged in oak, which softens its structure and adds spicy notes. The result is a northern-style Malbec, concentrated and full of character, different from those of Mendoza in its depth of colour and its notes of pepper and herbs. It is a good example for comparing the variety’s expression across Argentina’s regions. It is enjoyable in its first few years and goes well with meat and the regional cuisine of northern Argentina.</p>",
+    "fr": "<p>Aux côtés de son torrontés, le malbec est l’un des vins les plus diffusés de la ligne Don David, par laquelle El Esteco rend hommage à David Michel, cofondateur de la cave. Les raisins proviennent de vignobles de <strong>Cafayate</strong>, dans les vallées Calchaquíes, à environ 1 700 mètres d’altitude.</p><p>L’altitude et le fort ensoleillement de Salta donnent au malbec une couleur très intense, des pellicules épaisses et des tanins fermes, tandis que les nuits fraîches apportent de la fraîcheur. Après la fermentation, le vin est élevé en chêne, qui assouplit sa structure et ajoute des notes épicées. Il en résulte un malbec de style nordique, concentré et plein de caractère, qui se distingue de ceux de Mendoza par l’intensité de sa couleur et ses notes de poivre et d’herbes. C’est un bon exemple pour comparer l’expression du cépage selon les régions argentines. Il se boit dans ses premières années et accompagne bien les viandes et la cuisine régionale du nord argentin.</p>",
+    "it": "<p>Accanto al Torrontés, il Malbec è uno dei vini più diffusi della linea Don David, con cui El Esteco ricorda David Michel, cofondatore della cantina. Le uve provengono da vigneti di <strong>Cafayate</strong>, nelle Valli Calchaquíes, a circa 1.700 metri di altitudine.</p><p>L’altitudine e la forte insolazione di Salta danno al Malbec un colore molto intenso, bucce spesse e tannini fermi, mentre le notti fresche apportano freschezza. Dopo la fermentazione, il vino affina in rovere, che ne ammorbidisce la struttura e aggiunge note speziate. Il risultato è un Malbec di stile settentrionale, concentrato e di carattere, diverso da quelli di Mendoza per intensità di colore e note di pepe ed erbe. È un buon esempio per confrontare l’espressione della varietà nelle diverse regioni argentine. Si gusta nei primi anni e accompagna bene le carni e la cucina regionale del nord argentino.</p>"
+  },
+  "tasting": {
+    "es": "Rojo púrpura muy intenso. Ciruela, mora, pimienta negra y notas de hierbas secas. Boca concentrada, con taninos firmes y final especiado.",
+    "en": "Very deep purple-red. Plum, blackberry, black pepper and notes of dried herbs. Concentrated palate with firm tannins and a spicy finish.",
+    "fr": "Rouge pourpre très intense. Prune, mûre, poivre noir et notes d’herbes sèches. Bouche concentrée, tanins fermes et finale épicée.",
+    "it": "Rosso porpora molto intenso. Prugna, mora, pepe nero e note di erbe secche. Bocca concentrata, con tannini fermi e finale speziato."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la parrilla, cabrito, humita y tamales, quesos curados",
+    "en": "Grilled red meat, kid, humita and tamales, aged cheeses",
+    "fr": "Viandes rouges grillées, chevreau, humita et tamales, fromages affinés",
+    "it": "Carni rosse alla griglia, capretto, humita e tamales, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Don David Malbec El Esteco Cafayate"
+}

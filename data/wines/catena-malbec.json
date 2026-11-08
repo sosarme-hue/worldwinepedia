@@ -1,0 +1,43 @@
+{
+  "slug": "catena-malbec",
+  "name": "Catena Malbec",
+  "winery": "catena-zapata",
+  "region": "mendoza",
+  "country": "argentina",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "malbec"
+  ],
+  "summary": {
+    "es": "Malbec de Bodega Catena Zapata elaborado con uvas de viñedos situados a distintas altitudes en Mendoza. Es uno de los vinos más difundidos de la casa.",
+    "en": "Malbec from Bodega Catena Zapata made from grapes grown in vineyards at different altitudes in Mendoza. It is one of the house’s most widely available wines.",
+    "fr": "Malbec de Bodega Catena Zapata élaboré avec des raisins de vignobles situés à différentes altitudes à Mendoza. C’est l’un des vins les plus diffusés de la maison.",
+    "it": "Malbec di Bodega Catena Zapata prodotto con uve di vigneti situati a diverse altitudini a Mendoza. È uno dei vini più diffusi della casa."
+  },
+  "body": {
+    "es": "<p>Catena Malbec resume la idea que ha guiado a la familia Catena desde los años noventa: combinar uvas de viñedos situados a diferentes alturas para obtener un vino equilibrado. Las uvas proceden de fincas de la familia en zonas como Luján de Cuyo y el Valle de Uco; las parcelas más bajas aportan madurez y cuerpo, y las más altas, frescura, acidez y notas florales.</p><p>Cada lote se fermenta por separado y el vino se cría durante varios meses en barricas de roble, en parte nuevas, antes del ensamblaje final. El resultado es un Malbec de estilo moderno, con fruta generosa pero sin exceso de peso, pensado para disfrutarse en sus primeros años aunque puede evolucionar algún tiempo en botella. Es una buena introducción a la Malbec de altura de Mendoza.</p>",
+    "en": "<p>Catena Malbec sums up the idea that has guided the Catena family since the 1990s: combining grapes from vineyards at different heights to obtain a balanced wine. The grapes come from family estates in areas such as Luján de Cuyo and the Uco Valley; the lower plots bring ripeness and body, and the higher ones freshness, acidity and floral notes.</p><p>Each lot is fermented separately and the wine is aged for several months in oak barrels, some of them new, before the final blend. The result is a modern-style Malbec with generous fruit but without excess weight, intended to be enjoyed in its first few years, although it can develop for some time in bottle. It is a good introduction to high-altitude Mendoza Malbec.</p>",
+    "fr": "<p>Catena Malbec résume l’idée qui guide la famille Catena depuis les années 1990 : associer des raisins de vignobles situés à différentes altitudes pour obtenir un vin équilibré. Les raisins proviennent de domaines familiaux dans des zones comme Luján de Cuyo et la vallée de Uco ; les parcelles les plus basses apportent maturité et corps, les plus hautes fraîcheur, acidité et notes florales.</p><p>Chaque lot est vinifié séparément et le vin est élevé plusieurs mois en barriques de chêne, en partie neuves, avant l’assemblage final. Il en résulte un malbec de style moderne, au fruit généreux mais sans lourdeur, conçu pour être apprécié dans ses premières années, même s’il peut évoluer quelque temps en bouteille. C’est une bonne introduction au malbec d’altitude de Mendoza.</p>",
+    "it": "<p>Catena Malbec riassume l’idea che guida la famiglia Catena dagli anni Novanta: unire uve di vigneti situati ad altezze diverse per ottenere un vino equilibrato. Le uve provengono da tenute di famiglia in zone come Luján de Cuyo e la Valle de Uco; le parcelle più basse apportano maturità e corpo, quelle più alte freschezza, acidità e note floreali.</p><p>Ogni lotto è vinificato separatamente e il vino affina per diversi mesi in barrique di rovere, in parte nuove, prima dell’assemblaggio finale. Il risultato è un Malbec di stile moderno, dal frutto generoso ma senza eccessiva pesantezza, pensato per essere goduto nei primi anni, anche se può evolvere per qualche tempo in bottiglia. È una buona introduzione al Malbec d’altura di Mendoza.</p>"
+  },
+  "tasting": {
+    "es": "Púrpura intenso. Aromas de ciruela, mora y violeta, con notas de vainilla y especias. Boca de cuerpo medio, taninos suaves y final frutal.",
+    "en": "Deep purple. Aromas of plum, blackberry and violet, with notes of vanilla and spice. Medium-bodied, with soft tannins and a fruity finish.",
+    "fr": "Pourpre intense. Arômes de prune, de mûre et de violette, avec des notes de vanille et d’épices. Bouche de corps moyen, tanins souples et finale fruitée.",
+    "it": "Porpora intenso. Aromi di prugna, mora e violetta, con note di vaniglia e spezie. Di medio corpo, con tannini morbidi e finale fruttato."
+  },
+  "pairing": {
+    "es": "Asado argentino, carnes rojas a la parrilla, empanadas de carne, quesos semicurados",
+    "en": "Argentine asado, grilled red meat, beef empanadas, semi-hard cheeses",
+    "fr": "Asado argentin, viandes rouges grillées, empanadas à la viande, fromages mi-affinés",
+    "it": "Asado argentino, carni rosse alla griglia, empanadas di carne, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Catena Malbec Bodega Catena Zapata Mendoza"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "opus-one",
+  "name": "Opus One",
+  "winery": "opus-one",
+  "region": "napa-valley",
+  "country": "estados-unidos",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "cabernet-franc",
+    "petit-verdot",
+    "malbec"
+  ],
+  "summary": {
+    "es": "Tinto de corte bordelés nacido de la alianza entre el barón Philippe de Rothschild y Robert Mondavi, con primera cosecha en 1979.",
+    "en": "A Bordeaux-style red born of the alliance between Baron Philippe de Rothschild and Robert Mondavi, first made in 1979.",
+    "fr": "Rouge d’assemblage bordelais né de l’alliance entre le baron Philippe de Rothschild et Robert Mondavi, premier millésime 1979.",
+    "it": "Rosso di taglio bordolese nato dall’alleanza tra il barone Philippe de Rothschild e Robert Mondavi, con prima annata 1979."
+  },
+  "body": {
+    "es": "<p>Opus One es el vino principal de la bodega del mismo nombre y uno de los tintos más conocidos de California. Nació de la colaboración entre el propietario de Château Mouton Rothschild y Robert Mondavi, y su primera cosecha fue la de 1979. Desde el principio se concibió como un gran vino de mezcla al estilo bordelés, elaborado con uvas de viñedos de Oakville.</p><p>El Cabernet Sauvignon es la variedad dominante, acompañada de proporciones variables de Merlot, Cabernet Franc, Petit Verdot y Malbec, según la cosecha. La vendimia es manual y la uva se selecciona con cuidado; el vino se cría en barricas de roble francés nuevo durante un periodo prolongado antes del embotellado. El resultado es un tinto de fruta madura y textura sedosa, con la estructura necesaria para evolucionar en botella durante muchos años.</p>",
+    "en": "<p>Opus One is the flagship wine of the winery of the same name and one of California’s best-known reds. It was born of the collaboration between the owner of Château Mouton Rothschild and Robert Mondavi, and its first vintage was 1979. From the start it was conceived as a great Bordeaux-style blend made from Oakville vineyards.</p><p>Cabernet Sauvignon is the dominant variety, accompanied by varying proportions of Merlot, Cabernet Franc, Petit Verdot and Malbec depending on the vintage. Harvesting is by hand and the grapes are carefully sorted; the wine is aged in new French oak barrels for an extended period before bottling. The result is a red with ripe fruit and a silky texture, with the structure needed to evolve in bottle for many years.</p>",
+    "fr": "<p>Opus One est le grand vin de la cave du même nom et l’un des rouges les plus connus de Californie. Il est né de la collaboration entre le propriétaire du Château Mouton Rothschild et Robert Mondavi, et son premier millésime fut 1979. Dès l’origine, il fut conçu comme un grand vin d’assemblage de style bordelais, issu de vignobles d’Oakville.</p><p>Le cabernet-sauvignon est le cépage dominant, accompagné de proportions variables de merlot, de cabernet franc, de petit verdot et de malbec selon le millésime. Les vendanges sont manuelles et les raisins soigneusement triés ; le vin est élevé en barriques de chêne français neuves pendant une période prolongée avant la mise en bouteille. Il en résulte un rouge au fruit mûr et à la texture soyeuse, doté de la structure nécessaire pour évoluer en bouteille pendant de nombreuses années.</p>",
+    "it": "<p>Opus One è il vino principale della cantina omonima e uno dei rossi più noti della California. Nacque dalla collaborazione tra il proprietario di Château Mouton Rothschild e Robert Mondavi, e la sua prima annata fu la 1979. Fin dall’inizio fu concepito come un grande vino d’uvaggio in stile bordolese, prodotto con uve di vigneti di Oakville.</p><p>Il Cabernet Sauvignon è il vitigno dominante, accompagnato da proporzioni variabili di Merlot, Cabernet Franc, Petit Verdot e Malbec a seconda dell’annata. La vendemmia è manuale e le uve sono selezionate con cura; il vino affina in barrique nuove di rovere francese per un periodo prolungato prima dell’imbottigliamento. Il risultato è un rosso dal frutto maturo e dalla consistenza setosa, con la struttura necessaria per evolvere in bottiglia per molti anni.</p>"
+  },
+  "tasting": {
+    "es": "Rojo granate profundo. Nariz de casis, cereza negra y violeta con notas de cedro, grafito y cacao. Boca envolvente y equilibrada, con taninos finos y final persistente.",
+    "en": "Deep garnet red. Nose of blackcurrant, black cherry and violet with notes of cedar, graphite and cocoa. Enveloping and balanced on the palate, with fine tannins and a persistent finish.",
+    "fr": "Rouge grenat profond. Nez de cassis, de cerise noire et de violette avec des notes de cèdre, de graphite et de cacao. Bouche enveloppante et équilibrée, aux tanins fins et à la finale persistante.",
+    "it": "Rosso granato profondo. Naso di ribes nero, ciliegia nera e viola con note di cedro, grafite e cacao. Bocca avvolgente ed equilibrata, con tannini fini e finale persistente."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la parrilla, cordero asado, chuletón, quesos curados",
+    "en": "Grilled red meat, roast lamb, rib steak, aged cheeses",
+    "fr": "Viandes rouges grillées, agneau rôti, côte de bœuf, fromages affinés",
+    "it": "Carni rosse alla griglia, agnello arrosto, costata, formaggi stagionati"
+  },
+  "serve": {
+    "es": "17-18 °C, decantado, copa amplia",
+    "en": "17-18 °C, decanted, large glass",
+    "fr": "17-18 °C, carafé, verre ample",
+    "it": "17-18 °C, decantato, calice ampio"
+  },
+  "search": "Opus One Napa Valley"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "errazuriz-kai",
+  "name": "Kai",
+  "winery": "errazuriz",
+  "region": "aconcagua",
+  "country": "chile",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "carmenere"
+  ],
+  "summary": {
+    "es": "Tinto de alta gama de Viña Errázuriz a base de Carmenère, elaborado con uvas de sus viñedos del valle del Aconcagua.",
+    "en": "Top-end Carmenère-based red from Viña Errázuriz, made from grapes from its vineyards in the Aconcagua Valley.",
+    "fr": "Rouge haut de gamme de Viña Errázuriz à base de carménère, élaboré avec des raisins de ses vignobles de la vallée de l’Aconcagua.",
+    "it": "Rosso di alta gamma di Viña Errázuriz a base di Carmenère, prodotto con uve dei suoi vigneti della valle dell’Aconcagua."
+  },
+  "body": {
+    "es": "<p>Kai es la apuesta de Viña Errázuriz por la <strong>Carmenère</strong>, la variedad que se ha convertido en una de las señas de identidad del vino chileno desde que fue identificada en el país en los años noventa. Se elabora con uvas de los viñedos de la casa en el interior del <strong>valle del Aconcagua</strong>, en las laderas cercanas a Panquehue.</p><p>La Carmenère es una variedad de maduración muy tardía, que necesita un clima cálido y una larga temporada de crecimiento para perder las notas vegetales que muestra cuando no está bien madura. El sol abundante del Aconcagua interior favorece esa maduración completa, mientras que los suelos pedregosos de ladera limitan el vigor. La uva se vendimia a mano y se vinifica en pequeños lotes, y el vino, a base de Carmenère, puede incluir pequeñas proporciones de otras variedades según la añada. Se cría en barricas de roble francés. El resultado es un tinto de color muy profundo, con fruta negra madura, especias y un característico toque de pimienta y hierbas, de textura sedosa.</p>",
+    "en": "<p>Kai is Viña Errázuriz’s statement on <strong>Carmenère</strong>, the variety that has become one of the hallmarks of Chilean wine since it was identified in the country in the 1990s. It is made from grapes from the house’s vineyards in the inland <strong>Aconcagua Valley</strong>, on the slopes near Panquehue.</p><p>Carmenère is a very late-ripening variety that needs a warm climate and a long growing season to lose the vegetal notes it shows when not fully ripe. The abundant sunshine of inland Aconcagua encourages this full ripening, while the stony hillside soils limit vigour. The grapes are hand-picked and vinified in small lots, and the wine, based on Carmenère, may include small proportions of other varieties depending on the vintage. It is aged in French oak barrels. The result is a very deeply coloured red, with ripe black fruit, spice and a characteristic touch of pepper and herbs, with a silky texture.</p>",
+    "fr": "<p>Kai est le pari de Viña Errázuriz sur le <strong>carménère</strong>, le cépage devenu l’un des emblèmes du vin chilien depuis son identification dans le pays dans les années 1990. Il est élaboré avec des raisins des vignobles de la maison dans la partie intérieure de la <strong>vallée de l’Aconcagua</strong>, sur les coteaux proches de Panquehue.</p><p>Le carménère est un cépage à maturité très tardive, qui a besoin d’un climat chaud et d’une longue saison de végétation pour perdre les notes végétales qu’il présente lorsqu’il n’est pas bien mûr. L’abondant soleil de l’Aconcagua intérieur favorise cette maturité complète, tandis que les sols caillouteux des coteaux limitent la vigueur. Le raisin est vendangé à la main et vinifié par petits lots, et le vin, à base de carménère, peut inclure de petites proportions d’autres cépages selon le millésime. Il est élevé en barriques de chêne français. Il en résulte un rouge à la couleur très profonde, aux fruits noirs mûrs, aux épices et à la touche caractéristique de poivre et d’herbes, d’une texture soyeuse.</p>",
+    "it": "<p>Kai è la scommessa di Viña Errázuriz sul <strong>Carmenère</strong>, la varietà diventata uno dei segni distintivi del vino cileno da quando fu identificata nel paese negli anni Novanta. È prodotto con uve dei vigneti della casa nella parte interna della <strong>valle dell’Aconcagua</strong>, sui pendii vicino a Panquehue.</p><p>Il Carmenère è una varietà a maturazione molto tardiva, che ha bisogno di un clima caldo e di una lunga stagione vegetativa per perdere le note vegetali che mostra quando non è ben maturo. Il sole abbondante dell’Aconcagua interno favorisce questa maturazione completa, mentre i suoli sassosi dei pendii limitano la vigoria. L’uva è vendemmiata a mano e vinificata in piccoli lotti, e il vino, a base di Carmenère, può includere piccole proporzioni di altre varietà secondo l’annata. Affina in barrique di rovere francese. Il risultato è un rosso di colore molto profondo, con frutta nera matura, spezie e un caratteristico tocco di pepe ed erbe, dalla trama setosa.</p>"
+  },
+  "tasting": {
+    "es": "Púrpura muy profundo. Mora, ciruela, pimienta negra, pimentón dulce y hierbas. Boca amplia y sedosa, con taninos maduros y final especiado.",
+    "en": "Very deep purple. Blackberry, plum, black pepper, sweet paprika and herbs. Ample, silky palate with ripe tannins and a spicy finish.",
+    "fr": "Pourpre très profond. Mûre, prune, poivre noir, paprika doux et herbes. Bouche ample et soyeuse, tanins mûrs et finale épicée.",
+    "it": "Porpora molto profondo. Mora, prugna, pepe nero, paprica dolce ed erbe. Bocca ampia e setosa, con tannini maturi e finale speziato."
+  },
+  "pairing": {
+    "es": "Carnes rojas asadas, cordero con hierbas, platos especiados, quesos curados",
+    "en": "Roast red meat, lamb with herbs, spiced dishes, aged cheeses",
+    "fr": "Viandes rouges rôties, agneau aux herbes, plats épicés, fromages affinés",
+    "it": "Carni rosse arrosto, agnello alle erbe, piatti speziati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "17-18 °C, decantado, copa amplia",
+    "en": "17-18 °C, decanted, large glass",
+    "fr": "17-18 °C, carafé, verre ample",
+    "it": "17-18 °C, decantato, calice ampio"
+  },
+  "search": "Errázuriz Kai Carmenère Aconcagua"
+}

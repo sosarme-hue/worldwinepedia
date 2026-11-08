@@ -1,0 +1,43 @@
+{
+  "slug": "errazuriz-las-pizarras-chardonnay",
+  "name": "Las Pizarras Chardonnay",
+  "winery": "errazuriz",
+  "region": "aconcagua",
+  "country": "chile",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Chardonnay de Viña Errázuriz procedente del Aconcagua Costa, cuyo nombre alude a los suelos de pizarra de sus viñedos cercanos al mar.",
+    "en": "Chardonnay from Viña Errázuriz sourced from Aconcagua Costa, whose name refers to the slate soils of its vineyards near the sea.",
+    "fr": "Chardonnay de Viña Errázuriz issu de l’Aconcagua Costa, dont le nom évoque les sols d’ardoise de ses vignes proches de la mer.",
+    "it": "Chardonnay di Viña Errázuriz proveniente dall’Aconcagua Costa, il cui nome allude ai suoli di ardesia dei suoi vigneti vicini al mare."
+  },
+  "body": {
+    "es": "<p>Las Pizarras es una línea de Viña Errázuriz dedicada a la <strong>Chardonnay</strong> y la Pinot Noir de clima fresco, y se cuenta entre los vinos que han dado a conocer el potencial del <strong>Aconcagua Costa</strong>, la franja occidental del valle del Aconcagua plantada en las primeras décadas del siglo XXI, a pocos kilómetros del océano Pacífico.</p><p>Su nombre procede de los suelos de <strong>pizarra</strong> y esquisto de algunos viñedos de la zona, pobres y bien drenados, que limitan el rendimiento de las cepas. La influencia marina, con nieblas matinales y brisas frescas, prolonga la maduración y preserva la acidez. La uva se vendimia a mano y el vino se fermenta y se cría en barricas de roble francés, con un uso cuidadoso de la madera para no ocultar la expresión del viñedo. El resultado es un Chardonnay tenso y preciso, con fruta cítrica, notas de pedernal y una marcada sensación salina, que puede evolucionar durante varios años en botella. Es un buen ejemplo de los blancos costeros chilenos de alta gama.</p>",
+    "en": "<p>Las Pizarras is a Viña Errázuriz line devoted to cool-climate <strong>Chardonnay</strong> and Pinot Noir, and is among the wines that have revealed the potential of <strong>Aconcagua Costa</strong>, the western strip of the Aconcagua Valley planted in the first decades of the twenty-first century a few kilometres from the Pacific Ocean.</p><p>Its name comes from the <strong>slate</strong> and schist soils of some vineyards in the area, poor and well drained, which limit the vines’ yields. Maritime influence, with morning fogs and cool breezes, prolongs ripening and preserves acidity. The grapes are hand-picked and the wine is fermented and aged in French oak barrels, with careful use of oak so as not to mask the vineyard’s expression. The result is a taut, precise Chardonnay with citrus fruit, flinty notes and a marked saline character, able to develop for several years in bottle. It is a good example of Chile’s top-end coastal whites.</p>",
+    "fr": "<p>Las Pizarras est une ligne de Viña Errázuriz consacrée au <strong>chardonnay</strong> et au pinot noir de climat frais, et compte parmi les vins qui ont révélé le potentiel de l’<strong>Aconcagua Costa</strong>, la frange occidentale de la vallée de l’Aconcagua plantée au cours des premières décennies du XXIe siècle, à quelques kilomètres de l’océan Pacifique.</p><p>Son nom vient des sols d’<strong>ardoise</strong> et de schiste de certains vignobles de la zone, pauvres et bien drainés, qui limitent le rendement des ceps. L’influence maritime, avec brouillards matinaux et brises fraîches, prolonge la maturation et préserve l’acidité. Le raisin est vendangé à la main et le vin est fermenté et élevé en barriques de chêne français, avec un usage attentif du bois pour ne pas masquer l’expression du vignoble. Il en résulte un chardonnay tendu et précis, aux fruits d’agrumes, aux notes de pierre à fusil et à la salinité marquée, capable d’évoluer plusieurs années en bouteille. C’est un bon exemple des grands blancs côtiers chiliens.</p>",
+    "it": "<p>Las Pizarras è una linea di Viña Errázuriz dedicata allo <strong>Chardonnay</strong> e al Pinot Nero da clima fresco, ed è tra i vini che hanno rivelato il potenziale dell’<strong>Aconcagua Costa</strong>, la fascia occidentale della valle dell’Aconcagua piantata nei primi decenni del XXI secolo, a pochi chilometri dall’oceano Pacifico.</p><p>Il nome deriva dai suoli di <strong>ardesia</strong> e scisto di alcuni vigneti della zona, poveri e ben drenati, che limitano la resa delle viti. L’influenza marina, con nebbie mattutine e brezze fresche, prolunga la maturazione e preserva l’acidità. L’uva è vendemmiata a mano e il vino fermenta e affina in barrique di rovere francese, con un uso attento del legno per non coprire l’espressione del vigneto. Il risultato è uno Chardonnay teso e preciso, con frutta agrumata, note di pietra focaia e una marcata sapidità, capace di evolvere per diversi anni in bottiglia. È un buon esempio dei grandi bianchi costieri cileni.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido brillante. Limón, pomelo, manzana verde, notas de pedernal y avellana. Boca tensa y salina, de acidez viva y final largo.",
+    "en": "Bright pale yellow. Lemon, grapefruit, green apple, notes of flint and hazelnut. Taut, saline palate with lively acidity and a long finish.",
+    "fr": "Jaune pâle brillant. Citron, pamplemousse, pomme verte, notes de pierre à fusil et de noisette. Bouche tendue et saline, acidité vive et finale longue.",
+    "it": "Giallo paglierino brillante. Limone, pompelmo, mela verde, note di pietra focaia e nocciola. Bocca tesa e sapida, di acidità vivace e finale lungo."
+  },
+  "pairing": {
+    "es": "Pescados a la plancha, marisco, ceviche, aves en salsa cremosa, quesos de pasta blanda",
+    "en": "Grilled fish, shellfish, ceviche, poultry in creamy sauce, soft cheeses",
+    "fr": "Poissons à la plancha, fruits de mer, ceviche, volailles à la crème, fromages à pâte molle",
+    "it": "Pesce alla piastra, frutti di mare, ceviche, pollame in salsa cremosa, formaggi a pasta molle"
+  },
+  "serve": {
+    "es": "10-12 °C, copa amplia de vino blanco",
+    "en": "10-12 °C, large white wine glass",
+    "fr": "10-12 °C, grand verre à vin blanc",
+    "it": "10-12 °C, calice ampio da vino bianco"
+  },
+  "search": "Errázuriz Las Pizarras Chardonnay Aconcagua Costa"
+}

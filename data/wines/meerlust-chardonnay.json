@@ -1,0 +1,43 @@
+{
+  "slug": "meerlust-chardonnay",
+  "name": "Meerlust Chardonnay",
+  "winery": "meerlust",
+  "region": "stellenbosch",
+  "country": "sudafrica",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Chardonnay de Meerlust, finca histórica de Stellenbosch, elaborado con uvas de viñedos cercanos a False Bay y fermentado en barrica.",
+    "en": "Chardonnay from Meerlust, a historic Stellenbosch estate, made from vineyards near False Bay and fermented in barrel.",
+    "fr": "Chardonnay de Meerlust, domaine historique de Stellenbosch, élaboré à partir de vignes proches de False Bay et fermenté en barrique.",
+    "it": "Chardonnay di Meerlust, storica tenuta di Stellenbosch, prodotto con uve di vigneti vicini a False Bay e fermentato in barrique."
+  },
+  "body": {
+    "es": "<p>Aunque Meerlust es conocida sobre todo por sus tintos, su Chardonnay se ha convertido en uno de los blancos más apreciados de la finca. Las uvas proceden de viñedos situados en la parte sur del distrito de Stellenbosch, a pocos kilómetros de la bahía de False Bay, cuyas brisas frescas moderan las temperaturas durante la maduración y ayudan a conservar la acidez.</p><p>El vino fermenta en barricas de roble francés, una parte de ellas nuevas, y se cría durante varios meses sobre sus lías, con removidos periódicos que aportan textura y complejidad. Se busca un equilibrio entre la riqueza que da la crianza en madera y la frescura propia del clima de la finca, en línea con el estilo clásico y contenido de la casa. Es un blanco de cuerpo medio, que puede disfrutarse en sus primeros años o guardarse algunos años más para que desarrolle notas de frutos secos.</p>",
+    "en": "<p>Although Meerlust is best known for its reds, its Chardonnay has become one of the estate’s most highly regarded whites. The grapes come from vineyards in the southern part of the Stellenbosch district, a few kilometres from False Bay, whose cool breezes moderate temperatures during ripening and help preserve acidity.</p><p>The wine is fermented in French oak barrels, some of them new, and aged for several months on its lees, with periodic stirring that adds texture and complexity. The aim is a balance between the richness that comes from oak ageing and the freshness of the estate’s climate, in keeping with the house’s classic, restrained style. It is a medium-bodied white that can be enjoyed in its first years or kept a few years longer to develop nutty notes.</p>",
+    "fr": "<p>Bien que Meerlust soit surtout connu pour ses rouges, son chardonnay est devenu l’un des blancs les plus appréciés du domaine. Les raisins proviennent de vignes situées dans la partie sud du district de Stellenbosch, à quelques kilomètres de False Bay, dont les brises fraîches modèrent les températures pendant la maturation et aident à préserver l’acidité.</p><p>Le vin fermente en barriques de chêne français, en partie neuves, et il est élevé plusieurs mois sur lies, avec des bâtonnages réguliers qui apportent texture et complexité. On recherche un équilibre entre la richesse apportée par l’élevage sous bois et la fraîcheur propre au climat du domaine, dans la lignée du style classique et retenu de la maison. C’est un blanc de corps moyen, qui peut s’apprécier dans ses premières années ou se garder quelques années de plus pour développer des notes de fruits secs.</p>",
+    "it": "<p>Anche se Meerlust è nota soprattutto per i suoi rossi, il suo Chardonnay è diventato uno dei bianchi più apprezzati della tenuta. Le uve provengono da vigneti situati nella parte meridionale del distretto di Stellenbosch, a pochi chilometri da False Bay, le cui brezze fresche moderano le temperature durante la maturazione e aiutano a conservare l’acidità.</p><p>Il vino fermenta in barrique di rovere francese, in parte nuove, e affina per diversi mesi sulle fecce, con bâtonnage periodici che apportano struttura e complessità. Si ricerca un equilibrio tra la ricchezza data dall’affinamento in legno e la freschezza propria del clima della tenuta, in linea con lo stile classico e misurato della casa. È un bianco di medio corpo, che si può gustare nei primi anni o conservare qualche anno in più perché sviluppi note di frutta secca.</p>"
+  },
+  "tasting": {
+    "es": "Cítricos, manzana amarilla y melocotón, con notas de avellana, mantequilla y un ligero tostado. Boca equilibrada, cremosa y fresca.",
+    "en": "Citrus, yellow apple and peach, with notes of hazelnut, butter and light toast. Balanced, creamy and fresh palate.",
+    "fr": "Agrumes, pomme jaune et pêche, avec des notes de noisette, de beurre et un léger grillé. Bouche équilibrée, crémeuse et fraîche.",
+    "it": "Agrumi, mela gialla e pesca, con note di nocciola, burro e un leggero tostato. Bocca equilibrata, cremosa e fresca."
+  },
+  "pairing": {
+    "es": "Pescados al horno, langostinos, pollo en salsa, pastas cremosas",
+    "en": "Baked fish, prawns, chicken in sauce, creamy pasta",
+    "fr": "Poissons au four, gambas, poulet en sauce, pâtes à la crème",
+    "it": "Pesce al forno, gamberoni, pollo in salsa, paste cremose"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de blanco amplia",
+    "en": "10-12 °C, large white wine glass",
+    "fr": "10-12 °C, grand verre à vin blanc",
+    "it": "10-12 °C, calice da bianco ampio"
+  },
+  "search": "Meerlust Chardonnay Stellenbosch"
+}
