@@ -108,6 +108,13 @@ def write(path, content):
 
 SITEMAP = []
 
+SISTERS = ['classicapedia.com', 'pinacopedia.com', 'filopedia.com', 'cinematopedia.com', 'medicapedia.org', 'tenispedia.com', 'newtonpedia.com', 'culinapedia.com', 'mythicapedia.com', 'zodiacopedia.com', 'ludicopedia.com', 'catdogpedia.com']
+SISTERS_EN = set(SISTERS) - {'ludicopedia.com'}
+def sister_sites(l):
+    tit = {'es': 'Webs hermanas', 'en': 'Sister sites', 'fr': 'Sites frères', 'it': 'Siti fratelli'}[l]
+    links = ' · '.join('<a href="https://%s/%s">%s</a>' % (d, 'en/' if l == 'en' and d in SISTERS_EN else '', d) for d in SISTERS)
+    return tit + ': ' + links
+
 def layout(l, title, desc, body, alt, active=''):
     """alt: dict lang->path for hreflang"""
     SITEMAP.append(alt)
@@ -156,6 +163,7 @@ def layout(l, title, desc, body, alt, active=''):
 <div><h4>{s('f_learn', l)}</h4>{foot_learn}</div>
 <div><h4>{s('f_project', l)}</h4>{foot_proj}</div>
 </div>
+<p class="webs-hermanas">{sister_sites(l)}</p>
 <div class="disclaimer">{s('moderation', l)} · {s('aff_short', l)} {s('amazon_note', l)} · © WorldWinePedia</div>
 </footer>
 <div id="agegate" role="dialog" aria-modal="true" aria-labelledby="ageq"><div class="in">
