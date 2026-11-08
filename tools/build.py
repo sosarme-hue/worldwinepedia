@@ -178,13 +178,13 @@ def crumbs(l, items):
 
 BOTTLE = {'tinto': 'redb', 'blanco': 'whiteb', 'rosado': 'roseb', 'espumoso': 'sparkb', 'dulce': 'sweetb', 'generoso': 'sweetb'}
 
-def wine_card(l, w):
+def wine_card(l, w, photo=True):
     reg = R.get(w.get('region'), {})
     win = B.get(w.get('winery'), {})
     label = re.split(r'[ \-/]', T(reg.get('name'), l) or '')[0][:11]
     txt = (w['name'] + ' ' + win.get('name', '') + ' ' + T(reg.get('name'), l) + ' ' + ' '.join(T(G[g]['name'], l) for g in w.get('grapes', []) if g in G)).lower()
     grapes = ', '.join(T(G[g]['name'], l) for g in w.get('grapes', []) if g in G)
-    wm = WM.get('wines', {}).get(w['slug'])
+    wm = WM.get('wines', {}).get(w['slug']) if photo else None
     bottle_img = f'<img class="realbottle" src="{wm["src"]}" alt="{e(wm.get("alt", ""))}" loading="lazy">' if wm else f'<div class="bottle {BOTTLE.get(w.get("type"), "")}" data-label="{e(label)}"></div>'
     return f'''<article class="wine" data-item data-type="{w.get('type','')}" data-region="{w.get('region','')}" data-text="{e(txt)}">
 <div class="bottlearea"><span class="label">{e(T(S['type1'].get(w.get('type'), {}), l)).upper()}</span>{bottle_img}</div>
@@ -236,7 +236,7 @@ def home(l):
     for w in V.values():
         if len(pick) >= 8: break
         if w not in pick: pick.append(w)
-    wines = ''.join(wine_card(l, w) for w in pick[:8])
+    wines = ''.join(wine_card(l, w, photo=False) for w in pick[:8])
     winer = ''.join(f'<a class="card" href="{url(l, "wineries", b["slug"])}"><h3>{e(b["name"])}</h3><p>{e(T(R.get(b.get("region"), {}).get("name"), l))}</p></a>' for b in list(B.values())[:4])
     cult = ''
     for sec in ('cata', 'maridaje', 'historia'):
