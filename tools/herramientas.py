@@ -244,7 +244,8 @@ def map_page(l):
           'L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:12,attribution:"© <a href=\\"https://www.openstreetmap.org/copyright\\">OpenStreetMap</a>"}).addTo(m);'
           'var mk=D.p.map(function(p){return L.circleMarker([p[4],p[5]],{radius:6,color:"#5c1f37",weight:1.5,fillColor:"#7b2a49",fillOpacity:.85}).bindPopup("<a href=\\""+p[3]+"\\"><strong>"+p[1].replace(/</g,"&lt;")+"</strong></a>").bindTooltip(p[1]).addTo(m)});'
           'var sel=document.getElementById("mapc"),lst=document.querySelectorAll(".maplist>div");'
-          'function go(c){if(c&&D.c[c]){var z=D.c[c];m.setView([z[0],z[1]],z[2])}else m.fitBounds(L.featureGroup(mk).getBounds(),{padding:[20,20]});'
+          'function go(c){var z=c&&D.c[c],b=[];if(z){D.p.forEach(function(p){if(p[2]===c&&Math.abs(p[4]-z[0])<9&&Math.abs(p[5]-z[1])<14)b.push([p[4],p[5]])})}'
+          'if(b.length>1)m.fitBounds(b,{padding:[30,30],maxZoom:8});else if(z)m.setView([z[0],z[1]],z[2]);else m.fitBounds(L.featureGroup(mk).getBounds(),{padding:[20,20]});'
           'lst.forEach(function(d){d.style.display=!c||d.dataset.c===c?"":"none"});history.replaceState(null,"","#"+(c||""))}'
           'sel.addEventListener("change",function(){go(sel.value)});var h=location.hash.slice(1);if(h&&D.c[h])sel.value=h;go(sel.value)})();</script>')
     inner = (f'<div class="mapbar"><select id="mapc" aria-label="{tx("countries", l)}">{copts}</select><small style="color:#68736c">{tx("map_note", l)}</small></div>'
