@@ -115,6 +115,9 @@ def sister_sites(l):
     links = ' · '.join('<a href="https://%s/%s">%s</a>' % (d, 'en/' if l == 'en' and d in SISTERS_EN else '', d) for d in SISTERS)
     return tit + ': ' + links
 
+import hashlib as _h
+ASSET_V = {k: _h.md5(open(os.path.join(ROOT, 'static', f), 'rb').read()).hexdigest()[:8] for k, f in (('css', 'css/style.css'), ('js', 'js/site.js'))}
+
 def layout(l, title, desc, body, alt, active=''):
     """alt: dict lang->path for hreflang"""
     SITEMAP.append(alt)
@@ -142,7 +145,7 @@ def layout(l, title, desc, body, alt, active=''):
 {links}
 <meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(desc[:300])}"><meta property="og:type" content="website"><meta property="og:locale" content="{OG[l]}"><meta property="og:image" content="{DOMAIN}/img/hero.jpg">
 <link rel="icon" href="/img/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/css/style.css">
+<link rel="stylesheet" href="/css/style.css?v={ASSET_V['css']}">
 </head>
 <body>
 <div class="top"><span>{s('topbar', l)}</span><span>{s('topbar2', l)}</span></div>
@@ -172,7 +175,7 @@ def layout(l, title, desc, body, alt, active=''):
 <button type="button" class="yes">{s('age_yes', l)}</button><button type="button" class="no">{s('age_no', l)}</button>
 <div class="ln">{agelinks}</div></div></div>
 <script>window.WWP={{lang:"{l}",base:"{l}/",t:{t_js},stores:{stores_js}}};</script>
-<script src="/js/site.js" defer></script>
+<script src="/js/site.js?v={ASSET_V['js']}" defer></script>
 </body>
 </html>'''
 
@@ -427,7 +430,7 @@ def root_index():
     links = ''.join(f'<a href="/{x}/" hreflang="{x}" lang="{x}">{LANG_NAMES[x]}</a>' for x in LANGS)
     return f'''<!doctype html><html lang="en" translate="no"><head><meta charset="utf-8"><meta name="google" content="notranslate"><meta name="viewport" content="width=device-width,initial-scale=1"><title>WorldWinePedia · The world wine encyclopedia</title>
 {''.join(f'<link rel="alternate" hreflang="{x}" href="{DOMAIN}/{x}/">' for x in LANGS)}<link rel="alternate" hreflang="x-default" href="{DOMAIN}/">
-<link rel="stylesheet" href="/css/style.css"><script>(function(){{var l=(navigator.language||'en').slice(0,2);if(['es','en','fr','it'].indexOf(l)<0)l='en';var s=null;try{{s=localStorage.getItem('wwp-lang')}}catch(e){{}};location.replace((s||l)+'/'+(window.PV?'index.html':''));}})();</script></head>
+<link rel="stylesheet" href="/css/style.css?v={ASSET_V['css']}"><script>(function(){{var l=(navigator.language||'en').slice(0,2);if(['es','en','fr','it'].indexOf(l)<0)l='en';var s=null;try{{s=localStorage.getItem('wwp-lang')}}catch(e){{}};location.replace((s||l)+'/'+(window.PV?'index.html':''));}})();</script></head>
 <body style="display:flex;align-items:center;justify-content:center;min-height:100vh"><div style="text-align:center"><div class="logo">World<b>Wine</b>pedia</div><p class="langs" style="display:flex;gap:16px;justify-content:center">{links}</p></div></body></html>'''
 
 def build():
