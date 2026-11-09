@@ -65,3 +65,5 @@ footer .webs-hermanas a{display:inline;padding:0;margin:0}.search input{font-siz
 @media(max-width:850px){nav{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;overflow:visible;font-size:14px;padding:10px 0}nav a{display:block;text-align:center;padding:8px 4px;border:1px solid var(--line);border-radius:3px;background:white;white-space:normal;line-height:1.2}}
 @media(max-width:850px){nav a{display:flex;align-items:center;justify-content:center;font-size:14px;padding:7px 4px;min-height:38px}}
 @media(max-width:850px){nav{grid-template-columns:repeat(4,1fr);gap:5px}nav a{font-size:13px;padding:6px 3px}nav a:last-child{grid-column:span 2}}
+@media(max-width:850px){.detail,.three,.two,.science{grid-template-columns:minmax(0,1fr)}.grid>*,.listgrid>*,.detail>*{min-width:0}.listgrid,.grid.three:has(>.country),.grid.four:has(>.card){grid-template-columns:repeat(2,minmax(0,1fr))}.card h3,.wine h3,.detail h1,.prose{overflow-wrap:anywhere}.cmp{display:block;overflow-x:auto;max-width:100%}html,body{overflow-x:clip}}
+@media(max-width:850px){.shop{flex-wrap:wrap}.shop>*{min-width:0}.shop a{white-space:normal;text-align:center}}
