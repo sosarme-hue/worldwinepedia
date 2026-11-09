@@ -1,0 +1,638 @@
+<!doctype html>
+<html lang="en" translate="no">
+<head>
+<meta charset="utf-8">
+<meta name="google" content="notranslate">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Food and wine pairing · WorldWinePedia</title>
+<meta name="description" content="Choose what you are eating and we suggest wine styles, grapes and specific wines from the encyclopedia.">
+<link rel="canonical" href="https://worldwinepedia.com/en/tools/food-pairing/">
+<link rel="alternate" hreflang="es" href="https://worldwinepedia.com/es/herramientas/maridajes/"><link rel="alternate" hreflang="en" href="https://worldwinepedia.com/en/tools/food-pairing/"><link rel="alternate" hreflang="fr" href="https://worldwinepedia.com/fr/outils/accords-mets-vins/"><link rel="alternate" hreflang="it" href="https://worldwinepedia.com/it/strumenti/abbinamenti/"><link rel="alternate" hreflang="x-default" href="https://worldwinepedia.com/en/tools/food-pairing/">
+<meta property="og:title" content="Food and wine pairing · WorldWinePedia"><meta property="og:description" content="Choose what you are eating and we suggest wine styles, grapes and specific wines from the encyclopedia."><meta property="og:type" content="website"><meta property="og:locale" content="en_GB"><meta property="og:image" content="https://worldwinepedia.com/img/hero.jpg">
+<link rel="icon" href="../../../img/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../../css/style.css?v=9ad51a74">
+</head>
+<body>
+<div class="top"><span>THE WORLD OF WINE, CONNECTED</span><span>LEARN · EXPLORE · CHOOSE</span></div>
+<header>
+<div class="brand">
+<a href="../../../en/" class="logo" aria-label="WorldWinePedia"><img class="mark" src="../../../img/logo.svg" alt="" width="48" height="48">World<b>Wine</b>pedia</a>
+<div class="util"><span class="langs"><a href="../../../es/herramientas/maridajes/" hreflang="es" lang="es">ES</a><a href="../../../en/tools/food-pairing/" hreflang="en" lang="en" class="on">EN</a><a href="../../../fr/outils/accords-mets-vins/" hreflang="fr" lang="fr">FR</a><a href="../../../it/strumenti/abbinamenti/" hreflang="it" lang="it">IT</a></span></div>
+</div>
+<div class="tag">The world wine encyclopedia</div>
+<nav aria-label="Menu"><a href="../../../en/wines/">Wines</a><a href="../../../en/countries/">Countries & regions</a><a href="../../../en/grapes/">Grapes</a><a href="../../../en/wineries/">Wineries</a><a href="../../../en/learn/">Learn</a><a href="../../../en/glossary/">Glossary</a><a href="../../../en/tools/" aria-current="page">Tools</a></nav>
+<form class="hsearch" role="search" action="../../../en/search/"><input type="search" name="q" aria-label="Search" placeholder="Search a wine, grape, winery, region…"><button>Search</button></form>
+</header>
+<style>
+.toolgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px;margin-top:20px}
+.toolcard{display:block;background:white;border:1px solid var(--line);padding:22px;color:var(--ink);text-decoration:none}
+.toolcard b{display:block;font:24px Georgia;margin:6px 0}.toolcard span{font-size:14px;color:#56635c}.toolcard i{font-style:normal;font-size:28px}
+.dishes{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0}
+.dishes button{border:1px solid var(--line);background:white;padding:9px 13px;font-size:15px;border-radius:999px;cursor:pointer;color:var(--ink)}
+.dishes button[aria-pressed=true]{background:var(--wine);border-color:var(--wine);color:white}
+.pairbox{display:none}.pairbox.on{display:block}
+.pairbox h2{margin-top:6px}.pairbox p a{color:var(--wine)}.pairbox .note{font-size:12px;color:#68736c}
+.cmp{width:100%;border-collapse:collapse;background:white;margin-top:16px;font-size:14px}
+.cmp th,.cmp td{border:1px solid var(--line);padding:10px;vertical-align:top;text-align:left}
+.cmp th{background:#f0f1eb;width:18%;font-weight:600}.cmp td a{color:var(--wine)}
+.cmpsel{display:flex;flex-wrap:wrap;gap:10px;margin:16px 0}.cmpsel select{padding:10px;font-size:15px;border:1px solid var(--line);background:white;min-width:200px;flex:1}
+#map{height:560px;border:1px solid var(--line);margin-top:14px;background:#e7eadf}
+.mapbar{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-top:14px}.mapbar select{padding:10px;font-size:15px;border:1px solid var(--line);background:white;min-width:220px}
+.maplist{columns:3 220px;margin-top:16px;font-size:14px}.maplist a{display:block;color:var(--wine);padding:2px 0}
+@media(max-width:850px){#map{height:420px}.cmp{font-size:12px}.cmp th,.cmp td{padding:6px}.dishes button{font-size:14px;padding:8px 11px}}
+</style><main class="page"><div class="crumbs"><a href="../../../en/">Home</a> › <a href="../../../en/tools/">Tools</a> › Food and wine pairing</div><h1 style="font:clamp(34px,4vw,50px)/1.1 Georgia,serif;margin:6px 0">Food and wine pairing</h1><p class="lead">Choose what you are eating and we suggest wine styles, grapes and specific wines from the encyclopedia.</p><h2 style="font-size:22px;margin-top:10px">What are you eating?</h2><div class="dishes"><button type="button" data-k="roja" aria-pressed="true">🥩 Red meat and game</button><button type="button" data-k="cerdo" aria-pressed="false">🍖 Pork and cured meats</button><button type="button" data-k="ave" aria-pressed="false">🍗 Poultry</button><button type="button" data-k="pescado" aria-pressed="false">🐟 Fish</button><button type="button" data-k="marisco" aria-pressed="false">🦐 Seafood</button><button type="button" data-k="arroz" aria-pressed="false">🥘 Rice dishes and paella</button><button type="button" data-k="italiano" aria-pressed="false">🍝 Pasta and pizza</button><button type="button" data-k="verdura" aria-pressed="false">🥗 Vegetables, salads and pulses</button><button type="button" data-k="frito" aria-pressed="false">🍤 Fried food and tapas</button><button type="button" data-k="especiado" aria-pressed="false">🌶️ Spicy and Asian food</button><button type="button" data-k="queso" aria-pressed="false">🧀 Cheese</button><button type="button" data-k="dulce" aria-pressed="false">🍰 Desserts</button></div><section class="pairbox on" id="p-roja" style="padding:0"><h2>🥩 Red meat and game</h2><p class="lead" style="font-size:17px">Full-bodied reds with some oak ageing: their tannins soften against the protein and fat of the meat. Structured reds for roasts and game; a medium-bodied red also works with a grilled steak.</p><p><strong>Grapes that work well:</strong> <a href="../../../en/grapes/tempranillo/">Tempranillo</a> · <a href="../../../en/grapes/cabernet-sauvignon/">Cabernet Sauvignon</a> · <a href="../../../en/grapes/syrah/">Syrah (Shiraz)</a> · <a href="../../../en/grapes/nebbiolo/">Nebbiolo</a> · <a href="../../../en/grapes/malbec/">Malbec</a> · <a href="../../../en/grapes/monastrell/">Monastrell (Mourvèdre)</a></p><h3 style="margin-top:22px">Wines from the encyclopedia to try</h3><div class="listgrid"><article class="wine" data-item data-type="tinto" data-region="ribera-del-duero" data-text="aalto bodegas y viñedos aalto ribera del duero tempranillo">
+<div class="bottlearea"><span class="label">RED</span><div class="bottle redb" data-label="Ribera"></div></div>
+<p class="meta">Bodegas y Viñedos Aalto · Ribera del Duero</p>
+<h3>Aalto</h3>
+<p class="meta">Tempranillo</p>
+<a class="btn" href="../../../en/wines/aalto/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="tinto" data-region="None" data-text="abadía retuerta selección especial abadía retuerta  tempranillo cabernet sauvignon syrah (shiraz)">
+<div class="bottlearea"><span class="label">RED</span><div class="bottle redb" data-label=""></div></div>
+<p class="meta">Abadía Retuerta · </p>
+<h3>Abadía Retuerta Selección Especial</h3>
+<p class="meta">Tempranillo, Cabernet Sauvignon, Syrah (Shiraz)</p>
+<a class="btn" href="../../../en/wines/abadia-retuerta-seleccion-especial/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="tinto" data-region="rioja" data-text="artadi viña el pisón artadi rioja tempranillo">
+<div class="bottlearea"><span class="label">RED</span><div class="bottle redb" data-label="Rioja"></div></div>
+<p class="meta">Artadi · Rioja</p>
+<h3>Artadi Viña El Pisón</h3>
+<p class="meta">Tempranillo</p>
+<a class="btn" href="../../../en/wines/artadi-vina-el-pison/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="tinto" data-region="douro" data-text="barca velha sogrape douro touriga franca touriga nacional tempranillo">
+<div class="bottlearea"><span class="label">RED</span><div class="bottle redb" data-label="Douro"></div></div>
+<p class="meta">Sogrape · Douro</p>
+<h3>Barca Velha</h3>
+<p class="meta">Touriga Franca, Touriga Nacional, Tempranillo</p>
+<a class="btn" href="../../../en/wines/barca-velha/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="tinto" data-region="somontano" data-text="blecua viñas del vero somontano cabernet sauvignon merlot tempranillo grenache">
+<div class="bottlearea"><span class="label">RED</span><div class="bottle redb" data-label="Somontano"></div></div>
+<p class="meta">Viñas del Vero · Somontano</p>
+<h3>Blecua</h3>
+<p class="meta">Cabernet Sauvignon, Merlot, Tempranillo, Grenache</p>
+<a class="btn" href="../../../en/wines/blecua/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="tinto" data-region="campo-de-borja" data-text="borsao selección tinto bodegas borsao campo de borja grenache syrah (shiraz) tempranillo">
+<div class="bottlearea"><span class="label">RED</span><div class="bottle redb" data-label="Campo"></div></div>
+<p class="meta">Bodegas Borsao · Campo de Borja</p>
+<h3>Borsao Selección Tinto</h3>
+<p class="meta">Grenache, Syrah (Shiraz), Tempranillo</p>
+<a class="btn" href="../../../en/wines/borsao-seleccion/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="tinto" data-region="alentejo" data-text="cartuxa colheita tinto fundação eugénio de almeida alentejo tempranillo alicante bouschet">
+<div class="bottlearea"><span class="label">RED</span><div class="bottle redb" data-label="Alentejo"></div></div>
+<p class="meta">Fundação Eugénio de Almeida · Alentejo</p>
+<h3>Cartuxa Colheita Tinto</h3>
+<p class="meta">Tempranillo, Alicante Bouschet</p>
+<a class="btn" href="../../../en/wines/cartuxa-colheita-tinto/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="tinto" data-region="toro" data-text="dehesa gago compañía de vinos telmo rodríguez toro tempranillo">
+<div class="bottlearea"><span class="label">RED</span><div class="bottle redb" data-label="Toro"></div></div>
+<p class="meta">Compañía de Vinos Telmo Rodríguez · Toro</p>
+<h3>Dehesa Gago</h3>
+<p class="meta">Tempranillo</p>
+<a class="btn" href="../../../en/wines/dehesa-gago/">See profile & where to buy ↗</a>
+</article></div><p style="margin-top:16px"><a class="textlink" href="https://culinapedia.com/en/" rel="noopener">Dishes of this kind on Culinapedia ↗</a></p><p class="note">A general suggestion: the best pairing is the one you enjoy. If you drink alcohol, do so in moderation.</p></section><section class="pairbox" id="p-cerdo" style="padding:0"><h2>🍖 Pork and cured meats</h2><p class="lead" style="font-size:17px">Light, fruity reds or a rosé, which match the fat without overpowering it. With Iberian ham, a fino or manzanilla also works very well.</p><p><strong>Grapes that work well:</strong> <a href="../../../en/grapes/garnacha/">Grenache</a> · <a href="../../../en/grapes/pinot-noir/">Pinot Noir</a> · <a href="../../../en/grapes/mencia/">Mencía</a> · <a href="../../../en/grapes/tempranillo/">Tempranillo</a></p><h3 style="margin-top:22px">Wines from the encyclopedia to try</h3><div class="listgrid"><article class="wine" data-item data-type="tinto" data-region="montsant" data-text="acústic acústic celler montsant grenache carignan">
+<div class="bottlearea"><span class="label">RED</span><div class="bottle redb" data-label="Montsant"></div></div>
+<p class="meta">Acústic Celler · Montsant</p>
+<h3>Acústic</h3>
+<p class="meta">Grenache, Carignan</p>
+<a class="btn" href="../../../en/wines/acustic-tinto/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="tinto" data-region="campo-de-borja" data-text="alto moncayo bodegas alto moncayo campo de borja grenache">
+<div class="bottlearea"><span class="label">RED</span><div class="bottle redb" data-label="Campo"></div></div>
+<p class="meta">Bodegas Alto Moncayo · Campo de Borja</p>
+<h3>Alto Moncayo</h3>
+<p class="meta">Grenache</p>
+<a class="btn" href="../../../en/wines/alto-moncayo-garnacha/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="tinto" data-region="calatayud" data-text="atteca bodegas ateca calatayud grenache">
+<div class="bottlearea"><span class="label">RED</span><div class="bottle redb" data-label="Calatayud"></div></div>
+<p class="meta">Bodegas Ateca · Calatayud</p>
+<h3>Atteca</h3>
+<p class="meta">Grenache</p>
+<a class="btn" href="../../../en/wines/atteca/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="rosado" data-region="provence" data-text="by.ott rosé domaines ott provence grenache cinsault syrah (shiraz)">
+<div class="bottlearea"><span class="label">ROSÉ</span><div class="bottle roseb" data-label="Provence"></div></div>
+<p class="meta">Domaines Ott · Provence</p>
+<h3>BY.OTT Rosé</h3>
+<p class="meta">Grenache, Cinsault, Syrah (Shiraz)</p>
+<a class="btn" href="../../../en/wines/by-ott-rose/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="tinto" data-region="cotes-du-rhone" data-text="belleruche côtes du rhône rouge m. chapoutier côtes du rhône grenache syrah (shiraz)">
+<div class="bottlearea"><span class="label">RED</span><div class="bottle redb" data-label="Côtes"></div></div>
+<p class="meta">M. Chapoutier · Côtes du Rhône</p>
+<h3>Belleruche Côtes du Rhône Rouge</h3>
+<p class="meta">Grenache, Syrah (Shiraz)</p>
+<a class="btn" href="../../../en/wines/chapoutier-belleruche-rouge/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="tinto" data-region="rioja" data-text="beronia crianza bodegas beronia rioja tempranillo grenache carignan">
+<div class="bottlearea"><span class="label">RED</span><div class="bottle redb" data-label="Rioja"></div></div>
+<p class="meta">Bodegas Beronia · Rioja</p>
+<h3>Beronia Crianza</h3>
+<p class="meta">Tempranillo, Grenache, Carignan</p>
+<a class="btn" href="../../../en/wines/beronia-crianza/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="tinto" data-region="carinena" data-text="beso de vino old vine garnacha grandes vinos y viñedos cariñena grenache">
+<div class="bottlearea"><span class="label">RED</span><div class="bottle redb" data-label="Cariñena"></div></div>
+<p class="meta">Grandes Vinos y Viñedos · Cariñena</p>
+<h3>Beso de Vino Old Vine Garnacha</h3>
+<p class="meta">Grenache</p>
+<a class="btn" href="../../../en/wines/beso-de-vino-garnacha/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="tinto" data-region="somontano" data-text="blecua viñas del vero somontano cabernet sauvignon merlot tempranillo grenache">
+<div class="bottlearea"><span class="label">RED</span><div class="bottle redb" data-label="Somontano"></div></div>
+<p class="meta">Viñas del Vero · Somontano</p>
+<h3>Blecua</h3>
+<p class="meta">Cabernet Sauvignon, Merlot, Tempranillo, Grenache</p>
+<a class="btn" href="../../../en/wines/blecua/">See profile & where to buy ↗</a>
+</article></div><p style="margin-top:16px"><a class="textlink" href="https://culinapedia.com/en/" rel="noopener">Dishes of this kind on Culinapedia ↗</a></p><p class="note">A general suggestion: the best pairing is the one you enjoy. If you drink alcohol, do so in moderation.</p></section><section class="pairbox" id="p-ave" style="padding:0"><h2>🍗 Poultry</h2><p class="lead" style="font-size:17px">Full-bodied whites or light reds. With roast chicken, an oaked Chardonnay or a Pinot Noir; with duck, a slightly more structured red.</p><p><strong>Grapes that work well:</strong> <a href="../../../en/grapes/chardonnay/">Chardonnay</a> · <a href="../../../en/grapes/pinot-noir/">Pinot Noir</a> · <a href="../../../en/grapes/godello/">Godello</a> · <a href="../../../en/grapes/garnacha/">Grenache</a></p><h3 style="margin-top:22px">Wines from the encyclopedia to try</h3><div class="listgrid"><article class="wine" data-item data-type="blanco" data-region="valle-de-uco" data-text="adrianna vineyard white bones chardonnay bodega catena zapata valle de uco chardonnay">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Valle"></div></div>
+<p class="meta">Bodega Catena Zapata · Valle de Uco</p>
+<h3>Adrianna Vineyard White Bones Chardonnay</h3>
+<p class="meta">Chardonnay</p>
+<a class="btn" href="../../../en/wines/catena-zapata-adrianna-white-bones-chardonnay/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="mendoza" data-text="alamos chardonnay bodega catena zapata mendoza chardonnay">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Mendoza"></div></div>
+<p class="meta">Bodega Catena Zapata · Mendoza</p>
+<h3>Alamos Chardonnay</h3>
+<p class="meta">Chardonnay</p>
+<a class="btn" href="../../../en/wines/alamos-chardonnay/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="bourgogne" data-text="albert bichot secret de famille bourgogne chardonnay maison albert bichot burgundy chardonnay">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Burgundy"></div></div>
+<p class="meta">Maison Albert Bichot · Burgundy</p>
+<h3>Albert Bichot Secret de Famille Bourgogne Chardonnay</h3>
+<p class="meta">Chardonnay</p>
+<a class="btn" href="../../../en/wines/albert-bichot-secret-de-famille-chardonnay/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="willamette-valley" data-text="arthur chardonnay domaine drouhin oregon willamette valley chardonnay">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Willamette"></div></div>
+<p class="meta">Domaine Drouhin Oregon · Willamette Valley</p>
+<h3>Arthur Chardonnay</h3>
+<p class="meta">Chardonnay</p>
+<a class="btn" href="../../../en/wines/domaine-drouhin-oregon-arthur-chardonnay/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="valle-de-la-bekaa" data-text="blanc de blancs château ksara bekaa valley chardonnay sauvignon blanc semillon">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Bekaa"></div></div>
+<p class="meta">Château Ksara · Bekaa Valley</p>
+<h3>Blanc de Blancs</h3>
+<p class="meta">Chardonnay, Sauvignon Blanc, Semillon</p>
+<a class="btn" href="../../../en/wines/ksara-blanc-de-blancs/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="judea" data-text="c blanc du castel domaine du castel judea (judean hills) chardonnay">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Judea"></div></div>
+<p class="meta">Domaine du Castel · Judea (Judean Hills)</p>
+<h3>C Blanc du Castel</h3>
+<p class="meta">Chardonnay</p>
+<a class="btn" href="../../../en/wines/castel-c-blanc-du-castel/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="napa-valley" data-text="cakebread cellars napa valley chardonnay cakebread cellars napa valley chardonnay">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Napa"></div></div>
+<p class="meta">Cakebread Cellars · Napa Valley</p>
+<h3>Cakebread Cellars Napa Valley Chardonnay</h3>
+<p class="meta">Chardonnay</p>
+<a class="btn" href="../../../en/wines/cakebread-chardonnay/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="None" data-text="casa madero chardonnay casa madero  chardonnay">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label=""></div></div>
+<p class="meta">Casa Madero · </p>
+<h3>Casa Madero Chardonnay</h3>
+<p class="meta">Chardonnay</p>
+<a class="btn" href="../../../en/wines/casa-madero-chardonnay/">See profile & where to buy ↗</a>
+</article></div><p style="margin-top:16px"><a class="textlink" href="https://culinapedia.com/en/" rel="noopener">Dishes of this kind on Culinapedia ↗</a></p><p class="note">A general suggestion: the best pairing is the one you enjoy. If you drink alcohol, do so in moderation.</p></section><section class="pairbox" id="p-pescado" style="padding:0"><h2>🐟 Fish</h2><p class="lead" style="font-size:17px">Dry whites. Fresh whites with delicate white fish; slightly fuller whites or a rosé with oily fish (salmon, tuna) or fish in sauce.</p><p><strong>Grapes that work well:</strong> <a href="../../../en/grapes/albarino/">Albariño</a> · <a href="../../../en/grapes/verdejo/">Verdejo</a> · <a href="../../../en/grapes/chardonnay/">Chardonnay</a> · <a href="../../../en/grapes/godello/">Godello</a> · <a href="../../../en/grapes/sauvignon-blanc/">Sauvignon Blanc</a></p><h3 style="margin-top:22px">Wines from the encyclopedia to try</h3><div class="listgrid"><article class="wine" data-item data-type="blanco" data-region="rias-baixas" data-text="abadía de san campio bodegas terras gauda rías baixas albariño">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Rías"></div></div>
+<p class="meta">Bodegas Terras Gauda · Rías Baixas</p>
+<h3>Abadía de San Campio</h3>
+<p class="meta">Albariño</p>
+<a class="btn" href="../../../en/wines/abadia-de-san-campio/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="vinho-verde" data-text="aveleda alvarinho aveleda vinho verde albariño">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Vinho"></div></div>
+<p class="meta">Aveleda · Vinho Verde</p>
+<h3>Aveleda Alvarinho</h3>
+<p class="meta">Albariño</p>
+<a class="btn" href="../../../en/wines/aveleda-alvarinho/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="None" data-text="bouza albariño bodega bouza  albariño">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label=""></div></div>
+<p class="meta">Bodega Bouza · </p>
+<h3>Bouza Albariño</h3>
+<p class="meta">Albariño</p>
+<a class="btn" href="../../../en/wines/bouza-albarino/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="maldonado" data-text="garzón albariño reserva bodega garzón maldonado albariño">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Maldonado"></div></div>
+<p class="meta">Bodega Garzón · Maldonado</p>
+<h3>Garzón Albariño Reserva</h3>
+<p class="meta">Albariño</p>
+<a class="btn" href="../../../en/wines/garzon-albarino-reserva/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="rueda" data-text="basa compañía de vinos telmo rodríguez rueda verdejo macabeo (viura) sauvignon blanc">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Rueda"></div></div>
+<p class="meta">Compañía de Vinos Telmo Rodríguez · Rueda</p>
+<h3>Basa</h3>
+<p class="meta">Verdejo, Macabeo (Viura), Sauvignon Blanc</p>
+<a class="btn" href="../../../en/wines/basa/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="valle-de-uco" data-text="adrianna vineyard white bones chardonnay bodega catena zapata valle de uco chardonnay">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Valle"></div></div>
+<p class="meta">Bodega Catena Zapata · Valle de Uco</p>
+<h3>Adrianna Vineyard White Bones Chardonnay</h3>
+<p class="meta">Chardonnay</p>
+<a class="btn" href="../../../en/wines/catena-zapata-adrianna-white-bones-chardonnay/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="mendoza" data-text="alamos chardonnay bodega catena zapata mendoza chardonnay">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Mendoza"></div></div>
+<p class="meta">Bodega Catena Zapata · Mendoza</p>
+<h3>Alamos Chardonnay</h3>
+<p class="meta">Chardonnay</p>
+<a class="btn" href="../../../en/wines/alamos-chardonnay/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="bourgogne" data-text="albert bichot secret de famille bourgogne chardonnay maison albert bichot burgundy chardonnay">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Burgundy"></div></div>
+<p class="meta">Maison Albert Bichot · Burgundy</p>
+<h3>Albert Bichot Secret de Famille Bourgogne Chardonnay</h3>
+<p class="meta">Chardonnay</p>
+<a class="btn" href="../../../en/wines/albert-bichot-secret-de-famille-chardonnay/">See profile & where to buy ↗</a>
+</article></div><p style="margin-top:16px"><a class="textlink" href="https://culinapedia.com/en/" rel="noopener">Dishes of this kind on Culinapedia ↗</a></p><p class="note">A general suggestion: the best pairing is the one you enjoy. If you drink alcohol, do so in moderation.</p></section><section class="pairbox" id="p-marisco" style="padding:0"><h2>🦐 Seafood</h2><p class="lead" style="font-size:17px">Fresh, saline whites, or a sparkling wine. The acidity and sea-breeze notes of Albariño or Muscadet suit oysters, clams and prawns very well.</p><p><strong>Grapes that work well:</strong> <a href="../../../en/grapes/albarino/">Albariño</a> · <a href="../../../en/grapes/xarel-lo/">Xarel·lo</a> · <a href="../../../en/grapes/sauvignon-blanc/">Sauvignon Blanc</a> · <a href="../../../en/grapes/chardonnay/">Chardonnay</a></p><h3 style="margin-top:22px">Wines from the encyclopedia to try</h3><div class="listgrid"><article class="wine" data-item data-type="blanco" data-region="rias-baixas" data-text="abadía de san campio bodegas terras gauda rías baixas albariño">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Rías"></div></div>
+<p class="meta">Bodegas Terras Gauda · Rías Baixas</p>
+<h3>Abadía de San Campio</h3>
+<p class="meta">Albariño</p>
+<a class="btn" href="../../../en/wines/abadia-de-san-campio/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="vinho-verde" data-text="aveleda alvarinho aveleda vinho verde albariño">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Vinho"></div></div>
+<p class="meta">Aveleda · Vinho Verde</p>
+<h3>Aveleda Alvarinho</h3>
+<p class="meta">Albariño</p>
+<a class="btn" href="../../../en/wines/aveleda-alvarinho/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="None" data-text="bouza albariño bodega bouza  albariño">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label=""></div></div>
+<p class="meta">Bodega Bouza · </p>
+<h3>Bouza Albariño</h3>
+<p class="meta">Albariño</p>
+<a class="btn" href="../../../en/wines/bouza-albarino/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="maldonado" data-text="garzón albariño reserva bodega garzón maldonado albariño">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Maldonado"></div></div>
+<p class="meta">Bodega Garzón · Maldonado</p>
+<h3>Garzón Albariño Reserva</h3>
+<p class="meta">Albariño</p>
+<a class="btn" href="../../../en/wines/garzon-albarino-reserva/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="espumoso" data-region="cava" data-text="anna de codorníu blanc de blancs codorníu cava chardonnay parellada xarel·lo macabeo (viura)">
+<div class="bottlearea"><span class="label">SPARKLING</span><div class="bottle sparkb" data-label="Cava"></div></div>
+<p class="meta">Codorníu · Cava</p>
+<h3>Anna de Codorníu Blanc de Blancs</h3>
+<p class="meta">Chardonnay, Parellada, Xarel·lo, Macabeo (Viura)</p>
+<a class="btn" href="../../../en/wines/anna-de-codorniu/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="espumoso" data-region="penedes" data-text="gramona iii lustros gramona penedès xarel·lo macabeo (viura)">
+<div class="bottlearea"><span class="label">SPARKLING</span><div class="bottle sparkb" data-label="Penedès"></div></div>
+<p class="meta">Gramona · Penedès</p>
+<h3>Gramona III Lustros</h3>
+<p class="meta">Xarel·lo, Macabeo (Viura)</p>
+<a class="btn" href="../../../en/wines/gramona-iii-lustros/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="loire" data-text="baron de l de ladoucette loire sauvignon blanc">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Loire"></div></div>
+<p class="meta">de Ladoucette · Loire</p>
+<h3>Baron de L</h3>
+<p class="meta">Sauvignon Blanc</p>
+<a class="btn" href="../../../en/wines/baron-de-l/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="rueda" data-text="basa compañía de vinos telmo rodríguez rueda verdejo macabeo (viura) sauvignon blanc">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Rueda"></div></div>
+<p class="meta">Compañía de Vinos Telmo Rodríguez · Rueda</p>
+<h3>Basa</h3>
+<p class="meta">Verdejo, Macabeo (Viura), Sauvignon Blanc</p>
+<a class="btn" href="../../../en/wines/basa/">See profile & where to buy ↗</a>
+</article></div><p style="margin-top:16px"><a class="textlink" href="https://culinapedia.com/en/" rel="noopener">Dishes of this kind on Culinapedia ↗</a></p><p class="note">A general suggestion: the best pairing is the one you enjoy. If you drink alcohol, do so in moderation.</p></section><section class="pairbox" id="p-arroz" style="padding:0"><h2>🥘 Rice dishes and paella</h2><p class="lead" style="font-size:17px">Fresh whites or rosés. A white or rosé with seafood rice; a young, light red with meat-based rice dishes.</p><p><strong>Grapes that work well:</strong> <a href="../../../en/grapes/verdejo/">Verdejo</a> · <a href="../../../en/grapes/garnacha/">Grenache</a> · <a href="../../../en/grapes/albarino/">Albariño</a> · <a href="../../../en/grapes/macabeo/">Macabeo (Viura)</a></p><h3 style="margin-top:22px">Wines from the encyclopedia to try</h3><div class="listgrid"><article class="wine" data-item data-type="blanco" data-region="rueda" data-text="basa compañía de vinos telmo rodríguez rueda verdejo macabeo (viura) sauvignon blanc">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Rueda"></div></div>
+<p class="meta">Compañía de Vinos Telmo Rodríguez · Rueda</p>
+<h3>Basa</h3>
+<p class="meta">Verdejo, Macabeo (Viura), Sauvignon Blanc</p>
+<a class="btn" href="../../../en/wines/basa/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="rosado" data-region="provence" data-text="by.ott rosé domaines ott provence grenache cinsault syrah (shiraz)">
+<div class="bottlearea"><span class="label">ROSÉ</span><div class="bottle roseb" data-label="Provence"></div></div>
+<p class="meta">Domaines Ott · Provence</p>
+<h3>BY.OTT Rosé</h3>
+<p class="meta">Grenache, Cinsault, Syrah (Shiraz)</p>
+<a class="btn" href="../../../en/wines/by-ott-rose/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="rosado" data-region="navarra" data-text="chivite las fincas rosado j. chivite family estates navarra grenache tempranillo">
+<div class="bottlearea"><span class="label">ROSÉ</span><div class="bottle roseb" data-label="Navarra"></div></div>
+<p class="meta">J. Chivite Family Estates · Navarra</p>
+<h3>Chivite Las Fincas Rosado</h3>
+<p class="meta">Grenache, Tempranillo</p>
+<a class="btn" href="../../../en/wines/chivite-las-fincas-rosado/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="rosado" data-region="languedoc-roussillon" data-text="gérard bertrand côte des roses rosé gérard bertrand languedoc-roussillon grenache cinsault syrah (shiraz)">
+<div class="bottlearea"><span class="label">ROSÉ</span><div class="bottle roseb" data-label="Languedoc"></div></div>
+<p class="meta">Gérard Bertrand · Languedoc-Roussillon</p>
+<h3>Gérard Bertrand Côte des Roses Rosé</h3>
+<p class="meta">Grenache, Cinsault, Syrah (Shiraz)</p>
+<a class="btn" href="../../../en/wines/gerard-bertrand-cote-des-roses-rose/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="rosado" data-region="rioja" data-text="muga rosado bodegas muga rioja grenache macabeo (viura) tempranillo">
+<div class="bottlearea"><span class="label">ROSÉ</span><div class="bottle roseb" data-label="Rioja"></div></div>
+<p class="meta">Bodegas Muga · Rioja</p>
+<h3>Muga Rosado</h3>
+<p class="meta">Grenache, Macabeo (Viura), Tempranillo</p>
+<a class="btn" href="../../../en/wines/muga-rosado/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="rias-baixas" data-text="abadía de san campio bodegas terras gauda rías baixas albariño">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Rías"></div></div>
+<p class="meta">Bodegas Terras Gauda · Rías Baixas</p>
+<h3>Abadía de San Campio</h3>
+<p class="meta">Albariño</p>
+<a class="btn" href="../../../en/wines/abadia-de-san-campio/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="vinho-verde" data-text="aveleda alvarinho aveleda vinho verde albariño">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Vinho"></div></div>
+<p class="meta">Aveleda · Vinho Verde</p>
+<h3>Aveleda Alvarinho</h3>
+<p class="meta">Albariño</p>
+<a class="btn" href="../../../en/wines/aveleda-alvarinho/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="None" data-text="bouza albariño bodega bouza  albariño">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label=""></div></div>
+<p class="meta">Bodega Bouza · </p>
+<h3>Bouza Albariño</h3>
+<p class="meta">Albariño</p>
+<a class="btn" href="../../../en/wines/bouza-albarino/">See profile & where to buy ↗</a>
+</article></div><p style="margin-top:16px"><a class="textlink" href="https://culinapedia.com/en/" rel="noopener">Dishes of this kind on Culinapedia ↗</a></p><p class="note">A general suggestion: the best pairing is the one you enjoy. If you drink alcohol, do so in moderation.</p></section><section class="pairbox" id="p-italiano" style="padding:0"><h2>🍝 Pasta and pizza</h2><p class="lead" style="font-size:17px">With tomato sauces, reds with good acidity such as Sangiovese or Barbera, which match the acidity of tomato. With creamy or vegetable pasta, a fuller white.</p><p><strong>Grapes that work well:</strong> <a href="../../../en/grapes/sangiovese/">Sangiovese</a> · <a href="../../../en/grapes/garnacha/">Grenache</a> · <a href="../../../en/grapes/nebbiolo/">Nebbiolo</a> · <a href="../../../en/grapes/chardonnay/">Chardonnay</a></p><h3 style="margin-top:22px">Wines from the encyclopedia to try</h3><div class="listgrid"><article class="wine" data-item data-type="tinto" data-region="toscana" data-text="banfi centine rosso castello banfi tuscany sangiovese cabernet sauvignon merlot">
+<div class="bottlearea"><span class="label">RED</span><div class="bottle redb" data-label="Tuscany"></div></div>
+<p class="meta">Castello Banfi · Tuscany</p>
+<h3>Banfi Centine Rosso</h3>
+<p class="meta">Sangiovese, Cabernet Sauvignon, Merlot</p>
+<a class="btn" href="../../../en/wines/castello-banfi-centine/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="tinto" data-region="brunello-di-montalcino" data-text="biondi-santi brunello di montalcino biondi-santi brunello di montalcino sangiovese">
+<div class="bottlearea"><span class="label">RED</span><div class="bottle redb" data-label="Brunello"></div></div>
+<p class="meta">Biondi-Santi · Brunello di Montalcino</p>
+<h3>Biondi-Santi Brunello di Montalcino</h3>
+<p class="meta">Sangiovese</p>
+<a class="btn" href="../../../en/wines/biondi-santi-brunello/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="tinto" data-region="chianti-classico" data-text="brolio chianti classico barone ricasoli chianti classico sangiovese merlot cabernet sauvignon">
+<div class="bottlearea"><span class="label">RED</span><div class="bottle redb" data-label="Chianti"></div></div>
+<p class="meta">Barone Ricasoli · Chianti Classico</p>
+<h3>Brolio Chianti Classico</h3>
+<p class="meta">Sangiovese, Merlot, Cabernet Sauvignon</p>
+<a class="btn" href="../../../en/wines/barone-ricasoli-brolio-chianti-classico/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="tinto" data-region="None" data-text="lungarotti rubesco lungarotti  sangiovese">
+<div class="bottlearea"><span class="label">RED</span><div class="bottle redb" data-label=""></div></div>
+<p class="meta">Lungarotti · </p>
+<h3>Lungarotti Rubesco</h3>
+<p class="meta">Sangiovese</p>
+<a class="btn" href="../../../en/wines/lungarotti-rubesco/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="tinto" data-region="montsant" data-text="acústic acústic celler montsant grenache carignan">
+<div class="bottlearea"><span class="label">RED</span><div class="bottle redb" data-label="Montsant"></div></div>
+<p class="meta">Acústic Celler · Montsant</p>
+<h3>Acústic</h3>
+<p class="meta">Grenache, Carignan</p>
+<a class="btn" href="../../../en/wines/acustic-tinto/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="tinto" data-region="campo-de-borja" data-text="alto moncayo bodegas alto moncayo campo de borja grenache">
+<div class="bottlearea"><span class="label">RED</span><div class="bottle redb" data-label="Campo"></div></div>
+<p class="meta">Bodegas Alto Moncayo · Campo de Borja</p>
+<h3>Alto Moncayo</h3>
+<p class="meta">Grenache</p>
+<a class="btn" href="../../../en/wines/alto-moncayo-garnacha/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="tinto" data-region="calatayud" data-text="atteca bodegas ateca calatayud grenache">
+<div class="bottlearea"><span class="label">RED</span><div class="bottle redb" data-label="Calatayud"></div></div>
+<p class="meta">Bodegas Ateca · Calatayud</p>
+<h3>Atteca</h3>
+<p class="meta">Grenache</p>
+<a class="btn" href="../../../en/wines/atteca/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="tinto" data-region="cotes-du-rhone" data-text="belleruche côtes du rhône rouge m. chapoutier côtes du rhône grenache syrah (shiraz)">
+<div class="bottlearea"><span class="label">RED</span><div class="bottle redb" data-label="Côtes"></div></div>
+<p class="meta">M. Chapoutier · Côtes du Rhône</p>
+<h3>Belleruche Côtes du Rhône Rouge</h3>
+<p class="meta">Grenache, Syrah (Shiraz)</p>
+<a class="btn" href="../../../en/wines/chapoutier-belleruche-rouge/">See profile & where to buy ↗</a>
+</article></div><p style="margin-top:16px"><a class="textlink" href="https://culinapedia.com/en/" rel="noopener">Dishes of this kind on Culinapedia ↗</a></p><p class="note">A general suggestion: the best pairing is the one you enjoy. If you drink alcohol, do so in moderation.</p></section><section class="pairbox" id="p-verdura" style="padding:0"><h2>🥗 Vegetables, salads and pulses</h2><p class="lead" style="font-size:17px">Light, fresh whites, with herbaceous notes that suit vegetables. A young red with pulse stews.</p><p><strong>Grapes that work well:</strong> <a href="../../../en/grapes/sauvignon-blanc/">Sauvignon Blanc</a> · <a href="../../../en/grapes/godello/">Godello</a> · <a href="../../../en/grapes/verdejo/">Verdejo</a> · <a href="../../../en/grapes/mencia/">Mencía</a></p><h3 style="margin-top:22px">Wines from the encyclopedia to try</h3><div class="listgrid"><article class="wine" data-item data-type="blanco" data-region="loire" data-text="baron de l de ladoucette loire sauvignon blanc">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Loire"></div></div>
+<p class="meta">de Ladoucette · Loire</p>
+<h3>Baron de L</h3>
+<p class="meta">Sauvignon Blanc</p>
+<a class="btn" href="../../../en/wines/baron-de-l/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="rueda" data-text="basa compañía de vinos telmo rodríguez rueda verdejo macabeo (viura) sauvignon blanc">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Rueda"></div></div>
+<p class="meta">Compañía de Vinos Telmo Rodríguez · Rueda</p>
+<h3>Basa</h3>
+<p class="meta">Verdejo, Macabeo (Viura), Sauvignon Blanc</p>
+<a class="btn" href="../../../en/wines/basa/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="valle-de-la-bekaa" data-text="blanc de blancs château ksara bekaa valley chardonnay sauvignon blanc semillon">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Bekaa"></div></div>
+<p class="meta">Château Ksara · Bekaa Valley</p>
+<h3>Blanc de Blancs</h3>
+<p class="meta">Chardonnay, Sauvignon Blanc, Semillon</p>
+<a class="btn" href="../../../en/wines/ksara-blanc-de-blancs/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="marlborough" data-text="brancott estate marlborough sauvignon blanc brancott estate marlborough sauvignon blanc">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Marlborough"></div></div>
+<p class="meta">Brancott Estate · Marlborough</p>
+<h3>Brancott Estate Marlborough Sauvignon Blanc</h3>
+<p class="meta">Sauvignon Blanc</p>
+<a class="btn" href="../../../en/wines/brancott-estate-sauvignon-blanc/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="bordeaux" data-text="caillou blanc du château talbot château talbot bordeaux sauvignon blanc semillon">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Bordeaux"></div></div>
+<p class="meta">Château Talbot · Bordeaux</p>
+<h3>Caillou Blanc du Château Talbot</h3>
+<p class="meta">Sauvignon Blanc, Semillon</p>
+<a class="btn" href="../../../en/wines/caillou-blanc-du-chateau-talbot/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="napa-valley" data-text="cakebread cellars napa valley sauvignon blanc cakebread cellars napa valley sauvignon blanc">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Napa"></div></div>
+<p class="meta">Cakebread Cellars · Napa Valley</p>
+<h3>Cakebread Cellars Napa Valley Sauvignon Blanc</h3>
+<p class="meta">Sauvignon Blanc</p>
+<a class="btn" href="../../../en/wines/cakebread-sauvignon-blanc/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="trentino-alto-adige" data-text="cantina terlano quarz sauvignon cantina terlano trentino-alto adige sauvignon blanc">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Trentino"></div></div>
+<p class="meta">Cantina Terlano · Trentino-Alto Adige</p>
+<h3>Cantina Terlano Quarz Sauvignon</h3>
+<p class="meta">Sauvignon Blanc</p>
+<a class="btn" href="../../../en/wines/cantina-terlano-quarz/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="pessac-leognan" data-text="château smith haut lafitte blanc château smith haut lafitte pessac-léognan sauvignon blanc semillon">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Pessac"></div></div>
+<p class="meta">Château Smith Haut Lafitte · Pessac-Léognan</p>
+<h3>Château Smith Haut Lafitte Blanc</h3>
+<p class="meta">Sauvignon Blanc, Semillon</p>
+<a class="btn" href="../../../en/wines/chateau-smith-haut-lafitte-blanc/">See profile & where to buy ↗</a>
+</article></div><p style="margin-top:16px"><a class="textlink" href="https://culinapedia.com/en/" rel="noopener">Dishes of this kind on Culinapedia ↗</a></p><p class="note">A general suggestion: the best pairing is the one you enjoy. If you drink alcohol, do so in moderation.</p></section><section class="pairbox" id="p-frito" style="padding:0"><h2>🍤 Fried food and tapas</h2><p class="lead" style="font-size:17px">Dry fortified wines (fino, manzanilla) or a sparkling wine: their acidity and bubbles cleanse the palate after each fried bite.</p><p><strong>Grapes that work well:</strong> <a href="../../../en/grapes/palomino/">Palomino</a> · <a href="../../../en/grapes/macabeo/">Macabeo (Viura)</a> · <a href="../../../en/grapes/xarel-lo/">Xarel·lo</a> · <a href="../../../en/grapes/chardonnay/">Chardonnay</a></p><h3 style="margin-top:22px">Wines from the encyclopedia to try</h3><div class="listgrid"><article class="wine" data-item data-type="generoso" data-region="jerez-xeres-sherry" data-text="alfonso oloroso seco gonzález byass jerez-xérès-sherry palomino">
+<div class="bottlearea"><span class="label">FORTIFIED</span><div class="bottle sweetb" data-label="Jerez"></div></div>
+<p class="meta">González Byass · Jerez-Xérès-Sherry</p>
+<h3>Alfonso Oloroso Seco</h3>
+<p class="meta">Palomino</p>
+<a class="btn" href="../../../en/wines/alfonso-oloroso/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="espumoso" data-region="cava" data-text="anna de codorníu blanc de blancs codorníu cava chardonnay parellada xarel·lo macabeo (viura)">
+<div class="bottlearea"><span class="label">SPARKLING</span><div class="bottle sparkb" data-label="Cava"></div></div>
+<p class="meta">Codorníu · Cava</p>
+<h3>Anna de Codorníu Blanc de Blancs</h3>
+<p class="meta">Chardonnay, Parellada, Xarel·lo, Macabeo (Viura)</p>
+<a class="btn" href="../../../en/wines/anna-de-codorniu/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="espumoso" data-region="penedes" data-text="gramona iii lustros gramona penedès xarel·lo macabeo (viura)">
+<div class="bottlearea"><span class="label">SPARKLING</span><div class="bottle sparkb" data-label="Penedès"></div></div>
+<p class="meta">Gramona · Penedès</p>
+<h3>Gramona III Lustros</h3>
+<p class="meta">Xarel·lo, Macabeo (Viura)</p>
+<a class="btn" href="../../../en/wines/gramona-iii-lustros/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="espumoso" data-region="franciacorta" data-text="bellavista alma gran cuvée brut bellavista franciacorta chardonnay pinot noir">
+<div class="bottlearea"><span class="label">SPARKLING</span><div class="bottle sparkb" data-label="Franciacort"></div></div>
+<p class="meta">Bellavista · Franciacorta</p>
+<h3>Bellavista Alma Gran Cuvée Brut</h3>
+<p class="meta">Chardonnay, Pinot Noir</p>
+<a class="btn" href="../../../en/wines/bellavista-alma/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="espumoso" data-region="champagne" data-text="billecart-salmon brut rosé champagne billecart-salmon champagne chardonnay pinot noir">
+<div class="bottlearea"><span class="label">SPARKLING</span><div class="bottle sparkb" data-label="Champagne"></div></div>
+<p class="meta">Champagne Billecart-Salmon · Champagne</p>
+<h3>Billecart-Salmon Brut Rosé</h3>
+<p class="meta">Chardonnay, Pinot Noir</p>
+<a class="btn" href="../../../en/wines/billecart-salmon-brut-rose/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="espumoso" data-region="serra-gaucha" data-text="casa valduga 130 brut casa valduga serra gaúcha chardonnay pinot noir">
+<div class="bottlearea"><span class="label">SPARKLING</span><div class="bottle sparkb" data-label="Serra"></div></div>
+<p class="meta">Casa Valduga · Serra Gaúcha</p>
+<h3>Casa Valduga 130 Brut</h3>
+<p class="meta">Chardonnay, Pinot Noir</p>
+<a class="btn" href="../../../en/wines/casa-valduga-130-brut/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="espumoso" data-region="kent" data-text="chapel down brut chapel down kent chardonnay pinot noir">
+<div class="bottlearea"><span class="label">SPARKLING</span><div class="bottle sparkb" data-label="Kent"></div></div>
+<p class="meta">Chapel Down · Kent</p>
+<h3>Chapel Down Brut</h3>
+<p class="meta">Chardonnay, Pinot Noir</p>
+<a class="btn" href="../../../en/wines/chapel-down-brut/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="espumoso" data-region="trentino-alto-adige" data-text="ferrari brut ferrari trento trentino-alto adige chardonnay">
+<div class="bottlearea"><span class="label">SPARKLING</span><div class="bottle sparkb" data-label="Trentino"></div></div>
+<p class="meta">Ferrari Trento · Trentino-Alto Adige</p>
+<h3>Ferrari Brut</h3>
+<p class="meta">Chardonnay</p>
+<a class="btn" href="../../../en/wines/ferrari-brut/">See profile & where to buy ↗</a>
+</article></div><p style="margin-top:16px"><a class="textlink" href="https://culinapedia.com/en/" rel="noopener">Dishes of this kind on Culinapedia ↗</a></p><p class="note">A general suggestion: the best pairing is the one you enjoy. If you drink alcohol, do so in moderation.</p></section><section class="pairbox" id="p-especiado" style="padding:0"><h2>🌶️ Spicy and Asian food</h2><p class="lead" style="font-size:17px">Aromatic whites, ideally off-dry, which soften the heat. Avoid very tannic, high-alcohol reds, which make it hotter.</p><p><strong>Grapes that work well:</strong> <a href="../../../en/grapes/riesling/">Riesling</a> · <a href="../../../en/grapes/gewurztraminer/">Gewürztraminer</a> · <a href="../../../en/grapes/chenin-blanc/">Chenin Blanc</a> · <a href="../../../en/grapes/moscatel/">Muscat</a></p><h3 style="margin-top:22px">Wines from the encyclopedia to try</h3><div class="listgrid"><article class="wine" data-item data-type="blanco" data-region="mosel" data-text="brauneberger juffer-sonnenuhr riesling spätlese weingut fritz haag mosel riesling">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Mosel"></div></div>
+<p class="meta">Weingut Fritz Haag · Mosel</p>
+<h3>Brauneberger Juffer-Sonnenuhr Riesling Spätlese</h3>
+<p class="meta">Riesling</p>
+<a class="btn" href="../../../en/wines/fritz-haag-juffer-sonnenuhr-spatlese/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="niagara-peninsula" data-text="cave spring csv riesling cave spring vineyard niagara peninsula riesling">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Niagara"></div></div>
+<p class="meta">Cave Spring Vineyard · Niagara Peninsula</p>
+<h3>Cave Spring CSV Riesling</h3>
+<p class="meta">Riesling</p>
+<a class="btn" href="../../../en/wines/cave-spring-csv-riesling/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="columbia-valley" data-text="columbia valley riesling chateau ste. michelle columbia valley riesling">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Columbia"></div></div>
+<p class="meta">Chateau Ste. Michelle · Columbia Valley</p>
+<h3>Columbia Valley Riesling</h3>
+<p class="meta">Riesling</p>
+<a class="btn" href="../../../en/wines/chateau-ste-michelle-columbia-valley-riesling/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="rheinhessen" data-text="dalsheimer hubacker riesling gg weingut keller rheinhessen riesling">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Rheinhessen"></div></div>
+<p class="meta">Weingut Keller · Rheinhessen</p>
+<h3>Dalsheimer Hubacker Riesling GG</h3>
+<p class="meta">Riesling</p>
+<a class="btn" href="../../../en/wines/keller-hubacker-gg/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="finger-lakes" data-text="dry riesling dr. konstantin frank finger lakes riesling">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Finger"></div></div>
+<p class="meta">Dr. Konstantin Frank · Finger Lakes</p>
+<h3>Dry Riesling</h3>
+<p class="meta">Riesling</p>
+<a class="btn" href="../../../en/wines/dr-konstantin-frank-dry-riesling/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="pfalz" data-text="forster kirchenstück riesling g.c. weingut dr. bürklin-wolf pfalz riesling">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Pfalz"></div></div>
+<p class="meta">Weingut Dr. Bürklin-Wolf · Pfalz</p>
+<h3>Forster Kirchenstück Riesling G.C.</h3>
+<p class="meta">Riesling</p>
+<a class="btn" href="../../../en/wines/burklin-wolf-kirchenstuck/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="clare-valley" data-text="grosset polish hill riesling grosset clare valley riesling">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Clare"></div></div>
+<p class="meta">Grosset · Clare Valley</p>
+<h3>Grosset Polish Hill Riesling</h3>
+<p class="meta">Riesling</p>
+<a class="btn" href="../../../en/wines/grosset-polish-hill-riesling/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="rheingau" data-text="hochheimer hölle riesling grosses gewächs weingut künstler rheingau riesling">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Rheingau"></div></div>
+<p class="meta">Weingut Künstler · Rheingau</p>
+<h3>Hochheimer Hölle Riesling Grosses Gewächs</h3>
+<p class="meta">Riesling</p>
+<a class="btn" href="../../../en/wines/kunstler-holle-gg/">See profile & where to buy ↗</a>
+</article></div><p style="margin-top:16px"><a class="textlink" href="https://culinapedia.com/en/" rel="noopener">Dishes of this kind on Culinapedia ↗</a></p><p class="note">A general suggestion: the best pairing is the one you enjoy. If you drink alcohol, do so in moderation.</p></section><section class="pairbox" id="p-queso" style="padding:0"><h2>🧀 Cheese</h2><p class="lead" style="font-size:17px">It depends on the cheese: full-bodied whites for fresh, mild cheeses; reds or fortified wines for aged ones; and a sweet wine with blue cheese.</p><p><strong>Grapes that work well:</strong> <a href="../../../en/grapes/chardonnay/">Chardonnay</a> · <a href="../../../en/grapes/tempranillo/">Tempranillo</a> · <a href="../../../en/grapes/palomino/">Palomino</a> · <a href="../../../en/grapes/pedro-ximenez/">Pedro Ximénez</a></p><h3 style="margin-top:22px">Wines from the encyclopedia to try</h3><div class="listgrid"><article class="wine" data-item data-type="blanco" data-region="valle-de-uco" data-text="adrianna vineyard white bones chardonnay bodega catena zapata valle de uco chardonnay">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Valle"></div></div>
+<p class="meta">Bodega Catena Zapata · Valle de Uco</p>
+<h3>Adrianna Vineyard White Bones Chardonnay</h3>
+<p class="meta">Chardonnay</p>
+<a class="btn" href="../../../en/wines/catena-zapata-adrianna-white-bones-chardonnay/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="mendoza" data-text="alamos chardonnay bodega catena zapata mendoza chardonnay">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Mendoza"></div></div>
+<p class="meta">Bodega Catena Zapata · Mendoza</p>
+<h3>Alamos Chardonnay</h3>
+<p class="meta">Chardonnay</p>
+<a class="btn" href="../../../en/wines/alamos-chardonnay/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="bourgogne" data-text="albert bichot secret de famille bourgogne chardonnay maison albert bichot burgundy chardonnay">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Burgundy"></div></div>
+<p class="meta">Maison Albert Bichot · Burgundy</p>
+<h3>Albert Bichot Secret de Famille Bourgogne Chardonnay</h3>
+<p class="meta">Chardonnay</p>
+<a class="btn" href="../../../en/wines/albert-bichot-secret-de-famille-chardonnay/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="willamette-valley" data-text="arthur chardonnay domaine drouhin oregon willamette valley chardonnay">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Willamette"></div></div>
+<p class="meta">Domaine Drouhin Oregon · Willamette Valley</p>
+<h3>Arthur Chardonnay</h3>
+<p class="meta">Chardonnay</p>
+<a class="btn" href="../../../en/wines/domaine-drouhin-oregon-arthur-chardonnay/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="valle-de-la-bekaa" data-text="blanc de blancs château ksara bekaa valley chardonnay sauvignon blanc semillon">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Bekaa"></div></div>
+<p class="meta">Château Ksara · Bekaa Valley</p>
+<h3>Blanc de Blancs</h3>
+<p class="meta">Chardonnay, Sauvignon Blanc, Semillon</p>
+<a class="btn" href="../../../en/wines/ksara-blanc-de-blancs/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="judea" data-text="c blanc du castel domaine du castel judea (judean hills) chardonnay">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Judea"></div></div>
+<p class="meta">Domaine du Castel · Judea (Judean Hills)</p>
+<h3>C Blanc du Castel</h3>
+<p class="meta">Chardonnay</p>
+<a class="btn" href="../../../en/wines/castel-c-blanc-du-castel/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="napa-valley" data-text="cakebread cellars napa valley chardonnay cakebread cellars napa valley chardonnay">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label="Napa"></div></div>
+<p class="meta">Cakebread Cellars · Napa Valley</p>
+<h3>Cakebread Cellars Napa Valley Chardonnay</h3>
+<p class="meta">Chardonnay</p>
+<a class="btn" href="../../../en/wines/cakebread-chardonnay/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="blanco" data-region="None" data-text="casa madero chardonnay casa madero  chardonnay">
+<div class="bottlearea"><span class="label">WHITE</span><div class="bottle whiteb" data-label=""></div></div>
+<p class="meta">Casa Madero · </p>
+<h3>Casa Madero Chardonnay</h3>
+<p class="meta">Chardonnay</p>
+<a class="btn" href="../../../en/wines/casa-madero-chardonnay/">See profile & where to buy ↗</a>
+</article></div><p style="margin-top:16px"><a class="textlink" href="https://culinapedia.com/en/" rel="noopener">Dishes of this kind on Culinapedia ↗</a></p><p class="note">A general suggestion: the best pairing is the one you enjoy. If you drink alcohol, do so in moderation.</p></section><section class="pairbox" id="p-dulce" style="padding:0"><h2>🍰 Desserts</h2><p class="lead" style="font-size:17px">A sweet wine, at least as sweet as the dessert: Muscat with fruit and cream desserts; Pedro Ximénez or Port with chocolate.</p><p><strong>Grapes that work well:</strong> <a href="../../../en/grapes/moscatel/">Muscat</a> · <a href="../../../en/grapes/pedro-ximenez/">Pedro Ximénez</a> · <a href="../../../en/grapes/riesling/">Riesling</a></p><h3 style="margin-top:22px">Wines from the encyclopedia to try</h3><div class="listgrid"><article class="wine" data-item data-type="dulce" data-region="setubal" data-text="alambre moscatel de setúbal josé maria da fonseca setúbal muscat">
+<div class="bottlearea"><span class="label">SWEET</span><div class="bottle sweetb" data-label="Setúbal"></div></div>
+<p class="meta">José Maria da Fonseca · Setúbal</p>
+<h3>Alambre Moscatel de Setúbal</h3>
+<p class="meta">Muscat</p>
+<a class="btn" href="../../../en/wines/alambre-moscatel-de-setubal/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="dulce" data-region="tokaj" data-text="disznókő tokaji aszú 5 puttonyos disznókő tokaj furmint hárslevelű muscat">
+<div class="bottlearea"><span class="label">SWEET</span><div class="bottle sweetb" data-label="Tokaj"></div></div>
+<p class="meta">Disznókő · Tokaj</p>
+<h3>Disznókő Tokaji Aszú 5 Puttonyos</h3>
+<p class="meta">Furmint, Hárslevelű, Muscat</p>
+<a class="btn" href="../../../en/wines/disznoko-tokaji-aszu-5-puttonyos/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="dulce" data-region="sicilia" data-text="donnafugata ben ryé donnafugata sicily muscat">
+<div class="bottlearea"><span class="label">SWEET</span><div class="bottle sweetb" data-label="Sicily"></div></div>
+<p class="meta">Donnafugata · Sicily</p>
+<h3>Donnafugata Ben Ryé</h3>
+<p class="meta">Muscat</p>
+<a class="btn" href="../../../en/wines/donnafugata-ben-rye/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="dulce" data-region="piemonte" data-text="fontanafredda moscato d&#x27;asti moncucco fontanafredda piedmont muscat">
+<div class="bottlearea"><span class="label">SWEET</span><div class="bottle sweetb" data-label="Piedmont"></div></div>
+<p class="meta">Fontanafredda · Piedmont</p>
+<h3>Fontanafredda Moscato d&#x27;Asti Moncucco</h3>
+<p class="meta">Muscat</p>
+<a class="btn" href="../../../en/wines/fontanafredda-moscato-d-asti-moncucco/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="dulce" data-region="malaga" data-text="jorge ordóñez nº 1 selección especial bodegas jorge ordóñez &amp; co. málaga muscat">
+<div class="bottlearea"><span class="label">SWEET</span><div class="bottle sweetb" data-label="Málaga"></div></div>
+<p class="meta">Bodegas Jorge Ordóñez &amp; Co. · Málaga</p>
+<h3>Jorge Ordóñez Nº 1 Selección Especial</h3>
+<p class="meta">Muscat</p>
+<a class="btn" href="../../../en/wines/jorge-ordonez-no-1/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="dulce" data-region="alicante" data-text="moscatel de la marina bodegas enrique mendoza alicante muscat">
+<div class="bottlearea"><span class="label">SWEET</span><div class="bottle sweetb" data-label="Alicante"></div></div>
+<p class="meta">Bodegas Enrique Mendoza · Alicante</p>
+<h3>Moscatel de la Marina</h3>
+<p class="meta">Muscat</p>
+<a class="btn" href="../../../en/wines/moscatel-de-la-marina/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="dulce" data-region="navarra" data-text="ochoa moscatel vendimia tardía bodegas ochoa navarra muscat">
+<div class="bottlearea"><span class="label">SWEET</span><div class="bottle sweetb" data-label="Navarra"></div></div>
+<p class="meta">Bodegas Ochoa · Navarra</p>
+<h3>Ochoa Moscatel Vendimia Tardía</h3>
+<p class="meta">Muscat</p>
+<a class="btn" href="../../../en/wines/ochoa-moscatel-vendimia-tardia/">See profile & where to buy ↗</a>
+</article><article class="wine" data-item data-type="dulce" data-region="constantia" data-text="vin de constance klein constantia constantia muscat">
+<div class="bottlearea"><span class="label">SWEET</span><div class="bottle sweetb" data-label="Constantia"></div></div>
+<p class="meta">Klein Constantia · Constantia</p>
+<h3>Vin de Constance</h3>
+<p class="meta">Muscat</p>
+<a class="btn" href="../../../en/wines/vin-de-constance/">See profile & where to buy ↗</a>
+</article></div><p style="margin-top:16px"><a class="textlink" href="https://culinapedia.com/en/" rel="noopener">Dishes of this kind on Culinapedia ↗</a></p><p class="note">A general suggestion: the best pairing is the one you enjoy. If you drink alcohol, do so in moderation.</p></section><script>(function(){var b=document.querySelectorAll(".dishes button");b.forEach(function(x){x.addEventListener("click",function(){b.forEach(function(y){y.setAttribute("aria-pressed",y===x?"true":"false")});document.querySelectorAll(".pairbox").forEach(function(p){p.classList.toggle("on",p.id==="p-"+x.dataset.k)});history.replaceState(null,"","#"+x.dataset.k)})});var h=location.hash.slice(1);if(h){var t=document.querySelector('.dishes button[data-k="'+h+'"]');if(t)t.click()}})();</script></main>
+<footer>
+<div class="footergrid">
+<div><div class="logo" style="color:white">World<b style="color:#d9a5b8">Wine</b>pedia</div><p style="font-size:13px">An encyclopedia to understand wine and a meeting point to discover it. We do not sell alcohol: purchases are made in external shops.</p><p class="langs" style="font-size:12px"><a href="../../../es/herramientas/maridajes/" hreflang="es" lang="es">ES</a><a href="../../../en/tools/food-pairing/" hreflang="en" lang="en" class="on">EN</a><a href="../../../fr/outils/accords-mets-vins/" hreflang="fr" lang="fr">FR</a><a href="../../../it/strumenti/abbinamenti/" hreflang="it" lang="it">IT</a></p></div>
+<div><h4>Explore</h4><a href="../../../en/wines/">Wines</a><a href="../../../en/countries/">Countries & regions</a><a href="../../../en/grapes/">Grapes</a><a href="../../../en/wineries/">Wineries</a></div>
+<div><h4>Learn</h4><a href="../../../en/learn/#ciencia">Oenology & science</a><a href="../../../en/learn/#viticultura">Viticulture</a><a href="../../../en/learn/#cata">Tasting</a><a href="../../../en/learn/#maridaje">Food pairing</a><a href="../../../en/learn/#historia">History & culture</a><a href="../../../en/glossary/">Glossary</a></div>
+<div><h4>The project</h4><a href="../../../en/about/">About WorldWinePedia</a><a href="../../../en/affiliate-disclosure/">Affiliate disclosure</a><a href="../../../en/privacy/">Privacy & cookies</a><a href="../../../en/legal-notice/">Legal notice</a></div>
+</div>
+<p class="webs-hermanas">Sister sites: <a href="https://classicapedia.com/en/">classicapedia.com</a> · <a href="https://pinacopedia.com/en/">pinacopedia.com</a> · <a href="https://filopedia.com/en/">filopedia.com</a> · <a href="https://cinematopedia.com/en/">cinematopedia.com</a> · <a href="https://medicapedia.org/en/">medicapedia.org</a> · <a href="https://tenispedia.com/en/">tenispedia.com</a> · <a href="https://newtonpedia.com/en/">newtonpedia.com</a> · <a href="https://culinapedia.com/en/">culinapedia.com</a> · <a href="https://mythicapedia.com/en/">mythicapedia.com</a> · <a href="https://zodiacopedia.com/en/">zodiacopedia.com</a> · <a href="https://ludicopedia.com/">ludicopedia.com</a> · <a href="https://catdogpedia.com/en/">catdogpedia.com</a></p>
+<div class="disclaimer">Please drink responsibly. Not for sale to minors. · Affiliate links: if you buy, the shop pays us a commission at no cost to you. As an Amazon Associate we earn from qualifying purchases. · © WorldWinePedia</div>
+</footer>
+<div id="agegate" role="dialog" aria-modal="true" aria-labelledby="ageq"><div class="in">
+<div class="logo">World<b>Wine</b>pedia</div>
+<h2 id="ageq">Are you of legal drinking age in your country?</h2><p>This site is about wine and links to shops that sell it. It is for adults only.</p>
+<button type="button" class="yes">Yes, I am of legal age</button><button type="button" class="no">No</button>
+<div class="ln"><a href="../../../es/herramientas/maridajes/">Español</a><a href="../../../en/tools/food-pairing/">English</a><a href="../../../fr/outils/accords-mets-vins/">Français</a><a href="../../../it/strumenti/abbinamenti/">Italiano</a></div></div></div>
+<script>window.WWP={root:"../../../",preview:false,lang:"en",base:"en/",t:{"see_price": "See price", "compare_world": "Compare shops worldwide", "us_note": "In the US wine sales depend on each state and Amazon barely sells wine: we show you a shop comparison site.", "fr_note": "In France alcohol advertising is regulated by the Évin law: the information on this site is factual, not promotional.", "age_bye": "Sorry: this site is for adults only.", "results": "results", "no_results": "No results. Try another word."},stores:{"amazon": {"ES": {"name": "Amazon.es", "domain": "www.amazon.es", "tag": "partenopides-21"}, "FR": {"name": "Amazon.fr", "domain": "www.amazon.fr", "tag": ""}, "IT": {"name": "Amazon.it", "domain": "www.amazon.it", "tag": ""}, "DE": {"name": "Amazon.de", "domain": "www.amazon.de", "tag": ""}, "UK": {"name": "Amazon.co.uk", "domain": "www.amazon.co.uk", "tag": "partenopide04-21"}}, "shops": [], "comparator": {"name": "Wine-Searcher", "url": "https://www.wine-searcher.com/find/{q}"}}};</script>
+<script src="../../../js/site.js?v=b4a211df" defer></script>
+</body>
+</html>
