@@ -123,7 +123,7 @@ def layout(l, title, desc, body, alt, active=''):
     SITEMAP.append(alt)
     links = ''.join('<link rel="alternate" hreflang="%s" href="%s%s">' % (x, DOMAIN, alt[x]) for x in LANGS)
     links += '<link rel="alternate" hreflang="x-default" href="%s%s">' % (DOMAIN, alt['en'])
-    navs = [('wines', 'nav_wines'), ('countries', 'nav_atlas'), ('grapes', 'nav_grapes'), ('wineries', 'nav_wineries'), ('articles', 'nav_learn'), ('glossary', 'nav_glossary')]
+    navs = [('wines', 'nav_wines'), ('countries', 'nav_atlas'), ('grapes', 'nav_grapes'), ('wineries', 'nav_wineries'), ('articles', 'nav_learn'), ('glossary', 'nav_glossary'), ('tools', 'nav_tools')]
     nav = ''.join('<a href="%s"%s>%s</a>' % (url(l, k), ' aria-current="page"' if active == k else '', s(n, l)) for k, n in navs)
     langs = ''.join('<a href="%s" hreflang="%s" lang="%s"%s>%s</a>' % (alt[x], x, x, ' class="on"' if x == l else '', x.upper()) for x in LANGS)
     ship_opts = ''.join('<option value="%s">%s</option>' % (c, T(n, l)) for c, n in SHIP)
@@ -433,6 +433,9 @@ def root_index():
 <link rel="stylesheet" href="/css/style.css?v={ASSET_V['css']}"><script>(function(){{var l=(navigator.language||'en').slice(0,2);if(['es','en','fr','it'].indexOf(l)<0)l='en';var s=null;try{{s=localStorage.getItem('wwp-lang')}}catch(e){{}};location.replace((s||l)+'/'+(window.PV?'index.html':''));}})();</script></head>
 <body style="display:flex;align-items:center;justify-content:center;min-height:100vh"><div style="text-align:center"><div class="logo">World<b>Wine</b>pedia</div><p class="langs" style="display:flex;gap:16px;justify-content:center">{links}</p></div></body></html>'''
 
+exec(open(os.path.join(ROOT, 'tools', 'herramientas.py'), encoding='utf-8').read())
+S['nav_tools'] = TX['tools']
+
 def build():
     if os.path.exists(DIST): shutil.rmtree(DIST)
     shutil.copytree(os.path.join(ROOT, 'static'), DIST)
@@ -440,6 +443,7 @@ def build():
     for l in LANGS:
         pages = [(url(l), home(l)), (url(l, 'wines'), wines_list(l)), (url(l, 'grapes'), grapes_list(l)), (url(l, 'wineries'), wineries_list(l)), (url(l, 'countries'), countries_list(l)), (url(l, 'regions'), regions_list(l)), (url(l, 'articles'), articles_list(l)), (url(l, 'glossary'), glossary(l)), (url(l, 'search'), search_page(l))]
         pages += [(url(l, k), static_page(l, k)) for k in STATIC_PAGES]
+        pages += tools_pages(l)
         pages += [(url(l, 'wines', x['slug']), wine_page(l, x)) for x in V.values()]
         pages += [(url(l, 'wineries', x['slug']), winery_page(l, x)) for x in B.values()]
         pages += [(url(l, 'regions', x['slug']), region_page(l, x)) for x in R.values()]
