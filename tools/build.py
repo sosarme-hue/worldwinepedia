@@ -143,7 +143,7 @@ def layout(l, title, desc, body, alt, active=''):
 <meta name="description" content="{e(desc[:300])}">
 <link rel="canonical" href="{DOMAIN}{alt[l]}">
 {links}
-<meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(desc[:300])}"><meta property="og:type" content="website"><meta property="og:locale" content="{OG[l]}"><meta property="og:image" content="{DOMAIN}/img/hero.jpg">
+<meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(desc[:300])}"><meta property="og:type" content="website"><meta property="og:locale" content="{OG[l]}"><meta property="og:image" content="{DOMAIN}/img/og-{l}.jpg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:url" content="{DOMAIN}{alt[l]}"><meta property="og:site_name" content="WorldWinePedia"><meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/img/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/css/style.css?v={ASSET_V['css']}">
 </head>
@@ -430,6 +430,7 @@ def root_index():
     links = ''.join(f'<a href="/{x}/" hreflang="{x}" lang="{x}">{LANG_NAMES[x]}</a>' for x in LANGS)
     return f'''<!doctype html><html lang="en" translate="no"><head><meta charset="utf-8"><meta name="google" content="notranslate"><meta name="viewport" content="width=device-width,initial-scale=1"><title>WorldWinePedia · The world wine encyclopedia</title>
 {''.join(f'<link rel="alternate" hreflang="{x}" href="{DOMAIN}/{x}/">' for x in LANGS)}<link rel="alternate" hreflang="x-default" href="{DOMAIN}/">
+<meta name="description" content="The world wine encyclopedia: wines, grapes, regions and wineries in four languages."><meta property="og:title" content="WorldWinePedia · The world wine encyclopedia"><meta property="og:description" content="The world wine encyclopedia: wines, grapes, regions and wineries in four languages."><meta property="og:type" content="website"><meta property="og:image" content="{DOMAIN}/img/og-en.jpg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:url" content="{DOMAIN}/"><meta property="og:site_name" content="WorldWinePedia"><meta name="twitter:card" content="summary_large_image">
 <link rel="stylesheet" href="/css/style.css?v={ASSET_V['css']}"><script>(function(){{var l=(navigator.language||'en').slice(0,2);if(['es','en','fr','it'].indexOf(l)<0)l='en';var s=null;try{{s=localStorage.getItem('wwp-lang')}}catch(e){{}};location.replace((s||l)+'/'+(window.PV?'index.html':''));}})();</script></head>
 <body style="display:flex;align-items:center;justify-content:center;min-height:100vh"><div style="text-align:center"><div class="logo">World<b>Wine</b>pedia</div><p class="langs" style="display:flex;gap:16px;justify-content:center">{links}</p></div></body></html>'''
 
