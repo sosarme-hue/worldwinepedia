@@ -22,6 +22,7 @@ def load(kind):
     return out
 
 C, R, G, B, V, A = (load(k) for k in ('countries', 'regions', 'grapes', 'wineries', 'wines', 'articles'))
+BL = dict(sorted(load('blog').items(), key=lambda kv: (kv[1].get('date', ''), kv[0]), reverse=True))
 GL = []
 for f in sorted(glob.glob(os.path.join(DATA, 'glossary-*.json'))):
     try: GL += json.load(open(f, encoding='utf-8'))
@@ -123,7 +124,7 @@ def layout(l, title, desc, body, alt, active=''):
     SITEMAP.append(alt)
     links = ''.join('<link rel="alternate" hreflang="%s" href="%s%s">' % (x, DOMAIN, alt[x]) for x in LANGS)
     links += '<link rel="alternate" hreflang="x-default" href="%s%s">' % (DOMAIN, alt['en'])
-    navs = [('wines', 'nav_wines'), ('countries', 'nav_atlas'), ('grapes', 'nav_grapes'), ('wineries', 'nav_wineries'), ('articles', 'nav_learn'), ('glossary', 'nav_glossary'), ('tools', 'nav_tools')]
+    navs = [('wines', 'nav_wines'), ('countries', 'nav_atlas'), ('grapes', 'nav_grapes'), ('wineries', 'nav_wineries'), ('articles', 'nav_learn'), ('blog', 'nav_blog'), ('glossary', 'nav_glossary'), ('tools', 'nav_tools')]
     nav = ''.join('<a href="%s"%s>%s</a>' % (url(l, k), ' aria-current="page"' if active == k else '', s(n, l)) for k, n in navs)
     langs = ''.join('<a href="%s" hreflang="%s" lang="%s"%s>%s</a>' % (alt[x], x, x, ' class="on"' if x == l else '', x.upper()) for x in LANGS)
     ship_opts = ''.join('<option value="%s">%s</option>' % (c, T(n, l)) for c, n in SHIP)
@@ -131,7 +132,7 @@ def layout(l, title, desc, body, alt, active=''):
     stores_js = json.dumps({k: STORES[k] for k in ('amazon', 'shops', 'comparator')}, ensure_ascii=False)
     agelinks = ''.join('<a href="%s">%s</a>' % (alt[x], LANG_NAMES[x]) for x in LANGS)
     foot_explore = ''.join('<a href="%s">%s</a>' % (url(l, k), s(n, l)) for k, n in navs[:4])
-    foot_learn = ''.join('<a href="%s">%s</a>' % (url(l, 'articles') + '#' + sec, T(S['sections'][sec], l)) for sec in ('ciencia', 'viticultura', 'cata', 'maridaje', 'historia')) + '<a href="%s">%s</a>' % (url(l, 'glossary'), s('nav_glossary', l))
+    foot_learn = ''.join('<a href="%s">%s</a>' % (url(l, 'articles') + '#' + sec, T(S['sections'][sec], l)) for sec in ('ciencia', 'viticultura', 'cata', 'maridaje', 'historia')) + '<a href="%s">%s</a>' % (url(l, 'blog'), s('nav_blog', l)) + '<a href="%s">%s</a>' % (url(l, 'glossary'), s('nav_glossary', l))
     foot_proj = ''.join('<a href="%s">%s</a>' % (url(l, k), s(k + '_t', l)) for k in ('about', 'affiliates', 'privacy', 'legal'))
     return f'''<!doctype html>
 <html lang="{l}" translate="no">
@@ -305,7 +306,7 @@ def regions_list(l):
     return layout(l, s('regions_of', l) + ' · WorldWinePedia', s('atlas_intro', l), page_wrap(l, s('regions_of', l), s('atlas_intro', l), simple_cards(items), [(s('nav_atlas', l), url(l, 'countries')), (s('regions_of', l), None)]), alts('regions'), 'countries')
 
 def articles_list(l):
-    out = ''
+    out = (f'<h2 id="blog">{s("blog_latest", l)}</h2>' + blog_teasers(l, list(BL.values())[:3]) + f'<p><a class="textlink" href="{url(l, "blog")}">{s("nav_blog", l)} →</a></p>') if BL else ''
     for sec in ('ciencia', 'viticultura', 'cata', 'maridaje', 'historia', 'guias'):
         arts = [a for a in A.values() if a.get('section') == sec]
         if not arts: continue
@@ -410,6 +411,34 @@ def article_page(l, a):
     body = f'<main class="page"><div class="detail">{main}{side}</div><script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script></main>'
     return layout(l, f"{T(a['title'], l)} · WorldWinePedia", strip(T(a.get('summary'), l)), body, alts('articles', a['slug']), 'articles')
 
+MONTHS = {'es': ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre'],
+          'en': ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
+          'fr': ['janvier', 'février', 'mars', 'avril', 'mai', 'juin', 'juillet', 'août', 'septembre', 'octobre', 'novembre', 'décembre'],
+          'it': ['gennaio', 'febbraio', 'marzo', 'aprile', 'maggio', 'giugno', 'luglio', 'agosto', 'settembre', 'ottobre', 'novembre', 'dicembre']}
+def fdate(d, l):
+    y, m, dd = (int(x) for x in d.split('-'))
+    if l == 'en': return f'{dd} {MONTHS[l][m-1]} {y}'
+    if l == 'fr' and dd == 1: return f'1er {MONTHS[l][m-1]} {y}'
+    return f'{dd} {"de " if l == "es" else ""}{MONTHS[l][m-1]}{" de" if l == "es" else ""} {y}'
+
+def blog_teasers(l, items):
+    return '<div class="grid three">' + ''.join(f'<a class="card" href="{url(l, "blog", b["slug"])}"><span class="meta"><time datetime="{b["date"]}">{fdate(b["date"], l)}</time></span><h3>{e(T(b["title"], l))}</h3><p>{e(T(b.get("summary"), l))}</p></a>' for b in items) + '</div>'
+
+def blog_list(l):
+    inner = blog_teasers(l, list(BL.values()))
+    return layout(l, s('nav_blog', l) + ' · WorldWinePedia', s('blog_intro', l), page_wrap(l, s('nav_blog', l), s('blog_intro', l), inner, [(s('nav_blog', l), None)]), alts('blog'), 'blog')
+
+def blog_page(l, b):
+    rel = [x for x in BL.values() if x['slug'] != b['slug']][:8]
+    side = '<aside>' + (f'<div class="box" style="margin-top:0"><h3>{s("blog_more", l)}</h3>{linklist([(T(x["title"], l), url(l, "blog", x["slug"])) for x in rel])}</div>' if rel else '')
+    rg = [g for g in b.get('related_grapes', []) if g in G]; rr = [r for r in b.get('related_regions', []) if r in R]
+    if rg or rr: side += f'<div class="box"{"" if rel else " style=\"margin-top:0\""}><h3>{s("related", l)}</h3>{linklist([(T(G[g]["name"], l), url(l, "grapes", g)) for g in rg] + [(T(R[r]["name"], l), url(l, "regions", r)) for r in rr])}</div>'
+    side += '</aside>'
+    main = f'<div>{crumbs(l, [(s("nav_blog", l), url(l, "blog")), (T(b["title"], l), None)])}<span class="eyebrow">{s("nav_blog", l)} · <time datetime="{b["date"]}">{fdate(b["date"], l)}</time></span><h1>{e(T(b["title"], l))}</h1><p class="lead">{e(T(b.get("summary"), l))}</p><div class="prose">{T(b.get("body"), l)}</div></div>'
+    ld = {"@context": "https://schema.org", "@type": "BlogPosting", "headline": strip(T(b['title'], l)).strip(), "description": strip(T(b.get('summary'), l)).strip(), "inLanguage": l, "datePublished": b['date'], "dateModified": b.get('updated', b['date']), "mainEntityOfPage": DOMAIN + url(l, 'blog', b['slug']), "image": f"{DOMAIN}/img/og-{l}.jpg", "author": {"@type": "Organization", "name": "WorldWinePedia"}, "publisher": {"@type": "Organization", "name": "WorldWinePedia", "logo": {"@type": "ImageObject", "url": DOMAIN + "/img/logo.png"}}}
+    body = f'<main class="page"><div class="detail">{main}{side}</div><script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script></main>'
+    return layout(l, f"{T(b['title'], l)} · WorldWinePedia", strip(T(b.get('summary'), l)), body, alts('blog', b['slug']), 'blog')
+
 def static_page(l, key):
     p = STATIC_PAGES[key]
     body = page_wrap(l, s(key + '_t', l), '', f'<div class="prose">{T(p, l)}</div>', [(s(key + '_t', l), None)])
@@ -423,6 +452,7 @@ def search_index(l):
     for c in C.values(): idx.append({'t': T(c['name'], l), 'c': s('country', l), 'u': url(l, 'countries', c['slug']), 'k': ''})
     for g in G.values(): idx.append({'t': T(g['name'], l), 'c': s('nav_grapes', l), 'u': url(l, 'grapes', g['slug']), 'k': ' '.join(g.get('synonyms') or [])})
     for a in A.values(): idx.append({'t': T(a['title'], l), 'c': T(S['sections'].get(a.get('section'), {}), l), 'u': url(l, 'articles', a['slug']), 'k': ''})
+    for b in BL.values(): idx.append({'t': T(b['title'], l), 'c': s('nav_blog', l), 'u': url(l, 'blog', b['slug']), 'k': ''})
     for g in GL: idx.append({'t': T(g['term'], l), 'c': s('nav_glossary', l), 'u': url(l, 'glossary') + '#' + g['slug'], 'k': ''})
     return json.dumps(idx, ensure_ascii=False, separators=(',', ':'))
 
@@ -451,6 +481,7 @@ def build():
         pages += [(url(l, 'countries', x['slug']), country_page(l, x)) for x in C.values()]
         pages += [(url(l, 'grapes', x['slug']), grape_page(l, x)) for x in G.values()]
         pages += [(url(l, 'articles', x['slug']), article_page(l, x)) for x in A.values()]
+        pages += [(url(l, 'blog'), blog_list(l))] + [(url(l, 'blog', x['slug']), blog_page(l, x)) for x in BL.values()]
         for p, h in pages: write(p, h); n += 1
         write('/%s/search.json' % l, search_index(l))
     write('/', root_index())
