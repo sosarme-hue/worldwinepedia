@@ -306,7 +306,7 @@ def regions_list(l):
     return layout(l, s('regions_of', l) + ' · WorldWinePedia', s('atlas_intro', l), page_wrap(l, s('regions_of', l), s('atlas_intro', l), simple_cards(items), [(s('nav_atlas', l), url(l, 'countries')), (s('regions_of', l), None)]), alts('regions'), 'countries')
 
 def articles_list(l):
-    out = (f'<h2 id="blog">{s("blog_latest", l)}</h2>' + blog_teasers(l, list(BL.values())[:3]) + f'<p><a class="textlink" href="{url(l, "blog")}">{s("nav_blog", l)} →</a></p>') if BL else ''
+    out = ''
     for sec in ('ciencia', 'viticultura', 'cata', 'maridaje', 'historia', 'guias'):
         arts = [a for a in A.values() if a.get('section') == sec]
         if not arts: continue
@@ -424,12 +424,12 @@ def fdate(d, l):
 def blog_teasers(l, items):
     return '<div class="grid three">' + ''.join(f'<a class="card" href="{url(l, "blog", b["slug"])}"><span class="meta"><time datetime="{b["date"]}">{fdate(b["date"], l)}</time></span><h3>{e(T(b["title"], l))}</h3><p>{e(T(b.get("summary"), l))}</p></a>' for b in items) + '</div>'
 
-def blog_list(l):
-    inner = blog_teasers(l, list(BL.values()))
+def blog_list(l, hasta='9999'):
+    inner = blog_teasers(l, [b for b in BL.values() if b['date'] <= hasta])
     return layout(l, s('nav_blog', l) + ' · WorldWinePedia', s('blog_intro', l), page_wrap(l, s('nav_blog', l), s('blog_intro', l), inner, [(s('nav_blog', l), None)]), alts('blog'), 'blog')
 
 def blog_page(l, b):
-    rel = [x for x in BL.values() if x['slug'] != b['slug']][:8]
+    rel = [x for x in BL.values() if x['slug'] != b['slug'] and x['date'] <= b['date']][:8]
     side = '<aside>' + (f'<div class="box" style="margin-top:0"><h3>{s("blog_more", l)}</h3>{linklist([(T(x["title"], l), url(l, "blog", x["slug"])) for x in rel])}</div>' if rel else '')
     rg = [g for g in b.get('related_grapes', []) if g in G]; rr = [r for r in b.get('related_regions', []) if r in R]
     if rg or rr: side += f'<div class="box"{"" if rel else " style=\"margin-top:0\""}><h3>{s("related", l)}</h3>{linklist([(T(G[g]["name"], l), url(l, "grapes", g)) for g in rg] + [(T(R[r]["name"], l), url(l, "regions", r)) for r in rr])}</div>'
@@ -452,7 +452,6 @@ def search_index(l):
     for c in C.values(): idx.append({'t': T(c['name'], l), 'c': s('country', l), 'u': url(l, 'countries', c['slug']), 'k': ''})
     for g in G.values(): idx.append({'t': T(g['name'], l), 'c': s('nav_grapes', l), 'u': url(l, 'grapes', g['slug']), 'k': ' '.join(g.get('synonyms') or [])})
     for a in A.values(): idx.append({'t': T(a['title'], l), 'c': T(S['sections'].get(a.get('section'), {}), l), 'u': url(l, 'articles', a['slug']), 'k': ''})
-    for b in BL.values(): idx.append({'t': T(b['title'], l), 'c': s('nav_blog', l), 'u': url(l, 'blog', b['slug']), 'k': ''})
     for g in GL: idx.append({'t': T(g['term'], l), 'c': s('nav_glossary', l), 'u': url(l, 'glossary') + '#' + g['slug'], 'k': ''})
     return json.dumps(idx, ensure_ascii=False, separators=(',', ':'))
 
@@ -466,6 +465,37 @@ def root_index():
 
 exec(open(os.path.join(ROOT, 'tools', 'herramientas.py'), encoding='utf-8').read())
 S['nav_tools'] = TX['tools']
+
+def blog_package():
+    """Blog publicado por fechas: las páginas van a dist/_blog/payload y las copia en su sitio
+    _blog/publicar.php, que ejecuta cada día una tarea programada de Hostinger. Así main nunca
+    contiene es/blog/... y el despliegue por Git no choca con lo que publica la tarea."""
+    if not BL: return
+    n0 = len(SITEMAP)
+    base = os.path.join(DIST, '_blog')
+    def put(rel, path_for_links, html_):
+        full = os.path.join(base, rel); os.makedirs(os.path.dirname(full), exist_ok=True)
+        open(full, 'w', encoding='utf-8').write(relativize(html_, path_for_links))
+    arts = []
+    for b in sorted(BL.values(), key=lambda x: (x['date'], x['slug'])):
+        fl = []
+        for l in LANGS:
+            u = url(l, 'blog', b['slug']); rel = u.strip('/') + '/index.html'
+            put('payload/' + rel, u, blog_page(l, b)); fl.append(rel)
+        arts.append({'clave': b['slug'], 'fecha': b['date'], 'archivos': fl, 'urls': [DOMAIN + url(l, 'blog', b['slug']) for l in LANGS]})
+    idx = []
+    for d in sorted({b['date'] for b in BL.values()}):
+        fl = []
+        for l in LANGS:
+            u = url(l, 'blog'); rel = u.strip('/') + '/index.html'
+            put('payload/indices/%s/%s' % (d, rel), u, blog_list(l, d)); fl.append(rel)
+        idx.append({'fecha': d, 'archivos': fl})
+    del SITEMAP[n0:]
+    man = {'sitio': DOMAIN, 'articulos': arts, 'indices': idx, 'urls_portadas': [DOMAIN + url(l, 'blog') for l in LANGS],
+           'sitemap': {'archivo': 'sitemap-blog.xml', 'modo': 'propio'}}
+    json.dump(man, open(os.path.join(base, 'manifiesto.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+    shutil.copy(os.path.join(ROOT, 'tools', 'blog_publicar.php'), os.path.join(base, 'publicar.php'))
+    open(os.path.join(base, '.htaccess'), 'w').write('Require all denied\n')
 
 def build():
     if os.path.exists(DIST): shutil.rmtree(DIST)
@@ -481,7 +511,6 @@ def build():
         pages += [(url(l, 'countries', x['slug']), country_page(l, x)) for x in C.values()]
         pages += [(url(l, 'grapes', x['slug']), grape_page(l, x)) for x in G.values()]
         pages += [(url(l, 'articles', x['slug']), article_page(l, x)) for x in A.values()]
-        pages += [(url(l, 'blog'), blog_list(l))] + [(url(l, 'blog', x['slug']), blog_page(l, x)) for x in BL.values()]
         for p, h in pages: write(p, h); n += 1
         write('/%s/search.json' % l, search_index(l))
     write('/', root_index())
@@ -494,7 +523,8 @@ def build():
             sm += '<url><loc>%s%s</loc>%s</url>\n' % (DOMAIN, alt[l], ''.join('<xhtml:link rel="alternate" hreflang="%s" href="%s%s"/>' % (x, DOMAIN, alt[x]) for x in LANGS))
     sm += '</urlset>\n'
     write('/sitemap.xml', sm)
-    write('/robots.txt', 'User-agent: *\nAllow: /\nSitemap: %s/sitemap.xml\n' % DOMAIN)
+    blog_package()
+    write('/robots.txt', 'User-agent: *\nAllow: /\nSitemap: %s/sitemap.xml\n' % DOMAIN + ('Sitemap: %s/sitemap-blog.xml\n' % DOMAIN if BL else ''))
     print('pages:', n, '| wines', len(V), 'wineries', len(B), 'regions', len(R), 'countries', len(C), 'grapes', len(G), 'articles', len(A), 'glossary', len(GL))
 
 if __name__ == '__main__':
