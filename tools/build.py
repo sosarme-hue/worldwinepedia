@@ -238,8 +238,8 @@ def home(l):
         h, p = S[key][l]
         cards += f'<div class="card"><span class="num">0{i+1}</span><h3>{h}</h3><p>{p}</p><a class="textlink" href="{url(l, k)}">{s("explore", l)} →</a></div>'
     atlas = ''.join(country_card(l, C[x]) for x in HOME_COUNTRIES if x in C)
-    sci = ''.join(f'<a class="topic" href="{url(l, "articles", a["slug"])}"><i>↗</i><strong>{e(T(a["title"], l))}</strong><span>{e(T(a["summary"], l))[:140]}</span></a>' for a in A.values() if a.get('section') == 'ciencia')
-    viti = ''.join(f'<li><a href="{url(l, "articles", a["slug"])}">{e(T(a["title"], l))}</a></li>' for a in A.values() if a.get('section') == 'viticultura')
+    sci = ''.join(f'<a class="topic" href="{url(l, "articles", a["slug"])}"><i>↗</i><strong>{e(T(a["title"], l))}</strong><span>{e(T(a["summary"], l))[:140]}</span></a>' for a in [a for a in A.values() if a.get('section') == 'ciencia'][:8])
+    viti = ''.join(f'<li><a href="{url(l, "articles", a["slug"])}">{e(T(a["title"], l))}</a></li>' for a in [a for a in A.values() if a.get('section') == 'viticultura'][:8])
     gp = ''.join(f'<a class="pill" href="{url(l, "grapes", g)}">{e(T(G[g]["name"], l))} ↗</a>' for g in ['tempranillo', 'garnacha', 'albarino', 'verdejo', 'mencia', 'monastrell', 'cabernet-sauvignon', 'pinot-noir', 'chardonnay', 'riesling', 'sangiovese', 'nebbiolo'] if g in G)
     # wines: diverse selection
     pick, seen = [], set()
@@ -255,7 +255,7 @@ def home(l):
         arts = [a for a in A.values() if a.get('section') == sec][:3]
         cult += f'<div class="article"><span class="eyebrow">{T(S["sections"][sec], l)}</span>' + ''.join(f'<h3><a href="{url(l, "articles", a["slug"])}">{e(T(a["title"], l))}</a></h3><p>{e(T(a["summary"], l))}</p>' for a in arts[:2]) + '</div>'
     r = [S[k][l] for k in ('rib1', 'rib2', 'rib3', 'rib4')]
-    body = f'''<main>
+    body = f'''<main class="home">
 <div class="hero"><div><span class="eyebrow">{s('hero_eyebrow', l)}</span><h1>{s('hero_h1', l)}</h1><p>{s('hero_p', l)}</p>
 <form class="search" role="search" action="{url(l, 'search')}"><input name="q" aria-label="{s('search_btn', l)}" placeholder="{s('search_ph', l)}"><button>{s('search_btn', l)} ↗</button></form>
 <div class="quick"><a href="{url(l, 'regions', 'rioja')}">Rioja</a><a href="{url(l, 'regions', 'ribera-del-duero')}">Ribera del Duero</a><a href="{url(l, 'grapes', 'albarino')}">Albariño</a><a href="{url(l, 'regions', 'jerez-xeres-sherry')}">Jerez</a><a href="{url(l, 'articles')}">{T(S['sections']['guias'], l)}</a></div></div></div>
