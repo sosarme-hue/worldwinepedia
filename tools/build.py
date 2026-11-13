@@ -33,6 +33,9 @@ except Exception: pass
 WM = {}
 try: WM = json.load(open(os.path.join(DATA, 'images_wm.json'), encoding='utf-8'))
 except Exception: pass
+VIN = {}
+try: VIN = json.load(open(os.path.join(DATA, 'vinatis.json'), encoding='utf-8'))
+except Exception: pass
 import zlib
 def pick(pool, slug):
     return pool[zlib.crc32(slug.encode()) % len(pool)] if pool else None
@@ -197,7 +200,9 @@ def wine_card(l, w, photo=True):
     txt = (w['name'] + ' ' + win.get('name', '') + ' ' + T(reg.get('name'), l) + ' ' + ' '.join(T(G[g]['name'], l) for g in w.get('grapes', []) if g in G)).lower()
     grapes = ', '.join(T(G[g]['name'], l) for g in w.get('grapes', []) if g in G)
     wm = WM.get('wines', {}).get(w['slug']) if photo else None
-    bottle_img = f'<img class="realbottle" src="{wm["src"]}" alt="{e(wm.get("alt", ""))}" loading="lazy">' if wm else f'<div class="bottle {BOTTLE.get(w.get("type"), "")}" data-label="{e(label)}"></div>'
+    vn = VIN.get(w['slug']) if photo and not wm else None
+    if vn: wm = {'src': vn['img'], 'alt': w['name']}
+    bottle_img = f'<img class="realbottle" src="{e(wm["src"])}" alt="{e(wm.get("alt", ""))}" loading="lazy">' if wm else f'<div class="bottle {BOTTLE.get(w.get("type"), "")}" data-label="{e(label)}"></div>'
     return f'''<article class="wine" data-item data-type="{w.get('type','')}" data-region="{w.get('region','')}" data-text="{e(txt)}">
 <div class="bottlearea"><span class="label">{e(T(S['type1'].get(w.get('type'), {}), l)).upper()}</span>{bottle_img}</div>
 <p class="meta">{e(win.get('name',''))} · {e(T(reg.get('name'), l))}</p>
@@ -341,10 +346,15 @@ def a_(u, t): return f'<a href="{u}">{e(t)}</a>'
 
 def grape_links(l, gs): return ', '.join(a_(url(l, 'grapes', g), T(G[g]['name'], l)) for g in gs if g in G)
 
+def vin_photo(w, l):
+    v = VIN.get(w['slug'])
+    if not v: return ''
+    return f'<figure class="bottle-photo"><img src="{e(v["img"])}" alt="{e(w["name"])}" loading="lazy"><figcaption>{PH[l]}: Vinatis</figcaption></figure>'
+
 def wine_page(l, w):
     reg = R.get(w.get('region'), {}); win = B.get(w.get('winery'), {}); co = C.get(w.get('country') or reg.get('country'), {})
     ship_opts = ''.join('<option value="%s">%s</option>' % (c, T(n, l)) for c, n in SHIP)
-    side = f'''<aside><div class="buybox"><h2>{s('where_buy', l)}</h2><label style="font-size:13px">{s('shops_to', l)}:<select class="ship">{ship_opts}</select></label><div class="shops" data-q="{e(w.get('search') or w['name'])}"></div><small>{s('price_note', l)}<br>{s('aff_short', l)} {s('amazon_note', l)}</small></div>
+    side = f'''<aside><div class="buybox"><h2>{s('where_buy', l)}</h2><label style="font-size:13px">{s('shops_to', l)}:<select class="ship">{ship_opts}</select></label><div class="shops" data-q="{e(w.get('search') or w['name'])}"{(' data-vinatis="%s"' % e(VIN[w['slug']]['url'])) if w['slug'] in VIN else ''}></div><small>{s('price_note', l)}<br>{s('aff_short', l)} {s('amazon_note', l)}</small></div>
 {facts([(s('winery', l), a_(url(l, 'wineries', win['slug']), win['name']) if win else ''), (s('region', l), a_(url(l, 'regions', reg['slug']), T(reg['name'], l)) if reg else ''), (s('country', l), a_(url(l, 'countries', co['slug']), T(co['name'], l)) if co else ''), (s('type', l), T(S['type1'].get(w.get('type'), {}), l)), (s('category', l), e(T(w.get('category'), l))), (s('grapes', l), grape_links(l, w.get('grapes', []))), (s('serve', l), e(T(w.get('serve'), l)))])}</aside>'''
     more = [x for x in V.values() if x['slug'] != w['slug'] and (x.get('winery') == w.get('winery') or x.get('region') == w.get('region'))][:8]
     morehtml = f'<div class="box"><h3>{s("related", l)}</h3>{linklist([(x["name"], url(l, "wines", x["slug"])) for x in more])}</div>' if more else ''
@@ -352,7 +362,7 @@ def wine_page(l, w):
 <span class="eyebrow">{e(win.get('name', ''))}</span><h1>{e(w['name'])}</h1>
 <div class="tags"><span class="tag2 t">{T(S['type1'].get(w.get('type'), {}), l)}</span>{'<span class="tag2">%s</span>' % e(T(w.get('category'), l)) if w.get('category') else ''}<span class="tag2">{e(T(reg.get('kind'), l))} {e(T(reg.get('name'), l))}</span></div>
 <p class="lead">{e(T(w.get('summary'), l))}</p>
-{photo(WM.get('wines', {}).get(w['slug']), l, cls='bottle-photo')}
+{photo(WM.get('wines', {}).get(w['slug']), l, cls='bottle-photo') or vin_photo(w, l)}
 <div class="prose">{T(w.get('body'), l)}</div>
 <div class="grid three" style="margin-top:24px"><div class="box"><h3>{s('tasting', l)}</h3><p>{e(T(w.get('tasting'), l))}</p></div><div class="box"><h3>{s('pairing', l)}</h3><p>{e(T(w.get('pairing'), l))}</p></div><div class="box"><h3>{s('serve', l)}</h3><p>{e(T(w.get('serve'), l))}</p></div></div>
 {morehtml}</div>'''

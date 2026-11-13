@@ -43,8 +43,10 @@
         html += '<div class="shop"><strong>' + esc(a.name) + '</strong><a rel="sponsored nofollow noopener" target="_blank" href="' + esc(url) + '">' + W.t.see_price + ' ↗</a></div>';
       }
       (st.shops || []).forEach(function (s) {
+        var direct = s.direct_attr ? box.getAttribute(s.direct_attr) : null;
+        if (s.direct_attr && !direct) return;
         if (s.active !== false && s.countries.indexOf(ship) >= 0) {
-          var su = s.tracking ? s.tracking + encodeURIComponent(s.target.replace('{q}', encodeURIComponent(q))) : s.url.replace('{q}', encodeURIComponent(q));
+          var su = direct ? direct : s.tracking ? s.tracking + encodeURIComponent(s.target.replace('{q}', encodeURIComponent(q))) : s.url.replace('{q}', encodeURIComponent(q));
           html += '<div class="shop"><strong>' + esc(s.name) + '</strong><a rel="sponsored nofollow noopener" target="_blank" href="' + esc(su) + '">' + W.t.see_price + ' ↗</a></div>';
         }
       });

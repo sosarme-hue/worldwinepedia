@@ -34,9 +34,10 @@
         "ES"
       ],
       "network": "Tradedoubler",
-      "active": false,
+      "active": true,
       "tracking": "https://clk.tradedoubler.com/click?p=353874&a=3507316&url=",
-      "target": "https://www.vinatis.es/buscar?search_query={q}"
+      "target": "https://www.vinatis.es/buscar?search_query={q}",
+      "direct_attr": "data-vinatis"
     }
   ],
   "_ejemplo_shop": {
@@ -53,5 +54,5 @@
   },
   "awin_publisher_id": "3148618",
   "awin_note": "Enlace profundo: https://www.awin1.com/cread.php?awinmid={mid}&awinaffid=3148618&ued={url codificada}",
-  "_nota_tradedoubler": "Tiendas de Tradedoubler: 'tracking' es el enlace básico del programa terminado en &url=, y 'target' la búsqueda de la tienda con {q}. Se activa con active=true cuando tracking y target están confirmados."
+  "_nota_tradedoubler": "Vinatis: solo aparece en los vinos que están en data/vinatis.json (enlace directo a su ficha, generado desde el feed de Tradedoubler). 'tracking'+'target' quedan como reserva para búsquedas, sin usar."
 }
