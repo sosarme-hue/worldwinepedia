@@ -150,7 +150,7 @@ footer .webs-hermanas a{display:inline;padding:0;margin:0}.search input{font-siz
   if (gate && get('wwp-age') !== 'ok') {
     gate.style.display = 'flex';
     gate.querySelector('.yes').addEventListener('click', function () { set('wwp-age', 'ok'); gate.style.display = 'none'; });
-    gate.querySelector('.no').addEventListener('click', function () { gate.querySelector('.in').innerHTML = '<h2>' + W.t.age_bye + '</h2>'; });
+    gate.querySelector('.no').addEventListener('click', function () { gate.querySelector('.in').innerHTML = '<h2>' + W.t.age_bye + '<\/h2>'; });
   }
 
   // ---- Ship-to country ----
@@ -181,20 +181,20 @@ footer .webs-hermanas a{display:inline;padding:0;margin:0}.search input{font-siz
       var a = st.amazon[ship];
       if (a) {
         var url = 'https://' + a.domain + '/s?k=' + encodeURIComponent(q) + (a.tag ? '&tag=' + a.tag : '');
-        html += '<div class="shop"><strong>' + esc(a.name) + '</strong><a rel="sponsored nofollow noopener" target="_blank" href="' + esc(url) + '">' + W.t.see_price + ' ↗</a></div>';
+        html += '<div class="shop"><strong>' + esc(a.name) + '<\/strong><a rel="sponsored nofollow noopener" target="_blank" href="' + esc(url) + '">' + W.t.see_price + ' ↗<\/a><\/div>';
       }
       (st.shops || []).forEach(function (s) {
         var direct = s.direct_attr ? box.getAttribute(s.direct_attr) : null;
         if (s.direct_attr && !direct) return;
         if (s.active !== false && s.countries.indexOf(ship) >= 0) {
           var su = direct ? direct : s.tracking ? s.tracking + encodeURIComponent(s.target.replace('{q}', encodeURIComponent(q))) : s.url.replace('{q}', encodeURIComponent(q));
-          html += '<div class="shop"><strong>' + esc(s.name) + '</strong><a rel="sponsored nofollow noopener" target="_blank" href="' + esc(su) + '">' + W.t.see_price + ' ↗</a></div>';
+          html += '<div class="shop"><strong>' + esc(s.name) + '<\/strong><a rel="sponsored nofollow noopener" target="_blank" href="' + esc(su) + '">' + W.t.see_price + ' ↗<\/a><\/div>';
         }
       });
       var c = st.comparator;
-      html += '<div class="shop"><strong>' + esc(c.name) + '</strong><a rel="nofollow noopener" target="_blank" href="' + esc(c.url.replace('{q}', encodeURIComponent(q).replace(/%20/g, '+'))) + '">' + W.t.compare_world + ' ↗</a></div>';
-      if (ship === 'US') notes += '<p class="note">' + W.t.us_note + '</p>';
-      if (ship === 'FR') notes += '<p class="note">' + W.t.fr_note + '</p>';
+      html += '<div class="shop"><strong>' + esc(c.name) + '<\/strong><a rel="nofollow noopener" target="_blank" href="' + esc(c.url.replace('{q}', encodeURIComponent(q).replace(/%20/g, '+'))) + '">' + W.t.compare_world + ' ↗<\/a><\/div>';
+      if (ship === 'US') notes += '<p class="note">' + W.t.us_note + '<\/p>';
+      if (ship === 'FR') notes += '<p class="note">' + W.t.fr_note + '<\/p>';
       box.innerHTML = notes + html;
     });
   }
@@ -245,9 +245,9 @@ footer .webs-hermanas a{display:inline;padding:0;margin:0}.search input{font-siz
         if (!q) { sr.innerHTML = ''; return; }
         var words = q.split(/\s+/);
         var res = idx.filter(function (e) { var t = norm(e.t + ' ' + e.k); return words.every(function (w) { return t.indexOf(w) >= 0; }); });
-        sr.innerHTML = '<p>' + res.length + ' ' + W.t.results + '</p>' + (res.length ? res.slice(0, 200).map(function (e) {
-          var u = W.root + e.u.slice(1); if (W.preview) u = u.replace(/\/(#|$)/, '/index.html$1'); return '<a href="' + u + '">' + esc(e.t) + '<small>' + esc(e.c) + '</small></a>';
-        }).join('') : '<p>' + W.t.no_results + '</p>');
+        sr.innerHTML = '<p>' + res.length + ' ' + W.t.results + '<\/p>' + (res.length ? res.slice(0, 200).map(function (e) {
+          var u = W.root + e.u.slice(1); if (W.preview) u = u.replace(/\/(#|$)/, '/index.html$1'); return '<a href="' + u + '">' + esc(e.t) + '<small>' + esc(e.c) + '<\/small><\/a>';
+        }).join('') : '<p>' + W.t.no_results + '<\/p>');
       }
       run(q0);
       if (input) input.addEventListener('input', function () { run(input.value); });
@@ -275,7 +275,7 @@ window.AVISO_COOKIES={politica:{es:"/es/privacidad/",en:"/en/privacy/",fr:"/fr/c
 /* Aviso de cookies (RGPD / LSSI) · común a celebraciones.org, catdogpedia.com y worldwinepedia.com · 2026-11-08
    Configuración: window.AVISO_COOKIES = {politica: {es: '/cookies.html', en: ...}, color: '#123', texto: '#fff'} antes de este bloque.
    Categorías: necesarias (siempre), estadisticas, publicidad. Se guarda en localStorage 'aviso-cookies' 12 meses.
-   Para activar un script solo con permiso: <script type="text/plain" data-cookies="estadisticas" src="..."></script>
+   Para activar un script solo con permiso: <script type="text/plain" data-cookies="estadisticas" src="..."><\/script>
    API: window.avisoCookies.abrir(), .permiso('estadisticas'), evento 'avisocookies' en document. */
 (function () {
   var C = window.AVISO_COOKIES || {}, d = document, CLAVE = 'aviso-cookies', VERSION = C.version || 1, DOCE_MESES = 365 * 864e5;
@@ -320,17 +320,17 @@ window.AVISO_COOKIES={politica:{es:"/es/privacidad/",en:"/en/privacy/",fr:"/fr/c
     d.body.appendChild(caja); return caja;
   }
   function vistaInicial() {
-    montar().innerHTML = '<h2 id="avc-t">🍪 ' + t.t + '</h2><p>' + t.p + ' <a href="' + POL + '">' + t.mas + '</a></p>' +
-      '<div class="avb"><button type="button" data-a="no">' + t.no + '</button><button type="button" class="sec" data-a="conf">' + t.conf + '</button><button type="button" data-a="ok">' + t.ok + '</button></div>';
+    montar().innerHTML = '<h2 id="avc-t">🍪 ' + t.t + '<\/h2><p>' + t.p + ' <a href="' + POL + '">' + t.mas + '<\/a><\/p>' +
+      '<div class="avb"><button type="button" data-a="no">' + t.no + '<\/button><button type="button" class="sec" data-a="conf">' + t.conf + '<\/button><button type="button" data-a="ok">' + t.ok + '<\/button><\/div>';
     eventos();
   }
   function vistaConfig() {
     var v = leer() || {};
-    var fila = function (k, nom, des) { return '<label class="avcat"><span><b>' + nom + '</b><small>' + des + '</small></span><input type="checkbox" data-k="' + k + '"' + (v[k] ? ' checked' : '') + '></label>'; };
-    montar().innerHTML = '<h2 id="avc-t">🍪 ' + t.t + '</h2><p><a href="' + POL + '">' + t.mas + '</a></p>' +
-      '<div class="avcat"><span><b>' + t.nec + '</b><small>' + t.necD + '</small></span><span class="fijo">' + t.siempre + '</span></div>' +
+    var fila = function (k, nom, des) { return '<label class="avcat"><span><b>' + nom + '<\/b><small>' + des + '<\/small><\/span><input type="checkbox" data-k="' + k + '"' + (v[k] ? ' checked' : '') + '><\/label>'; };
+    montar().innerHTML = '<h2 id="avc-t">🍪 ' + t.t + '<\/h2><p><a href="' + POL + '">' + t.mas + '<\/a><\/p>' +
+      '<div class="avcat"><span><b>' + t.nec + '<\/b><small>' + t.necD + '<\/small><\/span><span class="fijo">' + t.siempre + '<\/span><\/div>' +
       fila('estadisticas', t.est, t.estD) + fila('publicidad', t.pub, t.pubD) +
-      '<div class="avb" style="margin-top:6px"><button type="button" data-a="no">' + t.no + '</button><button type="button" class="sec" data-a="guardar">' + t.guardar + '</button><button type="button" data-a="ok">' + t.todo + '</button></div>';
+      '<div class="avb" style="margin-top:6px"><button type="button" data-a="no">' + t.no + '<\/button><button type="button" class="sec" data-a="guardar">' + t.guardar + '<\/button><button type="button" data-a="ok">' + t.todo + '<\/button><\/div>';
     eventos();
   }
   function eventos() {
