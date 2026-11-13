@@ -27,7 +27,18 @@
       "tag": "partenopide04-21"
     }
   },
-  "shops": [],
+  "shops": [
+    {
+      "name": "Vinatis",
+      "countries": [
+        "ES"
+      ],
+      "network": "Tradedoubler",
+      "active": false,
+      "tracking": "https://clk.tradedoubler.com/click?p=PROGRAMA&a=SITIO&url=",
+      "target": "https://www.vinatis.es/buscar?search_query={q}"
+    }
+  ],
   "_ejemplo_shop": {
     "name": "Tienda",
     "countries": [
@@ -41,5 +52,6 @@
     "url": "https://www.wine-searcher.com/find/{q}"
   },
   "awin_publisher_id": "3148618",
-  "awin_note": "Enlace profundo: https://www.awin1.com/cread.php?awinmid={mid}&awinaffid=3148618&ued={url codificada}"
+  "awin_note": "Enlace profundo: https://www.awin1.com/cread.php?awinmid={mid}&awinaffid=3148618&ued={url codificada}",
+  "_nota_tradedoubler": "Tiendas de Tradedoubler: 'tracking' es el enlace básico del programa terminado en &url=, y 'target' la búsqueda de la tienda con {q}. Se activa con active=true cuando tracking y target están confirmados."
 }
