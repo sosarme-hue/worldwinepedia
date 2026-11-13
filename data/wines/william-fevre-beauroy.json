@@ -1,0 +1,48 @@
+{
+  "slug": "william-fevre-beauroy",
+  "name": "William Fèvre Chablis 1er Cru Beauroy",
+  "winery": "william-fevre",
+  "region": "chablis",
+  "country": "francia",
+  "type": "blanco",
+  "category": {
+    "es": "1er Cru",
+    "en": "Premier Cru",
+    "fr": "Premier Cru",
+    "it": "Premier Cru"
+  },
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Chablis Premier Cru Beauroy del Domaine William Fèvre, un Chardonnay de la orilla izquierda del Serein, tenso y mineral.",
+    "en": "Chablis Premier Cru Beauroy from Domaine William Fèvre, a taut, mineral Chardonnay from the left bank of the Serein.",
+    "fr": "Chablis Premier Cru Beauroy du Domaine William Fèvre, un chardonnay tendu et minéral de la rive gauche du Serein.",
+    "it": "Chablis Premier Cru Beauroy del Domaine William Fèvre, uno Chardonnay teso e minerale della riva sinistra del Serein."
+  },
+  "body": {
+    "es": "<p>Los premiers crus de Chablis se reparten a ambos lados del río Serein, sobre las margas y calizas kimmeridgienses que dan a los vinos de la zona su carácter mineral. <strong>Beauroy</strong> se encuentra en la orilla izquierda, en el noroeste de la denominación, cerca del municipio de Poinchy, y suele dar vinos algo más afrutados y abiertos que los de otros premiers crus.</p><p>William Fèvre, uno de los principales propietarios de Chablis, elabora este vino con <strong>Chardonnay</strong> de sus propias viñas, vendimiado a mano. Como en el resto de sus premiers crus, una parte del vino se fermenta y cría en barricas de roble usadas y otra en depósito, sin buscar aromas de madera, con el fin de preservar la pureza de la fruta y la expresión del terruño.</p><p>Es un Chablis seco, preciso y de acidez marcada, con más profundidad que un Chablis de nivel village. Se disfruta a partir de sus primeros años, pero mejora con una guarda moderada en botella.</p>",
+    "en": "<p>The Chablis premiers crus are spread on both sides of the river Serein, on the Kimmeridgian marl and limestone that give the area’s wines their mineral character. <strong>Beauroy</strong> lies on the left bank, in the north-west of the appellation, near the village of Poinchy, and tends to give somewhat fruitier, more open wines than other premiers crus.</p><p>William Fèvre, one of the leading vineyard owners in Chablis, makes this wine from hand-harvested <strong>Chardonnay</strong> from its own vines. As with its other premiers crus, part of the wine is fermented and aged in used oak barrels and part in tank, without seeking oak aromas, in order to preserve the purity of the fruit and the expression of the terroir.</p><p>It is a dry, precise Chablis with marked acidity and more depth than a village-level Chablis. It can be enjoyed from its first years, but improves with moderate ageing in bottle.</p>",
+    "fr": "<p>Les premiers crus de Chablis se répartissent sur les deux rives du Serein, sur les marnes et calcaires kimméridgiens qui donnent aux vins du secteur leur caractère minéral. <strong>Beauroy</strong> se trouve sur la rive gauche, au nord-ouest de l’appellation, près du village de Poinchy, et donne souvent des vins un peu plus fruités et ouverts que d’autres premiers crus.</p><p>William Fèvre, l’un des principaux propriétaires de Chablis, élabore ce vin avec du <strong>chardonnay</strong> de ses propres vignes, vendangé à la main. Comme pour ses autres premiers crus, une partie du vin est fermentée et élevée en fûts de chêne usagés et une autre en cuve, sans rechercher d’arômes boisés, afin de préserver la pureté du fruit et l’expression du terroir.</p><p>C’est un chablis sec, précis et à l’acidité marquée, plus profond qu’un chablis de niveau village. Il se déguste dès ses premières années, mais gagne à une garde modérée en bouteille.</p>",
+    "it": "<p>I premiers crus di Chablis si distribuiscono su entrambe le rive del fiume Serein, sulle marne e i calcari kimmeridgiani che conferiscono ai vini della zona il loro carattere minerale. <strong>Beauroy</strong> si trova sulla riva sinistra, nel nord-ovest della denominazione, vicino al villaggio di Poinchy, e dà spesso vini un po’ più fruttati e aperti rispetto ad altri premiers crus.</p><p>William Fèvre, uno dei principali proprietari di Chablis, produce questo vino con <strong>Chardonnay</strong> delle proprie vigne, vendemmiato a mano. Come per gli altri premiers crus, una parte del vino fermenta e matura in botti di rovere usate e un’altra in vasca, senza cercare aromi di legno, per preservare la purezza del frutto e l’espressione del terroir.</p><p>È uno Chablis secco, preciso e dall’acidità marcata, con più profondità di uno Chablis di livello village. Si gusta già nei primi anni, ma migliora con un moderato affinamento in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido. Aromas de pomelo, melocotón blanco, flores y un toque yodado. Boca fresca y jugosa, con final mineral.",
+    "en": "Pale yellow. Aromas of grapefruit, white peach, flowers and an iodine touch. Fresh, juicy palate with a mineral finish.",
+    "fr": "Jaune pâle. Arômes de pamplemousse, de pêche blanche, de fleurs et une touche iodée. Bouche fraîche et juteuse, à la finale minérale.",
+    "it": "Giallo paglierino. Aromi di pompelmo, pesca bianca, fiori e un tocco iodato. Bocca fresca e succosa, con finale minerale."
+  },
+  "pairing": {
+    "es": "Ostras, marisco, pescados a la plancha, sushi, quesos de cabra",
+    "en": "Oysters, shellfish, grilled fish, sushi, goat’s cheese",
+    "fr": "Huîtres, fruits de mer, poissons grillés, sushis, fromages de chèvre",
+    "it": "Ostriche, frutti di mare, pesce alla griglia, sushi, formaggi di capra"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de vino blanco",
+    "en": "10-12 °C, white wine glass",
+    "fr": "10-12 °C, verre à vin blanc",
+    "it": "10-12 °C, calice da vino bianco"
+  },
+  "search": "Chablis 1er Cru Beauroy William Fèvre"
+}

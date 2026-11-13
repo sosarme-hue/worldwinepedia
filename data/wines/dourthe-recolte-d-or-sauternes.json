@@ -1,0 +1,43 @@
+{
+  "slug": "dourthe-recolte-d-or-sauternes",
+  "name": "Récolte d’Or Sauternes",
+  "winery": "dourthe",
+  "region": "sauternes",
+  "country": "francia",
+  "type": "dulce",
+  "category": null,
+  "grapes": [
+    "semillon"
+  ],
+  "summary": {
+    "es": "Vino dulce de la denominación Sauternes comercializado por Dourthe, elaborado con uvas afectadas por la podredumbre noble.",
+    "en": "Sweet wine from the Sauternes appellation sold by Dourthe, made from grapes affected by noble rot.",
+    "fr": "Vin liquoreux de l’appellation Sauternes commercialisé par Dourthe, élaboré à partir de raisins touchés par la pourriture noble.",
+    "it": "Vino dolce della denominazione Sauternes commercializzato da Dourthe, prodotto con uve colpite dalla muffa nobile."
+  },
+  "body": {
+    "es": "<p>Sauternes, al sur de Burdeos y en la orilla izquierda del Garona, es la denominación de vinos dulces más célebre de Francia. La confluencia con el Ciron, un afluente de aguas más frías, genera nieblas matinales en otoño que, seguidas de tardes soleadas, favorecen el desarrollo de <em>Botrytis cinerea</em>, la podredumbre noble, que concentra el azúcar y los aromas de las uvas.</p><p>Los vinos se elaboran sobre todo con <strong>Sémillon</strong>, a menudo completado con Sauvignon Blanc y, en menor medida, Muscadelle. La vendimia se hace a mano, en varias pasadas por el viñedo, para recoger solo los racimos o granos en el punto adecuado.</p><p>Récolte d’Or es un Sauternes comercializado por Dourthe, casa bordelesa con una amplia gama de vinos de la región. Es un vino dulce de textura untuosa y acidez equilibrada, que puede disfrutarse joven por su fruta y también evolucionar en botella.</p>",
+    "en": "<p>Sauternes, south of Bordeaux on the left bank of the Garonne, is France’s most celebrated sweet-wine appellation. The confluence with the Ciron, a tributary with cooler water, creates morning mists in autumn which, followed by sunny afternoons, encourage the development of <em>Botrytis cinerea</em>, or noble rot, which concentrates the grapes’ sugar and aromas.</p><p>The wines are made mainly from <strong>Sémillon</strong>, often complemented by Sauvignon Blanc and, to a lesser extent, Muscadelle. Harvesting is done by hand, in several passes through the vineyard, to pick only the bunches or berries at the right stage.</p><p>Récolte d’Or is a Sauternes sold by Dourthe, a Bordeaux house with a broad range of wines from the region. It is a sweet wine with an unctuous texture and balanced acidity, which can be enjoyed young for its fruit and can also develop in bottle.</p>",
+    "fr": "<p>Sauternes, au sud de Bordeaux et sur la rive gauche de la Garonne, est l’appellation de vins liquoreux la plus célèbre de France. La confluence avec le Ciron, un affluent aux eaux plus fraîches, crée en automne des brumes matinales qui, suivies d’après-midi ensoleillés, favorisent le développement du <em>Botrytis cinerea</em>, la pourriture noble, qui concentre les sucres et les arômes des raisins.</p><p>Les vins sont élaborés surtout avec du <strong>sémillon</strong>, souvent complété par du sauvignon blanc et, dans une moindre mesure, de la muscadelle. Les vendanges se font à la main, en plusieurs tries successives, afin de ne cueillir que les grappes ou les grains au bon stade.</p><p>Récolte d’Or est un sauternes commercialisé par Dourthe, maison bordelaise à la large gamme de vins de la région. C’est un liquoreux à la texture onctueuse et à l’acidité équilibrée, qui peut s’apprécier jeune pour son fruit et aussi évoluer en bouteille.</p>",
+    "it": "<p>Sauternes, a sud di Bordeaux e sulla riva sinistra della Garonna, è la denominazione di vini dolci più celebre di Francia. La confluenza con il Ciron, un affluente dalle acque più fresche, crea in autunno nebbie mattutine che, seguite da pomeriggi soleggiati, favoriscono lo sviluppo della <em>Botrytis cinerea</em>, la muffa nobile, che concentra zuccheri e aromi delle uve.</p><p>I vini sono prodotti soprattutto con <strong>Sémillon</strong>, spesso completato da Sauvignon Blanc e, in misura minore, da Muscadelle. La vendemmia si fa a mano, in più passaggi nel vigneto, per raccogliere solo i grappoli o gli acini al punto giusto.</p><p>Récolte d’Or è un Sauternes commercializzato da Dourthe, maison bordolese con un’ampia gamma di vini della regione. È un vino dolce dalla trama untuosa e dall’acidità equilibrata, che si può gustare giovane per il suo frutto e può anche evolvere in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Oro brillante. Aromas de albaricoque, melocotón en almíbar, piel de naranja confitada y miel. Boca untuosa y dulce, equilibrada por la acidez.",
+    "en": "Bright gold. Aromas of apricot, peach in syrup, candied orange peel and honey. Unctuous, sweet palate balanced by acidity.",
+    "fr": "Or brillant. Arômes d’abricot, de pêche au sirop, d’écorce d’orange confite et de miel. Bouche onctueuse et douce, équilibrée par l’acidité.",
+    "it": "Oro brillante. Aromi di albicocca, pesca sciroppata, scorza d’arancia candita e miele. Bocca untuosa e dolce, bilanciata dall’acidità."
+  },
+  "pairing": {
+    "es": "Foie gras, quesos azules como el Roquefort, postres de fruta, tarta de albaricoque",
+    "en": "Foie gras, blue cheeses such as Roquefort, fruit desserts, apricot tart",
+    "fr": "Foie gras, fromages bleus comme le roquefort, desserts aux fruits, tarte aux abricots",
+    "it": "Foie gras, formaggi erborinati come il Roquefort, dessert alla frutta, crostata di albicocche"
+  },
+  "serve": {
+    "es": "8-10 °C, copa pequeña de vino blanco",
+    "en": "8-10 °C, small white wine glass",
+    "fr": "8-10 °C, petit verre à vin blanc",
+    "it": "8-10 °C, piccolo calice da vino bianco"
+  },
+  "search": "Récolte d’Or Sauternes Dourthe"
+}

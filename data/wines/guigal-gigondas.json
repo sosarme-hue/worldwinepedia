@@ -1,0 +1,50 @@
+{
+  "slug": "guigal-gigondas",
+  "name": "Gigondas",
+  "winery": "e-guigal",
+  "region": "gigondas",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Gigondas",
+    "en": "Gigondas",
+    "fr": "Gigondas",
+    "it": "Gigondas"
+  },
+  "grapes": [
+    "garnacha",
+    "syrah",
+    "monastrell"
+  ],
+  "summary": {
+    "es": "Gigondas de E. Guigal, un tinto del Ródano meridional con base de Garnacha completada con Syrah y Mourvèdre, de cuerpo generoso y perfil especiado.",
+    "en": "Gigondas from E. Guigal, a southern Rhône red based on Grenache with Syrah and Mourvèdre, generous in body and spicy in profile.",
+    "fr": "Gigondas d’E. Guigal, un rouge du Rhône méridional à base de grenache complété de syrah et de mourvèdre, généreux et épicé.",
+    "it": "Gigondas di E. Guigal, un rosso del Rodano meridionale a base di Grenache completata da Syrah e Mourvèdre, di corpo generoso e profilo speziato."
+  },
+  "body": {
+    "es": "<p><strong>Gigondas</strong> es una de las denominaciones municipales más reputadas del Ródano meridional. Sus viñedos se extienden al pie de los <em>Dentelles de Montmirail</em>, unas crestas calizas que protegen parte de las viñas y moderan el calor mediterráneo, con suelos de calizas, arcillas y aluviones.</p><p>Aunque la casa Guigal tiene su sede en el norte del Ródano, elabora desde hace décadas una gama de vinos del sur. Su Gigondas se basa en la <strong>Garnacha</strong>, complementada con <strong>Syrah</strong> y <strong>Mourvèdre</strong>, de acuerdo con las normas de la denominación. Tras la vinificación, el vino se cría en grandes toneles de roble, lo que respeta la fruta y suaviza la estructura.</p><p>Es un tinto de cuerpo amplio y calidez mediterránea, con fruta roja y negra madura, notas de garriga, especias y regaliz. Tiene buena estructura y puede guardarse varios años.</p>",
+    "en": "<p><strong>Gigondas</strong> is one of the most highly regarded village appellations of the southern Rhône. Its vineyards spread out at the foot of the <em>Dentelles de Montmirail</em>, limestone ridges that shelter some of the vines and temper the Mediterranean heat, on soils of limestone, clay and alluvium.</p><p>Although the Guigal house is based in the northern Rhône, it has made a range of southern wines for decades. Its Gigondas is based on <strong>Grenache</strong>, complemented by <strong>Syrah</strong> and <strong>Mourvèdre</strong>, in line with the appellation rules. After vinification, the wine is aged in large oak casks, which respects the fruit and softens the structure.</p><p>It is a broad-bodied red with Mediterranean warmth, ripe red and dark fruit, notes of garrigue, spice and liquorice. It has good structure and can be cellared for several years.</p>",
+    "fr": "<p><strong>Gigondas</strong> est l’une des appellations communales les plus réputées du Rhône méridional. Ses vignes s’étendent au pied des <em>Dentelles de Montmirail</em>, des crêtes calcaires qui abritent une partie du vignoble et tempèrent la chaleur méditerranéenne, sur des sols de calcaires, d’argiles et d’alluvions.</p><p>Bien que la maison Guigal soit établie dans le Rhône septentrional, elle élabore depuis des décennies une gamme de vins du sud. Son Gigondas repose sur le <strong>grenache</strong>, complété de <strong>syrah</strong> et de <strong>mourvèdre</strong>, conformément aux règles de l’appellation. Après la vinification, le vin est élevé en grands foudres de chêne, ce qui respecte le fruit et assouplit la structure.</p><p>C’est un rouge ample à la chaleur méditerranéenne, aux fruits rouges et noirs mûrs, aux notes de garrigue, d’épices et de réglisse. Doté d’une bonne structure, il peut se garder plusieurs années.</p>",
+    "it": "<p><strong>Gigondas</strong> è una delle denominazioni comunali più rinomate del Rodano meridionale. I suoi vigneti si estendono ai piedi delle <em>Dentelles de Montmirail</em>, creste calcaree che riparano parte delle vigne e mitigano il caldo mediterraneo, su suoli di calcari, argille e alluvioni.</p><p>Sebbene la casa Guigal abbia sede nel Rodano settentrionale, produce da decenni una gamma di vini del sud. Il suo Gigondas si basa sulla <strong>Grenache</strong>, completata da <strong>Syrah</strong> e <strong>Mourvèdre</strong>, in conformità con le norme della denominazione. Dopo la vinificazione, il vino matura in grandi botti di rovere, che rispettano il frutto e ammorbidiscono la struttura.</p><p>È un rosso di corpo ampio e calore mediterraneo, con frutta rossa e nera matura, note di macchia mediterranea, spezie e liquirizia. Ha una buona struttura e può essere conservato per diversi anni.</p>"
+  },
+  "tasting": {
+    "es": "Rojo granate intenso. Aromas de fruta roja madura, ciruela, hierbas de garriga, pimienta y regaliz. Boca cálida y amplia, de taninos firmes y final especiado.",
+    "en": "Deep garnet red. Aromas of ripe red fruit, plum, garrigue herbs, pepper and liquorice. Warm, broad palate with firm tannins and a spicy finish.",
+    "fr": "Rouge grenat profond. Arômes de fruits rouges mûrs, de prune, d’herbes de garrigue, de poivre et de réglisse. Bouche chaleureuse et ample, aux tanins fermes et à la finale épicée.",
+    "it": "Rosso granato intenso. Aromi di frutta rossa matura, prugna, erbe di macchia mediterranea, pepe e liquirizia. Bocca calda e ampia, con tannini decisi e finale speziato."
+  },
+  "pairing": {
+    "es": "Cordero con hierbas, daube provenzal, caza, carnes a la brasa, quesos curados",
+    "en": "Lamb with herbs, Provençal daube, game, chargrilled meat, aged cheeses",
+    "fr": "Agneau aux herbes, daube provençale, gibier, viandes à la braise, fromages affinés",
+    "it": "Agnello alle erbe, daube provenzale, selvaggina, carni alla brace, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Gigondas E. Guigal"
+}

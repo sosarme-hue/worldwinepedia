@@ -1,0 +1,49 @@
+{
+  "slug": "ferrari-maximum-rose",
+  "name": "Ferrari Maximum Rosé",
+  "winery": "ferrari",
+  "region": "trentino-alto-adige",
+  "country": "italia",
+  "type": "espumoso",
+  "category": {
+    "es": "Trento DOC Brut Rosé",
+    "en": "Trento DOC Brut Rosé",
+    "fr": "Trento DOC Brut Rosé",
+    "it": "Trento DOC Brut Rosé"
+  },
+  "grapes": [
+    "pinot-noir",
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Espumoso rosado Trento DOC de Ferrari, elaborado por el método tradicional con Pinot Noir y Chardonnay.",
+    "en": "Pink Trento DOC sparkling wine from Ferrari, made by the traditional method from Pinot Noir and Chardonnay.",
+    "fr": "Effervescent rosé Trento DOC de Ferrari, élaboré selon la méthode traditionnelle à partir de pinot noir et de chardonnay.",
+    "it": "Spumante rosé Trento DOC di Ferrari, prodotto con metodo classico da Pinot Nero e Chardonnay."
+  },
+  "body": {
+    "es": "<p>El Maximum Rosé es la versión rosada de la línea Maximum de Ferrari. Se elabora por el método tradicional, con segunda fermentación en botella, a partir de un ensamblaje en el que la Pinot Noir aporta color, estructura y fruta roja, y la Chardonnay finura y frescura. Tras una crianza sobre lías de varios años, el vino se presenta en versión brut, con un perfil seco que lo hace versátil en la mesa.</p><p>Ferrari, fundada en Trento en 1902 por Giulio Ferrari y en manos de la familia Lunelli desde 1952, es una de las casas de referencia del espumoso italiano de método tradicional. Sus vinos se amparan en la denominación Trento DOC y proceden de viñedos de montaña, donde la altitud y los contrastes térmicos favorecen la frescura y la acidez. Giulio Ferrari fue además uno de los impulsores del cultivo de la Chardonnay en Italia.</p>",
+    "en": "<p>Maximum Rosé is the pink version of Ferrari’s Maximum line. It is made by the traditional method, with a second fermentation in bottle, from a blend in which Pinot Noir brings colour, structure and red fruit, and Chardonnay brings finesse and freshness. After several years of ageing on the lees, the wine is released as a brut, with a dry profile that makes it versatile at the table.</p><p>Ferrari, founded in Trento in 1902 by Giulio Ferrari and owned by the Lunelli family since 1952, is one of the benchmark houses of Italian traditional-method sparkling wine. Its wines are covered by the Trento DOC and come from mountain vineyards, where altitude and temperature swings favour freshness and acidity. Giulio Ferrari was also one of the pioneers of Chardonnay growing in Italy.</p>",
+    "fr": "<p>Le Maximum Rosé est la version rosée de la ligne Maximum de Ferrari. Il est élaboré selon la méthode traditionnelle, avec une seconde fermentation en bouteille, à partir d’un assemblage où le pinot noir apporte couleur, structure et fruits rouges, et le chardonnay finesse et fraîcheur. Après plusieurs années de vieillissement sur lies, il est présenté en version brut, au profil sec qui le rend polyvalent à table.</p><p>Ferrari, fondée à Trente en 1902 par Giulio Ferrari et propriété de la famille Lunelli depuis 1952, est l’une des maisons de référence du vin effervescent italien de méthode traditionnelle. Ses vins relèvent de l’appellation Trento DOC et proviennent de vignobles de montagne, où l’altitude et les écarts de température favorisent la fraîcheur et l’acidité. Giulio Ferrari fut en outre l’un des pionniers de la culture du chardonnay en Italie.</p>",
+    "it": "<p>Il Maximum Rosé è la versione rosata della linea Maximum di Ferrari. È prodotto con il metodo classico, con seconda fermentazione in bottiglia, da un assemblaggio in cui il Pinot Nero apporta colore, struttura e frutto rosso, e lo Chardonnay finezza e freschezza. Dopo diversi anni di affinamento sui lieviti, viene proposto nella versione brut, con un profilo secco che lo rende versatile a tavola.</p><p>Ferrari, fondata a Trento nel 1902 da Giulio Ferrari e di proprietà della famiglia Lunelli dal 1952, è una delle case di riferimento dello spumante italiano metodo classico. I suoi vini rientrano nella denominazione Trento DOC e provengono da vigneti di montagna, dove l’altitudine e le escursioni termiche favoriscono freschezza e acidità. Giulio Ferrari fu inoltre uno dei pionieri della coltivazione dello Chardonnay in Italia.</p>"
+  },
+  "tasting": {
+    "es": "Rosa salmón. Aromas de frutos rojos, cítricos y notas de pan tostado. En boca es fresco y cremoso, con burbuja fina y final seco.",
+    "en": "Salmon pink. Aromas of red berries, citrus and toasty notes. Fresh and creamy on the palate, with fine bubbles and a dry finish.",
+    "fr": "Rose saumon. Arômes de petits fruits rouges, d’agrumes et notes de pain grillé. En bouche, frais et crémeux, à la bulle fine et à la finale sèche.",
+    "it": "Rosa salmone. Aromi di frutti rossi, agrumi e note di pane tostato. In bocca è fresco e cremoso, con perlage fine e finale secco."
+  },
+  "pairing": {
+    "es": "Aperitivo, salmón, sushi, marisco, carnes blancas",
+    "en": "Aperitif, salmon, sushi, shellfish, white meat",
+    "fr": "Apéritif, saumon, sushi, fruits de mer, viandes blanches",
+    "it": "Aperitivo, salmone, sushi, crostacei, carni bianche"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de flauta o tulipa",
+    "en": "6-8 °C, flute or tulip glass",
+    "fr": "6-8 °C, flûte ou verre tulipe",
+    "it": "6-8 °C, flûte o calice a tulipano"
+  },
+  "search": "Ferrari Maximum Rosé Ferrari Trento"
+}

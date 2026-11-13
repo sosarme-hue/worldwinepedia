@@ -1,0 +1,48 @@
+{
+  "slug": "jadot-meursault-charmes",
+  "name": "Louis Jadot Meursault 1er Cru Les Charmes",
+  "winery": "louis-jadot",
+  "region": "cote-de-beaune",
+  "country": "francia",
+  "type": "blanco",
+  "category": {
+    "es": "Premier Cru",
+    "en": "Premier Cru",
+    "fr": "Premier Cru",
+    "it": "Premier Cru"
+  },
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Meursault premier cru de Les Charmes, uno de los climats más extensos y reputados del municipio, elaborado con Chardonnay por Louis Jadot.",
+    "en": "Meursault premier cru from Les Charmes, one of the largest and most highly regarded climats in the commune, made from Chardonnay by Louis Jadot.",
+    "fr": "Meursault premier cru des Charmes, l’un des climats les plus vastes et réputés de la commune, élaboré en chardonnay par Louis Jadot.",
+    "it": "Meursault premier cru di Les Charmes, uno dei climats più estesi e rinomati del comune, prodotto con Chardonnay da Louis Jadot."
+  },
+  "body": {
+    "es": "<p><strong>Meursault</strong> es el mayor municipio de vinos blancos de la Côte de Beaune. No tiene grands crus, pero sí premiers crus muy reputados, como Les Perrières, Les Charmes y Les Genevrières, situados al sur del pueblo, hacia Puligny-Montrachet. Sus blancos de <strong>Chardonnay</strong> tienen fama de ser amplios y redondos, con notas de avellana y mantequilla. El pueblo celebra cada año la Paulée de Meursault, una comida festiva que cierra el fin de semana de la subasta de los Hospices de Beaune.</p><p><strong>Les Charmes</strong> es uno de los premiers crus más extensos de Meursault y se extiende por la parte baja y media de la ladera, en el límite con Puligny. Suele dar los Meursault más generosos y opulentos. Louis Jadot lo fermenta y cría en barricas de roble.</p><p>Es un blanco amplio y untuoso, con fruta madura y notas de avellana, que gana complejidad con algunos años de botella.</p>",
+    "en": "<p><strong>Meursault</strong> is the largest white wine commune in the Côte de Beaune. It has no grands crus but some highly regarded premiers crus, such as Les Perrières, Les Charmes and Les Genevrières, lying south of the village towards Puligny-Montrachet. Its whites from <strong>Chardonnay</strong> are known for being broad and round, with notes of hazelnut and butter. Each year the village hosts the Paulée de Meursault, a festive meal that closes the weekend of the Hospices de Beaune auction.</p><p><strong>Les Charmes</strong> is one of the largest premiers crus of Meursault, stretching across the lower and middle slope on the boundary with Puligny. It tends to produce the most generous and opulent Meursault. Louis Jadot ferments and ages it in oak barrels.</p><p>It is a broad, rich white with ripe fruit and hazelnut notes, gaining complexity after a few years in bottle.</p>",
+    "fr": "<p><strong>Meursault</strong> est la plus grande commune de vins blancs de la Côte de Beaune. Elle ne compte pas de grand cru, mais des premiers crus très réputés, comme Les Perrières, Les Charmes et Les Genevrières, situés au sud du village, vers Puligny-Montrachet. Ses blancs de <strong>chardonnay</strong> sont réputés amples et ronds, avec des notes de noisette et de beurre. Le village accueille chaque année la Paulée de Meursault, repas festif qui clôt le week-end de la vente des Hospices de Beaune.</p><p><strong>Les Charmes</strong> est l’un des premiers crus les plus étendus de Meursault et s’étire sur le bas et le milieu du coteau, à la limite de Puligny. Il donne souvent les Meursault les plus généreux et opulents. Louis Jadot le fait fermenter et l’élève en fûts de chêne.</p><p>C’est un blanc ample et onctueux, au fruit mûr et aux notes de noisette, qui gagne en complexité après quelques années de bouteille.</p>",
+    "it": "<p><strong>Meursault</strong> è il più grande comune di vini bianchi della Côte de Beaune. Non ha grand cru, ma premier cru molto rinomati, come Les Perrières, Les Charmes e Les Genevrières, situati a sud del paese, verso Puligny-Montrachet. I suoi bianchi di <strong>Chardonnay</strong> sono noti per essere ampi e rotondi, con note di nocciola e burro. Ogni anno il paese ospita la Paulée de Meursault, un pranzo festivo che chiude il fine settimana dell’asta degli Hospices de Beaune.</p><p><strong>Les Charmes</strong> è uno dei premier cru più estesi di Meursault e si allunga sulla parte bassa e media del pendio, al confine con Puligny. Dà di solito i Meursault più generosi e opulenti. Louis Jadot lo fa fermentare e affinare in botti di rovere.</p><p>È un bianco ampio e untuoso, con frutto maturo e note di nocciola, che acquista complessità dopo qualche anno di bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo dorado. Aromas de fruta blanca madura, avellana, mantequilla y notas tostadas. Boca amplia y untuosa, sostenida por una acidez fresca.",
+    "en": "Golden yellow. Aromas of ripe white fruit, hazelnut, butter and toasty notes. Broad, rich palate supported by fresh acidity.",
+    "fr": "Jaune doré. Arômes de fruits blancs mûrs, de noisette, de beurre et notes grillées. Bouche ample et onctueuse, soutenue par une acidité fraîche.",
+    "it": "Giallo dorato. Aromi di frutta bianca matura, nocciola, burro e note tostate. Bocca ampia e untuosa, sostenuta da un’acidità fresca."
+  },
+  "pairing": {
+    "es": "Pescados en salsa, langosta, aves con nata, quesos de pasta prensada",
+    "en": "Fish in sauce, lobster, poultry in cream, hard cheeses",
+    "fr": "Poissons en sauce, homard, volaille à la crème, fromages à pâte pressée",
+    "it": "Pesce in salsa, astice, pollame alla panna, formaggi a pasta pressata"
+  },
+  "serve": {
+    "es": "12-14 °C, copa amplia de vino blanco",
+    "en": "12-14 °C, large white wine glass",
+    "fr": "12-14 °C, verre à vin blanc ample",
+    "it": "12-14 °C, calice ampio da vino bianco"
+  },
+  "search": "Meursault 1er Cru Charmes Louis Jadot"
+}

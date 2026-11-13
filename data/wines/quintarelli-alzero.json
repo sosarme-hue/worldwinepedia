@@ -1,0 +1,44 @@
+{
+  "slug": "quintarelli-alzero",
+  "name": "Alzero",
+  "winery": "quintarelli",
+  "region": "veneto",
+  "country": "italia",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-franc",
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "Tinto de Quintarelli elaborado con Cabernet pasificada según el método del Amarone, uno de los vinos más singulares de la casa.",
+    "en": "Red from Quintarelli made from dried Cabernet grapes following the Amarone method, one of the house’s most singular wines.",
+    "fr": "Rouge de Quintarelli élaboré à partir de cabernet passerillé selon la méthode de l’Amarone, l’un des vins les plus singuliers de la maison.",
+    "it": "Rosso di Quintarelli prodotto con Cabernet appassito secondo il metodo dell’Amarone, uno dei vini più singolari della casa."
+  },
+  "body": {
+    "es": "<p>Alzero es una creación personal de Giuseppe Quintarelli, que aplicó a variedades bordelesas el método de la Valpolicella. Se elabora sobre todo con Cabernet Franc, acompañada de Cabernet Sauvignon, cuyas uvas se dejan secar durante meses antes de la vinificación, como las del Amarone. El resultado es un tinto concentrado y complejo, que une el carácter de la Cabernet a la riqueza que aporta la pasificación. Se comercializa con la indicación geográfica Veneto, tras una crianza prolongada en madera.</p><p>La bodega Giuseppe Quintarelli, en las colinas de Negrar, en la Valpolicella Classica, es una referencia del vino tradicional del Véneto. Sus métodos incluyen largos secados de la uva, fermentaciones lentas y crianzas de muchos años en grandes toneles, y sus vinos sólo salen al mercado cuando la familia los considera preparados.</p>",
+    "en": "<p>Alzero is a personal creation of Giuseppe Quintarelli, who applied the Valpolicella method to Bordeaux varieties. It is made mainly from Cabernet Franc with Cabernet Sauvignon, whose grapes are left to dry for months before vinification, like those for Amarone. The result is a concentrated, complex red that combines the character of Cabernet with the richness brought by drying. It is sold under the Veneto geographical indication after prolonged ageing in wood.</p><p>The Giuseppe Quintarelli estate, in the hills of Negrar in the Valpolicella Classica, is a benchmark for traditional Veneto wine. Its methods include long grape drying, slow fermentations and many years of ageing in large casks, and its wines are only released when the family considers them ready.</p>",
+    "fr": "<p>Alzero est une création personnelle de Giuseppe Quintarelli, qui appliqua aux cépages bordelais la méthode de la Valpolicella. Il est élaboré surtout à partir de cabernet franc, accompagné de cabernet-sauvignon, dont les raisins sèchent pendant des mois avant la vinification, comme ceux de l’Amarone. Il en résulte un rouge concentré et complexe, qui unit le caractère du cabernet à la richesse apportée par le passerillage. Il est commercialisé sous l’indication géographique Veneto, après un élevage prolongé sous bois.</p><p>Le domaine Giuseppe Quintarelli, sur les collines de Negrar, dans la Valpolicella Classica, est une référence du vin traditionnel de Vénétie. Ses méthodes comprennent de longs séchages du raisin, des fermentations lentes et des élevages de nombreuses années en grands foudres, et ses vins ne sont commercialisés que lorsque la famille les juge prêts.</p>",
+    "it": "<p>Alzero è una creazione personale di Giuseppe Quintarelli, che applicò ai vitigni bordolesi il metodo della Valpolicella. È prodotto soprattutto con Cabernet Franc, accompagnato da Cabernet Sauvignon, le cui uve vengono lasciate appassire per mesi prima della vinificazione, come quelle dell’Amarone. Il risultato è un rosso concentrato e complesso, che unisce il carattere del Cabernet alla ricchezza data dall’appassimento. È commercializzato con l’indicazione geografica Veneto, dopo un prolungato affinamento in legno.</p><p>La cantina Giuseppe Quintarelli, sulle colline di Negrar, nella Valpolicella Classica, è un riferimento del vino tradizionale veneto. I suoi metodi comprendono lunghi appassimenti delle uve, fermentazioni lente e affinamenti di molti anni in grandi botti, e i suoi vini escono sul mercato solo quando la famiglia li ritiene pronti.</p>"
+  },
+  "tasting": {
+    "es": "Granate profundo. Aromas de fruta negra madura y pasificada, notas herbáceas, especias, tabaco y chocolate. En boca es denso y amplio, con taninos firmes y final muy largo.",
+    "en": "Deep garnet. Aromas of ripe and dried black fruit, herbaceous notes, spice, tobacco and chocolate. Dense and broad on the palate, with firm tannins and a very long finish.",
+    "fr": "Grenat profond. Arômes de fruits noirs mûrs et passerillés, notes herbacées, épices, tabac et chocolat. En bouche, dense et ample, aux tanins fermes et à la finale très longue.",
+    "it": "Granato profondo. Aromi di frutta nera matura e appassita, note erbacee, spezie, tabacco e cioccolato. In bocca è denso e ampio, con tannini saldi e finale molto lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas guisadas, caza, risotto al Amarone, quesos curados",
+    "en": "Braised red meat, game, Amarone risotto, aged cheeses",
+    "fr": "Viandes rouges braisées, gibier, risotto à l’Amarone, fromages affinés",
+    "it": "Brasati, selvaggina, risotto all’Amarone, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Alzero Giuseppe Quintarelli"
+}

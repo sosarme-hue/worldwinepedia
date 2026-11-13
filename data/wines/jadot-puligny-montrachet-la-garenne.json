@@ -1,0 +1,48 @@
+{
+  "slug": "jadot-puligny-montrachet-la-garenne",
+  "name": "Louis Jadot Puligny-Montrachet 1er Cru La Garenne",
+  "winery": "louis-jadot",
+  "region": "cote-de-beaune",
+  "country": "francia",
+  "type": "blanco",
+  "category": {
+    "es": "Premier Cru",
+    "en": "Premier Cru",
+    "fr": "Premier Cru",
+    "it": "Premier Cru"
+  },
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Puligny-Montrachet premier cru de La Garenne, una parcela alta de la ladera cercana al caserío de Blagny, elaborado con Chardonnay por Louis Jadot.",
+    "en": "Puligny-Montrachet premier cru from La Garenne, a high plot on the slope near the hamlet of Blagny, made from Chardonnay by Louis Jadot.",
+    "fr": "Puligny-Montrachet premier cru de La Garenne, parcelle haut perchée sur le coteau près du hameau de Blagny, élaboré en chardonnay par Louis Jadot.",
+    "it": "Puligny-Montrachet premier cru di La Garenne, parcella alta sul pendio vicino alla frazione di Blagny, prodotto con Chardonnay da Louis Jadot."
+  },
+  "body": {
+    "es": "<p><strong>Puligny-Montrachet</strong>, en el sur de la Côte de Beaune, es uno de los grandes nombres del vino blanco: en su término se encuentran, total o parcialmente, los grands crus Montrachet, Bâtard-Montrachet y Chevalier-Montrachet. Su capa freática es tan alta que pocas bodegas tienen sótanos profundos. Los blancos de <strong>Chardonnay</strong> de Puligny se describen a menudo como más tensos y minerales que los de Meursault. La denominación produce casi exclusivamente vino blanco y cuenta con premiers crus en la parte media y alta de la ladera, como Les Pucelles, Les Combettes, Le Cailleret o Les Folatières.</p><p><strong>La Garenne</strong> es un premier cru situado en lo alto de la ladera, cerca de Blagny. Por su altitud, da vinos más frescos y tensos. Louis Jadot lo fermenta y cría en barricas de roble; es un blanco preciso que gana con unos años de botella.</p>",
+    "en": "<p><strong>Puligny-Montrachet</strong>, in the south of the Côte de Beaune, is one of the great names in white wine: the grands crus Montrachet, Bâtard-Montrachet and Chevalier-Montrachet lie wholly or partly within the commune. Its water table is so high that few wineries have deep cellars. Puligny whites from <strong>Chardonnay</strong> are often described as tauter and more mineral than those of Meursault. The appellation produces almost exclusively white wine and has premiers crus on the middle and upper slope, such as Les Pucelles, Les Combettes, Le Cailleret and Les Folatières.</p><p><strong>La Garenne</strong> is a premier cru high on the slope, near Blagny. Because of its altitude, it gives fresher, tauter wines. Louis Jadot ferments and ages it in oak barrels; it is a precise white that benefits from a few years in bottle.</p>",
+    "fr": "<p><strong>Puligny-Montrachet</strong>, au sud de la Côte de Beaune, est l’un des grands noms du vin blanc : les grands crus Montrachet, Bâtard-Montrachet et Chevalier-Montrachet se trouvent en tout ou partie sur la commune. La nappe phréatique y est si haute que peu de caves sont profondes. Les blancs de <strong>chardonnay</strong> de Puligny sont souvent décrits comme plus tendus et minéraux que ceux de Meursault. L’appellation produit presque exclusivement du vin blanc et compte des premiers crus sur le milieu et le haut du coteau, comme Les Pucelles, Les Combettes, Le Cailleret ou Les Folatières.</p><p><strong>La Garenne</strong> est un premier cru situé en haut du coteau, près de Blagny. Son altitude donne des vins plus frais et plus tendus. Louis Jadot le fait fermenter et l’élève en fûts de chêne ; c’est un blanc précis qui gagne à passer quelques années en bouteille.</p>",
+    "it": "<p><strong>Puligny-Montrachet</strong>, nel sud della Côte de Beaune, è uno dei grandi nomi del vino bianco: nel suo territorio si trovano, in tutto o in parte, i grand cru Montrachet, Bâtard-Montrachet e Chevalier-Montrachet. La falda freatica è così alta che poche cantine sono profonde. I bianchi di <strong>Chardonnay</strong> di Puligny sono spesso descritti come più tesi e minerali di quelli di Meursault. La denominazione produce quasi esclusivamente vino bianco e conta premier cru nella parte media e alta del pendio, come Les Pucelles, Les Combettes, Le Cailleret e Les Folatières.</p><p><strong>La Garenne</strong> è un premier cru situato in alto sul pendio, vicino a Blagny. Per la sua altitudine dà vini più freschi e tesi. Louis Jadot lo fa fermentare e affinare in botti di rovere; è un bianco preciso che migliora con qualche anno di bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido con reflejos dorados. Aromas de cítricos, fruta blanca, flores y notas minerales y tostadas. Boca fresca y precisa, con final persistente.",
+    "en": "Pale yellow with golden glints. Aromas of citrus, white fruit, flowers and mineral and toasty notes. Fresh, precise palate with a lasting finish.",
+    "fr": "Jaune pâle aux reflets dorés. Arômes d’agrumes, de fruits blancs, de fleurs et notes minérales et grillées. Bouche fraîche et précise, à la finale persistante.",
+    "it": "Giallo paglierino con riflessi dorati. Aromi di agrumi, frutta bianca, fiori e note minerali e tostate. Bocca fresca e precisa, con finale persistente."
+  },
+  "pairing": {
+    "es": "Pescados nobles, marisco, vieiras, aves en salsa, quesos de pasta prensada",
+    "en": "Fine fish, shellfish, scallops, poultry in sauce, hard cheeses",
+    "fr": "Poissons nobles, fruits de mer, Saint-Jacques, volaille en sauce, fromages à pâte pressée",
+    "it": "Pesce pregiato, frutti di mare, capesante, pollame in salsa, formaggi a pasta pressata"
+  },
+  "serve": {
+    "es": "12-14 °C, copa amplia de vino blanco",
+    "en": "12-14 °C, large white wine glass",
+    "fr": "12-14 °C, verre à vin blanc ample",
+    "it": "12-14 °C, calice ampio da vino bianco"
+  },
+  "search": "Puligny-Montrachet 1er Cru La Garenne Louis Jadot"
+}

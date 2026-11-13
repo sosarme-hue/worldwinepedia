@@ -1,0 +1,48 @@
+{
+  "slug": "louis-latour-corton",
+  "name": "Louis Latour Corton Grand Cru",
+  "winery": "louis-latour",
+  "region": "cote-de-beaune",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Grand Cru",
+    "en": "Grand Cru",
+    "fr": "Grand cru",
+    "it": "Grand Cru"
+  },
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Corton Grand Cru tinto de Louis Latour, uno de los principales propietarios de la colina de Corton.",
+    "en": "Louis Latour’s red Corton Grand Cru, from one of the leading owners on the hill of Corton.",
+    "fr": "Le Corton grand cru rouge de Louis Latour, l’un des principaux propriétaires de la colline de Corton.",
+    "it": "Il Corton Grand Cru rosso di Louis Latour, uno dei principali proprietari della collina di Corton."
+  },
+  "body": {
+    "es": "<p>Corton es el único Grand Cru tinto de la Côte de Beaune y uno de los más extensos de Borgoña. Ocupa las laderas este y sur de la colina de Corton, repartidas entre Aloxe-Corton, Ladoix-Serrigny y Pernand-Vergelesses, mientras que la parte alta, más orientada a los blancos, corresponde al Corton-Charlemagne.</p><p>Louis Latour es uno de los grandes propietarios de la colina, donde la familia tiene viñas desde hace generaciones y donde se encuentra su bodega, el Château Corton Grancey. Este Corton se elabora con <strong>Pinot Noir</strong> y se cría en barricas de roble, en parte fabricadas en la tonelería de la casa.</p><p>Los Corton tintos son vinos de estructura firme y buena concentración, con fruta negra, especias y notas terrosas que se afinan con el tiempo. Necesitan varios años de botella para expresarse y tienen una larga capacidad de guarda.</p>",
+    "en": "<p>Corton is the only red Grand Cru of the Côte de Beaune and one of the largest in Burgundy. It covers the eastern and southern slopes of the hill of Corton, spread across Aloxe-Corton, Ladoix-Serrigny and Pernand-Vergelesses, while the upper part, more suited to whites, belongs to Corton-Charlemagne.</p><p>Louis Latour is one of the major owners on the hill, where the family has held vines for generations and where its winery, Château Corton Grancey, stands. This Corton is made from <strong>Pinot Noir</strong> and aged in oak barrels, some of them made in the house’s cooperage.</p><p>Red Cortons are wines of firm structure and good concentration, with black fruit, spice and earthy notes that become more refined over time. They need several years in bottle to express themselves and have long ageing potential.</p>",
+    "fr": "<p>Le Corton est le seul grand cru rouge de la Côte de Beaune et l’un des plus étendus de Bourgogne. Il occupe les versants est et sud de la colline de Corton, répartis entre Aloxe-Corton, Ladoix-Serrigny et Pernand-Vergelesses, tandis que la partie haute, plus propice aux blancs, relève du Corton-Charlemagne.</p><p>Louis Latour est l’un des grands propriétaires de la colline, où la famille possède des vignes depuis des générations et où se trouve sa cuverie, le château Corton Grancey. Ce Corton est élaboré à partir de <strong>pinot noir</strong> et élevé en fûts de chêne, en partie fabriqués dans la tonnellerie de la maison.</p><p>Les Corton rouges sont des vins à la structure ferme et à la bonne concentration, aux fruits noirs, aux épices et aux notes terriennes qui s’affinent avec le temps. Ils demandent plusieurs années de bouteille pour s’exprimer et possèdent un long potentiel de garde.</p>",
+    "it": "<p>Il Corton è l’unico Grand Cru rosso della Côte de Beaune e uno dei più estesi della Borgogna. Occupa i versanti est e sud della collina di Corton, ripartiti tra Aloxe-Corton, Ladoix-Serrigny e Pernand-Vergelesses, mentre la parte alta, più adatta ai bianchi, appartiene al Corton-Charlemagne.</p><p>Louis Latour è uno dei grandi proprietari della collina, dove la famiglia possiede vigne da generazioni e dove si trova la sua cantina, lo Château Corton Grancey. Questo Corton è prodotto con <strong>Pinot Noir</strong> e affinato in botti di rovere, in parte costruite nella bottaia della casa.</p><p>I Corton rossi sono vini di struttura decisa e buona concentrazione, con frutta nera, spezie e note terrose che si affinano con il tempo. Richiedono diversi anni di bottiglia per esprimersi e hanno un lungo potenziale di invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Rubí profundo. Aromas de mora, cereza negra, especias y notas terrosas. Boca estructurada, de taninos firmes y final largo.",
+    "en": "Deep ruby. Aromas of blackberry, black cherry, spice and earthy notes. Structured palate with firm tannins and a long finish.",
+    "fr": "Rubis profond. Arômes de mûre, de cerise noire, d’épices et notes terriennes. Bouche structurée, tanins fermes, finale longue.",
+    "it": "Rubino profondo. Aromi di mora, ciliegia nera, spezie e note terrose. Bocca strutturata, tannini decisi e finale lungo."
+  },
+  "pairing": {
+    "es": "Caza, buey asado, guisos al vino tinto, quesos de corteza lavada",
+    "en": "Game, roast beef, red wine stews, washed-rind cheeses",
+    "fr": "Gibier, bœuf rôti, plats en sauce au vin rouge, fromages à croûte lavée",
+    "it": "Selvaggina, manzo arrosto, stufati al vino rosso, formaggi a crosta lavata"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de Borgoña",
+    "en": "16-18 °C, Burgundy glass",
+    "fr": "16-18 °C, verre de type bourguignon",
+    "it": "16-18 °C, calice tipo Borgogna"
+  },
+  "search": "Corton Grand Cru Louis Latour"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "almaviva-epu",
+  "name": "Epu",
+  "winery": "almaviva",
+  "region": "valle-del-maipo",
+  "country": "chile",
+  "type": "tinto",
+  "category": {
+    "es": "Segundo vino",
+    "en": "Second wine",
+    "fr": "Second vin",
+    "it": "Secondo vino"
+  },
+  "grapes": [
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "Segundo vino de Almaviva, en Puente Alto, un ensamblaje de base Cabernet Sauvignon cuyo nombre significa «dos» en lengua mapuche.",
+    "en": "Second wine of Almaviva in Puente Alto, a Cabernet Sauvignon-based blend whose name means «two» in the Mapuche language.",
+    "fr": "Second vin d’Almaviva, à Puente Alto, un assemblage à base de cabernet-sauvignon dont le nom signifie « deux » en langue mapuche.",
+    "it": "Secondo vino di Almaviva, a Puente Alto, un uvaggio a base di Cabernet Sauvignon il cui nome significa «due» in lingua mapuche."
+  },
+  "body": {
+    "es": "<p>Almaviva nació de la asociación entre Concha y Toro y Baron Philippe de Rothschild con la idea de crear en Chile un gran vino al estilo de los châteaux de Burdeos. Con el tiempo, la bodega añadió un segundo vino, Epu, cuyo nombre significa «dos» en mapudungun, la lengua mapuche, en coherencia con la referencia a esta cultura presente en la etiqueta del primer vino.</p><p>Como el gran vino, procede de los viñedos de Puente Alto, en una terraza aluvial del río Maipo al pie de los Andes, con suelos pedregosos y noches frescas. Se basa en la Cabernet Sauvignon, completada con otras variedades de la finca, y se elabora en la misma bodega. Ofrece el perfil de la casa —fruta negra, notas especiadas y taninos finos— en un estilo algo más accesible en su juventud.</p>",
+    "en": "<p>Almaviva was born from the partnership between Concha y Toro and Baron Philippe de Rothschild, with the idea of creating in Chile a great wine in the style of the Bordeaux châteaux. In time the winery added a second wine, Epu, whose name means «two» in Mapudungun, the Mapuche language, in keeping with the reference to that culture on the first wine’s label.</p><p>Like the grand vin, it comes from the Puente Alto vineyards, on an alluvial terrace of the Maipo river at the foot of the Andes, with stony soils and cool nights. It is based on Cabernet Sauvignon, completed with other varieties from the estate, and made in the same cellar. It offers the house profile —black fruit, spicy notes and fine tannins— in a style somewhat more approachable in its youth.</p>",
+    "fr": "<p>Almaviva est né de l’association entre Concha y Toro et Baron Philippe de Rothschild, avec l’idée de créer au Chili un grand vin dans le style des châteaux bordelais. Avec le temps, le domaine a ajouté un second vin, Epu, dont le nom signifie « deux » en mapudungun, la langue mapuche, en cohérence avec la référence à cette culture présente sur l’étiquette du premier vin.</p><p>Comme le grand vin, il provient des vignes de Puente Alto, sur une terrasse alluviale du Maipo au pied des Andes, aux sols caillouteux et aux nuits fraîches. Il repose sur le cabernet-sauvignon, complété par d’autres cépages du domaine, et il est élaboré dans le même chai. Il offre le profil de la maison —fruits noirs, notes épicées et tanins fins— dans un style un peu plus accessible dans sa jeunesse.</p>",
+    "it": "<p>Almaviva è nata dall’associazione tra Concha y Toro e Baron Philippe de Rothschild, con l’idea di creare in Cile un grande vino nello stile degli châteaux di Bordeaux. Col tempo la cantina ha aggiunto un secondo vino, Epu, il cui nome significa «due» in mapudungun, la lingua mapuche, in coerenza con il riferimento a questa cultura presente nell’etichetta del primo vino.</p><p>Come il grand vin, proviene dai vigneti di Puente Alto, su un terrazzo alluvionale del fiume Maipo ai piedi delle Ande, con suoli sassosi e notti fresche. Si basa sul Cabernet Sauvignon, completato da altre varietà della tenuta, ed è prodotto nella stessa cantina. Offre il profilo della casa —frutta nera, note speziate e tannini fini— in uno stile un po’ più accessibile in gioventù.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso con reflejos violáceos. Aromas de cassis, mora, especias y notas de grafito. En boca es estructurado y fresco, con taninos finos y final largo.",
+    "en": "Deep ruby with violet glints. Aromas of blackcurrant, blackberry, spice and graphite notes. Structured and fresh on the palate, with fine tannins and a long finish.",
+    "fr": "Rubis profond aux reflets violacés. Arômes de cassis, de mûre, d’épices et notes de graphite. En bouche, structuré et frais, aux tanins fins et à la finale longue.",
+    "it": "Rubino intenso con riflessi violacei. Aromi di ribes nero, mora, spezie e note di grafite. In bocca è strutturato e fresco, con tannini fini e finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la parrilla, cordero, caza, quesos curados",
+    "en": "Grilled red meat, lamb, game, aged cheeses",
+    "fr": "Viandes rouges grillées, agneau, gibier, fromages affinés",
+    "it": "Carni rosse alla griglia, agnello, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Epu Almaviva"
+}

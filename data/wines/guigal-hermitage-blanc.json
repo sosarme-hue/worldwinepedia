@@ -1,0 +1,49 @@
+{
+  "slug": "guigal-hermitage-blanc",
+  "name": "Hermitage Blanc",
+  "winery": "e-guigal",
+  "region": "hermitage",
+  "country": "francia",
+  "type": "blanco",
+  "category": {
+    "es": "Hermitage",
+    "en": "Hermitage",
+    "fr": "Hermitage",
+    "it": "Hermitage"
+  },
+  "grapes": [
+    "marsanne",
+    "roussanne"
+  ],
+  "summary": {
+    "es": "Hermitage blanco de E. Guigal, elaborado mayoritariamente con Marsanne y algo de Roussanne, un blanco de gran cuerpo y larga guarda.",
+    "en": "White Hermitage from E. Guigal, made mostly from Marsanne with some Roussanne, a full-bodied white with long ageing potential.",
+    "fr": "Hermitage blanc d’E. Guigal, élaboré majoritairement avec de la marsanne et un peu de roussanne, un blanc de grand corps et de longue garde.",
+    "it": "Hermitage bianco di E. Guigal, prodotto in prevalenza con Marsanne e un po’ di Roussanne, un bianco di gran corpo e lunga longevità."
+  },
+  "body": {
+    "es": "<p>La colina de <strong>Hermitage</strong> es conocida sobre todo por sus tintos de Syrah, pero produce también una parte de vinos blancos con una larga tradición. Las variedades autorizadas son la <strong>Marsanne</strong> y la <strong>Roussanne</strong>, que en las parcelas de suelos más calizos y de loess de la colina dan blancos de una amplitud poco habitual.</p><p>El Hermitage blanco de Guigal se basa en la Marsanne, completada con una pequeña proporción de Roussanne. Fermenta y se cría en barrica de roble, en parte nueva, lo que aporta textura y notas tostadas sutiles.</p><p>Es un blanco de cuerpo pleno y acidez moderada, con aromas de fruta de hueso, flores blancas, almendra y miel. Joven resulta expresivo y frutal; con los años puede atravesar una fase más cerrada antes de desarrollar notas de cera, frutos secos y especias. Gana con la aireación y se sirve mejor no demasiado frío.</p>",
+    "en": "<p>The hill of <strong>Hermitage</strong> is known above all for its Syrah reds, but it also produces a share of white wines with a long tradition. The permitted varieties are <strong>Marsanne</strong> and <strong>Roussanne</strong>, which on the hill’s more calcareous and loess plots give whites of unusual breadth.</p><p>Guigal’s white Hermitage is based on Marsanne, completed with a small proportion of Roussanne. It is fermented and aged in oak barrels, partly new, which adds texture and subtle toasty notes.</p><p>It is a full-bodied white with moderate acidity and aromas of stone fruit, white flowers, almond and honey. When young it is expressive and fruity; with age it may go through a more closed phase before developing notes of beeswax, nuts and spice. It benefits from aeration and is best served not too cold.</p>",
+    "fr": "<p>La colline de l’<strong>Hermitage</strong> est surtout connue pour ses rouges de syrah, mais elle produit aussi une part de vins blancs d’une longue tradition. Les cépages autorisés sont la <strong>marsanne</strong> et la <strong>roussanne</strong>, qui donnent sur les parcelles plus calcaires et lœssiques de la colline des blancs d’une ampleur peu commune.</p><p>L’Hermitage blanc de Guigal repose sur la marsanne, complétée par une petite proportion de roussanne. Il fermente et s’élève en fûts de chêne, en partie neufs, ce qui apporte texture et notes grillées subtiles.</p><p>C’est un blanc ample, à l’acidité modérée, aux arômes de fruits à noyau, de fleurs blanches, d’amande et de miel. Jeune, il est expressif et fruité ; avec l’âge, il peut traverser une phase plus fermée avant de développer des notes de cire, de fruits secs et d’épices. Il gagne à l’aération et se sert de préférence pas trop froid.</p>",
+    "it": "<p>La collina dell’<strong>Hermitage</strong> è nota soprattutto per i suoi rossi di Syrah, ma produce anche una quota di vini bianchi di lunga tradizione. Le varietà ammesse sono la <strong>Marsanne</strong> e la <strong>Roussanne</strong>, che nelle parcelle più calcaree e ricche di loess della collina danno bianchi di un’ampiezza poco comune.</p><p>L’Hermitage bianco di Guigal si basa sulla Marsanne, completata da una piccola proporzione di Roussanne. Fermenta e matura in botti di rovere, in parte nuove, che apportano consistenza e sottili note tostate.</p><p>È un bianco di corpo pieno e acidità moderata, con aromi di frutta a nocciolo, fiori bianchi, mandorla e miele. Da giovane è espressivo e fruttato; con gli anni può attraversare una fase più chiusa prima di sviluppare note di cera, frutta secca e spezie. Trae beneficio dall’ossigenazione ed è meglio servirlo non troppo freddo.</p>"
+  },
+  "tasting": {
+    "es": "Dorado brillante. Aromas de albaricoque, melocotón, flores blancas, miel y almendra tostada. Boca amplia y untuosa, de gran volumen y final persistente.",
+    "en": "Bright gold. Aromas of apricot, peach, white flowers, honey and toasted almond. Broad, unctuous palate of great volume with a persistent finish.",
+    "fr": "Or brillant. Arômes d’abricot, de pêche, de fleurs blanches, de miel et d’amande grillée. Bouche ample et onctueuse, d’un grand volume, à la finale persistante.",
+    "it": "Oro brillante. Aromi di albicocca, pesca, fiori bianchi, miele e mandorla tostata. Bocca ampia e untuosa, di grande volume e finale persistente."
+  },
+  "pairing": {
+    "es": "Langosta, rodaballo, pollo de Bresse con crema, ternera, quesos de pasta dura",
+    "en": "Lobster, turbot, Bresse chicken in cream, veal, hard cheeses",
+    "fr": "Homard, turbot, volaille de Bresse à la crème, veau, fromages à pâte dure",
+    "it": "Astice, rombo, pollo di Bresse alla panna, vitello, formaggi a pasta dura"
+  },
+  "serve": {
+    "es": "11-13 °C, copa amplia",
+    "en": "11-13 °C, large glass",
+    "fr": "11-13 °C, verre ample",
+    "it": "11-13 °C, calice ampio"
+  },
+  "search": "Hermitage Blanc E. Guigal"
+}

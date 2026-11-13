@@ -1,0 +1,44 @@
+{
+  "slug": "le-petit-cheval-blanc",
+  "name": "Le Petit Cheval Blanc",
+  "winery": "chateau-cheval-blanc",
+  "region": "bordeaux",
+  "country": "francia",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "sauvignon-blanc",
+    "semillon"
+  ],
+  "summary": {
+    "es": "Vino blanco de Château Cheval Blanc, a base de Sauvignon Blanc con Sémillon, que se comercializa con la denominación Bordeaux.",
+    "en": "White wine from Château Cheval Blanc, based on Sauvignon Blanc with Sémillon, sold under the Bordeaux appellation.",
+    "fr": "Vin blanc du Château Cheval Blanc, à base de sauvignon blanc et de sémillon, commercialisé sous l’appellation Bordeaux.",
+    "it": "Vino bianco di Château Cheval Blanc, a base di Sauvignon Blanc con Sémillon, commercializzato con la denominazione Bordeaux."
+  },
+  "body": {
+    "es": "<p><strong>Le Petit Cheval Blanc</strong> es el vino blanco de <strong>Château Cheval Blanc</strong>, una de las grandes fincas de tinto de Saint-Émilion. Como la denominación Saint-Émilion solo ampara vinos tintos, este blanco se comercializa con la denominación regional <strong>Bordeaux</strong>, aunque procede de viñas de la propiedad.</p><p>Se elabora sobre todo con <strong>Sauvignon Blanc</strong>, completado con <strong>Sémillon</strong>, las dos variedades blancas clásicas de Burdeos. La primera aporta frescura y aromas cítricos y herbáceos; la segunda, cuerpo y textura. El vino fermenta y se cría en parte en barricas de roble, con atención a conservar la frescura.</p><p>Es un blanco de cuerpo medio, aromático y tenso, con una textura que gana con unos años de botella. Representa una iniciativa reciente dentro de una finca conocida históricamente solo por sus tintos.</p>",
+    "en": "<p><strong>Le Petit Cheval Blanc</strong> is the white wine of <strong>Château Cheval Blanc</strong>, one of the great red wine estates of Saint-Émilion. As the Saint-Émilion appellation covers only red wines, this white is sold under the regional <strong>Bordeaux</strong> appellation, although it comes from the estate’s own vines.</p><p>It is made mainly from <strong>Sauvignon Blanc</strong>, completed with <strong>Sémillon</strong>, the two classic white varieties of Bordeaux. The former brings freshness and citrus and herbal aromas; the latter, body and texture. The wine is fermented and aged partly in oak barrels, with care taken to preserve freshness.</p><p>It is a medium-bodied, aromatic and taut white whose texture benefits from a few years in bottle. It represents a recent initiative at an estate historically known only for its reds.</p>",
+    "fr": "<p><strong>Le Petit Cheval Blanc</strong> est le vin blanc du <strong>Château Cheval Blanc</strong>, l’un des grands domaines de vin rouge de Saint-Émilion. L’appellation Saint-Émilion ne couvrant que les rouges, ce blanc est commercialisé sous l’appellation régionale <strong>Bordeaux</strong>, bien qu’il provienne des vignes de la propriété.</p><p>Il est élaboré surtout à partir de <strong>sauvignon blanc</strong>, complété par le <strong>sémillon</strong>, les deux cépages blancs classiques du Bordelais. Le premier apporte fraîcheur et arômes d’agrumes et d’herbes ; le second, corps et texture. Le vin fermente et est élevé en partie en barriques de chêne, avec le souci de préserver sa fraîcheur.</p><p>C’est un blanc de corps moyen, aromatique et tendu, dont la texture gagne à passer quelques années en bouteille. Il représente une initiative récente dans un domaine longtemps connu uniquement pour ses rouges.</p>",
+    "it": "<p><strong>Le Petit Cheval Blanc</strong> è il vino bianco di <strong>Château Cheval Blanc</strong>, una delle grandi tenute di vino rosso di Saint-Émilion. Poiché la denominazione Saint-Émilion riguarda solo i rossi, questo bianco è commercializzato con la denominazione regionale <strong>Bordeaux</strong>, pur provenendo dalle vigne della proprietà.</p><p>È prodotto soprattutto con <strong>Sauvignon Blanc</strong>, completato dal <strong>Sémillon</strong>, i due vitigni bianchi classici di Bordeaux. Il primo apporta freschezza e aromi di agrumi ed erbe; il secondo, corpo e struttura. Il vino fermenta e affina in parte in barrique di rovere, con attenzione a preservarne la freschezza.</p><p>È un bianco di medio corpo, aromatico e teso, la cui struttura migliora con qualche anno di bottiglia. Rappresenta un’iniziativa recente in una tenuta storicamente nota solo per i suoi rossi.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido. Aromas de cítricos, fruta blanca, hierbas frescas y notas florales, con un ligero toque de roble. Boca fresca, tensa y de buena textura.",
+    "en": "Pale yellow. Aromas of citrus, white fruit, fresh herbs and floral notes, with a light touch of oak. Fresh, taut palate with good texture.",
+    "fr": "Jaune pâle. Arômes d’agrumes, de fruits blancs, d’herbes fraîches et notes florales, avec une légère touche boisée. Bouche fraîche, tendue et bien texturée.",
+    "it": "Giallo paglierino. Aromi di agrumi, frutta bianca, erbe fresche e note floreali, con un leggero tocco di rovere. Bocca fresca, tesa e di buona struttura."
+  },
+  "pairing": {
+    "es": "Pescados a la plancha, marisco, vieiras, aves, quesos de cabra",
+    "en": "Grilled fish, shellfish, scallops, poultry, goat’s cheeses",
+    "fr": "Poissons grillés, fruits de mer, Saint-Jacques, volailles, fromages de chèvre",
+    "it": "Pesce alla piastra, frutti di mare, capesante, pollame, formaggi di capra"
+  },
+  "serve": {
+    "es": "12-14 °C, copa amplia de vino blanco",
+    "en": "12-14 °C, large white wine glass",
+    "fr": "12-14 °C, verre à vin blanc ample",
+    "it": "12-14 °C, calice ampio da vino bianco"
+  },
+  "search": "Le Petit Cheval Blanc Château Cheval Blanc"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "allegrini-valpolicella-classico",
+  "name": "Allegrini Valpolicella Classico",
+  "winery": "allegrini",
+  "region": "valpolicella",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "Valpolicella Classico DOC",
+    "en": "Valpolicella Classico DOC",
+    "fr": "Valpolicella Classico DOC",
+    "it": "Valpolicella Classico DOC"
+  },
+  "grapes": [
+    "corvina",
+    "rondinella"
+  ],
+  "summary": {
+    "es": "Valpolicella Classico de Allegrini, tinto joven de Corvina y Rondinella de la zona histórica de la denominación, de estilo fresco y afrutado.",
+    "en": "Valpolicella Classico from Allegrini, a young red of Corvina and Rondinella from the historic heart of the appellation, fresh and fruity in style.",
+    "fr": "Valpolicella Classico d'Allegrini, rouge jeune de corvina et de rondinella de la zone historique de l'appellation, de style frais et fruité.",
+    "it": "Valpolicella Classico di Allegrini, rosso giovane di Corvina e Rondinella della zona storica della denominazione, di stile fresco e fruttato."
+  },
+  "body": {
+    "es": "<p>La familia Allegrini está establecida en Fumane, en el corazón de la <strong>Valpolicella Classica</strong>, la zona histórica de la denominación, que comprende los valles de Fumane, Marano y Negrar y el área de Sant'Ambrogio y San Pietro in Cariano, al noroeste de Verona. Allí cultiva viñedos en laderas y terrazas de suelos calcáreos.</p><p>Además de sus Amarone y de sus tintos de mayor ambición, la casa elabora este Valpolicella Classico, el vino más directo de la zona. Se basa en la <strong>Corvina</strong>, la variedad principal de la Valpolicella, que aporta aromas de cereza y acidez, acompañada de <strong>Rondinella</strong>. A diferencia del Amarone o del Ripasso, se elabora con uvas frescas, sin secado, y se cría en depósito para preservar la fruta.</p><p>El resultado es un tinto ligero a medio, fragante y jugoso, pensado para beberse joven y algo fresco.</p>",
+    "en": "<p>The Allegrini family is based in Fumane, in the heart of <strong>Valpolicella Classica</strong>, the historic zone of the appellation, which includes the Fumane, Marano and Negrar valleys and the area of Sant'Ambrogio and San Pietro in Cariano, north-west of Verona. There it farms vineyards on slopes and terraces of limestone soils.</p><p>Besides its Amarone and more ambitious reds, the house makes this Valpolicella Classico, the area's most straightforward wine. It is based on <strong>Corvina</strong>, the main Valpolicella variety, which contributes cherry aromas and acidity, accompanied by <strong>Rondinella</strong>. Unlike Amarone or Ripasso, it is made from fresh, undried grapes and aged in tank to preserve the fruit.</p><p>The result is a light- to medium-bodied red, fragrant and juicy, meant to be drunk young and slightly cool.</p>",
+    "fr": "<p>La famille Allegrini est établie à Fumane, au cœur de la <strong>Valpolicella Classica</strong>, la zone historique de l'appellation, qui comprend les vallées de Fumane, Marano et Negrar et le secteur de Sant'Ambrogio et San Pietro in Cariano, au nord-ouest de Vérone. Elle y cultive des vignes sur des coteaux et des terrasses aux sols calcaires.</p><p>Outre ses Amarone et ses rouges plus ambitieux, la maison élabore ce Valpolicella Classico, le vin le plus direct du secteur. Il repose sur la <strong>corvina</strong>, principal cépage de la Valpolicella, qui apporte des arômes de cerise et de l'acidité, accompagnée de la <strong>rondinella</strong>. Contrairement à l'Amarone ou au Ripasso, il est élaboré à partir de raisins frais, non passerillés, et élevé en cuve pour préserver le fruit.</p><p>Le résultat est un rouge léger à moyen, parfumé et juteux, à boire jeune et légèrement rafraîchi.</p>",
+    "it": "<p>La famiglia Allegrini ha sede a Fumane, nel cuore della <strong>Valpolicella Classica</strong>, la zona storica della denominazione, che comprende le valli di Fumane, Marano e Negrar e l'area di Sant'Ambrogio e San Pietro in Cariano, a nord-ovest di Verona. Qui coltiva vigneti su pendii e terrazze di suoli calcarei.</p><p>Oltre ai suoi Amarone e ai rossi più ambiziosi, la casa produce questo Valpolicella Classico, il vino più immediato della zona. Si basa sulla <strong>Corvina</strong>, il vitigno principale della Valpolicella, che apporta aromi di ciliegia e acidità, accompagnata dalla <strong>Rondinella</strong>. A differenza dell'Amarone o del Ripasso, è prodotto con uve fresche, non appassite, e affinato in vasca per preservare il frutto.</p><p>Il risultato è un rosso di corpo da leggero a medio, profumato e succoso, da bere giovane e leggermente fresco.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí brillante. Aromas de cereza, guinda y frutos rojos, con un toque de especias y flores. Boca ligera y jugosa, de taninos suaves y acidez fresca.",
+    "en": "Bright ruby red. Aromas of cherry, sour cherry and red berries, with a touch of spice and flowers. Light, juicy palate with soft tannins and fresh acidity.",
+    "fr": "Rouge rubis brillant. Arômes de cerise, de griotte et de fruits rouges, avec une touche d'épices et de fleurs. Bouche légère et juteuse, aux tanins souples et à l'acidité fraîche.",
+    "it": "Rosso rubino brillante. Aromi di ciliegia, amarena e frutti rossi, con un tocco di spezie e fiori. In bocca è leggero e succoso, con tannini morbidi e acidità fresca."
+  },
+  "pairing": {
+    "es": "Embutidos, pasta, pizza, aves, risotto",
+    "en": "Cured meats, pasta, pizza, poultry, risotto",
+    "fr": "Charcuterie, pâtes, pizza, volailles, risotto",
+    "it": "Salumi, pasta, pizza, pollame, risotto"
+  },
+  "serve": {
+    "es": "14-16 °C, copa de vino tinto",
+    "en": "14-16 °C, red wine glass",
+    "fr": "14-16 °C, verre à vin rouge",
+    "it": "14-16 °C, calice da vino rosso"
+  },
+  "search": "Allegrini Valpolicella Classico"
+}

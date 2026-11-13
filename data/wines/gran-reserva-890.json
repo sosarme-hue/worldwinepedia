@@ -1,0 +1,50 @@
+{
+  "slug": "gran-reserva-890",
+  "name": "Gran Reserva 890",
+  "winery": "la-rioja-alta",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Gran Reserva",
+    "en": "Gran Reserva",
+    "fr": "Gran Reserva",
+    "it": "Gran Reserva"
+  },
+  "grapes": [
+    "tempranillo",
+    "graciano",
+    "carinena"
+  ],
+  "summary": {
+    "es": "El gran reserva más emblemático de La Rioja Alta, de Tempranillo con Graciano y Mazuelo, con una crianza muy larga y elaborado sólo en añadas excepcionales.",
+    "en": "La Rioja Alta’s most emblematic gran reserva, made from Tempranillo with Graciano and Mazuelo, very long aged and produced only in exceptional vintages.",
+    "fr": "Le gran reserva le plus emblématique de La Rioja Alta, de tempranillo, graciano et mazuelo, à l’élevage très long et produit seulement dans les millésimes exceptionnels.",
+    "it": "Il gran reserva più emblematico de La Rioja Alta, di Tempranillo con Graciano e Mazuelo, con un affinamento molto lungo e prodotto solo nelle annate eccezionali."
+  },
+  "body": {
+    "es": "<p>El Gran Reserva 890 debe su nombre al año de fundación de la bodega, 1890, y se sitúa en la cúspide de la gama de La Rioja Alta. Se elabora con Tempranillo acompañada de pequeñas proporciones de Graciano y Mazuelo, y sólo en las añadas que la bodega considera excepcionales. Su crianza en barricas de roble americano es una de las más largas del Rioja, con numerosos trasiegos manuales, a la que sigue un largo reposo en botella antes de salir al mercado. Es el máximo exponente del estilo clásico de la casa.</p><p>La Rioja Alta, S.A., fundada en Haro en 1890, es una de las casas más representativas del Rioja clásico. Su estilo se basa en crianzas largas en barricas de roble americano fabricadas en su propia tonelería y en trasiegos manuales, barrica a barrica. Cada vino se elabora sólo en las añadas que la bodega considera adecuadas para su nivel.</p>",
+    "en": "<p>Gran Reserva 890 takes its name from the year the winery was founded, 1890, and sits at the top of La Rioja Alta’s range. It is made from Tempranillo with small proportions of Graciano and Mazuelo, and only in vintages the winery considers exceptional. Its ageing in American oak barrels is one of the longest in Rioja, with numerous manual rackings, followed by a long rest in bottle before release. It is the ultimate expression of the house’s classic style.</p><p>La Rioja Alta, S.A., founded in Haro in 1890, is one of the most representative houses of classic Rioja. Its style rests on long ageing in American oak barrels made in its own cooperage and on manual racking, barrel by barrel. Each wine is made only in the vintages the winery considers suitable for its level.</p>",
+    "fr": "<p>Le Gran Reserva 890 doit son nom à l’année de fondation de la maison, 1890, et se situe au sommet de la gamme de La Rioja Alta. Il est élaboré à partir de tempranillo accompagné de petites proportions de graciano et de mazuelo, et seulement dans les millésimes que la maison juge exceptionnels. Son élevage en barriques de chêne américain est l’un des plus longs de la Rioja, avec de nombreux soutirages manuels, suivi d’un long repos en bouteille avant sa commercialisation. C’est l’expression la plus aboutie du style classique de la maison.</p><p>La Rioja Alta, S.A., fondée à Haro en 1890, est l’une des maisons les plus représentatives du Rioja classique. Son style repose sur de longs élevages en barriques de chêne américain fabriquées dans sa propre tonnellerie et sur des soutirages manuels, barrique par barrique. Chaque vin n’est élaboré que dans les millésimes que la maison juge adaptés à son niveau.</p>",
+    "it": "<p>Il Gran Reserva 890 deve il suo nome all’anno di fondazione della cantina, il 1890, e si colloca al vertice della gamma de La Rioja Alta. È prodotto con Tempranillo accompagnato da piccole quote di Graciano e Mazuelo, e solo nelle annate che la cantina considera eccezionali. Il suo affinamento in botti di rovere americano è uno dei più lunghi della Rioja, con numerosi travasi manuali, seguito da un lungo riposo in bottiglia prima della commercializzazione. È la massima espressione dello stile classico della casa.</p><p>La Rioja Alta, S.A., fondata a Haro nel 1890, è una delle case più rappresentative del Rioja classico. Il suo stile si basa su lunghi affinamenti in botti di rovere americano costruite nella propria bottaia e su travasi manuali, botte per botte. Ogni vino viene prodotto solo nelle annate che la cantina ritiene adatte al suo livello.</p>"
+  },
+  "tasting": {
+    "es": "Rubí con ribete teja. Aromas complejos de fruta roja confitada, especias, cuero, tabaco, sotobosque y notas balsámicas. En boca es sedoso, delicado y muy largo.",
+    "en": "Ruby with a brick rim. Complex aromas of candied red fruit, spice, leather, tobacco, undergrowth and balsamic notes. Silky, delicate and very long on the palate.",
+    "fr": "Rubis aux reflets tuilés. Arômes complexes de fruits rouges confits, d’épices, de cuir, de tabac, de sous-bois et notes balsamiques. En bouche, soyeux, délicat et très long.",
+    "it": "Rubino con unghia aranciata. Aromi complessi di frutta rossa candita, spezie, cuoio, tabacco, sottobosco e note balsamiche. In bocca è setoso, delicato e molto lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, caza, carnes rojas guisadas, setas, quesos curados",
+    "en": "Roast lamb, game, braised red meat, mushrooms, aged cheeses",
+    "fr": "Agneau rôti, gibier, viandes rouges braisées, champignons, fromages affinés",
+    "it": "Agnello arrosto, selvaggina, carni rosse brasate, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Gran Reserva 890 La Rioja Alta"
+}

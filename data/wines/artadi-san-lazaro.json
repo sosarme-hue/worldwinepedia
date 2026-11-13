@@ -1,0 +1,43 @@
+{
+  "slug": "artadi-san-lazaro",
+  "name": "Artadi San Lázaro",
+  "winery": "artadi",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Tinto de Artadi, la bodega de Laguardia conocida por sus vinos de viñedo singular de Tempranillo en la Rioja Alavesa.",
+    "en": "Red from Artadi, the Laguardia winery known for its single-vineyard Tempranillo wines from Rioja Alavesa.",
+    "fr": "Rouge d’Artadi, la cave de Laguardia connue pour ses vins de vignoble singulier de tempranillo en Rioja Alavesa.",
+    "it": "Rosso di Artadi, la cantina di Laguardia nota per i suoi vini di singolo vigneto di Tempranillo nella Rioja Alavesa."
+  },
+  "body": {
+    "es": "<p>Artadi, dirigida por Juan Carlos López de Lacalle desde Laguardia, es una de las bodegas que más ha defendido en Rioja la idea del vino de viñedo y de pueblo, frente a la clasificación tradicional por tiempo de crianza. Esa visión la llevó a abandonar la Denominación de Origen Calificada Rioja, por lo que sus etiquetas recientes no llevan la mención de la denominación, aunque sus viñedos siguen estando en la Rioja Alavesa.</p><p>San Lázaro forma parte de esta gama de vinos con nombre de paraje. Se elabora con Tempranillo de viñas cultivadas en suelos calcáreos al pie de la Sierra de Cantabria, en un clima de influencia atlántica, y su crianza busca respetar la fruta y la expresión del lugar. Es un tinto fresco y preciso, con buena capacidad de guarda.</p>",
+    "en": "<p>Artadi, run by Juan Carlos López de Lacalle from Laguardia, is one of the wineries that has most strongly championed the idea of vineyard and village wines in Rioja, as opposed to the traditional classification by ageing time. That vision led it to leave the Rioja DOCa, so its recent labels do not carry the appellation name, although its vineyards are still in Rioja Alavesa.</p><p>San Lázaro is part of this range of wines named after a site. It is made from Tempranillo grown on limestone soils at the foot of the Sierra de Cantabria, in a climate with Atlantic influence, and its ageing aims to respect the fruit and the expression of place. It is a fresh, precise red with good ageing potential.</p>",
+    "fr": "<p>Artadi, dirigée par Juan Carlos López de Lacalle depuis Laguardia, est l’une des caves qui ont le plus défendu en Rioja l’idée du vin de vignoble et de village, face à la classification traditionnelle par durée d’élevage. Cette vision l’a conduite à quitter la DOCa Rioja ; ses étiquettes récentes ne portent donc plus le nom de l’appellation, bien que ses vignes se trouvent toujours en Rioja Alavesa.</p><p>San Lázaro fait partie de cette gamme de vins portant le nom d’un lieu-dit. Il est élaboré avec du tempranillo cultivé sur des sols calcaires au pied de la Sierra de Cantabria, sous un climat d’influence atlantique, et son élevage cherche à respecter le fruit et l’expression du lieu. C’est un rouge frais et précis, au bon potentiel de garde.</p>",
+    "it": "<p>Artadi, guidata da Juan Carlos López de Lacalle da Laguardia, è una delle cantine che più hanno difeso in Rioja l’idea del vino di vigneto e di villaggio, contro la classificazione tradizionale per tempo di affinamento. Questa visione l’ha portata a lasciare la DOCa Rioja, per cui le sue etichette recenti non riportano il nome della denominazione, anche se i vigneti restano nella Rioja Alavesa.</p><p>San Lázaro fa parte di questa gamma di vini con il nome di una località. È prodotto con Tempranillo coltivato su suoli calcarei ai piedi della Sierra de Cantabria, in un clima di influenza atlantica, e il suo affinamento cerca di rispettare il frutto e l’espressione del luogo. È un rosso fresco e preciso, con buona capacità di invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Fruta roja y negra fresca, notas florales y de hierbas, con un fondo especiado discreto. Boca de tanino fino, acidez viva y final mineral.",
+    "en": "Fresh red and black fruit, floral and herbal notes with a discreet spicy background. Fine tannins, lively acidity and a mineral finish.",
+    "fr": "Fruits rouges et noirs frais, notes florales et herbacées, avec un fond épicé discret. Tanins fins, acidité vive et finale minérale.",
+    "it": "Frutta rossa e nera fresca, note floreali ed erbacee, con un fondo speziato discreto. Tannino fine, acidità viva e finale minerale."
+  },
+  "pairing": {
+    "es": "Cordero asado, chuletillas a la brasa, setas, caza menor, quesos curados",
+    "en": "Roast lamb, grilled lamb chops, mushrooms, small game, aged cheeses",
+    "fr": "Agneau rôti, côtelettes grillées, champignons, petit gibier, fromages affinés",
+    "it": "Agnello arrosto, costolette alla brace, funghi, piccola selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia; puede beneficiarse de un decantado",
+    "en": "16-18 °C, large glass; may benefit from decanting",
+    "fr": "16-18 °C, verre ample ; peut gagner à être carafé",
+    "it": "16-18 °C, calice ampio; può giovarsi della decantazione"
+  },
+  "search": "San Lázaro Artadi"
+}

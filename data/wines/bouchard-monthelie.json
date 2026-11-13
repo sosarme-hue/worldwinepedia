@@ -1,0 +1,48 @@
+{
+  "slug": "bouchard-monthelie",
+  "name": "Monthelie",
+  "winery": "bouchard-pere-et-fils",
+  "region": "cote-de-beaune",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Village",
+    "en": "Village",
+    "fr": "Village",
+    "it": "Village"
+  },
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Tinto de Pinot Noir de la discreta denominación Monthelie, en la Côte de Beaune, elaborado por Bouchard Père & Fils.",
+    "en": "Pinot Noir red from the lesser-known Monthelie appellation in the Côte de Beaune, made by Bouchard Père & Fils.",
+    "fr": "Rouge de pinot noir de la discrète appellation Monthelie, en Côte de Beaune, élaboré par Bouchard Père & Fils.",
+    "it": "Rosso di Pinot Nero della discreta denominazione Monthelie, nella Côte de Beaune, prodotto da Bouchard Père & Fils."
+  },
+  "body": {
+    "es": "<p>Monthelie es un pequeño pueblo de la Côte de Beaune situado entre Volnay y Auxey-Duresses, con viñedos que en parte prolongan las laderas de Volnay. Su denominación se dedica sobre todo a los tintos de Pinot Noir, menos conocidos que los de sus vecinos y a menudo de precio más asequible. Suelen ser vinos de cuerpo medio, aromáticos y de fruta roja, con una estructura que recuerda en estilo a Volnay aunque algo más rústica.</p><p>Bouchard Père & Fils, casa fundada en Beaune en 1731, cría sus vinos en las bodegas del Château de Beaune. Su estilo busca expresar el carácter de cada clima con una extracción medida y un uso del roble que acompaña a la fruta sin dominarla. La casa posee un amplio patrimonio de viñedos en la Côte d’Or, con numerosas parcelas de premier cru y grand cru, y completa su gama con vinos de uva comprada.</p>",
+    "en": "<p>Monthelie is a small village in the Côte de Beaune between Volnay and Auxey-Duresses, with vineyards that partly extend the slopes of Volnay. Its appellation is devoted mainly to Pinot Noir reds, less well known than those of its neighbours and often more affordable. They are usually medium-bodied, aromatic wines with red fruit, with a structure that recalls Volnay in style, though somewhat more rustic.</p><p>Bouchard Père & Fils, a house founded in Beaune in 1731, ages its wines in the cellars of the Château de Beaune. Its style seeks to express the character of each climat through measured extraction and oak that supports the fruit without dominating it. The house owns an extensive vineyard estate in the Côte d’Or, with many premier cru and grand cru plots, and completes its range with wines made from purchased grapes.</p>",
+    "fr": "<p>Monthelie est un petit village de la Côte de Beaune situé entre Volnay et Auxey-Duresses, dont les vignes prolongent en partie les coteaux de Volnay. Son appellation se consacre surtout aux rouges de pinot noir, moins connus que ceux de ses voisins et souvent plus abordables. Ce sont en général des vins de corps moyen, aromatiques et au fruit rouge, dont la structure rappelle le style de Volnay, en un peu plus rustique.</p><p>Bouchard Père & Fils, maison fondée à Beaune en 1731, élève ses vins dans les caves du Château de Beaune. Son style cherche à exprimer le caractère de chaque climat par une extraction mesurée et un boisé qui accompagne le fruit sans le dominer. La maison possède un vaste patrimoine de vignes en Côte-d’Or, avec de nombreuses parcelles de premier cru et de grand cru, et complète sa gamme par des vins de négoce.</p>",
+    "it": "<p>Monthelie è un piccolo villaggio della Côte de Beaune situato tra Volnay e Auxey-Duresses, con vigneti che in parte prolungano i pendii di Volnay. La sua denominazione è dedicata soprattutto ai rossi di Pinot Nero, meno noti di quelli dei vicini e spesso più accessibili nel prezzo. Sono di solito vini di medio corpo, aromatici e di frutto rosso, con una struttura che ricorda lo stile di Volnay, anche se un po’ più rustica.</p><p>Bouchard Père & Fils, maison fondata a Beaune nel 1731, affina i suoi vini nelle cantine dello Château de Beaune. Il suo stile mira a esprimere il carattere di ogni climat con un’estrazione misurata e un uso del rovere che accompagna il frutto senza sovrastarlo. La maison possiede un ampio patrimonio di vigneti nella Côte d’Or, con numerose parcelle di premier cru e grand cru, e completa la gamma con vini prodotti da uve acquistate.</p>"
+  },
+  "tasting": {
+    "es": "Rubí brillante. Aromas de cereza, frambuesa y notas especiadas y florales. En boca es fino y fresco, con taninos delicados y final persistente.",
+    "en": "Bright ruby. Aromas of cherry, raspberry and spicy, floral notes. Fine and fresh on the palate, with delicate tannins and a persistent finish.",
+    "fr": "Rubis brillant. Arômes de cerise, de framboise et notes épicées et florales. En bouche, fin et frais, aux tanins délicats et à la finale persistante.",
+    "it": "Rubino brillante. Aromi di ciliegia, lampone e note speziate e floreali. In bocca è fine e fresco, con tannini delicati e finale persistente."
+  },
+  "pairing": {
+    "es": "Aves asadas, pato, carnes rojas a la parrilla, setas, quesos de pasta blanda",
+    "en": "Roast poultry, duck, grilled red meat, mushrooms, soft cheeses",
+    "fr": "Volailles rôties, canard, viandes rouges grillées, champignons, fromages à pâte molle",
+    "it": "Pollame arrosto, anatra, carni rosse alla griglia, funghi, formaggi a pasta molle"
+  },
+  "serve": {
+    "es": "14-16 °C, copa de Borgoña",
+    "en": "14-16 °C, Burgundy glass",
+    "fr": "14-16 °C, verre de type bourguignon",
+    "it": "14-16 °C, calice da Borgogna"
+  },
+  "search": "Monthelie Bouchard Père & Fils"
+}

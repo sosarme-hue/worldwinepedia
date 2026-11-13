@@ -1,0 +1,50 @@
+{
+  "slug": "krug-vintage",
+  "name": "Krug Vintage",
+  "winery": "krug",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut",
+    "en": "Brut",
+    "fr": "Brut",
+    "it": "Brut"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir",
+    "pinot-meunier"
+  ],
+  "summary": {
+    "es": "Champagne de añada de Krug, que expresa el carácter de un año concreto con el estilo profundo y vinoso de la casa.",
+    "en": "Krug’s vintage Champagne, expressing the character of a particular year in the house’s deep, vinous style.",
+    "fr": "Champagne millésimé de Krug, qui exprime le caractère d’une année précise dans le style profond et vineux de la maison.",
+    "it": "Champagne millesimato di Krug, che esprime il carattere di un’annata precisa nello stile profondo e vinoso della casa."
+  },
+  "body": {
+    "es": "<p>Krug, fundada en Reims en 1843 por Joseph Krug, es una de las casas más prestigiosas de Champagne. Es conocida por fermentar sus vinos base en pequeñas barricas de roble usadas, que no aportan sabor a madera pero sí favorecen la complejidad, y por largas crianzas en sus bodegas.</p><p>Mientras la Grande Cuvée se construye cada año con muchos vinos de distintas cosechas, el Krug Vintage procede de un solo año y busca contar su historia. La proporción de Pinot Noir, Chardonnay y Meunier varía según la añada, y el vino permanece muchos años en la bodega antes de salir al mercado.</p><p>Es un champagne amplio y complejo, más pensado para la mesa que para el aperitivo, con gran capacidad de guarda: puede disfrutarse tras su salida al mercado y seguir evolucionando durante muchos años, desarrollando matices cada vez más profundos.</p>",
+    "en": "<p>Krug, founded in Reims in 1843 by Joseph Krug, is one of the most prestigious houses in Champagne. It is known for fermenting its base wines in small, used oak barrels, which add no oak flavour but encourage complexity, and for long ageing in its cellars.</p><p>Whereas the Grande Cuvée is built each year from many wines of different harvests, Krug Vintage comes from a single year and seeks to tell its story. The proportions of Pinot Noir, Chardonnay and Meunier vary with the vintage, and the wine spends many years in the cellar before release.</p><p>It is a broad, complex Champagne, better suited to the table than to the aperitif, with great ageing potential: it can be enjoyed on release and continue to develop for many years, gaining ever deeper nuances.</p>",
+    "fr": "<p>Krug, fondée à Reims en 1843 par Joseph Krug, est l’une des maisons les plus prestigieuses de Champagne. Elle est connue pour fermenter ses vins de base dans de petits fûts de chêne usagés, qui n’apportent pas de goût boisé mais favorisent la complexité, et pour de longs vieillissements dans ses caves.</p><p>Alors que la Grande Cuvée est construite chaque année à partir de nombreux vins de récoltes différentes, le Krug Vintage provient d’une seule année et cherche à en raconter l’histoire. Les proportions de pinot noir, de chardonnay et de meunier varient selon le millésime, et le vin passe de nombreuses années en cave avant sa commercialisation.</p><p>C’est un champagne ample et complexe, davantage pensé pour la table que pour l’apéritif, au grand potentiel de garde : il peut s’apprécier dès sa sortie et continuer d’évoluer pendant de nombreuses années, en développant des nuances de plus en plus profondes.</p>",
+    "it": "<p>Krug, fondata a Reims nel 1843 da Joseph Krug, è una delle maison più prestigiose della Champagne. È nota per la fermentazione dei vini base in piccole botti di rovere usate, che non apportano sapore di legno ma favoriscono la complessità, e per i lunghi affinamenti nelle sue cantine.</p><p>Mentre la Grande Cuvée si costruisce ogni anno con molti vini di vendemmie diverse, il Krug Vintage proviene da una sola annata e ne vuole raccontare la storia. Le proporzioni di Pinot Noir, Chardonnay e Meunier variano secondo l’annata, e il vino resta molti anni in cantina prima di essere commercializzato.</p><p>È uno champagne ampio e complesso, pensato più per la tavola che per l’aperitivo, con grande capacità di invecchiamento: si può gustare appena uscito e continuare a evolvere per molti anni, sviluppando sfumature sempre più profonde.</p>"
+  },
+  "tasting": {
+    "es": "Fruta madura, cítricos confitados, brioche, frutos secos tostados y notas especiadas. Boca amplia y profunda, de burbuja fina, con acidez firme y final muy largo.",
+    "en": "Ripe fruit, candied citrus, brioche, toasted nuts and spicy notes. Broad, deep palate with fine bubbles, firm acidity and a very long finish.",
+    "fr": "Fruits mûrs, agrumes confits, brioche, fruits secs grillés et notes épicées. Bouche ample et profonde, bulle fine, acidité ferme et finale très longue.",
+    "it": "Frutta matura, agrumi canditi, brioche, frutta secca tostata e note speziate. Bocca ampia e profonda, bollicina fine, acidità decisa e finale lunghissimo."
+  },
+  "pairing": {
+    "es": "Langosta, pescados nobles en salsa, aves de corral, trufa, quesos curados",
+    "en": "Lobster, fine fish in sauce, poultry, truffle, aged cheeses",
+    "fr": "Homard, poissons nobles en sauce, volailles, truffe, fromages affinés",
+    "it": "Astice, pesci nobili in salsa, pollame, tartufo, formaggi stagionati"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de vino blanco amplia, no flauta",
+    "en": "10-12 °C, large white wine glass rather than a flute",
+    "fr": "10-12 °C, verre à vin blanc ample plutôt qu’une flûte",
+    "it": "10-12 °C, calice ampio da vino bianco, non flûte"
+  },
+  "search": "Krug Vintage"
+}

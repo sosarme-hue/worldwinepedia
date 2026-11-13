@@ -1,0 +1,49 @@
+{
+  "slug": "laurent-perrier-brut-millesime",
+  "name": "Laurent-Perrier Brut Millésimé",
+  "winery": "laurent-perrier",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut Millésimé",
+    "en": "Vintage Brut",
+    "fr": "Brut Millésimé",
+    "it": "Brut Millesimato"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Champagne brut de añada de Laurent-Perrier, elaborado con Chardonnay y Pinot Noir de una sola cosecha y sólo en los años que la casa considera adecuados.",
+    "en": "Vintage brut Champagne from Laurent-Perrier, made from Chardonnay and Pinot Noir of a single harvest and only in years the house deems suitable.",
+    "fr": "Champagne brut millésimé de Laurent-Perrier, élaboré avec du chardonnay et du pinot noir d’une seule récolte et seulement les années que la maison juge adaptées.",
+    "it": "Champagne brut millesimato di Laurent-Perrier, prodotto con Chardonnay e Pinot Nero di una sola vendemmia e solo nelle annate che la casa ritiene adatte."
+  },
+  "body": {
+    "es": "<p>En Champagne la mayoría de los vinos son ensamblajes de varias cosechas, lo que permite mantener un estilo constante. El <strong>champagne de añada</strong>, en cambio, procede de una única vendimia y sólo se elabora cuando la casa considera que el año tiene la calidad y el carácter suficientes, de modo que cada edición refleja las condiciones de su cosecha.</p><p>El Brut Millésimé de Laurent-Perrier ensambla <strong>Chardonnay</strong> y <strong>Pinot Noir</strong> procedentes de crus de prestigio. La Chardonnay aporta finura, frescura y notas cítricas, mientras la Pinot Noir da estructura y profundidad. El vino pasa varios años de crianza sobre lías en las bodegas de Tours-sur-Marne, bastante más que el mínimo exigido a los champagnes de añada.</p><p>El resultado es un champagne equilibrado, que une la elegancia propia de la casa con la complejidad de la crianza: notas de fruta, bollería y frutos secos, sobre una burbuja fina. Puede beberse al salir al mercado o guardarse algunos años.</p>",
+    "en": "<p>In Champagne most wines are blends of several harvests, which makes it possible to maintain a consistent style. <strong>Vintage Champagne</strong>, by contrast, comes from a single harvest and is only made when the house judges that the year has sufficient quality and character, so each release reflects the conditions of its vintage.</p><p>Laurent-Perrier’s Brut Millésimé blends <strong>Chardonnay</strong> and <strong>Pinot Noir</strong> from prestigious crus. Chardonnay brings finesse, freshness and citrus notes, while Pinot Noir provides structure and depth. The wine spends several years ageing on its lees in the cellars at Tours-sur-Marne, considerably longer than the minimum required for vintage Champagnes.</p><p>The result is a balanced Champagne that combines the house’s characteristic elegance with the complexity of ageing: notes of fruit, pastry and nuts over fine bubbles. It can be drunk on release or kept for a few years.</p>",
+    "fr": "<p>En Champagne, la plupart des vins sont des assemblages de plusieurs récoltes, ce qui permet de maintenir un style constant. Le <strong>champagne millésimé</strong>, en revanche, provient d’une seule vendange et n’est élaboré que lorsque la maison estime que l’année présente une qualité et un caractère suffisants, si bien que chaque édition reflète les conditions de son millésime.</p><p>Le Brut Millésimé de Laurent-Perrier assemble <strong>chardonnay</strong> et <strong>pinot noir</strong> issus de crus prestigieux. Le chardonnay apporte finesse, fraîcheur et notes d’agrumes, tandis que le pinot noir donne structure et profondeur. Le vin vieillit plusieurs années sur lies dans les caves de Tours-sur-Marne, bien au-delà du minimum exigé pour les champagnes millésimés.</p><p>Il en résulte un champagne équilibré, qui unit l’élégance propre à la maison à la complexité du vieillissement : notes de fruits, de viennoiserie et de fruits secs, portées par une bulle fine. Il peut se boire dès sa commercialisation ou se garder quelques années.</p>",
+    "it": "<p>In Champagne la maggior parte dei vini sono assemblaggi di più vendemmie, il che permette di mantenere uno stile costante. Lo <strong>champagne millesimato</strong>, invece, proviene da un’unica vendemmia e viene prodotto solo quando la casa ritiene che l’annata abbia qualità e carattere sufficienti, così che ogni edizione rispecchia le condizioni del suo raccolto.</p><p>Il Brut Millésimé di Laurent-Perrier assembla <strong>Chardonnay</strong> e <strong>Pinot Nero</strong> provenienti da cru prestigiosi. Lo Chardonnay apporta finezza, freschezza e note agrumate, mentre il Pinot Nero dà struttura e profondità. Il vino affina per diversi anni sui lieviti nelle cantine di Tours-sur-Marne, ben oltre il minimo richiesto per gli champagne millesimati.</p><p>Il risultato è uno champagne equilibrato, che unisce l’eleganza propria della casa alla complessità dell’affinamento: note di frutta, pasticceria e frutta secca, su un perlage fine. Si può bere all’uscita sul mercato o conservare per alcuni anni.</p>"
+  },
+  "tasting": {
+    "es": "Dorado brillante de burbuja fina. Aromas de cítricos, manzana, brioche tostado y almendra. Boca fresca y estructurada, de final largo y elegante.",
+    "en": "Bright gold with fine bubbles. Aromas of citrus, apple, toasted brioche and almond. Fresh, structured palate with a long, elegant finish.",
+    "fr": "Or brillant à la bulle fine. Arômes d’agrumes, de pomme, de brioche grillée et d’amande. Bouche fraîche et structurée, à la finale longue et élégante.",
+    "it": "Oro brillante dal perlage fine. Aromi di agrumi, mela, brioche tostata e mandorla. Bocca fresca e strutturata, con finale lungo ed elegante."
+  },
+  "pairing": {
+    "es": "Pescados nobles, marisco, ave, ternera, quesos curados de pasta dura",
+    "en": "Fine fish, shellfish, poultry, veal, aged hard cheeses",
+    "fr": "Poissons nobles, fruits de mer, volaille, veau, fromages affinés à pâte dure",
+    "it": "Pesce pregiato, frutti di mare, pollame, vitello, formaggi stagionati a pasta dura"
+  },
+  "serve": {
+    "es": "9-11 °C, copa de tulipa amplia",
+    "en": "9-11 °C, large tulip glass",
+    "fr": "9-11 °C, grand verre tulipe",
+    "it": "9-11 °C, ampio calice a tulipano"
+  },
+  "search": "Laurent-Perrier Brut Millésimé"
+}

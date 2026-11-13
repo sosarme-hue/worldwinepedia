@@ -1,0 +1,48 @@
+{
+  "slug": "jadot-clos-de-vougeot",
+  "name": "Domaine Louis Jadot Clos de Vougeot Grand Cru",
+  "winery": "louis-jadot",
+  "region": "cote-de-nuits",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Grand Cru",
+    "en": "Grand Cru",
+    "fr": "Grand Cru",
+    "it": "Grand Cru"
+  },
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Grand cru del histórico Clos de Vougeot, el viñedo amurallado creado por los monjes cistercienses, elaborado con Pinot Noir de viñas propias de Louis Jadot.",
+    "en": "Grand cru from the historic Clos de Vougeot, the walled vineyard created by Cistercian monks, made from Pinot Noir from Louis Jadot’s own vines.",
+    "fr": "Grand cru de l’historique Clos de Vougeot, le vignoble clos de murs créé par les moines cisterciens, élaboré à partir du pinot noir des vignes de Louis Jadot.",
+    "it": "Grand cru dello storico Clos de Vougeot, il vigneto cinto da mura creato dai monaci cistercensi, prodotto con Pinot Noir delle vigne di Louis Jadot."
+  },
+  "body": {
+    "es": "<p>El <strong>Clos de Vougeot</strong> es el mayor grand cru de la Côte de Nuits, con unas cincuenta hectáreas rodeadas por un muro. Lo crearon en la Edad Media los monjes cistercienses de la abadía de Cîteaux, que construyeron también el château del centro del viñedo. Tras la Revolución francesa fue vendido y hoy se reparte entre numerosos propietarios.</p><p>Dentro del clos los suelos varían bastante: la parte alta, junto a Musigny y Grands-Échezeaux, es más pedregosa y calcárea, mientras que la parte baja, cerca de la carretera, tiene suelos más profundos y arcillosos. Por eso el estilo de cada Clos de Vougeot depende mucho de la ubicación de las parcelas y del elaborador.</p><p>La mención «Domaine» indica que este vino procede de viñas propiedad de Louis Jadot. Se elabora con <strong>Pinot Noir</strong> y se cría en barricas de roble. Es un tinto de buena estructura, con fruta oscura y taninos firmes, pensado para envejecer durante muchos años.</p>",
+    "en": "<p><strong>Clos de Vougeot</strong> is the largest grand cru of the Côte de Nuits, with around fifty hectares enclosed by a wall. It was created in the Middle Ages by the Cistercian monks of Cîteaux Abbey, who also built the château at the centre of the vineyard. After the French Revolution it was sold off and is now divided among many owners.</p><p>Soils vary considerably within the clos: the upper part, next to Musigny and Grands-Échezeaux, is stonier and more limestone-rich, while the lower part, near the road, has deeper, clay-rich soils. As a result, the style of each Clos de Vougeot depends greatly on the location of the plots and on the producer.</p><p>The word “Domaine” indicates that this wine comes from vines owned by Louis Jadot. It is made from <strong>Pinot Noir</strong> and aged in oak barrels. It is a well-structured red with dark fruit and firm tannins, built to age for many years.</p>",
+    "fr": "<p>Le <strong>Clos de Vougeot</strong> est le plus vaste grand cru de la Côte de Nuits, avec une cinquantaine d’hectares entourés d’un mur. Il a été créé au Moyen Âge par les moines cisterciens de l’abbaye de Cîteaux, qui ont aussi bâti le château au centre du vignoble. Vendu après la Révolution française, il est aujourd’hui partagé entre de nombreux propriétaires.</p><p>À l’intérieur du clos, les sols varient beaucoup : le haut, voisin de Musigny et des Grands-Échezeaux, est plus caillouteux et calcaire, tandis que le bas, près de la route, possède des sols plus profonds et argileux. Le style de chaque Clos de Vougeot dépend donc beaucoup de l’emplacement des parcelles et du producteur.</p><p>La mention « Domaine » indique que ce vin provient de vignes appartenant à Louis Jadot. Il est élaboré à partir de <strong>pinot noir</strong> et élevé en fûts de chêne. C’est un rouge bien structuré, au fruit sombre et aux tanins fermes, conçu pour vieillir de longues années.</p>",
+    "it": "<p>Il <strong>Clos de Vougeot</strong> è il più grande grand cru della Côte de Nuits, con una cinquantina di ettari racchiusi da un muro. Fu creato nel Medioevo dai monaci cistercensi dell’abbazia di Cîteaux, che costruirono anche lo château al centro del vigneto. Venduto dopo la Rivoluzione francese, oggi è suddiviso tra numerosi proprietari.</p><p>All’interno del clos i suoli variano molto: la parte alta, vicina a Musigny e Grands-Échezeaux, è più sassosa e calcarea, mentre quella bassa, vicino alla strada, ha suoli più profondi e argillosi. Per questo lo stile di ogni Clos de Vougeot dipende molto dalla posizione delle parcelle e dal produttore.</p><p>La dicitura «Domaine» indica che questo vino proviene da vigne di proprietà di Louis Jadot. È prodotto con <strong>Pinot Noir</strong> e affinato in botti di rovere. È un rosso di buona struttura, con frutto scuro e tannini decisi, pensato per invecchiare molti anni.</p>"
+  },
+  "tasting": {
+    "es": "Rubí oscuro. Aromas de cereza negra, ciruela, especias y notas de sotobosque y cuero con la edad. Boca amplia, de taninos firmes y final largo.",
+    "en": "Dark ruby. Aromas of black cherry, plum, spice and, with age, forest floor and leather. Broad palate with firm tannins and a long finish.",
+    "fr": "Rubis sombre. Arômes de cerise noire, de prune, d’épices et, avec l’âge, de sous-bois et de cuir. Bouche ample, aux tanins fermes et à la finale longue.",
+    "it": "Rubino scuro. Aromi di ciliegia nera, prugna, spezie e, con l’età, sottobosco e cuoio. Bocca ampia, con tannini decisi e finale lungo."
+  },
+  "pairing": {
+    "es": "Caza de pelo, buey a la borgoñona, pato, quesos afinados",
+    "en": "Furred game, boeuf bourguignon, duck, aged cheeses",
+    "fr": "Gibier à poil, bœuf bourguignon, canard, fromages affinés",
+    "it": "Selvaggina da pelo, manzo alla borgognona, anatra, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-17 °C, copa de tipo Borgoña; puede decantarse",
+    "en": "16-17 °C, Burgundy glass; may be decanted",
+    "fr": "16-17 °C, verre de type bourguignon ; peut être carafé",
+    "it": "16-17 °C, calice tipo Borgogna; può essere decantato"
+  },
+  "search": "Clos de Vougeot Grand Cru Domaine Louis Jadot"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "bouchard-gevrey-chambertin",
+  "name": "Gevrey-Chambertin",
+  "winery": "bouchard-pere-et-fils",
+  "region": "cote-de-nuits",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Village",
+    "en": "Village",
+    "fr": "Village",
+    "it": "Village"
+  },
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Tinto de nivel village de Gevrey-Chambertin elaborado por Bouchard Père & Fils con Pinot Noir de la Côte de Nuits.",
+    "en": "Village-level red from Gevrey-Chambertin made by Bouchard Père & Fils from Côte de Nuits Pinot Noir.",
+    "fr": "Rouge de niveau village de Gevrey-Chambertin élaboré par Bouchard Père & Fils à partir de pinot noir de la Côte de Nuits.",
+    "it": "Rosso di livello village di Gevrey-Chambertin prodotto da Bouchard Père & Fils con Pinot Nero della Côte de Nuits."
+  },
+  "body": {
+    "es": "<p>Gevrey-Chambertin, en el norte de la Côte de Nuits, es la denominación con mayor número de grands crus de Borgoña, entre ellos Chambertin y Chambertin-Clos de Bèze. Este vino de nivel village procede de parcelas sin clasificación superior repartidas por el término. Los tintos de Gevrey, de Pinot Noir, se caracterizan por su estructura y profundidad, con fruta negra, notas especiadas y matices de sotobosque que ganan complejidad con la guarda.</p><p>Bouchard Père & Fils, casa fundada en Beaune en 1731, cría sus vinos en las bodegas del Château de Beaune. Su estilo busca expresar el carácter de cada clima con una extracción medida y un uso del roble que acompaña a la fruta sin dominarla. La casa posee un amplio patrimonio de viñedos en la Côte d’Or, con numerosas parcelas de premier cru y grand cru, y completa su gama con vinos de uva comprada.</p>",
+    "en": "<p>Gevrey-Chambertin, in the north of the Côte de Nuits, is the Burgundy appellation with the largest number of grands crus, including Chambertin and Chambertin-Clos de Bèze. This village-level wine comes from plots without higher classification spread across the commune. Gevrey’s Pinot Noir reds are known for their structure and depth, with black fruit, spicy notes and hints of undergrowth that gain complexity with age.</p><p>Bouchard Père & Fils, a house founded in Beaune in 1731, ages its wines in the cellars of the Château de Beaune. Its style seeks to express the character of each climat through measured extraction and oak that supports the fruit without dominating it. The house owns an extensive vineyard estate in the Côte d’Or, with many premier cru and grand cru plots, and completes its range with wines made from purchased grapes.</p>",
+    "fr": "<p>Gevrey-Chambertin, au nord de la Côte de Nuits, est l’appellation bourguignonne qui compte le plus grand nombre de grands crus, dont le Chambertin et le Chambertin-Clos de Bèze. Ce vin de niveau village provient de parcelles sans classement supérieur réparties sur la commune. Les rouges de Gevrey, de pinot noir, se distinguent par leur structure et leur profondeur, avec un fruit noir, des notes épicées et des nuances de sous-bois qui gagnent en complexité avec la garde.</p><p>Bouchard Père & Fils, maison fondée à Beaune en 1731, élève ses vins dans les caves du Château de Beaune. Son style cherche à exprimer le caractère de chaque climat par une extraction mesurée et un boisé qui accompagne le fruit sans le dominer. La maison possède un vaste patrimoine de vignes en Côte-d’Or, avec de nombreuses parcelles de premier cru et de grand cru, et complète sa gamme par des vins de négoce.</p>",
+    "it": "<p>Gevrey-Chambertin, nel nord della Côte de Nuits, è la denominazione della Borgogna con il maggior numero di grand cru, tra cui Chambertin e Chambertin-Clos de Bèze. Questo vino di livello village proviene da parcelle senza classificazione superiore distribuite nel comune. I rossi di Gevrey, da Pinot Nero, si distinguono per struttura e profondità, con frutto nero, note speziate e sfumature di sottobosco che acquistano complessità con l’invecchiamento.</p><p>Bouchard Père & Fils, maison fondata a Beaune nel 1731, affina i suoi vini nelle cantine dello Château de Beaune. Il suo stile mira a esprimere il carattere di ogni climat con un’estrazione misurata e un uso del rovere che accompagna il frutto senza sovrastarlo. La maison possiede un ampio patrimonio di vigneti nella Côte d’Or, con numerose parcelle di premier cru e grand cru, e completa la gamma con vini prodotti da uve acquistate.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de fruta negra y roja, especias y matices de sotobosque. En boca muestra estructura firme, taninos finos y un final largo.",
+    "en": "Deep ruby. Aromas of black and red fruit, spice and hints of undergrowth. Firm structure on the palate, fine tannins and a long finish.",
+    "fr": "Rubis profond. Arômes de fruits noirs et rouges, d’épices et nuances de sous-bois. En bouche, structure ferme, tanins fins et finale longue.",
+    "it": "Rubino intenso. Aromi di frutta nera e rossa, spezie e sfumature di sottobosco. In bocca mostra struttura salda, tannini fini e finale lungo."
+  },
+  "pairing": {
+    "es": "Caza de pluma, ternera asada, carnes en salsa, setas, quesos afinados",
+    "en": "Game birds, roast veal, braised meat, mushrooms, mature cheeses",
+    "fr": "Gibier à plume, veau rôti, viandes en sauce, champignons, fromages affinés",
+    "it": "Selvaggina da piuma, vitello arrosto, carni in umido, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-17 °C, copa de Borgoña",
+    "en": "15-17 °C, Burgundy glass",
+    "fr": "15-17 °C, verre de type bourguignon",
+    "it": "15-17 °C, calice da Borgogna"
+  },
+  "search": "Gevrey-Chambertin Bouchard Père & Fils"
+}

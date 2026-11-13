@@ -1,0 +1,43 @@
+{
+  "slug": "pingus-psi",
+  "name": "PSI",
+  "winery": "dominio-de-pingus",
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Tinto de Ribera del Duero del proyecto de Peter Sisseck con viticultores de la zona, elaborado con uvas de viñas viejas y con poca presencia de madera nueva.",
+    "en": "Ribera del Duero red from Peter Sisseck's project with local growers, made from old-vine grapes with little new oak.",
+    "fr": "Rouge de Ribera del Duero issu du projet de Peter Sisseck avec des viticulteurs de la région, élaboré à partir de vieilles vignes et avec peu de bois neuf.",
+    "it": "Rosso della Ribera del Duero nato dal progetto di Peter Sisseck con viticoltori della zona, prodotto con uve di vecchie vigne e poco legno nuovo."
+  },
+  "body": {
+    "es": "<p>PSI es el tercer vino de la constelación de <strong>Dominio de Pingus</strong>, la bodega fundada por el danés Peter Sisseck en La Horra, junto a Pingus y Flor de Pingus. Nació como un proyecto distinto: en lugar de proceder de viñedos propios, se elabora con uvas de <strong>viticultores de la Ribera del Duero</strong> que cultivan viñas viejas, con los que la bodega colabora a largo plazo y a los que asesora en el trabajo del viñedo.</p><p>El objetivo declarado es contribuir a conservar el patrimonio de viñas viejas de la zona y a mantener la viticultura familiar en los pueblos. El vino se basa en la <strong>Tinto Fino</strong>, nombre local de la Tempranillo, y su elaboración se aleja del modelo de mucha extracción y roble nuevo: fermentaciones en depósitos de hormigón y crianza en recipientes grandes y madera usada.</p><p>El resultado es un tinto que busca frescura, fruta y expresión del origen más que potencia.</p>",
+    "en": "<p>PSI is the third wine in the <strong>Dominio de Pingus</strong> constellation, the winery founded in La Horra by the Dane Peter Sisseck, alongside Pingus and Flor de Pingus. It was born as a different project: instead of coming from estate vineyards, it is made from grapes supplied by <strong>Ribera del Duero growers</strong> farming old vines, with whom the winery works on a long-term basis and whom it advises on vineyard work.</p><p>The stated aim is to help preserve the area's heritage of old vines and to keep family viticulture alive in the villages. The wine is based on <strong>Tinto Fino</strong>, the local name for Tempranillo, and its winemaking moves away from the model of heavy extraction and new oak: fermentation in concrete tanks and ageing in large vessels and used wood.</p><p>The result is a red that seeks freshness, fruit and expression of origin rather than power.</p>",
+    "fr": "<p>PSI est le troisième vin de la constellation de <strong>Dominio de Pingus</strong>, la bodega fondée à La Horra par le Danois Peter Sisseck, aux côtés de Pingus et de Flor de Pingus. Il est né comme un projet différent : au lieu de provenir des vignes du domaine, il est élaboré à partir de raisins de <strong>viticulteurs de la Ribera del Duero</strong> qui cultivent de vieilles vignes, avec lesquels la bodega collabore durablement et qu'elle conseille dans le travail de la vigne.</p><p>L'objectif affiché est de contribuer à préserver le patrimoine de vieilles vignes de la région et à maintenir la viticulture familiale dans les villages. Le vin repose sur le <strong>tinto fino</strong>, nom local du tempranillo, et son élaboration s'éloigne du modèle d'extraction poussée et de bois neuf : fermentations en cuves béton et élevage en grands contenants et en bois usagé.</p><p>Le résultat est un rouge qui recherche la fraîcheur, le fruit et l'expression de l'origine plutôt que la puissance.</p>",
+    "it": "<p>PSI è il terzo vino della costellazione di <strong>Dominio de Pingus</strong>, la cantina fondata a La Horra dal danese Peter Sisseck, accanto a Pingus e Flor de Pingus. È nato come un progetto diverso: invece di provenire da vigneti di proprietà, è prodotto con uve di <strong>viticoltori della Ribera del Duero</strong> che coltivano vecchie vigne, con i quali la cantina collabora a lungo termine e che consiglia nel lavoro in vigna.</p><p>L'obiettivo dichiarato è contribuire a preservare il patrimonio di vecchie vigne della zona e a mantenere viva la viticoltura familiare nei paesi. Il vino si basa sul <strong>Tinto Fino</strong>, nome locale del Tempranillo, e la sua vinificazione si allontana dal modello di forte estrazione e legno nuovo: fermentazioni in vasche di cemento e affinamento in grandi contenitori e legno usato.</p><p>Il risultato è un rosso che cerca freschezza, frutto ed espressione dell'origine più che potenza.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de fruta roja y negra fresca, flores, hierbas y un fondo terroso. Boca jugosa y fresca, de taninos finos y buena acidez.",
+    "en": "Deep cherry red. Aromas of fresh red and black fruit, flowers, herbs and an earthy background. Juicy, fresh palate with fine tannins and good acidity.",
+    "fr": "Rouge cerise intense. Arômes de fruits rouges et noirs frais, de fleurs, d'herbes et un fond terreux. Bouche juteuse et fraîche, aux tanins fins et à la bonne acidité.",
+    "it": "Rosso ciliegia intenso. Aromi di frutta rossa e nera fresca, fiori, erbe e un fondo terroso. In bocca è succoso e fresco, con tannini fini e buona acidità."
+  },
+  "pairing": {
+    "es": "Lechazo asado, carnes rojas, embutidos ibéricos, setas, quesos de oveja",
+    "en": "Roast suckling lamb, red meat, Iberian cured meats, mushrooms, sheep's cheeses",
+    "fr": "Agneau de lait rôti, viandes rouges, charcuterie ibérique, champignons, fromages de brebis",
+    "it": "Agnello da latte arrosto, carni rosse, salumi iberici, funghi, formaggi di pecora"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "PSI Dominio de Pingus Ribera del Duero"
+}

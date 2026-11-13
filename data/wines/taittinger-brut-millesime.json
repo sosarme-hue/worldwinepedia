@@ -1,0 +1,49 @@
+{
+  "slug": "taittinger-brut-millesime",
+  "name": "Taittinger Brut Millésimé",
+  "winery": "taittinger",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut, añada",
+    "en": "Brut, vintage",
+    "fr": "Brut, millésimé",
+    "it": "Brut, millesimato"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Champán de añada de Taittinger, elaborado con Chardonnay y Pinot Noir de una sola cosecha y solo en los años que la casa considera adecuados.",
+    "en": "Vintage champagne from Taittinger, made from Chardonnay and Pinot Noir from a single harvest and only in years the house deems suitable.",
+    "fr": "Champagne millésimé de Taittinger, élaboré avec du chardonnay et du pinot noir d’une seule récolte, uniquement les années que la maison juge propices.",
+    "it": "Champagne millesimato di Taittinger, prodotto con Chardonnay e Pinot Noir di un’unica vendemmia e solo negli anni che la maison ritiene adatti."
+  },
+  "body": {
+    "es": "<p>A diferencia de los champanes sin añada, que mezclan vinos de distintas cosechas para mantener un estilo constante, el <strong>Brut Millésimé</strong> de Taittinger procede de una sola vendimia, que figura en la etiqueta. La casa solo lo elabora en los años en que la calidad de la cosecha lo justifica, de modo que cada añada refleja las condiciones de su año.</p><p>Se elabora con <strong>Chardonnay</strong> y <strong>Pinot Noir</strong> de una selección de municipios bien situados, en proporciones cercanas al equilibrio, y solo con el mosto de la primera prensada. Tras la segunda fermentación en botella, envejece varios años sobre sus lías en las bodegas de creta de Reims antes del degüelle.</p><p>Es un champán con más intensidad y complejidad que el Brut Réserve, que combina la finura característica de la casa con notas de fruta madura y de crianza. Puede disfrutarse en el momento de su salida o guardarse algunos años más.</p>",
+    "en": "<p>Unlike non-vintage champagnes, which blend wines from different harvests to maintain a consistent style, Taittinger’s <strong>Brut Millésimé</strong> comes from a single harvest, shown on the label. The house only makes it in years when the quality of the crop justifies it, so each vintage reflects the conditions of its year.</p><p>It is made from <strong>Chardonnay</strong> and <strong>Pinot Noir</strong> from a selection of well-sited villages, in roughly balanced proportions, and only from the juice of the first pressing. After the second fermentation in bottle, it ages for several years on its lees in the chalk cellars of Reims before disgorgement.</p><p>It is a champagne with more intensity and complexity than the Brut Réserve, combining the house’s characteristic finesse with notes of ripe fruit and bottle age. It can be enjoyed on release or kept for a few more years.</p>",
+    "fr": "<p>Contrairement aux champagnes sans année, qui assemblent des vins de différentes récoltes pour garantir un style constant, le <strong>Brut Millésimé</strong> de Taittinger provient d’une seule vendange, indiquée sur l’étiquette. La maison ne l’élabore que les années où la qualité de la récolte le justifie, si bien que chaque millésime reflète les conditions de son année.</p><p>Il est élaboré avec du <strong>chardonnay</strong> et du <strong>pinot noir</strong> issus d’une sélection de communes bien situées, dans des proportions proches de l’équilibre, et uniquement avec le jus de première presse. Après la seconde fermentation en bouteille, il vieillit plusieurs années sur lies dans les crayères de Reims avant le dégorgement.</p><p>C’est un champagne plus intense et plus complexe que le Brut Réserve, qui associe la finesse caractéristique de la maison à des notes de fruit mûr et d’évolution. Il peut se déguster dès sa commercialisation ou se garder encore quelques années.</p>",
+    "it": "<p>A differenza degli champagne senza annata, che assemblano vini di vendemmie diverse per mantenere uno stile costante, il <strong>Brut Millésimé</strong> di Taittinger proviene da un’unica vendemmia, indicata in etichetta. La maison lo produce solo negli anni in cui la qualità del raccolto lo giustifica, così che ogni annata rispecchia le condizioni del proprio anno.</p><p>È prodotto con <strong>Chardonnay</strong> e <strong>Pinot Noir</strong> di una selezione di comuni ben esposti, in proporzioni vicine all’equilibrio, e solo con il mosto della prima pressatura. Dopo la seconda fermentazione in bottiglia, invecchia diversi anni sui lieviti nelle cantine di gesso di Reims prima della sboccatura.</p><p>È uno champagne più intenso e complesso del Brut Réserve, che unisce la finezza caratteristica della casa a note di frutta matura e di evoluzione. Si può gustare al momento dell’uscita o conservare ancora qualche anno.</p>"
+  },
+  "tasting": {
+    "es": "Oro brillante, burbuja fina. Aromas de fruta amarilla, cítricos confitados, brioche y avellana tostada. Boca amplia, cremosa y persistente.",
+    "en": "Bright gold with fine bubbles. Aromas of yellow fruit, candied citrus, brioche and toasted hazelnut. Broad, creamy, persistent palate.",
+    "fr": "Or brillant, bulles fines. Arômes de fruits jaunes, d’agrumes confits, de brioche et de noisette grillée. Bouche ample, crémeuse et persistante.",
+    "it": "Oro brillante, perlage fine. Aromi di frutta gialla, agrumi canditi, brioche e nocciola tostata. Bocca ampia, cremosa e persistente."
+  },
+  "pairing": {
+    "es": "Langosta, vieiras, pescados en salsa, aves, quesos curados de pasta prensada",
+    "en": "Lobster, scallops, fish in sauce, poultry, aged pressed cheeses",
+    "fr": "Homard, Saint-Jacques, poissons en sauce, volailles, fromages à pâte pressée affinés",
+    "it": "Astice, capesante, pesce in salsa, pollame, formaggi stagionati a pasta pressata"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco o de tulipa",
+    "en": "8-10 °C, white wine or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da vino bianco o a tulipano"
+  },
+  "search": "Taittinger Brut Millésimé"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "gran-enemigo",
+  "name": "Gran Enemigo",
+  "winery": "el-enemigo",
+  "region": "valle-de-uco",
+  "country": "argentina",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-franc",
+    "malbec"
+  ],
+  "summary": {
+    "es": "Gran Enemigo, el ensamblaje de gama alta de El Enemigo, basado en el Cabernet Franc con Malbec, de viñedos de altura del Valle de Uco.",
+    "en": "Gran Enemigo, El Enemigo’s top blend, based on Cabernet Franc with Malbec, from high-altitude vineyards in the Uco Valley.",
+    "fr": "Gran Enemigo, l’assemblage haut de gamme d’El Enemigo, fondé sur le cabernet franc avec du malbec, issu de vignes d’altitude de la vallée d’Uco.",
+    "it": "Gran Enemigo, l’assemblaggio di alta gamma di El Enemigo, basato sul Cabernet Franc con Malbec, da vigneti d’altura della Valle de Uco."
+  },
+  "body": {
+    "es": "<p>El Enemigo es el proyecto creado en Mendoza por el enólogo Alejandro Vigil y Adrianna Catena. Desde sus inicios ha apostado por el <strong>Cabernet Franc</strong>, una variedad que en los viñedos de altura de Mendoza ofrece tintos frescos y aromáticos, y que se ha convertido en una de las señas de identidad de la bodega.</p><p><em>Gran Enemigo</em> es el ensamblaje de la gama alta: un tinto basado en el Cabernet Franc con una proporción de <strong>Malbec</strong>, elaborado con uvas del Valle de Uco, al pie de los Andes. La bodega elabora además versiones de parcela única del Gran Enemigo, como la de Gualtallary, mientras que este vino ofrece una visión de conjunto de la zona.</p><p>La altitud y la gran amplitud térmica entre el día y la noche favorecen una maduración lenta y una acidez natural elevada. El resultado es un tinto concentrado pero fresco, con fruta negra, notas herbáceas y especiadas y un tanino firme, pensado para la guarda.</p>",
+    "en": "<p>El Enemigo is the project created in Mendoza by winemaker Alejandro Vigil and Adrianna Catena. From the outset it has focused on <strong>Cabernet Franc</strong>, a variety that in Mendoza’s high-altitude vineyards yields fresh, aromatic reds, and which has become one of the winery’s hallmarks.</p><p><em>Gran Enemigo</em> is the top blend: a red based on Cabernet Franc with a proportion of <strong>Malbec</strong>, made from grapes grown in the Uco Valley at the foot of the Andes. The winery also makes single-site versions of Gran Enemigo, such as the Gualtallary, while this wine offers an overall view of the area.</p><p>The altitude and the wide temperature range between day and night favour slow ripening and high natural acidity. The result is a concentrated yet fresh red, with black fruit, herbal and spicy notes and firm tannins, built for cellaring.</p>",
+    "fr": "<p>El Enemigo est le projet créé à Mendoza par l’œnologue Alejandro Vigil et Adrianna Catena. Dès ses débuts, il a misé sur le <strong>cabernet franc</strong>, un cépage qui donne dans les vignobles d’altitude de Mendoza des rouges frais et aromatiques, et qui est devenu l’une des signatures de la bodega.</p><p><em>Gran Enemigo</em> est l’assemblage du haut de gamme : un rouge fondé sur le cabernet franc avec une proportion de <strong>malbec</strong>, élaboré à partir de raisins de la vallée d’Uco, au pied des Andes. La bodega produit aussi des versions parcellaires du Gran Enemigo, comme celle de Gualtallary, tandis que ce vin offre une vision d’ensemble du secteur.</p><p>L’altitude et la forte amplitude thermique entre le jour et la nuit favorisent une maturation lente et une acidité naturelle élevée. Le résultat est un rouge concentré mais frais, aux fruits noirs, aux notes herbacées et épicées et au tanin ferme, destiné à la garde.</p>",
+    "it": "<p>El Enemigo è il progetto creato a Mendoza dall’enologo Alejandro Vigil e da Adrianna Catena. Fin dagli inizi ha puntato sul <strong>Cabernet Franc</strong>, vitigno che nei vigneti d’altura di Mendoza dà rossi freschi e aromatici, ed è diventato uno dei tratti distintivi della cantina.</p><p><em>Gran Enemigo</em> è l’assemblaggio della linea alta: un rosso basato sul Cabernet Franc con una quota di <strong>Malbec</strong>, prodotto con uve della Valle de Uco, ai piedi delle Ande. La cantina produce anche versioni di singola parcella del Gran Enemigo, come quella di Gualtallary, mentre questo vino offre una visione d’insieme della zona.</p><p>L’altitudine e la forte escursione termica tra giorno e notte favoriscono una maturazione lenta e un’elevata acidità naturale. Il risultato è un rosso concentrato ma fresco, con frutta nera, note erbacee e speziate e un tannino deciso, pensato per l’invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Rubí profundo con reflejos violáceos. Aromas de grosella negra, ciruela, pimienta, hierbas y notas de grafito. Boca concentrada y fresca, de taninos firmes y final largo.",
+    "en": "Deep ruby with violet hints. Aromas of blackcurrant, plum, pepper, herbs and graphite notes. Concentrated, fresh palate with firm tannins and a long finish.",
+    "fr": "Rubis profond aux reflets violacés. Arômes de cassis, de prune, de poivre, d’herbes et notes de graphite. Bouche concentrée et fraîche, tanins fermes, finale longue.",
+    "it": "Rubino profondo con riflessi violacei. Aromi di ribes nero, prugna, pepe, erbe e note di grafite. Bocca concentrata e fresca, tannini decisi e finale lungo."
+  },
+  "pairing": {
+    "es": "Asado argentino, cordero, caza, quesos curados",
+    "en": "Argentine asado, lamb, game, aged cheeses",
+    "fr": "Asado argentin, agneau, gibier, fromages affinés",
+    "it": "Asado argentino, agnello, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia; puede beneficiarse de un decantado",
+    "en": "16-18 °C, large glass; may benefit from decanting",
+    "fr": "16-18 °C, verre ample ; peut gagner à être carafé",
+    "it": "16-18 °C, calice ampio; può giovarsi della decantazione"
+  },
+  "search": "Gran Enemigo El Enemigo"
+}

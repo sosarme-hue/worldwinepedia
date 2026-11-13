@@ -1,0 +1,48 @@
+{
+  "slug": "tyrrells-old-hillside-shiraz",
+  "name": "Tyrrell’s Old Hillside Shiraz",
+  "winery": "tyrrells",
+  "region": "hunter-valley",
+  "country": "australia",
+  "type": "tinto",
+  "category": {
+    "es": "Hunter Valley",
+    "en": "Hunter Valley",
+    "fr": "Hunter Valley",
+    "it": "Hunter Valley"
+  },
+  "grapes": [
+    "syrah"
+  ],
+  "summary": {
+    "es": "Shiraz de Hunter Valley de Tyrrell’s, procedente de viñas viejas en ladera, en el estilo de peso medio y fresco propio de los tintos de la región.",
+    "en": "Hunter Valley Shiraz from Tyrrell’s, from old hillside vines, in the medium-weight, fresh style typical of the region’s reds.",
+    "fr": "Shiraz de Hunter Valley de Tyrrell’s, issu de vieilles vignes à flanc de coteau, dans le style de poids moyen et frais propre aux rouges de la région.",
+    "it": "Shiraz della Hunter Valley di Tyrrell’s, da vecchie vigne in collina, nello stile di medio peso e fresco tipico dei rossi della regione."
+  },
+  "body": {
+    "es": "<p>La <strong>Hunter Valley</strong>, al norte de Sídney, es una de las regiones vitícolas más antiguas de Australia. Aunque es famosa por su Semillon, la <strong>Shiraz</strong> —nombre australiano de la Syrah— es su gran variedad tinta y da allí vinos muy distintos de los potentes tintos del sur del país: de peso medio, con acidez fresca, taninos finos y notas terrosas que se acentúan con la edad.</p><p>Tyrrell’s, bodega familiar fundada en Pokolbin en el siglo XIX, conserva algunas de las viñas más antiguas de la región y elabora varios Shiraz de parcela. <strong>Old Hillside</strong>, como indica su nombre, procede de viñas viejas plantadas en ladera, cuyos rendimientos bajos aportan concentración.</p><p>Como otros tintos de la casa, se elabora con una intervención moderada de la madera, buscando preservar la expresión de la fruta y del lugar. Cabe esperar un tinto de cuerpo medio, con fruta roja y negra, especias y un fondo terroso, que gana complejidad con algunos años de botella.</p>",
+    "en": "<p>The <strong>Hunter Valley</strong>, north of Sydney, is one of Australia’s oldest wine regions. Although it is famous for its Semillon, <strong>Shiraz</strong> —the Australian name for Syrah— is its main red variety and gives very different wines there from the powerful reds of the country’s south: medium-weight, with fresh acidity, fine tannins and earthy notes that become more pronounced with age.</p><p>Tyrrell’s, a family winery founded at Pokolbin in the nineteenth century, maintains some of the region’s oldest vines and makes several single-vineyard Shirazes. <strong>Old Hillside</strong>, as its name indicates, comes from old vines planted on a slope, whose low yields bring concentration.</p><p>Like other reds from the house, it is made with moderate oak influence, seeking to preserve the expression of fruit and site. One can expect a medium-bodied red with red and dark fruit, spice and an earthy background, which gains complexity with a few years in bottle.</p>",
+    "fr": "<p>La <strong>Hunter Valley</strong>, au nord de Sydney, est l’une des plus anciennes régions viticoles d’Australie. Bien qu’elle soit célèbre pour son sémillon, la <strong>shiraz</strong> —nom australien de la syrah— est son grand cépage rouge et y donne des vins très différents des rouges puissants du sud du pays : de poids moyen, à l’acidité fraîche, aux tanins fins et aux notes terriennes qui s’accentuent avec l’âge.</p><p>Tyrrell’s, domaine familial fondé à Pokolbin au XIXe siècle, conserve certaines des plus vieilles vignes de la région et élabore plusieurs shiraz parcellaires. <strong>Old Hillside</strong>, comme son nom l’indique, provient de vieilles vignes plantées à flanc de coteau, dont les faibles rendements apportent de la concentration.</p><p>Comme d’autres rouges de la maison, il est élaboré avec une intervention modérée du bois, afin de préserver l’expression du fruit et du lieu. On peut s’attendre à un rouge de corps moyen, aux fruits rouges et noirs, aux épices et au fond terrien, qui gagne en complexité après quelques années de bouteille.</p>",
+    "it": "<p>La <strong>Hunter Valley</strong>, a nord di Sydney, è una delle regioni vinicole più antiche dell’Australia. Pur essendo famosa per il Semillon, lo <strong>Shiraz</strong> —nome australiano del Syrah— è il suo principale vitigno rosso e qui dà vini molto diversi dai potenti rossi del sud del paese: di medio peso, con acidità fresca, tannini fini e note terrose che si accentuano con l’età.</p><p>Tyrrell’s, cantina di famiglia fondata a Pokolbin nell’Ottocento, conserva alcune delle vigne più antiche della regione e produce diversi Shiraz di singolo vigneto. <strong>Old Hillside</strong>, come indica il nome, proviene da vecchie vigne piantate in collina, le cui basse rese apportano concentrazione.</p><p>Come altri rossi della casa, è prodotto con un intervento moderato del legno, per preservare l’espressione del frutto e del luogo. Ci si può aspettare un rosso di medio corpo, con frutta rossa e nera, spezie e un fondo terroso, che acquista complessità con alcuni anni di bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí de capa media. Aromas de cereza, ciruela, frutos rojos, especias y notas terrosas. Boca de peso medio, fresca, de taninos finos.",
+    "en": "Medium-deep ruby. Aromas of cherry, plum, red berries, spice and earthy notes. Medium-weight, fresh palate with fine tannins.",
+    "fr": "Rubis de moyenne intensité. Arômes de cerise, de prune, de fruits rouges, d’épices et notes terriennes. Bouche de poids moyen, fraîche, aux tanins fins.",
+    "it": "Rubino di media intensità. Aromi di ciliegia, prugna, frutti rossi, spezie e note terrose. Bocca di medio peso, fresca, con tannini fini."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes a la parrilla, pato, setas, quesos semicurados",
+    "en": "Roast lamb, grilled meat, duck, mushrooms, semi-hard cheeses",
+    "fr": "Agneau rôti, viandes grillées, canard, champignons, fromages mi-affinés",
+    "it": "Agnello arrosto, carni alla griglia, anatra, funghi, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Old Hillside Shiraz Tyrrell’s"
+}

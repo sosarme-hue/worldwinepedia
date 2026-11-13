@@ -1,0 +1,44 @@
+{
+  "slug": "chateau-rahoul-blanc",
+  "name": "Château Rahoul Blanc",
+  "winery": "dourthe",
+  "region": "graves",
+  "country": "francia",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "semillon",
+    "sauvignon-blanc"
+  ],
+  "summary": {
+    "es": "Blanco seco de la denominación Graves elaborado en Château Rahoul, propiedad de Dourthe, a partir de Sémillon y Sauvignon Blanc.",
+    "en": "Dry white from the Graves appellation made at Château Rahoul, owned by Dourthe, from Sémillon and Sauvignon Blanc.",
+    "fr": "Blanc sec de l’appellation Graves élaboré au Château Rahoul, propriété de Dourthe, à partir de sémillon et de sauvignon blanc.",
+    "it": "Bianco secco della denominazione Graves prodotto a Château Rahoul, di proprietà di Dourthe, con Sémillon e Sauvignon Blanc."
+  },
+  "body": {
+    "es": "<p>Château Rahoul se encuentra en Portets, en la denominación <strong>Graves</strong>, al sur de la ciudad de Burdeos y en la orilla izquierda del Garona. La finca, que forma parte de las propiedades de Dourthe, produce tintos y blancos, y su blanco es uno de los ejemplos representativos de los Graves secos.</p><p>Como es tradicional en la zona, se elabora con un ensamblaje de <strong>Sémillon</strong> y <strong>Sauvignon Blanc</strong>. El Sémillon aporta cuerpo y textura, y el Sauvignon frescura y aromas. El vino se fermenta y cría, en buena parte, en barricas de roble sobre sus lías, lo que le da una textura más amplia y notas sutiles de crianza.</p><p>Es un blanco seco de cuerpo medio, aromático y con buena frescura, que combina la fruta con un fondo ligeramente tostado. Se disfruta joven, pero también puede ganar complejidad con algunos años en botella.</p>",
+    "en": "<p>Château Rahoul is located in Portets, in the <strong>Graves</strong> appellation, south of the city of Bordeaux on the left bank of the Garonne. The estate, part of Dourthe’s properties, produces both reds and whites, and its white is a representative example of dry Graves.</p><p>As is traditional in the area, it is made from a blend of <strong>Sémillon</strong> and <strong>Sauvignon Blanc</strong>. Sémillon brings body and texture, while Sauvignon adds freshness and aromatics. The wine is largely fermented and aged in oak barrels on its lees, which gives it a broader texture and subtle oak notes.</p><p>It is a medium-bodied, aromatic dry white with good freshness, combining fruit with a slightly toasty background. It is enjoyable young, but can also gain complexity with a few years in bottle.</p>",
+    "fr": "<p>Château Rahoul se trouve à Portets, dans l’appellation <strong>Graves</strong>, au sud de la ville de Bordeaux, sur la rive gauche de la Garonne. Le domaine, qui fait partie des propriétés de Dourthe, produit des rouges et des blancs, et son blanc est un exemple représentatif des graves secs.</p><p>Comme le veut la tradition locale, il est élaboré avec un assemblage de <strong>sémillon</strong> et de <strong>sauvignon blanc</strong>. Le sémillon apporte corps et texture, le sauvignon fraîcheur et arômes. Le vin est en bonne partie fermenté et élevé en barriques de chêne sur lies, ce qui lui donne une texture plus ample et de subtiles notes d’élevage.</p><p>C’est un blanc sec de corps moyen, aromatique et d’une belle fraîcheur, qui associe le fruit à un fond légèrement grillé. Il s’apprécie jeune, mais peut aussi gagner en complexité après quelques années de bouteille.</p>",
+    "it": "<p>Château Rahoul si trova a Portets, nella denominazione <strong>Graves</strong>, a sud della città di Bordeaux, sulla riva sinistra della Garonna. La tenuta, che fa parte delle proprietà di Dourthe, produce rossi e bianchi, e il suo bianco è un esempio rappresentativo dei Graves secchi.</p><p>Come da tradizione nella zona, è prodotto con un uvaggio di <strong>Sémillon</strong> e <strong>Sauvignon Blanc</strong>. Il Sémillon apporta corpo e struttura, il Sauvignon freschezza e aromi. Il vino fermenta e matura in buona parte in barrique di rovere sulle fecce, il che gli conferiscono una trama più ampia e sottili note di affinamento.</p><p>È un bianco secco di medio corpo, aromatico e di buona freschezza, che unisce il frutto a un fondo leggermente tostato. Si gusta giovane, ma può anche acquisire complessità con qualche anno in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo dorado pálido. Aromas de cítricos, melocotón, flores blancas y notas tostadas suaves. Boca amplia y fresca, con final persistente.",
+    "en": "Pale golden yellow. Aromas of citrus, peach, white flowers and gentle toasty notes. Broad, fresh palate with a persistent finish.",
+    "fr": "Jaune doré pâle. Arômes d’agrumes, de pêche, de fleurs blanches et notes grillées discrètes. Bouche ample et fraîche, à la finale persistante.",
+    "it": "Giallo dorato tenue. Aromi di agrumi, pesca, fiori bianchi e lievi note tostate. Bocca ampia e fresca, con finale persistente."
+  },
+  "pairing": {
+    "es": "Pescados al horno, vieiras, aves con salsa cremosa, risotto, quesos de cabra",
+    "en": "Baked fish, scallops, poultry in cream sauce, risotto, goat’s cheese",
+    "fr": "Poissons au four, Saint-Jacques, volaille à la crème, risotto, fromages de chèvre",
+    "it": "Pesce al forno, capesante, pollame in salsa cremosa, risotto, formaggi di capra"
+  },
+  "serve": {
+    "es": "12-14 °C, copa amplia",
+    "en": "12-14 °C, large glass",
+    "fr": "12-14 °C, verre ample",
+    "it": "12-14 °C, calice ampio"
+  },
+  "search": "Château Rahoul Blanc Graves"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "vina-arana-gran-reserva",
+  "name": "Viña Arana Gran Reserva",
+  "winery": "la-rioja-alta",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Gran Reserva",
+    "en": "Gran Reserva",
+    "fr": "Gran Reserva",
+    "it": "Gran Reserva"
+  },
+  "grapes": [
+    "tempranillo",
+    "graciano"
+  ],
+  "summary": {
+    "es": "Gran reserva de La Rioja Alta, de Tempranillo con Graciano, de estilo elegante y larga crianza en roble americano.",
+    "en": "Gran reserva from La Rioja Alta, made from Tempranillo with Graciano, elegant in style and long aged in American oak.",
+    "fr": "Gran reserva de La Rioja Alta, de tempranillo et graciano, au style élégant et longuement élevé en chêne américain.",
+    "it": "Gran reserva de La Rioja Alta, di Tempranillo con Graciano, di stile elegante e lungamente affinato in rovere americano."
+  },
+  "body": {
+    "es": "<p>Viña Arana es una de las etiquetas históricas de La Rioja Alta. Durante décadas se comercializó como reserva y en las añadas recientes la bodega la presenta como gran reserva. Se elabora con Tempranillo acompañada de una pequeña proporción de Graciano, con uva procedente principalmente de viñedos de la zona de Rioja Alta, en el entorno de Haro. Dentro de la gama de la casa es el vino de perfil más fino y delicado, frente a la mayor amplitud de Viña Ardanza.</p><p>La Rioja Alta, S.A., fundada en Haro en 1890, es una de las casas más representativas del Rioja clásico. Su estilo se basa en crianzas largas en barricas de roble americano fabricadas en su propia tonelería y en trasiegos manuales, barrica a barrica. Cada vino se elabora sólo en las añadas que la bodega considera adecuadas para su nivel.</p>",
+    "en": "<p>Viña Arana is one of La Rioja Alta’s historic labels. For decades it was sold as a reserva, and in recent vintages the winery presents it as a gran reserva. It is made from Tempranillo with a small proportion of Graciano, with grapes sourced mainly from vineyards in the Rioja Alta area around Haro. Within the house range it is the wine with the finest and most delicate profile, in contrast to the greater breadth of Viña Ardanza.</p><p>La Rioja Alta, S.A., founded in Haro in 1890, is one of the most representative houses of classic Rioja. Its style rests on long ageing in American oak barrels made in its own cooperage and on manual racking, barrel by barrel. Each wine is made only in the vintages the winery considers suitable for its level.</p>",
+    "fr": "<p>Viña Arana est l’une des étiquettes historiques de La Rioja Alta. Commercialisée pendant des décennies comme reserva, elle est présentée comme gran reserva dans les millésimes récents. Elle est élaborée à partir de tempranillo accompagné d’une petite proportion de graciano, avec des raisins provenant principalement de vignes de la zone de Rioja Alta, autour de Haro. Dans la gamme de la maison, c’est le vin au profil le plus fin et le plus délicat, face à l’ampleur plus marquée de Viña Ardanza.</p><p>La Rioja Alta, S.A., fondée à Haro en 1890, est l’une des maisons les plus représentatives du Rioja classique. Son style repose sur de longs élevages en barriques de chêne américain fabriquées dans sa propre tonnellerie et sur des soutirages manuels, barrique par barrique. Chaque vin n’est élaboré que dans les millésimes que la maison juge adaptés à son niveau.</p>",
+    "it": "<p>Viña Arana è una delle etichette storiche de La Rioja Alta. Per decenni è stata commercializzata come reserva e nelle annate recenti la cantina la presenta come gran reserva. È prodotta con Tempranillo accompagnato da una piccola quota di Graciano, con uve provenienti principalmente da vigneti della zona di Rioja Alta, nei dintorni di Haro. Nella gamma della casa è il vino dal profilo più fine e delicato, rispetto alla maggiore ampiezza di Viña Ardanza.</p><p>La Rioja Alta, S.A., fondata a Haro nel 1890, è una delle case più rappresentative del Rioja classico. Il suo stile si basa su lunghi affinamenti in botti di rovere americano costruite nella propria bottaia e su travasi manuali, botte per botte. Ogni vino viene prodotto solo nelle annate che la cantina ritiene adatte al suo livello.</p>"
+  },
+  "tasting": {
+    "es": "Rubí con ribete teja. Aromas de fruta roja, especias dulces, cuero, tabaco y notas balsámicas. En boca es fino, sedoso y fresco, con final largo y elegante.",
+    "en": "Ruby with a brick rim. Aromas of red fruit, sweet spice, leather, tobacco and balsamic notes. Fine, silky and fresh on the palate, with a long, elegant finish.",
+    "fr": "Rubis aux reflets tuilés. Arômes de fruits rouges, d’épices douces, de cuir, de tabac et notes balsamiques. En bouche, fin, soyeux et frais, avec une finale longue et élégante.",
+    "it": "Rubino con unghia aranciata. Aromi di frutta rossa, spezie dolci, cuoio, tabacco e note balsamiche. In bocca è fine, setoso e fresco, con finale lungo ed elegante."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes rojas, guisos de carne, setas, quesos curados",
+    "en": "Roast lamb, red meat, meat stews, mushrooms, aged cheeses",
+    "fr": "Agneau rôti, viandes rouges, ragoûts de viande, champignons, fromages affinés",
+    "it": "Agnello arrosto, carni rosse, stufati di carne, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Viña Arana Gran Reserva La Rioja Alta"
+}

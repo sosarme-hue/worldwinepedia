@@ -1,0 +1,48 @@
+{
+  "slug": "ott-chateau-romassan-rouge",
+  "name": "Château Romassan Rouge",
+  "winery": "domaines-ott",
+  "region": "bandol",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "AOP Bandol",
+    "en": "AOP Bandol",
+    "fr": "AOP Bandol",
+    "it": "AOP Bandol"
+  },
+  "grapes": [
+    "monastrell"
+  ],
+  "summary": {
+    "es": "Tinto de Bandol del Château Romassan, la finca de Domaines Ott en Le Castellet, basado en la Mourvèdre y criado largo tiempo en madera.",
+    "en": "Bandol red from Château Romassan, Domaines Ott's estate in Le Castellet, based on Mourvèdre and given long ageing in wood.",
+    "fr": "Rouge de Bandol du Château Romassan, domaine de Domaines Ott au Castellet, fondé sur le mourvèdre et longuement élevé sous bois.",
+    "it": "Rosso di Bandol del Château Romassan, la tenuta di Domaines Ott a Le Castellet, basato sul Mourvèdre e a lungo affinato in legno."
+  },
+  "body": {
+    "es": "<p>El <strong>Château Romassan</strong> es la finca de Domaines Ott en <strong>Bandol</strong>, situada en Le Castellet, en un anfiteatro de terrazas de caliza que mira al Mediterráneo, entre Marsella y Toulon. La familia Ott incorporó la propiedad a mediados del siglo XX.</p><p>Bandol es la denominación provenzal de la <strong>Mourvèdre</strong>: esta variedad de maduración tardía necesita el calor y la luz de la costa para completar su ciclo, y el reglamento exige que represente al menos la mitad de los tintos, completada con Garnacha y Cinsault. Los tintos de la denominación deben además criarse un mínimo de dieciocho meses en madera antes de embotellarse.</p><p>El tinto de Romassan responde a ese modelo: un vino de estructura firme y taninos densos, con aromas de fruta negra, especias y garriga, que necesita tiempo en botella para afinarse y puede evolucionar durante muchos años.</p>",
+    "en": "<p><strong>Château Romassan</strong> is Domaines Ott's estate in <strong>Bandol</strong>, located in Le Castellet, in an amphitheatre of limestone terraces facing the Mediterranean, between Marseille and Toulon. The Ott family acquired the property in the mid-twentieth century.</p><p>Bandol is Provence's <strong>Mourvèdre</strong> appellation: this late-ripening variety needs the heat and light of the coast to complete its cycle, and the rules require it to make up at least half of the reds, completed with Grenache and Cinsault. The appellation's reds must also be aged for at least eighteen months in wood before bottling.</p><p>The Romassan red follows this model: a wine of firm structure and dense tannins, with aromas of black fruit, spice and garrigue, which needs time in bottle to refine and can develop for many years.</p>",
+    "fr": "<p>Le <strong>Château Romassan</strong> est le domaine de Domaines Ott à <strong>Bandol</strong>, situé au Castellet, dans un amphithéâtre de terrasses calcaires tourné vers la Méditerranée, entre Marseille et Toulon. La famille Ott a acquis la propriété au milieu du XXe siècle.</p><p>Bandol est l'appellation provençale du <strong>mourvèdre</strong> : ce cépage tardif a besoin de la chaleur et de la lumière du littoral pour boucler son cycle, et le cahier des charges impose qu'il représente au moins la moitié des rouges, complété par le grenache et le cinsault. Les rouges de l'appellation doivent en outre être élevés au moins dix-huit mois sous bois avant la mise en bouteille.</p><p>Le rouge de Romassan répond à ce modèle : un vin à la structure ferme et aux tanins denses, aux arômes de fruits noirs, d'épices et de garrigue, qui a besoin de temps en bouteille pour s'affiner et peut évoluer pendant de longues années.</p>",
+    "it": "<p>Il <strong>Château Romassan</strong> è la tenuta di Domaines Ott a <strong>Bandol</strong>, situata a Le Castellet, in un anfiteatro di terrazze calcaree rivolto al Mediterraneo, tra Marsiglia e Tolone. La famiglia Ott acquisì la proprietà a metà del Novecento.</p><p>Bandol è la denominazione provenzale del <strong>Mourvèdre</strong>: questo vitigno a maturazione tardiva ha bisogno del calore e della luce della costa per completare il suo ciclo, e il disciplinare richiede che rappresenti almeno la metà dei rossi, completato da Grenache e Cinsault. I rossi della denominazione devono inoltre maturare almeno diciotto mesi in legno prima dell'imbottigliamento.</p><p>Il rosso di Romassan risponde a questo modello: un vino dalla struttura decisa e dai tannini densi, con aromi di frutta nera, spezie e gariga, che ha bisogno di tempo in bottiglia per affinarsi e può evolvere per molti anni.</p>"
+  },
+  "tasting": {
+    "es": "Rojo granate intenso. Aromas de fruta negra, cereza, cuero, hierbas de garriga y especias. Boca firme y estructurada, de taninos densos y final largo.",
+    "en": "Deep garnet red. Aromas of black fruit, cherry, leather, garrigue herbs and spice. Firm, structured palate with dense tannins and a long finish.",
+    "fr": "Rouge grenat intense. Arômes de fruits noirs, de cerise, de cuir, d'herbes de garrigue et d'épices. Bouche ferme et structurée, aux tanins denses et à la finale longue.",
+    "it": "Rosso granato intenso. Aromi di frutta nera, ciliegia, cuoio, erbe di gariga e spezie. In bocca è deciso e strutturato, con tannini densi e finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero de Provenza, estofados, caza, daube provenzal, quesos curados",
+    "en": "Provençal lamb, braised meats, game, Provençal daube, aged cheeses",
+    "fr": "Agneau de Provence, viandes braisées, gibier, daube provençale, fromages affinés",
+    "it": "Agnello di Provenza, brasati, selvaggina, daube provenzale, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Château Romassan Rouge Bandol Domaines Ott"
+}

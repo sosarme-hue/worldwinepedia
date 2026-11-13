@@ -1,0 +1,48 @@
+{
+  "slug": "bouchard-meursault",
+  "name": "Meursault",
+  "winery": "bouchard-pere-et-fils",
+  "region": "cote-de-beaune",
+  "country": "francia",
+  "type": "blanco",
+  "category": {
+    "es": "Village",
+    "en": "Village",
+    "fr": "Village",
+    "it": "Village"
+  },
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Meursault de nivel village elaborado con Chardonnay por Bouchard Père & Fils en la Côte de Beaune.",
+    "en": "Village-level Meursault made from Chardonnay by Bouchard Père & Fils in the Côte de Beaune.",
+    "fr": "Meursault de niveau village élaboré à partir de chardonnay par Bouchard Père & Fils en Côte de Beaune.",
+    "it": "Meursault di livello village prodotto con Chardonnay da Bouchard Père & Fils nella Côte de Beaune."
+  },
+  "body": {
+    "es": "<p>Meursault, en la Côte de Beaune, es uno de los nombres de referencia del Chardonnay en Borgoña. La denominación produce sobre todo vino blanco y se extiende por laderas de suelos calcáreos y margosos. Este vino de nivel village procede de parcelas sin clasificación de premier cru y muestra el estilo característico del pueblo: un blanco de cierta amplitud, con fruta madura, notas de frutos secos y una acidez que equilibra el conjunto. Puede disfrutarse joven, aunque suele ganar complejidad con algunos años en botella.</p><p>Bouchard Père & Fils, casa fundada en Beaune en 1731, es también un importante productor de blancos de la Côte de Beaune. Su estilo busca la pureza de la Chardonnay y el carácter de cada clima, con un uso del roble que acompaña al vino sin dominarlo. La casa posee un amplio patrimonio de viñedos en la Côte d’Or, con numerosas parcelas de premier cru y grand cru, y completa su gama con vinos de uva comprada.</p>",
+    "en": "<p>Meursault, in the Côte de Beaune, is one of the benchmark names for Burgundian Chardonnay. The appellation produces mainly white wine and stretches across slopes of limestone and marl soils. This village-level wine comes from plots without premier cru status and shows the characteristic style of the commune: a white of some breadth, with ripe fruit, nutty notes and acidity that balances the whole. It can be enjoyed young, though it usually gains complexity with a few years in bottle.</p><p>Bouchard Père & Fils, a house founded in Beaune in 1731, is also a major producer of Côte de Beaune whites. Its style seeks the purity of Chardonnay and the character of each climat, using oak to support the wine without dominating it. The house owns an extensive vineyard estate in the Côte d’Or, with many premier cru and grand cru plots, and completes its range with wines made from purchased grapes.</p>",
+    "fr": "<p>Meursault, en Côte de Beaune, est l’un des noms de référence du chardonnay en Bourgogne. L’appellation produit surtout du vin blanc et s’étend sur des coteaux aux sols calcaires et marneux. Ce vin de niveau village provient de parcelles non classées en premier cru et montre le style caractéristique de la commune : un blanc d’une certaine ampleur, au fruit mûr, aux notes de fruits secs et à l’acidité qui équilibre l’ensemble. Il peut se boire jeune, mais gagne souvent en complexité après quelques années de bouteille.</p><p>Bouchard Père & Fils, maison fondée à Beaune en 1731, est aussi un important producteur de blancs de la Côte de Beaune. Son style recherche la pureté du chardonnay et le caractère de chaque climat, avec un boisé qui accompagne le vin sans le dominer. La maison possède un vaste patrimoine de vignes en Côte-d’Or, avec de nombreuses parcelles de premier cru et de grand cru, et complète sa gamme par des vins de négoce.</p>",
+    "it": "<p>Meursault, nella Côte de Beaune, è uno dei nomi di riferimento dello Chardonnay in Borgogna. La denominazione produce soprattutto vino bianco e si estende su pendii dai suoli calcarei e marnosi. Questo vino di livello village proviene da parcelle non classificate premier cru e mostra lo stile caratteristico del comune: un bianco di una certa ampiezza, con frutto maturo, note di frutta secca e un’acidità che equilibra l’insieme. Si può gustare giovane, ma di solito acquista complessità con qualche anno di bottiglia.</p><p>Bouchard Père & Fils, maison fondata a Beaune nel 1731, è anche un importante produttore di bianchi della Côte de Beaune. Il suo stile ricerca la purezza dello Chardonnay e il carattere di ogni climat, con un uso del rovere che accompagna il vino senza sovrastarlo. La maison possiede un ampio patrimonio di vigneti nella Côte d’Or, con numerose parcelle di premier cru e grand cru, e completa la gamma con vini prodotti da uve acquistate.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido dorado. Aromas de fruta blanca, cítricos, avellana y notas tostadas suaves. En boca es amplio y fresco, con buena tensión y final persistente.",
+    "en": "Pale golden yellow. Aromas of white fruit, citrus, hazelnut and gentle toasty notes. Broad yet fresh on the palate, with good tension and a persistent finish.",
+    "fr": "Jaune pâle doré. Arômes de fruits blancs, d’agrumes, de noisette et notes grillées discrètes. En bouche, ample et frais, avec une belle tension et une finale persistante.",
+    "it": "Giallo paglierino dorato. Aromi di frutta bianca, agrumi, nocciola e lievi note tostate. In bocca è ampio e fresco, con buona tensione e finale persistente."
+  },
+  "pairing": {
+    "es": "Pescados en salsa, aves con crema, marisco, quesos de pasta blanda",
+    "en": "Fish in sauce, poultry in cream, shellfish, soft cheeses",
+    "fr": "Poissons en sauce, volailles à la crème, fruits de mer, fromages à pâte molle",
+    "it": "Pesce in salsa, pollame alla crema, crostacei, formaggi a pasta molle"
+  },
+  "serve": {
+    "es": "12-14 °C, copa amplia",
+    "en": "12-14 °C, large glass",
+    "fr": "12-14 °C, verre ample",
+    "it": "12-14 °C, calice ampio"
+  },
+  "search": "Meursault Bouchard Père & Fils"
+}

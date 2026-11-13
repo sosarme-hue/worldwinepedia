@@ -1,0 +1,48 @@
+{
+  "slug": "louis-latour-beaune-clos-du-roi",
+  "name": "Louis Latour Beaune Premier Cru Clos du Roi",
+  "winery": "louis-latour",
+  "region": "cote-de-beaune",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Premier Cru",
+    "en": "Premier Cru",
+    "fr": "Premier cru",
+    "it": "Premier Cru"
+  },
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Beaune Premier Cru Clos du Roi de Louis Latour, un Pinot Noir de uno de los Premiers Crus de la capital vinícola de Borgoña.",
+    "en": "Louis Latour’s Beaune Premier Cru Clos du Roi, a Pinot Noir from one of the Premiers Crus of Burgundy’s wine capital.",
+    "fr": "Le Beaune premier cru Clos du Roi de Louis Latour, un pinot noir issu de l’un des premiers crus de la capitale des vins de Bourgogne.",
+    "it": "Il Beaune Premier Cru Clos du Roi di Louis Latour, un Pinot Noir di uno dei Premiers Crus della capitale del vino di Borgogna."
+  },
+  "body": {
+    "es": "<p>Beaune, sede de Maison Louis Latour desde su fundación, es la capital comercial del vino de Borgoña y también un importante municipio vitícola. Su denominación no tiene Grands Crus, pero sí una larga serie de Premiers Crus que ocupan buena parte de la ladera situada sobre la ciudad. La mayoría de sus vinos son tintos de <strong>Pinot Noir</strong>.</p><p>El <em>Clos du Roi</em> es uno de esos Premiers Crus; su nombre remite a un antiguo dominio de la corona. Louis Latour lo vinifica con Pinot Noir y lo cría en barricas de roble, en parte fabricadas en la tonelería de la casa.</p><p>Los Beaune Premier Cru suelen ser tintos de cuerpo medio, con fruta roja madura, taninos redondos y un carácter afable que permite disfrutarlos relativamente pronto. Al mismo tiempo, tienen estructura suficiente para evolucionar bien durante algunos años en botella.</p>",
+    "en": "<p>Beaune, home of Maison Louis Latour since its founding, is the commercial capital of Burgundy wine and also an important wine-growing commune. Its appellation has no Grands Crus, but it has a long list of Premiers Crus covering much of the slope above the town. Most of its wines are reds from <strong>Pinot Noir</strong>.</p><p>The <em>Clos du Roi</em> is one of those Premiers Crus; its name recalls a former royal estate. Louis Latour makes it from Pinot Noir and ages it in oak barrels, partly made in the house’s cooperage.</p><p>Beaune Premiers Crus are usually medium-bodied reds with ripe red fruit, rounded tannins and an approachable character that makes them enjoyable relatively early. At the same time, they have enough structure to evolve well for several years in bottle.</p>",
+    "fr": "<p>Beaune, siège de la maison Louis Latour depuis sa fondation, est la capitale commerciale des vins de Bourgogne et aussi une commune viticole importante. Son appellation ne compte aucun grand cru, mais une longue liste de premiers crus qui occupent une bonne partie du coteau dominant la ville. La plupart de ses vins sont des rouges de <strong>pinot noir</strong>.</p><p>Le <em>Clos du Roi</em> est l’un de ces premiers crus ; son nom évoque un ancien domaine de la couronne. Louis Latour le vinifie à partir de pinot noir et l’élève en fûts de chêne, en partie fabriqués dans la tonnellerie de la maison.</p><p>Les Beaune premiers crus sont généralement des rouges de corps moyen, au fruit rouge mûr, aux tanins ronds et au caractère accessible qui permet de les apprécier assez tôt. Ils ont toutefois assez de structure pour bien évoluer pendant quelques années en bouteille.</p>",
+    "it": "<p>Beaune, sede della Maison Louis Latour fin dalla sua fondazione, è la capitale commerciale del vino di Borgogna e anche un importante comune vitivinicolo. La sua denominazione non ha Grands Crus, ma una lunga serie di Premiers Crus che occupano buona parte del pendio sopra la città. La maggior parte dei suoi vini sono rossi di <strong>Pinot Noir</strong>.</p><p>Il <em>Clos du Roi</em> è uno di questi Premiers Crus; il nome ricorda un antico possedimento della corona. Louis Latour lo vinifica con Pinot Noir e lo affina in botti di rovere, in parte costruite nella bottaia della casa.</p><p>I Beaune Premier Cru sono di solito rossi di medio corpo, con frutta rossa matura, tannini rotondi e un carattere accessibile che permette di apprezzarli abbastanza presto. Hanno però struttura sufficiente per evolvere bene per alcuni anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rubí brillante. Aromas de cereza madura, frambuesa y especias dulces. Boca redonda y equilibrada, de taninos suaves y final afrutado.",
+    "en": "Bright ruby. Aromas of ripe cherry, raspberry and sweet spice. Round, balanced palate with soft tannins and a fruity finish.",
+    "fr": "Rubis brillant. Arômes de cerise mûre, de framboise et d’épices douces. Bouche ronde et équilibrée, tanins souples, finale fruitée.",
+    "it": "Rubino brillante. Aromi di ciliegia matura, lampone e spezie dolci. Bocca rotonda ed equilibrata, tannini morbidi e finale fruttato."
+  },
+  "pairing": {
+    "es": "Ave asada, ternera, conejo, quesos de pasta blanda",
+    "en": "Roast poultry, veal, rabbit, soft cheeses",
+    "fr": "Volaille rôtie, veau, lapin, fromages à pâte molle",
+    "it": "Pollame arrosto, vitello, coniglio, formaggi a pasta molle"
+  },
+  "serve": {
+    "es": "15-17 °C, copa de Borgoña",
+    "en": "15-17 °C, Burgundy glass",
+    "fr": "15-17 °C, verre de type bourguignon",
+    "it": "15-17 °C, calice tipo Borgogna"
+  },
+  "search": "Beaune 1er Cru Clos du Roi Louis Latour"
+}

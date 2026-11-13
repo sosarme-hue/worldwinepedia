@@ -1,0 +1,48 @@
+{
+  "slug": "gaja-sperss",
+  "name": "Gaja Sperss",
+  "winery": "gaja",
+  "region": "barolo",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "Barolo DOCG",
+    "en": "Barolo DOCG",
+    "fr": "Barolo DOCG",
+    "it": "Barolo DOCG"
+  },
+  "grapes": [
+    "nebbiolo"
+  ],
+  "summary": {
+    "es": "Barolo de Gaja procedente de su viñedo Sperss, en Serralunga d’Alba, elaborado con Nebbiolo y de larga capacidad de guarda.",
+    "en": "Gaja Barolo from its Sperss vineyard in Serralunga d’Alba, made from Nebbiolo and built for long ageing.",
+    "fr": "Barolo de Gaja issu de son vignoble Sperss, à Serralunga d’Alba, élaboré avec du nebbiolo et de longue garde.",
+    "it": "Barolo di Gaja proveniente dal suo vigneto Sperss, a Serralunga d’Alba, prodotto con Nebbiolo e di lungo invecchiamento."
+  },
+  "body": {
+    "es": "<p>Gaja, casa de Barbaresco fundada en el siglo XIX, es una de las bodegas más influyentes del Piamonte. A finales de los años ochenta adquirió viñedos en Serralunga d’Alba, dentro de la zona de Barolo, y de ellos nace <strong>Sperss</strong>, cuyo nombre significa «nostalgia» en dialecto piamontés, en alusión al deseo de la familia de volver a elaborar Barolo.</p><p>Durante un tiempo, Gaja comercializó sus vinos de parcela bajo la denominación Langhe, pero desde la añada 2013 Sperss vuelve a llevar la DOCG <strong>Barolo</strong>. Se elabora con <strong>Nebbiolo</strong> y se cría primero en barricas y después en grandes toneles de roble antes de su salida al mercado.</p><p>Serralunga d’Alba tiene fama de dar los Barolo más estructurados y longevos, y Sperss responde a ese perfil: un tinto de color granate, con taninos firmes y acidez elevada, que necesita muchos años de botella para mostrar toda su complejidad aromática.</p>",
+    "en": "<p>Gaja, a Barbaresco house founded in the nineteenth century, is one of the most influential wineries in Piedmont. In the late 1980s it acquired vineyards in Serralunga d’Alba, within the Barolo zone, and from them comes <strong>Sperss</strong>, whose name means “nostalgia” in Piedmontese dialect, alluding to the family’s wish to make Barolo again.</p><p>For a time Gaja sold its single-vineyard wines under the Langhe appellation, but from the 2013 vintage Sperss once again bears the <strong>Barolo</strong> DOCG. It is made from <strong>Nebbiolo</strong> and aged first in barriques and then in large oak casks before release.</p><p>Serralunga d’Alba is known for producing the most structured and long-lived Barolo, and Sperss fits that profile: a garnet-coloured red with firm tannins and high acidity, which needs many years in bottle to reveal its full aromatic complexity.</p>",
+    "fr": "<p>Gaja, maison de Barbaresco fondée au XIXe siècle, est l’un des domaines les plus influents du Piémont. À la fin des années 1980, elle a acquis des vignes à Serralunga d’Alba, dans la zone du Barolo, d’où provient <strong>Sperss</strong>, dont le nom signifie « nostalgie » en dialecte piémontais, en référence au désir de la famille de produire de nouveau du barolo.</p><p>Pendant un temps, Gaja a commercialisé ses vins de cru sous l’appellation Langhe, mais depuis le millésime 2013 Sperss porte de nouveau la DOCG <strong>Barolo</strong>. Il est élaboré avec du <strong>nebbiolo</strong> et élevé d’abord en barriques puis en grands foudres de chêne avant sa commercialisation.</p><p>Serralunga d’Alba est réputée pour donner les barolos les plus structurés et les plus longs à vieillir, et Sperss correspond à ce profil : un rouge à la robe grenat, aux tanins fermes et à l’acidité élevée, qui demande de longues années de bouteille pour révéler toute sa complexité aromatique.</p>",
+    "it": "<p>Gaja, casa di Barbaresco fondata nell’Ottocento, è una delle cantine più influenti del Piemonte. Alla fine degli anni Ottanta ha acquistato vigneti a Serralunga d’Alba, nella zona del Barolo, e da questi nasce <strong>Sperss</strong>, il cui nome significa «nostalgia» in dialetto piemontese, a ricordare il desiderio della famiglia di tornare a produrre Barolo.</p><p>Per un periodo Gaja ha commercializzato i suoi vini di singolo vigneto con la denominazione Langhe, ma dall’annata 2013 Sperss torna a portare la DOCG <strong>Barolo</strong>. È prodotto con <strong>Nebbiolo</strong> e matura prima in barrique e poi in grandi botti di rovere prima di essere messo in commercio.</p><p>Serralunga d’Alba è nota per dare i Barolo più strutturati e longevi, e Sperss rispecchia questo profilo: un rosso di colore granato, con tannini decisi e acidità elevata, che richiede molti anni di bottiglia per mostrare tutta la sua complessità aromatica.</p>"
+  },
+  "tasting": {
+    "es": "Granate. Aromas de cereza, rosa, regaliz, alquitrán y especias. Boca potente y austera en su juventud, con taninos firmes y final muy largo.",
+    "en": "Garnet. Aromas of cherry, rose, liquorice, tar and spice. Powerful palate, austere in youth, with firm tannins and a very long finish.",
+    "fr": "Grenat. Arômes de cerise, de rose, de réglisse, de goudron et d’épices. Bouche puissante, austère dans sa jeunesse, aux tanins fermes et à la finale très longue.",
+    "it": "Granato. Aromi di ciliegia, rosa, liquirizia, catrame e spezie. Bocca potente, austera da giovane, con tannini decisi e finale lunghissimo."
+  },
+  "pairing": {
+    "es": "Brasato al Barolo, caza, tajarin con trufa blanca, carnes rojas asadas, quesos muy curados",
+    "en": "Brasato al Barolo, game, tajarin with white truffle, roast red meat, well-aged cheeses",
+    "fr": "Brasato al Barolo, gibier, tajarin à la truffe blanche, viandes rouges rôties, fromages très affinés",
+    "it": "Brasato al Barolo, selvaggina, tajarin al tartufo bianco, carni rosse arrosto, formaggi molto stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia; conviene decantarlo",
+    "en": "16-18 °C, large glass; decanting recommended",
+    "fr": "16-18 °C, grand verre ; carafage conseillé",
+    "it": "16-18 °C, calice ampio; si consiglia la decantazione"
+  },
+  "search": "Sperss Barolo Gaja"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "planeta-la-segreta-rosso",
+  "name": "Planeta La Segreta Rosso",
+  "winery": "planeta",
+  "region": "sicilia",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "Sicilia DOC",
+    "en": "Sicilia DOC",
+    "fr": "Sicilia DOC",
+    "it": "Sicilia DOC"
+  },
+  "grapes": [
+    "nero-davola"
+  ],
+  "summary": {
+    "es": "Tinto de ensamblaje de Planeta con base de Nero d’Avola, de la línea La Segreta, pensado como un vino afrutado, accesible y de consumo cotidiano.",
+    "en": "Blended red from Planeta based on Nero d’Avola, from the La Segreta line, designed as a fruity, approachable everyday wine.",
+    "fr": "Rouge d’assemblage de Planeta à base de nero d’avola, de la ligne La Segreta, conçu comme un vin fruité, accessible et de tous les jours.",
+    "it": "Rosso di assemblaggio di Planeta a base di Nero d’Avola, della linea La Segreta, pensato come un vino fruttato, accessibile e quotidiano."
+  },
+  "body": {
+    "es": "<p>La línea <strong>La Segreta</strong> es la gama de entrada de Planeta, la familia siciliana cuya bodega original se encuentra en <strong>Menfi</strong>, en la costa suroeste de la isla, junto al lago artificial de Arancio. Su nombre alude a una de las fincas históricas de la familia en esa zona.</p><p>La Segreta Rosso se basa en la <strong>Nero d’Avola</strong>, la gran variedad tinta de Sicilia, a la que se suman otras variedades tintas, entre ellas algunas internacionales, que completan el ensamblaje. El vino se ampara en la DOC Sicilia, que permite ensamblar uvas de distintas zonas de la isla. La elaboración prioriza la fruta, con una crianza breve sin un protagonismo marcado de la madera.</p><p>Es un tinto de cuerpo medio, jugoso y redondo, con aromas de cereza, ciruela y especias suaves. Está pensado para beberse en sus primeros años y resulta muy versátil en la mesa.</p>",
+    "en": "<p>The <strong>La Segreta</strong> line is the entry-level range of Planeta, the Sicilian family whose original winery is at <strong>Menfi</strong>, on the island’s south-west coast, beside the Arancio reservoir. Its name refers to one of the family’s historic estates in that area.</p><p>La Segreta Rosso is based on <strong>Nero d’Avola</strong>, Sicily’s great red variety, joined by other red varieties, some of them international, which complete the blend. The wine is labelled under the Sicilia DOC, which allows grapes from different parts of the island to be blended. Winemaking prioritises fruit, with brief ageing in which oak does not play a prominent role.</p><p>It is a medium-bodied, juicy, rounded red with aromas of cherry, plum and gentle spice. It is designed to be drunk in its first few years and is very versatile at the table.</p>",
+    "fr": "<p>La ligne <strong>La Segreta</strong> est la gamme d’entrée de Planeta, la famille sicilienne dont le domaine d’origine se trouve à <strong>Menfi</strong>, sur la côte sud-ouest de l’île, près du lac artificiel d’Arancio. Son nom évoque l’un des domaines historiques de la famille dans cette zone.</p><p>La Segreta Rosso repose sur le <strong>nero d’avola</strong>, le grand cépage rouge de Sicile, auquel s’ajoutent d’autres cépages rouges, dont certains internationaux, qui complètent l’assemblage. Le vin relève de la DOC Sicilia, qui permet d’assembler des raisins de différentes zones de l’île. La vinification privilégie le fruit, avec un élevage bref où le bois ne joue pas un rôle marqué.</p><p>C’est un rouge de corps moyen, juteux et rond, aux arômes de cerise, de prune et d’épices douces. Il est conçu pour être bu dans ses premières années et se montre très polyvalent à table.</p>",
+    "it": "<p>La linea <strong>La Segreta</strong> è la gamma d’ingresso di Planeta, la famiglia siciliana la cui cantina originaria si trova a <strong>Menfi</strong>, sulla costa sud-occidentale dell’isola, accanto al lago artificiale Arancio. Il nome richiama una delle tenute storiche della famiglia in quella zona.</p><p>La Segreta Rosso si basa sul <strong>Nero d’Avola</strong>, il grande vitigno rosso della Sicilia, cui si aggiungono altre varietà rosse, alcune internazionali, che completano l’assemblaggio. Il vino rientra nella DOC Sicilia, che consente di assemblare uve di diverse zone dell’isola. La vinificazione privilegia il frutto, con un breve affinamento in cui il legno non ha un ruolo marcato.</p><p>È un rosso di medio corpo, succoso e rotondo, con aromi di ciliegia, prugna e spezie delicate. È pensato per essere bevuto nei primi anni ed è molto versatile a tavola.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí intenso. Aromas de cereza, ciruela, mora y especias suaves. Boca jugosa y redonda, de taninos suaves.",
+    "en": "Deep ruby red. Aromas of cherry, plum, blackberry and gentle spice. Juicy, round palate with soft tannins.",
+    "fr": "Rouge rubis intense. Arômes de cerise, de prune, de mûre et d’épices douces. Bouche juteuse et ronde, aux tanins souples.",
+    "it": "Rosso rubino intenso. Aromi di ciliegia, prugna, mora e spezie delicate. Bocca succosa e rotonda, con tannini morbidi."
+  },
+  "pairing": {
+    "es": "Pizza, pasta al horno, embutidos, carnes a la parrilla, quesos semicurados",
+    "en": "Pizza, baked pasta, charcuterie, grilled meat, semi-hard cheeses",
+    "fr": "Pizza, pâtes au four, charcuterie, viandes grillées, fromages mi-affinés",
+    "it": "Pizza, pasta al forno, salumi, carni alla griglia, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "14-16 °C, copa de tamaño medio",
+    "en": "14-16 °C, medium-sized glass",
+    "fr": "14-16 °C, verre de taille moyenne",
+    "it": "14-16 °C, calice di media grandezza"
+  },
+  "search": "La Segreta Rosso Planeta"
+}

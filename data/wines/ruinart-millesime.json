@@ -1,0 +1,49 @@
+{
+  "slug": "ruinart-millesime",
+  "name": "Ruinart Millésimé",
+  "winery": "ruinart",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut Millésimé",
+    "en": "Vintage Brut",
+    "fr": "Brut Millésimé",
+    "it": "Brut Millesimato"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Champagne de añada de Ruinart, ensamblaje de Chardonnay y Pinot Noir de una sola cosecha, en el estilo marcado por el Chardonnay propio de la casa.",
+    "en": "Ruinart’s vintage Champagne, a blend of Chardonnay and Pinot Noir from a single harvest, in the Chardonnay-led style typical of the house.",
+    "fr": "Le champagne millésimé de Ruinart, assemblage de chardonnay et de pinot noir d’une seule récolte, dans le style marqué par le chardonnay propre à la maison.",
+    "it": "Lo champagne millesimato di Ruinart, assemblaggio di Chardonnay e Pinot Noir di una sola vendemmia, nello stile segnato dallo Chardonnay tipico della casa."
+  },
+  "body": {
+    "es": "<p>Ruinart, fundada en Reims en 1729, es la casa de Champagne más antigua en actividad. Su estilo gira en torno al <strong>Chardonnay</strong>, presente en todos sus vinos, y sus botellas envejecen en las crayères, antiguas canteras de creta excavadas bajo la ciudad que ofrecen una temperatura fresca y constante.</p><p>Además de sus champagnes sin añada, la casa elabora un champagne millésimé, es decir, procedente de una sola cosecha, sólo en los años que considera adecuados. Combina Chardonnay y <strong>Pinot Noir</strong> y permanece sobre lías durante una crianza más larga que la de los vinos sin añada, lo que le aporta complejidad.</p><p>Cabe esperar un champagne fresco y preciso, con la tensión y las notas cítricas del Chardonnay, la estructura del Pinot Noir y matices tostados y de frutos secos fruto de la crianza. Refleja el carácter de su cosecha y puede seguir evolucionando algunos años en botella.</p>",
+    "en": "<p>Ruinart, founded in Reims in 1729, is the oldest Champagne house still in business. Its style revolves around <strong>Chardonnay</strong>, present in all its wines, and its bottles age in the crayères, old chalk quarries dug beneath the city that offer a cool, constant temperature.</p><p>In addition to its non-vintage Champagnes, the house makes a millésimé, or vintage, Champagne from a single harvest, only in years it considers suitable. It combines Chardonnay and <strong>Pinot Noir</strong> and stays on its lees for longer ageing than the non-vintage wines, which adds complexity.</p><p>One can expect a fresh, precise Champagne, with the tension and citrus notes of Chardonnay, the structure of Pinot Noir, and toasty, nutty nuances from ageing. It reflects the character of its vintage and can continue to evolve for some years in bottle.</p>",
+    "fr": "<p>Ruinart, fondée à Reims en 1729, est la plus ancienne maison de Champagne en activité. Son style s’articule autour du <strong>chardonnay</strong>, présent dans tous ses vins, et ses bouteilles vieillissent dans les crayères, anciennes carrières de craie creusées sous la ville qui offrent une température fraîche et constante.</p><p>Outre ses champagnes non millésimés, la maison élabore un champagne millésimé, issu d’une seule récolte, uniquement les années qu’elle juge propices. Il associe chardonnay et <strong>pinot noir</strong> et repose sur lies plus longtemps que les vins non millésimés, ce qui lui apporte de la complexité.</p><p>On peut attendre un champagne frais et précis, avec la tension et les notes d’agrumes du chardonnay, la structure du pinot noir et des nuances grillées et de fruits secs issues du vieillissement. Il reflète le caractère de son millésime et peut continuer à évoluer quelques années en bouteille.</p>",
+    "it": "<p>Ruinart, fondata a Reims nel 1729, è la più antica casa di Champagne ancora in attività. Il suo stile ruota attorno allo <strong>Chardonnay</strong>, presente in tutti i suoi vini, e le sue bottiglie invecchiano nelle crayères, antiche cave di gesso scavate sotto la città che offrono una temperatura fresca e costante.</p><p>Oltre agli champagne senza annata, la casa produce uno champagne millesimato, proveniente da una sola vendemmia, solo negli anni che ritiene adatti. Unisce Chardonnay e <strong>Pinot Noir</strong> e rimane sui lieviti per un affinamento più lungo rispetto ai vini senza annata, che gli conferisce complessità.</p><p>Ci si può attendere uno champagne fresco e preciso, con la tensione e le note agrumate dello Chardonnay, la struttura del Pinot Noir e sfumature tostate e di frutta secca dovute all’affinamento. Riflette il carattere della sua annata e può continuare a evolvere per alcuni anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Dorado pálido, burbuja fina. Aromas de cítricos, fruta blanca, flores y notas de brioche y avellana. Boca fresca y precisa, con buena estructura y final largo.",
+    "en": "Pale gold, fine bubbles. Aromas of citrus, white fruit, flowers and notes of brioche and hazelnut. Fresh, precise palate with good structure and a long finish.",
+    "fr": "Or pâle, bulle fine. Arômes d’agrumes, de fruits blancs, de fleurs et notes de brioche et de noisette. Bouche fraîche et précise, belle structure, finale longue.",
+    "it": "Oro tenue, perlage fine. Aromi di agrumi, frutta bianca, fiori e note di brioche e nocciola. Bocca fresca e precisa, buona struttura e finale lungo."
+  },
+  "pairing": {
+    "es": "Marisco, pescados nobles, ave, quesos curados de pasta dura",
+    "en": "Shellfish, fine fish, poultry, hard aged cheeses",
+    "fr": "Fruits de mer, poissons nobles, volaille, fromages à pâte dure affinés",
+    "it": "Frutti di mare, pesce pregiato, pollame, formaggi stagionati a pasta dura"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de vino blanco amplia, no flauta",
+    "en": "10-12 °C, wide white wine glass, not a flute",
+    "fr": "10-12 °C, verre à vin blanc ample, pas de flûte",
+    "it": "10-12 °C, calice da vino bianco ampio, non flûte"
+  },
+  "search": "Ruinart Millésimé"
+}
