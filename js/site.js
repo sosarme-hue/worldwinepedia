@@ -51,7 +51,8 @@
         }
       });
       var c = st.comparator;
-      html += '<div class="shop"><strong>' + esc(c.name) + '</strong><a rel="nofollow noopener" target="_blank" href="' + esc(c.url.replace('{q}', encodeURIComponent(q).replace(/%20/g, '+'))) + '">' + W.t.compare_world + ' ↗</a></div>';
+      // Wine-Searcher no da comisión: solo se muestra si no hay ni Amazon ni tienda afiliada
+      if (!html) html += '<div class="shop"><strong>' + esc(c.name) + '</strong><a rel="nofollow noopener" target="_blank" href="' + esc(c.url.replace('{q}', encodeURIComponent(q).replace(/%20/g, '+'))) + '">' + W.t.compare_world + ' ↗</a></div>';
       if (ship === 'US') notes += '<p class="note">' + W.t.us_note + '</p>';
       if (ship === 'FR') notes += '<p class="note">' + W.t.fr_note + '</p>';
       box.innerHTML = notes + html;
