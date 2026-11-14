@@ -1,0 +1,49 @@
+{
+  "slug": "la-croix-de-carbonnieux-rouge",
+  "name": "La Croix de Carbonnieux Rouge",
+  "winery": "chateau-carbonnieux",
+  "region": "pessac-leognan",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Segundo vino",
+    "en": "Second wine",
+    "fr": "Second vin",
+    "it": "Secondo vino"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Segundo vino tinto de Château Carbonnieux, un Pessac-Léognan más afrutado y accesible en su juventud que el grand vin.",
+    "en": "Red second wine of Château Carbonnieux, a Pessac-Léognan that is fruitier and more approachable in youth than the grand vin.",
+    "fr": "Second vin rouge du Château Carbonnieux, un Pessac-Léognan plus fruité et plus accessible dans sa jeunesse que le grand vin.",
+    "it": "Secondo vino rosso di Château Carbonnieux, un Pessac-Léognan più fruttato e accessibile in gioventù rispetto al grand vin."
+  },
+  "body": {
+    "es": "<p>La Croix de Carbonnieux es el segundo vino de Château Carbonnieux, finca clasificada de Léognan propiedad de la familia Perrin. Procede de parcelas más jóvenes y de lotes que no se incorporan al <em>grand vin</em> en el ensamblaje final.</p><p>Pessac-Léognan, creada en 1987 en la parte norte de Graves, en las afueras de Burdeos, es una de las pocas denominaciones bordelesas reconocidas tanto por sus tintos como por sus blancos secos. Sus suelos de grava favorecen el drenaje y la maduración de la uva.</p><p>Como el vino principal, el tinto se basa en <strong>Cabernet Sauvignon</strong> y <strong>Merlot</strong>, aunque suele tener un perfil más afrutado y una crianza en madera más ligera. Es un tinto de cuerpo medio, de taninos suaves, pensado para disfrutarse antes que el grand vin, que ofrece una buena aproximación al estilo de la finca.</p>",
+    "en": "<p>La Croix de Carbonnieux is the second wine of Château Carbonnieux, the classified Léognan estate owned by the Perrin family. It comes from younger plots and from lots not included in the <em>grand vin</em> at final blending.</p><p>Pessac-Léognan, created in 1987 in the northern part of Graves on the outskirts of Bordeaux, is one of the few Bordeaux appellations renowned for both its reds and its dry whites. Its gravel soils favour drainage and ripening.</p><p>Like the main wine, the red is based on <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong>, although it usually has a fruitier profile and lighter oak ageing. It is a medium-bodied red with soft tannins, meant to be enjoyed earlier than the grand vin, and offers a good introduction to the estate’s style.</p>",
+    "fr": "<p>La Croix de Carbonnieux est le second vin du Château Carbonnieux, domaine classé de Léognan appartenant à la famille Perrin. Il provient de parcelles plus jeunes et de lots non retenus pour le <em>grand vin</em> lors de l’assemblage final.</p><p>Pessac-Léognan, créée en 1987 dans la partie nord des Graves, aux portes de Bordeaux, est l’une des rares appellations bordelaises réputées à la fois pour leurs rouges et leurs blancs secs. Ses sols de graves favorisent le drainage et la maturation du raisin.</p><p>Comme le vin principal, le rouge repose sur le <strong>cabernet sauvignon</strong> et le <strong>merlot</strong>, mais il présente en général un profil plus fruité et un élevage sous bois plus léger. C’est un rouge de corps moyen, aux tanins souples, à boire plus tôt que le grand vin, qui offre une bonne approche du style du domaine.</p>",
+    "it": "<p>La Croix de Carbonnieux è il secondo vino di Château Carbonnieux, tenuta classificata di Léognan di proprietà della famiglia Perrin. Proviene da parcelle più giovani e da lotti non inclusi nel <em>grand vin</em> all’assemblaggio finale.</p><p>Pessac-Léognan, creata nel 1987 nella parte settentrionale delle Graves, alle porte di Bordeaux, è una delle poche denominazioni bordolesi rinomate sia per i rossi sia per i bianchi secchi. I suoi suoli ghiaiosi favoriscono il drenaggio e la maturazione dell’uva.</p><p>Come il vino principale, il rosso si basa su <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong>, ma di solito ha un profilo più fruttato e un affinamento in legno più leggero. È un rosso di medio corpo, dai tannini morbidi, da gustare prima del grand vin, che offre un buon approccio allo stile della tenuta.</p>"
+  },
+  "tasting": {
+    "es": "Rubí. Aromas de frutos rojos y negros, notas especiadas y ahumadas suaves. Boca fresca, de taninos suaves.",
+    "en": "Ruby. Aromas of red and black fruit, gentle spicy and smoky notes. Fresh palate with soft tannins.",
+    "fr": "Rubis. Arômes de fruits rouges et noirs, notes épicées et fumées discrètes. Bouche fraîche, aux tanins souples.",
+    "it": "Rubino. Aromi di frutti rossi e neri, delicate note speziate e affumicate. Bocca fresca, tannini morbidi."
+  },
+  "pairing": {
+    "es": "Cordero, entrecot, pato, quesos de pasta prensada",
+    "en": "Lamb, rib steak, duck, pressed cheeses",
+    "fr": "Agneau, entrecôte, canard, fromages à pâte pressée",
+    "it": "Agnello, costata, anatra, formaggi a pasta pressata"
+  },
+  "serve": {
+    "es": "14-16 °C, copa amplia",
+    "en": "14-16 °C, large glass",
+    "fr": "14-16 °C, verre ample",
+    "it": "14-16 °C, calice ampio"
+  },
+  "search": "La Croix de Carbonnieux Rouge"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "moulin-de-la-lagune",
+  "name": "Moulin de La Lagune",
+  "winery": "chateau-la-lagune",
+  "region": "medoc",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Haut-Médoc, segundo vino",
+    "en": "Haut-Médoc, second wine",
+    "fr": "Haut-Médoc, second vin",
+    "it": "Haut-Médoc, secondo vino"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "El segundo vino de Château La Lagune, un Haut-Médoc afrutado y accesible que refleja el estilo fino de la propiedad de Ludon.",
+    "en": "The second wine of Château La Lagune, a fruity, approachable Haut-Médoc that reflects the fine style of the Ludon estate.",
+    "fr": "Le second vin du château La Lagune, un haut-médoc fruité et accessible qui reflète le style fin de la propriété de Ludon.",
+    "it": "Il secondo vino di Château La Lagune, un Haut-Médoc fruttato e accessibile che riflette lo stile fine della proprietà di Ludon."
+  },
+  "body": {
+    "es": "<p>Moulin de La Lagune es el <strong>segundo vino</strong> de Château La Lagune, tercer gran cru clasificado en 1855, situado en Ludon-Médoc, en el extremo sur del Médoc. Como en otras grandes propiedades bordelesas, el segundo vino permite reservar para el gran vino solo los mejores lotes, a la vez que ofrece un vino con la identidad de la casa.</p><p>Procede principalmente de viñas más jóvenes y de lotes de perfil más afrutado del viñedo de la propiedad, sobre suelos de gravas y arenas de la denominación <strong>Haut-Médoc</strong>. Se elabora con <strong>Cabernet Sauvignon</strong> y <strong>Merlot</strong>, a menudo completados con algo de Petit Verdot; el Merlot suele tener un peso mayor que en el gran vino.</p><p>La crianza en barrica es más breve y con menos roble nuevo. El resultado es un tinto de cuerpo medio, con fruta roja y negra, notas especiadas y taninos suaves, que puede disfrutarse tras pocos años y que ofrece una buena introducción al estilo elegante de La Lagune.</p>",
+    "en": "<p>Moulin de La Lagune is the <strong>second wine</strong> of Château La Lagune, a third growth in the 1855 classification, located in Ludon-Médoc at the southern tip of the Médoc. As at other great Bordeaux estates, the second wine allows only the best lots to be kept for the grand vin while offering a wine with the house’s identity.</p><p>It comes mainly from younger vines and fruitier lots from the estate’s vineyard, on the gravel and sandy soils of the <strong>Haut-Médoc</strong> appellation. It is made from <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong>, often completed with some Petit Verdot; Merlot usually carries more weight than in the grand vin.</p><p>Barrel ageing is shorter and uses less new oak. The result is a medium-bodied red with red and black fruit, spicy notes and soft tannins, which can be enjoyed after just a few years and offers a good introduction to the elegant style of La Lagune.</p>",
+    "fr": "<p>Moulin de La Lagune est le <strong>second vin</strong> du château La Lagune, troisième grand cru classé en 1855, situé à Ludon-Médoc, à l’extrémité sud du Médoc. Comme dans d’autres grandes propriétés bordelaises, le second vin permet de ne réserver au grand vin que les meilleurs lots, tout en offrant un vin à l’identité de la maison.</p><p>Il provient principalement de vignes plus jeunes et de lots au profil plus fruité du vignoble de la propriété, sur les sols de graves et de sables de l’appellation <strong>Haut-Médoc</strong>. Il est élaboré à partir de <strong>cabernet sauvignon</strong> et de <strong>merlot</strong>, souvent complétés d’un peu de petit verdot ; le merlot y pèse généralement davantage que dans le grand vin.</p><p>L’élevage en barrique est plus court et fait moins appel au chêne neuf. Il en résulte un rouge de corps moyen, au fruit rouge et noir, aux notes épicées et aux tanins souples, que l’on peut apprécier au bout de quelques années et qui offre une bonne introduction au style élégant de La Lagune.</p>",
+    "it": "<p>Moulin de La Lagune è il <strong>secondo vino</strong> di Château La Lagune, terzo grand cru classé nel 1855, situato a Ludon-Médoc, all’estremità meridionale del Médoc. Come in altre grandi proprietà bordolesi, il secondo vino consente di riservare al grand vin solo le partite migliori, offrendo al tempo stesso un vino con l’identità della casa.</p><p>Proviene principalmente da vigne più giovani e da partite dal profilo più fruttato del vigneto della proprietà, sui suoli di ghiaia e sabbia della denominazione <strong>Haut-Médoc</strong>. È prodotto con <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong>, spesso completati da un po’ di Petit Verdot; il Merlot pesa di solito più che nel grand vin.</p><p>L’affinamento in barrique è più breve e con meno rovere nuovo. Il risultato è un rosso di medio corpo, con frutto rosso e nero, note speziate e tannini morbidi, che si può gustare dopo pochi anni e offre una buona introduzione allo stile elegante di La Lagune.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de cereza, casis, especias y un toque de vainilla. Boca redonda, afrutada y de taninos suaves.",
+    "en": "Deep ruby. Aromas of cherry, blackcurrant, spice and a hint of vanilla. Round, fruity palate with soft tannins.",
+    "fr": "Rubis intense. Arômes de cerise, de cassis, d’épices et touche de vanille. Bouche ronde, fruitée, aux tanins souples.",
+    "it": "Rubino intenso. Aromi di ciliegia, ribes nero, spezie e un tocco di vaniglia. Bocca rotonda, fruttata, dai tannini morbidi."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la parrilla, aves asadas, embutidos, quesos semicurados",
+    "en": "Grilled red meat, roast poultry, cured meats, semi-hard cheeses",
+    "fr": "Viandes rouges grillées, volailles rôties, charcuterie, fromages mi-affinés",
+    "it": "Carni rosse alla griglia, pollame arrosto, salumi, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-17 °C, copa tipo Burdeos",
+    "en": "16-17 °C, Bordeaux glass",
+    "fr": "16-17 °C, verre de type bordelais",
+    "it": "16-17 °C, calice tipo Bordeaux"
+  },
+  "search": "Moulin de La Lagune Haut-Médoc"
+}

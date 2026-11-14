@@ -1,0 +1,50 @@
+{
+  "slug": "sette-ponti-oreno",
+  "name": "Oreno",
+  "winery": "tenuta-sette-ponti",
+  "region": "toscana",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "IGT Toscana",
+    "en": "IGT Toscana",
+    "fr": "IGT Toscana",
+    "it": "IGT Toscana"
+  },
+  "grapes": [
+    "merlot",
+    "cabernet-sauvignon",
+    "petit-verdot"
+  ],
+  "summary": {
+    "es": "Supertoscano de la Tenuta Sette Ponti, ensamblaje de Merlot, Cabernet Sauvignon y Petit Verdot del Valdarno.",
+    "en": "Super Tuscan from Tenuta Sette Ponti, a blend of Merlot, Cabernet Sauvignon and Petit Verdot from the Valdarno.",
+    "fr": "Supertoscan de la Tenuta Sette Ponti, assemblage de merlot, de cabernet sauvignon et de petit verdot du Valdarno.",
+    "it": "Supertuscan della Tenuta Sette Ponti, assemblaggio di Merlot, Cabernet Sauvignon e Petit Verdot del Valdarno."
+  },
+  "body": {
+    "es": "<p><strong>Oreno</strong> es el vino emblemático de la Tenuta Sette Ponti, la finca de la familia Moretti en las colinas del Valdarno, entre Florencia y Arezzo. Como muchos de los tintos toscanos elaborados con variedades internacionales, se comercializa bajo la indicación geográfica <strong>Toscana</strong>, que permite una libertad que las denominaciones clásicas de la región no ofrecen.</p><p>El vino ensambla <strong>Merlot</strong>, <strong>Cabernet Sauvignon</strong> y <strong>Petit Verdot</strong> de las viñas de la finca, en proporciones que varían según la añada. Cada variedad se vendimia a mano y se vinifica por separado, y el vino se cría en barricas de roble francés antes del ensamblaje final y de un periodo de reposo en botella.</p><p>Es un tinto de gran concentración, de fruta negra madura, notas especiadas y tostadas y taninos densos pero redondos, que combina la riqueza del Merlot con la estructura del Cabernet. Puede guardarse muchos años.</p>",
+    "en": "<p><strong>Oreno</strong> is the signature wine of Tenuta Sette Ponti, the Moretti family estate in the Valdarno hills between Florence and Arezzo. Like many Tuscan reds made from international varieties, it is sold under the <strong>Toscana</strong> geographical indication, which allows a freedom that the region’s classic appellations do not.</p><p>The wine blends <strong>Merlot</strong>, <strong>Cabernet Sauvignon</strong> and <strong>Petit Verdot</strong> from the estate’s vineyards, in proportions that vary with the vintage. Each variety is hand-picked and vinified separately, and the wine is aged in French oak barrels before the final blend and a period of rest in bottle.</p><p>It is a red of great concentration, with ripe black fruit, spicy and toasty notes and dense but rounded tannins, combining the richness of Merlot with the structure of Cabernet. It can be kept for many years.</p>",
+    "fr": "<p><strong>Oreno</strong> est le vin emblématique de la Tenuta Sette Ponti, domaine de la famille Moretti sur les collines du Valdarno, entre Florence et Arezzo. Comme beaucoup de rouges toscans issus de cépages internationaux, il est commercialisé sous l’indication géographique <strong>Toscana</strong>, qui offre une liberté que n’autorisent pas les appellations classiques de la région.</p><p>Le vin assemble <strong>merlot</strong>, <strong>cabernet sauvignon</strong> et <strong>petit verdot</strong> des vignes du domaine, dans des proportions qui varient selon le millésime. Chaque cépage est vendangé à la main et vinifié séparément, et le vin est élevé en fûts de chêne français avant l’assemblage final et une période de repos en bouteille.</p><p>C’est un rouge d’une grande concentration, aux fruits noirs mûrs, aux notes épicées et grillées et aux tanins denses mais ronds, qui associe la richesse du merlot à la structure du cabernet. Il peut se garder de nombreuses années.</p>",
+    "it": "<p><strong>Oreno</strong> è il vino simbolo della Tenuta Sette Ponti, la tenuta della famiglia Moretti sulle colline del Valdarno, tra Firenze e Arezzo. Come molti rossi toscani prodotti con vitigni internazionali, è commercializzato con l’indicazione geografica <strong>Toscana</strong>, che consente una libertà che le denominazioni classiche della regione non offrono.</p><p>Il vino assembla <strong>Merlot</strong>, <strong>Cabernet Sauvignon</strong> e <strong>Petit Verdot</strong> delle vigne della tenuta, in proporzioni che variano secondo l’annata. Ogni vitigno è vendemmiato a mano e vinificato separatamente, e il vino affina in barrique di rovere francese prima dell’assemblaggio finale e di un periodo di riposo in bottiglia.</p><p>È un rosso di grande concentrazione, di frutta nera matura, note speziate e tostate e tannini densi ma rotondi, che unisce la ricchezza del Merlot alla struttura del Cabernet. Può essere conservato per molti anni.</p>"
+  },
+  "tasting": {
+    "es": "Rojo muy oscuro. Aromas de ciruela, mora, casis, especias y notas tostadas. Boca densa y redonda, de taninos maduros y final largo.",
+    "en": "Very dark red. Aromas of plum, blackberry, blackcurrant, spice and toasty notes. Dense, round palate with ripe tannins and a long finish.",
+    "fr": "Rouge très sombre. Arômes de prune, de mûre, de cassis, d’épices et notes grillées. Bouche dense et ronde, aux tanins mûrs et à la finale longue.",
+    "it": "Rosso molto scuro. Aromi di prugna, mora, ribes nero, spezie e note tostate. Bocca densa e rotonda, dai tannini maturi e dal finale lungo."
+  },
+  "pairing": {
+    "es": "Bistec a la florentina, cordero, caza, quesos curados",
+    "en": "Bistecca alla fiorentina, lamb, game, aged cheeses",
+    "fr": "Bistecca alla fiorentina, agneau, gibier, fromages affinés",
+    "it": "Bistecca alla fiorentina, agnello, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "17-18 °C, decantado, copa de Burdeos",
+    "en": "17-18 °C, decanted, Bordeaux glass",
+    "fr": "17-18 °C, carafé, verre de Bordeaux",
+    "it": "17-18 °C, decantato, calice da Bordeaux"
+  },
+  "search": "Oreno Tenuta Sette Ponti"
+}

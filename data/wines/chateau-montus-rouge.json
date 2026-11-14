@@ -1,0 +1,48 @@
+{
+  "slug": "chateau-montus-rouge",
+  "name": "Château Montus",
+  "winery": "chateau-montus",
+  "region": "madiran",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Madiran",
+    "en": "Madiran",
+    "fr": "Madiran",
+    "it": "Madiran"
+  },
+  "grapes": [
+    "tannat"
+  ],
+  "summary": {
+    "es": "El Madiran tinto de Château Montus, la propiedad de Alain Brumont, un Tannat potente con crianza en barrica que se convirtió en referencia de la denominación.",
+    "en": "The red Madiran of Château Montus, Alain Brumont’s estate, a powerful barrel-aged Tannat that became a benchmark for the appellation.",
+    "fr": "Le madiran rouge du château Montus, la propriété d’Alain Brumont, un tannat puissant élevé en barrique devenu une référence de l’appellation.",
+    "it": "Il Madiran rosso di Château Montus, la proprietà di Alain Brumont, un Tannat potente affinato in barrique diventato un riferimento della denominazione."
+  },
+  "body": {
+    "es": "<p>El tinto de Château Montus es el vino principal de la propiedad que Alain Brumont adquirió en 1980 en <strong>Madiran</strong>, en el suroeste de Francia. Junto a los vinos de Bouscassé, simbolizó la renovación de una denominación que hasta entonces tenía una imagen rústica.</p><p>Se elabora mayoritariamente con <strong>Tannat</strong>, la variedad emblemática de Madiran, a la que puede añadirse una pequeña proporción de otras uvas autorizadas, como el Cabernet Sauvignon, según la añada. El viñedo se asienta en laderas de cantos rodados sobre arcillas, que favorecen una maduración completa y ayudan a domar el carácter tánico de la uva.</p><p>Las uvas se vendimian muy maduras y el vino se cría durante un largo periodo en barricas de roble, en buena parte nuevas. El resultado es un tinto oscuro, concentrado y estructurado, con fruta negra y notas especiadas y tostadas, que agradece varios años de botella o una decantación prolongada en su juventud.</p>",
+    "en": "<p>Château Montus red is the main wine of the estate Alain Brumont bought in 1980 in <strong>Madiran</strong>, south-west France. Together with the Bouscassé wines, it symbolised the renewal of an appellation that until then had a rustic image.</p><p>It is made mainly from <strong>Tannat</strong>, Madiran’s emblematic variety, to which a small proportion of other permitted grapes, such as Cabernet Sauvignon, may be added depending on the vintage. The vineyard lies on slopes of rounded pebbles over clay, which favour full ripening and help tame the grape’s tannic character.</p><p>The grapes are picked very ripe and the wine is aged for a long period in oak barrels, many of them new. The result is a dark, concentrated and structured red with black fruit and spicy, toasty notes, which benefits from several years in bottle or long decanting when young.</p>",
+    "fr": "<p>Le château Montus rouge est le vin principal de la propriété qu’Alain Brumont a acquise en 1980 à <strong>Madiran</strong>, dans le Sud-Ouest. Avec les vins de Bouscassé, il a symbolisé le renouveau d’une appellation qui avait jusque-là une image rustique.</p><p>Il est élaboré majoritairement à partir de <strong>tannat</strong>, le cépage emblématique de Madiran, auquel peut s’ajouter une petite proportion d’autres cépages autorisés, comme le cabernet sauvignon, selon le millésime. Le vignoble repose sur des coteaux de galets roulés sur argiles, qui favorisent une maturation complète et aident à dompter le caractère tannique du raisin.</p><p>Les raisins sont vendangés très mûrs et le vin est élevé longuement en barriques de chêne, en bonne partie neuves. Il en résulte un rouge sombre, concentré et structuré, au fruit noir et aux notes épicées et grillées, qui gagne à vieillir plusieurs années en bouteille ou à être longuement carafé dans sa jeunesse.</p>",
+    "it": "<p>Il Château Montus rosso è il vino principale della proprietà che Alain Brumont acquistò nel 1980 a <strong>Madiran</strong>, nel sud-ovest della Francia. Insieme ai vini di Bouscassé, ha simboleggiato il rinnovamento di una denominazione che fino ad allora aveva un’immagine rustica.</p><p>È prodotto in prevalenza con <strong>Tannat</strong>, il vitigno simbolo di Madiran, cui può aggiungersi una piccola quota di altre uve autorizzate, come il Cabernet Sauvignon, secondo l’annata. Il vigneto poggia su pendii di ciottoli arrotondati su argille, che favoriscono una maturazione completa e aiutano a domare il carattere tannico dell’uva.</p><p>Le uve sono vendemmiate molto mature e il vino affina a lungo in barrique di rovere, in buona parte nuove. Il risultato è un rosso scuro, concentrato e strutturato, con frutto nero e note speziate e tostate, che trae beneficio da diversi anni di bottiglia o da una lunga decantazione da giovane.</p>"
+  },
+  "tasting": {
+    "es": "Púrpura muy oscuro. Aromas de mora, casis, regaliz, especias y tostado. Boca potente, de taninos firmes y final persistente.",
+    "en": "Very dark purple. Aromas of blackberry, blackcurrant, liquorice, spice and toast. Powerful palate with firm tannins and a persistent finish.",
+    "fr": "Pourpre très sombre. Arômes de mûre, de cassis, de réglisse, d’épices et de grillé. Bouche puissante, aux tanins fermes et à la finale persistante.",
+    "it": "Porpora molto scuro. Aromi di mora, ribes nero, liquirizia, spezie e tostatura. Bocca potente, dai tannini decisi e dal finale persistente."
+  },
+  "pairing": {
+    "es": "Confit de pato, cassoulet, carnes rojas a la brasa, quesos de oveja",
+    "en": "Duck confit, cassoulet, chargrilled red meat, sheep’s cheeses",
+    "fr": "Confit de canard, cassoulet, viandes rouges à la braise, fromages de brebis",
+    "it": "Confit d’anatra, cassoulet, carni rosse alla brace, formaggi di pecora"
+  },
+  "serve": {
+    "es": "17-18 °C, copa amplia; decantar",
+    "en": "17-18 °C, large glass; decant",
+    "fr": "17-18 °C, grand verre ; carafer",
+    "it": "17-18 °C, calice ampio; decantare"
+  },
+  "search": "Château Montus Madiran rouge Brumont"
+}

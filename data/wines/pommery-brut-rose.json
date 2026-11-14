@@ -1,0 +1,50 @@
+{
+  "slug": "pommery-brut-rose",
+  "name": "Pommery Brut Rosé",
+  "winery": "pommery",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut Rosé",
+    "en": "Brut Rosé",
+    "fr": "Brut Rosé",
+    "it": "Brut Rosé"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir",
+    "pinot-meunier"
+  ],
+  "summary": {
+    "es": "Champagne rosado brut sin añada de la casa Pommery de Reims, de estilo fresco y afrutado.",
+    "en": "Non-vintage brut rosé Champagne from the Reims house of Pommery, fresh and fruity in style.",
+    "fr": "Champagne rosé brut non millésimé de la maison Pommery de Reims, au style frais et fruité.",
+    "it": "Champagne rosato brut senza annata della maison Pommery di Reims, dallo stile fresco e fruttato."
+  },
+  "body": {
+    "es": "<p>El Brut Rosé es el champagne rosado sin añada de <strong>Pommery</strong>, la casa fundada en Reims en 1858 y asociada a Madame Pommery, pionera del champagne de estilo brut. Comparte con el Brut Royal, el champagne clásico de la casa, un estilo orientado a la frescura y la finura.</p><p>Se elabora con las tres grandes variedades de la región, <strong>Chardonnay</strong>, <strong>Pinot Noir</strong> y <strong>Pinot Meunier</strong>, procedentes de distintos pueblos de Champagne. Su color se obtiene, como en la mayoría de los rosados de la región, añadiendo una pequeña proporción de vino tinto al ensamblaje. Tras la segunda fermentación en botella, reposa sobre lías en las bodegas de la casa en Reims antes del degüelle.</p><p>Es un rosado de color pálido, con aromas de frutos rojos y una boca viva y ligera, de burbuja fina. Es ideal como aperitivo o para acompañar platos delicados.</p>",
+    "en": "<p>Brut Rosé is the non-vintage rosé Champagne of <strong>Pommery</strong>, the house founded in Reims in 1858 and associated with Madame Pommery, a pioneer of brut-style Champagne. It shares with Brut Royal, the house's classic Champagne, a style geared towards freshness and finesse.</p><p>It is made from the region's three great varieties, <strong>Chardonnay</strong>, <strong>Pinot Noir</strong> and <strong>Pinot Meunier</strong>, from various villages in Champagne. Its colour is obtained, as with most of the region's rosés, by adding a small proportion of red wine to the blend. After the second fermentation in bottle, it rests on its lees in the house's Reims cellars before disgorgement.</p><p>It is a pale-coloured rosé with aromas of red berries and a lively, light palate with fine bubbles. It is ideal as an aperitif or with delicate dishes.</p>",
+    "fr": "<p>Le Brut Rosé est le champagne rosé non millésimé de <strong>Pommery</strong>, la maison fondée à Reims en 1858 et associée à Madame Pommery, pionnière du champagne brut. Il partage avec le Brut Royal, le champagne classique de la maison, un style tourné vers la fraîcheur et la finesse.</p><p>Il est élaboré à partir des trois grands cépages de la région, <strong>chardonnay</strong>, <strong>pinot noir</strong> et <strong>pinot meunier</strong>, issus de différents villages de Champagne. Sa couleur s'obtient, comme pour la plupart des rosés de la région, par l'ajout d'une petite proportion de vin rouge à l'assemblage. Après la seconde fermentation en bouteille, il repose sur lies dans les caves de la maison à Reims avant le dégorgement.</p><p>C'est un rosé à la robe pâle, aux arômes de fruits rouges et à la bouche vive et légère, à la bulle fine. Il est idéal à l'apéritif ou avec des plats délicats.</p>",
+    "it": "<p>Il Brut Rosé è lo champagne rosato senza annata di <strong>Pommery</strong>, la maison fondata a Reims nel 1858 e associata a Madame Pommery, pioniera dello champagne in stile brut. Condivide con il Brut Royal, lo champagne classico della casa, uno stile orientato alla freschezza e alla finezza.</p><p>È prodotto con le tre grandi varietà della regione, <strong>Chardonnay</strong>, <strong>Pinot Noir</strong> e <strong>Pinot Meunier</strong>, provenienti da diversi villaggi della Champagne. Il colore si ottiene, come per la maggior parte dei rosati della regione, aggiungendo una piccola quota di vino rosso all'assemblaggio. Dopo la seconda fermentazione in bottiglia, riposa sui lieviti nelle cantine della maison a Reims prima della sboccatura.</p><p>È un rosato dal colore tenue, con aromi di frutti rossi e una bocca vivace e leggera, dal perlage fine. È ideale come aperitivo o con piatti delicati.</p>"
+  },
+  "tasting": {
+    "es": "Rosa pálido. Aromas de fresa, frambuesa, grosella y notas cítricas. Boca fresca y ligera, de burbuja fina y final limpio.",
+    "en": "Pale pink. Aromas of strawberry, raspberry, redcurrant and citrus notes. Fresh, light palate with fine bubbles and a clean finish.",
+    "fr": "Rose pâle. Arômes de fraise, de framboise, de groseille et notes d'agrumes. Bouche fraîche et légère, bulle fine et finale nette.",
+    "it": "Rosa tenue. Aromi di fragola, lampone, ribes rosso e note agrumate. Bocca fresca e leggera, dal perlage fine e dal finale pulito."
+  },
+  "pairing": {
+    "es": "Aperitivo, salmón, sushi, marisco, postres de frutos rojos",
+    "en": "Aperitif, salmon, sushi, shellfish, red fruit desserts",
+    "fr": "Apéritif, saumon, sushis, fruits de mer, desserts aux fruits rouges",
+    "it": "Aperitivo, salmone, sushi, frutti di mare, dessert ai frutti rossi"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco o tulipa",
+    "en": "8-10 °C, white wine glass or tulip",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da bianco o tulipano"
+  },
+  "search": "Champagne Pommery Brut Rosé"
+}

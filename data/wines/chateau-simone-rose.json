@@ -1,0 +1,50 @@
+{
+  "slug": "chateau-simone-rose",
+  "name": "Château Simone Rosé",
+  "winery": "chateau-simone",
+  "region": "provence",
+  "country": "francia",
+  "type": "rosado",
+  "category": {
+    "es": "Palette",
+    "en": "Palette",
+    "fr": "Palette",
+    "it": "Palette"
+  },
+  "grapes": [
+    "garnacha",
+    "monastrell",
+    "cinsault"
+  ],
+  "summary": {
+    "es": "Rosado de la denominación Palette elaborado por Château Simone, de estilo gastronómico y con capacidad de guarda.",
+    "en": "Rosé from the Palette appellation made by Château Simone, food-oriented in style and able to age.",
+    "fr": "Rosé de l'appellation Palette élaboré par Château Simone, de style gastronomique et apte à la garde.",
+    "it": "Rosato della denominazione Palette prodotto da Château Simone, di stile gastronomico e capace di invecchiare."
+  },
+  "body": {
+    "es": "<p>En una región como la Provenza, donde el rosado suele ser un vino ligero para beber en el año, el de Château Simone ocupa un lugar aparte. Procede de las laderas calizas de <strong>Palette</strong>, junto a Aix-en-Provence, y se elabora con el mismo cuidado que los tintos y blancos de la casa.</p><p>Se basa en variedades tintas tradicionales de la finca, como la <strong>Garnacha</strong>, la <strong>Mourvèdre</strong> y la <strong>Cinsault</strong>, de viñas viejas que mezclan diversas cepas. A diferencia de muchos rosados provenzales, pasa un tiempo en madera en las bodegas excavadas en la roca bajo la casa, lo que le da más textura y estructura.</p><p>Es un rosado de color más intenso que la media de la región, con fruta roja, notas especiadas y una boca sabrosa y fresca. Se presta a la mesa y puede evolucionar algunos años en botella.</p>",
+    "en": "<p>In a region like Provence, where rosé is usually a light wine to drink within the year, that of Château Simone stands apart. It comes from the limestone slopes of <strong>Palette</strong>, near Aix-en-Provence, and is made with the same care as the house's reds and whites.</p><p>It is based on the estate's traditional red varieties, such as <strong>Grenache</strong>, <strong>Mourvèdre</strong> and <strong>Cinsault</strong>, from old vineyards that mix various vines. Unlike many Provence rosés, it spends some time in wood in the cellars cut into the rock beneath the house, which gives it more texture and structure.</p><p>It is a rosé of deeper colour than the regional average, with red fruit, spicy notes and a savoury, fresh palate. It lends itself to the table and can develop for a few years in bottle.</p>",
+    "fr": "<p>Dans une région comme la Provence, où le rosé est souvent un vin léger à boire dans l'année, celui de Château Simone occupe une place à part. Il provient des coteaux calcaires de <strong>Palette</strong>, près d'Aix-en-Provence, et il est élaboré avec le même soin que les rouges et les blancs de la maison.</p><p>Il repose sur les cépages rouges traditionnels du domaine, comme le <strong>grenache</strong>, le <strong>mourvèdre</strong> et le <strong>cinsault</strong>, issus de vieilles vignes complantées de diverses variétés. Contrairement à beaucoup de rosés provençaux, il passe un temps sous bois dans les caves creusées dans le rocher sous la demeure, ce qui lui donne davantage de texture et de structure.</p><p>C'est un rosé à la couleur plus soutenue que la moyenne régionale, aux fruits rouges, aux notes épicées et à la bouche savoureuse et fraîche. Il se prête à la table et peut évoluer quelques années en bouteille.</p>",
+    "it": "<p>In una regione come la Provenza, dove il rosato è di solito un vino leggero da bere entro l'anno, quello di Château Simone occupa un posto a sé. Proviene dai pendii calcarei di <strong>Palette</strong>, vicino ad Aix-en-Provence, ed è prodotto con la stessa cura dei rossi e dei bianchi della casa.</p><p>Si basa sulle varietà rosse tradizionali della tenuta, come <strong>Grenache</strong>, <strong>Mourvèdre</strong> e <strong>Cinsault</strong>, da vecchie vigne che mescolano ceppi diversi. A differenza di molti rosati provenzali, trascorre un periodo in legno nelle cantine scavate nella roccia sotto la casa, il che gli dà più tessitura e struttura.</p><p>È un rosato dal colore più intenso della media regionale, con frutta rossa, note speziate e una bocca saporita e fresca. Si presta alla tavola e può evolvere alcuni anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rosa salmón intenso. Aromas de frutos rojos, piel de naranja, especias y hierbas secas. Boca sabrosa y fresca, con buena estructura.",
+    "en": "Deep salmon pink. Aromas of red berries, orange peel, spice and dried herbs. Savoury, fresh palate with good structure.",
+    "fr": "Rose saumon soutenu. Arômes de fruits rouges, d'écorce d'orange, d'épices et d'herbes sèches. Bouche savoureuse et fraîche, bien structurée.",
+    "it": "Rosa salmone intenso. Aromi di frutti rossi, scorza d'arancia, spezie ed erbe secche. Bocca saporita e fresca, di buona struttura."
+  },
+  "pairing": {
+    "es": "Cocina provenzal, pescados a la brasa, aves, tajines",
+    "en": "Provençal cuisine, grilled fish, poultry, tagines",
+    "fr": "Cuisine provençale, poissons grillés, volailles, tajines",
+    "it": "Cucina provenzale, pesce alla brace, pollame, tajine"
+  },
+  "serve": {
+    "es": "11-13 °C, copa de vino",
+    "en": "11-13 °C, wine glass",
+    "fr": "11-13 °C, verre à vin",
+    "it": "11-13 °C, calice da vino"
+  },
+  "search": "Château Simone Rosé Palette"
+}

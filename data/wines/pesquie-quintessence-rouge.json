@@ -1,0 +1,49 @@
+{
+  "slug": "pesquie-quintessence-rouge",
+  "name": "Quintessence Rouge",
+  "winery": "chateau-pesquie",
+  "region": "cotes-du-rhone",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "AOC Ventoux",
+    "en": "AOC Ventoux",
+    "fr": "AOC Ventoux",
+    "it": "AOC Ventoux"
+  },
+  "grapes": [
+    "syrah",
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Tinto del Château Pesquié a base de Syrah y Garnacha de viñas viejas, una de las cuvées emblemáticas de la finca.",
+    "en": "Red from Château Pesquié based on old-vine Syrah and Grenache, one of the estate’s signature cuvées.",
+    "fr": "Rouge du Château Pesquié à base de syrah et de grenache de vieilles vignes, l’une des cuvées emblématiques du domaine.",
+    "it": "Rosso del Château Pesquié a base di Syrah e Grenache di vecchie vigne, una delle cuvée simbolo della tenuta."
+  },
+  "body": {
+    "es": "<p>El <strong>Château Pesquié</strong> se encuentra en Mormoiron, en las laderas meridionales del monte Ventoux, en el extremo oriental de los vinos del Ródano meridional. La denominación <strong>Ventoux</strong> se beneficia de la influencia de la montaña: la altitud provoca noches frescas y fuertes contrastes de temperatura entre el día y la noche, que ayudan a conservar la acidez y los aromas de la uva bajo el sol mediterráneo. La finca pertenece a la familia Chaudière, que la dirige desde hace varias décadas.</p><p><strong>Quintessence</strong> es una de las cuvées que dieron a conocer al Château Pesquié fuera de la región. El tinto se basa en la <strong>Syrah</strong>, con un complemento de <strong>Garnacha</strong>, procedentes de viñas viejas de la finca, y se cría en parte en barrica. Es un vino de buena concentración y estructura, con la fruta negra y las notas especiadas de la Syrah, que puede guardarse varios años.</p>",
+    "en": "<p><strong>Château Pesquié</strong> is in Mormoiron, on the southern slopes of Mont Ventoux, at the eastern edge of the southern Rhône wine area. The <strong>Ventoux</strong> appellation benefits from the influence of the mountain: altitude brings cool nights and sharp temperature contrasts between day and night, which help preserve the acidity and aromas of the grapes under the Mediterranean sun. The estate belongs to the Chaudière family, who have run it for several decades.</p><p><strong>Quintessence</strong> is one of the cuvées that made Château Pesquié known beyond the region. The red is based on <strong>Syrah</strong>, complemented by <strong>Grenache</strong>, from old vines on the estate, and is partly aged in barrel. It is a wine of good concentration and structure, with the black fruit and spicy notes of Syrah, and it can be kept for several years.</p>",
+    "fr": "<p>Le <strong>Château Pesquié</strong> se trouve à Mormoiron, sur les pentes méridionales du mont Ventoux, à l’extrémité orientale des vins du Rhône méridional. L’appellation <strong>Ventoux</strong> bénéficie de l’influence de la montagne : l’altitude apporte des nuits fraîches et de forts écarts de température entre le jour et la nuit, qui aident à préserver l’acidité et les arômes du raisin sous le soleil méditerranéen. Le domaine appartient à la famille Chaudière, qui le dirige depuis plusieurs décennies.</p><p><strong>Quintessence</strong> est l’une des cuvées qui ont fait connaître le Château Pesquié au-delà de sa région. Ce rouge repose sur la <strong>syrah</strong>, complétée par du <strong>grenache</strong>, issus de vieilles vignes du domaine, et il est élevé en partie en fût. C’est un vin bien concentré et structuré, aux fruits noirs et aux notes épicées de la syrah, qui peut se garder plusieurs années.</p>",
+    "it": "<p>Il <strong>Château Pesquié</strong> si trova a Mormoiron, sulle pendici meridionali del Mont Ventoux, all’estremità orientale dei vini del Rodano meridionale. La denominazione <strong>Ventoux</strong> beneficia dell’influenza della montagna: l’altitudine porta notti fresche e forti escursioni termiche tra giorno e notte, che aiutano a preservare l’acidità e i profumi dell’uva sotto il sole mediterraneo. La tenuta appartiene alla famiglia Chaudière, che la guida da diversi decenni.</p><p><strong>Quintessence</strong> è una delle cuvée che hanno fatto conoscere il Château Pesquié fuori dalla regione. Il rosso si basa sulla <strong>Syrah</strong>, completata dalla <strong>Grenache</strong>, da vecchie vigne della tenuta, ed è affinato in parte in barrique. È un vino di buona concentrazione e struttura, con il frutto nero e le note speziate della Syrah, che può essere conservato per diversi anni.</p>"
+  },
+  "tasting": {
+    "es": "Rojo oscuro. Aromas de mora, cereza negra, pimienta y garriga. Boca amplia y firme, con final especiado.",
+    "en": "Dark red. Aromas of blackberry, black cherry, pepper and garrigue. Broad, firm palate with a spicy finish.",
+    "fr": "Rouge sombre. Arômes de mûre, de cerise noire, de poivre et de garrigue. Bouche ample et ferme, à la finale épicée.",
+    "it": "Rosso scuro. Aromi di mora, ciliegia nera, pepe e macchia mediterranea. Bocca ampia e ferma, con finale speziato."
+  },
+  "pairing": {
+    "es": "Carnes a la brasa, cordero, guisos provenzales, quesos curados",
+    "en": "Grilled meats, lamb, Provençal stews, aged cheeses",
+    "fr": "Viandes grillées, agneau, daubes provençales, fromages affinés",
+    "it": "Carni alla brace, agnello, stufati provenzali, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Quintessence rouge Château Pesquié Ventoux"
+}

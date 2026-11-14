@@ -1,0 +1,48 @@
+{
+  "slug": "janasse-chateauneuf-du-pape-vieilles-vignes",
+  "name": "Châteauneuf-du-Pape Vieilles Vignes",
+  "winery": "domaine-de-la-janasse",
+  "region": "chateauneuf-du-pape",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "AOC Châteauneuf-du-Pape",
+    "en": "AOC Châteauneuf-du-Pape",
+    "fr": "AOC Châteauneuf-du-Pape",
+    "it": "AOC Châteauneuf-du-Pape"
+  },
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Selección de viñas viejas del Domaine de la Janasse, el Châteauneuf-du-Pape más concentrado de la casa.",
+    "en": "Old-vine selection from Domaine de la Janasse, the estate’s most concentrated Châteauneuf-du-Pape.",
+    "fr": "Sélection de vieilles vignes du Domaine de la Janasse, le châteauneuf-du-pape le plus concentré de la maison.",
+    "it": "Selezione di vecchie vigne del Domaine de la Janasse, lo Châteauneuf-du-Pape più concentrato della casa."
+  },
+  "body": {
+    "es": "<p>El <strong>Domaine de la Janasse</strong>, fundado en 1973 por Aimé Sabon y dirigido hoy por sus hijos Christophe e Isabelle, tiene su sede en Courthézon, en el sector nororiental de Châteauneuf-du-Pape. La familia cultiva numerosas parcelas en esta denominación y en sus alrededores, sobre suelos que van de los cantos rodados a las arenas y las arcillas.</p><p>La cuvée <strong>Vieilles Vignes</strong> reúne la uva de las cepas más antiguas de la finca, repartidas por distintas parcelas de la denominación. La <strong>Garnacha</strong> es claramente mayoritaria, completada por otras variedades autorizadas como la Syrah o el Mourvèdre. Las viñas viejas, de rendimientos naturalmente bajos, dan un vino de gran concentración, que se cría en madera. Es un tinto potente y profundo, pensado para una larga guarda. Conviene decantarlo si se abre joven; recompensa la paciencia con notas de cuero y hierbas secas.</p>",
+    "en": "<p><strong>Domaine de la Janasse</strong>, founded in 1973 by Aimé Sabon and now run by his children Christophe and Isabelle, is based in Courthézon, in the north-eastern sector of Châteauneuf-du-Pape. The family farms many plots in this appellation and the surrounding area, on soils ranging from rounded pebbles to sands and clays.</p><p>The <strong>Vieilles Vignes</strong> cuvée brings together grapes from the estate’s oldest vines, spread across different plots of the appellation. <strong>Grenache</strong> is clearly dominant, complemented by other permitted varieties such as Syrah or Mourvèdre. The old vines, with naturally low yields, give a wine of great concentration, which is aged in wood. It is a powerful, deep red intended for long cellaring. It is worth decanting if opened young, and it rewards patience with notes of leather and dried herbs.</p>",
+    "fr": "<p>Le <strong>Domaine de la Janasse</strong>, fondé en 1973 par Aimé Sabon et dirigé aujourd’hui par ses enfants Christophe et Isabelle, est installé à Courthézon, dans le secteur nord-est de Châteauneuf-du-Pape. La famille cultive de nombreuses parcelles dans cette appellation et alentour, sur des sols allant des galets roulés aux sables et aux argiles.</p><p>La cuvée <strong>Vieilles Vignes</strong> réunit les raisins des ceps les plus anciens du domaine, répartis sur différentes parcelles de l’appellation. Le <strong>grenache</strong> y est nettement majoritaire, complété par d’autres cépages autorisés comme la syrah ou le mourvèdre. Les vieilles vignes, aux rendements naturellement faibles, donnent un vin d’une grande concentration, élevé sous bois. C’est un rouge puissant et profond, conçu pour une longue garde. Mieux vaut le carafer s’il est ouvert jeune ; il récompense la patience par des notes de cuir et d’herbes sèches.</p>",
+    "it": "<p>Il <strong>Domaine de la Janasse</strong>, fondato nel 1973 da Aimé Sabon e oggi guidato dai figli Christophe e Isabelle, ha sede a Courthézon, nel settore nord-orientale di Châteauneuf-du-Pape. La famiglia coltiva numerose parcelle in questa denominazione e nei dintorni, su suoli che vanno dai ciottoli arrotondati alle sabbie e alle argille.</p><p>La cuvée <strong>Vieilles Vignes</strong> riunisce le uve dei ceppi più vecchi della tenuta, distribuiti in diverse parcelle della denominazione. La <strong>Grenache</strong> è nettamente maggioritaria, completata da altri vitigni ammessi come Syrah o Mourvèdre. Le vecchie vigne, dalle rese naturalmente basse, danno un vino di grande concentrazione, affinato in legno. È un rosso potente e profondo, pensato per un lungo invecchiamento. Conviene decantarlo se aperto giovane; ripaga la pazienza con note di cuoio ed erbe secche.</p>"
+  },
+  "tasting": {
+    "es": "Rojo muy oscuro. Aromas de fruta negra confitada, regaliz, especias y garriga. Boca densa y potente, de taninos maduros y final largo.",
+    "en": "Very dark red. Aromas of candied black fruit, liquorice, spice and garrigue. Dense, powerful palate with ripe tannins and a long finish.",
+    "fr": "Rouge très sombre. Arômes de fruits noirs confits, de réglisse, d’épices et de garrigue. Bouche dense et puissante, aux tanins mûrs et à la finale longue.",
+    "it": "Rosso molto scuro. Aromi di frutta nera candita, liquirizia, spezie e macchia mediterranea. Bocca densa e potente, dai tannini maturi e dal finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero, caza, guisos de ternera, setas, quesos curados",
+    "en": "Lamb, game, beef stews, mushrooms, aged cheeses",
+    "fr": "Agneau, gibier, daubes de bœuf, champignons, fromages affinés",
+    "it": "Agnello, selvaggina, stufati di manzo, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Châteauneuf-du-Pape Vieilles Vignes Domaine de la Janasse"
+}

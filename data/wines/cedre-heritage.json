@@ -1,0 +1,48 @@
+{
+  "slug": "cedre-heritage",
+  "name": "Château du Cèdre Cèdre Héritage",
+  "winery": "chateau-du-cedre",
+  "region": "cahors",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Cahors",
+    "en": "Cahors",
+    "fr": "Cahors",
+    "it": "Cahors"
+  },
+  "grapes": [
+    "malbec"
+  ],
+  "summary": {
+    "es": "El Cahors de entrada del Château du Cèdre, un tinto basado en la Malbec, afrutado y más accesible en su juventud.",
+    "en": "Château du Cèdre’s entry-level Cahors, a Malbec-based red, fruity and more approachable in its youth.",
+    "fr": "Le cahors d’entrée de gamme du Château du Cèdre, un rouge à base de malbec, fruité et plus accessible dans sa jeunesse.",
+    "it": "Il Cahors d’ingresso del Château du Cèdre, un rosso a base di Malbec, fruttato e più accessibile da giovane."
+  },
+  "body": {
+    "es": "<p>La denominación Cahors, en el suroeste de Francia, exige que sus tintos se elaboren mayoritariamente con <strong>Malbec</strong>, la variedad histórica de la zona, que puede completarse con pequeñas proporciones de Merlot y Tannat. Junto a los vinos de larga guarda, muchos productores elaboran Cahors más afrutados, pensados para disfrutar antes.</p><p><em>Cèdre Héritage</em> cumple ese papel en la gama del Château du Cèdre, la propiedad de la familia Verhaeghe en Vire-sur-Lot. Basado en la Malbec y procedente de viñedos cultivados en ecológico, se elabora buscando la fruta y la suavidad de los taninos, con una crianza menos marcada que la de las grandes cuvées de la casa.</p><p>Es un tinto de cuerpo medio, de color intenso, con fruta negra jugosa y notas especiadas. Ofrece una buena introducción al estilo de Cahors y puede beberse en sus primeros años, acompañando la cocina tradicional del suroeste.</p>",
+    "en": "<p>The Cahors appellation, in south-west France, requires its reds to be made mainly from <strong>Malbec</strong>, the area’s historic variety, which may be completed with small proportions of Merlot and Tannat. Alongside wines for long ageing, many producers make fruitier Cahors intended to be enjoyed sooner.</p><p><em>Cèdre Héritage</em> plays that role in the range of Château du Cèdre, the Verhaeghe family property in Vire-sur-Lot. Malbec-based and from organically farmed vineyards, it is made to emphasise fruit and soft tannins, with less pronounced ageing than the house’s great cuvées.</p><p>It is a medium-bodied red of intense colour, with juicy black fruit and spicy notes. It offers a good introduction to the Cahors style and can be drunk in its first few years, alongside the traditional cooking of south-west France.</p>",
+    "fr": "<p>L’appellation Cahors, dans le Sud-Ouest de la France, impose que ses rouges soient majoritairement issus de <strong>malbec</strong>, le cépage historique du secteur, qui peut être complété par de petites proportions de merlot et de tannat. À côté des vins de longue garde, de nombreux producteurs élaborent des cahors plus fruités, conçus pour être appréciés plus tôt.</p><p><em>Cèdre Héritage</em> joue ce rôle dans la gamme du Château du Cèdre, la propriété de la famille Verhaeghe à Vire-sur-Lot. À base de malbec et issu de vignes conduites en bio, il est élaboré en privilégiant le fruit et la souplesse des tanins, avec un élevage moins marqué que celui des grandes cuvées de la maison.</p><p>C’est un rouge de corps moyen, à la couleur intense, aux fruits noirs juteux et aux notes épicées. Il offre une bonne introduction au style de Cahors et peut se boire dans ses premières années, avec la cuisine traditionnelle du Sud-Ouest.</p>",
+    "it": "<p>La denominazione Cahors, nel sud-ovest della Francia, richiede che i rossi siano ottenuti in prevalenza da <strong>Malbec</strong>, il vitigno storico della zona, che può essere completato da piccole quote di Merlot e Tannat. Accanto ai vini da lungo invecchiamento, molti produttori elaborano Cahors più fruttati, pensati per essere bevuti prima.</p><p><em>Cèdre Héritage</em> svolge questo ruolo nella gamma del Château du Cèdre, la proprietà della famiglia Verhaeghe a Vire-sur-Lot. A base di Malbec e proveniente da vigneti coltivati in biologico, è prodotto privilegiando il frutto e la morbidezza dei tannini, con un affinamento meno marcato rispetto alle grandi cuvée della casa.</p><p>È un rosso di medio corpo, dal colore intenso, con frutti neri succosi e note speziate. Offre una buona introduzione allo stile di Cahors e si può bere nei primi anni, con la cucina tradizionale del sud-ovest francese.</p>"
+  },
+  "tasting": {
+    "es": "Púrpura intenso. Aromas de ciruela, mora, violeta y especias. Boca jugosa, de taninos suaves y final afrutado.",
+    "en": "Intense purple. Aromas of plum, blackberry, violet and spice. Juicy palate with soft tannins and a fruity finish.",
+    "fr": "Pourpre intense. Arômes de prune, de mûre, de violette et d’épices. Bouche juteuse, aux tanins souples et à la finale fruitée.",
+    "it": "Porpora intenso. Aromi di prugna, mora, violetta e spezie. Bocca succosa, dai tannini morbidi e finale fruttato."
+  },
+  "pairing": {
+    "es": "Magret de pato, embutidos, carnes a la parrilla, quesos de oveja",
+    "en": "Duck breast, charcuterie, grilled meat, sheep’s cheese",
+    "fr": "Magret de canard, charcuterie, viandes grillées, fromages de brebis",
+    "it": "Petto d’anatra, salumi, carni alla griglia, formaggi di pecora"
+  },
+  "serve": {
+    "es": "15-17 °C, copa de vino tinto",
+    "en": "15-17 °C, red wine glass",
+    "fr": "15-17 °C, verre à vin rouge",
+    "it": "15-17 °C, calice da vino rosso"
+  },
+  "search": "Cèdre Héritage Cahors Château du Cèdre"
+}

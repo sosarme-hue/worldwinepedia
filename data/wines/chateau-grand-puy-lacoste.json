@@ -1,0 +1,50 @@
+{
+  "slug": "chateau-grand-puy-lacoste",
+  "name": "Château Grand-Puy-Lacoste",
+  "winery": "chateau-grand-puy-lacoste",
+  "region": "pauillac",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "5º Gran Cru Clasificado",
+    "en": "5th Grand Cru Classé",
+    "fr": "5e Grand Cru Classé",
+    "it": "5° Grand Cru Classé"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Grand vin de Château Grand-Puy-Lacoste, quinto cru clasificado de Pauillac, un tinto clásico dominado por la Cabernet Sauvignon y de larga guarda.",
+    "en": "Grand vin of Château Grand-Puy-Lacoste, a fifth growth of Pauillac, a classic red dominated by Cabernet Sauvignon and built for long ageing.",
+    "fr": "Grand vin du Château Grand-Puy-Lacoste, cinquième cru classé de Pauillac, un rouge classique dominé par le cabernet sauvignon et de longue garde.",
+    "it": "Grand vin di Château Grand-Puy-Lacoste, quinto cru classé di Pauillac, un rosso classico dominato dal Cabernet Sauvignon e di lunga longevità."
+  },
+  "body": {
+    "es": "<p>El Château Grand-Puy-Lacoste es el vino principal de esta finca de Pauillac, clasificada como quinto gran cru en 1855 y propiedad de la familia Borie desde 1978.</p><p>Pauillac, en el Médoc, alberga tres de los primeros grandes crus de 1855 y es la denominación de referencia para la Cabernet Sauvignon de Burdeos, gracias a sus suelos de grava profunda y bien drenada junto al estuario de la Gironda.</p><p>Se elabora con una mezcla dominada claramente por la <strong>Cabernet Sauvignon</strong>, completada con Merlot y algo de Cabernet Franc, procedente del viñedo que rodea el château. Tras la vinificación por parcelas, se cría en barricas de roble francés, una parte nuevas. Es un tinto de estructura firme y perfil clásico, con fruta negra, notas de cedro y grafito y taninos que necesitan tiempo para pulirse. Gana mucha complejidad con los años en botella.</p>",
+    "en": "<p>Château Grand-Puy-Lacoste is the main wine of this Pauillac estate, classified as a fifth growth in 1855 and owned by the Borie family since 1978.</p><p>Pauillac, in the Médoc, is home to three of the 1855 first growths and is the reference appellation for Bordeaux Cabernet Sauvignon, thanks to its deep, well-drained gravel soils beside the Gironde estuary.</p><p>It is made from a blend clearly dominated by <strong>Cabernet Sauvignon</strong>, completed by Merlot and some Cabernet Franc, from the vineyard surrounding the château. After plot-by-plot vinification, it is aged in French oak barrels, partly new. It is a red with firm structure and a classic profile, with black fruit, cedar and graphite notes and tannins that need time to soften. It gains considerable complexity with years in bottle.</p>",
+    "fr": "<p>Le Château Grand-Puy-Lacoste est le vin principal de ce domaine de Pauillac, classé cinquième grand cru en 1855 et propriété de la famille Borie depuis 1978.</p><p>Pauillac, dans le Médoc, abrite trois des premiers grands crus de 1855 et constitue l’appellation de référence pour le cabernet sauvignon bordelais, grâce à ses sols de graves profondes et bien drainées au bord de l’estuaire de la Gironde.</p><p>Il est élaboré à partir d’un assemblage nettement dominé par le <strong>cabernet sauvignon</strong>, complété par du merlot et un peu de cabernet franc, issus du vignoble qui entoure le château. Après une vinification parcellaire, il est élevé en barriques de chêne français, en partie neuves. C’est un rouge à la structure ferme et au profil classique, aux fruits noirs, aux notes de cèdre et de graphite et aux tanins qui demandent du temps pour s’affiner. Il gagne beaucoup en complexité avec les années en bouteille.</p>",
+    "it": "<p>Il Château Grand-Puy-Lacoste è il vino principale di questa tenuta di Pauillac, classificata quinto grand cru nel 1855 e di proprietà della famiglia Borie dal 1978.</p><p>Pauillac, nel Médoc, ospita tre dei premiers grands crus del 1855 ed è la denominazione di riferimento per il Cabernet Sauvignon bordolese, grazie ai suoi suoli di ghiaia profonda e ben drenata lungo l’estuario della Gironda.</p><p>È prodotto con un uvaggio nettamente dominato dal <strong>Cabernet Sauvignon</strong>, completato da Merlot e da un po’ di Cabernet Franc, dal vigneto che circonda lo château. Dopo la vinificazione per parcelle, viene affinato in barrique di rovere francese, in parte nuove. È un rosso dalla struttura salda e dal profilo classico, con frutta nera, note di cedro e grafite e tannini che richiedono tempo per affinarsi. Acquista molta complessità con gli anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rubí oscuro. Aromas de cassis, mora, cedro, grafito y especias. Boca firme y profunda, de taninos sólidos y final largo.",
+    "en": "Dark ruby. Aromas of blackcurrant, blackberry, cedar, graphite and spice. Firm, deep palate with solid tannins and a long finish.",
+    "fr": "Rubis sombre. Arômes de cassis, de mûre, de cèdre, de graphite et d’épices. Bouche ferme et profonde, aux tanins solides, finale longue.",
+    "it": "Rubino scuro. Aromi di cassis, mora, cedro, grafite e spezie. Bocca salda e profonda, tannini solidi e finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes rojas, caza, quesos curados",
+    "en": "Roast lamb, red meat, game, aged cheeses",
+    "fr": "Agneau rôti, viandes rouges, gibier, fromages affinés",
+    "it": "Agnello arrosto, carni rosse, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Château Grand-Puy-Lacoste Pauillac"
+}

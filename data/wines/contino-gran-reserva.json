@@ -1,0 +1,49 @@
+{
+  "slug": "contino-gran-reserva",
+  "name": "Contino Gran Reserva",
+  "winery": "contino",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Gran Reserva",
+    "en": "Gran Reserva",
+    "fr": "Gran Reserva",
+    "it": "Gran Reserva"
+  },
+  "grapes": [
+    "tempranillo",
+    "graciano"
+  ],
+  "summary": {
+    "es": "Gran Reserva de Viñedos del Contino, elaborado solo en las mejores añadas con uva de la finca de Laserna.",
+    "en": "Gran Reserva from Viñedos del Contino, made only in the best vintages from grapes from the Laserna estate.",
+    "fr": "Gran Reserva de Viñedos del Contino, élaboré seulement lors des meilleurs millésimes avec des raisins du domaine de Laserna.",
+    "it": "Gran Reserva di Viñedos del Contino, prodotto solo nelle annate migliori con uve della tenuta di Laserna."
+  },
+  "body": {
+    "es": "<p>El Gran Reserva es el tinto de mayor crianza de Viñedos del Contino, la finca de la Rioja Alavesa creada en 1973 en asociación con CVNE. Solo se elabora en las añadas en que la uva reúne la calidad necesaria para soportar un envejecimiento largo.</p><p>Como el resto de los vinos de la casa, procede exclusivamente del viñedo que rodea la bodega en Laserna, en un meandro del Ebro. Se basa en el <strong>Tempranillo</strong>, acompañado de <strong>Graciano</strong> y otras variedades tradicionales. Según la normativa de Rioja, un Gran Reserva debe pasar al menos dos años en barrica y completar un largo periodo de envejecimiento antes de salir al mercado.</p><p>Es un tinto profundo y complejo, en el que la fruta madura se combina con notas de especias, cuero y tabaco. Su acidez y su estructura le permiten evolucionar durante muchos años en botella.</p>",
+    "en": "<p>The Gran Reserva is the longest-aged red of Viñedos del Contino, the Rioja Alavesa estate created in 1973 in partnership with CVNE. It is made only in vintages when the grapes have the quality needed to withstand long ageing.</p><p>Like the house's other wines, it comes exclusively from the vineyard surrounding the winery at Laserna, in a meander of the Ebro. It is based on <strong>Tempranillo</strong>, accompanied by <strong>Graciano</strong> and other traditional varieties. Under Rioja rules, a Gran Reserva must spend at least two years in barrel and complete a long period of ageing before release.</p><p>It is a deep, complex red in which ripe fruit combines with notes of spice, leather and tobacco. Its acidity and structure allow it to develop for many years in bottle.</p>",
+    "fr": "<p>Le Gran Reserva est le rouge le plus longuement élevé de Viñedos del Contino, le domaine de Rioja Alavesa créé en 1973 en association avec CVNE. Il n'est élaboré que lors des millésimes où le raisin possède la qualité nécessaire pour supporter un long vieillissement.</p><p>Comme les autres vins de la maison, il provient exclusivement du vignoble qui entoure la bodega à Laserna, dans un méandre de l'Èbre. Il repose sur le <strong>tempranillo</strong>, accompagné de <strong>graciano</strong> et d'autres cépages traditionnels. Selon la réglementation de la Rioja, un Gran Reserva doit passer au moins deux ans en barrique et accomplir une longue période de vieillissement avant sa mise en marché.</p><p>C'est un rouge profond et complexe, où le fruit mûr se mêle à des notes d'épices, de cuir et de tabac. Son acidité et sa structure lui permettent d'évoluer de nombreuses années en bouteille.</p>",
+    "it": "<p>Il Gran Reserva è il rosso più a lungo affinato di Viñedos del Contino, la tenuta della Rioja Alavesa creata nel 1973 in associazione con CVNE. Viene prodotto solo nelle annate in cui l'uva ha la qualità necessaria per sostenere un lungo invecchiamento.</p><p>Come gli altri vini della casa, proviene esclusivamente dal vigneto che circonda la cantina a Laserna, in un'ansa dell'Ebro. Si basa sul <strong>Tempranillo</strong>, affiancato dal <strong>Graciano</strong> e da altre varietà tradizionali. Secondo il disciplinare della Rioja, un Gran Reserva deve trascorrere almeno due anni in barrique e completare un lungo periodo di invecchiamento prima della commercializzazione.</p><p>È un rosso profondo e complesso, in cui il frutto maturo si unisce a note di spezie, cuoio e tabacco. L'acidità e la struttura gli permettono di evolvere per molti anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rojo granate con ribete teja. Aromas de fruta roja madura, especias, cuero, tabaco y vainilla. Boca profunda y sedosa, de final muy largo.",
+    "en": "Garnet with a brick rim. Aromas of ripe red fruit, spice, leather, tobacco and vanilla. Deep, silky palate with a very long finish.",
+    "fr": "Grenat aux reflets tuilés. Arômes de fruits rouges mûrs, d'épices, de cuir, de tabac et de vanille. Bouche profonde et soyeuse, finale très longue.",
+    "it": "Granato con unghia aranciata. Aromi di frutta rossa matura, spezie, cuoio, tabacco e vaniglia. Bocca profonda e setosa, dal finale molto lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, caza, carnes rojas, quesos curados",
+    "en": "Roast lamb, game, red meats, aged cheeses",
+    "fr": "Agneau rôti, gibier, viandes rouges, fromages affinés",
+    "it": "Agnello arrosto, selvaggina, carni rosse, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Contino Gran Reserva Rioja"
+}

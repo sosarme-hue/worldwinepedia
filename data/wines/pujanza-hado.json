@@ -1,0 +1,43 @@
+{
+  "slug": "pujanza-hado",
+  "name": "Pujanza Hado",
+  "winery": "pujanza",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Tinto de Tempranillo de Bodegas Pujanza, elaborado con uva de varios viñedos propios de Laguardia, en la Rioja Alavesa.",
+    "en": "Tempranillo red from Bodegas Pujanza, made from grapes from several of its own vineyards in Laguardia, Rioja Alavesa.",
+    "fr": "Rouge de tempranillo de Bodegas Pujanza, élaboré à partir de raisins de plusieurs vignes du domaine à Laguardia, en Rioja Alavesa.",
+    "it": "Rosso di Tempranillo di Bodegas Pujanza, prodotto con uve di diversi vigneti di proprietà a Laguardia, nella Rioja Alavesa."
+  },
+  "body": {
+    "es": "<p>Hado es el tinto que abre la gama de Bodegas Pujanza, la bodega de la familia San Pedro en Laguardia. Se elabora con <strong>Tempranillo</strong> procedente de varios viñedos propios situados en las laderas que suben hacia la Sierra de Cantabria, en la Rioja Alavesa.</p><p>La altitud de estos viñedos y la protección de la sierra frente a los vientos del norte dan uvas de maduración lenta, con buena acidez y fruta definida. Los suelos arcillo-calcáreos y pobres limitan el vigor de la vid. El vino se cría en barrica de roble francés durante un periodo moderado, que aporta estructura y notas especiadas sin ocultar la fruta.</p><p>Es un tinto fresco y equilibrado, de taninos finos, que refleja el estilo de la casa: prioridad a la expresión del viñedo y a la frescura frente a las crianzas largas. Se disfruta en sus primeros años, aunque admite algo de guarda.</p>",
+    "en": "<p>Hado is the red that opens the range of Bodegas Pujanza, the San Pedro family winery in Laguardia. It is made from <strong>Tempranillo</strong> from several of the estate's vineyards on the slopes rising towards the Sierra de Cantabria, in Rioja Alavesa.</p><p>The altitude of these vineyards and the shelter of the mountains from northerly winds give slowly ripening grapes with good acidity and well-defined fruit. The poor clay-limestone soils limit the vigour of the vines. The wine is aged in French oak barrels for a moderate period, which adds structure and spicy notes without hiding the fruit.</p><p>It is a fresh, balanced red with fine tannins that reflects the house style: priority to the expression of the vineyard and to freshness rather than long ageing. It is enjoyed in its first few years, although it can take some ageing.</p>",
+    "fr": "<p>Hado est le rouge qui ouvre la gamme de Bodegas Pujanza, la bodega de la famille San Pedro à Laguardia. Il est élaboré à partir de <strong>tempranillo</strong> issu de plusieurs vignes du domaine situées sur les pentes qui montent vers la Sierra de Cantabria, en Rioja Alavesa.</p><p>L'altitude de ces vignobles et la protection de la sierra contre les vents du nord donnent des raisins à maturation lente, d'une bonne acidité et au fruit net. Les sols argilo-calcaires et pauvres limitent la vigueur de la vigne. Le vin est élevé en barriques de chêne français pendant une durée modérée, qui apporte structure et notes épicées sans masquer le fruit.</p><p>C'est un rouge frais et équilibré, aux tanins fins, qui reflète le style de la maison : priorité à l'expression du vignoble et à la fraîcheur plutôt qu'aux longs élevages. Il s'apprécie dans ses premières années, même s'il supporte une certaine garde.</p>",
+    "it": "<p>Hado è il rosso che apre la gamma di Bodegas Pujanza, la cantina della famiglia San Pedro a Laguardia. È prodotto con <strong>Tempranillo</strong> proveniente da diversi vigneti aziendali situati sui pendii che salgono verso la Sierra de Cantabria, nella Rioja Alavesa.</p><p>L'altitudine di questi vigneti e la protezione della catena montuosa dai venti del nord danno uve a maturazione lenta, con buona acidità e frutto definito. I suoli argilloso-calcarei e poveri limitano il vigore della vite. Il vino è affinato in barrique di rovere francese per un periodo moderato, che aggiunge struttura e note speziate senza coprire il frutto.</p><p>È un rosso fresco ed equilibrato, dai tannini fini, che riflette lo stile della casa: priorità all'espressione del vigneto e alla freschezza piuttosto che ai lunghi affinamenti. Si gusta nei primi anni, anche se sopporta un certo invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota. Aromas de cereza, frutos negros, regaliz y especias suaves. Boca fresca y sabrosa, de taninos finos.",
+    "en": "Cherry red. Aromas of cherry, black fruit, liquorice and gentle spice. Fresh, flavourful palate with fine tannins.",
+    "fr": "Rouge cerise. Arômes de cerise, de fruits noirs, de réglisse et d'épices douces. Bouche fraîche et savoureuse, aux tanins fins.",
+    "it": "Rosso ciliegia. Aromi di ciliegia, frutti neri, liquirizia e spezie delicate. Bocca fresca e saporita, dai tannini fini."
+  },
+  "pairing": {
+    "es": "Cordero asado, chuletón, caza menor, quesos curados",
+    "en": "Roast lamb, rib steak, small game, aged cheeses",
+    "fr": "Agneau rôti, côte de bœuf, petit gibier, fromages affinés",
+    "it": "Agnello arrosto, costata, selvaggina di piccola taglia, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-17 °C, copa amplia",
+    "en": "15-17 °C, large glass",
+    "fr": "15-17 °C, verre ample",
+    "it": "15-17 °C, calice ampio"
+  },
+  "search": "Pujanza Hado Rioja"
+}

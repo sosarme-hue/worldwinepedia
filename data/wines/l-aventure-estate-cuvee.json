@@ -1,0 +1,45 @@
+{
+  "slug": "l-aventure-estate-cuvee",
+  "name": "Estate Cuvée",
+  "winery": "l-aventure",
+  "region": "paso-robles",
+  "country": "estados-unidos",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "syrah",
+    "cabernet-sauvignon",
+    "petit-verdot"
+  ],
+  "summary": {
+    "es": "Vino emblemático de L’Aventure, en Paso Robles: un ensamblaje de Syrah, Cabernet Sauvignon y Petit Verdot de la finca.",
+    "en": "L’Aventure’s signature wine from Paso Robles: an estate blend of Syrah, Cabernet Sauvignon and Petit Verdot.",
+    "fr": "Vin emblématique de L’Aventure, à Paso Robles : un assemblage de syrah, de cabernet sauvignon et de petit verdot du domaine.",
+    "it": "Vino simbolo di L’Aventure, a Paso Robles: un assemblaggio di Syrah, Cabernet Sauvignon e Petit Verdot della tenuta."
+  },
+  "body": {
+    "es": "<p><strong>L’Aventure</strong>, fundada por el francés Stephan Asseo en la zona occidental de Paso Robles, en la Costa Central de California, cultiva sus viñas en laderas calcáreas refrescadas por las brisas del Pacífico, con días cálidos y noches frescas.</p><p>La <strong>Estate Cuvée</strong> resume la idea que llevó a Stephan Asseo a California: ensamblar libremente la <strong>Syrah</strong> del Ródano con el <strong>Cabernet Sauvignon</strong> y el <strong>Petit Verdot</strong> de Burdeos, algo que las normas francesas no permiten. Las proporciones varían según la añada. La uva, de viñas propias de bajo rendimiento, se vendimia a mano, y el vino se cría en barricas de roble francés. Es un tinto potente y concentrado, de fruta negra madura, especias y notas tostadas, con taninos densos y una frescura que le permite envejecer varios años.</p><p>Como el resto de vinos de la casa, conviene decantarlo si se abre joven y servirlo con platos de carácter, que estén a la altura de su intensidad.</p>",
+    "en": "<p><strong>L’Aventure</strong>, founded by Frenchman Stephan Asseo on the west side of Paso Robles, on California’s Central Coast, farms its vines on limestone slopes cooled by Pacific breezes, with warm days and cool nights.</p><p>The <strong>Estate Cuvée</strong> sums up the idea that brought Stephan Asseo to California: freely blending Rhône <strong>Syrah</strong> with Bordeaux <strong>Cabernet Sauvignon</strong> and <strong>Petit Verdot</strong>, something French rules do not allow. The proportions vary with the vintage. The grapes, from low-yielding estate vines, are hand-picked, and the wine is aged in French oak barrels. It is a powerful, concentrated red with ripe black fruit, spice and toasty notes, dense tannins and a freshness that allows it to age for several years.</p><p>Like the estate’s other wines, it is worth decanting if opened young and serving with full-flavoured dishes that match its intensity.</p>",
+    "fr": "<p><strong>L’Aventure</strong>, fondé par le Français Stephan Asseo dans l’ouest de Paso Robles, sur la Central Coast californienne, cultive ses vignes sur des coteaux calcaires rafraîchis par les brises du Pacifique, aux journées chaudes et aux nuits fraîches.</p><p>L’<strong>Estate Cuvée</strong> résume l’idée qui a conduit Stephan Asseo en Californie : assembler librement la <strong>syrah</strong> du Rhône avec le <strong>cabernet sauvignon</strong> et le <strong>petit verdot</strong> de Bordeaux, ce que les règles françaises ne permettent pas. Les proportions varient selon le millésime. Les raisins, issus de vignes du domaine à faibles rendements, sont vendangés à la main, et le vin est élevé en fûts de chêne français. C’est un rouge puissant et concentré, aux fruits noirs mûrs, aux épices et aux notes grillées, avec des tanins denses et une fraîcheur qui lui permet de vieillir plusieurs années.</p><p>Comme les autres vins de la maison, mieux vaut le carafer s’il est ouvert jeune et le servir avec des plats de caractère, à la mesure de son intensité.</p>",
+    "it": "<p><strong>L’Aventure</strong>, fondata dal francese Stephan Asseo nella zona occidentale di Paso Robles, sulla Central Coast californiana, coltiva le sue vigne su pendii calcarei rinfrescati dalle brezze del Pacifico, con giornate calde e notti fresche.</p><p>L’<strong>Estate Cuvée</strong> riassume l’idea che portò Stephan Asseo in California: assemblare liberamente la <strong>Syrah</strong> del Rodano con il <strong>Cabernet Sauvignon</strong> e il <strong>Petit Verdot</strong> di Bordeaux, cosa che le regole francesi non consentono. Le proporzioni variano secondo l’annata. Le uve, da vigne di proprietà a basse rese, sono vendemmiate a mano, e il vino affina in barrique di rovere francese. È un rosso potente e concentrato, di frutta nera matura, spezie e note tostate, con tannini densi e una freschezza che gli consente di invecchiare per diversi anni.</p><p>Come gli altri vini della casa, conviene decantarlo se aperto giovane e servirlo con piatti di carattere, all’altezza della sua intensità.</p>"
+  },
+  "tasting": {
+    "es": "Rojo muy oscuro. Aromas de mora, casis, regaliz, especias y notas tostadas. Boca densa y potente, de taninos maduros.",
+    "en": "Very dark red. Aromas of blackberry, blackcurrant, liquorice, spice and toasty notes. Dense, powerful palate with ripe tannins.",
+    "fr": "Rouge très sombre. Arômes de mûre, de cassis, de réglisse, d’épices et notes grillées. Bouche dense et puissante, aux tanins mûrs.",
+    "it": "Rosso molto scuro. Aromi di mora, ribes nero, liquirizia, spezie e note tostate. Bocca densa e potente, dai tannini maturi."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, cordero, costillas, quesos curados",
+    "en": "Grilled red meats, lamb, ribs, aged cheeses",
+    "fr": "Viandes rouges grillées, agneau, travers, fromages affinés",
+    "it": "Carni rosse alla brace, agnello, costine, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "L'Aventure Estate Cuvée Paso Robles"
+}

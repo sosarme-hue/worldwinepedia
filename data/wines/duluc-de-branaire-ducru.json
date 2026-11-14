@@ -1,0 +1,51 @@
+{
+  "slug": "duluc-de-branaire-ducru",
+  "name": "Duluc de Branaire-Ducru",
+  "winery": "chateau-branaire-ducru",
+  "region": "saint-julien",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Segundo vino",
+    "en": "Second wine",
+    "fr": "Second vin",
+    "it": "Secondo vino"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "cabernet-franc",
+    "petit-verdot"
+  ],
+  "summary": {
+    "es": "Segundo vino del Château Branaire-Ducru, un Saint-Julien más accesible en su juventud que el gran vino.",
+    "en": "Second wine of Château Branaire-Ducru, a Saint-Julien more approachable in youth than the grand vin.",
+    "fr": "Second vin du Château Branaire-Ducru, un saint-julien plus accessible dans sa jeunesse que le grand vin.",
+    "it": "Secondo vino del Château Branaire-Ducru, un Saint-Julien più accessibile in gioventù rispetto al grand vin."
+  },
+  "body": {
+    "es": "<p>Como la mayoría de los grands crus clasificados del Médoc, el <strong>Château Branaire-Ducru</strong> elabora un segundo vino con las parcelas y los lotes que no se seleccionan para el gran vino, a menudo procedentes de viñas más jóvenes. Su nombre, <strong>Duluc</strong>, recuerda a la familia Du Luc, una de las antiguas propietarias de la finca y origen de la segunda parte del nombre del château.</p><p>El vino procede de las viñas de la propiedad en <strong>Saint-Julien</strong>, sobre suelos de gravas, y ensambla <strong>Cabernet Sauvignon</strong> y Merlot, con un posible complemento de Cabernet Franc y Petit Verdot. Se cría en barrica, con una proporción de madera nueva menor que la del gran vino. El resultado es un tinto que conserva la elegancia y la fruta propias de Saint-Julien, pero con taninos más suaves, lo que permite disfrutarlo antes, aunque también puede guardarse varios años.</p>",
+    "en": "<p>Like most of the Médoc’s classified growths, <strong>Château Branaire-Ducru</strong> makes a second wine from plots and lots not selected for the grand vin, often from younger vines. Its name, <strong>Duluc</strong>, recalls the Du Luc family, one of the estate’s former owners and the origin of the second part of the château’s name.</p><p>The wine comes from the property’s vineyards in <strong>Saint-Julien</strong>, on gravel soils, and blends <strong>Cabernet Sauvignon</strong> and Merlot, possibly with some Cabernet Franc and Petit Verdot. It is aged in barrel, with a lower proportion of new oak than the grand vin. The result is a red that keeps the elegance and fruit typical of Saint-Julien but with softer tannins, so that it can be enjoyed earlier, although it can also be kept for several years.</p>",
+    "fr": "<p>Comme la plupart des crus classés du Médoc, le <strong>Château Branaire-Ducru</strong> élabore un second vin à partir des parcelles et des lots non retenus pour le grand vin, souvent issus de vignes plus jeunes. Son nom, <strong>Duluc</strong>, rappelle la famille Du Luc, l’une des anciennes propriétaires du domaine et l’origine de la seconde partie du nom du château.</p><p>Le vin provient des vignes de la propriété à <strong>Saint-Julien</strong>, sur des sols de graves, et assemble <strong>cabernet sauvignon</strong> et merlot, avec éventuellement un complément de cabernet franc et de petit verdot. Il est élevé en fût, avec une part de bois neuf moindre que pour le grand vin. Il en résulte un rouge qui garde l’élégance et le fruit propres à Saint-Julien, mais avec des tanins plus souples, ce qui permet de l’apprécier plus tôt, même s’il peut aussi se garder plusieurs années.</p>",
+    "it": "<p>Come la maggior parte dei grand cru classé del Médoc, il <strong>Château Branaire-Ducru</strong> produce un secondo vino con le parcelle e i lotti non selezionati per il grand vin, spesso provenienti da vigne più giovani. Il nome, <strong>Duluc</strong>, ricorda la famiglia Du Luc, una delle antiche proprietarie della tenuta e origine della seconda parte del nome dello château.</p><p>Il vino proviene dalle vigne della proprietà a <strong>Saint-Julien</strong>, su suoli ghiaiosi, e assembla <strong>Cabernet Sauvignon</strong> e Merlot, con un possibile complemento di Cabernet Franc e Petit Verdot. Affina in barrique, con una quota di legno nuovo inferiore a quella del grand vin. Il risultato è un rosso che conserva l’eleganza e il frutto tipici di Saint-Julien, ma con tannini più morbidi, che permettono di gustarlo prima, anche se può essere conservato per diversi anni.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí oscuro. Aromas de casis, cereza negra, cedro y especias suaves. Boca redonda y elegante, de taninos suaves.",
+    "en": "Dark ruby. Aromas of blackcurrant, black cherry, cedar and gentle spice. Round, elegant palate with soft tannins.",
+    "fr": "Rubis sombre. Arômes de cassis, de cerise noire, de cèdre et d’épices douces. Bouche ronde et élégante, aux tanins souples.",
+    "it": "Rubino scuro. Aromi di ribes nero, ciliegia nera, cedro e spezie dolci. Bocca rotonda ed elegante, dai tannini morbidi."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes rojas, caza de pluma, quesos curados",
+    "en": "Roast lamb, red meats, game birds, aged cheeses",
+    "fr": "Agneau rôti, viandes rouges, gibier à plume, fromages affinés",
+    "it": "Agnello arrosto, carni rosse, selvaggina da piuma, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de Burdeos",
+    "en": "16-18 °C, Bordeaux glass",
+    "fr": "16-18 °C, verre de Bordeaux",
+    "it": "16-18 °C, calice da Bordeaux"
+  },
+  "search": "Duluc de Branaire-Ducru Saint-Julien"
+}

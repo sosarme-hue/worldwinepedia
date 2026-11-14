@@ -1,0 +1,41 @@
+{
+  "slug": "cune-ecologico",
+  "name": "Cune Ecológico",
+  "winery": "cvne",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Rioja tinto de CVNE elaborado con uva de viñedo de cultivo ecológico, dentro de su gama Cune.",
+    "en": "Red Rioja from CVNE made from organically farmed grapes, part of its Cune range.",
+    "fr": "Rioja rouge de CVNE élaboré avec des raisins issus de l'agriculture biologique, dans sa gamme Cune.",
+    "it": "Rioja rosso di CVNE prodotto con uve da agricoltura biologica, nella gamma Cune."
+  },
+  "body": {
+    "es": "<p>Cune es la marca más popular de la Compañía Vinícola del Norte de España (CVNE), la bodega fundada en el Barrio de la Estación de Haro en el siglo XIX. Este tinto amplía la gama con una versión elaborada con uva procedente de <strong>agricultura ecológica</strong>, un tipo de cultivo que prescinde de herbicidas y de productos fitosanitarios y fertilizantes de síntesis.</p><p>Como la mayoría de los tintos de Rioja, se apoya en el <strong>Tempranillo</strong>, la variedad que da a la denominación sus vinos de fruta roja, acidez equilibrada y buena aptitud para la madera. La vinificación busca un perfil directo y afrutado, con una crianza moderada que no domina el conjunto.</p><p>Es un tinto versátil, pensado para beberse en sus primeros años, que expresa el estilo fresco y accesible de la gama Cune con la garantía añadida de su origen ecológico certificado.</p>",
+    "en": "<p>Cune is the most popular brand of the Compañía Vinícola del Norte de España (CVNE), the winery founded in the Barrio de la Estación of Haro in the 19th century. This red extends the range with a version made from grapes from <strong>organic farming</strong>, a method that does without herbicides and synthetic pesticides and fertilisers.</p><p>Like most Rioja reds, it relies on <strong>Tempranillo</strong>, the variety that gives the appellation its wines of red fruit, balanced acidity and good affinity with oak. Vinification aims for a direct, fruity profile, with moderate ageing that does not dominate the whole.</p><p>It is a versatile red, meant to be drunk in its first few years, that expresses the fresh, approachable style of the Cune range with the added assurance of its certified organic origin.</p>",
+    "fr": "<p>Cune est la marque la plus populaire de la Compañía Vinícola del Norte de España (CVNE), la bodega fondée dans le Barrio de la Estación de Haro au XIXe siècle. Ce rouge élargit la gamme avec une version élaborée à partir de raisins issus de l'<strong>agriculture biologique</strong>, un mode de culture qui se passe d'herbicides ainsi que de pesticides et d'engrais de synthèse.</p><p>Comme la plupart des rouges de la Rioja, il s'appuie sur le <strong>tempranillo</strong>, le cépage qui donne à l'appellation ses vins de fruits rouges, à l'acidité équilibrée et à la bonne affinité avec le bois. La vinification recherche un profil direct et fruité, avec un élevage modéré qui ne domine pas l'ensemble.</p><p>C'est un rouge polyvalent, à boire dans ses premières années, qui exprime le style frais et accessible de la gamme Cune avec la garantie supplémentaire de son origine biologique certifiée.</p>",
+    "it": "<p>Cune è il marchio più popolare della Compañía Vinícola del Norte de España (CVNE), la cantina fondata nel Barrio de la Estación di Haro nell'Ottocento. Questo rosso amplia la gamma con una versione prodotta con uve da <strong>agricoltura biologica</strong>, un metodo che rinuncia a diserbanti e a fitofarmaci e fertilizzanti di sintesi.</p><p>Come la maggior parte dei rossi della Rioja, si basa sul <strong>Tempranillo</strong>, la varietà che dà alla denominazione i suoi vini di frutta rossa, acidità equilibrata e buona attitudine al legno. La vinificazione cerca un profilo diretto e fruttato, con un affinamento moderato che non domina l'insieme.</p><p>È un rosso versatile, da bere nei primi anni, che esprime lo stile fresco e accessibile della gamma Cune con la garanzia in più della sua origine biologica certificata.</p>"
+  },
+  "tasting": {
+    "es": "Rojo cereza brillante. Aromas de frutos rojos, ciruela y un ligero toque especiado. Boca fresca y afrutada, de taninos suaves.",
+    "en": "Bright cherry red. Aromas of red berries, plum and a light spicy touch. Fresh, fruity palate with soft tannins.",
+    "fr": "Rouge cerise brillant. Arômes de fruits rouges, de prune et une légère touche épicée. Bouche fraîche et fruitée, aux tanins souples.",
+    "it": "Rosso ciliegia brillante. Aromi di frutti rossi, prugna e un leggero tocco speziato. Bocca fresca e fruttata, dai tannini morbidi."
+  },
+  "pairing": {
+    "es": "Verduras asadas, pasta, carnes blancas, embutidos, tapas",
+    "en": "Roast vegetables, pasta, white meats, charcuterie, tapas",
+    "fr": "Légumes rôtis, pâtes, viandes blanches, charcuterie, tapas",
+    "it": "Verdure arrosto, pasta, carni bianche, salumi, tapas"
+  },
+  "serve": {
+    "es": "14-16 °C, copa de tinto",
+    "en": "14-16 °C, red wine glass",
+    "fr": "14-16 °C, verre à vin rouge",
+    "it": "14-16 °C, calice da rosso"
+  },
+  "search": "Cune Ecológico CVNE Rioja"
+}

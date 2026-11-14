@@ -1,0 +1,49 @@
+{
+  "slug": "les-brulieres-de-beychevelle",
+  "name": "Les Brulières de Beychevelle",
+  "winery": "chateau-beychevelle",
+  "region": "medoc",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Haut-Médoc",
+    "en": "Haut-Médoc",
+    "fr": "Haut-Médoc",
+    "it": "Haut-Médoc"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Un Haut-Médoc de la casa Beychevelle, procedente de viñedos fuera de Saint-Julien, de estilo afrutado y accesible.",
+    "en": "A Haut-Médoc from the Beychevelle house, from vineyards outside Saint-Julien, fruity and approachable in style.",
+    "fr": "Un haut-médoc de la maison Beychevelle, issu de vignes situées hors de Saint-Julien, au style fruité et accessible.",
+    "it": "Un Haut-Médoc della casa Beychevelle, da vigneti al di fuori di Saint-Julien, di stile fruttato e accessibile."
+  },
+  "body": {
+    "es": "<p>La denominación <strong>Haut-Médoc</strong> abarca la parte sur de la península del Médoc, en la orilla izquierda de la Gironda, y engloba los viñedos situados fuera de las denominaciones comunales como Saint-Julien, Pauillac o Margaux. Sus tintos se elaboran con las variedades bordelesas clásicas, principalmente Cabernet Sauvignon y Merlot, sobre suelos de grava y arcilla.</p><p><em>Les Brulières de Beychevelle</em> es el Haut-Médoc elaborado por Château Beychevelle, cuarto gran cru clasificado de Saint-Julien, a partir de viñedos situados fuera de su denominación comunal. Como no lleva la mención Saint-Julien, se distingue tanto del gran vino como del segundo vino, Amiral de Beychevelle. Se elabora con un ensamblaje de Cabernet Sauvignon y Merlot y se cría en barrica.</p><p>Es un tinto de cuerpo medio, con fruta roja y negra, notas especiadas y taninos amables, pensado para disfrutar en sus primeros años con la cocina de carnes.</p>",
+    "en": "<p>The <strong>Haut-Médoc</strong> appellation covers the southern part of the Médoc peninsula, on the left bank of the Gironde, and includes the vineyards outside the communal appellations such as Saint-Julien, Pauillac and Margaux. Its reds are made from the classic Bordeaux varieties, mainly Cabernet Sauvignon and Merlot, on gravel and clay soils.</p><p><em>Les Brulières de Beychevelle</em> is the Haut-Médoc made by Château Beychevelle, a Saint-Julien fourth growth, from vineyards located outside its communal appellation. As it does not carry the Saint-Julien name, it is distinct from both the grand vin and the second wine, Amiral de Beychevelle. It is a blend of Cabernet Sauvignon and Merlot, aged in barrel.</p><p>It is a medium-bodied red with red and black fruit, spicy notes and gentle tannins, intended to be enjoyed in its first few years with meat dishes.</p>",
+    "fr": "<p>L’appellation <strong>Haut-Médoc</strong> couvre la partie sud de la presqu’île du Médoc, sur la rive gauche de la Gironde, et regroupe les vignes situées hors des appellations communales comme Saint-Julien, Pauillac ou Margaux. Ses rouges sont issus des cépages bordelais classiques, principalement le cabernet sauvignon et le merlot, sur des sols de graves et d’argiles.</p><p><em>Les Brulières de Beychevelle</em> est le haut-médoc élaboré par le Château Beychevelle, quatrième grand cru classé de Saint-Julien, à partir de vignes situées hors de son appellation communale. Ne portant pas la mention Saint-Julien, il se distingue à la fois du grand vin et du second vin, Amiral de Beychevelle. Il est issu d’un assemblage de cabernet sauvignon et de merlot et élevé en barrique.</p><p>C’est un rouge de corps moyen, aux fruits rouges et noirs, aux notes épicées et aux tanins aimables, conçu pour être apprécié dans ses premières années avec des plats de viande.</p>",
+    "it": "<p>La denominazione <strong>Haut-Médoc</strong> comprende la parte meridionale della penisola del Médoc, sulla riva sinistra della Gironda, e include i vigneti situati fuori dalle denominazioni comunali come Saint-Julien, Pauillac o Margaux. I suoi rossi si ottengono dai vitigni bordolesi classici, principalmente Cabernet Sauvignon e Merlot, su suoli di ghiaia e argilla.</p><p><em>Les Brulières de Beychevelle</em> è l’Haut-Médoc prodotto dal Château Beychevelle, quarto grand cru classé di Saint-Julien, da vigneti situati fuori dalla sua denominazione comunale. Non portando la menzione Saint-Julien, si distingue sia dal grand vin sia dal secondo vino, Amiral de Beychevelle. È un assemblaggio di Cabernet Sauvignon e Merlot, affinato in barrique.</p><p>È un rosso di medio corpo, con frutti rossi e neri, note speziate e tannini gentili, pensato per essere gustato nei primi anni con piatti di carne.</p>"
+  },
+  "tasting": {
+    "es": "Rubí. Aromas de grosella, cereza, ciruela y notas tostadas suaves. Boca de cuerpo medio, afrutada y de taninos amables.",
+    "en": "Ruby. Aromas of currant, cherry, plum and gentle toasty notes. Medium-bodied, fruity palate with gentle tannins.",
+    "fr": "Rubis. Arômes de cassis, de cerise, de prune et notes grillées discrètes. Bouche de corps moyen, fruitée, aux tanins aimables.",
+    "it": "Rubino. Aromi di ribes, ciliegia, prugna e lievi note tostate. Bocca di medio corpo, fruttata e dai tannini gentili."
+  },
+  "pairing": {
+    "es": "Carnes a la parrilla, hamburguesas, aves asadas, quesos semicurados",
+    "en": "Grilled meat, burgers, roast poultry, semi-aged cheeses",
+    "fr": "Viandes grillées, burgers, volailles rôties, fromages mi-affinés",
+    "it": "Carni alla griglia, hamburger, pollame arrosto, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-17 °C, copa de tipo burdeos",
+    "en": "16-17 °C, Bordeaux-style glass",
+    "fr": "16-17 °C, verre de type bordeaux",
+    "it": "16-17 °C, calice tipo bordolese"
+  },
+  "search": "Les Brulières de Beychevelle Haut-Médoc"
+}

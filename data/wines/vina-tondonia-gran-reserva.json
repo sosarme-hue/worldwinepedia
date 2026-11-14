@@ -1,0 +1,51 @@
+{
+  "slug": "vina-tondonia-gran-reserva",
+  "name": "Viña Tondonia Gran Reserva",
+  "winery": "lopez-de-heredia",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Gran Reserva",
+    "en": "Gran Reserva",
+    "fr": "Gran Reserva",
+    "it": "Gran Reserva"
+  },
+  "grapes": [
+    "tempranillo",
+    "garnacha",
+    "graciano",
+    "carinena"
+  ],
+  "summary": {
+    "es": "Gran reserva emblemático de López de Heredia, de la finca Tondonia, elaborado sólo en añadas excepcionales y con crianza muy larga.",
+    "en": "Emblematic gran reserva from López de Heredia, from the Tondonia estate, made only in exceptional vintages and given very long ageing.",
+    "fr": "Gran reserva emblématique de López de Heredia, issu du domaine de Tondonia, produit seulement lors des grands millésimes et longuement élevé.",
+    "it": "Gran reserva emblematico di López de Heredia, dalla tenuta Tondonia, prodotto solo nelle annate eccezionali e con affinamento lunghissimo."
+  },
+  "body": {
+    "es": "<p>El Viña Tondonia Gran Reserva es el tinto de mayor rango de López de Heredia y una de las referencias del Rioja tradicional. Procede de la finca Tondonia, situada en un meandro del Ebro junto a Haro, y sólo se elabora en las añadas que la bodega considera excepcionales.</p><p>La mezcla está dominada por la <strong>Tempranillo</strong>, con Garnacha, Graciano y Mazuelo (Cariñena) en menor proporción. Fermenta en grandes tinas de roble y se cría después durante muchos años en barricas usadas, con trasiegos manuales periódicos y clarificación con clara de huevo, siguiendo prácticas que la casa mantiene desde el siglo XIX. Antes de salir al mercado reposa además largo tiempo en botella.</p><p>Es un vino en el que dominan los aromas terciarios de la crianza, sostenidos por una acidez notable que le confiere frescura y una capacidad de envejecimiento de varias décadas. Muestra con claridad el perfil fino y elegante que se asocia a los vinos de Tondonia.</p>",
+    "en": "<p>Viña Tondonia Gran Reserva is López de Heredia’s top red and one of the benchmarks of traditional Rioja. It comes from the Tondonia estate, set in a bend of the Ebro beside Haro, and is made only in vintages the winery considers exceptional.</p><p>The blend is dominated by <strong>Tempranillo</strong>, with smaller proportions of Grenache, Graciano and Mazuelo (Carignan). It ferments in large oak vats and is then aged for many years in used barrels, with regular hand racking and egg-white fining, following practices the house has kept since the 19th century. It also rests for a long time in bottle before release.</p><p>It is a wine dominated by the tertiary aromas of ageing, supported by notable acidity that gives it freshness and the ability to age for several decades. It clearly shows the fine, elegant profile associated with the Tondonia wines.</p>",
+    "fr": "<p>Le Viña Tondonia Gran Reserva est le rouge le plus prestigieux de López de Heredia et l’une des références de la Rioja traditionnelle. Il provient du domaine de Tondonia, situé dans un méandre de l’Èbre près de Haro, et n’est élaboré que dans les millésimes que la maison juge exceptionnels.</p><p>L’assemblage est dominé par le <strong>tempranillo</strong>, avec de plus faibles proportions de grenache, de graciano et de mazuelo (carignan). Il fermente dans de grandes cuves en chêne puis est élevé de nombreuses années en barriques usagées, avec des soutirages manuels réguliers et un collage au blanc d’œuf, selon des pratiques conservées depuis le XIXe siècle. Il repose aussi longuement en bouteille avant sa commercialisation.</p><p>C’est un vin dominé par les arômes tertiaires de l’élevage, soutenus par une acidité notable qui lui apporte fraîcheur et une aptitude à vieillir plusieurs décennies. Il illustre clairement le profil fin et élégant associé aux vins de Tondonia.</p>",
+    "it": "<p>Il Viña Tondonia Gran Reserva è il rosso di punta di López de Heredia e uno dei riferimenti della Rioja tradizionale. Proviene dalla tenuta Tondonia, situata in un’ansa dell’Ebro accanto a Haro, ed è prodotto solo nelle annate che la cantina considera eccezionali.</p><p>L’uvaggio è dominato dal <strong>Tempranillo</strong>, con quote minori di Grenache, Graciano e Mazuelo (Carignano). Fermenta in grandi tini di rovere e viene poi affinato per molti anni in botti usate, con travasi manuali periodici e chiarifica con albume d’uovo, secondo pratiche che la casa conserva dal XIX secolo. Prima della commercializzazione riposa inoltre a lungo in bottiglia.</p><p>È un vino dominato dagli aromi terziari dell’affinamento, sostenuti da un’acidità notevole che gli dona freschezza e una capacità di invecchiamento di diversi decenni. Mostra con chiarezza il profilo fine ed elegante associato ai vini di Tondonia.</p>"
+  },
+  "tasting": {
+    "es": "Granate con ribete anaranjado. Aromas de fruta roja seca, cuero, tabaco, especias, notas balsámicas y de sotobosque. Boca fina y sedosa, con acidez viva y final muy largo.",
+    "en": "Garnet with an orange rim. Aromas of dried red fruit, leather, tobacco, spice, balsamic and forest-floor notes. Fine and silky on the palate, with lively acidity and a very long finish.",
+    "fr": "Grenat aux reflets orangés. Arômes de fruits rouges secs, de cuir, de tabac, d’épices, notes balsamiques et de sous-bois. Bouche fine et soyeuse, à l’acidité vive, avec une finale très longue.",
+    "it": "Granato con unghia aranciata. Aromi di frutta rossa secca, cuoio, tabacco, spezie, note balsamiche e di sottobosco. Bocca fine e setosa, con acidità viva e finale molto lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, caza menor, carnes rojas, setas, quesos curados",
+    "en": "Roast lamb, small game, red meat, mushrooms, aged cheeses",
+    "fr": "Agneau rôti, petit gibier, viandes rouges, champignons, fromages affinés",
+    "it": "Agnello arrosto, selvaggina da piuma, carni rosse, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Viña Tondonia Gran Reserva López de Heredia"
+}

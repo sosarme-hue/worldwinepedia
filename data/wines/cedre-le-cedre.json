@@ -1,0 +1,48 @@
+{
+  "slug": "cedre-le-cedre",
+  "name": "Château du Cèdre Le Cèdre",
+  "winery": "chateau-du-cedre",
+  "region": "cahors",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Cahors",
+    "en": "Cahors",
+    "fr": "Cahors",
+    "it": "Cahors"
+  },
+  "grapes": [
+    "malbec"
+  ],
+  "summary": {
+    "es": "El vino emblemático del Château du Cèdre, un Cahors de Malbec concentrado y estructurado, pensado para una larga guarda.",
+    "en": "Château du Cèdre’s flagship wine, a concentrated, structured Cahors Malbec designed for long ageing.",
+    "fr": "Le vin emblématique du Château du Cèdre, un cahors de malbec concentré et structuré, conçu pour une longue garde.",
+    "it": "Il vino simbolo del Château du Cèdre, un Cahors da Malbec concentrato e strutturato, pensato per un lungo invecchiamento."
+  },
+  "body": {
+    "es": "<p>Cahors, en el valle del Lot, es la tierra de origen de la <strong>Malbec</strong>. Durante siglos sus vinos fueron conocidos como <em>vins noirs</em> por su color muy oscuro, y la denominación sigue asociada a tintos potentes, de taninos firmes y gran capacidad de envejecimiento.</p><p><em>Le Cèdre</em> es el vino que da nombre a la propiedad de la familia Verhaeghe en Vire-sur-Lot y su referencia más reconocida. Se elabora con Malbec de viñedos cultivados en ecológico sobre las terrazas y laderas del Lot, con maceraciones largas y una crianza en barrica que busca pulir los taninos y añadir complejidad sin borrar el carácter de la variedad.</p><p>Es un tinto de cuerpo pleno, de color casi negro, con fruta negra madura, notas de especias, regaliz y cacao. En su juventud resulta potente y conviene decantarlo; con los años gana en armonía y complejidad.</p>",
+    "en": "<p>Cahors, in the Lot valley, is the homeland of <strong>Malbec</strong>. For centuries its wines were known as <em>vins noirs</em>, “black wines”, for their very dark colour, and the appellation is still associated with powerful reds of firm tannins and great ageing capacity.</p><p><em>Le Cèdre</em> is the wine that gives its name to the Verhaeghe family property in Vire-sur-Lot and its best-known label. It is made from Malbec from organically farmed vineyards on the terraces and slopes of the Lot, with long macerations and barrel ageing that aims to polish the tannins and add complexity without erasing the character of the variety.</p><p>It is a full-bodied, almost black red with ripe black fruit and notes of spice, liquorice and cocoa. Powerful in its youth, it is best decanted; with the years it gains harmony and complexity.</p>",
+    "fr": "<p>Cahors, dans la vallée du Lot, est la terre d’origine du <strong>malbec</strong>. Pendant des siècles, ses vins ont été appelés « vins noirs » en raison de leur couleur très sombre, et l’appellation reste associée à des rouges puissants, aux tanins fermes et à grande aptitude au vieillissement.</p><p><em>Le Cèdre</em> est le vin qui donne son nom à la propriété de la famille Verhaeghe à Vire-sur-Lot et sa référence la plus reconnue. Il est élaboré à partir de malbec issu de vignes conduites en bio sur les terrasses et coteaux du Lot, avec de longues macérations et un élevage en fût qui cherche à polir les tanins et à ajouter de la complexité sans effacer le caractère du cépage.</p><p>C’est un rouge ample, presque noir, aux fruits noirs mûrs et aux notes d’épices, de réglisse et de cacao. Puissant dans sa jeunesse, il gagne à être carafé ; avec les années, il gagne en harmonie et en complexité.</p>",
+    "it": "<p>Cahors, nella valle del Lot, è la terra d’origine del <strong>Malbec</strong>. Per secoli i suoi vini furono chiamati <em>vins noirs</em>, «vini neri», per il colore molto scuro, e la denominazione resta associata a rossi potenti, dai tannini decisi e di grande capacità d’invecchiamento.</p><p><em>Le Cèdre</em> è il vino che dà il nome alla proprietà della famiglia Verhaeghe a Vire-sur-Lot e la sua etichetta più nota. Si ottiene da Malbec di vigneti coltivati in biologico sui terrazzi e sui pendii del Lot, con macerazioni lunghe e un affinamento in barrique che mira ad affinare i tannini e ad aggiungere complessità senza cancellare il carattere del vitigno.</p><p>È un rosso di corpo pieno, quasi nero, con frutti neri maturi e note di spezie, liquirizia e cacao. Potente da giovane, conviene decantarlo; con gli anni acquista armonia e complessità, diventando più setoso.</p>"
+  },
+  "tasting": {
+    "es": "Púrpura casi negro. Aromas de mora, ciruela, regaliz, cacao y especias. Boca potente y densa, de taninos firmes y final largo.",
+    "en": "Almost black purple. Aromas of blackberry, plum, liquorice, cocoa and spice. Powerful, dense palate with firm tannins and a long finish.",
+    "fr": "Pourpre presque noir. Arômes de mûre, de prune, de réglisse, de cacao et d’épices. Bouche puissante et dense, aux tanins fermes et à la finale longue.",
+    "it": "Porpora quasi nero. Aromi di mora, prugna, liquirizia, cacao e spezie. Bocca potente e densa, dai tannini decisi e finale lungo."
+  },
+  "pairing": {
+    "es": "Confit de pato, cassoulet, caza, carnes rojas a la brasa",
+    "en": "Duck confit, cassoulet, game, grilled red meat",
+    "fr": "Confit de canard, cassoulet, gibier, viandes rouges grillées",
+    "it": "Confit d’anatra, cassoulet, selvaggina, carni rosse alla brace"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia; decantar",
+    "en": "16-18 °C, large glass; decant",
+    "fr": "16-18 °C, grand verre ; carafer",
+    "it": "16-18 °C, calice ampio; decantare"
+  },
+  "search": "Le Cèdre Cahors Château du Cèdre"
+}

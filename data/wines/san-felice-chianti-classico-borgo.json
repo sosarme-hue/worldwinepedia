@@ -1,0 +1,48 @@
+{
+  "slug": "san-felice-chianti-classico-borgo",
+  "name": "San Felice Chianti Classico Borgo",
+  "winery": "san-felice",
+  "region": "chianti-classico",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "Chianti Classico",
+    "en": "Chianti Classico",
+    "fr": "Chianti Classico",
+    "it": "Chianti Classico"
+  },
+  "grapes": [
+    "sangiovese"
+  ],
+  "summary": {
+    "es": "El Chianti Classico de base de San Felice, un Sangiovese afrutado y fresco de Castelnuovo Berardenga, para disfrutar joven.",
+    "en": "San Felice’s core Chianti Classico, a fruity, fresh Sangiovese from Castelnuovo Berardenga, to be enjoyed young.",
+    "fr": "Le Chianti Classico de base de San Felice, un sangiovese fruité et frais de Castelnuovo Berardenga, à apprécier jeune.",
+    "it": "Il Chianti Classico di base di San Felice, un Sangiovese fruttato e fresco di Castelnuovo Berardenga, da gustare giovane."
+  },
+  "body": {
+    "es": "<p>El Chianti Classico es la zona histórica del Chianti, entre Florencia y Siena, identificada por el emblema del gallo negro. Sus tintos se elaboran mayoritariamente con <strong>Sangiovese</strong>, que puede completarse con otras variedades tintas, autóctonas o internacionales, en una proporción limitada. El Chianti Classico de base, conocido como <em>Annata</em>, es el primer escalón de la pirámide de calidad, por debajo de la Riserva y la Gran Selezione.</p><p>Este Chianti Classico de San Felice procede de los viñedos de la bodega en Castelnuovo Berardenga, en el sur de la denominación. El nombre <em>Borgo</em> evoca el antiguo burgo de San Felice donde se encuentra la bodega. Se elabora buscando la fruta y la frescura de la Sangiovese, con una crianza moderada.</p><p>Es un tinto de cuerpo medio, con cereza, frutos rojos y notas florales, acidez viva y taninos amables, ideal para acompañar la cocina toscana cotidiana.</p>",
+    "en": "<p>Chianti Classico is the historic Chianti zone between Florence and Siena, identified by the black rooster emblem. Its reds are made mainly from <strong>Sangiovese</strong>, which may be completed with a limited proportion of other red varieties, native or international. Basic Chianti Classico, known as <em>Annata</em>, is the first step of the quality pyramid, below the Riserva and the Gran Selezione.</p><p>This Chianti Classico from San Felice comes from the winery’s vineyards in Castelnuovo Berardenga, in the south of the appellation. The name <em>Borgo</em> evokes the old hamlet of San Felice where the winery stands. It is made to emphasise the fruit and freshness of Sangiovese, with moderate ageing.</p><p>It is a medium-bodied red with cherry, red berries and floral notes, lively acidity and gentle tannins, ideal with everyday Tuscan cooking.</p>",
+    "fr": "<p>Le Chianti Classico est la zone historique du Chianti, entre Florence et Sienne, identifiée par l’emblème du coq noir. Ses rouges sont majoritairement issus de <strong>sangiovese</strong>, qui peut être complété dans une proportion limitée par d’autres cépages rouges, autochtones ou internationaux. Le Chianti Classico de base, appelé <em>Annata</em>, constitue le premier échelon de la pyramide qualitative, sous la Riserva et la Gran Selezione.</p><p>Ce Chianti Classico de San Felice provient des vignes du domaine à Castelnuovo Berardenga, au sud de l’appellation. Le nom <em>Borgo</em> évoque l’ancien hameau de San Felice où se trouve le domaine. Il est élaboré pour mettre en valeur le fruit et la fraîcheur du sangiovese, avec un élevage modéré.</p><p>C’est un rouge de corps moyen, à la cerise, aux fruits rouges et aux notes florales, à l’acidité vive et aux tanins aimables, idéal avec la cuisine toscane de tous les jours.</p>",
+    "it": "<p>Il Chianti Classico è la zona storica del Chianti, tra Firenze e Siena, contraddistinta dall’emblema del gallo nero. I suoi rossi si ottengono in prevalenza da <strong>Sangiovese</strong>, che può essere completato in quota limitata da altri vitigni a bacca rossa, autoctoni o internazionali. Il Chianti Classico di base, detto <em>Annata</em>, è il primo gradino della piramide qualitativa, sotto la Riserva e la Gran Selezione.</p><p>Questo Chianti Classico di San Felice proviene dai vigneti dell’azienda a Castelnuovo Berardenga, nel sud della denominazione. Il nome <em>Borgo</em> evoca l’antico borgo di San Felice dove si trova la cantina. È prodotto per valorizzare il frutto e la freschezza del Sangiovese, con un affinamento moderato.</p><p>È un rosso di medio corpo, con ciliegia, frutti rossi e note floreali, acidità vivace e tannini gentili, ideale con la cucina toscana di tutti i giorni.</p>"
+  },
+  "tasting": {
+    "es": "Rubí brillante. Aromas de cereza, frambuesa, violeta y hierbas. Boca fresca y jugosa, de taninos amables.",
+    "en": "Bright ruby. Aromas of cherry, raspberry, violet and herbs. Fresh, juicy palate with gentle tannins.",
+    "fr": "Rubis brillant. Arômes de cerise, de framboise, de violette et d’herbes. Bouche fraîche et juteuse, aux tanins aimables.",
+    "it": "Rubino brillante. Aromi di ciliegia, lampone, violetta ed erbe. Bocca fresca e succosa, dai tannini gentili."
+  },
+  "pairing": {
+    "es": "Pasta con ragú, pizza, embutidos toscanos, carnes a la parrilla",
+    "en": "Pasta with ragù, pizza, Tuscan cured meats, grilled meat",
+    "fr": "Pâtes au ragù, pizza, charcuterie toscane, viandes grillées",
+    "it": "Pasta al ragù, pizza, salumi toscani, carni alla griglia"
+  },
+  "serve": {
+    "es": "15-17 °C, copa de vino tinto",
+    "en": "15-17 °C, red wine glass",
+    "fr": "15-17 °C, verre à vin rouge",
+    "it": "15-17 °C, calice da vino rosso"
+  },
+  "search": "Chianti Classico Borgo San Felice"
+}

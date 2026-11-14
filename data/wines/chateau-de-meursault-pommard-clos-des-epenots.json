@@ -1,0 +1,48 @@
+{
+  "slug": "chateau-de-meursault-pommard-clos-des-epenots",
+  "name": "Pommard 1er Cru Clos des Epenots",
+  "winery": "chateau-de-meursault",
+  "region": "cote-de-beaune",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Premier Cru",
+    "en": "Premier Cru",
+    "fr": "Premier Cru",
+    "it": "Premier Cru"
+  },
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Pinot Noir del sector de los Epenots, uno de los premiers crus más reputados de Pommard, elaborado por el Château de Meursault.",
+    "en": "Pinot Noir from the Epenots sector, one of the most highly regarded premiers crus of Pommard, made by Château de Meursault.",
+    "fr": "Pinot noir du secteur des Epenots, l’un des premiers crus les plus réputés de Pommard, élaboré par le Château de Meursault.",
+    "it": "Pinot Noir dal settore degli Epenots, uno dei premier cru più rinomati di Pommard, prodotto dal Château de Meursault."
+  },
+  "body": {
+    "es": "<p><strong>Pommard</strong> es la denominación de los tintos más robustos de la Côte de Beaune: Pinot Noir de color profundo, cuerpo firme y buena capacidad de guarda. Sus premiers crus más conocidos se reparten entre el sector de los Rugiens, hacia Volnay, y el de los <em>Epenots</em>, del lado de Beaune, donde los suelos arcillo-calcáreos con presencia de gravas suelen dar vinos algo más redondos y perfumados.</p><p>El Château de Meursault elabora este premier cru con uva de su parcela en los Epenots, vendimiada a mano y criada en barricas de roble francés. Es un tinto de fruta negra y roja madura, con taninos firmes pero pulidos, que necesita algunos años en botella para mostrar toda su complejidad, con notas de especias, sotobosque y cuero.</p><p>Como el resto de vinos de la casa, se elabora en las bodegas del Château de Meursault, en el pueblo del mismo nombre, donde las distintas parcelas de la finca se vinifican por separado.</p>",
+    "en": "<p><strong>Pommard</strong> is the appellation for the most robust reds of the Côte de Beaune: deeply coloured, firm-bodied Pinot Noir with good ageing potential. Its best-known premiers crus lie in two sectors, the Rugiens towards Volnay and the <em>Epenots</em> on the Beaune side, where clay-limestone soils with some gravel tend to give slightly rounder, more perfumed wines.</p><p>Château de Meursault makes this premier cru from its plot in the Epenots, hand-harvested and aged in French oak barrels. It is a red of ripe black and red fruit, with firm but polished tannins, that needs a few years in bottle to show its full complexity, with notes of spice, undergrowth and leather developing over time.</p><p>Like the estate’s other wines, it is made in the cellars of Château de Meursault, in the village of the same name, where the different plots of the estate are vinified separately.</p>",
+    "fr": "<p><strong>Pommard</strong> est l’appellation des rouges les plus robustes de la Côte de Beaune : des pinots noirs de couleur profonde, de corps ferme et de bonne aptitude au vieillissement. Ses premiers crus les plus connus se répartissent entre le secteur des Rugiens, vers Volnay, et celui des <em>Epenots</em>, du côté de Beaune, où les sols argilo-calcaires mêlés de graviers donnent souvent des vins un peu plus ronds et parfumés.</p><p>Le Château de Meursault élabore ce premier cru à partir de sa parcelle dans les Epenots, vendangée à la main et élevée en fûts de chêne français. C’est un rouge aux fruits noirs et rouges mûrs, aux tanins fermes mais polis, qui demande quelques années de bouteille pour révéler toute sa complexité, avec des notes d’épices, de sous-bois et de cuir.</p><p>Comme les autres vins de la maison, il est élaboré dans les caves du Château de Meursault, dans le village du même nom, où les différentes parcelles du domaine sont vinifiées séparément.</p>",
+    "it": "<p><strong>Pommard</strong> è la denominazione dei rossi più robusti della Côte de Beaune: Pinot Noir di colore profondo, corpo fermo e buona attitudine all’invecchiamento. I suoi premier cru più noti si dividono tra il settore dei Rugiens, verso Volnay, e quello degli <em>Epenots</em>, verso Beaune, dove i suoli argilloso-calcarei con ghiaie danno spesso vini un po’ più rotondi e profumati.</p><p>Il Château de Meursault produce questo premier cru dalla sua parcella negli Epenots, vendemmiata a mano e affinata in barrique di rovere francese. È un rosso di frutta nera e rossa matura, dai tannini fermi ma levigati, che ha bisogno di qualche anno di bottiglia per mostrare tutta la sua complessità, con note di spezie, sottobosco e cuoio.</p><p>Come gli altri vini della casa, è prodotto nelle cantine del Château de Meursault, nel villaggio omonimo, dove le diverse parcelle della tenuta sono vinificate separatamente.</p>"
+  },
+  "tasting": {
+    "es": "Rojo granate profundo. Aromas de cereza negra, ciruela y especias. Boca firme y carnosa, de taninos pulidos y final largo.",
+    "en": "Deep garnet. Aromas of black cherry, plum and spice. Firm, fleshy palate with polished tannins and a long finish.",
+    "fr": "Grenat profond. Arômes de cerise noire, de prune et d’épices. Bouche ferme et charnue, aux tanins polis et à la finale longue.",
+    "it": "Granato profondo. Aromi di ciliegia nera, prugna e spezie. Bocca ferma e carnosa, dai tannini levigati e dal finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas, caza, aves asadas, quesos de pasta lavada",
+    "en": "Red meats, game, roast poultry, washed-rind cheeses",
+    "fr": "Viandes rouges, gibier, volailles rôties, fromages à pâte lavée",
+    "it": "Carni rosse, selvaggina, pollame arrosto, formaggi a pasta lavata"
+  },
+  "serve": {
+    "es": "16-17 °C, copa de Borgoña",
+    "en": "16-17 °C, Burgundy glass",
+    "fr": "16-17 °C, verre de Bourgogne",
+    "it": "16-17 °C, calice da Borgogna"
+  },
+  "search": "Pommard 1er Cru Clos des Epenots Château de Meursault"
+}

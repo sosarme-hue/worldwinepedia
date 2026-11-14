@@ -1,0 +1,48 @@
+{
+  "slug": "mazzei-ser-lapo-riserva",
+  "name": "Chianti Classico Riserva Ser Lapo",
+  "winery": "mazzei",
+  "region": "chianti-classico",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "Riserva",
+    "en": "Riserva",
+    "fr": "Riserva",
+    "it": "Riserva"
+  },
+  "grapes": [
+    "sangiovese"
+  ],
+  "summary": {
+    "es": "Chianti Classico Riserva de la familia Mazzei, dedicado a Ser Lapo Mazzei, notario florentino asociado al primer uso documentado del nombre Chianti para un vino.",
+    "en": "Chianti Classico Riserva from the Mazzei family, dedicated to Ser Lapo Mazzei, a Florentine notary associated with the first documented use of the name Chianti for a wine.",
+    "fr": "Chianti Classico Riserva de la famille Mazzei, dédié à Ser Lapo Mazzei, notaire florentin associé au premier usage documenté du nom Chianti pour un vin.",
+    "it": "Chianti Classico Riserva della famiglia Mazzei, dedicato a Ser Lapo Mazzei, notaio fiorentino associato al primo uso documentato del nome Chianti per un vino."
+  },
+  "body": {
+    "es": "<p>Ser Lapo Mazzei fue un notario florentino de finales del siglo XIV, antepasado de la familia propietaria de Castello di Fonterutoli. Se le atribuye un documento de 1398 en el que aparece por primera vez el nombre «Chianti» referido a un vino, y la familia le dedica este Riserva.</p><p>Según las normas de la denominación, un Chianti Classico <strong>Riserva</strong> debe envejecer al menos dos años antes de salir al mercado, incluido un periodo en botella. El vino se basa en la <strong>Sangiovese</strong>, la variedad principal de la zona, a la que puede acompañar una pequeña proporción de otras uvas autorizadas, y se cría en madera.</p><p>Es un tinto de perfil clásico, con fruta roja madura, notas especiadas y la acidez característica del Sangiovese, que le da frescura y capacidad de guarda. Gana complejidad tras unos años en botella.</p>",
+    "en": "<p>Ser Lapo Mazzei was a Florentine notary of the late 14th century, an ancestor of the family that owns Castello di Fonterutoli. He is credited with a document dated 1398 in which the name 'Chianti' appears for the first time referring to a wine, and the family dedicates this Riserva to him.</p><p>Under the appellation's rules, a Chianti Classico <strong>Riserva</strong> must age for at least two years before release, including a period in bottle. The wine is based on <strong>Sangiovese</strong>, the area's main variety, which may be joined by a small proportion of other authorised grapes, and is aged in wood.</p><p>It is a red of classic profile, with ripe red fruit, spicy notes and Sangiovese's characteristic acidity, which gives it freshness and ageing potential. It gains complexity after a few years in bottle.</p>",
+    "fr": "<p>Ser Lapo Mazzei était un notaire florentin de la fin du XIVe siècle, ancêtre de la famille propriétaire du Castello di Fonterutoli. On lui attribue un document de 1398 dans lequel apparaît pour la première fois le nom « Chianti » appliqué à un vin, et la famille lui dédie ce Riserva.</p><p>Selon les règles de l'appellation, un Chianti Classico <strong>Riserva</strong> doit vieillir au moins deux ans avant sa commercialisation, dont une période en bouteille. Le vin repose sur le <strong>sangiovese</strong>, le principal cépage de la zone, que peut accompagner une petite proportion d'autres raisins autorisés, et il est élevé sous bois.</p><p>C'est un rouge de profil classique, aux fruits rouges mûrs, aux notes épicées et à l'acidité caractéristique du sangiovese, qui lui donne fraîcheur et aptitude à la garde. Il gagne en complexité après quelques années en bouteille.</p>",
+    "it": "<p>Ser Lapo Mazzei fu un notaio fiorentino della fine del Trecento, antenato della famiglia proprietaria di Castello di Fonterutoli. Gli si attribuisce un documento del 1398 in cui compare per la prima volta il nome «Chianti» riferito a un vino, e la famiglia gli dedica questa Riserva.</p><p>Secondo il disciplinare, un Chianti Classico <strong>Riserva</strong> deve invecchiare almeno due anni prima della commercializzazione, compreso un periodo in bottiglia. Il vino si basa sul <strong>Sangiovese</strong>, la varietà principale della zona, a cui può affiancarsi una piccola quota di altre uve autorizzate, ed è affinato in legno.</p><p>È un rosso dal profilo classico, con frutta rossa matura, note speziate e la caratteristica acidità del Sangiovese, che gli conferisce freschezza e capacità d'invecchiamento. Guadagna complessità dopo alcuni anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí. Aromas de cereza, ciruela, violeta, especias y notas balsámicas. Boca sabrosa y equilibrada, de taninos finos y buena acidez.",
+    "en": "Ruby red. Aromas of cherry, plum, violet, spice and balsamic notes. Savoury, balanced palate with fine tannins and good acidity.",
+    "fr": "Rouge rubis. Arômes de cerise, de prune, de violette, d'épices et notes balsamiques. Bouche savoureuse et équilibrée, aux tanins fins et à la bonne acidité.",
+    "it": "Rosso rubino. Aromi di ciliegia, prugna, violetta, spezie e note balsamiche. Bocca saporita ed equilibrata, dai tannini fini e di buona acidità."
+  },
+  "pairing": {
+    "es": "Carnes asadas, pasta con ragú, setas, quesos curados",
+    "en": "Roast meats, pasta with ragù, mushrooms, aged cheeses",
+    "fr": "Viandes rôties, pâtes au ragù, champignons, fromages affinés",
+    "it": "Carni arrosto, pasta al ragù, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Chianti Classico Riserva Ser Lapo Mazzei Fonterutoli"
+}

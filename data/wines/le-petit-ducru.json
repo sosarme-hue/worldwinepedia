@@ -1,0 +1,49 @@
+{
+  "slug": "le-petit-ducru",
+  "name": "Le Petit Ducru",
+  "winery": "chateau-ducru-beaucaillou",
+  "region": "saint-julien",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Saint-Julien",
+    "en": "Saint-Julien",
+    "fr": "Saint-Julien",
+    "it": "Saint-Julien"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Saint-Julien de Château Ducru-Beaucaillou de perfil más accesible que el gran vino y el segundo vino, pensado para disfrutarse antes.",
+    "en": "Saint-Julien from Château Ducru-Beaucaillou with a more approachable profile than the grand vin and second wine, designed to be enjoyed earlier.",
+    "fr": "Saint-julien du château Ducru-Beaucaillou au profil plus accessible que le grand vin et le second vin, conçu pour être apprécié plus tôt.",
+    "it": "Saint-Julien di Château Ducru-Beaucaillou dal profilo più accessibile del grand vin e del secondo vino, pensato per essere gustato prima."
+  },
+  "body": {
+    "es": "<p>Le Petit Ducru es el vino más accesible de la gama de Château Ducru-Beaucaillou, segundo gran cru clasificado de <strong>Saint-Julien</strong> propiedad de la familia Borie. Se sitúa por detrás del gran vino y del segundo vino, La Croix de Beaucaillou, y se acoge también a la denominación Saint-Julien.</p><p>Procede de parcelas de la propiedad dentro de la denominación, con frecuencia de viñas más jóvenes o de lotes cuyo perfil se adapta mejor a un vino de consumo más temprano. Se elabora con las variedades del Médoc, principalmente <strong>Cabernet Sauvignon</strong> y <strong>Merlot</strong>, en proporciones que varían según la añada.</p><p>La crianza en barrica es más corta y con menos madera nueva que la de los otros vinos de la casa. El resultado es un tinto de cuerpo medio, con fruta negra, notas de cedro y taninos suaves, que ofrece una primera aproximación al estilo de Saint-Julien y puede disfrutarse tras pocos años de botella.</p>",
+    "en": "<p>Le Petit Ducru is the most approachable wine in the range of Château Ducru-Beaucaillou, the Borie family’s second growth in <strong>Saint-Julien</strong>. It ranks behind the grand vin and the second wine, La Croix de Beaucaillou, and is also bottled under the Saint-Julien appellation.</p><p>It comes from estate plots within the appellation, often from younger vines or from lots whose profile is better suited to a wine for earlier drinking. It is made from the Médoc varieties, mainly <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong>, in proportions that vary with the vintage.</p><p>Barrel ageing is shorter and uses less new oak than for the house’s other wines. The result is a medium-bodied red with black fruit, cedar notes and soft tannins, which offers a first approach to the Saint-Julien style and can be enjoyed after just a few years in bottle.</p>",
+    "fr": "<p>Le Petit Ducru est le vin le plus accessible de la gamme du château Ducru-Beaucaillou, second grand cru classé de <strong>Saint-Julien</strong> appartenant à la famille Borie. Il se place après le grand vin et le second vin, La Croix de Beaucaillou, et relève lui aussi de l’appellation Saint-Julien.</p><p>Il provient de parcelles de la propriété situées dans l’appellation, souvent de vignes plus jeunes ou de lots dont le profil convient mieux à un vin à boire plus tôt. Il est élaboré avec les cépages du Médoc, principalement le <strong>cabernet sauvignon</strong> et le <strong>merlot</strong>, dans des proportions qui varient selon le millésime.</p><p>L’élevage en barrique est plus court et fait moins appel au bois neuf que pour les autres vins de la maison. Il en résulte un rouge de corps moyen, au fruit noir, aux notes de cèdre et aux tanins souples, qui offre une première approche du style de Saint-Julien et s’apprécie après quelques années de bouteille.</p>",
+    "it": "<p>Le Petit Ducru è il vino più accessibile della gamma di Château Ducru-Beaucaillou, secondo grand cru classé di <strong>Saint-Julien</strong> di proprietà della famiglia Borie. Si colloca dopo il grand vin e il secondo vino, La Croix de Beaucaillou, e rientra anch’esso nella denominazione Saint-Julien.</p><p>Proviene da parcelle della proprietà all’interno della denominazione, spesso da vigne più giovani o da partite il cui profilo si adatta meglio a un vino da bere prima. È prodotto con le varietà del Médoc, principalmente <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong>, in proporzioni che variano secondo l’annata.</p><p>L’affinamento in barrique è più breve e con meno legno nuovo rispetto agli altri vini della casa. Il risultato è un rosso di medio corpo, con frutto nero, note di cedro e tannini morbidi, che offre un primo approccio allo stile di Saint-Julien e si può gustare dopo pochi anni di bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de casis, cereza negra, cedro y especias suaves. Boca redonda, de taninos finos y final fresco.",
+    "en": "Deep ruby. Aromas of blackcurrant, black cherry, cedar and gentle spice. Round palate with fine tannins and a fresh finish.",
+    "fr": "Rubis intense. Arômes de cassis, de cerise noire, de cèdre et d’épices douces. Bouche ronde, aux tanins fins et à la finale fraîche.",
+    "it": "Rubino intenso. Aromi di ribes nero, ciliegia nera, cedro e spezie delicate. Bocca rotonda, dai tannini fini e dal finale fresco."
+  },
+  "pairing": {
+    "es": "Cordero, carnes rojas a la parrilla, aves asadas, quesos semicurados",
+    "en": "Lamb, grilled red meat, roast poultry, semi-hard cheeses",
+    "fr": "Agneau, viandes rouges grillées, volailles rôties, fromages mi-affinés",
+    "it": "Agnello, carni rosse alla griglia, pollame arrosto, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa tipo Burdeos",
+    "en": "16-18 °C, Bordeaux glass",
+    "fr": "16-18 °C, verre de type bordelais",
+    "it": "16-18 °C, calice tipo Bordeaux"
+  },
+  "search": "Le Petit Ducru Saint-Julien Ducru-Beaucaillou"
+}

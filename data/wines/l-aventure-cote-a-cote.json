@@ -1,0 +1,45 @@
+{
+  "slug": "l-aventure-cote-a-cote",
+  "name": "Côte à Côte",
+  "winery": "l-aventure",
+  "region": "paso-robles",
+  "country": "estados-unidos",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha",
+    "syrah",
+    "monastrell"
+  ],
+  "summary": {
+    "es": "Ensamblaje de inspiración rodaniana de L’Aventure, a base de Garnacha, Syrah y Mourvèdre.",
+    "en": "Rhône-inspired blend from L’Aventure, based on Grenache, Syrah and Mourvèdre.",
+    "fr": "Assemblage d’inspiration rhodanienne de L’Aventure, à base de grenache, de syrah et de mourvèdre.",
+    "it": "Assemblaggio di ispirazione rodaniana di L’Aventure, a base di Grenache, Syrah e Mourvèdre."
+  },
+  "body": {
+    "es": "<p><strong>L’Aventure</strong>, fundada por el francés Stephan Asseo en la zona occidental de Paso Robles, en la Costa Central de California, cultiva sus viñas en laderas calcáreas refrescadas por las brisas del Pacífico, con días cálidos y noches frescas.</p><p><strong>Côte à Côte</strong> es el homenaje de la casa al Ródano meridional: ensambla <strong>Garnacha</strong>, <strong>Syrah</strong> y <strong>Mourvèdre</strong>, las variedades de Châteauneuf-du-Pape, cultivadas en la finca de Paso Robles. Las proporciones varían según la añada, y el vino se cría en barricas y fudres de roble. Es un tinto amplio y especiado, de fruta roja y negra madura, con la generosidad del sol californiano y una frescura sostenida por los suelos calcáreos y las noches frescas.</p><p>Como el resto de vinos de la casa, conviene decantarlo si se abre joven y servirlo con platos de carácter, que estén a la altura de su intensidad.</p>",
+    "en": "<p><strong>L’Aventure</strong>, founded by Frenchman Stephan Asseo on the west side of Paso Robles, on California’s Central Coast, farms its vines on limestone slopes cooled by Pacific breezes, with warm days and cool nights.</p><p><strong>Côte à Côte</strong> is the house’s tribute to the southern Rhône: it blends <strong>Grenache</strong>, <strong>Syrah</strong> and <strong>Mourvèdre</strong>, the varieties of Châteauneuf-du-Pape, grown on the Paso Robles estate. The proportions vary with the vintage, and the wine is aged in oak barrels and larger casks. It is a broad, spicy red with ripe red and black fruit, combining the generosity of the Californian sun with a freshness supported by the limestone soils and cool nights.</p><p>Like the estate’s other wines, it is worth decanting if opened young and serving with full-flavoured dishes that match its intensity.</p>",
+    "fr": "<p><strong>L’Aventure</strong>, fondé par le Français Stephan Asseo dans l’ouest de Paso Robles, sur la Central Coast californienne, cultive ses vignes sur des coteaux calcaires rafraîchis par les brises du Pacifique, aux journées chaudes et aux nuits fraîches.</p><p><strong>Côte à Côte</strong> est l’hommage de la maison au Rhône méridional : il assemble <strong>grenache</strong>, <strong>syrah</strong> et <strong>mourvèdre</strong>, les cépages de Châteauneuf-du-Pape, cultivés sur le domaine de Paso Robles. Les proportions varient selon le millésime, et le vin est élevé en barriques et en foudres de chêne. C’est un rouge ample et épicé, aux fruits rouges et noirs mûrs, qui allie la générosité du soleil californien à une fraîcheur soutenue par les sols calcaires et les nuits fraîches.</p><p>Comme les autres vins de la maison, mieux vaut le carafer s’il est ouvert jeune et le servir avec des plats de caractère, à la mesure de son intensité.</p>",
+    "it": "<p><strong>L’Aventure</strong>, fondata dal francese Stephan Asseo nella zona occidentale di Paso Robles, sulla Central Coast californiana, coltiva le sue vigne su pendii calcarei rinfrescati dalle brezze del Pacifico, con giornate calde e notti fresche.</p><p><strong>Côte à Côte</strong> è l’omaggio della casa al Rodano meridionale: assembla <strong>Grenache</strong>, <strong>Syrah</strong> e <strong>Mourvèdre</strong>, i vitigni di Châteauneuf-du-Pape, coltivati nella tenuta di Paso Robles. Le proporzioni variano secondo l’annata, e il vino affina in barrique e botti di rovere. È un rosso ampio e speziato, di frutta rossa e nera matura, che unisce la generosità del sole californiano a una freschezza sostenuta dai suoli calcarei e dalle notti fresche.</p><p>Come gli altri vini della casa, conviene decantarlo se aperto giovane e servirlo con piatti di carattere, all’altezza della sua intensità.</p>"
+  },
+  "tasting": {
+    "es": "Rojo granate. Aromas de frambuesa madura, cereza negra, pimienta y garriga. Boca amplia, cálida y especiada.",
+    "en": "Garnet red. Aromas of ripe raspberry, black cherry, pepper and garrigue. Broad, warm, spicy palate.",
+    "fr": "Rouge grenat. Arômes de framboise mûre, de cerise noire, de poivre et de garrigue. Bouche ample, chaleureuse et épicée.",
+    "it": "Rosso granato. Aromi di lampone maturo, ciliegia nera, pepe e macchia mediterranea. Bocca ampia, calda e speziata."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, cordero, costillas, quesos curados",
+    "en": "Grilled red meats, lamb, ribs, aged cheeses",
+    "fr": "Viandes rouges grillées, agneau, travers, fromages affinés",
+    "it": "Carni rosse alla brace, agnello, costine, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "L'Aventure Côte à Côte Paso Robles"
+}

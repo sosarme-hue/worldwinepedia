@@ -1,0 +1,51 @@
+{
+  "slug": "domaine-de-chevalier-rouge",
+  "name": "Domaine de Chevalier Rouge",
+  "winery": "domaine-de-chevalier",
+  "region": "pessac-leognan",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Cru Classé de Graves",
+    "en": "Cru Classé de Graves",
+    "fr": "Cru Classé de Graves",
+    "it": "Cru Classé de Graves"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "petit-verdot",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "El tinto del Domaine de Chevalier, un Pessac-Léognan de Cabernet Sauvignon y Merlot elegante, fresco y de larga guarda.",
+    "en": "The red of Domaine de Chevalier, an elegant, fresh and long-lived Pessac-Léognan of Cabernet Sauvignon and Merlot.",
+    "fr": "Le rouge du Domaine de Chevalier, un pessac-léognan de cabernet sauvignon et de merlot élégant, frais et de longue garde.",
+    "it": "Il rosso del Domaine de Chevalier, un Pessac-Léognan di Cabernet Sauvignon e Merlot elegante, fresco e longevo."
+  },
+  "body": {
+    "es": "<p>Pessac-Léognan, al sur de Burdeos, reúne a las fincas clasificadas de los Graves. Sus tintos, elaborados sobre suelos de grava, se basan en la <strong>Cabernet Sauvignon</strong> y la <strong>Merlot</strong>, y suelen asociarse a un perfil elegante, con notas ahumadas o minerales y una estructura que permite el envejecimiento.</p><p>El tinto del Domaine de Chevalier, clasificado en la clasificación de los Graves, procede del viñedo de la propiedad en Léognan, situado en un claro rodeado de bosque. El ensamblaje se basa en la Cabernet Sauvignon, completada con Merlot y pequeñas proporciones de Petit Verdot y Cabernet Franc, y el vino se cría en barricas de roble francés.</p><p>Es un tinto de cuerpo medio, más centrado en la finura y la frescura que en la potencia, con fruta negra, notas de cedro, tabaco y grafito y taninos finos. Es un vino de larga guarda que gana complejidad con los años.</p>",
+    "en": "<p>Pessac-Léognan, south of Bordeaux, is home to the classified estates of the Graves. Its reds, grown on gravel soils, are based on <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong> and are usually associated with an elegant profile, with smoky or mineral notes and a structure that allows ageing.</p><p>The red of Domaine de Chevalier, listed in the Graves classification, comes from the estate’s vineyard in Léognan, set in a clearing surrounded by forest. The blend is based on Cabernet Sauvignon, completed with Merlot and small proportions of Petit Verdot and Cabernet Franc, and the wine is aged in French oak barrels.</p><p>It is a medium-bodied red, focused more on finesse and freshness than on power, with black fruit, notes of cedar, tobacco and graphite and fine tannins. It is a wine for long ageing that gains complexity over the years.</p>",
+    "fr": "<p>Pessac-Léognan, au sud de Bordeaux, réunit les crus classés des Graves. Ses rouges, issus de sols de graves, reposent sur le <strong>cabernet sauvignon</strong> et le <strong>merlot</strong> et sont généralement associés à un profil élégant, aux notes fumées ou minérales, avec une structure qui permet le vieillissement.</p><p>Le rouge du Domaine de Chevalier, classé au classement des Graves, provient du vignoble de la propriété à Léognan, situé dans une clairière entourée de forêt. L’assemblage repose sur le cabernet sauvignon, complété par le merlot et de petites proportions de petit verdot et de cabernet franc, et le vin est élevé en barriques de chêne français.</p><p>C’est un rouge de corps moyen, axé sur la finesse et la fraîcheur plutôt que sur la puissance, aux fruits noirs, aux notes de cèdre, de tabac et de graphite et aux tanins fins. C’est un vin de longue garde qui gagne en complexité avec les années.</p>",
+    "it": "<p>Pessac-Léognan, a sud di Bordeaux, riunisce le tenute classificate delle Graves. I suoi rossi, da suoli ghiaiosi, si basano su <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong> e sono di solito associati a un profilo elegante, con note affumicate o minerali e una struttura che consente l’invecchiamento.</p><p>Il rosso del Domaine de Chevalier, presente nella classificazione delle Graves, proviene dal vigneto della tenuta a Léognan, situato in una radura circondata dal bosco. L’assemblaggio si basa sul Cabernet Sauvignon, completato da Merlot e da piccole quote di Petit Verdot e Cabernet Franc, e il vino è affinato in barrique di rovere francese.</p><p>È un rosso di medio corpo, incentrato più sulla finezza e sulla freschezza che sulla potenza, con frutti neri, note di cedro, tabacco e grafite e tannini fini. È un vino da lungo invecchiamento che acquista complessità con gli anni.</p>"
+  },
+  "tasting": {
+    "es": "Rubí oscuro. Aromas de cassis, mora, cedro, tabaco y notas ahumadas. Boca elegante y fresca, de taninos finos y final largo.",
+    "en": "Dark ruby. Aromas of cassis, blackberry, cedar, tobacco and smoky notes. Elegant, fresh palate with fine tannins and a long finish.",
+    "fr": "Rubis sombre. Arômes de cassis, de mûre, de cèdre, de tabac et notes fumées. Bouche élégante et fraîche, aux tanins fins et à la finale longue.",
+    "it": "Rubino scuro. Aromi di cassis, mora, cedro, tabacco e note affumicate. Bocca elegante e fresca, dai tannini fini e finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, solomillo, caza de pluma, quesos curados",
+    "en": "Roast lamb, beef fillet, game birds, aged cheeses",
+    "fr": "Agneau rôti, filet de bœuf, gibier à plume, fromages affinés",
+    "it": "Agnello arrosto, filetto di manzo, selvaggina da piuma, formaggi stagionati"
+  },
+  "serve": {
+    "es": "17-18 °C, copa de tipo burdeos; decantar",
+    "en": "17-18 °C, Bordeaux-style glass; decant",
+    "fr": "17-18 °C, verre de type bordeaux ; carafer",
+    "it": "17-18 °C, calice tipo bordolese; decantare"
+  },
+  "search": "Domaine de Chevalier Rouge Pessac-Léognan"
+}

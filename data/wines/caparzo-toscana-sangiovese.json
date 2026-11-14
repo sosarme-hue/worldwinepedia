@@ -1,0 +1,48 @@
+{
+  "slug": "caparzo-toscana-sangiovese",
+  "name": "Caparzo Toscana Sangiovese",
+  "winery": "caparzo",
+  "region": "toscana",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "IGT Toscana",
+    "en": "IGT Toscana",
+    "fr": "IGT Toscana",
+    "it": "IGT Toscana"
+  },
+  "grapes": [
+    "sangiovese"
+  ],
+  "summary": {
+    "es": "Sangiovese de Tenuta Caparzo bajo la indicación IGT Toscana, un tinto afrutado y fresco para el consumo cotidiano.",
+    "en": "Sangiovese from Tenuta Caparzo under the IGT Toscana indication, a fruity, fresh red for everyday drinking.",
+    "fr": "Sangiovese de Tenuta Caparzo en IGT Toscana, un rouge fruité et frais pour tous les jours.",
+    "it": "Sangiovese di Tenuta Caparzo a indicazione IGT Toscana, un rosso fruttato e fresco per il consumo quotidiano."
+  },
+  "body": {
+    "es": "<p>El Toscana Sangiovese es el tinto de entrada de Tenuta Caparzo, la finca de Montalcino conocida por sus Brunello. Se comercializa bajo la indicación geográfica <strong>IGT Toscana</strong>, que permite elaborar vinos con uvas de distintas zonas de la región y con normas menos estrictas que las de las denominaciones de origen.</p><p>Se elabora con <strong>Sangiovese</strong>, la gran variedad tinta de Toscana, base del Chianti, del Vino Nobile y del Brunello. La uva se caracteriza por su acidez marcada, sus taninos firmes y sus aromas de cereza y violeta; en vinos jóvenes como este destaca sobre todo su lado afrutado y fresco.</p><p>La vinificación busca preservar la fruta, con una crianza breve, en depósito o en madera usada, que no marque el vino. El resultado es un tinto de cuerpo medio, jugoso y fácil de beber, que ofrece una aproximación sencilla al Sangiovese toscano y acompaña con naturalidad la cocina italiana de cada día.</p>",
+    "en": "<p>Toscana Sangiovese is the entry-level red of Tenuta Caparzo, the Montalcino estate known for its Brunellos. It is sold under the <strong>IGT Toscana</strong> geographical indication, which allows wines to be made from grapes from different parts of the region and under less strict rules than the appellations.</p><p>It is made from <strong>Sangiovese</strong>, Tuscany’s great red variety and the basis of Chianti, Vino Nobile and Brunello. The grape is known for its marked acidity, firm tannins and aromas of cherry and violet; in young wines like this one, its fruity, fresh side comes to the fore.</p><p>Winemaking aims to preserve the fruit, with short ageing in tank or used wood that does not mark the wine. The result is a medium-bodied, juicy and easy-drinking red that offers a simple introduction to Tuscan Sangiovese and naturally accompanies everyday Italian cooking.</p>",
+    "fr": "<p>Le Toscana Sangiovese est le rouge d’entrée de Tenuta Caparzo, le domaine de Montalcino connu pour ses brunellos. Il est commercialisé sous l’indication géographique <strong>IGT Toscana</strong>, qui permet d’élaborer des vins avec des raisins de différents secteurs de la région et selon des règles moins strictes que celles des appellations.</p><p>Il est élaboré à partir de <strong>sangiovese</strong>, le grand cépage rouge de Toscane, base du chianti, du vino nobile et du brunello. Ce raisin se caractérise par une acidité marquée, des tanins fermes et des arômes de cerise et de violette ; dans des vins jeunes comme celui-ci, c’est surtout son côté fruité et frais qui ressort.</p><p>La vinification cherche à préserver le fruit, avec un élevage court en cuve ou en bois usagé qui ne marque pas le vin. Il en résulte un rouge de corps moyen, juteux et facile à boire, qui offre une approche simple du sangiovese toscan et accompagne naturellement la cuisine italienne du quotidien.</p>",
+    "it": "<p>Il Toscana Sangiovese è il rosso d’ingresso di Tenuta Caparzo, la tenuta di Montalcino nota per i suoi Brunello. È commercializzato con l’indicazione geografica <strong>IGT Toscana</strong>, che consente di produrre vini con uve di diverse zone della regione e con regole meno rigide di quelle delle denominazioni di origine.</p><p>È prodotto con <strong>Sangiovese</strong>, il grande vitigno rosso della Toscana, base del Chianti, del Vino Nobile e del Brunello. L’uva si distingue per l’acidità marcata, i tannini decisi e gli aromi di ciliegia e viola; nei vini giovani come questo emerge soprattutto il suo lato fruttato e fresco.</p><p>La vinificazione mira a preservare il frutto, con un breve affinamento in vasca o in legno usato che non segna il vino. Il risultato è un rosso di medio corpo, succoso e di facile beva, che offre un approccio semplice al Sangiovese toscano e accompagna con naturalezza la cucina italiana di tutti i giorni.</p>"
+  },
+  "tasting": {
+    "es": "Rubí. Aromas de cereza, ciruela roja y violeta. Boca fresca, jugosa y de taninos ligeros.",
+    "en": "Ruby. Aromas of cherry, red plum and violet. Fresh, juicy palate with light tannins.",
+    "fr": "Rubis. Arômes de cerise, de prune rouge et de violette. Bouche fraîche, juteuse, aux tanins légers.",
+    "it": "Rubino. Aromi di ciliegia, prugna rossa e viola. Bocca fresca, succosa, dai tannini leggeri."
+  },
+  "pairing": {
+    "es": "Pasta con tomate, pizza, embutidos, carnes a la parrilla",
+    "en": "Pasta with tomato sauce, pizza, cured meats, grilled meats",
+    "fr": "Pâtes à la tomate, pizza, charcuterie, viandes grillées",
+    "it": "Pasta al pomodoro, pizza, salumi, carni alla griglia"
+  },
+  "serve": {
+    "es": "15-17 °C, copa de tinto",
+    "en": "15-17 °C, red wine glass",
+    "fr": "15-17 °C, verre à vin rouge",
+    "it": "15-17 °C, calice da rosso"
+  },
+  "search": "Caparzo Toscana Sangiovese"
+}

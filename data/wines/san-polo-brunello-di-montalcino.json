@@ -1,0 +1,48 @@
+{
+  "slug": "san-polo-brunello-di-montalcino",
+  "name": "San Polo Brunello di Montalcino",
+  "winery": "allegrini",
+  "region": "brunello-di-montalcino",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "Brunello di Montalcino DOCG",
+    "en": "Brunello di Montalcino DOCG",
+    "fr": "Brunello di Montalcino DOCG",
+    "it": "Brunello di Montalcino DOCG"
+  },
+  "grapes": [
+    "sangiovese"
+  ],
+  "summary": {
+    "es": "El Brunello di Montalcino de San Polo, finca toscana vinculada a la familia Allegrini, un Sangiovese estructurado y de larga guarda.",
+    "en": "The Brunello di Montalcino of San Polo, a Tuscan estate linked to the Allegrini family, a structured, long-lived Sangiovese.",
+    "fr": "Le Brunello di Montalcino de San Polo, domaine toscan lié à la famille Allegrini, un sangiovese structuré et de longue garde.",
+    "it": "Il Brunello di Montalcino di San Polo, tenuta toscana legata alla famiglia Allegrini, un Sangiovese strutturato e longevo."
+  },
+  "body": {
+    "es": "<p>El <strong>Brunello di Montalcino</strong>, en la provincia de Siena, es uno de los grandes tintos de Italia. Se elabora exclusivamente con <strong>Sangiovese</strong>, conocida localmente como Brunello, en el territorio de la colina de Montalcino, y la normativa exige una larga crianza antes de su salida al mercado, de la que una parte debe realizarse en madera. El resultado son vinos de gran estructura y capacidad de envejecimiento.</p><p>San Polo es una finca de Montalcino vinculada a la familia Allegrini, conocida sobre todo por sus vinos de Valpolicella, en el Véneto. Su Brunello procede de los viñedos de la propiedad y se cría en roble, buscando equilibrar la potencia de la Sangiovese de Montalcino con la frescura y la finura aromática.</p><p>Es un tinto de cuerpo pleno, con cereza madura, ciruela, notas de violeta, especias, cuero y tabaco, taninos firmes y una acidez viva. Necesita tiempo en botella y conviene decantarlo antes de servir.</p>",
+    "en": "<p><strong>Brunello di Montalcino</strong>, in the province of Siena, is one of Italy’s great reds. It is made exclusively from <strong>Sangiovese</strong>, known locally as Brunello, within the territory of the hill of Montalcino, and the rules require long ageing before release, part of which must take place in wood. The result is wines of great structure and ageing capacity.</p><p>San Polo is a Montalcino estate linked to the Allegrini family, best known for its Valpolicella wines in the Veneto. Its Brunello comes from the estate’s vineyards and is aged in oak, seeking to balance the power of Montalcino Sangiovese with freshness and aromatic finesse.</p><p>It is a full-bodied red with ripe cherry, plum, notes of violet, spice, leather and tobacco, firm tannins and lively acidity. It needs time in bottle and is best decanted before serving, ideally a few hours ahead.</p>",
+    "fr": "<p>Le <strong>Brunello di Montalcino</strong>, dans la province de Sienne, est l’un des grands rouges d’Italie. Il est élaboré exclusivement à partir de <strong>sangiovese</strong>, appelé localement brunello, sur le territoire de la colline de Montalcino, et la réglementation impose un long vieillissement avant la mise en marché, dont une partie doit se faire sous bois. Il en résulte des vins d’une grande structure et d’une grande aptitude au vieillissement.</p><p>San Polo est un domaine de Montalcino lié à la famille Allegrini, connue surtout pour ses vins de Valpolicella, en Vénétie. Son Brunello provient des vignes de la propriété et il est élevé en chêne, en cherchant à équilibrer la puissance du sangiovese de Montalcino avec la fraîcheur et la finesse aromatique.</p><p>C’est un rouge ample, à la cerise mûre, à la prune, aux notes de violette, d’épices, de cuir et de tabac, aux tanins fermes et à l’acidité vive. Il demande du temps en bouteille et gagne à être carafé avant le service.</p>",
+    "it": "<p>Il <strong>Brunello di Montalcino</strong>, in provincia di Siena, è uno dei grandi rossi d’Italia. Si ottiene esclusivamente da <strong>Sangiovese</strong>, chiamato localmente Brunello, nel territorio della collina di Montalcino, e il disciplinare impone un lungo invecchiamento prima dell’immissione in commercio, in parte obbligatoriamente in legno. Ne derivano vini di grande struttura e capacità d’invecchiamento.</p><p>San Polo è una tenuta di Montalcino legata alla famiglia Allegrini, nota soprattutto per i suoi vini della Valpolicella, in Veneto. Il suo Brunello proviene dai vigneti della proprietà ed è affinato in rovere, cercando di equilibrare la potenza del Sangiovese di Montalcino con la freschezza e la finezza aromatica.</p><p>È un rosso di corpo pieno, con ciliegia matura, prugna, note di violetta, spezie, cuoio e tabacco, tannini decisi e un’acidità vivace. Ha bisogno di tempo in bottiglia e conviene decantarlo prima del servizio.</p>"
+  },
+  "tasting": {
+    "es": "Rubí granate. Aromas de cereza madura, ciruela, violeta, especias, cuero y tabaco. Boca potente y sabrosa, de taninos firmes y final largo.",
+    "en": "Ruby-garnet. Aromas of ripe cherry, plum, violet, spice, leather and tobacco. Powerful, savoury palate with firm tannins and a long finish.",
+    "fr": "Rubis grenat. Arômes de cerise mûre, de prune, de violette, d’épices, de cuir et de tabac. Bouche puissante et sapide, aux tanins fermes et à la finale longue.",
+    "it": "Rubino granato. Aromi di ciliegia matura, prugna, violetta, spezie, cuoio e tabacco. Bocca potente e sapida, dai tannini decisi e finale lungo."
+  },
+  "pairing": {
+    "es": "Bistecca a la florentina, estofado de jabalí, caza, pecorino curado",
+    "en": "Bistecca alla fiorentina, wild boar stew, game, aged pecorino",
+    "fr": "Bistecca alla fiorentina, civet de sanglier, gibier, pecorino affiné",
+    "it": "Bistecca alla fiorentina, cinghiale in umido, selvaggina, pecorino stagionato"
+  },
+  "serve": {
+    "es": "17-18 °C, copa amplia; decantar",
+    "en": "17-18 °C, large glass; decant",
+    "fr": "17-18 °C, grand verre ; carafer",
+    "it": "17-18 °C, calice ampio; decantare"
+  },
+  "search": "San Polo Brunello di Montalcino"
+}

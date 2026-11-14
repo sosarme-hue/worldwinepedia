@@ -1,0 +1,43 @@
+{
+  "slug": "pujanza-norte",
+  "name": "Pujanza Norte",
+  "winery": "pujanza",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Tinto de Tempranillo de Bodegas Pujanza procedente de viñedos de altura al pie de la Sierra de Cantabria.",
+    "en": "Tempranillo red from Bodegas Pujanza from high-altitude vineyards at the foot of the Sierra de Cantabria.",
+    "fr": "Rouge de tempranillo de Bodegas Pujanza issu de vignes d'altitude au pied de la Sierra de Cantabria.",
+    "it": "Rosso di Tempranillo di Bodegas Pujanza proveniente da vigneti d'altura ai piedi della Sierra de Cantabria."
+  },
+  "body": {
+    "es": "<p>Norte es uno de los tintos de viñedo de Bodegas Pujanza, la bodega de la familia San Pedro en Laguardia. Procede de uno de los viñedos más altos de la bodega, en las laderas próximas a la <strong>Sierra de Cantabria</strong>, en la Rioja Alavesa.</p><p>A esta altitud el clima es más fresco y el ciclo de maduración más largo, lo que da uvas de gran acidez y aromas definidos. Los suelos, pobres y con abundante caliza, limitan el rendimiento. El vino se elabora con <strong>Tempranillo</strong> y se cría en barrica de roble francés.</p><p>Es un tinto de perfil vertical y fresco, con fruta precisa, notas minerales y taninos firmes. Su acidez le confiere una buena capacidad de guarda: gana en complejidad tras varios años en botella y conviene decantarlo si se abre joven. Acompaña bien carnes rojas y caza.</p>",
+    "en": "<p>Norte is one of the single-vineyard reds of Bodegas Pujanza, the San Pedro family winery in Laguardia. It comes from one of the winery's highest vineyards, on the slopes close to the <strong>Sierra de Cantabria</strong>, in Rioja Alavesa.</p><p>At this altitude the climate is cooler and the ripening cycle longer, giving grapes with high acidity and well-defined aromas. The poor, limestone-rich soils limit yields. The wine is made from <strong>Tempranillo</strong> and aged in French oak barrels.</p><p>It is a red of vertical, fresh profile, with precise fruit, mineral notes and firm tannins. Its acidity gives it good ageing potential: it gains complexity after several years in bottle and is best decanted if opened young. It is a fine partner for red meat and game dishes, especially roasts.</p>",
+    "fr": "<p>Norte est l'un des rouges de vignoble de Bodegas Pujanza, la bodega de la famille San Pedro à Laguardia. Il provient de l'un des vignobles les plus hauts de la bodega, sur les pentes proches de la <strong>Sierra de Cantabria</strong>, en Rioja Alavesa.</p><p>À cette altitude le climat est plus frais et le cycle de maturation plus long, ce qui donne des raisins d'une grande acidité et aux arômes nets. Les sols, pauvres et riches en calcaire, limitent les rendements. Le vin est élaboré à partir de <strong>tempranillo</strong> et élevé en barriques de chêne français.</p><p>C'est un rouge au profil vertical et frais, au fruit précis, aux notes minérales et aux tanins fermes. Son acidité lui confère un bon potentiel de garde : il gagne en complexité après plusieurs années de bouteille et mérite d'être carafé s'il est ouvert jeune. Il accompagne bien les viandes rouges et le gibier.</p>",
+    "it": "<p>Norte è uno dei rossi di vigneto di Bodegas Pujanza, la cantina della famiglia San Pedro a Laguardia. Proviene da uno dei vigneti più alti della cantina, sui pendii vicini alla <strong>Sierra de Cantabria</strong>, nella Rioja Alavesa.</p><p>A questa quota il clima è più fresco e il ciclo di maturazione più lungo, il che dà uve di grande acidità e aromi definiti. I suoli, poveri e ricchi di calcare, limitano le rese. Il vino è prodotto con <strong>Tempranillo</strong> e affinato in barrique di rovere francese.</p><p>È un rosso dal profilo verticale e fresco, con frutto preciso, note minerali e tannini decisi. L'acidità gli conferisce un buon potenziale d'invecchiamento: guadagna complessità dopo diversi anni in bottiglia e conviene decantarlo se aperto giovane. Accompagna bene carni rosse e selvaggina, soprattutto arrosto.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de fruta negra, cereza, hierbas de monte y notas minerales. Boca tensa y profunda, de taninos firmes y final largo.",
+    "en": "Deep cherry red. Aromas of black fruit, cherry, wild herbs and mineral notes. Taut, deep palate with firm tannins and a long finish.",
+    "fr": "Rouge cerise intense. Arômes de fruits noirs, de cerise, d'herbes de montagne et notes minérales. Bouche tendue et profonde, aux tanins fermes et à la finale longue.",
+    "it": "Rosso ciliegia intenso. Aromi di frutta nera, ciliegia, erbe di montagna e note minerali. Bocca tesa e profonda, dai tannini decisi e dal finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, chuletón, caza menor, quesos curados",
+    "en": "Roast lamb, rib steak, small game, aged cheeses",
+    "fr": "Agneau rôti, côte de bœuf, petit gibier, fromages affinés",
+    "it": "Agnello arrosto, costata, selvaggina di piccola taglia, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Pujanza Norte Rioja"
+}

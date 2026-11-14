@@ -1,0 +1,48 @@
+{
+  "slug": "donnafugata-rosa",
+  "name": "Rosa",
+  "winery": "donnafugata",
+  "region": "sicilia",
+  "country": "italia",
+  "type": "rosado",
+  "category": {
+    "es": "DOC Sicilia",
+    "en": "DOC Sicilia",
+    "fr": "DOC Sicilia",
+    "it": "DOC Sicilia"
+  },
+  "grapes": [
+    "nerello-mascalese"
+  ],
+  "summary": {
+    "es": "Rosado siciliano nacido de la colaboración entre Donnafugata y la casa de moda Dolce&Gabbana, elaborado con uvas autóctonas de la isla.",
+    "en": "Sicilian rosé born of the collaboration between Donnafugata and the fashion house Dolce&Gabbana, made from the island's native grapes.",
+    "fr": "Rosé sicilien né de la collaboration entre Donnafugata et la maison de couture Dolce&Gabbana, élaboré à partir de cépages autochtones de l'île.",
+    "it": "Rosato siciliano nato dalla collaborazione tra Donnafugata e la casa di moda Dolce&Gabbana, prodotto con uve autoctone dell'isola."
+  },
+  "body": {
+    "es": "<p>Rosa forma parte de la pequeña gama de vinos que Donnafugata, la bodega siciliana de la familia Rallo, elabora en colaboración con la casa de moda <strong>Dolce&amp;Gabbana</strong>. Las etiquetas de estos vinos reproducen motivos decorativos inspirados en la tradición popular de Sicilia, como los carros pintados, y la botella se presenta a menudo en estuche.</p><p>Se elabora con <strong>variedades autóctonas sicilianas</strong>, entre ellas la <strong>Nerello Mascalese</strong>, uva tinta asociada sobre todo a las laderas del Etna, que da vinos de color pálido, buena acidez y aromas delicados. Para el rosado se busca una extracción breve del color y una vinificación que preserve la fruta y la frescura, sin crianza en madera.</p><p>Es un rosado de color pálido, aromático y fresco, con notas de frutos rojos, cítricos y flores, pensado para beberse joven. Su perfil lo hace adecuado como aperitivo y con la cocina mediterránea.</p>",
+    "en": "<p>Rosa is part of the small range of wines that Donnafugata, the Rallo family's Sicilian winery, makes in collaboration with the fashion house <strong>Dolce&amp;Gabbana</strong>. The labels of these wines reproduce decorative motifs inspired by Sicilian folk tradition, such as painted carts, and the bottle is often presented in a gift box.</p><p>It is made from <strong>native Sicilian varieties</strong>, including <strong>Nerello Mascalese</strong>, a red grape associated above all with the slopes of Etna, which gives pale-coloured wines with good acidity and delicate aromas. For the rosé, colour extraction is brief and vinification aims to preserve fruit and freshness, without oak ageing.</p><p>It is a pale, aromatic, fresh rosé with notes of red berries, citrus and flowers, meant to be drunk young. Its profile makes it well suited to the aperitif and to Mediterranean cooking.</p>",
+    "fr": "<p>Rosa fait partie de la petite gamme de vins que Donnafugata, la maison sicilienne de la famille Rallo, élabore en collaboration avec la maison de couture <strong>Dolce&amp;Gabbana</strong>. Les étiquettes de ces vins reprennent des motifs décoratifs inspirés de la tradition populaire sicilienne, comme les charrettes peintes, et la bouteille est souvent présentée en coffret.</p><p>Il est élaboré à partir de <strong>cépages autochtones siciliens</strong>, dont le <strong>nerello mascalese</strong>, raisin rouge associé surtout aux pentes de l'Etna, qui donne des vins à la robe claire, d'une bonne acidité et aux arômes délicats. Pour le rosé, l'extraction de la couleur est brève et la vinification vise à préserver le fruit et la fraîcheur, sans élevage sous bois.</p><p>C'est un rosé pâle, aromatique et frais, aux notes de fruits rouges, d'agrumes et de fleurs, à boire jeune. Son profil le destine à l'apéritif et à la cuisine méditerranéenne.</p>",
+    "it": "<p>Rosa fa parte della piccola gamma di vini che Donnafugata, la cantina siciliana della famiglia Rallo, produce in collaborazione con la casa di moda <strong>Dolce&amp;Gabbana</strong>. Le etichette di questi vini riproducono motivi decorativi ispirati alla tradizione popolare siciliana, come i carretti dipinti, e la bottiglia è spesso presentata in astuccio.</p><p>È prodotto con <strong>varietà autoctone siciliane</strong>, tra cui il <strong>Nerello Mascalese</strong>, uva rossa associata soprattutto ai pendii dell'Etna, che dà vini di colore tenue, buona acidità e profumi delicati. Per il rosato l'estrazione del colore è breve e la vinificazione mira a preservare frutto e freschezza, senza affinamento in legno.</p><p>È un rosato tenue, aromatico e fresco, con note di frutti rossi, agrumi e fiori, pensato per essere bevuto giovane. Il suo profilo lo rende adatto all'aperitivo e alla cucina mediterranea.</p>"
+  },
+  "tasting": {
+    "es": "Rosa pálido. Aromas de fresa, frambuesa, pomelo y flores. Boca fresca y sabrosa, de final ligeramente salino.",
+    "en": "Pale pink. Aromas of strawberry, raspberry, grapefruit and flowers. Fresh, flavourful palate with a slightly saline finish.",
+    "fr": "Rose pâle. Arômes de fraise, de framboise, de pamplemousse et de fleurs. Bouche fraîche et savoureuse, finale légèrement saline.",
+    "it": "Rosa tenue. Aromi di fragola, lampone, pompelmo e fiori. Bocca fresca e saporita, dal finale leggermente sapido."
+  },
+  "pairing": {
+    "es": "Aperitivo, pescados crudos, marisco, ensaladas, pizza",
+    "en": "Aperitif, raw fish, shellfish, salads, pizza",
+    "fr": "Apéritif, poissons crus, fruits de mer, salades, pizza",
+    "it": "Aperitivo, crudi di pesce, frutti di mare, insalate, pizza"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino",
+    "en": "8-10 °C, wine glass",
+    "fr": "8-10 °C, verre à vin",
+    "it": "8-10 °C, calice da vino"
+  },
+  "search": "Rosa Donnafugata Dolce&Gabbana"
+}

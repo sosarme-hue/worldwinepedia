@@ -1,0 +1,50 @@
+{
+  "slug": "mumm-rose",
+  "name": "Mumm Rosé",
+  "winery": "mumm",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut Rosé",
+    "en": "Brut Rosé",
+    "fr": "Brut Rosé",
+    "it": "Brut Rosé"
+  },
+  "grapes": [
+    "pinot-noir",
+    "chardonnay",
+    "pinot-meunier"
+  ],
+  "summary": {
+    "es": "Champagne rosado sin añada de G.H. Mumm, con predominio de Pinot Noir y un estilo fresco y afrutado.",
+    "en": "Non-vintage rosé champagne from G.H. Mumm, led by Pinot Noir and fresh and fruity in style.",
+    "fr": "Champagne rosé sans année de G.H. Mumm, à dominante de pinot noir, au style frais et fruité.",
+    "it": "Champagne rosé senza annata di G.H. Mumm, a prevalenza di Pinot Noir, dallo stile fresco e fruttato."
+  },
+  "body": {
+    "es": "<p>El <strong>Mumm Rosé</strong> es el champagne rosado sin añada de la casa G.H. Mumm, fundada en Reims en 1827. Comparte la base del estilo de la casa, centrado en la <strong>Pinot Noir</strong>, que en este vino tiene un papel aún más destacado y aporta la fruta roja y la estructura características.</p><p>Como la mayoría de los rosados de Champagne, se elabora por ensamblaje: al vino base blanco, de Pinot Noir, Chardonnay y Pinot Meunier, se añade una pequeña proporción de vino tinto de Pinot Noir de la región, que le da color y aromas de frutos rojos. Tras la segunda fermentación en botella, el vino reposa sobre lías en las bodegas de creta de Reims antes del degüelle.</p><p>Es un champagne de color rosa vivo y burbuja fina, con aromas de fresa, frambuesa y grosella, boca fresca y final afrutado. Funciona como aperitivo y acompaña bien platos ligeros y postres de frutos rojos poco dulces.</p>",
+    "en": "<p><strong>Mumm Rosé</strong> is the non-vintage rosé champagne from the G.H. Mumm house, founded in Reims in 1827. It shares the foundation of the house style, centred on <strong>Pinot Noir</strong>, which plays an even more prominent role in this wine, bringing its characteristic red fruit and structure.</p><p>Like most rosé champagnes, it is made by blending: a small proportion of red Pinot Noir wine from the region is added to the white base wine of Pinot Noir, Chardonnay and Pinot Meunier, giving it colour and red-berry aromas. After the second fermentation in bottle, the wine rests on its lees in the chalk cellars of Reims before disgorgement.</p><p>It is a bright pink champagne with fine bubbles, aromas of strawberry, raspberry and redcurrant, a fresh palate and a fruity finish. It works as an aperitif and pairs well with light dishes and not-too-sweet red fruit desserts.</p>",
+    "fr": "<p>Le <strong>Mumm Rosé</strong> est le champagne rosé sans année de la maison G.H. Mumm, fondée à Reims en 1827. Il partage le socle du style de la maison, centré sur le <strong>pinot noir</strong>, qui joue ici un rôle encore plus marqué et apporte fruits rouges et structure.</p><p>Comme la plupart des rosés de Champagne, il est élaboré par assemblage : une petite proportion de vin rouge de pinot noir de la région est ajoutée au vin de base blanc de pinot noir, chardonnay et pinot meunier, ce qui lui donne sa couleur et ses arômes de fruits rouges. Après la seconde fermentation en bouteille, le vin repose sur lies dans les caves de craie de Reims avant le dégorgement.</p><p>C’est un champagne à la couleur rose vif et à la bulle fine, aux arômes de fraise, de framboise et de groseille, à la bouche fraîche et à la finale fruitée. Il convient à l’apéritif et accompagne bien des plats légers et des desserts aux fruits rouges peu sucrés.</p>",
+    "it": "<p>Il <strong>Mumm Rosé</strong> è lo champagne rosé senza annata della maison G.H. Mumm, fondata a Reims nel 1827. Condivide la base dello stile della casa, incentrato sul <strong>Pinot Noir</strong>, che in questo vino ha un ruolo ancora più marcato e apporta frutto rosso e struttura.</p><p>Come la maggior parte dei rosé della Champagne, è prodotto per assemblaggio: al vino base bianco di Pinot Noir, Chardonnay e Pinot Meunier si aggiunge una piccola quota di vino rosso da Pinot Noir della regione, che gli conferisce colore e aromi di piccoli frutti rossi. Dopo la seconda fermentazione in bottiglia, il vino riposa sui lieviti nelle cantine di gesso di Reims prima della sboccatura.</p><p>È uno champagne di colore rosa vivo e perlage fine, con aromi di fragola, lampone e ribes, bocca fresca e finale fruttato. Funziona come aperitivo e accompagna bene piatti leggeri e dessert ai frutti rossi poco dolci.</p>"
+  },
+  "tasting": {
+    "es": "Fresa, frambuesa, grosella y un toque de brioche. Burbuja fina, boca fresca y afrutada.",
+    "en": "Strawberry, raspberry, redcurrant and a touch of brioche. Fine bubbles, fresh and fruity palate.",
+    "fr": "Fraise, framboise, groseille et touche de brioche. Bulle fine, bouche fraîche et fruitée.",
+    "it": "Fragola, lampone, ribes e un tocco di brioche. Perlage fine, bocca fresca e fruttata."
+  },
+  "pairing": {
+    "es": "Aperitivo, salmón, atún en tataki, aves, postres de frutos rojos",
+    "en": "Aperitif, salmon, tuna tataki, poultry, red fruit desserts",
+    "fr": "Apéritif, saumon, tataki de thon, volailles, desserts aux fruits rouges",
+    "it": "Aperitivo, salmone, tataki di tonno, pollame, dessert ai frutti rossi"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco o tulipa",
+    "en": "8-10 °C, white wine glass or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da vino bianco o a tulipano"
+  },
+  "search": "Champagne Mumm Rosé"
+}

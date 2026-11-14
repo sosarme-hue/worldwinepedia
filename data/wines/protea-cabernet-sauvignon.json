@@ -1,0 +1,48 @@
+{
+  "slug": "protea-cabernet-sauvignon",
+  "name": "Protea Cabernet Sauvignon",
+  "winery": "anthonij-rupert",
+  "region": "franschhoek",
+  "country": "sudafrica",
+  "type": "tinto",
+  "category": {
+    "es": "Western Cape",
+    "en": "Western Cape",
+    "fr": "Western Cape",
+    "it": "Western Cape"
+  },
+  "grapes": [
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "Cabernet Sauvignon de la marca Protea, de Anthonij Rupert Wyne, un tinto sudafricano afrutado y accesible.",
+    "en": "Cabernet Sauvignon from Anthonij Rupert Wyne’s Protea brand, a fruity, approachable South African red.",
+    "fr": "Cabernet sauvignon de la marque Protea, d’Anthonij Rupert Wyne, un rouge sud-africain fruité et accessible.",
+    "it": "Cabernet Sauvignon del marchio Protea, di Anthonij Rupert Wyne, un rosso sudafricano fruttato e accessibile."
+  },
+  "body": {
+    "es": "<p>Dentro de la gama <strong>Protea</strong>, la línea de vinos varietales de Anthonij Rupert Wyne que lleva el nombre de la flor nacional sudafricana, el Cabernet Sauvignon es el tinto de referencia. La marca está pensada para ofrecer vinos directos y fáciles de entender, elaborados con uvas del Cabo Occidental.</p><p>El <strong>Cabernet Sauvignon</strong> es una de las variedades tintas más plantadas de Sudáfrica y se adapta bien al clima mediterráneo del Cabo, con veranos cálidos y secos moderados por la influencia del océano. En estas condiciones madura plenamente y da vinos de fruta negra generosa, con la estructura tánica característica de la variedad.</p><p>La elaboración busca un equilibrio entre fruta y suavidad, con una crianza moderada que redondea los taninos sin dominar el vino. El resultado es un tinto de cuerpo medio, agradable en su juventud, adecuado para carnes a la parrilla y comidas informales.</p>",
+    "en": "<p>Within the <strong>Protea</strong> range, Anthonij Rupert Wyne’s line of varietal wines named after South Africa’s national flower, Cabernet Sauvignon is the benchmark red. The brand is designed to offer direct, easy-to-understand wines made from Western Cape grapes.</p><p><strong>Cabernet Sauvignon</strong> is one of South Africa’s most widely planted red varieties and adapts well to the Cape’s Mediterranean climate, with warm, dry summers tempered by the ocean. In these conditions it ripens fully and gives wines with generous black fruit and the tannic structure typical of the variety.</p><p>Winemaking seeks a balance between fruit and smoothness, with moderate ageing that rounds the tannins without dominating the wine. The result is a medium-bodied red, enjoyable in its youth and well suited to grilled meats and informal meals.</p>",
+    "fr": "<p>Au sein de la gamme <strong>Protea</strong>, la ligne de vins de cépage d’Anthonij Rupert Wyne qui porte le nom de la fleur nationale sud-africaine, le cabernet sauvignon est le rouge de référence. La marque se veut une offre de vins directs et faciles à comprendre, élaborés avec des raisins du Cap-Occidental.</p><p>Le <strong>cabernet sauvignon</strong> est l’un des cépages rouges les plus plantés d’Afrique du Sud et s’adapte bien au climat méditerranéen du Cap, aux étés chauds et secs tempérés par l’océan. Dans ces conditions, il mûrit pleinement et donne des vins au fruit noir généreux, avec la structure tannique caractéristique du cépage.</p><p>La vinification recherche l’équilibre entre fruit et souplesse, avec un élevage modéré qui arrondit les tanins sans dominer le vin. Il en résulte un rouge de corps moyen, agréable dans sa jeunesse, adapté aux viandes grillées et aux repas sans façon.</p>",
+    "it": "<p>All’interno della gamma <strong>Protea</strong>, la linea di vini varietali di Anthonij Rupert Wyne che porta il nome del fiore nazionale sudafricano, il Cabernet Sauvignon è il rosso di riferimento. Il marchio vuole offrire vini diretti e facili da capire, prodotti con uve del Capo Occidentale.</p><p>Il <strong>Cabernet Sauvignon</strong> è una delle varietà rosse più piantate del Sudafrica e si adatta bene al clima mediterraneo del Capo, con estati calde e secche mitigate dall’oceano. In queste condizioni matura pienamente e dà vini dal frutto nero generoso, con la struttura tannica tipica del vitigno.</p><p>La vinificazione cerca un equilibrio tra frutto e morbidezza, con un affinamento moderato che arrotonda i tannini senza dominare il vino. Il risultato è un rosso di medio corpo, piacevole da giovane, adatto a carni alla griglia e pasti informali.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de casis, ciruela y un toque de especias y hierbas. Boca de cuerpo medio, con taninos suaves.",
+    "en": "Deep ruby. Aromas of blackcurrant, plum and a touch of spice and herbs. Medium-bodied palate with soft tannins.",
+    "fr": "Rubis intense. Arômes de cassis, de prune et touche d’épices et d’herbes. Bouche de corps moyen, aux tanins souples.",
+    "it": "Rubino intenso. Aromi di ribes nero, prugna e un tocco di spezie ed erbe. Bocca di medio corpo, dai tannini morbidi."
+  },
+  "pairing": {
+    "es": "Carnes a la parrilla, hamburguesas, braai, quesos semicurados",
+    "en": "Grilled meats, burgers, braai, semi-hard cheeses",
+    "fr": "Viandes grillées, burgers, braai, fromages mi-affinés",
+    "it": "Carni alla griglia, hamburger, braai, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de tinto",
+    "en": "16-18 °C, red wine glass",
+    "fr": "16-18 °C, verre à vin rouge",
+    "it": "16-18 °C, calice da rosso"
+  },
+  "search": "Protea Cabernet Sauvignon Anthonij Rupert"
+}

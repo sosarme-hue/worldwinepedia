@@ -1,0 +1,46 @@
+{
+  "slug": "cune-blanco-reserva",
+  "name": "Cune Blanco Reserva",
+  "winery": "cvne",
+  "region": "rioja",
+  "country": "espana",
+  "type": "blanco",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [],
+  "summary": {
+    "es": "Rioja blanco con crianza de categoría Reserva elaborado por CVNE bajo su marca Cune.",
+    "en": "Barrel-aged white Rioja in the Reserva category, made by CVNE under its Cune brand.",
+    "fr": "Rioja blanc élevé de catégorie Reserva, élaboré par CVNE sous sa marque Cune.",
+    "it": "Rioja bianco affinato di categoria Reserva, prodotto da CVNE con il marchio Cune."
+  },
+  "body": {
+    "es": "<p>Cune es la marca más conocida de la Compañía Vinícola del Norte de España (CVNE), bodega fundada en Haro en el siglo XIX. Además de sus tintos y de su rosado, la gama incluye blancos, y este Reserva representa la versión con crianza, en línea con la tradición riojana de blancos envejecidos en madera.</p><p>En Rioja, un blanco puede llevar la mención <strong>Reserva</strong> cuando ha pasado un periodo mínimo de crianza entre barrica y botella antes de salir al mercado. Los blancos de la denominación se basan tradicionalmente en la Viura, a menudo acompañada de otras variedades blancas autorizadas, como la Malvasía o la Garnacha Blanca.</p><p>El resultado es un blanco de mayor volumen y complejidad que los blancos jóvenes, en el que la fruta se combina con notas de la crianza. Conserva una acidez que le da frescura y le permite evolucionar algunos años en botella.</p>",
+    "en": "<p>Cune is the best-known brand of the Compañía Vinícola del Norte de España (CVNE), a winery founded in Haro in the 19th century. Besides its reds and its rosé, the range includes whites, and this Reserva is the barrel-aged version, in keeping with the Rioja tradition of whites matured in wood.</p><p>In Rioja, a white may carry the <strong>Reserva</strong> designation when it has spent a minimum period ageing in barrel and bottle before release. The appellation's whites are traditionally based on Viura, often accompanied by other authorised white varieties such as Malvasía or Garnacha Blanca.</p><p>The result is a white of greater volume and complexity than young whites, in which fruit combines with notes from ageing. It retains an acidity that gives it freshness and allows it to develop for a few years in bottle.</p>",
+    "fr": "<p>Cune est la marque la plus connue de la Compañía Vinícola del Norte de España (CVNE), bodega fondée à Haro au XIXe siècle. Outre ses rouges et son rosé, la gamme comprend des blancs, et ce Reserva en est la version élevée, dans la lignée de la tradition riojane des blancs vieillis sous bois.</p><p>En Rioja, un blanc peut porter la mention <strong>Reserva</strong> lorsqu'il a passé une durée minimale d'élevage entre barrique et bouteille avant sa commercialisation. Les blancs de l'appellation reposent traditionnellement sur la viura, souvent accompagnée d'autres cépages blancs autorisés comme la malvasía ou la garnacha blanca.</p><p>Il en résulte un blanc plus ample et plus complexe que les blancs jeunes, où le fruit se mêle aux notes d'élevage. Il conserve une acidité qui lui apporte de la fraîcheur et lui permet d'évoluer quelques années en bouteille.</p>",
+    "it": "<p>Cune è il marchio più noto della Compañía Vinícola del Norte de España (CVNE), cantina fondata a Haro nell'Ottocento. Oltre ai rossi e al rosato, la gamma comprende alcuni bianchi, e questo Reserva ne è la versione affinata, in linea con la tradizione riojana dei bianchi invecchiati in legno.</p><p>In Rioja un bianco può portare la menzione <strong>Reserva</strong> quando ha trascorso un periodo minimo di affinamento tra barrique e bottiglia prima della commercializzazione. I bianchi della denominazione si basano tradizionalmente sulla Viura, spesso affiancata da altre varietà bianche autorizzate, come Malvasía o Garnacha Blanca.</p><p>Il risultato è un bianco di maggiore volume e complessità rispetto ai bianchi giovani, in cui il frutto si unisce alle note dell'affinamento. Conserva un'acidità che gli dà freschezza e gli permette di evolvere alcuni anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo dorado. Aromas de fruta blanca madura, flores secas, vainilla y frutos secos. Boca amplia y untuosa, con buena acidez y final largo.",
+    "en": "Golden yellow. Aromas of ripe white fruit, dried flowers, vanilla and nuts. Broad, unctuous palate with good acidity and a long finish.",
+    "fr": "Jaune doré. Arômes de fruits blancs mûrs, de fleurs séchées, de vanille et de fruits secs. Bouche ample et onctueuse, bonne acidité et finale longue.",
+    "it": "Giallo dorato. Aromi di frutta bianca matura, fiori secchi, vaniglia e frutta secca. Bocca ampia e untuosa, con buona acidità e finale lungo."
+  },
+  "pairing": {
+    "es": "Pescados al horno, bacalao, arroces, aves, quesos semicurados",
+    "en": "Baked fish, salt cod, rice dishes, poultry, semi-cured cheeses",
+    "fr": "Poissons au four, morue, riz, volailles, fromages mi-affinés",
+    "it": "Pesce al forno, baccalà, risotti, pollame, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "10-12 °C, copa amplia",
+    "en": "10-12 °C, large glass",
+    "fr": "10-12 °C, verre ample",
+    "it": "10-12 °C, calice ampio"
+  },
+  "search": "Cune Blanco Reserva CVNE"
+}

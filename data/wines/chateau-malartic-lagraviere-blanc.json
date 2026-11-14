@@ -1,0 +1,49 @@
+{
+  "slug": "chateau-malartic-lagraviere-blanc",
+  "name": "Château Malartic-Lagravière Blanc",
+  "winery": "chateau-malartic-lagraviere",
+  "region": "pessac-leognan",
+  "country": "francia",
+  "type": "blanco",
+  "category": {
+    "es": "Cru Classé de Graves",
+    "en": "Cru Classé de Graves",
+    "fr": "Cru Classé de Graves",
+    "it": "Cru Classé de Graves"
+  },
+  "grapes": [
+    "sauvignon-blanc",
+    "semillon"
+  ],
+  "summary": {
+    "es": "Blanco seco de Château Malartic-Lagravière, cru classé de Graves en Pessac-Léognan, dominado por la Sauvignon Blanc y criado en barrica.",
+    "en": "Dry white from Château Malartic-Lagravière, a Graves classified growth in Pessac-Léognan, led by Sauvignon Blanc and aged in barrel.",
+    "fr": "Blanc sec de Château Malartic-Lagravière, cru classé de Graves en Pessac-Léognan, dominé par le sauvignon blanc et élevé en barrique.",
+    "it": "Bianco secco di Château Malartic-Lagravière, cru classé di Graves a Pessac-Léognan, dominato dal Sauvignon Blanc e affinato in barrique."
+  },
+  "body": {
+    "es": "<p>Château Malartic-Lagravière es una de las pocas propiedades de Graves clasificadas tanto por su tinto como por su <strong>blanco</strong>. Este se elabora con una mayoría de <strong>Sauvignon Blanc</strong> y una parte de Sémillon, procedentes de parcelas del viñedo de Léognan elegidas por sus suelos y su exposición, más frescos que los destinados a los tintos.</p><p>Siguiendo la tradición de los grandes blancos de Pessac-Léognan, el vino fermenta en barricas de roble y se cría sobre sus lías durante varios meses, con removidos periódicos. Este método aporta textura y complejidad sin ocultar la viveza aromática de la Sauvignon.</p><p>El resultado es un blanco seco intenso y elegante, con notas cítricas, de fruta blanca y de frutos secos tostados, y una acidez que le permite envejecer bien durante bastantes años en botella, ganando en riqueza y matices.</p>",
+    "en": "<p>Château Malartic-Lagravière is one of the few Graves estates classified for both its red and its <strong>white</strong>. The white is made mostly from <strong>Sauvignon Blanc</strong> with a share of Sémillon, from plots in the Léognan vineyard chosen for their soils and exposure, cooler than those used for the reds.</p><p>Following the tradition of the great whites of Pessac-Léognan, the wine ferments in oak barrels and is aged on its lees for several months, with regular stirring. This method adds texture and complexity without masking the aromatic liveliness of Sauvignon.</p><p>The result is an intense, elegant dry white with citrus, white fruit and toasted nut notes, and acidity that allows it to age well for a good number of years in bottle, gaining richness and nuance.</p>",
+    "fr": "<p>Château Malartic-Lagravière est l’une des rares propriétés des Graves classées pour son rouge comme pour son <strong>blanc</strong>. Celui-ci est élaboré avec une majorité de <strong>sauvignon blanc</strong> et une part de sémillon, issus de parcelles du vignoble de Léognan choisies pour leurs sols et leur exposition, plus fraîches que celles destinées aux rouges.</p><p>Selon la tradition des grands blancs de Pessac-Léognan, le vin fermente en barriques de chêne et s’élève sur lies pendant plusieurs mois, avec des bâtonnages réguliers. Cette méthode apporte texture et complexité sans masquer la vivacité aromatique du sauvignon.</p><p>Le résultat est un blanc sec intense et élégant, aux notes d’agrumes, de fruits blancs et de fruits secs grillés, avec une acidité qui lui permet de bien vieillir pendant de nombreuses années en bouteille, en gagnant en richesse et en nuances.</p>",
+    "it": "<p>Château Malartic-Lagravière è una delle poche proprietà delle Graves classificate sia per il rosso sia per il <strong>bianco</strong>. Quest’ultimo è prodotto con una maggioranza di <strong>Sauvignon Blanc</strong> e una parte di Sémillon, da parcelle del vigneto di Léognan scelte per suoli ed esposizione, più fresche di quelle destinate ai rossi.</p><p>Secondo la tradizione dei grandi bianchi di Pessac-Léognan, il vino fermenta in barrique di rovere e matura sulle fecce per diversi mesi, con bâtonnage regolari. Questo metodo apporta consistenza e complessità senza mascherare la vivacità aromatica del Sauvignon.</p><p>Il risultato è un bianco secco intenso ed elegante, con note di agrumi, frutta bianca e frutta secca tostata, e un’acidità che gli consente di invecchiare bene per parecchi anni in bottiglia, acquisendo ricchezza e sfumature.</p>"
+  },
+  "tasting": {
+    "es": "Pomelo, limón, melocotón blanco, flores, avellana tostada y un toque mineral. Boca amplia y fresca, con final largo.",
+    "en": "Grapefruit, lemon, white peach, flowers, toasted hazelnut and a mineral touch. Broad, fresh palate with a long finish.",
+    "fr": "Pamplemousse, citron, pêche blanche, fleurs, noisette grillée et touche minérale. Bouche ample et fraîche, finale longue.",
+    "it": "Pompelmo, limone, pesca bianca, fiori, nocciola tostata e un tocco minerale. Bocca ampia e fresca, finale lungo."
+  },
+  "pairing": {
+    "es": "Pescados nobles en salsa, langosta, vieiras, ave con nata, quesos de cabra curados",
+    "en": "Fine fish in sauce, lobster, scallops, poultry in cream, aged goat’s cheese",
+    "fr": "Poissons nobles en sauce, homard, Saint-Jacques, volaille à la crème, chèvres affinés",
+    "it": "Pesci nobili in salsa, astice, capesante, pollame alla crema, formaggi di capra stagionati"
+  },
+  "serve": {
+    "es": "12-14 °C, copa amplia",
+    "en": "12-14 °C, large glass",
+    "fr": "12-14 °C, verre ample",
+    "it": "12-14 °C, calice ampio"
+  },
+  "search": "Château Malartic-Lagravière Pessac-Léognan Blanc"
+}

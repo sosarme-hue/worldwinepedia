@@ -1,0 +1,48 @@
+{
+  "slug": "san-felice-il-grigio",
+  "name": "San Felice Chianti Classico Riserva Il Grigio",
+  "winery": "san-felice",
+  "region": "chianti-classico",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "Chianti Classico Riserva",
+    "en": "Chianti Classico Riserva",
+    "fr": "Chianti Classico Riserva",
+    "it": "Chianti Classico Riserva"
+  },
+  "grapes": [
+    "sangiovese"
+  ],
+  "summary": {
+    "es": "La Riserva más conocida de San Felice, un Chianti Classico de Sangiovese de Castelnuovo Berardenga, estructurado y de buena guarda.",
+    "en": "San Felice’s best-known Riserva, a Sangiovese-based Chianti Classico from Castelnuovo Berardenga, structured and age-worthy.",
+    "fr": "La Riserva la plus connue de San Felice, un Chianti Classico de sangiovese de Castelnuovo Berardenga, structuré et de bonne garde.",
+    "it": "La Riserva più nota di San Felice, un Chianti Classico a base di Sangiovese di Castelnuovo Berardenga, strutturato e longevo."
+  },
+  "body": {
+    "es": "<p>El Chianti Classico, entre Florencia y Siena, es el corazón histórico del Chianti y la tierra de la <strong>Sangiovese</strong>. La categoría Riserva exige una crianza mínima más prolongada que la del Chianti Classico de base, lo que da vinos con más estructura y capacidad de envejecimiento.</p><p><em>Il Grigio</em> es la Riserva de referencia de San Felice, bodega situada en Castelnuovo Berardenga, en el sur de la denominación, donde el clima algo más cálido favorece la madurez de la Sangiovese. Se elabora con Sangiovese como variedad principal, a veces acompañada de pequeñas proporciones de otras uvas autóctonas, y se cría en madera durante un periodo prolongado.</p><p>Es un tinto de cuerpo medio a pleno, con cereza madura, notas de violeta, especias y cuero, taninos firmes y la acidez característica de la variedad. Gana complejidad con varios años de botella.</p>",
+    "en": "<p>Chianti Classico, between Florence and Siena, is the historic heart of Chianti and the home of <strong>Sangiovese</strong>. The Riserva category requires a longer minimum ageing period than basic Chianti Classico, giving wines with more structure and ageing capacity.</p><p><em>Il Grigio</em> is the benchmark Riserva of San Felice, a winery in Castelnuovo Berardenga, in the south of the appellation, where the slightly warmer climate favours the ripening of Sangiovese. It is made with Sangiovese as the main variety, sometimes with small proportions of other native grapes, and is aged in wood for an extended period.</p><p>It is a medium- to full-bodied red with ripe cherry, notes of violet, spice and leather, firm tannins and the characteristic acidity of the variety. It gains complexity with several years in bottle.</p>",
+    "fr": "<p>Le Chianti Classico, entre Florence et Sienne, est le cœur historique du Chianti et la terre du <strong>sangiovese</strong>. La catégorie Riserva impose un élevage minimal plus long que celui du Chianti Classico de base, ce qui donne des vins plus structurés et plus aptes au vieillissement.</p><p><em>Il Grigio</em> est la Riserva de référence de San Felice, domaine situé à Castelnuovo Berardenga, au sud de l’appellation, où le climat un peu plus chaud favorise la maturité du sangiovese. Il est élaboré avec le sangiovese comme cépage principal, parfois accompagné de petites proportions d’autres raisins autochtones, et élevé longuement sous bois.</p><p>C’est un rouge de corps moyen à ample, à la cerise mûre, aux notes de violette, d’épices et de cuir, aux tanins fermes et à l’acidité caractéristique du cépage. Il gagne en complexité après plusieurs années de bouteille.</p>",
+    "it": "<p>Il Chianti Classico, tra Firenze e Siena, è il cuore storico del Chianti e la terra del <strong>Sangiovese</strong>. La categoria Riserva richiede un affinamento minimo più lungo rispetto al Chianti Classico di base, il che dà vini con più struttura e capacità d’invecchiamento.</p><p><em>Il Grigio</em> è la Riserva di riferimento di San Felice, azienda situata a Castelnuovo Berardenga, nel sud della denominazione, dove il clima un po’ più caldo favorisce la maturazione del Sangiovese. Si ottiene con il Sangiovese come vitigno principale, talvolta accompagnato da piccole quote di altre uve autoctone, ed è affinato a lungo in legno.</p><p>È un rosso di corpo medio-pieno, con ciliegia matura, note di violetta, spezie e cuoio, tannini decisi e l’acidità tipica del vitigno. Acquista complessità con diversi anni di bottiglia, rivelando sfumature terziarie.</p>"
+  },
+  "tasting": {
+    "es": "Rubí con reflejos granate. Aromas de cereza madura, violeta, especias y cuero. Boca firme y sabrosa, con buena acidez y final largo.",
+    "en": "Ruby with garnet hints. Aromas of ripe cherry, violet, spice and leather. Firm, savoury palate with good acidity and a long finish.",
+    "fr": "Rubis aux reflets grenat. Arômes de cerise mûre, de violette, d’épices et de cuir. Bouche ferme et sapide, à la belle acidité et à la finale longue.",
+    "it": "Rubino con riflessi granati. Aromi di ciliegia matura, violetta, spezie e cuoio. Bocca salda e sapida, con buona acidità e finale lungo."
+  },
+  "pairing": {
+    "es": "Bistecca a la florentina, carnes asadas, caza, pecorino curado",
+    "en": "Bistecca alla fiorentina, roast meat, game, aged pecorino",
+    "fr": "Bistecca alla fiorentina, viandes rôties, gibier, pecorino affiné",
+    "it": "Bistecca alla fiorentina, carni arrosto, selvaggina, pecorino stagionato"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, grand verre",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Il Grigio Chianti Classico Riserva San Felice"
+}

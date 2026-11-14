@@ -1,0 +1,49 @@
+{
+  "slug": "lacoste-borie",
+  "name": "Lacoste-Borie",
+  "winery": "chateau-grand-puy-lacoste",
+  "region": "pauillac",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Segundo vino",
+    "en": "Second wine",
+    "fr": "Second vin",
+    "it": "Secondo vino"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Segundo vino de Château Grand-Puy-Lacoste, un Pauillac de Cabernet Sauvignon y Merlot más accesible en su juventud.",
+    "en": "Second wine of Château Grand-Puy-Lacoste, a Pauillac from Cabernet Sauvignon and Merlot that is more approachable in youth.",
+    "fr": "Second vin du Château Grand-Puy-Lacoste, un Pauillac de cabernet sauvignon et merlot plus accessible dans sa jeunesse.",
+    "it": "Secondo vino di Château Grand-Puy-Lacoste, un Pauillac da Cabernet Sauvignon e Merlot più accessibile in gioventù."
+  },
+  "body": {
+    "es": "<p>Lacoste-Borie es el segundo vino de Château Grand-Puy-Lacoste, quinto cru clasificado de Pauillac, y su nombre une el de la finca con el de la familia Borie, propietaria desde 1978. Procede de las viñas más jóvenes y de los lotes que no se incorporan al <em>grand vin</em>.</p><p>Pauillac, en el Médoc, alberga tres de los primeros grandes crus de 1855 y es la denominación de referencia para la Cabernet Sauvignon de Burdeos, gracias a sus suelos de grava profunda y bien drenada junto al estuario de la Gironda.</p><p>Como el vino principal, se basa en la <strong>Cabernet Sauvignon</strong>, con una parte de Merlot, y se cría en barricas, aunque con una crianza más corta y un uso menor de madera nueva. El resultado es un Pauillac de fruta más inmediata y taninos más suaves, que muestra el estilo clásico de la casa y puede beberse antes, sin perder del todo la capacidad de evolucionar en botella.</p>",
+    "en": "<p>Lacoste-Borie is the second wine of Château Grand-Puy-Lacoste, a fifth growth of Pauillac, and its name combines that of the estate with that of the Borie family, owners since 1978. It comes from the younger vines and from lots not included in the <em>grand vin</em>.</p><p>Pauillac, in the Médoc, is home to three of the 1855 first growths and is the reference appellation for Bordeaux Cabernet Sauvignon, thanks to its deep, well-drained gravel soils beside the Gironde estuary.</p><p>Like the main wine, it is based on <strong>Cabernet Sauvignon</strong>, with some Merlot, and is aged in barrels, though for a shorter time and with less new oak. The result is a Pauillac with more immediate fruit and softer tannins, showing the house’s classic style and drinkable earlier, while keeping some ability to evolve in bottle.</p>",
+    "fr": "<p>Lacoste-Borie est le second vin du Château Grand-Puy-Lacoste, cinquième cru classé de Pauillac, et son nom associe celui du domaine à celui de la famille Borie, propriétaire depuis 1978. Il provient des vignes les plus jeunes et des lots non retenus pour le <em>grand vin</em>.</p><p>Pauillac, dans le Médoc, abrite trois des premiers grands crus de 1855 et constitue l’appellation de référence pour le cabernet sauvignon bordelais, grâce à ses sols de graves profondes et bien drainées au bord de l’estuaire de la Gironde.</p><p>Comme le vin principal, il repose sur le <strong>cabernet sauvignon</strong>, avec une part de merlot, et est élevé en barriques, mais plus brièvement et avec moins de bois neuf. Le résultat est un Pauillac au fruit plus immédiat et aux tanins plus souples, qui reflète le style classique de la maison et se boit plus tôt, sans perdre toute aptitude à évoluer en bouteille.</p>",
+    "it": "<p>Lacoste-Borie è il secondo vino di Château Grand-Puy-Lacoste, quinto cru classé di Pauillac, e il suo nome unisce quello della tenuta a quello della famiglia Borie, proprietaria dal 1978. Proviene dalle vigne più giovani e dai lotti non inclusi nel <em>grand vin</em>.</p><p>Pauillac, nel Médoc, ospita tre dei premiers grands crus del 1855 ed è la denominazione di riferimento per il Cabernet Sauvignon bordolese, grazie ai suoi suoli di ghiaia profonda e ben drenata lungo l’estuario della Gironda.</p><p>Come il vino principale, si basa sul <strong>Cabernet Sauvignon</strong>, con una parte di Merlot, ed è affinato in barrique, anche se più brevemente e con meno legno nuovo. Il risultato è un Pauillac dal frutto più immediato e dai tannini più morbidi, che riflette lo stile classico della casa e si può bere prima, senza perdere del tutto la capacità di evolvere in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rubí. Aromas de cassis, cereza negra, cedro y notas tostadas suaves. Boca equilibrada, de taninos suaves y final fresco.",
+    "en": "Ruby. Aromas of blackcurrant, black cherry, cedar and gentle toasty notes. Balanced palate with soft tannins and a fresh finish.",
+    "fr": "Rubis. Arômes de cassis, de cerise noire, de cèdre et notes toastées discrètes. Bouche équilibrée, aux tanins souples, finale fraîche.",
+    "it": "Rubino. Aromi di cassis, ciliegia nera, cedro e delicate note tostate. Bocca equilibrata, tannini morbidi e finale fresco."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes rojas, caza, quesos curados",
+    "en": "Roast lamb, red meat, game, aged cheeses",
+    "fr": "Agneau rôti, viandes rouges, gibier, fromages affinés",
+    "it": "Agnello arrosto, carni rosse, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Lacoste-Borie Pauillac"
+}

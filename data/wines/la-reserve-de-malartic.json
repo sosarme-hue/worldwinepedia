@@ -1,0 +1,49 @@
+{
+  "slug": "la-reserve-de-malartic",
+  "name": "La Réserve de Malartic",
+  "winery": "chateau-malartic-lagraviere",
+  "region": "pessac-leognan",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Segundo vino",
+    "en": "Second wine",
+    "fr": "Second vin",
+    "it": "Secondo vino"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Segundo vino tinto de Château Malartic-Lagravière, un Pessac-Léognan más accesible en su juventud que el gran vino de la propiedad.",
+    "en": "Second red wine of Château Malartic-Lagravière, a Pessac-Léognan more approachable in its youth than the estate’s grand vin.",
+    "fr": "Second vin rouge de Château Malartic-Lagravière, un Pessac-Léognan plus accessible dans sa jeunesse que le grand vin de la propriété.",
+    "it": "Secondo vino rosso di Château Malartic-Lagravière, un Pessac-Léognan più accessibile in gioventù rispetto al grand vin della tenuta."
+  },
+  "body": {
+    "es": "<p><strong>La Réserve de Malartic</strong> es el segundo vino tinto de Château Malartic-Lagravière, cru classé de Graves situado en Léognan. Se elabora con uvas del mismo viñedo, sobre todo de parcelas más jóvenes y de lotes que no se seleccionan para el gran vino, y ensambla principalmente Merlot y Cabernet Sauvignon, las variedades dominantes de la finca.</p><p>La vinificación sigue los mismos principios que la del primer vino, con trabajo parcela a parcela, pero la crianza en barrica es más corta y el ensamblaje busca resaltar la fruta y la suavidad de los taninos.</p><p>El resultado es un tinto de Pessac-Léognan afrutado y equilibrado, con los matices ahumados característicos de los suelos de grava de la zona, que puede disfrutarse unos pocos años después de la cosecha y ofrece una buena introducción al estilo de la casa.</p>",
+    "en": "<p><strong>La Réserve de Malartic</strong> is the second red wine of Château Malartic-Lagravière, a Graves classified growth in Léognan. It is made from grapes from the same vineyard, mainly younger plots and lots not selected for the grand vin, and blends chiefly Merlot and Cabernet Sauvignon, the estate’s dominant varieties.</p><p>Winemaking follows the same principles as for the first wine, with plot-by-plot work, but barrel ageing is shorter and the blend aims to highlight the fruit and the softness of the tannins.</p><p>The result is a fruity, balanced Pessac-Léognan red with the smoky nuances typical of the area’s gravel soils, which can be enjoyed a few years after the harvest and offers a good introduction to the style of the house and its terroir.</p>",
+    "fr": "<p><strong>La Réserve de Malartic</strong> est le second vin rouge de Château Malartic-Lagravière, cru classé de Graves situé à Léognan. Il est élaboré avec des raisins du même vignoble, surtout de parcelles plus jeunes et de lots non retenus pour le grand vin, et assemble principalement merlot et cabernet-sauvignon, les cépages dominants du domaine.</p><p>La vinification suit les mêmes principes que celle du premier vin, avec un travail parcelle par parcelle, mais l’élevage en barrique est plus court et l’assemblage cherche à mettre en valeur le fruit et la souplesse des tanins.</p><p>Le résultat est un rouge de Pessac-Léognan fruité et équilibré, aux nuances fumées caractéristiques des sols de graves du secteur, qui peut s’apprécier quelques années après la récolte et offre une bonne introduction au style de la maison.</p>",
+    "it": "<p><strong>La Réserve de Malartic</strong> è il secondo vino rosso di Château Malartic-Lagravière, cru classé di Graves situato a Léognan. È prodotto con uve dello stesso vigneto, soprattutto di parcelle più giovani e di partite non selezionate per il grand vin, e unisce principalmente Merlot e Cabernet Sauvignon, le varietà dominanti della tenuta.</p><p>La vinificazione segue gli stessi principi del primo vino, con un lavoro parcella per parcella, ma l’affinamento in barrique è più breve e l’assemblaggio mira a esaltare il frutto e la morbidezza dei tannini.</p><p>Il risultato è un rosso di Pessac-Léognan fruttato ed equilibrato, con le sfumature affumicate tipiche dei suoli ghiaiosi della zona, che si può gustare pochi anni dopo la vendemmia e offre una buona introduzione allo stile della casa.</p>"
+  },
+  "tasting": {
+    "es": "Cereza, ciruela, grosella negra, especias y un toque ahumado. Boca suave y equilibrada, de taninos redondos.",
+    "en": "Cherry, plum, blackcurrant, spice and a smoky touch. Smooth, balanced palate with rounded tannins.",
+    "fr": "Cerise, prune, cassis, épices et touche fumée. Bouche souple et équilibrée, tanins ronds.",
+    "it": "Ciliegia, prugna, ribes nero, spezie e un tocco affumicato. Bocca morbida ed equilibrata, tannini rotondi."
+  },
+  "pairing": {
+    "es": "Cordero asado, entrecot, pato, caza menor, quesos curados",
+    "en": "Roast lamb, rib steak, duck, small game, aged cheeses",
+    "fr": "Agneau rôti, entrecôte, canard, petit gibier, fromages affinés",
+    "it": "Agnello arrosto, entrecôte, anatra, selvaggina minuta, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "La Réserve de Malartic Pessac-Léognan"
+}

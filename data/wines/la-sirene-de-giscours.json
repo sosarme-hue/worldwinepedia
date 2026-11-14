@@ -1,0 +1,49 @@
+{
+  "slug": "la-sirene-de-giscours",
+  "name": "La Sirène de Giscours",
+  "winery": "chateau-giscours",
+  "region": "margaux",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Segundo vino",
+    "en": "Second wine",
+    "fr": "Second vin",
+    "it": "Secondo vino"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Segundo vino de Château Giscours, en Margaux, de estilo más afrutado y accesible que el gran vino.",
+    "en": "Second wine of Château Giscours in Margaux, fruitier and more approachable than the grand vin.",
+    "fr": "Second vin de Château Giscours, à Margaux, plus fruité et accessible que le grand vin.",
+    "it": "Secondo vino di Château Giscours, a Margaux, più fruttato e accessibile del grand vin."
+  },
+  "body": {
+    "es": "<p><strong>La Sirène de Giscours</strong> es el segundo vino de Château Giscours, Tercer Gran Cru Clasificado de la denominación <strong>Margaux</strong>, situado en Labarde. Como es habitual en los grandes châteaux bordeleses, el segundo vino reúne lotes que no se destinan al gran vino, a menudo procedentes de viñas más jóvenes o de parcelas de perfil más accesible.</p><p>Se elabora con las mismas variedades que el gran vino, principalmente <strong>Cabernet Sauvignon</strong> y <strong>Merlot</strong>, sobre las terrazas de gravas de la finca. Suele tener una proporción algo mayor de Merlot y una crianza en barrica más corta y con menos madera nueva, lo que le da un carácter más afrutado y unos taninos más suaves.</p><p>Es un Margaux de cuerpo medio, con fruta roja y negra, notas especiadas y de cedro y una textura amable. Puede disfrutarse antes que el gran vino, aunque admite algunos años de guarda.</p>",
+    "en": "<p><strong>La Sirène de Giscours</strong> is the second wine of Château Giscours, a Third Growth in the <strong>Margaux</strong> appellation, located in Labarde. As is usual at the great Bordeaux châteaux, the second wine brings together lots not used for the grand vin, often from younger vines or from plots with a more approachable profile.</p><p>It is made from the same varieties as the grand vin, mainly <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong>, from the estate’s gravel terraces. It usually has a slightly higher proportion of Merlot and shorter barrel ageing with less new oak, giving it a fruitier character and softer tannins.</p><p>It is a medium-bodied Margaux with red and black fruit, spicy and cedar notes and a friendly texture. It can be enjoyed earlier than the grand vin, although it can handle a few years of cellaring.</p>",
+    "fr": "<p><strong>La Sirène de Giscours</strong> est le second vin de Château Giscours, troisième grand cru classé de l’appellation <strong>Margaux</strong>, situé à Labarde. Comme il est d’usage dans les grands châteaux bordelais, le second vin rassemble des lots non retenus pour le grand vin, souvent issus de vignes plus jeunes ou de parcelles au profil plus accessible.</p><p>Il est élaboré avec les mêmes cépages que le grand vin, principalement le <strong>cabernet-sauvignon</strong> et le <strong>merlot</strong>, sur les terrasses de graves du domaine. Il compte généralement une part un peu plus élevée de merlot et un élevage en barrique plus court, avec moins de bois neuf, ce qui lui donne un caractère plus fruité et des tanins plus souples.</p><p>C’est un margaux de corps moyen, aux fruits rouges et noirs, aux notes épicées et de cèdre et à la texture aimable. Il se boit plus tôt que le grand vin, mais supporte quelques années de garde.</p>",
+    "it": "<p><strong>La Sirène de Giscours</strong> è il secondo vino di Château Giscours, terzo Grand Cru Classé della denominazione <strong>Margaux</strong>, situato a Labarde. Come d’uso nei grandi château bordolesi, il secondo vino riunisce partite non destinate al grand vin, spesso provenienti da vigne più giovani o da parcelle dal profilo più accessibile.</p><p>È prodotto con le stesse varietà del grand vin, soprattutto <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong>, dalle terrazze di ghiaia della tenuta. Di solito ha una quota un po’ maggiore di Merlot e un affinamento in barrique più breve e con meno legno nuovo, che gli conferiscono un carattere più fruttato e tannini più morbidi.</p><p>È un Margaux di medio corpo, con frutto rosso e nero, note speziate e di cedro e una consistenza gentile. Si può gustare prima del grand vin, pur reggendo qualche anno di invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Cereza negra, casis, cedro y especias suaves. Boca de cuerpo medio, taninos suaves y final fresco.",
+    "en": "Black cherry, blackcurrant, cedar and gentle spice. Medium-bodied palate, soft tannins and a fresh finish.",
+    "fr": "Cerise noire, cassis, cèdre et épices douces. Bouche de corps moyen, tanins souples et finale fraîche.",
+    "it": "Ciliegia nera, ribes nero, cedro e spezie delicate. Bocca di medio corpo, tannini morbidi e finale fresco."
+  },
+  "pairing": {
+    "es": "Cordero asado, entrecot, caza menor, setas, quesos curados",
+    "en": "Roast lamb, rib steak, small game, mushrooms, aged cheeses",
+    "fr": "Agneau rôti, entrecôte, petit gibier, champignons, fromages affinés",
+    "it": "Agnello arrosto, costata, selvaggina minuta, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "La Sirène de Giscours Margaux"
+}

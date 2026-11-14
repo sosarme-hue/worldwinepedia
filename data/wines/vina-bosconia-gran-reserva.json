@@ -1,0 +1,51 @@
+{
+  "slug": "vina-bosconia-gran-reserva",
+  "name": "Viña Bosconia Gran Reserva",
+  "winery": "lopez-de-heredia",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Gran Reserva",
+    "en": "Gran Reserva",
+    "fr": "Gran Reserva",
+    "it": "Gran Reserva"
+  },
+  "grapes": [
+    "tempranillo",
+    "garnacha",
+    "carinena",
+    "graciano"
+  ],
+  "summary": {
+    "es": "Gran reserva tradicional de López de Heredia, de la finca El Bosque, criado durante muchos años en barricas usadas.",
+    "en": "Traditional gran reserva from López de Heredia, from the El Bosque estate, aged for many years in used barrels.",
+    "fr": "Gran reserva traditionnel de López de Heredia, issu du domaine d’El Bosque, élevé de longues années en barriques usagées.",
+    "it": "Gran reserva tradizionale di López de Heredia, dalla tenuta El Bosque, affinato per molti anni in botti usate."
+  },
+  "body": {
+    "es": "<p>Viña Bosconia es una de las grandes líneas de López de Heredia y debe su nombre a la finca El Bosque, un viñedo propio en las cercanías de Haro. La versión Gran Reserva sólo se elabora en las añadas que la bodega considera de calidad excepcional.</p><p>Se elabora con una mezcla dominada por la <strong>Tempranillo</strong>, completada con Garnacha, Mazuelo (Cariñena) y Graciano. La fermentación tiene lugar en grandes tinas de roble, y el vino pasa después muchos años en barricas usadas, fabricadas y reparadas en la tonelería de la propia bodega, con trasiegos manuales y clarificación con clara de huevo. Sigue después un largo reposo en botella en los calados de Haro.</p><p>Tradicionalmente, Bosconia se describe como el vino más amplio y carnoso de la casa, frente al perfil más fino y ácido de Tondonia. Su Gran Reserva muestra la complejidad propia de una crianza muy prolongada y una gran capacidad de envejecimiento.</p>",
+    "en": "<p>Viña Bosconia is one of López de Heredia’s great ranges and takes its name from the El Bosque estate, one of the winery’s own vineyards near Haro. The Gran Reserva version is made only in vintages the winery considers of exceptional quality.</p><p>It is made from a blend dominated by <strong>Tempranillo</strong>, completed with Grenache, Mazuelo (Carignan) and Graciano. Fermentation takes place in large oak vats, and the wine then spends many years in used barrels made and repaired in the winery’s own cooperage, with hand racking and egg-white fining. A long rest in bottle in the Haro cellars follows.</p><p>Bosconia is traditionally described as the house’s broader, fleshier wine, compared with the finer, more acid-driven profile of Tondonia. The Gran Reserva shows the complexity that comes from very long ageing and has great cellaring potential.</p>",
+    "fr": "<p>Viña Bosconia est l’une des grandes gammes de López de Heredia et doit son nom au domaine d’El Bosque, un vignoble de la maison près de Haro. La version Gran Reserva n’est élaborée que dans les millésimes que la maison juge d’une qualité exceptionnelle.</p><p>Elle est issue d’un assemblage dominé par le <strong>tempranillo</strong>, complété de grenache, de mazuelo (carignan) et de graciano. La fermentation a lieu dans de grandes cuves en chêne, puis le vin passe de nombreuses années en barriques usagées fabriquées et réparées dans la tonnellerie de la maison, avec soutirages manuels et collage au blanc d’œuf. Suit un long repos en bouteille dans les caves de Haro.</p><p>Bosconia est traditionnellement décrit comme le vin le plus ample et charnu de la maison, face au profil plus fin et plus acide de Tondonia. Son Gran Reserva montre la complexité d’un élevage très long et un grand potentiel de garde.</p>",
+    "it": "<p>Viña Bosconia è una delle grandi linee di López de Heredia e deve il nome alla tenuta El Bosque, un vigneto di proprietà nei dintorni di Haro. La versione Gran Reserva viene prodotta solo nelle annate che la cantina considera di qualità eccezionale.</p><p>Nasce da un uvaggio dominato dal <strong>Tempranillo</strong>, completato da Grenache, Mazuelo (Carignano) e Graciano. La fermentazione avviene in grandi tini di rovere e il vino trascorre poi molti anni in botti usate, costruite e riparate nella bottaia della cantina, con travasi manuali e chiarifica con albume d’uovo. Segue un lungo riposo in bottiglia nelle cantine di Haro.</p><p>Tradizionalmente Bosconia è descritto come il vino più ampio e carnoso della casa, rispetto al profilo più fine e acido di Tondonia. Il Gran Reserva mostra la complessità di un affinamento molto lungo e ha una grande capacità di invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Granate con ribete teja. Aromas de fruta roja madura y confitada, cuero, tabaco, especias y sotobosque. Boca amplia y sedosa, de acidez fresca y final largo.",
+    "en": "Garnet with a brick rim. Aromas of ripe and candied red fruit, leather, tobacco, spice and forest floor. Broad and silky on the palate, with fresh acidity and a long finish.",
+    "fr": "Grenat aux reflets tuilés. Arômes de fruits rouges mûrs et confits, de cuir, de tabac, d’épices et de sous-bois. Bouche ample et soyeuse, à l’acidité fraîche, avec une finale longue.",
+    "it": "Granato con unghia aranciata. Aromi di frutta rossa matura e candita, cuoio, tabacco, spezie e sottobosco. Bocca ampia e setosa, di acidità fresca e finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, caza, guisos de carne, setas, quesos curados",
+    "en": "Roast lamb, game, meat stews, mushrooms, aged cheeses",
+    "fr": "Agneau rôti, gibier, ragoûts de viande, champignons, fromages affinés",
+    "it": "Agnello arrosto, selvaggina, stufati di carne, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Viña Bosconia Gran Reserva López de Heredia"
+}

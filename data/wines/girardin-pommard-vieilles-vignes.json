@@ -1,0 +1,48 @@
+{
+  "slug": "girardin-pommard-vieilles-vignes",
+  "name": "Pommard Vieilles Vignes",
+  "winery": "vincent-girardin",
+  "region": "cote-de-beaune",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Vieilles Vignes",
+    "en": "Vieilles Vignes",
+    "fr": "Vieilles Vignes",
+    "it": "Vieilles Vignes"
+  },
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Pommard de denominación municipal elaborado por Vincent Girardin con Pinot Noir de cepas viejas.",
+    "en": "Village-level Pommard made by Vincent Girardin from old-vine Pinot Noir.",
+    "fr": "Pommard d’appellation village élaboré par Vincent Girardin à partir de vieilles vignes de pinot noir.",
+    "it": "Pommard di denominazione comunale prodotto da Vincent Girardin con Pinot Noir di vecchie viti."
+  },
+  "body": {
+    "es": "<p><strong>Pommard</strong>, situado entre Beaune y Volnay, es una de las denominaciones tintas más conocidas de la Côte de Beaune. Sus suelos, ricos en arcilla y con presencia de óxidos de hierro en algunas zonas, dan tradicionalmente Pinot Noir de color intenso, cuerpo notable y taninos firmes, más robustos que los de su vecino Volnay.</p><p>Esta cuvée de Vincent Girardin se elabora con uvas de <strong>cepas viejas</strong> de distintas parcelas con derecho a la denominación municipal. La menor producción de las viñas de edad suele dar una fruta más concentrada. La vinificación busca un equilibrio entre la potencia natural de Pommard y la expresión de la fruta, con extracciones moderadas y crianza en barrica.</p><p>Es un tinto estructurado que gana en armonía con unos años de botella y acompaña bien platos de carne con cierta intensidad.</p>",
+    "en": "<p><strong>Pommard</strong>, between Beaune and Volnay, is one of the best-known red appellations of the Côte de Beaune. Its soils, rich in clay and with iron oxides in some areas, traditionally produce Pinot Noir of deep colour, considerable body and firm tannins, sturdier than that of neighbouring Volnay.</p><p>This Vincent Girardin cuvée is made from <strong>old-vine</strong> grapes from various plots entitled to the village appellation. The lower yields of older vines usually give more concentrated fruit. Winemaking seeks a balance between Pommard’s natural power and the expression of the fruit, with moderate extraction and barrel ageing.</p><p>It is a structured red that gains harmony with a few years in bottle and pairs well with fairly intense meat dishes, particularly slow-cooked ones.</p>",
+    "fr": "<p><strong>Pommard</strong>, entre Beaune et Volnay, est l’une des appellations rouges les plus connues de la Côte de Beaune. Ses sols, riches en argile et marqués par des oxydes de fer par endroits, donnent traditionnellement des pinots noirs de couleur soutenue, de corps notable et aux tanins fermes, plus robustes que ceux du voisin Volnay.</p><p>Cette cuvée de Vincent Girardin est élaborée avec des raisins de <strong>vieilles vignes</strong> issus de différentes parcelles en appellation village. Les rendements plus faibles des ceps âgés donnent généralement un fruit plus concentré. La vinification recherche l’équilibre entre la puissance naturelle de Pommard et l’expression du fruit, avec des extractions modérées et un élevage en barrique.</p><p>C’est un rouge structuré qui gagne en harmonie après quelques années de bouteille et accompagne bien des plats de viande assez intenses.</p>",
+    "it": "<p><strong>Pommard</strong>, tra Beaune e Volnay, è una delle denominazioni rosse più conosciute della Côte de Beaune. I suoi suoli, ricchi di argilla e con ossidi di ferro in alcune zone, danno tradizionalmente Pinot Noir di colore intenso, corpo notevole e tannini decisi, più robusti di quelli del vicino Volnay.</p><p>Questa cuvée di Vincent Girardin è prodotta con uve di <strong>vecchie viti</strong> provenienti da diverse parcelle a denominazione comunale. Le rese più basse delle viti anziane danno di solito un frutto più concentrato. La vinificazione cerca un equilibrio tra la potenza naturale di Pommard e l’espressione del frutto, con estrazioni moderate e affinamento in barrique.</p><p>È un rosso strutturato che acquista armonia con qualche anno di bottiglia e accompagna bene piatti di carne di una certa intensità.</p>"
+  },
+  "tasting": {
+    "es": "Aromas de cereza negra, ciruela, especias y notas terrosas. Boca con cuerpo, taninos firmes y final sabroso.",
+    "en": "Aromas of black cherry, plum, spice and earthy notes. Full palate with firm tannins and a savoury finish.",
+    "fr": "Arômes de cerise noire, de prune, d’épices et notes terreuses. Bouche charpentée, aux tanins fermes et à la finale savoureuse.",
+    "it": "Aromi di ciliegia nera, prugna, spezie e note terrose. Bocca corposa, con tannini decisi e finale sapido."
+  },
+  "pairing": {
+    "es": "Buey a la borgoñona, caza, cordero asado, quesos de corteza lavada",
+    "en": "Beef bourguignon, game, roast lamb, washed-rind cheeses",
+    "fr": "Bœuf bourguignon, gibier, agneau rôti, fromages à croûte lavée",
+    "it": "Manzo alla borgognona, selvaggina, agnello arrosto, formaggi a crosta lavata"
+  },
+  "serve": {
+    "es": "15-17 °C, copa de Borgoña",
+    "en": "15-17 °C, Burgundy glass",
+    "fr": "15-17 °C, verre de type bourguignon",
+    "it": "15-17 °C, calice tipo Borgogna"
+  },
+  "search": "Pommard Vieilles Vignes Vincent Girardin"
+}

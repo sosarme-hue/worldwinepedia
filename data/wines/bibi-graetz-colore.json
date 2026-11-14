@@ -1,0 +1,48 @@
+{
+  "slug": "bibi-graetz-colore",
+  "name": "Bibi Graetz Colore",
+  "winery": "bibi-graetz",
+  "region": "toscana",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "IGT Toscana",
+    "en": "IGT Toscana",
+    "fr": "IGT Toscana",
+    "it": "IGT Toscana"
+  },
+  "grapes": [
+    "sangiovese"
+  ],
+  "summary": {
+    "es": "El tinto de cima de Bibi Graetz, elaborado con Sangiovese de viñas muy viejas seleccionadas, concentrado y de larga guarda.",
+    "en": "Bibi Graetz’s top red, made from selected very old-vine Sangiovese, concentrated and long-lived.",
+    "fr": "Le rouge de sommet de Bibi Graetz, élaboré à partir de sangiovese de très vieilles vignes sélectionnées, concentré et de longue garde.",
+    "it": "Il rosso di vertice di Bibi Graetz, ottenuto da Sangiovese di vigne molto vecchie selezionate, concentrato e longevo."
+  },
+  "body": {
+    "es": "<p>Bibi Graetz, pintor y viticultor con sede en Fiesole, junto a Florencia, construyó su proyecto en torno a la <strong>Sangiovese</strong> de viñas viejas, buscando pequeñas parcelas antiguas en distintas zonas de la Toscana. Elabora sus vinos con la indicación IGT Toscana, que le permite elegir con libertad el origen de las uvas.</p><p><em>Colore</em> es el vino de cima de la casa, situado por encima de Testamatta. Su nombre significa «color» en italiano. Procede de una selección de las viñas más viejas con las que trabaja la bodega, y se elabora en pequeñas cantidades, con una vinificación cuidadosa y una crianza en barrica pensada para dar profundidad sin perder la frescura característica de la Sangiovese.</p><p>Es un tinto de cuerpo medio a pleno, concentrado y complejo, con cereza negra, frutos rojos, notas florales, especiadas y terrosas y taninos finos pero firmes. Está pensado para una larga guarda y conviene decantarlo en su juventud.</p>",
+    "en": "<p>Bibi Graetz, a painter and winemaker based in Fiesole near Florence, built his project around old-vine <strong>Sangiovese</strong>, seeking out small, old plots in different parts of Tuscany. He makes his wines under the IGT Toscana indication, which allows him to choose freely where his grapes come from.</p><p><em>Colore</em> is the house’s top wine, ranked above Testamatta. Its name means “colour” in Italian. It comes from a selection of the oldest vines the winery works with and is made in small quantities, with careful winemaking and barrel ageing designed to give depth without losing the freshness characteristic of Sangiovese.</p><p>It is a medium- to full-bodied red, concentrated and complex, with black cherry, red berries, floral, spicy and earthy notes and fine but firm tannins. It is built for long ageing and is best decanted in its youth.</p>",
+    "fr": "<p>Bibi Graetz, peintre et vigneron installé à Fiesole, près de Florence, a construit son projet autour du <strong>sangiovese</strong> de vieilles vignes, en recherchant de petites parcelles anciennes dans différentes zones de Toscane. Il élabore ses vins sous l’indication IGT Toscana, qui lui permet de choisir librement l’origine de ses raisins.</p><p><em>Colore</em> est le vin de sommet de la maison, placé au-dessus de Testamatta. Son nom signifie « couleur » en italien. Il provient d’une sélection des plus vieilles vignes avec lesquelles travaille le domaine et il est produit en petites quantités, avec une vinification soignée et un élevage en barrique conçu pour donner de la profondeur sans perdre la fraîcheur caractéristique du sangiovese.</p><p>C’est un rouge de corps moyen à ample, concentré et complexe, à la cerise noire, aux fruits rouges, aux notes florales, épicées et terriennes et aux tanins fins mais fermes. Conçu pour une longue garde, il gagne à être carafé dans sa jeunesse.</p>",
+    "it": "<p>Bibi Graetz, pittore e vignaiolo con sede a Fiesole, vicino a Firenze, ha costruito il suo progetto attorno al <strong>Sangiovese</strong> di vecchie vigne, cercando piccole parcelle antiche in diverse zone della Toscana. Produce i suoi vini con l’indicazione IGT Toscana, che gli consente di scegliere liberamente la provenienza delle uve.</p><p><em>Colore</em> è il vino di vertice della casa, collocato al di sopra di Testamatta. Proviene da una selezione delle vigne più vecchie con cui lavora l’azienda ed è prodotto in piccole quantità, con una vinificazione accurata e un affinamento in barrique pensato per dare profondità senza perdere la freschezza tipica del Sangiovese.</p><p>È un rosso di corpo medio-pieno, concentrato e complesso, con ciliegia nera, frutti rossi, note floreali, speziate e terrose e tannini fini ma decisi. È pensato per un lungo invecchiamento e conviene decantarlo da giovane.</p>"
+  },
+  "tasting": {
+    "es": "Rubí profundo. Aromas de cereza negra, frambuesa, violeta, especias y tierra. Boca concentrada y profunda, de taninos firmes y final muy largo.",
+    "en": "Deep ruby. Aromas of black cherry, raspberry, violet, spice and earth. Concentrated, deep palate with firm tannins and a very long finish.",
+    "fr": "Rubis profond. Arômes de cerise noire, de framboise, de violette, d’épices et de terre. Bouche concentrée et profonde, aux tanins fermes et à la finale très longue.",
+    "it": "Rubino profondo. Aromi di ciliegia nera, lampone, violetta, spezie e terra. Bocca concentrata e profonda, dai tannini decisi e finale lunghissimo."
+  },
+  "pairing": {
+    "es": "Caza, carnes rojas asadas, platos con trufa, quesos muy curados",
+    "en": "Game, roast red meat, truffle dishes, long-aged cheeses",
+    "fr": "Gibier, viandes rouges rôties, plats à la truffe, fromages très affinés",
+    "it": "Selvaggina, carni rosse arrosto, piatti al tartufo, formaggi molto stagionati"
+  },
+  "serve": {
+    "es": "17-18 °C, copa amplia; decantar",
+    "en": "17-18 °C, large glass; decant",
+    "fr": "17-18 °C, grand verre ; carafer",
+    "it": "17-18 °C, calice ampio; decantare"
+  },
+  "search": "Colore Bibi Graetz"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "san-polo-rosso-di-montalcino",
+  "name": "San Polo Rosso di Montalcino",
+  "winery": "allegrini",
+  "region": "brunello-di-montalcino",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "Rosso di Montalcino DOC",
+    "en": "Rosso di Montalcino DOC",
+    "fr": "Rosso di Montalcino DOC",
+    "it": "Rosso di Montalcino DOC"
+  },
+  "grapes": [
+    "sangiovese"
+  ],
+  "summary": {
+    "es": "El Rosso di Montalcino de San Polo, finca vinculada a la familia Allegrini, un Sangiovese afrutado y fresco, más accesible que el Brunello.",
+    "en": "The Rosso di Montalcino of San Polo, an estate linked to the Allegrini family, a fruity, fresh Sangiovese more approachable than Brunello.",
+    "fr": "Le Rosso di Montalcino de San Polo, domaine lié à la famille Allegrini, un sangiovese fruité et frais, plus accessible que le Brunello.",
+    "it": "Il Rosso di Montalcino di San Polo, tenuta legata alla famiglia Allegrini, un Sangiovese fruttato e fresco, più accessibile del Brunello."
+  },
+  "body": {
+    "es": "<p>El <strong>Rosso di Montalcino</strong> comparte territorio y variedad con el Brunello di Montalcino: se elabora exclusivamente con <strong>Sangiovese</strong> cultivada en la zona de Montalcino, en la provincia de Siena. Sin embargo, sus normas de crianza son mucho menos exigentes, lo que permite comercializarlo antes y ofrecer una expresión más joven y afrutada de la Sangiovese local.</p><p>Este Rosso di Montalcino procede de San Polo, finca de Montalcino vinculada a la familia Allegrini, conocida por sus vinos de Valpolicella. Se elabora con uvas de los viñedos de la propiedad y con una crianza más breve que la del Brunello de la casa, buscando preservar la fruta, la frescura y la tensión de la variedad.</p><p>Es un tinto de cuerpo medio, con cereza, frutos rojos, notas florales y especiadas, buena acidez y taninos presentes pero amables. Se disfruta en sus primeros años y acompaña con facilidad la cocina toscana.</p>",
+    "en": "<p><strong>Rosso di Montalcino</strong> shares its territory and grape with Brunello di Montalcino: it is made exclusively from <strong>Sangiovese</strong> grown in the Montalcino area, in the province of Siena. However, its ageing rules are much less demanding, allowing it to be released earlier and to offer a younger, fruitier expression of local Sangiovese.</p><p>This Rosso di Montalcino comes from San Polo, a Montalcino estate linked to the Allegrini family, known for its Valpolicella wines. It is made from the estate’s grapes with shorter ageing than the house’s Brunello, aiming to preserve the fruit, freshness and tension of the variety.</p><p>It is a medium-bodied red with cherry, red berries, floral and spicy notes, good acidity and present but gentle tannins. It is enjoyed in its first few years and goes easily with Tuscan cooking, from pasta with meat sauces to grilled meats.</p>",
+    "fr": "<p>Le <strong>Rosso di Montalcino</strong> partage son territoire et son cépage avec le Brunello di Montalcino : il est élaboré exclusivement à partir de <strong>sangiovese</strong> cultivé dans la zone de Montalcino, dans la province de Sienne. Ses règles de vieillissement sont toutefois bien moins strictes, ce qui permet de le commercialiser plus tôt et d’offrir une expression plus jeune et plus fruitée du sangiovese local.</p><p>Ce Rosso di Montalcino provient de San Polo, domaine de Montalcino lié à la famille Allegrini, connue pour ses vins de Valpolicella. Il est élaboré à partir des raisins de la propriété, avec un élevage plus court que celui du Brunello de la maison, afin de préserver le fruit, la fraîcheur et la tension du cépage.</p><p>C’est un rouge de corps moyen, à la cerise, aux fruits rouges, aux notes florales et épicées, à la belle acidité et aux tanins présents mais aimables. Il s’apprécie dans ses premières années et accompagne facilement la cuisine toscane.</p>",
+    "it": "<p>Il <strong>Rosso di Montalcino</strong> condivide territorio e vitigno con il Brunello di Montalcino: si ottiene esclusivamente da <strong>Sangiovese</strong> coltivato nella zona di Montalcino, in provincia di Siena. Le sue regole di affinamento sono però molto meno severe, il che consente di commercializzarlo prima e di offrire un’espressione più giovane e fruttata del Sangiovese locale.</p><p>Questo Rosso di Montalcino proviene da San Polo, tenuta di Montalcino legata alla famiglia Allegrini, nota per i suoi vini della Valpolicella. Si ottiene dalle uve della proprietà, con un affinamento più breve rispetto al Brunello della casa, per preservare il frutto, la freschezza e la tensione del vitigno.</p><p>È un rosso di medio corpo, con ciliegia, frutti rossi, note floreali e speziate, buona acidità e tannini presenti ma gentili. Si gusta nei primi anni e accompagna con facilità la cucina toscana.</p>"
+  },
+  "tasting": {
+    "es": "Rubí brillante. Aromas de cereza, frambuesa, violeta y especias suaves. Boca fresca y jugosa, de taninos amables.",
+    "en": "Bright ruby. Aromas of cherry, raspberry, violet and gentle spice. Fresh, juicy palate with gentle tannins.",
+    "fr": "Rubis brillant. Arômes de cerise, de framboise, de violette et d’épices douces. Bouche fraîche et juteuse, aux tanins aimables.",
+    "it": "Rubino brillante. Aromi di ciliegia, lampone, violetta e spezie dolci. Bocca fresca e succosa, dai tannini gentili."
+  },
+  "pairing": {
+    "es": "Pasta con ragú, embutidos toscanos, carnes a la parrilla, quesos semicurados",
+    "en": "Pasta with ragù, Tuscan cured meats, grilled meat, semi-aged cheeses",
+    "fr": "Pâtes au ragù, charcuterie toscane, viandes grillées, fromages mi-affinés",
+    "it": "Pasta al ragù, salumi toscani, carni alla griglia, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "15-17 °C, copa de vino tinto",
+    "en": "15-17 °C, red wine glass",
+    "fr": "15-17 °C, verre à vin rouge",
+    "it": "15-17 °C, calice da vino rosso"
+  },
+  "search": "San Polo Rosso di Montalcino"
+}

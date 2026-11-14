@@ -1,0 +1,49 @@
+{
+  "slug": "chateau-sociando-mallet",
+  "name": "Château Sociando-Mallet",
+  "winery": "chateau-sociando-mallet",
+  "region": "medoc",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Haut-Médoc",
+    "en": "Haut-Médoc",
+    "fr": "Haut-Médoc",
+    "it": "Haut-Médoc"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "El gran vino de Château Sociando-Mallet, un Haut-Médoc estructurado y longevo de Cabernet Sauvignon y Merlot, de las gravas que dominan la Gironda.",
+    "en": "The grand vin of Château Sociando-Mallet, a structured, long-lived Haut-Médoc from Cabernet Sauvignon and Merlot grown on gravels overlooking the Gironde.",
+    "fr": "Le grand vin du château Sociando-Mallet, un haut-médoc structuré et de longue garde, de cabernet sauvignon et merlot, issu des graves dominant la Gironde.",
+    "it": "Il grand vin di Château Sociando-Mallet, un Haut-Médoc strutturato e longevo di Cabernet Sauvignon e Merlot, dalle ghiaie che dominano la Gironda."
+  },
+  "body": {
+    "es": "<p>Château Sociando-Mallet es el gran vino de la propiedad homónima de Saint-Seurin-de-Cadourne, en el norte del <strong>Haut-Médoc</strong>. Aunque no figura en la clasificación de 1855, está considerado desde hace décadas uno de los vinos más sólidos del Médoc y se compara a menudo con crus clasificados.</p><p>Procede de una loma de gravas sobre arcillas calcáreas que domina el estuario de la Gironda. Se elabora con <strong>Cabernet Sauvignon</strong> y <strong>Merlot</strong>, en proporciones a menudo bastante equilibradas, completados con algo de Cabernet Franc y Petit Verdot según la añada.</p><p>La crianza en barricas de roble, tradicionalmente con una parte importante de madera nueva, aporta estructura y complejidad. El resultado es un tinto de color profundo, con fruta negra, notas de cedro y especias y taninos firmes, poco expresivo en su juventud, que necesita varios años de botella y puede envejecer durante mucho tiempo.</p>",
+    "en": "<p>Château Sociando-Mallet is the grand vin of the estate of the same name in Saint-Seurin-de-Cadourne, in the north of the <strong>Haut-Médoc</strong>. Although it is not in the 1855 classification, it has for decades been regarded as one of the Médoc’s most reliable wines and is often compared with classified growths.</p><p>It comes from a gravel rise over clay-limestone overlooking the Gironde estuary. It is made from <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong>, often in fairly balanced proportions, completed with some Cabernet Franc and Petit Verdot depending on the vintage.</p><p>Ageing in oak barrels, traditionally with a significant share of new wood, adds structure and complexity. The result is a deep-coloured red with black fruit, cedar and spice notes and firm tannins, rather reserved when young, which needs several years in bottle and can age for a long time.</p>",
+    "fr": "<p>Château Sociando-Mallet est le grand vin de la propriété du même nom à Saint-Seurin-de-Cadourne, dans le nord du <strong>Haut-Médoc</strong>. Bien qu’il ne figure pas au classement de 1855, il est considéré depuis des décennies comme l’un des vins les plus sûrs du Médoc et souvent comparé à des crus classés.</p><p>Il provient d’une croupe de graves sur argilo-calcaire dominant l’estuaire de la Gironde. Il est élaboré à partir de <strong>cabernet sauvignon</strong> et de <strong>merlot</strong>, souvent dans des proportions assez équilibrées, complétés d’un peu de cabernet franc et de petit verdot selon le millésime.</p><p>L’élevage en barriques de chêne, traditionnellement avec une part importante de bois neuf, apporte structure et complexité. Il en résulte un rouge à la robe profonde, au fruit noir, aux notes de cèdre et d’épices et aux tanins fermes, assez réservé dans sa jeunesse, qui demande plusieurs années de bouteille et peut vieillir longtemps.</p>",
+    "it": "<p>Château Sociando-Mallet è il grand vin della proprietà omonima di Saint-Seurin-de-Cadourne, nel nord dell’<strong>Haut-Médoc</strong>. Pur non figurando nella classificazione del 1855, è considerato da decenni uno dei vini più affidabili del Médoc e viene spesso paragonato ai cru classé.</p><p>Proviene da un dosso di ghiaia su argille calcaree che domina l’estuario della Gironda. È prodotto con <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong>, spesso in proporzioni abbastanza equilibrate, completati da un po’ di Cabernet Franc e Petit Verdot secondo l’annata.</p><p>L’affinamento in barrique di rovere, tradizionalmente con una quota importante di legno nuovo, apporta struttura e complessità. Il risultato è un rosso dal colore profondo, con frutto nero, note di cedro e spezie e tannini decisi, piuttosto chiuso da giovane, che ha bisogno di diversi anni di bottiglia e può invecchiare a lungo.</p>"
+  },
+  "tasting": {
+    "es": "Granate oscuro. Aromas de casis, mora, cedro, tabaco y especias. Boca estructurada y profunda, de taninos firmes y final largo.",
+    "en": "Dark garnet. Aromas of blackcurrant, blackberry, cedar, tobacco and spice. Structured, deep palate with firm tannins and a long finish.",
+    "fr": "Grenat sombre. Arômes de cassis, de mûre, de cèdre, de tabac et d’épices. Bouche structurée et profonde, aux tanins fermes et à la longue finale.",
+    "it": "Granato scuro. Aromi di ribes nero, mora, cedro, tabacco e spezie. Bocca strutturata e profonda, dai tannini decisi e lungo finale."
+  },
+  "pairing": {
+    "es": "Entrecot, cordero asado, caza, quesos curados",
+    "en": "Rib-eye steak, roast lamb, game, mature cheeses",
+    "fr": "Entrecôte, agneau rôti, gibier, fromages affinés",
+    "it": "Entrecôte, agnello arrosto, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "17-18 °C, copa tipo Burdeos; decantar en su juventud",
+    "en": "17-18 °C, Bordeaux glass; decant when young",
+    "fr": "17-18 °C, verre de type bordelais ; carafer dans sa jeunesse",
+    "it": "17-18 °C, calice tipo Bordeaux; decantare da giovane"
+  },
+  "search": "Château Sociando-Mallet Haut-Médoc"
+}

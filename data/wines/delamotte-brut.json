@@ -1,0 +1,50 @@
+{
+  "slug": "delamotte-brut",
+  "name": "Delamotte Brut",
+  "winery": "delamotte",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut",
+    "en": "Brut",
+    "fr": "Brut",
+    "it": "Brut"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir",
+    "pinot-meunier"
+  ],
+  "summary": {
+    "es": "Champagne brut sin añada de Delamotte, con una proporción importante de Chardonnay de la Côte des Blancs completada con Pinot Noir y Pinot Meunier.",
+    "en": "Non-vintage brut Champagne from Delamotte, with a large share of Côte des Blancs Chardonnay completed by Pinot Noir and Pinot Meunier.",
+    "fr": "Champagne brut sans année de Delamotte, avec une part importante de chardonnay de la Côte des Blancs complétée par du pinot noir et du pinot meunier.",
+    "it": "Champagne brut senza annata di Delamotte, con un’ampia quota di Chardonnay della Côte des Blancs completata da Pinot Noir e Pinot Meunier."
+  },
+  "body": {
+    "es": "<p>El <strong>Brut</strong> es el champán de referencia de Delamotte, la casa fundada en 1760 y establecida en Le Mesnil-sur-Oger, en la Côte des Blancs. A diferencia de muchos brut sin añada, en los que dominan las variedades tintas, este ensamblaje concede un papel protagonista a la <strong>Chardonnay</strong>, procedente en buena parte de los pueblos grand cru de la Côte des Blancs, completada con Pinot Noir y Pinot Meunier de otras zonas de la Champagne.</p><p>Se elabora por el método tradicional, con segunda fermentación en botella, e incorpora vinos de reserva de cosechas anteriores para mantener un estilo constante. Después reposa sobre sus lías en las bodegas de la casa durante varios años antes del degüelle.</p><p>El resultado es un champán fresco y elegante, de burbuja fina, con la tensión y la mineralidad de la Chardonnay y la fruta y el cuerpo que aportan las variedades tintas.</p>",
+    "en": "<p>The <strong>Brut</strong> is Delamotte’s benchmark champagne, from the house founded in 1760 and based in Le Mesnil-sur-Oger, in the Côte des Blancs. Unlike many non-vintage bruts, in which the black varieties dominate, this blend gives a leading role to <strong>Chardonnay</strong>, largely from the grand cru villages of the Côte des Blancs, completed by Pinot Noir and Pinot Meunier from other parts of Champagne.</p><p>It is made by the traditional method, with a second fermentation in bottle, and includes reserve wines from earlier harvests to keep the style consistent. It then rests on its lees in the house cellars for several years before disgorgement.</p><p>The result is a fresh, elegant champagne with fine bubbles, combining the tension and minerality of Chardonnay with the fruit and body brought by the black varieties.</p>",
+    "fr": "<p>Le <strong>Brut</strong> est le champagne de référence de Delamotte, maison fondée en 1760 et installée au Mesnil-sur-Oger, sur la Côte des Blancs. Contrairement à de nombreux bruts sans année dominés par les cépages noirs, cet assemblage accorde un rôle de premier plan au <strong>chardonnay</strong>, issu en bonne partie des villages grand cru de la Côte des Blancs, complété par du pinot noir et du pinot meunier d’autres secteurs de la Champagne.</p><p>Il est élaboré selon la méthode traditionnelle, avec une seconde fermentation en bouteille, et intègre des vins de réserve de récoltes antérieures afin de garder un style constant. Il repose ensuite sur lies dans les caves de la maison pendant plusieurs années avant le dégorgement.</p><p>Le résultat est un champagne frais et élégant, à la bulle fine, qui associe la tension et la minéralité du chardonnay au fruit et au corps apportés par les cépages noirs.</p>",
+    "it": "<p>Il <strong>Brut</strong> è lo champagne di riferimento di Delamotte, la casa fondata nel 1760 e con sede a Le Mesnil-sur-Oger, nella Côte des Blancs. A differenza di molti brut senza annata, dominati dalle varietà a bacca nera, questo assemblaggio dà un ruolo di primo piano allo <strong>Chardonnay</strong>, proveniente in buona parte dai villaggi grand cru della Côte des Blancs, completato da Pinot Noir e Pinot Meunier di altre zone della Champagne.</p><p>È prodotto con il metodo tradizionale, con seconda fermentazione in bottiglia, e include vini di riserva di vendemmie precedenti per mantenere uno stile costante. Riposa poi sui lieviti nelle cantine della casa per diversi anni prima della sboccatura.</p><p>Il risultato è uno champagne fresco ed elegante, dal perlage fine, che unisce la tensione e la mineralità dello Chardonnay al frutto e al corpo apportati dalle varietà a bacca nera.</p>"
+  },
+  "tasting": {
+    "es": "Cítricos, manzana, flores blancas, brioche y notas de tiza. Boca fresca y fina, de burbuja delicada y final limpio.",
+    "en": "Citrus, apple, white flowers, brioche and chalky notes. Fresh, fine palate with delicate bubbles and a clean finish.",
+    "fr": "Agrumes, pomme, fleurs blanches, brioche et notes crayeuses. Bouche fraîche et fine, bulle délicate et finale nette.",
+    "it": "Agrumi, mela, fiori bianchi, brioche e note gessose. Bocca fresca e fine, perlage delicato e finale pulito."
+  },
+  "pairing": {
+    "es": "Aperitivo, ostras, marisco, pescado crudo, sushi",
+    "en": "Aperitif, oysters, shellfish, raw fish, sushi",
+    "fr": "Apéritif, huîtres, fruits de mer, poisson cru, sushi",
+    "it": "Aperitivo, ostriche, frutti di mare, pesce crudo, sushi"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco o tulipa",
+    "en": "8-10 °C, white wine or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da vino bianco o a tulipano"
+  },
+  "search": "Champagne Delamotte Brut"
+}

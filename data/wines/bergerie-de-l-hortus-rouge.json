@@ -1,0 +1,50 @@
+{
+  "slug": "bergerie-de-l-hortus-rouge",
+  "name": "Bergerie de l'Hortus Rouge",
+  "winery": "domaine-de-l-hortus",
+  "region": "languedoc-roussillon",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Pic Saint-Loup",
+    "en": "Pic Saint-Loup",
+    "fr": "Pic Saint-Loup",
+    "it": "Pic Saint-Loup"
+  },
+  "grapes": [
+    "syrah",
+    "garnacha",
+    "monastrell"
+  ],
+  "summary": {
+    "es": "El Pic Saint-Loup tinto de base del Domaine de l'Hortus, un ensamblaje mediterráneo fresco y afrutado de Syrah, Garnacha y Monastrell.",
+    "en": "Domaine de l'Hortus’ core red Pic Saint-Loup, a fresh, fruity Mediterranean blend of Syrah, Grenache and Mourvèdre.",
+    "fr": "Le pic-saint-loup rouge de base du Domaine de l'Hortus, un assemblage méditerranéen frais et fruité de syrah, grenache et mourvèdre.",
+    "it": "Il Pic Saint-Loup rosso di base del Domaine de l'Hortus, un assemblaggio mediterraneo fresco e fruttato di Syrah, Grenache e Mourvèdre."
+  },
+  "body": {
+    "es": "<p>La Bergerie de l'Hortus es el tinto de referencia del Domaine de l'Hortus, la finca de la familia Orliac en Valflaunès, y una buena introducción a la denominación <strong>Pic Saint-Loup</strong>, en el norte de Montpellier. Su nombre alude a los antiguos apriscos de pastores de esta zona de garriga.</p><p>Se elabora con las tres variedades principales de la denominación: <strong>Syrah</strong>, <strong>Garnacha</strong> y <strong>Monastrell</strong>, en proporciones que varían según la añada. Los suelos calcáreos y el clima mediterráneo relativamente fresco del valle, con noches frías bajo la influencia de las Cevenas, permiten obtener fruta madura sin perder frescura.</p><p>La vinificación busca un tinto afrutado y equilibrado, con una crianza breve, en buena parte en depósito, que preserve el carácter de la fruta y de la garriga. Es un vino agradable en su juventud, de cuerpo medio y taninos suaves, adecuado para la cocina mediterránea cotidiana.</p>",
+    "en": "<p>The Bergerie de l'Hortus is the benchmark red of Domaine de l'Hortus, the Orliac family estate in Valflaunès, and a good introduction to the <strong>Pic Saint-Loup</strong> appellation, north of Montpellier. Its name refers to the old shepherds’ folds of this garrigue country.</p><p>It is made from the appellation’s three main varieties: <strong>Syrah</strong>, <strong>Grenache</strong> and <strong>Mourvèdre</strong>, in proportions that vary with the vintage. The limestone soils and the valley’s relatively cool Mediterranean climate, with cold nights under the influence of the Cévennes, yield ripe fruit without loss of freshness.</p><p>Winemaking aims for a fruity, balanced red, with short ageing, largely in tank, to preserve the character of the fruit and the garrigue. It is a wine enjoyable in its youth, medium-bodied with soft tannins, well suited to everyday Mediterranean cooking.</p>",
+    "fr": "<p>La Bergerie de l'Hortus est le rouge de référence du Domaine de l'Hortus, le domaine de la famille Orliac à Valflaunès, et une bonne introduction à l’appellation <strong>Pic Saint-Loup</strong>, au nord de Montpellier. Son nom évoque les anciennes bergeries de ce pays de garrigue.</p><p>Elle est élaborée à partir des trois principaux cépages de l’appellation : <strong>syrah</strong>, <strong>grenache</strong> et <strong>mourvèdre</strong>, dans des proportions qui varient selon le millésime. Les sols calcaires et le climat méditerranéen relativement frais de la vallée, aux nuits froides sous l’influence des Cévennes, donnent un fruit mûr sans perte de fraîcheur.</p><p>La vinification recherche un rouge fruité et équilibré, avec un élevage court, en grande partie en cuve, qui préserve le caractère du fruit et de la garrigue. C’est un vin agréable dans sa jeunesse, de corps moyen et aux tanins souples, adapté à la cuisine méditerranéenne du quotidien.</p>",
+    "it": "<p>La Bergerie de l'Hortus è il rosso di riferimento del Domaine de l'Hortus, la tenuta della famiglia Orliac a Valflaunès, e una buona introduzione alla denominazione <strong>Pic Saint-Loup</strong>, a nord di Montpellier. Il nome allude agli antichi ovili dei pastori di questa terra di garrigue.</p><p>È prodotto con le tre varietà principali della denominazione: <strong>Syrah</strong>, <strong>Grenache</strong> e <strong>Mourvèdre</strong>, in proporzioni che variano secondo l’annata. I suoli calcarei e il clima mediterraneo relativamente fresco della valle, con notti fredde sotto l’influenza delle Cevenne, danno frutto maturo senza perdere freschezza.</p><p>La vinificazione punta a un rosso fruttato ed equilibrato, con un breve affinamento, in gran parte in vasca, che preserva il carattere del frutto e della garrigue. È un vino piacevole da giovane, di medio corpo e dai tannini morbidi, adatto alla cucina mediterranea di tutti i giorni.</p>"
+  },
+  "tasting": {
+    "es": "Rubí violáceo. Aromas de frutos negros, pimienta, tomillo y romero. Boca jugosa y fresca, de taninos suaves.",
+    "en": "Purple-tinged ruby. Aromas of black fruit, pepper, thyme and rosemary. Juicy, fresh palate with soft tannins.",
+    "fr": "Rubis violacé. Arômes de fruits noirs, de poivre, de thym et de romarin. Bouche juteuse et fraîche, aux tanins souples.",
+    "it": "Rubino violaceo. Aromi di frutti neri, pepe, timo e rosmarino. Bocca succosa e fresca, dai tannini morbidi."
+  },
+  "pairing": {
+    "es": "Carnes a la parrilla, cordero, embutidos, verduras asadas",
+    "en": "Grilled meats, lamb, cured meats, roasted vegetables",
+    "fr": "Viandes grillées, agneau, charcuterie, légumes rôtis",
+    "it": "Carni alla griglia, agnello, salumi, verdure arrosto"
+  },
+  "serve": {
+    "es": "15-17 °C, copa de tinto",
+    "en": "15-17 °C, red wine glass",
+    "fr": "15-17 °C, verre à vin rouge",
+    "it": "15-17 °C, calice da rosso"
+  },
+  "search": "Bergerie de l'Hortus Pic Saint-Loup rouge"
+}

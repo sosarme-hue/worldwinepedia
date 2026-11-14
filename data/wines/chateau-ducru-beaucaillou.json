@@ -1,0 +1,49 @@
+{
+  "slug": "chateau-ducru-beaucaillou",
+  "name": "Château Ducru-Beaucaillou",
+  "winery": "chateau-ducru-beaucaillou",
+  "region": "saint-julien",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "2.º Gran Cru Clasificado 1855",
+    "en": "Second Growth (1855)",
+    "fr": "2e Grand Cru Classé en 1855",
+    "it": "2° Grand Cru Classé 1855"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "El gran vino de Château Ducru-Beaucaillou, segundo gran cru clasificado de Saint-Julien, un Cabernet Sauvignon elegante y de muy larga guarda.",
+    "en": "The grand vin of Château Ducru-Beaucaillou, a Saint-Julien second growth, an elegant and very long-lived Cabernet Sauvignon.",
+    "fr": "Le grand vin du château Ducru-Beaucaillou, second grand cru classé de Saint-Julien, un cabernet sauvignon élégant et de très longue garde.",
+    "it": "Il grand vin di Château Ducru-Beaucaillou, secondo grand cru classé di Saint-Julien, un Cabernet Sauvignon elegante e di lunghissimo invecchiamento."
+  },
+  "body": {
+    "es": "<p>Château Ducru-Beaucaillou es el gran vino de la propiedad homónima de <strong>Saint-Julien</strong>, clasificada como segundo gran cru en 1855. Propiedad de la familia Borie desde 1941, es uno de los vinos de referencia del Médoc, apreciado por su equilibrio entre potencia y elegancia.</p><p>Procede de las mejores parcelas de la finca, sobre las <strong>gravas</strong> profundas que bordean el estuario de la Gironda, cuya influencia modera las temperaturas. El <strong>Cabernet Sauvignon</strong> es ampliamente mayoritario y aporta estructura, fruta negra y frescura; el <strong>Merlot</strong> completa el ensamblaje con redondez. Las proporciones varían según la añada.</p><p>Tras una selección rigurosa, el vino se cría en barricas de roble francés, en gran parte nuevas, durante un periodo prolongado. El resultado es un tinto de gran finura, con aromas de casis, cedro y grafito, taninos sedosos y una notable capacidad de envejecimiento: en las buenas añadas puede evolucionar durante varias décadas.</p>",
+    "en": "<p>Château Ducru-Beaucaillou is the grand vin of the <strong>Saint-Julien</strong> estate of the same name, ranked as a second growth in 1855. Owned by the Borie family since 1941, it is one of the benchmark wines of the Médoc, prized for its balance between power and elegance.</p><p>It comes from the estate’s best plots, on the deep <strong>gravels</strong> along the Gironde estuary, whose influence moderates temperatures. <strong>Cabernet Sauvignon</strong> is by far the majority and brings structure, black fruit and freshness; <strong>Merlot</strong> completes the blend with roundness. The proportions vary with the vintage.</p><p>After rigorous selection, the wine is aged in French oak barrels, largely new, for an extended period. The result is a red of great finesse, with aromas of blackcurrant, cedar and graphite, silky tannins and remarkable ageing potential: in good vintages it can develop for several decades.</p>",
+    "fr": "<p>Château Ducru-Beaucaillou est le grand vin de la propriété du même nom à <strong>Saint-Julien</strong>, classée second grand cru en 1855. Propriété de la famille Borie depuis 1941, c’est l’un des vins de référence du Médoc, apprécié pour son équilibre entre puissance et élégance.</p><p>Il provient des meilleures parcelles du domaine, sur les <strong>graves</strong> profondes qui bordent l’estuaire de la Gironde, dont l’influence modère les températures. Le <strong>cabernet sauvignon</strong> y est très largement majoritaire et apporte structure, fruit noir et fraîcheur ; le <strong>merlot</strong> complète l’assemblage par sa rondeur. Les proportions varient selon le millésime.</p><p>Après une sélection rigoureuse, le vin est élevé longuement en barriques de chêne français, en grande partie neuves. Il en résulte un rouge d’une grande finesse, aux arômes de cassis, de cèdre et de graphite, aux tanins soyeux et d’un remarquable potentiel de garde : dans les bons millésimes, il peut évoluer pendant plusieurs décennies.</p>",
+    "it": "<p>Château Ducru-Beaucaillou è il grand vin della proprietà omonima di <strong>Saint-Julien</strong>, classificata secondo grand cru nel 1855. Di proprietà della famiglia Borie dal 1941, è uno dei vini di riferimento del Médoc, apprezzato per l’equilibrio tra potenza ed eleganza.</p><p>Proviene dalle migliori parcelle della tenuta, sulle profonde <strong>ghiaie</strong> che costeggiano l’estuario della Gironda, la cui influenza mitiga le temperature. Il <strong>Cabernet Sauvignon</strong> è nettamente maggioritario e apporta struttura, frutto nero e freschezza; il <strong>Merlot</strong> completa l’assemblaggio con rotondità. Le proporzioni variano secondo l’annata.</p><p>Dopo una selezione rigorosa, il vino affina a lungo in barrique di rovere francese, in gran parte nuove. Il risultato è un rosso di grande finezza, con aromi di ribes nero, cedro e grafite, tannini setosi e una notevole capacità di invecchiamento: nelle buone annate può evolvere per diversi decenni.</p>"
+  },
+  "tasting": {
+    "es": "Granate muy profundo. Aromas de casis, mora, cedro, grafito y especias finas. Boca densa y sedosa, de taninos pulidos y final muy largo.",
+    "en": "Very deep garnet. Aromas of blackcurrant, blackberry, cedar, graphite and fine spice. Dense, silky palate with polished tannins and a very long finish.",
+    "fr": "Grenat très profond. Arômes de cassis, de mûre, de cèdre, de graphite et d’épices fines. Bouche dense et soyeuse, aux tanins polis et à la très longue finale.",
+    "it": "Granato molto profondo. Aromi di ribes nero, mora, cedro, grafite e spezie fini. Bocca densa e setosa, dai tannini levigati e dal finale lunghissimo."
+  },
+  "pairing": {
+    "es": "Cordero asado, solomillo de buey, caza, quesos curados de pasta dura",
+    "en": "Roast lamb, beef fillet, game, aged hard cheeses",
+    "fr": "Agneau rôti, filet de bœuf, gibier, fromages à pâte dure affinés",
+    "it": "Agnello arrosto, filetto di manzo, selvaggina, formaggi a pasta dura stagionati"
+  },
+  "serve": {
+    "es": "17-18 °C, copa tipo Burdeos; decantar",
+    "en": "17-18 °C, Bordeaux glass; decant",
+    "fr": "17-18 °C, verre de type bordelais ; carafer",
+    "it": "17-18 °C, calice tipo Bordeaux; decantare"
+  },
+  "search": "Château Ducru-Beaucaillou Saint-Julien"
+}

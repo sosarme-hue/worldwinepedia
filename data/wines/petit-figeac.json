@@ -1,0 +1,50 @@
+{
+  "slug": "petit-figeac",
+  "name": "Petit-Figeac",
+  "winery": "chateau-figeac",
+  "region": "saint-emilion",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Segundo vino",
+    "en": "Second wine",
+    "fr": "Second vin",
+    "it": "Secondo vino"
+  },
+  "grapes": [
+    "merlot",
+    "cabernet-franc",
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "Segundo vino de Château Figeac, un Saint-Émilion Grand Cru que comparte el carácter de la propiedad con un perfil más accesible en su juventud.",
+    "en": "Second wine of Château Figeac, a Saint-Émilion Grand Cru sharing the estate’s character with a profile more approachable in its youth.",
+    "fr": "Second vin de Château Figeac, un Saint-Émilion Grand Cru qui partage le caractère de la propriété avec un profil plus accessible dans sa jeunesse.",
+    "it": "Secondo vino di Château Figeac, un Saint-Émilion Grand Cru che condivide il carattere della tenuta con un profilo più accessibile in gioventù."
+  },
+  "body": {
+    "es": "<p><strong>Petit-Figeac</strong> es el segundo vino de Château Figeac, premier grand cru classé de Saint-Émilion situado junto a Pomerol. Se elabora con uvas del mismo viñedo, sobre todo de parcelas más jóvenes y de lotes que no se incorporan al gran vino, y se acoge a la denominación Saint-Émilion Grand Cru.</p><p>Comparte con el primer vino la combinación de Merlot, Cabernet Franc y Cabernet Sauvignon que caracteriza a la propiedad, aunque las proporciones varían según la añada y la Merlot suele tener aquí un peso mayor. La crianza en barrica es más corta y el estilo busca resaltar la fruta y la suavidad de los taninos.</p><p>El resultado es un tinto fresco y afrutado, con algo de la elegancia y los matices de cedro y hierbas propios de Figeac, que puede disfrutarse unos años después de la cosecha y ofrece una introducción al estilo de la casa.</p>",
+    "en": "<p><strong>Petit-Figeac</strong> is the second wine of Château Figeac, the Saint-Émilion premier grand cru classé next to Pomerol. It is made from grapes from the same vineyard, mainly younger plots and lots not included in the grand vin, and carries the Saint-Émilion Grand Cru appellation.</p><p>It shares with the first wine the combination of Merlot, Cabernet Franc and Cabernet Sauvignon that characterises the property, although the proportions vary with the vintage and Merlot usually plays a larger part here. Barrel ageing is shorter and the style seeks to highlight the fruit and softness of the tannins.</p><p>The result is a fresh, fruity red with some of the elegance and the cedar and herb nuances typical of Figeac, which can be enjoyed a few years after the harvest and offers an introduction to the house style.</p>",
+    "fr": "<p><strong>Petit-Figeac</strong> est le second vin de Château Figeac, premier grand cru classé de Saint-Émilion situé près de Pomerol. Il est élaboré avec des raisins du même vignoble, surtout de parcelles plus jeunes et de lots non retenus pour le grand vin, et relève de l’appellation Saint-Émilion Grand Cru.</p><p>Il partage avec le premier vin l’association de merlot, de cabernet franc et de cabernet-sauvignon qui caractérise la propriété, même si les proportions varient selon le millésime et que le merlot y pèse généralement davantage. L’élevage en barrique est plus court et le style cherche à mettre en valeur le fruit et la souplesse des tanins.</p><p>Le résultat est un rouge frais et fruité, avec un peu de l’élégance et des nuances de cèdre et d’herbes propres à Figeac, qui peut s’apprécier quelques années après la récolte et offre une introduction au style de la maison.</p>",
+    "it": "<p><strong>Petit-Figeac</strong> è il secondo vino di Château Figeac, premier grand cru classé di Saint-Émilion situato accanto a Pomerol. È prodotto con uve dello stesso vigneto, soprattutto di parcelle più giovani e di partite non incluse nel grand vin, e rientra nella denominazione Saint-Émilion Grand Cru.</p><p>Condivide con il primo vino l’unione di Merlot, Cabernet Franc e Cabernet Sauvignon che caratterizza la proprietà, anche se le proporzioni variano secondo l’annata e il Merlot vi ha di solito un peso maggiore. L’affinamento in barrique è più breve e lo stile mira a esaltare il frutto e la morbidezza dei tannini.</p><p>Il risultato è un rosso fresco e fruttato, con un po’ dell’eleganza e delle sfumature di cedro ed erbe tipiche di Figeac, che si può gustare qualche anno dopo la vendemmia e offre un’introduzione allo stile della casa.</p>"
+  },
+  "tasting": {
+    "es": "Cereza, frambuesa, ciruela, hierbas y un toque de cedro. Boca fresca y suave, de taninos finos.",
+    "en": "Cherry, raspberry, plum, herbs and a touch of cedar. Fresh, smooth palate with fine tannins.",
+    "fr": "Cerise, framboise, prune, herbes et touche de cèdre. Bouche fraîche et souple, tanins fins.",
+    "it": "Ciliegia, lampone, prugna, erbe e un tocco di cedro. Bocca fresca e morbida, tannini fini."
+  },
+  "pairing": {
+    "es": "Cordero asado, entrecot, caza, pato, quesos curados",
+    "en": "Roast lamb, rib steak, game, duck, aged cheeses",
+    "fr": "Agneau rôti, entrecôte, gibier, canard, fromages affinés",
+    "it": "Agnello arrosto, entrecôte, selvaggina, anatra, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Petit-Figeac Saint-Émilion Grand Cru"
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "chateau-simone-rouge",
+  "name": "Château Simone Rouge",
+  "winery": "chateau-simone",
+  "region": "provence",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Palette",
+    "en": "Palette",
+    "fr": "Palette",
+    "it": "Palette"
+  },
+  "grapes": [
+    "garnacha",
+    "monastrell",
+    "cinsault"
+  ],
+  "summary": {
+    "es": "Tinto de la denominación Palette elaborado por Château Simone con Garnacha, Mourvèdre y Cinsault de viñas viejas.",
+    "en": "Red from the Palette appellation made by Château Simone from old-vine Grenache, Mourvèdre and Cinsault.",
+    "fr": "Rouge de l'appellation Palette élaboré par Château Simone à partir de vieilles vignes de grenache, de mourvèdre et de cinsault.",
+    "it": "Rosso della denominazione Palette prodotto da Château Simone con Grenache, Mourvèdre e Cinsault di vecchie vigne."
+  },
+  "body": {
+    "es": "<p>El tinto de Château Simone es uno de los vinos de referencia de <strong>Palette</strong>, la pequeña denominación situada junto a Aix-en-Provence. Procede de las laderas calizas del Montaigu, sobre el río Arc, donde muchas parcelas orientadas al norte se benefician de un clima más fresco que el habitual en la Provenza.</p><p>Se basa en el ensamblaje de <strong>Garnacha</strong>, <strong>Mourvèdre</strong> y <strong>Cinsault</strong>, completado con otras variedades presentes en las viñas viejas de la finca, que mezclan cepas diversas según la tradición local. La crianza se realiza en grandes toneles y barricas en las bodegas excavadas en la roca bajo la casa.</p><p>Es un tinto de perfil clásico, fresco y especiado, con fruta roja, notas de garriga y taninos finos. No busca la potencia, sino la complejidad, y evoluciona favorablemente durante muchos años en botella.</p>",
+    "en": "<p>The red of Château Simone is one of the benchmark wines of <strong>Palette</strong>, the small appellation next to Aix-en-Provence. It comes from the limestone slopes of the Montaigu above the river Arc, where many north-facing plots benefit from a cooler climate than is usual in Provence.</p><p>It is based on a blend of <strong>Grenache</strong>, <strong>Mourvèdre</strong> and <strong>Cinsault</strong>, completed with other varieties present in the estate's old vineyards, which mix various vines in keeping with local tradition. Ageing takes place in large casks and barrels in the cellars cut into the rock beneath the house.</p><p>It is a red of classic profile, fresh and spicy, with red fruit, garrigue notes and fine tannins. It seeks complexity rather than power and develops favourably for many years in bottle.</p>",
+    "fr": "<p>Le rouge de Château Simone est l'un des vins de référence de <strong>Palette</strong>, la petite appellation voisine d'Aix-en-Provence. Il provient des coteaux calcaires du Montaigu, au-dessus de l'Arc, où de nombreuses parcelles exposées au nord bénéficient d'un climat plus frais qu'il n'est courant en Provence.</p><p>Il repose sur l'assemblage de <strong>grenache</strong>, de <strong>mourvèdre</strong> et de <strong>cinsault</strong>, complété par d'autres cépages présents dans les vieilles vignes du domaine, qui mêlent diverses variétés selon la tradition locale. L'élevage se fait en foudres et en barriques dans les caves creusées dans le rocher sous la demeure.</p><p>C'est un rouge de profil classique, frais et épicé, aux fruits rouges, aux notes de garrigue et aux tanins fins. Il recherche la complexité plutôt que la puissance et évolue favorablement pendant de nombreuses années en bouteille.</p>",
+    "it": "<p>Il rosso di Château Simone è uno dei vini di riferimento di <strong>Palette</strong>, la piccola denominazione accanto ad Aix-en-Provence. Proviene dai pendii calcarei del Montaigu, sopra il fiume Arc, dove molte parcelle esposte a nord godono di un clima più fresco di quanto sia abituale in Provenza.</p><p>Si basa sull'assemblaggio di <strong>Grenache</strong>, <strong>Mourvèdre</strong> e <strong>Cinsault</strong>, completato da altre varietà presenti nelle vecchie vigne della tenuta, che mescolano ceppi diversi secondo la tradizione locale. L'affinamento avviene in grandi botti e barrique nelle cantine scavate nella roccia sotto la casa.</p><p>È un rosso dal profilo classico, fresco e speziato, con frutta rossa, note di macchia mediterranea e tannini fini. Cerca la complessità più che la potenza ed evolve favorevolmente per molti anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí con reflejos granate. Aromas de frutos rojos, especias, garriga y notas terrosas. Boca fresca y elegante, de taninos finos.",
+    "en": "Ruby with garnet glints. Aromas of red berries, spice, garrigue and earthy notes. Fresh, elegant palate with fine tannins.",
+    "fr": "Rubis aux reflets grenat. Arômes de fruits rouges, d'épices, de garrigue et notes terreuses. Bouche fraîche et élégante, aux tanins fins.",
+    "it": "Rubino con riflessi granato. Aromi di frutti rossi, spezie, macchia mediterranea e note terrose. Bocca fresca ed elegante, dai tannini fini."
+  },
+  "pairing": {
+    "es": "Cordero con hierbas, daube provenzal, caza de pluma, quesos curados",
+    "en": "Lamb with herbs, Provençal daube, game birds, aged cheeses",
+    "fr": "Agneau aux herbes, daube provençale, gibier à plume, fromages affinés",
+    "it": "Agnello alle erbe, daube provenzale, selvaggina da piuma, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-17 °C, copa amplia",
+    "en": "16-17 °C, large glass",
+    "fr": "16-17 °C, verre ample",
+    "it": "16-17 °C, calice ampio"
+  },
+  "search": "Château Simone Rouge Palette"
+}

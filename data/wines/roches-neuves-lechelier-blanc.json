@@ -1,0 +1,48 @@
+{
+  "slug": "roches-neuves-lechelier-blanc",
+  "name": "Roches Neuves L'Échelier Blanc",
+  "winery": "domaine-des-roches-neuves",
+  "region": "loire",
+  "country": "francia",
+  "type": "blanco",
+  "category": {
+    "es": "Saumur",
+    "en": "Saumur",
+    "fr": "Saumur",
+    "it": "Saumur"
+  },
+  "grapes": [
+    "chenin-blanc"
+  ],
+  "summary": {
+    "es": "Saumur blanco de Chenin Blanc del Domaine des Roches Neuves, procedente del lugar llamado L'Échelier, de perfil tenso y mineral.",
+    "en": "Saumur white from Chenin Blanc by Domaine des Roches Neuves, from the site called L'Échelier, with a taut, mineral profile.",
+    "fr": "Saumur blanc de chenin du Domaine des Roches Neuves, issu du lieu-dit L'Échelier, au profil tendu et minéral.",
+    "it": "Saumur bianco da Chenin Blanc del Domaine des Roches Neuves, dal luogo detto L'Échelier, dal profilo teso e minerale."
+  },
+  "body": {
+    "es": "<p>L'Échelier es uno de los blancos de parcela del Domaine des Roches Neuves, la finca de Thierry Germain en Varrains. Comparte nombre con el Clos de l'Échelier, el lugar del que la casa obtiene también un Saumur-Champigny tinto, y en blanco se acoge a la denominación <strong>Saumur</strong>.</p><p>Se elabora con <strong>Chenin Blanc</strong>, la gran variedad blanca del Loira medio, cultivada en biodinámica sobre suelos de <strong>toba</strong>, la caliza blanda y blanca típica de la zona. Este suelo, que retiene agua y la libera lentamente, aporta a los vinos una frescura y una sensación mineral muy características.</p><p>La vinificación es poco intervencionista, con fermentación y crianza en barricas y fudres de madera usada, de modo que la madera aporta textura sin marcar el vino. El resultado es un Chenin seco, preciso y de buena profundidad, con la acidez viva de la variedad. Puede beberse en su juventud, pero también evoluciona favorablemente durante varios años en botella.</p>",
+    "en": "<p>L'Échelier is one of the single-plot whites of Domaine des Roches Neuves, Thierry Germain’s estate in Varrains. It shares its name with the Clos de l'Échelier, the site from which the house also makes a red Saumur-Champigny; as a white it falls under the <strong>Saumur</strong> appellation.</p><p>It is made from <strong>Chenin Blanc</strong>, the great white variety of the central Loire, farmed biodynamically on <strong>tuffeau</strong>, the soft white limestone typical of the area. This soil, which holds water and releases it slowly, gives the wines a very characteristic freshness and mineral feel.</p><p>Winemaking is low-intervention, with fermentation and ageing in used barrels and large casks, so the wood adds texture without marking the wine. The result is a dry, precise Chenin of good depth, with the variety’s lively acidity. It can be drunk young but also develops well over several years in bottle.</p>",
+    "fr": "<p>L'Échelier est l’un des blancs parcellaires du Domaine des Roches Neuves, le domaine de Thierry Germain à Varrains. Il partage son nom avec le Clos de l'Échelier, dont la maison tire aussi un saumur-champigny rouge ; en blanc, il relève de l’appellation <strong>Saumur</strong>.</p><p>Il est élaboré à partir de <strong>chenin blanc</strong>, le grand cépage blanc de la Loire moyenne, cultivé en biodynamie sur le <strong>tuffeau</strong>, le calcaire tendre et blanc typique du secteur. Ce sol, qui retient l’eau et la restitue lentement, donne aux vins une fraîcheur et une sensation minérale très caractéristiques.</p><p>La vinification est peu interventionniste, avec fermentation et élevage en fûts et foudres usagés, si bien que le bois apporte de la texture sans marquer le vin. Il en résulte un chenin sec, précis et profond, à l’acidité vive propre au cépage. On peut le boire jeune, mais il évolue aussi favorablement pendant plusieurs années en bouteille.</p>",
+    "it": "<p>L'Échelier è uno dei bianchi di parcella del Domaine des Roches Neuves, la tenuta di Thierry Germain a Varrains. Condivide il nome con il Clos de l'Échelier, da cui la casa ricava anche un Saumur-Champigny rosso; in bianco rientra nella denominazione <strong>Saumur</strong>.</p><p>È prodotto con <strong>Chenin Blanc</strong>, la grande varietà bianca della Loira centrale, coltivato in biodinamica sul <strong>tuffeau</strong>, il calcare tenero e bianco tipico della zona. Questo suolo, che trattiene l’acqua e la rilascia lentamente, conferisce ai vini una freschezza e una sensazione minerale molto caratteristiche.</p><p>La vinificazione è poco interventista, con fermentazione e affinamento in botti e fusti di legno usato, così che il legno apporta struttura senza segnare il vino. Il risultato è uno Chenin secco, preciso e profondo, con l’acidità vivace del vitigno. Si può bere giovane, ma evolve bene anche per diversi anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido. Aromas de limón, manzana, membrillo y notas de tiza. Boca tensa y salina, de final largo.",
+    "en": "Pale yellow. Aromas of lemon, apple, quince and chalky notes. Taut, saline palate with a long finish.",
+    "fr": "Jaune pâle. Arômes de citron, de pomme, de coing et notes crayeuses. Bouche tendue et saline, à la longue finale.",
+    "it": "Giallo paglierino chiaro. Aromi di limone, mela, mela cotogna e note gessose. Bocca tesa e sapida, con lungo finale."
+  },
+  "pairing": {
+    "es": "Pescados de río, vieiras, aves con salsa ligera, quesos de cabra",
+    "en": "River fish, scallops, poultry in light sauce, goat’s cheeses",
+    "fr": "Poissons de rivière, Saint-Jacques, volailles en sauce légère, fromages de chèvre",
+    "it": "Pesce d’acqua dolce, capesante, pollame in salsa leggera, formaggi di capra"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de blanco",
+    "en": "10-12 °C, white wine glass",
+    "fr": "10-12 °C, verre à vin blanc",
+    "it": "10-12 °C, calice da bianco"
+  },
+  "search": "L'Echelier Saumur blanc Roches Neuves Thierry Germain"
+}

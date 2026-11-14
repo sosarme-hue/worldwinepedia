@@ -1,0 +1,48 @@
+{
+  "slug": "vougeraie-clos-de-vougeot",
+  "name": "Domaine de la Vougeraie Clos de Vougeot Grand Cru",
+  "winery": "domaine-de-la-vougeraie",
+  "region": "cote-de-nuits",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Grand Cru",
+    "en": "Grand Cru",
+    "fr": "Grand Cru",
+    "it": "Grand Cru"
+  },
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "El Clos de Vougeot del Domaine de la Vougeraie, Pinot Noir del gran cru cercado por los monjes cistercienses, profundo y de larga guarda.",
+    "en": "Domaine de la Vougeraie’s Clos de Vougeot, a Pinot Noir from the grand cru walled by the Cistercian monks, deep and long-lived.",
+    "fr": "Le clos-de-vougeot du Domaine de la Vougeraie, un pinot noir du grand cru clos par les moines cisterciens, profond et de longue garde.",
+    "it": "Il Clos de Vougeot del Domaine de la Vougeraie, un Pinot Noir del grand cru cintato dai monaci cistercensi, profondo e longevo."
+  },
+  "body": {
+    "es": "<p>El <strong>Clos de Vougeot</strong> es uno de los viñedos más famosos de Borgoña. Fundado y cercado por los monjes cistercienses de la abadía de Cîteaux en la Edad Media, forma hoy un gran cru de unas cincuenta hectáreas, rodeado por su muro de piedra y presidido por el castillo del Clos. Tras la Revolución se dividió entre numerosos propietarios, por lo que el estilo de sus vinos varía según la parcela y el productor.</p><p>El Domaine de la Vougeraie, que toma su nombre del pueblo, posee una parcela en este gran cru, cultivada en biodinámica. Su Clos de Vougeot se elabora con <strong>Pinot Noir</strong> y se cría en barrica, con el objetivo de combinar profundidad de fruta, estructura y finura.</p><p>Es un tinto de cuerpo medio a pleno, con fruta negra, especias, notas florales y de sotobosque y taninos firmes, pensado para una larga guarda en botella.</p>",
+    "en": "<p>The <strong>Clos de Vougeot</strong> is one of the most famous vineyards in Burgundy. Founded and walled by the Cistercian monks of the abbey of Cîteaux in the Middle Ages, it now forms a grand cru of around fifty hectares, surrounded by its stone wall and overlooked by the château of the Clos. After the Revolution it was divided among many owners, so the style of its wines varies with the plot and the producer.</p><p>Domaine de la Vougeraie, which takes its name from the village, owns a plot in this grand cru, farmed biodynamically. Its Clos de Vougeot is made from <strong>Pinot Noir</strong> and aged in barrel, with the aim of combining depth of fruit, structure and finesse.</p><p>It is a medium- to full-bodied red with black fruit, spice, floral and forest-floor notes and firm tannins, built for long bottle ageing.</p>",
+    "fr": "<p>Le <strong>Clos de Vougeot</strong> est l’un des vignobles les plus célèbres de Bourgogne. Fondé et clos par les moines cisterciens de l’abbaye de Cîteaux au Moyen Âge, il forme aujourd’hui un grand cru d’une cinquantaine d’hectares, entouré de son mur de pierre et dominé par le château du Clos. Après la Révolution, il a été partagé entre de nombreux propriétaires, si bien que le style de ses vins varie selon la parcelle et le producteur.</p><p>Le Domaine de la Vougeraie, qui tire son nom du village, possède une parcelle dans ce grand cru, conduite en biodynamie. Son clos-de-vougeot est issu de <strong>pinot noir</strong> et élevé en fût, dans le but d’allier profondeur de fruit, structure et finesse.</p><p>C’est un rouge de corps moyen à ample, aux fruits noirs, aux épices, aux notes florales et de sous-bois et aux tanins fermes, conçu pour une longue garde.</p>",
+    "it": "<p>Il <strong>Clos de Vougeot</strong> è uno dei vigneti più famosi della Borgogna. Fondato e cintato dai monaci cistercensi dell’abbazia di Cîteaux nel Medioevo, forma oggi un grand cru di circa cinquanta ettari, circondato dal suo muro di pietra e dominato dal castello del Clos. Dopo la Rivoluzione fu diviso tra numerosi proprietari, per cui lo stile dei suoi vini varia secondo la parcella e il produttore.</p><p>Il Domaine de la Vougeraie, che prende il nome dal villaggio, possiede una parcella in questo grand cru, condotta in biodinamica. Il suo Clos de Vougeot si ottiene da <strong>Pinot Noir</strong> ed è affinato in barrique, con l’obiettivo di unire profondità di frutto, struttura e finezza.</p><p>È un rosso di corpo medio-pieno, con frutti neri, spezie, note floreali e di sottobosco e tannini decisi, pensato per un lungo affinamento in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rubí profundo. Aromas de cereza negra, ciruela, violeta, especias y sotobosque. Boca estructurada y profunda, de taninos firmes y final largo.",
+    "en": "Deep ruby. Aromas of black cherry, plum, violet, spice and forest floor. Structured, deep palate with firm tannins and a long finish.",
+    "fr": "Rubis profond. Arômes de cerise noire, de prune, de violette, d’épices et de sous-bois. Bouche structurée et profonde, aux tanins fermes et à la finale longue.",
+    "it": "Rubino profondo. Aromi di ciliegia nera, prugna, violetta, spezie e sottobosco. Bocca strutturata e profonda, dai tannini decisi e finale lungo."
+  },
+  "pairing": {
+    "es": "Caza mayor, buey a la borgoñona, pato, quesos de corteza lavada",
+    "en": "Large game, boeuf bourguignon, duck, washed-rind cheeses",
+    "fr": "Gros gibier, bœuf bourguignon, canard, fromages à croûte lavée",
+    "it": "Selvaggina di grossa taglia, manzo alla borgognona, anatra, formaggi a crosta lavata"
+  },
+  "serve": {
+    "es": "16-17 °C, copa de tipo borgoña",
+    "en": "16-17 °C, Burgundy-style glass",
+    "fr": "16-17 °C, verre de type bourgogne",
+    "it": "16-17 °C, calice tipo borgogna"
+  },
+  "search": "Clos de Vougeot Grand Cru Domaine de la Vougeraie"
+}

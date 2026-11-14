@@ -1,0 +1,49 @@
+{
+  "slug": "pesquie-artemia",
+  "name": "Artemia",
+  "winery": "chateau-pesquie",
+  "region": "cotes-du-rhone",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "AOC Ventoux",
+    "en": "AOC Ventoux",
+    "fr": "AOC Ventoux",
+    "it": "AOC Ventoux"
+  },
+  "grapes": [
+    "garnacha",
+    "syrah"
+  ],
+  "summary": {
+    "es": "Tinto de alta gama del Château Pesquié, elaborado con Garnacha y Syrah de viñas viejas en la denominación Ventoux.",
+    "en": "Top red from Château Pesquié, made from old-vine Grenache and Syrah in the Ventoux appellation.",
+    "fr": "Rouge haut de gamme du Château Pesquié, élaboré à partir de vieilles vignes de grenache et de syrah en appellation Ventoux.",
+    "it": "Rosso di punta del Château Pesquié, prodotto con Grenache e Syrah di vecchie vigne nella denominazione Ventoux."
+  },
+  "body": {
+    "es": "<p>El <strong>Château Pesquié</strong> se encuentra en Mormoiron, en las laderas meridionales del monte Ventoux, en el extremo oriental de los vinos del Ródano meridional. La denominación <strong>Ventoux</strong> se beneficia de la influencia de la montaña: la altitud provoca noches frescas y fuertes contrastes de temperatura entre el día y la noche, que ayudan a conservar la acidez y los aromas de la uva bajo el sol mediterráneo. La finca pertenece a la familia Chaudière, que la dirige desde hace varias décadas.</p><p><strong>Artemia</strong> se sitúa en lo más alto de la gama de la casa. Se elabora con <strong>Garnacha</strong> y <strong>Syrah</strong> procedentes de viñas viejas de la finca, de rendimientos bajos, y se cría en barrica. Es un tinto concentrado y estructurado, pensado para la guarda, en el que la madurez de la fruta se equilibra con la frescura propia del Ventoux. Agradece unos años de botella o una decantación previa.</p>",
+    "en": "<p><strong>Château Pesquié</strong> is in Mormoiron, on the southern slopes of Mont Ventoux, at the eastern edge of the southern Rhône wine area. The <strong>Ventoux</strong> appellation benefits from the influence of the mountain: altitude brings cool nights and sharp temperature contrasts between day and night, which help preserve the acidity and aromas of the grapes under the Mediterranean sun. The estate belongs to the Chaudière family, who have run it for several decades.</p><p><strong>Artemia</strong> sits at the top of the estate’s range. It is made from <strong>Grenache</strong> and <strong>Syrah</strong> from old, low-yielding vines on the estate and aged in barrel. It is a concentrated, structured red intended for keeping, in which the ripeness of the fruit is balanced by the freshness typical of the Ventoux. It benefits from a few years in bottle or from decanting before serving.</p>",
+    "fr": "<p>Le <strong>Château Pesquié</strong> se trouve à Mormoiron, sur les pentes méridionales du mont Ventoux, à l’extrémité orientale des vins du Rhône méridional. L’appellation <strong>Ventoux</strong> bénéficie de l’influence de la montagne : l’altitude apporte des nuits fraîches et de forts écarts de température entre le jour et la nuit, qui aident à préserver l’acidité et les arômes du raisin sous le soleil méditerranéen. Le domaine appartient à la famille Chaudière, qui le dirige depuis plusieurs décennies.</p><p><strong>Artemia</strong> se place au sommet de la gamme du domaine. Il est élaboré à partir de <strong>grenache</strong> et de <strong>syrah</strong> issus de vieilles vignes du domaine, à faibles rendements, et élevé en fût. C’est un rouge concentré et structuré, conçu pour la garde, où la maturité du fruit s’équilibre avec la fraîcheur propre au Ventoux. Il gagne à vieillir quelques années en bouteille ou à être carafé avant le service.</p>",
+    "it": "<p>Il <strong>Château Pesquié</strong> si trova a Mormoiron, sulle pendici meridionali del Mont Ventoux, all’estremità orientale dei vini del Rodano meridionale. La denominazione <strong>Ventoux</strong> beneficia dell’influenza della montagna: l’altitudine porta notti fresche e forti escursioni termiche tra giorno e notte, che aiutano a preservare l’acidità e i profumi dell’uva sotto il sole mediterraneo. La tenuta appartiene alla famiglia Chaudière, che la guida da diversi decenni.</p><p><strong>Artemia</strong> si colloca al vertice della gamma della casa. È prodotto con <strong>Grenache</strong> e <strong>Syrah</strong> da vecchie vigne della tenuta, a basse rese, e affinato in barrique. È un rosso concentrato e strutturato, pensato per l’invecchiamento, in cui la maturità del frutto è bilanciata dalla freschezza tipica del Ventoux. Trae beneficio da qualche anno di bottiglia o da una decantazione prima del servizio.</p>"
+  },
+  "tasting": {
+    "es": "Rojo muy oscuro. Aromas de fruta negra madura, regaliz, especias y notas tostadas. Boca densa y profunda, con taninos firmes.",
+    "en": "Very dark red. Aromas of ripe black fruit, liquorice, spice and toasty notes. Dense, deep palate with firm tannins.",
+    "fr": "Rouge très sombre. Arômes de fruits noirs mûrs, de réglisse, d’épices et notes grillées. Bouche dense et profonde, aux tanins fermes.",
+    "it": "Rosso molto scuro. Aromi di frutta nera matura, liquirizia, spezie e note tostate. Bocca densa e profonda, dai tannini fermi."
+  },
+  "pairing": {
+    "es": "Carnes a la brasa, cordero, guisos provenzales, quesos curados",
+    "en": "Grilled meats, lamb, Provençal stews, aged cheeses",
+    "fr": "Viandes grillées, agneau, daubes provençales, fromages affinés",
+    "it": "Carni alla brace, agnello, stufati provenzali, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Artemia Château Pesquié Ventoux"
+}

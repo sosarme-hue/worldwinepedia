@@ -1,0 +1,48 @@
+{
+  "slug": "chapoutier-croix-de-bois",
+  "name": "Châteauneuf-du-Pape Croix de Bois",
+  "winery": "m-chapoutier",
+  "region": "chateauneuf-du-pape",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Châteauneuf-du-Pape",
+    "en": "Châteauneuf-du-Pape",
+    "fr": "Châteauneuf-du-Pape",
+    "it": "Châteauneuf-du-Pape"
+  },
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Châteauneuf-du-Pape de parcela de M. Chapoutier, elaborado con Garnacha en la gama Les Parcellaires.",
+    "en": "Single-parcel Châteauneuf-du-Pape from M. Chapoutier, made from Grenache in the Les Parcellaires range.",
+    "fr": "Châteauneuf-du-Pape parcellaire de M. Chapoutier, élaboré à partir de grenache dans la gamme Les Parcellaires.",
+    "it": "Châteauneuf-du-Pape di parcella di M. Chapoutier, prodotto con Grenache nella gamma Les Parcellaires."
+  },
+  "body": {
+    "es": "<p>Croix de Bois es uno de los vinos de parcela que M. Chapoutier elabora en Châteauneuf-du-Pape, la gran denominación del sur del Ródano, donde la casa produce también La Bernardine. A diferencia de la mayoría de los Châteauneuf, que ensamblan varias de las variedades autorizadas, este vino se centra en la <strong>Garnacha</strong>.</p><p>En el sur del Ródano, la Garnacha madura con facilidad gracias al clima mediterráneo y a los suelos pedregosos, que retienen el calor, y da vinos generosos, de fruta roja madura y notas de especias y garriga. Chapoutier cultiva sus viñas con criterios biodinámicos y vinifica la parcela por separado para conservar su identidad.</p><p>El resultado es un tinto amplio y cálido, de taninos redondos y gran intensidad frutal, con la frescura que aportan los suelos más arenosos o calizos de la zona. Puede beberse tras unos años en botella, pero tiene capacidad para evolucionar durante más tiempo, ganando notas de cuero y de fruta confitada.</p>",
+    "en": "<p>Croix de Bois is one of the single-parcel wines M. Chapoutier makes in Châteauneuf-du-Pape, the great southern Rhône appellation where the house also produces La Bernardine. Unlike most Châteauneufs, which blend several of the authorised varieties, this wine centres on <strong>Grenache</strong>.</p><p>In the southern Rhône, Grenache ripens easily thanks to the Mediterranean climate and the stony soils that hold heat, giving generous wines with ripe red fruit and notes of spice and garrigue. Chapoutier farms its vines biodynamically and vinifies the plot separately to preserve its identity.</p><p>The result is a broad, warm red with rounded tannins and great fruit intensity, with the freshness brought by the sandier or limestone soils of the area. It can be drunk after a few years in bottle but can evolve for longer, gaining notes of leather and candied fruit.</p>",
+    "fr": "<p>Croix de Bois est l'un des vins parcellaires que M. Chapoutier élabore à Châteauneuf-du-Pape, la grande appellation du Rhône méridional où la maison produit aussi La Bernardine. Contrairement à la plupart des Châteauneuf, qui assemblent plusieurs des cépages autorisés, ce vin est centré sur le <strong>grenache</strong>.</p><p>Dans le Rhône méridional, le grenache mûrit facilement grâce au climat méditerranéen et aux sols caillouteux qui retiennent la chaleur ; il donne des vins généreux, au fruit rouge mûr et aux notes d'épices et de garrigue. Chapoutier conduit ses vignes en biodynamie et vinifie la parcelle à part pour en préserver l'identité.</p><p>Il en résulte un rouge ample et chaleureux, aux tanins ronds et d'une grande intensité fruitée, avec la fraîcheur qu'apportent les sols plus sableux ou calcaires du secteur. Il peut se boire après quelques années de bouteille, mais il est capable d'évoluer plus longtemps, en gagnant des notes de cuir et de fruits confits.</p>",
+    "it": "<p>Croix de Bois è uno dei vini di parcella che M. Chapoutier produce a Châteauneuf-du-Pape, la grande denominazione del Rodano meridionale dove la casa produce anche La Bernardine. A differenza della maggior parte dei Châteauneuf, che assemblano diverse varietà autorizzate, questo vino è incentrato sul <strong>Grenache</strong>.</p><p>Nel Rodano meridionale il Grenache matura facilmente grazie al clima mediterraneo e ai suoli sassosi che trattengono il calore, e dà vini generosi, di frutta rossa matura con note di spezie e di macchia. Chapoutier coltiva le sue vigne in biodinamica e vinifica la parcella separatamente per preservarne l'identità.</p><p>Il risultato è un rosso ampio e caldo, dai tannini rotondi e di grande intensità fruttata, con la freschezza data dai suoli più sabbiosi o calcarei della zona. Si può bere dopo alcuni anni in bottiglia, ma è in grado di evolvere più a lungo, acquisendo note di cuoio e di frutta candita.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí intenso. Aromas de fresa madura, cereza, especias, garriga y regaliz. Boca amplia y cálida, de taninos redondos y final persistente.",
+    "en": "Deep ruby. Aromas of ripe strawberry, cherry, spice, garrigue and liquorice. Broad, warm palate with rounded tannins and a persistent finish.",
+    "fr": "Rubis intense. Arômes de fraise mûre, de cerise, d'épices, de garrigue et de réglisse. Bouche ample et chaleureuse, aux tanins ronds et à la finale persistante.",
+    "it": "Rubino intenso. Aromi di fragola matura, ciliegia, spezie, macchia mediterranea e liquirizia. Bocca ampia e calda, dai tannini rotondi e dal finale persistente."
+  },
+  "pairing": {
+    "es": "Cordero asado, guisos de caza, daube provenzal, quesos curados",
+    "en": "Roast lamb, game stews, Provençal daube, aged cheeses",
+    "fr": "Agneau rôti, civets de gibier, daube provençale, fromages affinés",
+    "it": "Agnello arrosto, stufati di selvaggina, daube provenzale, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Châteauneuf-du-Pape Croix de Bois M. Chapoutier"
+}

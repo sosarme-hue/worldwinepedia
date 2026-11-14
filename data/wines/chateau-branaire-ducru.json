@@ -1,0 +1,51 @@
+{
+  "slug": "chateau-branaire-ducru",
+  "name": "Château Branaire-Ducru",
+  "winery": "chateau-branaire-ducru",
+  "region": "saint-julien",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "4º Gran Cru Clasificado 1855",
+    "en": "Fourth Growth 1855",
+    "fr": "4e Grand Cru Classé 1855",
+    "it": "4° Grand Cru Classé 1855"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "cabernet-franc",
+    "petit-verdot"
+  ],
+  "summary": {
+    "es": "Gran vino del Château Branaire-Ducru, cuarto gran cru clasificado de Saint-Julien, de estilo elegante y de larga guarda.",
+    "en": "The grand vin of Château Branaire-Ducru, a fourth growth of Saint-Julien, elegant in style and long-lived.",
+    "fr": "Le grand vin du Château Branaire-Ducru, quatrième grand cru classé de Saint-Julien, au style élégant et de longue garde.",
+    "it": "Il grand vin del Château Branaire-Ducru, quarto grand cru classé di Saint-Julien, di stile elegante e longevo."
+  },
+  "body": {
+    "es": "<p><strong>Saint-Julien</strong> es la más pequeña de las grandes denominaciones municipales del Médoc y una de las más homogéneas: casi todo su viñedo está en manos de grands crus clasificados. Sus suelos de gravas sobre la orilla izquierda del estuario de la Gironda dan tintos que combinan la estructura de Pauillac con una finura particular.</p><p>El gran vino del <strong>Château Branaire-Ducru</strong> se basa en el <strong>Cabernet Sauvignon</strong>, completado con Merlot y pequeñas proporciones de Cabernet Franc y Petit Verdot, que varían según la añada. La uva se vinifica por parcelas, y el vino se cría en barricas de roble francés, con una parte de madera nueva. Es un tinto de fruta negra pura, notas de cedro y grafito y taninos finos, que en su juventud muestra una estructura firme y necesita años de botella para expresar toda su complejidad.</p>",
+    "en": "<p><strong>Saint-Julien</strong> is the smallest of the Médoc’s great communal appellations and one of the most consistent: almost all its vineyards belong to classified growths. Its gravel soils on the left bank of the Gironde estuary give reds that combine the structure of Pauillac with a particular finesse.</p><p>The grand vin of <strong>Château Branaire-Ducru</strong> is based on <strong>Cabernet Sauvignon</strong>, complemented by Merlot and small proportions of Cabernet Franc and Petit Verdot, which vary with the vintage. The grapes are vinified plot by plot, and the wine is aged in French oak barrels, partly new. It is a red of pure black fruit, notes of cedar and graphite and fine tannins, which shows firm structure in youth and needs years in bottle to express its full complexity.</p>",
+    "fr": "<p><strong>Saint-Julien</strong> est la plus petite des grandes appellations communales du Médoc et l’une des plus homogènes : la quasi-totalité de son vignoble appartient à des crus classés. Ses sols de graves, sur la rive gauche de l’estuaire de la Gironde, donnent des rouges qui allient la structure de Pauillac à une finesse particulière.</p><p>Le grand vin du <strong>Château Branaire-Ducru</strong> repose sur le <strong>cabernet sauvignon</strong>, complété par le merlot et de petites proportions de cabernet franc et de petit verdot, variables selon le millésime. Les raisins sont vinifiés par parcelle, et le vin est élevé en fûts de chêne français, dont une part de bois neuf. C’est un rouge au fruit noir pur, aux notes de cèdre et de graphite et aux tanins fins, d’une structure ferme dans sa jeunesse, qui demande des années de bouteille pour exprimer toute sa complexité.</p>",
+    "it": "<p><strong>Saint-Julien</strong> è la più piccola delle grandi denominazioni comunali del Médoc e una delle più omogenee: quasi tutto il suo vigneto appartiene a grand cru classé. I suoi suoli ghiaiosi, sulla riva sinistra dell’estuario della Gironda, danno rossi che uniscono la struttura di Pauillac a una finezza particolare.</p><p>Il grand vin del <strong>Château Branaire-Ducru</strong> si basa sul <strong>Cabernet Sauvignon</strong>, completato da Merlot e piccole quote di Cabernet Franc e Petit Verdot, variabili secondo l’annata. Le uve sono vinificate per parcella, e il vino affina in barrique di rovere francese, in parte nuove. È un rosso di frutta nera pura, note di cedro e grafite e tannini fini, che in gioventù mostra una struttura ferma e ha bisogno di anni di bottiglia per esprimere tutta la sua complessità.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota oscuro. Aromas de casis, mora, cedro, grafito y notas tostadas. Boca elegante y firme, de taninos finos y final largo.",
+    "en": "Dark cherry red. Aromas of blackcurrant, blackberry, cedar, graphite and toasty notes. Elegant, firm palate with fine tannins and a long finish.",
+    "fr": "Rouge cerise sombre. Arômes de cassis, de mûre, de cèdre, de graphite et notes grillées. Bouche élégante et ferme, aux tanins fins et à la finale longue.",
+    "it": "Rosso ciliegia scuro. Aromi di ribes nero, mora, cedro, grafite e note tostate. Bocca elegante e ferma, dai tannini fini e dal finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes rojas, caza de pluma, quesos curados",
+    "en": "Roast lamb, red meats, game birds, aged cheeses",
+    "fr": "Agneau rôti, viandes rouges, gibier à plume, fromages affinés",
+    "it": "Agnello arrosto, carni rosse, selvaggina da piuma, formaggi stagionati"
+  },
+  "serve": {
+    "es": "17-18 °C, decantado, copa de Burdeos",
+    "en": "17-18 °C, decanted, Bordeaux glass",
+    "fr": "17-18 °C, carafé, verre de Bordeaux",
+    "it": "17-18 °C, decantato, calice da Bordeaux"
+  },
+  "search": "Château Branaire-Ducru Saint-Julien"
+}

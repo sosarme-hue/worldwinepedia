@@ -1,0 +1,48 @@
+{
+  "slug": "roches-neuves-cuvee-domaine",
+  "name": "Roches Neuves Cuvée Domaine",
+  "winery": "domaine-des-roches-neuves",
+  "region": "loire",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Saumur-Champigny",
+    "en": "Saumur-Champigny",
+    "fr": "Saumur-Champigny",
+    "it": "Saumur-Champigny"
+  },
+  "grapes": [
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "El Saumur-Champigny de base del Domaine des Roches Neuves, un Cabernet Franc fresco y afrutado que resume el estilo de Thierry Germain.",
+    "en": "Domaine des Roches Neuves’ core Saumur-Champigny, a fresh, fruity Cabernet Franc that sums up Thierry Germain’s style.",
+    "fr": "Le saumur-champigny de base du Domaine des Roches Neuves, un cabernet franc frais et fruité qui résume le style de Thierry Germain.",
+    "it": "Il Saumur-Champigny di base del Domaine des Roches Neuves, un Cabernet Franc fresco e fruttato che riassume lo stile di Thierry Germain."
+  },
+  "body": {
+    "es": "<p>La Cuvée Domaine es el tinto de entrada del Domaine des Roches Neuves, la finca de Thierry Germain en Varrains, y probablemente el vino que mejor resume el estilo de la casa: un <strong>Saumur-Champigny</strong> que busca ante todo frescura, fruta y facilidad de trago.</p><p>Se elabora con <strong>Cabernet Franc</strong> procedente de distintas parcelas de la finca, cultivadas en biodinámica sobre suelos de <strong>toba</strong> caliza, en ocasiones cubiertos de arenas y arcillas. El clima templado del Loira medio, con influencia atlántica, favorece vinos de grado moderado y acidez viva.</p><p>La vinificación es sencilla y poco intervencionista, con extracciones suaves y una crianza breve, principalmente en depósito o en madera usada, para preservar la pureza de la fruta. El resultado es un tinto ligero a medio, con aromas de frutos rojos y un toque herbáceo propio de la variedad, ideal para beber joven y ligeramente fresco.</p>",
+    "en": "<p>The Cuvée Domaine is the entry-level red of Domaine des Roches Neuves, Thierry Germain’s estate in Varrains, and probably the wine that best sums up the house style: a <strong>Saumur-Champigny</strong> that seeks freshness, fruit and drinkability above all.</p><p>It is made from <strong>Cabernet Franc</strong> from various plots on the estate, farmed biodynamically on <strong>tuffeau</strong> limestone, sometimes covered with sand and clay. The mild climate of the central Loire, with Atlantic influence, favours wines of moderate alcohol and lively acidity.</p><p>Winemaking is simple and low-intervention, with gentle extraction and short ageing, mainly in tank or used wood, to preserve the purity of the fruit. The result is a light- to medium-bodied red with red-berry aromas and a herbal touch typical of the variety, ideal for drinking young and slightly cool.</p>",
+    "fr": "<p>La Cuvée Domaine est le rouge d’entrée du Domaine des Roches Neuves, le domaine de Thierry Germain à Varrains, et sans doute le vin qui résume le mieux le style de la maison : un <strong>saumur-champigny</strong> qui recherche avant tout fraîcheur, fruit et buvabilité.</p><p>Il est élaboré à partir de <strong>cabernet franc</strong> issu de différentes parcelles du domaine, cultivées en biodynamie sur le <strong>tuffeau</strong> calcaire, parfois recouvert de sables et d’argiles. Le climat tempéré de la Loire moyenne, sous influence atlantique, favorise des vins au degré modéré et à l’acidité vive.</p><p>La vinification est simple et peu interventionniste, avec des extractions douces et un élevage court, surtout en cuve ou en bois usagé, afin de préserver la pureté du fruit. Il en résulte un rouge léger à moyen, aux arômes de fruits rouges et à la touche végétale propre au cépage, idéal à boire jeune et légèrement frais.</p>",
+    "it": "<p>La Cuvée Domaine è il rosso d’ingresso del Domaine des Roches Neuves, la tenuta di Thierry Germain a Varrains, e probabilmente il vino che meglio riassume lo stile della casa: un <strong>Saumur-Champigny</strong> che cerca soprattutto freschezza, frutto e facilità di beva.</p><p>È prodotto con <strong>Cabernet Franc</strong> da diverse parcelle della tenuta, coltivate in biodinamica sul <strong>tuffeau</strong> calcareo, talvolta coperto da sabbie e argille. Il clima temperato della Loira centrale, con influenza atlantica, favorisce vini di grado moderato e acidità vivace.</p><p>La vinificazione è semplice e poco interventista, con estrazioni morbide e un breve affinamento, soprattutto in vasca o in legno usato, per preservare la purezza del frutto. Il risultato è un rosso di corpo leggero-medio, con aromi di frutti rossi e un tocco erbaceo tipico del vitigno, ideale da bere giovane e leggermente fresco.</p>"
+  },
+  "tasting": {
+    "es": "Rubí violáceo. Aromas de frambuesa, cereza, grosella y un toque herbáceo. Boca ligera, jugosa y fresca.",
+    "en": "Purple-tinged ruby. Aromas of raspberry, cherry, redcurrant and a herbal touch. Light, juicy and fresh palate.",
+    "fr": "Rubis violacé. Arômes de framboise, de cerise, de groseille et touche végétale. Bouche légère, juteuse et fraîche.",
+    "it": "Rubino violaceo. Aromi di lampone, ciliegia, ribes rosso e un tocco erbaceo. Bocca leggera, succosa e fresca."
+  },
+  "pairing": {
+    "es": "Charcutería, rillettes, aves, pescados a la parrilla",
+    "en": "Charcuterie, rillettes, poultry, grilled fish",
+    "fr": "Charcuterie, rillettes, volailles, poissons grillés",
+    "it": "Salumi, rillettes, pollame, pesce alla griglia"
+  },
+  "serve": {
+    "es": "14-15 °C, copa de tinto",
+    "en": "14-15 °C, red wine glass",
+    "fr": "14-15 °C, verre à vin rouge",
+    "it": "14-15 °C, calice da rosso"
+  },
+  "search": "Cuvée Domaine Saumur-Champigny Roches Neuves Thierry Germain"
+}

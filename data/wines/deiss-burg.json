@@ -1,0 +1,46 @@
+{
+  "slug": "deiss-burg",
+  "name": "Burg",
+  "winery": "marcel-deiss",
+  "region": "alsace",
+  "country": "francia",
+  "type": "blanco",
+  "category": {
+    "es": "Premier Cru (lieu-dit)",
+    "en": "Premier Cru (lieu-dit)",
+    "fr": "Premier Cru (lieu-dit)",
+    "it": "Premier Cru (lieu-dit)"
+  },
+  "grapes": [],
+  "summary": {
+    "es": "Blanco de complantación del Domaine Marcel Deiss procedente del lieu-dit Burg, en Bergheim.",
+    "en": "Field-blend white from Domaine Marcel Deiss from the Burg lieu-dit in Bergheim.",
+    "fr": "Blanc de complantation du Domaine Marcel Deiss issu du lieu-dit Burg, à Bergheim.",
+    "it": "Bianco da complantation del Domaine Marcel Deiss proveniente dal lieu-dit Burg, a Bergheim."
+  },
+  "body": {
+    "es": "<p><strong>Burg</strong> es un lieu-dit de Bergheim cuyo nombre evoca un antiguo viñedo de origen feudal, de ahí la referencia al «vignoble féodal» con que el Domaine Marcel Deiss lo presenta. Sus suelos arcillo-calizos dan vinos de estructura firme y buena capacidad de guarda, y la casa lo clasifica entre sus premiers crus.</p><p>Siguiendo la filosofía del domaine, la parcela está plantada con varias variedades que se vendimian y fermentan juntas, en cultivo biodinámico. La fermentación lenta y natural puede dejar en algunos años un ligero dulzor, equilibrado por la acidez y la sapidez del suelo calcáreo.</p><p>Es un blanco profundo y de textura densa, más serio que aromático en su juventud, que gana complejidad con los años en botella. Como en el resto de la gama de la casa, la etiqueta pone el acento en el lugar de origen más que en la variedad, y el vino se entiende mejor en la mesa que como vino de aperitivo.</p>",
+    "en": "<p><strong>Burg</strong> is a Bergheim lieu-dit whose name recalls an old vineyard of feudal origin, hence the reference to the ‘vignoble féodal’ with which Domaine Marcel Deiss presents it. Its clay-limestone soils give firmly structured wines with good ageing potential, and the house ranks it among its premiers crus.</p><p>Following the domaine’s philosophy, the plot is planted with several varieties that are harvested and fermented together, under biodynamic farming. Slow, natural fermentation may leave slight sweetness in some years, balanced by the acidity and savouriness of the limestone soil.</p><p>It is a deep white of dense texture, more serious than aromatic in its youth, which gains complexity with years in bottle. As with the rest of the house range, the label puts the emphasis on the place of origin rather than on the variety, and the wine is best understood at the table rather than as an aperitif.</p>",
+    "fr": "<p><strong>Burg</strong> est un lieu-dit de Bergheim dont le nom évoque un ancien vignoble d’origine féodale, d’où la référence au « vignoble féodal » sous laquelle le Domaine Marcel Deiss le présente. Ses sols argilo-calcaires donnent des vins à la structure ferme et au bon potentiel de garde, et la maison le classe parmi ses premiers crus.</p><p>Selon la philosophie du domaine, la parcelle est plantée de plusieurs cépages vendangés et fermentés ensemble, en culture biodynamique. La fermentation lente et naturelle peut laisser certaines années une légère douceur, équilibrée par l’acidité et la sapidité du sol calcaire.</p><p>C’est un blanc profond, à la texture dense, plus sérieux qu’aromatique dans sa jeunesse, qui gagne en complexité avec les années en bouteille. Comme pour le reste de la gamme de la maison, l’étiquette met l’accent sur le lieu d’origine plutôt que sur le cépage, et le vin se comprend mieux à table qu’à l’apéritif.</p>",
+    "it": "<p><strong>Burg</strong> è un lieu-dit di Bergheim il cui nome richiama un antico vigneto di origine feudale, da cui il riferimento al «vignoble féodal» con cui il Domaine Marcel Deiss lo presenta. I suoi suoli argilloso-calcarei danno vini di struttura decisa e buona capacità di invecchiamento, e la casa lo annovera tra i suoi premier cru.</p><p>Secondo la filosofia del domaine, la parcella è piantata con diverse varietà vendemmiate e fermentate insieme, in coltivazione biodinamica. La fermentazione lenta e naturale può lasciare in alcune annate una leggera dolcezza, bilanciata dall’acidità e dalla sapidità del suolo calcareo.</p><p>È un bianco profondo e dalla trama densa, più serio che aromatico in gioventù, che guadagna complessità con gli anni in bottiglia. Come per il resto della gamma della casa, l’etichetta mette l’accento sul luogo d’origine più che sulla varietà, e il vino si comprende meglio a tavola che come aperitivo.</p>"
+  },
+  "tasting": {
+    "es": "Fruta amarilla, cítricos, especias y notas terrosas. Boca densa y sabrosa, con acidez firme y final largo.",
+    "en": "Yellow fruit, citrus, spice and earthy notes. Dense, savoury palate with firm acidity and a long finish.",
+    "fr": "Fruits jaunes, agrumes, épices et notes terriennes. Bouche dense et sapide, acidité ferme et finale longue.",
+    "it": "Frutta gialla, agrumi, spezie e note terrose. Bocca densa e sapida, acidità decisa e finale lungo."
+  },
+  "pairing": {
+    "es": "Pescados en salsa, aves, cocina alsaciana, quesos de pasta lavada",
+    "en": "Fish in sauce, poultry, Alsatian cuisine, washed-rind cheeses",
+    "fr": "Poissons en sauce, volailles, cuisine alsacienne, fromages à pâte lavée",
+    "it": "Pesce in salsa, pollame, cucina alsaziana, formaggi a crosta lavata"
+  },
+  "serve": {
+    "es": "12-14 °C, copa amplia",
+    "en": "12-14 °C, large glass",
+    "fr": "12-14 °C, verre ample",
+    "it": "12-14 °C, calice ampio"
+  },
+  "search": "Burg Marcel Deiss"
+}

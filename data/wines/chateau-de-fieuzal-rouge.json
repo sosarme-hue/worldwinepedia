@@ -1,0 +1,49 @@
+{
+  "slug": "chateau-de-fieuzal-rouge",
+  "name": "Château de Fieuzal Rouge",
+  "winery": "chateau-de-fieuzal",
+  "region": "pessac-leognan",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Cru Classé de Graves",
+    "en": "Cru Classé de Graves",
+    "fr": "Cru Classé de Graves",
+    "it": "Cru Classé de Graves"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Grand vin tinto de Château de Fieuzal, Cru Classé de Graves de la denominación Pessac-Léognan.",
+    "en": "Red grand vin of Château de Fieuzal, a Cru Classé de Graves in the Pessac-Léognan appellation.",
+    "fr": "Grand vin rouge du Château de Fieuzal, Cru Classé de Graves de l'appellation Pessac-Léognan.",
+    "it": "Grand vin rosso di Château de Fieuzal, Cru Classé de Graves della denominazione Pessac-Léognan."
+  },
+  "body": {
+    "es": "<p>El tinto de Château de Fieuzal es el vino por el que la propiedad figura entre los <strong>Crus Classés de Graves</strong>. Procede de los viñedos que el château posee en Léognan, sobre suelos de grava mezclada con arcilla y arena, típicos de la denominación Pessac-Léognan.</p><p>Se elabora con un ensamblaje dominado por <strong>Cabernet Sauvignon</strong> y <strong>Merlot</strong>, completado según la añada con Cabernet Franc y Petit Verdot. La Cabernet aporta estructura y aromas de fruta negra y cedro; la Merlot, redondez y carnosidad. La crianza en barrica de roble francés se prolonga durante varios meses.</p><p>Es un tinto de cuerpo medio a pleno, elegante y fresco, con las notas ahumadas y terrosas que suelen asociarse a los vinos de Graves. Gana complejidad tras varios años en botella y puede guardarse bastante tiempo en buenas añadas.</p>",
+    "en": "<p>The red of Château de Fieuzal is the wine for which the property is listed among the <strong>Crus Classés de Graves</strong>. It comes from the château's vineyards in Léognan, on gravel soils mixed with clay and sand, typical of the Pessac-Léognan appellation.</p><p>It is made from a blend dominated by <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong>, completed depending on the vintage with Cabernet Franc and Petit Verdot. Cabernet brings structure and aromas of black fruit and cedar; Merlot, roundness and flesh. Ageing in French oak barrels lasts several months.</p><p>It is a medium- to full-bodied red, elegant and fresh, with the smoky, earthy notes often associated with Graves wines. It gains complexity after several years in bottle and can be kept for a long time in good vintages.</p>",
+    "fr": "<p>Le rouge du Château de Fieuzal est le vin qui vaut à la propriété de figurer parmi les <strong>Crus Classés de Graves</strong>. Il provient des vignes que le château possède à Léognan, sur des sols de graves mêlées d'argile et de sable, typiques de l'appellation Pessac-Léognan.</p><p>Il est issu d'un assemblage dominé par le <strong>cabernet sauvignon</strong> et le <strong>merlot</strong>, complété selon les millésimes par du cabernet franc et du petit verdot. Le cabernet apporte structure et arômes de fruits noirs et de cèdre ; le merlot, rondeur et chair. L'élevage en barriques de chêne français dure plusieurs mois.</p><p>C'est un rouge de corps moyen à plein, élégant et frais, aux notes fumées et terreuses souvent associées aux vins des Graves. Il gagne en complexité après plusieurs années de bouteille et peut se garder longtemps dans les bons millésimes.</p>",
+    "it": "<p>Il rosso di Château de Fieuzal è il vino per cui la proprietà figura tra i <strong>Crus Classés de Graves</strong>. Proviene dai vigneti che lo château possiede a Léognan, su suoli di ghiaia mista ad argilla e sabbia, tipici della denominazione Pessac-Léognan.</p><p>È prodotto con un assemblaggio dominato da <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong>, completato a seconda dell'annata da Cabernet Franc e Petit Verdot. Il Cabernet apporta struttura e aromi di frutta nera e cedro; il Merlot, rotondità e polpa. L'affinamento in barrique di rovere francese dura diversi mesi.</p><p>È un rosso di corpo medio-pieno, elegante e fresco, con le note affumicate e terrose spesso associate ai vini delle Graves. Guadagna complessità dopo diversi anni in bottiglia e si può conservare a lungo nelle buone annate.</p>"
+  },
+  "tasting": {
+    "es": "Rojo granate oscuro. Aromas de casis, ciruela, cedro, tabaco y notas ahumadas. Boca equilibrada, de taninos finos y final fresco.",
+    "en": "Dark garnet. Aromas of blackcurrant, plum, cedar, tobacco and smoky notes. Balanced palate with fine tannins and a fresh finish.",
+    "fr": "Grenat sombre. Arômes de cassis, de prune, de cèdre, de tabac et notes fumées. Bouche équilibrée, aux tanins fins et à la finale fraîche.",
+    "it": "Granato scuro. Aromi di ribes nero, prugna, cedro, tabacco e note affumicate. Bocca equilibrata, dai tannini fini e dal finale fresco."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes rojas, pato, quesos de pasta prensada",
+    "en": "Roast lamb, red meats, duck, pressed cheeses",
+    "fr": "Agneau rôti, viandes rouges, canard, fromages à pâte pressée",
+    "it": "Agnello arrosto, carni rosse, anatra, formaggi a pasta pressata"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Château de Fieuzal Rouge Pessac-Léognan"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "bergerie-de-l-hortus-blanc",
+  "name": "Bergerie de l'Hortus Blanc",
+  "winery": "domaine-de-l-hortus",
+  "region": "languedoc-roussillon",
+  "country": "francia",
+  "type": "blanco",
+  "category": {
+    "es": "IGP Val de Montferrand",
+    "en": "IGP Val de Montferrand",
+    "fr": "IGP Val de Montferrand",
+    "it": "IGP Val de Montferrand"
+  },
+  "grapes": [],
+  "summary": {
+    "es": "El blanco de base del Domaine de l'Hortus, un vino fresco y aromático de la indicación geográfica Val de Montferrand, en el entorno del Pic Saint-Loup.",
+    "en": "Domaine de l'Hortus’ core white, a fresh, aromatic wine under the Val de Montferrand geographical indication, near the Pic Saint-Loup.",
+    "fr": "Le blanc de base du Domaine de l'Hortus, un vin frais et aromatique en IGP Val de Montferrand, aux abords du Pic Saint-Loup.",
+    "it": "Il bianco di base del Domaine de l'Hortus, un vino fresco e aromatico dell’indicazione geografica Val de Montferrand, nei pressi del Pic Saint-Loup."
+  },
+  "body": {
+    "es": "<p>La Bergerie de l'Hortus Blanc es la versión blanca del vino de base del Domaine de l'Hortus, la finca de la familia Orliac en Valflaunès. Como la denominación Pic Saint-Loup solo ampara tintos y rosados, los blancos de la zona se comercializan bajo indicaciones geográficas como la IGP <strong>Val de Montferrand</strong>.</p><p>Esta indicación da a la finca libertad para elegir las variedades. En la zona se cultivan habitualmente uvas mediterráneas y del Ródano, así como algunas variedades internacionales; la composición exacta de este vino puede variar según la añada. Los suelos calcáreos y el clima relativamente fresco del valle, con noches frías, ayudan a conservar la acidez y los aromas.</p><p>La elaboración, con fermentación a temperatura controlada y una crianza breve sobre lías, busca un blanco aromático, fresco y con cierta redondez. El resultado es un vino de cuerpo medio, con fruta blanca, notas florales y un final limpio, para beber en sus primeros años.</p>",
+    "en": "<p>The Bergerie de l'Hortus Blanc is the white version of the core wine of Domaine de l'Hortus, the Orliac family estate in Valflaunès. Since the Pic Saint-Loup appellation covers only reds and rosés, the area’s whites are sold under geographical indications such as the <strong>Val de Montferrand</strong> IGP.</p><p>This indication gives the estate freedom in its choice of varieties. Mediterranean and Rhône grapes, as well as some international varieties, are commonly grown in the area; the exact make-up of this wine may vary with the vintage. The limestone soils and the valley’s relatively cool climate, with cold nights, help preserve acidity and aromas.</p><p>Winemaking, with temperature-controlled fermentation and brief lees ageing, aims for an aromatic, fresh white with some roundness. The result is a medium-bodied wine with white fruit, floral notes and a clean finish, to drink in its first few years.</p>",
+    "fr": "<p>La Bergerie de l'Hortus blanc est la version blanche du vin de base du Domaine de l'Hortus, le domaine de la famille Orliac à Valflaunès. L’appellation Pic Saint-Loup ne couvrant que les rouges et les rosés, les blancs du secteur sont commercialisés sous des indications géographiques comme l’IGP <strong>Val de Montferrand</strong>.</p><p>Cette indication laisse au domaine la liberté du choix des cépages. On cultive couramment dans le secteur des cépages méditerranéens et rhodaniens ainsi que quelques cépages internationaux ; la composition exacte de ce vin peut varier selon le millésime. Les sols calcaires et le climat relativement frais de la vallée, aux nuits froides, aident à préserver l’acidité et les arômes.</p><p>La vinification, avec une fermentation à température contrôlée et un court élevage sur lies, recherche un blanc aromatique, frais et doté d’une certaine rondeur. Il en résulte un vin de corps moyen, aux notes de fruits blancs et de fleurs et à la finale nette, à boire dans ses premières années.</p>",
+    "it": "<p>La Bergerie de l'Hortus Blanc è la versione bianca del vino di base del Domaine de l'Hortus, la tenuta della famiglia Orliac a Valflaunès. Poiché la denominazione Pic Saint-Loup riguarda solo rossi e rosati, i bianchi della zona sono commercializzati con indicazioni geografiche come l’IGP <strong>Val de Montferrand</strong>.</p><p>Questa indicazione lascia alla tenuta libertà nella scelta delle varietà. Nella zona si coltivano comunemente uve mediterranee e del Rodano, oltre ad alcune varietà internazionali; la composizione esatta di questo vino può variare secondo l’annata. I suoli calcarei e il clima relativamente fresco della valle, con notti fredde, aiutano a preservare acidità e aromi.</p><p>La vinificazione, con fermentazione a temperatura controllata e un breve affinamento sulle fecce, punta a un bianco aromatico, fresco e con una certa rotondità. Il risultato è un vino di medio corpo, con frutta bianca, note floreali e finale pulito, da bere nei primi anni.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido. Aromas de melocotón, cítricos, flores blancas y un toque de hierbas. Boca fresca y redonda, de final limpio.",
+    "en": "Pale yellow. Aromas of peach, citrus, white flowers and a herbal touch. Fresh, rounded palate with a clean finish.",
+    "fr": "Jaune pâle. Arômes de pêche, d’agrumes, de fleurs blanches et touche herbacée. Bouche fraîche et ronde, à la finale nette.",
+    "it": "Giallo paglierino chiaro. Aromi di pesca, agrumi, fiori bianchi e un tocco erbaceo. Bocca fresca e rotonda, con finale pulito."
+  },
+  "pairing": {
+    "es": "Aperitivo, pescados a la plancha, marisco, quesos de cabra",
+    "en": "Aperitif, grilled fish, shellfish, goat’s cheeses",
+    "fr": "Apéritif, poissons à la plancha, fruits de mer, fromages de chèvre",
+    "it": "Aperitivo, pesce alla piastra, frutti di mare, formaggi di capra"
+  },
+  "serve": {
+    "es": "9-11 °C, copa de blanco",
+    "en": "9-11 °C, white wine glass",
+    "fr": "9-11 °C, verre à vin blanc",
+    "it": "9-11 °C, calice da bianco"
+  },
+  "search": "Bergerie de l'Hortus blanc Val de Montferrand"
+}

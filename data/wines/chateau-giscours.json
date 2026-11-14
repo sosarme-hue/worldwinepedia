@@ -1,0 +1,49 @@
+{
+  "slug": "chateau-giscours",
+  "name": "Château Giscours",
+  "winery": "chateau-giscours",
+  "region": "margaux",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Troisième Grand Cru Classé",
+    "en": "Third Growth (Troisième Grand Cru Classé)",
+    "fr": "Troisième Grand Cru Classé",
+    "it": "Troisième Grand Cru Classé"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Gran vino de Château Giscours, Tercer Gran Cru Clasificado de Margaux, ensamblaje de Cabernet Sauvignon y Merlot de buena capacidad de guarda.",
+    "en": "The grand vin of Château Giscours, a Margaux Third Growth, a blend of Cabernet Sauvignon and Merlot with good ageing potential.",
+    "fr": "Le grand vin de Château Giscours, troisième grand cru classé de Margaux, assemblage de cabernet-sauvignon et de merlot au bon potentiel de garde.",
+    "it": "Il grand vin di Château Giscours, terzo Grand Cru Classé di Margaux, uvaggio di Cabernet Sauvignon e Merlot con buon potenziale di invecchiamento."
+  },
+  "body": {
+    "es": "<p><strong>Château Giscours</strong> es el gran vino de la finca del mismo nombre en Labarde, en el sur de la denominación <strong>Margaux</strong>, clasificada como Tercer Gran Cru en 1855. Procede de viñedos sobre terrazas de gravas del Garona, cuyo drenaje y capacidad de retener el calor favorecen la maduración de la <strong>Cabernet Sauvignon</strong>.</p><p>El ensamblaje está dominado por la Cabernet Sauvignon, con una parte importante de <strong>Merlot</strong> y, según la añada, pequeñas proporciones de Cabernet Franc y Petit Verdot. Las parcelas se vinifican por separado y el vino se cría en barricas de roble francés, en parte nuevas, durante un periodo prolongado antes del embotellado.</p><p>Es un tinto de estructura firme y aromas de fruta negra, cedro, especias y notas florales, con taninos que se afinan con el tiempo. Como los grandes Médoc, gana en complejidad tras varios años de guarda y puede evolucionar durante décadas en buenas añadas.</p>",
+    "en": "<p><strong>Château Giscours</strong> is the grand vin of the estate of the same name in Labarde, in the south of the <strong>Margaux</strong> appellation, classified as a Third Growth in 1855. It comes from vineyards on Garonne gravel terraces, whose drainage and heat retention favour the ripening of <strong>Cabernet Sauvignon</strong>.</p><p>The blend is dominated by Cabernet Sauvignon, with a significant share of <strong>Merlot</strong> and, depending on the vintage, small proportions of Cabernet Franc and Petit Verdot. The plots are vinified separately and the wine is aged in French oak barrels, partly new, for an extended period before bottling.</p><p>It is a firmly structured red with aromas of black fruit, cedar, spice and floral notes, and tannins that refine over time. Like the great Médocs, it gains complexity after several years of cellaring and can develop for decades in good vintages.</p>",
+    "fr": "<p><strong>Château Giscours</strong> est le grand vin du domaine du même nom à Labarde, au sud de l’appellation <strong>Margaux</strong>, classé troisième grand cru en 1855. Il provient de vignes plantées sur des terrasses de graves de la Garonne, dont le drainage et la capacité à retenir la chaleur favorisent la maturité du <strong>cabernet-sauvignon</strong>.</p><p>L’assemblage est dominé par le cabernet-sauvignon, avec une part importante de <strong>merlot</strong> et, selon le millésime, de petites proportions de cabernet franc et de petit verdot. Les parcelles sont vinifiées séparément et le vin est élevé en barriques de chêne français, en partie neuves, pendant une longue période avant la mise en bouteille.</p><p>C’est un rouge à la structure ferme, aux arômes de fruits noirs, de cèdre, d’épices et aux notes florales, aux tanins qui s’affinent avec le temps. Comme les grands médocs, il gagne en complexité après plusieurs années de garde et peut évoluer pendant des décennies dans les bons millésimes.</p>",
+    "it": "<p><strong>Château Giscours</strong> è il grand vin dell’omonima tenuta di Labarde, nel sud della denominazione <strong>Margaux</strong>, classificata terzo Grand Cru nel 1855. Proviene da vigneti su terrazze di ghiaie della Garonna, il cui drenaggio e la capacità di trattenere il calore favoriscono la maturazione del <strong>Cabernet Sauvignon</strong>.</p><p>L’uvaggio è dominato dal Cabernet Sauvignon, con una quota importante di <strong>Merlot</strong> e, a seconda dell’annata, piccole percentuali di Cabernet Franc e Petit Verdot. Le parcelle vengono vinificate separatamente e il vino affina in barrique di rovere francese, in parte nuove, per un periodo prolungato prima dell’imbottigliamento.</p><p>È un rosso di struttura salda, con aromi di frutto nero, cedro, spezie e note floreali e tannini che si affinano con il tempo. Come i grandi Médoc, guadagna complessità dopo diversi anni di invecchiamento e può evolvere per decenni nelle buone annate.</p>"
+  },
+  "tasting": {
+    "es": "Casis, mora, cedro, violeta y especias. Boca estructurada, taninos firmes y final largo.",
+    "en": "Blackcurrant, blackberry, cedar, violet and spice. Structured palate, firm tannins and a long finish.",
+    "fr": "Cassis, mûre, cèdre, violette et épices. Bouche structurée, tanins fermes et finale longue.",
+    "it": "Ribes nero, mora, cedro, violetta e spezie. Bocca strutturata, tannini decisi e finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, entrecot, caza menor, setas, quesos curados",
+    "en": "Roast lamb, rib steak, small game, mushrooms, aged cheeses",
+    "fr": "Agneau rôti, entrecôte, petit gibier, champignons, fromages affinés",
+    "it": "Agnello arrosto, costata, selvaggina minuta, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Château Giscours Margaux"
+}

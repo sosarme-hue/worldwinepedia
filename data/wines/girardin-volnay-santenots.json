@@ -1,0 +1,48 @@
+{
+  "slug": "girardin-volnay-santenots",
+  "name": "Volnay 1er Cru Les Santenots",
+  "winery": "vincent-girardin",
+  "region": "cote-de-beaune",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Premier Cru",
+    "en": "Premier Cru",
+    "fr": "Premier Cru",
+    "it": "Premier Cru"
+  },
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Pinot Noir del premier cru Les Santenots, situado en el término de Meursault pero comercializado en tinto como Volnay.",
+    "en": "Pinot Noir from the Les Santenots premier cru, located within Meursault but sold as Volnay when red.",
+    "fr": "Pinot noir du premier cru Les Santenots, situé sur la commune de Meursault mais commercialisé en rouge sous le nom de Volnay.",
+    "it": "Pinot Noir del premier cru Les Santenots, situato nel territorio di Meursault ma commercializzato come Volnay quando è rosso."
+  },
+  "body": {
+    "es": "<p><strong>Les Santenots</strong> es un caso particular de la Côte de Beaune: el viñedo se encuentra en el municipio de <strong>Meursault</strong>, junto al límite con Volnay, pero cuando se planta con Pinot Noir el vino se comercializa con la denominación <strong>Volnay premier cru</strong>. En blanco, en cambio, lleva el nombre de Meursault. Sus suelos de caliza y arcilla dan tintos algo más estructurados que muchos Volnay de la parte alta de la ladera.</p><p>Vincent Girardin, con sede precisamente en Meursault, elabora este vino con extracciones moderadas y crianza en barrica, en la línea de los tintos de la casa, que buscan precisión de fruta y finura.</p><p>Es un Volnay de cuerpo medio, con la elegancia aromática típica del municipio y una estructura que le permite evolucionar varios años en botella.</p>",
+    "en": "<p><strong>Les Santenots</strong> is a special case in the Côte de Beaune: the vineyard lies in the commune of <strong>Meursault</strong>, next to the boundary with Volnay, but when planted with Pinot Noir the wine is sold under the <strong>Volnay premier cru</strong> appellation. As a white, by contrast, it bears the Meursault name. Its limestone and clay soils produce reds that are somewhat more structured than many Volnays from higher up the slope.</p><p>Vincent Girardin, based in Meursault itself, makes this wine with moderate extraction and barrel ageing, in line with the house reds, which seek precise fruit and finesse.</p><p>It is a medium-bodied Volnay, with the aromatic elegance typical of the village and a structure that allows it to develop for several years in bottle.</p>",
+    "fr": "<p><strong>Les Santenots</strong> constitue un cas particulier en Côte de Beaune : le vignoble se trouve sur la commune de <strong>Meursault</strong>, en limite de Volnay, mais lorsqu’il est planté en pinot noir, le vin est commercialisé en appellation <strong>Volnay premier cru</strong>. En blanc, en revanche, il porte le nom de Meursault. Ses sols de calcaire et d’argile donnent des rouges un peu plus structurés que bien des Volnay du haut du coteau.</p><p>Vincent Girardin, installé précisément à Meursault, élabore ce vin avec des extractions modérées et un élevage en barrique, dans la lignée des rouges de la maison, qui recherchent la précision du fruit et la finesse.</p><p>C’est un Volnay de corps moyen, doté de l’élégance aromatique typique de la commune et d’une structure qui lui permet d’évoluer plusieurs années en bouteille.</p>",
+    "it": "<p><strong>Les Santenots</strong> è un caso particolare della Côte de Beaune: il vigneto si trova nel comune di <strong>Meursault</strong>, al confine con Volnay, ma quando è piantato a Pinot Noir il vino è commercializzato con la denominazione <strong>Volnay premier cru</strong>. In bianco, invece, porta il nome di Meursault. I suoli di calcare e argilla danno rossi un po’ più strutturati di molti Volnay della parte alta del pendio.</p><p>Vincent Girardin, con sede proprio a Meursault, produce questo vino con estrazioni moderate e affinamento in barrique, nella linea dei rossi della casa, che cercano precisione di frutto e finezza.</p><p>È un Volnay di medio corpo, con l’eleganza aromatica tipica del comune e una struttura che gli permette di evolvere per diversi anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Aromas de frutos rojos, violeta, especias dulces y notas terrosas. Boca sedosa, de taninos finos y final persistente.",
+    "en": "Aromas of red fruit, violet, sweet spice and earthy notes. Silky palate with fine tannins and a persistent finish.",
+    "fr": "Arômes de fruits rouges, de violette, d’épices douces et notes terreuses. Bouche soyeuse, aux tanins fins et à la finale persistante.",
+    "it": "Aromi di frutti rossi, violetta, spezie dolci e note terrose. Bocca setosa, con tannini fini e finale persistente."
+  },
+  "pairing": {
+    "es": "Aves asadas, pichón, ternera, setas",
+    "en": "Roast poultry, squab, veal, mushrooms",
+    "fr": "Volailles rôties, pigeon, veau, champignons",
+    "it": "Pollame arrosto, piccione, vitello, funghi"
+  },
+  "serve": {
+    "es": "15-17 °C, copa de Borgoña",
+    "en": "15-17 °C, Burgundy glass",
+    "fr": "15-17 °C, verre de type bourguignon",
+    "it": "15-17 °C, calice tipo Borgogna"
+  },
+  "search": "Volnay 1er Cru Santenots Vincent Girardin"
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "chateau-lagrange",
+  "name": "Château Lagrange",
+  "winery": "chateau-lagrange",
+  "region": "saint-julien",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "3er Gran Cru Clasificado",
+    "en": "3rd Classified Growth",
+    "fr": "3e Grand Cru Classé",
+    "it": "3° Grand Cru Classé"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "petit-verdot"
+  ],
+  "summary": {
+    "es": "Gran vino de Château Lagrange, tercer cru clasificado de Saint-Julien, a base de Cabernet Sauvignon y Merlot.",
+    "en": "The grand vin of Château Lagrange, a third-growth Saint-Julien, based on Cabernet Sauvignon and Merlot.",
+    "fr": "Grand vin du Château Lagrange, troisième cru classé de Saint-Julien, à base de cabernet sauvignon et de merlot.",
+    "it": "Grand vin di Château Lagrange, terzo cru classé di Saint-Julien, a base di Cabernet Sauvignon e Merlot."
+  },
+  "body": {
+    "es": "<p>El gran vino de <strong>Château Lagrange</strong> procede de las mejores parcelas de esta extensa finca de <strong>Saint-Julien</strong>, situada en la parte interior de la denominación, sobre dos colinas de gravas. El ensamblaje se basa en <strong>Cabernet Sauvignon</strong>, generalmente mayoritario, y <strong>Merlot</strong>, con un pequeño aporte de <strong>Petit Verdot</strong>.</p><p>Desde la llegada de Suntory en 1983, la finca ha renovado su viñedo y su bodega, con vinificación parcelaria y una selección estricta para el gran vino, mientras que los lotes restantes se destinan al segundo vino, Les Fiefs de Lagrange. La crianza se realiza en barricas de roble francés, con una parte de madera nueva.</p><p>Es un Saint-Julien clásico, de fruta negra, notas de cedro y especias, estructura firme y taninos finos. Necesita varios años de botella y puede envejecer durante décadas.</p>",
+    "en": "<p>The grand vin of <strong>Château Lagrange</strong> comes from the best plots of this large <strong>Saint-Julien</strong> estate, located in the inland part of the appellation on two gravel hillocks. The blend is based on <strong>Cabernet Sauvignon</strong>, generally the majority, and <strong>Merlot</strong>, with a small contribution of <strong>Petit Verdot</strong>.</p><p>Since Suntory’s arrival in 1983, the estate has renovated its vineyard and winery, with plot-by-plot vinification and strict selection for the grand vin, while the remaining lots go to the second wine, Les Fiefs de Lagrange. Ageing takes place in French oak barrels, a proportion of them new.</p><p>It is a classic Saint-Julien, with black fruit, notes of cedar and spice, firm structure and fine tannins. It needs several years in bottle and can age for decades.</p>",
+    "fr": "<p>Le grand vin du <strong>Château Lagrange</strong> provient des meilleures parcelles de ce vaste domaine de <strong>Saint-Julien</strong>, situé dans la partie intérieure de l’appellation, sur deux croupes de graves. L’assemblage repose sur le <strong>cabernet sauvignon</strong>, généralement majoritaire, et le <strong>merlot</strong>, avec un petit apport de <strong>petit verdot</strong>.</p><p>Depuis l’arrivée de Suntory en 1983, le domaine a rénové son vignoble et son chai, avec une vinification parcellaire et une sélection stricte pour le grand vin, les autres lots étant destinés au second vin, Les Fiefs de Lagrange. L’élevage se fait en barriques de chêne français, dont une part de bois neuf.</p><p>C’est un Saint-Julien classique, aux fruits noirs, aux notes de cèdre et d’épices, à la structure ferme et aux tanins fins. Il demande plusieurs années de bouteille et peut vieillir pendant des décennies.</p>",
+    "it": "<p>Il grand vin di <strong>Château Lagrange</strong> proviene dalle migliori parcelle di questa vasta tenuta di <strong>Saint-Julien</strong>, situata nella parte interna della denominazione, su due colline di ghiaia. L’assemblaggio si basa sul <strong>Cabernet Sauvignon</strong>, generalmente maggioritario, e sul <strong>Merlot</strong>, con un piccolo apporto di <strong>Petit Verdot</strong>.</p><p>Dall’arrivo di Suntory nel 1983, la tenuta ha rinnovato vigneto e cantina, con vinificazione parcellare e una selezione rigorosa per il grand vin, mentre i lotti restanti vanno al secondo vino, Les Fiefs de Lagrange. L’affinamento avviene in barrique di rovere francese, in parte nuove.</p><p>È un Saint-Julien classico, con frutti neri, note di cedro e spezie, struttura salda e tannini fini. Richiede diversi anni di bottiglia e può invecchiare per decenni.</p>"
+  },
+  "tasting": {
+    "es": "Aromas de cassis, mora, cedro, grafito y especias. Boca estructurada, de taninos finos y final largo.",
+    "en": "Aromas of blackcurrant, blackberry, cedar, graphite and spice. Structured palate with fine tannins and a long finish.",
+    "fr": "Arômes de cassis, de mûre, de cèdre, de graphite et d’épices. Bouche structurée, aux tanins fins et à la finale longue.",
+    "it": "Aromi di cassis, mora, cedro, grafite e spezie. Bocca strutturata, con tannini fini e finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero de Pauillac, entrecot a la bordelesa, caza, quesos curados",
+    "en": "Pauillac lamb, entrecôte bordelaise, game, aged cheeses",
+    "fr": "Agneau de Pauillac, entrecôte bordelaise, gibier, fromages affinés",
+    "it": "Agnello di Pauillac, entrecôte alla bordolese, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de Burdeos",
+    "en": "16-18 °C, Bordeaux glass",
+    "fr": "16-18 °C, verre de type bordelais",
+    "it": "16-18 °C, calice tipo Bordeaux"
+  },
+  "search": "Château Lagrange Saint-Julien"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "masseto",
+  "name": "Masseto",
+  "winery": "ornellaia",
+  "region": "bolgheri",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "IGT Toscana",
+    "en": "IGT Toscana",
+    "fr": "IGT Toscana",
+    "it": "IGT Toscana"
+  },
+  "grapes": [
+    "merlot"
+  ],
+  "summary": {
+    "es": "Tinto de Merlot de la zona de Bolgheri, nacido en la órbita de Ornellaia y considerado uno de los grandes Merlot del mundo.",
+    "en": "Merlot red from the Bolgheri area, born within the Ornellaia orbit and regarded as one of the world’s great Merlots.",
+    "fr": "Rouge de merlot du secteur de Bolgheri, né dans l’orbite d’Ornellaia et considéré comme l’un des grands merlots du monde.",
+    "it": "Rosso di Merlot della zona di Bolgheri, nato nell’orbita di Ornellaia e considerato uno dei grandi Merlot del mondo."
+  },
+  "body": {
+    "es": "<p><strong>Masseto</strong> toma su nombre de una colina situada en la zona de <strong>Bolgheri</strong>, en la costa de Toscana, cuyos suelos de arcilla azul del Plioceno, compactos y frescos, resultaron especialmente adecuados para el <strong>Merlot</strong>. El vino nació en la década de 1980 en el seno de la Tenuta dell’Ornellaia y pronto se convirtió en uno de los tintos italianos más reputados.</p><p>Con el tiempo, Masseto pasó a gestionarse como una finca independiente dentro del mismo grupo, con su propia bodega. Se elabora casi exclusivamente con Merlot, a veces con una pequeña proporción de Cabernet Franc, y se cría en barricas de roble francés. Se comercializa con la indicación IGT Toscana.</p><p>Es un tinto de gran concentración y textura, con fruta negra madura, notas especiadas y una estructura tánica densa pero pulida. Está concebido para una guarda muy larga.</p>",
+    "en": "<p><strong>Masseto</strong> takes its name from a hill in the <strong>Bolgheri</strong> area on the Tuscan coast, whose compact, cool blue Pliocene clay soils proved particularly suited to <strong>Merlot</strong>. The wine was born in the 1980s within the Tenuta dell’Ornellaia and soon became one of Italy’s most renowned reds.</p><p>Over time, Masseto came to be run as an independent estate within the same group, with its own winery. It is made almost exclusively from Merlot, sometimes with a small proportion of Cabernet Franc, and aged in French oak barrels. It is sold under the IGT Toscana designation.</p><p>It is a red of great concentration and texture, with ripe black fruit, spicy notes and a dense yet polished tannic structure. It is designed for very long cellaring.</p>",
+    "fr": "<p><strong>Masseto</strong> tire son nom d’une colline du secteur de <strong>Bolgheri</strong>, sur la côte toscane, dont les sols d’argiles bleues du Pliocène, compactes et fraîches, se sont révélés particulièrement adaptés au <strong>merlot</strong>. Le vin est né dans les années 1980 au sein de la Tenuta dell’Ornellaia et est rapidement devenu l’un des rouges italiens les plus réputés.</p><p>Avec le temps, Masseto est devenu un domaine indépendant au sein du même groupe, avec sa propre cave. Il est élaboré presque exclusivement à partir de merlot, parfois avec une petite part de cabernet franc, et élevé en barriques de chêne français. Il est commercialisé sous l’indication IGT Toscana.</p><p>C’est un rouge d’une grande concentration et d’une belle texture, aux fruits noirs mûrs, aux notes épicées et à la structure tannique dense mais polie. Il est conçu pour une très longue garde.</p>",
+    "it": "<p><strong>Masseto</strong> prende il nome da una collina della zona di <strong>Bolgheri</strong>, sulla costa toscana, i cui suoli di argille blu del Pliocene, compatti e freschi, si sono rivelati particolarmente adatti al <strong>Merlot</strong>. Il vino nacque negli anni Ottanta all’interno della Tenuta dell’Ornellaia e divenne presto uno dei rossi italiani più rinomati.</p><p>Col tempo Masseto è diventato una tenuta indipendente all’interno dello stesso gruppo, con una propria cantina. È prodotto quasi esclusivamente con Merlot, talvolta con una piccola quota di Cabernet Franc, e affina in barrique di rovere francese. È commercializzato con l’indicazione IGT Toscana.</p><p>È un rosso di grande concentrazione e consistenza, con frutta nera matura, note speziate e una struttura tannica densa ma levigata. È pensato per un invecchiamento molto lungo.</p>"
+  },
+  "tasting": {
+    "es": "Aromas de ciruela negra, mora, cacao, especias y notas balsámicas. Boca densa y aterciopelada, de taninos finos y final muy largo.",
+    "en": "Aromas of black plum, blackberry, cocoa, spice and balsamic notes. Dense, velvety palate with fine tannins and a very long finish.",
+    "fr": "Arômes de prune noire, de mûre, de cacao, d’épices et notes balsamiques. Bouche dense et veloutée, aux tanins fins et à la finale très longue.",
+    "it": "Aromi di prugna nera, mora, cacao, spezie e note balsamiche. Bocca densa e vellutata, con tannini fini e finale lunghissimo."
+  },
+  "pairing": {
+    "es": "Caza mayor, solomillo, cordero asado, quesos muy curados",
+    "en": "Large game, fillet steak, roast lamb, long-aged cheeses",
+    "fr": "Gros gibier, filet de bœuf, agneau rôti, fromages très affinés",
+    "it": "Selvaggina grossa, filetto, agnello arrosto, formaggi molto stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia; conviene decantarlo",
+    "en": "16-18 °C, large glass; decanting is advisable",
+    "fr": "16-18 °C, grand verre ; il est conseillé de le carafer",
+    "it": "16-18 °C, calice ampio; si consiglia di decantarlo"
+  },
+  "search": "Masseto Toscana"
+}

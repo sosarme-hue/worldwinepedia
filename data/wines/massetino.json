@@ -1,0 +1,48 @@
+{
+  "slug": "massetino",
+  "name": "Massetino",
+  "winery": "ornellaia",
+  "region": "bolgheri",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "IGT Toscana",
+    "en": "IGT Toscana",
+    "fr": "IGT Toscana",
+    "it": "IGT Toscana"
+  },
+  "grapes": [
+    "merlot"
+  ],
+  "summary": {
+    "es": "Segundo vino de Masseto, un Merlot de la zona de Bolgheri pensado para mostrar antes el estilo de la finca.",
+    "en": "Second wine of Masseto, a Merlot from the Bolgheri area designed to show the estate’s style sooner.",
+    "fr": "Second vin de Masseto, un merlot du secteur de Bolgheri pensé pour exprimer plus tôt le style du domaine.",
+    "it": "Secondo vino di Masseto, un Merlot della zona di Bolgheri pensato per mostrare prima lo stile della tenuta."
+  },
+  "body": {
+    "es": "<p><strong>Massetino</strong> es el segundo vino de <strong>Masseto</strong>, el célebre Merlot nacido en la órbita de la Tenuta dell’Ornellaia, en la zona de Bolgheri, en la costa toscana. Se introdujo mucho después que el gran vino, cuando Masseto ya funcionaba como finca independiente con su propia bodega.</p><p>Se elabora con <strong>Merlot</strong> de las mismas viñas, sobre suelos de arcilla y arenas, con lotes que no se destinan a Masseto, y se cría en barricas de roble francés durante menos tiempo que el gran vino. El objetivo es ofrecer un vino con el carácter de la finca pero más accesible en su juventud. Se comercializa con la indicación IGT Toscana.</p><p>Es un tinto de buena concentración, con fruta negra y roja madura, notas especiadas y taninos suaves y redondos. Puede disfrutarse antes que Masseto, aunque también evoluciona bien varios años en botella.</p>",
+    "en": "<p><strong>Massetino</strong> is the second wine of <strong>Masseto</strong>, the famous Merlot born within the orbit of Tenuta dell’Ornellaia in the Bolgheri area on the Tuscan coast. It was introduced long after the grand vin, when Masseto was already operating as an independent estate with its own winery.</p><p>It is made from <strong>Merlot</strong> from the same vineyards, on clay and sand soils, using lots not destined for Masseto, and aged in French oak barrels for a shorter time than the grand vin. The aim is to offer a wine with the estate’s character but more approachable in its youth. It is sold under the IGT Toscana designation.</p><p>It is a red of good concentration, with ripe black and red fruit, spicy notes and soft, round tannins. It can be enjoyed earlier than Masseto, although it also develops well for several years in bottle.</p>",
+    "fr": "<p><strong>Massetino</strong> est le second vin de <strong>Masseto</strong>, le célèbre merlot né dans l’orbite de la Tenuta dell’Ornellaia, dans le secteur de Bolgheri, sur la côte toscane. Il a été lancé bien après le grand vin, alors que Masseto fonctionnait déjà comme un domaine indépendant doté de sa propre cave.</p><p>Il est élaboré avec du <strong>merlot</strong> des mêmes vignes, sur des sols d’argiles et de sables, à partir des lots non retenus pour Masseto, et élevé en barriques de chêne français moins longtemps que le grand vin. L’objectif est d’offrir un vin au caractère du domaine, mais plus accessible dans sa jeunesse. Il est commercialisé sous l’indication IGT Toscana.</p><p>C’est un rouge d’une bonne concentration, aux fruits noirs et rouges mûrs, aux notes épicées et aux tanins souples et ronds. Il peut s’apprécier plus tôt que Masseto, tout en évoluant bien plusieurs années en bouteille.</p>",
+    "it": "<p><strong>Massetino</strong> è il secondo vino di <strong>Masseto</strong>, il celebre Merlot nato nell’orbita della Tenuta dell’Ornellaia, nella zona di Bolgheri, sulla costa toscana. È stato introdotto molto dopo il grand vin, quando Masseto operava già come tenuta indipendente con una propria cantina.</p><p>È prodotto con <strong>Merlot</strong> degli stessi vigneti, su suoli di argille e sabbie, con i lotti non destinati a Masseto, e affina in barrique di rovere francese per un periodo più breve del grand vin. L’obiettivo è offrire un vino con il carattere della tenuta ma più accessibile da giovane. È commercializzato con l’indicazione IGT Toscana.</p><p>È un rosso di buona concentrazione, con frutta nera e rossa matura, note speziate e tannini morbidi e rotondi. Si può gustare prima di Masseto, ma evolve bene anche per diversi anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Aromas de ciruela, cereza negra, especias dulces y cacao. Boca redonda y carnosa, de taninos suaves.",
+    "en": "Aromas of plum, black cherry, sweet spice and cocoa. Round, fleshy palate with soft tannins.",
+    "fr": "Arômes de prune, de cerise noire, d’épices douces et de cacao. Bouche ronde et charnue, aux tanins souples.",
+    "it": "Aromi di prugna, ciliegia nera, spezie dolci e cacao. Bocca rotonda e polposa, dai tannini morbidi."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, pato, risotto con setas, quesos curados",
+    "en": "Grilled red meat, duck, mushroom risotto, aged cheeses",
+    "fr": "Viandes rouges grillées, canard, risotto aux champignons, fromages affinés",
+    "it": "Carni rosse alla brace, anatra, risotto ai funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, grand verre",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Massetino Masseto Toscana"
+}

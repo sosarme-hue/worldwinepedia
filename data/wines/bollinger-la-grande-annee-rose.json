@@ -1,0 +1,49 @@
+{
+  "slug": "bollinger-la-grande-annee-rose",
+  "name": "Bollinger La Grande Année Rosé",
+  "winery": "bollinger",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut Rosé de añada",
+    "en": "Vintage brut rosé",
+    "fr": "Brut rosé millésimé",
+    "it": "Brut rosé millesimato"
+  },
+  "grapes": [
+    "pinot-noir",
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Versión rosada de La Grande Année, el champagne de añada de Bollinger, con una pequeña parte de vino tinto de Pinot Noir de Aÿ.",
+    "en": "Rosé version of La Grande Année, Bollinger’s vintage champagne, with a small share of red Pinot Noir wine from Aÿ.",
+    "fr": "Version rosée de La Grande Année, le champagne millésimé de Bollinger, avec une petite part de vin rouge de pinot noir d’Aÿ.",
+    "it": "Versione rosé di La Grande Année, lo champagne millesimato di Bollinger, con una piccola parte di vino rosso di Pinot Noir di Aÿ."
+  },
+  "body": {
+    "es": "<p>La Grande Année Rosé es la versión rosada del champagne de añada de <strong>Bollinger</strong>, la casa de Aÿ. Parte del mismo ensamblaje que La Grande Année, elaborado solo en las añadas que la casa considera excepcionales a partir de uvas de grands y premiers crus, con mayoría de <strong>Pinot Noir</strong> completado con <strong>Chardonnay</strong>.</p><p>El color procede de la adición de una pequeña proporción de vino tinto tranquilo de Pinot Noir, procedente de viñas de la casa en Aÿ, entre ellas la parcela de La Côte aux Enfants. Esta técnica de ensamblaje, autorizada en Champagne, aporta color y notas de frutos rojos sin alterar la estructura del vino.</p><p>Como en La Grande Année, los vinos base fermentan en barricas usadas y el vino envejece largamente sobre lías en botellas tapadas con corcho antes del degüelle. El resultado es un rosado de gran complejidad, con aromas de frutos rojos, especias y notas tostadas, estructura vinosa y una capacidad de guarda notable.</p>",
+    "en": "<p>La Grande Année Rosé is the rosé version of <strong>Bollinger</strong>’s vintage champagne, from the Aÿ house. It starts from the same blend as La Grande Année, made only in vintages the house considers exceptional from Grand and Premier Cru grapes, with a majority of <strong>Pinot Noir</strong> completed with <strong>Chardonnay</strong>.</p><p>The colour comes from adding a small proportion of still red Pinot Noir wine from the house’s vineyards in Aÿ, including the La Côte aux Enfants plot. This blending technique, permitted in Champagne, adds colour and red-fruit notes without altering the structure of the wine.</p><p>As with La Grande Année, the base wines are fermented in used barrels and the wine ages for a long time on its lees in cork-stoppered bottles before disgorgement. The result is a highly complex rosé with aromas of red fruit, spice and toasty notes, a vinous structure and remarkable ageing potential.</p>",
+    "fr": "<p>La Grande Année Rosé est la version rosée du champagne millésimé de <strong>Bollinger</strong>, la maison d’Aÿ. Elle part du même assemblage que La Grande Année, élaboré seulement dans les millésimes que la maison juge exceptionnels à partir de raisins de grands et premiers crus, à majorité de <strong>pinot noir</strong> complété par du <strong>chardonnay</strong>.</p><p>La couleur provient de l’ajout d’une petite proportion de vin rouge tranquille de pinot noir, issu des vignes de la maison à Aÿ, dont la parcelle de La Côte aux Enfants. Cette technique d’assemblage, autorisée en Champagne, apporte couleur et notes de fruits rouges sans modifier la structure du vin.</p><p>Comme pour La Grande Année, les vins de base fermentent en fûts usagés et le vin vieillit longuement sur lies, en bouteilles bouchées au liège, avant le dégorgement. Il en résulte un rosé d’une grande complexité, aux arômes de fruits rouges, d’épices et de grillé, à la structure vineuse et d’un potentiel de garde remarquable.</p>",
+    "it": "<p>La Grande Année Rosé è la versione rosé dello champagne millesimato di <strong>Bollinger</strong>, la maison di Aÿ. Parte dallo stesso assemblaggio di La Grande Année, prodotto solo nelle annate che la maison considera eccezionali con uve di grand e premier cru, a maggioranza <strong>Pinot Noir</strong> completato da <strong>Chardonnay</strong>.</p><p>Il colore deriva dall’aggiunta di una piccola quota di vino rosso fermo di Pinot Noir, proveniente dai vigneti della maison ad Aÿ, tra cui la parcella di La Côte aux Enfants. Questa tecnica di assemblaggio, ammessa in Champagne, apporta colore e note di frutti rossi senza alterare la struttura del vino.</p><p>Come per La Grande Année, i vini base fermentano in botti usate e il vino invecchia a lungo sui lieviti in bottiglie tappate con sughero prima della sboccatura. Il risultato è un rosé di grande complessità, con aromi di frutti rossi, spezie e note tostate, struttura vinosa e notevole capacità di invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Rosa cobrizo. Aromas de frutos rojos, cereza, especias, brioche y notas tostadas. Boca vinosa y profunda, de burbuja fina y final largo.",
+    "en": "Coppery pink. Aromas of red berries, cherry, spice, brioche and toasty notes. Vinous, deep palate with fine bubbles and a long finish.",
+    "fr": "Rose cuivré. Arômes de fruits rouges, de cerise, d’épices, de brioche et notes grillées. Bouche vineuse et profonde, à la bulle fine et à la longue finale.",
+    "it": "Rosa ramato. Aromi di frutti rossi, ciliegia, spezie, brioche e note tostate. Bocca vinosa e profonda, dal perlage fine e lungo finale."
+  },
+  "pairing": {
+    "es": "Pato, pichón, salmón, cocina japonesa",
+    "en": "Duck, pigeon, salmon, Japanese cuisine",
+    "fr": "Canard, pigeon, saumon, cuisine japonaise",
+    "it": "Anatra, piccione, salmone, cucina giapponese"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de vino blanco",
+    "en": "10-12 °C, white wine glass",
+    "fr": "10-12 °C, verre à vin blanc",
+    "it": "10-12 °C, calice da bianco"
+  },
+  "search": "Bollinger La Grande Année Rosé"
+}

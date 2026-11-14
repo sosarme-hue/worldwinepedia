@@ -1,0 +1,41 @@
+{
+  "slug": "tempier-bandol-blanc",
+  "name": "Domaine Tempier Blanc",
+  "winery": "domaine-tempier",
+  "region": "bandol",
+  "country": "francia",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Bandol blanco del Domaine Tempier, el vino menos conocido de una casa célebre por sus tintos y su rosado.",
+    "en": "White Bandol from Domaine Tempier, the least-known wine of a house famous for its reds and rosé.",
+    "fr": "Bandol blanc du Domaine Tempier, le vin le moins connu d’une maison célèbre pour ses rouges et son rosé.",
+    "it": "Bandol bianco del Domaine Tempier, il vino meno noto di una casa celebre per i suoi rossi e il suo rosato."
+  },
+  "body": {
+    "es": "<p>La denominación <strong>Bandol</strong>, en la costa provenzal entre Marsella y Toulon, es conocida sobre todo por sus tintos de Mourvèdre y por sus rosados, pero también produce una pequeña cantidad de vino blanco. Este se elabora con variedades mediterráneas como la Clairette, el Ugni Blanc y el Bourboulenc, entre otras autorizadas.</p><p>El Domaine Tempier, la finca de la familia Peyraud en Le Plan du Castellet, elabora este blanco en cantidades reducidas, con uvas de sus terrazas de suelos calizos. La vinificación busca conservar la frescura que aportan la proximidad del mar y las brisas, frente al calor del verano provenzal.</p><p>Es un blanco seco, de cuerpo medio, con notas de cítricos, fruta blanca, flores y hierbas, y un final ligeramente salino. Se disfruta en sus primeros años, sobre todo con la cocina de pescado y marisco de la costa.</p>",
+    "en": "<p>The <strong>Bandol</strong> appellation, on the Provençal coast between Marseille and Toulon, is best known for its Mourvèdre reds and its rosés, but it also produces a small quantity of white wine. This is made from Mediterranean varieties such as Clairette, Ugni Blanc and Bourboulenc, among others permitted.</p><p>Domaine Tempier, the Peyraud family estate at Le Plan du Castellet, makes this white in small quantities from grapes grown on its limestone terraces. Winemaking seeks to preserve the freshness brought by the nearby sea and its breezes, in contrast to the heat of the Provençal summer.</p><p>It is a dry, medium-bodied white with notes of citrus, white fruit, flowers and herbs, and a slightly saline finish. It is enjoyed in its first few years, especially with the fish and seafood cooking of the coast.</p>",
+    "fr": "<p>L’appellation <strong>Bandol</strong>, sur la côte provençale entre Marseille et Toulon, est surtout connue pour ses rouges de mourvèdre et ses rosés, mais elle produit aussi une petite quantité de vin blanc. Celui-ci est élaboré à partir de cépages méditerranéens comme la clairette, l’ugni blanc et le bourboulenc, entre autres cépages autorisés.</p><p>Le Domaine Tempier, propriété de la famille Peyraud au Plan du Castellet, élabore ce blanc en petites quantités avec des raisins de ses restanques calcaires. La vinification cherche à préserver la fraîcheur apportée par la proximité de la mer et ses brises, face à la chaleur de l’été provençal.</p><p>C’est un blanc sec, de corps moyen, aux notes d’agrumes, de fruits blancs, de fleurs et d’herbes, avec une finale légèrement saline. Il s’apprécie dans ses premières années, surtout avec la cuisine de poissons et de fruits de mer de la côte.</p>",
+    "it": "<p>La denominazione <strong>Bandol</strong>, sulla costa provenzale tra Marsiglia e Tolone, è nota soprattutto per i rossi di Mourvèdre e per i rosati, ma produce anche una piccola quantità di vino bianco. Questo si ottiene da vitigni mediterranei come Clairette, Ugni Blanc e Bourboulenc, tra gli altri autorizzati.</p><p>Il Domaine Tempier, la tenuta della famiglia Peyraud a Le Plan du Castellet, produce questo bianco in piccole quantità con uve delle sue terrazze calcaree. La vinificazione mira a conservare la freschezza data dalla vicinanza del mare e dalle sue brezze, contro il caldo dell’estate provenzale.</p><p>È un bianco secco, di medio corpo, con note di agrumi, frutta bianca, fiori ed erbe, e un finale leggermente salino. Si gusta nei primi anni, soprattutto con la cucina di pesce e frutti di mare della costa.</p>"
+  },
+  "tasting": {
+    "es": "Aromas de limón, pera, flores blancas e hinojo. Boca fresca, de cuerpo medio y final salino.",
+    "en": "Aromas of lemon, pear, white flowers and fennel. Fresh, medium-bodied palate with a saline finish.",
+    "fr": "Arômes de citron, de poire, de fleurs blanches et de fenouil. Bouche fraîche, de corps moyen, à la finale saline.",
+    "it": "Aromi di limone, pera, fiori bianchi e finocchio. Bocca fresca, di medio corpo, con finale salino."
+  },
+  "pairing": {
+    "es": "Pescados a la sal, marisco, bullabesa, quesos de cabra",
+    "en": "Salt-baked fish, shellfish, bouillabaisse, goat’s cheeses",
+    "fr": "Poissons en croûte de sel, fruits de mer, bouillabaisse, fromages de chèvre",
+    "it": "Pesce al sale, frutti di mare, bouillabaisse, formaggi di capra"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de vino blanco",
+    "en": "10-12 °C, white wine glass",
+    "fr": "10-12 °C, verre à vin blanc",
+    "it": "10-12 °C, calice da vino bianco"
+  },
+  "search": "Domaine Tempier blanc Bandol"
+}

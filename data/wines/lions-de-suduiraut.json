@@ -1,0 +1,49 @@
+{
+  "slug": "lions-de-suduiraut",
+  "name": "Lions de Suduiraut",
+  "winery": "chateau-suduiraut",
+  "region": "sauternes",
+  "country": "francia",
+  "type": "dulce",
+  "category": {
+    "es": "Segundo vino",
+    "en": "Second wine",
+    "fr": "Second vin",
+    "it": "Secondo vino"
+  },
+  "grapes": [
+    "semillon",
+    "sauvignon-blanc"
+  ],
+  "summary": {
+    "es": "Segundo vino dulce de Château Suduiraut, un Sauternes más accesible en su juventud que el gran vino de la propiedad.",
+    "en": "Second sweet wine of Château Suduiraut, a Sauternes more approachable in its youth than the estate’s grand vin.",
+    "fr": "Second vin liquoreux de Château Suduiraut, un Sauternes plus accessible dans sa jeunesse que le grand vin de la propriété.",
+    "it": "Secondo vino dolce di Château Suduiraut, un Sauternes più accessibile in gioventù rispetto al grand vin della tenuta."
+  },
+  "body": {
+    "es": "<p><strong>Lions de Suduiraut</strong> es el segundo vino dulce de Château Suduiraut, premier cru classé de Sauternes situado en Preignac. Se elabora con uvas del mismo viñedo, en particular de parcelas más jóvenes o de lotes que no se seleccionan para el gran vino, y con los mismos principios: Sémillon como variedad principal, completada con Sauvignon Blanc, y vendimia manual en varias pasadas para recoger las uvas afectadas por la podredumbre noble.</p><p>La crianza es más corta que la del gran vino y el estilo busca resaltar la fruta y la frescura. Su nombre hace referencia a los leones que aparecen en el escudo de la propiedad.</p><p>Es un Sauternes de dulzor generoso pero ágil, con aromas de fruta amarilla y cítricos confitados, pensado para disfrutarse en sus primeros años, aunque puede guardarse un tiempo en botella. Resulta una buena introducción al estilo de la casa.</p>",
+    "en": "<p><strong>Lions de Suduiraut</strong> is the second sweet wine of Château Suduiraut, a Sauternes first growth in Preignac. It is made from grapes from the same vineyard, particularly younger plots or lots not selected for the grand vin, and on the same principles: Sémillon as the main variety, completed by Sauvignon Blanc, and hand harvesting in several passes to pick grapes affected by noble rot.</p><p>Ageing is shorter than for the grand vin and the style aims to highlight fruit and freshness. Its name refers to the lions on the estate’s coat of arms.</p><p>It is a Sauternes of generous yet lively sweetness, with aromas of yellow fruit and candied citrus, intended to be enjoyed in its first few years, though it can be kept for a while in bottle. It is a good introduction to the house style.</p>",
+    "fr": "<p><strong>Lions de Suduiraut</strong> est le second vin liquoreux de Château Suduiraut, premier cru classé de Sauternes situé à Preignac. Il est élaboré avec des raisins du même vignoble, notamment de parcelles plus jeunes ou de lots non retenus pour le grand vin, selon les mêmes principes : sémillon comme cépage principal, complété par le sauvignon blanc, et vendange manuelle en plusieurs tries pour cueillir les raisins touchés par la pourriture noble.</p><p>L’élevage est plus court que celui du grand vin et le style cherche à mettre en valeur le fruit et la fraîcheur. Son nom évoque les lions qui figurent sur les armoiries de la propriété.</p><p>C’est un Sauternes à la douceur généreuse mais vive, aux arômes de fruits jaunes et d’agrumes confits, à apprécier dans ses premières années, même s’il peut se garder un temps en bouteille. C’est une bonne introduction au style de la maison.</p>",
+    "it": "<p><strong>Lions de Suduiraut</strong> è il secondo vino dolce di Château Suduiraut, premier cru classé di Sauternes situato a Preignac. È prodotto con uve dello stesso vigneto, in particolare di parcelle più giovani o di partite non selezionate per il grand vin, e con gli stessi principi: Sémillon come varietà principale, completato dal Sauvignon Blanc, e vendemmia manuale in più passaggi per raccogliere le uve colpite dalla muffa nobile.</p><p>L’affinamento è più breve di quello del grand vin e lo stile mira a esaltare frutto e freschezza. Il nome richiama i leoni presenti nello stemma della tenuta.</p><p>È un Sauternes dalla dolcezza generosa ma vivace, con aromi di frutta gialla e agrumi canditi, pensato per essere gustato nei primi anni, anche se può essere conservato per un certo tempo in bottiglia. È una buona introduzione allo stile della casa.</p>"
+  },
+  "tasting": {
+    "es": "Melocotón, albaricoque, piña, cítricos confitados y miel. Boca dulce y fresca, de final afrutado.",
+    "en": "Peach, apricot, pineapple, candied citrus and honey. Sweet, fresh palate with a fruity finish.",
+    "fr": "Pêche, abricot, ananas, agrumes confits et miel. Bouche douce et fraîche, finale fruitée.",
+    "it": "Pesca, albicocca, ananas, agrumi canditi e miele. Bocca dolce e fresca, finale fruttato."
+  },
+  "pairing": {
+    "es": "Foie gras, quesos azules como el Roquefort, pato a la naranja, postres de fruta",
+    "en": "Foie gras, blue cheeses such as Roquefort, duck with orange, fruit desserts",
+    "fr": "Foie gras, fromages persillés comme le roquefort, canard à l’orange, desserts aux fruits",
+    "it": "Foie gras, formaggi erborinati come il Roquefort, anatra all’arancia, dessert alla frutta"
+  },
+  "serve": {
+    "es": "8-10 °C, copa pequeña de vino blanco",
+    "en": "8-10 °C, small white wine glass",
+    "fr": "8-10 °C, petit verre à vin blanc",
+    "it": "8-10 °C, piccolo calice da vino bianco"
+  },
+  "search": "Lions de Suduiraut Sauternes"
+}

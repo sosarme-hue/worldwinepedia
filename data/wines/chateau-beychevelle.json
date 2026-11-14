@@ -1,0 +1,51 @@
+{
+  "slug": "chateau-beychevelle",
+  "name": "Château Beychevelle",
+  "winery": "chateau-beychevelle",
+  "region": "saint-julien",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "4.º Gran Cru Clasificado 1855",
+    "en": "Fourth Growth (1855 Classification)",
+    "fr": "4e Grand Cru Classé en 1855",
+    "it": "4° Grand Cru Classé 1855"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "cabernet-franc",
+    "petit-verdot"
+  ],
+  "summary": {
+    "es": "El gran vino de Château Beychevelle, cuarto gran cru clasificado de Saint-Julien, un ensamblaje de Cabernet Sauvignon y Merlot elegante y de larga guarda.",
+    "en": "The grand vin of Château Beychevelle, a Saint-Julien fourth growth, an elegant, long-lived blend of Cabernet Sauvignon and Merlot.",
+    "fr": "Le grand vin du Château Beychevelle, quatrième grand cru classé de Saint-Julien, un assemblage de cabernet sauvignon et de merlot élégant et de longue garde.",
+    "it": "Il grand vin del Château Beychevelle, quarto grand cru classé di Saint-Julien, un assemblaggio di Cabernet Sauvignon e Merlot elegante e longevo."
+  },
+  "body": {
+    "es": "<p>Saint-Julien, entre Pauillac y Margaux, es una de las denominaciones comunales más prestigiosas del Médoc. No tiene primeros grands crus, pero una gran parte de su superficie está ocupada por fincas clasificadas, y sus tintos se asocian a un equilibrio entre la potencia de Pauillac y la finura de Margaux.</p><p>El gran vino de <strong>Château Beychevelle</strong>, cuarto gran cru clasificado en 1855, procede de los viñedos de gravas de la finca, en el sur de la denominación, cerca del estuario de la Gironda. Se elabora con un ensamblaje dominado por la Cabernet Sauvignon y la Merlot, con aportaciones de Cabernet Franc y Petit Verdot según la añada, y se cría en barricas de roble francés.</p><p>Es un tinto de cuerpo medio a pleno, elegante, de taninos finos y fruta negra, con notas de cedro, especias y tabaco que se desarrollan con los años. Necesita tiempo en botella y puede envejecer durante décadas.</p>",
+    "en": "<p>Saint-Julien, between Pauillac and Margaux, is one of the most prestigious communal appellations of the Médoc. It has no first growths, but a large share of its area is occupied by classified estates, and its reds are associated with a balance between the power of Pauillac and the finesse of Margaux.</p><p>The grand vin of <strong>Château Beychevelle</strong>, a fourth growth in the 1855 classification, comes from the estate’s gravel vineyards in the south of the appellation, close to the Gironde estuary. It is a blend dominated by Cabernet Sauvignon and Merlot, with contributions of Cabernet Franc and Petit Verdot depending on the vintage, aged in French oak barrels.</p><p>It is an elegant, medium- to full-bodied red with fine tannins and black fruit, with notes of cedar, spice and tobacco that develop over the years. It needs time in bottle and can age for decades.</p>",
+    "fr": "<p>Saint-Julien, entre Pauillac et Margaux, est l’une des appellations communales les plus prestigieuses du Médoc. Elle ne compte pas de premier grand cru, mais une grande part de sa surface est occupée par des crus classés, et ses rouges sont associés à un équilibre entre la puissance de Pauillac et la finesse de Margaux.</p><p>Le grand vin du <strong>Château Beychevelle</strong>, quatrième grand cru classé en 1855, provient des vignes de graves de la propriété, au sud de l’appellation, près de l’estuaire de la Gironde. Il est issu d’un assemblage dominé par le cabernet sauvignon et le merlot, avec des apports de cabernet franc et de petit verdot selon le millésime, et élevé en barriques de chêne français.</p><p>C’est un rouge de corps moyen à ample, élégant, aux tanins fins et aux fruits noirs, avec des notes de cèdre, d’épices et de tabac qui se développent avec les années. Il demande du temps en bouteille et peut vieillir plusieurs décennies.</p>",
+    "it": "<p>Saint-Julien, tra Pauillac e Margaux, è una delle denominazioni comunali più prestigiose del Médoc. Non ha premiers grands crus, ma gran parte della sua superficie è occupata da tenute classificate, e i suoi rossi sono associati a un equilibrio tra la potenza di Pauillac e la finezza di Margaux.</p><p>Il grand vin del <strong>Château Beychevelle</strong>, quarto grand cru classé nel 1855, proviene dai vigneti su ghiaia della tenuta, nel sud della denominazione, vicino all’estuario della Gironda. È un assemblaggio dominato da Cabernet Sauvignon e Merlot, con apporti di Cabernet Franc e Petit Verdot secondo l’annata, affinato in barrique di rovere francese.</p><p>È un rosso di corpo medio-pieno, elegante, dai tannini fini e dal frutto nero, con note di cedro, spezie e tabacco che si sviluppano con gli anni. Ha bisogno di tempo in bottiglia e può invecchiare per decenni.</p>"
+  },
+  "tasting": {
+    "es": "Rubí oscuro. Aromas de grosella negra, cereza negra, cedro, especias y tabaco. Boca elegante y armoniosa, de taninos finos y final largo.",
+    "en": "Dark ruby. Aromas of blackcurrant, black cherry, cedar, spice and tobacco. Elegant, harmonious palate with fine tannins and a long finish.",
+    "fr": "Rubis sombre. Arômes de cassis, de cerise noire, de cèdre, d’épices et de tabac. Bouche élégante et harmonieuse, aux tanins fins et à la finale longue.",
+    "it": "Rubino scuro. Aromi di ribes nero, ciliegia nera, cedro, spezie e tabacco. Bocca elegante e armoniosa, dai tannini fini e finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero de Pauillac, entrecot a la bordelesa, caza, quesos curados",
+    "en": "Pauillac lamb, entrecôte bordelaise, game, aged cheeses",
+    "fr": "Agneau de Pauillac, entrecôte à la bordelaise, gibier, fromages affinés",
+    "it": "Agnello di Pauillac, entrecôte alla bordolese, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "17-18 °C, copa de tipo burdeos; decantar",
+    "en": "17-18 °C, Bordeaux-style glass; decant",
+    "fr": "17-18 °C, verre de type bordeaux ; carafer",
+    "it": "17-18 °C, calice tipo bordolese; decantare"
+  },
+  "search": "Château Beychevelle Saint-Julien"
+}

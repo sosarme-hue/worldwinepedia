@@ -1,0 +1,51 @@
+{
+  "slug": "chateau-malartic-lagraviere",
+  "name": "Château Malartic-Lagravière",
+  "winery": "chateau-malartic-lagraviere",
+  "region": "pessac-leognan",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Cru Classé de Graves",
+    "en": "Cru Classé de Graves",
+    "fr": "Cru Classé de Graves",
+    "it": "Cru Classé de Graves"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "cabernet-franc",
+    "petit-verdot"
+  ],
+  "summary": {
+    "es": "Tinto de Château Malartic-Lagravière, cru classé de Graves en Pessac-Léognan, ensamblaje dominado por la Cabernet Sauvignon y la Merlot.",
+    "en": "Red from Château Malartic-Lagravière, a Graves classified growth in Pessac-Léognan, a blend led by Cabernet Sauvignon and Merlot.",
+    "fr": "Rouge de Château Malartic-Lagravière, cru classé de Graves en Pessac-Léognan, assemblage dominé par le cabernet-sauvignon et le merlot.",
+    "it": "Rosso di Château Malartic-Lagravière, cru classé di Graves a Pessac-Léognan, uvaggio dominato da Cabernet Sauvignon e Merlot."
+  },
+  "body": {
+    "es": "<p>El tinto de <strong>Château Malartic-Lagravière</strong> procede del viñedo que la propiedad tiene en Léognan, sobre suelos de gravas profundas, arenas y arcillas característicos de la denominación Pessac-Léognan. Está clasificado como cru classé de Graves y se basa en <strong>Cabernet Sauvignon</strong> y Merlot, completados con Cabernet Franc y Petit Verdot en proporciones que varían según la añada.</p><p>Desde la llegada de la familia Bonnie en 1997, la finca vinifica cada parcela por separado en una bodega diseñada para trabajar por gravedad, y cría el vino en barricas de roble francés durante un periodo prolongado antes del embotellado.</p><p>El resultado es un tinto de perfil clásico de Graves, con fruta negra, notas ahumadas y minerales propias de sus suelos de grava, taninos finos y una estructura que le permite evolucionar durante muchos años en botella. Conviene decantarlo en su juventud.</p>",
+    "en": "<p>The red of <strong>Château Malartic-Lagravière</strong> comes from the estate’s vineyard in Léognan, on the deep gravel, sand and clay soils typical of the Pessac-Léognan appellation. It is classified as a Graves cru classé and is based on <strong>Cabernet Sauvignon</strong> and Merlot, completed by Cabernet Franc and Petit Verdot in proportions that vary with the vintage.</p><p>Since the arrival of the Bonnie family in 1997, the estate has vinified each plot separately in a winery designed for gravity-fed work, and ages the wine in French oak barrels for an extended period before bottling.</p><p>The result is a red in classic Graves style, with black fruit, the smoky and mineral notes of its gravel soils, fine tannins and a structure that allows it to develop for many years in bottle. It is best decanted when young.</p>",
+    "fr": "<p>Le rouge de <strong>Château Malartic-Lagravière</strong> provient du vignoble de la propriété à Léognan, sur les sols de graves profondes, de sables et d’argiles caractéristiques de l’appellation Pessac-Léognan. Classé cru classé de Graves, il repose sur le <strong>cabernet-sauvignon</strong> et le merlot, complétés de cabernet franc et de petit verdot dans des proportions qui varient selon le millésime.</p><p>Depuis l’arrivée de la famille Bonnie en 1997, le domaine vinifie chaque parcelle séparément dans un chai conçu pour travailler par gravité, et élève le vin en barriques de chêne français pendant une période prolongée avant la mise en bouteille.</p><p>Le résultat est un rouge au profil classique des Graves, aux fruits noirs, aux notes fumées et minérales propres à ses sols de graves, aux tanins fins et à la structure qui lui permet d’évoluer de nombreuses années en bouteille. Il gagne à être carafé dans sa jeunesse.</p>",
+    "it": "<p>Il rosso di <strong>Château Malartic-Lagravière</strong> proviene dal vigneto della tenuta a Léognan, sui suoli di ghiaie profonde, sabbie e argille tipici della denominazione Pessac-Léognan. Classificato cru classé di Graves, si basa su <strong>Cabernet Sauvignon</strong> e Merlot, completati da Cabernet Franc e Petit Verdot in proporzioni che variano secondo l’annata.</p><p>Dall’arrivo della famiglia Bonnie nel 1997, la tenuta vinifica ogni parcella separatamente in una cantina progettata per lavorare per gravità, e affina il vino in barrique di rovere francese per un periodo prolungato prima dell’imbottigliamento.</p><p>Il risultato è un rosso dal profilo classico delle Graves, con frutto nero, note affumicate e minerali tipiche dei suoli ghiaiosi, tannini fini e una struttura che gli consente di evolvere per molti anni in bottiglia. Conviene decantarlo da giovane.</p>"
+  },
+  "tasting": {
+    "es": "Grosella negra, cereza, cedro, tabaco y notas ahumadas de grafito. Boca firme y elegante, de taninos finos y final largo.",
+    "en": "Blackcurrant, cherry, cedar, tobacco and smoky graphite notes. Firm, elegant palate with fine tannins and a long finish.",
+    "fr": "Cassis, cerise, cèdre, tabac et notes fumées de graphite. Bouche ferme et élégante, tanins fins et finale longue.",
+    "it": "Ribes nero, ciliegia, cedro, tabacco e note affumicate di grafite. Bocca decisa ed elegante, tannini fini e finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, entrecot, pato, caza menor, quesos curados",
+    "en": "Roast lamb, rib steak, duck, small game, aged cheeses",
+    "fr": "Agneau rôti, entrecôte, canard, petit gibier, fromages affinés",
+    "it": "Agnello arrosto, entrecôte, anatra, selvaggina minuta, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Château Malartic-Lagravière Pessac-Léognan Rouge"
+}

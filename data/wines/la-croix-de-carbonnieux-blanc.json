@@ -1,0 +1,49 @@
+{
+  "slug": "la-croix-de-carbonnieux-blanc",
+  "name": "La Croix de Carbonnieux Blanc",
+  "winery": "chateau-carbonnieux",
+  "region": "pessac-leognan",
+  "country": "francia",
+  "type": "blanco",
+  "category": {
+    "es": "Segundo vino",
+    "en": "Second wine",
+    "fr": "Second vin",
+    "it": "Secondo vino"
+  },
+  "grapes": [
+    "sauvignon-blanc",
+    "semillon"
+  ],
+  "summary": {
+    "es": "Segundo vino blanco de Château Carbonnieux, un Pessac-Léognan de Sauvignon Blanc y Sémillon, fresco y aromático.",
+    "en": "White second wine of Château Carbonnieux, a Pessac-Léognan from Sauvignon Blanc and Sémillon, fresh and aromatic.",
+    "fr": "Second vin blanc du Château Carbonnieux, un Pessac-Léognan de sauvignon blanc et sémillon, frais et aromatique.",
+    "it": "Secondo vino bianco di Château Carbonnieux, un Pessac-Léognan da Sauvignon Blanc e Sémillon, fresco e aromatico."
+  },
+  "body": {
+    "es": "<p>La Croix de Carbonnieux Blanc es el segundo vino blanco de Château Carbonnieux, la finca de Léognan cuyo blanco figura entre los <em>crus classés</em> de Graves. Procede de parcelas más jóvenes y de lotes que no se destinan al vino principal.</p><p>Pessac-Léognan, creada en 1987 en la parte norte de Graves, en las afueras de Burdeos, es una de las pocas denominaciones bordelesas reconocidas tanto por sus tintos como por sus blancos secos. Sus suelos de grava favorecen el drenaje y la maduración de la uva.</p><p>Se elabora con <strong>Sauvignon Blanc</strong> y <strong>Sémillon</strong>, con un uso de la madera más discreto que en el grand vin, para preservar la fruta y la frescura. Es un blanco seco, aromático y vivo, con notas cítricas y florales, pensado para beberse en sus primeros años y muy versátil en la mesa.</p>",
+    "en": "<p>La Croix de Carbonnieux Blanc is the white second wine of Château Carbonnieux, the Léognan estate whose white is one of the Graves <em>crus classés</em>. It comes from younger plots and from lots not used for the main wine.</p><p>Pessac-Léognan, created in 1987 in the northern part of Graves on the outskirts of Bordeaux, is one of the few Bordeaux appellations renowned for both its reds and its dry whites. Its gravel soils favour drainage and ripening.</p><p>It is made from <strong>Sauvignon Blanc</strong> and <strong>Sémillon</strong>, with more discreet use of oak than in the grand vin, to preserve fruit and freshness. It is a dry, aromatic and lively white with citrus and floral notes, meant to be drunk in its first years and very versatile with food.</p>",
+    "fr": "<p>La Croix de Carbonnieux Blanc est le second vin blanc du Château Carbonnieux, le domaine de Léognan dont le blanc figure parmi les <em>crus classés</em> de Graves. Il provient de parcelles plus jeunes et de lots non destinés au vin principal.</p><p>Pessac-Léognan, créée en 1987 dans la partie nord des Graves, aux portes de Bordeaux, est l’une des rares appellations bordelaises réputées à la fois pour leurs rouges et leurs blancs secs. Ses sols de graves favorisent le drainage et la maturation du raisin.</p><p>Il est élaboré à partir de <strong>sauvignon blanc</strong> et de <strong>sémillon</strong>, avec un usage du bois plus discret que pour le grand vin, afin de préserver le fruit et la fraîcheur. C’est un blanc sec, aromatique et vif, aux notes d’agrumes et de fleurs, à boire dans ses premières années et très polyvalent à table.</p>",
+    "it": "<p>La Croix de Carbonnieux Blanc è il secondo vino bianco di Château Carbonnieux, la tenuta di Léognan il cui bianco figura tra i <em>crus classés</em> delle Graves. Proviene da parcelle più giovani e da lotti non destinati al vino principale.</p><p>Pessac-Léognan, creata nel 1987 nella parte settentrionale delle Graves, alle porte di Bordeaux, è una delle poche denominazioni bordolesi rinomate sia per i rossi sia per i bianchi secchi. I suoi suoli ghiaiosi favoriscono il drenaggio e la maturazione dell’uva.</p><p>È prodotto con <strong>Sauvignon Blanc</strong> e <strong>Sémillon</strong>, con un uso del legno più discreto rispetto al grand vin, per preservare frutto e freschezza. È un bianco secco, aromatico e vivace, con note agrumate e floreali, da bere nei primi anni e molto versatile a tavola.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido. Aromas de cítricos, fruta blanca y flores. Boca fresca y viva, de final limpio.",
+    "en": "Pale yellow. Aromas of citrus, white fruit and flowers. Fresh, lively palate with a clean finish.",
+    "fr": "Jaune pâle. Arômes d’agrumes, de fruits blancs et de fleurs. Bouche fraîche et vive, finale nette.",
+    "it": "Giallo pallido. Aromi di agrumi, frutta bianca e fiori. Bocca fresca e vivace, finale pulito."
+  },
+  "pairing": {
+    "es": "Pescados en salsa, marisco, aves, espárragos",
+    "en": "Fish in sauce, shellfish, poultry, asparagus",
+    "fr": "Poissons en sauce, fruits de mer, volailles, asperges",
+    "it": "Pesce in salsa, frutti di mare, pollame, asparagi"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de vino blanco",
+    "en": "10-12 °C, white wine glass",
+    "fr": "10-12 °C, verre à vin blanc",
+    "it": "10-12 °C, calice da vino bianco"
+  },
+  "search": "La Croix de Carbonnieux Blanc"
+}

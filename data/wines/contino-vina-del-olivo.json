@@ -1,0 +1,44 @@
+{
+  "slug": "contino-vina-del-olivo",
+  "name": "Contino Viña del Olivo",
+  "winery": "contino",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tempranillo",
+    "graciano"
+  ],
+  "summary": {
+    "es": "Tinto de parcela de Viñedos del Contino, procedente del viñedo en torno al viejo olivo que da nombre al vino.",
+    "en": "Single-plot red from Viñedos del Contino, from the vineyard around the old olive tree that gives the wine its name.",
+    "fr": "Rouge parcellaire de Viñedos del Contino, issu de la vigne entourant le vieil olivier qui donne son nom au vin.",
+    "it": "Rosso di parcella di Viñedos del Contino, proveniente dal vigneto attorno al vecchio olivo che dà il nome al vino."
+  },
+  "body": {
+    "es": "<p>Viña del Olivo es el vino de parcela más conocido de Viñedos del Contino, la finca de Laserna, en la Rioja Alavesa, vinculada a CVNE. Su nombre procede de un viejo olivo que se alza en medio del viñedo y que se ha convertido en símbolo de la casa.</p><p>Se elabora con uva de esa parcela concreta, con predominio del <strong>Tempranillo</strong> y una aportación de <strong>Graciano</strong>, variedad en la que Contino fue pionera. Los suelos de cantos rodados, arcilla y caliza, y la proximidad del Ebro, que modera las temperaturas, dan uvas maduras y con buena acidez. La crianza se realiza en barrica.</p><p>Es un tinto de estilo más moderno y concentrado que el Reserva de la casa, con fruta negra madura, notas especiadas y taninos firmes. Tiene buena capacidad de guarda y conviene decantarlo si se abre joven.</p>",
+    "en": "<p>Viña del Olivo is the best-known single-plot wine of Viñedos del Contino, the Laserna estate in Rioja Alavesa linked to CVNE. Its name comes from an old olive tree standing in the middle of the vineyard, which has become a symbol of the house.</p><p>It is made from grapes from that specific plot, mainly <strong>Tempranillo</strong> with a contribution of <strong>Graciano</strong>, a variety Contino pioneered. The soils of rounded pebbles, clay and limestone, and the proximity of the Ebro, which moderates temperatures, give ripe grapes with good acidity. Ageing takes place in barrel.</p><p>It is a more modern, concentrated red than the house Reserva, with ripe black fruit, spicy notes and firm tannins. It has good ageing potential and is best decanted if opened young.</p>",
+    "fr": "<p>Viña del Olivo est le vin parcellaire le plus connu de Viñedos del Contino, le domaine de Laserna, en Rioja Alavesa, lié à CVNE. Son nom vient d'un vieil olivier qui se dresse au milieu de la vigne et qui est devenu un symbole de la maison.</p><p>Il est élaboré avec les raisins de cette parcelle précise, à dominante de <strong>tempranillo</strong> avec un apport de <strong>graciano</strong>, cépage dont Contino fut pionnier. Les sols de galets roulés, d'argile et de calcaire, et la proximité de l'Èbre, qui modère les températures, donnent des raisins mûrs et d'une bonne acidité. L'élevage se fait en barrique.</p><p>C'est un rouge de style plus moderne et plus concentré que le Reserva de la maison, aux fruits noirs mûrs, aux notes épicées et aux tanins fermes. Il possède un bon potentiel de garde et mérite d'être carafé s'il est ouvert jeune.</p>",
+    "it": "<p>Viña del Olivo è il vino di parcella più noto di Viñedos del Contino, la tenuta di Laserna, nella Rioja Alavesa, legata a CVNE. Il nome deriva da un vecchio olivo che si erge in mezzo al vigneto ed è diventato un simbolo della casa.</p><p>È prodotto con le uve di quella parcella, con prevalenza di <strong>Tempranillo</strong> e un apporto di <strong>Graciano</strong>, varietà di cui Contino è stata pioniera. I suoli di ciottoli, argilla e calcare, e la vicinanza dell'Ebro, che modera le temperature, danno uve mature e di buona acidità. L'affinamento avviene in barrique.</p><p>È un rosso di stile più moderno e concentrato rispetto al Reserva della casa, con frutta nera matura, note speziate e tannini decisi. Ha un buon potenziale d'invecchiamento e conviene decantarlo se aperto giovane.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota muy intenso. Aromas de mora, ciruela, especias, regaliz y tostados. Boca concentrada, de taninos firmes y final largo.",
+    "en": "Very deep cherry red. Aromas of blackberry, plum, spice, liquorice and toast. Concentrated palate with firm tannins and a long finish.",
+    "fr": "Rouge cerise très intense. Arômes de mûre, de prune, d'épices, de réglisse et de toasté. Bouche concentrée, aux tanins fermes et à la finale longue.",
+    "it": "Rosso ciliegia molto intenso. Aromi di mora, prugna, spezie, liquirizia e tostature. Bocca concentrata, dai tannini decisi e dal finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, caza, carnes rojas, quesos curados",
+    "en": "Roast lamb, game, red meats, aged cheeses",
+    "fr": "Agneau rôti, gibier, viandes rouges, fromages affinés",
+    "it": "Agnello arrosto, selvaggina, carni rosse, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Contino Viña del Olivo Rioja"
+}

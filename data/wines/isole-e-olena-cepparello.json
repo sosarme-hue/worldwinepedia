@@ -1,0 +1,48 @@
+{
+  "slug": "isole-e-olena-cepparello",
+  "name": "Cepparello",
+  "winery": "isole-e-olena",
+  "region": "toscana",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "Toscana IGT",
+    "en": "Toscana IGT",
+    "fr": "Toscana IGT",
+    "it": "Toscana IGT"
+  },
+  "grapes": [
+    "sangiovese"
+  ],
+  "summary": {
+    "es": "Sangiovese puro de Isole e Olena creado en 1980 por Paolo De Marchi, uno de los tintos de referencia de la Toscana.",
+    "en": "Pure Sangiovese from Isole e Olena created in 1980 by Paolo De Marchi, one of Tuscany’s benchmark reds.",
+    "fr": "Sangiovese pur d’Isole e Olena créé en 1980 par Paolo De Marchi, l’un des rouges de référence de la Toscane.",
+    "it": "Sangiovese in purezza di Isole e Olena creato nel 1980 da Paolo De Marchi, uno dei rossi di riferimento della Toscana."
+  },
+  "body": {
+    "es": "<p><strong>Cepparello</strong> es el vino más conocido de Isole e Olena, en el Chianti Classico. Paolo De Marchi lo elaboró por primera vez con la cosecha de 1980 con un objetivo claro: demostrar el potencial de la <strong>Sangiovese</strong> sola, en una época en que la normativa del Chianti obligaba a incluir otras variedades, también blancas. Por ello salió como vino de mesa y hoy se ampara en la indicación <strong>Toscana IGT</strong>. Su nombre procede del de un arroyo cercano a la finca.</p><p>Se elabora exclusivamente con Sangiovese de las mejores parcelas de la finca, en laderas de altitud sobre suelos de galestro y alberese. Tras la fermentación, el vino se cría en barricas de roble francés durante un periodo prolongado antes de embotellarse.</p><p>Es un tinto de gran finura, con cereza, violeta, especias y notas terrosas, acidez viva y taninos firmes pero elegantes. Tiene una notable capacidad de guarda.</p>",
+    "en": "<p><strong>Cepparello</strong> is the best-known wine from Isole e Olena, in Chianti Classico. Paolo De Marchi first made it with the 1980 vintage with a clear aim: to show the potential of <strong>Sangiovese</strong> on its own, at a time when the Chianti rules required other varieties to be included, white ones among them. It was therefore released as a table wine and is now classified as <strong>Toscana IGT</strong>. Its name comes from a stream near the estate.</p><p>It is made exclusively from Sangiovese from the estate’s best plots, on high slopes with galestro and alberese soils. After fermentation, the wine is aged in French oak barrels for an extended period before bottling.</p><p>It is a red of great finesse, with cherry, violet, spice and earthy notes, lively acidity and firm but elegant tannins. It has remarkable ageing potential.</p>",
+    "fr": "<p><strong>Cepparello</strong> est le vin le plus connu d’Isole e Olena, dans le Chianti Classico. Paolo De Marchi l’a élaboré pour la première fois avec le millésime 1980 dans un but précis : montrer le potentiel du <strong>sangiovese</strong> seul, à une époque où les règles du chianti imposaient l’ajout d’autres cépages, y compris blancs. Il a donc été commercialisé comme vin de table et relève aujourd’hui de l’<strong>IGT Toscana</strong>. Son nom vient d’un ruisseau proche du domaine.</p><p>Il est élaboré exclusivement avec du sangiovese issu des meilleures parcelles du domaine, sur des coteaux d’altitude aux sols de galestro et d’alberese. Après la fermentation, le vin est élevé en barriques de chêne français pendant une longue période avant la mise en bouteille.</p><p>C’est un rouge d’une grande finesse, aux notes de cerise, de violette, d’épices et de terre, à l’acidité vive et aux tanins fermes mais élégants. Il possède un remarquable potentiel de garde.</p>",
+    "it": "<p><strong>Cepparello</strong> è il vino più noto di Isole e Olena, nel Chianti Classico. Paolo De Marchi lo produsse per la prima volta con la vendemmia 1980 con un obiettivo chiaro: dimostrare il potenziale del <strong>Sangiovese</strong> da solo, in un’epoca in cui il disciplinare del Chianti imponeva di includere altre varietà, anche bianche. Per questo uscì come vino da tavola e oggi rientra nell’<strong>IGT Toscana</strong>. Il nome deriva da un torrente vicino alla tenuta.</p><p>È prodotto esclusivamente con Sangiovese delle migliori parcelle della tenuta, su pendii d’altura con suoli di galestro e alberese. Dopo la fermentazione, il vino affina in barrique di rovere francese per un periodo prolungato prima dell’imbottigliamento.</p><p>È un rosso di grande finezza, con ciliegia, violetta, spezie e note terrose, acidità vivace e tannini decisi ma eleganti. Ha un notevole potenziale di invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Cereza, violeta, especias, cuero y notas terrosas. Boca elegante, acidez viva, taninos firmes y final largo.",
+    "en": "Cherry, violet, spice, leather and earthy notes. Elegant palate, lively acidity, firm tannins and a long finish.",
+    "fr": "Cerise, violette, épices, cuir et notes terreuses. Bouche élégante, acidité vive, tanins fermes et finale longue.",
+    "it": "Ciliegia, violetta, spezie, cuoio e note terrose. Bocca elegante, acidità vivace, tannini decisi e finale lungo."
+  },
+  "pairing": {
+    "es": "Bistecca alla fiorentina, cordero, caza, setas, pecorino curado",
+    "en": "Bistecca alla fiorentina, lamb, game, mushrooms, aged pecorino",
+    "fr": "Bistecca alla fiorentina, agneau, gibier, champignons, pecorino affiné",
+    "it": "Bistecca alla fiorentina, agnello, selvaggina, funghi, pecorino stagionato"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Cepparello Isole e Olena"
+}

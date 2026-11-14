@@ -1,0 +1,48 @@
+{
+  "slug": "laroche-petit-chablis",
+  "name": "Laroche Petit Chablis",
+  "winery": "domaine-laroche",
+  "region": "chablis",
+  "country": "francia",
+  "type": "blanco",
+  "category": {
+    "es": "Petit Chablis",
+    "en": "Petit Chablis",
+    "fr": "Petit Chablis",
+    "it": "Petit Chablis"
+  },
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Petit Chablis de Domaine Laroche, Chardonnay fresco y ligero de las mesetas que rodean Chablis.",
+    "en": "Petit Chablis from Domaine Laroche, a fresh, light Chardonnay from the plateaus around Chablis.",
+    "fr": "Petit-chablis du Domaine Laroche, chardonnay frais et léger des plateaux qui entourent Chablis.",
+    "it": "Petit Chablis di Domaine Laroche, Chardonnay fresco e leggero degli altopiani intorno a Chablis."
+  },
+  "body": {
+    "es": "<p>El <strong>Petit Chablis</strong> es la denominación de base del viñedo de Chablis. Sus viñedos se sitúan sobre todo en las mesetas y en las partes altas de las laderas, sobre suelos calizos del periodo Portlandiense, algo diferentes de las margas kimmeridgienses que caracterizan a los Chablis y a los <em>crus</em>. Dan vinos de cuerpo más ligero, frescos y directos, pensados para beberse jóvenes.</p><p>Domaine Laroche, casa de Chablis con orígenes a mediados del siglo XIX y sede en la Obédiencerie, incluye este vino como primer escalón de su gama. Se elabora con <strong>Chardonnay</strong>, fermentada y criada en depósito de acero inoxidable para conservar la fruta y la acidez.</p><p>Es un blanco ligero, vivo y aromático, con cítricos, manzana verde y un toque floral, de final fresco y limpio. Resulta un buen aperitivo y acompaña con facilidad platos sencillos de pescado y marisco.</p>",
+    "en": "<p><strong>Petit Chablis</strong> is the entry-level appellation of the Chablis vineyard. Its vineyards lie mainly on the plateaus and the upper parts of the slopes, on Portlandian limestone soils, somewhat different from the Kimmeridgian marls that characterise Chablis and its <em>crus</em>. They produce lighter-bodied, fresh and direct wines intended to be drunk young.</p><p>Domaine Laroche, a Chablis house with origins in the mid-19th century and based in the Obédiencerie, includes this wine as the first step in its range. It is made from <strong>Chardonnay</strong>, fermented and aged in stainless steel tanks to preserve fruit and acidity.</p><p>It is a light, lively and aromatic white with citrus, green apple and a floral touch, and a fresh, clean finish. It makes a good aperitif and pairs easily with simple fish and shellfish dishes.</p>",
+    "fr": "<p>Le <strong>petit-chablis</strong> est l’appellation d’entrée du vignoble de Chablis. Ses vignes se situent surtout sur les plateaux et dans les hauts de coteaux, sur des sols calcaires du Portlandien, assez différents des marnes kimméridgiennes qui caractérisent le chablis et ses <em>crus</em>. Elles donnent des vins plus légers, frais et directs, destinés à être bus jeunes.</p><p>Le Domaine Laroche, maison chablisienne dont les origines remontent au milieu du XIXe siècle et installée à l’Obédiencerie, propose ce vin comme premier échelon de sa gamme. Il est élaboré à partir de <strong>chardonnay</strong>, fermenté et élevé en cuves inox afin de préserver le fruit et l’acidité.</p><p>C’est un blanc léger, vif et aromatique, aux agrumes, à la pomme verte et à la touche florale, à la finale fraîche et nette. Il fait un bon apéritif et s’accorde facilement avec des plats simples de poissons et de fruits de mer.</p>",
+    "it": "<p>Il <strong>Petit Chablis</strong> è la denominazione di base del vigneto di Chablis. I suoi vigneti si trovano soprattutto sugli altopiani e nelle parti alte dei pendii, su suoli calcarei del Portlandiano, piuttosto diversi dalle marne kimmeridgiane che caratterizzano lo Chablis e i suoi <em>crus</em>. Danno vini di corpo più leggero, freschi e diretti, pensati per essere bevuti giovani.</p><p>Domaine Laroche, casa di Chablis con origini a metà dell’Ottocento e sede nell’Obédiencerie, propone questo vino come primo gradino della sua gamma. È prodotto con <strong>Chardonnay</strong>, fermentato e affinato in vasche d’acciaio inox per preservare frutto e acidità.</p><p>È un bianco leggero, vivace e aromatico, con agrumi, mela verde e un tocco floreale, dal finale fresco e pulito. È un buon aperitivo e si abbina facilmente a piatti semplici di pesce e frutti di mare.</p>"
+  },
+  "tasting": {
+    "es": "Limón, manzana verde y flores blancas. Boca ligera, viva y de final fresco.",
+    "en": "Lemon, green apple and white flowers. Light, lively palate with a fresh finish.",
+    "fr": "Citron, pomme verte et fleurs blanches. Bouche légère, vive, à la finale fraîche.",
+    "it": "Limone, mela verde e fiori bianchi. Bocca leggera, vivace e dal finale fresco."
+  },
+  "pairing": {
+    "es": "Ostras, marisco, pescados a la plancha, sushi, quesos de cabra",
+    "en": "Oysters, shellfish, grilled fish, sushi, goat’s cheeses",
+    "fr": "Huîtres, fruits de mer, poissons grillés, sushis, fromages de chèvre",
+    "it": "Ostriche, frutti di mare, pesce alla piastra, sushi, formaggi di capra"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de vino blanco",
+    "en": "10-12 °C, white wine glass",
+    "fr": "10-12 °C, verre à vin blanc",
+    "it": "10-12 °C, calice da vino bianco"
+  },
+  "search": "Petit Chablis Domaine Laroche"
+}

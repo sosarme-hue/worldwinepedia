@@ -1,0 +1,50 @@
+{
+  "slug": "aromes-de-pavie",
+  "name": "Arômes de Pavie",
+  "winery": "chateau-pavie",
+  "region": "saint-emilion",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Segundo vino",
+    "en": "Second wine",
+    "fr": "Second vin",
+    "it": "Secondo vino"
+  },
+  "grapes": [
+    "merlot",
+    "cabernet-franc",
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "Segundo vino de Château Pavie, en Saint-Émilion, de estilo más accesible que el gran vino.",
+    "en": "Second wine of Château Pavie in Saint-Émilion, more approachable in style than the grand vin.",
+    "fr": "Second vin de Château Pavie, à Saint-Émilion, au style plus accessible que le grand vin.",
+    "it": "Secondo vino di Château Pavie, a Saint-Émilion, di stile più accessibile del grand vin."
+  },
+  "body": {
+    "es": "<p><strong>Arômes de Pavie</strong> es el segundo vino de Château Pavie, la finca de las laderas al sudeste de Saint-Émilion clasificada como Premier Grand Cru Classé A. Como en otros grandes châteaux de Burdeos, el segundo vino reúne lotes que no se incorporan al gran vino, a menudo procedentes de viñas más jóvenes o de parcelas de perfil más inmediato.</p><p>Se elabora con las mismas variedades que el gran vino, principalmente <strong>Merlot</strong> con <strong>Cabernet Franc</strong> y algo de <strong>Cabernet Sauvignon</strong>, y comparte el enfoque de la casa desde la llegada de Gérard Perse en 1998: uva madura, selección cuidadosa y crianza en barricas de roble francés, aunque más breve que la del gran vino.</p><p>Es un tinto generoso y afrutado, con fruta negra madura, notas especiadas y tostadas y taninos más suaves que los de Château Pavie. Se puede disfrutar antes, aunque tiene buena capacidad de guarda.</p>",
+    "en": "<p><strong>Arômes de Pavie</strong> is the second wine of Château Pavie, the estate on the slopes south-east of Saint-Émilion classified as Premier Grand Cru Classé A. As at other great Bordeaux châteaux, the second wine brings together lots not included in the grand vin, often from younger vines or from plots with a more immediate profile.</p><p>It is made from the same varieties as the grand vin, mainly <strong>Merlot</strong> with <strong>Cabernet Franc</strong> and some <strong>Cabernet Sauvignon</strong>, and shares the house approach since Gérard Perse’s arrival in 1998: ripe grapes, careful selection and ageing in French oak barrels, though shorter than for the grand vin.</p><p>It is a generous, fruity red with ripe black fruit, spicy and toasty notes and softer tannins than Château Pavie. It can be enjoyed earlier, although it has good ageing potential.</p>",
+    "fr": "<p><strong>Arômes de Pavie</strong> est le second vin de Château Pavie, le domaine des coteaux au sud-est de Saint-Émilion classé premier grand cru classé A. Comme dans d’autres grands châteaux bordelais, le second vin rassemble des lots non retenus pour le grand vin, souvent issus de vignes plus jeunes ou de parcelles au profil plus immédiat.</p><p>Il est élaboré avec les mêmes cépages que le grand vin, principalement le <strong>merlot</strong> avec le <strong>cabernet franc</strong> et un peu de <strong>cabernet-sauvignon</strong>, et partage l’approche de la maison depuis l’arrivée de Gérard Perse en 1998 : raisins mûrs, sélection soignée et élevage en barriques de chêne français, plus court toutefois que celui du grand vin.</p><p>C’est un rouge généreux et fruité, aux fruits noirs mûrs, aux notes épicées et grillées et aux tanins plus souples que ceux de Château Pavie. Il se boit plus tôt, mais possède un bon potentiel de garde.</p>",
+    "it": "<p><strong>Arômes de Pavie</strong> è il secondo vino di Château Pavie, la tenuta sui pendii a sud-est di Saint-Émilion classificata Premier Grand Cru Classé A. Come in altri grandi château di Bordeaux, il secondo vino riunisce partite non incluse nel grand vin, spesso provenienti da vigne più giovani o da parcelle dal profilo più immediato.</p><p>È prodotto con le stesse varietà del grand vin, soprattutto <strong>Merlot</strong> con <strong>Cabernet Franc</strong> e un po’ di <strong>Cabernet Sauvignon</strong>, e condivide l’impostazione della casa dall’arrivo di Gérard Perse nel 1998: uva matura, selezione accurata e affinamento in barrique di rovere francese, anche se più breve di quello del grand vin.</p><p>È un rosso generoso e fruttato, con frutto nero maturo, note speziate e tostate e tannini più morbidi di quelli di Château Pavie. Si può gustare prima, pur avendo una buona capacità di invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Ciruela, mora, especias y notas tostadas. Boca generosa, taninos suaves y final persistente.",
+    "en": "Plum, blackberry, spice and toasty notes. Generous palate, soft tannins and a persistent finish.",
+    "fr": "Prune, mûre, épices et notes grillées. Bouche généreuse, tanins souples et finale persistante.",
+    "it": "Prugna, mora, spezie e note tostate. Bocca generosa, tannini morbidi e finale persistente."
+  },
+  "pairing": {
+    "es": "Cordero asado, solomillo, caza, setas, quesos curados",
+    "en": "Roast lamb, beef fillet, game, mushrooms, aged cheeses",
+    "fr": "Agneau rôti, filet de bœuf, gibier, champignons, fromages affinés",
+    "it": "Agnello arrosto, filetto di manzo, selvaggina, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Arômes de Pavie Saint-Émilion"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "chateau-dauzac",
+  "name": "Château Dauzac",
+  "winery": "chateau-dauzac",
+  "region": "margaux",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "5º Gran Cru Clasificado",
+    "en": "5th Classified Growth",
+    "fr": "5e Grand Cru Classé",
+    "it": "5° Grand Cru Classé"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Gran vino de Château Dauzac, quinto cru clasificado de 1855 en la denominación Margaux, a base de Cabernet Sauvignon y Merlot.",
+    "en": "The grand vin of Château Dauzac, a fifth growth of 1855 in the Margaux appellation, based on Cabernet Sauvignon and Merlot.",
+    "fr": "Grand vin du Château Dauzac, cinquième cru classé en 1855 en appellation Margaux, à base de cabernet sauvignon et de merlot.",
+    "it": "Grand vin di Château Dauzac, quinto cru classé del 1855 nella denominazione Margaux, a base di Cabernet Sauvignon e Merlot."
+  },
+  "body": {
+    "es": "<p>El gran vino de <strong>Château Dauzac</strong> procede de las mejores parcelas de la finca, situada en Labarde, en la parte sur de la denominación <strong>Margaux</strong>. Los suelos de gravas profundas, bien drenados, favorecen la maduración del <strong>Cabernet Sauvignon</strong>, que suele ser la variedad dominante del ensamblaje, completada con <strong>Merlot</strong>.</p><p>Las distintas parcelas se vinifican por separado y el ensamblaje se decide tras la fermentación, reservando para el gran vino los lotes más completos. La crianza se realiza en barricas de roble francés, con una parte de madera nueva.</p><p>El vino responde al perfil de Margaux: tinto de estructura firme pero refinada, con taninos finos y una dimensión aromática marcada por la fruta negra y notas florales. Necesita varios años de botella para mostrar su complejidad y puede guardarse durante largo tiempo.</p>",
+    "en": "<p>The grand vin of <strong>Château Dauzac</strong> comes from the best plots of the estate, located in Labarde in the southern part of the <strong>Margaux</strong> appellation. The deep, well-drained gravel soils favour the ripening of <strong>Cabernet Sauvignon</strong>, usually the dominant variety in the blend, completed by <strong>Merlot</strong>.</p><p>The different plots are vinified separately and the blend is decided after fermentation, with the most complete lots reserved for the grand vin. Ageing takes place in French oak barrels, a proportion of them new.</p><p>The wine reflects the Margaux profile: a red of firm yet refined structure, with fine tannins and an aromatic dimension marked by black fruit and floral notes. It needs several years in bottle to show its complexity and can be kept for a long time.</p>",
+    "fr": "<p>Le grand vin du <strong>Château Dauzac</strong> provient des meilleures parcelles du domaine, situé à Labarde, dans la partie sud de l’appellation <strong>Margaux</strong>. Les sols de graves profondes et bien drainées favorisent la maturation du <strong>cabernet sauvignon</strong>, généralement majoritaire dans l’assemblage, complété par le <strong>merlot</strong>.</p><p>Les différentes parcelles sont vinifiées séparément et l’assemblage est décidé après la fermentation, les lots les plus complets étant réservés au grand vin. L’élevage se fait en barriques de chêne français, dont une part de bois neuf.</p><p>Le vin répond au profil de Margaux : un rouge à la structure ferme mais raffinée, aux tanins fins et à la dimension aromatique marquée par les fruits noirs et des notes florales. Il demande plusieurs années de bouteille pour révéler sa complexité et peut se garder longtemps.</p>",
+    "it": "<p>Il grand vin di <strong>Château Dauzac</strong> proviene dalle migliori parcelle della tenuta, situata a Labarde, nella parte meridionale della denominazione <strong>Margaux</strong>. I suoli di ghiaie profonde e ben drenate favoriscono la maturazione del <strong>Cabernet Sauvignon</strong>, di solito prevalente nell’assemblaggio, completato dal <strong>Merlot</strong>.</p><p>Le diverse parcelle sono vinificate separatamente e l’assemblaggio viene deciso dopo la fermentazione, riservando al grand vin i lotti più completi. L’affinamento avviene in barrique di rovere francese, in parte nuove.</p><p>Il vino rispecchia il profilo di Margaux: un rosso di struttura salda ma raffinata, con tannini fini e una dimensione aromatica segnata da frutti neri e note floreali. Ha bisogno di diversi anni di bottiglia per mostrare la sua complessità e può essere conservato a lungo.</p>"
+  },
+  "tasting": {
+    "es": "Aromas de cassis, mora, violeta, cedro y notas tostadas. Boca de taninos finos y firmes, con final largo.",
+    "en": "Aromas of blackcurrant, blackberry, violet, cedar and toasty notes. Fine, firm tannins and a long finish.",
+    "fr": "Arômes de cassis, de mûre, de violette, de cèdre et notes grillées. Bouche aux tanins fins et fermes, à la finale longue.",
+    "it": "Aromi di cassis, mora, violetta, cedro e note tostate. Bocca dai tannini fini e decisi, con finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, entrecot, caza, quesos curados",
+    "en": "Roast lamb, rib steak, game, aged cheeses",
+    "fr": "Agneau rôti, entrecôte, gibier, fromages affinés",
+    "it": "Agnello arrosto, costata, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de Burdeos",
+    "en": "16-18 °C, Bordeaux glass",
+    "fr": "16-18 °C, verre de type bordelais",
+    "it": "16-18 °C, calice tipo Bordeaux"
+  },
+  "search": "Château Dauzac Margaux"
+}
