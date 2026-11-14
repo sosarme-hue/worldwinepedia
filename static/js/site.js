@@ -33,6 +33,12 @@
 
   // ---- Buy box ----
   function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
+  var SHIPS_TO = { es: 'Envíos a ', en: 'Ships to ', fr: 'Livraison : ', it: 'Spedizioni in ' };
+  var CNAME = { ES: { es: 'España', en: 'Spain', fr: 'Espagne', it: 'Spagna' } };
+  function shipsTo(cs) {
+    var l = SHIPS_TO[W.lang] ? W.lang : 'en';
+    return SHIPS_TO[l] + cs.map(function (c) { return (CNAME[c] && CNAME[c][l]) || c; }).join(', ');
+  }
   function renderBuy() {
     document.querySelectorAll('.shops').forEach(function (box) {
       var q = box.getAttribute('data-q');
@@ -45,13 +51,17 @@
       (st.shops || []).forEach(function (s) {
         var direct = s.direct_attr ? box.getAttribute(s.direct_attr) : null;
         if (s.direct_attr && !direct) return;
-        if (s.active !== false && s.countries.indexOf(ship) >= 0) {
+        // Con enlace directo al vino la tienda sale siempre; si no envía al país elegido, se avisa de a dónde envía
+        var ok = s.countries.indexOf(ship) >= 0;
+        if (s.active !== false && (ok || direct)) {
           var su = direct ? direct : s.tracking ? s.tracking + encodeURIComponent(s.target.replace('{q}', encodeURIComponent(q))) : s.url.replace('{q}', encodeURIComponent(q));
-          html += '<div class="shop"><strong>' + esc(s.name) + '</strong><a rel="sponsored nofollow noopener" target="_blank" href="' + esc(su) + '">' + W.t.see_price + ' ↗</a></div>';
+          var where = ok ? '' : '<small class="ships-to">' + esc(shipsTo(s.countries)) + '</small>';
+          html += '<div class="shop"><strong>' + esc(s.name) + where + '</strong><a rel="sponsored nofollow noopener" target="_blank" href="' + esc(su) + '">' + W.t.see_price + ' ↗</a></div>';
         }
       });
       var c = st.comparator;
-      html += '<div class="shop"><strong>' + esc(c.name) + '</strong><a rel="nofollow noopener" target="_blank" href="' + esc(c.url.replace('{q}', encodeURIComponent(q).replace(/%20/g, '+'))) + '">' + W.t.compare_world + ' ↗</a></div>';
+      // Wine-Searcher no da comisión: solo se muestra si no hay ni Amazon ni tienda afiliada
+      if (!html) html += '<div class="shop"><strong>' + esc(c.name) + '</strong><a rel="nofollow noopener" target="_blank" href="' + esc(c.url.replace('{q}', encodeURIComponent(q).replace(/%20/g, '+'))) + '">' + W.t.compare_world + ' ↗</a></div>';
       if (ship === 'US') notes += '<p class="note">' + W.t.us_note + '</p>';
       if (ship === 'FR') notes += '<p class="note">' + W.t.fr_note + '</p>';
       box.innerHTML = notes + html;
