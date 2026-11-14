@@ -1,0 +1,45 @@
+{
+  "slug": "verite-la-muse",
+  "name": "Vérité La Muse",
+  "winery": "verite",
+  "region": "sonoma",
+  "country": "estados-unidos",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "merlot",
+    "cabernet-franc",
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "Tinto de Sonoma County con base de Merlot, el vino de Vérité inspirado en los grandes Pomerol, elaborado por Pierre Seillan a partir de parcelas de ladera.",
+    "en": "Merlot-based Sonoma County red, the Vérité wine inspired by the great Pomerols, made by Pierre Seillan from hillside parcels.",
+    "fr": "Rouge du comté de Sonoma à base de merlot, le vin de Vérité inspiré des grands pomerols, élaboré par Pierre Seillan à partir de parcelles de coteaux.",
+    "it": "Rosso della contea di Sonoma a base di Merlot, il vino di Vérité ispirato ai grandi Pomerol, prodotto da Pierre Seillan da parcelle collinari."
+  },
+  "body": {
+    "es": "<p><strong>La Muse</strong> es uno de los tres tintos de <strong>Vérité</strong>, la bodega creada en Sonoma County por Jess Jackson y el enólogo francés Pierre Seillan. Cada uno de ellos toma como modelo una zona de Burdeos, y La Muse es el que se inspira en <strong>Pomerol</strong>, en la orilla derecha.</p><p>Por ello su base es el <strong>Merlot</strong>, completado según la añada con otras variedades bordelesas, en especial Cabernet Franc y Cabernet Sauvignon. Las uvas proceden de pequeñas parcelas de ladera repartidas por las zonas montañosas del condado, que Seillan denomina <em>micro-crus</em> y que se vinifican por separado antes del ensamblaje final.</p><p>El vino se cría en barricas de roble francés. Es un tinto de gran concentración y textura sedosa, en el que la madurez de la fruta californiana se combina con la estructura de un ensamblaje bordelés. Está concebido para una larga guarda y gana complejidad con los años en botella.</p>",
+    "en": "<p><strong>La Muse</strong> is one of the three reds from <strong>Vérité</strong>, the winery created in Sonoma County by Jess Jackson and the French winemaker Pierre Seillan. Each takes an area of Bordeaux as its model, and La Muse is the one inspired by <strong>Pomerol</strong>, on the Right Bank.</p><p>Its base is therefore <strong>Merlot</strong>, complemented depending on the vintage by other Bordeaux varieties, especially Cabernet Franc and Cabernet Sauvignon. The grapes come from small hillside parcels spread across the county’s mountain areas, which Seillan calls <em>micro-crus</em> and which are vinified separately before the final blend.</p><p>The wine is aged in French oak barrels. It is a highly concentrated red with a silky texture, combining the ripeness of Californian fruit with the structure of a Bordeaux blend. It is made for long ageing and gains complexity over years in bottle.</p>",
+    "fr": "<p><strong>La Muse</strong> est l’un des trois rouges de <strong>Vérité</strong>, le domaine créé dans le comté de Sonoma par Jess Jackson et l’œnologue français Pierre Seillan. Chacun prend pour modèle un secteur de Bordeaux, et La Muse est celui qui s’inspire de <strong>Pomerol</strong>, sur la rive droite.</p><p>Sa base est donc le <strong>merlot</strong>, complété selon le millésime par d’autres cépages bordelais, notamment le cabernet franc et le cabernet sauvignon. Les raisins proviennent de petites parcelles de coteaux réparties dans les zones montagneuses du comté, que Seillan appelle <em>micro-crus</em> et qui sont vinifiées séparément avant l’assemblage final.</p><p>Le vin est élevé en barriques de chêne français. C’est un rouge très concentré, à la texture soyeuse, qui associe la maturité du fruit californien à la structure d’un assemblage bordelais. Il est conçu pour une longue garde et gagne en complexité au fil des années en bouteille.</p>",
+    "it": "<p><strong>La Muse</strong> è uno dei tre rossi di <strong>Vérité</strong>, la cantina creata nella contea di Sonoma da Jess Jackson e dall’enologo francese Pierre Seillan. Ognuno prende come modello una zona di Bordeaux, e La Muse è quello ispirato a <strong>Pomerol</strong>, sulla riva destra.</p><p>La sua base è quindi il <strong>Merlot</strong>, completato a seconda dell’annata da altre varietà bordolesi, in particolare Cabernet Franc e Cabernet Sauvignon. Le uve provengono da piccole parcelle collinari distribuite nelle zone montuose della contea, che Seillan chiama <em>micro-crus</em> e che sono vinificate separatamente prima dell’assemblaggio finale.</p><p>Il vino affina in barrique di rovere francese. È un rosso di grande concentrazione e dalla consistenza setosa, che unisce la maturità del frutto californiano alla struttura di un uvaggio bordolese. È concepito per un lungo invecchiamento e acquista complessità con gli anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota muy oscuro. Aromas de ciruela, mora, cereza negra, cacao y especias dulces. Boca densa y sedosa, de taninos finos y final largo.",
+    "en": "Very dark cherry-red. Aromas of plum, blackberry, black cherry, cocoa and sweet spice. Dense, silky palate with fine tannins and a long finish.",
+    "fr": "Rouge cerise très sombre. Arômes de prune, de mûre, de cerise noire, de cacao et d’épices douces. Bouche dense et soyeuse, aux tanins fins et à la finale longue.",
+    "it": "Rosso ciliegia molto scuro. Aromi di prugna, mora, ciliegia nera, cacao e spezie dolci. Bocca densa e setosa, dai tannini fini e dal finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas asadas, cordero, pato, setas, quesos curados",
+    "en": "Roast red meats, lamb, duck, mushrooms, aged cheeses",
+    "fr": "Viandes rouges rôties, agneau, canard, champignons, fromages affinés",
+    "it": "Carni rosse arrosto, agnello, anatra, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de tipo Burdeos; decantar en su juventud",
+    "en": "16-18 °C, Bordeaux-style glass; decant when young",
+    "fr": "16-18 °C, verre de type bordelais ; carafer dans sa jeunesse",
+    "it": "16-18 °C, calice tipo Bordeaux; decantare da giovane"
+  },
+  "search": "Vérité La Muse Sonoma"
+}

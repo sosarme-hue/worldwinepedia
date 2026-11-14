@@ -1,0 +1,45 @@
+{
+  "slug": "chateau-la-nerthe-rouge",
+  "name": "Château La Nerthe Châteauneuf-du-Pape Rouge",
+  "winery": "chateau-la-nerthe",
+  "region": "chateauneuf-du-pape",
+  "country": "francia",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha",
+    "syrah",
+    "monastrell"
+  ],
+  "summary": {
+    "es": "Châteauneuf-du-Pape tinto de Château La Nerthe, ensamblaje de Garnacha, Syrah y Mourvèdre de una de las fincas históricas de la denominación.",
+    "en": "Red Châteauneuf-du-Pape from Château La Nerthe, a blend of Grenache, Syrah and Mourvèdre from one of the appellation’s historic estates.",
+    "fr": "Châteauneuf-du-Pape rouge de Château La Nerthe, assemblage de grenache, syrah et mourvèdre d’un des domaines historiques de l’appellation.",
+    "it": "Châteauneuf-du-Pape rosso di Château La Nerthe, uvaggio di Grenache, Syrah e Mourvèdre di una delle tenute storiche della denominazione."
+  },
+  "body": {
+    "es": "<p>El Châteauneuf-du-Pape tinto de <strong>Château La Nerthe</strong> es el vino principal de esta finca histórica del sur del Ródano, cuyo viñedo forma un gran bloque alrededor del château y se cultiva en agricultura ecológica.</p><p>Fiel a la tradición de ensamblaje que la propiedad defendió desde el siglo XIX, se elabora con varias variedades: la <strong>Garnacha</strong>, mayoritaria, aporta fruta madura, calidez y redondez; la <strong>Syrah</strong>, color y notas especiadas; y la <strong>Mourvèdre</strong>, estructura y profundidad, con la posible aportación de otras variedades tradicionales. Las uvas proceden de suelos de cantos rodados, arenas y arcillas, y cada variedad se vinifica por separado antes de una crianza en grandes toneles y barricas.</p><p>Es un tinto generoso y equilibrado, de fruta roja y negra madura, notas de garriga, especias y regaliz, y taninos firmes pero redondos. Se disfruta tras algunos años de botella y puede evolucionar favorablemente durante más de una década.</p>",
+    "en": "<p>The red Châteauneuf-du-Pape from <strong>Château La Nerthe</strong> is the main wine of this historic estate in the southern Rhône, whose vineyard forms a large block around the château and is farmed organically.</p><p>True to the blending tradition the estate has championed since the 19th century, it is made from several varieties: <strong>Grenache</strong>, the majority grape, brings ripe fruit, warmth and roundness; <strong>Syrah</strong> adds colour and spicy notes; and <strong>Mourvèdre</strong> gives structure and depth, with possible contributions from other traditional varieties. The grapes come from soils of rounded pebbles, sand and clay, and each variety is vinified separately before ageing in large casks and barrels.</p><p>It is a generous, balanced red with ripe red and dark fruit, notes of garrigue, spice and liquorice, and firm yet rounded tannins. It is best enjoyed after a few years in bottle and can develop well for more than a decade.</p>",
+    "fr": "<p>Le Châteauneuf-du-Pape rouge de <strong>Château La Nerthe</strong> est le vin principal de ce domaine historique du Rhône méridional, dont le vignoble forme un grand ensemble autour du château et est conduit en agriculture biologique.</p><p>Fidèle à la tradition d’assemblage que la propriété défend depuis le XIXe siècle, il est élaboré à partir de plusieurs cépages : le <strong>grenache</strong>, majoritaire, apporte fruit mûr, chaleur et rondeur ; la <strong>syrah</strong>, la couleur et des notes épicées ; le <strong>mourvèdre</strong>, la structure et la profondeur, avec l’apport éventuel d’autres cépages traditionnels. Les raisins proviennent de sols de galets roulés, de sables et d’argiles, et chaque cépage est vinifié séparément avant un élevage en foudres et en barriques.</p><p>C’est un rouge généreux et équilibré, aux fruits rouges et noirs mûrs, aux notes de garrigue, d’épices et de réglisse, aux tanins fermes mais ronds. Il s’apprécie après quelques années de bouteille et peut évoluer favorablement plus d’une décennie.</p>",
+    "it": "<p>Lo Châteauneuf-du-Pape rosso di <strong>Château La Nerthe</strong> è il vino principale di questa tenuta storica del Rodano meridionale, il cui vigneto forma un grande blocco attorno allo château ed è coltivato in biologico.</p><p>Fedele alla tradizione dell’assemblaggio che la proprietà ha sostenuto fin dall’Ottocento, è prodotto con diverse varietà: la <strong>Grenache</strong>, maggioritaria, apporta frutto maturo, calore e rotondità; la <strong>Syrah</strong>, colore e note speziate; la <strong>Mourvèdre</strong>, struttura e profondità, con l’eventuale apporto di altre varietà tradizionali. Le uve provengono da suoli di ciottoli, sabbie e argille e ogni varietà viene vinificata separatamente prima dell’affinamento in grandi botti e barrique.</p><p>È un rosso generoso ed equilibrato, con frutta rossa e nera matura, note di macchia mediterranea, spezie e liquirizia e tannini decisi ma rotondi. Si gusta dopo qualche anno di bottiglia e può evolvere positivamente per oltre un decennio.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de cereza madura, frambuesa, garriga, especias y regaliz. Boca generosa y equilibrada, de taninos redondos.",
+    "en": "Deep crimson. Aromas of ripe cherry, raspberry, garrigue, spice and liquorice. Generous, balanced palate with rounded tannins.",
+    "fr": "Rouge profond. Arômes de cerise mûre, de framboise, de garrigue, d’épices et de réglisse. Bouche généreuse et équilibrée, aux tanins ronds.",
+    "it": "Rosso intenso. Aromi di ciliegia matura, lampone, macchia mediterranea, spezie e liquirizia. Bocca generosa ed equilibrata, dai tannini rotondi."
+  },
+  "pairing": {
+    "es": "Caza, cordero asado, estofados, carnes a la brasa, quesos curados",
+    "en": "Game, roast lamb, stews, grilled meat, aged cheeses",
+    "fr": "Gibier, agneau rôti, daubes, viandes braisées, fromages affinés",
+    "it": "Selvaggina, agnello arrosto, stufati, carni alla brace, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Château La Nerthe Châteauneuf-du-Pape Rouge"
+}

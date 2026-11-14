@@ -1,0 +1,46 @@
+{
+  "slug": "inglenook-rubicon",
+  "name": "Inglenook Rubicon",
+  "winery": "inglenook",
+  "region": "napa-valley",
+  "country": "estados-unidos",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon",
+    "cabernet-franc",
+    "merlot",
+    "petit-verdot"
+  ],
+  "summary": {
+    "es": "Vino emblemático de Inglenook, un ensamblaje de tipo bordelés basado en Cabernet Sauvignon de los viñedos de la finca en Rutherford, Napa Valley.",
+    "en": "Inglenook’s flagship wine, a Bordeaux-style blend based on Cabernet Sauvignon from the estate vineyards in Rutherford, Napa Valley.",
+    "fr": "Vin emblématique d’Inglenook, un assemblage de type bordelais fondé sur le cabernet sauvignon des vignes du domaine à Rutherford, Napa Valley.",
+    "it": "Vino simbolo di Inglenook, un assemblaggio di tipo bordolese a base di Cabernet Sauvignon dai vigneti della tenuta a Rutherford, Napa Valley."
+  },
+  "body": {
+    "es": "<p><strong>Rubicon</strong> es el vino emblemático de <strong>Inglenook</strong>, la histórica finca de Rutherford, en el <strong>valle de Napa</strong>, propiedad de Francis Ford Coppola. Nació a finales de los años setenta, poco después de que Coppola comprara la antigua residencia de Gustave Niebaum, con la idea de elaborar un gran tinto de inspiración bordelesa a partir de los viñedos históricos de la finca.</p><p>Se elabora con uvas de la propia finca, en el <strong>Rutherford Bench</strong>. La base es el <strong>Cabernet Sauvignon</strong>, completado según la añada con Cabernet Franc, Merlot y Petit Verdot. Tras la fermentación, el vino se cría en barricas de roble francés y reposa después en botella antes de salir al mercado.</p><p>Es un tinto de gran estructura y concentración, con aromas de casis, mora, cedro, cacao y especias, y unos taninos firmes que se suavizan con el tiempo. Está concebido para una guarda larga y gana complejidad durante muchos años en botella.</p>",
+    "en": "<p><strong>Rubicon</strong> is the flagship wine of <strong>Inglenook</strong>, the historic Rutherford estate in the <strong>Napa Valley</strong> owned by Francis Ford Coppola. It was born in the late 1970s, shortly after Coppola bought Gustave Niebaum’s former residence, with the idea of making a great Bordeaux-inspired red from the estate’s historic vineyards.</p><p>It is made from the estate’s own grapes, on the <strong>Rutherford Bench</strong>. The base is <strong>Cabernet Sauvignon</strong>, completed depending on the vintage with Cabernet Franc, Merlot and Petit Verdot. After fermentation, the wine is aged in French oak barrels and then rests in bottle before release.</p><p>It is a red of great structure and concentration, with aromas of blackcurrant, blackberry, cedar, cocoa and spice, and firm tannins that soften with time. It is designed for long cellaring and gains complexity over many years in bottle, revealing notes of tobacco and earth.</p>",
+    "fr": "<p><strong>Rubicon</strong> est le vin emblématique d’<strong>Inglenook</strong>, le domaine historique de Rutherford, dans la <strong>Napa Valley</strong>, propriété de Francis Ford Coppola. Il est né à la fin des années 1970, peu après l’achat par Coppola de l’ancienne résidence de Gustave Niebaum, avec l’idée d’élaborer un grand rouge d’inspiration bordelaise à partir des vignes historiques du domaine.</p><p>Il est élaboré à partir des raisins du domaine, sur le <strong>Rutherford Bench</strong>. La base est le <strong>cabernet sauvignon</strong>, complété selon le millésime par du cabernet franc, du merlot et du petit verdot. Après la fermentation, le vin est élevé en barriques de chêne français puis repose en bouteille avant sa commercialisation.</p><p>C’est un rouge d’une grande structure et d’une grande concentration, aux arômes de cassis, de mûre, de cèdre, de cacao et d’épices, avec des tanins fermes qui s’assouplissent avec le temps. Il est conçu pour une longue garde et gagne en complexité pendant de nombreuses années en bouteille.</p>",
+    "it": "<p><strong>Rubicon</strong> è il vino simbolo di <strong>Inglenook</strong>, la storica tenuta di Rutherford, nella <strong>Napa Valley</strong>, di proprietà di Francis Ford Coppola. È nato alla fine degli anni Settanta, poco dopo che Coppola aveva acquistato l’antica residenza di Gustave Niebaum, con l’idea di produrre un grande rosso di ispirazione bordolese dai vigneti storici della tenuta.</p><p>È prodotto con uve della tenuta, sul <strong>Rutherford Bench</strong>. La base è il <strong>Cabernet Sauvignon</strong>, completato a seconda dell’annata da Cabernet Franc, Merlot e Petit Verdot. Dopo la fermentazione, il vino affina in barrique di rovere francese e riposa poi in bottiglia prima dell’uscita sul mercato.</p><p>È un rosso di grande struttura e concentrazione, con aromi di ribes nero, mora, cedro, cacao e spezie, e tannini decisi che si ammorbidiscono con il tempo. È concepito per un lungo invecchiamento e guadagna complessità per molti anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Granate muy oscuro. Aromas de casis, mora, cedro, cacao y especias. Boca amplia y concentrada, de taninos firmes y final largo.",
+    "en": "Very dark garnet. Aromas of blackcurrant, blackberry, cedar, cocoa and spice. Broad, concentrated palate with firm tannins and a long finish.",
+    "fr": "Grenat très sombre. Arômes de cassis, de mûre, de cèdre, de cacao et d’épices. Bouche ample et concentrée, aux tanins fermes, finale longue.",
+    "it": "Granato molto scuro. Aromi di ribes nero, mora, cedro, cacao e spezie. Bocca ampia e concentrata, dai tannini decisi e finale lungo."
+  },
+  "pairing": {
+    "es": "Chuletón a la brasa, cordero asado, costillas de ternera estofadas, quesos curados",
+    "en": "Chargrilled rib steak, roast lamb, braised short ribs, aged cheeses",
+    "fr": "Côte de bœuf grillée, agneau rôti, travers de bœuf braisés, fromages affinés",
+    "it": "Costata alla brace, agnello arrosto, costine di manzo brasate, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de Burdeos; decantar",
+    "en": "16-18 °C, Bordeaux glass; decant",
+    "fr": "16-18 °C, verre de type bordelais ; carafer",
+    "it": "16-18 °C, calice tipo Bordeaux; decantare"
+  },
+  "search": "Inglenook Rubicon Napa Valley"
+}

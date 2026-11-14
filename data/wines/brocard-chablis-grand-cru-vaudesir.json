@@ -1,0 +1,48 @@
+{
+  "slug": "brocard-chablis-grand-cru-vaudesir",
+  "name": "Chablis Grand Cru Vaudésir",
+  "winery": "jean-marc-brocard",
+  "region": "chablis",
+  "country": "francia",
+  "type": "blanco",
+  "category": {
+    "es": "Chablis Grand Cru",
+    "en": "Chablis Grand Cru",
+    "fr": "Chablis Grand Cru",
+    "it": "Chablis Grand Cru"
+  },
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Chablis Grand Cru del Domaine Jean-Marc Brocard procedente de Vaudésir, uno de los siete grands crus de la orilla derecha del Serein.",
+    "en": "Chablis Grand Cru from Domaine Jean-Marc Brocard from Vaudésir, one of the seven grands crus on the right bank of the Serein.",
+    "fr": "Chablis grand cru du Domaine Jean-Marc Brocard issu de Vaudésir, l'un des sept grands crus de la rive droite du Serein.",
+    "it": "Chablis Grand Cru del Domaine Jean-Marc Brocard proveniente da Vaudésir, uno dei sette grands crus della riva destra del Serein."
+  },
+  "body": {
+    "es": "<p>Los siete <strong>grands crus</strong> de Chablis forman una única ladera sobre la orilla derecha del Serein, frente a la villa de Chablis. <strong>Vaudésir</strong> ocupa una posición central en ese conjunto, en un pequeño valle encajado entre Preuses y Grenouilles, con exposiciones variadas, principalmente al sur y al sureste.</p><p>El Domaine Jean-Marc Brocard elabora este grand cru con <strong>Chardonnay</strong> plantado sobre las margas y calizas <strong>kimmeridgienses</strong> típicas de los mejores viñedos de la zona. Vaudésir se asocia a vinos de gran finura aromática, a menudo descritos como florales y elegantes, que combinan la riqueza propia de los grands crus con una tensión mineral muy marcada.</p><p>La crianza busca dar al vino estructura sin restarle pureza. Es un Chablis de guarda que, cerrado en su juventud, desarrolla con los años notas de miel, frutos secos y matices yodados, y una gran persistencia.</p>",
+    "en": "<p>The seven <strong>grands crus</strong> of Chablis form a single slope on the right bank of the Serein, opposite the town of Chablis. <strong>Vaudésir</strong> occupies a central position within this group, in a small valley set between Preuses and Grenouilles, with varied exposures, mainly south and south-east.</p><p>Domaine Jean-Marc Brocard makes this grand cru from <strong>Chardonnay</strong> planted on the <strong>Kimmeridgian</strong> marls and limestones typical of the area's best vineyards. Vaudésir is associated with wines of great aromatic finesse, often described as floral and elegant, combining the richness of the grands crus with very marked mineral tension.</p><p>Ageing aims to give the wine structure without taking away its purity. It is a Chablis for cellaring which, closed in its youth, develops notes of honey, nuts and iodine-like hints over the years, along with great persistence.</p>",
+    "fr": "<p>Les sept <strong>grands crus</strong> de Chablis forment un seul coteau sur la rive droite du Serein, face à la ville de Chablis. <strong>Vaudésir</strong> y occupe une position centrale, dans un petit vallon niché entre Preuses et Grenouilles, avec des expositions variées, principalement au sud et au sud-est.</p><p>Le Domaine Jean-Marc Brocard élabore ce grand cru à partir de <strong>chardonnay</strong> planté sur les marnes et calcaires <strong>kimméridgiens</strong> typiques des meilleurs climats du secteur. Vaudésir est associé à des vins d'une grande finesse aromatique, souvent décrits comme floraux et élégants, qui allient la richesse des grands crus à une tension minérale très marquée.</p><p>L'élevage vise à donner de la structure au vin sans lui ôter sa pureté. C'est un chablis de garde qui, fermé dans sa jeunesse, développe avec les années des notes de miel, de fruits secs et des nuances iodées, ainsi qu'une grande persistance.</p>",
+    "it": "<p>I sette <strong>grands crus</strong> di Chablis formano un unico pendio sulla riva destra del Serein, di fronte alla cittadina di Chablis. <strong>Vaudésir</strong> occupa una posizione centrale nell'insieme, in una piccola valle incassata tra Preuses e Grenouilles, con esposizioni varie, soprattutto a sud e a sud-est.</p><p>Il Domaine Jean-Marc Brocard produce questo grand cru con <strong>Chardonnay</strong> piantato sulle marne e sui calcari <strong>kimmeridgiani</strong> tipici dei migliori vigneti della zona. Vaudésir è associato a vini di grande finezza aromatica, spesso descritti come floreali ed eleganti, che uniscono la ricchezza dei grands crus a una tensione minerale molto marcata.</p><p>L'affinamento mira a dare struttura al vino senza togliergli purezza. È uno Chablis da invecchiamento che, chiuso in gioventù, sviluppa negli anni note di miele, frutta secca e sfumature iodate, insieme a una grande persistenza.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo dorado pálido. Aromas de flores blancas, cítricos maduros, pera y notas minerales. Boca amplia y tensa a la vez, de final largo y salino.",
+    "en": "Pale gold. Aromas of white flowers, ripe citrus, pear and mineral notes. Broad yet taut palate with a long, saline finish.",
+    "fr": "Or pâle. Arômes de fleurs blanches, d'agrumes mûrs, de poire et notes minérales. Bouche à la fois ample et tendue, finale longue et saline.",
+    "it": "Oro pallido. Aromi di fiori bianchi, agrumi maturi, pera e note minerali. Bocca ampia e tesa insieme, finale lungo e sapido."
+  },
+  "pairing": {
+    "es": "Langosta, rodaballo, vieiras, ave de Bresse, quesos curados de pasta prensada",
+    "en": "Lobster, turbot, scallops, Bresse chicken, aged hard cheeses",
+    "fr": "Homard, turbot, coquilles Saint-Jacques, volaille de Bresse, fromages affinés à pâte pressée",
+    "it": "Astice, rombo, capesante, pollo di Bresse, formaggi stagionati a pasta pressata"
+  },
+  "serve": {
+    "es": "12-14 °C, copa amplia de blanco",
+    "en": "12-14 °C, large white wine glass",
+    "fr": "12-14 °C, grand verre à vin blanc",
+    "it": "12-14 °C, calice ampio da bianco"
+  },
+  "search": "Chablis Grand Cru Vaudésir Jean-Marc Brocard"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "chateau-la-fleur-petrus",
+  "name": "Château La Fleur-Pétrus",
+  "winery": "chateau-la-fleur-petrus",
+  "region": "pomerol",
+  "country": "francia",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "merlot",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Pomerol de la familia Moueix procedente de la meseta de la denominación, junto a Pétrus: un Merlot con Cabernet Franc, fino, fresco y de larga guarda.",
+    "en": "Pomerol from the Moueix family sourced from the appellation’s plateau, next to Pétrus: a Merlot with Cabernet Franc, fine, fresh and long-lived.",
+    "fr": "Pomerol de la famille Moueix issu du plateau de l’appellation, à côté de Pétrus : un merlot complété de cabernet franc, fin, frais et de longue garde.",
+    "it": "Pomerol della famiglia Moueix proveniente dall’altopiano della denominazione, accanto a Pétrus: un Merlot con Cabernet Franc, fine, fresco e longevo."
+  },
+  "body": {
+    "es": "<p><strong>Château La Fleur-Pétrus</strong> es el vino de la propiedad homónima de <strong>Pomerol</strong>, situada en la parte alta de la meseta, junto a Pétrus y Lafleur, y perteneciente desde 1950 a los Établissements Jean-Pierre Moueix.</p><p>Se elabora sobre todo con <strong>Merlot</strong>, la variedad que domina en Pomerol, completado con una parte de <strong>Cabernet Franc</strong> que aporta frescura, notas aromáticas y estructura. Los suelos de la finca alternan gravas y arcillas, y las parcelas se vendimian a mano y se vinifican por separado para preservar su carácter. El vino se cría en barricas de roble.</p><p>Fiel al estilo de la casa Moueix, La Fleur-Pétrus busca la elegancia y el equilibrio más que la concentración: un Pomerol de fruta precisa, textura sedosa y taninos finos, con una frescura que lo distingue de los estilos más opulentos de la denominación. Tiene una larga capacidad de guarda y desarrolla con los años notas de trufa, sotobosque y especias.</p>",
+    "en": "<p><strong>Château La Fleur-Pétrus</strong> is the wine of the estate of the same name in <strong>Pomerol</strong>, on the upper part of the plateau next to Pétrus and Lafleur, owned since 1950 by Établissements Jean-Pierre Moueix.</p><p>It is made mainly from <strong>Merlot</strong>, the dominant variety in Pomerol, complemented by a share of <strong>Cabernet Franc</strong> that brings freshness, aromatic lift and structure. The estate’s soils alternate gravel and clay, and the parcels are hand-picked and vinified separately to preserve their character. The wine is aged in oak barrels.</p><p>True to the Moueix style, La Fleur-Pétrus seeks elegance and balance rather than concentration: a Pomerol with precise fruit, silky texture and fine tannins, with a freshness that sets it apart from the appellation’s more opulent styles. It has long ageing potential and develops notes of truffle, undergrowth and spice over the years.</p>",
+    "fr": "<p><strong>Château La Fleur-Pétrus</strong> est le vin de la propriété homonyme de <strong>Pomerol</strong>, située sur la partie haute du plateau, à côté de Pétrus et de Lafleur, et appartenant depuis 1950 aux Établissements Jean-Pierre Moueix.</p><p>Il est élaboré surtout à partir de <strong>merlot</strong>, le cépage dominant à Pomerol, complété d’une part de <strong>cabernet franc</strong> qui apporte fraîcheur, éclat aromatique et structure. Les sols du domaine alternent graves et argiles, et les parcelles sont vendangées à la main et vinifiées séparément pour préserver leur caractère. Le vin est élevé en barriques de chêne.</p><p>Fidèle au style de la maison Moueix, La Fleur-Pétrus recherche l’élégance et l’équilibre plutôt que la concentration : un pomerol au fruit précis, à la texture soyeuse et aux tanins fins, d’une fraîcheur qui le distingue des styles plus opulents de l’appellation. Il possède un long potentiel de garde et développe avec les années des notes de truffe, de sous-bois et d’épices.</p>",
+    "it": "<p><strong>Château La Fleur-Pétrus</strong> è il vino della tenuta omonima di <strong>Pomerol</strong>, situata nella parte alta dell’altopiano, accanto a Pétrus e Lafleur, e appartenente dal 1950 agli Établissements Jean-Pierre Moueix.</p><p>È prodotto soprattutto con <strong>Merlot</strong>, la varietà dominante a Pomerol, completato da una quota di <strong>Cabernet Franc</strong> che apporta freschezza, slancio aromatico e struttura. I suoli della tenuta alternano ghiaie e argille, e le parcelle sono vendemmiate a mano e vinificate separatamente per preservarne il carattere. Il vino affina in barrique di rovere.</p><p>Fedele allo stile della casa Moueix, La Fleur-Pétrus ricerca eleganza ed equilibrio più che concentrazione: un Pomerol dal frutto preciso, dalla consistenza setosa e dai tannini fini, con una freschezza che lo distingue dagli stili più opulenti della denominazione. Ha una lunga capacità di invecchiamento e sviluppa con gli anni note di tartufo, sottobosco e spezie.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí oscuro. Aromas de cereza negra, ciruela, frambuesa, violeta y notas especiadas. Boca sedosa y fresca, de taninos finos y final largo.",
+    "en": "Dark ruby. Aromas of black cherry, plum, raspberry, violet and spicy notes. Silky, fresh palate with fine tannins and a long finish.",
+    "fr": "Rubis sombre. Arômes de cerise noire, de prune, de framboise, de violette et notes épicées. Bouche soyeuse et fraîche, aux tanins fins et à la finale longue.",
+    "it": "Rubino scuro. Aromi di ciliegia nera, prugna, lampone, violetta e note speziate. Bocca setosa e fresca, dai tannini fini e dal finale lungo."
+  },
+  "pairing": {
+    "es": "Pato, pichón, ternera asada, platos con trufa o setas, quesos curados",
+    "en": "Duck, squab, roast veal, truffle or mushroom dishes, aged cheeses",
+    "fr": "Canard, pigeon, veau rôti, plats truffés ou aux champignons, fromages affinés",
+    "it": "Anatra, piccione, vitello arrosto, piatti al tartufo o ai funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de tipo Burdeos; decantar en su juventud",
+    "en": "16-18 °C, Bordeaux-style glass; decant when young",
+    "fr": "16-18 °C, verre de type bordelais ; carafer dans sa jeunesse",
+    "it": "16-18 °C, calice tipo Bordeaux; decantare da giovane"
+  },
+  "search": "Château La Fleur-Pétrus Pomerol"
+}

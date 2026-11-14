@@ -1,0 +1,49 @@
+{
+  "slug": "chateau-latour-martillac-rouge",
+  "name": "Château Latour-Martillac Rouge",
+  "winery": "chateau-latour-martillac",
+  "region": "pessac-leognan",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Cru Classé de Graves",
+    "en": "Cru Classé de Graves",
+    "fr": "Cru classé de Graves",
+    "it": "Cru Classé de Graves"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Grand vin tinto de Château Latour-Martillac, Cru Classé de Graves en Pessac-Léognan, a base de Cabernet Sauvignon y Merlot.",
+    "en": "The red grand vin of Château Latour-Martillac, a Cru Classé de Graves in Pessac-Léognan, based on Cabernet Sauvignon and Merlot.",
+    "fr": "Grand vin rouge de Château Latour-Martillac, cru classé de Graves en Pessac-Léognan, à base de cabernet-sauvignon et de merlot.",
+    "it": "Grand vin rosso di Château Latour-Martillac, Cru Classé de Graves a Pessac-Léognan, a base di Cabernet Sauvignon e Merlot."
+  },
+  "body": {
+    "es": "<p>El tinto de <strong>Château Latour-Martillac</strong> es el vino principal de esta propiedad de Martillac, clasificada como <strong>Cru Classé de Graves</strong>. Procede de los viñedos del château, plantados sobre gravas con arcilla en el sur de la denominación <strong>Pessac-Léognan</strong>.</p><p>Se elabora con una mezcla dominada por el <strong>Cabernet Sauvignon</strong> y el <strong>Merlot</strong>, con aportaciones menores de otras variedades bordelesas según la añada. Las parcelas se vinifican por separado y el vino se cría en barricas de roble, en parte nuevas, antes del ensamblaje final.</p><p>Su estilo es el de un Graves clásico: fruta negra, notas ahumadas y de grafito asociadas a los suelos de grava, y una estructura de taninos firmes pero finos. Es un vino de guarda, que necesita algunos años de botella para mostrar toda su complejidad y que puede evolucionar favorablemente durante largo tiempo.</p>",
+    "en": "<p>The red <strong>Château Latour-Martillac</strong> is the main wine of this Martillac estate, classified as a <strong>Cru Classé de Graves</strong>. It comes from the château’s vineyards, planted on gravel and clay in the south of the <strong>Pessac-Léognan</strong> appellation.</p><p>It is made from a blend dominated by <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong>, with smaller contributions from other Bordeaux varieties depending on the vintage. The plots are vinified separately and the wine is aged in oak barrels, partly new, before the final blend.</p><p>Its style is that of a classic Graves: dark fruit, smoky and graphite notes associated with gravel soils, and a structure of firm yet fine tannins. It is a wine for the cellar, needing a few years in bottle to show its full complexity and able to develop well over a long period.</p>",
+    "fr": "<p>Le rouge de <strong>Château Latour-Martillac</strong> est le vin principal de cette propriété de Martillac, classée <strong>cru classé de Graves</strong>. Il provient des vignes du château, plantées sur des graves argileuses au sud de l’appellation <strong>Pessac-Léognan</strong>.</p><p>Il est issu d’un assemblage dominé par le <strong>cabernet-sauvignon</strong> et le <strong>merlot</strong>, avec de faibles apports d’autres cépages bordelais selon le millésime. Les parcelles sont vinifiées séparément et le vin est élevé en barriques de chêne, en partie neuves, avant l’assemblage final.</p><p>Son style est celui d’un Graves classique : fruits noirs, notes fumées et de graphite associées aux sols de graves, et une structure aux tanins fermes mais fins. C’est un vin de garde, qui demande quelques années de bouteille pour révéler toute sa complexité et peut évoluer favorablement pendant longtemps.</p>",
+    "it": "<p>Il rosso di <strong>Château Latour-Martillac</strong> è il vino principale di questa proprietà di Martillac, classificata <strong>Cru Classé de Graves</strong>. Proviene dai vigneti dello château, piantati su ghiaie argillose nel sud della denominazione <strong>Pessac-Léognan</strong>.</p><p>È prodotto con un uvaggio dominato da <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong>, con piccoli apporti di altre varietà bordolesi secondo l’annata. Le parcelle vengono vinificate separatamente e il vino affina in barrique di rovere, in parte nuove, prima dell’assemblaggio finale.</p><p>Il suo stile è quello di un Graves classico: frutta nera, note affumicate e di grafite legate ai suoli ghiaiosi e una struttura di tannini decisi ma fini. È un vino da invecchiamento, che richiede qualche anno di bottiglia per mostrare tutta la sua complessità e può evolvere positivamente a lungo.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de grosella negra, mora, tabaco y notas ahumadas. Boca estructurada, de taninos finos y final largo.",
+    "en": "Deep crimson. Aromas of blackcurrant, blackberry, tobacco and smoky notes. Structured palate with fine tannins and a long finish.",
+    "fr": "Rouge profond. Arômes de cassis, de mûre, de tabac et notes fumées. Bouche structurée, aux tanins fins et à la finale longue.",
+    "it": "Rosso intenso. Aromi di ribes nero, mora, tabacco e note affumicate. Bocca strutturata, dai tannini fini e dal finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes rojas a la parrilla, caza menor, quesos curados",
+    "en": "Roast lamb, grilled red meat, small game, aged cheeses",
+    "fr": "Agneau rôti, viandes rouges grillées, petit gibier, fromages affinés",
+    "it": "Agnello arrosto, carni rosse alla griglia, piccola selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Château Latour-Martillac Rouge Pessac-Léognan"
+}

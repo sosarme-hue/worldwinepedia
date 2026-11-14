@@ -1,0 +1,48 @@
+{
+  "slug": "brocard-saint-bris",
+  "name": "Saint-Bris",
+  "winery": "jean-marc-brocard",
+  "region": "bourgogne",
+  "country": "francia",
+  "type": "blanco",
+  "category": {
+    "es": "Saint-Bris",
+    "en": "Saint-Bris",
+    "fr": "Saint-Bris",
+    "it": "Saint-Bris"
+  },
+  "grapes": [
+    "sauvignon-blanc"
+  ],
+  "summary": {
+    "es": "Saint-Bris del Domaine Jean-Marc Brocard, un Sauvignon Blanc del Auxerrois, la única denominación de Borgoña dedicada a esta variedad.",
+    "en": "Saint-Bris from Domaine Jean-Marc Brocard, a Sauvignon Blanc from the Auxerrois, the only Burgundy appellation devoted to this variety.",
+    "fr": "Saint-bris du Domaine Jean-Marc Brocard, un sauvignon blanc de l'Auxerrois, seule appellation de Bourgogne consacrée à ce cépage.",
+    "it": "Saint-Bris del Domaine Jean-Marc Brocard, un Sauvignon Blanc dell'Auxerrois, l'unica denominazione di Borgogna dedicata a questo vitigno."
+  },
+  "body": {
+    "es": "<p><strong>Saint-Bris</strong> es una denominación del Auxerrois, a pocos kilómetros al suroeste de Chablis, y una rareza en Borgoña: es la única dedicada a la <strong>Sauvignon Blanc</strong> (incluido el Sauvignon Gris), en una región donde los blancos se elaboran casi siempre con Chardonnay. Obtuvo el rango de denominación de origen comunal en 2003.</p><p>El Domaine Jean-Marc Brocard, cuya sede en Préhy está muy cerca de Saint-Bris-le-Vineux, elabora este vino sobre suelos calcáreos y margosos semejantes a los de Chablis. La vinificación en depósito busca conservar la expresión aromática de la variedad.</p><p>El resultado es un Sauvignon de clima fresco, más cercano en estilo a los del Loira que a los de zonas cálidas: aromático pero contenido, de acidez viva y final mineral. Se bebe joven y es un buen ejemplo de la diversidad del norte de Borgoña.</p>",
+    "en": "<p><strong>Saint-Bris</strong> is an appellation in the Auxerrois, a few kilometres south-west of Chablis, and a rarity in Burgundy: it is the only one devoted to <strong>Sauvignon Blanc</strong> (including Sauvignon Gris), in a region where whites are almost always made from Chardonnay. It gained communal appellation status in 2003.</p><p>Domaine Jean-Marc Brocard, whose base in Préhy is very close to Saint-Bris-le-Vineux, makes this wine on limestone and marl soils similar to those of Chablis. Tank vinification aims to preserve the aromatic expression of the variety.</p><p>The result is a cool-climate Sauvignon, closer in style to those of the Loire than to those of warmer regions: aromatic yet restrained, with lively acidity and a mineral finish. It is drunk young and is a good example of the diversity of northern Burgundy.</p>",
+    "fr": "<p><strong>Saint-bris</strong> est une appellation de l'Auxerrois, à quelques kilomètres au sud-ouest de Chablis, et une rareté en Bourgogne : c'est la seule consacrée au <strong>sauvignon blanc</strong> (y compris le sauvignon gris), dans une région où les blancs sont presque toujours issus de chardonnay. Elle a obtenu le statut d'appellation communale en 2003.</p><p>Le Domaine Jean-Marc Brocard, dont le siège à Préhy est tout proche de Saint-Bris-le-Vineux, élabore ce vin sur des sols calcaires et marneux semblables à ceux de Chablis. La vinification en cuve vise à préserver l'expression aromatique du cépage.</p><p>Il en résulte un sauvignon de climat frais, plus proche dans son style de ceux de la Loire que de ceux des régions chaudes : aromatique mais retenu, à l'acidité vive et à la finale minérale. Il se boit jeune et illustre bien la diversité du nord de la Bourgogne.</p>",
+    "it": "<p><strong>Saint-Bris</strong> è una denominazione dell'Auxerrois, a pochi chilometri a sud-ovest di Chablis, e una rarità in Borgogna: è l'unica dedicata al <strong>Sauvignon Blanc</strong> (compreso il Sauvignon Gris), in una regione dove i bianchi si producono quasi sempre con Chardonnay. Ha ottenuto lo status di denominazione comunale nel 2003.</p><p>Il Domaine Jean-Marc Brocard, la cui sede a Préhy è molto vicina a Saint-Bris-le-Vineux, produce questo vino su suoli calcarei e marnosi simili a quelli di Chablis. La vinificazione in vasca mira a preservare l'espressione aromatica del vitigno.</p><p>Il risultato è un Sauvignon di clima fresco, più vicino nello stile a quelli della Loira che a quelli delle zone calde: aromatico ma misurato, di acidità vivace e finale minerale. Si beve giovane ed è un buon esempio della diversità della Borgogna settentrionale.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido. Aromas de pomelo, grosella blanca, hierba fresca y notas minerales. Boca viva, seca y refrescante.",
+    "en": "Pale yellow. Aromas of grapefruit, white currant, fresh grass and mineral notes. Lively, dry, refreshing palate.",
+    "fr": "Jaune pâle. Arômes de pamplemousse, de groseille blanche, d'herbe fraîche et notes minérales. Bouche vive, sèche et rafraîchissante.",
+    "it": "Giallo paglierino tenue. Aromi di pompelmo, ribes bianco, erba fresca e note minerali. Bocca vivace, secca e rinfrescante."
+  },
+  "pairing": {
+    "es": "Quesos de cabra, marisco, ensaladas, cocina con hierbas",
+    "en": "Goat's cheese, shellfish, salads, herb-based dishes",
+    "fr": "Fromages de chèvre, fruits de mer, salades, cuisine aux herbes",
+    "it": "Formaggi di capra, frutti di mare, insalate, piatti alle erbe"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da bianco"
+  },
+  "search": "Saint-Bris Jean-Marc Brocard"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "chateau-ausone",
+  "name": "Château Ausone",
+  "winery": "chateau-ausone",
+  "region": "saint-emilion",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Saint-Émilion Grand Cru",
+    "en": "Saint-Émilion Grand Cru",
+    "fr": "Saint-Émilion Grand Cru",
+    "it": "Saint-Émilion Grand Cru"
+  },
+  "grapes": [
+    "cabernet-franc",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Gran vino de Château Ausone, uno de los tintos más prestigiosos de Saint-Émilion, a base de Cabernet Franc y Merlot, de gran finura y larguísima guarda.",
+    "en": "The grand vin of Château Ausone, one of Saint-Émilion's most prestigious reds, based on Cabernet Franc and Merlot, of great finesse and very long ageing potential.",
+    "fr": "Grand vin du Château Ausone, l'un des rouges les plus prestigieux de Saint-Émilion, à base de cabernet franc et de merlot, d'une grande finesse et de très longue garde.",
+    "it": "Grand vin di Château Ausone, uno dei rossi più prestigiosi di Saint-Émilion, a base di Cabernet Franc e Merlot, di grande finezza e lunghissimo invecchiamento."
+  },
+  "body": {
+    "es": "<p><strong>Château Ausone</strong> procede de un pequeño viñedo en las laderas calcáreas que rodean la villa de <strong>Saint-Émilion</strong>, orientado al sur y protegido de los vientos. Figuró en la categoría de premier grand cru classé A de Saint-Émilion desde la creación de la clasificación, antes de que la propiedad se retirara de la clasificación a partir de 2022.</p><p>Se elabora con <strong>Cabernet Franc</strong> y <strong>Merlot</strong> en proporciones cercanas, algo singular en la orilla derecha. El Cabernet Franc, que encuentra en estas calizas condiciones idóneas, aporta frescor, aromas y estructura, mientras que el Merlot da amplitud. La crianza se realiza en barricas de roble, en bodegas excavadas en la roca.</p><p>Es un vino de gran finura y tensión, más contenido que opulento en su juventud, que necesita muchos años para desplegarse. Con el tiempo desarrolla una notable complejidad, con notas de fruta roja y negra, especias, trufa, cedro y matices minerales, y las grandes añadas pueden envejecer durante décadas.</p>",
+    "en": "<p><strong>Château Ausone</strong> comes from a small vineyard on the limestone slopes surrounding the town of <strong>Saint-Émilion</strong>, facing south and sheltered from the wind. It was ranked as a premier grand cru classé A of Saint-Émilion from the creation of the classification, before the estate withdrew from the classification from 2022.</p><p>It is made from <strong>Cabernet Franc</strong> and <strong>Merlot</strong> in similar proportions, which is unusual on the Right Bank. Cabernet Franc, which finds ideal conditions in these limestones, brings freshness, aroma and structure, while Merlot gives breadth. Ageing takes place in oak barrels, in cellars carved into the rock.</p><p>It is a wine of great finesse and tension, restrained rather than opulent in its youth, which needs many years to unfold. Over time it develops remarkable complexity, with notes of red and black fruit, spice, truffle, cedar and mineral hints, and great vintages can age for decades.</p>",
+    "fr": "<p>Le <strong>Château Ausone</strong> provient d'un petit vignoble sur les coteaux calcaires qui entourent la ville de <strong>Saint-Émilion</strong>, exposé au sud et abrité des vents. Il a figuré parmi les premiers grands crus classés A de Saint-Émilion dès la création du classement, avant que la propriété ne se retire du classement à partir de 2022.</p><p>Il est issu de <strong>cabernet franc</strong> et de <strong>merlot</strong> dans des proportions proches, ce qui est singulier sur la rive droite. Le cabernet franc, qui trouve sur ces calcaires des conditions idéales, apporte fraîcheur, arômes et structure, tandis que le merlot donne de l'ampleur. L'élevage se fait en barriques de chêne, dans des chais creusés dans la roche.</p><p>C'est un vin d'une grande finesse et d'une grande tension, plus retenu qu'opulent dans sa jeunesse, qui demande de nombreuses années pour se déployer. Avec le temps, il développe une complexité remarquable, avec des notes de fruits rouges et noirs, d'épices, de truffe, de cèdre et des nuances minérales, et les grands millésimes peuvent vieillir pendant des décennies.</p>",
+    "it": "<p><strong>Château Ausone</strong> proviene da un piccolo vigneto sui pendii calcarei che circondano la cittadina di <strong>Saint-Émilion</strong>, esposto a sud e riparato dai venti. È stato premier grand cru classé A di Saint-Émilion fin dalla nascita della classificazione, prima che la tenuta si ritirasse dalla classificazione a partire dal 2022.</p><p>È prodotto con <strong>Cabernet Franc</strong> e <strong>Merlot</strong> in proporzioni simili, cosa singolare sulla Rive Droite. Il Cabernet Franc, che trova su questi calcari condizioni ideali, apporta freschezza, aromi e struttura, mentre il Merlot dà ampiezza. L'affinamento avviene in barrique di rovere, in cantine scavate nella roccia.</p><p>È un vino di grande finezza e tensione, più misurato che opulento in gioventù, che ha bisogno di molti anni per esprimersi. Col tempo sviluppa una complessità notevole, con note di frutta rossa e nera, spezie, tartufo, cedro e sfumature minerali, e le grandi annate possono invecchiare per decenni.</p>"
+  },
+  "tasting": {
+    "es": "Rojo granate profundo. Aromas de frutos rojos y negros, violeta, especias, trufa y notas minerales. Boca fina y tensa, de taninos muy pulidos y final interminable.",
+    "en": "Deep garnet. Aromas of red and black fruit, violet, spice, truffle and mineral notes. Fine, taut palate with very polished tannins and an endless finish.",
+    "fr": "Grenat profond. Arômes de fruits rouges et noirs, de violette, d'épices, de truffe et notes minérales. Bouche fine et tendue aux tanins très polis, finale interminable.",
+    "it": "Granato profondo. Aromi di frutti rossi e neri, viola, spezie, tartufo e note minerali. Bocca fine e tesa, tannini molto levigati e finale interminabile."
+  },
+  "pairing": {
+    "es": "Pichón, cordero lechal, carnes con trufa, caza de pluma",
+    "en": "Squab, milk-fed lamb, meats with truffle, game birds",
+    "fr": "Pigeon, agneau de lait, viandes truffées, gibier à plume",
+    "it": "Piccione, agnello da latte, carni al tartufo, selvaggina da piuma"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de Burdeos; decantar con cuidado",
+    "en": "16-18 °C, Bordeaux glass; decant carefully",
+    "fr": "16-18 °C, verre à bordeaux ; carafer avec soin",
+    "it": "16-18 °C, calice da Bordeaux; decantare con cura"
+  },
+  "search": "Château Ausone Saint-Émilion"
+}

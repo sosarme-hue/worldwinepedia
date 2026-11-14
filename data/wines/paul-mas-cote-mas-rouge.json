@@ -1,0 +1,49 @@
+{
+  "slug": "paul-mas-cote-mas-rouge",
+  "name": "Côté Mas Rouge",
+  "winery": "paul-mas",
+  "region": "languedoc-roussillon",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "IGP Pays d’Oc",
+    "en": "IGP Pays d’Oc",
+    "fr": "IGP Pays d’Oc",
+    "it": "IGP Pays d’Oc"
+  },
+  "grapes": [
+    "syrah",
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Tinto afrutado de IGP Pays d’Oc de la gama Côté Mas de Domaines Paul Mas, a base de Syrah y Garnacha.",
+    "en": "Fruity IGP Pays d’Oc red from Domaines Paul Mas’s Côté Mas range, based on Syrah and Grenache.",
+    "fr": "Rouge fruité en IGP Pays d’Oc de la gamme Côté Mas des Domaines Paul Mas, à base de syrah et de grenache.",
+    "it": "Rosso fruttato IGP Pays d’Oc della gamma Côté Mas di Domaines Paul Mas, a base di Syrah e Grenache."
+  },
+  "body": {
+    "es": "<p><strong>Côté Mas</strong> es una de las gamas más conocidas de <strong>Domaines Paul Mas</strong>, pensada para ofrecer vinos mediterráneos sencillos y afrutados para el consumo cotidiano. Incluye tinto, blanco y rosado, todos bajo la indicación geográfica <strong>IGP Pays d’Oc</strong>.</p><p>El tinto se elabora con un ensamblaje de <strong>Syrah</strong> y <strong>Garnacha</strong>, dos variedades emblemáticas del sur de Francia. La Syrah aporta color, notas de fruta negra y especias, mientras que la Garnacha añade redondez, calidez y aromas de fruta roja madura. Las uvas proceden de viñedos del Languedoc, y la elaboración da prioridad a la fruta, con poca o ninguna intervención de la madera.</p><p>Es un tinto de cuerpo medio, jugoso y de taninos suaves, con un perfil generoso propio del clima mediterráneo. Está pensado para beberse joven, en los primeros años tras la cosecha, y acompaña bien la cocina cotidiana, desde las carnes a la parrilla hasta los platos de pasta.</p>",
+    "en": "<p><strong>Côté Mas</strong> is one of the best-known ranges from <strong>Domaines Paul Mas</strong>, designed to offer simple, fruity Mediterranean wines for everyday drinking. It includes a red, a white and a rosé, all under the <strong>IGP Pays d’Oc</strong> geographical indication.</p><p>The red is made from a blend of <strong>Syrah</strong> and <strong>Grenache</strong>, two emblematic varieties of southern France. Syrah brings colour, black fruit and spicy notes, while Grenache adds roundness, warmth and aromas of ripe red fruit. The grapes come from Languedoc vineyards, and winemaking puts fruit first, with little or no oak influence.</p><p>It is a juicy, medium-bodied red with soft tannins and a generous profile typical of the Mediterranean climate. It is meant to be drunk young, in the first years after the vintage, and goes well with everyday cooking, from grilled meats to pasta dishes and simple Mediterranean fare.</p>",
+    "fr": "<p><strong>Côté Mas</strong> est l’une des gammes les plus connues des <strong>Domaines Paul Mas</strong>, conçue pour proposer des vins méditerranéens simples et fruités pour tous les jours. Elle comprend un rouge, un blanc et un rosé, tous en <strong>IGP Pays d’Oc</strong>.</p><p>Le rouge est élaboré à partir d’un assemblage de <strong>syrah</strong> et de <strong>grenache</strong>, deux cépages emblématiques du sud de la France. La syrah apporte de la couleur, des notes de fruits noirs et d’épices, tandis que le grenache ajoute rondeur, chaleur et arômes de fruits rouges mûrs. Les raisins proviennent de vignobles du Languedoc, et la vinification privilégie le fruit, avec peu ou pas de bois.</p><p>C’est un rouge de corps moyen, juteux et aux tanins souples, au profil généreux propre au climat méditerranéen. Il est conçu pour être bu jeune, dans les premières années après la récolte, et accompagne bien la cuisine de tous les jours, des viandes grillées aux plats de pâtes.</p>",
+    "it": "<p><strong>Côté Mas</strong> è una delle gamme più note di <strong>Domaines Paul Mas</strong>, pensata per offrire vini mediterranei semplici e fruttati per il consumo quotidiano. Comprende un rosso, un bianco e un rosato, tutti con l’indicazione geografica <strong>IGP Pays d’Oc</strong>.</p><p>Il rosso è prodotto con un assemblaggio di <strong>Syrah</strong> e <strong>Grenache</strong>, due varietà simbolo del sud della Francia. La Syrah apporta colore, note di frutti neri e spezie, mentre la Grenache aggiunge rotondità, calore e aromi di frutti rossi maturi. Le uve provengono da vigneti della Linguadoca, e la vinificazione privilegia il frutto, con poco o nessun intervento del legno.</p><p>È un rosso di medio corpo, succoso e dai tannini morbidi, con un profilo generoso tipico del clima mediterraneo. È pensato per essere bevuto giovane, nei primi anni dopo la vendemmia, e accompagna bene la cucina di tutti i giorni, dalle carni alla griglia ai piatti di pasta.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de frutos rojos y negros maduros, con notas de especias y garriga. Boca jugosa, redonda y de taninos suaves.",
+    "en": "Deep ruby. Aromas of ripe red and black fruit, with notes of spice and garrigue. Juicy, round palate with soft tannins.",
+    "fr": "Rubis intense. Arômes de fruits rouges et noirs mûrs, avec des notes d’épices et de garrigue. Bouche juteuse, ronde, aux tanins souples.",
+    "it": "Rubino intenso. Aromi di frutti rossi e neri maturi, con note di spezie e macchia mediterranea. Bocca succosa, rotonda e dai tannini morbidi."
+  },
+  "pairing": {
+    "es": "Carnes a la parrilla, embutidos, pasta con salsa de tomate, pizza",
+    "en": "Grilled meats, charcuterie, pasta with tomato sauce, pizza",
+    "fr": "Viandes grillées, charcuterie, pâtes à la sauce tomate, pizza",
+    "it": "Carni alla griglia, salumi, pasta al pomodoro, pizza"
+  },
+  "serve": {
+    "es": "15-17 °C, copa de vino tinto",
+    "en": "15-17 °C, red wine glass",
+    "fr": "15-17 °C, verre à vin rouge",
+    "it": "15-17 °C, calice da vino rosso"
+  },
+  "search": "Côté Mas Rouge Paul Mas Pays d’Oc"
+}

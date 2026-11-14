@@ -1,0 +1,49 @@
+{
+  "slug": "frank-phelan",
+  "name": "Frank Phélan",
+  "winery": "chateau-phelan-segur",
+  "region": "saint-estephe",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Segundo vino",
+    "en": "Second wine",
+    "fr": "Second vin",
+    "it": "Secondo vino"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Segundo vino de Château Phélan Ségur, un Saint-Estèphe afrutado y de taninos suaves, pensado para beberse antes que el gran vino.",
+    "en": "Second wine of Château Phélan Ségur, a fruity Saint-Estèphe with soft tannins, intended to be drunk earlier than the grand vin.",
+    "fr": "Second vin du Château Phélan Ségur, un saint-estèphe fruité aux tanins souples, conçu pour être bu plus tôt que le grand vin.",
+    "it": "Secondo vino di Château Phélan Ségur, un Saint-Estèphe fruttato e dai tannini morbidi, pensato per essere bevuto prima del grand vin."
+  },
+  "body": {
+    "es": "<p><strong>Frank Phélan</strong> es el segundo vino de <strong>Château Phélan Ségur</strong>, en la denominación <strong>Saint-Estèphe</strong>. Se elabora con los lotes que no se seleccionan para el gran vino, a menudo procedentes de viñas más jóvenes o de parcelas de perfil más ligero, del mismo viñedo de gravas y arcillas próximo a la Gironda.</p><p>El ensamblaje combina <strong>Merlot y Cabernet Sauvignon</strong>, con un peso del Merlot que suele ser mayor que en el gran vino, lo que aporta redondez. La crianza en barrica es más breve o con menos madera nueva.</p><p>El resultado es un tinto de cuerpo medio, con fruta franca y taninos amables, que transmite el carácter de Saint-Estèphe de una forma más directa. Está pensado para disfrutarse en los primeros años tras la cosecha, aunque las buenas añadas aguantan bien algunos años más en botella.</p>",
+    "en": "<p><strong>Frank Phélan</strong> is the second wine of <strong>Château Phélan Ségur</strong>, in the <strong>Saint-Estèphe</strong> appellation. It is made from lots not selected for the grand vin, often from younger vines or lighter plots, from the same gravel and clay vineyard near the Gironde.</p><p>The blend combines <strong>Merlot and Cabernet Sauvignon</strong>, with Merlot usually playing a larger role than in the grand vin, which brings roundness. Barrel ageing is shorter or uses less new oak.</p><p>The result is a medium-bodied red with frank fruit and friendly tannins, expressing the character of Saint-Estèphe in a more direct way. It is meant to be enjoyed in the first years after the vintage, although good vintages hold well for a few more years in bottle.</p>",
+    "fr": "<p><strong>Frank Phélan</strong> est le second vin du <strong>Château Phélan Ségur</strong>, dans l’appellation <strong>Saint-Estèphe</strong>. Il est élaboré à partir des lots non retenus pour le grand vin, souvent issus de jeunes vignes ou de parcelles au profil plus léger, sur le même vignoble de graves et d’argiles proche de la Gironde.</p><p>L’assemblage associe <strong>merlot et cabernet sauvignon</strong>, le merlot y tenant généralement une place plus importante que dans le grand vin, ce qui apporte de la rondeur. L’élevage en barrique est plus court ou fait moins appel au bois neuf.</p><p>Le résultat est un rouge de corps moyen, au fruit franc et aux tanins aimables, qui exprime le caractère de Saint-Estèphe de façon plus directe. Il est pensé pour être apprécié dans les premières années après la récolte, même si les bons millésimes tiennent bien quelques années de plus en bouteille.</p>",
+    "it": "<p><strong>Frank Phélan</strong> è il secondo vino di <strong>Château Phélan Ségur</strong>, nella denominazione <strong>Saint-Estèphe</strong>. Si produce con i lotti non selezionati per il grand vin, spesso da viti più giovani o da parcelle dal profilo più leggero, dello stesso vigneto di ghiaie e argille vicino alla Gironda.</p><p>L’assemblaggio unisce <strong>Merlot e Cabernet Sauvignon</strong>, con un peso del Merlot di solito maggiore che nel grand vin, il che conferisce rotondità. L’affinamento in barrique è più breve o con meno legno nuovo.</p><p>Il risultato è un rosso di medio corpo, dal frutto schietto e dai tannini gentili, che esprime il carattere di Saint-Estèphe in modo più diretto. È pensato per essere goduto nei primi anni dopo la vendemmia, anche se le buone annate reggono bene ancora qualche anno in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rubí. Aromas de frutos rojos y negros maduros, con un toque especiado. Boca redonda, de taninos suaves y final afrutado.",
+    "en": "Ruby. Aromas of ripe red and black fruit with a spicy touch. Round palate with soft tannins and a fruity finish.",
+    "fr": "Rubis. Arômes de fruits rouges et noirs mûrs, avec une touche épicée. Bouche ronde, aux tanins souples et finale fruitée.",
+    "it": "Rubino. Aromi di frutti rossi e neri maturi, con un tocco speziato. Bocca rotonda, dai tannini morbidi e finale fruttato."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la parrilla, aves asadas, quesos semicurados",
+    "en": "Grilled red meat, roast poultry, semi-hard cheeses",
+    "fr": "Viandes rouges grillées, volailles rôties, fromages mi-affinés",
+    "it": "Carni rosse alla griglia, pollame arrosto, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de Burdeos",
+    "en": "16-18 °C, Bordeaux glass",
+    "fr": "16-18 °C, verre de type bordelais",
+    "it": "16-18 °C, calice tipo Bordeaux"
+  },
+  "search": "Frank Phélan Saint-Estèphe Château Phélan Ségur"
+}

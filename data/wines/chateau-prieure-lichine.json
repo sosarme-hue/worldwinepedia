@@ -1,0 +1,50 @@
+{
+  "slug": "chateau-prieure-lichine",
+  "name": "Château Prieuré-Lichine",
+  "winery": "chateau-prieure-lichine",
+  "region": "margaux",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "4º Gran Cru Clasificado (1855)",
+    "en": "4th Grand Cru Classé (1855)",
+    "fr": "4e Grand Cru Classé (1855)",
+    "it": "4° Grand Cru Classé (1855)"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "petit-verdot"
+  ],
+  "summary": {
+    "es": "Gran vino de Château Prieuré-Lichine, cuarto cru clasificado de Margaux, un tinto de estilo elegante y perfumado.",
+    "en": "The grand vin of Château Prieuré-Lichine, a Margaux fourth growth, an elegant, perfumed red.",
+    "fr": "Grand vin du Château Prieuré-Lichine, quatrième cru classé de Margaux, un rouge élégant et parfumé.",
+    "it": "Grand vin di Château Prieuré-Lichine, quarto cru classé di Margaux, un rosso elegante e profumato."
+  },
+  "body": {
+    "es": "<p>El gran vino de <strong>Château Prieuré-Lichine</strong> procede de un viñedo muy parcelado, repartido por varias comunas de la denominación <strong>Margaux</strong>, sobre los suelos de gravas que caracterizan la zona. Es un cuarto gran cru clasificado de 1855.</p><p>Se elabora con un ensamblaje de <strong>Cabernet Sauvignon</strong> y <strong>Merlot</strong>, completado con algo de <strong>Petit Verdot</strong>; las proporciones cambian según la añada. La diversidad de parcelas permite componer cada año un vino equilibrado, en el que el Cabernet aporta estructura y el Merlot redondez.</p><p>La crianza en barricas de roble, con una parte de madera nueva, se conduce para respetar la finura de la fruta. El vino muestra el perfil asociado a Margaux: perfume, taninos sedosos y una elegancia más que potencia. Puede abrirse tras algunos años, y las buenas añadas evolucionan largamente hacia notas de cedro, tabaco y frutos secos.</p>",
+    "en": "<p>The grand vin of <strong>Château Prieuré-Lichine</strong> comes from a highly fragmented vineyard, spread over several communes of the <strong>Margaux</strong> appellation, on the gravel soils that characterise the area. It is a fourth growth of the 1855 classification.</p><p>It is made from a blend of <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong>, completed with some <strong>Petit Verdot</strong>; the proportions change with the vintage. The diversity of plots makes it possible to compose a balanced wine each year, with Cabernet providing structure and Merlot roundness.</p><p>Ageing in oak barrels, part of them new, is managed to respect the finesse of the fruit. The wine shows the profile associated with Margaux: perfume, silky tannins and elegance rather than power. It can be opened after a few years, and good vintages develop at length towards notes of cedar, tobacco and dried fruit.</p>",
+    "fr": "<p>Le grand vin du <strong>Château Prieuré-Lichine</strong> provient d'un vignoble très morcelé, réparti dans plusieurs communes de l'appellation <strong>margaux</strong>, sur les sols de graves qui caractérisent le secteur. C'est un quatrième grand cru classé en 1855.</p><p>Il est issu d'un assemblage de <strong>cabernet sauvignon</strong> et de <strong>merlot</strong>, complété d'un peu de <strong>petit verdot</strong> ; les proportions changent selon le millésime. La diversité des parcelles permet de composer chaque année un vin équilibré, où le cabernet apporte la structure et le merlot la rondeur.</p><p>L'élevage en barriques de chêne, dont une part de bois neuf, est conduit de manière à respecter la finesse du fruit. Le vin montre le profil associé à Margaux : parfum, tanins soyeux et élégance plutôt que puissance. Il peut s'ouvrir après quelques années, et les bons millésimes évoluent longuement vers des notes de cèdre, de tabac et de fruits secs.</p>",
+    "it": "<p>Il grand vin di <strong>Château Prieuré-Lichine</strong> proviene da un vigneto molto frammentato, distribuito in diversi comuni della denominazione <strong>Margaux</strong>, sui suoli di ghiaie che caratterizzano la zona. È un quarto grand cru classé del 1855.</p><p>È prodotto con un taglio di <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong>, completato da un po' di <strong>Petit Verdot</strong>; le proporzioni cambiano secondo l'annata. La varietà delle parcelle permette di comporre ogni anno un vino equilibrato, in cui il Cabernet apporta struttura e il Merlot rotondità.</p><p>L'affinamento in barrique di rovere, in parte nuove, è condotto in modo da rispettare la finezza del frutto. Il vino mostra il profilo associato a Margaux: profumo, tannini setosi ed eleganza più che potenza. Si può aprire dopo qualche anno, e le buone annate evolvono a lungo verso note di cedro, tabacco e frutta secca.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí profundo. Aromas de cassis, frambuesa, violeta y notas de cedro. Boca elegante, de taninos finos y final perfumado.",
+    "en": "Deep ruby. Aromas of blackcurrant, raspberry, violet and cedar. Elegant palate with fine tannins and a perfumed finish.",
+    "fr": "Rubis profond. Arômes de cassis, de framboise, de violette et notes de cèdre. Bouche élégante aux tanins fins et finale parfumée.",
+    "it": "Rubino profondo. Aromi di ribes nero, lampone, viola e note di cedro. Bocca elegante, tannini fini e finale profumato."
+  },
+  "pairing": {
+    "es": "Cordero asado, solomillo, aves de caza, setas",
+    "en": "Roast lamb, beef fillet, game birds, mushrooms",
+    "fr": "Agneau rôti, filet de bœuf, gibier à plume, champignons",
+    "it": "Agnello arrosto, filetto di manzo, selvaggina da piuma, funghi"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de Burdeos",
+    "en": "16-18 °C, Bordeaux glass",
+    "fr": "16-18 °C, verre à bordeaux",
+    "it": "16-18 °C, calice da Bordeaux"
+  },
+  "search": "Château Prieuré-Lichine Margaux"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "dominus-othello",
+  "name": "Othello",
+  "winery": "dominus-estate",
+  "region": "napa-valley",
+  "country": "estados-unidos",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "El tinto más accesible de Dominus Estate, un ensamblaje bordelés del valle de Napa a base de Cabernet Sauvignon.",
+    "en": "The most approachable red from Dominus Estate, a Napa Valley Bordeaux-style blend based on Cabernet Sauvignon.",
+    "fr": "Le rouge le plus accessible de Dominus Estate, un assemblage bordelais de la Napa Valley à base de cabernet sauvignon.",
+    "it": "Il rosso più accessibile di Dominus Estate, un taglio bordolese della Napa Valley a base di Cabernet Sauvignon."
+  },
+  "body": {
+    "es": "<p><strong>Othello</strong> es uno de los tres tintos de Dominus Estate, la finca de Christian Moueix en <strong>Yountville</strong>, en el valle de Napa, junto al gran vino Dominus y a Napanook. Es el más accesible de la gama y está pensado para beberse antes.</p><p>Procede de la misma propiedad, el viñedo <strong>Napanook</strong>, al pie de las montañas Mayacamas, y se elabora a partir de lotes que no se destinan a los otros dos vinos. Su base es el <strong>Cabernet Sauvignon</strong>, acompañado de otras variedades bordelesas cultivadas en la finca, como el Cabernet Franc, el Petit Verdot y el Merlot, según la añada.</p><p>Con una crianza más corta que la del gran vino, comparte con él el estilo de la casa: fruta madura pero no excesiva, taninos pulidos y un equilibrio de inspiración bordelesa. Es una buena puerta de entrada al trabajo de Dominus en Napa, y puede disfrutarse en sus primeros años.</p>",
+    "en": "<p><strong>Othello</strong> is one of the three reds of Dominus Estate, Christian Moueix's property in <strong>Yountville</strong> in the Napa Valley, alongside the grand vin Dominus and Napanook. It is the most approachable of the range and is intended for earlier drinking.</p><p>It comes from the same property, the <strong>Napanook</strong> vineyard at the foot of the Mayacamas Mountains, and is made from lots not destined for the other two wines. Its base is <strong>Cabernet Sauvignon</strong>, accompanied by other Bordeaux varieties grown on the estate, such as Cabernet Franc, Petit Verdot and Merlot, depending on the vintage.</p><p>With shorter ageing than the grand vin, it shares the house style: ripe but not excessive fruit, polished tannins and a Bordeaux-inspired balance. It is a good gateway to Dominus's work in Napa and can be enjoyed in its first few years.</p>",
+    "fr": "<p><strong>Othello</strong> est l'un des trois rouges de Dominus Estate, la propriété de Christian Moueix à <strong>Yountville</strong>, dans la Napa Valley, aux côtés du grand vin Dominus et de Napanook. C'est le plus accessible de la gamme, pensé pour être bu plus tôt.</p><p>Il provient de la même propriété, le vignoble de <strong>Napanook</strong>, au pied des monts Mayacamas, et est élaboré à partir de lots non destinés aux deux autres vins. Sa base est le <strong>cabernet sauvignon</strong>, accompagné d'autres cépages bordelais cultivés sur le domaine, comme le cabernet franc, le petit verdot et le merlot, selon le millésime.</p><p>Avec un élevage plus court que celui du grand vin, il partage le style de la maison : un fruit mûr mais sans excès, des tanins polis et un équilibre d'inspiration bordelaise. C'est une bonne porte d'entrée dans le travail de Dominus en Napa, à apprécier dans ses premières années.</p>",
+    "it": "<p><strong>Othello</strong> è uno dei tre rossi di Dominus Estate, la tenuta di Christian Moueix a <strong>Yountville</strong>, nella Napa Valley, accanto al grand vin Dominus e a Napanook. È il più accessibile della gamma ed è pensato per essere bevuto prima.</p><p>Proviene dalla stessa proprietà, il vigneto <strong>Napanook</strong>, ai piedi dei monti Mayacamas, ed è prodotto con partite non destinate agli altri due vini. La sua base è il <strong>Cabernet Sauvignon</strong>, accompagnato da altre varietà bordolesi coltivate nella tenuta, come Cabernet Franc, Petit Verdot e Merlot, secondo l'annata.</p><p>Con un affinamento più breve rispetto al grand vin, ne condivide lo stile della casa: frutto maturo ma non eccessivo, tannini levigati e un equilibrio d'ispirazione bordolese. È una buona porta d'ingresso al lavoro di Dominus in Napa e si può gustare nei primi anni.</p>"
+  },
+  "tasting": {
+    "es": "Rojo oscuro. Aromas de cassis, cereza negra, hierbas secas y especias. Boca jugosa, de taninos pulidos.",
+    "en": "Deep red. Aromas of blackcurrant, black cherry, dried herbs and spice. Juicy palate with polished tannins.",
+    "fr": "Rouge sombre. Arômes de cassis, de cerise noire, d'herbes sèches et d'épices. Bouche juteuse aux tanins polis.",
+    "it": "Rosso scuro. Aromi di ribes nero, ciliegia nera, erbe secche e spezie. Bocca succosa, tannini levigati."
+  },
+  "pairing": {
+    "es": "Carnes a la parrilla, hamburguesa gourmet, cordero, quesos semicurados",
+    "en": "Grilled meats, gourmet burgers, lamb, semi-hard cheeses",
+    "fr": "Viandes grillées, burger gastronomique, agneau, fromages mi-affinés",
+    "it": "Carni alla griglia, hamburger gourmet, agnello, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de Burdeos",
+    "en": "16-18 °C, Bordeaux glass",
+    "fr": "16-18 °C, verre à bordeaux",
+    "it": "16-18 °C, calice da Bordeaux"
+  },
+  "search": "Othello Napa Valley Dominus Estate"
+}

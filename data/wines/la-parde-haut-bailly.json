@@ -1,0 +1,49 @@
+{
+  "slug": "la-parde-haut-bailly",
+  "name": "La Parde de Haut-Bailly",
+  "winery": "chateau-haut-bailly",
+  "region": "pessac-leognan",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Segundo vino",
+    "en": "Second wine",
+    "fr": "Second vin",
+    "it": "Secondo vino"
+  },
+  "grapes": [
+    "merlot",
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "El segundo vino de Château Haut-Bailly, en Pessac-Léognan, más accesible en su juventud; desde la añada 2018 se comercializa como Haut-Bailly II.",
+    "en": "The second wine of Château Haut-Bailly in Pessac-Léognan, more approachable when young; since the 2018 vintage it has been sold as Haut-Bailly II.",
+    "fr": "Le second vin du château Haut-Bailly, en Pessac-Léognan, plus accessible dans sa jeunesse ; depuis le millésime 2018, il est commercialisé sous le nom de Haut-Bailly II.",
+    "it": "Il secondo vino di Château Haut-Bailly, a Pessac-Léognan, più accessibile da giovane; dall’annata 2018 è commercializzato come Haut-Bailly II."
+  },
+  "body": {
+    "es": "<p><strong>La Parde de Haut-Bailly</strong> es el segundo vino de <strong>Château Haut-Bailly</strong>, el Cru Classé de Graves de Léognan, en la denominación Pessac-Léognan. Con la añada 2018 la propiedad lo rebautizó como <strong>Haut-Bailly II</strong>, de modo que el nombre La Parde corresponde a las cosechas anteriores.</p><p>Se elabora con uvas del mismo viñedo de gravas que el gran vino, procedentes sobre todo de las viñas más jóvenes y de los lotes que no se retienen en la selección para Château Haut-Bailly. El ensamblaje se basa en el <strong>Merlot</strong> y el <strong>Cabernet Sauvignon</strong>, con proporciones que varían según la añada, y el vino se cría en barricas de roble francés.</p><p>Comparte con el gran vino el estilo de la casa, centrado en la finura y la textura, pero con una estructura más ligera y una fruta más inmediata. Es un Pessac-Léognan que puede disfrutarse antes que el primer vino, aunque las buenas añadas evolucionan durante varios años en botella.</p>",
+    "en": "<p><strong>La Parde de Haut-Bailly</strong> is the second wine of <strong>Château Haut-Bailly</strong>, the classified growth of Graves in Léognan, in the Pessac-Léognan appellation. With the 2018 vintage the estate renamed it <strong>Haut-Bailly II</strong>, so the name La Parde applies to earlier vintages.</p><p>It is made from grapes from the same gravel vineyard as the grand vin, mainly from younger vines and from lots not retained in the selection for Château Haut-Bailly. The blend is based on <strong>Merlot</strong> and <strong>Cabernet Sauvignon</strong>, in proportions that vary with the vintage, and the wine is aged in French oak barrels.</p><p>It shares the house style of the grand vin, centred on finesse and texture, but with a lighter structure and more immediate fruit. It is a Pessac-Léognan that can be enjoyed earlier than the first wine, although good vintages develop for several years in bottle.</p>",
+    "fr": "<p><strong>La Parde de Haut-Bailly</strong> est le second vin du <strong>château Haut-Bailly</strong>, cru classé de Graves à Léognan, en appellation Pessac-Léognan. Avec le millésime 2018, la propriété l’a rebaptisé <strong>Haut-Bailly II</strong> : le nom La Parde correspond donc aux millésimes antérieurs.</p><p>Il est élaboré à partir des raisins du même vignoble de graves que le grand vin, issus surtout des vignes les plus jeunes et des lots non retenus pour Château Haut-Bailly. L’assemblage repose sur le <strong>merlot</strong> et le <strong>cabernet sauvignon</strong>, dans des proportions variables selon le millésime, et le vin est élevé en barriques de chêne français.</p><p>Il partage le style de la maison, axé sur la finesse et la texture, mais avec une structure plus légère et un fruit plus immédiat. C’est un pessac-léognan qui s’apprécie plus tôt que le premier vin, même si les bons millésimes évoluent plusieurs années en bouteille.</p>",
+    "it": "<p><strong>La Parde de Haut-Bailly</strong> è il secondo vino di <strong>Château Haut-Bailly</strong>, il Cru Classé de Graves di Léognan, nella denominazione Pessac-Léognan. Con l’annata 2018 la proprietà lo ha ribattezzato <strong>Haut-Bailly II</strong>, per cui il nome La Parde corrisponde alle annate precedenti.</p><p>È prodotto con uve dello stesso vigneto di ghiaie del grand vin, provenienti soprattutto dalle viti più giovani e dai lotti non trattenuti nella selezione per Château Haut-Bailly. L’uvaggio si basa su <strong>Merlot</strong> e <strong>Cabernet Sauvignon</strong>, in proporzioni variabili secondo l’annata, e il vino affina in barrique di rovere francese.</p><p>Condivide lo stile della casa, incentrato su finezza e consistenza, ma con una struttura più leggera e un frutto più immediato. È un Pessac-Léognan che si può gustare prima del primo vino, anche se le buone annate evolvono per diversi anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí intenso. Aromas de cereza, frambuesa, casis y notas ahumadas y de tabaco. Boca suave y afrutada, de taninos sedosos.",
+    "en": "Deep ruby. Aromas of cherry, raspberry, blackcurrant and smoky, tobacco notes. Smooth, fruity palate with silky tannins.",
+    "fr": "Rubis intense. Arômes de cerise, de framboise, de cassis et notes fumées et de tabac. Bouche souple et fruitée, aux tanins soyeux.",
+    "it": "Rubino intenso. Aromi di ciliegia, lampone, ribes nero e note affumicate e di tabacco. Bocca morbida e fruttata, dai tannini setosi."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la parrilla, aves asadas, setas, quesos de pasta prensada",
+    "en": "Grilled red meats, roast poultry, mushrooms, pressed cheeses",
+    "fr": "Viandes rouges grillées, volailles rôties, champignons, fromages à pâte pressée",
+    "it": "Carni rosse alla griglia, pollame arrosto, funghi, formaggi a pasta pressata"
+  },
+  "serve": {
+    "es": "16-17 °C, copa de tipo Burdeos",
+    "en": "16-17 °C, Bordeaux-style glass",
+    "fr": "16-17 °C, verre de type bordelais",
+    "it": "16-17 °C, calice tipo Bordeaux"
+  },
+  "search": "La Parde de Haut-Bailly Pessac-Léognan"
+}

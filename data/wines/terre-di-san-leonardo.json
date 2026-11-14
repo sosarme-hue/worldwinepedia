@@ -1,0 +1,49 @@
+{
+  "slug": "terre-di-san-leonardo",
+  "name": "Terre di San Leonardo",
+  "winery": "tenuta-san-leonardo",
+  "region": "trentino-alto-adige",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "IGT Vigneti delle Dolomiti",
+    "en": "IGT Vigneti delle Dolomiti",
+    "fr": "IGT Vigneti delle Dolomiti",
+    "it": "IGT Vigneti delle Dolomiti"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Tinto de corte bordelés de Tenuta San Leonardo, más joven y accesible que el gran vino de la finca.",
+    "en": "Bordeaux-style red from Tenuta San Leonardo, younger and more approachable than the estate's grand vin.",
+    "fr": "Rouge d'assemblage bordelais de la Tenuta San Leonardo, plus jeune et accessible que le grand vin du domaine.",
+    "it": "Rosso di taglio bordolese della Tenuta San Leonardo, più giovane e accessibile del grand vin della tenuta."
+  },
+  "body": {
+    "es": "<p><strong>Terre di San Leonardo</strong> es el tinto de la Tenuta San Leonardo pensado para beberse antes que su vino emblemático, San Leonardo. Procede de los viñedos de la finca en <strong>Borghetto all'Adige</strong>, en la Vallagarina, en el sur del Trentino, y se comercializa como IGT Vigneti delle Dolomiti.</p><p>Se elabora con variedades bordelesas, principalmente <strong>Cabernet Sauvignon</strong> y <strong>Merlot</strong>, a las que puede sumarse la Carmenère, característica de la casa. El clima de la zona, alpino pero templado por la cercanía del lago de Garda, con noches frescas, da vinos de buena acidez y aromas nítidos.</p><p>La crianza es más corta que la del gran vino, para conservar la fruta y la frescura. Es un tinto equilibrado, de cuerpo medio y taninos suaves, que transmite el estilo de la casa —elegancia más que potencia— y puede disfrutarse en sus primeros años.</p>",
+    "en": "<p><strong>Terre di San Leonardo</strong> is the Tenuta San Leonardo red designed to be drunk earlier than its flagship wine, San Leonardo. It comes from the estate's vineyards in <strong>Borghetto all'Adige</strong>, in the Vallagarina in southern Trentino, and is sold as IGT Vigneti delle Dolomiti.</p><p>It is made from Bordeaux varieties, mainly <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong>, which may be joined by Carmenère, a hallmark of the house. The area's climate, Alpine but tempered by nearby Lake Garda, with cool nights, gives wines of good acidity and clear aromas.</p><p>Ageing is shorter than for the grand vin, to preserve fruit and freshness. It is a balanced, medium-bodied red with soft tannins that conveys the house style — elegance rather than power — and can be enjoyed in its first few years.</p>",
+    "fr": "<p><strong>Terre di San Leonardo</strong> est le rouge de la Tenuta San Leonardo conçu pour être bu plus tôt que son vin emblématique, San Leonardo. Il provient des vignes du domaine à <strong>Borghetto all'Adige</strong>, dans la Vallagarina, au sud du Trentin, et est commercialisé en IGT Vigneti delle Dolomiti.</p><p>Il est élaboré à partir de cépages bordelais, principalement le <strong>cabernet sauvignon</strong> et le <strong>merlot</strong>, auxquels peut s'ajouter la carménère, signature de la maison. Le climat du secteur, alpin mais tempéré par la proximité du lac de Garde, avec des nuits fraîches, donne des vins à la bonne acidité et aux arômes nets.</p><p>L'élevage est plus court que celui du grand vin, afin de préserver le fruit et la fraîcheur. C'est un rouge équilibré, de corps moyen et aux tanins souples, qui transmet le style de la maison — l'élégance plutôt que la puissance — et peut s'apprécier dans ses premières années.</p>",
+    "it": "<p><strong>Terre di San Leonardo</strong> è il rosso della Tenuta San Leonardo pensato per essere bevuto prima del suo vino simbolo, il San Leonardo. Proviene dai vigneti della tenuta a <strong>Borghetto all'Adige</strong>, in Vallagarina, nel sud del Trentino, ed è commercializzato come IGT Vigneti delle Dolomiti.</p><p>È prodotto con vitigni bordolesi, principalmente <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong>, a cui può aggiungersi il Carmenère, tratto distintivo della casa. Il clima della zona, alpino ma mitigato dalla vicinanza del lago di Garda, con notti fresche, dà vini di buona acidità e aromi nitidi.</p><p>L'affinamento è più breve rispetto al grand vin, per preservare frutto e freschezza. È un rosso equilibrato, di medio corpo e dai tannini morbidi, che trasmette lo stile della casa — eleganza più che potenza — e si può gustare nei primi anni.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí. Aromas de frutos rojos y negros, notas herbáceas y especias suaves. Boca fresca, de cuerpo medio y taninos suaves.",
+    "en": "Ruby red. Aromas of red and black fruit, herbaceous notes and gentle spice. Fresh, medium-bodied palate with soft tannins.",
+    "fr": "Rouge rubis. Arômes de fruits rouges et noirs, notes herbacées et épices douces. Bouche fraîche, de corps moyen, aux tanins souples.",
+    "it": "Rosso rubino. Aromi di frutti rossi e neri, note erbacee e spezie delicate. Bocca fresca, di medio corpo, tannini morbidi."
+  },
+  "pairing": {
+    "es": "Pasta con ragú, carnes a la parrilla, embutidos, quesos de montaña",
+    "en": "Pasta with ragù, grilled meats, charcuterie, mountain cheeses",
+    "fr": "Pâtes à la bolognaise, viandes grillées, charcuterie, fromages de montagne",
+    "it": "Pasta al ragù, carni alla griglia, salumi, formaggi di montagna"
+  },
+  "serve": {
+    "es": "16-17 °C, copa de tinto",
+    "en": "16-17 °C, red wine glass",
+    "fr": "16-17 °C, verre à vin rouge",
+    "it": "16-17 °C, calice da rosso"
+  },
+  "search": "Terre di San Leonardo Tenuta San Leonardo"
+}

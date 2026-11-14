@@ -1,0 +1,49 @@
+{
+  "slug": "chateau-la-tour-carnet",
+  "name": "Château La Tour Carnet",
+  "winery": "chateau-la-tour-carnet",
+  "region": "medoc",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Cuarto Gran Cru Classé de 1855",
+    "en": "Fourth Growth (1855 classification)",
+    "fr": "Quatrième grand cru classé en 1855",
+    "it": "Quarto Grand Cru Classé del 1855"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Grand vin de Château La Tour Carnet, cuarto gran cru clasificado del Haut-Médoc, de Cabernet Sauvignon y Merlot en un estilo maduro y amplio.",
+    "en": "The grand vin of Château La Tour Carnet, a Haut-Médoc fourth growth, from Cabernet Sauvignon and Merlot in a ripe, broad style.",
+    "fr": "Grand vin de Château La Tour Carnet, quatrième grand cru classé du Haut-Médoc, de cabernet-sauvignon et de merlot dans un style mûr et ample.",
+    "it": "Grand vin di Château La Tour Carnet, quarto grand cru classificato dell’Haut-Médoc, di Cabernet Sauvignon e Merlot in uno stile maturo e ampio."
+  },
+  "body": {
+    "es": "<p><strong>Château La Tour Carnet</strong> es el vino principal de esta propiedad de Saint-Laurent-Médoc, en la denominación <strong>Haut-Médoc</strong>, clasificada como cuarto gran cru en 1855 y perteneciente a Bernard Magrez desde 2000. Procede del viñedo que rodea el castillo medieval de la finca, sobre suelos de grava y arcilla.</p><p>Se elabora con una mezcla de <strong>Cabernet Sauvignon</strong> y <strong>Merlot</strong>, en proporciones próximas según la añada, completada a veces con pequeñas cantidades de Cabernet Franc y Petit Verdot. La vendimia es manual y selectiva, y el vino se cría en barricas de roble, en buena parte nuevas, antes del embotellado.</p><p>Es un tinto del Médoc de estilo moderno, con fruta negra madura, notas de especias, vainilla y regaliz, una textura amplia y taninos redondeados. Puede disfrutarse tras algunos años de botella, pero conserva la estructura necesaria para evolucionar durante bastante tiempo.</p>",
+    "en": "<p><strong>Château La Tour Carnet</strong> is the main wine of this Saint-Laurent-Médoc estate in the <strong>Haut-Médoc</strong> appellation, classified as a fourth growth in 1855 and owned by Bernard Magrez since 2000. It comes from the vineyard surrounding the estate’s medieval castle, on gravel and clay soils.</p><p>It is made from a blend of <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong>, in similar proportions depending on the vintage, sometimes completed by small amounts of Cabernet Franc and Petit Verdot. Harvesting is by hand and selective, and the wine is aged in oak barrels, largely new, before bottling.</p><p>It is a modern-style Médoc red, with ripe dark fruit, notes of spice, vanilla and liquorice, a broad texture and rounded tannins. It can be enjoyed after a few years in bottle, but keeps the structure needed to develop for quite some time.</p>",
+    "fr": "<p><strong>Château La Tour Carnet</strong> est le vin principal de cette propriété de Saint-Laurent-Médoc, dans l’appellation <strong>Haut-Médoc</strong>, classée quatrième grand cru en 1855 et appartenant à Bernard Magrez depuis 2000. Il provient du vignoble qui entoure le château médiéval du domaine, sur des sols de graves et d’argile.</p><p>Il est issu d’un assemblage de <strong>cabernet-sauvignon</strong> et de <strong>merlot</strong>, dans des proportions voisines selon le millésime, parfois complété par un peu de cabernet franc et de petit verdot. Les vendanges sont manuelles et sélectives, et le vin est élevé en barriques de chêne, en grande partie neuves, avant la mise en bouteille.</p><p>C’est un rouge du Médoc de style moderne, aux fruits noirs mûrs, aux notes d’épices, de vanille et de réglisse, à la texture ample et aux tanins arrondis. Il s’apprécie après quelques années de bouteille, mais garde la structure nécessaire pour évoluer assez longtemps.</p>",
+    "it": "<p><strong>Château La Tour Carnet</strong> è il vino principale di questa proprietà di Saint-Laurent-Médoc, nella denominazione <strong>Haut-Médoc</strong>, classificata quarto grand cru nel 1855 e di proprietà di Bernard Magrez dal 2000. Proviene dal vigneto che circonda il castello medievale della tenuta, su suoli di ghiaia e argilla.</p><p>È prodotto con un uvaggio di <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong>, in proporzioni vicine secondo l’annata, talvolta completato da piccole quantità di Cabernet Franc e Petit Verdot. La vendemmia è manuale e selettiva e il vino affina in barrique di rovere, in gran parte nuove, prima dell’imbottigliamento.</p><p>È un rosso del Médoc dallo stile moderno, con frutta nera matura, note di spezie, vaniglia e liquirizia, una tessitura ampia e tannini arrotondati. Si può gustare dopo qualche anno di bottiglia, ma conserva la struttura necessaria per evolvere a lungo.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota oscuro. Aromas de mora, grosella negra, vainilla y regaliz. Boca amplia y madura, de taninos redondeados.",
+    "en": "Dark crimson. Aromas of blackberry, blackcurrant, vanilla and liquorice. Broad, ripe palate with rounded tannins.",
+    "fr": "Rouge sombre. Arômes de mûre, de cassis, de vanille et de réglisse. Bouche ample et mûre, aux tanins arrondis.",
+    "it": "Rosso scuro. Aromi di mora, ribes nero, vaniglia e liquirizia. Bocca ampia e matura, dai tannini arrotondati."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes rojas a la parrilla, caza, quesos curados",
+    "en": "Roast lamb, grilled red meat, game, aged cheeses",
+    "fr": "Agneau rôti, viandes rouges grillées, gibier, fromages affinés",
+    "it": "Agnello arrosto, carni rosse alla griglia, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Château La Tour Carnet Haut-Médoc"
+}

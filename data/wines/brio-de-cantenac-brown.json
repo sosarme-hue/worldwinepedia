@@ -1,0 +1,49 @@
+{
+  "slug": "brio-de-cantenac-brown",
+  "name": "Brio de Cantenac Brown",
+  "winery": "chateau-cantenac-brown",
+  "region": "margaux",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Segundo vino",
+    "en": "Second wine",
+    "fr": "Second vin",
+    "it": "Secondo vino"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Segundo vino de Château Cantenac Brown, un Margaux afrutado y accesible que puede disfrutarse joven.",
+    "en": "Second wine of Château Cantenac Brown, a fruity, approachable Margaux that can be enjoyed young.",
+    "fr": "Second vin du Château Cantenac Brown, un margaux fruité et accessible à apprécier jeune.",
+    "it": "Secondo vino di Château Cantenac Brown, un Margaux fruttato e accessibile da gustare giovane."
+  },
+  "body": {
+    "es": "<p><strong>Brio de Cantenac Brown</strong> es el segundo vino de Château Cantenac Brown, tercer gran cru clasificado de la denominación <strong>Margaux</strong>, situado en la comuna de Cantenac.</p><p>Procede de los viñedos de gravas de la propiedad, a partir de una selección que suele incluir viñas más jóvenes y lotes no destinados al gran vino. El ensamblaje combina <strong>Cabernet Sauvignon</strong> y <strong>Merlot</strong>, este último con un papel a menudo más importante que en el primer vino, lo que aporta redondez y una fruta más inmediata.</p><p>La crianza en barrica es más corta y la extracción más suave, para obtener un tinto fragante y de taninos redondos. Su nombre, «brío», sugiere ese carácter vivo y afrutado. Conserva rasgos propios de Margaux —finura, notas florales, fruta roja y negra— y puede disfrutarse en sus primeros años, sin necesidad de larga guarda, como introducción al estilo de la propiedad.</p>",
+    "en": "<p><strong>Brio de Cantenac Brown</strong> is the second wine of Château Cantenac Brown, a third growth in the <strong>Margaux</strong> appellation, located in the commune of Cantenac.</p><p>It comes from the estate's gravel vineyards, from a selection that usually includes younger vines and lots not destined for the grand vin. The blend combines <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong>, the latter often playing a bigger role than in the first wine, bringing roundness and more immediate fruit.</p><p>Barrel ageing is shorter and extraction gentler, to produce a fragrant red with rounded tannins. Its name, “brio”, suggests this lively, fruity character. It retains features typical of Margaux — finesse, floral notes, red and black fruit — and can be enjoyed in its first few years, without the need for long cellaring, as an introduction to the estate's style.</p>",
+    "fr": "<p><strong>Brio de Cantenac Brown</strong> est le second vin du Château Cantenac Brown, troisième grand cru classé de l'appellation <strong>margaux</strong>, situé sur la commune de Cantenac.</p><p>Il provient des vignes de graves de la propriété, à partir d'une sélection qui comprend généralement des vignes plus jeunes et des lots non destinés au grand vin. L'assemblage associe <strong>cabernet sauvignon</strong> et <strong>merlot</strong>, ce dernier jouant souvent un rôle plus important que dans le premier vin, ce qui apporte rondeur et un fruit plus immédiat.</p><p>L'élevage en barrique est plus court et l'extraction plus douce, afin d'obtenir un rouge parfumé aux tanins ronds. Son nom, « brio », suggère ce caractère vif et fruité. Il conserve des traits propres au margaux — finesse, notes florales, fruits rouges et noirs — et peut s'apprécier dans ses premières années, sans longue garde, comme introduction au style de la propriété.</p>",
+    "it": "<p><strong>Brio de Cantenac Brown</strong> è il secondo vino di Château Cantenac Brown, terzo grand cru classé della denominazione <strong>Margaux</strong>, situato nel comune di Cantenac.</p><p>Proviene dai vigneti di ghiaie della proprietà, da una selezione che di solito comprende viti più giovani e partite non destinate al grand vin. Il taglio unisce <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong>, quest'ultimo spesso con un ruolo più importante che nel primo vino, apportando rotondità e un frutto più immediato.</p><p>L'affinamento in barrique è più breve e l'estrazione più delicata, per ottenere un rosso profumato dai tannini rotondi. Il nome, «brio», suggerisce questo carattere vivace e fruttato. Conserva tratti tipici del Margaux — finezza, note floreali, frutta rossa e nera — e si può gustare nei primi anni, senza bisogno di lungo invecchiamento, come introduzione allo stile della tenuta.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí. Aromas de cereza, cassis, violeta y un toque especiado. Boca jugosa, de taninos redondos y final fresco.",
+    "en": "Ruby red. Aromas of cherry, blackcurrant, violet and a touch of spice. Juicy palate with rounded tannins and a fresh finish.",
+    "fr": "Rouge rubis. Arômes de cerise, de cassis, de violette et une touche épicée. Bouche juteuse aux tanins ronds et finale fraîche.",
+    "it": "Rosso rubino. Aromi di ciliegia, ribes nero, viola e un tocco speziato. Bocca succosa, tannini rotondi e finale fresco."
+  },
+  "pairing": {
+    "es": "Aves asadas, carnes a la parrilla, embutidos, quesos semicurados",
+    "en": "Roast poultry, grilled meats, charcuterie, semi-hard cheeses",
+    "fr": "Volailles rôties, viandes grillées, charcuterie, fromages mi-affinés",
+    "it": "Pollame arrosto, carni alla griglia, salumi, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-17 °C, copa de Burdeos",
+    "en": "16-17 °C, Bordeaux glass",
+    "fr": "16-17 °C, verre à bordeaux",
+    "it": "16-17 °C, calice da Bordeaux"
+  },
+  "search": "Brio de Cantenac Brown Margaux"
+}

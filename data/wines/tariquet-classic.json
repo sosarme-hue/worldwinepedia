@@ -1,0 +1,51 @@
+{
+  "slug": "tariquet-classic",
+  "name": "Tariquet Classic",
+  "winery": "tariquet",
+  "region": "madiran",
+  "country": "francia",
+  "type": "blanco",
+  "category": {
+    "es": "IGP Côtes de Gascogne",
+    "en": "IGP Côtes de Gascogne",
+    "fr": "IGP Côtes de Gascogne",
+    "it": "IGP Côtes de Gascogne"
+  },
+  "grapes": [
+    "trebbiano",
+    "colombard",
+    "sauvignon-blanc",
+    "gros-manseng"
+  ],
+  "summary": {
+    "es": "El blanco seco más conocido del Domaine du Tariquet, un ensamblaje fresco y afrutado de Ugni Blanc y Colombard con Sauvignon Blanc y Gros Manseng.",
+    "en": "Domaine du Tariquet’s best-known dry white, a fresh and fruity blend of Ugni Blanc and Colombard with Sauvignon Blanc and Gros Manseng.",
+    "fr": "Le blanc sec le plus connu du Domaine du Tariquet, un assemblage frais et fruité d’ugni blanc et de colombard, complété de sauvignon blanc et de gros manseng.",
+    "it": "Il bianco secco più noto del Domaine du Tariquet, un uvaggio fresco e fruttato di Ugni Blanc e Colombard con Sauvignon Blanc e Gros Manseng."
+  },
+  "body": {
+    "es": "<p>El <strong>Classic</strong> es el vino emblemático del Domaine du Tariquet y uno de los blancos que más han contribuido a dar a conocer la <strong>IGP Côtes de Gascogne</strong>. Procede de los viñedos de la familia Grassa en el Bas-Armagnac, en el departamento del Gers.</p><p>Su base son dos variedades históricas de la Gascuña, el <strong>Ugni Blanc</strong> y el <strong>Colombard</strong>, que durante siglos se destinaron sobre todo a la destilación del Armagnac. Se completan con <strong>Sauvignon Blanc</strong> y <strong>Gros Manseng</strong>, que aportan aroma y algo más de cuerpo.</p><p>Las uvas se vendimian en el momento de mayor frescura y se vinifican a baja temperatura en depósito, sin paso por madera, para preservar la fruta y la acidez. El resultado es un blanco seco ligero, de graduación moderada, vivo y aromático, pensado para beberse joven, en el año siguiente a la vendimia.</p>",
+    "en": "<p><strong>Classic</strong> is the flagship wine of Domaine du Tariquet and one of the whites that did most to make the <strong>IGP Côtes de Gascogne</strong> known. It comes from the Grassa family’s vineyards in Bas-Armagnac, in the Gers department.</p><p>It is based on two historic Gascon varieties, <strong>Ugni Blanc</strong> and <strong>Colombard</strong>, which for centuries were grown mainly for distilling Armagnac. They are complemented by <strong>Sauvignon Blanc</strong> and <strong>Gros Manseng</strong>, which add aroma and a little more body.</p><p>The grapes are picked at their freshest and fermented at low temperature in tank, without oak, to preserve fruit and acidity. The result is a light, dry white of moderate alcohol, lively and aromatic, intended to be drunk young, within the year after the harvest.</p>",
+    "fr": "<p>Le <strong>Classic</strong> est le vin emblématique du Domaine du Tariquet et l’un des blancs qui ont le plus contribué à faire connaître l’<strong>IGP Côtes de Gascogne</strong>. Il provient des vignes de la famille Grassa, dans le Bas-Armagnac, dans le Gers.</p><p>Il repose sur deux cépages historiques de Gascogne, l’<strong>ugni blanc</strong> et le <strong>colombard</strong>, longtemps destinés surtout à la distillation de l’armagnac. Ils sont complétés par le <strong>sauvignon blanc</strong> et le <strong>gros manseng</strong>, qui apportent arômes et un peu plus de corps.</p><p>Les raisins sont récoltés au moment de leur plus grande fraîcheur et vinifiés à basse température en cuve, sans bois, afin de préserver le fruit et l’acidité. Il en résulte un blanc sec léger, au degré modéré, vif et aromatique, conçu pour être bu jeune, dans l’année qui suit la vendange.</p>",
+    "it": "<p>Il <strong>Classic</strong> è il vino simbolo del Domaine du Tariquet e uno dei bianchi che più hanno contribuito a far conoscere l’<strong>IGP Côtes de Gascogne</strong>. Proviene dai vigneti della famiglia Grassa nel Bas-Armagnac, nel dipartimento del Gers.</p><p>Si basa su due varietà storiche della Guascogna, l’<strong>Ugni Blanc</strong> e il <strong>Colombard</strong>, per secoli coltivate soprattutto per la distillazione dell’Armagnac. Sono completate da <strong>Sauvignon Blanc</strong> e <strong>Gros Manseng</strong>, che apportano aromi e un po’ più di corpo.</p><p>Le uve sono vendemmiate al momento di massima freschezza e vinificate a bassa temperatura in vasca, senza legno, per preservare frutto e acidità. Ne risulta un bianco secco leggero, di gradazione moderata, vivace e aromatico, pensato per essere bevuto giovane, entro l’anno successivo alla vendemmia.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido con reflejos verdosos. Aromas de pomelo, limón, fruta de la pasión y flores blancas. Boca ligera, viva y refrescante.",
+    "en": "Pale yellow with green tints. Aromas of grapefruit, lemon, passion fruit and white flowers. Light, lively and refreshing palate.",
+    "fr": "Jaune pâle aux reflets verts. Arômes de pamplemousse, de citron, de fruit de la passion et de fleurs blanches. Bouche légère, vive et désaltérante.",
+    "it": "Giallo paglierino tenue con riflessi verdolini. Aromi di pompelmo, limone, frutto della passione e fiori bianchi. Bocca leggera, vivace e rinfrescante."
+  },
+  "pairing": {
+    "es": "Aperitivo, marisco, ensaladas, pescado a la plancha, cocina asiática suave",
+    "en": "Aperitif, shellfish, salads, grilled fish, mild Asian cuisine",
+    "fr": "Apéritif, fruits de mer, salades, poisson grillé, cuisine asiatique douce",
+    "it": "Aperitivo, frutti di mare, insalate, pesce alla griglia, cucina asiatica delicata"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Classic Domaine du Tariquet"
+}

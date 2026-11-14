@@ -1,0 +1,43 @@
+{
+  "slug": "harlan-the-mascot",
+  "name": "The Mascot",
+  "winery": "harlan-estate",
+  "region": "napa-valley",
+  "country": "estados-unidos",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "Tinto del valle de Napa de la familia Harlan, a base de Cabernet Sauvignon de las viñas jóvenes de Harlan Estate, BOND y Promontory.",
+    "en": "Napa Valley red from the Harlan family, based on Cabernet Sauvignon from the young vines of Harlan Estate, BOND and Promontory.",
+    "fr": "Rouge de la Napa Valley de la famille Harlan, à base de cabernet-sauvignon issu des jeunes vignes de Harlan Estate, BOND et Promontory.",
+    "it": "Rosso della Napa Valley della famiglia Harlan, a base di Cabernet Sauvignon dalle vigne giovani di Harlan Estate, BOND e Promontory."
+  },
+  "body": {
+    "es": "<p><strong>The Mascot</strong> es un tinto del <strong>valle de Napa</strong> elaborado por el equipo de <strong>Harlan Estate</strong>, la finca fundada por H. William Harlan en las colinas de Oakville. Se creó para aprovechar las uvas de las <strong>viñas más jóvenes</strong> de las propiedades de la familia, Harlan Estate, BOND y Promontory, que todavía no se destinan a sus vinos principales.</p><p>Se basa en el <strong>Cabernet Sauvignon</strong>, completado según la añada con otras variedades bordelesas. Las uvas proceden de viñedos de ladera con suelos pobres y bien drenados, y se vinifican con los mismos criterios de selección y cuidado que los grandes vinos de la casa, con crianza en barricas de roble francés.</p><p>Es un Cabernet de Napa de fruta negra madura, con notas de cassis, cacao y especias, textura amplia y taninos firmes pero pulidos. Se muestra más accesible en su juventud que los vinos principales de la familia, aunque conserva una buena capacidad de guarda. Ofrece una aproximación al estilo de la casa: concentración, equilibrio y finura.</p>",
+    "en": "<p><strong>The Mascot</strong> is a <strong>Napa Valley</strong> red made by the team at <strong>Harlan Estate</strong>, the estate founded by H. William Harlan in the hills of Oakville. It was created to make use of grapes from the <strong>younger vines</strong> of the family’s properties, Harlan Estate, BOND and Promontory, which are not yet used for their main wines.</p><p>It is based on <strong>Cabernet Sauvignon</strong>, completed depending on the vintage by other Bordeaux varieties. The grapes come from hillside vineyards with poor, well-drained soils and are vinified with the same selection criteria and care as the house’s great wines, with ageing in French oak barrels.</p><p>It is a Napa Cabernet of ripe dark fruit, with notes of cassis, cocoa and spice, a broad texture and firm yet polished tannins. It is more approachable in youth than the family’s main wines, while retaining good ageing potential. It offers an introduction to the house style: concentration, balance and finesse.</p>",
+    "fr": "<p><strong>The Mascot</strong> est un rouge de la <strong>Napa Valley</strong> élaboré par l’équipe de <strong>Harlan Estate</strong>, le domaine fondé par H. William Harlan dans les collines d’Oakville. Il a été créé pour valoriser les raisins des <strong>vignes les plus jeunes</strong> des propriétés de la famille, Harlan Estate, BOND et Promontory, qui ne sont pas encore destinés à leurs vins principaux.</p><p>Il repose sur le <strong>cabernet-sauvignon</strong>, complété selon le millésime par d’autres cépages bordelais. Les raisins proviennent de vignobles de coteaux aux sols pauvres et bien drainés et sont vinifiés avec les mêmes critères de sélection et le même soin que les grands vins de la maison, avec un élevage en barriques de chêne français.</p><p>C’est un cabernet de la Napa aux fruits noirs mûrs, aux notes de cassis, de cacao et d’épices, à la texture ample et aux tanins fermes mais polis. Il se montre plus accessible jeune que les vins principaux de la famille, tout en conservant un bon potentiel de garde. Il offre une approche du style de la maison : concentration, équilibre et finesse.</p>",
+    "it": "<p><strong>The Mascot</strong> è un rosso della <strong>Napa Valley</strong> prodotto dalla squadra di <strong>Harlan Estate</strong>, la tenuta fondata da H. William Harlan sulle colline di Oakville. È stato creato per valorizzare le uve delle <strong>vigne più giovani</strong> delle proprietà di famiglia, Harlan Estate, BOND e Promontory, non ancora destinate ai loro vini principali.</p><p>Si basa sul <strong>Cabernet Sauvignon</strong>, completato secondo l’annata da altre varietà bordolesi. Le uve provengono da vigneti collinari con suoli poveri e ben drenati e vengono vinificate con gli stessi criteri di selezione e la stessa cura dei grandi vini della casa, con affinamento in barrique di rovere francese.</p><p>È un Cabernet della Napa dal frutto nero maturo, con note di cassis, cacao e spezie, tessitura ampia e tannini decisi ma levigati. Si mostra più accessibile in gioventù rispetto ai vini principali della famiglia, pur conservando una buona capacità di invecchiamento. Offre un approccio allo stile della casa: concentrazione, equilibrio e finezza.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota muy oscuro. Aromas de cassis, mora, cacao y especias. Boca amplia y concentrada, de taninos pulidos y final largo.",
+    "en": "Very dark crimson. Aromas of cassis, blackberry, cocoa and spice. Broad, concentrated palate with polished tannins and a long finish.",
+    "fr": "Rouge très sombre. Arômes de cassis, de mûre, de cacao et d’épices. Bouche ample et concentrée, aux tanins polis et à la finale longue.",
+    "it": "Rosso molto scuro. Aromi di cassis, mora, cacao e spezie. Bocca ampia e concentrata, dai tannini levigati e dal finale lungo."
+  },
+  "pairing": {
+    "es": "Chuletón a la parrilla, cordero, costillas de ternera, quesos curados",
+    "en": "Grilled rib steak, lamb, braised short ribs, aged cheeses",
+    "fr": "Côte de bœuf grillée, agneau, travers de bœuf braisés, fromages affinés",
+    "it": "Costata alla griglia, agnello, costine di manzo brasate, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "The Mascot Napa Valley Harlan"
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "carmes-de-rieussec",
+  "name": "Carmes de Rieussec",
+  "winery": "chateau-rieussec",
+  "region": "sauternes",
+  "country": "francia",
+  "type": "dulce",
+  "category": {
+    "es": "Segundo vino",
+    "en": "Second wine",
+    "fr": "Second vin",
+    "it": "Secondo vino"
+  },
+  "grapes": [
+    "semillon",
+    "sauvignon-blanc",
+    "muscadelle"
+  ],
+  "summary": {
+    "es": "Segundo vino dulce de Château Rieussec, un Sauternes de Sémillon botritizado, más ligero y accesible que el gran vino.",
+    "en": "Second sweet wine of Château Rieussec, a Sauternes from botrytised Sémillon, lighter and more approachable than the grand vin.",
+    "fr": "Second vin liquoreux du Château Rieussec, un sauternes de sémillon botrytisé, plus léger et accessible que le grand vin.",
+    "it": "Secondo vino dolce di Château Rieussec, un Sauternes di Sémillon botritizzato, più leggero e accessibile del grand vin."
+  },
+  "body": {
+    "es": "<p><strong>Carmes de Rieussec</strong> es el segundo vino dulce de <strong>Château Rieussec</strong>, primer cru clasificado de <strong>Sauternes</strong> situado en Fargues. Se elabora con lotes del mismo viñedo que no se seleccionan para el gran vino, a menudo de viñas más jóvenes o de pasadas de vendimia de perfil más ligero.</p><p>Como el gran vino, se basa en <strong>Sémillon</strong> con algo de Sauvignon Blanc y Muscadelle, uvas vendimiadas a mano y afectadas por la <em>Botrytis cinerea</em>. La crianza en barrica es más corta y con menos madera nueva.</p><p>El resultado es un Sauternes de dulzor generoso pero más fresco y directo, con predominio de la fruta. Puede disfrutarse joven, aunque también evoluciona bien varios años en botella, ganando notas de miel y fruta confitada. Es una buena introducción al estilo de la casa.</p>",
+    "en": "<p><strong>Carmes de Rieussec</strong> is the second sweet wine of <strong>Château Rieussec</strong>, a <strong>Sauternes</strong> first growth located in Fargues. It is made from lots from the same vineyard that are not selected for the grand vin, often from younger vines or from harvest passes with a lighter profile.</p><p>Like the grand vin, it is based on <strong>Sémillon</strong> with some Sauvignon Blanc and Muscadelle, grapes picked by hand and affected by <em>Botrytis cinerea</em>. Barrel ageing is shorter and uses less new oak.</p><p>The result is a Sauternes with generous sweetness but fresher and more direct, with fruit to the fore. It can be enjoyed young, although it also develops well for several years in bottle, gaining notes of honey and candied fruit. It is a good introduction to the house style and to sweet Bordeaux wines in general.</p>",
+    "fr": "<p><strong>Carmes de Rieussec</strong> est le second vin liquoreux du <strong>Château Rieussec</strong>, premier cru classé de <strong>Sauternes</strong> situé à Fargues. Il est élaboré à partir de lots du même vignoble non retenus pour le grand vin, souvent issus de jeunes vignes ou de tries au profil plus léger.</p><p>Comme le grand vin, il repose sur le <strong>sémillon</strong>, avec un peu de sauvignon blanc et de muscadelle, des raisins vendangés à la main et atteints par le <em>Botrytis cinerea</em>. L’élevage en barrique est plus court et fait moins appel au bois neuf.</p><p>Le résultat est un sauternes à la douceur généreuse mais plus frais et direct, dominé par le fruit. Il peut s’apprécier jeune, mais évolue aussi bien plusieurs années en bouteille, en gagnant des notes de miel et de fruits confits. C’est une bonne introduction au style de la maison.</p>",
+    "it": "<p><strong>Carmes de Rieussec</strong> è il secondo vino dolce di <strong>Château Rieussec</strong>, premier cru classé di <strong>Sauternes</strong> situato a Fargues. Si produce con lotti dello stesso vigneto non selezionati per il grand vin, spesso da viti più giovani o da passaggi di vendemmia dal profilo più leggero.</p><p>Come il grand vin, si basa sul <strong>Sémillon</strong> con un po’ di Sauvignon Blanc e Muscadelle, uve vendemmiate a mano e colpite dalla <em>Botrytis cinerea</em>. L’affinamento in barrique è più breve e con meno legno nuovo.</p><p>Il risultato è un Sauternes dalla dolcezza generosa ma più fresco e diretto, dominato dal frutto. Si può gustare giovane, anche se evolve bene per diversi anni in bottiglia, acquisendo note di miele e frutta candita. È una buona introduzione allo stile della casa.</p>"
+  },
+  "tasting": {
+    "es": "Dorado. Aromas de albaricoque, melocotón, cítricos confitados y miel. Boca dulce y fresca, de cuerpo medio, con final afrutado.",
+    "en": "Golden. Aromas of apricot, peach, candied citrus and honey. Sweet, fresh, medium-bodied palate with a fruity finish.",
+    "fr": "Doré. Arômes d’abricot, de pêche, d’agrumes confits et de miel. Bouche douce et fraîche, de corps moyen, à la finale fruitée.",
+    "it": "Dorato. Aromi di albicocca, pesca, agrumi canditi e miele. Bocca dolce e fresca, di medio corpo, con finale fruttato."
+  },
+  "pairing": {
+    "es": "Foie gras, quesos azules, tartas de frutas, postres con albaricoque",
+    "en": "Foie gras, blue cheeses, fruit tarts, apricot desserts",
+    "fr": "Foie gras, fromages à pâte persillée, tartes aux fruits, desserts à l’abricot",
+    "it": "Foie gras, formaggi erborinati, crostate di frutta, dolci all’albicocca"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Carmes de Rieussec Sauternes"
+}

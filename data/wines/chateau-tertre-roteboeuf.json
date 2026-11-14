@@ -1,0 +1,49 @@
+{
+  "slug": "chateau-tertre-roteboeuf",
+  "name": "Château Tertre Rôteboeuf",
+  "winery": "chateau-tertre-roteboeuf",
+  "region": "saint-emilion",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Saint-Émilion Grand Cru",
+    "en": "Saint-Émilion Grand Cru",
+    "fr": "Saint-Émilion Grand Cru",
+    "it": "Saint-Émilion Grand Cru"
+  },
+  "grapes": [
+    "merlot",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Tinto de Saint-Émilion de François Mitjavile, a base de Merlot y Cabernet Franc, conocido por su madurez, su textura sedosa y su complejidad.",
+    "en": "Saint-Émilion red from François Mitjavile, based on Merlot and Cabernet Franc, known for its ripeness, silky texture and complexity.",
+    "fr": "Rouge de Saint-Émilion de François Mitjavile, à base de merlot et de cabernet franc, connu pour sa maturité, sa texture soyeuse et sa complexité.",
+    "it": "Rosso di Saint-Émilion di François Mitjavile, a base di Merlot e Cabernet Franc, noto per maturità, consistenza setosa e complessità."
+  },
+  "body": {
+    "es": "<p><strong>Tertre Rôteboeuf</strong> es el único vino de la pequeña propiedad de François Mitjavile en Saint-Laurent-des-Combes, en la denominación <strong>Saint-Émilion Grand Cru</strong>. Procede de un viñedo en anfiteatro orientado al sur, sobre la ladera de arcillas y calizas que bordea la meseta de Saint-Émilion.</p><p>Se elabora con <strong>Merlot</strong>, mayoritario, y <strong>Cabernet Franc</strong>. La filosofía de la casa privilegia vendimias tardías para obtener una madurez completa, seguidas de una vinificación cuidadosa y una crianza en barrica de roble que acompaña la riqueza del vino.</p><p>El estilo es opulento pero equilibrado: fruta madura y sabrosa, notas especiadas y de trufa, taninos muy finos y una textura sedosa. Aunque se muestra seductor desde joven, las buenas añadas tienen una gran capacidad de guarda y desarrollan con el tiempo una complejidad notable. La propiedad permanece al margen de la clasificación de Saint-Émilion. Es uno de los ejemplos más citados del potencial de las laderas de Saint-Émilion fuera de la meseta principal.</p>",
+    "en": "<p><strong>Tertre Rôteboeuf</strong> is the only wine of François Mitjavile's small estate in Saint-Laurent-des-Combes, in the <strong>Saint-Émilion Grand Cru</strong> appellation. It comes from a south-facing amphitheatre vineyard on the clay and limestone slope bordering the Saint-Émilion plateau.</p><p>It is made from <strong>Merlot</strong>, which predominates, and <strong>Cabernet Franc</strong>. The house philosophy favours late harvesting to achieve full ripeness, followed by careful vinification and oak barrel ageing that supports the wine's richness.</p><p>The style is opulent yet balanced: ripe, savoury fruit, notes of spice and truffle, very fine tannins and a silky texture. Although seductive from an early age, good vintages have great ageing potential and develop remarkable complexity over time. The estate remains outside the Saint-Émilion classification. It is one of the most frequently cited examples of the potential of the Saint-Émilion slopes beyond the main plateau.</p>",
+    "fr": "<p><strong>Tertre Rôteboeuf</strong> est l'unique vin de la petite propriété de François Mitjavile à Saint-Laurent-des-Combes, en appellation <strong>saint-émilion grand cru</strong>. Il provient d'un vignoble en amphithéâtre exposé au sud, sur le coteau argilo-calcaire qui borde le plateau de Saint-Émilion.</p><p>Il est issu de <strong>merlot</strong>, majoritaire, et de <strong>cabernet franc</strong>. La philosophie de la maison privilégie des vendanges tardives pour atteindre une maturité complète, suivies d'une vinification soignée et d'un élevage en barriques de chêne qui accompagne la richesse du vin.</p><p>Le style est opulent mais équilibré : fruit mûr et savoureux, notes d'épices et de truffe, tanins très fins et texture soyeuse. Bien qu'il se montre séduisant dès sa jeunesse, les bons millésimes possèdent un grand potentiel de garde et développent avec le temps une complexité remarquable. La propriété reste en dehors du classement de Saint-Émilion. C'est l'un des exemples les plus cités du potentiel des coteaux de Saint-Émilion en dehors du plateau principal.</p>",
+    "it": "<p><strong>Tertre Rôteboeuf</strong> è l'unico vino della piccola tenuta di François Mitjavile a Saint-Laurent-des-Combes, nella denominazione <strong>Saint-Émilion Grand Cru</strong>. Proviene da un vigneto ad anfiteatro esposto a sud, sul pendio argillo-calcareo che costeggia l'altopiano di Saint-Émilion.</p><p>È prodotto con <strong>Merlot</strong>, prevalente, e <strong>Cabernet Franc</strong>. La filosofia della casa privilegia vendemmie tardive per ottenere una maturazione completa, seguite da una vinificazione attenta e da un affinamento in barrique di rovere che accompagna la ricchezza del vino.</p><p>Lo stile è opulento ma equilibrato: frutto maturo e saporito, note di spezie e tartufo, tannini finissimi e consistenza setosa. Pur essendo seducente fin da giovane, le buone annate hanno una grande capacità d'invecchiamento e sviluppano col tempo una complessità notevole. La tenuta resta al di fuori della classificazione di Saint-Émilion. È uno degli esempi più citati del potenziale dei pendii di Saint-Émilion al di fuori dell'altopiano principale.</p>"
+  },
+  "tasting": {
+    "es": "Rojo granate profundo. Aromas de ciruela madura, cereza negra, especias, trufa y notas tostadas. Boca amplia y sedosa, de taninos muy finos.",
+    "en": "Deep garnet. Aromas of ripe plum, black cherry, spice, truffle and toasty notes. Broad, silky palate with very fine tannins.",
+    "fr": "Grenat profond. Arômes de prune mûre, de cerise noire, d'épices, de truffe et notes toastées. Bouche ample et soyeuse aux tanins très fins.",
+    "it": "Granato profondo. Aromi di prugna matura, ciliegia nera, spezie, tartufo e note tostate. Bocca ampia e setosa, tannini finissimi."
+  },
+  "pairing": {
+    "es": "Pichón, cordero asado, carnes con trufa, setas, quesos curados",
+    "en": "Squab, roast lamb, meats with truffle, mushrooms, aged cheeses",
+    "fr": "Pigeon, agneau rôti, viandes truffées, champignons, fromages affinés",
+    "it": "Piccione, agnello arrosto, carni al tartufo, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de Burdeos; decantar",
+    "en": "16-18 °C, Bordeaux glass; decant",
+    "fr": "16-18 °C, verre à bordeaux ; carafer",
+    "it": "16-18 °C, calice da Bordeaux; decantare"
+  },
+  "search": "Château Tertre Rôteboeuf Saint-Émilion Grand Cru"
+}

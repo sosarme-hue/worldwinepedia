@@ -1,0 +1,45 @@
+{
+  "slug": "dominus",
+  "name": "Dominus",
+  "winery": "dominus-estate",
+  "region": "napa-valley",
+  "country": "estados-unidos",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon",
+    "cabernet-franc",
+    "petit-verdot"
+  ],
+  "summary": {
+    "es": "Gran vino de Dominus Estate, el tinto de Christian Moueix en el valle de Napa, a base de Cabernet Sauvignon del viñedo Napanook.",
+    "en": "The grand vin of Dominus Estate, Christian Moueix's red from the Napa Valley, based on Cabernet Sauvignon from the Napanook vineyard.",
+    "fr": "Grand vin de Dominus Estate, le rouge de Christian Moueix dans la Napa Valley, à base de cabernet sauvignon du vignoble de Napanook.",
+    "it": "Grand vin di Dominus Estate, il rosso di Christian Moueix nella Napa Valley, a base di Cabernet Sauvignon del vigneto Napanook."
+  },
+  "body": {
+    "es": "<p><strong>Dominus</strong> es el gran vino de Dominus Estate, la finca que <strong>Christian Moueix</strong>, figura clave de Pomerol, dirige en <strong>Yountville</strong>, en el valle de Napa. Procede del histórico viñedo <strong>Napanook</strong>, al pie de las montañas Mayacamas.</p><p>Se elabora con un ensamblaje dominado por el <strong>Cabernet Sauvignon</strong>, completado con <strong>Cabernet Franc</strong> y <strong>Petit Verdot</strong>, en proporciones que varían según la añada. Las uvas de las mejores parcelas se seleccionan para el gran vino, y la crianza se realiza en barricas de roble francés.</p><p>Su estilo combina la madurez de la fruta californiana con una estructura y una contención de inspiración bordelesa: taninos firmes pero finos, acidez presente y una búsqueda de equilibrio por encima de la potencia. Es un vino de larga guarda, que en su juventud se muestra cerrado y que con los años desarrolla complejidad, con notas de cedro, tabaco, grafito y fruta negra madura.</p>",
+    "en": "<p><strong>Dominus</strong> is the grand vin of Dominus Estate, the property that <strong>Christian Moueix</strong>, a key figure in Pomerol, runs in <strong>Yountville</strong> in the Napa Valley. It comes from the historic <strong>Napanook</strong> vineyard at the foot of the Mayacamas Mountains.</p><p>It is made from a blend dominated by <strong>Cabernet Sauvignon</strong>, completed with <strong>Cabernet Franc</strong> and <strong>Petit Verdot</strong>, in proportions that vary with the vintage. Grapes from the best plots are selected for the grand vin, and ageing takes place in French oak barrels.</p><p>Its style combines the ripeness of Californian fruit with a Bordeaux-inspired structure and restraint: firm but fine tannins, noticeable acidity and a search for balance over power. It is a wine for long ageing, closed in its youth, which develops complexity over the years with notes of cedar, tobacco, graphite and ripe black fruit.</p>",
+    "fr": "<p><strong>Dominus</strong> est le grand vin de Dominus Estate, la propriété que <strong>Christian Moueix</strong>, figure majeure de Pomerol, dirige à <strong>Yountville</strong>, dans la Napa Valley. Il provient du vignoble historique de <strong>Napanook</strong>, au pied des monts Mayacamas.</p><p>Il est issu d'un assemblage dominé par le <strong>cabernet sauvignon</strong>, complété de <strong>cabernet franc</strong> et de <strong>petit verdot</strong>, dans des proportions variables selon le millésime. Les raisins des meilleures parcelles sont sélectionnés pour le grand vin, et l'élevage se fait en barriques de chêne français.</p><p>Son style associe la maturité du fruit californien à une structure et une retenue d'inspiration bordelaise : tanins fermes mais fins, acidité présente et recherche de l'équilibre plutôt que de la puissance. C'est un vin de longue garde, fermé dans sa jeunesse, qui développe avec les années une grande complexité, avec des notes de cèdre, de tabac, de graphite et de fruits noirs mûrs.</p>",
+    "it": "<p><strong>Dominus</strong> è il grand vin di Dominus Estate, la tenuta che <strong>Christian Moueix</strong>, figura chiave di Pomerol, guida a <strong>Yountville</strong>, nella Napa Valley. Proviene dallo storico vigneto <strong>Napanook</strong>, ai piedi dei monti Mayacamas.</p><p>È prodotto con un taglio dominato dal <strong>Cabernet Sauvignon</strong>, completato da <strong>Cabernet Franc</strong> e <strong>Petit Verdot</strong>, in proporzioni che variano secondo l'annata. Le uve delle parcelle migliori sono selezionate per il grand vin, e l'affinamento avviene in barrique di rovere francese.</p><p>Il suo stile unisce la maturità del frutto californiano a una struttura e una misura d'ispirazione bordolese: tannini decisi ma fini, acidità presente e ricerca dell'equilibrio più che della potenza. È un vino da lungo invecchiamento, chiuso in gioventù, che con gli anni sviluppa complessità, con note di cedro, tabacco, grafite e frutta nera matura.</p>"
+  },
+  "tasting": {
+    "es": "Rojo muy oscuro. Aromas de cassis, mora, grafito, cedro y especias. Boca estructurada, de taninos firmes y finos, con un final largo.",
+    "en": "Very deep red. Aromas of blackcurrant, blackberry, graphite, cedar and spice. Structured palate with firm, fine tannins and a long finish.",
+    "fr": "Rouge très sombre. Arômes de cassis, de mûre, de graphite, de cèdre et d'épices. Bouche structurée aux tanins fermes et fins, finale longue.",
+    "it": "Rosso molto scuro. Aromi di ribes nero, mora, grafite, cedro e spezie. Bocca strutturata, tannini decisi e fini, finale lungo."
+  },
+  "pairing": {
+    "es": "Costillar de cordero, buey asado, caza, quesos curados",
+    "en": "Rack of lamb, roast beef, game, aged cheeses",
+    "fr": "Carré d'agneau, bœuf rôti, gibier, fromages affinés",
+    "it": "Carré d'agnello, manzo arrosto, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de Burdeos; decantar en su juventud",
+    "en": "16-18 °C, Bordeaux glass; decant when young",
+    "fr": "16-18 °C, verre à bordeaux ; carafer dans sa jeunesse",
+    "it": "16-18 °C, calice da Bordeaux; decantare in gioventù"
+  },
+  "search": "Dominus Napa Valley Dominus Estate"
+}

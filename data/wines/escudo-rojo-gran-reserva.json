@@ -1,0 +1,50 @@
+{
+  "slug": "escudo-rojo-gran-reserva",
+  "name": "Escudo Rojo Gran Reserva",
+  "winery": "baron-philippe-de-rothschild",
+  "region": "valle-del-maipo",
+  "country": "chile",
+  "type": "tinto",
+  "category": {
+    "es": "Gran Reserva",
+    "en": "Gran Reserva",
+    "fr": "Gran Reserva",
+    "it": "Gran Reserva"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "carmenere",
+    "syrah"
+  ],
+  "summary": {
+    "es": "Tinto chileno de ensamblaje de Baron Philippe de Rothschild, que combina Cabernet Sauvignon, Carménère y Syrah al estilo de los ensamblajes bordeleses.",
+    "en": "Chilean red blend from Baron Philippe de Rothschild, combining Cabernet Sauvignon, Carménère and Syrah in the manner of Bordeaux blends.",
+    "fr": "Rouge chilien d’assemblage de Baron Philippe de Rothschild, associant cabernet-sauvignon, carmenère et syrah à la manière des assemblages bordelais.",
+    "it": "Rosso cileno di assemblaggio di Baron Philippe de Rothschild, che unisce Cabernet Sauvignon, Carménère e Syrah alla maniera degli uvaggi bordolesi."
+  },
+  "body": {
+    "es": "<p><strong>Escudo Rojo</strong> es la marca chilena de <strong>Baron Philippe de Rothschild</strong>, la empresa vinícola de la familia propietaria de Château Mouton Rothschild, presente en Chile también a través de Almaviva. Su nombre, «escudo rojo», es la traducción al español de Rothschild, apellido que procede del escudo rojo que distinguía la casa familiar en Fráncfort.</p><p>El <strong>Gran Reserva</strong> es el tinto más conocido de la gama y aplica al vino chileno la tradición bordelesa del ensamblaje. Combina el <strong>Cabernet Sauvignon</strong>, que aporta estructura y notas de grosella negra, con la <strong>Carménère</strong>, variedad de origen bordelés que se ha convertido en emblema de Chile, y la <strong>Syrah</strong>, que añade fruta y especias. Las uvas proceden del valle Central, con el valle del Maipo como referencia, y una parte del vino se cría en barricas de roble.</p><p>Es un tinto de fruta negra madura, con notas especiadas y ligeramente herbáceas, cuerpo medio a pleno y taninos suaves, que puede disfrutarse joven.</p>",
+    "en": "<p><strong>Escudo Rojo</strong> is the Chilean brand of <strong>Baron Philippe de Rothschild</strong>, the wine company of the family that owns Château Mouton Rothschild and is also present in Chile through Almaviva. Its name, “red shield”, is the Spanish translation of Rothschild, a surname derived from the red shield that marked the family house in Frankfurt.</p><p>The <strong>Gran Reserva</strong> is the best-known red in the range and applies the Bordeaux tradition of blending to Chilean wine. It combines <strong>Cabernet Sauvignon</strong>, which brings structure and blackcurrant notes, with <strong>Carménère</strong>, a variety of Bordeaux origin that has become an emblem of Chile, and <strong>Syrah</strong>, which adds fruit and spice. The grapes come from the Central Valley, with the Maipo Valley as a reference, and part of the wine is aged in oak barrels.</p><p>It is a red of ripe dark fruit, with spicy and slightly herbal notes, medium to full body and soft tannins, which can be enjoyed young.</p>",
+    "fr": "<p><strong>Escudo Rojo</strong> est la marque chilienne de <strong>Baron Philippe de Rothschild</strong>, la maison de la famille propriétaire de Château Mouton Rothschild, également présente au Chili avec Almaviva. Son nom, « écu rouge », est la traduction espagnole de Rothschild, patronyme issu de l’écu rouge qui signalait la maison familiale à Francfort.</p><p>Le <strong>Gran Reserva</strong> est le rouge le plus connu de la gamme et applique au vin chilien la tradition bordelaise de l’assemblage. Il associe le <strong>cabernet-sauvignon</strong>, qui apporte structure et notes de cassis, à la <strong>carmenère</strong>, cépage d’origine bordelaise devenu emblème du Chili, et à la <strong>syrah</strong>, qui ajoute fruit et épices. Les raisins proviennent de la Vallée centrale, avec la vallée du Maipo comme référence, et une partie du vin est élevée en barriques de chêne.</p><p>C’est un rouge aux fruits noirs mûrs, aux notes épicées et légèrement herbacées, de corps moyen à plein et aux tanins souples, qui peut s’apprécier jeune.</p>",
+    "it": "<p><strong>Escudo Rojo</strong> è il marchio cileno di <strong>Baron Philippe de Rothschild</strong>, la casa vinicola della famiglia proprietaria di Château Mouton Rothschild, presente in Cile anche con Almaviva. Il nome, «scudo rosso», è la traduzione spagnola di Rothschild, cognome derivato dallo scudo rosso che contrassegnava la casa di famiglia a Francoforte.</p><p>Il <strong>Gran Reserva</strong> è il rosso più noto della gamma e applica al vino cileno la tradizione bordolese dell’assemblaggio. Unisce il <strong>Cabernet Sauvignon</strong>, che apporta struttura e note di ribes nero, alla <strong>Carménère</strong>, varietà di origine bordolese diventata simbolo del Cile, e alla <strong>Syrah</strong>, che aggiunge frutto e spezie. Le uve provengono dalla Valle Centrale, con la valle del Maipo come riferimento, e una parte del vino affina in barrique di rovere.</p><p>È un rosso di frutta nera matura, con note speziate e leggermente erbacee, corpo medio-pieno e tannini morbidi, che si può gustare giovane.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota. Aromas de grosella negra, ciruela, pimienta y un toque herbáceo. Boca amplia, de taninos suaves.",
+    "en": "Deep red. Aromas of blackcurrant, plum, pepper and a herbal touch. Broad palate with soft tannins.",
+    "fr": "Rouge profond. Arômes de cassis, de prune, de poivre et une touche herbacée. Bouche ample, aux tanins souples.",
+    "it": "Rosso intenso. Aromi di ribes nero, prugna, pepe e un tocco erbaceo. Bocca ampia, dai tannini morbidi."
+  },
+  "pairing": {
+    "es": "Carnes a la parrilla, empanadas de carne, cordero, pasta con ragú",
+    "en": "Grilled meat, beef empanadas, lamb, pasta with ragù",
+    "fr": "Viandes grillées, empanadas à la viande, agneau, pâtes au ragoût",
+    "it": "Carni alla griglia, empanadas di carne, agnello, pasta al ragù"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Escudo Rojo Gran Reserva Baron Philippe de Rothschild"
+}

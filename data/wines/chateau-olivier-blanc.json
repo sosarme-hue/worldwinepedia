@@ -1,0 +1,49 @@
+{
+  "slug": "chateau-olivier-blanc",
+  "name": "Château Olivier Blanc",
+  "winery": "chateau-olivier",
+  "region": "pessac-leognan",
+  "country": "francia",
+  "type": "blanco",
+  "category": {
+    "es": "Cru Classé de Graves",
+    "en": "Cru Classé de Graves",
+    "fr": "Cru classé de Graves",
+    "it": "Cru Classé de Graves"
+  },
+  "grapes": [
+    "sauvignon-blanc",
+    "semillon"
+  ],
+  "summary": {
+    "es": "Blanco seco de Château Olivier, Cru Classé de Graves de Léognan, de Sauvignon Blanc y Sémillon.",
+    "en": "The dry white of Château Olivier, a Cru Classé de Graves in Léognan, from Sauvignon Blanc and Sémillon.",
+    "fr": "Blanc sec de Château Olivier, cru classé de Graves à Léognan, de sauvignon blanc et de sémillon.",
+    "it": "Bianco secco di Château Olivier, Cru Classé de Graves a Léognan, da Sauvignon Blanc e Sémillon."
+  },
+  "body": {
+    "es": "<p>El blanco de <strong>Château Olivier</strong> figura, como el tinto, entre los <strong>Crus Classés de Graves</strong>, y es uno de los blancos secos de referencia de <strong>Pessac-Léognan</strong>, la zona de Burdeos con mayor tradición en este estilo.</p><p>Se elabora mayoritariamente con <strong>Sauvignon Blanc</strong>, que aporta tensión y aromas cítricos, junto con <strong>Sémillon</strong>, que da textura y redondez, y una pequeña proporción de Muscadelle. Las uvas proceden de parcelas de la finca con suelos de grava, arcilla y caliza. El vino fermenta y se cría en barricas de roble, con removido de lías, lo que aporta complejidad sin ocultar la fruta.</p><p>Es un blanco vivo y aromático, con una buena acidez que le permite evolucionar varios años en botella, durante los cuales desarrolla notas de cera y frutos secos.</p>",
+    "en": "<p>The white <strong>Château Olivier</strong>, like the red, is one of the <strong>Crus Classés de Graves</strong>, and is a benchmark dry white of <strong>Pessac-Léognan</strong>, the Bordeaux area with the strongest tradition in this style.</p><p>It is made mostly from <strong>Sauvignon Blanc</strong>, which brings tension and citrus aromas, together with <strong>Sémillon</strong>, which gives texture and roundness, and a small proportion of Muscadelle. The grapes come from estate plots with gravel, clay and limestone soils. The wine is fermented and aged in oak barrels with lees stirring, adding complexity without masking the fruit.</p><p>It is a lively, aromatic white whose good acidity allows it to develop for several years in bottle, during which it gains notes of wax and nuts.</p>",
+    "fr": "<p>Le blanc de <strong>Château Olivier</strong> figure, comme le rouge, parmi les <strong>crus classés de Graves</strong> ; c’est l’un des blancs secs de référence de <strong>Pessac-Léognan</strong>, le secteur bordelais à la plus forte tradition dans ce style.</p><p>Il est issu majoritairement de <strong>sauvignon blanc</strong>, qui apporte tension et arômes d’agrumes, associé au <strong>sémillon</strong>, qui donne texture et rondeur, et à un peu de muscadelle. Les raisins proviennent de parcelles du domaine aux sols de graves, d’argile et de calcaire. Le vin fermente et s’élève en barriques de chêne avec bâtonnage des lies, ce qui apporte de la complexité sans masquer le fruit.</p><p>C’est un blanc vif et aromatique, dont la bonne acidité lui permet d’évoluer plusieurs années en bouteille, en développant des notes de cire et de fruits secs.</p>",
+    "it": "<p>Il bianco di <strong>Château Olivier</strong> figura, come il rosso, tra i <strong>Crus Classés de Graves</strong> ed è uno dei bianchi secchi di riferimento di <strong>Pessac-Léognan</strong>, la zona di Bordeaux con la maggiore tradizione in questo stile.</p><p>È prodotto in prevalenza con <strong>Sauvignon Blanc</strong>, che apporta tensione e aromi agrumati, insieme al <strong>Sémillon</strong>, che dona tessitura e rotondità, e a una piccola quota di Muscadelle. Le uve provengono da parcelle della tenuta con suoli di ghiaia, argilla e calcare. Il vino fermenta e affina in barrique di rovere con bâtonnage delle fecce, che apporta complessità senza coprire il frutto.</p><p>È un bianco vivace e aromatico, la cui buona acidità gli permette di evolvere per diversi anni in bottiglia, sviluppando note di cera e frutta secca.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido brillante. Aromas de pomelo, limón, flores blancas y un toque tostado. Boca viva, con buena textura y final largo.",
+    "en": "Bright pale yellow. Aromas of grapefruit, lemon, white flowers and a toasty touch. Lively palate with good texture and a long finish.",
+    "fr": "Jaune pâle brillant. Arômes de pamplemousse, de citron, de fleurs blanches et une touche grillée. Bouche vive, bien texturée, à la finale longue.",
+    "it": "Giallo paglierino brillante. Aromi di pompelmo, limone, fiori bianchi e un tocco tostato. Bocca vivace, di buona tessitura, dal finale lungo."
+  },
+  "pairing": {
+    "es": "Pescados nobles, marisco, aves en salsa, quesos de cabra",
+    "en": "Fine fish, shellfish, poultry in sauce, goat’s cheeses",
+    "fr": "Poissons nobles, fruits de mer, volailles en sauce, fromages de chèvre",
+    "it": "Pesce pregiato, frutti di mare, pollame in salsa, formaggi di capra"
+  },
+  "serve": {
+    "es": "11-13 °C, copa de vino blanco amplia",
+    "en": "11-13 °C, large white-wine glass",
+    "fr": "11-13 °C, verre à vin blanc ample",
+    "it": "11-13 °C, calice ampio da vino bianco"
+  },
+  "search": "Château Olivier Blanc Pessac-Léognan"
+}

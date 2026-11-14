@@ -1,0 +1,49 @@
+{
+  "slug": "sarget-de-gruaud-larose",
+  "name": "Sarget de Gruaud Larose",
+  "winery": "chateau-gruaud-larose",
+  "region": "saint-julien",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Segundo vino",
+    "en": "Second wine",
+    "fr": "Second vin",
+    "it": "Secondo vino"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Segundo vino de Château Gruaud Larose, un Saint-Julien de Cabernet Sauvignon y Merlot, afrutado y más accesible que el gran vino.",
+    "en": "Second wine of Château Gruaud Larose, a Saint-Julien from Cabernet Sauvignon and Merlot, fruity and more approachable than the grand vin.",
+    "fr": "Second vin du Château Gruaud Larose, un saint-julien de cabernet sauvignon et de merlot, fruité et plus accessible que le grand vin.",
+    "it": "Secondo vino di Château Gruaud Larose, un Saint-Julien di Cabernet Sauvignon e Merlot, fruttato e più accessibile del grand vin."
+  },
+  "body": {
+    "es": "<p><strong>Sarget de Gruaud Larose</strong> es el segundo vino de <strong>Château Gruaud Larose</strong>, segundo gran cru clasificado de la denominación <strong>Saint-Julien</strong>. Su nombre recuerda al barón Sarget, propietario en el siglo XIX de una parte de la finca cuando ésta estaba dividida.</p><p>Se elabora con los lotes que no se destinan al gran vino, a menudo procedentes de viñas más jóvenes o de parcelas de perfil más ligero, del mismo viñedo de gravas. El ensamblaje combina <strong>Cabernet Sauvignon y Merlot</strong>, y la crianza en barrica es más corta o con menos madera nueva que la del gran vino.</p><p>Es un tinto de cuerpo medio, con fruta negra madura, notas de cedro y especias y taninos más suaves, que transmite el carácter de Saint-Julien de forma más inmediata. Puede disfrutarse a los pocos años de la cosecha, aunque las buenas añadas mejoran con algunos años de guarda.</p>",
+    "en": "<p><strong>Sarget de Gruaud Larose</strong> is the second wine of <strong>Château Gruaud Larose</strong>, a second growth in the <strong>Saint-Julien</strong> appellation. Its name recalls Baron Sarget, who in the nineteenth century owned part of the estate when it was divided.</p><p>It is made from lots not used for the grand vin, often from younger vines or lighter plots, from the same gravel vineyard. The blend combines <strong>Cabernet Sauvignon and Merlot</strong>, and barrel ageing is shorter or uses less new oak than for the grand vin.</p><p>It is a medium-bodied red with ripe black fruit, notes of cedar and spice and softer tannins, conveying the character of Saint-Julien in a more immediate way. It can be enjoyed a few years after the vintage, although good vintages improve with some years of cellaring and keep their balance well over time.</p>",
+    "fr": "<p><strong>Sarget de Gruaud Larose</strong> est le second vin du <strong>Château Gruaud Larose</strong>, deuxième grand cru classé de l’appellation <strong>Saint-Julien</strong>. Son nom rappelle le baron Sarget, qui posséda au XIXe siècle une partie du domaine lorsque celui-ci était divisé.</p><p>Il est élaboré à partir des lots non retenus pour le grand vin, souvent issus de jeunes vignes ou de parcelles au profil plus léger, sur le même vignoble de graves. L’assemblage associe <strong>cabernet sauvignon et merlot</strong>, et l’élevage en barrique est plus court ou fait moins appel au bois neuf que pour le grand vin.</p><p>C’est un rouge de corps moyen, au fruit noir mûr, aux notes de cèdre et d’épices et aux tanins plus souples, qui exprime le caractère de Saint-Julien de manière plus immédiate. Il peut s’apprécier quelques années après la récolte, même si les bons millésimes gagnent à quelques années de garde.</p>",
+    "it": "<p><strong>Sarget de Gruaud Larose</strong> è il secondo vino di <strong>Château Gruaud Larose</strong>, secondo grand cru classé della denominazione <strong>Saint-Julien</strong>. Il nome ricorda il barone Sarget, che nell’Ottocento possedeva una parte della tenuta quando questa era divisa.</p><p>Si produce con i lotti non destinati al grand vin, spesso da viti più giovani o da parcelle dal profilo più leggero, dello stesso vigneto di ghiaie. L’assemblaggio unisce <strong>Cabernet Sauvignon e Merlot</strong>, e l’affinamento in barrique è più breve o con meno legno nuovo rispetto al grand vin.</p><p>È un rosso di medio corpo, con frutto nero maturo, note di cedro e spezie e tannini più morbidi, che esprime il carattere di Saint-Julien in modo più immediato. Si può gustare pochi anni dopo la vendemmia, anche se le buone annate migliorano con qualche anno di affinamento.</p>"
+  },
+  "tasting": {
+    "es": "Rubí oscuro. Aromas de casis, ciruela, cedro y especias suaves. Boca de cuerpo medio, redonda, con taninos suaves y final afrutado.",
+    "en": "Dark ruby. Aromas of blackcurrant, plum, cedar and gentle spice. Medium-bodied, round palate with soft tannins and a fruity finish.",
+    "fr": "Rubis sombre. Arômes de cassis, de prune, de cèdre et d’épices douces. Bouche de corps moyen, ronde, aux tanins souples et finale fruitée.",
+    "it": "Rubino scuro. Aromi di ribes nero, prugna, cedro e spezie delicate. Bocca di medio corpo, rotonda, con tannini morbidi e finale fruttato."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la parrilla, aves asadas, quesos semicurados",
+    "en": "Grilled red meat, roast poultry, semi-hard cheeses",
+    "fr": "Viandes rouges grillées, volailles rôties, fromages mi-affinés",
+    "it": "Carni rosse alla griglia, pollame arrosto, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de Burdeos",
+    "en": "16-18 °C, Bordeaux glass",
+    "fr": "16-18 °C, verre de type bordelais",
+    "it": "16-18 °C, calice tipo Bordeaux"
+  },
+  "search": "Sarget de Gruaud Larose Saint-Julien"
+}

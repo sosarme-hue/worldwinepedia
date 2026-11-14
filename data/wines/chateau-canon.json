@@ -1,0 +1,49 @@
+{
+  "slug": "chateau-canon",
+  "name": "Château Canon",
+  "winery": "chateau-canon",
+  "region": "saint-emilion",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Premier Grand Cru Classé B",
+    "en": "Premier Grand Cru Classé B",
+    "fr": "Premier grand cru classé B",
+    "it": "Premier Grand Cru Classé B"
+  },
+  "grapes": [
+    "merlot",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Grand vin de Château Canon, Premier Grand Cru Classé de Saint-Émilion de Merlot y Cabernet Franc criado en la meseta caliza.",
+    "en": "The grand vin of Château Canon, a Saint-Émilion Premier Grand Cru Classé of Merlot and Cabernet Franc from the limestone plateau.",
+    "fr": "Grand vin de Château Canon, premier grand cru classé de Saint-Émilion de merlot et de cabernet franc né sur le plateau calcaire.",
+    "it": "Grand vin di Château Canon, Premier Grand Cru Classé di Saint-Émilion di Merlot e Cabernet Franc dell’altopiano calcareo."
+  },
+  "body": {
+    "es": "<p><strong>Château Canon</strong> es el vino principal de esta propiedad de la familia Wertheimer, situada en la meseta caliza al oeste del pueblo de <strong>Saint-Émilion</strong> y clasificada como <strong>Premier Grand Cru Classé B</strong>. Sus viñas, en buena parte replantadas desde finales de los años noventa, crecen sobre una capa de arcilla poco profunda que cubre la roca caliza.</p><p>El ensamblaje se basa en el <strong>Merlot</strong>, con una proporción significativa de <strong>Cabernet Franc</strong>, que aporta frescura y notas aromáticas. Tras una vinificación por parcelas, el vino se cría en barricas de roble, en parte en las antiguas canteras subterráneas de la finca, donde la temperatura y la humedad se mantienen estables de forma natural.</p><p>Es un Saint-Émilion de estilo refinado, más centrado en la elegancia que en la potencia: fruta roja y negra nítida, notas florales y minerales y taninos finos, sostenidos por una acidez fresca. Tiene gran capacidad de guarda y gana complejidad durante muchos años en botella.</p>",
+    "en": "<p><strong>Château Canon</strong> is the main wine of this Wertheimer family estate, located on the limestone plateau west of the town of <strong>Saint-Émilion</strong> and classified as a <strong>Premier Grand Cru Classé B</strong>. Its vines, largely replanted since the late 1990s, grow on a shallow layer of clay covering the limestone bedrock.</p><p>The blend is based on <strong>Merlot</strong>, with a significant proportion of <strong>Cabernet Franc</strong>, which brings freshness and aromatic notes. After plot-by-plot vinification, the wine is aged in oak barrels, partly in the estate’s old underground quarries, where temperature and humidity remain naturally stable.</p><p>It is a Saint-Émilion of refined style, focused more on elegance than power: clear red and dark fruit, floral and mineral notes and fine tannins, supported by fresh acidity. It has great ageing potential and gains complexity over many years in bottle.</p>",
+    "fr": "<p><strong>Château Canon</strong> est le vin principal de cette propriété de la famille Wertheimer, située sur le plateau calcaire à l’ouest du bourg de <strong>Saint-Émilion</strong> et classée <strong>premier grand cru classé B</strong>. Ses vignes, en grande partie replantées depuis la fin des années 1990, poussent sur une couche d’argile peu profonde couvrant la roche calcaire.</p><p>L’assemblage repose sur le <strong>merlot</strong>, avec une part importante de <strong>cabernet franc</strong>, qui apporte fraîcheur et notes aromatiques. Après une vinification parcellaire, le vin est élevé en barriques de chêne, en partie dans les anciennes carrières souterraines du domaine, où température et humidité restent naturellement stables.</p><p>C’est un Saint-Émilion de style raffiné, davantage tourné vers l’élégance que vers la puissance : fruits rouges et noirs nets, notes florales et minérales, tanins fins soutenus par une acidité fraîche. Il possède un grand potentiel de garde et gagne en complexité pendant de nombreuses années en bouteille.</p>",
+    "it": "<p><strong>Château Canon</strong> è il vino principale di questa proprietà della famiglia Wertheimer, situata sull’altopiano calcareo a ovest del paese di <strong>Saint-Émilion</strong> e classificata <strong>Premier Grand Cru Classé B</strong>. Le sue vigne, in gran parte reimpiantate dalla fine degli anni Novanta, crescono su uno strato di argilla poco profondo che ricopre la roccia calcarea.</p><p>L’uvaggio si basa sul <strong>Merlot</strong>, con una quota significativa di <strong>Cabernet Franc</strong>, che apporta freschezza e note aromatiche. Dopo la vinificazione per parcelle, il vino affina in barrique di rovere, in parte nelle antiche cave sotterranee della tenuta, dove temperatura e umidità restano naturalmente stabili.</p><p>È un Saint-Émilion dallo stile raffinato, orientato più all’eleganza che alla potenza: frutta rossa e nera nitida, note floreali e minerali e tannini fini, sostenuti da un’acidità fresca. Ha una grande capacità di invecchiamento e acquista complessità per molti anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rubí profundo. Aromas de cereza, frambuesa, violeta y notas minerales. Boca elegante y fresca, de taninos muy finos y final largo.",
+    "en": "Deep ruby. Aromas of cherry, raspberry, violet and mineral notes. Elegant, fresh palate with very fine tannins and a long finish.",
+    "fr": "Rubis profond. Arômes de cerise, de framboise, de violette et notes minérales. Bouche élégante et fraîche, aux tanins très fins et à la finale longue.",
+    "it": "Rubino profondo. Aromi di ciliegia, lampone, violetta e note minerali. Bocca elegante e fresca, dai tannini finissimi e dal finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes rojas, pato, setas, quesos curados",
+    "en": "Roast lamb, red meat, duck, mushrooms, aged cheeses",
+    "fr": "Agneau rôti, viandes rouges, canard, champignons, fromages affinés",
+    "it": "Agnello arrosto, carni rosse, anatra, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Château Canon Saint-Émilion"
+}

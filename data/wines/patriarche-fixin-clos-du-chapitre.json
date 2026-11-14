@@ -1,0 +1,48 @@
+{
+  "slug": "patriarche-fixin-clos-du-chapitre",
+  "name": "Fixin 1er Cru Clos du Chapitre",
+  "winery": "maison-patriarche",
+  "region": "cote-de-nuits",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Premier Cru",
+    "en": "Premier Cru",
+    "fr": "Premier Cru",
+    "it": "Premier Cru"
+  },
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Tinto de Pinot Noir del premier cru Clos du Chapitre, en Fixin, en el extremo norte de la Côte de Nuits.",
+    "en": "Pinot Noir red from the Clos du Chapitre premier cru in Fixin, at the northern end of the Côte de Nuits.",
+    "fr": "Rouge de pinot noir issu du premier cru Clos du Chapitre, à Fixin, à l’extrémité nord de la Côte de Nuits.",
+    "it": "Rosso di Pinot Nero dal premier cru Clos du Chapitre, a Fixin, all’estremità settentrionale della Côte de Nuits."
+  },
+  "body": {
+    "es": "<p><strong>Fixin</strong> es uno de los pueblos más septentrionales de la <strong>Côte de Nuits</strong>, situado entre Marsannay y Gevrey-Chambertin. Su denominación es conocida sobre todo por sus tintos de <strong>Pinot Noir</strong>, que suelen ser firmes, de color profundo y con una estructura tánica más marcada que la de otros pueblos vecinos. El <strong>Clos du Chapitre</strong> es uno de sus premiers crus, una parcela cercada en la ladera cuyo nombre recuerda la antigua propiedad eclesiástica de estas tierras. Los suelos de arcilla y caliza de la parte media de la pendiente dan vinos con buena concentración y capacidad de guarda, que ganan complejidad tras algunos años en botella.</p><p>Como el resto de la gama de Maison Patriarche, casa de négoce fundada en Beaune en 1780, este vino se elabora a partir de uvas o vinos seleccionados en la denominación y se cría en las bodegas de la casa, con un estilo clásico que busca reflejar con fidelidad el carácter de su origen.</p>",
+    "en": "<p><strong>Fixin</strong> is one of the northernmost villages of the <strong>Côte de Nuits</strong>, lying between Marsannay and Gevrey-Chambertin. Its appellation is known above all for its <strong>Pinot Noir</strong> reds, which tend to be firm, deeply coloured and more tannic than those of some neighbouring villages. The <strong>Clos du Chapitre</strong> is one of its premiers crus, a walled plot on the slope whose name recalls the former church ownership of this land. The clay and limestone soils of the mid-slope give wines with good concentration and ageing potential, which gain complexity after a few years in bottle.</p><p>Like the rest of the Maison Patriarche range, a négociant house founded in Beaune in 1780, this wine is made from grapes or wines selected within the appellation and aged in the house’s cellars, in a classic style that aims to faithfully reflect the character of its origin.</p>",
+    "fr": "<p><strong>Fixin</strong> est l’un des villages les plus septentrionaux de la <strong>Côte de Nuits</strong>, entre Marsannay et Gevrey-Chambertin. Son appellation est surtout connue pour ses rouges de <strong>pinot noir</strong>, généralement fermes, d’une couleur profonde et à la structure tannique plus marquée que celle de certains villages voisins. Le <strong>Clos du Chapitre</strong> est l’un de ses premiers crus, une parcelle close de murs sur le coteau dont le nom rappelle l’ancienne propriété ecclésiastique de ces terres. Les sols argilo-calcaires de mi-pente donnent des vins concentrés et de bonne garde, qui gagnent en complexité après quelques années en bouteille.</p><p>Comme le reste de la gamme de Maison Patriarche, maison de négoce fondée à Beaune en 1780, ce vin est élaboré à partir de raisins ou de vins sélectionnés dans l’appellation et élevé dans les caves de la maison, dans un style classique qui cherche à refléter fidèlement le caractère de son origine.</p>",
+    "it": "<p><strong>Fixin</strong> è uno dei villaggi più settentrionali della <strong>Côte de Nuits</strong>, tra Marsannay e Gevrey-Chambertin. La sua denominazione è nota soprattutto per i rossi di <strong>Pinot Nero</strong>, in genere decisi, di colore profondo e con una struttura tannica più marcata rispetto ad alcuni villaggi vicini. Il <strong>Clos du Chapitre</strong> è uno dei suoi premiers crus, una parcella cintata sul pendio il cui nome ricorda l’antica proprietà ecclesiastica di queste terre. I suoli argilloso-calcarei di mezza costa danno vini concentrati e longevi, che acquistano complessità dopo qualche anno in bottiglia.</p><p>Come il resto della gamma di Maison Patriarche, casa di négoce fondata a Beaune nel 1780, questo vino è prodotto con uve o vini selezionati nella denominazione e affinato nelle cantine della casa, in uno stile classico che mira a riflettere fedelmente il carattere della sua origine.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de cereza negra, grosella y notas terrosas y especiadas. Boca firme, con taninos presentes y buena acidez.",
+    "en": "Deep ruby. Aromas of black cherry, redcurrant and earthy, spicy notes. Firm palate with noticeable tannins and good acidity.",
+    "fr": "Rubis intense. Arômes de cerise noire, de groseille et notes terreuses et épicées. Bouche ferme, aux tanins présents et à la bonne acidité.",
+    "it": "Rubino intenso. Aromi di ciliegia nera, ribes e note terrose e speziate. Bocca decisa, con tannini presenti e buona acidità."
+  },
+  "pairing": {
+    "es": "Carnes rojas asadas, aves de caza, quesos de pasta blanda",
+    "en": "Roast red meat, game birds, soft cheeses",
+    "fr": "Viandes rouges rôties, gibier à plume, fromages à pâte molle",
+    "it": "Carni rosse arrosto, selvaggina da piuma, formaggi a pasta molle"
+  },
+  "serve": {
+    "es": "15-17 °C, copa amplia de Borgoña",
+    "en": "15-17 °C, large Burgundy glass",
+    "fr": "15-17 °C, verre ample de type bourguignon",
+    "it": "15-17 °C, calice ampio da Borgogna"
+  },
+  "search": "Fixin 1er Cru Clos du Chapitre Maison Patriarche"
+}

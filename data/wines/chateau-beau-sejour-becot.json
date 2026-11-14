@@ -1,0 +1,49 @@
+{
+  "slug": "chateau-beau-sejour-becot",
+  "name": "Château Beau-Séjour Bécot",
+  "winery": "chateau-beau-sejour-becot",
+  "region": "saint-emilion",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Premier Grand Cru Classé B",
+    "en": "Premier Grand Cru Classé B",
+    "fr": "Premier grand cru classé B",
+    "it": "Premier Grand Cru Classé B"
+  },
+  "grapes": [
+    "merlot",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Grand vin de Château Beau-Séjour Bécot, Premier Grand Cru Classé de Saint-Émilion de Merlot y Cabernet Franc criado sobre caliza.",
+    "en": "The grand vin of Château Beau-Séjour Bécot, a Saint-Émilion Premier Grand Cru Classé of Merlot and Cabernet Franc grown on limestone.",
+    "fr": "Grand vin de Château Beau-Séjour Bécot, premier grand cru classé de Saint-Émilion de merlot et de cabernet franc né sur le calcaire.",
+    "it": "Grand vin di Château Beau-Séjour Bécot, Premier Grand Cru Classé di Saint-Émilion di Merlot e Cabernet Franc coltivati su calcare."
+  },
+  "body": {
+    "es": "<p><strong>Château Beau-Séjour Bécot</strong> es el vino principal de esta propiedad de la familia Bécot, situada en la meseta caliza al oeste de <strong>Saint-Émilion</strong> y clasificada como <strong>Premier Grand Cru Classé B</strong>.</p><p>Se elabora mayoritariamente con <strong>Merlot</strong>, completado con <strong>Cabernet Franc</strong> y una pequeña proporción de Cabernet Sauvignon, procedentes de viñas plantadas sobre arcillas poco profundas que cubren la roca caliza. Tras la vinificación por parcelas, el vino se cría en barricas de roble, en parte en las antiguas canteras subterráneas de la finca.</p><p>Es un Saint-Émilion de perfil serio y profundo: fruta negra madura, notas de especias y de roble en su juventud, y una frescura de fondo que se atribuye a los suelos calizos. Sus taninos firmes le dan una buena capacidad de guarda, y con los años desarrolla aromas de trufa, cuero y sotobosque.</p>",
+    "en": "<p><strong>Château Beau-Séjour Bécot</strong> is the main wine of this Bécot family estate, located on the limestone plateau west of <strong>Saint-Émilion</strong> and classified as a <strong>Premier Grand Cru Classé B</strong>.</p><p>It is made mostly from <strong>Merlot</strong>, completed with <strong>Cabernet Franc</strong> and a small proportion of Cabernet Sauvignon, from vines planted on shallow clays covering the limestone bedrock. After plot-by-plot vinification, the wine is aged in oak barrels, partly in the estate’s old underground quarries.</p><p>It is a Saint-Émilion of serious, deep profile: ripe dark fruit, spice and oak notes in its youth, and an underlying freshness attributed to the limestone soils. Its firm tannins give it good ageing potential, and over the years it develops aromas of truffle, leather and forest floor.</p>",
+    "fr": "<p><strong>Château Beau-Séjour Bécot</strong> est le vin principal de cette propriété de la famille Bécot, située sur le plateau calcaire à l’ouest de <strong>Saint-Émilion</strong> et classée <strong>premier grand cru classé B</strong>.</p><p>Il est issu majoritairement de <strong>merlot</strong>, complété par du <strong>cabernet franc</strong> et un peu de cabernet-sauvignon, provenant de vignes plantées sur des argiles peu profondes recouvrant la roche calcaire. Après une vinification parcellaire, le vin est élevé en barriques de chêne, en partie dans les anciennes carrières souterraines du domaine.</p><p>C’est un Saint-Émilion au profil sérieux et profond : fruits noirs mûrs, notes d’épices et de chêne dans sa jeunesse, et une fraîcheur de fond attribuée aux sols calcaires. Ses tanins fermes lui assurent une bonne aptitude à la garde ; avec les années, il développe des arômes de truffe, de cuir et de sous-bois.</p>",
+    "it": "<p><strong>Château Beau-Séjour Bécot</strong> è il vino principale di questa proprietà della famiglia Bécot, situata sull’altopiano calcareo a ovest di <strong>Saint-Émilion</strong> e classificata <strong>Premier Grand Cru Classé B</strong>.</p><p>È prodotto in prevalenza con <strong>Merlot</strong>, completato da <strong>Cabernet Franc</strong> e da una piccola quota di Cabernet Sauvignon, da vigne piantate su argille poco profonde che ricoprono la roccia calcarea. Dopo la vinificazione per parcelle, il vino affina in barrique di rovere, in parte nelle antiche cave sotterranee della tenuta.</p><p>È un Saint-Émilion dal profilo serio e profondo: frutta nera matura, note di spezie e di rovere in gioventù e una freschezza di fondo attribuita ai suoli calcarei. I tannini decisi gli conferiscono una buona capacità di invecchiamento e con gli anni sviluppa aromi di tartufo, cuoio e sottobosco.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota oscuro. Aromas de ciruela, mora, especias y roble. Boca profunda y fresca, de taninos firmes y final largo.",
+    "en": "Dark crimson. Aromas of plum, blackberry, spice and oak. Deep, fresh palate with firm tannins and a long finish.",
+    "fr": "Rouge sombre. Arômes de prune, de mûre, d’épices et de chêne. Bouche profonde et fraîche, aux tanins fermes et à la finale longue.",
+    "it": "Rosso scuro. Aromi di prugna, mora, spezie e rovere. Bocca profonda e fresca, dai tannini decisi e dal finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes rojas, pato, setas, quesos curados",
+    "en": "Roast lamb, red meat, duck, mushrooms, aged cheeses",
+    "fr": "Agneau rôti, viandes rouges, canard, champignons, fromages affinés",
+    "it": "Agnello arrosto, carni rosse, anatra, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Château Beau-Séjour Bécot Saint-Émilion"
+}

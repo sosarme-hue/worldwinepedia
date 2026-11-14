@@ -1,0 +1,49 @@
+{
+  "slug": "chateau-magnol",
+  "name": "Château Magnol",
+  "winery": "barton-guestier",
+  "region": "medoc",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Haut-Médoc, Cru Bourgeois Supérieur",
+    "en": "Haut-Médoc, Cru Bourgeois Supérieur",
+    "fr": "Haut-Médoc, Cru Bourgeois Supérieur",
+    "it": "Haut-Médoc, Cru Bourgeois Supérieur"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Tinto de Haut-Médoc de la finca de Barton & Guestier en Blanquefort, clasificado Cru Bourgeois Supérieur, ensamblaje clásico de Cabernet Sauvignon y Merlot.",
+    "en": "Haut-Médoc red from Barton & Guestier’s estate in Blanquefort, classified Cru Bourgeois Supérieur, a classic blend of Cabernet Sauvignon and Merlot.",
+    "fr": "Rouge du Haut-Médoc issu de la propriété de Barton & Guestier à Blanquefort, classé Cru Bourgeois Supérieur, assemblage classique de cabernet sauvignon et de merlot.",
+    "it": "Rosso dell’Haut-Médoc della tenuta di Barton & Guestier a Blanquefort, classificato Cru Bourgeois Supérieur, classico uvaggio di Cabernet Sauvignon e Merlot."
+  },
+  "body": {
+    "es": "<p>El <strong>Château Magnol</strong> se encuentra en Blanquefort, en el extremo sur del Médoc, muy cerca de la ciudad de Burdeos. Es la sede de la casa <strong>Barton & Guestier</strong>, que explota el viñedo que rodea la propiedad y elabora con él este vino de la denominación <strong>Haut-Médoc</strong>.</p><p>Figura entre los <strong>Crus Bourgeois</strong> del Médoc, la clasificación que agrupa a las propiedades no incluidas en la clasificación de 1855, en la categoría Cru Bourgeois Supérieur. El viñedo se asienta sobre suelos de gravas típicos del Médoc y está plantado con las variedades tintas clásicas de la orilla izquierda.</p><p>El vino es un ensamblaje de <strong>Cabernet Sauvignon</strong> y <strong>Merlot</strong> criado en barricas de roble. Responde al estilo del Haut-Médoc: un tinto de cuerpo medio, con fruta negra, notas de cedro y taninos firmes pero accesibles, que puede beberse en sus primeros años o guardarse un tiempo.</p>",
+    "en": "<p><strong>Château Magnol</strong> lies in Blanquefort, at the southern end of the Médoc, very close to the city of Bordeaux. It is the headquarters of <strong>Barton & Guestier</strong>, which farms the vineyard surrounding the property and makes this wine from it under the <strong>Haut-Médoc</strong> appellation.</p><p>It is one of the Médoc’s <strong>Crus Bourgeois</strong>, the classification of properties not included in the 1855 classification, in the Cru Bourgeois Supérieur category. The vineyard lies on the gravel soils typical of the Médoc and is planted with the classic red varieties of the Left Bank.</p><p>The wine is a blend of <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong> aged in oak barrels. It follows the Haut-Médoc style: a medium-bodied red with black fruit, cedar notes and firm but approachable tannins, which can be drunk in its first years or kept for a while.</p>",
+    "fr": "<p>Le <strong>château Magnol</strong> se trouve à Blanquefort, à l’extrémité sud du Médoc, tout près de Bordeaux. C’est le siège de la maison <strong>Barton & Guestier</strong>, qui exploite le vignoble entourant la propriété et en tire ce vin en appellation <strong>Haut-Médoc</strong>.</p><p>Il figure parmi les <strong>crus bourgeois</strong> du Médoc, le classement des propriétés non retenues dans le classement de 1855, dans la catégorie Cru Bourgeois Supérieur. Le vignoble repose sur les sols de graves typiques du Médoc et il est planté des cépages rouges classiques de la rive gauche.</p><p>Le vin assemble <strong>cabernet sauvignon</strong> et <strong>merlot</strong> et est élevé en barriques de chêne. Il répond au style du Haut-Médoc : un rouge de corps moyen, au fruit noir, aux notes de cèdre et aux tanins fermes mais accessibles, à boire dans ses premières années ou à garder quelque temps.</p>",
+    "it": "<p>Lo <strong>Château Magnol</strong> si trova a Blanquefort, all’estremità meridionale del Médoc, molto vicino alla città di Bordeaux. È la sede della casa <strong>Barton & Guestier</strong>, che coltiva il vigneto attorno alla proprietà e ne ricava questo vino della denominazione <strong>Haut-Médoc</strong>.</p><p>Figura tra i <strong>Crus Bourgeois</strong> del Médoc, la classificazione delle proprietà non comprese nella classificazione del 1855, nella categoria Cru Bourgeois Supérieur. Il vigneto poggia sui suoli ghiaiosi tipici del Médoc ed è piantato con le classiche varietà rosse della riva sinistra.</p><p>Il vino è un uvaggio di <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong> affinato in barrique di rovere. Rispecchia lo stile dell’Haut-Médoc: un rosso di medio corpo, con frutto nero, note di cedro e tannini decisi ma accessibili, da bere nei primi anni o da conservare per qualche tempo.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí oscuro. Aromas de casis, ciruela, cedro y un toque tostado. Boca de cuerpo medio, con taninos firmes y final fresco.",
+    "en": "Dark ruby. Aromas of blackcurrant, plum, cedar and a touch of toast. Medium-bodied palate with firm tannins and a fresh finish.",
+    "fr": "Rubis sombre. Arômes de cassis, de prune, de cèdre et une touche grillée. Bouche de corps moyen, aux tanins fermes et à la finale fraîche.",
+    "it": "Rubino scuro. Aromi di ribes nero, prugna, cedro e un tocco tostato. Bocca di medio corpo, con tannini decisi e finale fresco."
+  },
+  "pairing": {
+    "es": "Cordero asado, entrecot, aves de corral, quesos curados",
+    "en": "Roast lamb, rib steak, farmyard poultry, aged cheeses",
+    "fr": "Agneau rôti, entrecôte, volailles fermières, fromages affinés",
+    "it": "Agnello arrosto, costata, pollame ruspante, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de tipo Burdeos",
+    "en": "16-18 °C, Bordeaux-style glass",
+    "fr": "16-18 °C, verre de type bordelais",
+    "it": "16-18 °C, calice tipo Bordeaux"
+  },
+  "search": "Château Magnol Haut-Médoc Barton & Guestier"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "blason-de-l-evangile",
+  "name": "Blason de l'Évangile",
+  "winery": "chateau-l-evangile",
+  "region": "pomerol",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Segundo vino",
+    "en": "Second wine",
+    "fr": "Second vin",
+    "it": "Secondo vino"
+  },
+  "grapes": [
+    "merlot",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Segundo vino de Château L’Évangile, un Pomerol de Merlot y Cabernet Franc más accesible en su juventud.",
+    "en": "The second wine of Château L’Évangile, a Pomerol of Merlot and Cabernet Franc that is more approachable in youth.",
+    "fr": "Second vin de Château L’Évangile, un pomerol de merlot et de cabernet franc plus accessible dans sa jeunesse.",
+    "it": "Secondo vino di Château L’Évangile, un Pomerol di Merlot e Cabernet Franc più accessibile in gioventù."
+  },
+  "body": {
+    "es": "<p><strong>Blason de l’Évangile</strong> es el segundo vino de <strong>Château L’Évangile</strong>, propiedad de <strong>Pomerol</strong> situada entre Pétrus y Cheval Blanc y perteneciente a los Domaines Barons de Rothschild (Lafite). Se elabora con las uvas de la finca que no se seleccionan para el grand vin, a menudo procedentes de viñas más jóvenes o de parcelas de carácter más frutal.</p><p>Como el vino principal, se basa en el <strong>Merlot</strong>, con una parte de <strong>Cabernet Franc</strong>, y procede de los suelos de arcilla, grava y arena de la propiedad. Se vinifica con el mismo cuidado y se cría en barricas de roble, aunque con menor proporción de madera nueva y durante algo menos de tiempo.</p><p>El resultado es un Pomerol de fruta generosa, textura suave y taninos redondos, que conserva el carácter rico de la casa pero puede disfrutarse bastante antes que el grand vin, sin renunciar a cierta capacidad de guarda.</p>",
+    "en": "<p><strong>Blason de l’Évangile</strong> is the second wine of <strong>Château L’Évangile</strong>, a <strong>Pomerol</strong> estate located between Pétrus and Cheval Blanc and owned by Domaines Barons de Rothschild (Lafite). It is made from estate grapes not selected for the grand vin, often from younger vines or from plots with a fruitier character.</p><p>Like the main wine, it is based on <strong>Merlot</strong> with a share of <strong>Cabernet Franc</strong>, and comes from the property’s clay, gravel and sand soils. It is vinified with the same care and aged in oak barrels, though with a lower proportion of new wood and for a somewhat shorter time.</p><p>The result is a Pomerol of generous fruit, soft texture and rounded tannins, which keeps the house’s rich character but can be enjoyed well before the grand vin, while retaining some ageing potential.</p>",
+    "fr": "<p><strong>Blason de l’Évangile</strong> est le second vin de <strong>Château L’Évangile</strong>, propriété de <strong>Pomerol</strong> située entre Pétrus et Cheval Blanc et appartenant aux Domaines Barons de Rothschild (Lafite). Il est élaboré avec les raisins du domaine non retenus pour le grand vin, souvent issus de vignes plus jeunes ou de parcelles au caractère plus fruité.</p><p>Comme le vin principal, il repose sur le <strong>merlot</strong>, avec une part de <strong>cabernet franc</strong>, et provient des sols d’argile, de graves et de sable de la propriété. Il est vinifié avec le même soin et élevé en barriques de chêne, mais avec une proportion moindre de bois neuf et un peu moins longtemps.</p><p>Il en résulte un pomerol au fruit généreux, à la texture souple et aux tanins ronds, qui garde le caractère riche de la maison mais peut s’apprécier bien avant le grand vin, sans renoncer à un certain potentiel de garde.</p>",
+    "it": "<p><strong>Blason de l’Évangile</strong> è il secondo vino di <strong>Château L’Évangile</strong>, proprietà di <strong>Pomerol</strong> situata tra Pétrus e Cheval Blanc e appartenente ai Domaines Barons de Rothschild (Lafite). È prodotto con le uve della tenuta non selezionate per il grand vin, spesso da vigne più giovani o da parcelle di carattere più fruttato.</p><p>Come il vino principale, si basa sul <strong>Merlot</strong>, con una quota di <strong>Cabernet Franc</strong>, e proviene dai suoli di argilla, ghiaia e sabbia della proprietà. Viene vinificato con la stessa cura e affinato in barrique di rovere, ma con una quota minore di legno nuovo e per un periodo un po’ più breve.</p><p>Il risultato è un Pomerol dal frutto generoso, dalla tessitura morbida e dai tannini rotondi, che conserva il carattere ricco della casa ma si può gustare ben prima del grand vin, pur mantenendo una certa capacità di invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota. Aromas de ciruela, cereza negra, especias y un toque de cacao. Boca suave y frutal, de taninos redondos.",
+    "en": "Deep red. Aromas of plum, black cherry, spice and a touch of cocoa. Soft, fruity palate with rounded tannins.",
+    "fr": "Rouge profond. Arômes de prune, de cerise noire, d’épices et une touche de cacao. Bouche souple et fruitée, aux tanins ronds.",
+    "it": "Rosso intenso. Aromi di prugna, ciliegia nera, spezie e un tocco di cacao. Bocca morbida e fruttata, dai tannini rotondi."
+  },
+  "pairing": {
+    "es": "Carnes rojas, pato, aves asadas, setas, quesos semicurados",
+    "en": "Red meat, duck, roast poultry, mushrooms, semi-hard cheeses",
+    "fr": "Viandes rouges, canard, volailles rôties, champignons, fromages mi-affinés",
+    "it": "Carni rosse, anatra, pollame arrosto, funghi, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Blason de l'Évangile Château L'Évangile Pomerol"
+}
