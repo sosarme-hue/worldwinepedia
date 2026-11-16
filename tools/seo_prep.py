@@ -25,26 +25,26 @@ LANGS = ['es', 'en', 'fr', 'it']
 OGL = {'es': 'es_ES', 'en': 'en_GB', 'fr': 'fr_FR', 'it': 'it_IT'}
 
 SEG = {  # carpeta -> tipo
- 'es': {'vinos': 'wine', 'uvas': 'grape', 'bodegas': 'winery', 'paises': 'country', 'regiones': 'region', 'aprender': 'article', 'herramientas': 'tool', 'glosario': 'glossary', 'buscar': 'search'},
- 'en': {'wines': 'wine', 'grapes': 'grape', 'wineries': 'winery', 'countries': 'country', 'regions': 'region', 'learn': 'article', 'tools': 'tool', 'glossary': 'glossary', 'search': 'search'},
- 'fr': {'vins': 'wine', 'cepages': 'grape', 'domaines': 'winery', 'pays': 'country', 'regions': 'region', 'apprendre': 'article', 'outils': 'tool', 'glossaire': 'glossary', 'recherche': 'search'},
- 'it': {'vini': 'wine', 'vitigni': 'grape', 'cantine': 'winery', 'paesi': 'country', 'regioni': 'region', 'imparare': 'article', 'strumenti': 'tool', 'glossario': 'glossary', 'cerca': 'search'},
+ 'es': {'vinos': 'wine', 'uvas': 'grape', 'bodegas': 'winery', 'paises': 'country', 'regiones': 'region', 'aprender': 'article', 'herramientas': 'tool', 'glosario': 'glossary', 'buscar': 'search', 'blog': 'blog'},
+ 'en': {'wines': 'wine', 'grapes': 'grape', 'wineries': 'winery', 'countries': 'country', 'regions': 'region', 'learn': 'article', 'tools': 'tool', 'glossary': 'glossary', 'search': 'search', 'blog': 'blog'},
+ 'fr': {'vins': 'wine', 'cepages': 'grape', 'domaines': 'winery', 'pays': 'country', 'regions': 'region', 'apprendre': 'article', 'outils': 'tool', 'glossaire': 'glossary', 'recherche': 'search', 'blog': 'blog'},
+ 'it': {'vini': 'wine', 'vitigni': 'grape', 'cantine': 'winery', 'paesi': 'country', 'regioni': 'region', 'imparare': 'article', 'strumenti': 'tool', 'glossario': 'glossary', 'cerca': 'search', 'blog': 'blog'},
 }
 
 # Títulos de los listados y la portada (sin marca: se añade si cabe)
 LIST_T = {
  'es': {'': 'WorldWinePedia: enciclopedia del vino, uvas, regiones y bodegas', 'wine': 'Todos los vinos: fichas de cata, maridaje y dónde comprar', 'grape': 'Uvas del vino: variedades tintas y blancas de la A a la Z',
         'winery': 'Bodegas del mundo: historia, viñedos y vinos', 'country': 'Países del vino: regiones, uvas e historia', 'region': 'Regiones y denominaciones de origen del vino',
-        'article': 'Aprender sobre vino: cata, maridaje, viticultura y ciencia', 'glossary': 'Glosario del vino: términos de cata y elaboración', 'tool': 'Herramientas del vino: maridajes, mapa y comparador de uvas'},
+        'article': 'Aprender sobre vino: cata, maridaje, viticultura y ciencia', 'glossary': 'Glosario del vino: términos de cata y elaboración', 'tool': 'Herramientas del vino: maridajes, mapa y comparador de uvas', 'blog': 'Blog de vino: qué vino elegir, maridajes y consejos'},
  'en': {'': 'WorldWinePedia: the wine encyclopedia of grapes, regions and wineries', 'wine': 'All wines: tasting notes, food pairing and where to buy', 'grape': 'Wine grapes: red and white varieties from A to Z',
         'winery': 'Wineries of the world: history, vineyards and wines', 'country': 'Wine countries: regions, grapes and history', 'region': 'Wine regions and appellations of the world',
-        'article': 'Learn about wine: tasting, food pairing, viticulture and science', 'glossary': 'Wine glossary: tasting and winemaking terms', 'tool': 'Wine tools: food pairing, appellation map and grape comparison'},
+        'article': 'Learn about wine: tasting, food pairing, viticulture and science', 'glossary': 'Wine glossary: tasting and winemaking terms', 'tool': 'Wine tools: food pairing, appellation map and grape comparison', 'blog': 'Wine blog: which wine to choose, food pairing and tips'},
  'fr': {'': "WorldWinePedia : l'encyclopédie du vin, cépages, régions et domaines", 'wine': 'Tous les vins : dégustation, accords et où les acheter', 'grape': 'Cépages : variétés rouges et blanches de A à Z',
         'winery': 'Domaines du monde : histoire, vignobles et vins', 'country': 'Pays du vin : régions, cépages et histoire', 'region': 'Régions viticoles et appellations du monde',
-        'article': 'Apprendre le vin : dégustation, accords, viticulture et science', 'glossary': 'Glossaire du vin : termes de dégustation et de vinification', 'tool': 'Outils du vin : accords mets-vins, carte et comparateur de cépages'},
+        'article': 'Apprendre le vin : dégustation, accords, viticulture et science', 'glossary': 'Glossaire du vin : termes de dégustation et de vinification', 'tool': 'Outils du vin : accords mets-vins, carte et comparateur de cépages', 'blog': 'Blog du vin : quel vin choisir, accords et conseils'},
  'it': {'': "WorldWinePedia: l'enciclopedia del vino, vitigni, regioni e cantine", 'wine': 'Tutti i vini: degustazione, abbinamenti e dove comprarli', 'grape': 'Vitigni: varietà rosse e bianche dalla A alla Z',
         'winery': 'Cantine del mondo: storia, vigneti e vini', 'country': 'Paesi del vino: regioni, vitigni e storia', 'region': 'Regioni vinicole e denominazioni del mondo',
-        'article': 'Imparare il vino: degustazione, abbinamenti, viticoltura e scienza', 'glossary': 'Glossario del vino: termini di degustazione e vinificazione', 'tool': 'Strumenti del vino: abbinamenti, mappa e confronto tra vitigni'},
+        'article': 'Imparare il vino: degustazione, abbinamenti, viticoltura e scienza', 'glossary': 'Glossario del vino: termini di degustazione e vinificazione', 'tool': 'Strumenti del vino: abbinamenti, mappa e confronto tra vitigni', 'blog': 'Blog del vino: quale vino scegliere, abbinamenti e consigli'},
 }
 COLOR = {
  'es': {'Tinto': 'vino tinto', 'Blanco': 'vino blanco', 'Rosado': 'vino rosado', 'Espumoso': 'espumoso', 'Dulce': 'vino dulce', 'Generoso': 'vino generoso'},
@@ -146,9 +146,9 @@ ST = {'pages': 0, 'title': 0, 'desc': 0, 'noindex': 0, 'product_ld_removed': 0}
 CSV = []
 SITEMAP = {}  # nombre -> [(url, alts)]
 
-def process(path):
+def process(path, page=None, sitemap=True):
     rel = '/' + os.path.relpath(path, ROOT).replace(os.sep, '/')
-    page = rel[:-len('index.html')]  # /es/vinos/x/
+    page = page or rel[:-len('index.html')]  # /es/vinos/x/
     h = open(path, encoding='utf-8').read()
     orig = h
     parts = [p for p in page.split('/') if p]
@@ -185,7 +185,6 @@ def process(path):
         t = fit(brand(nm + sep + tail) if tail else brand(nm), nm + sep + tail if tail else nm,
                 (nm + sep + cp) if cp else nm)
         ent = {'@type': 'Thing', 'name': h1}
-        if win: ent['description'] = d0
     elif kind == 'grape' and h1:
         t = fit(brand(TPL['grape'][l].format(n=h1)), TPL['grape'][l].format(n=h1), TPL['grape2'][l].format(n=h1), h1)
         ent = {'@type': 'Thing', 'name': h1}
@@ -206,23 +205,22 @@ def process(path):
         ent = {'@type': 'Organization', 'name': h1}
         if len(cr) >= 3:
             ent['address'] = {'@type': 'PostalAddress', 'addressRegion': reg, 'addressCountry': cr[1][0]}
-    elif kind == 'article' and h1 and not is_list:
+    elif kind in ('article', 'blog') and h1 and not is_list:
         t = fit(brand(h1), h1)
     if t != t0:
         ST['title'] += 1
         h = re.sub(r'<title>.*?</title>', lambda m: '<title>%s</title>' % E(t), h, count=1, flags=re.S)
 
     # ---------- descripción ----------
-    d = d0
-    if kind == 'wine' and len(d) + len(WINE_TAIL[l]) <= 160: d = d.rstrip() + WINE_TAIL[l]
-    d = cut(d)
-    if len(d) < 50 and is_list and kind in LIST_T[l]: d = cut(LIST_T[l][kind] + '. ' + d)
+    d = cut(d0)
+    if kind == 'wine' and WINE_TAIL[l] not in d and not d.endswith('…') and len(d) + len(WINE_TAIL[l]) <= 160: d = d.rstrip() + WINE_TAIL[l]
+    if (len(d) < 50 or kind == 'region') and is_list and kind in LIST_T[l] and not d.startswith(LIST_T[l][kind]): d = cut(LIST_T[l][kind] + '. ' + d)
     if d != d0:
         ST['desc'] += 1
         h = set_meta(h, 'name', 'description', d)
     h = set_meta(h, 'property', 'og:title', t)
     h = set_meta(h, 'property', 'og:description', d)
-    content = kind in ('wine', 'grape', 'country', 'region', 'winery', 'article') and not is_list
+    content = kind in ('wine', 'grape', 'country', 'region', 'winery', 'article', 'blog') and not is_list
     h = set_meta(h, 'property', 'og:type', 'article' if content else 'website')
 
     # ---------- foto ----------
@@ -241,7 +239,7 @@ def process(path):
         ST['noindex'] += 1
 
     # ---------- JSON-LD ----------
-    h = re.sub(r'<script type="application/ld\+json" data-seo="1">.*?</script>', '', h, flags=re.S)
+    h = re.sub(r'<script type="application/ld\+json" data-seo="1">.*?</script>\n?', '', h, flags=re.S)
     def drop_product(m):
         try: j = json.loads(m.group(1))
         except Exception: return m.group(0)
@@ -259,6 +257,7 @@ def process(path):
           'name': h1 or t, 'description': d, 'inLanguage': l, 'isPartOf': {'@id': D + '/#website'},
           'primaryImageOfPage': {'@type': 'ImageObject', 'url': img_url}}
     if ent:
+        if kind == 'wine': ent['description'] = d.replace(WINE_TAIL[l], '').strip()
         ent = {k: v for k, v in ent.items() if v}
         wp['about'] = ent
     if cr:
@@ -277,7 +276,7 @@ def process(path):
     CSV.append((page, t0, t, len(t), d0, d))
 
     # ---------- sitemap ----------
-    if kind == 'search': return
+    if kind == 'search' or not sitemap: return
     alts = dict(re.findall(r'<link rel="alternate" hreflang="([a-z-]+)" href="([^"]+)">', h))
     grp = l + '-' + ({'home': 'portada', 'static': 'paginas', 'glossary': 'paginas', 'tool': 'paginas'}.get(kind, kind) if not is_list or kind == 'home' else 'portadas')
     SITEMAP.setdefault(grp, []).append((canon, alts))
@@ -285,6 +284,13 @@ def process(path):
 for dp, dn, fn in os.walk(ROOT):
     dn[:] = [x for x in dn if not (dp == ROOT and x in ('.git', 'dist', 'tools', '_blog', 'img', 'css', 'js'))]
     if 'index.html' in fn: process(os.path.join(dp, 'index.html'))
+# Blog programado: páginas que _blog/publicar.php copia en su sitio (tienen su propio sitemap)
+PAY = os.path.join(ROOT, '_blog', 'payload')
+for dp, dn, fn in os.walk(PAY):
+    if 'index.html' in fn:
+        r = os.path.relpath(dp, PAY).replace(os.sep, '/')
+        r = re.sub(r'^indices/\d{4}-\d{2}-\d{2}/', '', r)
+        process(os.path.join(dp, 'index.html'), '/' + r + '/', sitemap=False)
 
 # ---------- sitemaps ----------
 os.makedirs(os.path.join(ROOT, 'sitemaps'), exist_ok=True)
