@@ -525,6 +525,8 @@ def build():
     write('/sitemap.xml', sm)
     blog_package()
     write('/robots.txt', 'User-agent: *\nAllow: /\nSitemap: %s/sitemap.xml\n' % DOMAIN + ('Sitemap: %s/sitemap-blog.xml\n' % DOMAIN if BL else ''))
+    import subprocess  # preparación SEO sobre la web generada (títulos, JSON-LD, sitemaps, robots)
+    subprocess.run([sys.executable, '-I', os.path.join(ROOT, 'tools', 'seo_prep.py'), DIST], check=True)
     print('pages:', n, '| wines', len(V), 'wineries', len(B), 'regions', len(R), 'countries', len(C), 'grapes', len(G), 'articles', len(A), 'glossary', len(GL))
 
 if __name__ == '__main__':
