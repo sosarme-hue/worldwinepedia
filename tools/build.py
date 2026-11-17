@@ -122,6 +122,21 @@ def sister_sites(l):
 import hashlib as _h
 ASSET_V = {k: _h.md5(open(os.path.join(ROOT, 'static', f), 'rb').read()).hexdigest()[:8] for k, f in (('css', 'css/style.css'), ('js', 'js/site.js'))}
 
+CC_TXT = {
+    'es': ('Contenido bajo licencia', 'salvo indicación en contrario'),
+    'en': ('Content licensed under', 'unless otherwise noted'),
+    'fr': ('Contenu sous licence', 'sauf mention contraire'),
+    'it': ('Contenuti con licenza', 'salvo diversa indicazione'),
+}
+
+
+def cc_line(l):
+    """Pie de autoría y licencia (CC BY-NC 4.0) en el idioma de la página."""
+    a, b = CC_TXT.get(l, CC_TXT['es'])
+    return (f'© 2026 Alejandro Rosàs · {a} <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.{l}" '
+            f'rel="license noopener" style="display:inline">CC BY-NC 4.0</a>, {b}')
+
+
 def layout(l, title, desc, body, alt, active=''):
     """alt: dict lang->path for hreflang"""
     SITEMAP.append(alt)
@@ -171,7 +186,7 @@ def layout(l, title, desc, body, alt, active=''):
 <div><h4>{s('f_project', l)}</h4>{foot_proj}</div>
 </div>
 <p class="webs-hermanas">{sister_sites(l)}</p>
-<div class="disclaimer">{s('moderation', l)} · {s('aff_short', l)} {s('amazon_note', l)} · © WorldWinePedia</div>
+<div class="disclaimer">{s('moderation', l)} · {s('aff_short', l)} {s('amazon_note', l)} · {cc_line(l)}</div>
 </footer>
 <div id="agegate" role="dialog" aria-modal="true" aria-labelledby="ageq"><div class="in">
 <div class="logo">World<b>Wine</b>pedia</div>
