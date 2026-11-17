@@ -306,16 +306,23 @@ def wines_list(l):
     regs = sorted({w.get('region') for w in V.values() if w.get('region') in R}, key=lambda r: T(R[r]['name'], l))
     opts = '<option value="">%s</option>' % s('filter_region', l) + ''.join('<option value="%s">%s</option>' % (r, e(T(R[r]['name'], l))) for r in regs)
     cards = ''.join(wine_card(l, w) for w in sorted(V.values(), key=lambda w: w['name']) if not w.get('brief'))
-    inner = f'<div data-filter-scope><div class="filters"><input class="ftext" type="search" placeholder="{s("search_ph", l)}" aria-label="{s("search_btn", l)}"><select class="freg" aria-label="{s("region", l)}">{opts}</select><span><b class="fcount"></b> {s("results", l)}</span></div>{type_pills(l, set(w.get("type") for w in V.values()))}<div class="listgrid">{cards}</div></div>' + az_nav(l, AZ_T[l])
+    nt, nf = len(V), sum(1 for w in V.values() if not w.get('brief'))
+    fmt = lambda n: f'{n:,}'.replace(',', ',' if l == 'en' else ('\u202f' if l == 'fr' else '.'))
+    total = TOTAL_T[l].format(t=fmt(nt), f=fmt(nf))
+    inner = f'<p class="wtotal" style="margin:0 0 18px">{total}</p><div data-filter-scope><div class="filters"><input class="ftext" type="search" placeholder="{s("search_ph", l)}" aria-label="{s("search_btn", l)}"><select class="freg" aria-label="{s("region", l)}">{opts}</select><span><b class="fcount"></b> {s("results", l)}</span></div>{type_pills(l, set(w.get("type") for w in V.values()))}<div class="listgrid">{cards}</div></div>' + az_nav(l, AZ_T[l])
     return layout(l, s('all_wines', l) + ' · WorldWinePedia', s('wines_intro', l), page_wrap(l, s('all_wines', l), s('wines_intro', l), inner, [(s('nav_wines', l), None)]), alts('wines'), 'wines')
 
+TOTAL_T = {'es': '<b>{t} vinos</b> en WorldWinePedia. Aquí abajo, los {f} con ficha completa; todos los demás están en el <a href="#az">índice de la A a la Z</a> y en el buscador.',
+ 'en': '<b>{t} wines</b> on WorldWinePedia. Below, the {f} with a full profile; all the others are in the <a href="#az">A to Z index</a> and the search.',
+ 'fr': '<b>{t} vins</b> sur WorldWinePedia. Ci-dessous, les {f} avec une fiche complète ; tous les autres sont dans l’<a href="#az">index de A à Z</a> et dans la recherche.',
+ 'it': '<b>{t} vini</b> su WorldWinePedia. Qui sotto, i {f} con scheda completa; tutti gli altri sono nell’<a href="#az">indice dalla A alla Z</a> e nella ricerca.'}
 AZ_T = {'es': 'Todos los vinos de la A a la Z', 'en': 'All wines from A to Z', 'fr': 'Tous les vins de A à Z', 'it': 'Tutti i vini dalla A alla Z'}
 def az_key(w):
     c = unicodedata.normalize('NFKD', w['name'][:1]).encode('ascii', 'ignore').decode().lower()
     return c if c.isalpha() else '0'
 def az_nav(l, title):
     keys = sorted({az_key(w) for w in V.values()})
-    return '<div class="box" style="margin-top:28px"><h3>%s</h3><div class="linklist">%s</div></div>' % (title, ''.join('<a href="%saz-%s/">%s</a>' % (url(l, 'wines'), k, k.upper() if k != '0' else '0-9') for k in keys))
+    return '<div class="box" id="az" style="margin-top:28px"><h3>%s</h3><div class="linklist">%s</div></div>' % (title, ''.join('<a href="%saz-%s/">%s</a>' % (url(l, 'wines'), k, k.upper() if k != '0' else '0-9') for k in keys))
 def wines_az(l):
     out = []
     groups = {}
