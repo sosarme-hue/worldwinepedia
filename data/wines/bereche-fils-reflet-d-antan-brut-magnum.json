@@ -7,34 +7,47 @@
   "country": "francia",
   "appellation": null,
   "type": "espumoso",
-  "category": null,
-  "grapes": [],
+  "category": {
+    "es": "Brut",
+    "en": "Brut",
+    "fr": "Brut",
+    "it": "Brut"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir",
+    "pinot-meunier"
+  ],
   "summary": {
-    "es": "Bérêche & Fils Reflet d´Antan Brut Magnum es un vino espumoso de Bérêche & Fils, en Francia.",
-    "en": "Bérêche & Fils Reflet d´Antan Brut Magnum is a sparkling wine from Bérêche & Fils in France.",
-    "fr": "Bérêche & Fils Reflet d´Antan Brut Magnum est un vin effervescent de Bérêche & Fils (France).",
-    "it": "Bérêche & Fils Reflet d´Antan Brut Magnum è un vino spumante di Bérêche & Fils (Francia)."
+    "es": "Champagne de Bérêche & Fils elaborado a partir de una reserva perpetua criada en madera, presentado en formato mágnum.",
+    "en": "Champagne from Bérêche & Fils made from a perpetual reserve aged in wood, presented in magnum.",
+    "fr": "Champagne de Bérêche & Fils élaboré à partir d’une réserve perpétuelle élevée en bois, présenté en magnum.",
+    "it": "Champagne di Bérêche & Fils prodotto a partire da una riserva perpetua affinata in legno, presentato in magnum."
   },
   "body": {
-    "es": "<p>Su graduación es de 12 % vol.</p>",
-    "en": "<p>It has 12% ABV.</p>",
-    "fr": "<p>Il titre 12 % vol.</p>",
-    "it": "<p>Ha 12% vol.</p>"
+    "es": "<p><strong>Bérêche & Fils</strong> es una casa familiar de viticultores de Ludes, en la Montagne de Reims, dirigida hoy por los hermanos Raphaël y Vincent Bérêche. Sus viñas se reparten por varios pueblos de la Montagne de Reims y de la Vallée de la Marne, y la casa es conocida por su trabajo en el viñedo, con prácticas cercanas a la agricultura ecológica, y por el uso de la madera en la vinificación.</p><p><strong>Reflet d’Antan</strong> («reflejo de antaño») se elabora a partir de una <strong>reserva perpetua</strong>: un conjunto de vinos que se conserva en madera y del que cada año se extrae una parte para el tiraje y se repone con vino de la nueva cosecha, de forma parecida a una solera. Así, cada botella contiene vinos de muchas añadas, lo que da al champagne una complejidad oxidativa y una profundidad poco habituales. Ensambla las tres variedades de la región.</p><p>Esta versión se presenta en <strong>mágnum</strong> (1,5 litros), un formato en el que el champagne evoluciona más despacio y que se considera especialmente adecuado para la crianza. Su graduación es de 12 % vol. Es un champagne vinoso y complejo, para la mesa más que para el aperitivo.</p>",
+    "en": "<p><strong>Bérêche & Fils</strong> is a family grower house in Ludes, in the Montagne de Reims, now run by the brothers Raphaël and Vincent Bérêche. Its vineyards are spread across several villages in the Montagne de Reims and the Vallée de la Marne, and the house is known for its vineyard work, with practices close to organic farming, and for its use of oak in winemaking.</p><p><strong>Reflet d’Antan</strong> (“reflection of yesteryear”) is made from a <strong>perpetual reserve</strong>: a body of wine kept in wood from which part is drawn each year for bottling and replaced with wine from the new harvest, much like a solera. Each bottle therefore contains wines from many vintages, giving the Champagne unusual oxidative complexity and depth. It blends the region’s three grapes.</p><p>This version is presented in <strong>magnum</strong> (1.5 litres), a format in which Champagne develops more slowly and which is regarded as particularly suited to ageing. It has 12% ABV. It is a vinous, complex Champagne, for the table rather than the aperitif.</p>",
+    "fr": "<p><strong>Bérêche & Fils</strong> est une maison familiale de vignerons de Ludes, sur la Montagne de Reims, dirigée aujourd’hui par les frères Raphaël et Vincent Bérêche. Ses vignes se répartissent sur plusieurs villages de la Montagne de Reims et de la Vallée de la Marne, et la maison est connue pour son travail à la vigne, avec des pratiques proches de l’agriculture biologique, et pour l’usage du bois en vinification.</p><p><strong>Reflet d’Antan</strong> est élaboré à partir d’une <strong>réserve perpétuelle</strong> : un ensemble de vins conservé en bois, dont on prélève chaque année une partie pour le tirage et que l’on complète avec le vin de la nouvelle récolte, à la manière d’une solera. Chaque bouteille contient ainsi des vins de nombreux millésimes, ce qui donne au champagne une complexité oxydative et une profondeur peu communes. Il assemble les trois cépages de la région.</p><p>Cette version est présentée en <strong>magnum</strong> (1,5 litre), un format dans lequel le champagne évolue plus lentement et que l’on considère comme particulièrement adapté au vieillissement. Il titre 12 % vol. C’est un champagne vineux et complexe, de table plus que d’apéritif.</p>",
+    "it": "<p><strong>Bérêche & Fils</strong> è una casa familiare di vignaioli di Ludes, nella Montagne de Reims, oggi guidata dai fratelli Raphaël e Vincent Bérêche. Le sue vigne sono distribuite in diversi villaggi della Montagne de Reims e della Vallée de la Marne, e la casa è nota per il lavoro in vigna, con pratiche vicine all’agricoltura biologica, e per l’uso del legno in vinificazione.</p><p><strong>Reflet d’Antan</strong> («riflesso di un tempo») nasce da una <strong>riserva perpetua</strong>: un insieme di vini conservato in legno, da cui ogni anno si preleva una parte per il tiraggio e che si rabbocca con il vino della nuova vendemmia, in modo simile a una solera. Ogni bottiglia contiene così vini di molte annate, il che conferisce allo Champagne una complessità ossidativa e una profondità poco comuni. Assembla le tre varietà della regione.</p><p>Questa versione è presentata in <strong>magnum</strong> (1,5 litri), un formato in cui lo Champagne evolve più lentamente e che è considerato particolarmente adatto all’invecchiamento. Ha una gradazione di 12% vol. È uno Champagne vinoso e complesso, più da tavola che da aperitivo.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Dorado intenso con burbuja fina. Aromas de frutos secos, manzana asada, miel, especias y notas oxidativas. En boca es amplio, vinoso y profundo, con acidez fresca y final muy largo.",
+    "en": "Deep gold with fine bubbles. Aromas of nuts, baked apple, honey, spice and oxidative notes. Broad, vinous and deep on the palate, with fresh acidity and a very long finish.",
+    "fr": "Or intense à la bulle fine. Arômes de fruits secs, de pomme cuite, de miel, d’épices et notes oxydatives. En bouche, il est ample, vineux et profond, à l’acidité fraîche et à la finale très longue.",
+    "it": "Oro intenso con perlage fine. Aromi di frutta secca, mela cotta, miele, spezie e note ossidative. In bocca è ampio, vinoso e profondo, con acidità fresca e finale molto lungo."
+  },
   "pairing": {
-    "es": "Aperitivo, mariscos, fritos, pescados",
-    "en": "Aperitif, shellfish, fried food, fish",
-    "fr": "Apéritif, fruits de mer, fritures, poissons",
-    "it": "Aperitivo, frutti di mare, fritture, pesce"
+    "es": "Aves asadas, pescados en salsa, setas, comté o parmesano curado",
+    "en": "Roast poultry, fish in sauce, mushrooms, aged Comté or Parmesan",
+    "fr": "Volailles rôties, poissons en sauce, champignons, comté ou parmesan affiné",
+    "it": "Pollame arrosto, pesce in salsa, funghi, comté o parmigiano stagionato"
   },
   "serve": {
-    "es": "6-8 °C, copa de espumoso",
-    "en": "6-8 °C, sparkling wine glass",
-    "fr": "6-8 °C, verre à vin effervescent",
-    "it": "6-8 °C, calice da spumante"
+    "es": "10-12 °C, copa de vino blanco amplia",
+    "en": "10-12 °C, large white wine glass",
+    "fr": "10-12 °C, grand verre à vin blanc",
+    "it": "10-12 °C, calice ampio da vino bianco"
   },
   "search": "Bérêche & Fils Reflet d´Antan Brut Magnum Bérêche & Fils",
-  "brief": true,
   "source": "decantalo"
 }

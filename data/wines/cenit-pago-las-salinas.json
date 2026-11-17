@@ -8,33 +8,39 @@
   "appellation": "VC Tierra del Vino de Zamora",
   "type": "tinto",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "tempranillo"
+  ],
   "summary": {
-    "es": "Cénit Pago Las Salinas es un vino tinto de Viñas del Cénit, con la denominación VC Tierra del Vino de Zamora, en España.",
-    "en": "Cénit Pago Las Salinas is a red wine from Viñas del Cénit, made under the VC Tierra del Vino de Zamora appellation in Spain.",
-    "fr": "Cénit Pago Las Salinas est un vin rouge de Viñas del Cénit, élaboré sous l’appellation VC Tierra del Vino de Zamora (Espagne).",
-    "it": "Cénit Pago Las Salinas è un vino rosso di Viñas del Cénit, prodotto nella denominazione VC Tierra del Vino de Zamora (Spagna)."
+    "es": "Tinto de parcela de Viñas del Cénit, procedente del pago Las Salinas, en la denominación Tierra del Vino de Zamora, con crianza en madera.",
+    "en": "Single-site red from Viñas del Cénit, sourced from the Las Salinas plot in the Tierra del Vino de Zamora appellation, aged in wood.",
+    "fr": "Rouge parcellaire de Viñas del Cénit, issu du lieu-dit Las Salinas, dans l’appellation Tierra del Vino de Zamora, élevé en bois.",
+    "it": "Rosso di singola parcella di Viñas del Cénit, proveniente dal sito Las Salinas, nella denominazione Tierra del Vino de Zamora, affinato in legno."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 15 % vol.</p>",
-    "en": "<p>It is aged in wood. It has 15% ABV.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 15 % vol.</p>",
-    "it": "<p>È affinato in legno. Ha 15% vol.</p>"
+    "es": "<p><strong>Viñas del Cénit</strong> es una bodega de <strong>Villanueva de Campeán</strong>, en la provincia de Zamora, dentro de la denominación <strong>Tierra del Vino de Zamora</strong>, una zona situada al sur de la capital, entre el Duero y la comarca de Toro. La bodega se ha centrado en recuperar viñedos viejos de <strong>Tempranillo</strong>, cultivados en vaso y en secano sobre suelos de arena, arcilla y cantos rodados, en un clima continental de inviernos largos y veranos secos y calurosos.</p><p>Muchas de esas cepas son de edad avanzada y algunas sobrevivieron a la filoxera gracias a los suelos arenosos, lo que permite obtener uvas pequeñas y concentradas, con un carácter muy ligado al terreno.</p><p><strong>Pago Las Salinas</strong> es un vino de parcela que procede de un viñedo concreto de la bodega, con el que se busca mostrar el carácter de un único terreno. Tiene <strong>crianza en madera</strong> y una graduación de 15 % vol. Es un tinto de estructura firme y fruta madura, pensado para evolucionar en botella.</p><p>La Tierra del Vino de Zamora es una denominación pequeña y poco conocida frente a su vecina Toro, pero conserva un patrimonio notable de viñedo viejo, que bodegas como esta han contribuido a valorizar.</p>",
+    "en": "<p><strong>Viñas del Cénit</strong> is a winery in <strong>Villanueva de Campeán</strong>, in the province of Zamora, within the <strong>Tierra del Vino de Zamora</strong> appellation, an area south of the provincial capital, between the Duero and the Toro district. The winery has focused on recovering old <strong>Tempranillo</strong> vineyards, bush-trained and dry-farmed on soils of sand, clay and rounded stones, in a continental climate of long winters and dry, hot summers.</p><p>Many of these vines are very old and some survived phylloxera thanks to the sandy soils, which yields small, concentrated grapes with a character closely tied to the land.</p><p><strong>Pago Las Salinas</strong> is a single-site wine from one specific vineyard of the winery, intended to show the character of a single plot of land. It is <strong>aged in wood</strong> and has 15% ABV. It is a red of firm structure and ripe fruit, designed to develop in bottle.</p><p>Tierra del Vino de Zamora is a small appellation, little known compared with its neighbour Toro, but it preserves a remarkable heritage of old vineyards, which wineries like this one have helped to bring to light.</p>",
+    "fr": "<p><strong>Viñas del Cénit</strong> est une bodega de <strong>Villanueva de Campeán</strong>, dans la province de Zamora, au sein de l’appellation <strong>Tierra del Vino de Zamora</strong>, une zone située au sud de la ville, entre le Duero et la région de Toro. La bodega s’est attachée à récupérer de vieilles vignes de <strong>tempranillo</strong>, conduites en gobelet et sans irrigation sur des sols de sable, d’argile et de galets, dans un climat continental aux hivers longs et aux étés secs et chauds.</p><p>Beaucoup de ces ceps sont très âgés et certains ont survécu au phylloxéra grâce aux sols sableux, ce qui permet d’obtenir des raisins petits et concentrés, au caractère très lié au terroir.</p><p><strong>Pago Las Salinas</strong> est un vin parcellaire issu d’une vigne précise de la bodega, destiné à exprimer le caractère d’un terroir unique. Il connaît un <strong>élevage sous bois</strong> et titre 15 % vol. C’est un rouge à la structure ferme et au fruit mûr, conçu pour évoluer en bouteille.</p><p>La Tierra del Vino de Zamora est une petite appellation, peu connue face à sa voisine Toro, mais elle conserve un patrimoine remarquable de vieilles vignes, que des bodegas comme celle-ci ont contribué à mettre en valeur.</p>",
+    "it": "<p><strong>Viñas del Cénit</strong> è una cantina di <strong>Villanueva de Campeán</strong>, in provincia di Zamora, nella denominazione <strong>Tierra del Vino de Zamora</strong>, una zona a sud del capoluogo, tra il Duero e il territorio di Toro. La cantina si è dedicata al recupero di vecchi vigneti di <strong>Tempranillo</strong>, allevati ad alberello e senza irrigazione su suoli di sabbia, argilla e ciottoli, in un clima continentale di inverni lunghi ed estati secche e calde.</p><p>Molte di queste viti sono molto vecchie e alcune sono sopravvissute alla fillossera grazie ai suoli sabbiosi, il che permette di ottenere uve piccole e concentrate, dal carattere strettamente legato al terreno.</p><p><strong>Pago Las Salinas</strong> è un vino di singola parcella proveniente da un vigneto specifico della cantina, con cui si cerca di mostrare il carattere di un unico terreno. Compie un <strong>affinamento in legno</strong> e ha 15% vol. È un rosso di struttura salda e frutto maturo, pensato per evolvere in bottiglia.</p><p>La Tierra del Vino de Zamora è una denominazione piccola e poco conosciuta rispetto alla vicina Toro, ma conserva un notevole patrimonio di vecchi vigneti, che cantine come questa hanno contribuito a valorizzare.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo picota muy cubierto. Aromas de fruta negra madura, regaliz, especias, cacao y notas minerales. En boca es potente y concentrado, con taninos firmes pero maduros y un final largo y cálido.",
+    "en": "Opaque deep cherry red. Aromas of ripe black fruit, liquorice, spice, cocoa and mineral notes. Powerful and concentrated on the palate, with firm but ripe tannins and a long, warm finish.",
+    "fr": "Rouge cerise burlat très soutenu. Arômes de fruits noirs mûrs, de réglisse, d’épices, de cacao et notes minérales. En bouche, il est puissant et concentré, aux tanins fermes mais mûrs, avec une finale longue et chaleureuse.",
+    "it": "Rosso ciliegia molto intenso. Aromi di frutta nera matura, liquirizia, spezie, cacao e note minerali. In bocca è potente e concentrato, con tannini decisi ma maturi e finale lungo e caldo."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Carnes rojas a la brasa, lechazo, caza mayor, quesos zamoranos curados",
+    "en": "Chargrilled red meat, milk-fed lamb, large game, aged Zamorano cheeses",
+    "fr": "Viandes rouges à la braise, agneau de lait, gros gibier, fromages zamoranos affinés",
+    "it": "Carni rosse alla brace, agnello da latte, selvaggina di grossa taglia, formaggi zamorani stagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
   },
   "search": "Cénit Pago Las Salinas Viñas del Cénit",
-  "brief": true,
   "source": "decantalo"
 }

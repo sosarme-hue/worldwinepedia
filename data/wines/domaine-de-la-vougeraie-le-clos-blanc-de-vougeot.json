@@ -7,36 +7,45 @@
   "country": "francia",
   "appellation": "AOC Clos Vougeot / Côte-d'Or",
   "type": "blanco",
-  "category": null,
+  "category": {
+    "es": "Premier Cru",
+    "en": "Premier Cru",
+    "fr": "Premier Cru",
+    "it": "Premier Cru"
+  },
   "grapes": [
     "chardonnay"
   ],
   "summary": {
-    "es": "Domaine de la Vougeraie Le Clos Blanc de Vougeot es un vino blanco de Domaine de la Vougeraie, con la denominación AOC Clos Vougeot / Côte-d'Or, en Francia.",
-    "en": "Domaine de la Vougeraie Le Clos Blanc de Vougeot is a white wine from Domaine de la Vougeraie, made under the AOC Clos Vougeot / Côte-d'Or appellation in France.",
-    "fr": "Domaine de la Vougeraie Le Clos Blanc de Vougeot est un vin blanc de Domaine de la Vougeraie, élaboré sous l’appellation AOC Clos Vougeot / Côte-d'Or (France).",
-    "it": "Domaine de la Vougeraie Le Clos Blanc de Vougeot è un vino bianco di Domaine de la Vougeraie, prodotto nella denominazione AOC Clos Vougeot / Côte-d'Or (Francia)."
+    "es": "Vougeot Premier Cru blanco del Clos Blanc de Vougeot, histórico viñedo cercado de origen cisterciense que pertenece en monopolio al Domaine de la Vougeraie.",
+    "en": "A white Vougeot Premier Cru from the Clos Blanc de Vougeot, a historic walled vineyard of Cistercian origin owned as a monopole by Domaine de la Vougeraie.",
+    "fr": "Vougeot premier cru blanc du Clos Blanc de Vougeot, clos historique d'origine cistercienne détenu en monopole par le Domaine de la Vougeraie.",
+    "it": "Vougeot Premier Cru bianco del Clos Blanc de Vougeot, storico vigneto cintato di origine cistercense di proprietà esclusiva del Domaine de la Vougeraie."
   },
   "body": {
-    "es": "<p>Se elabora con Chardonnay. Tiene crianza en madera. Su graduación es de 13 % vol.</p><p>Dominio borgoñón creado en 1999 por la familia Boisset a partir de sus viñedos propios, cultivado en biodinámica y con una amplia gama de vinos de la Côte de Nuits y la Côte de Beaune.</p>",
-    "en": "<p>It is made from Chardonnay. It is aged in wood. It has 13% ABV.</p><p>A Burgundy domaine created in 1999 by the Boisset family from its own vineyards, farmed biodynamically, with a wide range of wines from the Côte de Nuits and the Côte de Beaune.</p>",
-    "fr": "<p>Il est élaboré à partir de Chardonnay. Il est élevé en bois. Il titre 13 % vol.</p><p>Domaine bourguignon créé en 1999 par la famille Boisset à partir de ses propres vignes, conduit en biodynamie, avec une large gamme de vins de la Côte de Nuits et de la Côte de Beaune.</p>",
-    "it": "<p>È prodotto con Chardonnay. È affinato in legno. Ha 13% vol.</p><p>Domaine borgognone creato nel 1999 dalla famiglia Boisset a partire dai propri vigneti, condotto in biodinamica, con un’ampia gamma di vini della Côte de Nuits e della Côte de Beaune.</p>"
+    "es": "<p>El <strong>Domaine de la Vougeraie</strong> fue creado en 1999 por la familia Boisset al reunir los viñedos propios que había ido adquiriendo en la Côte d'Or. Cultivado en biodinámica, elabora una amplia gama de vinos de la Côte de Nuits y la Côte de Beaune, desde denominaciones regionales hasta grands crus.</p><p><strong>Le Clos Blanc de Vougeot</strong> es una rareza en la Côte de Nuits, zona dedicada casi por completo a la Pinot Noir. Situado junto al gran Clos de Vougeot, fue plantado con uvas blancas por los monjes cistercienses en la Edad Media, y su nombre se debe precisamente al color de su vino. Es un premier cru en <strong>monopolio</strong>, propiedad exclusiva del dominio, sobre suelos de calizas y margas.</p><p>El vino se elabora principalmente con <strong>Chardonnay</strong>, acompañada históricamente de pequeñas proporciones de otras variedades blancas de la familia Pinot. Fermenta y se cría en barricas de roble, con un uso de la madera orientado a dar textura. El resultado es un blanco amplio y firme, de buena estructura, que combina fruta madura con frescura y notas minerales y puede envejecer varios años.</p>",
+    "en": "<p><strong>Domaine de la Vougeraie</strong> was created in 1999 by the Boisset family by bringing together the vineyards it had gradually acquired in the Côte d'Or. Farmed biodynamically, it produces a wide range of wines from the Côte de Nuits and Côte de Beaune, from regional appellations to grands crus.</p><p><strong>Le Clos Blanc de Vougeot</strong> is a rarity in the Côte de Nuits, an area devoted almost entirely to Pinot Noir. Next to the great Clos de Vougeot, it was planted with white grapes by Cistercian monks in the Middle Ages, and its name refers precisely to the colour of its wine. It is a premier cru <strong>monopole</strong>, owned exclusively by the domaine, on limestone and marl soils.</p><p>The wine is made mainly from <strong>Chardonnay</strong>, historically accompanied by small proportions of other white varieties of the Pinot family. It is fermented and aged in oak barrels, with oak used to add texture. The result is a broad, firm white with good structure, combining ripe fruit with freshness and mineral notes, and capable of ageing for several years.</p>",
+    "fr": "<p>Le <strong>Domaine de la Vougeraie</strong> a été créé en 1999 par la famille Boisset en réunissant les vignes qu'elle avait peu à peu acquises en Côte-d'Or. Cultivé en biodynamie, il produit une large gamme de vins de Côte de Nuits et de Côte de Beaune, des appellations régionales aux grands crus.</p><p><strong>Le Clos Blanc de Vougeot</strong> est une rareté en Côte de Nuits, secteur presque entièrement voué au pinot noir. Voisin du grand Clos de Vougeot, il fut planté en cépages blancs par les moines cisterciens au Moyen Âge, et son nom fait justement référence à la couleur de son vin. C'est un premier cru en <strong>monopole</strong>, propriété exclusive du domaine, sur des sols de calcaires et de marnes.</p><p>Le vin est issu principalement de <strong>chardonnay</strong>, historiquement accompagné de petites proportions d'autres cépages blancs de la famille des pinots. Il fermente et s'élève en fûts de chêne, avec un boisé destiné à apporter de la texture. Il en résulte un blanc ample et ferme, bien structuré, qui allie fruit mûr, fraîcheur et notes minérales, et peut vieillir plusieurs années.</p>",
+    "it": "<p>Il <strong>Domaine de la Vougeraie</strong> è stato creato nel 1999 dalla famiglia Boisset riunendo i vigneti acquisiti nel tempo nella Côte d'Or. Coltivato in biodinamica, produce un'ampia gamma di vini della Côte de Nuits e della Côte de Beaune, dalle denominazioni regionali ai grand cru.</p><p><strong>Le Clos Blanc de Vougeot</strong> è una rarità nella Côte de Nuits, zona dedicata quasi interamente al Pinot Noir. Accanto al grande Clos de Vougeot, fu piantato a uve bianche dai monaci cistercensi nel Medioevo, e il suo nome si riferisce proprio al colore del vino. È un premier cru in <strong>monopolio</strong>, di proprietà esclusiva del domaine, su suoli di calcari e marne.</p><p>Il vino è prodotto principalmente con <strong>Chardonnay</strong>, storicamente accompagnato da piccole quote di altri vitigni bianchi della famiglia dei Pinot. Fermenta e matura in botti di rovere, con un uso del legno volto a dare struttura. Ne risulta un bianco ampio e deciso, ben strutturato, che unisce frutto maturo, freschezza e note minerali e può invecchiare diversi anni.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Amarillo dorado. Aromas de fruta de hueso, cítricos, flores blancas, avellana y notas tostadas suaves. Boca amplia y firme, de acidez fresca y final largo y mineral.",
+    "en": "Golden yellow. Aromas of stone fruit, citrus, white flowers, hazelnut and gentle toasty notes. Broad, firm palate with fresh acidity and a long, mineral finish.",
+    "fr": "Jaune doré. Arômes de fruits à noyau, d'agrumes, de fleurs blanches, de noisette et notes grillées discrètes. Bouche ample et ferme, à l'acidité fraîche et à la finale longue et minérale.",
+    "it": "Giallo dorato. Aromi di frutta a nocciolo, agrumi, fiori bianchi, nocciola e lievi note tostate. Bocca ampia e decisa, con acidità fresca e finale lungo e minerale."
+  },
   "pairing": {
-    "es": "Pescados, mariscos, arroces, quesos frescos",
-    "en": "Fish, shellfish, rice dishes, fresh cheeses",
-    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
-    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+    "es": "Pescados nobles en salsa, langosta, ave de Bresse, quesos de pasta blanda",
+    "en": "Fine fish in sauce, lobster, Bresse chicken, soft cheeses",
+    "fr": "Poissons nobles en sauce, homard, volaille de Bresse, fromages à pâte molle",
+    "it": "Pesce pregiato in salsa, astice, pollo di Bresse, formaggi a pasta molle"
   },
   "serve": {
-    "es": "8-11 °C, copa de vino blanco",
-    "en": "8-11 °C, white wine glass",
-    "fr": "8-11 °C, verre à vin blanc",
-    "it": "8-11 °C, calice da vino bianco"
+    "es": "11-13 °C, copa amplia de vino blanco",
+    "en": "11-13 °C, large white wine glass",
+    "fr": "11-13 °C, grand verre à vin blanc",
+    "it": "11-13 °C, calice ampio da bianco"
   },
   "search": "Domaine de la Vougeraie Le Clos Blanc de Vougeot Domaine de la Vougeraie",
-  "brief": true,
   "source": "decantalo"
 }

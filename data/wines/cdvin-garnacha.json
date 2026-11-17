@@ -12,31 +12,35 @@
     "garnacha"
   ],
   "summary": {
-    "es": "CDVIN Garnacha es un vino tinto de Cuentaviñas, con la denominación DOCa Rioja, en España.",
-    "en": "CDVIN Garnacha is a red wine from Cuentaviñas, made under the DOCa Rioja appellation in Spain.",
-    "fr": "CDVIN Garnacha est un vin rouge de Cuentaviñas, élaboré sous l’appellation DOCa Rioja (Espagne).",
-    "it": "CDVIN Garnacha è un vino rosso di Cuentaviñas, prodotto nella denominazione DOCa Rioja (Spagna)."
+    "es": "Tinto de Garnacha de la DOCa Rioja elaborado por Cuentaviñas, con crianza en madera.",
+    "en": "Garnacha red from the Rioja DOCa made by Cuentaviñas, with oak ageing.",
+    "fr": "Rouge de grenache de la DOCa Rioja élaboré par Cuentaviñas, élevé en bois.",
+    "it": "Rosso di Garnacha della DOCa Rioja prodotto da Cuentaviñas, con affinamento in legno."
   },
   "body": {
-    "es": "<p>Se elabora con Garnacha. Tiene crianza en madera. Su graduación es de 14,5 % vol.</p><p>Rioja, en el valle del Ebro, fue en 1991 la primera Denominación de Origen Calificada de España. Es conocida sobre todo por sus tintos de Tempranillo y por su larga tradición de crianza en barrica de roble.</p>",
-    "en": "<p>It is made from Grenache. It is aged in wood. It has 14.5% ABV.</p><p>Rioja, in the Ebro valley, became Spain's first Qualified Designation of Origin in 1991. It is best known for its Tempranillo-based reds and its long tradition of ageing in oak barrels.</p>",
-    "fr": "<p>Il est élaboré à partir de Grenache. Il est élevé en bois. Il titre 14,5 % vol.</p><p>La Rioja, dans la vallée de l'Èbre, est devenue en 1991 la première dénomination d'origine qualifiée d'Espagne. Elle est surtout connue pour ses rouges à base de tempranillo et sa longue tradition d'élevage en barrique de chêne.</p>",
-    "it": "<p>È prodotto con Grenache. È affinato in legno. Ha 14,5% vol.</p><p>La Rioja, nella valle dell'Ebro, è diventata nel 1991 la prima Denominazione di origine qualificata di Spagna. È nota soprattutto per i rossi a base di Tempranillo e per la lunga tradizione di affinamento in botte di rovere.</p>"
+    "es": "<p><strong>CDVIN Garnacha</strong> es un tinto de <strong>Rioja</strong> elaborado por <strong>Cuentaviñas</strong>, un proyecto de pequeña escala que, como indica su nombre, pone el acento en el viñedo concreto. Se inscribe en la corriente de elaboradores riojanos que en los últimos años han recuperado el interés por los vinos de parcela, de pueblo y de variedad, frente al modelo clásico de grandes ensamblajes clasificados por tiempo de crianza.</p><p>Se elabora con <strong>Garnacha</strong>, la segunda variedad tinta tradicional de Rioja tras el Tempranillo. Durante décadas fue arrancada o relegada a los ensamblajes, pero hoy se valora de nuevo, sobre todo en viñedos viejos de las zonas más altas y frescas, donde da vinos de fruta roja, perfume floral y buena acidez, lejos de la imagen de variedad cálida y alcohólica.</p><p>Tiene <strong>crianza en madera</strong> y una graduación de 14,5 % vol. Es un tinto que combina la madurez de la variedad con una estructura fina, pensado para expresar el carácter de la uva y de su origen más que la huella del roble.</p>",
+    "en": "<p><strong>CDVIN Garnacha</strong> is a red from <strong>Rioja</strong> made by <strong>Cuentaviñas</strong>, a small-scale project which, as its name suggests, places the emphasis on specific vineyards. It belongs to the current of Rioja winemakers who in recent years have revived interest in single-plot, village and single-variety wines, as opposed to the classic model of large blends classified by ageing time.</p><p>It is made from <strong>Garnacha</strong>, the second traditional red variety of Rioja after Tempranillo. For decades it was grubbed up or relegated to blends, but today it is valued again, especially in old vineyards in the higher, cooler areas, where it gives wines with red fruit, floral perfume and good acidity, far from its image as a warm, alcoholic variety.</p><p>It is <strong>aged in wood</strong> and has 14.5% ABV. It is a red that combines the ripeness of the variety with a fine structure, intended to express the character of the grape and its origin rather than the imprint of oak.</p>",
+    "fr": "<p><strong>CDVIN Garnacha</strong> est un rouge de <strong>Rioja</strong> élaboré par <strong>Cuentaviñas</strong>, un projet de petite taille qui, comme son nom l’indique, met l’accent sur la vigne précise. Il s’inscrit dans le courant des vignerons riojanos qui, ces dernières années, ont renoué avec les vins parcellaires, de village et de cépage, face au modèle classique des grands assemblages classés selon la durée d’élevage.</p><p>Il est élaboré avec de la <strong>grenache</strong>, le deuxième cépage noir traditionnel de la Rioja après le tempranillo. Pendant des décennies, elle a été arrachée ou reléguée aux assemblages, mais elle est aujourd’hui de nouveau appréciée, surtout dans les vieilles vignes des secteurs plus élevés et plus frais, où elle donne des vins de fruits rouges, au parfum floral et à la bonne acidité, loin de son image de cépage chaud et alcooleux.</p><p>Il connaît un <strong>élevage sous bois</strong> et titre 14,5 % vol. C’est un rouge qui associe la maturité du cépage à une structure fine, conçu pour exprimer le caractère du raisin et de son origine plutôt que l’empreinte du chêne.</p>",
+    "it": "<p><strong>CDVIN Garnacha</strong> è un rosso della <strong>Rioja</strong> prodotto da <strong>Cuentaviñas</strong>, un progetto di piccola scala che, come suggerisce il nome, pone l’accento sul singolo vigneto. Si inserisce nella corrente dei produttori riojani che negli ultimi anni hanno riscoperto i vini di parcella, di villaggio e di varietà, rispetto al modello classico dei grandi uvaggi classificati per tempo di affinamento.</p><p>È prodotto con <strong>Garnacha</strong>, la seconda varietà rossa tradizionale della Rioja dopo il Tempranillo. Per decenni è stata estirpata o relegata agli uvaggi, ma oggi è di nuovo apprezzata, soprattutto nei vecchi vigneti delle zone più alte e fresche, dove dà vini di frutta rossa, profumo floreale e buona acidità, lontani dall’immagine di varietà calda e alcolica.</p><p>Compie un <strong>affinamento in legno</strong> e ha 14,5% vol. È un rosso che unisce la maturità del vitigno a una struttura fine, pensato per esprimere il carattere dell’uva e della sua origine più che l’impronta del rovere.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo cereza de capa media. Aromas de fresa, frambuesa, notas florales, hierbas y especias suaves. En boca es jugoso y fresco, con taninos finos y un final sabroso.",
+    "en": "Medium-intensity cherry red. Aromas of strawberry, raspberry, floral notes, herbs and gentle spice. Juicy and fresh on the palate, with fine tannins and a savoury finish.",
+    "fr": "Rouge cerise d’intensité moyenne. Arômes de fraise, de framboise, notes florales, herbes et épices douces. En bouche, il est juteux et frais, aux tanins fins, avec une finale savoureuse.",
+    "it": "Rosso ciliegia di media intensità. Aromi di fragola, lampone, note floreali, erbe e spezie delicate. In bocca è succoso e fresco, con tannini fini e finale sapido."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Patatas a la riojana, cordero, embutidos, setas, quesos semicurados",
+    "en": "Rioja-style potatoes with chorizo, lamb, charcuterie, mushrooms, semi-cured cheeses",
+    "fr": "Pommes de terre à la riojana, agneau, charcuterie, champignons, fromages mi-affinés",
+    "it": "Patate alla riojana, agnello, salumi, funghi, formaggi semistagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "15-17 °C, copa amplia",
+    "en": "15-17 °C, large glass",
+    "fr": "15-17 °C, verre ample",
+    "it": "15-17 °C, calice ampio"
   },
   "search": "CDVIN Garnacha Cuentaviñas",
-  "brief": true,
   "source": "decantalo"
 }

@@ -13,33 +13,39 @@
     "fr": "Crianza",
     "it": "Crianza"
   },
-  "grapes": [],
+  "grapes": [
+    "tempranillo"
+  ],
   "summary": {
-    "es": "Astrales Christina es un vino tinto de Los Astrales, con la denominación DO Ribera del Duero, en España.",
-    "en": "Astrales Christina is a red wine from Los Astrales, made under the DO Ribera del Duero appellation in Spain.",
-    "fr": "Astrales Christina est un vin rouge de Los Astrales, élaboré sous l’appellation DO Ribera del Duero (Espagne).",
-    "it": "Astrales Christina è un vino rosso di Los Astrales, prodotto nella denominazione DO Ribera del Duero (Spagna)."
+    "es": "Tinto de Ribera del Duero de la bodega familiar Los Astrales, en Anguix, elaborado con Tinto Fino de viñas viejas.",
+    "en": "Ribera del Duero red from the family winery Los Astrales in Anguix, made from old-vine Tinto Fino.",
+    "fr": "Rouge de Ribera del Duero de la bodega familiale Los Astrales, à Anguix, élaboré avec du tinto fino de vieilles vignes.",
+    "it": "Rosso di Ribera del Duero della cantina familiare Los Astrales, ad Anguix, prodotto con Tinto Fino di vecchie vigne."
   },
   "body": {
-    "es": "<p>Lleva la mención Crianza. Su graduación es de 14,5 % vol.</p><p>Ribera del Duero es una denominación de origen de Castilla y León, creada en 1982, que se extiende a lo largo del río Duero en una meseta de gran altitud. Es conocida por sus tintos de Tempranillo, llamada aquí Tinto Fino o Tinta del País.</p>",
-    "en": "<p>It carries the Crianza designation. It has 14.5% ABV.</p><p>Ribera del Duero is a designation of origin in Castilla y León, created in 1982, that runs along the Duero river on a high plateau. It is known for its reds made from Tempranillo, called Tinto Fino or Tinta del País locally.</p>",
-    "fr": "<p>Il porte la mention Crianza. Il titre 14,5 % vol.</p><p>La Ribera del Duero est une dénomination d'origine de Castille-et-León, créée en 1982, qui s'étend le long du Douro sur un haut plateau. Elle est connue pour ses rouges de tempranillo, appelé ici tinto fino ou tinta del país.</p>",
-    "it": "<p>Riporta la menzione Crianza. Ha 14,5% vol.</p><p>Ribera del Duero è una denominazione di origine della Castiglia e León, istituita nel 1982, che si estende lungo il fiume Duero su un altopiano elevato. È nota per i rossi di Tempranillo, chiamato qui Tinto Fino o Tinta del País.</p>"
+    "es": "<p><strong>Los Astrales</strong> es una bodega familiar de <strong>Anguix</strong>, en la parte burgalesa de la Ribera del Duero, creada por una familia con larga tradición en el cultivo de la viña en el pueblo. Trabaja únicamente con viñedo propio, plantado en las laderas y páramos que rodean el municipio, a una altitud elevada que da noches frescas y una maduración lenta.</p><p>La base de sus vinos es el <strong>Tinto Fino</strong>, la variante local del Tempranillo. <strong>Christina</strong> es la selección más ambiciosa de la casa: procede de las viñas más viejas de la familia, cultivadas en vaso sobre suelos de arcilla y caliza, y se elabora solo en las añadas en las que la bodega lo considera oportuno.</p><p>Tras la fermentación, el vino se cría en barricas de roble, en buena parte francés, antes de un reposo en botella. El resultado es un tinto concentrado y profundo, con fruta negra madura, notas especiadas, minerales y tostadas, y una estructura firme pero pulida que le da capacidad de guarda. Agradece la decantación cuando se bebe joven.</p>",
+    "en": "<p><strong>Los Astrales</strong> is a family winery in <strong>Anguix</strong>, in the Burgos part of Ribera del Duero, set up by a family with a long tradition of growing vines in the village. It works only with its own vineyards, planted on the slopes and uplands around the village, at a high elevation that brings cool nights and slow ripening.</p><p>The basis of its wines is <strong>Tinto Fino</strong>, the local variant of Tempranillo. <strong>Christina</strong> is the house’s most ambitious selection: it comes from the family’s oldest vines, bush-trained on clay and limestone soils, and is made only in vintages when the winery considers it appropriate.</p><p>After fermentation, the wine is aged in oak barrels, largely French, before a period in bottle. The result is a concentrated, deep red with ripe black fruit, spicy, mineral and toasty notes and a firm yet polished structure that gives it ageing potential. It benefits from decanting when drunk young.</p>",
+    "fr": "<p><strong>Los Astrales</strong> est une bodega familiale d’<strong>Anguix</strong>, dans la partie burgalaise de la Ribera del Duero, créée par une famille de longue tradition viticole dans le village. Elle travaille exclusivement ses propres vignes, plantées sur les coteaux et plateaux qui entourent la commune, à une altitude élevée qui apporte des nuits fraîches et une maturation lente.</p><p>La base de ses vins est le <strong>tinto fino</strong>, variante locale du tempranillo. <strong>Christina</strong> est la sélection la plus ambitieuse de la maison : elle provient des plus vieilles vignes de la famille, conduites en gobelet sur des sols d’argile et de calcaire, et n’est élaborée que les années où la bodega le juge opportun.</p><p>Après la fermentation, le vin est élevé en barriques de chêne, en grande partie français, avant un repos en bouteille. Il en résulte un rouge concentré et profond, aux fruits noirs mûrs, aux notes épicées, minérales et toastées et à la structure ferme mais polie qui lui donne un potentiel de garde. Il gagne à être carafé lorsqu’on le boit jeune.</p>",
+    "it": "<p><strong>Los Astrales</strong> è una cantina familiare di <strong>Anguix</strong>, nella parte burgalese della Ribera del Duero, creata da una famiglia con una lunga tradizione viticola nel paese. Lavora esclusivamente con vigneti propri, piantati sui pendii e gli altipiani che circondano il comune, a un’altitudine elevata che porta notti fresche e una maturazione lenta.</p><p>La base dei suoi vini è il <strong>Tinto Fino</strong>, la variante locale del Tempranillo. <strong>Christina</strong> è la selezione più ambiziosa della casa: proviene dalle viti più vecchie della famiglia, ad alberello su suoli di argilla e calcare, ed è prodotta solo nelle annate in cui la cantina lo ritiene opportuno.</p><p>Dopo la fermentazione, il vino affina in barrique di rovere, in buona parte francese, prima di un riposo in bottiglia. Il risultato è un rosso concentrato e profondo, con frutto nero maturo, note speziate, minerali e tostate e una struttura salda ma levigata che gli dà capacità di invecchiamento. Si giova della decantazione se bevuto giovane.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de mora, ciruela, regaliz, especias y notas minerales y tostadas. En boca es denso y estructurado, con taninos pulidos y final largo.",
+    "en": "Intense deep cherry red. Aromas of blackberry, plum, liquorice, spice and mineral and toasty notes. Dense and structured on the palate, with polished tannins and a long finish.",
+    "fr": "Rouge cerise intense. Arômes de mûre, prune, réglisse, épices et notes minérales et toastées. En bouche, il est dense et structuré, aux tanins polis et à la finale longue.",
+    "it": "Rosso ciliegia intenso. Aromi di mora, prugna, liquirizia, spezie e note minerali e tostate. In bocca è denso e strutturato, con tannini levigati e finale lungo."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Lechazo asado, carnes rojas a la brasa, caza, quesos curados de oveja",
+    "en": "Roast milk-fed lamb, chargrilled red meat, game, aged sheep’s cheeses",
+    "fr": "Agneau de lait rôti, viandes rouges à la braise, gibier, fromages de brebis affinés",
+    "it": "Agnello da latte arrosto, carni rosse alla brace, selvaggina, pecorini stagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
   },
   "search": "Astrales Christina Los Astrales",
-  "brief": true,
   "source": "decantalo"
 }

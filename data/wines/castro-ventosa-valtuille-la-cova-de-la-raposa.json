@@ -8,33 +8,39 @@
   "appellation": "DO Bierzo",
   "type": "tinto",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "mencia"
+  ],
   "summary": {
-    "es": "Castro Ventosa Valtuille La Cova de La Raposa es un vino tinto de Castro Ventosa, con la denominación DO Bierzo, en España.",
-    "en": "Castro Ventosa Valtuille La Cova de La Raposa is a red wine from Castro Ventosa, made under the DO Bierzo appellation in Spain.",
-    "fr": "Castro Ventosa Valtuille La Cova de La Raposa est un vin rouge de Castro Ventosa, élaboré sous l’appellation DO Bierzo (Espagne).",
-    "it": "Castro Ventosa Valtuille La Cova de La Raposa è un vino rosso di Castro Ventosa, prodotto nella denominazione DO Bierzo (Spagna)."
+    "es": "Tinto de parcela de Mencía de Castro Ventosa, procedente del paraje La Cova de la Raposa, en el entorno de Valtuille de Abajo, en el Bierzo.",
+    "en": "Single-plot Mencía red from Castro Ventosa, sourced from the La Cova de la Raposa site around Valtuille de Abajo, in Bierzo.",
+    "fr": "Rouge parcellaire de mencía de Castro Ventosa, issu du lieu-dit La Cova de la Raposa, aux environs de Valtuille de Abajo, dans le Bierzo.",
+    "it": "Rosso di singola parcella di Mencía di Castro Ventosa, dalla località La Cova de la Raposa, nei dintorni di Valtuille de Abajo, nel Bierzo."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 12,5 % vol.</p><p>Bierzo es una denominación de origen del noroeste de la provincia de León, reconocida en 1989. Es la cuna de los tintos de Mencía y de blancos de Godello, a menudo procedentes de viñedos viejos en ladera.</p>",
-    "en": "<p>It is aged in wood. It has 12.5% ABV.</p><p>Bierzo is a designation of origin in the north-west of the province of León, recognised in 1989. It is the home of Mencía reds and Godello whites, often from old hillside vineyards.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 12,5 % vol.</p><p>Le Bierzo est une dénomination d'origine du nord-ouest de la province de León, reconnue en 1989. C'est le berceau des rouges de mencía et des blancs de godello, souvent issus de vieilles vignes en coteau.</p>",
-    "it": "<p>È affinato in legno. Ha 12,5% vol.</p><p>Bierzo è una denominazione di origine del nord-ovest della provincia di León, riconosciuta nel 1989. È la patria dei rossi di Mencía e dei bianchi di Godello, spesso da vecchi vigneti in collina.</p>"
+    "es": "<p><strong>Castro Ventosa</strong> es la bodega de la familia Pérez en <strong>Valtuille de Abajo</strong>, junto a Villafranca del Bierzo, una familia con larga tradición vitícola en la comarca. En ella se formó y trabaja <strong>Raúl Pérez</strong>, uno de los enólogos que más han contribuido a la nueva reputación del Bierzo, y de ella sale la gama <strong>Valtuille</strong>, centrada en viñas viejas del pueblo y en vinos de parcela.</p><p>Valtuille se sitúa en la parte baja de la comarca, con suelos de arcilla y arena y un clima de transición entre la influencia atlántica y la continental, que permite maduraciones completas sin perder frescura. Los vinos se amparan en la DO <strong>Bierzo</strong>.</p><p><strong>La Cova de la Raposa</strong> es otro de los vinos de parcela de la gama Valtuille, elaborado con <strong>Mencía</strong> de un viñedo viejo concreto. Su graduación, de solo 12,5 % vol., muy contenida para la zona, apunta a un estilo especialmente ligero, fresco y aromático, en el que prima la finura sobre la potencia. Tiene <strong>crianza en madera</strong> y una graduación de 12,5 % vol.</p>",
+    "en": "<p><strong>Castro Ventosa</strong> is the winery of the Pérez family in <strong>Valtuille de Abajo</strong>, near Villafranca del Bierzo, a family with a long winegrowing tradition in the area. It is where <strong>Raúl Pérez</strong>, one of the winemakers who has done most for Bierzo’s new reputation, trained and works, and it produces the <strong>Valtuille</strong> range, focused on the village’s old vines and on single-plot wines.</p><p>Valtuille lies in the lower part of the district, with clay and sand soils and a climate of transition between Atlantic and continental influences, allowing full ripening without loss of freshness. The wines are made under the <strong>Bierzo</strong> DO.</p><p><strong>La Cova de la Raposa</strong> is another single-plot wine in the Valtuille range, made from <strong>Mencía</strong> from a specific old vineyard. Its alcohol of just 12.5% ABV, very restrained for the area, points to a particularly light, fresh and aromatic style in which finesse prevails over power. It is <strong>aged in wood</strong> and has 12.5% ABV.</p>",
+    "fr": "<p><strong>Castro Ventosa</strong> est la bodega de la famille Pérez à <strong>Valtuille de Abajo</strong>, près de Villafranca del Bierzo, une famille de longue tradition viticole dans la région. C’est là que s’est formé et que travaille <strong>Raúl Pérez</strong>, l’un des œnologues qui ont le plus contribué à la nouvelle réputation du Bierzo, et c’est de là que provient la gamme <strong>Valtuille</strong>, centrée sur les vieilles vignes du village et sur des vins parcellaires.</p><p>Valtuille se situe dans la partie basse de la région, avec des sols d’argile et de sable et un climat de transition entre influences atlantique et continentale, qui permet des maturités complètes sans perte de fraîcheur. Les vins relèvent de la DO <strong>Bierzo</strong>.</p><p><strong>La Cova de la Raposa</strong> est un autre vin parcellaire de la gamme Valtuille, élaboré avec du <strong>mencía</strong> d’une vieille vigne précise. Son degré de seulement 12,5 % vol., très contenu pour la région, annonce un style particulièrement léger, frais et aromatique, où la finesse l’emporte sur la puissance. Il connaît un <strong>élevage sous bois</strong> et titre 12,5 % vol.</p>",
+    "it": "<p><strong>Castro Ventosa</strong> è la cantina della famiglia Pérez a <strong>Valtuille de Abajo</strong>, vicino a Villafranca del Bierzo, una famiglia di lunga tradizione viticola nella zona. Qui si è formato e lavora <strong>Raúl Pérez</strong>, uno degli enologi che più hanno contribuito alla nuova reputazione del Bierzo, e da qui proviene la gamma <strong>Valtuille</strong>, incentrata sulle vecchie vigne del paese e su vini di singola parcella.</p><p>Valtuille si trova nella parte bassa della zona, con suoli di argilla e sabbia e un clima di transizione tra l’influenza atlantica e quella continentale, che consente maturazioni complete senza perdere freschezza. I vini rientrano nella DO <strong>Bierzo</strong>.</p><p><strong>La Cova de la Raposa</strong> è un altro vino di singola parcella della gamma Valtuille, prodotto con <strong>Mencía</strong> di una specifica vecchia vigna. La gradazione di appena 12,5% vol., molto contenuta per la zona, indica uno stile particolarmente leggero, fresco e aromatico, in cui la finezza prevale sulla potenza. Compie un <strong>affinamento in legno</strong> e ha 12.5% vol.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo cereza de capa media. Aromas de fruta roja y negra, violeta, notas de monte bajo y un fondo especiado. En boca es fresco y sabroso, con taninos finos, buena acidez y final persistente.",
+    "en": "Medium-intensity cherry red. Aromas of red and black fruit, violet, scrubland notes and a spicy background. Fresh and savoury on the palate, with fine tannins, good acidity and a persistent finish.",
+    "fr": "Rouge cerise d’intensité moyenne. Arômes de fruits rouges et noirs, de violette, notes de sous-bois et fond épicé. En bouche, il est frais et savoureux, aux tanins fins et à la bonne acidité, avec une finale persistante.",
+    "it": "Rosso ciliegia di media intensità. Aromi di frutta rossa e nera, viola, note di sottobosco e un fondo speziato. In bocca è fresco e sapido, con tannini fini, buona acidità e finale persistente."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Botillo, carnes asadas, setas, caza menor, quesos curados",
+    "en": "Botillo, roast meat, mushrooms, small game, aged cheeses",
+    "fr": "Botillo, viandes rôties, champignons, petit gibier, fromages affinés",
+    "it": "Botillo, carni arrosto, funghi, selvaggina minuta, formaggi stagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "15-17 °C, copa amplia",
+    "en": "15-17 °C, large glass",
+    "fr": "15-17 °C, verre ample",
+    "it": "15-17 °C, calice ampio"
   },
   "search": "Castro Ventosa Valtuille La Cova de La Raposa Castro Ventosa",
-  "brief": true,
   "source": "decantalo"
 }

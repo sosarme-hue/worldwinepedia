@@ -7,36 +7,45 @@
   "country": "francia",
   "appellation": "AOC Corton Grand Cru / Côte-d'Or",
   "type": "tinto",
-  "category": null,
+  "category": {
+    "es": "Grand Cru",
+    "en": "Grand Cru",
+    "fr": "Grand Cru",
+    "it": "Grand Cru"
+  },
   "grapes": [
     "pinot-noir"
   ],
   "summary": {
-    "es": "Camille & Guillaume Boillot Corton Grand Cru \"Renardes” es un vino tinto de Domaine Camille & Guillaume Boillot, con la denominación AOC Corton Grand Cru / Côte-d'Or, en Francia.",
-    "en": "Camille & Guillaume Boillot Corton Grand Cru \"Renardes” is a red wine from Domaine Camille & Guillaume Boillot, made under the AOC Corton Grand Cru / Côte-d'Or appellation in France.",
-    "fr": "Camille & Guillaume Boillot Corton Grand Cru \"Renardes” est un vin rouge de Domaine Camille & Guillaume Boillot, élaboré sous l’appellation AOC Corton Grand Cru / Côte-d'Or (France).",
-    "it": "Camille & Guillaume Boillot Corton Grand Cru \"Renardes” è un vino rosso di Domaine Camille & Guillaume Boillot, prodotto nella denominazione AOC Corton Grand Cru / Côte-d'Or (Francia)."
+    "es": "Corton Grand Cru del climat Les Renardes, un Pinot Noir de la colina de Corton elaborado por el Domaine Camille & Guillaume Boillot.",
+    "en": "Corton Grand Cru from the Les Renardes climat, a Pinot Noir from the hill of Corton made by Domaine Camille & Guillaume Boillot.",
+    "fr": "Corton grand cru du climat Les Renardes, un pinot noir de la colline de Corton élaboré par le Domaine Camille & Guillaume Boillot.",
+    "it": "Corton Grand Cru del climat Les Renardes, un Pinot Noir della collina di Corton prodotto dal Domaine Camille & Guillaume Boillot."
   },
   "body": {
-    "es": "<p>Se elabora con Pinot Noir. Tiene crianza en madera. Su graduación es de 14 % vol.</p>",
-    "en": "<p>It is made from Pinot Noir. It is aged in wood. It has 14% ABV.</p>",
-    "fr": "<p>Il est élaboré à partir de Pinot Noir. Il est élevé en bois. Il titre 14 % vol.</p>",
-    "it": "<p>È prodotto con Pinot Nero. È affinato in legno. Ha 14% vol.</p>"
+    "es": "<p>El <strong>Domaine Camille & Guillaume Boillot</strong> es un domaine de la Côte de Beaune que lleva el nombre de Camille y Guillaume Boillot, apellido muy ligado a la viticultura de esta parte de Borgoña. Elabora una gama de vinos de distintas denominaciones de la Côte d’Or, desde borgoñas regionales hasta premiers y grands crus, con viñedos trabajados de forma cuidadosa y vinificaciones que buscan reflejar el carácter de cada parcela.</p><p><strong>Corton</strong> es el único grand cru tinto de la Côte de Beaune. Ocupa las laderas de la colina de Corton, en el norte de la Côte de Beaune, sobre los municipios de Aloxe-Corton, Ladoix-Serrigny y Pernand-Vergelesses, y se divide en numerosos climats cuyo nombre puede figurar en la etiqueta. <strong>Les Renardes</strong> es uno de ellos, cuyos tintos se asocian a menudo con un carácter firme y notas de caza y sotobosque.</p><p>El vino se elabora con <strong>Pinot Noir</strong> y se cría en barrica. Es un tinto de estructura sólida y taninos firmes, que necesita varios años de botella para mostrar su complejidad y tiene una larga capacidad de guarda.</p>",
+    "en": "<p><strong>Domaine Camille & Guillaume Boillot</strong> is a Côte de Beaune domaine bearing the names of Camille and Guillaume Boillot, a surname closely tied to winegrowing in this part of Burgundy. It makes a range of wines from different Côte d’Or appellations, from regional Bourgognes to premiers and grands crus, from carefully tended vineyards and with winemaking that seeks to reflect the character of each plot.</p><p><strong>Corton</strong> is the only red grand cru of the Côte de Beaune. It covers the slopes of the hill of Corton, in the north of the Côte de Beaune, across the communes of Aloxe-Corton, Ladoix-Serrigny and Pernand-Vergelesses, and is divided into numerous climats whose names may appear on the label. <strong>Les Renardes</strong> is one of them, its reds often associated with a firm character and notes of game and forest floor.</p><p>The wine is made from <strong>Pinot Noir</strong> and aged in barrel. It is a red of solid structure and firm tannins, which needs several years in bottle to show its complexity and has long ageing potential.</p>",
+    "fr": "<p>Le <strong>Domaine Camille & Guillaume Boillot</strong> est un domaine de la Côte de Beaune qui porte le nom de Camille et Guillaume Boillot, patronyme étroitement lié à la viticulture de cette partie de la Bourgogne. Il élabore une gamme de vins de différentes appellations de la Côte-d’Or, des bourgognes régionaux aux premiers et grands crus, à partir de vignes soigneusement conduites et avec des vinifications qui cherchent à refléter le caractère de chaque parcelle.</p><p>Le <strong>Corton</strong> est le seul grand cru rouge de la Côte de Beaune. Il occupe les pentes de la colline de Corton, au nord de la Côte de Beaune, sur les communes d’Aloxe-Corton, Ladoix-Serrigny et Pernand-Vergelesses, et se divise en nombreux climats dont le nom peut figurer sur l’étiquette. <strong>Les Renardes</strong> est l’un d’eux, dont les rouges sont souvent associés à un caractère ferme et à des notes de gibier et de sous-bois.</p><p>Le vin est élaboré avec du <strong>pinot noir</strong> et élevé en barrique. C’est un rouge à la structure solide et aux tanins fermes, qui demande plusieurs années de bouteille pour révéler sa complexité et possède un long potentiel de garde.</p>",
+    "it": "<p>Il <strong>Domaine Camille & Guillaume Boillot</strong> è un domaine della Côte de Beaune che porta il nome di Camille e Guillaume Boillot, cognome strettamente legato alla viticoltura di questa parte della Borgogna. Produce una gamma di vini di diverse denominazioni della Côte d’Or, dai Bourgogne regionali ai premier e grand cru, da vigneti curati con attenzione e con vinificazioni che cercano di riflettere il carattere di ogni parcella.</p><p><strong>Corton</strong> è l’unico grand cru rosso della Côte de Beaune. Occupa i pendii della collina di Corton, nel nord della Côte de Beaune, nei comuni di Aloxe-Corton, Ladoix-Serrigny e Pernand-Vergelesses, ed è suddiviso in numerosi climat il cui nome può comparire in etichetta. <strong>Les Renardes</strong> è uno di questi, i cui rossi sono spesso associati a un carattere deciso e a note di selvaggina e sottobosco.</p><p>Il vino è prodotto con <strong>Pinot Noir</strong> e affinato in barrique. È un rosso di struttura solida e tannini decisi, che richiede diversi anni di bottiglia per mostrare la sua complessità e ha un lungo potenziale di invecchiamento.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Cereza negra, grosella, especias, notas de caza, cuero y sotobosque. En boca es firme y profundo, con taninos sólidos y final largo.",
+    "en": "Black cherry, redcurrant, spice, notes of game, leather and forest floor. Firm and deep on the palate, with solid tannins and a long finish.",
+    "fr": "Cerise noire, groseille, épices, notes de gibier, de cuir et de sous-bois. Bouche ferme et profonde, aux tanins solides et à la finale longue.",
+    "it": "Ciliegia nera, ribes, spezie, note di selvaggina, cuoio e sottobosco. In bocca è deciso e profondo, con tannini solidi e finale lungo."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Caza de pluma, pato asado, ternera guisada, setas, quesos de corteza lavada",
+    "en": "Game birds, roast duck, braised beef, mushrooms, washed-rind cheeses",
+    "fr": "Gibier à plume, canard rôti, bœuf mijoté, champignons, fromages à croûte lavée",
+    "it": "Selvaggina da piuma, anatra arrosto, manzo brasato, funghi, formaggi a crosta lavata"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "15-17 °C, decantado, copa tipo borgoña",
+    "en": "15-17 °C, decanted, Burgundy glass",
+    "fr": "15-17 °C, carafé, verre de type bourgogne",
+    "it": "15-17 °C, decantato, calice tipo borgogna"
   },
   "search": "Camille & Guillaume Boillot Corton Grand Cru \"Renardes” Domaine Camille & Guillaume Boillot",
-  "brief": true,
   "source": "decantalo"
 }

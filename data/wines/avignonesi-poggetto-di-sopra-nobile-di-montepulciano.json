@@ -8,33 +8,39 @@
   "appellation": "DOCG Vino Nobile di Montepulciano",
   "type": "tinto",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "sangiovese"
+  ],
   "summary": {
-    "es": "Avignonesi Poggetto di Sopra Nobile di Montepulciano es un vino tinto de Avignonesi, con la denominación DOCG Vino Nobile di Montepulciano, en Italia.",
-    "en": "Avignonesi Poggetto di Sopra Nobile di Montepulciano is a red wine from Avignonesi, made under the DOCG Vino Nobile di Montepulciano appellation in Italy.",
-    "fr": "Avignonesi Poggetto di Sopra Nobile di Montepulciano est un vin rouge de Avignonesi, élaboré sous l’appellation DOCG Vino Nobile di Montepulciano (Italie).",
-    "it": "Avignonesi Poggetto di Sopra Nobile di Montepulciano è un vino rosso di Avignonesi, prodotto nella denominazione DOCG Vino Nobile di Montepulciano (Italia)."
+    "es": "Vino Nobile di Montepulciano de Avignonesi procedente de una parcela concreta de la finca, elaborado con Sangiovese y criado en madera.",
+    "en": "Vino Nobile di Montepulciano from Avignonesi, sourced from a single plot on the estate, made from Sangiovese and aged in wood.",
+    "fr": "Vino Nobile di Montepulciano d’Avignonesi issu d’une parcelle précise du domaine, élaboré à partir de sangiovese et élevé en bois.",
+    "it": "Vino Nobile di Montepulciano di Avignonesi proveniente da una singola parcella della tenuta, prodotto con Sangiovese e affinato in legno."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 13 % vol.</p><p>El Vino Nobile di Montepulciano es un tinto toscano de Sangiovese, llamado aquí Prugnolo Gentile, que se elabora en las colinas que rodean la ciudad de Montepulciano, en la provincia de Siena. Fue una de las primeras DOCG de Italia.</p>",
-    "en": "<p>It is aged in wood. It has 13% ABV.</p><p>Vino Nobile di Montepulciano is a Tuscan red made from Sangiovese, known locally as Prugnolo Gentile, grown on the hills around the town of Montepulciano, in the province of Siena. It was one of Italy's first DOCGs.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 13 % vol.</p><p>Le Vino Nobile di Montepulciano est un rouge toscan de sangiovese, appelé ici prugnolo gentile, élaboré sur les collines qui entourent la ville de Montepulciano, dans la province de Sienne. Ce fut l'une des premières DOCG d'Italie.</p>",
-    "it": "<p>È affinato in legno. Ha 13% vol.</p><p>Il Vino Nobile di Montepulciano è un rosso toscano di Sangiovese, qui chiamato Prugnolo Gentile, prodotto sulle colline che circondano la città di Montepulciano, in provincia di Siena. È stato una delle prime DOCG d'Italia.</p>"
+    "es": "<p><strong>Avignonesi</strong> es una de las casas de referencia de Montepulciano, en el sureste de la provincia de Siena. Desde que la empresaria belga Virginie Saverys tomó el control de la finca en 2009, la bodega ha convertido sus viñedos a la agricultura biodinámica y ha orientado su gama hacia vinos que expresan parcelas y suelos concretos de la denominación.</p><p><strong>Poggetto di Sopra</strong> pertenece a esa línea de Vino Nobile de viñedo único. El Vino Nobile di Montepulciano, una de las primeras DOCG de Italia, se elabora sobre todo con Sangiovese, llamada aquí Prugnolo Gentile, en las colinas que rodean la ciudad, sobre suelos de arcillas, arenas y limos de origen marino.</p><p>Este vino se cría en madera y su graduación ronda los 13 % vol. Su estilo busca un Sangiovese preciso y de buena acidez, con la fruta roja y los matices terrosos propios de la zona, una estructura tánica firme y capacidad para evolucionar en botella durante varios años.</p>",
+    "en": "<p><strong>Avignonesi</strong> is one of the benchmark houses of Montepulciano, in the south-east of the province of Siena. Since the Belgian businesswoman Virginie Saverys took control of the estate in 2009, the winery has converted its vineyards to biodynamic farming and steered its range towards wines that express specific plots and soils within the appellation.</p><p><strong>Poggetto di Sopra</strong> belongs to that line of single-vineyard Vino Nobile. Vino Nobile di Montepulciano, one of Italy’s first DOCGs, is made mainly from Sangiovese, known locally as Prugnolo Gentile, on the hills surrounding the town, over clay, sand and silt soils of marine origin.</p><p>This wine is aged in wood and has around 13% ABV. Its style aims for a precise Sangiovese with good acidity, showing the red fruit and earthy nuances typical of the area, a firm tannic structure and the capacity to develop in bottle for several years.</p>",
+    "fr": "<p><strong>Avignonesi</strong> est l’une des maisons de référence de Montepulciano, dans le sud-est de la province de Sienne. Depuis que la femme d’affaires belge Virginie Saverys a pris le contrôle du domaine en 2009, celui-ci a converti ses vignes à la biodynamie et orienté sa gamme vers des vins qui expriment des parcelles et des sols précis de l’appellation.</p><p><strong>Poggetto di Sopra</strong> appartient à cette ligne de Vino Nobile de parcelle unique. Le Vino Nobile di Montepulciano, l’une des premières DOCG d’Italie, est élaboré principalement à partir de sangiovese, appelé ici prugnolo gentile, sur les collines qui entourent la ville, sur des sols d’argiles, de sables et de limons d’origine marine.</p><p>Ce vin est élevé en bois et titre environ 13 % vol. Son style recherche un sangiovese précis et d’une belle acidité, aux fruits rouges et aux nuances terreuses propres au secteur, avec une structure tannique ferme et une capacité à évoluer en bouteille pendant plusieurs années.</p>",
+    "it": "<p><strong>Avignonesi</strong> è una delle aziende di riferimento di Montepulciano, nel sud-est della provincia di Siena. Da quando l’imprenditrice belga Virginie Saverys ha assunto il controllo della tenuta nel 2009, l’azienda ha convertito i vigneti all’agricoltura biodinamica e ha orientato la gamma verso vini che esprimono parcelle e suoli precisi della denominazione.</p><p><strong>Poggetto di Sopra</strong> fa parte di questa linea di Vino Nobile da singolo vigneto. Il Vino Nobile di Montepulciano, una delle prime DOCG d’Italia, si produce soprattutto con Sangiovese, qui chiamato Prugnolo Gentile, sulle colline che circondano la città, su suoli di argille, sabbie e limi di origine marina.</p><p>Questo vino affina in legno e ha una gradazione di circa 13% vol. Il suo stile punta a un Sangiovese preciso e di buona acidità, con il frutto rosso e le sfumature terrose tipiche della zona, una struttura tannica salda e la capacità di evolvere in bottiglia per diversi anni.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo rubí con reflejos granate. Aromas de cereza, ciruela roja, violeta y notas terrosas y especiadas. En boca es fresco y estructurado, con taninos firmes y final sabroso.",
+    "en": "Ruby red with garnet tints. Aromas of cherry, red plum, violet and earthy, spicy notes. Fresh and structured on the palate, with firm tannins and a savoury finish.",
+    "fr": "Rouge rubis aux reflets grenat. Arômes de cerise, prune rouge, violette et notes terreuses et épicées. En bouche, il est frais et structuré, aux tanins fermes et à la finale sapide.",
+    "it": "Rosso rubino con riflessi granati. Aromi di ciliegia, prugna rossa, viola e note terrose e speziate. In bocca è fresco e strutturato, con tannini decisi e finale sapido."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Pici al ragú, carnes rojas asadas, caza menor, pecorino curado",
+    "en": "Pici with ragù, roast red meat, small game, aged pecorino",
+    "fr": "Pici au ragù, viandes rouges rôties, petit gibier, pecorino affiné",
+    "it": "Pici al ragù, carni rosse arrosto, selvaggina di piccola taglia, pecorino stagionato"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
   },
   "search": "Avignonesi Poggetto di Sopra Nobile di Montepulciano Avignonesi",
-  "brief": true,
   "source": "decantalo"
 }

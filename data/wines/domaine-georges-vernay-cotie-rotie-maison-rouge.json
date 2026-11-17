@@ -8,33 +8,39 @@
   "appellation": "AOC Côte Rôtie",
   "type": "tinto",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "syrah"
+  ],
   "summary": {
-    "es": "Domaine Georges Vernay Côtie-Rôtie Maison Rouge es un vino tinto de Domaine Georges Vernay, con la denominación AOC Côte Rôtie, en Francia.",
-    "en": "Domaine Georges Vernay Côtie-Rôtie Maison Rouge is a red wine from Domaine Georges Vernay, made under the AOC Côte Rôtie appellation in France.",
-    "fr": "Domaine Georges Vernay Côtie-Rôtie Maison Rouge est un vin rouge de Domaine Georges Vernay, élaboré sous l’appellation AOC Côte Rôtie (France).",
-    "it": "Domaine Georges Vernay Côtie-Rôtie Maison Rouge è un vino rosso di Domaine Georges Vernay, prodotto nella denominazione AOC Côte Rôtie (Francia)."
+    "es": "Côte-Rôtie de Syrah del Domaine Georges Vernay, procedente del paraje Maison Rouge, en las vertiginosas laderas sobre Ampuis.",
+    "en": "A Côte-Rôtie from Syrah by Domaine Georges Vernay, sourced from the Maison Rouge site on the dizzying slopes above Ampuis.",
+    "fr": "Côte-rôtie de syrah du Domaine Georges Vernay, issu du lieu-dit Maison Rouge, sur les coteaux vertigineux qui dominent Ampuis.",
+    "it": "Côte-Rôtie da Syrah del Domaine Georges Vernay, proveniente dal lieu-dit Maison Rouge, sui vertiginosi pendii sopra Ampuis."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 14,5 % vol.</p><p>Finca familiar de Condrieu, en el Ródano norte, ligada a Georges Vernay, figura clave en la salvación de la denominación, y dirigida hoy por su hija Christine.</p><p>Côte-Rôtie es la denominación más septentrional del valle del Ródano, en laderas vertiginosas sobre el pueblo de Ampuis. Sus tintos de Syrah, a veces cofermentados con un poco de Viognier, combinan perfume, finura y capacidad de guarda.</p>",
-    "en": "<p>It is aged in wood. It has 14.5% ABV.</p><p>Family estate in Condrieu, in the northern Rhône, linked to Georges Vernay, a key figure in saving the appellation, and now run by his daughter Christine.</p><p>Côte-Rôtie is the northernmost appellation of the Rhône valley, on dizzying slopes above the village of Ampuis. Its Syrah reds, sometimes co-fermented with a little Viognier, combine perfume, finesse and ageing potential.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 14,5 % vol.</p><p>Domaine familial de Condrieu, dans le Rhône septentrional, lié à Georges Vernay, figure clé du sauvetage de l’appellation, et dirigé aujourd’hui par sa fille Christine.</p><p>Côte-Rôtie est l'appellation la plus septentrionale de la vallée du Rhône, sur des coteaux vertigineux dominant le village d'Ampuis. Ses rouges de syrah, parfois cofermentés avec un peu de viognier, allient parfum, finesse et aptitude à la garde.</p>",
-    "it": "<p>È affinato in legno. Ha 14,5% vol.</p><p>Tenuta familiare di Condrieu, nel Rodano settentrionale, legata a Georges Vernay, figura chiave nel salvataggio della denominazione, e oggi diretta dalla figlia Christine.</p><p>Côte-Rôtie è la denominazione più settentrionale della valle del Rodano, su pendii vertiginosi sopra il paese di Ampuis. I suoi rossi di Syrah, talvolta cofermentati con un po' di Viognier, uniscono profumo, finezza e longevità.</p>"
+    "es": "<p>El <strong>Domaine Georges Vernay</strong> es una finca familiar de <strong>Condrieu</strong>, en el norte del Ródano. <strong>Georges Vernay</strong> fue una figura clave en la supervivencia de la denominación en la segunda mitad del siglo XX, cuando la superficie de Viognier se había reducido a unas pocas hectáreas, y contribuyó a recuperar las terrazas abandonadas. Desde los años noventa dirige la finca su hija <strong>Christine Vernay</strong>; la gama de la casa incluye también vinos de Côte-Rôtie y Saint-Joseph.</p><p><strong>Côte-Rôtie</strong> es la denominación más septentrional del valle del Ródano. Sus viñas se aferran a laderas vertiginosas de esquistos y gneis sobre el pueblo de Ampuis, en terrazas sostenidas por muros de piedra. Sus tintos de <strong>Syrah</strong>, que pueden incluir una pequeña proporción de Viognier, son famosos por su perfume y su finura.</p><p><strong>Maison Rouge</strong> es el Côte-Rôtie de parcela del dominio. Se elabora con Syrah y se cría en barricas durante un periodo prolongado. Es un tinto profundo y estructurado, de aromas florales y especiados, con un tanino firme que pide varios años de botella.</p>",
+    "en": "<p><strong>Domaine Georges Vernay</strong> is a family estate in <strong>Condrieu</strong>, in the northern Rhône. <strong>Georges Vernay</strong> was a key figure in the survival of the appellation in the second half of the 20th century, when the area under Viognier had shrunk to just a few hectares, and he helped restore abandoned terraces. Since the 1990s the estate has been run by his daughter <strong>Christine Vernay</strong>; the range also includes wines from Côte-Rôtie and Saint-Joseph.</p><p><strong>Côte-Rôtie</strong> is the northernmost appellation of the Rhône valley. Its vines cling to dizzying slopes of schist and gneiss above the village of Ampuis, on terraces held up by stone walls. Its <strong>Syrah</strong> reds, which may include a small proportion of Viognier, are famous for their perfume and finesse.</p><p><strong>Maison Rouge</strong> is the domaine's single-site Côte-Rôtie. It is made from Syrah and aged in barrels for an extended period. It is a deep, structured red with floral and spicy aromas and firm tannins that call for several years in bottle.</p>",
+    "fr": "<p>Le <strong>Domaine Georges Vernay</strong> est une propriété familiale de <strong>Condrieu</strong>, dans le Rhône septentrional. <strong>Georges Vernay</strong> a joué un rôle clé dans la survie de l'appellation au cours de la seconde moitié du XXe siècle, lorsque le viognier n'occupait plus que quelques hectares, et a contribué à remettre en valeur les terrasses abandonnées. Depuis les années 1990, le domaine est dirigé par sa fille <strong>Christine Vernay</strong> ; la gamme comprend aussi des côte-rôtie et des saint-joseph.</p><p>La <strong>Côte-Rôtie</strong> est l'appellation la plus septentrionale de la vallée du Rhône. Ses vignes s'accrochent à des coteaux vertigineux de schistes et de gneiss au-dessus d'Ampuis, sur des terrasses soutenues par des murets de pierre. Ses rouges de <strong>syrah</strong>, qui peuvent inclure une petite part de viognier, sont célèbres pour leur parfum et leur finesse.</p><p><strong>Maison Rouge</strong> est la côte-rôtie parcellaire du domaine. Elle est issue de syrah et longuement élevée en fûts. C'est un rouge profond et structuré, aux arômes floraux et épicés, aux tanins fermes qui demandent plusieurs années de bouteille.</p>",
+    "it": "<p>Il <strong>Domaine Georges Vernay</strong> è una tenuta familiare di <strong>Condrieu</strong>, nel Rodano settentrionale. <strong>Georges Vernay</strong> fu una figura chiave nella sopravvivenza della denominazione nella seconda metà del Novecento, quando la superficie a Viognier si era ridotta a pochi ettari, e contribuì a recuperare le terrazze abbandonate. Dagli anni Novanta la tenuta è guidata dalla figlia <strong>Christine Vernay</strong>; la gamma comprende anche vini di Côte-Rôtie e Saint-Joseph.</p><p><strong>Côte-Rôtie</strong> è la denominazione più settentrionale della valle del Rodano. Le sue vigne si aggrappano a pendii vertiginosi di scisti e gneiss sopra il villaggio di Ampuis, su terrazze sostenute da muretti di pietra. I suoi rossi da <strong>Syrah</strong>, che possono includere una piccola quota di Viognier, sono famosi per il loro profumo e la loro finezza.</p><p><strong>Maison Rouge</strong> è il Côte-Rôtie di singolo cru del domaine. È prodotto con Syrah e matura a lungo in barrique. È un rosso profondo e strutturato, dagli aromi floreali e speziati, con un tannino deciso che richiede diversi anni di bottiglia.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo violáceo profundo. Aromas de mora, violeta, pimienta negra, aceituna negra y notas ahumadas. Boca estructurada y fina, de tanino firme y final largo y especiado.",
+    "en": "Deep purple-red. Aromas of blackberry, violet, black pepper, black olive and smoky notes. Structured yet fine palate with firm tannins and a long, spicy finish.",
+    "fr": "Rouge violacé profond. Arômes de mûre, de violette, de poivre noir, d'olive noire et notes fumées. Bouche structurée et fine, aux tanins fermes et à la finale longue et épicée.",
+    "it": "Rosso violaceo profondo. Aromi di mora, viola, pepe nero, oliva nera e note affumicate. Bocca strutturata e fine, dal tannino deciso e finale lungo e speziato."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Cordero, caza, carnes rojas a la brasa, quesos curados",
+    "en": "Lamb, game, grilled red meat, aged cheeses",
+    "fr": "Agneau, gibier, viandes rouges grillées, fromages affinés",
+    "it": "Agnello, selvaggina, carni rosse alla brace, formaggi stagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "16-18 °C, copa amplia de tinto",
+    "en": "16-18 °C, large red wine glass",
+    "fr": "16-18 °C, grand verre à vin rouge",
+    "it": "16-18 °C, calice ampio da rosso"
   },
   "search": "Domaine Georges Vernay Côtie-Rôtie Maison Rouge Domaine Georges Vernay",
-  "brief": true,
   "source": "decantalo"
 }

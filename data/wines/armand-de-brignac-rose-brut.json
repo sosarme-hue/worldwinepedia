@@ -7,34 +7,47 @@
   "country": "francia",
   "appellation": null,
   "type": "espumoso",
-  "category": null,
-  "grapes": [],
+  "category": {
+    "es": "Brut",
+    "en": "Brut",
+    "fr": "Brut",
+    "it": "Brut"
+  },
+  "grapes": [
+    "pinot-noir",
+    "pinot-meunier",
+    "chardonnay"
+  ],
   "summary": {
-    "es": "Armand de Brignac Rosé Brut es un vino espumoso de Champagne Armand de Brignac, en Francia.",
-    "en": "Armand de Brignac Rosé Brut is a sparkling wine from Champagne Armand de Brignac in France.",
-    "fr": "Armand de Brignac Rosé Brut est un vin effervescent de Champagne Armand de Brignac (France).",
-    "it": "Armand de Brignac Rosé Brut è un vino spumante di Champagne Armand de Brignac (Francia)."
+    "es": "Champagne rosado de la marca Armand de Brignac, elaborado por la familia Cattier en Chigny-les-Roses y conocido por su botella metalizada con el as de picas.",
+    "en": "Rosé Champagne from the Armand de Brignac brand, made by the Cattier family in Chigny-les-Roses and known for its metallic bottle bearing the ace of spades.",
+    "fr": "Champagne rosé de la marque Armand de Brignac, élaboré par la famille Cattier à Chigny-les-Roses et connu pour sa bouteille métallisée ornée de l’as de pique.",
+    "it": "Champagne rosato del marchio Armand de Brignac, prodotto dalla famiglia Cattier a Chigny-les-Roses e noto per la bottiglia metallizzata con l’asso di picche."
   },
   "body": {
-    "es": "<p>Su graduación es de 12,5 % vol.</p><p>Marca de champagne de prestigio elaborada por la familia Cattier en Chigny-les-Roses, en la Montagne de Reims, conocida por sus botellas metalizadas con el as de picas.</p>",
-    "en": "<p>It has 12.5% ABV.</p><p>Prestige champagne brand made by the Cattier family in Chigny-les-Roses, on the Montagne de Reims, known for its metallic bottles bearing the ace of spades.</p>",
-    "fr": "<p>Il titre 12,5 % vol.</p><p>Marque de champagne de prestige élaborée par la famille Cattier à Chigny-les-Roses, sur la Montagne de Reims, connue pour ses bouteilles métallisées ornées de l’as de pique.</p>",
-    "it": "<p>Ha 12,5% vol.</p><p>Marchio di champagne di prestigio prodotto dalla famiglia Cattier a Chigny-les-Roses, sulla Montagne de Reims, noto per le bottiglie metallizzate con l’asso di picche.</p>"
+    "es": "<p><strong>Armand de Brignac</strong> es una marca de champagne de prestigio elaborada por la familia <strong>Cattier</strong>, viticultores y elaboradores en Chigny-les-Roses, en la Montagne de Reims. La marca se ha hecho muy conocida por su imagen: botellas opacas y metalizadas, decoradas con el as de picas, que la han convertido en un champagne habitual en celebraciones y en el mundo del espectáculo. Su propiedad ha cambiado en los últimos años, con la entrada de socios ajenos a la familia, pero la elaboración sigue en manos de la casa Cattier.</p><p>El Rosé Brut ensambla las tres grandes variedades de Champagne, <strong>Pinot Noir</strong>, <strong>Pinot Meunier</strong> y <strong>Chardonnay</strong>, procedentes de varias añadas. Como en la mayoría de los rosados de la región, el color se obtiene añadiendo al vino base una pequeña proporción de vino tinto tranquilo de Pinot Noir antes de la segunda fermentación en botella.</p><p>Tras una crianza sobre lías y el degüelle, recibe una dosificación de tipo Brut. Es un champagne de fruta roja marcada, textura cremosa y estilo redondo, más amable que tenso.</p>",
+    "en": "<p><strong>Armand de Brignac</strong> is a prestige Champagne brand made by the <strong>Cattier</strong> family, growers and producers in Chigny-les-Roses, on the Montagne de Reims. The brand has become widely known for its image: opaque, metallic bottles decorated with the ace of spades, which have made it a familiar Champagne at celebrations and in the entertainment world. Its ownership has changed in recent years, with partners from outside the family coming in, but production remains in the hands of the Cattier house.</p><p>The Rosé Brut blends the three main Champagne varieties, <strong>Pinot Noir</strong>, <strong>Pinot Meunier</strong> and <strong>Chardonnay</strong>, from several vintages. As with most rosés from the region, the colour is obtained by adding a small proportion of still Pinot Noir red wine to the base wine before the second fermentation in bottle.</p><p>After ageing on its lees and disgorgement, it receives a Brut dosage. It is a Champagne with marked red fruit, a creamy texture and a rounded style, more approachable than taut.</p>",
+    "fr": "<p><strong>Armand de Brignac</strong> est une marque de champagne de prestige élaborée par la famille <strong>Cattier</strong>, vignerons et élaborateurs à Chigny-les-Roses, sur la Montagne de Reims. La marque est devenue très connue pour son image : des bouteilles opaques et métallisées, ornées de l’as de pique, qui en ont fait un champagne courant lors des célébrations et dans le monde du spectacle. Sa propriété a évolué ces dernières années avec l’arrivée d’associés extérieurs à la famille, mais l’élaboration reste entre les mains de la maison Cattier.</p><p>Le Rosé Brut assemble les trois grands cépages champenois, <strong>pinot noir</strong>, <strong>pinot meunier</strong> et <strong>chardonnay</strong>, issus de plusieurs millésimes. Comme la plupart des rosés de la région, sa couleur provient de l’ajout au vin de base d’une petite proportion de vin rouge tranquille de pinot noir avant la seconde fermentation en bouteille.</p><p>Après un vieillissement sur lies et le dégorgement, il reçoit un dosage brut. C’est un champagne au fruit rouge marqué, à la texture crémeuse et au style rond, plus aimable que tendu.</p>",
+    "it": "<p><strong>Armand de Brignac</strong> è un marchio di champagne di prestigio prodotto dalla famiglia <strong>Cattier</strong>, viticoltori e produttori a Chigny-les-Roses, sulla Montagne de Reims. Il marchio è diventato molto noto per la sua immagine: bottiglie opache e metallizzate, decorate con l’asso di picche, che lo hanno reso uno champagne frequente nelle celebrazioni e nel mondo dello spettacolo. La proprietà è cambiata negli ultimi anni, con l’ingresso di soci esterni alla famiglia, ma la produzione resta nelle mani della casa Cattier.</p><p>Il Rosé Brut unisce i tre grandi vitigni della Champagne, <strong>Pinot Noir</strong>, <strong>Pinot Meunier</strong> e <strong>Chardonnay</strong>, provenienti da diverse annate. Come nella maggior parte dei rosati della regione, il colore si ottiene aggiungendo al vino base una piccola quota di vino rosso fermo di Pinot Noir prima della seconda fermentazione in bottiglia.</p><p>Dopo l’affinamento sui lieviti e la sboccatura, riceve un dosaggio Brut. È uno champagne dal frutto rosso marcato, dalla consistenza cremosa e dallo stile rotondo, più morbido che teso.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rosa salmón brillante. Aromas de fresa, frambuesa y cereza, con notas de bollería y cítricos. En boca es cremoso y redondo, de burbuja fina y final frutal.",
+    "en": "Bright salmon pink. Aromas of strawberry, raspberry and cherry, with pastry and citrus notes. Creamy and rounded on the palate, with fine bubbles and a fruity finish.",
+    "fr": "Rose saumon brillant. Arômes de fraise, framboise et cerise, avec des notes de viennoiserie et d’agrumes. En bouche, il est crémeux et rond, à la bulle fine et à la finale fruitée.",
+    "it": "Rosa salmone brillante. Aromi di fragola, lampone e ciliegia, con note di pasticceria e agrumi. In bocca è cremoso e rotondo, con perlage fine e finale fruttato."
+  },
   "pairing": {
-    "es": "Aperitivo, mariscos, fritos, pescados",
-    "en": "Aperitif, shellfish, fried food, fish",
-    "fr": "Apéritif, fruits de mer, fritures, poissons",
-    "it": "Aperitivo, frutti di mare, fritture, pesce"
+    "es": "Salmón ahumado, tartar de atún, aves asadas, postres de frutos rojos",
+    "en": "Smoked salmon, tuna tartare, roast poultry, red-berry desserts",
+    "fr": "Saumon fumé, tartare de thon, volailles rôties, desserts aux fruits rouges",
+    "it": "Salmone affumicato, tartare di tonno, pollame arrosto, dessert ai frutti rossi"
   },
   "serve": {
-    "es": "6-8 °C, copa de espumoso",
-    "en": "6-8 °C, sparkling wine glass",
-    "fr": "6-8 °C, verre à vin effervescent",
-    "it": "6-8 °C, calice da spumante"
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
   },
   "search": "Armand de Brignac Rosé Brut Armand de Brignac",
-  "brief": true,
   "source": "decantalo"
 }

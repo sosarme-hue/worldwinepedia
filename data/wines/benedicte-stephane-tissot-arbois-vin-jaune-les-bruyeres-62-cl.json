@@ -7,36 +7,45 @@
   "country": "francia",
   "appellation": "AOC Arbois",
   "type": "blanco",
-  "category": null,
+  "category": {
+    "es": "Vin jaune",
+    "en": "Vin jaune",
+    "fr": "Vin jaune",
+    "it": "Vin jaune"
+  },
   "grapes": [
     "savagnin"
   ],
   "summary": {
-    "es": "Bénédicte & Stéphane Tissot Arbois Vin Jaune Les Bruyères 62 cl es un vino blanco de Bénédicte & Stéphane Tissot, con la denominación AOC Arbois, en Francia.",
-    "en": "Bénédicte & Stéphane Tissot Arbois Vin Jaune Les Bruyères 62 cl is a white wine from Bénédicte & Stéphane Tissot, made under the AOC Arbois appellation in France.",
-    "fr": "Bénédicte & Stéphane Tissot Arbois Vin Jaune Les Bruyères 62 cl est un vin blanc de Bénédicte & Stéphane Tissot, élaboré sous l’appellation AOC Arbois (France).",
-    "it": "Bénédicte & Stéphane Tissot Arbois Vin Jaune Les Bruyères 62 cl è un vino bianco di Bénédicte & Stéphane Tissot, prodotto nella denominazione AOC Arbois (Francia)."
+    "es": "Vin jaune de Arbois de la parcela Les Bruyères, elaborado con Savagnin por Bénédicte y Stéphane Tissot y criado durante años bajo velo de levaduras.",
+    "en": "Arbois vin jaune from the Les Bruyères plot, made from Savagnin by Bénédicte and Stéphane Tissot and aged for years under a veil of yeast.",
+    "fr": "Vin jaune d’Arbois du lieu-dit Les Bruyères, élaboré avec du savagnin par Bénédicte et Stéphane Tissot et vieilli pendant des années sous voile.",
+    "it": "Vin jaune di Arbois della parcella Les Bruyères, prodotto con Savagnin da Bénédicte e Stéphane Tissot e invecchiato per anni sotto velo di lieviti."
   },
   "body": {
-    "es": "<p>Se elabora con Savagnin. Se cría bajo velo de flor. Su graduación es de 15 % vol.</p>",
-    "en": "<p>It is made from Savagnin. It is aged under a veil of flor yeast. It has 15% ABV.</p>",
-    "fr": "<p>Il est élaboré à partir de Savagnin. Il est élevé sous voile de levures. Il titre 15 % vol.</p>",
-    "it": "<p>È prodotto con Savagnin. Affina sotto velo di flor. Ha 15% vol.</p>"
+    "es": "<p><strong>Bénédicte y Stéphane Tissot</strong> dirigen el Domaine André et Mireille Tissot, la finca familiar de Montigny-lès-Arsures, junto a Arbois, en el Jura. Stéphane Tissot convirtió los viñedos a la agricultura biodinámica y es conocido por una gama muy amplia que va de los vinos de parcela a los vins jaunes y los vinos de paja, con un enfoque experimental en la bodega.</p><p>El <strong>vin jaune</strong> es el vino más singular del Jura. Se elabora con Savagnin y se cría en barricas que no se rellenan durante al menos seis años y tres meses; en ese tiempo se forma en la superficie del vino un velo de levaduras, similar a la flor del Jerez, que lo protege de una oxidación excesiva y le da sus aromas característicos de nuez, curry y especias. No se encabeza: su graduación, aquí de 15 % vol., procede solo de la fermentación. Se embotella en el clavelín, la botella tradicional de 62 cl.</p><p><strong>Les Bruyères</strong> es uno de los lugares de viñedo que los Tissot vinifican y embotellan por separado, en la línea de su trabajo de vins jaunes de parcela. Es un vino de enorme longevidad, que se conserva bien incluso varias semanas después de abierto.</p>",
+    "en": "<p><strong>Bénédicte and Stéphane Tissot</strong> run Domaine André et Mireille Tissot, the family estate at Montigny-lès-Arsures, near Arbois, in the Jura. Stéphane Tissot converted the vineyards to biodynamic farming and is known for a very wide range, from single-plot wines to vins jaunes and straw wines, with an experimental approach in the cellar.</p><p><strong>Vin jaune</strong> is the Jura’s most singular wine. It is made from Savagnin and aged in barrels that are not topped up for at least six years and three months; during that time a veil of yeast forms on the surface of the wine, similar to the flor of sherry, protecting it from excessive oxidation and giving its characteristic aromas of walnut, curry and spice. It is not fortified: its alcohol, here 15% ABV, comes solely from fermentation. It is bottled in the clavelin, the traditional 62 cl bottle.</p><p><strong>Les Bruyères</strong> is one of the vineyard sites the Tissots vinify and bottle separately, in keeping with their work on single-plot vins jaunes. It is a wine of enormous longevity that keeps well even for several weeks after opening.</p>",
+    "fr": "<p><strong>Bénédicte et Stéphane Tissot</strong> dirigent le Domaine André et Mireille Tissot, la propriété familiale de Montigny-lès-Arsures, près d’Arbois, dans le Jura. Stéphane Tissot a converti les vignes à la biodynamie et il est connu pour une gamme très large, des vins de parcelle aux vins jaunes et aux vins de paille, avec une approche expérimentale au chai.</p><p>Le <strong>vin jaune</strong> est le vin le plus singulier du Jura. Il est élaboré avec du savagnin et vieilli dans des fûts que l’on ne complète pas pendant au moins six ans et trois mois ; pendant ce temps se forme à la surface du vin un voile de levures, semblable à la flor du Xérès, qui le protège d’une oxydation excessive et lui donne ses arômes caractéristiques de noix, de curry et d’épices. Il n’est pas muté : son degré, ici de 15 % vol., provient uniquement de la fermentation. Il est mis en clavelin, la bouteille traditionnelle de 62 cl.</p><p><strong>Les Bruyères</strong> est l’un des lieux-dits que les Tissot vinifient et mettent en bouteille séparément, dans la lignée de leur travail sur les vins jaunes de parcelle. C’est un vin d’une immense longévité, qui se conserve bien plusieurs semaines après ouverture.</p>",
+    "it": "<p><strong>Bénédicte e Stéphane Tissot</strong> guidano il Domaine André et Mireille Tissot, la tenuta di famiglia a Montigny-lès-Arsures, vicino ad Arbois, nel Jura. Stéphane Tissot ha convertito i vigneti all’agricoltura biodinamica ed è noto per una gamma molto ampia, dai vini di parcella ai vins jaunes e ai vini di paglia, con un approccio sperimentale in cantina.</p><p>Il <strong>vin jaune</strong> è il vino più singolare del Jura. Si produce con Savagnin e invecchia in botti che non vengono colmate per almeno sei anni e tre mesi; in questo periodo si forma sulla superficie del vino un velo di lieviti, simile al flor dello Jerez, che lo protegge da un’ossidazione eccessiva e gli dà i caratteristici aromi di noce, curry e spezie. Non è fortificato: la sua gradazione, qui di 15% vol., deriva solo dalla fermentazione. Si imbottiglia nel clavelin, la bottiglia tradizionale da 62 cl.</p><p><strong>Les Bruyères</strong> è uno dei luoghi di vigneto che i Tissot vinificano e imbottigliano separatamente, nel solco del loro lavoro sui vins jaunes di parcella. È un vino di enorme longevità, che si conserva bene anche per diverse settimane dopo l’apertura.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Amarillo dorado intenso. Aromas de nuez, curry, especias, manzana asada y notas salinas. En boca es seco, intenso y muy persistente, con acidez viva y final larguísimo.",
+    "en": "Deep golden yellow. Aromas of walnut, curry, spice, baked apple and saline notes. Dry, intense and very persistent on the palate, with lively acidity and an exceptionally long finish.",
+    "fr": "Jaune doré intense. Arômes de noix, de curry, d’épices, de pomme cuite et notes salines. En bouche, il est sec, intense et très persistant, à l’acidité vive et à la finale interminable.",
+    "it": "Giallo dorato intenso. Aromi di noce, curry, spezie, mela cotta e note saline. In bocca è secco, intenso e molto persistente, con acidità viva e finale lunghissimo."
+  },
   "pairing": {
-    "es": "Pescados, mariscos, arroces, quesos frescos",
-    "en": "Fish, shellfish, rice dishes, fresh cheeses",
-    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
-    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+    "es": "Comté viejo, pollo de Bresse con colmenillas, nueces, cocina con curry",
+    "en": "Aged Comté, Bresse chicken with morels, walnuts, curry dishes",
+    "fr": "Comté vieux, poulet de Bresse aux morilles, noix, cuisine au curry",
+    "it": "Comté stagionato, pollo di Bresse con spugnole, noci, piatti al curry"
   },
   "serve": {
-    "es": "8-11 °C, copa de vino blanco",
-    "en": "8-11 °C, white wine glass",
-    "fr": "8-11 °C, verre à vin blanc",
-    "it": "8-11 °C, calice da vino bianco"
+    "es": "14-16 °C, abierto con antelación, copa de vino blanco amplia",
+    "en": "14-16 °C, opened in advance, large white wine glass",
+    "fr": "14-16 °C, ouvert à l’avance, grand verre à vin blanc",
+    "it": "14-16 °C, aperto in anticipo, calice ampio da vino bianco"
   },
   "search": "Bénédicte & Stéphane Tissot Arbois Vin Jaune Les Bruyères 62 cl Bénédicte & Stéphane Tissot",
-  "brief": true,
   "source": "decantalo"
 }

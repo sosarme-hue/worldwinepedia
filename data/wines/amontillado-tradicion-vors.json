@@ -7,36 +7,45 @@
   "country": "espana",
   "appellation": "DO Jerez-Xérès-Sherry",
   "type": "generoso",
-  "category": null,
+  "category": {
+    "es": "Amontillado VORS",
+    "en": "Amontillado VORS",
+    "fr": "Amontillado VORS",
+    "it": "Amontillado VORS"
+  },
   "grapes": [
     "palomino"
   ],
   "summary": {
-    "es": "Amontillado Tradición VORS es un vino generoso de Tradición, con la denominación DO Jerez-Xérès-Sherry, en España.",
-    "en": "Amontillado Tradición VORS is a fortified wine from Tradición, made under the DO Jerez-Xérès-Sherry appellation in Spain.",
-    "fr": "Amontillado Tradición VORS est un vin fortifié de Tradición, élaboré sous l’appellation DO Jerez-Xérès-Sherry (Espagne).",
-    "it": "Amontillado Tradición VORS è un vino liquoroso di Tradición, prodotto nella denominazione DO Jerez-Xérès-Sherry (Spagna)."
+    "es": "Amontillado de muy larga crianza de Bodegas Tradición, en Jerez de la Frontera, amparado por la certificación VORS, reservada a vinos con una edad media superior a 30 años.",
+    "en": "A very long-aged amontillado from Bodegas Tradición in Jerez de la Frontera, carrying the VORS certification, reserved for wines with an average age of more than 30 years.",
+    "fr": "Amontillado de très long élevage de Bodegas Tradición, à Jerez de la Frontera, bénéficiant de la certification VORS, réservée aux vins d’un âge moyen supérieur à 30 ans.",
+    "it": "Amontillado di lunghissimo invecchiamento di Bodegas Tradición, a Jerez de la Frontera, con la certificazione VORS, riservata ai vini con un’età media superiore ai 30 anni."
   },
   "body": {
-    "es": "<p>Se elabora con Palomino. Su graduación es de 19,5 % vol.</p><p>Jerez-Xérès-Sherry, en la provincia de Cádiz, es la denominación de origen de los vinos de Jerez, elaborados sobre todo con Palomino y criados en el sistema de criaderas y soleras. Su gama abarca desde los finos de crianza biológica hasta los olorosos y los dulces de Pedro Ximénez.</p>",
-    "en": "<p>It is made from Palomino. It has 19.5% ABV.</p><p>Jerez-Xérès-Sherry, in the province of Cádiz, is the designation of origin for sherry, made mainly from Palomino and aged in the criaderas and solera system. Its range runs from biologically aged finos to olorosos and sweet Pedro Ximénez.</p>",
-    "fr": "<p>Il est élaboré à partir de Palomino. Il titre 19,5 % vol.</p><p>Jerez-Xérès-Sherry, dans la province de Cadix, est la dénomination d'origine des vins de Jerez, élaborés surtout avec le palomino et élevés selon le système des criaderas et soleras. Sa gamme va des finos à élevage biologique aux olorosos et aux vins doux de pedro ximénez.</p>",
-    "it": "<p>È prodotto con Palomino. Ha 19,5% vol.</p><p>Jerez-Xérès-Sherry, nella provincia di Cadice, è la denominazione di origine dei vini di Jerez, prodotti soprattutto con il Palomino e affinati con il sistema di criaderas e soleras. La gamma va dai fino ad affinamento biologico agli oloroso e ai dolci di Pedro Ximénez.</p>"
+    "es": "<p><strong>Bodegas Tradición</strong> es una casa de Jerez de la Frontera creada a finales de los años noventa con la idea de dedicarse exclusivamente a vinos de gran vejez, a partir de soleras antiguas adquiridas a otras bodegas del Marco. Además de sus vinos, es conocida por albergar una colección de pintura española que puede verse en sus instalaciones.</p><p>Este amontillado se elabora con uva <strong>Palomino</strong>. Como todos los amontillados, comienza su vida como un fino, bajo el velo de flor, y después, al desaparecer la levadura o tras un encabezado, continúa una larga crianza oxidativa en botas de roble mediante el sistema de criaderas y soleras. La mención <strong>VORS</strong> (<em>Very Old Rare Sherry</em>) la concede el Consejo Regulador tras analizar y catar el vino, y garantiza una edad media superior a 30 años.</p><p>El resultado es un vino seco, de color ámbar profundo, en el que la larga oxidación concentra los aromas y la acidez. Combina la memoria punzante de su etapa biológica con las notas de frutos secos y maderas viejas propias de la crianza oxidativa. Es un vino para beber despacio, en pequeñas cantidades, que se conserva bien una vez abierto.</p>",
+    "en": "<p><strong>Bodegas Tradición</strong> is a Jerez de la Frontera house set up in the late 1990s with the aim of working exclusively with very old wines, starting from old soleras acquired from other bodegas in the Sherry region. Beyond its wines, it is known for housing a collection of Spanish painting that can be seen on the premises.</p><p>This amontillado is made from <strong>Palomino</strong>. Like all amontillados, it begins life as a fino, under the veil of flor yeast; then, once the flor dies away or after fortification, it continues a long oxidative ageing in oak butts through the criaderas and solera system. The <strong>VORS</strong> (<em>Very Old Rare Sherry</em>) designation is granted by the Consejo Regulador after analysing and tasting the wine, and guarantees an average age of more than 30 years.</p><p>The result is a dry wine of deep amber colour, in which long oxidation concentrates aromas and acidity. It combines the pungent memory of its biological stage with the nutty, old-wood notes of oxidative ageing. It is a wine to be sipped slowly, in small measures, and it keeps well once opened.</p>",
+    "fr": "<p><strong>Bodegas Tradición</strong> est une maison de Jerez de la Frontera créée à la fin des années 1990 dans le but de se consacrer exclusivement aux vins de grand âge, à partir de soleras anciennes acquises auprès d’autres bodegas de la région. Outre ses vins, elle est connue pour abriter une collection de peinture espagnole visible dans ses locaux.</p><p>Cet amontillado est élaboré avec du <strong>palomino</strong>. Comme tous les amontillados, il commence sa vie comme un fino, sous le voile de flor ; puis, lorsque la levure disparaît ou après mutage, il poursuit un long élevage oxydatif en fûts de chêne selon le système des criaderas et soleras. La mention <strong>VORS</strong> (<em>Very Old Rare Sherry</em>) est accordée par le Consejo Regulador après analyse et dégustation du vin, et garantit un âge moyen supérieur à 30 ans.</p><p>Il en résulte un vin sec, de couleur ambre profond, dans lequel la longue oxydation concentre les arômes et l’acidité. Il associe le souvenir piquant de sa phase biologique aux notes de fruits secs et de vieux bois de l’élevage oxydatif. C’est un vin à déguster lentement, en petites quantités, qui se conserve bien une fois ouvert.</p>",
+    "it": "<p><strong>Bodegas Tradición</strong> è una casa di Jerez de la Frontera nata alla fine degli anni Novanta con l’idea di dedicarsi esclusivamente a vini di grande vecchiaia, a partire da antiche soleras acquistate da altre bodegas della zona. Oltre che per i suoi vini, è nota per ospitare una collezione di pittura spagnola visitabile nei suoi locali.</p><p>Questo amontillado è prodotto con uva <strong>Palomino</strong>. Come tutti gli amontillado, inizia la sua vita come fino, sotto il velo di flor; poi, quando il lievito scompare o dopo la fortificazione, prosegue un lungo invecchiamento ossidativo in botti di rovere secondo il sistema di criaderas e soleras. La menzione <strong>VORS</strong> (<em>Very Old Rare Sherry</em>) è concessa dal Consejo Regulador dopo l’analisi e la degustazione del vino, e garantisce un’età media superiore ai 30 anni.</p><p>Il risultato è un vino secco, di colore ambra profondo, in cui la lunga ossidazione concentra aromi e acidità. Unisce il ricordo pungente della fase biologica alle note di frutta secca e legno antico tipiche dell’invecchiamento ossidativo. È un vino da sorseggiare lentamente, in piccole quantità, che si conserva bene una volta aperto.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Ámbar con reflejos caoba. Aromas de avellana y almendra tostada, maderas nobles, especias y un fondo salino. En boca es seco, intenso y muy persistente, con una acidez viva.",
+    "en": "Amber with mahogany glints. Aromas of hazelnut and toasted almond, fine old wood, spice and a saline background. Dry, intense and very persistent on the palate, with lively acidity.",
+    "fr": "Ambre aux reflets acajou. Arômes de noisette et d’amande grillée, bois nobles, épices et un fond salin. En bouche, il est sec, intense et très persistant, avec une acidité vive.",
+    "it": "Ambra con riflessi mogano. Aromi di nocciola e mandorla tostata, legni nobili, spezie e un fondo salino. In bocca è secco, intenso e molto persistente, con un’acidità viva."
+  },
   "pairing": {
-    "es": "Aperitivo, jamón, frutos secos, quesos curados",
-    "en": "Aperitif, cured ham, nuts, aged cheeses",
-    "fr": "Apéritif, jambon sec, fruits secs, fromages affinés",
-    "it": "Aperitivo, prosciutto crudo, frutta secca, formaggi stagionati"
+    "es": "Consomés, almendras tostadas, quesos muy curados, setas, carnes blancas con salsas",
+    "en": "Consommés, toasted almonds, well-aged cheeses, mushrooms, white meat in sauce",
+    "fr": "Consommés, amandes grillées, fromages très affinés, champignons, viandes blanches en sauce",
+    "it": "Consommé, mandorle tostate, formaggi molto stagionati, funghi, carni bianche in salsa"
   },
   "serve": {
-    "es": "7-14 °C según el tipo, catavino",
-    "en": "7-14 °C depending on style, copita glass",
-    "fr": "7-14 °C selon le style, verre à xérès",
-    "it": "7-14 °C secondo lo stile, bicchiere da sherry"
+    "es": "12-14 °C, copa de vino blanco",
+    "en": "12-14 °C, white wine glass",
+    "fr": "12-14 °C, verre à vin blanc",
+    "it": "12-14 °C, calice da vino bianco"
   },
   "search": "Amontillado Tradición VORS Tradición",
-  "brief": true,
   "source": "decantalo"
 }

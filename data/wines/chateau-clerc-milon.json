@@ -8,33 +8,41 @@
   "appellation": "AOC Pauillac",
   "type": "tinto",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "cabernet-franc"
+  ],
   "summary": {
-    "es": "Château Clerc Milon es un vino tinto de Château Clerc Milon, con la denominación AOC Pauillac, en Francia.",
-    "en": "Château Clerc Milon is a red wine from Château Clerc Milon, made under the AOC Pauillac appellation in France.",
-    "fr": "Château Clerc Milon est un vin rouge de Château Clerc Milon, élaboré sous l’appellation AOC Pauillac (France).",
-    "it": "Château Clerc Milon è un vino rosso di Château Clerc Milon, prodotto nella denominazione AOC Pauillac (Francia)."
+    "es": "Quinto gran cru clasificado de Pauillac en 1855, propiedad desde 1970 de la familia de Mouton Rothschild y vecino de Mouton y Lafite.",
+    "en": "Pauillac fifth growth classified in 1855, owned since 1970 by the Mouton Rothschild family and neighbouring Mouton and Lafite.",
+    "fr": "Cinquième grand cru classé de Pauillac en 1855, propriété depuis 1970 de la famille de Mouton Rothschild et voisin de Mouton et de Lafite.",
+    "it": "Quinto grand cru classé di Pauillac nel 1855, di proprietà dal 1970 della famiglia di Mouton Rothschild e confinante con Mouton e Lafite."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 14 % vol.</p><p>Pauillac, en el corazón del Haut-Médoc, alberga tres de los cinco primeros crus de la clasificación de 1855. Sus tintos de Cabernet Sauvignon son potentes, firmes y de muy larga guarda.</p>",
-    "en": "<p>It is aged in wood. It has 14% ABV.</p><p>Pauillac, in the heart of the Haut-Médoc, is home to three of the five first growths of the 1855 classification. Its Cabernet Sauvignon reds are powerful, firm and very long-lived.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 14 % vol.</p><p>Pauillac, au cœur du Haut-Médoc, abrite trois des cinq premiers crus du classement de 1855. Ses rouges de cabernet-sauvignon sont puissants, fermes et de très longue garde.</p>",
-    "it": "<p>È affinato in legno. Ha 14% vol.</p><p>Pauillac, nel cuore dell'Haut-Médoc, ospita tre dei cinque premiers crus della classificazione del 1855. I suoi rossi di Cabernet Sauvignon sono potenti, saldi e molto longevi.</p>"
+    "es": "<p><strong>Château Clerc Milon</strong> es uno de los cinquièmes grands crus de la clasificación de 1855, en la denominación <strong>Pauillac</strong>. Lo adquirió en 1970 el barón Philippe de Rothschild y hoy forma parte de las propiedades de la familia, junto a Château Mouton Rothschild y Château d'Armailhac. La finca cuenta con una bodega moderna inaugurada a comienzos de la década de 2010.</p><p>Sus viñedos se sitúan en el norte de Pauillac, cerca del estuario de la Gironda y en la vecindad inmediata de Mouton Rothschild y Lafite Rothschild, sobre las gravas profundas típicas de los mejores terruños del Médoc. El ensamblaje se basa en la <strong>Cabernet Sauvignon</strong> y la <strong>Merlot</strong>, con aportaciones de <strong>Cabernet Franc</strong> y de pequeñas cantidades de otras variedades bordelesas, en proporciones que varían según la añada.</p><p>Criado en barricas de roble francés, es un Pauillac de fruta negra madura, notas de cedro y grafito y taninos firmes pero redondos, que combina potencia y cierta generosidad. Tiene buena capacidad de guarda y se beneficia de la decantación en su juventud.</p>",
+    "en": "<p><strong>Château Clerc Milon</strong> is one of the cinquièmes grands crus of the 1855 classification, in the <strong>Pauillac</strong> appellation. It was acquired in 1970 by Baron Philippe de Rothschild and is now one of the family's estates, alongside Château Mouton Rothschild and Château d'Armailhac. The estate has a modern winery inaugurated in the early 2010s.</p><p>Its vineyards lie in the north of Pauillac, near the Gironde estuary and in the immediate vicinity of Mouton Rothschild and Lafite Rothschild, on the deep gravels typical of the Médoc's finest terroirs. The blend is based on <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong>, with contributions from <strong>Cabernet Franc</strong> and small amounts of other Bordeaux varieties, in proportions that vary with the vintage.</p><p>Aged in French oak barrels, it is a Pauillac of ripe black fruit, notes of cedar and graphite and firm but rounded tannins, combining power with a certain generosity. It has good ageing potential and benefits from decanting in its youth.</p>",
+    "fr": "<p>Le <strong>Château Clerc Milon</strong> est l'un des cinquièmes grands crus du classement de 1855, dans l'appellation <strong>Pauillac</strong>. Le baron Philippe de Rothschild l'acquit en 1970 et il fait aujourd'hui partie des propriétés de la famille, aux côtés du Château Mouton Rothschild et du Château d'Armailhac. Le domaine dispose d'un chai moderne inauguré au début des années 2010.</p><p>Ses vignes se situent au nord de Pauillac, près de l'estuaire de la Gironde et dans le voisinage immédiat de Mouton Rothschild et de Lafite Rothschild, sur les graves profondes typiques des meilleurs terroirs du Médoc. L'assemblage repose sur le <strong>cabernet-sauvignon</strong> et le <strong>merlot</strong>, avec l'apport de <strong>cabernet franc</strong> et de petites quantités d'autres cépages bordelais, dans des proportions qui varient selon le millésime.</p><p>Élevé en barriques de chêne français, c'est un pauillac aux fruits noirs mûrs, aux notes de cèdre et de graphite et aux tanins fermes mais ronds, qui allie puissance et une certaine générosité. Il possède un bon potentiel de garde et gagne à être carafé dans sa jeunesse.</p>",
+    "it": "<p><strong>Château Clerc Milon</strong> è uno dei cinquièmes grands crus della classificazione del 1855, nella denominazione <strong>Pauillac</strong>. Fu acquistato nel 1970 dal barone Philippe de Rothschild e oggi fa parte delle proprietà della famiglia, insieme a Château Mouton Rothschild e Château d'Armailhac. La tenuta dispone di una cantina moderna inaugurata all'inizio degli anni 2010.</p><p>I suoi vigneti si trovano nel nord di Pauillac, vicino all'estuario della Gironda e nelle immediate vicinanze di Mouton Rothschild e Lafite Rothschild, sulle ghiaie profonde tipiche dei migliori terroir del Médoc. L'assemblaggio si basa su <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong>, con apporti di <strong>Cabernet Franc</strong> e piccole quantità di altre varietà bordolesi, in proporzioni che variano a seconda dell'annata.</p><p>Affinato in barrique di rovere francese, è un Pauillac di frutto nero maturo, note di cedro e grafite e tannini decisi ma rotondi, che unisce potenza e una certa generosità. Ha una buona capacità di invecchiamento e beneficia della decantazione in gioventù.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo picota profundo. Aromas de grosella negra, mora, cedro, grafito y tostados de la barrica. Boca estructurada, con taninos firmes y finos, frescura y final largo.",
+    "en": "Deep cherry red. Aromas of blackcurrant, blackberry, cedar, graphite and toasty oak. Structured on the palate, with firm, fine tannins, freshness and a long finish.",
+    "fr": "Rouge cerise profond. Arômes de cassis, mûre, cèdre, graphite et toasté de la barrique. Bouche structurée, aux tanins fermes et fins, fraîche, à la finale longue.",
+    "it": "Rosso ciliegia profondo. Aromi di ribes nero, mora, cedro, grafite e tostatura della barrique. Bocca strutturata, con tannini decisi e fini, freschezza e finale lungo."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Cordero asado, carnes rojas a la parrilla, caza, quesos curados",
+    "en": "Roast lamb, grilled red meat, game, aged cheeses",
+    "fr": "Agneau rôti, viandes rouges grillées, gibier, fromages affinés",
+    "it": "Agnello arrosto, carni rosse alla griglia, selvaggina, formaggi stagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "16-18 °C, decantado, copa tipo Burdeos",
+    "en": "16-18 °C, decanted, Bordeaux glass",
+    "fr": "16-18 °C, carafé, verre de type bordeaux",
+    "it": "16-18 °C, decantato, calice tipo Bordeaux"
   },
   "search": "Château Clerc Milon Château Clerc Milon",
-  "brief": true,
   "source": "decantalo"
 }

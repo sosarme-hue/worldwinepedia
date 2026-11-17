@@ -7,36 +7,45 @@
   "country": "francia",
   "appellation": null,
   "type": "espumoso",
-  "category": null,
+  "category": {
+    "es": "Extra Brut",
+    "en": "Extra Brut",
+    "fr": "Extra Brut",
+    "it": "Extra Brut"
+  },
   "grapes": [
     "chardonnay"
   ],
   "summary": {
-    "es": "Barrat Masson Fleur de Craie Extra Brut es un vino espumoso de Barrat Masson, en Francia.",
-    "en": "Barrat Masson Fleur de Craie Extra Brut is a sparkling wine from Barrat Masson in France.",
-    "fr": "Barrat Masson Fleur de Craie Extra Brut est un vin effervescent de Barrat Masson (France).",
-    "it": "Barrat Masson Fleur de Craie Extra Brut è un vino spumante di Barrat Masson (Francia)."
+    "es": "Champagne Extra Brut de Chardonnay del pequeño productor Barrat Masson, cuyo nombre, «flor de creta», alude a los suelos calcáreos de la región.",
+    "en": "Extra Brut Champagne from Chardonnay by the small producer Barrat Masson, whose name, “chalk flower”, alludes to the region’s chalky soils.",
+    "fr": "Champagne Extra Brut de chardonnay du petit producteur Barrat Masson, dont le nom évoque les sols crayeux de la région.",
+    "it": "Champagne Extra Brut di Chardonnay del piccolo produttore Barrat Masson, il cui nome, «fiore di gesso», allude ai suoli calcarei della regione."
   },
   "body": {
-    "es": "<p>Se elabora con Chardonnay. Su graduación es de 12 % vol.</p>",
-    "en": "<p>It is made from Chardonnay. It has 12% ABV.</p>",
-    "fr": "<p>Il est élaboré à partir de Chardonnay. Il titre 12 % vol.</p>",
-    "it": "<p>È prodotto con Chardonnay. Ha 12% vol.</p>"
+    "es": "<p><strong>Barrat Masson</strong> es un pequeño productor de Champagne de los llamados vignerons, que elaboran y embotellan el vino de sus propias viñas en lugar de vender la uva a las grandes casas. Este tipo de champagne de viticultor, que ha ganado peso en las últimas décadas, suele poner el acento en la parcela, el suelo y la añada más que en un estilo de casa constante.</p><p><strong>Fleur de Craie</strong> («flor de creta») hace referencia a la creta, la roca caliza blanda y porosa que forma el subsuelo de buena parte de Champagne y que retiene el agua y la devuelve a las raíces en los periodos secos. Se elabora con <strong>Chardonnay</strong>, por lo que es un blanc de blancs, un estilo que tiende a la finura, la tensión y las notas cítricas.</p><p>Elaborado por el método tradicional, con segunda fermentación en botella y crianza sobre lías antes del degüelle, lleva la mención <strong>Extra Brut</strong>, que indica una dosificación muy baja, inferior a 6 gramos de azúcar por litro. Con tan poco azúcar añadido, el vino muestra sin máscaras la acidez y el carácter de la uva y del suelo. Su graduación es de 12 % vol.</p>",
+    "en": "<p><strong>Barrat Masson</strong> is a small Champagne producer of the kind known as vignerons, who make and bottle wine from their own vineyards instead of selling their grapes to the large houses. This type of grower Champagne, which has gained ground in recent decades, tends to emphasise the plot, the soil and the vintage rather than a consistent house style.</p><p><strong>Fleur de Craie</strong> (“chalk flower”) refers to chalk, the soft, porous limestone that forms the subsoil of much of Champagne, holding water and releasing it to the roots in dry periods. It is made from <strong>Chardonnay</strong>, making it a blanc de blancs, a style that tends towards finesse, tension and citrus notes.</p><p>Made by the traditional method, with second fermentation in bottle and lees ageing before disgorgement, it carries the <strong>Extra Brut</strong> designation, which indicates a very low dosage, below 6 grams of sugar per litre. With so little added sugar, the wine shows the acidity and character of the grape and the soil without disguise. It has 12% ABV.</p>",
+    "fr": "<p><strong>Barrat Masson</strong> est un petit producteur de Champagne de ceux que l’on appelle vignerons, qui élaborent et mettent en bouteille le vin de leurs propres vignes au lieu de vendre leurs raisins aux grandes maisons. Ce type de champagne de vigneron, qui a gagné du terrain au cours des dernières décennies, met généralement l’accent sur la parcelle, le sol et le millésime plutôt que sur un style maison constant.</p><p><strong>Fleur de Craie</strong> fait référence à la craie, la roche calcaire tendre et poreuse qui forme le sous-sol d’une grande partie de la Champagne, retient l’eau et la restitue aux racines pendant les périodes sèches. Il est élaboré avec du <strong>chardonnay</strong> : c’est donc un blanc de blancs, un style qui tend vers la finesse, la tension et les notes d’agrumes.</p><p>Élaboré selon la méthode traditionnelle, avec seconde fermentation en bouteille et vieillissement sur lies avant le dégorgement, il porte la mention <strong>Extra Brut</strong>, qui indique un dosage très faible, inférieur à 6 grammes de sucre par litre. Avec si peu de sucre ajouté, le vin montre sans fard l’acidité et le caractère du raisin et du sol. Il titre 12 % vol.</p>",
+    "it": "<p><strong>Barrat Masson</strong> è un piccolo produttore di Champagne del tipo detto vigneron, che vinifica e imbottiglia il vino delle proprie vigne invece di vendere le uve alle grandi maison. Questo tipo di Champagne di vignaiolo, che ha guadagnato spazio negli ultimi decenni, tende a mettere l’accento sulla parcella, sul suolo e sull’annata più che su uno stile della casa costante.</p><p><strong>Fleur de Craie</strong> («fiore di gesso») fa riferimento alla craie, la roccia calcarea tenera e porosa che forma il sottosuolo di buona parte della Champagne, trattiene l’acqua e la restituisce alle radici nei periodi secchi. Si produce con <strong>Chardonnay</strong>, per cui è un blanc de blancs, uno stile che tende alla finezza, alla tensione e alle note agrumate.</p><p>Prodotto con il metodo tradizionale, con seconda fermentazione in bottiglia e maturazione sui lieviti prima della sboccatura, porta la menzione <strong>Extra Brut</strong>, che indica un dosaggio molto basso, inferiore a 6 grammi di zucchero per litro. Con così poco zucchero aggiunto, il vino mostra senza filtri l’acidità e il carattere dell’uva e del suolo. Ha una gradazione di 12% vol.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Amarillo pálido con burbuja fina. Aromas de limón, manzana verde, flores blancas y notas calcáreas. En boca es seco, tenso y muy fresco, con final mineral.",
+    "en": "Pale yellow with fine bubbles. Aromas of lemon, green apple, white flowers and chalky notes. Dry, taut and very fresh on the palate, with a mineral finish.",
+    "fr": "Jaune pâle à la bulle fine. Arômes de citron, de pomme verte, de fleurs blanches et notes crayeuses. En bouche, il est sec, tendu et très frais, à la finale minérale.",
+    "it": "Giallo tenue con perlage fine. Aromi di limone, mela verde, fiori bianchi e note gessose. In bocca è secco, teso e molto fresco, con finale minerale."
+  },
   "pairing": {
-    "es": "Aperitivo, mariscos, fritos, pescados",
-    "en": "Aperitif, shellfish, fried food, fish",
-    "fr": "Apéritif, fruits de mer, fritures, poissons",
-    "it": "Aperitivo, frutti di mare, fritture, pesce"
+    "es": "Aperitivo, ostras, marisco, sashimi, pescado blanco",
+    "en": "Aperitif, oysters, shellfish, sashimi, white fish",
+    "fr": "Apéritif, huîtres, fruits de mer, sashimi, poisson blanc",
+    "it": "Aperitivo, ostriche, frutti di mare, sashimi, pesce bianco"
   },
   "serve": {
-    "es": "6-8 °C, copa de espumoso",
-    "en": "6-8 °C, sparkling wine glass",
-    "fr": "6-8 °C, verre à vin effervescent",
-    "it": "6-8 °C, calice da spumante"
+    "es": "8-10 °C, copa de vino blanco o tulipa",
+    "en": "8-10 °C, white wine or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da vino bianco o a tulipano"
   },
   "search": "Barrat Masson Fleur de Craie Extra Brut Barrat Masson",
-  "brief": true,
   "source": "decantalo"
 }

@@ -13,33 +13,39 @@
     "fr": "Gran Reserva",
     "it": "Gran Reserva"
   },
-  "grapes": [],
+  "grapes": [
+    "tempranillo"
+  ],
   "summary": {
-    "es": "200 Monges Gran Reserva es un vino tinto de Vinícola Real, con la denominación DOCa Rioja, en España.",
-    "en": "200 Monges Gran Reserva is a red wine from Vinícola Real, made under the DOCa Rioja appellation in Spain.",
-    "fr": "200 Monges Gran Reserva est un vin rouge de Vinícola Real, élaboré sous l’appellation DOCa Rioja (Espagne).",
-    "it": "200 Monges Gran Reserva è un vino rosso di Vinícola Real, prodotto nella denominazione DOCa Rioja (Spagna)."
+    "es": "Tinto Gran Reserva de Vinícola Real, en Albelda de Iregua, de larga crianza en roble y botella según la tradición de la DOCa Rioja.",
+    "en": "Gran Reserva red from Vinícola Real in Albelda de Iregua, given long ageing in oak and bottle in the tradition of DOCa Rioja.",
+    "fr": "Rouge Gran Reserva de Vinícola Real, à Albelda de Iregua, longuement élevé en chêne et en bouteille selon la tradition de la DOCa Rioja.",
+    "it": "Rosso Gran Reserva di Vinícola Real, ad Albelda de Iregua, a lungo affinato in rovere e in bottiglia secondo la tradizione della DOCa Rioja."
   },
   "body": {
-    "es": "<p>Lleva la mención Gran Reserva. Su graduación es de 13,5 % vol.</p><p>Rioja, en el valle del Ebro, fue en 1991 la primera Denominación de Origen Calificada de España. Es conocida sobre todo por sus tintos de Tempranillo y por su larga tradición de crianza en barrica de roble.</p>",
-    "en": "<p>It carries the Gran Reserva designation. It has 13.5% ABV.</p><p>Rioja, in the Ebro valley, became Spain's first Qualified Designation of Origin in 1991. It is best known for its Tempranillo-based reds and its long tradition of ageing in oak barrels.</p>",
-    "fr": "<p>Il porte la mention Gran Reserva. Il titre 13,5 % vol.</p><p>La Rioja, dans la vallée de l'Èbre, est devenue en 1991 la première dénomination d'origine qualifiée d'Espagne. Elle est surtout connue pour ses rouges à base de tempranillo et sa longue tradition d'élevage en barrique de chêne.</p>",
-    "it": "<p>Riporta la menzione Gran Reserva. Ha 13,5% vol.</p><p>La Rioja, nella valle dell'Ebro, è diventata nel 1991 la prima Denominazione di origine qualificata di Spagna. È nota soprattutto per i rossi a base di Tempranillo e per la lunga tradizione di affinamento in botte di rovere.</p>"
+    "es": "<p><strong>200 Monges</strong> es la gama de vinos de crianza de <strong>Vinícola Real</strong>, una bodega familiar de Albelda de Iregua, en el valle del río Iregua, cerca de Logroño. El nombre alude a los monjes del antiguo monasterio de San Martín de Albelda, fundado en el siglo X, uno de los grandes centros culturales de la Rioja medieval y cuna de una larga tradición vitícola en la zona.</p><p>Como la mayoría de los tintos clásicos de la DOCa Rioja, se basa en el <strong>Tempranillo</strong>, la variedad emblemática de la denominación, una uva de ciclo corto que, en el clima de Rioja, a medio camino entre las influencias atlántica y mediterránea, da vinos de fruta roja y buena aptitud para la crianza en roble.</p><p>El <strong>Gran Reserva</strong> es la categoría de crianza más exigente de Rioja: los tintos deben envejecer al menos cinco años, con un mínimo de dos en barrica de roble y el resto en botella, y solo se elabora en añadas que se consideran adecuadas para una guarda prolongada. Con unos 13,5 % vol., es un tinto de estilo clásico en el que predominan los aromas terciarios de la larga crianza, de textura sedosa y final largo, que conviene decantar con cuidado para separar posibles posos.</p>",
+    "en": "<p><strong>200 Monges</strong> is the range of aged wines from <strong>Vinícola Real</strong>, a family winery in Albelda de Iregua, in the valley of the river Iregua near Logroño. The name refers to the monks of the old monastery of San Martín de Albelda, founded in the 10th century, one of the great cultural centres of medieval Rioja and the cradle of a long winegrowing tradition in the area.</p><p>Like most classic reds from DOCa Rioja, it is based on <strong>Tempranillo</strong>, the appellation's emblematic variety, an early-ripening grape which, in Rioja's climate, halfway between Atlantic and Mediterranean influences, gives wines with red fruit and a good aptitude for oak ageing.</p><p><strong>Gran Reserva</strong> is Rioja's most demanding ageing category: reds must be aged for at least five years, a minimum of two in oak barrels and the rest in bottle, and it is made only in vintages considered suitable for long keeping. At around 13.5% ABV, it is a classic-style red dominated by the tertiary aromas of long ageing, with a silky texture and a long finish, best decanted carefully to separate any sediment.</p>",
+    "fr": "<p><strong>200 Monges</strong> est la gamme de vins d'élevage de <strong>Vinícola Real</strong>, une bodega familiale d'Albelda de Iregua, dans la vallée de l'Iregua, près de Logroño. Le nom évoque les moines de l'ancien monastère de San Martín de Albelda, fondé au Xe siècle, l'un des grands foyers culturels de la Rioja médiévale et berceau d'une longue tradition viticole dans le secteur.</p><p>Comme la plupart des rouges classiques de la DOCa Rioja, il repose sur le <strong>tempranillo</strong>, cépage emblématique de l'appellation, un raisin précoce qui, sous le climat de la Rioja, à mi-chemin entre influences atlantique et méditerranéenne, donne des vins de fruits rouges bien adaptés à l'élevage en chêne.</p><p>Le <strong>Gran Reserva</strong> est la catégorie d'élevage la plus exigeante de la Rioja : les rouges doivent vieillir au moins cinq ans, dont un minimum de deux en barrique de chêne et le reste en bouteille, et il n'est élaboré que dans les millésimes jugés aptes à une longue garde. D'environ 13,5 % vol., c'est un rouge de style classique dominé par les arômes tertiaires du long élevage, à la texture soyeuse et à la finale longue, qu'il convient de carafer avec soin pour séparer d'éventuels dépôts.</p>",
+    "it": "<p><strong>200 Monges</strong> è la linea di vini d'affinamento di <strong>Vinícola Real</strong>, una cantina familiare di Albelda de Iregua, nella valle del fiume Iregua, vicino a Logroño. Il nome richiama i monaci dell'antico monastero di San Martín de Albelda, fondato nel X secolo, uno dei grandi centri culturali della Rioja medievale e culla di una lunga tradizione viticola nella zona.</p><p>Come la maggior parte dei rossi classici della DOCa Rioja, si basa sul <strong>Tempranillo</strong>, il vitigno simbolo della denominazione, un'uva precoce che, nel clima della Rioja, a metà strada tra influenze atlantiche e mediterranee, dà vini di frutto rosso e buona attitudine all'affinamento in rovere.</p><p>Il <strong>Gran Reserva</strong> è la categoria d'affinamento più esigente della Rioja: i rossi devono invecchiare almeno cinque anni, di cui almeno due in botte di rovere e il resto in bottiglia, e viene prodotto solo nelle annate ritenute adatte a un lungo invecchiamento. Con circa 13,5% vol., è un rosso di stile classico dominato dagli aromi terziari del lungo affinamento, di trama setosa e finale lungo, da decantare con cura per separare eventuali depositi.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo granate con ribete atejado. Aromas de fruta roja confitada, cuero, tabaco, especias dulces y sotobosque. Boca suave y sedosa, de taninos muy integrados y final largo.",
+    "en": "Garnet red with a tawny rim. Aromas of candied red fruit, leather, tobacco, sweet spice and forest floor. Smooth, silky palate with well-integrated tannins and a long finish.",
+    "fr": "Rouge grenat à reflets tuilés. Arômes de fruits rouges confits, de cuir, de tabac, d'épices douces et de sous-bois. Bouche souple et soyeuse, aux tanins très fondus et à la finale longue.",
+    "it": "Rosso granato con unghia aranciata. Aromi di frutta rossa candita, cuoio, tabacco, spezie dolci e sottobosco. Bocca morbida e setosa, tannini ben integrati e finale lungo."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Cordero y cabrito asados, caza, carnes guisadas, setas, quesos curados",
+    "en": "Roast lamb and kid, game, braised meat, mushrooms, aged cheeses",
+    "fr": "Agneau et chevreau rôtis, gibier, viandes braisées, champignons, fromages affinés",
+    "it": "Agnello e capretto arrosto, selvaggina, carni brasate, funghi, formaggi stagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
   },
   "search": "200 Monges Gran Reserva Vinícola Real",
-  "brief": true,
   "source": "decantalo"
 }

@@ -7,34 +7,45 @@
   "country": "italia",
   "appellation": "DOCG Vino Nobile di Montepulciano",
   "type": "tinto",
-  "category": null,
-  "grapes": [],
+  "category": {
+    "es": "Riserva",
+    "en": "Riserva",
+    "fr": "Riserva",
+    "it": "Riserva"
+  },
+  "grapes": [
+    "sangiovese"
+  ],
   "summary": {
-    "es": "Boscarelli Sotto Casa Vino Nobile di Montepulciano Riserva es un vino tinto de Boscarelli, con la denominación DOCG Vino Nobile di Montepulciano, en Italia.",
-    "en": "Boscarelli Sotto Casa Vino Nobile di Montepulciano Riserva is a red wine from Boscarelli, made under the DOCG Vino Nobile di Montepulciano appellation in Italy.",
-    "fr": "Boscarelli Sotto Casa Vino Nobile di Montepulciano Riserva est un vin rouge de Boscarelli, élaboré sous l’appellation DOCG Vino Nobile di Montepulciano (Italie).",
-    "it": "Boscarelli Sotto Casa Vino Nobile di Montepulciano Riserva è un vino rosso di Boscarelli, prodotto nella denominazione DOCG Vino Nobile di Montepulciano (Italia)."
+    "es": "Vino Nobile di Montepulciano Riserva de Boscarelli, procedente de la viña Sotto Casa, junto a la bodega, con crianza prolongada.",
+    "en": "Vino Nobile di Montepulciano Riserva from Boscarelli, from the Sotto Casa vineyard next to the winery, with extended ageing.",
+    "fr": "Vino Nobile di Montepulciano Riserva de Boscarelli, issu de la vigne Sotto Casa, près de la cave, avec un élevage prolongé.",
+    "it": "Vino Nobile di Montepulciano Riserva di Boscarelli, dal vigneto Sotto Casa, accanto alla cantina, con affinamento prolungato."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 14 % vol.</p><p>El Vino Nobile di Montepulciano es un tinto toscano de Sangiovese, llamado aquí Prugnolo Gentile, que se elabora en las colinas que rodean la ciudad de Montepulciano, en la provincia de Siena. Fue una de las primeras DOCG de Italia.</p>",
-    "en": "<p>It is aged in wood. It has 14% ABV.</p><p>Vino Nobile di Montepulciano is a Tuscan red made from Sangiovese, known locally as Prugnolo Gentile, grown on the hills around the town of Montepulciano, in the province of Siena. It was one of Italy's first DOCGs.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 14 % vol.</p><p>Le Vino Nobile di Montepulciano est un rouge toscan de sangiovese, appelé ici prugnolo gentile, élaboré sur les collines qui entourent la ville de Montepulciano, dans la province de Sienne. Ce fut l'une des premières DOCG d'Italie.</p>",
-    "it": "<p>È affinato in legno. Ha 14% vol.</p><p>Il Vino Nobile di Montepulciano è un rosso toscano di Sangiovese, qui chiamato Prugnolo Gentile, prodotto sulle colline che circondano la città di Montepulciano, in provincia di Siena. È stato una delle prime DOCG d'Italia.</p>"
+    "es": "<p><strong>Boscarelli</strong> es una finca familiar de Cervognano, en el municipio de <strong>Montepulciano</strong> (Toscana), creada en los años sesenta y dirigida hoy por la familia De Ferrari. Se considera una de las bodegas de referencia del <strong>Vino Nobile di Montepulciano</strong>, con un estilo que combina la estructura del Sangiovese local, llamado Prugnolo Gentile, con elegancia y capacidad de guarda.</p><p>La denominación se extiende por las colinas que rodean la ciudad renacentista de Montepulciano, en el sureste de la provincia de Siena. El clima es continental suavizado por la altitud, y los suelos alternan arcillas, arenas y sedimentos de origen marino. El reglamento exige que el Sangiovese sea la variedad principal, junto a otras uvas tradicionales toscanas.</p><p><strong>Sotto Casa</strong>, «bajo la casa», procede de la viña situada junto a la vivienda y la bodega de la familia. Se comercializa como <strong>Riserva</strong>, categoría que exige una crianza más larga que la del Vino Nobile básico, y da un tinto de mayor profundidad y potencial de guarda.</p>",
+    "en": "<p><strong>Boscarelli</strong> is a family estate in Cervognano, in the municipality of <strong>Montepulciano</strong> (Tuscany), established in the 1960s and now run by the De Ferrari family. It is regarded as one of the benchmark producers of <strong>Vino Nobile di Montepulciano</strong>, with a style that combines the structure of the local Sangiovese, known as Prugnolo Gentile, with elegance and ageing potential.</p><p>The appellation covers the hills around the Renaissance town of Montepulciano, in the south-east of the province of Siena. The climate is continental, tempered by altitude, and the soils alternate clays, sands and marine sediments. The regulations require Sangiovese to be the main variety, alongside other traditional Tuscan grapes.</p><p><strong>Sotto Casa</strong>, “below the house”, comes from the vineyard next to the family’s home and winery. It is released as a <strong>Riserva</strong>, a category requiring longer ageing than basic Vino Nobile, and gives a red of greater depth and ageing potential.</p>",
+    "fr": "<p><strong>Boscarelli</strong> est un domaine familial de Cervognano, sur la commune de <strong>Montepulciano</strong> (Toscane), créé dans les années 1960 et dirigé aujourd’hui par la famille De Ferrari. Il est considéré comme l’un des producteurs de référence du <strong>Vino Nobile di Montepulciano</strong>, avec un style qui associe la structure du sangiovese local, appelé prugnolo gentile, à l’élégance et au potentiel de garde.</p><p>L’appellation s’étend sur les collines qui entourent la ville Renaissance de Montepulciano, dans le sud-est de la province de Sienne. Le climat est continental, adouci par l’altitude, et les sols alternent argiles, sables et sédiments d’origine marine. Le règlement impose le sangiovese comme cépage principal, aux côtés d’autres cépages toscans traditionnels.</p><p><strong>Sotto Casa</strong>, « sous la maison », provient de la vigne située à côté de la demeure et de la cave de la famille. Il est commercialisé en <strong>Riserva</strong>, catégorie qui exige un élevage plus long que celui du Vino Nobile de base, et donne un rouge plus profond, au potentiel de garde accru.</p>",
+    "it": "<p><strong>Boscarelli</strong> è una tenuta di famiglia di Cervognano, nel comune di <strong>Montepulciano</strong> (Toscana), nata negli anni Sessanta e oggi guidata dalla famiglia De Ferrari. È considerata una delle aziende di riferimento del <strong>Vino Nobile di Montepulciano</strong>, con uno stile che unisce la struttura del Sangiovese locale, chiamato Prugnolo Gentile, all’eleganza e alla capacità di invecchiamento.</p><p>La denominazione si estende sulle colline che circondano la città rinascimentale di Montepulciano, nel sud-est della provincia di Siena. Il clima è continentale, mitigato dall’altitudine, e i suoli alternano argille, sabbie e sedimenti di origine marina. Il disciplinare impone il Sangiovese come vitigno principale, accanto ad altre uve toscane tradizionali.</p><p><strong>Sotto Casa</strong>, cioè «sotto casa», proviene dal vigneto accanto all’abitazione e alla cantina della famiglia. È commercializzato come <strong>Riserva</strong>, categoria che richiede un affinamento più lungo del Vino Nobile base, e dà un rosso di maggiore profondità e potenziale di invecchiamento.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Cereza ácida, ciruela, violeta, hierbas secas y especias, con matices de cuero y tabaco. En boca es firme y sabroso, con acidez viva, tanino fino y final largo.",
+    "en": "Sour cherry, plum, violet, dried herbs and spice, with hints of leather and tobacco. Firm and savoury on the palate, with lively acidity, fine tannins and a long finish.",
+    "fr": "Griotte, prune, violette, herbes sèches et épices, avec des nuances de cuir et de tabac. Bouche ferme et sapide, à l’acidité vive, au tanin fin et à la finale longue.",
+    "it": "Amarena, prugna, viola, erbe secche e spezie, con sfumature di cuoio e tabacco. In bocca è deciso e sapido, con acidità vivace, tannino fine e finale lungo."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Pici al ragú, carnes rojas a la parrilla, caza, quesos curados como el pecorino",
+    "en": "Pici with ragù, grilled red meat, game, aged cheeses such as pecorino",
+    "fr": "Pici au ragù, viandes rouges grillées, gibier, fromages affinés comme le pecorino",
+    "it": "Pici al ragù, carni rosse alla griglia, selvaggina, formaggi stagionati come il pecorino"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
   },
   "search": "Boscarelli Sotto Casa Vino Nobile di Montepulciano Riserva Boscarelli",
-  "brief": true,
   "source": "decantalo"
 }

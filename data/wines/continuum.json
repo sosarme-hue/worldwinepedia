@@ -8,33 +8,41 @@
   "appellation": "AVA Napa Valley",
   "type": "tinto",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "cabernet-sauvignon",
+    "cabernet-franc",
+    "petit-verdot"
+  ],
   "summary": {
-    "es": "Continuum es un vino tinto de Continuum Estate, con la denominación AVA Napa Valley, en Estados Unidos.",
-    "en": "Continuum is a red wine from Continuum Estate, made under the AVA Napa Valley appellation in United States.",
-    "fr": "Continuum est un vin rouge de Continuum Estate, élaboré sous l’appellation AVA Napa Valley (États-Unis).",
-    "it": "Continuum è un vino rosso di Continuum Estate, prodotto nella denominazione AVA Napa Valley (Stati Uniti)."
+    "es": "Tinto de corte bordelés de Continuum Estate, la bodega fundada por Tim Mondavi y su familia en Pritchard Hill, en el este del valle de Napa.",
+    "en": "Bordeaux-style red blend from Continuum Estate, the winery founded by Tim Mondavi and his family on Pritchard Hill, on the eastern side of the Napa Valley.",
+    "fr": "Rouge d’assemblage bordelais de Continuum Estate, le domaine fondé par Tim Mondavi et sa famille sur Pritchard Hill, à l’est de la Napa Valley.",
+    "it": "Rosso di taglio bordolese di Continuum Estate, la tenuta fondata da Tim Mondavi e dalla sua famiglia su Pritchard Hill, nella parte orientale della Napa Valley."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 14,5 % vol.</p><p>Valle situado al norte de la bahía de San Francisco y la región vitícola más célebre de Estados Unidos, conocida sobre todo por sus Cabernet Sauvignon. Fue la primera AVA reconocida en California.</p>",
-    "en": "<p>It is aged in wood. It has 14.5% ABV.</p><p>A valley north of San Francisco Bay and the most famous wine region in the United States, known above all for its Cabernet Sauvignon. It was the first AVA recognised in California.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 14,5 % vol.</p><p>Vallée située au nord de la baie de San Francisco et région viticole la plus célèbre des États-Unis, connue surtout pour ses cabernets-sauvignons. Ce fut la première AVA reconnue en Californie.</p>",
-    "it": "<p>È affinato in legno. Ha 14,5% vol.</p><p>Valle a nord della baia di San Francisco e la regione vinicola più celebre degli Stati Uniti, nota soprattutto per i suoi Cabernet Sauvignon. Fu la prima AVA riconosciuta in California.</p>"
+    "es": "<p>Continuum Estate fue creada a mediados de la década de 2000 por <strong>Tim Mondavi</strong>, hijo de Robert Mondavi, junto a su padre y su hermana Marcia, tras la venta de la bodega familiar Robert Mondavi Winery. Desde 2008 el proyecto tiene su sede en <strong>Pritchard Hill</strong>, en las colinas de la cordillera de Vaca, al este del valle, donde la familia adquirió una finca de viñedos en altitud, sobre suelos volcánicos y pedregosos.</p><p>Continuum es el vino principal de la casa, un ensamblaje dominado por el <strong>Cabernet Sauvignon</strong>, completado con <strong>Cabernet Franc</strong>, <strong>Petit Verdot</strong> y, según la añada, otras variedades bordelesas. La finca se cultiva con criterios de agricultura sostenible y el vino se cría en barricas de roble francés.</p><p>El estilo se aleja de la exuberancia de algunos Cabernet del fondo del valle: busca un equilibrio entre la madurez californiana y la frescura, con una estructura firme propia de los viñedos de montaña. Con 14,5 % vol., es un tinto de larga guarda.</p>",
+    "en": "<p>Continuum Estate was created in the mid-2000s by <strong>Tim Mondavi</strong>, son of Robert Mondavi, together with his father and his sister Marcia, after the sale of the family’s Robert Mondavi Winery. Since 2008 the project has been based on <strong>Pritchard Hill</strong>, in the hills of the Vaca Range on the eastern side of the valley, where the family bought an estate with high-elevation vineyards on volcanic, stony soils.</p><p>Continuum is the house’s main wine, a blend dominated by <strong>Cabernet Sauvignon</strong>, completed with <strong>Cabernet Franc</strong>, <strong>Petit Verdot</strong> and, depending on the vintage, other Bordeaux varieties. The estate is farmed sustainably and the wine is aged in French oak barrels.</p><p>The style steers away from the exuberance of some valley-floor Cabernets, seeking a balance between Californian ripeness and freshness, with the firm structure typical of mountain vineyards. At 14.5% ABV, it is a red for long ageing.</p>",
+    "fr": "<p>Continuum Estate a été créé au milieu des années 2000 par <strong>Tim Mondavi</strong>, fils de Robert Mondavi, avec son père et sa sœur Marcia, après la vente de la Robert Mondavi Winery familiale. Depuis 2008, le projet est installé sur <strong>Pritchard Hill</strong>, dans les collines de la chaîne de Vaca, à l’est de la vallée, où la famille a acquis un domaine de vignes en altitude, sur des sols volcaniques et caillouteux.</p><p>Continuum est le vin principal de la maison, un assemblage dominé par le <strong>cabernet-sauvignon</strong>, complété par du <strong>cabernet franc</strong>, du <strong>petit verdot</strong> et, selon le millésime, d’autres cépages bordelais. Le domaine est cultivé selon des principes d’agriculture durable et le vin est élevé en barriques de chêne français.</p><p>Le style s’éloigne de l’exubérance de certains cabernets du fond de la vallée : il cherche un équilibre entre la maturité californienne et la fraîcheur, avec la structure ferme propre aux vignobles de montagne. Avec 14,5 % vol., c’est un rouge de longue garde.</p>",
+    "it": "<p>Continuum Estate è stata fondata a metà degli anni Duemila da <strong>Tim Mondavi</strong>, figlio di Robert Mondavi, insieme al padre e alla sorella Marcia, dopo la vendita della cantina di famiglia Robert Mondavi Winery. Dal 2008 il progetto ha sede su <strong>Pritchard Hill</strong>, sulle colline della catena di Vaca, a est della valle, dove la famiglia acquistò una tenuta con vigneti in altitudine su suoli vulcanici e sassosi.</p><p>Continuum è il vino principale della casa, un assemblaggio dominato dal <strong>Cabernet Sauvignon</strong>, completato da <strong>Cabernet Franc</strong>, <strong>Petit Verdot</strong> e, a seconda dell’annata, da altre varietà bordolesi. La tenuta è coltivata con criteri di agricoltura sostenibile e il vino affina in barrique di rovere francese.</p><p>Lo stile si allontana dall’esuberanza di alcuni Cabernet del fondovalle e cerca un equilibrio tra la maturità californiana e la freschezza, con la struttura salda tipica dei vigneti di montagna. Con 14,5% vol., è un rosso da lungo invecchiamento.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Color púrpura profundo. Aromas de casis, mora, grafito, hierbas aromáticas y tostados de roble. En boca es denso y estructurado, con taninos firmes y finos, buena frescura y final prolongado.",
+    "en": "Deep purple. Aromas of cassis, blackberry, graphite, aromatic herbs and toasty oak. Dense and structured on the palate, with firm, fine tannins, good freshness and a long finish.",
+    "fr": "Pourpre profond. Arômes de cassis, mûre, graphite, herbes aromatiques et toasté du chêne. En bouche, il est dense et structuré, aux tanins fermes et fins, avec une belle fraîcheur et une longue finale.",
+    "it": "Porpora intenso. Aromi di cassis, mora, grafite, erbe aromatiche e tostatura del rovere. In bocca è denso e strutturato, con tannini saldi e fini, buona freschezza e finale prolungato."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Chuletón a la brasa, cordero asado, caza mayor, quesos curados",
+    "en": "Grilled rib steak, roast lamb, large game, aged cheeses",
+    "fr": "Côte de bœuf grillée, agneau rôti, gros gibier, fromages affinés",
+    "it": "Costata alla brace, agnello arrosto, selvaggina di grossa taglia, formaggi stagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "16-18 °C, decantado, copa de tipo burdeos",
+    "en": "16-18 °C, decanted, Bordeaux glass",
+    "fr": "16-18 °C, carafé, verre de type bordeaux",
+    "it": "16-18 °C, decantato, calice tipo bordeaux"
   },
   "search": "Continuum Continuum Estate",
-  "brief": true,
   "source": "decantalo"
 }

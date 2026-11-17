@@ -12,31 +12,35 @@
     "pinot-noir"
   ],
   "summary": {
-    "es": "Albert Bichot Chambolle-Musigny es un vino tinto de Maison Albert Bichot, con la denominación AOC Chambolle-Musigny / Côte-d'Or, en Francia.",
-    "en": "Albert Bichot Chambolle-Musigny is a red wine from Maison Albert Bichot, made under the AOC Chambolle-Musigny / Côte-d'Or appellation in France.",
-    "fr": "Albert Bichot Chambolle-Musigny est un vin rouge de Maison Albert Bichot, élaboré sous l’appellation AOC Chambolle-Musigny / Côte-d'Or (France).",
-    "it": "Albert Bichot Chambolle-Musigny è un vino rosso di Maison Albert Bichot, prodotto nella denominazione AOC Chambolle-Musigny / Côte-d'Or (Francia)."
+    "es": "Pinot Noir de la denominación comunal Chambolle-Musigny, en la Côte de Nuits, elaborado por la casa borgoñona Albert Bichot.",
+    "en": "Pinot Noir from the village appellation of Chambolle-Musigny, in the Côte de Nuits, made by the Burgundy house Albert Bichot.",
+    "fr": "Pinot noir de l'appellation communale Chambolle-Musigny, en Côte de Nuits, élaboré par la maison bourguignonne Albert Bichot.",
+    "it": "Pinot Nero della denominazione comunale Chambolle-Musigny, nella Côte de Nuits, prodotto dalla casa borgognona Albert Bichot."
   },
   "body": {
-    "es": "<p>Se elabora con Pinot Noir. Tiene crianza en madera. Su graduación es de 13 % vol.</p><p>Casa familiar de Beaune fundada en 1831, que combina la actividad de négoce con varios domaines propios repartidos desde Chablis hasta la Côte Chalonnaise.</p>",
-    "en": "<p>It is made from Pinot Noir. It is aged in wood. It has 13% ABV.</p><p>Family house in Beaune founded in 1831, combining a négociant business with several of its own domaines spread from Chablis to the Côte Chalonnaise.</p>",
-    "fr": "<p>Il est élaboré à partir de Pinot Noir. Il est élevé en bois. Il titre 13 % vol.</p><p>Maison familiale de Beaune fondée en 1831, qui associe une activité de négoce à plusieurs domaines en propre répartis de Chablis à la Côte chalonnaise.</p>",
-    "it": "<p>È prodotto con Pinot Nero. È affinato in legno. Ha 13% vol.</p><p>Casa di famiglia di Beaune fondata nel 1831, che unisce l’attività di négoce a diversi domaine di proprietà distribuiti da Chablis alla Côte Chalonnaise.</p>"
+    "es": "<p><strong>Albert Bichot</strong> es una casa familiar de Beaune fundada en el siglo XIX, que combina la actividad de négociant con la de propietaria de viñedos a través de varios dominios repartidos por Borgoña, como el Domaine du Clos Frantin en la Côte de Nuits, el Domaine du Pavillon en la Côte de Beaune o el Domaine Long-Depaquit en Chablis.</p><p><strong>Chambolle-Musigny</strong> es uno de los pueblos de la Côte de Nuits, entre Morey-Saint-Denis y Vougeot, y alberga los grands crus Musigny y parte de Bonnes-Mares. Sus suelos, con mucha caliza y poca arcilla, dan tintos de <strong>Pinot Noir</strong> reputados por su finura, su perfume y su textura sedosa, a menudo descritos como los más delicados de la Côte de Nuits.</p><p>Este vino de pueblo procede de parcelas de la denominación comunal y se cría en barricas de roble francés, en el estilo habitual de la casa. Con unos 13 % vol., es un tinto de cuerpo ligero a medio, aromático y elegante, que puede disfrutarse joven por su fruta y gana complejidad tras algunos años en botella.</p>",
+    "en": "<p><strong>Albert Bichot</strong> is a family house in Beaune founded in the 19th century, which combines its activity as a négociant with that of a vineyard owner through several estates across Burgundy, such as Domaine du Clos Frantin in the Côte de Nuits, Domaine du Pavillon in the Côte de Beaune and Domaine Long-Depaquit in Chablis.</p><p><strong>Chambolle-Musigny</strong> is a village of the Côte de Nuits, between Morey-Saint-Denis and Vougeot, home to the grands crus Musigny and part of Bonnes-Mares. Its soils, rich in limestone and low in clay, give <strong>Pinot Noir</strong> reds renowned for their finesse, perfume and silky texture, often described as the most delicate of the Côte de Nuits.</p><p>This village wine comes from plots within the communal appellation and is aged in French oak barrels, in the house's usual style. At around 13% ABV, it is a light- to medium-bodied red, aromatic and elegant, which can be enjoyed young for its fruit and gains complexity after a few years in bottle.</p>",
+    "fr": "<p><strong>Albert Bichot</strong> est une maison familiale de Beaune fondée au XIXe siècle, qui associe l'activité de négoce à celle de propriétaire de vignes à travers plusieurs domaines répartis en Bourgogne, comme le Domaine du Clos Frantin en Côte de Nuits, le Domaine du Pavillon en Côte de Beaune ou le Domaine Long-Depaquit à Chablis.</p><p><strong>Chambolle-Musigny</strong> est un village de la Côte de Nuits, entre Morey-Saint-Denis et Vougeot, qui abrite les grands crus Musigny et une partie de Bonnes-Mares. Ses sols, très calcaires et pauvres en argile, donnent des rouges de <strong>pinot noir</strong> réputés pour leur finesse, leur parfum et leur texture soyeuse, souvent décrits comme les plus délicats de la Côte de Nuits.</p><p>Ce vin de village provient de parcelles de l'appellation communale et s'élève en barriques de chêne français, selon le style habituel de la maison. D'environ 13 % vol., c'est un rouge de corps léger à moyen, aromatique et élégant, qui se goûte jeune pour son fruit et gagne en complexité après quelques années en bouteille.</p>",
+    "it": "<p><strong>Albert Bichot</strong> è una casa familiare di Beaune fondata nel XIX secolo, che unisce l'attività di négociant a quella di proprietaria di vigneti attraverso diversi domaine in Borgogna, come il Domaine du Clos Frantin nella Côte de Nuits, il Domaine du Pavillon nella Côte de Beaune o il Domaine Long-Depaquit a Chablis.</p><p><strong>Chambolle-Musigny</strong> è un villaggio della Côte de Nuits, tra Morey-Saint-Denis e Vougeot, che ospita i grand cru Musigny e parte di Bonnes-Mares. I suoi suoli, molto calcarei e poveri di argilla, danno rossi di <strong>Pinot Nero</strong> rinomati per finezza, profumo e trama setosa, spesso descritti come i più delicati della Côte de Nuits.</p><p>Questo vino di villaggio proviene da parcelle della denominazione comunale e affina in barrique di rovere francese, secondo lo stile abituale della casa. Con circa 13% vol., è un rosso di corpo da leggero a medio, aromatico ed elegante, che si può apprezzare giovane per il frutto e acquista complessità dopo qualche anno in bottiglia.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo rubí brillante. Aromas de frambuesa, cereza, violeta y notas especiadas suaves. Boca delicada y sedosa, de acidez fresca y taninos finos.",
+    "en": "Bright ruby red. Aromas of raspberry, cherry, violet and gentle spicy notes. Delicate, silky palate with fresh acidity and fine tannins.",
+    "fr": "Rouge rubis brillant. Arômes de framboise, de cerise, de violette et notes épicées discrètes. Bouche délicate et soyeuse, à l'acidité fraîche et aux tanins fins.",
+    "it": "Rosso rubino brillante. Aromi di lampone, ciliegia, violetta e lievi note speziate. Bocca delicata e setosa, acidità fresca e tannini fini."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Aves asadas, pato, ternera, setas, quesos de pasta blanda",
+    "en": "Roast poultry, duck, veal, mushrooms, soft cheeses",
+    "fr": "Volailles rôties, canard, veau, champignons, fromages à pâte molle",
+    "it": "Pollame arrosto, anatra, vitello, funghi, formaggi a pasta molle"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "15-17 °C, copa de Borgoña",
+    "en": "15-17 °C, Burgundy glass",
+    "fr": "15-17 °C, verre de Bourgogne",
+    "it": "15-17 °C, calice da Borgogna"
   },
   "search": "Albert Bichot Chambolle-Musigny Albert Bichot",
-  "brief": true,
   "source": "decantalo"
 }

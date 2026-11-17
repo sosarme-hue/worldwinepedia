@@ -7,36 +7,45 @@
   "country": "francia",
   "appellation": "AOC Chablis Premier Cru",
   "type": "blanco",
-  "category": null,
+  "category": {
+    "es": "Premier Cru",
+    "en": "Premier Cru",
+    "fr": "Premier Cru",
+    "it": "Premier Cru"
+  },
   "grapes": [
     "chardonnay"
   ],
   "summary": {
-    "es": "Billaud-Simon Chablis Grand 1er Cru Montée Tonnerre es un vino blanco de Billaud-Simon, con la denominación AOC Chablis Premier Cru, en Francia.",
-    "en": "Billaud-Simon Chablis Grand 1er Cru Montée Tonnerre is a white wine from Billaud-Simon, made under the AOC Chablis Premier Cru appellation in France.",
-    "fr": "Billaud-Simon Chablis Grand 1er Cru Montée Tonnerre est un vin blanc de Billaud-Simon, élaboré sous l’appellation AOC Chablis Premier Cru (France).",
-    "it": "Billaud-Simon Chablis Grand 1er Cru Montée Tonnerre è un vino bianco di Billaud-Simon, prodotto nella denominazione AOC Chablis Premier Cru (Francia)."
+    "es": "Chablis Premier Cru Montée de Tonnerre del Domaine Billaud-Simon, de uno de los premiers crus más reputados de la orilla derecha del Serein.",
+    "en": "Chablis Premier Cru Montée de Tonnerre from Domaine Billaud-Simon, from one of the most highly regarded premiers crus on the right bank of the Serein.",
+    "fr": "Chablis Premier Cru Montée de Tonnerre du Domaine Billaud-Simon, issu de l’un des premiers crus les plus réputés de la rive droite du Serein.",
+    "it": "Chablis Premier Cru Montée de Tonnerre del Domaine Billaud-Simon, da uno dei premier cru più rinomati della riva destra del Serein."
   },
   "body": {
-    "es": "<p>Se elabora con Chardonnay. Tiene crianza en madera. Su graduación es de 12,5 % vol.</p>",
-    "en": "<p>It is made from Chardonnay. It is aged in wood. It has 12.5% ABV.</p>",
-    "fr": "<p>Il est élaboré à partir de Chardonnay. Il est élevé en bois. Il titre 12,5 % vol.</p>",
-    "it": "<p>È prodotto con Chardonnay. È affinato in legno. Ha 12,5% vol.</p>"
+    "es": "<p>El <strong>Domaine Billaud-Simon</strong> es una de las fincas históricas de Chablis, fundada a comienzos del siglo XIX y con viñedos en varios premiers y grands crus de la denominación. En 2014 fue adquirida por la casa Faiveley, de Nuits-Saint-Georges, que ha mantenido el estilo de la finca: Chardonnay puro y tenso, elaborado sobre todo en acero, con un uso de la madera reservado a algunos vinos y siempre discreto.</p><p>Como todo Chablis, se elabora con <strong>Chardonnay</strong>, que en este viñedo septentrional, sobre margas y calizas kimmeridgienses ricas en fósiles de pequeñas ostras, da vinos de acidez viva, fruta cítrica y un carácter salino a menudo descrito como mineral.</p><p><strong>Montée de Tonnerre</strong> se encuentra en la orilla derecha del Serein, separado de los grands crus solo por una pequeña vaguada, y suele considerarse uno de los premiers crus más próximos en calidad a ellos; de ahí la expresión «grand premier cru» que figura en el nombre comercial de este vino. Da Chablis de gran tensión y profundidad, con un marcado carácter salino. Tiene paso por madera y su graduación es de 12,5 % vol. Necesita algunos años de botella para mostrar toda su complejidad.</p>",
+    "en": "<p><strong>Domaine Billaud-Simon</strong> is one of the historic estates of Chablis, founded in the early 19th century, with vineyards in several of the appellation’s premiers and grands crus. In 2014 it was acquired by the Nuits-Saint-Georges house of Faiveley, which has maintained the estate’s style: pure, taut Chardonnay, made mainly in steel, with oak reserved for some wines and always discreet.</p><p>Like all Chablis, it is made from <strong>Chardonnay</strong>, which in this northerly vineyard, on Kimmeridgian marls and limestones rich in fossils of tiny oysters, gives wines of lively acidity, citrus fruit and a saline character often described as mineral.</p><p><strong>Montée de Tonnerre</strong> lies on the right bank of the Serein, separated from the grands crus only by a small valley, and is generally regarded as one of the premiers crus closest to them in quality; hence the expression “grand premier cru” in this wine’s commercial name. It gives Chablis of great tension and depth, with a marked saline character. It sees some oak and has 12.5% ABV. It needs a few years in bottle to show its full complexity.</p>",
+    "fr": "<p>Le <strong>Domaine Billaud-Simon</strong> est l’un des domaines historiques de Chablis, fondé au début du XIXe siècle et possédant des vignes dans plusieurs premiers et grands crus de l’appellation. En 2014, il a été acquis par la maison Faiveley, de Nuits-Saint-Georges, qui a conservé le style du domaine : un chardonnay pur et tendu, élaboré surtout en cuve inox, le bois étant réservé à certains vins et toujours discret.</p><p>Comme tout chablis, il est élaboré avec du <strong>chardonnay</strong>, qui dans ce vignoble septentrional, sur des marnes et calcaires kimméridgiens riches en fossiles de petites huîtres, donne des vins à l’acidité vive, au fruit d’agrumes et au caractère salin souvent qualifié de minéral.</p><p><strong>Montée de Tonnerre</strong> se trouve sur la rive droite du Serein, séparé des grands crus par un simple petit vallon, et il est généralement considéré comme l’un des premiers crus les plus proches d’eux en qualité ; d’où l’expression « grand premier cru » qui figure dans le nom commercial de ce vin. Il donne des chablis d’une grande tension et d’une grande profondeur, au caractère salin marqué. Il connaît un passage en bois et titre 12,5 % vol. Il lui faut quelques années de bouteille pour montrer toute sa complexité.</p>",
+    "it": "<p>Il <strong>Domaine Billaud-Simon</strong> è una delle tenute storiche di Chablis, fondata all’inizio del XIX secolo e con vigneti in diversi premier e grand cru della denominazione. Nel 2014 è stata acquisita dalla maison Faiveley, di Nuits-Saint-Georges, che ha mantenuto lo stile della tenuta: Chardonnay puro e teso, prodotto soprattutto in acciaio, con il legno riservato ad alcuni vini e sempre discreto.</p><p>Come ogni Chablis, si produce con <strong>Chardonnay</strong>, che in questo vigneto settentrionale, su marne e calcari kimmeridgiani ricchi di fossili di piccole ostriche, dà vini di acidità viva, frutto agrumato e un carattere sapido spesso definito minerale.</p><p><strong>Montée de Tonnerre</strong> si trova sulla riva destra del Serein, separato dai grand cru solo da una piccola valletta, ed è generalmente considerato uno dei premier cru più vicini a essi per qualità; da qui l’espressione «grand premier cru» che compare nel nome commerciale di questo vino. Dà Chablis di grande tensione e profondità, con un marcato carattere sapido. Ha un passaggio in legno e una gradazione di 12,5% vol. Ha bisogno di qualche anno di bottiglia per mostrare tutta la sua complessità.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Amarillo pálido con reflejos verdosos. Aromas de limón, manzana verde, flores blancas y notas de piedra mojada y yodo. En boca es tenso y salino, con acidez viva y final largo.",
+    "en": "Pale yellow with green glints. Aromas of lemon, green apple, white flowers and notes of wet stone and iodine. Taut and saline on the palate, with lively acidity and a long finish.",
+    "fr": "Jaune pâle aux reflets verts. Arômes de citron, de pomme verte, de fleurs blanches et notes de pierre mouillée et d’iode. En bouche, il est tendu et salin, à l’acidité vive et à la finale longue.",
+    "it": "Giallo tenue con riflessi verdolini. Aromi di limone, mela verde, fiori bianchi e note di pietra bagnata e iodio. In bocca è teso e sapido, con acidità viva e finale lungo."
+  },
   "pairing": {
-    "es": "Pescados, mariscos, arroces, quesos frescos",
-    "en": "Fish, shellfish, rice dishes, fresh cheeses",
-    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
-    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+    "es": "Ostras, marisco, pescado blanco a la mantequilla, quesos de cabra",
+    "en": "Oysters, shellfish, white fish in butter, goat’s cheeses",
+    "fr": "Huîtres, fruits de mer, poisson blanc au beurre, fromages de chèvre",
+    "it": "Ostriche, frutti di mare, pesce bianco al burro, formaggi di capra"
   },
   "serve": {
-    "es": "8-11 °C, copa de vino blanco",
-    "en": "8-11 °C, white wine glass",
-    "fr": "8-11 °C, verre à vin blanc",
-    "it": "8-11 °C, calice da vino bianco"
+    "es": "10-12 °C, copa de vino blanco",
+    "en": "10-12 °C, white wine glass",
+    "fr": "10-12 °C, verre à vin blanc",
+    "it": "10-12 °C, calice da vino bianco"
   },
   "search": "Billaud-Simon Chablis Grand 1er Cru Montée Tonnerre Billaud-Simon",
-  "brief": true,
   "source": "decantalo"
 }

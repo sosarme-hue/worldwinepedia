@@ -8,33 +8,39 @@
   "appellation": "DO Rías Baixas",
   "type": "blanco",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "albarino"
+  ],
   "summary": {
-    "es": "Albamar O Pereiro es un vino blanco de Albamar, con la denominación DO Rías Baixas, en España.",
-    "en": "Albamar O Pereiro is a white wine from Albamar, made under the DO Rías Baixas appellation in Spain.",
-    "fr": "Albamar O Pereiro est un vin blanc de Albamar, élaboré sous l’appellation DO Rías Baixas (Espagne).",
-    "it": "Albamar O Pereiro è un vino bianco di Albamar, prodotto nella denominazione DO Rías Baixas (Spagna)."
+    "es": "Albariño de Albamar, la bodega de Xurxo Alba en Cambados, que con O Pereiro ofrece una de sus interpretaciones de parcela del Val do Salnés.",
+    "en": "Albariño from Albamar, Xurxo Alba's winery in Cambados, whose O Pereiro is one of its plot-focused expressions of the Val do Salnés.",
+    "fr": "Albariño d'Albamar, la bodega de Xurxo Alba à Cambados, dont O Pereiro est l'une des interprétations parcellaires du Val do Salnés.",
+    "it": "Albariño di Albamar, la cantina di Xurxo Alba a Cambados, il cui O Pereiro è una delle interpretazioni di parcella del Val do Salnés."
   },
   "body": {
-    "es": "<p>Se cría sobre sus lías. Su graduación es de 12,5 % vol.</p><p>Rías Baixas, en el suroeste de Galicia, es una denominación de origen reconocida en 1988 y dedicada sobre todo a los blancos de Albariño. Su clima atlántico y sus suelos graníticos dan vinos frescos y aromáticos.</p>",
-    "en": "<p>It is aged on its lees. It has 12.5% ABV.</p><p>Rías Baixas, in south-western Galicia, is a designation of origin recognised in 1988 and devoted mainly to Albariño whites. Its Atlantic climate and granite soils produce fresh, aromatic wines.</p>",
-    "fr": "<p>Il est élevé sur lies. Il titre 12,5 % vol.</p><p>Rías Baixas, dans le sud-ouest de la Galice, est une dénomination d'origine reconnue en 1988 et consacrée surtout aux blancs d'albariño. Son climat atlantique et ses sols granitiques donnent des vins frais et aromatiques.</p>",
-    "it": "<p>Affina sulle fecce fini. Ha 12,5% vol.</p><p>Rías Baixas, nel sud-ovest della Galizia, è una denominazione di origine riconosciuta nel 1988 e dedicata soprattutto ai bianchi di Albariño. Il clima atlantico e i suoli granitici danno vini freschi e aromatici.</p>"
+    "es": "<p><strong>Albamar</strong> es la bodega familiar de <strong>Xurxo Alba</strong> en Cambados, en el Val do Salnés, la subzona más fresca y atlántica de la DO Rías Baixas. Alba pertenece a una nueva generación de elaboradores gallegos que buscan Albariños de intervención mínima, que expresen el suelo y la parcela más que la fruta exuberante, y elabora también algunos tintos de variedades atlánticas.</p><p>En el Salnés, la cercanía del océano, las lluvias abundantes y los suelos de granito descompuesto dan Albariños de acidez muy viva y marcado carácter salino. La viña se conduce tradicionalmente en emparrado alto para proteger la uva de la humedad.</p><p><strong>O Pereiro</strong> forma parte de los blancos de Albamar elaborados con <strong>Albariño</strong> de viñedos concretos, en un estilo que prioriza la tensión, la sapidez y la capacidad de evolución en botella frente a la fruta inmediata. Con unos 12,5 % vol., es un blanco de graduación contenida, que gana complejidad con algún año de reposo.</p>",
+    "en": "<p><strong>Albamar</strong> is <strong>Xurxo Alba</strong>'s family winery in Cambados, in the Val do Salnés, the coolest and most Atlantic subzone of DO Rías Baixas. Alba belongs to a new generation of Galician winemakers seeking low-intervention Albariños that express soil and plot rather than exuberant fruit, and he also makes a few reds from Atlantic varieties.</p><p>In the Salnés, the proximity of the ocean, abundant rainfall and decomposed granite soils give Albariños with very lively acidity and a marked saline character. Vines are traditionally trained on high pergolas to protect the grapes from humidity.</p><p><strong>O Pereiro</strong> is one of Albamar's whites made from <strong>Albariño</strong> from specific vineyards, in a style that favours tension, savouriness and the ability to develop in bottle over immediate fruit. At around 12.5% ABV, it is a white of moderate alcohol that gains complexity with a year or so of bottle age.</p>",
+    "fr": "<p><strong>Albamar</strong> est la bodega familiale de <strong>Xurxo Alba</strong> à Cambados, dans le Val do Salnés, la sous-zone la plus fraîche et la plus atlantique de la DO Rías Baixas. Alba appartient à une nouvelle génération de vignerons galiciens qui recherchent des albariños à intervention minimale, exprimant le sol et la parcelle plus que le fruit exubérant, et il élabore aussi quelques rouges de cépages atlantiques.</p><p>Dans le Salnés, la proximité de l'océan, les pluies abondantes et les sols de granit décomposé donnent des albariños à l'acidité très vive et au caractère salin marqué. La vigne est traditionnellement conduite en hautes pergolas pour protéger le raisin de l'humidité.</p><p><strong>O Pereiro</strong> fait partie des blancs d'Albamar élaborés avec de l'<strong>albariño</strong> de vignes précises, dans un style qui privilégie la tension, la sapidité et l'aptitude à évoluer en bouteille plutôt que le fruit immédiat. D'environ 12,5 % vol., c'est un blanc au degré modéré, qui gagne en complexité après un an ou deux de repos.</p>",
+    "it": "<p><strong>Albamar</strong> è la cantina familiare di <strong>Xurxo Alba</strong> a Cambados, nel Val do Salnés, la sottozona più fresca e atlantica della DO Rías Baixas. Alba appartiene a una nuova generazione di produttori galiziani che cercano Albariño a intervento minimo, capaci di esprimere suolo e parcella più che frutto esuberante, e produce anche alcuni rossi da vitigni atlantici.</p><p>Nel Salnés la vicinanza dell'oceano, le piogge abbondanti e i suoli di granito decomposto danno Albariño di acidità molto vivace e marcato carattere sapido. La vite è tradizionalmente allevata a pergola alta per proteggere l'uva dall'umidità.</p><p><strong>O Pereiro</strong> fa parte dei bianchi di Albamar prodotti con <strong>Albariño</strong> di vigneti specifici, in uno stile che privilegia tensione, sapidità e capacità di evolvere in bottiglia rispetto al frutto immediato. Con circa 12.5% vol., è un bianco di gradazione contenuta, che guadagna complessità con qualche anno di riposo.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Amarillo pálido con reflejos verdosos. Aromas de cítricos, fruta blanca, hierbas y notas salinas y minerales. Boca tensa y fresca, de acidez viva y final largo y salino.",
+    "en": "Pale yellow with green glints. Aromas of citrus, white fruit, herbs and saline, mineral notes. Taut, fresh palate with lively acidity and a long, saline finish.",
+    "fr": "Jaune pâle à reflets verts. Arômes d'agrumes, de fruits blancs, d'herbes et notes salines et minérales. Bouche tendue et fraîche, à l'acidité vive et à la finale longue et saline.",
+    "it": "Giallo paglierino con riflessi verdolini. Aromi di agrumi, frutta bianca, erbe e note sapide e minerali. Bocca tesa e fresca, acidità vivace e finale lungo e sapido."
+  },
   "pairing": {
-    "es": "Pescados, mariscos, arroces, quesos frescos",
-    "en": "Fish, shellfish, rice dishes, fresh cheeses",
-    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
-    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+    "es": "Marisco, pescados a la plancha, pulpo, ostras, cocina japonesa",
+    "en": "Shellfish, grilled fish, octopus, oysters, Japanese cuisine",
+    "fr": "Fruits de mer, poissons à la plancha, poulpe, huîtres, cuisine japonaise",
+    "it": "Frutti di mare, pesce alla piastra, polpo, ostriche, cucina giapponese"
   },
   "serve": {
-    "es": "8-11 °C, copa de vino blanco",
-    "en": "8-11 °C, white wine glass",
-    "fr": "8-11 °C, verre à vin blanc",
-    "it": "8-11 °C, calice da vino bianco"
+    "es": "9-11 °C, copa de vino blanco",
+    "en": "9-11 °C, white wine glass",
+    "fr": "9-11 °C, verre à vin blanc",
+    "it": "9-11 °C, calice da bianco"
   },
   "search": "Albamar O Pereiro Albamar",
-  "brief": true,
   "source": "decantalo"
 }

@@ -6,35 +6,46 @@
   "region": "madeira",
   "country": "portugal",
   "appellation": "DOP Madeira",
-  "type": "blanco",
-  "category": null,
-  "grapes": [],
+  "type": "generoso",
+  "category": {
+    "es": "20 años",
+    "en": "20 Years Old",
+    "fr": "20 ans",
+    "it": "20 anni"
+  },
+  "grapes": [
+    "verdelho"
+  ],
   "summary": {
-    "es": "Barbeito 20 Years Old Verdelho Ribeiro Real Ed. 2 es un vino blanco de Vinhos Barbeito, con la denominación DOP Madeira, en Portugal.",
-    "en": "Barbeito 20 Years Old Verdelho Ribeiro Real Ed. 2 is a white wine from Vinhos Barbeito, made under the DOP Madeira appellation in Portugal.",
-    "fr": "Barbeito 20 Years Old Verdelho Ribeiro Real Ed. 2 est un vin blanc de Vinhos Barbeito, élaboré sous l’appellation DOP Madeira (Portugal).",
-    "it": "Barbeito 20 Years Old Verdelho Ribeiro Real Ed. 2 è un vino bianco di Vinhos Barbeito, prodotto nella denominazione DOP Madeira (Portogallo)."
+    "es": "Madeira de Verdelho con indicación de edad de 20 años, de la serie Ribeiro Real de Barbeito; un vino generoso semiseco de gran acidez y complejidad oxidativa.",
+    "en": "Verdelho Madeira with a 20-year age indication, from Barbeito’s Ribeiro Real series; a medium-dry fortified wine of high acidity and oxidative complexity.",
+    "fr": "Madère de verdelho avec indication d’âge de 20 ans, de la série Ribeiro Real de Barbeito ; un vin muté demi-sec, d’une grande acidité et d’une complexité oxydative.",
+    "it": "Madeira di Verdelho con indicazione d’età di 20 anni, della serie Ribeiro Real di Barbeito; un vino fortificato semisecco di grande acidità e complessità ossidativa."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 19,5 % vol.</p><p>Pequeña casa de Madeira fundada en 1946 por Mário Barbeito de Vasconcelos, conocida por un estilo de Madeira preciso y fresco, elaborado sin añadir caramelo.</p><p>La isla atlántica de Madeira produce un vino generoso único, envejecido por oxidación y con calor, que va del seco al dulce y es famoso por su acidez vibrante y su extraordinaria longevidad.</p>",
-    "en": "<p>It is aged in wood. It has 19.5% ABV.</p><p>Small Madeira house founded in 1946 by Mário Barbeito de Vasconcelos, known for a precise, fresh style of Madeira made without added caramel.</p><p>The Atlantic island of Madeira produces a unique fortified wine, aged oxidatively with heat, ranging from dry to sweet and famous for its vibrant acidity and extraordinary longevity.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 19,5 % vol.</p><p>Petite maison de madère fondée en 1946 par Mário Barbeito de Vasconcelos, connue pour un style de madère précis et frais, élaboré sans ajout de caramel.</p><p>L’île atlantique de Madère produit un vin muté unique, vieilli par oxydation et sous l’effet de la chaleur, qui va du sec au doux et qui est célèbre pour son acidité vibrante et son extraordinaire longévité.</p>",
-    "it": "<p>È affinato in legno. Ha 19,5% vol.</p><p>Piccola casa di Madeira fondata nel 1946 da Mário Barbeito de Vasconcelos, nota per uno stile di Madeira preciso e fresco, prodotto senza aggiunta di caramello.</p><p>L’isola atlantica di Madeira produce un vino fortificato unico, invecchiato per ossidazione e con il calore, che va dal secco al dolce ed è famoso per la sua acidità vibrante e la straordinaria longevità.</p>"
+    "es": "<p><strong>Vinhos Barbeito</strong> es una pequeña casa de Madeira fundada en 1946 por Mário Barbeito de Vasconcelos y dirigida hoy por su nieto, Ricardo Diogo Freitas. Es conocida por un estilo de Madeira preciso y fresco, que prioriza la acidez y la pureza de cada variedad y renuncia al caramelo para corregir el color.</p><p>Este vino pertenece a la serie <strong>Ribeiro Real</strong>, de la que es la segunda edición. Se elabora con <strong>Verdelho</strong>, una de las variedades nobles de la isla, que tradicionalmente da Madeiras de estilo semiseco, entre la sequedad del Sercial y la riqueza del Boal. Como todo Madeira, el mosto se encabeza con aguardiente vínico para detener la fermentación y el vino envejece después durante muchos años en barricas, en un ambiente cálido que favorece una oxidación lenta.</p><p>La indicación «20 Years Old» significa que el vino, resultado de un ensamblaje de distintas cosechas, presenta las características de un Madeira de esa edad media. Su graduación es de 19,5 % vol. La larga crianza concentra los aromas y conserva la acidez vibrante propia de la isla, de modo que el dulzor queda equilibrado por una frescura notable. Una vez abierto, aguanta bien durante mucho tiempo.</p>",
+    "en": "<p><strong>Vinhos Barbeito</strong> is a small Madeira house founded in 1946 by Mário Barbeito de Vasconcelos and now run by his grandson, Ricardo Diogo Freitas. It is known for a precise, fresh style of Madeira that prioritises acidity and the purity of each variety, and does without caramel to adjust colour.</p><p>This wine belongs to the <strong>Ribeiro Real</strong> series, of which it is the second edition. It is made from <strong>Verdelho</strong>, one of the island’s noble varieties, which traditionally gives medium-dry Madeiras, between the dryness of Sercial and the richness of Boal. Like all Madeira, the must is fortified with grape spirit to stop fermentation, and the wine then ages for many years in casks, in a warm environment that encourages slow oxidation.</p><p>The “20 Years Old” indication means that the wine, a blend of different vintages, shows the characteristics of a Madeira of that average age. It has 19.5% ABV. Long ageing concentrates the aromas while preserving the island’s vibrant acidity, so that sweetness is balanced by remarkable freshness. Once opened, it keeps well for a long time.</p>",
+    "fr": "<p><strong>Vinhos Barbeito</strong> est une petite maison de Madère fondée en 1946 par Mário Barbeito de Vasconcelos et dirigée aujourd’hui par son petit-fils, Ricardo Diogo Freitas. Elle est connue pour un style de madère précis et frais, qui privilégie l’acidité et la pureté de chaque cépage et renonce au caramel pour corriger la couleur.</p><p>Ce vin appartient à la série <strong>Ribeiro Real</strong>, dont il est la deuxième édition. Il est élaboré avec du <strong>verdelho</strong>, l’un des cépages nobles de l’île, qui donne traditionnellement des madères de style demi-sec, entre la sécheresse du sercial et la richesse du boal. Comme tout madère, le moût est muté à l’eau-de-vie de vin pour arrêter la fermentation, puis le vin vieillit de longues années en fûts, dans une ambiance chaude qui favorise une oxydation lente.</p><p>L’indication « 20 Years Old » signifie que le vin, assemblage de différents millésimes, présente les caractéristiques d’un madère de cet âge moyen. Il titre 19,5 % vol. Le long vieillissement concentre les arômes tout en préservant l’acidité vibrante propre à l’île, si bien que la douceur est équilibrée par une fraîcheur remarquable. Une fois ouvert, il se conserve longtemps.</p>",
+    "it": "<p><strong>Vinhos Barbeito</strong> è una piccola casa di Madeira fondata nel 1946 da Mário Barbeito de Vasconcelos e oggi diretta dal nipote, Ricardo Diogo Freitas. È nota per uno stile di Madeira preciso e fresco, che privilegia l’acidità e la purezza di ogni varietà e rinuncia al caramello per correggere il colore.</p><p>Questo vino appartiene alla serie <strong>Ribeiro Real</strong>, di cui è la seconda edizione. Si produce con <strong>Verdelho</strong>, una delle varietà nobili dell’isola, che tradizionalmente dà Madeira di stile semisecco, tra la secchezza del Sercial e la ricchezza del Boal. Come ogni Madeira, il mosto viene fortificato con acquavite di vino per fermare la fermentazione, e il vino invecchia poi per molti anni in botti, in un ambiente caldo che favorisce un’ossidazione lenta.</p><p>L’indicazione «20 Years Old» significa che il vino, frutto di un assemblaggio di diverse annate, presenta le caratteristiche di un Madeira di quell’età media. Ha una gradazione di 19,5% vol. Il lungo invecchiamento concentra gli aromi preservando l’acidità vibrante tipica dell’isola, così che la dolcezza è bilanciata da una freschezza notevole. Una volta aperto, si conserva a lungo.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Ámbar con reflejos verdosos. Aromas de frutos secos, naranja confitada, caramelo, especias y notas yodadas. En boca es semiseco, intenso y muy fresco, con un final larguísimo.",
+    "en": "Amber with greenish glints. Aromas of nuts, candied orange, toffee, spice and iodine notes. Medium-dry, intense and very fresh on the palate, with a very long finish.",
+    "fr": "Ambré aux reflets verdâtres. Arômes de fruits secs, d’orange confite, de caramel, d’épices et notes iodées. En bouche, il est demi-sec, intense et très frais, à la finale très longue.",
+    "it": "Ambra con riflessi verdognoli. Aromi di frutta secca, arancia candita, caramello, spezie e note iodate. In bocca è semisecco, intenso e molto fresco, con finale lunghissimo."
+  },
   "pairing": {
-    "es": "Pescados, mariscos, arroces, quesos frescos",
-    "en": "Fish, shellfish, rice dishes, fresh cheeses",
-    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
-    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+    "es": "Consomés, foie gras, quesos curados, frutos secos, postres de nueces o chocolate",
+    "en": "Consommés, foie gras, aged cheeses, nuts, walnut or chocolate desserts",
+    "fr": "Consommés, foie gras, fromages affinés, fruits secs, desserts aux noix ou au chocolat",
+    "it": "Consommé, foie gras, formaggi stagionati, frutta secca, dolci alle noci o al cioccolato"
   },
   "serve": {
-    "es": "8-11 °C, copa de vino blanco",
-    "en": "8-11 °C, white wine glass",
-    "fr": "8-11 °C, verre à vin blanc",
-    "it": "8-11 °C, calice da vino bianco"
+    "es": "14-16 °C, copa pequeña de vino generoso",
+    "en": "14-16 °C, small fortified wine glass",
+    "fr": "14-16 °C, petit verre à vin muté",
+    "it": "14-16 °C, calice piccolo da vino fortificato"
   },
   "search": "Barbeito 20 Years Old Verdelho Ribeiro Real Ed. 2 Barbeito",
-  "brief": true,
   "source": "decantalo"
 }

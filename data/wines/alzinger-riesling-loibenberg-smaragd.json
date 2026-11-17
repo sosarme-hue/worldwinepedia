@@ -7,36 +7,45 @@
   "country": "austria",
   "appellation": "Wachau",
   "type": "blanco",
-  "category": null,
+  "category": {
+    "es": "Smaragd",
+    "en": "Smaragd",
+    "fr": "Smaragd",
+    "it": "Smaragd"
+  },
   "grapes": [
     "riesling"
   ],
   "summary": {
-    "es": "Alzinger Riesling Loibenberg Smaragd es un vino blanco de Weingut Alzinger, con la denominación Wachau, en Austria.",
-    "en": "Alzinger Riesling Loibenberg Smaragd is a white wine from Weingut Alzinger, made under the Wachau appellation in Austria.",
-    "fr": "Alzinger Riesling Loibenberg Smaragd est un vin blanc de Weingut Alzinger, élaboré sous l’appellation Wachau (Autriche).",
-    "it": "Alzinger Riesling Loibenberg Smaragd è un vino bianco di Weingut Alzinger, prodotto nella denominazione Wachau (Austria)."
+    "es": "Riesling seco de categoría Smaragd del viñedo Loibenberg, elaborado por Weingut Alzinger en Unterloiben, en la Wachau.",
+    "en": "Dry Smaragd-category Riesling from the Loibenberg vineyard, made by Weingut Alzinger in Unterloiben, in the Wachau.",
+    "fr": "Riesling sec de catégorie Smaragd du vignoble Loibenberg, élaboré par Weingut Alzinger à Unterloiben, dans la Wachau.",
+    "it": "Riesling secco di categoria Smaragd del vigneto Loibenberg, prodotto da Weingut Alzinger a Unterloiben, nella Wachau."
   },
   "body": {
-    "es": "<p>Se elabora con Riesling. Su graduación es de 13,5 % vol.</p><p>La Wachau es un estrecho tramo del valle del Danubio entre Melk y Krems, con viñedos en terrazas de piedra seca sobre roca primaria. Es la región más célebre de Austria por sus Grüner Veltliner y Riesling secos.</p>",
-    "en": "<p>It is made from Riesling. It has 13.5% ABV.</p><p>The Wachau is a narrow stretch of the Danube valley between Melk and Krems, with vineyards on dry-stone terraces over primary rock. It is Austria’s most famous region for dry Grüner Veltliner and Riesling.</p>",
-    "fr": "<p>Il est élaboré à partir de Riesling. Il titre 13,5 % vol.</p><p>La Wachau est un étroit tronçon de la vallée du Danube entre Melk et Krems, avec des vignes en terrasses de pierre sèche sur roche primaire. C’est la région autrichienne la plus célèbre pour ses grüner veltliner et rieslings secs.</p>",
-    "it": "<p>È prodotto con Riesling Renano. Ha 13,5% vol.</p><p>La Wachau è uno stretto tratto della valle del Danubio tra Melk e Krems, con vigneti su terrazze in pietra a secco sulla roccia primaria. È la regione più celebre dell’Austria per i Grüner Veltliner e i Riesling secchi.</p>"
+    "es": "<p><strong>Weingut Alzinger</strong> es una bodega familiar de Unterloiben, en la Wachau, el estrecho valle del Danubio aguas arriba de Krems donde los viñedos ocupan terrazas de piedra seca en laderas muy pendientes. Dirigida por Leo Alzinger, padre e hijo del mismo nombre, se especializa en Grüner Veltliner y Riesling de viñedos singulares, en un estilo preciso y de gran pureza.</p><p>El <strong>Loibenberg</strong> es una de las grandes laderas de la Wachau, orientada al sur sobre Unterloiben, con suelos de gneis cubiertos en parte por loess y un clima en el que el calor diurno se combina con las corrientes de aire frío que bajan del bosque del norte. La categoría <strong>Smaragd</strong>, definida por la asociación Vinea Wachau, corresponde a los vinos secos de mayor madurez, procedentes de vendimias tardías.</p><p>El <strong>Riesling</strong> encuentra en las terrazas más pobres y rocosas de la Wachau algunas de sus mejores expresiones secas. En el Loibenberg da un blanco de unos 13,5 % vol., con fruta de hueso, cítricos, un marcado carácter mineral y una acidez que le permite envejecer durante muchos años.</p>",
+    "en": "<p><strong>Weingut Alzinger</strong> is a family estate in Unterloiben, in the Wachau, the narrow Danube valley upstream from Krems where vineyards occupy dry-stone terraces on very steep slopes. Run by Leo Alzinger, father and son of the same name, it specialises in single-vineyard Grüner Veltliner and Riesling in a precise, very pure style.</p><p><strong>Loibenberg</strong> is one of the great slopes of the Wachau, facing south above Unterloiben, with gneiss soils partly covered by loess and a climate in which daytime heat combines with cool air currents descending from the forest to the north. The <strong>Smaragd</strong> category, defined by the Vinea Wachau association, applies to the ripest dry wines, from late harvests.</p><p><strong>Riesling</strong> finds some of its finest dry expressions on the poorest, rockiest terraces of the Wachau. On the Loibenberg it gives a white of around 13.5% ABV, with stone fruit, citrus, a marked mineral character and an acidity that allows it to age for many years.</p>",
+    "fr": "<p><strong>Weingut Alzinger</strong> est un domaine familial d'Unterloiben, dans la Wachau, l'étroite vallée du Danube en amont de Krems où les vignes occupent des terrasses en pierre sèche sur des pentes très raides. Dirigé par Leo Alzinger, père et fils du même prénom, il est spécialisé dans le grüner veltliner et le riesling de vignobles singuliers, dans un style précis et d'une grande pureté.</p><p>Le <strong>Loibenberg</strong> est l'un des grands coteaux de la Wachau, exposé au sud au-dessus d'Unterloiben, aux sols de gneiss en partie recouverts de lœss, sous un climat où la chaleur diurne se combine aux courants d'air frais descendant de la forêt au nord. La catégorie <strong>Smaragd</strong>, définie par l'association Vinea Wachau, désigne les vins secs les plus mûrs, issus de vendanges tardives.</p><p>Le <strong>riesling</strong> trouve sur les terrasses les plus pauvres et rocheuses de la Wachau certaines de ses plus belles expressions sèches. Sur le Loibenberg, il donne un blanc d'environ 13,5 % vol., aux fruits à noyau, aux agrumes, au caractère minéral marqué et à l'acidité qui lui permet de vieillir de nombreuses années.</p>",
+    "it": "<p><strong>Weingut Alzinger</strong> è un'azienda familiare di Unterloiben, nella Wachau, la stretta valle del Danubio a monte di Krems dove i vigneti occupano terrazze a secco su pendii molto ripidi. Guidata da Leo Alzinger, padre e figlio omonimi, è specializzata in Grüner Veltliner e Riesling da vigneti singoli, in uno stile preciso e di grande purezza.</p><p>Il <strong>Loibenberg</strong> è uno dei grandi pendii della Wachau, esposto a sud sopra Unterloiben, con suoli di gneiss in parte coperti da loess e un clima in cui il caldo diurno si combina con le correnti d'aria fresca che scendono dalla foresta a nord. La categoria <strong>Smaragd</strong>, definita dall'associazione Vinea Wachau, riguarda i vini secchi di maggiore maturità, da vendemmie tardive.</p><p>Il <strong>Riesling</strong> trova sulle terrazze più povere e rocciose della Wachau alcune delle sue migliori espressioni secche. Sul Loibenberg dà un bianco di circa 13,5% vol., con frutta a nocciolo, agrumi, un marcato carattere minerale e un'acidità che gli permette di invecchiare per molti anni.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Amarillo pálido. Aromas de melocotón, albaricoque, cítricos, flores blancas y notas minerales. Boca tensa y profunda, de acidez vibrante y final muy largo.",
+    "en": "Pale yellow. Aromas of peach, apricot, citrus, white flowers and mineral notes. Taut, deep palate with vibrant acidity and a very long finish.",
+    "fr": "Jaune pâle. Arômes de pêche, d'abricot, d'agrumes, de fleurs blanches et notes minérales. Bouche tendue et profonde, à l'acidité vibrante et à la finale très longue.",
+    "it": "Giallo paglierino. Aromi di pesca, albicocca, agrumi, fiori bianchi e note minerali. Bocca tesa e profonda, acidità vibrante e finale molto lungo."
+  },
   "pairing": {
-    "es": "Pescados, mariscos, arroces, quesos frescos",
-    "en": "Fish, shellfish, rice dishes, fresh cheeses",
-    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
-    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+    "es": "Pescados en salsa, cocina asiática, ternera, aves, quesos semicurados",
+    "en": "Fish in sauce, Asian cuisine, veal, poultry, semi-hard cheeses",
+    "fr": "Poissons en sauce, cuisine asiatique, veau, volailles, fromages mi-affinés",
+    "it": "Pesce in salsa, cucina asiatica, vitello, pollame, formaggi semistagionati"
   },
   "serve": {
-    "es": "8-11 °C, copa de vino blanco",
-    "en": "8-11 °C, white wine glass",
-    "fr": "8-11 °C, verre à vin blanc",
-    "it": "8-11 °C, calice da vino bianco"
+    "es": "10-12 °C, copa de vino blanco",
+    "en": "10-12 °C, white wine glass",
+    "fr": "10-12 °C, verre à vin blanc",
+    "it": "10-12 °C, calice da bianco"
   },
   "search": "Alzinger Riesling Loibenberg Smaragd Weingut Alzinger",
-  "brief": true,
   "source": "decantalo"
 }

@@ -7,36 +7,45 @@
   "country": "francia",
   "appellation": "AOC Volnay 1er Cru / Côte-d'Or",
   "type": "tinto",
-  "category": null,
+  "category": {
+    "es": "Premier Cru",
+    "en": "Premier Cru",
+    "fr": "Premier Cru",
+    "it": "Premier Cru"
+  },
   "grapes": [
     "pinot-noir"
   ],
   "summary": {
-    "es": "Camille & Guillaume Boillot Volnay 1er Cru \"Champans” es un vino tinto de Domaine Camille & Guillaume Boillot, con la denominación AOC Volnay 1er Cru / Côte-d'Or, en Francia.",
-    "en": "Camille & Guillaume Boillot Volnay 1er Cru \"Champans” is a red wine from Domaine Camille & Guillaume Boillot, made under the AOC Volnay 1er Cru / Côte-d'Or appellation in France.",
-    "fr": "Camille & Guillaume Boillot Volnay 1er Cru \"Champans” est un vin rouge de Domaine Camille & Guillaume Boillot, élaboré sous l’appellation AOC Volnay 1er Cru / Côte-d'Or (France).",
-    "it": "Camille & Guillaume Boillot Volnay 1er Cru \"Champans” è un vino rosso di Domaine Camille & Guillaume Boillot, prodotto nella denominazione AOC Volnay 1er Cru / Côte-d'Or (Francia)."
+    "es": "Volnay Premier Cru del climat Champans, un Pinot Noir de la Côte de Beaune elaborado por el Domaine Camille & Guillaume Boillot con crianza en barrica.",
+    "en": "Volnay Premier Cru from the Champans climat, a Côte de Beaune Pinot Noir made by Domaine Camille & Guillaume Boillot and aged in barrel.",
+    "fr": "Volnay premier cru du climat Champans, un pinot noir de la Côte de Beaune élaboré par le Domaine Camille & Guillaume Boillot et élevé en barrique.",
+    "it": "Volnay Premier Cru del climat Champans, un Pinot Noir della Côte de Beaune prodotto dal Domaine Camille & Guillaume Boillot e affinato in barrique."
   },
   "body": {
-    "es": "<p>Se elabora con Pinot Noir. Tiene crianza en madera. Su graduación es de 13,5 % vol.</p>",
-    "en": "<p>It is made from Pinot Noir. It is aged in wood. It has 13.5% ABV.</p>",
-    "fr": "<p>Il est élaboré à partir de Pinot Noir. Il est élevé en bois. Il titre 13,5 % vol.</p>",
-    "it": "<p>È prodotto con Pinot Nero. È affinato in legno. Ha 13,5% vol.</p>"
+    "es": "<p>El <strong>Domaine Camille & Guillaume Boillot</strong> es un domaine de la Côte de Beaune que lleva el nombre de Camille y Guillaume Boillot, apellido muy ligado a la viticultura de esta parte de Borgoña. Elabora una gama de vinos de distintas denominaciones de la Côte d’Or, desde borgoñas regionales hasta premiers y grands crus, con viñedos trabajados de forma cuidadosa y vinificaciones que buscan reflejar el carácter de cada parcela.</p><p><strong>Volnay</strong>, al sur de Pommard, es una denominación de tintos de <strong>Pinot Noir</strong> famosa por su finura y su perfume, gracias a suelos calcáreos más ligeros que los de su vecino. <strong>Champans</strong> es uno de sus premiers crus más conocidos, situado a media ladera, que suele dar vinos con algo más de cuerpo y estructura dentro de la elegancia propia del pueblo.</p><p>El vino se elabora con Pinot Noir y se cría en barrica. Es un tinto aromático y sedoso, de fruta roja y notas florales, con un tanino fino y buena capacidad de guarda.</p>",
+    "en": "<p><strong>Domaine Camille & Guillaume Boillot</strong> is a Côte de Beaune domaine bearing the names of Camille and Guillaume Boillot, a surname closely tied to winegrowing in this part of Burgundy. It makes a range of wines from different Côte d’Or appellations, from regional Bourgognes to premiers and grands crus, from carefully tended vineyards and with winemaking that seeks to reflect the character of each plot.</p><p><strong>Volnay</strong>, south of Pommard, is an appellation for <strong>Pinot Noir</strong> reds famous for their finesse and perfume, thanks to lighter limestone soils than its neighbour’s. <strong>Champans</strong> is one of its best-known premiers crus, located mid-slope, which tends to give wines with a little more body and structure within the elegance typical of the village.</p><p>The wine is made from Pinot Noir and aged in barrel. It is an aromatic, silky red with red fruit and floral notes, fine tannins and good ageing potential.</p>",
+    "fr": "<p>Le <strong>Domaine Camille & Guillaume Boillot</strong> est un domaine de la Côte de Beaune qui porte le nom de Camille et Guillaume Boillot, patronyme étroitement lié à la viticulture de cette partie de la Bourgogne. Il élabore une gamme de vins de différentes appellations de la Côte-d’Or, des bourgognes régionaux aux premiers et grands crus, à partir de vignes soigneusement conduites et avec des vinifications qui cherchent à refléter le caractère de chaque parcelle.</p><p><strong>Volnay</strong>, au sud de Pommard, est une appellation de rouges de <strong>pinot noir</strong> célèbre pour sa finesse et son parfum, grâce à des sols calcaires plus légers que ceux de son voisin. <strong>Champans</strong> est l’un de ses premiers crus les plus connus, situé à mi-coteau, qui donne souvent des vins un peu plus corsés et structurés dans l’élégance propre au village.</p><p>Le vin est élaboré avec du pinot noir et élevé en barrique. C’est un rouge aromatique et soyeux, aux fruits rouges et aux notes florales, au tanin fin et au bon potentiel de garde.</p>",
+    "it": "<p>Il <strong>Domaine Camille & Guillaume Boillot</strong> è un domaine della Côte de Beaune che porta il nome di Camille e Guillaume Boillot, cognome strettamente legato alla viticoltura di questa parte della Borgogna. Produce una gamma di vini di diverse denominazioni della Côte d’Or, dai Bourgogne regionali ai premier e grand cru, da vigneti curati con attenzione e con vinificazioni che cercano di riflettere il carattere di ogni parcella.</p><p><strong>Volnay</strong>, a sud di Pommard, è una denominazione di rossi di <strong>Pinot Noir</strong> famosa per finezza e profumo, grazie a suoli calcarei più leggeri di quelli del vicino. <strong>Champans</strong> è uno dei suoi premier cru più noti, situato a metà pendio, che dà spesso vini con un po’ più di corpo e struttura nell’eleganza tipica del villaggio.</p><p>Il vino è prodotto con Pinot Noir e affinato in barrique. È un rosso aromatico e setoso, di frutto rosso e note floreali, con tannino fine e buona capacità di invecchiamento.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Frambuesa, cereza, violeta y rosa, con notas especiadas. En boca es sedoso y elegante, con acidez fresca, tanino fino y final persistente.",
+    "en": "Raspberry, cherry, violet and rose, with spicy notes. Silky and elegant on the palate, with fresh acidity, fine tannins and a persistent finish.",
+    "fr": "Framboise, cerise, violette et rose, avec des notes épicées. Bouche soyeuse et élégante, à l’acidité fraîche, au tanin fin et à la finale persistante.",
+    "it": "Lampone, ciliegia, viola e rosa, con note speziate. In bocca è setoso ed elegante, con acidità fresca, tannino fine e finale persistente."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Aves asadas, pato, ternera, setas, quesos de pasta blanda",
+    "en": "Roast poultry, duck, veal, mushrooms, soft cheeses",
+    "fr": "Volailles rôties, canard, veau, champignons, fromages à pâte molle",
+    "it": "Pollame arrosto, anatra, vitello, funghi, formaggi a pasta molle"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "14-16 °C, copa tipo borgoña",
+    "en": "14-16 °C, Burgundy glass",
+    "fr": "14-16 °C, verre de type bourgogne",
+    "it": "14-16 °C, calice tipo borgogna"
   },
   "search": "Camille & Guillaume Boillot Volnay 1er Cru \"Champans” Domaine Camille & Guillaume Boillot",
-  "brief": true,
   "source": "decantalo"
 }

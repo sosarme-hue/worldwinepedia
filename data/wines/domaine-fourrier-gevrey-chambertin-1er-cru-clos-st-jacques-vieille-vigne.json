@@ -7,36 +7,45 @@
   "country": "francia",
   "appellation": "AOC Gevrey-Chambertin Premier Cru / Côte-d'Or",
   "type": "tinto",
-  "category": null,
+  "category": {
+    "es": "Premier Cru",
+    "en": "Premier Cru",
+    "fr": "Premier Cru",
+    "it": "Premier Cru"
+  },
   "grapes": [
     "pinot-noir"
   ],
   "summary": {
-    "es": "Domaine Fourrier Gevrey-Chambertin 1er Cru Clos St. Jacques Vieille Vigne es un vino tinto de Domaine Fourrier, con la denominación AOC Gevrey-Chambertin Premier Cru / Côte-d'Or, en Francia.",
-    "en": "Domaine Fourrier Gevrey-Chambertin 1er Cru Clos St. Jacques Vieille Vigne is a red wine from Domaine Fourrier, made under the AOC Gevrey-Chambertin Premier Cru / Côte-d'Or appellation in France.",
-    "fr": "Domaine Fourrier Gevrey-Chambertin 1er Cru Clos St. Jacques Vieille Vigne est un vin rouge de Domaine Fourrier, élaboré sous l’appellation AOC Gevrey-Chambertin Premier Cru / Côte-d'Or (France).",
-    "it": "Domaine Fourrier Gevrey-Chambertin 1er Cru Clos St. Jacques Vieille Vigne è un vino rosso di Domaine Fourrier, prodotto nella denominazione AOC Gevrey-Chambertin Premier Cru / Côte-d'Or (Francia)."
+    "es": "Gevrey-Chambertin Premier Cru de Pinot Noir procedente del Clos Saint-Jacques, considerado uno de los mejores premiers crus de Borgoña, elaborado por el Domaine Fourrier con viñas viejas.",
+    "en": "A Gevrey-Chambertin Premier Cru from Pinot Noir sourced from the Clos Saint-Jacques, regarded as one of Burgundy's finest premiers crus, made by Domaine Fourrier from old vines.",
+    "fr": "Gevrey-Chambertin premier cru de pinot noir issu du Clos Saint-Jacques, considéré comme l'un des meilleurs premiers crus de Bourgogne, élaboré par le Domaine Fourrier à partir de vieilles vignes.",
+    "it": "Gevrey-Chambertin Premier Cru da Pinot Noir proveniente dal Clos Saint-Jacques, considerato uno dei migliori premier cru della Borgogna, prodotto dal Domaine Fourrier da vecchie vigne."
   },
   "body": {
-    "es": "<p>Se elabora con Pinot Noir. Tiene crianza en madera. Su graduación es de 13 % vol.</p>",
-    "en": "<p>It is made from Pinot Noir. It is aged in wood. It has 13% ABV.</p>",
-    "fr": "<p>Il est élaboré à partir de Pinot Noir. Il est élevé en bois. Il titre 13 % vol.</p>",
-    "it": "<p>È prodotto con Pinot Nero. È affinato in legno. Ha 13% vol.</p>"
+    "es": "<p>El <strong>Domaine Fourrier</strong> es una finca familiar de <strong>Gevrey-Chambertin</strong> que dirige <strong>Jean-Marie Fourrier</strong> desde los años noventa. Formado en parte junto a Henri Jayer, ha dado al dominio un estilo de gran pureza, con un uso moderado de la madera nueva y extracciones suaves. La casa trabaja numerosas viñas viejas, una seña de identidad que suele destacar en sus etiquetas.</p><p><strong>Gevrey-Chambertin</strong>, en el norte de la Côte de Nuits, es el pueblo con más grands crus de Borgoña y uno de los grandes nombres de la Pinot Noir, conocido por tintos estructurados y profundos.</p><p>El <strong>Clos Saint-Jacques</strong> se sitúa en la ladera de la Côte Saint-Jacques, al oeste del pueblo, con una buena exposición al sureste. Aunque está clasificado como premier cru, se considera tradicionalmente al nivel de los grands crus, y está repartido entre un pequeño número de propietarios, que tienen parcelas en franjas de arriba abajo de la ladera. El vino de Fourrier se elabora con <strong>Pinot Noir</strong> de viñas viejas y se cría en barricas. Combina la profundidad de Gevrey con una notable elegancia, y tiene una gran capacidad de guarda.</p>",
+    "en": "<p><strong>Domaine Fourrier</strong> is a family estate in <strong>Gevrey-Chambertin</strong> run by <strong>Jean-Marie Fourrier</strong> since the 1990s. Trained in part alongside Henri Jayer, he has given the domaine a style of great purity, with moderate use of new oak and gentle extraction. The house works many old vines, a hallmark it often highlights on its labels.</p><p><strong>Gevrey-Chambertin</strong>, in the north of the Côte de Nuits, is the village with the most grands crus in Burgundy and one of the great names of Pinot Noir, known for structured, deep reds.</p><p>The <strong>Clos Saint-Jacques</strong> lies on the Côte Saint-Jacques slope, west of the village, with a good south-easterly exposure. Although classified as a premier cru, it is traditionally regarded as being on a par with the grands crus, and it is divided among a small number of owners, whose plots run in strips from the top to the bottom of the slope. Fourrier's wine is made from old-vine <strong>Pinot Noir</strong> and aged in barrel. It combines Gevrey's depth with notable elegance and has great ageing potential.</p>",
+    "fr": "<p>Le <strong>Domaine Fourrier</strong> est une propriété familiale de <strong>Gevrey-Chambertin</strong> dirigée par <strong>Jean-Marie Fourrier</strong> depuis les années 1990. Formé en partie aux côtés d'Henri Jayer, il a donné au domaine un style d'une grande pureté, avec un usage mesuré du bois neuf et des extractions douces. La maison travaille de nombreuses vieilles vignes, signe distinctif qu'elle met souvent en avant sur ses étiquettes.</p><p><strong>Gevrey-Chambertin</strong>, au nord de la Côte de Nuits, est le village qui compte le plus de grands crus en Bourgogne et l'un des grands noms du pinot noir, réputé pour ses rouges structurés et profonds.</p><p>Le <strong>Clos Saint-Jacques</strong> se situe sur le coteau de la Côte Saint-Jacques, à l'ouest du village, bien exposé au sud-est. Bien que classé en premier cru, il est traditionnellement considéré comme l'égal des grands crus et se partage entre un petit nombre de propriétaires, dont les parcelles courent en bandes du haut en bas du coteau. Le vin de Fourrier est issu de <strong>pinot noir</strong> de vieilles vignes et s'élève en fûts. Il allie la profondeur de Gevrey à une élégance remarquable et possède un grand potentiel de garde.</p>",
+    "it": "<p>Il <strong>Domaine Fourrier</strong> è una tenuta familiare di <strong>Gevrey-Chambertin</strong> guidata da <strong>Jean-Marie Fourrier</strong> dagli anni Novanta. Formatosi in parte accanto a Henri Jayer, ha dato al domaine uno stile di grande purezza, con un uso moderato del legno nuovo ed estrazioni delicate. La casa lavora numerose vecchie vigne, un tratto distintivo che spesso evidenzia in etichetta.</p><p><strong>Gevrey-Chambertin</strong>, nel nord della Côte de Nuits, è il villaggio con il maggior numero di grand cru della Borgogna e uno dei grandi nomi del Pinot Noir, noto per rossi strutturati e profondi.</p><p>Il <strong>Clos Saint-Jacques</strong> si trova sul pendio della Côte Saint-Jacques, a ovest del villaggio, con una buona esposizione a sud-est. Pur essendo classificato premier cru, è tradizionalmente considerato al livello dei grand cru ed è suddiviso tra un piccolo numero di proprietari, le cui parcelle corrono in strisce dall'alto al basso del pendio. Il vino di Fourrier è prodotto con <strong>Pinot Noir</strong> di vecchie vigne e matura in barrique. Unisce la profondità di Gevrey a una notevole eleganza e ha una grande capacità d'invecchiamento.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo rubí brillante. Aromas de cereza, frambuesa, flores, especias y notas terrosas. Boca pura y sedosa, de tanino fino, acidez fresca y final largo.",
+    "en": "Bright ruby red. Aromas of cherry, raspberry, flowers, spice and earthy notes. Pure, silky palate with fine tannins, fresh acidity and a long finish.",
+    "fr": "Rubis brillant. Arômes de cerise, de framboise, de fleurs, d'épices et notes terreuses. Bouche pure et soyeuse, aux tanins fins, à l'acidité fraîche et à la longue finale.",
+    "it": "Rosso rubino brillante. Aromi di ciliegia, lampone, fiori, spezie e note terrose. Bocca pura e setosa, dal tannino fine, acidità fresca e finale lungo."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Caza de pluma, pato, carnes rojas asadas, quesos de pasta lavada",
+    "en": "Game birds, duck, roast red meat, washed-rind cheeses",
+    "fr": "Gibier à plume, canard, viandes rouges rôties, fromages à croûte lavée",
+    "it": "Selvaggina da piuma, anatra, carni rosse arrosto, formaggi a crosta lavata"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "15-17 °C, copa amplia tipo Borgoña",
+    "en": "15-17 °C, large Burgundy glass",
+    "fr": "15-17 °C, verre ample de type bourguignon",
+    "it": "15-17 °C, calice ampio tipo Borgogna"
   },
   "search": "Domaine Fourrier Gevrey-Chambertin 1er Cru Clos St. Jacques Vieille Vigne Domaine Fourrier",
-  "brief": true,
   "source": "decantalo"
 }

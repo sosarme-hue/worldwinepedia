@@ -7,34 +7,46 @@
   "country": "francia",
   "appellation": null,
   "type": "espumoso",
-  "category": null,
-  "grapes": [],
+  "category": {
+    "es": "Brut Nature",
+    "en": "Brut Nature",
+    "fr": "Brut Nature",
+    "it": "Brut Nature"
+  },
+  "grapes": [
+    "pinot-noir",
+    "chardonnay"
+  ],
   "summary": {
-    "es": "André Beaufort Ambonnay Grand Cru Reserve Brut Nature es un vino espumoso de André Beaufort, en Francia.",
-    "en": "André Beaufort Ambonnay Grand Cru Reserve Brut Nature is a sparkling wine from André Beaufort in France.",
-    "fr": "André Beaufort Ambonnay Grand Cru Reserve Brut Nature est un vin effervescent de André Beaufort (France).",
-    "it": "André Beaufort Ambonnay Grand Cru Reserve Brut Nature è un vino spumante di André Beaufort (Francia)."
+    "es": "Champagne Grand Cru de Ambonnay elaborado por la familia Beaufort, pionera del cultivo ecológico en la región, embotellado sin licor de expedición.",
+    "en": "Grand Cru Champagne from Ambonnay made by the Beaufort family, pioneers of organic growing in the region, bottled with no dosage.",
+    "fr": "Champagne grand cru d’Ambonnay élaboré par la famille Beaufort, pionnière de la viticulture biologique dans la région, sans liqueur d’expédition.",
+    "it": "Champagne Grand Cru di Ambonnay prodotto dalla famiglia Beaufort, pioniera della viticoltura biologica nella regione, imbottigliato senza liqueur d’expédition."
   },
   "body": {
-    "es": "<p>Su graduación es de 12 % vol.</p>",
-    "en": "<p>It has 12% ABV.</p>",
-    "fr": "<p>Il titre 12 % vol.</p>",
-    "it": "<p>Ha 12% vol.</p>"
+    "es": "<p><strong>André Beaufort</strong> es una pequeña explotación familiar de vigneron con viñedos en <strong>Ambonnay</strong>, en la Montagne de Reims, y en Polisy, en el Aube. La familia fue una de las primeras de Champagne en abandonar los productos químicos de síntesis y trabaja en ecológico desde hace décadas, con prácticas de corte artesanal y una producción reducida que embotella con su propio nombre.</p><p>Ambonnay es uno de los municipios clasificados como <strong>Grand Cru</strong> de la región, en la vertiente sur de la Montagne de Reims, y es conocido sobre todo por su Pinot Noir, que da vinos de cuerpo y fruta generosa; la Chardonnay ocupa una parte menor de su viñedo.</p><p>Este Réserve se elabora con uvas de Ambonnay y se embotella como <strong>Brut Nature</strong>, es decir, sin añadir licor de expedición tras el degüelle. Esta ausencia de dosificación deja ver con nitidez la madurez de la uva y el carácter del lugar. La larga crianza sobre lías propia de la casa aporta complejidad y una burbuja fina. Es un champagne de perfil vinoso y seco, más pensado para la mesa que para el aperitivo ligero.</p>",
+    "en": "<p><strong>André Beaufort</strong> is a small family grower estate with vineyards in <strong>Ambonnay</strong>, on the Montagne de Reims, and in Polisy, in the Aube. The family was one of the first in Champagne to give up synthetic chemicals and has farmed organically for decades, with artisanal practices and a small production bottled under its own name.</p><p>Ambonnay is one of the villages ranked <strong>Grand Cru</strong> in the region, on the southern slope of the Montagne de Reims, and is known above all for its Pinot Noir, which gives full-bodied wines with generous fruit; Chardonnay accounts for a smaller share of its vineyards.</p><p>This Réserve is made from Ambonnay fruit and bottled as <strong>Brut Nature</strong>, that is, with no liqueur d’expédition added after disgorgement. This absence of dosage clearly reveals the ripeness of the grapes and the character of the place. The long lees ageing typical of the house adds complexity and a fine mousse. It is a vinous, dry Champagne, better suited to the table than to a light aperitif.</p>",
+    "fr": "<p><strong>André Beaufort</strong> est un petit domaine familial de vigneron possédant des vignes à <strong>Ambonnay</strong>, sur la Montagne de Reims, et à Polisy, dans l’Aube. La famille fut l’une des premières en Champagne à renoncer aux produits chimiques de synthèse et cultive en bio depuis des décennies, avec des pratiques artisanales et une petite production mise en bouteille sous son propre nom.</p><p>Ambonnay est l’un des villages classés <strong>grand cru</strong> de la région, sur le versant sud de la Montagne de Reims, et il est surtout réputé pour son pinot noir, qui donne des vins corsés au fruit généreux ; le chardonnay y occupe une part plus modeste du vignoble.</p><p>Cette Réserve est élaborée avec des raisins d’Ambonnay et mise en bouteille en <strong>brut nature</strong>, c’est-à-dire sans ajout de liqueur d’expédition après le dégorgement. Cette absence de dosage laisse voir avec netteté la maturité du raisin et le caractère du lieu. Le long vieillissement sur lies propre à la maison apporte de la complexité et une bulle fine. C’est un champagne vineux et sec, davantage fait pour la table que pour un apéritif léger.</p>",
+    "it": "<p><strong>André Beaufort</strong> è una piccola azienda familiare di vigneron con vigneti ad <strong>Ambonnay</strong>, sulla Montagne de Reims, e a Polisy, nell’Aube. La famiglia è stata tra le prime in Champagne ad abbandonare i prodotti chimici di sintesi e coltiva in biologico da decenni, con pratiche artigianali e una produzione ridotta imbottigliata con il proprio nome.</p><p>Ambonnay è uno dei comuni classificati <strong>Grand Cru</strong> della regione, sul versante sud della Montagne de Reims, ed è noto soprattutto per il suo Pinot Noir, che dà vini di corpo e frutto generoso; lo Chardonnay occupa una parte minore del vigneto.</p><p>Questa Réserve è prodotta con uve di Ambonnay e imbottigliata come <strong>Brut Nature</strong>, cioè senza aggiunta di liqueur d’expédition dopo la sboccatura. L’assenza di dosaggio lascia emergere con nitidezza la maturità dell’uva e il carattere del luogo. Il lungo affinamento sui lieviti tipico della casa apporta complessità e una bollicina fine. È uno champagne vinoso e secco, più adatto alla tavola che a un aperitivo leggero.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Dorado con burbuja fina. Aromas de fruta roja y amarilla madura, brioche, frutos secos y notas tostadas. En boca es seco, vinoso y tenso, con buena amplitud y final largo.",
+    "en": "Golden with fine bubbles. Aromas of ripe red and yellow fruit, brioche, nuts and toasty notes. Dry, vinous and taut on the palate, with good breadth and a long finish.",
+    "fr": "Doré à bulles fines. Arômes de fruits rouges et jaunes mûrs, brioche, fruits secs et notes grillées. En bouche, il est sec, vineux et tendu, avec une belle ampleur et une finale longue.",
+    "it": "Dorato con perlage fine. Aromi di frutta rossa e gialla matura, brioche, frutta secca e note tostate. In bocca è secco, vinoso e teso, con buona ampiezza e finale lungo."
+  },
   "pairing": {
-    "es": "Aperitivo, mariscos, fritos, pescados",
-    "en": "Aperitif, shellfish, fried food, fish",
-    "fr": "Apéritif, fruits de mer, fritures, poissons",
-    "it": "Aperitivo, frutti di mare, fritture, pesce"
+    "es": "Ostras, marisco, pescados a la parrilla, aves, quesos curados de pasta dura",
+    "en": "Oysters, shellfish, grilled fish, poultry, aged hard cheeses",
+    "fr": "Huîtres, fruits de mer, poissons grillés, volailles, fromages affinés à pâte dure",
+    "it": "Ostriche, frutti di mare, pesce alla griglia, pollame, formaggi stagionati a pasta dura"
   },
   "serve": {
-    "es": "6-8 °C, copa de espumoso",
-    "en": "6-8 °C, sparkling wine glass",
-    "fr": "6-8 °C, verre à vin effervescent",
-    "it": "6-8 °C, calice da spumante"
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
   },
   "search": "André Beaufort Ambonnay Grand Cru Reserve Brut Nature André Beaufort",
-  "brief": true,
   "source": "decantalo"
 }

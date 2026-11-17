@@ -8,38 +8,44 @@
   "appellation": "DOCG Gattinara",
   "type": "tinto",
   "category": {
-    "es": "Reserva",
-    "en": "Reserva",
-    "fr": "Reserva",
-    "it": "Reserva"
+    "es": "Riserva",
+    "en": "Riserva",
+    "fr": "Riserva",
+    "it": "Riserva"
   },
-  "grapes": [],
+  "grapes": [
+    "nebbiolo"
+  ],
   "summary": {
-    "es": "Antoniolo Gattinara Riserva es un vino tinto de Antoniolo Societá Agricola, con la denominación DOCG Gattinara, en Italia.",
-    "en": "Antoniolo Gattinara Riserva is a red wine from Antoniolo Societá Agricola, made under the DOCG Gattinara appellation in Italy.",
-    "fr": "Antoniolo Gattinara Riserva est un vin rouge de Antoniolo Societá Agricola, élaboré sous l’appellation DOCG Gattinara (Italie).",
-    "it": "Antoniolo Gattinara Riserva è un vino rosso di Antoniolo Societá Agricola, prodotto nella denominazione DOCG Gattinara (Italia)."
+    "es": "Gattinara Riserva de la familia Antoniolo, Nebbiolo del norte del Piamonte criado durante años antes de salir al mercado.",
+    "en": "Gattinara Riserva from the Antoniolo family, a northern Piedmont Nebbiolo aged for years before release.",
+    "fr": "Gattinara Riserva de la famille Antoniolo, nebbiolo du nord du Piémont élevé pendant des années avant sa commercialisation.",
+    "it": "Gattinara Riserva della famiglia Antoniolo, Nebbiolo del Piemonte settentrionale affinato per anni prima dell’uscita sul mercato."
   },
   "body": {
-    "es": "<p>Lleva la mención Reserva. Su graduación es de 14 % vol.</p>",
-    "en": "<p>It carries the Reserva designation. It has 14% ABV.</p>",
-    "fr": "<p>Il porte la mention Reserva. Il titre 14 % vol.</p>",
-    "it": "<p>Riporta la menzione Reserva. Ha 14% vol.</p>"
+    "es": "<p><strong>Antoniolo</strong> es una de las familias de referencia de <strong>Gattinara</strong>, en el norte del Piamonte, al pie de los Alpes. La bodega, fundada a mediados del siglo XX, ha defendido durante décadas el estilo tradicional de esta pequeña DOCG, cuyos viñedos de ladera crecen sobre suelos ácidos de origen volcánico, ricos en pórfidos, muy distintos de las margas de las Langhe. Aquí la Nebbiolo recibe el nombre local de <strong>Spanna</strong>.</p><p>Este <strong>Gattinara Riserva</strong> es el vino que mejor resume el estilo de la casa: se elabora con Nebbiolo de varias parcelas de la denominación, sin indicación de viñedo concreto. La mención Riserva exige una crianza mínima de casi cuatro años, de los que una parte importante transcurre en madera.</p><p>Antoniolo practica maceraciones largas y cría sus vinos en toneles y barricas de roble, buscando la expresión del lugar más que la huella de la madera. El resultado es un Nebbiolo de color no muy intenso, perfumado y de taninos firmes, con la acidez marcada y el carácter mineral propios de Gattinara. Es un vino que necesita tiempo y puede evolucionar durante muchos años en botella.</p>",
+    "en": "<p><strong>Antoniolo</strong> is one of the leading families of <strong>Gattinara</strong>, in northern Piedmont, at the foot of the Alps. The winery, founded in the mid-20th century, has for decades championed the traditional style of this small DOCG, whose hillside vineyards grow on acidic soils of volcanic origin, rich in porphyry, very different from the marls of the Langhe. Here Nebbiolo goes by the local name of <strong>Spanna</strong>.</p><p>This <strong>Gattinara Riserva</strong> is the wine that best sums up the house style: it is made from Nebbiolo from several plots in the appellation, without naming a specific vineyard. The Riserva designation requires minimum ageing of almost four years, a significant part of it in wood.</p><p>Antoniolo uses long macerations and ages its wines in oak casks and barrels, seeking to express the site rather than the imprint of oak. The result is a Nebbiolo with a colour that is not very deep, fragrant and with firm tannins, with the marked acidity and mineral character typical of Gattinara. It is a wine that needs time and can develop for many years in bottle.</p>",
+    "fr": "<p><strong>Antoniolo</strong> est l’une des familles de référence de <strong>Gattinara</strong>, dans le nord du Piémont, au pied des Alpes. La cave, fondée au milieu du XXe siècle, défend depuis des décennies le style traditionnel de cette petite DOCG, dont les vignes en coteaux poussent sur des sols acides d’origine volcanique, riches en porphyres, très différents des marnes des Langhe. Le nebbiolo y porte le nom local de <strong>spanna</strong>.</p><p>Ce <strong>Gattinara Riserva</strong> est le vin qui résume le mieux le style de la maison : il est élaboré avec du nebbiolo de plusieurs parcelles de l’appellation, sans mention d’un vignoble précis. La mention Riserva impose un vieillissement minimum de près de quatre ans, dont une part importante en bois.</p><p>Antoniolo pratique de longues macérations et élève ses vins en foudres et barriques de chêne, en cherchant l’expression du lieu plutôt que l’empreinte du bois. Il en résulte un nebbiolo à la couleur peu intense, parfumé et aux tanins fermes, avec l’acidité marquée et le caractère minéral propres à Gattinara. C’est un vin qui demande du temps et peut évoluer de nombreuses années en bouteille.</p>",
+    "it": "<p><strong>Antoniolo</strong> è una delle famiglie di riferimento di <strong>Gattinara</strong>, nel nord del Piemonte, ai piedi delle Alpi. La cantina, fondata a metà del Novecento, difende da decenni lo stile tradizionale di questa piccola DOCG, i cui vigneti collinari crescono su suoli acidi di origine vulcanica, ricchi di porfidi, molto diversi dalle marne delle Langhe. Qui il Nebbiolo prende il nome locale di <strong>Spanna</strong>.</p><p>Questo <strong>Gattinara Riserva</strong> è il vino che meglio riassume lo stile della casa: è prodotto con Nebbiolo di diverse parcelle della denominazione, senza indicazione di un vigneto specifico. La menzione Riserva richiede un invecchiamento minimo di quasi quattro anni, di cui una parte importante in legno.</p><p>Antoniolo pratica macerazioni lunghe e affina i suoi vini in botti e barrique di rovere, cercando l’espressione del luogo più che l’impronta del legno. Il risultato è un Nebbiolo dal colore non molto intenso, profumato e di tannino deciso, con l’acidità marcata e il carattere minerale tipici di Gattinara. È un vino che ha bisogno di tempo e può evolvere per molti anni in bottiglia.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo granate de capa media, con ribete anaranjado con los años. Aromas de cereza, rosa, regaliz, especias y notas terrosas y minerales. En boca es tenso y elegante, con taninos firmes, acidez viva y final largo.",
+    "en": "Medium-deep garnet, turning orange at the rim with age. Aromas of cherry, rose, liquorice, spice and earthy, mineral notes. Taut and elegant on the palate, with firm tannins, lively acidity and a long finish.",
+    "fr": "Rouge grenat de robe moyenne, au bord orangé avec les années. Arômes de cerise, rose, réglisse, épices et notes terreuses et minérales. En bouche, il est tendu et élégant, aux tanins fermes, à l’acidité vive et à la finale longue.",
+    "it": "Rosso granato di media intensità, con unghia aranciata con gli anni. Aromi di ciliegia, rosa, liquirizia, spezie e note terrose e minerali. In bocca è teso ed elegante, con tannini decisi, acidità viva e finale lungo."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Brasato, carnes de caza, risotto con setas o trufa, quesos curados",
+    "en": "Braised beef, game, mushroom or truffle risotto, aged cheeses",
+    "fr": "Bœuf braisé, gibier, risotto aux champignons ou à la truffe, fromages affinés",
+    "it": "Brasato, selvaggina, risotto ai funghi o al tartufo, formaggi stagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
   },
   "search": "Antoniolo Gattinara Riserva Antoniolo Societá Agricola",
-  "brief": true,
   "source": "decantalo"
 }

@@ -7,34 +7,47 @@
   "country": "francia",
   "appellation": null,
   "type": "espumoso",
-  "category": null,
-  "grapes": [],
+  "category": {
+    "es": "Extra Brut",
+    "en": "Extra Brut",
+    "fr": "Extra Brut",
+    "it": "Extra Brut"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir",
+    "pinot-meunier"
+  ],
   "summary": {
-    "es": "Champagne Jacquesson Extra Brut 748 es un vino espumoso de Champagne Jacquesson, en Francia.",
-    "en": "Champagne Jacquesson Extra Brut 748 is a sparkling wine from Champagne Jacquesson in France.",
-    "fr": "Champagne Jacquesson Extra Brut 748 est un vin effervescent de Champagne Jacquesson (France).",
-    "it": "Champagne Jacquesson Extra Brut 748 è un vino spumante di Champagne Jacquesson (Francia)."
+    "es": "Cuvée numerada de Jacquesson, casa de Dizy, construida sobre la vendimia de 2020 y embotellada con un dosage muy bajo, en estilo extra brut.",
+    "en": "Numbered cuvée from Jacquesson, the Dizy house, built on the 2020 harvest and bottled with very low dosage in an extra brut style.",
+    "fr": "Cuvée numérotée de Jacquesson, maison de Dizy, construite sur la vendange 2020 et dosée très bas, en style extra brut.",
+    "it": "Cuvée numerata di Jacquesson, maison di Dizy, costruita sulla vendemmia 2020 e imbottigliata con dosaggio molto basso, in stile extra brut."
   },
   "body": {
-    "es": "<p>Su graduación es de 12 % vol.</p><p>Casa de Champagne fundada en 1798 y establecida en Dizy, conocida por sus cuvées numeradas de la serie 700 y por sus champagnes de parcela.</p>",
-    "en": "<p>It has 12% ABV.</p><p>Champagne house founded in 1798 and based in Dizy, known for its numbered 700-series cuvées and its single-vineyard champagnes.</p>",
-    "fr": "<p>Il titre 12 % vol.</p><p>Maison de Champagne fondée en 1798 et installée à Dizy, connue pour ses cuvées numérotées de la série 700 et ses champagnes de lieu-dit.</p>",
-    "it": "<p>Ha 12% vol.</p><p>Maison di Champagne fondata nel 1798 e con sede a Dizy, nota per le cuvée numerate della serie 700 e per i suoi champagne di singolo vigneto.</p>"
+    "es": "<p><strong>Jacquesson</strong> es una casa de Champagne fundada en 1798 y establecida en Dizy, junto a Aÿ, en la Vallée de la Marne. Propiedad de la familia Chiquet desde los años setenta, es conocida por haber sustituido su brut sin añada clásico por la serie de cuvées numeradas <strong>700</strong> y por sus champagnes de parcela, elaborados con uvas de viñedos propios en pueblos grand cru y premier cru.</p><p>La serie 700 comenzó con la cuvée 728, basada en la vendimia del año 2000, y cada nueva edición recibe un número correlativo. En lugar de buscar un estilo idéntico cada año, como hacen los brut sin añada tradicionales, cada cuvée parte de una vendimia concreta, completada con vinos de reserva, y refleja el carácter de ese año. La <strong>748</strong> se construye así sobre la cosecha de 2020.</p><p>Se elabora con <strong>Chardonnay, Pinot Noir y Pinot Meunier</strong>, se cría largo tiempo sobre lías y recibe una dosificación muy baja, de modo que el vino se muestra seco, preciso y vinoso, con más protagonismo de la fruta y del origen que del azúcar.</p>",
+    "en": "<p><strong>Jacquesson</strong> is a Champagne house founded in 1798 and based in Dizy, next to Aÿ, in the Vallée de la Marne. Owned by the Chiquet family since the 1970s, it is known for having replaced its classic non-vintage brut with the numbered <strong>700</strong> series of cuvées, and for its single-vineyard Champagnes, made from estate grapes in grand cru and premier cru villages.</p><p>The 700 series began with cuvée 728, based on the 2000 harvest, and each new edition receives a consecutive number. Rather than aiming for an identical style every year, as traditional non-vintage bruts do, each cuvée starts from a specific harvest, completed with reserve wines, and reflects the character of that year. Cuvée <strong>748</strong> is thus built on the 2020 harvest.</p><p>It is made from <strong>Chardonnay, Pinot Noir and Pinot Meunier</strong>, aged for a long time on the lees and given a very low dosage, so that the wine comes across as dry, precise and vinous, with fruit and origin taking precedence over sugar.</p>",
+    "fr": "<p><strong>Jacquesson</strong> est une maison de Champagne fondée en 1798 et installée à Dizy, à côté d'Aÿ, dans la Vallée de la Marne. Propriété de la famille Chiquet depuis les années 1970, elle est connue pour avoir remplacé son brut sans année classique par la série de cuvées numérotées <strong>700</strong> et pour ses champagnes de lieu-dit, issus de ses propres vignes dans des villages grand cru et premier cru.</p><p>La série 700 a commencé avec la cuvée 728, fondée sur la vendange 2000, et chaque nouvelle édition reçoit un numéro consécutif. Au lieu de rechercher un style identique chaque année, comme les bruts sans année traditionnels, chaque cuvée part d'une vendange précise, complétée par des vins de réserve, et reflète le caractère de cette année. La <strong>748</strong> est ainsi construite sur la récolte 2020.</p><p>Elle est élaborée avec du <strong>chardonnay, du pinot noir et du pinot meunier</strong>, vieillit longuement sur lies et reçoit un dosage très faible, si bien que le vin se montre sec, précis et vineux, le fruit et l'origine primant sur le sucre.</p>",
+    "it": "<p><strong>Jacquesson</strong> è una maison di Champagne fondata nel 1798 e con sede a Dizy, accanto ad Aÿ, nella Vallée de la Marne. Di proprietà della famiglia Chiquet dagli anni Settanta, è nota per aver sostituito il suo classico brut senza annata con la serie di cuvée numerate <strong>700</strong> e per i suoi champagne di singolo vigneto, prodotti con uve dei propri vigneti in villaggi grand cru e premier cru.</p><p>La serie 700 è cominciata con la cuvée 728, basata sulla vendemmia 2000, e ogni nuova edizione riceve un numero progressivo. Invece di cercare uno stile identico ogni anno, come fanno i brut senza annata tradizionali, ogni cuvée parte da una vendemmia precisa, completata con vini di riserva, e ne riflette il carattere. La <strong>748</strong> è così costruita sulla vendemmia 2020.</p><p>È prodotta con <strong>Chardonnay, Pinot Nero e Pinot Meunier</strong>, affina a lungo sui lieviti e riceve un dosaggio molto basso, così che il vino risulta secco, preciso e vinoso, con frutto e origine in primo piano rispetto allo zucchero.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Dorado pálido con burbuja fina. Aromas de manzana, pera, cítricos, frutos secos y pan tostado. Boca vinosa y seca, con acidez firme y final largo.",
+    "en": "Pale gold with fine bubbles. Aromas of apple, pear, citrus, nuts and toasted bread. Vinous and dry on the palate, with firm acidity and a long finish.",
+    "fr": "Or pâle à la bulle fine. Arômes de pomme, poire, agrumes, fruits secs et pain grillé. Bouche vineuse et sèche, à l'acidité ferme et à la finale longue.",
+    "it": "Dorato tenue con perlage fine. Aromi di mela, pera, agrumi, frutta secca e pane tostato. Bocca vinosa e secca, con acidità decisa e finale lungo."
+  },
   "pairing": {
-    "es": "Aperitivo, mariscos, fritos, pescados",
-    "en": "Aperitif, shellfish, fried food, fish",
-    "fr": "Apéritif, fruits de mer, fritures, poissons",
-    "it": "Aperitivo, frutti di mare, fritture, pesce"
+    "es": "Aperitivo, marisco, pescados en salsa, aves, quesos curados de pasta dura",
+    "en": "Aperitif, shellfish, fish in sauce, poultry, hard aged cheeses",
+    "fr": "Apéritif, fruits de mer, poissons en sauce, volailles, fromages affinés à pâte dure",
+    "it": "Aperitivo, frutti di mare, pesce in salsa, pollame, formaggi stagionati a pasta dura"
   },
   "serve": {
-    "es": "6-8 °C, copa de espumoso",
-    "en": "6-8 °C, sparkling wine glass",
-    "fr": "6-8 °C, verre à vin effervescent",
-    "it": "6-8 °C, calice da spumante"
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
   },
   "search": "Champagne Jacquesson Extra Brut 748 Champagne Jacquesson",
-  "brief": true,
   "source": "decantalo"
 }

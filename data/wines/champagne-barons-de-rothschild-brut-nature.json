@@ -7,34 +7,43 @@
   "country": "francia",
   "appellation": null,
   "type": "espumoso",
-  "category": null,
+  "category": {
+    "es": "Brut Nature",
+    "en": "Brut Nature",
+    "fr": "Brut Nature",
+    "it": "Brut Nature"
+  },
   "grapes": [],
   "summary": {
-    "es": "Champagne Barons de Rothschild Brut Nature es un vino espumoso de Champagne Barons de Rothschild, en Francia.",
-    "en": "Champagne Barons de Rothschild Brut Nature is a sparkling wine from Champagne Barons de Rothschild in France.",
-    "fr": "Champagne Barons de Rothschild Brut Nature est un vin effervescent de Champagne Barons de Rothschild (France).",
-    "it": "Champagne Barons de Rothschild Brut Nature è un vino spumante di Champagne Barons de Rothschild (Francia)."
+    "es": "Champagne sin azúcar añadido en el licor de expedición, de la casa creada en común por las tres ramas bordelesas de la familia Rothschild.",
+    "en": "Champagne with no sugar added in the dosage, from the house jointly created by the three Bordeaux branches of the Rothschild family.",
+    "fr": "Champagne sans sucre ajouté à la liqueur d'expédition, de la maison créée en commun par les trois branches bordelaises de la famille Rothschild.",
+    "it": "Champagne senza zucchero aggiunto nella liqueur d'expédition, della maison creata insieme dai tre rami bordolesi della famiglia Rothschild."
   },
   "body": {
-    "es": "<p>Su graduación es de 12 % vol.</p>",
-    "en": "<p>It has 12% ABV.</p>",
-    "fr": "<p>Il titre 12 % vol.</p>",
-    "it": "<p>Ha 12% vol.</p>"
+    "es": "<p><strong>Champagne Barons de Rothschild</strong> es la casa de Champagne que crearon conjuntamente las tres ramas de la familia Rothschild vinculadas al vino de Burdeos: la de Château Lafite Rothschild, la de Château Mouton Rothschild y la de Edmond de Rothschild. El proyecto se presentó a finales de la década de 2000 con la idea de trasladar a la Champagne la tradición vinícola de la familia.</p><p>La gama de la casa concede un peso importante a la <strong>Chardonnay</strong>, combinada en sus cuvées de ensamblaje con Pinot Noir. Esta versión <strong>Brut Nature</strong> se embotella sin licor de expedición azucarado, o con una cantidad de azúcar residual muy baja, de modo que el vino se muestra sin ningún maquillaje y exige uvas bien maduras y una crianza suficiente sobre lías.</p><p>Como todo Champagne, se elabora por el método tradicional, con segunda fermentación en botella y una crianza mínima sobre lías de quince meses para los vinos sin añada. El resultado es un espumoso seco y muy directo, de acidez marcada, en el que destacan los cítricos, las notas de fruta blanca y los matices de pan tostado de la crianza. Es especialmente adecuado para el aperitivo y para acompañar mariscos y pescados crudos.</p>",
+    "en": "<p><strong>Champagne Barons de Rothschild</strong> is the Champagne house created jointly by the three branches of the Rothschild family involved in Bordeaux wine: those of Château Lafite Rothschild, Château Mouton Rothschild and Edmond de Rothschild. The project was presented in the late 2000s with the aim of bringing the family's winemaking tradition to Champagne.</p><p>The house's range gives an important place to <strong>Chardonnay</strong>, blended with Pinot Noir in its assemblage cuvées. This <strong>Brut Nature</strong> version is bottled without a sweetened dosage, or with a very low level of residual sugar, so the wine shows itself without any make-up and requires well-ripened grapes and sufficient ageing on the lees.</p><p>Like all Champagne, it is made by the traditional method, with a second fermentation in bottle and a minimum of fifteen months on the lees for non-vintage wines. The result is a dry, very direct sparkling wine with marked acidity, in which citrus, white fruit and the toasted bread nuances of ageing stand out. It is especially suited to the aperitif and to shellfish and raw fish.</p>",
+    "fr": "<p><strong>Champagne Barons de Rothschild</strong> est la maison de Champagne créée conjointement par les trois branches de la famille Rothschild liées au vin de Bordeaux : celles de Château Lafite Rothschild, de Château Mouton Rothschild et d'Edmond de Rothschild. Le projet a été présenté à la fin des années 2000 avec l'idée de transposer en Champagne la tradition viticole de la famille.</p><p>La gamme de la maison accorde une place importante au <strong>chardonnay</strong>, assemblé au pinot noir dans ses cuvées d'assemblage. Cette version <strong>brut nature</strong> est mise en bouteille sans liqueur d'expédition sucrée, ou avec un taux de sucre résiduel très faible, si bien que le vin se montre sans aucun fard et exige des raisins bien mûrs ainsi qu'un vieillissement suffisant sur lies.</p><p>Comme tout champagne, il est élaboré selon la méthode traditionnelle, avec une seconde fermentation en bouteille et un vieillissement minimal de quinze mois sur lies pour les vins non millésimés. Il en résulte un effervescent sec et très direct, à l'acidité marquée, où ressortent les agrumes, les fruits blancs et les nuances de pain grillé dues au vieillissement. Il convient particulièrement à l'apéritif, aux fruits de mer et aux poissons crus.</p>",
+    "it": "<p><strong>Champagne Barons de Rothschild</strong> è la maison di Champagne creata congiuntamente dai tre rami della famiglia Rothschild legati al vino di Bordeaux: quelli di Château Lafite Rothschild, di Château Mouton Rothschild e di Edmond de Rothschild. Il progetto è stato presentato alla fine degli anni Duemila con l'idea di portare in Champagne la tradizione vinicola della famiglia.</p><p>La gamma della maison attribuisce un ruolo importante allo <strong>Chardonnay</strong>, assemblato al Pinot Nero nelle sue cuvée. Questa versione <strong>Brut Nature</strong> è imbottigliata senza liqueur d'expédition zuccherata, o con un residuo zuccherino molto basso, così che il vino si mostra senza alcun trucco e richiede uve ben mature e un affinamento sufficiente sui lieviti.</p><p>Come ogni Champagne, è prodotto con il metodo tradizionale, con seconda fermentazione in bottiglia e un affinamento minimo di quindici mesi sui lieviti per i vini senza annata. Ne risulta uno spumante secco e molto diretto, di acidità marcata, in cui spiccano agrumi, frutta bianca e le sfumature di pane tostato dovute all'affinamento. È particolarmente adatto come aperitivo e con frutti di mare e pesce crudo.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Amarillo pálido con burbuja fina. Aromas de cítricos, manzana, notas minerales y pan tostado. Boca muy seca y tensa, con acidez marcada y final salino.",
+    "en": "Pale yellow with fine bubbles. Aromas of citrus, apple, mineral notes and toasted bread. Very dry and taut on the palate, with marked acidity and a saline finish.",
+    "fr": "Jaune pâle à la bulle fine. Arômes d'agrumes, pomme, notes minérales et pain grillé. Bouche très sèche et tendue, à l'acidité marquée et à la finale saline.",
+    "it": "Giallo paglierino tenue con perlage fine. Aromi di agrumi, mela, note minerali e pane tostato. Bocca molto secca e tesa, con acidità marcata e finale salino."
+  },
   "pairing": {
-    "es": "Aperitivo, mariscos, fritos, pescados",
-    "en": "Aperitif, shellfish, fried food, fish",
-    "fr": "Apéritif, fruits de mer, fritures, poissons",
-    "it": "Aperitivo, frutti di mare, fritture, pesce"
+    "es": "Aperitivo, ostras, crudos de pescado, marisco, quesos frescos",
+    "en": "Aperitif, oysters, raw fish, shellfish, fresh cheeses",
+    "fr": "Apéritif, huîtres, poissons crus, fruits de mer, fromages frais",
+    "it": "Aperitivo, ostriche, crudi di pesce, frutti di mare, formaggi freschi"
   },
   "serve": {
-    "es": "6-8 °C, copa de espumoso",
-    "en": "6-8 °C, sparkling wine glass",
-    "fr": "6-8 °C, verre à vin effervescent",
-    "it": "6-8 °C, calice da spumante"
+    "es": "8-10 °C, copa de vino blanco o tulipa",
+    "en": "8-10 °C, white wine glass or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da bianco o a tulipano"
   },
   "search": "Champagne Barons de Rothschild Brut Nature Champagne Barons de Rothschild",
-  "brief": true,
   "source": "decantalo"
 }

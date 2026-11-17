@@ -8,33 +8,40 @@
   "appellation": "DOCG Amarone della Valpolicella Classico",
   "type": "tinto",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "corvina",
+    "rondinella"
+  ],
   "summary": {
-    "es": "Begali Amarone della Valpolicella Classico es un vino tinto de Begali Lorenzo, con la denominación DOCG Amarone della Valpolicella Classico, en Italia.",
-    "en": "Begali Amarone della Valpolicella Classico is a red wine from Begali Lorenzo, made under the DOCG Amarone della Valpolicella Classico appellation in Italy.",
-    "fr": "Begali Amarone della Valpolicella Classico est un vin rouge de Begali Lorenzo, élaboré sous l’appellation DOCG Amarone della Valpolicella Classico (Italie).",
-    "it": "Begali Amarone della Valpolicella Classico è un vino rosso di Begali Lorenzo, prodotto nella denominazione DOCG Amarone della Valpolicella Classico (Italia)."
+    "es": "Amarone della Valpolicella Classico de la pequeña bodega familiar Begali, de San Pietro in Cariano, elaborado con uvas pasificadas y criado en madera.",
+    "en": "Amarone della Valpolicella Classico from the small Begali family winery in San Pietro in Cariano, made from dried grapes and aged in wood.",
+    "fr": "Amarone della Valpolicella Classico du petit domaine familial Begali, à San Pietro in Cariano, élaboré avec des raisins passerillés et élevé en bois.",
+    "it": "Amarone della Valpolicella Classico della piccola azienda familiare Begali, di San Pietro in Cariano, prodotto con uve appassite e affinato in legno."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 16 % vol.</p>",
-    "en": "<p>It is aged in wood. It has 16% ABV.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 16 % vol.</p>",
-    "it": "<p>È affinato in legno. Ha 16% vol.</p>"
+    "es": "<p><strong>Begali Lorenzo</strong> es una pequeña bodega familiar de San Pietro in Cariano, en el corazón de la Valpolicella Classica, la zona histórica de colinas al noroeste de Verona. La familia cultiva sus propios viñedos en las laderas de la zona y elabora la gama clásica de la denominación, del Valpolicella al Amarone, con un estilo tradicional y cuidado.</p><p>El <strong>Amarone della Valpolicella</strong> se elabora sobre todo con Corvina, Corvinone y Rondinella. Tras la vendimia, los racimos se dejan secar durante varios meses en locales ventilados, el llamado appassimento, que concentra azúcares, aromas y taninos. El mosto resultante fermenta hasta quedar prácticamente seco, lo que explica su elevada graduación, y el vino pasa después una larga crianza en madera.</p><p>La mención Classico indica que procede de la zona histórica de la denominación. Su graduación es de 16 % vol. Es un tinto potente y envolvente, que equilibra la riqueza de la uva pasificada con la acidez de la Corvina, y que evoluciona durante muchos años en botella.</p>",
+    "en": "<p><strong>Begali Lorenzo</strong> is a small family winery in San Pietro in Cariano, in the heart of Valpolicella Classica, the historic hill zone north-west of Verona. The family farms its own vineyards on the area’s slopes and makes the appellation’s classic range, from Valpolicella to Amarone, in a careful, traditional style.</p><p><strong>Amarone della Valpolicella</strong> is made mainly from Corvina, Corvinone and Rondinella. After harvest, the bunches are left to dry for several months in ventilated lofts, the process known as appassimento, which concentrates sugars, aromas and tannins. The resulting must ferments until practically dry, which explains its high alcohol, and the wine then undergoes long ageing in wood.</p><p>The Classico designation indicates that it comes from the appellation’s historic zone. It has 16% ABV. It is a powerful, enveloping red that balances the richness of dried grapes with Corvina’s acidity, and it develops for many years in bottle.</p>",
+    "fr": "<p><strong>Begali Lorenzo</strong> est un petit domaine familial de San Pietro in Cariano, au cœur de la Valpolicella Classica, la zone historique de collines au nord-ouest de Vérone. La famille cultive ses propres vignes sur les coteaux du secteur et élabore la gamme classique de l’appellation, du Valpolicella à l’Amarone, dans un style traditionnel et soigné.</p><p>L’<strong>Amarone della Valpolicella</strong> est élaboré principalement avec de la corvina, du corvinone et de la rondinella. Après la vendange, les grappes sèchent pendant plusieurs mois dans des locaux ventilés, l’appassimento, qui concentre sucres, arômes et tanins. Le moût obtenu fermente jusqu’à être pratiquement sec, ce qui explique son degré élevé, puis le vin connaît un long élevage en bois.</p><p>La mention Classico indique qu’il provient de la zone historique de l’appellation. Il titre 16 % vol. C’est un rouge puissant et enveloppant, qui équilibre la richesse du raisin passerillé par l’acidité de la corvina, et qui évolue pendant de nombreuses années en bouteille.</p>",
+    "it": "<p><strong>Begali Lorenzo</strong> è una piccola azienda familiare di San Pietro in Cariano, nel cuore della Valpolicella Classica, la zona storica collinare a nord-ovest di Verona. La famiglia coltiva i propri vigneti sui pendii della zona e produce la gamma classica della denominazione, dal Valpolicella all’Amarone, con uno stile tradizionale e curato.</p><p>L’<strong>Amarone della Valpolicella</strong> si produce soprattutto con Corvina, Corvinone e Rondinella. Dopo la vendemmia, i grappoli vengono lasciati appassire per diversi mesi in locali ventilati, il cosiddetto appassimento, che concentra zuccheri, aromi e tannini. Il mosto ottenuto fermenta fino a risultare praticamente secco, il che spiega l’elevata gradazione, e il vino affronta poi un lungo affinamento in legno.</p><p>La menzione Classico indica che proviene dalla zona storica della denominazione. Ha una gradazione di 16% vol. È un rosso potente e avvolgente, che bilancia la ricchezza dell’uva appassita con l’acidità della Corvina, e che evolve per molti anni in bottiglia.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo granate intenso. Aromas de cereza en licor, ciruela pasa, especias, cacao y notas balsámicas. En boca es amplio, cálido y aterciopelado, con taninos maduros y final muy largo.",
+    "en": "Deep garnet red. Aromas of cherry liqueur, prune, spice, cocoa and balsamic notes. Broad, warm and velvety on the palate, with ripe tannins and a very long finish.",
+    "fr": "Rouge grenat intense. Arômes de cerise à l’eau-de-vie, pruneau, épices, cacao et notes balsamiques. En bouche, il est ample, chaleureux et velouté, aux tanins mûrs et à la finale très longue.",
+    "it": "Rosso granato intenso. Aromi di ciliegia sotto spirito, prugna secca, spezie, cacao e note balsamiche. In bocca è ampio, caldo e vellutato, con tannini maturi e finale molto lungo."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Brasato de ternera, caza, risotto all’Amarone, quesos muy curados",
+    "en": "Braised beef, game, risotto all’Amarone, long-aged cheeses",
+    "fr": "Bœuf braisé, gibier, risotto all’Amarone, fromages très affinés",
+    "it": "Brasato di manzo, selvaggina, risotto all’Amarone, formaggi molto stagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
   },
   "search": "Begali Amarone della Valpolicella Classico Begali Lorenzo",
-  "brief": true,
   "source": "decantalo"
 }

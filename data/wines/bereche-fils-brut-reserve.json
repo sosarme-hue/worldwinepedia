@@ -7,34 +7,47 @@
   "country": "francia",
   "appellation": null,
   "type": "espumoso",
-  "category": null,
-  "grapes": [],
+  "category": {
+    "es": "Brut",
+    "en": "Brut",
+    "fr": "Brut",
+    "it": "Brut"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir",
+    "pinot-meunier"
+  ],
   "summary": {
-    "es": "Bérêche & Fils Brut Reserve es un vino espumoso de Bérêche & Fils, en Francia.",
-    "en": "Bérêche & Fils Brut Reserve is a sparkling wine from Bérêche & Fils in France.",
-    "fr": "Bérêche & Fils Brut Reserve est un vin effervescent de Bérêche & Fils (France).",
-    "it": "Bérêche & Fils Brut Reserve è un vino spumante di Bérêche & Fils (Francia)."
+    "es": "Champagne brut sin añada de Bérêche & Fils, casa de viticultores de Ludes, elaborado con las tres variedades de la región y vinos de reserva.",
+    "en": "Non-vintage brut Champagne from Bérêche & Fils, a grower house in Ludes, made from the region’s three grapes and reserve wines.",
+    "fr": "Champagne brut sans année de Bérêche & Fils, maison de vignerons de Ludes, élaboré avec les trois cépages de la région et des vins de réserve.",
+    "it": "Champagne brut senza annata di Bérêche & Fils, casa di vignaioli di Ludes, prodotto con le tre varietà della regione e vini di riserva."
   },
   "body": {
-    "es": "<p>Su graduación es de 12 % vol.</p>",
-    "en": "<p>It has 12% ABV.</p>",
-    "fr": "<p>Il titre 12 % vol.</p>",
-    "it": "<p>Ha 12% vol.</p>"
+    "es": "<p><strong>Bérêche & Fils</strong> es una casa familiar de viticultores de Ludes, en la Montagne de Reims, dirigida hoy por los hermanos Raphaël y Vincent Bérêche. Sus viñas se reparten por varios pueblos de la Montagne de Reims y de la Vallée de la Marne, y la casa es conocida por su trabajo en el viñedo, con prácticas cercanas a la agricultura ecológica, y por el uso de la madera en la vinificación.</p><p>El <strong>Brut Réserve</strong> es el champagne de base de la casa y su mejor carta de presentación. Ensambla Chardonnay, Pinot Noir y Pinot Meunier de sus distintas parcelas con una parte de vinos de reserva de años anteriores, que aportan complejidad y regularidad. Tras la segunda fermentación en botella, reposa sobre lías durante un periodo prolongado antes del degüelle, y se dosifica con moderación.</p><p>Su graduación es de 12 % vol. Es un champagne con más carácter vinoso que muchos bruts sin añada, que equilibra la fruta y la frescura con notas de pan tostado y una textura amplia. Funciona tanto como aperitivo como en la mesa.</p>",
+    "en": "<p><strong>Bérêche & Fils</strong> is a family grower house in Ludes, in the Montagne de Reims, now run by the brothers Raphaël and Vincent Bérêche. Its vineyards are spread across several villages in the Montagne de Reims and the Vallée de la Marne, and the house is known for its vineyard work, with practices close to organic farming, and for its use of oak in winemaking.</p><p><strong>Brut Réserve</strong> is the house’s entry-level Champagne and its best calling card. It blends Chardonnay, Pinot Noir and Pinot Meunier from its various plots with a portion of reserve wines from previous years, which add complexity and consistency. After second fermentation in bottle, it rests on its lees for an extended period before disgorgement and is dosed with restraint.</p><p>It has 12% ABV. It is a Champagne with more vinous character than many non-vintage bruts, balancing fruit and freshness with toasty notes and a broad texture. It works both as an aperitif and at the table.</p>",
+    "fr": "<p><strong>Bérêche & Fils</strong> est une maison familiale de vignerons de Ludes, sur la Montagne de Reims, dirigée aujourd’hui par les frères Raphaël et Vincent Bérêche. Ses vignes se répartissent sur plusieurs villages de la Montagne de Reims et de la Vallée de la Marne, et la maison est connue pour son travail à la vigne, avec des pratiques proches de l’agriculture biologique, et pour l’usage du bois en vinification.</p><p>Le <strong>Brut Réserve</strong> est le champagne d’entrée de gamme de la maison et sa meilleure carte de visite. Il assemble chardonnay, pinot noir et pinot meunier de ses différentes parcelles avec une part de vins de réserve des années précédentes, qui apportent complexité et régularité. Après la seconde fermentation en bouteille, il repose longuement sur lies avant le dégorgement, et il est dosé avec modération.</p><p>Il titre 12 % vol. C’est un champagne au caractère plus vineux que beaucoup de bruts sans année, qui équilibre le fruit et la fraîcheur par des notes de pain grillé et une texture ample. Il convient aussi bien à l’apéritif qu’à la table.</p>",
+    "it": "<p><strong>Bérêche & Fils</strong> è una casa familiare di vignaioli di Ludes, nella Montagne de Reims, oggi guidata dai fratelli Raphaël e Vincent Bérêche. Le sue vigne sono distribuite in diversi villaggi della Montagne de Reims e della Vallée de la Marne, e la casa è nota per il lavoro in vigna, con pratiche vicine all’agricoltura biologica, e per l’uso del legno in vinificazione.</p><p>Il <strong>Brut Réserve</strong> è lo Champagne d’ingresso della casa e il suo miglior biglietto da visita. Assembla Chardonnay, Pinot Noir e Pinot Meunier delle diverse parcelle con una parte di vini di riserva degli anni precedenti, che apportano complessità e costanza. Dopo la seconda fermentazione in bottiglia, riposa a lungo sui lieviti prima della sboccatura e viene dosato con moderazione.</p><p>Ha una gradazione di 12% vol. È uno Champagne dal carattere più vinoso di molti brut senza annata, che bilancia frutto e freschezza con note di pane tostato e una trama ampia. Funziona sia come aperitivo sia a tavola.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Amarillo dorado con burbuja fina. Aromas de manzana, pera, cítricos, brioche y frutos secos. En boca es fresco y vinoso, con buena textura y final largo.",
+    "en": "Golden yellow with fine bubbles. Aromas of apple, pear, citrus, brioche and nuts. Fresh and vinous on the palate, with good texture and a long finish.",
+    "fr": "Jaune doré à la bulle fine. Arômes de pomme, de poire, d’agrumes, de brioche et de fruits secs. En bouche, il est frais et vineux, d’une belle texture, à la finale longue.",
+    "it": "Giallo dorato con perlage fine. Aromi di mela, pera, agrumi, brioche e frutta secca. In bocca è fresco e vinoso, di buona consistenza, con finale lungo."
+  },
   "pairing": {
-    "es": "Aperitivo, mariscos, fritos, pescados",
-    "en": "Aperitif, shellfish, fried food, fish",
-    "fr": "Apéritif, fruits de mer, fritures, poissons",
-    "it": "Aperitivo, frutti di mare, fritture, pesce"
+    "es": "Aperitivo, marisco, pescados, aves, quesos de pasta blanda",
+    "en": "Aperitif, shellfish, fish, poultry, soft cheeses",
+    "fr": "Apéritif, fruits de mer, poissons, volailles, fromages à pâte molle",
+    "it": "Aperitivo, frutti di mare, pesce, pollame, formaggi a pasta molle"
   },
   "serve": {
-    "es": "6-8 °C, copa de espumoso",
-    "en": "6-8 °C, sparkling wine glass",
-    "fr": "6-8 °C, verre à vin effervescent",
-    "it": "6-8 °C, calice da spumante"
+    "es": "8-10 °C, copa de vino blanco o tulipa",
+    "en": "8-10 °C, white wine or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da vino bianco o a tulipano"
   },
   "search": "Bérêche & Fils Brut Reserve Bérêche & Fils",
-  "brief": true,
   "source": "decantalo"
 }

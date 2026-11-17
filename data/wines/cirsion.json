@@ -8,33 +8,39 @@
   "appellation": "DOCa Rioja",
   "type": "tinto",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "tempranillo"
+  ],
   "summary": {
-    "es": "Cirsión es un vino tinto de Bodegas Roda, con la denominación DOCa Rioja, en España.",
-    "en": "Cirsión is a red wine from Bodegas Roda, made under the DOCa Rioja appellation in Spain.",
-    "fr": "Cirsión est un vin rouge de Bodegas Roda, élaboré sous l’appellation DOCa Rioja (Espagne).",
-    "it": "Cirsión è un vino rosso di Bodegas Roda, prodotto nella denominazione DOCa Rioja (Spagna)."
+    "es": "El vino más exclusivo de Bodegas Roda, en Haro, elaborado solo en determinadas añadas a partir de una selección de uvas de Tempranillo de viñas viejas.",
+    "en": "The most exclusive wine of Bodegas Roda, in Haro, made only in certain vintages from a selection of old-vine Tempranillo grapes.",
+    "fr": "Le vin le plus exclusif de Bodegas Roda, à Haro, produit seulement certaines années à partir d'une sélection de raisins de tempranillo de vieilles vignes.",
+    "it": "Il vino più esclusivo di Bodegas Roda, a Haro, prodotto solo in determinate annate da una selezione di uve di Tempranillo di vecchie vigne."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 14,5 % vol.</p><p>Bodega del Barrio de la Estación de Haro fundada en 1987 por Mario Rotllant y Carmen Daurella, centrada en tintos de viñas viejas que buscan unir la tradición riojana con un estilo de fruta precisa.</p><p>Rioja, en el valle del Ebro, fue en 1991 la primera Denominación de Origen Calificada de España. Es conocida sobre todo por sus tintos de Tempranillo y por su larga tradición de crianza en barrica de roble.</p>",
-    "en": "<p>It is aged in wood. It has 14.5% ABV.</p><p>Winery in Haro’s Station District founded in 1987 by Mario Rotllant and Carmen Daurella, focused on old-vine reds that seek to combine Rioja tradition with a style of precise fruit.</p><p>Rioja, in the Ebro valley, became Spain's first Qualified Designation of Origin in 1991. It is best known for its Tempranillo-based reds and its long tradition of ageing in oak barrels.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 14,5 % vol.</p><p>Bodega du Quartier de la Gare de Haro fondée en 1987 par Mario Rotllant et Carmen Daurella, consacrée à des rouges de vieilles vignes qui cherchent à allier la tradition de la Rioja à un fruit précis.</p><p>La Rioja, dans la vallée de l'Èbre, est devenue en 1991 la première dénomination d'origine qualifiée d'Espagne. Elle est surtout connue pour ses rouges à base de tempranillo et sa longue tradition d'élevage en barrique de chêne.</p>",
-    "it": "<p>È affinato in legno. Ha 14,5% vol.</p><p>Cantina del Quartiere della Stazione di Haro fondata nel 1987 da Mario Rotllant e Carmen Daurella, dedicata a rossi di vecchie vigne che cercano di unire la tradizione della Rioja a un frutto preciso.</p><p>La Rioja, nella valle dell'Ebro, è diventata nel 1991 la prima Denominazione di origine qualificata di Spagna. È nota soprattutto per i rossi a base di Tempranillo e per la lunga tradizione di affinamento in botte di rovere.</p>"
+    "es": "<p><strong>Cirsión</strong> es el vino de cima de <strong>Bodegas Roda</strong>, fundada en 1987 por Mario Rotllant y Carmen Daurella en el Barrio de la Estación de Haro, en la <strong>Rioja Alta</strong>. La bodega se centra en tintos procedentes de viñas viejas, buscando unir la tradición riojana con un estilo de fruta precisa y madura.</p><p>Cirsión nació a finales de los años noventa a partir de una observación del equipo técnico: algunas uvas de determinadas viñas viejas alcanzaban una madurez particular de los taninos que daba vinos muy expresivos y suaves desde su juventud. Desde entonces, la bodega selecciona esos lotes, mayoritariamente de <strong>Tempranillo</strong>, y solo elabora Cirsión en las añadas en que se dan esas condiciones.</p><p>El vino se cría en barricas de roble francés durante un periodo relativamente corto en comparación con los tintos clásicos de Rioja, con el fin de preservar la fruta. El resultado es un tinto de gran concentración, textura sedosa y aromas intensos, accesible desde joven pero capaz de evolucionar durante años en botella.</p>",
+    "en": "<p><strong>Cirsión</strong> is the flagship wine of <strong>Bodegas Roda</strong>, founded in 1987 by Mario Rotllant and Carmen Daurella in the Barrio de la Estación of Haro, in <strong>Rioja Alta</strong>. The winery focuses on reds from old vines, seeking to combine Rioja tradition with a style of precise, ripe fruit.</p><p>Cirsión was born at the end of the 1990s from an observation by the technical team: some grapes from certain old vineyards reached a particular tannin ripeness that produced very expressive wines, smooth even in their youth. Since then the winery has selected those lots, mostly <strong>Tempranillo</strong>, and makes Cirsión only in vintages when those conditions occur.</p><p>The wine is aged in French oak barrels for a relatively short period compared with classic Rioja reds, in order to preserve the fruit. The result is a red of great concentration, silky texture and intense aromas, approachable when young yet able to develop for years in bottle.</p>",
+    "fr": "<p><strong>Cirsión</strong> est le vin phare de <strong>Bodegas Roda</strong>, fondée en 1987 par Mario Rotllant et Carmen Daurella dans le Barrio de la Estación de Haro, en <strong>Rioja Alta</strong>. La cave se consacre à des rouges issus de vieilles vignes, en cherchant à unir la tradition de la Rioja à un style de fruit précis et mûr.</p><p>Cirsión est né à la fin des années 1990 d'une observation de l'équipe technique : certains raisins de vieilles vignes particulières atteignaient une maturité singulière des tanins, donnant des vins très expressifs et souples dès leur jeunesse. Depuis, la cave sélectionne ces lots, majoritairement de <strong>tempranillo</strong>, et ne produit Cirsión que les années où ces conditions sont réunies.</p><p>Le vin est élevé en barriques de chêne français pendant une période relativement courte par rapport aux rouges classiques de la Rioja, afin de préserver le fruit. Il en résulte un rouge d'une grande concentration, à la texture soyeuse et aux arômes intenses, accessible jeune mais capable d'évoluer pendant des années en bouteille.</p>",
+    "it": "<p><strong>Cirsión</strong> è il vino di punta di <strong>Bodegas Roda</strong>, fondata nel 1987 da Mario Rotllant e Carmen Daurella nel Barrio de la Estación di Haro, nella <strong>Rioja Alta</strong>. La cantina si dedica a rossi da vecchie vigne, cercando di unire la tradizione riojana a uno stile di frutto preciso e maturo.</p><p>Cirsión è nato alla fine degli anni Novanta da un'osservazione del gruppo tecnico: alcune uve di determinate vecchie vigne raggiungevano una particolare maturità dei tannini, che dava vini molto espressivi e morbidi già in gioventù. Da allora la cantina seleziona quelle partite, in prevalenza di <strong>Tempranillo</strong>, e produce Cirsión solo nelle annate in cui si verificano tali condizioni.</p><p>Il vino matura in barrique di rovere francese per un periodo relativamente breve rispetto ai rossi classici della Rioja, per preservare il frutto. Il risultato è un rosso di grande concentrazione, dalla trama setosa e dagli aromi intensi, accessibile da giovane ma capace di evolvere per anni in bottiglia.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo picota muy intenso. Aromas de fruta negra y roja madura, regaliz, especias dulces y notas de roble fino. Boca concentrada y sedosa, con taninos muy pulidos y final largo.",
+    "en": "Very intense cherry red. Aromas of ripe black and red fruit, liquorice, sweet spice and fine oak notes. Concentrated, silky palate with highly polished tannins and a long finish.",
+    "fr": "Rouge cerise très intense. Arômes de fruits noirs et rouges mûrs, de réglisse, d'épices douces et notes de chêne fin. Bouche concentrée et soyeuse, aux tanins très polis et à la finale longue.",
+    "it": "Rosso ciliegia molto intenso. Aromi di frutti neri e rossi maturi, liquirizia, spezie dolci e note di rovere fine. Bocca concentrata e setosa, tannini molto levigati e finale lungo."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Cordero asado, solomillo, caza mayor, platos con trufa, quesos curados",
+    "en": "Roast lamb, beef tenderloin, large game, truffle dishes, aged cheeses",
+    "fr": "Agneau rôti, filet de bœuf, grand gibier, plats truffés, fromages affinés",
+    "it": "Agnello arrosto, filetto di manzo, selvaggina grossa, piatti al tartufo, formaggi stagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "16-18 °C, copa amplia; conviene decantar",
+    "en": "16-18 °C, large glass; decanting recommended",
+    "fr": "16-18 °C, verre ample ; carafage conseillé",
+    "it": "16-18 °C, calice ampio; consigliata la decantazione"
   },
   "search": "Cirsión Roda",
-  "brief": true,
   "source": "decantalo"
 }

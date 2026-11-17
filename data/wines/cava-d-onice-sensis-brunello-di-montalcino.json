@@ -6,35 +6,41 @@
   "region": "brunello-di-montalcino",
   "country": "italia",
   "appellation": "DOCG Brunello di Montalcino",
-  "type": "espumoso",
+  "type": "tinto",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "sangiovese"
+  ],
   "summary": {
-    "es": "Cava d'Onice Sensis Brunello di Montalcino es un vino espumoso de Cava d'Onice, con la denominación DOCG Brunello di Montalcino, en Italia.",
-    "en": "Cava d'Onice Sensis Brunello di Montalcino is a sparkling wine from Cava d'Onice, made under the DOCG Brunello di Montalcino appellation in Italy.",
-    "fr": "Cava d'Onice Sensis Brunello di Montalcino est un vin effervescent de Cava d'Onice, élaboré sous l’appellation DOCG Brunello di Montalcino (Italie).",
-    "it": "Cava d'Onice Sensis Brunello di Montalcino è un vino spumante di Cava d'Onice, prodotto nella denominazione DOCG Brunello di Montalcino (Italia)."
+    "es": "Brunello di Montalcino de Sangiovese de Cava d’Onice, pequeña finca familiar de Montalcino, en la Toscana.",
+    "en": "Sangiovese Brunello di Montalcino from Cava d’Onice, a small family estate in Montalcino, Tuscany.",
+    "fr": "Brunello di Montalcino de sangiovese de Cava d’Onice, petit domaine familial de Montalcino, en Toscane.",
+    "it": "Brunello di Montalcino di Sangiovese di Cava d’Onice, piccola azienda di famiglia di Montalcino, in Toscana."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 14 % vol.</p><p>El Brunello di Montalcino es un tinto de Sangiovese 100 % elaborado en el municipio de Montalcino, en la provincia de Siena. Es conocido por su larga crianza obligatoria y por su capacidad de envejecimiento.</p>",
-    "en": "<p>It is aged in wood. It has 14% ABV.</p><p>Brunello di Montalcino is a 100% Sangiovese red made in the municipality of Montalcino, in the province of Siena. It is known for its long mandatory ageing and its capacity to develop in bottle.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 14 % vol.</p><p>Le Brunello di Montalcino est un rouge 100 % sangiovese produit sur la commune de Montalcino, dans la province de Sienne. Il est connu pour son long élevage obligatoire et son aptitude au vieillissement.</p>",
-    "it": "<p>È affinato in legno. Ha 14% vol.</p><p>Il Brunello di Montalcino è un rosso 100% Sangiovese prodotto nel comune di Montalcino, in provincia di Siena. È noto per il lungo affinamento obbligatorio e per la sua capacità di invecchiamento.</p>"
+    "es": "<p><strong>Cava d’Onice</strong> es una pequeña finca familiar de <strong>Montalcino</strong>, en la Toscana, que elabora Brunello y otros vinos de la zona a partir de sus propios viñedos.</p><p>Como todo <strong>Brunello di Montalcino</strong>, se elabora exclusivamente con <strong>Sangiovese</strong> cultivado en el término municipal de Montalcino, en la provincia de Siena. La normativa exige un largo envejecimiento: el vino no puede salir al mercado hasta el 1 de enero del quinto año posterior a la vendimia y debe pasar al menos dos años en madera. Las colinas de Montalcino, más cálidas y secas que las del Chianti, dan Sangiovese de gran estructura, taninos firmes y notable longevidad.</p><p><strong>Sensis</strong> es otro de los Brunello de la casa, con un perfil algo más contenido en grado. Tras su <strong>crianza en madera</strong> alcanza 14 % vol. Es un tinto pensado para la guarda, que agradece varios años de botella y una decantación previa.</p><p>La historia moderna del Brunello se asocia a la familia Biondi-Santi, que en la segunda mitad del siglo XIX seleccionó y embotelló por separado el Sangiovese de Montalcino; en 1980 fue una de las primeras denominaciones italianas en obtener la categoría DOCG.</p>",
+    "en": "<p><strong>Cava d’Onice</strong> is a small family estate in <strong>Montalcino</strong>, Tuscany, making Brunello and other local wines from its own vineyards.</p><p>Like every <strong>Brunello di Montalcino</strong>, it is made exclusively from <strong>Sangiovese</strong> grown within the municipality of Montalcino, in the province of Siena. The rules require long ageing: the wine cannot be released before 1 January of the fifth year after the harvest and must spend at least two years in wood. The hills of Montalcino, warmer and drier than those of Chianti, give Sangiovese of great structure, firm tannins and remarkable longevity.</p><p><strong>Sensis</strong> is another of the house’s Brunellos, with a somewhat more restrained alcohol level. After <strong>ageing in wood</strong> it reaches 14% ABV. It is a red made for cellaring, which benefits from several years in bottle and decanting beforehand.</p><p>The modern history of Brunello is associated with the Biondi-Santi family, who in the second half of the 19th century selected and bottled Montalcino Sangiovese on its own; in 1980 it was among the first Italian appellations to receive DOCG status.</p>",
+    "fr": "<p><strong>Cava d’Onice</strong> est un petit domaine familial de <strong>Montalcino</strong>, en Toscane, qui élabore du Brunello et d’autres vins de la zone à partir de ses propres vignes.</p><p>Comme tout <strong>Brunello di Montalcino</strong>, il est élaboré exclusivement avec du <strong>sangiovese</strong> cultivé sur la commune de Montalcino, dans la province de Sienne. Le cahier des charges impose un long vieillissement : le vin ne peut être commercialisé avant le 1er janvier de la cinquième année suivant la vendange et doit passer au moins deux ans sous bois. Les collines de Montalcino, plus chaudes et plus sèches que celles du Chianti, donnent des sangioveses très structurés, aux tanins fermes et d’une remarquable longévité.</p><p><strong>Sensis</strong> est un autre Brunello de la maison, au degré un peu plus contenu. Après son <strong>élevage sous bois</strong>, il titre 14 % vol. C’est un rouge de garde, qui gagne à vieillir plusieurs années en bouteille et à être carafé.</p><p>L’histoire moderne du Brunello est associée à la famille Biondi-Santi, qui, dans la seconde moitié du XIXe siècle, sélectionna et mit en bouteille séparément le sangiovese de Montalcino ; en 1980, ce fut l’une des premières appellations italiennes à obtenir le statut de DOCG.</p>",
+    "it": "<p><strong>Cava d’Onice</strong> è una piccola azienda di famiglia di <strong>Montalcino</strong>, in Toscana, che produce Brunello e altri vini della zona dalle proprie vigne.</p><p>Come ogni <strong>Brunello di Montalcino</strong>, è prodotto esclusivamente con <strong>Sangiovese</strong> coltivato nel comune di Montalcino, in provincia di Siena. Il disciplinare impone un lungo invecchiamento: il vino non può essere commercializzato prima del 1° gennaio del quinto anno successivo alla vendemmia e deve trascorrere almeno due anni in legno. Le colline di Montalcino, più calde e asciutte di quelle del Chianti, danno Sangiovese di grande struttura, tannini decisi e notevole longevità.</p><p><strong>Sensis</strong> è un altro dei Brunello della casa, dalla gradazione un po’ più contenuta. Dopo l’<strong>affinamento in legno</strong> raggiunge 14% vol. È un rosso da invecchiamento, che beneficia di alcuni anni di bottiglia e di una decantazione preventiva.</p><p>La storia moderna del Brunello è legata alla famiglia Biondi-Santi, che nella seconda metà dell’Ottocento selezionò e imbottigliò separatamente il Sangiovese di Montalcino; nel 1980 fu una delle prime denominazioni italiane a ottenere la DOCG.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo rubí con reflejos granates. Aromas de cereza madura, ciruela, violeta, hierbas aromáticas, cuero y especias. En boca es firme y elegante, con acidez viva, taninos marcados y un final largo.",
+    "en": "Ruby red with garnet glints. Aromas of ripe cherry, plum, violet, aromatic herbs, leather and spice. Firm and elegant on the palate, with lively acidity, marked tannins and a long finish.",
+    "fr": "Rouge rubis aux reflets grenat. Arômes de cerise mûre, de prune, de violette, d’herbes aromatiques, de cuir et d’épices. En bouche, il est ferme et élégant, à l’acidité vive et aux tanins marqués, avec une finale longue.",
+    "it": "Rosso rubino con riflessi granati. Aromi di ciliegia matura, prugna, viola, erbe aromatiche, cuoio e spezie. In bocca è deciso ed elegante, con acidità viva, tannini marcati e finale lungo."
+  },
   "pairing": {
-    "es": "Aperitivo, mariscos, fritos, pescados",
-    "en": "Aperitif, shellfish, fried food, fish",
-    "fr": "Apéritif, fruits de mer, fritures, poissons",
-    "it": "Aperitivo, frutti di mare, fritture, pesce"
+    "es": "Bistecca alla fiorentina, jabalí, pici al ragú, pecorino curado",
+    "en": "Bistecca alla fiorentina, wild boar, pici with ragù, aged pecorino",
+    "fr": "Bistecca alla fiorentina, sanglier, pici au ragù, pecorino affiné",
+    "it": "Bistecca alla fiorentina, cinghiale, pici al ragù, pecorino stagionato"
   },
   "serve": {
-    "es": "6-8 °C, copa de espumoso",
-    "en": "6-8 °C, sparkling wine glass",
-    "fr": "6-8 °C, verre à vin effervescent",
-    "it": "6-8 °C, calice da spumante"
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
   },
   "search": "Cava d'Onice Sensis Brunello di Montalcino Cava d'Onice",
-  "brief": true,
   "source": "decantalo"
 }

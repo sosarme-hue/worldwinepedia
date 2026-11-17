@@ -7,34 +7,47 @@
   "country": "francia",
   "appellation": null,
   "type": "espumoso",
-  "category": null,
-  "grapes": [],
+  "category": {
+    "es": "Brut",
+    "en": "Brut",
+    "fr": "Brut",
+    "it": "Brut"
+  },
+  "grapes": [
+    "pinot-noir",
+    "chardonnay",
+    "pinot-meunier"
+  ],
   "summary": {
-    "es": "Bollinger Brut Special Cuvée es un vino espumoso de Champagne Bollinger, en Francia.",
-    "en": "Bollinger Brut Special Cuvée is a sparkling wine from Champagne Bollinger in France.",
-    "fr": "Bollinger Brut Special Cuvée est un vin effervescent de Champagne Bollinger (France).",
-    "it": "Bollinger Brut Special Cuvée è un vino spumante di Champagne Bollinger (Francia)."
+    "es": "Champagne brut sin añada de Bollinger, la casa familiar de Aÿ, con predominio de Pinot Noir y vinos de reserva en su mezcla.",
+    "en": "Non-vintage brut Champagne from Bollinger, the family house in Aÿ, dominated by Pinot Noir and with reserve wines in the blend.",
+    "fr": "Champagne brut sans année de Bollinger, la maison familiale d’Aÿ, à dominante de pinot noir, avec des vins de réserve dans l’assemblage.",
+    "it": "Champagne brut senza annata di Bollinger, la maison di famiglia di Aÿ, a prevalenza di Pinot Noir e con vini di riserva nell’assemblaggio."
   },
   "body": {
-    "es": "<p>Su graduación es de 12 % vol.</p><p>Maison familiar de Aÿ fundada en 1829, conocida por un estilo de champagne con predominio de Pinot Noir y por fermentar parte de sus vinos en barrica.</p>",
-    "en": "<p>It has 12% ABV.</p><p>Family-owned house in Aÿ founded in 1829, known for a Pinot Noir-led champagne style and for fermenting part of its wines in barrel.</p>",
-    "fr": "<p>Il titre 12 % vol.</p><p>Maison familiale d’Aÿ fondée en 1829, connue pour un style de champagne dominé par le pinot noir et pour la fermentation d’une partie de ses vins en fût.</p>",
-    "it": "<p>Ha 12% vol.</p><p>Maison di famiglia di Aÿ fondata nel 1829, nota per uno stile di champagne a prevalenza di Pinot Noir e per la fermentazione di parte dei suoi vini in botte.</p>"
+    "es": "<p><strong>Bollinger</strong> es una de las grandes casas de Champagne, fundada en 1829 en <strong>Aÿ</strong>, en el corazón de la Montagne de Reims y la Vallée de la Marne, y todavía en manos de la familia fundadora. Su estilo se apoya en el <strong>Pinot Noir</strong>, en un importante patrimonio de viñedo propio, en la fermentación de una parte de los vinos en barricas de roble y en el uso de vinos de reserva conservados en magnum, que aportan complejidad a las mezclas.</p><p>La <strong>Special Cuvée</strong> es el champagne brut sin añada de la casa y su vino más difundido. Se elabora con una mezcla de <strong>Pinot Noir</strong>, que es mayoritario, <strong>Chardonnay</strong> y <strong>Pinot Meunier</strong>, procedentes de numerosos crus, completada con una proporción de vinos de reserva de añadas anteriores.</p><p>Tras la segunda fermentación en botella, permanece en rima sobre sus lías durante un periodo largo, superior al mínimo legal. El resultado es un champagne de estilo vinoso y estructurado, con la fuerza del Pinot Noir y las notas de crianza que aportan la madera y los vinos de reserva, equilibradas por una acidez firme. Es un vino de gran versatilidad en la mesa.</p>",
+    "en": "<p><strong>Bollinger</strong> is one of the great Champagne houses, founded in 1829 in <strong>Aÿ</strong>, at the heart of the Montagne de Reims and Vallée de la Marne, and still owned by the founding family. Its style rests on <strong>Pinot Noir</strong>, a substantial holding of its own vineyards, fermentation of part of the wines in oak barrels and the use of reserve wines kept in magnum, which add complexity to the blends.</p><p><strong>Special Cuvée</strong> is the house’s non-vintage brut Champagne and its most widely available wine. It is made from a blend of <strong>Pinot Noir</strong>, which predominates, <strong>Chardonnay</strong> and <strong>Pinot Meunier</strong> from numerous crus, completed with a proportion of reserve wines from earlier vintages.</p><p>After the second fermentation in bottle, it rests on its lees for a long period, longer than the legal minimum. The result is a vinous, structured Champagne, with the power of Pinot Noir and the mature notes brought by oak and reserve wines, balanced by firm acidity. It is a very versatile wine at the table.</p>",
+    "fr": "<p><strong>Bollinger</strong> est l’une des grandes maisons de Champagne, fondée en 1829 à <strong>Aÿ</strong>, au cœur de la Montagne de Reims et de la Vallée de la Marne, et toujours aux mains de la famille fondatrice. Son style repose sur le <strong>pinot noir</strong>, sur un important vignoble en propre, sur la fermentation d’une partie des vins en fûts de chêne et sur l’emploi de vins de réserve conservés en magnum, qui apportent de la complexité aux assemblages.</p><p>La <strong>Special Cuvée</strong> est le champagne brut sans année de la maison et son vin le plus diffusé. Elle est élaborée à partir d’un assemblage de <strong>pinot noir</strong>, majoritaire, de <strong>chardonnay</strong> et de <strong>pinot meunier</strong> issus de nombreux crus, complété par une part de vins de réserve d’années antérieures.</p><p>Après la seconde fermentation en bouteille, elle repose sur lattes sur ses lies pendant une longue période, supérieure au minimum légal. Il en résulte un champagne vineux et structuré, avec la puissance du pinot noir et les notes d’évolution qu’apportent le bois et les vins de réserve, équilibrées par une acidité ferme. C’est un vin d’une grande polyvalence à table.</p>",
+    "it": "<p><strong>Bollinger</strong> è una delle grandi maison della Champagne, fondata nel 1829 ad <strong>Aÿ</strong>, nel cuore della Montagne de Reims e della Vallée de la Marne, e ancora di proprietà della famiglia fondatrice. Il suo stile si basa sul <strong>Pinot Noir</strong>, su un importante patrimonio di vigneti di proprietà, sulla fermentazione di una parte dei vini in botti di rovere e sull’uso di vini di riserva conservati in magnum, che danno complessità agli assemblaggi.</p><p>La <strong>Special Cuvée</strong> è lo champagne brut senza annata della maison e il suo vino più diffuso. È prodotta con un assemblaggio di <strong>Pinot Noir</strong>, maggioritario, <strong>Chardonnay</strong> e <strong>Pinot Meunier</strong> provenienti da numerosi cru, completato da una quota di vini di riserva di annate precedenti.</p><p>Dopo la seconda fermentazione in bottiglia, riposa sui lieviti per un periodo lungo, superiore al minimo legale. Il risultato è uno champagne vinoso e strutturato, con la forza del Pinot Noir e le note evolutive date dal legno e dai vini di riserva, bilanciate da un’acidità decisa. È un vino molto versatile a tavola.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Aromas de manzana asada, pera, brioche, frutos secos y especias suaves. En boca es amplio y vinoso, con burbuja fina, buena acidez y final largo.",
+    "en": "Aromas of baked apple, pear, brioche, nuts and gentle spice. Broad and vinous on the palate, with fine bubbles, good acidity and a long finish.",
+    "fr": "Arômes de pomme cuite, poire, brioche, fruits secs et épices douces. Bouche ample et vineuse, à la bulle fine, à la bonne acidité et à la finale longue.",
+    "it": "Aromi di mela cotta, pera, brioche, frutta secca e spezie delicate. In bocca è ampio e vinoso, con perlage fine, buona acidità e finale lungo."
+  },
   "pairing": {
-    "es": "Aperitivo, mariscos, fritos, pescados",
-    "en": "Aperitif, shellfish, fried food, fish",
-    "fr": "Apéritif, fruits de mer, fritures, poissons",
-    "it": "Aperitivo, frutti di mare, fritture, pesce"
+    "es": "Aperitivo, mariscos, pescados en salsa, aves, quesos curados de pasta dura",
+    "en": "Aperitif, shellfish, fish in sauce, poultry, aged hard cheeses",
+    "fr": "Apéritif, fruits de mer, poissons en sauce, volailles, fromages à pâte dure affinés",
+    "it": "Aperitivo, crostacei, pesce in salsa, pollame, formaggi stagionati a pasta dura"
   },
   "serve": {
-    "es": "6-8 °C, copa de espumoso",
-    "en": "6-8 °C, sparkling wine glass",
-    "fr": "6-8 °C, verre à vin effervescent",
-    "it": "6-8 °C, calice da spumante"
+    "es": "8-10 °C, copa de vino blanco o tulipa",
+    "en": "8-10 °C, white wine or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da vino bianco o tulipano"
   },
   "search": "Bollinger Brut Special Cuvée Bollinger",
-  "brief": true,
   "source": "decantalo"
 }

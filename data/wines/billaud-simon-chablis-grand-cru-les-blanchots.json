@@ -7,36 +7,45 @@
   "country": "francia",
   "appellation": "AOC Chablis Grand Cru",
   "type": "blanco",
-  "category": null,
+  "category": {
+    "es": "Grand Cru",
+    "en": "Grand Cru",
+    "fr": "Grand Cru",
+    "it": "Grand Cru"
+  },
   "grapes": [
     "chardonnay"
   ],
   "summary": {
-    "es": "Billaud-Simon Chablis Grand Cru Les Blanchots es un vino blanco de Billaud-Simon, con la denominación AOC Chablis Grand Cru, en Francia.",
-    "en": "Billaud-Simon Chablis Grand Cru Les Blanchots is a white wine from Billaud-Simon, made under the AOC Chablis Grand Cru appellation in France.",
-    "fr": "Billaud-Simon Chablis Grand Cru Les Blanchots est un vin blanc de Billaud-Simon, élaboré sous l’appellation AOC Chablis Grand Cru (France).",
-    "it": "Billaud-Simon Chablis Grand Cru Les Blanchots è un vino bianco di Billaud-Simon, prodotto nella denominazione AOC Chablis Grand Cru (Francia)."
+    "es": "Chablis Grand Cru del climat Blanchot, el más oriental de los siete grands crus, elaborado por el Domaine Billaud-Simon con Chardonnay.",
+    "en": "Chablis Grand Cru from the Blanchot climat, the easternmost of the seven grands crus, made by Domaine Billaud-Simon from Chardonnay.",
+    "fr": "Chablis Grand Cru du climat Blanchot, le plus oriental des sept grands crus, élaboré par le Domaine Billaud-Simon avec du chardonnay.",
+    "it": "Chablis Grand Cru del climat Blanchot, il più orientale dei sette grand cru, prodotto dal Domaine Billaud-Simon con Chardonnay."
   },
   "body": {
-    "es": "<p>Se elabora con Chardonnay. Tiene crianza en madera. Su graduación es de 13 % vol.</p>",
-    "en": "<p>It is made from Chardonnay. It is aged in wood. It has 13% ABV.</p>",
-    "fr": "<p>Il est élaboré à partir de Chardonnay. Il est élevé en bois. Il titre 13 % vol.</p>",
-    "it": "<p>È prodotto con Chardonnay. È affinato in legno. Ha 13% vol.</p>"
+    "es": "<p>El <strong>Domaine Billaud-Simon</strong> es una de las fincas históricas de Chablis, fundada a comienzos del siglo XIX y con viñedos en varios premiers y grands crus de la denominación. En 2014 fue adquirida por la casa Faiveley, de Nuits-Saint-Georges, que ha mantenido el estilo de la finca: Chardonnay puro y tenso, elaborado sobre todo en acero, con un uso de la madera reservado a algunos vinos y siempre discreto.</p><p>Como todo Chablis, se elabora con <strong>Chardonnay</strong>, que en este viñedo septentrional, sobre margas y calizas kimmeridgienses ricas en fósiles de pequeñas ostras, da vinos de acidez viva, fruta cítrica y un carácter salino a menudo descrito como mineral.</p><p>Los siete <strong>grands crus</strong> de Chablis ocupan una única ladera orientada al suroeste en la orilla derecha del Serein, frente al pueblo. <strong>Blanchot</strong> se sitúa en su extremo oriental, con una exposición más hacia el sureste, y suele dar el más fino y floral de los grands crus, con una elegancia que contrasta con la potencia de Les Clos. Tiene paso por madera y su graduación es de 13 % vol. Es un Chablis de larga guarda, que con los años desarrolla notas de miel, frutos secos y especias sin perder tensión.</p>",
+    "en": "<p><strong>Domaine Billaud-Simon</strong> is one of the historic estates of Chablis, founded in the early 19th century, with vineyards in several of the appellation’s premiers and grands crus. In 2014 it was acquired by the Nuits-Saint-Georges house of Faiveley, which has maintained the estate’s style: pure, taut Chardonnay, made mainly in steel, with oak reserved for some wines and always discreet.</p><p>Like all Chablis, it is made from <strong>Chardonnay</strong>, which in this northerly vineyard, on Kimmeridgian marls and limestones rich in fossils of tiny oysters, gives wines of lively acidity, citrus fruit and a saline character often described as mineral.</p><p>The seven Chablis <strong>grands crus</strong> occupy a single south-west-facing slope on the right bank of the Serein, opposite the town. <strong>Blanchot</strong> lies at its eastern end, facing more to the south-east, and tends to give the finest and most floral of the grands crus, with an elegance that contrasts with the power of Les Clos. It sees some oak and has 13% ABV. It is a long-lived Chablis which with age develops notes of honey, nuts and spice without losing tension.</p>",
+    "fr": "<p>Le <strong>Domaine Billaud-Simon</strong> est l’un des domaines historiques de Chablis, fondé au début du XIXe siècle et possédant des vignes dans plusieurs premiers et grands crus de l’appellation. En 2014, il a été acquis par la maison Faiveley, de Nuits-Saint-Georges, qui a conservé le style du domaine : un chardonnay pur et tendu, élaboré surtout en cuve inox, le bois étant réservé à certains vins et toujours discret.</p><p>Comme tout chablis, il est élaboré avec du <strong>chardonnay</strong>, qui dans ce vignoble septentrional, sur des marnes et calcaires kimméridgiens riches en fossiles de petites huîtres, donne des vins à l’acidité vive, au fruit d’agrumes et au caractère salin souvent qualifié de minéral.</p><p>Les sept <strong>grands crus</strong> de Chablis occupent un unique coteau exposé au sud-ouest sur la rive droite du Serein, face au bourg. <strong>Blanchot</strong> se situe à son extrémité orientale, avec une exposition plus tournée vers le sud-est, et il donne généralement le plus fin et le plus floral des grands crus, d’une élégance qui contraste avec la puissance des Clos. Il connaît un passage en bois et titre 13 % vol. C’est un chablis de longue garde qui développe avec les années des notes de miel, de fruits secs et d’épices sans perdre sa tension.</p>",
+    "it": "<p>Il <strong>Domaine Billaud-Simon</strong> è una delle tenute storiche di Chablis, fondata all’inizio del XIX secolo e con vigneti in diversi premier e grand cru della denominazione. Nel 2014 è stata acquisita dalla maison Faiveley, di Nuits-Saint-Georges, che ha mantenuto lo stile della tenuta: Chardonnay puro e teso, prodotto soprattutto in acciaio, con il legno riservato ad alcuni vini e sempre discreto.</p><p>Come ogni Chablis, si produce con <strong>Chardonnay</strong>, che in questo vigneto settentrionale, su marne e calcari kimmeridgiani ricchi di fossili di piccole ostriche, dà vini di acidità viva, frutto agrumato e un carattere sapido spesso definito minerale.</p><p>I sette <strong>grand cru</strong> di Chablis occupano un unico pendio esposto a sud-ovest sulla riva destra del Serein, di fronte al paese. <strong>Blanchot</strong> si trova all’estremità orientale, con un’esposizione più rivolta a sud-est, e dà di solito il più fine e floreale dei grand cru, con un’eleganza che contrasta con la potenza di Les Clos. Ha un passaggio in legno e una gradazione di 13% vol. È uno Chablis di lungo invecchiamento, che con gli anni sviluppa note di miele, frutta secca e spezie senza perdere tensione.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Amarillo dorado pálido. Aromas de flores blancas, cítricos, fruta blanca, avellana y notas de tiza. En boca es fino, profundo y salino, con acidez firme y final muy largo.",
+    "en": "Pale golden yellow. Aromas of white flowers, citrus, white fruit, hazelnut and chalky notes. Fine, deep and saline on the palate, with firm acidity and a very long finish.",
+    "fr": "Jaune doré pâle. Arômes de fleurs blanches, d’agrumes, de fruits blancs, de noisette et notes crayeuses. En bouche, il est fin, profond et salin, à l’acidité ferme et à la finale très longue.",
+    "it": "Giallo dorato tenue. Aromi di fiori bianchi, agrumi, frutta bianca, nocciola e note gessose. In bocca è fine, profondo e sapido, con acidità salda e finale molto lungo."
+  },
   "pairing": {
-    "es": "Pescados, mariscos, arroces, quesos frescos",
-    "en": "Fish, shellfish, rice dishes, fresh cheeses",
-    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
-    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+    "es": "Langosta, vieiras, pescados nobles en salsa, aves de Bresse, comté",
+    "en": "Lobster, scallops, fine fish in sauce, Bresse poultry, Comté",
+    "fr": "Homard, coquilles Saint-Jacques, poissons nobles en sauce, volaille de Bresse, comté",
+    "it": "Astice, capesante, pesci pregiati in salsa, pollame di Bresse, comté"
   },
   "serve": {
-    "es": "8-11 °C, copa de vino blanco",
-    "en": "8-11 °C, white wine glass",
-    "fr": "8-11 °C, verre à vin blanc",
-    "it": "8-11 °C, calice da vino bianco"
+    "es": "11-13 °C, copa de vino blanco amplia",
+    "en": "11-13 °C, large white wine glass",
+    "fr": "11-13 °C, grand verre à vin blanc",
+    "it": "11-13 °C, calice ampio da vino bianco"
   },
   "search": "Billaud-Simon Chablis Grand Cru Les Blanchots Billaud-Simon",
-  "brief": true,
   "source": "decantalo"
 }

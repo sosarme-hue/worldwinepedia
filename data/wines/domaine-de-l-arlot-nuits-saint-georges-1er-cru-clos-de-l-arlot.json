@@ -7,36 +7,45 @@
   "country": "francia",
   "appellation": "AOC Nuits-Saint-Georges 1er cru / Côte-d'Or",
   "type": "tinto",
-  "category": null,
+  "category": {
+    "es": "Premier Cru",
+    "en": "Premier Cru",
+    "fr": "Premier Cru",
+    "it": "Premier Cru"
+  },
   "grapes": [
     "pinot-noir"
   ],
   "summary": {
-    "es": "Domaine de L'Arlot Nuits-Saint-Georges 1er Cru Clos de L'Arlot es un vino tinto de Domaine de l’Arlot, con la denominación AOC Nuits-Saint-Georges 1er cru / Côte-d'Or, en Francia.",
-    "en": "Domaine de L'Arlot Nuits-Saint-Georges 1er Cru Clos de L'Arlot is a red wine from Domaine de l’Arlot, made under the AOC Nuits-Saint-Georges 1er cru / Côte-d'Or appellation in France.",
-    "fr": "Domaine de L'Arlot Nuits-Saint-Georges 1er Cru Clos de L'Arlot est un vin rouge de Domaine de l’Arlot, élaboré sous l’appellation AOC Nuits-Saint-Georges 1er cru / Côte-d'Or (France).",
-    "it": "Domaine de L'Arlot Nuits-Saint-Georges 1er Cru Clos de L'Arlot è un vino rosso di Domaine de l’Arlot, prodotto nella denominazione AOC Nuits-Saint-Georges 1er cru / Côte-d'Or (Francia)."
+    "es": "Nuits-Saint-Georges Premier Cru tinto del Clos de l'Arlot, viñedo cercado en monopolio del Domaine de l'Arlot en Premeaux-Prissey.",
+    "en": "A red Nuits-Saint-Georges Premier Cru from the Clos de l'Arlot, the walled monopole vineyard of Domaine de l'Arlot in Premeaux-Prissey.",
+    "fr": "Nuits-Saint-Georges premier cru rouge du Clos de l'Arlot, clos en monopole du Domaine de l'Arlot à Premeaux-Prissey.",
+    "it": "Nuits-Saint-Georges Premier Cru rosso del Clos de l'Arlot, vigneto cintato in monopolio del Domaine de l'Arlot a Premeaux-Prissey."
   },
   "body": {
-    "es": "<p>Se elabora con Pinot Noir. Tiene crianza en madera. Su graduación es de 13 % vol.</p><p>Dominio de la Côte de Nuits con sede en Premeaux-Prissey, al sur de Nuits-Saint-Georges, propietario de dos premiers crus en monopolio: el Clos de l’Arlot y el Clos des Forêts Saint-Georges.</p>",
-    "en": "<p>It is made from Pinot Noir. It is aged in wood. It has 13% ABV.</p><p>Côte de Nuits domaine based in Premeaux-Prissey, south of Nuits-Saint-Georges, owner of two premier cru monopoles: the Clos de l’Arlot and the Clos des Forêts Saint-Georges.</p>",
-    "fr": "<p>Il est élaboré à partir de Pinot Noir. Il est élevé en bois. Il titre 13 % vol.</p><p>Domaine de la Côte de Nuits installé à Premeaux-Prissey, au sud de Nuits-Saint-Georges, propriétaire de deux premiers crus en monopole : le Clos de l’Arlot et le Clos des Forêts Saint-Georges.</p>",
-    "it": "<p>È prodotto con Pinot Nero. È affinato in legno. Ha 13% vol.</p><p>Domaine della Côte de Nuits con sede a Premeaux-Prissey, a sud di Nuits-Saint-Georges, proprietario di due premier cru in monopolio: il Clos de l’Arlot e il Clos des Forêts Saint-Georges.</p>"
+    "es": "<p>El <strong>Domaine de l'Arlot</strong> tiene su sede en Premeaux-Prissey, al sur de Nuits-Saint-Georges, en la Côte de Nuits. Pertenece desde 1987 al grupo AXA Millésimes y es propietario de dos premiers crus en monopolio, el Clos de l'Arlot y el Clos des Forêts Saint-Georges. Cultivado en biodinámica, es conocido por tintos de perfil elegante, a menudo vinificados con una parte de racimos enteros.</p><p>El <strong>Clos de l'Arlot</strong> es un viñedo cercado por muros que rodea la casa del dominio y que pertenece en exclusiva a la finca. Sus viñas se disponen en terrazas y en una ladera de suelos calizos pedregosos, con parcelas plantadas de Pinot Noir y otras de Chardonnay, ya que el clos produce también un blanco poco habitual en la Côte de Nuits.</p><p>La versión tinta se elabora con <strong>Pinot Noir</strong> y se cría en barricas de roble con una proporción moderada de madera nueva. A diferencia de muchos Nuits-Saint-Georges, conocidos por su firmeza, el Clos de l'Arlot suele mostrar un perfil más fino y aromático, con una textura delicada y una buena capacidad de envejecimiento.</p>",
+    "en": "<p><strong>Domaine de l'Arlot</strong> is based in Premeaux-Prissey, south of Nuits-Saint-Georges, in the Côte de Nuits. It has belonged to AXA Millésimes since 1987 and owns two premier cru monopoles, the Clos de l'Arlot and the Clos des Forêts Saint-Georges. Farmed biodynamically, it is known for elegant reds, often vinified with a share of whole bunches.</p><p>The <strong>Clos de l'Arlot</strong> is a walled vineyard surrounding the domaine's house and belonging exclusively to the estate. Its vines are laid out on terraces and on a slope of stony limestone soils, with plots planted to Pinot Noir and others to Chardonnay, as the clos also produces a white that is unusual in the Côte de Nuits.</p><p>The red version is made from <strong>Pinot Noir</strong> and aged in oak barrels with a moderate proportion of new wood. Unlike many Nuits-Saint-Georges, known for their firmness, the Clos de l'Arlot tends to show a finer, more aromatic profile, with a delicate texture and good ageing potential.</p>",
+    "fr": "<p>Le <strong>Domaine de l'Arlot</strong> est installé à Premeaux-Prissey, au sud de Nuits-Saint-Georges, en Côte de Nuits. Il appartient depuis 1987 au groupe AXA Millésimes et possède deux premiers crus en monopole, le Clos de l'Arlot et le Clos des Forêts Saint-Georges. Cultivé en biodynamie, il est réputé pour des rouges au profil élégant, souvent vinifiés avec une part de vendange entière.</p><p>Le <strong>Clos de l'Arlot</strong> est un vignoble ceint de murs qui entoure la demeure du domaine et lui appartient en exclusivité. Ses vignes s'étagent en terrasses et sur un coteau aux sols calcaires caillouteux, avec des parcelles de pinot noir et d'autres de chardonnay, car le clos produit aussi un blanc peu courant en Côte de Nuits.</p><p>La version rouge est issue de <strong>pinot noir</strong> et s'élève en fûts de chêne avec une proportion modérée de bois neuf. Contrairement à bien des nuits-saint-georges, réputés pour leur fermeté, le Clos de l'Arlot montre généralement un profil plus fin et aromatique, une texture délicate et un bon potentiel de garde.</p>",
+    "it": "<p>Il <strong>Domaine de l'Arlot</strong> ha sede a Premeaux-Prissey, a sud di Nuits-Saint-Georges, nella Côte de Nuits. Appartiene dal 1987 al gruppo AXA Millésimes e possiede due premier cru in monopolio, il Clos de l'Arlot e il Clos des Forêts Saint-Georges. Coltivato in biodinamica, è noto per rossi dal profilo elegante, spesso vinificati con una parte di grappoli interi.</p><p>Il <strong>Clos de l'Arlot</strong> è un vigneto cinto da mura che circonda la dimora del domaine e appartiene in esclusiva alla tenuta. Le sue vigne si dispongono su terrazze e su un pendio di suoli calcarei sassosi, con parcelle di Pinot Noir e altre di Chardonnay, poiché il clos produce anche un bianco poco comune nella Côte de Nuits.</p><p>La versione rossa è prodotta con <strong>Pinot Noir</strong> e matura in botti di rovere con una quota moderata di legno nuovo. A differenza di molti Nuits-Saint-Georges, noti per la loro fermezza, il Clos de l'Arlot mostra di solito un profilo più fine e aromatico, con una trama delicata e una buona capacità d'invecchiamento.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo rubí brillante. Aromas de cereza, frambuesa, flores, especias y notas de sotobosque. Boca de cuerpo medio, con tanino fino, acidez fresca y final largo y elegante.",
+    "en": "Bright ruby red. Aromas of cherry, raspberry, flowers, spice and forest-floor notes. Medium-bodied palate with fine tannins, fresh acidity and a long, elegant finish.",
+    "fr": "Rubis brillant. Arômes de cerise, de framboise, de fleurs, d'épices et notes de sous-bois. Bouche de corps moyen, aux tanins fins, à l'acidité fraîche et à la finale longue et élégante.",
+    "it": "Rosso rubino brillante. Aromi di ciliegia, lampone, fiori, spezie e note di sottobosco. Bocca di medio corpo, con tannino fine, acidità fresca e finale lungo ed elegante."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Ave de caza, pato, carnes rojas en salsa, quesos de pasta lavada",
+    "en": "Game birds, duck, red meat in sauce, washed-rind cheeses",
+    "fr": "Gibier à plume, canard, viandes rouges en sauce, fromages à croûte lavée",
+    "it": "Selvaggina da piuma, anatra, carni rosse in salsa, formaggi a crosta lavata"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "15-17 °C, copa amplia tipo Borgoña",
+    "en": "15-17 °C, large Burgundy glass",
+    "fr": "15-17 °C, verre ample de type bourguignon",
+    "it": "15-17 °C, calice ampio tipo Borgogna"
   },
   "search": "Domaine de L'Arlot Nuits-Saint-Georges 1er Cru Clos de L'Arlot Domaine de L'Arlot",
-  "brief": true,
   "source": "decantalo"
 }

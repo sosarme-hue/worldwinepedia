@@ -10,31 +10,35 @@
   "category": null,
   "grapes": [],
   "summary": {
-    "es": "Andrew Will Two Blondes es un vino tinto de Andrew Will, con la denominación Vashon, en Estados Unidos.",
-    "en": "Andrew Will Two Blondes is a red wine from Andrew Will, made under the Vashon appellation in United States.",
-    "fr": "Andrew Will Two Blondes est un vin rouge de Andrew Will, élaboré sous l’appellation Vashon (États-Unis).",
-    "it": "Andrew Will Two Blondes è un vino rosso di Andrew Will, prodotto nella denominazione Vashon (Stati Uniti)."
+    "es": "Tinto de corte bordelés de Andrew Will procedente de Two Blondes, el viñedo que la propia bodega plantó en el valle de Yakima, en el estado de Washington.",
+    "en": "Bordeaux-style red from Andrew Will sourced from Two Blondes, the vineyard the winery itself planted in the Yakima Valley, Washington State.",
+    "fr": "Rouge d’assemblage bordelais d’Andrew Will issu de Two Blondes, le vignoble que la maison a elle-même planté dans la vallée de Yakima, dans l’État de Washington.",
+    "it": "Rosso di taglio bordolese di Andrew Will proveniente da Two Blondes, il vigneto che la stessa cantina ha piantato nella Yakima Valley, nello stato di Washington."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 14,5 % vol.</p>",
-    "en": "<p>It is aged in wood. It has 14.5% ABV.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 14,5 % vol.</p>",
-    "it": "<p>È affinato in legno. Ha 14,5% vol.</p>"
+    "es": "<p><strong>Andrew Will</strong> es una bodega del estado de Washington fundada a finales de los años ochenta por Chris Camarda, que le dio el nombre de su sobrino Andrew y de su hijo Will. La bodega está en la isla de Vashon, en el estrecho de Puget, pero la uva procede del este del estado, en la cuenca del río Columbia, donde un clima seco y soleado, con fuertes contrastes térmicos, permite madurar bien las variedades bordelesas. La casa se dio a conocer por embotellar por separado vinos de viñedos concretos.</p><p><strong>Two Blondes</strong> es el viñedo propio de Andrew Will, plantado por la bodega en el <strong>valle de Yakima</strong> con variedades bordelesas. A diferencia de las demás parcelas de las que se abastece, aquí la casa controla todo el cultivo, desde la elección del material vegetal hasta la vendimia, lo que le permite ajustar el viñedo a su estilo.</p><p>El vino ensambla las variedades del viñedo, fermentadas por separado y criadas en barricas de roble. Muestra fruta negra y roja, notas herbáceas y especiadas y una estructura firme sostenida por buena acidez. Es un tinto con capacidad de guarda que se expresa mejor tras algunos años de botella.</p>",
+    "en": "<p><strong>Andrew Will</strong> is a Washington State winery founded in the late 1980s by Chris Camarda, who named it after his nephew Andrew and his son Will. The winery is on Vashon Island, in Puget Sound, but the grapes come from the east of the state, in the Columbia River basin, where a dry, sunny climate with large temperature swings ripens the Bordeaux varieties well. The house made its name by bottling wines from individual vineyards separately.</p><p><strong>Two Blondes</strong> is Andrew Will’s own vineyard, planted by the winery in the <strong>Yakima Valley</strong> with Bordeaux varieties. Unlike the other sites it sources from, here the house controls the entire growing process, from the choice of plant material to harvest, which allows it to tailor the vineyard to its style.</p><p>The wine blends the vineyard’s varieties, fermented separately and aged in oak barrels. It shows black and red fruit, herbal and spicy notes and a firm structure supported by good acidity. It is a red with ageing potential that shows best after a few years in bottle.</p>",
+    "fr": "<p><strong>Andrew Will</strong> est une winery de l’État de Washington fondée à la fin des années 1980 par Chris Camarda, qui lui donna le nom de son neveu Andrew et de son fils Will. La cave se trouve sur l’île de Vashon, dans le Puget Sound, mais les raisins viennent de l’est de l’État, dans le bassin du Columbia, où un climat sec et ensoleillé, aux forts écarts de température, permet de bien mûrir les cépages bordelais. La maison s’est fait connaître en vinifiant séparément des vins de vignobles précis.</p><p><strong>Two Blondes</strong> est le vignoble propre d’Andrew Will, planté par la maison dans la <strong>vallée de Yakima</strong> avec des cépages bordelais. Contrairement aux autres parcelles dont elle s’approvisionne, la maison y maîtrise toute la culture, du choix du matériel végétal jusqu’aux vendanges, ce qui lui permet d’adapter le vignoble à son style.</p><p>Le vin assemble les cépages du vignoble, vinifiés séparément et élevés en barriques de chêne. Il présente des fruits noirs et rouges, des notes herbacées et épicées et une structure ferme soutenue par une bonne acidité. C’est un rouge de garde, qui s’exprime mieux après quelques années de bouteille.</p>",
+    "it": "<p><strong>Andrew Will</strong> è una cantina dello stato di Washington fondata alla fine degli anni Ottanta da Chris Camarda, che le diede il nome del nipote Andrew e del figlio Will. La cantina si trova sull’isola di Vashon, nel Puget Sound, ma le uve provengono dall’est dello stato, nel bacino del fiume Columbia, dove un clima secco e soleggiato, con forti escursioni termiche, consente una buona maturazione dei vitigni bordolesi. La casa si è fatta conoscere imbottigliando separatamente vini di singoli vigneti.</p><p><strong>Two Blondes</strong> è il vigneto di proprietà di Andrew Will, piantato dalla cantina nella <strong>Yakima Valley</strong> con vitigni bordolesi. A differenza degli altri vigneti da cui si rifornisce, qui la casa controlla l’intera coltivazione, dalla scelta del materiale vegetale alla vendemmia, il che le consente di adattare il vigneto al proprio stile.</p><p>Il vino assembla i vitigni del vigneto, fermentati separatamente e affinati in barrique di rovere. Mostra frutto nero e rosso, note erbacee e speziate e una struttura salda sostenuta da buona acidità. È un rosso da invecchiamento che si esprime al meglio dopo qualche anno di bottiglia.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de cassis, cereza negra, hierbas secas, cacao y especias de la madera. En boca es estructurado y fresco, con taninos firmes y final largo.",
+    "en": "Deep cherry red. Aromas of cassis, black cherry, dried herbs, cocoa and spicy oak. Structured and fresh on the palate, with firm tannins and a long finish.",
+    "fr": "Rouge cerise intense. Arômes de cassis, cerise noire, herbes sèches, cacao et épices du bois. En bouche, il est structuré et frais, aux tanins fermes et à la finale longue.",
+    "it": "Rosso ciliegia intenso. Aromi di cassis, ciliegia nera, erbe secche, cacao e spezie del legno. In bocca è strutturato e fresco, con tannini decisi e finale lungo."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Carnes rojas a la parrilla, cordero asado, caza, quesos curados",
+    "en": "Grilled red meat, roast lamb, game, aged cheeses",
+    "fr": "Viandes rouges grillées, agneau rôti, gibier, fromages affinés",
+    "it": "Carni rosse alla griglia, agnello arrosto, selvaggina, formaggi stagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
   },
   "search": "Andrew Will Two Blondes Andrew Will",
-  "brief": true,
   "source": "decantalo"
 }

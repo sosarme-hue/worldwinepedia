@@ -7,36 +7,45 @@
   "country": "francia",
   "appellation": "AOC Savigny-Les-Beaune 1er Cru / Côte-d'Or",
   "type": "tinto",
-  "category": null,
+  "category": {
+    "es": "Premier Cru",
+    "en": "Premier Cru",
+    "fr": "Premier Cru",
+    "it": "Premier Cru"
+  },
   "grapes": [
     "pinot-noir"
   ],
   "summary": {
-    "es": "Chandon de Briailles Savigny 1er Cru Aux Fournaux es un vino tinto de Domaine Chandon de Briailles, con la denominación AOC Savigny-Les-Beaune 1er Cru / Côte-d'Or, en Francia.",
-    "en": "Chandon de Briailles Savigny 1er Cru Aux Fournaux is a red wine from Domaine Chandon de Briailles, made under the AOC Savigny-Les-Beaune 1er Cru / Côte-d'Or appellation in France.",
-    "fr": "Chandon de Briailles Savigny 1er Cru Aux Fournaux est un vin rouge de Domaine Chandon de Briailles, élaboré sous l’appellation AOC Savigny-Les-Beaune 1er Cru / Côte-d'Or (France).",
-    "it": "Chandon de Briailles Savigny 1er Cru Aux Fournaux è un vino rosso di Domaine Chandon de Briailles, prodotto nella denominazione AOC Savigny-Les-Beaune 1er Cru / Côte-d'Or (Francia)."
+    "es": "Tinto premier cru de Pinot Noir que el Domaine Chandon de Briailles elabora en el clima Aux Fournaux de Savigny-lès-Beaune, su pueblo de origen.",
+    "en": "Premier cru Pinot Noir red made by Domaine Chandon de Briailles from the Aux Fournaux climat in Savigny-lès-Beaune, its home village.",
+    "fr": "Rouge premier cru de pinot noir élaboré par le Domaine Chandon de Briailles dans le climat Aux Fournaux de Savigny-lès-Beaune, son village d'origine.",
+    "it": "Rosso premier cru di Pinot Nero prodotto dal Domaine Chandon de Briailles nel climat Aux Fournaux di Savigny-lès-Beaune, il suo villaggio d'origine."
   },
   "body": {
-    "es": "<p>Se elabora con Pinot Noir. Tiene crianza en madera. Su graduación es de 13,5 % vol.</p>",
-    "en": "<p>It is made from Pinot Noir. It is aged in wood. It has 13.5% ABV.</p>",
-    "fr": "<p>Il est élaboré à partir de Pinot Noir. Il est élevé en bois. Il titre 13,5 % vol.</p>",
-    "it": "<p>È prodotto con Pinot Nero. È affinato in legno. Ha 13,5% vol.</p>"
+    "es": "<p>El <strong>Domaine Chandon de Briailles</strong> es una finca familiar de Savigny-lès-Beaune, en la Côte de Beaune, dirigida por la familia de Nicolay. Cultiva sus viñedos según la agricultura biodinámica y es conocido por unos tintos de Pinot Noir de estilo fino y perfumado, elaborados a menudo con una parte de racimo entero y con un uso moderado de la madera nueva.</p><p><strong>Savigny-lès-Beaune</strong> es una denominación municipal situada al norte de Beaune, en un valle lateral abierto por el río Rhoin. Sus viñedos se reparten entre dos laderas con orientaciones distintas, lo que da lugar a vinos de perfiles algo diferentes, y cuenta con una veintena de climas clasificados como premier cru. Sus tintos suelen ser frescos, afrutados y de taninos finos. Este vino procede del premier cru <strong>Aux Fournaux</strong>, uno de los climas de la finca en su pueblo de origen.</p><p>Elaborado con <strong>Pinot Noir</strong> y criado en madera, responde al estilo de la casa: un tinto de cuerpo medio, más centrado en el perfume, la fruta y la frescura que en la potencia. Puede disfrutarse relativamente joven y también evolucionar bien durante varios años en botella.</p>",
+    "en": "<p><strong>Domaine Chandon de Briailles</strong> is a family estate in Savigny-lès-Beaune, in the Côte de Beaune, run by the de Nicolay family. It farms its vineyards biodynamically and is known for fine, fragrant Pinot Noir reds, often made with a proportion of whole bunches and moderate use of new oak.</p><p><strong>Savigny-lès-Beaune</strong> is a village appellation north of Beaune, in a side valley carved by the river Rhoin. Its vineyards are spread over two slopes with different exposures, which gives rise to wines of somewhat different profiles, and it has around twenty climats classified as premier cru. Its reds are usually fresh and fruity, with fine tannins. This wine comes from the premier cru <strong>Aux Fournaux</strong>, one of the estate's climats in its home village.</p><p>Made from <strong>Pinot Noir</strong> and aged in oak, it reflects the house style: a medium-bodied red focused more on perfume, fruit and freshness than on power. It can be enjoyed relatively young and can also develop well for several years in bottle.</p>",
+    "fr": "<p>Le <strong>Domaine Chandon de Briailles</strong> est une propriété familiale de Savigny-lès-Beaune, dans la Côte de Beaune, dirigée par la famille de Nicolay. Il cultive ses vignes en biodynamie et est connu pour des rouges de pinot noir fins et parfumés, souvent vinifiés avec une part de vendange entière et un usage modéré du bois neuf.</p><p><strong>Savigny-lès-Beaune</strong> est une appellation communale située au nord de Beaune, dans une vallée latérale ouverte par la rivière Rhoin. Ses vignes se répartissent sur deux coteaux aux expositions différentes, d'où des vins aux profils un peu distincts, et elle compte une vingtaine de climats classés en premier cru. Ses rouges sont généralement frais, fruités et aux tanins fins. Ce vin provient du premier cru <strong>Aux Fournaux</strong>, l'un des climats du domaine dans son village d'origine.</p><p>Élaboré avec du <strong>pinot noir</strong> et élevé sous bois, il répond au style de la maison : un rouge de corps moyen, davantage axé sur le parfum, le fruit et la fraîcheur que sur la puissance. Il peut s'apprécier relativement jeune et aussi bien évoluer pendant plusieurs années en bouteille.</p>",
+    "it": "<p>Il <strong>Domaine Chandon de Briailles</strong> è una tenuta di famiglia di Savigny-lès-Beaune, nella Côte de Beaune, guidata dalla famiglia de Nicolay. Coltiva i suoi vigneti in biodinamica ed è noto per rossi di Pinot Nero fini e profumati, spesso vinificati con una parte di grappoli interi e un uso moderato del legno nuovo.</p><p><strong>Savigny-lès-Beaune</strong> è una denominazione comunale situata a nord di Beaune, in una valle laterale aperta dal fiume Rhoin. I suoi vigneti si distribuiscono su due versanti con esposizioni diverse, da cui derivano vini di profilo un po' differente, e conta una ventina di climat classificati premier cru. I suoi rossi sono di solito freschi, fruttati e dai tannini fini. Questo vino proviene dal premier cru <strong>Aux Fournaux</strong>, uno dei climat della tenuta nel suo villaggio d'origine.</p><p>Prodotto con <strong>Pinot Nero</strong> e affinato in legno, rispecchia lo stile della casa: un rosso di medio corpo, incentrato più su profumo, frutto e freschezza che sulla potenza. Può essere apprezzato relativamente giovane e può anche evolvere bene per diversi anni in bottiglia.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo rubí claro. Aromas de cereza, frambuesa, flores y un toque especiado. Boca fresca y delicada, de cuerpo medio, con taninos finos y final sabroso.",
+    "en": "Light ruby red. Aromas of cherry, raspberry, flowers and a touch of spice. Fresh and delicate on the palate, medium-bodied, with fine tannins and a savoury finish.",
+    "fr": "Rouge rubis clair. Arômes de cerise, framboise, fleurs et une touche épicée. Bouche fraîche et délicate, de corps moyen, aux tanins fins et à la finale savoureuse.",
+    "it": "Rosso rubino chiaro. Aromi di ciliegia, lampone, fiori e un tocco speziato. Bocca fresca e delicata, di medio corpo, con tannini fini e finale sapido."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Aves asadas, pato, carnes rojas poco hechas, setas, quesos de pasta blanda",
+    "en": "Roast poultry, duck, rare red meat, mushrooms, soft cheeses",
+    "fr": "Volailles rôties, canard, viandes rouges saignantes, champignons, fromages à pâte molle",
+    "it": "Pollame arrosto, anatra, carni rosse al sangue, funghi, formaggi a pasta molle"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "15-17 °C, copa tipo Borgoña",
+    "en": "15-17 °C, Burgundy glass",
+    "fr": "15-17 °C, verre de type bourgogne",
+    "it": "15-17 °C, calice tipo Borgogna"
   },
   "search": "Chandon de Briailles Savigny 1er Cru Aux Fournaux Domaine Chandon de Briailles",
-  "brief": true,
   "source": "decantalo"
 }

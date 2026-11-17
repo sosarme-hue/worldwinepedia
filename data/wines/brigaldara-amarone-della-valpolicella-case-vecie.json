@@ -8,33 +8,40 @@
   "appellation": "DOCG Amarone della Valpolicella Classico",
   "type": "tinto",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "corvina",
+    "rondinella"
+  ],
   "summary": {
-    "es": "Brigaldara Amarone della Valpolicella Case Vecie es un vino tinto de Brigaldara, con la denominación DOCG Amarone della Valpolicella Classico, en Italia.",
-    "en": "Brigaldara Amarone della Valpolicella Case Vecie is a red wine from Brigaldara, made under the DOCG Amarone della Valpolicella Classico appellation in Italy.",
-    "fr": "Brigaldara Amarone della Valpolicella Case Vecie est un vin rouge de Brigaldara, élaboré sous l’appellation DOCG Amarone della Valpolicella Classico (Italie).",
-    "it": "Brigaldara Amarone della Valpolicella Case Vecie è un vino rosso di Brigaldara, prodotto nella denominazione DOCG Amarone della Valpolicella Classico (Italia)."
+    "es": "Amarone della Valpolicella de Brigaldara, la finca de la familia Cavalli en San Floriano, procedente del viñedo Case Vecie y elaborado con uvas pasificadas.",
+    "en": "Amarone della Valpolicella from Brigaldara, the Cavalli family estate in San Floriano, from the Case Vecie vineyard and made from dried grapes.",
+    "fr": "Amarone della Valpolicella de Brigaldara, le domaine de la famille Cavalli à San Floriano, issu du vignoble Case Vecie et élaboré avec des raisins passerillés.",
+    "it": "Amarone della Valpolicella di Brigaldara, la tenuta della famiglia Cavalli a San Floriano, dal vigneto Case Vecie e ottenuto da uve appassite."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 16,5 % vol.</p>",
-    "en": "<p>It is aged in wood. It has 16.5% ABV.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 16,5 % vol.</p>",
-    "it": "<p>È affinato in legno. Ha 16,5% vol.</p>"
+    "es": "<p><strong>Brigaldara</strong> es una finca familiar de San Floriano, en la <strong>Valpolicella</strong>, al norte de Verona, dirigida por la familia Cavalli. Además de sus viñedos en la zona clásica, cultiva parcelas en otras colinas de la denominación, y elabora toda la gama tradicional de la región, del Valpolicella al Recioto, con el Amarone como vino de referencia.</p><p>El <strong>Amarone della Valpolicella</strong> se elabora con las variedades locales, sobre todo <strong>Corvina</strong> y Corvinone, junto a la <strong>Rondinella</strong> y otras uvas autorizadas. Tras la vendimia, los racimos se dejan secar durante varios meses en locales ventilados, el llamado <em>appassimento</em>, que concentra azúcares, aromas y extracto. El mosto resultante fermenta hasta quedar seco, dando un tinto de graduación alta y gran estructura.</p><p><strong>Case Vecie</strong> procede de un viñedo concreto de la casa que se vinifica por separado. Tiene una crianza larga en madera, y su graduación muy elevada es propia de este tipo de vino. Es un Amarone potente y profundo, de larga guarda, que conviene servir decantado.</p>",
+    "en": "<p><strong>Brigaldara</strong> is a family estate in San Floriano, in <strong>Valpolicella</strong>, north of Verona, run by the Cavalli family. In addition to its vineyards in the classic zone, it farms plots in other hills of the appellation, and makes the full traditional range of the region, from Valpolicella to Recioto, with Amarone as its benchmark wine.</p><p><strong>Amarone della Valpolicella</strong> is made from the local varieties, mainly <strong>Corvina</strong> and Corvinone, together with <strong>Rondinella</strong> and other permitted grapes. After harvest, the bunches are left to dry for several months in ventilated lofts, the so-called <em>appassimento</em>, which concentrates sugars, aromas and extract. The resulting must is fermented to dryness, giving a high-alcohol red of great structure.</p><p><strong>Case Vecie</strong> comes from a specific vineyard of the house that is vinified separately. It is given long ageing in wood, and its very high alcohol is typical of the style. It is a powerful, deep Amarone with long ageing potential, best served decanted.</p>",
+    "fr": "<p><strong>Brigaldara</strong> est un domaine familial de San Floriano, en <strong>Valpolicella</strong>, au nord de Vérone, dirigé par la famille Cavalli. Outre ses vignes de la zone classique, il cultive des parcelles sur d’autres collines de l’appellation et élabore toute la gamme traditionnelle de la région, du Valpolicella au Recioto, avec l’Amarone comme vin de référence.</p><p>L’<strong>Amarone della Valpolicella</strong> est élaboré avec les cépages locaux, surtout la <strong>corvina</strong> et le corvinone, avec la <strong>rondinella</strong> et d’autres raisins autorisés. Après la vendange, les grappes sèchent plusieurs mois dans des locaux ventilés, c’est l’<em>appassimento</em>, qui concentre sucres, arômes et extrait. Le moût obtenu fermente jusqu’à la sécheresse, donnant un rouge riche en alcool et très structuré.</p><p><strong>Case Vecie</strong> provient d’un vignoble précis de la maison, vinifié séparément. Il bénéficie d’un long élevage sous bois, et son degré très élevé est propre à ce type de vin. C’est un amarone puissant et profond, de longue garde, qu’il convient de servir carafé.</p>",
+    "it": "<p><strong>Brigaldara</strong> è una tenuta di famiglia di San Floriano, in <strong>Valpolicella</strong>, a nord di Verona, guidata dalla famiglia Cavalli. Oltre ai vigneti nella zona classica, coltiva parcelle su altre colline della denominazione e produce l’intera gamma tradizionale della regione, dal Valpolicella al Recioto, con l’Amarone come vino di riferimento.</p><p>L’<strong>Amarone della Valpolicella</strong> si produce con i vitigni locali, soprattutto <strong>Corvina</strong> e Corvinone, insieme alla <strong>Rondinella</strong> e ad altre uve ammesse. Dopo la vendemmia, i grappoli vengono lasciati appassire per alcuni mesi in locali ventilati, il cosiddetto <em>appassimento</em>, che concentra zuccheri, aromi ed estratto. Il mosto ottenuto fermenta fino a secco, dando un rosso di alta gradazione e grande struttura.</p><p><strong>Case Vecie</strong> proviene da un vigneto preciso della casa, vinificato separatamente. Ha un lungo affinamento in legno e la sua gradazione molto elevata è tipica di questo vino. È un Amarone potente e profondo, di lungo invecchiamento, da servire decantato.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Cereza en licor, ciruela pasa, higo seco, cacao, especias y notas balsámicas. En boca es amplio, cálido y envolvente, con taninos aterciopelados y un final muy largo.",
+    "en": "Cherries in liqueur, prune, dried fig, cocoa, spice and balsamic notes. Broad, warm and enveloping on the palate, with velvety tannins and a very long finish.",
+    "fr": "Cerise à l’eau-de-vie, pruneau, figue sèche, cacao, épices et notes balsamiques. Bouche ample, chaleureuse et enveloppante, aux tanins veloutés et à la finale très longue.",
+    "it": "Ciliegia sotto spirito, prugna secca, fico secco, cacao, spezie e note balsamiche. In bocca è ampio, caldo e avvolgente, con tannini vellutati e un finale molto lungo."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Brasato al Amarone, caza mayor, risotto al Amarone, quesos muy curados como el Monte Veronese stravecchio",
+    "en": "Beef braised in Amarone, large game, Amarone risotto, long-aged cheeses such as Monte Veronese stravecchio",
+    "fr": "Bœuf braisé à l’Amarone, gros gibier, risotto à l’Amarone, fromages très affinés comme le Monte Veronese stravecchio",
+    "it": "Brasato all’Amarone, selvaggina di grossa taglia, risotto all’Amarone, formaggi molto stagionati come il Monte Veronese stravecchio"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "17-18 °C, decantado, copa amplia",
+    "en": "17-18 °C, decanted, large glass",
+    "fr": "17-18 °C, carafé, verre ample",
+    "it": "17-18 °C, decantato, calice ampio"
   },
   "search": "Brigaldara Amarone della Valpolicella Case Vecie Brigaldara",
-  "brief": true,
   "source": "decantalo"
 }

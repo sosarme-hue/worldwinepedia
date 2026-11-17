@@ -8,33 +8,40 @@
   "appellation": "AOC Saint-Émilion",
   "type": "tinto",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "merlot",
+    "cabernet-franc"
+  ],
   "summary": {
-    "es": "Chapelle d’Ausone es un vino tinto de Château Ausone, con la denominación AOC Saint-Émilion, en Francia.",
-    "en": "Chapelle d’Ausone is a red wine from Château Ausone, made under the AOC Saint-Émilion appellation in France.",
-    "fr": "Chapelle d’Ausone est un vin rouge de Château Ausone, élaboré sous l’appellation AOC Saint-Émilion (France).",
-    "it": "Chapelle d’Ausone è un vino rosso di Château Ausone, prodotto nella denominazione AOC Saint-Émilion (Francia)."
+    "es": "Segundo vino de Château Ausone, en Saint-Émilion, elaborado con Merlot y Cabernet Franc de la propiedad de la familia Vauthier.",
+    "en": "Second wine of Château Ausone in Saint-Émilion, made from Merlot and Cabernet Franc grown on the Vauthier family's estate.",
+    "fr": "Second vin du Château Ausone, à Saint-Émilion, élaboré avec le merlot et le cabernet franc de la propriété de la famille Vauthier.",
+    "it": "Secondo vino di Château Ausone, a Saint-Émilion, prodotto con Merlot e Cabernet Franc della proprietà della famiglia Vauthier."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 13 % vol.</p><p>Una de las propiedades más prestigiosas de Saint-Émilion, en las laderas calcáreas junto a la villa, célebre por un tinto de Cabernet Franc y Merlot de larguísima guarda.</p><p>Saint-Émilion, en la orilla derecha del Dordoña, es una de las grandes denominaciones de Burdeos, conocida por sus tintos dominados por la Merlot y la Cabernet Franc. Su pueblo medieval y su paisaje vitícola figuran en la lista del Patrimonio Mundial de la UNESCO.</p>",
-    "en": "<p>It is aged in wood. It has 13% ABV.</p><p>One of the most prestigious estates in Saint-Émilion, on the limestone slopes beside the town, famous for a very long-lived Cabernet Franc and Merlot red.</p><p>Saint-Émilion, on the right bank of the Dordogne, is one of the great appellations of Bordeaux, known for its reds dominated by Merlot and Cabernet Franc. Its medieval town and vineyard landscape are on the UNESCO World Heritage List.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 13 % vol.</p><p>L'une des propriétés les plus prestigieuses de Saint-Émilion, sur les coteaux calcaires au pied de la ville, célèbre pour un rouge de cabernet franc et de merlot de très longue garde.</p><p>Saint-Émilion, sur la rive droite de la Dordogne, est l'une des grandes appellations bordelaises, connue pour ses rouges dominés par le merlot et le cabernet franc. Son village médiéval et son paysage viticole sont inscrits au patrimoine mondial de l'UNESCO.</p>",
-    "it": "<p>È affinato in legno. Ha 13% vol.</p><p>Una delle tenute più prestigiose di Saint-Émilion, sui pendii calcarei accanto alla cittadina, celebre per un rosso di Cabernet Franc e Merlot di lunghissimo invecchiamento.</p><p>Saint-Émilion, sulla riva destra della Dordogna, è una delle grandi denominazioni di Bordeaux, nota per i rossi dominati da Merlot e Cabernet Franc. Il suo borgo medievale e il suo paesaggio viticolo sono iscritti nel Patrimonio mondiale dell'UNESCO.</p>"
+    "es": "<p><strong>Château Ausone</strong> es una de las propiedades más prestigiosas de Saint-Émilion, en la orilla derecha de Burdeos. Su nombre evoca al poeta latino Ausonio, y su pequeño viñedo ocupa la ladera y el borde de la meseta caliza al sur de la villa medieval, con algunas canteras subterráneas antiguas excavadas en la roca. Pertenece desde hace generaciones a la familia Vauthier.</p><p><strong>Chapelle d'Ausone</strong> es su segundo vino. Se elabora con uvas del mismo viñedo, en particular de parcelas jóvenes o de lotes que no se destinan al gran vino, y comparte con él la combinación de <strong>Merlot</strong> y <strong>Cabernet Franc</strong>, variedad que en Ausone tiene un peso mayor que en la mayoría de las fincas de Saint-Émilion.</p><p>Criado en barricas de roble, es un tinto de estructura firme y gran finura, con la frescura y el perfil mineral que aportan los suelos calizos. Aunque suele ser algo más accesible que el gran vino, también tiene capacidad para mejorar durante años en botella y conviene decantarlo si se bebe joven.</p>",
+    "en": "<p><strong>Château Ausone</strong> is one of the most prestigious estates in Saint-Émilion, on the right bank of Bordeaux. Its name evokes the Latin poet Ausonius, and its small vineyard covers the slope and edge of the limestone plateau south of the medieval town, with some old underground quarries carved into the rock. It has belonged to the Vauthier family for generations.</p><p><strong>Chapelle d'Ausone</strong> is its second wine. It is made from grapes from the same vineyard, particularly from young plots or lots not used for the grand vin, and shares with it the combination of <strong>Merlot</strong> and <strong>Cabernet Franc</strong>, a variety that carries more weight at Ausone than at most Saint-Émilion estates.</p><p>Aged in oak barrels, it is a red of firm structure and great finesse, with the freshness and mineral profile brought by the limestone soils. Although it is usually somewhat more approachable than the grand vin, it too can improve for years in bottle and is best decanted if drunk young.</p>",
+    "fr": "<p><strong>Château Ausone</strong> est l'une des propriétés les plus prestigieuses de Saint-Émilion, sur la rive droite de Bordeaux. Son nom évoque le poète latin Ausone, et son petit vignoble occupe le coteau et le rebord du plateau calcaire au sud de la cité médiévale, avec d'anciennes carrières souterraines creusées dans la roche. Il appartient depuis des générations à la famille Vauthier.</p><p><strong>Chapelle d'Ausone</strong> est son second vin. Il est élaboré avec des raisins du même vignoble, notamment de jeunes parcelles ou de lots non retenus pour le grand vin, et partage avec lui l'association du <strong>merlot</strong> et du <strong>cabernet franc</strong>, cépage qui pèse davantage à Ausone que dans la plupart des propriétés de Saint-Émilion.</p><p>Élevé en barriques de chêne, c'est un rouge à la structure ferme et d'une grande finesse, avec la fraîcheur et le profil minéral qu'apportent les sols calcaires. S'il est généralement un peu plus accessible que le grand vin, il peut lui aussi s'améliorer pendant des années en bouteille et gagne à être carafé s'il est bu jeune.</p>",
+    "it": "<p><strong>Château Ausone</strong> è una delle proprietà più prestigiose di Saint-Émilion, sulla riva destra di Bordeaux. Il nome evoca il poeta latino Ausonio, e il suo piccolo vigneto occupa il pendio e il bordo dell'altopiano calcareo a sud della cittadina medievale, con alcune antiche cave sotterranee scavate nella roccia. Appartiene da generazioni alla famiglia Vauthier.</p><p><strong>Chapelle d'Ausone</strong> è il suo secondo vino. È prodotto con uve dello stesso vigneto, in particolare da parcelle giovani o da lotti non destinati al grand vin, e ne condivide l'unione di <strong>Merlot</strong> e <strong>Cabernet Franc</strong>, varietà che ad Ausone ha un peso maggiore che nella maggior parte delle proprietà di Saint-Émilion.</p><p>Affinato in barrique di rovere, è un rosso di struttura salda e grande finezza, con la freschezza e il profilo minerale dati dai suoli calcarei. Pur essendo di solito un po' più accessibile del grand vin, può anch'esso migliorare per anni in bottiglia e conviene decantarlo se bevuto giovane.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo picota profundo. Aromas de ciruela, mora, cereza, hierbas, grafito y tostados finos. Boca elegante y firme, con taninos pulidos, frescura y final largo.",
+    "en": "Deep cherry red. Aromas of plum, blackberry, cherry, herbs, graphite and fine toast. Elegant and firm on the palate, with polished tannins, freshness and a long finish.",
+    "fr": "Rouge cerise profond. Arômes de prune, mûre, cerise, herbes, graphite et toasté fin. Bouche élégante et ferme, aux tanins polis, fraîche, à la finale longue.",
+    "it": "Rosso ciliegia profondo. Aromi di prugna, mora, ciliegia, erbe, grafite e tostature fini. Bocca elegante e decisa, con tannini levigati, freschezza e finale lungo."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Cordero asado, carnes rojas, pato, caza de pluma, quesos curados",
+    "en": "Roast lamb, red meat, duck, feathered game, aged cheeses",
+    "fr": "Agneau rôti, viandes rouges, canard, gibier à plume, fromages affinés",
+    "it": "Agnello arrosto, carni rosse, anatra, selvaggina da piuma, formaggi stagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "16-18 °C, decantado, copa tipo Burdeos",
+    "en": "16-18 °C, decanted, Bordeaux glass",
+    "fr": "16-18 °C, carafé, verre de type bordeaux",
+    "it": "16-18 °C, decantato, calice tipo Bordeaux"
   },
   "search": "Chapelle d’Ausone Château Ausone",
-  "brief": true,
   "source": "decantalo"
 }

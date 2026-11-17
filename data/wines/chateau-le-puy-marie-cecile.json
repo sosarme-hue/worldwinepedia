@@ -12,31 +12,35 @@
     "semillon"
   ],
   "summary": {
-    "es": "Château Le Puy Marie-Cécile es un vino blanco de Château Le Puy, con la denominación AOC Francs - Côtes de Bordeaux, en Francia.",
-    "en": "Château Le Puy Marie-Cécile is a white wine from Château Le Puy, made under the AOC Francs - Côtes de Bordeaux appellation in France.",
-    "fr": "Château Le Puy Marie-Cécile est un vin blanc de Château Le Puy, élaboré sous l’appellation AOC Francs - Côtes de Bordeaux (France).",
-    "it": "Château Le Puy Marie-Cécile è un vino bianco di Château Le Puy, prodotto nella denominazione AOC Francs - Côtes de Bordeaux (Francia)."
+    "es": "Blanco de Semillon de Château Le Puy, finca familiar de los Côtes de Francs conocida por su viticultura sin productos de síntesis y sus vinos de intervención mínima.",
+    "en": "A Sémillon white from Château Le Puy, a family estate in the Côtes de Francs known for farming without synthetic products and for its low-intervention wines.",
+    "fr": "Blanc de sémillon de Château Le Puy, domaine familial des Côtes de Francs connu pour sa viticulture sans produits de synthèse et ses vins peu interventionnistes.",
+    "it": "Bianco di Sémillon di Château Le Puy, tenuta di famiglia delle Côtes de Francs nota per la viticoltura senza prodotti di sintesi e per i suoi vini a intervento minimo."
   },
   "body": {
-    "es": "<p>Se elabora con Semillon. Tiene crianza en madera. Su graduación es de 14,45 % vol.</p>",
-    "en": "<p>It is made from Semillon. It is aged in wood. It has 14.45% ABV.</p>",
-    "fr": "<p>Il est élaboré à partir de Sémillon. Il est élevé en bois. Il titre 14,45 % vol.</p>",
-    "it": "<p>È prodotto con Sémillon. È affinato in legno. Ha 14,45% vol.</p>"
+    "es": "<p><strong>Château Le Puy</strong> es una propiedad de la familia <strong>Amoreau</strong> situada en Saint-Cibard, en la denominación <strong>Francs - Côtes de Bordeaux</strong>, al este de Saint-Émilion. Su viñedo ocupa una meseta de suelos arcillo-calcáreos con sílex, y la familia lo ha trabajado durante generaciones sin herbicidas ni pesticidas de síntesis, aplicando hoy prácticas biodinámicas. Le Puy es una referencia en Burdeos para los aficionados a los vinos naturales y de intervención mínima.</p><p><strong>Marie-Cécile</strong>, que lleva el nombre de un miembro de la familia, es el blanco de la casa, elaborado con <strong>Semillon</strong>, la variedad blanca tradicional de la orilla derecha. Se vendimia a mano, fermenta con levaduras autóctonas y se cría en madera, con un uso muy moderado del sulfuroso.</p><p>El resultado es un blanco seco de textura amplia y grasa, en el que la Semillon aporta cuerpo y notas de cera y miel, y el suelo calcáreo, frescura. Es un vino que gana complejidad con algunos años de botella.</p>",
+    "en": "<p><strong>Château Le Puy</strong> is an estate owned by the <strong>Amoreau</strong> family in Saint-Cibard, in the <strong>Francs - Côtes de Bordeaux</strong> appellation, east of Saint-Émilion. Its vineyard covers a plateau of clay-limestone soils with flint, which the family has farmed for generations without herbicides or synthetic pesticides, now using biodynamic practices. Le Puy is a reference point in Bordeaux for lovers of natural and low-intervention wines.</p><p><strong>Marie-Cécile</strong>, named after a member of the family, is the estate's white, made from <strong>Sémillon</strong>, the traditional white variety of the Right Bank. It is hand-harvested, fermented with indigenous yeasts and aged in wood, with very moderate use of sulphur.</p><p>The result is a dry white with a broad, rich texture, in which Sémillon brings body and notes of wax and honey, while the limestone soil adds freshness. It is a wine that gains complexity with a few years in bottle.</p>",
+    "fr": "<p><strong>Château Le Puy</strong> est une propriété de la famille <strong>Amoreau</strong> située à Saint-Cibard, dans l'appellation <strong>Francs - Côtes de Bordeaux</strong>, à l'est de Saint-Émilion. Son vignoble occupe un plateau aux sols argilo-calcaires à silex, que la famille cultive depuis des générations sans désherbants ni pesticides de synthèse, en suivant aujourd'hui des pratiques biodynamiques. Le Puy est une référence bordelaise pour les amateurs de vins nature et peu interventionnistes.</p><p><strong>Marie-Cécile</strong>, qui porte le prénom d'un membre de la famille, est le blanc de la maison, élaboré à partir de <strong>sémillon</strong>, cépage blanc traditionnel de la rive droite. Il est vendangé à la main, fermenté avec des levures indigènes et élevé sous bois, avec un usage très modéré du soufre.</p><p>Il en résulte un blanc sec à la texture ample et grasse, où le sémillon apporte du corps et des notes de cire et de miel, et le sol calcaire de la fraîcheur. C'est un vin qui gagne en complexité après quelques années de bouteille.</p>",
+    "it": "<p><strong>Château Le Puy</strong> è una tenuta della famiglia <strong>Amoreau</strong> situata a Saint-Cibard, nella denominazione <strong>Francs - Côtes de Bordeaux</strong>, a est di Saint-Émilion. Il vigneto occupa un altopiano di suoli argillo-calcarei con selce, che la famiglia coltiva da generazioni senza diserbanti né pesticidi di sintesi, seguendo oggi pratiche biodinamiche. Le Puy è un riferimento bordolese per gli appassionati di vini naturali e a intervento minimo.</p><p><strong>Marie-Cécile</strong>, che porta il nome di un membro della famiglia, è il bianco della casa, prodotto con <strong>Sémillon</strong>, il vitigno bianco tradizionale della riva destra. Viene vendemmiato a mano, fermentato con lieviti indigeni e affinato in legno, con un uso molto moderato di solfiti.</p><p>Il risultato è un bianco secco dalla trama ampia e grassa, in cui il Sémillon apporta corpo e note di cera e miele, e il suolo calcareo freschezza. È un vino che guadagna complessità con qualche anno di bottiglia.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Amarillo dorado. Aromas de fruta de hueso, cítricos maduros, cera de abeja y miel, con un toque de frutos secos. Boca untuosa y amplia, con una acidez fresca y final salino.",
+    "en": "Golden yellow. Aromas of stone fruit, ripe citrus, beeswax and honey, with a touch of nuts. Unctuous, broad palate with fresh acidity and a saline finish.",
+    "fr": "Jaune doré. Arômes de fruits à noyau, d'agrumes mûrs, de cire d'abeille et de miel, avec une touche de fruits secs. Bouche onctueuse et ample, à l'acidité fraîche et à la finale saline.",
+    "it": "Giallo dorato. Aromi di frutta a nocciolo, agrumi maturi, cera d'api e miele, con un tocco di frutta secca. Bocca untuosa e ampia, acidità fresca e finale sapido."
+  },
   "pairing": {
-    "es": "Pescados, mariscos, arroces, quesos frescos",
-    "en": "Fish, shellfish, rice dishes, fresh cheeses",
-    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
-    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+    "es": "Pescados en salsa, ave asada, cocina con mantequilla, quesos de cabra curados",
+    "en": "Fish in sauce, roast poultry, butter-based dishes, aged goat's cheeses",
+    "fr": "Poissons en sauce, volaille rôtie, cuisine au beurre, fromages de chèvre affinés",
+    "it": "Pesce in salsa, pollame arrosto, piatti al burro, formaggi di capra stagionati"
   },
   "serve": {
-    "es": "8-11 °C, copa de vino blanco",
-    "en": "8-11 °C, white wine glass",
-    "fr": "8-11 °C, verre à vin blanc",
-    "it": "8-11 °C, calice da vino bianco"
+    "es": "11-13 °C, copa amplia de blanco",
+    "en": "11-13 °C, large white wine glass",
+    "fr": "11-13 °C, grand verre à vin blanc",
+    "it": "11-13 °C, calice ampio da bianco"
   },
   "search": "Château Le Puy Marie-Cécile Château Le Puy",
-  "brief": true,
   "source": "decantalo"
 }

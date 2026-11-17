@@ -7,41 +7,40 @@
   "country": "espana",
   "appellation": "DO Toro",
   "type": "tinto",
-  "category": {
-    "es": "Crianza",
-    "en": "Crianza",
-    "fr": "Crianza",
-    "it": "Crianza"
-  },
+  "category": null,
   "grapes": [
     "tempranillo"
   ],
   "summary": {
-    "es": "Alabaster es un vino tinto de Teso la Monja, con la denominación DO Toro, en España.",
-    "en": "Alabaster is a red wine from Teso la Monja, made under the DO Toro appellation in Spain.",
-    "fr": "Alabaster est un vin rouge de Teso la Monja, élaboré sous l’appellation DO Toro (Espagne).",
-    "it": "Alabaster è un vino rosso di Teso la Monja, prodotto nella denominazione DO Toro (Spagna)."
+    "es": "Tinto de Tinta de Toro de Teso La Monja, la bodega de la familia Eguren en Toro, procedente de viñedos muy viejos y criado en roble francés.",
+    "en": "Tinta de Toro red from Teso La Monja, the Eguren family's winery in Toro, from very old vineyards and aged in French oak.",
+    "fr": "Rouge de tinta de Toro de Teso La Monja, la bodega de la famille Eguren à Toro, issu de très vieilles vignes et élevé en chêne français.",
+    "it": "Rosso di Tinta de Toro di Teso La Monja, la cantina della famiglia Eguren a Toro, da vigneti molto vecchi e affinato in rovere francese."
   },
   "body": {
-    "es": "<p>Se elabora con Tempranillo. Lleva la mención Crianza. Su graduación es de 14,5 % vol.</p><p>Toro es una denominación de origen de Zamora y Valladolid, a orillas del Duero, reconocida en 1987. Sus tintos de Tinta de Toro, variante local de la Tempranillo, destacan por su color intenso, su estructura y su madurez.</p>",
-    "en": "<p>It is made from Tempranillo. It carries the Crianza designation. It has 14.5% ABV.</p><p>Toro is a designation of origin in Zamora and Valladolid, on the banks of the Duero, recognised in 1987. Its reds from Tinta de Toro, the local form of Tempranillo, are noted for their deep colour, structure and ripeness.</p>",
-    "fr": "<p>Il est élaboré à partir de Tempranillo. Il porte la mention Crianza. Il titre 14,5 % vol.</p><p>Toro est une dénomination d'origine de Zamora et de Valladolid, sur les rives du Douro, reconnue en 1987. Ses rouges de tinta de Toro, forme locale du tempranillo, se distinguent par leur couleur intense, leur structure et leur maturité.</p>",
-    "it": "<p>È prodotto con Tempranillo. Riporta la menzione Crianza. Ha 14,5% vol.</p><p>Toro è una denominazione di origine di Zamora e Valladolid, sulle rive del Duero, riconosciuta nel 1987. I suoi rossi di Tinta de Toro, forma locale del Tempranillo, si distinguono per colore intenso, struttura e maturità.</p>"
+    "es": "<p><strong>Teso La Monja</strong> es el proyecto de la familia <strong>Eguren</strong>, viticultores riojanos (Sierra Cantabria) que fueron de los primeros en apostar por la DO Toro a finales de los años noventa, con la creación de Numanthia. Tras vender aquella bodega, crearon Teso La Monja en Valdefinjas, con una gama que va de vinos de pueblo a tintos de viñedos singulares.</p><p><strong>Alabaster</strong> ocupa uno de los escalones más altos de la casa. Se elabora con <strong>Tinta de Toro</strong>, la variante local del Tempranillo, procedente de viñedos muy viejos, muchos de ellos plantados en pie franco sobre los suelos arenosos de la zona, donde la filoxera apenas penetró. Fermenta y se cría en barricas de roble francés, y da un tinto potente, de unos 14,5 % vol., con fruta negra muy madura, gran concentración y taninos abundantes pero maduros. El clima continental extremo de Toro, con veranos muy calurosos y noches frescas, explica su intensidad y su capacidad de guarda.</p>",
+    "en": "<p><strong>Teso La Monja</strong> is the project of the <strong>Eguren</strong> family, Rioja growers (Sierra Cantabria) who were among the first to bet on DO Toro in the late 1990s, when they founded Numanthia. After selling that winery, they created Teso La Monja in Valdefinjas, with a range running from village wines to single-vineyard reds.</p><p><strong>Alabaster</strong> sits near the top of the house's range. It is made from <strong>Tinta de Toro</strong>, the local variant of Tempranillo, from very old vineyards, many of them ungrafted on the area's sandy soils, where phylloxera barely took hold. It ferments and ages in French oak barrels, and gives a powerful red of around 14.5% ABV, with very ripe black fruit, great concentration and abundant but ripe tannins. Toro's extreme continental climate, with very hot summers and cool nights, explains its intensity and ageing potential.</p>",
+    "fr": "<p><strong>Teso La Monja</strong> est le projet de la famille <strong>Eguren</strong>, viticulteurs de la Rioja (Sierra Cantabria) qui furent parmi les premiers à miser sur la DO Toro à la fin des années 1990, en créant Numanthia. Après avoir vendu cette bodega, ils ont fondé Teso La Monja à Valdefinjas, avec une gamme allant des vins de village aux rouges de vignes singulières.</p><p><strong>Alabaster</strong> occupe l'un des échelons les plus élevés de la maison. Il est élaboré avec la <strong>tinta de Toro</strong>, variante locale du tempranillo, issue de très vieilles vignes, souvent franches de pied sur les sols sableux du secteur, où le phylloxéra n'a guère pénétré. Fermenté et élevé en barriques de chêne français, il donne un rouge puissant, d'environ 14,5 % vol., aux fruits noirs très mûrs, d'une grande concentration et aux tanins abondants mais mûrs. Le climat continental extrême de Toro, aux étés très chauds et aux nuits fraîches, explique son intensité et son potentiel de garde.</p>",
+    "it": "<p><strong>Teso La Monja</strong> è il progetto della famiglia <strong>Eguren</strong>, viticoltori riojani (Sierra Cantabria) che furono tra i primi a puntare sulla DO Toro alla fine degli anni Novanta, fondando Numanthia. Dopo aver venduto quella cantina, hanno creato Teso La Monja a Valdefinjas, con una gamma che va dai vini di paese ai rossi di vigneti singoli.</p><p><strong>Alabaster</strong> occupa uno dei gradini più alti della casa. È prodotto con <strong>Tinta de Toro</strong>, la variante locale del Tempranillo, da vigneti molto vecchi, molti a piede franco sui suoli sabbiosi della zona, dove la fillossera quasi non penetrò. Fermenta e affina in barrique di rovere francese e dà un rosso potente, di circa 14,5% vol., con frutto nero molto maturo, grande concentrazione e tannini abbondanti ma maturi. Il clima continentale estremo di Toro, con estati molto calde e notti fresche, spiega la sua intensità e la capacità d'invecchiamento.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo picota casi opaco. Aromas de mora, ciruela negra, regaliz, cacao, especias y tostados. Boca potente y densa, con taninos maduros y final muy largo.",
+    "en": "Almost opaque deep cherry red. Aromas of blackberry, black plum, liquorice, cocoa, spice and toast. Powerful, dense palate with ripe tannins and a very long finish.",
+    "fr": "Rouge cerise presque opaque. Arômes de mûre, de prune noire, de réglisse, de cacao, d'épices et de toasté. Bouche puissante et dense, aux tanins mûrs et à la finale très longue.",
+    "it": "Rosso ciliegia quasi impenetrabile. Aromi di mora, prugna nera, liquirizia, cacao, spezie e tostatura. Bocca potente e densa, tannini maturi e finale molto lungo."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Carnes rojas a la brasa, caza mayor, estofados, lechazo, quesos curados de oveja",
+    "en": "Chargrilled red meat, large game, stews, milk-fed lamb, aged sheep's cheeses",
+    "fr": "Viandes rouges à la braise, gros gibier, daubes, agneau de lait, fromages de brebis affinés",
+    "it": "Carni rosse alla brace, selvaggina di grossa taglia, stufati, agnello da latte, pecorini stagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
   },
   "search": "Alabaster Teso la Monja",
-  "brief": true,
   "source": "decantalo"
 }

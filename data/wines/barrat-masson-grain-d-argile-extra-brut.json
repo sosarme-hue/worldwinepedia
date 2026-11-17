@@ -7,34 +7,43 @@
   "country": "francia",
   "appellation": null,
   "type": "espumoso",
-  "category": null,
+  "category": {
+    "es": "Extra Brut",
+    "en": "Extra Brut",
+    "fr": "Extra Brut",
+    "it": "Extra Brut"
+  },
   "grapes": [],
   "summary": {
-    "es": "Barrat Masson Grain d'Argile Extra Brut es un vino espumoso de Barrat Masson, en Francia.",
-    "en": "Barrat Masson Grain d'Argile Extra Brut is a sparkling wine from Barrat Masson in France.",
-    "fr": "Barrat Masson Grain d'Argile Extra Brut est un vin effervescent de Barrat Masson (France).",
-    "it": "Barrat Masson Grain d'Argile Extra Brut è un vino spumante di Barrat Masson (Francia)."
+    "es": "Champagne Extra Brut del pequeño productor Barrat Masson, cuyo nombre, «grano de arcilla», alude a los suelos arcillosos de los que procede.",
+    "en": "Extra Brut Champagne from the small producer Barrat Masson, whose name, “grain of clay”, alludes to the clay soils it comes from.",
+    "fr": "Champagne Extra Brut du petit producteur Barrat Masson, dont le nom évoque les sols argileux dont il est issu.",
+    "it": "Champagne Extra Brut del piccolo produttore Barrat Masson, il cui nome, «grano d’argilla», allude ai suoli argillosi da cui proviene."
   },
   "body": {
-    "es": "<p>Su graduación es de 12 % vol.</p>",
-    "en": "<p>It has 12% ABV.</p>",
-    "fr": "<p>Il titre 12 % vol.</p>",
-    "it": "<p>Ha 12% vol.</p>"
+    "es": "<p><strong>Barrat Masson</strong> es un pequeño productor de Champagne de los llamados vignerons, que elaboran y embotellan el vino de sus propias viñas en lugar de vender la uva a las grandes casas. Este tipo de champagne de viticultor, que ha ganado peso en las últimas décadas, suele poner el acento en la parcela, el suelo y la añada más que en un estilo de casa constante.</p><p><strong>Grain d’Argile</strong> («grano de arcilla») forma pareja con el Fleur de Craie de la misma casa: mientras este remite a la creta, aquel pone el acento en los suelos con más arcilla, que retienen más agua y suelen dar vinos de mayor cuerpo y textura, con una fruta algo más amplia que la de los suelos puramente calcáreos.</p><p>Elaborado por el método tradicional, con segunda fermentación en botella y crianza sobre lías antes del degüelle, lleva la mención <strong>Extra Brut</strong>, que indica una dosificación muy baja, inferior a 6 gramos de azúcar por litro. Con tan poco azúcar añadido, el vino muestra sin máscaras la acidez y el carácter de la uva y del suelo. Su graduación es de 12 % vol.</p>",
+    "en": "<p><strong>Barrat Masson</strong> is a small Champagne producer of the kind known as vignerons, who make and bottle wine from their own vineyards instead of selling their grapes to the large houses. This type of grower Champagne, which has gained ground in recent decades, tends to emphasise the plot, the soil and the vintage rather than a consistent house style.</p><p><strong>Grain d’Argile</strong> (“grain of clay”) is a counterpart to the same house’s Fleur de Craie: while the latter refers to chalk, this one puts the emphasis on soils with more clay, which hold more water and tend to give wines with greater body and texture, and somewhat broader fruit than those from purely chalky soils.</p><p>Made by the traditional method, with second fermentation in bottle and lees ageing before disgorgement, it carries the <strong>Extra Brut</strong> designation, which indicates a very low dosage, below 6 grams of sugar per litre. With so little added sugar, the wine shows the acidity and character of the grape and the soil without disguise. It has 12% ABV.</p>",
+    "fr": "<p><strong>Barrat Masson</strong> est un petit producteur de Champagne de ceux que l’on appelle vignerons, qui élaborent et mettent en bouteille le vin de leurs propres vignes au lieu de vendre leurs raisins aux grandes maisons. Ce type de champagne de vigneron, qui a gagné du terrain au cours des dernières décennies, met généralement l’accent sur la parcelle, le sol et le millésime plutôt que sur un style maison constant.</p><p><strong>Grain d’Argile</strong> fait pendant au Fleur de Craie de la même maison : tandis que celui-ci renvoie à la craie, celui-là met l’accent sur les sols plus argileux, qui retiennent davantage d’eau et donnent généralement des vins de plus de corps et de texture, au fruit un peu plus ample que ceux des sols purement crayeux.</p><p>Élaboré selon la méthode traditionnelle, avec seconde fermentation en bouteille et vieillissement sur lies avant le dégorgement, il porte la mention <strong>Extra Brut</strong>, qui indique un dosage très faible, inférieur à 6 grammes de sucre par litre. Avec si peu de sucre ajouté, le vin montre sans fard l’acidité et le caractère du raisin et du sol. Il titre 12 % vol.</p>",
+    "it": "<p><strong>Barrat Masson</strong> è un piccolo produttore di Champagne del tipo detto vigneron, che vinifica e imbottiglia il vino delle proprie vigne invece di vendere le uve alle grandi maison. Questo tipo di Champagne di vignaiolo, che ha guadagnato spazio negli ultimi decenni, tende a mettere l’accento sulla parcella, sul suolo e sull’annata più che su uno stile della casa costante.</p><p><strong>Grain d’Argile</strong> («grano d’argilla») fa coppia con il Fleur de Craie della stessa casa: mentre quest’ultimo rimanda al gesso, questo pone l’accento sui suoli più ricchi di argilla, che trattengono più acqua e tendono a dare vini di maggiore corpo e consistenza, con un frutto un po’ più ampio rispetto a quelli dei suoli puramente calcarei.</p><p>Prodotto con il metodo tradizionale, con seconda fermentazione in bottiglia e maturazione sui lieviti prima della sboccatura, porta la menzione <strong>Extra Brut</strong>, che indica un dosaggio molto basso, inferiore a 6 grammi di zucchero per litro. Con così poco zucchero aggiunto, il vino mostra senza filtri l’acidità e il carattere dell’uva e del suolo. Ha una gradazione di 12% vol.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Amarillo dorado pálido con burbuja fina. Aromas de fruta blanca y amarilla, cítricos y notas de pan tostado. En boca es seco y fresco, con buena textura y final largo.",
+    "en": "Pale golden yellow with fine bubbles. Aromas of white and yellow fruit, citrus and toast. Dry and fresh on the palate, with good texture and a long finish.",
+    "fr": "Jaune doré pâle à la bulle fine. Arômes de fruits blancs et jaunes, d’agrumes et notes de pain grillé. En bouche, il est sec et frais, d’une belle texture, à la finale longue.",
+    "it": "Giallo dorato tenue con perlage fine. Aromi di frutta bianca e gialla, agrumi e note di pane tostato. In bocca è secco e fresco, di buona consistenza, con finale lungo."
+  },
   "pairing": {
-    "es": "Aperitivo, mariscos, fritos, pescados",
-    "en": "Aperitif, shellfish, fried food, fish",
-    "fr": "Apéritif, fruits de mer, fritures, poissons",
-    "it": "Aperitivo, frutti di mare, fritture, pesce"
+    "es": "Aperitivo, marisco, pescados en salsa, aves, quesos curados de pasta dura",
+    "en": "Aperitif, shellfish, fish in sauce, poultry, hard aged cheeses",
+    "fr": "Apéritif, fruits de mer, poissons en sauce, volailles, fromages à pâte dure affinés",
+    "it": "Aperitivo, frutti di mare, pesce in salsa, pollame, formaggi stagionati a pasta dura"
   },
   "serve": {
-    "es": "6-8 °C, copa de espumoso",
-    "en": "6-8 °C, sparkling wine glass",
-    "fr": "6-8 °C, verre à vin effervescent",
-    "it": "6-8 °C, calice da spumante"
+    "es": "8-10 °C, copa de vino blanco o tulipa",
+    "en": "8-10 °C, white wine or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da vino bianco o a tulipano"
   },
   "search": "Barrat Masson Grain d'Argile Extra Brut Barrat Masson",
-  "brief": true,
   "source": "decantalo"
 }

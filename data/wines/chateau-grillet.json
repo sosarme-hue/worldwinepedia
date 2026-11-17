@@ -3,38 +3,44 @@
   "name": "Chateau Grillet",
   "winery": null,
   "winery_name": "Château-Grillet",
-  "region": "cotes-du-rhone",
+  "region": "rhone-nord",
   "country": "francia",
-  "appellation": "AOC Côtes du Rhône",
+  "appellation": "AOC Château-Grillet",
   "type": "blanco",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "viognier"
+  ],
   "summary": {
-    "es": "Chateau Grillet es un vino blanco de Château-Grillet, con la denominación AOC Côtes du Rhône, en Francia.",
-    "en": "Chateau Grillet is a white wine from Château-Grillet, made under the AOC Côtes du Rhône appellation in France.",
-    "fr": "Chateau Grillet est un vin blanc de Château-Grillet, élaboré sous l’appellation AOC Côtes du Rhône (France).",
-    "it": "Chateau Grillet è un vino bianco di Château-Grillet, prodotto nella denominazione AOC Côtes du Rhône (Francia)."
+    "es": "Blanco de Viognier de Château-Grillet, en el norte del Ródano, una de las pocas propiedades francesas que constituyen por sí solas una denominación de origen.",
+    "en": "Viognier white from Château-Grillet, in the northern Rhône, one of the few French estates that form an appellation on their own.",
+    "fr": "Blanc de viognier de Château-Grillet, dans le Rhône septentrional, l'une des rares propriétés françaises à constituer à elle seule une appellation.",
+    "it": "Bianco di Viognier di Château-Grillet, nel Rodano settentrionale, una delle poche proprietà francesi che costituiscono da sole una denominazione."
   },
   "body": {
-    "es": "<p>Su graduación es de 14 % vol.</p><p>Côtes du Rhône es la denominación regional del valle del Ródano y una de las más extensas de Francia. La mayor parte de su producción procede del sur del valle y consiste en tintos de ensamblaje a base de Garnacha, Syrah y Mourvèdre.</p>",
-    "en": "<p>It has 14% ABV.</p><p>Côtes du Rhône is the regional appellation of the Rhône valley and one of the largest in France. Most of its output comes from the south of the valley and consists of red blends based on Grenache, Syrah and Mourvèdre.</p>",
-    "fr": "<p>Il titre 14 % vol.</p><p>Côtes du Rhône est l'appellation régionale de la vallée du Rhône et l'une des plus étendues de France. L'essentiel de sa production provient du sud de la vallée et consiste en rouges d'assemblage à base de grenache, de syrah et de mourvèdre.</p>",
-    "it": "<p>Ha 14% vol.</p><p>Côtes du Rhône è la denominazione regionale della valle del Rodano e una delle più estese di Francia. La maggior parte della produzione proviene dal sud della valle e consiste in rossi da uvaggio a base di Grenache, Syrah e Mourvèdre.</p>"
+    "es": "<p><strong>Château-Grillet</strong> es una pequeña propiedad del norte del Ródano, en el municipio de Vérin, rodeada por la denominación Condrieu. Es una de las escasas fincas de Francia que constituyen por sí solas una denominación de origen controlada, la AOC Château-Grillet. Desde 2011 pertenece a François Pinault, propietario también de Château Latour en Pauillac.</p><p>El viñedo forma un anfiteatro de terrazas sostenidas por muros de piedra sobre una ladera de granito muy empinada, orientada al sur y abrigada de los vientos, por encima del río Ródano. Está plantado exclusivamente con <strong>Viognier</strong>, la variedad blanca emblemática de esta parte del valle, que estuvo a punto de desaparecer a mediados del siglo XX antes de recuperarse.</p><p>Criado en barricas, es un blanco seco de gran textura, con los aromas florales y de fruta de hueso característicos de la Viognier y una frescura mineral que le permite, a diferencia de muchos vinos de esta variedad, evolucionar durante años en botella. Su graduación elevada refleja la plena madurez de la uva.</p>",
+    "en": "<p><strong>Château-Grillet</strong> is a small estate in the northern Rhône, in the commune of Vérin, surrounded by the Condrieu appellation. It is one of the few properties in France that form an appellation d'origine contrôlée on their own, the AOC Château-Grillet. Since 2011 it has belonged to François Pinault, who also owns Château Latour in Pauillac.</p><p>The vineyard forms an amphitheatre of terraces held up by stone walls on a very steep granite slope, facing south and sheltered from the winds, above the river Rhône. It is planted exclusively with <strong>Viognier</strong>, the emblematic white variety of this part of the valley, which came close to disappearing in the mid-twentieth century before recovering.</p><p>Aged in barrels, it is a dry white of great texture, with the floral and stone-fruit aromas characteristic of Viognier and a mineral freshness that allows it, unlike many wines from this variety, to develop for years in bottle. Its high alcohol reflects the full ripeness of the grapes.</p>",
+    "fr": "<p><strong>Château-Grillet</strong> est une petite propriété du Rhône septentrional, sur la commune de Vérin, entourée par l'appellation Condrieu. C'est l'une des rares propriétés de France à constituer à elle seule une appellation d'origine contrôlée, l'AOC Château-Grillet. Depuis 2011, elle appartient à François Pinault, également propriétaire du Château Latour à Pauillac.</p><p>Le vignoble forme un amphithéâtre de terrasses soutenues par des murets de pierre sur un coteau de granite très pentu, exposé au sud et abrité des vents, au-dessus du Rhône. Il est planté exclusivement de <strong>viognier</strong>, le cépage blanc emblématique de cette partie de la vallée, qui faillit disparaître au milieu du XXe siècle avant de se relever.</p><p>Élevé en barriques, c'est un blanc sec d'une grande texture, aux arômes floraux et de fruits à noyau caractéristiques du viognier et à la fraîcheur minérale qui lui permet, contrairement à bien des vins de ce cépage, d'évoluer pendant des années en bouteille. Son degré élevé reflète la pleine maturité du raisin.</p>",
+    "it": "<p><strong>Château-Grillet</strong> è una piccola proprietà del Rodano settentrionale, nel comune di Vérin, circondata dalla denominazione Condrieu. È una delle poche tenute francesi che costituiscono da sole una denominazione di origine controllata, l'AOC Château-Grillet. Dal 2011 appartiene a François Pinault, proprietario anche di Château Latour a Pauillac.</p><p>Il vigneto forma un anfiteatro di terrazze sostenute da muretti in pietra su un pendio di granito molto ripido, esposto a sud e riparato dai venti, sopra il fiume Rodano. È piantato esclusivamente a <strong>Viognier</strong>, la varietà bianca emblematica di questa parte della valle, che rischiò di scomparire a metà del Novecento prima di riprendersi.</p><p>Affinato in barrique, è un bianco secco di grande struttura, con gli aromi floreali e di frutta a nocciolo tipici del Viognier e una freschezza minerale che gli consente, a differenza di molti vini di questa varietà, di evolvere per anni in bottiglia. La gradazione elevata riflette la piena maturità dell'uva.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Dorado brillante. Aromas de albaricoque, melocotón, flores blancas, violeta y notas especiadas. Boca amplia y untuosa, sostenida por una frescura mineral, con final largo.",
+    "en": "Bright gold. Aromas of apricot, peach, white flowers, violet and spicy notes. Broad and unctuous on the palate, supported by mineral freshness, with a long finish.",
+    "fr": "Or brillant. Arômes d'abricot, pêche, fleurs blanches, violette et notes épicées. Bouche ample et onctueuse, soutenue par une fraîcheur minérale, à la finale longue.",
+    "it": "Dorato brillante. Aromi di albicocca, pesca, fiori bianchi, violetta e note speziate. Bocca ampia e untuosa, sostenuta da una freschezza minerale, con finale lungo."
+  },
   "pairing": {
-    "es": "Pescados, mariscos, arroces, quesos frescos",
-    "en": "Fish, shellfish, rice dishes, fresh cheeses",
-    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
-    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+    "es": "Langosta, pescados en salsa de mantequilla, aves de corral, cocina con especias suaves",
+    "en": "Lobster, fish in butter sauce, farmyard poultry, mildly spiced dishes",
+    "fr": "Homard, poissons au beurre blanc, volailles fermières, cuisine aux épices douces",
+    "it": "Astice, pesce in salsa al burro, pollame ruspante, cucina con spezie delicate"
   },
   "serve": {
-    "es": "8-11 °C, copa de vino blanco",
-    "en": "8-11 °C, white wine glass",
-    "fr": "8-11 °C, verre à vin blanc",
-    "it": "8-11 °C, calice da vino bianco"
+    "es": "12-14 °C, copa de vino blanco amplia",
+    "en": "12-14 °C, large white wine glass",
+    "fr": "12-14 °C, grand verre à vin blanc",
+    "it": "12-14 °C, calice ampio da bianco"
   },
   "search": "Chateau Grillet Château-Grillet",
-  "brief": true,
   "source": "decantalo"
 }

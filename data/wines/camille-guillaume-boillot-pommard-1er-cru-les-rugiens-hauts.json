@@ -7,36 +7,45 @@
   "country": "francia",
   "appellation": "AOC Pommard 1er Cru / Côte-d'Or",
   "type": "tinto",
-  "category": null,
+  "category": {
+    "es": "Premier Cru",
+    "en": "Premier Cru",
+    "fr": "Premier Cru",
+    "it": "Premier Cru"
+  },
   "grapes": [
     "pinot-noir"
   ],
   "summary": {
-    "es": "Camille & Guillaume Boillot Pommard 1er Cru \"Les Rugiens Hauts” es un vino tinto de Domaine Camille & Guillaume Boillot, con la denominación AOC Pommard 1er Cru / Côte-d'Or, en Francia.",
-    "en": "Camille & Guillaume Boillot Pommard 1er Cru \"Les Rugiens Hauts” is a red wine from Domaine Camille & Guillaume Boillot, made under the AOC Pommard 1er Cru / Côte-d'Or appellation in France.",
-    "fr": "Camille & Guillaume Boillot Pommard 1er Cru \"Les Rugiens Hauts” est un vin rouge de Domaine Camille & Guillaume Boillot, élaboré sous l’appellation AOC Pommard 1er Cru / Côte-d'Or (France).",
-    "it": "Camille & Guillaume Boillot Pommard 1er Cru \"Les Rugiens Hauts” è un vino rosso di Domaine Camille & Guillaume Boillot, prodotto nella denominazione AOC Pommard 1er Cru / Côte-d'Or (Francia)."
+    "es": "Pommard Premier Cru de la parte alta de Les Rugiens, uno de los climats más reputados de Pommard, elaborado por el Domaine Camille & Guillaume Boillot.",
+    "en": "Pommard Premier Cru from the upper part of Les Rugiens, one of Pommard’s most highly regarded climats, made by Domaine Camille & Guillaume Boillot.",
+    "fr": "Pommard premier cru de la partie haute des Rugiens, l’un des climats les plus réputés de Pommard, élaboré par le Domaine Camille & Guillaume Boillot.",
+    "it": "Pommard Premier Cru dalla parte alta di Les Rugiens, uno dei climat più rinomati di Pommard, prodotto dal Domaine Camille & Guillaume Boillot."
   },
   "body": {
-    "es": "<p>Se elabora con Pinot Noir. Tiene crianza en madera. Su graduación es de 13,5 % vol.</p>",
-    "en": "<p>It is made from Pinot Noir. It is aged in wood. It has 13.5% ABV.</p>",
-    "fr": "<p>Il est élaboré à partir de Pinot Noir. Il est élevé en bois. Il titre 13,5 % vol.</p>",
-    "it": "<p>È prodotto con Pinot Nero. È affinato in legno. Ha 13,5% vol.</p>"
+    "es": "<p>El <strong>Domaine Camille & Guillaume Boillot</strong> es un domaine de la Côte de Beaune que lleva el nombre de Camille y Guillaume Boillot, apellido muy ligado a la viticultura de esta parte de Borgoña. Elabora una gama de vinos de distintas denominaciones de la Côte d’Or, desde borgoñas regionales hasta premiers y grands crus, con viñedos trabajados de forma cuidadosa y vinificaciones que buscan reflejar el carácter de cada parcela.</p><p><strong>Pommard</strong>, entre Beaune y Volnay, es una denominación exclusivamente de tintos, conocida por dar los <strong>Pinot Noir</strong> más firmes de la Côte de Beaune. <strong>Les Rugiens</strong>, en el límite con Volnay, es uno de sus premiers crus más prestigiosos; su nombre alude al color rojizo de sus suelos, ricos en óxidos de hierro. La parte alta, <strong>Rugiens Hauts</strong>, se distingue de la parte baja por suelos más pedregosos y menos profundos.</p><p>El vino se elabora con Pinot Noir y se cría en barrica. Es un tinto estructurado y profundo, de fruta oscura y tanino firme, que necesita algunos años de botella y tiene una larga capacidad de guarda.</p>",
+    "en": "<p><strong>Domaine Camille & Guillaume Boillot</strong> is a Côte de Beaune domaine bearing the names of Camille and Guillaume Boillot, a surname closely tied to winegrowing in this part of Burgundy. It makes a range of wines from different Côte d’Or appellations, from regional Bourgognes to premiers and grands crus, from carefully tended vineyards and with winemaking that seeks to reflect the character of each plot.</p><p><strong>Pommard</strong>, between Beaune and Volnay, is an appellation for red wines only, known for the firmest <strong>Pinot Noir</strong> of the Côte de Beaune. <strong>Les Rugiens</strong>, on the border with Volnay, is one of its most prestigious premiers crus; its name refers to the reddish colour of its soils, rich in iron oxides. The upper part, <strong>Rugiens Hauts</strong>, differs from the lower part in having stonier, shallower soils.</p><p>The wine is made from Pinot Noir and aged in barrel. It is a structured, deep red with dark fruit and firm tannins, which needs some years in bottle and has long ageing potential.</p>",
+    "fr": "<p>Le <strong>Domaine Camille & Guillaume Boillot</strong> est un domaine de la Côte de Beaune qui porte le nom de Camille et Guillaume Boillot, patronyme étroitement lié à la viticulture de cette partie de la Bourgogne. Il élabore une gamme de vins de différentes appellations de la Côte-d’Or, des bourgognes régionaux aux premiers et grands crus, à partir de vignes soigneusement conduites et avec des vinifications qui cherchent à refléter le caractère de chaque parcelle.</p><p><strong>Pommard</strong>, entre Beaune et Volnay, est une appellation exclusivement de rouges, connue pour donner les <strong>pinots noirs</strong> les plus fermes de la Côte de Beaune. <strong>Les Rugiens</strong>, en limite de Volnay, est l’un de ses premiers crus les plus prestigieux ; son nom évoque la couleur rougeâtre de ses sols, riches en oxydes de fer. La partie haute, les <strong>Rugiens Hauts</strong>, se distingue de la partie basse par des sols plus caillouteux et moins profonds.</p><p>Le vin est élaboré avec du pinot noir et élevé en barrique. C’est un rouge structuré et profond, aux fruits noirs et au tanin ferme, qui demande quelques années de bouteille et possède un long potentiel de garde.</p>",
+    "it": "<p>Il <strong>Domaine Camille & Guillaume Boillot</strong> è un domaine della Côte de Beaune che porta il nome di Camille e Guillaume Boillot, cognome strettamente legato alla viticoltura di questa parte della Borgogna. Produce una gamma di vini di diverse denominazioni della Côte d’Or, dai Bourgogne regionali ai premier e grand cru, da vigneti curati con attenzione e con vinificazioni che cercano di riflettere il carattere di ogni parcella.</p><p><strong>Pommard</strong>, tra Beaune e Volnay, è una denominazione esclusivamente di rossi, nota per dare i <strong>Pinot Noir</strong> più decisi della Côte de Beaune. <strong>Les Rugiens</strong>, al confine con Volnay, è uno dei suoi premier cru più prestigiosi; il nome richiama il colore rossastro dei suoli, ricchi di ossidi di ferro. La parte alta, <strong>Rugiens Hauts</strong>, si distingue da quella bassa per suoli più sassosi e meno profondi.</p><p>Il vino è prodotto con Pinot Noir e affinato in barrique. È un rosso strutturato e profondo, di frutto scuro e tannino deciso, che richiede alcuni anni di bottiglia e ha un lungo potenziale di invecchiamento.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Cereza negra, mora, especias, notas terrosas y de hierro. En boca es firme y concentrado, con taninos marcados y final largo.",
+    "en": "Black cherry, blackberry, spice, earthy and ferrous notes. Firm and concentrated on the palate, with marked tannins and a long finish.",
+    "fr": "Cerise noire, mûre, épices, notes terreuses et ferrugineuses. Bouche ferme et concentrée, aux tanins marqués et à la finale longue.",
+    "it": "Ciliegia nera, mora, spezie, note terrose e ferrose. In bocca è deciso e concentrato, con tannini marcati e finale lungo."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Caza de pluma, pato asado, ternera guisada, setas, quesos de corteza lavada",
+    "en": "Game birds, roast duck, braised beef, mushrooms, washed-rind cheeses",
+    "fr": "Gibier à plume, canard rôti, bœuf mijoté, champignons, fromages à croûte lavée",
+    "it": "Selvaggina da piuma, anatra arrosto, manzo brasato, funghi, formaggi a crosta lavata"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "15-17 °C, decantado, copa tipo borgoña",
+    "en": "15-17 °C, decanted, Burgundy glass",
+    "fr": "15-17 °C, carafé, verre de type bourgogne",
+    "it": "15-17 °C, decantato, calice tipo borgogna"
   },
   "search": "Camille & Guillaume Boillot Pommard 1er Cru \"Les Rugiens Hauts” Domaine Camille & Guillaume Boillot",
-  "brief": true,
   "source": "decantalo"
 }

@@ -8,33 +8,39 @@
   "appellation": "DOCG Barolo",
   "type": "tinto",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "nebbiolo"
+  ],
   "summary": {
-    "es": "Ceretto Barolo Bussia es un vino tinto de Ceretto, con la denominación DOCG Barolo, en Italia.",
-    "en": "Ceretto Barolo Bussia is a red wine from Ceretto, made under the DOCG Barolo appellation in Italy.",
-    "fr": "Ceretto Barolo Bussia est un vin rouge de Ceretto, élaboré sous l’appellation DOCG Barolo (Italie).",
-    "it": "Ceretto Barolo Bussia è un vino rosso di Ceretto, prodotto nella denominazione DOCG Barolo (Italia)."
+    "es": "Barolo de parcela que Ceretto elabora con Nebbiolo de la Bussia, una de las grandes menciones geográficas de Monforte d'Alba.",
+    "en": "Single-vineyard Barolo made by Ceretto from Nebbiolo grown in Bussia, one of the great named crus of Monforte d'Alba.",
+    "fr": "Barolo de cru élaboré par Ceretto avec du nebbiolo de Bussia, l'une des grandes mentions géographiques de Monforte d'Alba.",
+    "it": "Barolo di vigna che Ceretto produce con Nebbiolo della Bussia, una delle grandi menzioni geografiche di Monforte d'Alba."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 14,5 % vol.</p><p>Casa familiar de Alba con viñedos en grandes pagos de Barolo y Barbaresco, conocida por su blanco Blangè de Arneis y por su vínculo con el arte contemporáneo.</p><p>El Barolo, elaborado exclusivamente con Nebbiolo en las Langhe piamontesas, es uno de los grandes tintos de guarda de Italia. Fue una de las primeras DOCG del país, reconocida en 1980.</p>",
-    "en": "<p>It is aged in wood. It has 14.5% ABV.</p><p>Alba family house with vineyards in great Barolo and Barbaresco crus, known for its Blangè Arneis white and its links with contemporary art.</p><p>Barolo, made exclusively from Nebbiolo in the Langhe hills of Piedmont, is one of Italy's great age-worthy reds. It was one of the country's first DOCGs, recognised in 1980.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 14,5 % vol.</p><p>Maison familiale d’Alba possédant des vignes dans de grands crus de Barolo et de Barbaresco, connue pour son blanc Blangè d’arneis et pour ses liens avec l’art contemporain.</p><p>Le Barolo, élaboré exclusivement à partir de nebbiolo dans les Langhe piémontaises, est l'un des grands rouges de garde d'Italie. Il fut l'une des premières DOCG du pays, reconnue en 1980.</p>",
-    "it": "<p>È affinato in legno. Ha 14,5% vol.</p><p>Casa di famiglia di Alba con vigneti in grandi cru di Barolo e Barbaresco, nota per il bianco Blangè da Arneis e per il legame con l’arte contemporanea.</p><p>Il Barolo, prodotto esclusivamente con Nebbiolo nelle Langhe piemontesi, è uno dei grandi rossi da invecchiamento d'Italia. È stato tra le prime DOCG del paese, riconosciuta nel 1980.</p>"
+    "es": "<p><strong>Ceretto</strong> es una casa familiar de Alba cuyos orígenes se remontan a los años treinta del siglo XX y que, a partir de los años sesenta, fue reuniendo viñedos en algunos de los pagos más reputados de Barolo y Barbaresco. Es conocida tanto por sus tintos de parcela como por su blanco Blangè de Arneis y por su vínculo con el arte contemporáneo.</p><p>La <strong>Bussia</strong> es una amplia mención geográfica adicional (MGA) de Monforte d'Alba, en el sur de la zona del Barolo, con laderas de margas y areniscas bien expuestas. Los Barolo de Monforte suelen tener cuerpo, taninos firmes y gran capacidad de guarda, y la Bussia es uno de sus nombres más conocidos.</p><p>Como todo Barolo, se elabora exclusivamente con <strong>Nebbiolo</strong> y la normativa de la DOCG exige una crianza mínima de 38 meses, de ellos al menos 18 en madera. El resultado es un tinto de color relativamente claro pero de estructura tánica y acidez vivas, que gana complejidad con los años en botella y que conviene decantar cuando se bebe joven.</p>",
+    "en": "<p><strong>Ceretto</strong> is a family house in Alba whose origins go back to the 1930s and which, from the 1960s onwards, gradually acquired vineyards in some of the most highly regarded sites of Barolo and Barbaresco. It is known both for its single-vineyard reds and for its white Blangè, made from Arneis, as well as for its links with contemporary art.</p><p><strong>Bussia</strong> is a large additional geographical mention (MGA) in Monforte d'Alba, in the south of the Barolo zone, with well-exposed slopes of marl and sandstone. Barolos from Monforte tend to be full-bodied, with firm tannins and great ageing potential, and Bussia is one of its best-known names.</p><p>Like every Barolo, it is made exclusively from <strong>Nebbiolo</strong>, and the DOCG rules require a minimum of 38 months of ageing, at least 18 of them in wood. The result is a red of relatively pale colour but with lively tannic structure and acidity, which gains complexity with years in bottle and is best decanted when drunk young.</p>",
+    "fr": "<p><strong>Ceretto</strong> est une maison familiale d'Alba dont les origines remontent aux années 1930 et qui, à partir des années 1960, a réuni des vignes dans certains des crus les plus réputés de Barolo et de Barbaresco. Elle est connue pour ses rouges de lieu-dit comme pour son blanc Blangè, issu d'arneis, ainsi que pour ses liens avec l'art contemporain.</p><p><strong>Bussia</strong> est une vaste mention géographique additionnelle (MGA) de Monforte d'Alba, dans le sud de l'aire du Barolo, aux coteaux de marnes et de grès bien exposés. Les Barolo de Monforte sont généralement corsés, aux tanins fermes et dotés d'un grand potentiel de garde, et Bussia en est l'un des noms les plus connus.</p><p>Comme tout Barolo, il est élaboré exclusivement avec du <strong>nebbiolo</strong>, et le cahier des charges de la DOCG impose un élevage minimal de 38 mois, dont au moins 18 sous bois. Il en résulte un rouge à la robe relativement claire mais à la structure tannique et à l'acidité vives, qui gagne en complexité avec les années en bouteille et qu'il vaut mieux carafer lorsqu'on le boit jeune.</p>",
+    "it": "<p><strong>Ceretto</strong> è una casa di famiglia di Alba le cui origini risalgono agli anni Trenta del Novecento e che, a partire dagli anni Sessanta, ha riunito vigneti in alcuni dei cru più rinomati di Barolo e Barbaresco. È nota sia per i suoi rossi di vigna sia per il bianco Blangè da Arneis, oltre che per il suo legame con l'arte contemporanea.</p><p>La <strong>Bussia</strong> è un'ampia menzione geografica aggiuntiva (MGA) di Monforte d'Alba, nel sud della zona del Barolo, con versanti di marne e arenarie ben esposti. I Barolo di Monforte tendono ad avere corpo, tannini decisi e grande longevità, e la Bussia è uno dei suoi nomi più conosciuti.</p><p>Come ogni Barolo, è prodotto esclusivamente con <strong>Nebbiolo</strong> e il disciplinare della DOCG prevede un invecchiamento minimo di 38 mesi, di cui almeno 18 in legno. Ne risulta un rosso dal colore relativamente scarico ma dalla struttura tannica e dall'acidità vivaci, che acquista complessità con gli anni in bottiglia e che conviene decantare se bevuto giovane.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo granate de capa media. Aromas de cereza, frambuesa, rosa seca, regaliz y especias. En boca es firme y tánico, con acidez viva y final largo.",
+    "en": "Medium-deep garnet red. Aromas of cherry, raspberry, dried rose, liquorice and spice. Firm and tannic on the palate, with lively acidity and a long finish.",
+    "fr": "Rouge grenat de moyenne intensité. Arômes de cerise, framboise, rose séchée, réglisse et épices. Bouche ferme et tannique, à l'acidité vive et à la finale longue.",
+    "it": "Rosso granato di media intensità. Aromi di ciliegia, lampone, rosa appassita, liquirizia e spezie. In bocca è deciso e tannico, con acidità vivace e finale lungo."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Carnes rojas estofadas, brasato al Barolo, caza, platos con trufa blanca, quesos curados",
+    "en": "Braised red meat, brasato al Barolo, game, dishes with white truffle, aged cheeses",
+    "fr": "Viandes rouges braisées, brasato al Barolo, gibier, plats à la truffe blanche, fromages affinés",
+    "it": "Carni rosse stufate, brasato al Barolo, selvaggina, piatti al tartufo bianco, formaggi stagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
   },
   "search": "Ceretto Barolo Bussia Ceretto",
-  "brief": true,
   "source": "decantalo"
 }

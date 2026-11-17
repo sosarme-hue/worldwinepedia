@@ -5,38 +5,47 @@
   "winery_name": null,
   "region": null,
   "country": "francia",
-  "appellation": "AOC Côte de Nuits-Village / Côte-d'Or",
+  "appellation": "AOC Clos de Vougeot Grand Cru",
   "type": "tinto",
-  "category": null,
+  "category": {
+    "es": "Grand Cru",
+    "en": "Grand Cru",
+    "fr": "Grand Cru",
+    "it": "Grand Cru"
+  },
   "grapes": [
     "pinot-noir"
   ],
   "summary": {
-    "es": "Domaine Faiveley Clos de Vougeot Grand Cru es un vino tinto de Domaine Faiveley, con la denominación AOC Côte de Nuits-Village / Côte-d'Or, en Francia.",
-    "en": "Domaine Faiveley Clos de Vougeot Grand Cru is a red wine from Domaine Faiveley, made under the AOC Côte de Nuits-Village / Côte-d'Or appellation in France.",
-    "fr": "Domaine Faiveley Clos de Vougeot Grand Cru est un vin rouge de Domaine Faiveley, élaboré sous l’appellation AOC Côte de Nuits-Village / Côte-d'Or (France).",
-    "it": "Domaine Faiveley Clos de Vougeot Grand Cru è un vino rosso di Domaine Faiveley, prodotto nella denominazione AOC Côte de Nuits-Village / Côte-d'Or (Francia)."
+    "es": "Clos de Vougeot Grand Cru de Pinot Noir de la casa Faiveley, una de las grandes propietarias de viñedo de Borgoña, procedente del célebre clos cisterciense de la Côte de Nuits.",
+    "en": "A Clos de Vougeot Grand Cru from Pinot Noir by the house of Faiveley, one of Burgundy's major vineyard owners, from the famous Cistercian clos of the Côte de Nuits.",
+    "fr": "Clos de Vougeot grand cru de pinot noir de la maison Faiveley, l'un des grands propriétaires de vignes de Bourgogne, issu du célèbre clos cistercien de la Côte de Nuits.",
+    "it": "Clos de Vougeot Grand Cru da Pinot Noir della casa Faiveley, uno dei grandi proprietari di vigneti della Borgogna, dal celebre clos cistercense della Côte de Nuits."
   },
   "body": {
-    "es": "<p>Se elabora con Pinot Noir. Su graduación es de 13,5 % vol.</p><p>Casa familiar de Nuits-Saint-Georges fundada en 1825, uno de los mayores propietarios de viñedo de Borgoña, en la Côte d’Or y la Côte Chalonnaise.</p>",
-    "en": "<p>It is made from Pinot Noir. It has 13.5% ABV.</p><p>Family-owned house in Nuits-Saint-Georges founded in 1825, one of Burgundy’s largest vineyard owners, in the Côte d’Or and the Côte Chalonnaise.</p>",
-    "fr": "<p>Il est élaboré à partir de Pinot Noir. Il titre 13,5 % vol.</p><p>Maison familiale de Nuits-Saint-Georges fondée en 1825, l’un des plus grands propriétaires de vignes de Bourgogne, en Côte-d’Or et en Côte chalonnaise.</p>",
-    "it": "<p>È prodotto con Pinot Nero. Ha 13,5% vol.</p><p>Casa di famiglia di Nuits-Saint-Georges fondata nel 1825, uno dei maggiori proprietari di vigneti della Borgogna, nella Côte d’Or e nella Côte Chalonnaise.</p>"
+    "es": "<p><strong>Faiveley</strong> es una casa familiar de <strong>Nuits-Saint-Georges</strong> fundada en 1825 y dirigida por la misma familia desde entonces. Es uno de los mayores propietarios de viñedo de Borgoña, con parcelas repartidas por la Côte d'Or y la Côte Chalonnaise, entre ellas varios grands crus de la Côte de Nuits.</p><p>El <strong>Clos de Vougeot</strong> es uno de los viñedos más famosos de Borgoña. Fue creado por los monjes cistercienses de la abadía de Cîteaux en la Edad Media, que lo rodearon de un muro y construyeron en su interior el castillo-bodega que todavía hoy lo domina. Con unas cincuenta hectáreas, es el mayor grand cru de la Côte de Nuits y está repartido entre numerosos propietarios. Los suelos varían desde la parte alta, junto a Musigny y Grands-Échezeaux, hasta la parte baja, cercana a la carretera, lo que explica las diferencias de estilo entre productores.</p><p>El vino se elabora con <strong>Pinot Noir</strong> y se cría en barricas de roble francés. Es un tinto de buena estructura y concentración, con fruta negra, especias y un tanino firme, pensado para una larga guarda.</p>",
+    "en": "<p><strong>Faiveley</strong> is a family house in <strong>Nuits-Saint-Georges</strong> founded in 1825 and run by the same family ever since. It is one of Burgundy's largest vineyard owners, with plots spread across the Côte d'Or and the Côte Chalonnaise, including several grands crus in the Côte de Nuits.</p><p>The <strong>Clos de Vougeot</strong> is one of Burgundy's most famous vineyards. It was created in the Middle Ages by the Cistercian monks of Cîteaux Abbey, who surrounded it with a wall and built within it the château and winery that still dominate it today. At around fifty hectares, it is the largest grand cru of the Côte de Nuits and is divided among numerous owners. Soils vary from the upper part, next to Musigny and Grands-Échezeaux, to the lower part near the road, which explains the stylistic differences between producers.</p><p>The wine is made from <strong>Pinot Noir</strong> and aged in French oak barrels. It is a red of good structure and concentration, with black fruit, spice and firm tannins, designed for long ageing.</p>",
+    "fr": "<p><strong>Faiveley</strong> est une maison familiale de <strong>Nuits-Saint-Georges</strong> fondée en 1825 et dirigée par la même famille depuis. C'est l'un des plus grands propriétaires de vignes de Bourgogne, avec des parcelles réparties en Côte-d'Or et en Côte chalonnaise, dont plusieurs grands crus de la Côte de Nuits.</p><p>Le <strong>Clos de Vougeot</strong> est l'un des vignobles les plus célèbres de Bourgogne. Il fut créé au Moyen Âge par les moines cisterciens de l'abbaye de Cîteaux, qui l'entourèrent d'un mur et y bâtirent le château et le cuvier qui le dominent encore aujourd'hui. Avec une cinquantaine d'hectares, c'est le plus vaste grand cru de la Côte de Nuits, partagé entre de nombreux propriétaires. Les sols varient du haut du clos, voisin de Musigny et des Grands-Échezeaux, au bas, proche de la route, ce qui explique les différences de style entre producteurs.</p><p>Le vin est issu de <strong>pinot noir</strong> et s'élève en fûts de chêne français. C'est un rouge bien structuré et concentré, aux fruits noirs, aux épices et aux tanins fermes, conçu pour une longue garde.</p>",
+    "it": "<p><strong>Faiveley</strong> è una casa familiare di <strong>Nuits-Saint-Georges</strong> fondata nel 1825 e guidata da allora dalla stessa famiglia. È uno dei maggiori proprietari di vigneti della Borgogna, con parcelle distribuite tra Côte d'Or e Côte Chalonnaise, tra cui diversi grand cru della Côte de Nuits.</p><p>Il <strong>Clos de Vougeot</strong> è uno dei vigneti più famosi della Borgogna. Fu creato nel Medioevo dai monaci cistercensi dell'abbazia di Cîteaux, che lo cinsero con un muro e vi costruirono il castello e la cantina che ancora oggi lo dominano. Con circa cinquanta ettari, è il più grande grand cru della Côte de Nuits ed è suddiviso tra numerosi proprietari. I suoli variano dalla parte alta, accanto a Musigny e Grands-Échezeaux, alla parte bassa vicino alla strada, il che spiega le differenze di stile tra i produttori.</p><p>Il vino è prodotto con <strong>Pinot Noir</strong> e matura in botti di rovere francese. È un rosso di buona struttura e concentrazione, con frutta nera, spezie e un tannino deciso, pensato per un lungo invecchiamento.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo rubí profundo. Aromas de cereza negra, mora, especias, notas de sotobosque y tostados finos. Boca estructurada y concentrada, de tanino firme y final largo.",
+    "en": "Deep ruby red. Aromas of black cherry, blackberry, spice, forest-floor notes and fine toast. Structured, concentrated palate with firm tannins and a long finish.",
+    "fr": "Rubis profond. Arômes de cerise noire, de mûre, d'épices, notes de sous-bois et de grillé fin. Bouche structurée et concentrée, aux tanins fermes et à la longue finale.",
+    "it": "Rosso rubino profondo. Aromi di ciliegia nera, mora, spezie, note di sottobosco e tostature fini. Bocca strutturata e concentrata, dal tannino deciso e finale lungo."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Caza, buey a la borgoñona, pato, quesos de pasta lavada como el Époisses",
+    "en": "Game, boeuf bourguignon, duck, washed-rind cheeses such as Époisses",
+    "fr": "Gibier, bœuf bourguignon, canard, fromages à croûte lavée comme l'époisses",
+    "it": "Selvaggina, manzo alla borgognona, anatra, formaggi a crosta lavata come l'Époisses"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "15-17 °C, copa amplia tipo Borgoña",
+    "en": "15-17 °C, large Burgundy glass",
+    "fr": "15-17 °C, verre ample de type bourguignon",
+    "it": "15-17 °C, calice ampio tipo Borgogna"
   },
   "search": "Domaine Faiveley Clos de Vougeot Grand Cru Domaine Faiveley",
-  "brief": true,
   "source": "decantalo"
 }

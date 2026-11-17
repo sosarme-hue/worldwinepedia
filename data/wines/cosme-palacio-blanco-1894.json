@@ -8,33 +8,39 @@
   "appellation": "DOCa Rioja",
   "type": "blanco",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "macabeo"
+  ],
   "summary": {
-    "es": "Cosme Palacio Blanco 1894 es un vino blanco de Palacio, con la denominación DOCa Rioja, en España.",
-    "en": "Cosme Palacio Blanco 1894 is a white wine from Palacio, made under the DOCa Rioja appellation in Spain.",
-    "fr": "Cosme Palacio Blanco 1894 est un vin blanc de Palacio, élaboré sous l’appellation DOCa Rioja (Espagne).",
-    "it": "Cosme Palacio Blanco 1894 è un vino bianco di Palacio, prodotto nella denominazione DOCa Rioja (Spagna)."
+    "es": "Blanco de Rioja de Bodegas Palacio, la casa fundada en Laguardia en 1894 por Cosme Palacio, elaborado principalmente con Viura de la Rioja Alavesa.",
+    "en": "Rioja white from Bodegas Palacio, the house founded in Laguardia in 1894 by Cosme Palacio, made mainly from Viura grown in Rioja Alavesa.",
+    "fr": "Blanc de Rioja de Bodegas Palacio, la maison fondée à Laguardia en 1894 par Cosme Palacio, élaboré principalement avec du viura de la Rioja Alavesa.",
+    "it": "Bianco di Rioja di Bodegas Palacio, la casa fondata a Laguardia nel 1894 da Cosme Palacio, prodotto principalmente con Viura della Rioja Alavesa."
   },
   "body": {
-    "es": "<p>Su graduación es de 13 % vol.</p><p>Rioja, en el valle del Ebro, fue en 1991 la primera Denominación de Origen Calificada de España. Es conocida sobre todo por sus tintos de Tempranillo y por su larga tradición de crianza en barrica de roble.</p>",
-    "en": "<p>It has 13% ABV.</p><p>Rioja, in the Ebro valley, became Spain's first Qualified Designation of Origin in 1991. It is best known for its Tempranillo-based reds and its long tradition of ageing in oak barrels.</p>",
-    "fr": "<p>Il titre 13 % vol.</p><p>La Rioja, dans la vallée de l'Èbre, est devenue en 1991 la première dénomination d'origine qualifiée d'Espagne. Elle est surtout connue pour ses rouges à base de tempranillo et sa longue tradition d'élevage en barrique de chêne.</p>",
-    "it": "<p>Ha 13% vol.</p><p>La Rioja, nella valle dell'Ebro, è diventata nel 1991 la prima Denominazione di origine qualificata di Spagna. È nota soprattutto per i rossi a base di Tempranillo e per la lunga tradizione di affinamento in botte di rovere.</p>"
+    "es": "<p><strong>Bodegas Palacio</strong> fue fundada en 1894 en <strong>Laguardia</strong>, en la Rioja Alavesa, por Cosme Palacio y Bermejillo, y es una de las bodegas históricas de la villa. La gama Cosme Palacio recupera el nombre del fundador, y la cifra 1894 que acompaña a este blanco alude al año de fundación de la casa.</p><p>La Rioja Alavesa, situada entre el Ebro y la sierra de Cantabria, tiene suelos arcillo-calcáreos y un clima de influencia atlántica, más fresco que el de las zonas orientales de la denominación, que favorece blancos con buena acidez. Este vino se elabora principalmente con <strong>Viura</strong>, la variedad blanca tradicional de Rioja, conocida fuera de la región como Macabeo, a partir de viñedos de la zona de Laguardia.</p><p>La Viura da blancos de aromas discretos, cuerpo medio y buena frescura, con tendencia a desarrollar notas de frutos secos con el tiempo. Con 13 % vol., es un blanco riojano de perfil equilibrado, que puede beberse joven o tras un breve periodo en botella, cuando gana en complejidad.</p>",
+    "en": "<p><strong>Bodegas Palacio</strong> was founded in 1894 in <strong>Laguardia</strong>, in Rioja Alavesa, by Cosme Palacio y Bermejillo, and is one of the town’s historic wineries. The Cosme Palacio range revives the founder’s name, and the number 1894 on this white refers to the year the house was founded.</p><p>Rioja Alavesa, between the Ebro and the Sierra de Cantabria, has clay-limestone soils and an Atlantic-influenced climate, cooler than that of the eastern parts of the appellation, which favours whites with good acidity. This wine is made mainly from <strong>Viura</strong>, Rioja’s traditional white variety, known outside the region as Macabeo, from vineyards around Laguardia.</p><p>Viura gives whites with discreet aromas, medium body and good freshness, tending to develop nutty notes with time. At 13% ABV, it is a balanced Rioja white that can be drunk young or after a short time in bottle, when it gains in complexity.</p>",
+    "fr": "<p><strong>Bodegas Palacio</strong> a été fondée en 1894 à <strong>Laguardia</strong>, dans la Rioja Alavesa, par Cosme Palacio y Bermejillo ; c’est l’une des bodegas historiques de la ville. La gamme Cosme Palacio reprend le nom du fondateur, et le nombre 1894 qui accompagne ce blanc renvoie à l’année de fondation de la maison.</p><p>La Rioja Alavesa, située entre l’Èbre et la sierra de Cantabria, possède des sols argilo-calcaires et un climat d’influence atlantique, plus frais que celui des secteurs orientaux de l’appellation, qui favorise des blancs à la bonne acidité. Ce vin est élaboré principalement avec du <strong>viura</strong>, le cépage blanc traditionnel de la Rioja, connu ailleurs sous le nom de macabeu, issu de vignes des environs de Laguardia.</p><p>Le viura donne des blancs aux arômes discrets, de corps moyen et d’une belle fraîcheur, qui tendent à développer des notes de fruits secs avec le temps. Avec 13 % vol., c’est un blanc de Rioja équilibré, qui peut se boire jeune ou après un court séjour en bouteille, lorsqu’il gagne en complexité.</p>",
+    "it": "<p><strong>Bodegas Palacio</strong> fu fondata nel 1894 a <strong>Laguardia</strong>, nella Rioja Alavesa, da Cosme Palacio y Bermejillo, ed è una delle cantine storiche del paese. La linea Cosme Palacio riprende il nome del fondatore, e il numero 1894 che accompagna questo bianco si riferisce all’anno di fondazione della casa.</p><p>La Rioja Alavesa, situata tra l’Ebro e la Sierra de Cantabria, ha suoli argilloso-calcarei e un clima di influenza atlantica, più fresco di quello delle zone orientali della denominazione, che favorisce bianchi di buona acidità. Questo vino è prodotto principalmente con <strong>Viura</strong>, la varietà bianca tradizionale della Rioja, nota altrove come Macabeo, da vigneti dei dintorni di Laguardia.</p><p>La Viura dà bianchi dai profumi discreti, di medio corpo e buona freschezza, con la tendenza a sviluppare note di frutta secca col tempo. Con 13% vol., è un bianco riojano equilibrato, che può essere bevuto giovane o dopo un breve periodo in bottiglia, quando guadagna complessità.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Amarillo pajizo. Aromas de manzana, pera, cítricos y flores blancas, con un toque de frutos secos. En boca es fresco y equilibrado, de cuerpo medio y final limpio.",
+    "en": "Straw yellow. Aromas of apple, pear, citrus and white flowers, with a touch of nuts. Fresh and balanced on the palate, medium-bodied with a clean finish.",
+    "fr": "Jaune paille. Arômes de pomme, poire, agrumes et fleurs blanches, avec une touche de fruits secs. En bouche, il est frais et équilibré, de corps moyen, à la finale nette.",
+    "it": "Giallo paglierino. Aromi di mela, pera, agrumi e fiori bianchi, con un tocco di frutta secca. In bocca è fresco ed equilibrato, di medio corpo e finale pulito."
+  },
   "pairing": {
-    "es": "Pescados, mariscos, arroces, quesos frescos",
-    "en": "Fish, shellfish, rice dishes, fresh cheeses",
-    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
-    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+    "es": "Pescados blancos, marisco, verduras a la plancha, arroces, quesos frescos",
+    "en": "White fish, shellfish, grilled vegetables, rice dishes, fresh cheeses",
+    "fr": "Poissons blancs, fruits de mer, légumes grillés, plats de riz, fromages frais",
+    "it": "Pesce bianco, frutti di mare, verdure alla griglia, piatti di riso, formaggi freschi"
   },
   "serve": {
-    "es": "8-11 °C, copa de vino blanco",
-    "en": "8-11 °C, white wine glass",
-    "fr": "8-11 °C, verre à vin blanc",
-    "it": "8-11 °C, calice da vino bianco"
+    "es": "9-11 °C, copa de vino blanco",
+    "en": "9-11 °C, white wine glass",
+    "fr": "9-11 °C, verre à vin blanc",
+    "it": "9-11 °C, calice da vino bianco"
   },
   "search": "Cosme Palacio Blanco 1894 Palacio",
-  "brief": true,
   "source": "decantalo"
 }

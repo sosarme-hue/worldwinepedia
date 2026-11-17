@@ -12,31 +12,35 @@
     "merlot"
   ],
   "summary": {
-    "es": "Château Le Puy Rose-Marie es un vino rosado de Château Le Puy, con la denominación Vin de France, en Francia.",
-    "en": "Château Le Puy Rose-Marie is a rosé wine from Château Le Puy, made under the Vin de France appellation in France.",
-    "fr": "Château Le Puy Rose-Marie est un vin rosé de Château Le Puy, élaboré sous l’appellation Vin de France (France).",
-    "it": "Château Le Puy Rose-Marie è un vino rosato di Château Le Puy, prodotto nella denominazione Vin de France (Francia)."
+    "es": "Rosado de Merlot de Château Le Puy, finca familiar de la orilla derecha de Burdeos trabajada sin productos de síntesis, embotellado como Vin de France.",
+    "en": "A Merlot rosé from Château Le Puy, a family estate on Bordeaux's Right Bank farmed without synthetic products, bottled as Vin de France.",
+    "fr": "Rosé de merlot de Château Le Puy, domaine familial de la rive droite bordelaise cultivé sans produits de synthèse, mis en bouteille en Vin de France.",
+    "it": "Rosato di Merlot di Château Le Puy, tenuta di famiglia della riva destra di Bordeaux coltivata senza prodotti di sintesi, imbottigliato come Vin de France."
   },
   "body": {
-    "es": "<p>Se elabora con Merlot. Tiene crianza en madera. Su graduación es de 13,5 % vol.</p>",
-    "en": "<p>It is made from Merlot. It is aged in wood. It has 13.5% ABV.</p>",
-    "fr": "<p>Il est élaboré à partir de Merlot. Il est élevé en bois. Il titre 13,5 % vol.</p>",
-    "it": "<p>È prodotto con Merlot. È affinato in legno. Ha 13,5% vol.</p>"
+    "es": "<p><strong>Château Le Puy</strong> pertenece a la familia <strong>Amoreau</strong> y se encuentra en Saint-Cibard, en la zona de los Côtes de Francs, al este de Saint-Émilion. Su viñedo, sobre una meseta arcillo-calcárea con sílex, se ha cultivado durante generaciones sin productos químicos de síntesis y hoy se trabaja con métodos biodinámicos. La casa es conocida por sus vinos de intervención mínima, con muy poco o ningún sulfuroso añadido.</p><p><strong>Rose-Marie</strong> es su rosado, elaborado con <strong>Merlot</strong>, la variedad principal de la finca. A diferencia de los rosados pensados para beberse en el año, se cría en madera, lo que le da una estructura y una capacidad de evolución poco habituales en este tipo de vino. Al no ajustarse a los criterios habituales de las denominaciones, se comercializa como <strong>Vin de France</strong>.</p><p>Es un rosado de color pálido a salmón, de carácter vinoso y gastronómico, más próximo en espíritu a un vino de mesa fino que a un rosado aromático de verano.</p>",
+    "en": "<p><strong>Château Le Puy</strong> belongs to the <strong>Amoreau</strong> family and lies in Saint-Cibard, in the Côtes de Francs area, east of Saint-Émilion. Its vineyard, on a clay-limestone plateau with flint, has been farmed for generations without synthetic chemicals and is now worked with biodynamic methods. The estate is known for its low-intervention wines, with very little or no added sulphur.</p><p><strong>Rose-Marie</strong> is its rosé, made from <strong>Merlot</strong>, the estate's main variety. Unlike rosés designed to be drunk within the year, it is aged in wood, giving it a structure and ageing capacity unusual for this kind of wine. Because it does not fit the usual appellation criteria, it is sold as <strong>Vin de France</strong>.</p><p>It is a pale to salmon-coloured rosé with a vinous, food-friendly character, closer in spirit to a fine table wine than to an aromatic summer rosé.</p>",
+    "fr": "<p><strong>Château Le Puy</strong> appartient à la famille <strong>Amoreau</strong> et se trouve à Saint-Cibard, dans le secteur des Côtes de Francs, à l'est de Saint-Émilion. Son vignoble, sur un plateau argilo-calcaire à silex, est cultivé depuis des générations sans produits chimiques de synthèse et suit aujourd'hui des méthodes biodynamiques. La maison est connue pour ses vins peu interventionnistes, avec très peu ou pas de soufre ajouté.</p><p><strong>Rose-Marie</strong> est son rosé, élaboré à partir de <strong>merlot</strong>, cépage principal du domaine. Contrairement aux rosés destinés à être bus dans l'année, il est élevé sous bois, ce qui lui donne une structure et une capacité d'évolution peu courantes pour ce type de vin. Ne correspondant pas aux critères habituels des appellations, il est commercialisé en <strong>Vin de France</strong>.</p><p>C'est un rosé de couleur pâle à saumonée, de caractère vineux et gastronomique, plus proche dans l'esprit d'un vin fin que d'un rosé aromatique d'été.</p>",
+    "it": "<p><strong>Château Le Puy</strong> appartiene alla famiglia <strong>Amoreau</strong> e si trova a Saint-Cibard, nella zona delle Côtes de Francs, a est di Saint-Émilion. Il vigneto, su un altopiano argillo-calcareo con selce, è coltivato da generazioni senza prodotti chimici di sintesi e oggi segue metodi biodinamici. La casa è nota per i suoi vini a intervento minimo, con pochissima o nessuna aggiunta di solfiti.</p><p><strong>Rose-Marie</strong> è il suo rosato, prodotto con <strong>Merlot</strong>, il vitigno principale della tenuta. A differenza dei rosati pensati per essere bevuti entro l'anno, matura in legno, il che gli conferisce una struttura e una capacità evolutiva poco comuni per questa tipologia. Non rispondendo ai criteri abituali delle denominazioni, è commercializzato come <strong>Vin de France</strong>.</p><p>È un rosato di colore da tenue a salmone, dal carattere vinoso e gastronomico, più vicino nello spirito a un vino fine che a un rosato aromatico estivo.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rosa pálido con matices salmón. Aromas de fruta roja, piel de naranja, hierbas secas y un leve fondo de madera. Boca seca, con cuerpo y frescura, y final salino.",
+    "en": "Pale pink with salmon hues. Aromas of red fruit, orange peel, dried herbs and a faint woody background. Dry palate with body and freshness and a saline finish.",
+    "fr": "Rose pâle aux reflets saumonés. Arômes de fruits rouges, d'écorce d'orange, d'herbes sèches et un léger fond boisé. Bouche sèche, avec du corps et de la fraîcheur, et une finale saline.",
+    "it": "Rosa tenue con riflessi salmone. Aromi di frutti rossi, scorza d'arancia, erbe secche e un leggero fondo legnoso. Bocca secca, con corpo e freschezza e finale sapido."
+  },
   "pairing": {
-    "es": "Aperitivo, ensaladas, arroces, pescados",
-    "en": "Aperitif, salads, rice dishes, fish",
-    "fr": "Apéritif, salades, plats de riz, poissons",
-    "it": "Aperitivo, insalate, risotti, pesce"
+    "es": "Charcutería, pescados a la brasa, cocina mediterránea, arroces, quesos frescos",
+    "en": "Charcuterie, grilled fish, Mediterranean cooking, rice dishes, fresh cheeses",
+    "fr": "Charcuterie, poissons grillés, cuisine méditerranéenne, plats de riz, fromages frais",
+    "it": "Salumi, pesce alla brace, cucina mediterranea, risotti, formaggi freschi"
   },
   "serve": {
-    "es": "8-10 °C, copa de vino blanco",
-    "en": "8-10 °C, white wine glass",
-    "fr": "8-10 °C, verre à vin blanc",
-    "it": "8-10 °C, calice da vino bianco"
+    "es": "10-12 °C, copa de vino blanco",
+    "en": "10-12 °C, white wine glass",
+    "fr": "10-12 °C, verre à vin blanc",
+    "it": "10-12 °C, calice da vino bianco"
   },
   "search": "Château Le Puy Rose-Marie Château Le Puy",
-  "brief": true,
   "source": "decantalo"
 }

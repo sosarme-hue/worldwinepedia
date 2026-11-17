@@ -8,33 +8,41 @@
   "appellation": "AOC Saint-Émilion 1er Grand Cru Classé",
   "type": "tinto",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "merlot",
+    "cabernet-franc",
+    "cabernet-sauvignon"
+  ],
   "summary": {
-    "es": "Clos Fourtet es un vino tinto de Clos Fourtet, con la denominación AOC Saint-Émilion 1er Grand Cru Classé, en Francia.",
-    "en": "Clos Fourtet is a red wine from Clos Fourtet, made under the AOC Saint-Émilion 1er Grand Cru Classé appellation in France.",
-    "fr": "Clos Fourtet est un vin rouge de Clos Fourtet, élaboré sous l’appellation AOC Saint-Émilion 1er Grand Cru Classé (France).",
-    "it": "Clos Fourtet è un vino rosso di Clos Fourtet, prodotto nella denominazione AOC Saint-Émilion 1er Grand Cru Classé (Francia)."
+    "es": "Premier Grand Cru Classé de Saint-Émilion situado en la meseta calcárea a las puertas del pueblo, con antiguas canteras subterráneas bajo el viñedo.",
+    "en": "A Saint-Émilion Premier Grand Cru Classé on the limestone plateau at the gates of the town, with old underground quarries beneath the vineyard.",
+    "fr": "Premier grand cru classé de Saint-Émilion situé sur le plateau calcaire aux portes du bourg, avec d'anciennes carrières souterraines sous le vignoble.",
+    "it": "Premier Grand Cru Classé di Saint-Émilion situato sull'altopiano calcareo alle porte del borgo, con antiche cave sotterranee sotto il vigneto."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 14,5 % vol.</p>",
-    "en": "<p>It is aged in wood. It has 14.5% ABV.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 14,5 % vol.</p>",
-    "it": "<p>È affinato in legno. Ha 14,5% vol.</p>"
+    "es": "<p><strong>Clos Fourtet</strong> es una de las propiedades históricas de <strong>Saint-Émilion</strong>, situada en la meseta calcárea justo a las afueras de las murallas del pueblo medieval. Bajo su viñedo se extienden antiguas canteras de piedra caliza, excavadas durante siglos para construir la ciudad, que hoy sirven de bodega de crianza. Desde 2001 pertenece a la familia <strong>Cuvelier</strong>, que ha invertido en la mejora del viñedo y de las instalaciones, y figura entre los <strong>Premiers Grands Crus Classés</strong> de la denominación.</p><p>El viñedo, en un único bloque alrededor de la casa, descansa sobre una fina capa de arcilla y limo sobre la roca caliza. Está plantado mayoritariamente con <strong>Merlot</strong>, completada con <strong>Cabernet Franc</strong> y <strong>Cabernet Sauvignon</strong>.</p><p>La vendimia es manual y el vino se cría en barricas de roble francés. Clos Fourtet ilustra el estilo de los grandes terruños calcáreos de Saint-Émilion: un tinto de fruta madura y textura sedosa, sostenido por una frescura y un carácter mineral que le dan elegancia y una gran capacidad de envejecimiento.</p>",
+    "en": "<p><strong>Clos Fourtet</strong> is one of the historic estates of <strong>Saint-Émilion</strong>, on the limestone plateau just outside the walls of the medieval town. Beneath its vineyard lie old limestone quarries, dug over centuries to build the town, which now serve as ageing cellars. Since 2001 it has belonged to the <strong>Cuvelier</strong> family, who have invested in improving the vineyard and facilities, and it is ranked among the appellation's <strong>Premiers Grands Crus Classés</strong>.</p><p>The vineyard, in a single block around the house, lies on a thin layer of clay and silt over limestone rock. It is planted mainly with <strong>Merlot</strong>, complemented by <strong>Cabernet Franc</strong> and <strong>Cabernet Sauvignon</strong>.</p><p>Harvesting is by hand and the wine is aged in French oak barrels. Clos Fourtet illustrates the style of Saint-Émilion's great limestone terroirs: a red with ripe fruit and silky texture, supported by a freshness and mineral character that give it elegance and great ageing potential.</p>",
+    "fr": "<p><strong>Clos Fourtet</strong> est l'une des propriétés historiques de <strong>Saint-Émilion</strong>, située sur le plateau calcaire juste à l'extérieur des remparts du bourg médiéval. Sous son vignoble s'étendent d'anciennes carrières de calcaire, creusées pendant des siècles pour bâtir la ville, qui servent aujourd'hui de chai d'élevage. Depuis 2001, il appartient à la famille <strong>Cuvelier</strong>, qui a investi dans l'amélioration du vignoble et des installations, et il figure parmi les <strong>premiers grands crus classés</strong> de l'appellation.</p><p>Le vignoble, d'un seul tenant autour de la maison, repose sur une fine couche d'argile et de limon sur la roche calcaire. Il est planté majoritairement de <strong>merlot</strong>, complété par le <strong>cabernet franc</strong> et le <strong>cabernet sauvignon</strong>.</p><p>Les vendanges sont manuelles et le vin est élevé en barriques de chêne français. Clos Fourtet illustre le style des grands terroirs calcaires de Saint-Émilion : un rouge au fruit mûr et à la texture soyeuse, porté par une fraîcheur et un caractère minéral qui lui donnent élégance et grande aptitude au vieillissement.</p>",
+    "it": "<p><strong>Clos Fourtet</strong> è una delle tenute storiche di <strong>Saint-Émilion</strong>, situata sull'altopiano calcareo appena fuori dalle mura del borgo medievale. Sotto il vigneto si estendono antiche cave di calcare, scavate nei secoli per costruire la città, che oggi fungono da cantina di affinamento. Dal 2001 appartiene alla famiglia <strong>Cuvelier</strong>, che ha investito nel miglioramento del vigneto e delle strutture, e figura tra i <strong>Premiers Grands Crus Classés</strong> della denominazione.</p><p>Il vigneto, in un unico corpo attorno alla casa, poggia su un sottile strato di argilla e limo sopra la roccia calcarea. È piantato in prevalenza a <strong>Merlot</strong>, completato da <strong>Cabernet Franc</strong> e <strong>Cabernet Sauvignon</strong>.</p><p>La vendemmia è manuale e il vino matura in barrique di rovere francese. Clos Fourtet illustra lo stile dei grandi terroir calcarei di Saint-Émilion: un rosso dal frutto maturo e dalla trama setosa, sostenuto da una freschezza e da un carattere minerale che gli conferiscono eleganza e grande capacità d'invecchiamento.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de cereza negra, ciruela, violeta, especias y notas de roble fino. Boca sedosa y fresca, con taninos finos y un final largo y mineral.",
+    "en": "Intense cherry red. Aromas of black cherry, plum, violet, spice and fine oak notes. Silky, fresh palate with fine tannins and a long, mineral finish.",
+    "fr": "Rouge cerise intense. Arômes de cerise noire, de prune, de violette, d'épices et notes de chêne fin. Bouche soyeuse et fraîche, aux tanins fins et à la finale longue et minérale.",
+    "it": "Rosso ciliegia intenso. Aromi di ciliegia nera, prugna, viola, spezie e note di rovere fine. Bocca setosa e fresca, tannini fini e finale lungo e minerale."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Cordero asado, solomillo, pato, caza de pluma, quesos curados",
+    "en": "Roast lamb, beef tenderloin, duck, game birds, aged cheeses",
+    "fr": "Agneau rôti, filet de bœuf, canard, gibier à plume, fromages affinés",
+    "it": "Agnello arrosto, filetto di manzo, anatra, selvaggina da piuma, formaggi stagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "16-18 °C, copa amplia tipo Burdeos; conviene decantar",
+    "en": "16-18 °C, large Bordeaux glass; decanting recommended",
+    "fr": "16-18 °C, grand verre de type bordeaux ; carafage conseillé",
+    "it": "16-18 °C, calice ampio tipo Bordeaux; consigliata la decantazione"
   },
   "search": "Clos Fourtet Clos Fourtet",
-  "brief": true,
   "source": "decantalo"
 }

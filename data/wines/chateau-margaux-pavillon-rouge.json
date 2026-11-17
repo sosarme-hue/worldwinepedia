@@ -8,33 +8,42 @@
   "appellation": "AOC Margaux",
   "type": "tinto",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "cabernet-franc",
+    "petit-verdot"
+  ],
   "summary": {
-    "es": "Château Margaux Pavillon Rouge es un vino tinto de Château Margaux, con la denominación AOC Margaux, en Francia.",
-    "en": "Château Margaux Pavillon Rouge is a red wine from Château Margaux, made under the AOC Margaux appellation in France.",
-    "fr": "Château Margaux Pavillon Rouge est un vin rouge de Château Margaux, élaboré sous l’appellation AOC Margaux (France).",
-    "it": "Château Margaux Pavillon Rouge è un vino rosso di Château Margaux, prodotto nella denominazione AOC Margaux (Francia)."
+    "es": "Segundo vino tinto de Château Margaux, Premier Grand Cru Classé de 1855, ensamblaje dominado por la Cabernet Sauvignon y procedente de las mismas viñas que el gran vino.",
+    "en": "The second red wine of Château Margaux, a 1855 First Growth, a Cabernet Sauvignon-led blend from the same vineyards as the grand vin.",
+    "fr": "Second vin rouge de Château Margaux, premier grand cru classé en 1855, assemblage dominé par le cabernet sauvignon et issu des mêmes vignes que le grand vin.",
+    "it": "Secondo vino rosso di Château Margaux, Premier Grand Cru Classé nel 1855, uvaggio guidato dal Cabernet Sauvignon e proveniente dagli stessi vigneti del grand vin."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 13,3 % vol.</p><p>Premier Grand Cru Classé de la clasificación de 1855, situado en la denominación Margaux del Médoc y propiedad de la familia Mentzelopoulos desde 1977.</p><p>Margaux es la denominación comunal más meridional del Haut-Médoc y la que reúne más crus clasificados en 1855. Sus tintos, a base de Cabernet Sauvignon, son conocidos por su finura y su perfume.</p>",
-    "en": "<p>It is aged in wood. It has 13.3% ABV.</p><p>Premier Grand Cru Classé in the 1855 classification, located in the Margaux appellation of the Médoc and owned by the Mentzelopoulos family since 1977.</p><p>Margaux is the southernmost communal appellation of the Haut-Médoc and the one with the most growths classified in 1855. Its Cabernet Sauvignon-based reds are known for their finesse and perfume.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 13,3 % vol.</p><p>Premier grand cru classé en 1855, situé dans l’appellation Margaux, dans le Médoc, et propriété de la famille Mentzelopoulos depuis 1977.</p><p>Margaux est l'appellation communale la plus méridionale du Haut-Médoc et celle qui compte le plus de crus classés en 1855. Ses rouges à base de cabernet-sauvignon sont réputés pour leur finesse et leur parfum.</p>",
-    "it": "<p>È affinato in legno. Ha 13,3% vol.</p><p>Premier Grand Cru Classé della classificazione del 1855, situato nella denominazione Margaux nel Médoc e di proprietà della famiglia Mentzelopoulos dal 1977.</p><p>Margaux è la denominazione comunale più meridionale dell'Haut-Médoc e quella che riunisce il maggior numero di cru classificati nel 1855. I suoi rossi a base di Cabernet Sauvignon sono noti per finezza e profumo.</p>"
+    "es": "<p><strong>Pavillon Rouge du Château Margaux</strong> es el segundo vino de <strong>Château Margaux</strong>, uno de los cinco Premiers Grands Crus Classés del Médoc y propiedad de la familia Mentzelopoulos desde 1977. Procede de las mismas tierras que el gran vino, a partir de lotes que, tras una selección muy estricta, no se destinan al primer vino, a menudo de viñas más jóvenes o de parcelas concretas.</p><p>El viñedo se asienta sobre las <strong>gravas</strong> de la denominación Margaux, la más meridional de las grandes comunas del Haut-Médoc. El ensamblaje está dominado por la <strong>Cabernet Sauvignon</strong>, completada con <strong>Merlot</strong> y pequeñas proporciones de <strong>Cabernet Franc</strong> y <strong>Petit Verdot</strong>, en cantidades que varían con cada añada.</p><p>La elaboración sigue los mismos cuidados que la del gran vino, con crianza en barricas de roble francés. Pavillon Rouge comparte el perfil aromático y la elegancia característicos de Margaux, en una versión algo más accesible en su juventud, aunque con una estructura que le permite envejecer bien.</p>",
+    "en": "<p><strong>Pavillon Rouge du Château Margaux</strong> is the second wine of <strong>Château Margaux</strong>, one of the five First Growths of the Médoc, owned by the Mentzelopoulos family since 1977. It comes from the same land as the grand vin, from lots that, after very strict selection, are not used for the first wine, often from younger vines or specific plots.</p><p>The vineyard lies on the <strong>gravel</strong> of the Margaux appellation, the southernmost of the great communes of the Haut-Médoc. The blend is led by <strong>Cabernet Sauvignon</strong>, complemented by <strong>Merlot</strong> and small proportions of <strong>Cabernet Franc</strong> and <strong>Petit Verdot</strong>, in amounts that vary from vintage to vintage.</p><p>Winemaking follows the same care as for the grand vin, with ageing in French oak barrels. Pavillon Rouge shares the aromatic profile and elegance characteristic of Margaux, in a version somewhat more approachable in its youth, though with a structure that allows it to age well.</p>",
+    "fr": "<p><strong>Pavillon Rouge du Château Margaux</strong> est le second vin de <strong>Château Margaux</strong>, l'un des cinq premiers grands crus classés du Médoc, propriété de la famille Mentzelopoulos depuis 1977. Il provient des mêmes terres que le grand vin, à partir de lots qui, après une sélection très stricte, ne sont pas retenus pour le premier vin, souvent issus de vignes plus jeunes ou de parcelles particulières.</p><p>Le vignoble repose sur les <strong>graves</strong> de l'appellation Margaux, la plus méridionale des grandes communes du Haut-Médoc. L'assemblage est dominé par le <strong>cabernet sauvignon</strong>, complété par le <strong>merlot</strong> et de petites proportions de <strong>cabernet franc</strong> et de <strong>petit verdot</strong>, en quantités variables selon le millésime.</p><p>L'élaboration bénéficie des mêmes soins que celle du grand vin, avec un élevage en barriques de chêne français. Pavillon Rouge partage le profil aromatique et l'élégance caractéristiques de Margaux, dans une version un peu plus accessible dans sa jeunesse, tout en possédant une structure qui lui permet de bien vieillir.</p>",
+    "it": "<p><strong>Pavillon Rouge du Château Margaux</strong> è il secondo vino di <strong>Château Margaux</strong>, uno dei cinque Premiers Grands Crus Classés del Médoc, di proprietà della famiglia Mentzelopoulos dal 1977. Proviene dalle stesse terre del grand vin, da partite che, dopo una selezione molto rigorosa, non vengono destinate al primo vino, spesso da vigne più giovani o da appezzamenti specifici.</p><p>Il vigneto poggia sulle <strong>ghiaie</strong> della denominazione Margaux, la più meridionale dei grandi comuni dell'Haut-Médoc. L'uvaggio è guidato dal <strong>Cabernet Sauvignon</strong>, completato da <strong>Merlot</strong> e da piccole quote di <strong>Cabernet Franc</strong> e <strong>Petit Verdot</strong>, in proporzioni che variano a seconda dell'annata.</p><p>La vinificazione segue le stesse cure del grand vin, con affinamento in barrique di rovere francese. Pavillon Rouge condivide il profilo aromatico e l'eleganza tipici di Margaux, in una versione un po' più accessibile in gioventù, pur con una struttura che gli consente di invecchiare bene.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de cassis, cereza negra, violeta, cedro y notas de roble. Boca elegante y bien estructurada, con taninos finos y final persistente.",
+    "en": "Intense cherry red. Aromas of cassis, black cherry, violet, cedar and oak notes. Elegant, well-structured palate with fine tannins and a persistent finish.",
+    "fr": "Rouge cerise intense. Arômes de cassis, de cerise noire, de violette, de cèdre et notes boisées. Bouche élégante et bien structurée, aux tanins fins et à la finale persistante.",
+    "it": "Rosso ciliegia intenso. Aromi di cassis, ciliegia nera, viola, cedro e note di rovere. Bocca elegante e ben strutturata, tannini fini e finale persistente."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Cordero asado, carré de cordero, entrecot, caza menor, quesos curados",
+    "en": "Roast lamb, rack of lamb, entrecôte, small game, aged cheeses",
+    "fr": "Agneau rôti, carré d'agneau, entrecôte, petit gibier, fromages affinés",
+    "it": "Agnello arrosto, carré d'agnello, entrecôte, selvaggina minore, formaggi stagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "16-18 °C, copa amplia tipo Burdeos; conviene decantar",
+    "en": "16-18 °C, large Bordeaux glass; decanting recommended",
+    "fr": "16-18 °C, grand verre de type bordeaux ; carafage conseillé",
+    "it": "16-18 °C, calice ampio tipo Bordeaux; consigliata la decantazione"
   },
   "search": "Château Margaux Pavillon Rouge Château Margaux",
-  "brief": true,
   "source": "decantalo"
 }

@@ -7,36 +7,45 @@
   "country": "francia",
   "appellation": null,
   "type": "espumoso",
-  "category": null,
+  "category": {
+    "es": "Blanc de Blancs",
+    "en": "Blanc de Blancs",
+    "fr": "Blanc de Blancs",
+    "it": "Blanc de Blancs"
+  },
   "grapes": [
     "chardonnay"
   ],
   "summary": {
-    "es": "Champagne Barons de Rothschild Blanc de Blancs es un vino espumoso de Champagne Barons de Rothschild, en Francia.",
-    "en": "Champagne Barons de Rothschild Blanc de Blancs is a sparkling wine from Champagne Barons de Rothschild in France.",
-    "fr": "Champagne Barons de Rothschild Blanc de Blancs est un vin effervescent de Champagne Barons de Rothschild (France).",
-    "it": "Champagne Barons de Rothschild Blanc de Blancs è un vino spumante di Champagne Barons de Rothschild (Francia)."
+    "es": "Champagne blanc de blancs, elaborado solo con Chardonnay, de la casa que fundaron en común las tres ramas bordelesas de la familia Rothschild.",
+    "en": "Blanc de blancs Champagne, made only from Chardonnay, by the house jointly founded by the three Bordeaux branches of the Rothschild family.",
+    "fr": "Champagne blanc de blancs, élaboré uniquement avec du chardonnay, de la maison fondée en commun par les trois branches bordelaises de la famille Rothschild.",
+    "it": "Champagne blanc de blancs, prodotto solo con Chardonnay, della maison fondata insieme dai tre rami bordolesi della famiglia Rothschild."
   },
   "body": {
-    "es": "<p>Se elabora con Chardonnay. Su graduación es de 12 % vol.</p>",
-    "en": "<p>It is made from Chardonnay. It has 12% ABV.</p>",
-    "fr": "<p>Il est élaboré à partir de Chardonnay. Il titre 12 % vol.</p>",
-    "it": "<p>È prodotto con Chardonnay. Ha 12% vol.</p>"
+    "es": "<p><strong>Champagne Barons de Rothschild</strong> es la casa de Champagne que crearon conjuntamente las tres ramas de la familia Rothschild vinculadas al vino de Burdeos: la de Château Lafite Rothschild, la de Château Mouton Rothschild y la de Edmond de Rothschild. El proyecto se presentó a finales de la década de 2000 con la idea de trasladar a la Champagne la tradición vinícola de la familia.</p><p>La casa da un papel central a la <strong>Chardonnay</strong> en su gama, y este blanc de blancs se elabora exclusivamente con esta variedad. En la Champagne, la Chardonnay alcanza su expresión más reconocida en la Côte des Blancs, al sur de Épernay, donde los suelos de creta aportan finura y una acidez muy marcada.</p><p>Como todo Champagne, se elabora por el método tradicional, con segunda fermentación en botella y una crianza sobre lías que, en el caso de los champagnes sin añada, debe durar como mínimo quince meses. El resultado es un espumoso de estilo fino y tenso, con burbuja delicada, notas de cítricos y flores blancas y los matices de pan y bollería que aporta el contacto prolongado con las lías. Funciona bien como aperitivo y en la mesa, con pescados y mariscos.</p>",
+    "en": "<p><strong>Champagne Barons de Rothschild</strong> is the Champagne house created jointly by the three branches of the Rothschild family involved in Bordeaux wine: those of Château Lafite Rothschild, Château Mouton Rothschild and Edmond de Rothschild. The project was presented in the late 2000s with the aim of bringing the family's winemaking tradition to Champagne.</p><p>The house gives a central role to <strong>Chardonnay</strong> in its range, and this blanc de blancs is made exclusively from that variety. In Champagne, Chardonnay reaches its best-known expression in the Côte des Blancs, south of Épernay, where chalk soils bring finesse and very marked acidity.</p><p>Like all Champagne, it is made by the traditional method, with a second fermentation in bottle and ageing on the lees which, for non-vintage Champagnes, must last at least fifteen months. The result is a fine, taut sparkling wine with a delicate mousse, notes of citrus and white flowers and the bread and pastry nuances brought by prolonged lees contact. It works well as an aperitif and at the table, with fish and shellfish.</p>",
+    "fr": "<p><strong>Champagne Barons de Rothschild</strong> est la maison de Champagne créée conjointement par les trois branches de la famille Rothschild liées au vin de Bordeaux : celles de Château Lafite Rothschild, de Château Mouton Rothschild et d'Edmond de Rothschild. Le projet a été présenté à la fin des années 2000 avec l'idée de transposer en Champagne la tradition viticole de la famille.</p><p>La maison accorde une place centrale au <strong>chardonnay</strong> dans sa gamme, et ce blanc de blancs est élaboré exclusivement avec ce cépage. En Champagne, le chardonnay trouve son expression la plus reconnue dans la Côte des Blancs, au sud d'Épernay, où les sols de craie apportent finesse et acidité très marquée.</p><p>Comme tout champagne, il est élaboré selon la méthode traditionnelle, avec une seconde fermentation en bouteille et un vieillissement sur lies qui, pour les champagnes non millésimés, doit durer au moins quinze mois. Il en résulte un effervescent fin et tendu, à la bulle délicate, aux notes d'agrumes et de fleurs blanches et aux nuances de pain et de viennoiserie que donne le contact prolongé avec les lies. Il convient à l'apéritif comme à table, avec poissons et fruits de mer.</p>",
+    "it": "<p><strong>Champagne Barons de Rothschild</strong> è la maison di Champagne creata congiuntamente dai tre rami della famiglia Rothschild legati al vino di Bordeaux: quelli di Château Lafite Rothschild, di Château Mouton Rothschild e di Edmond de Rothschild. Il progetto è stato presentato alla fine degli anni Duemila con l'idea di portare in Champagne la tradizione vinicola della famiglia.</p><p>La maison attribuisce un ruolo centrale allo <strong>Chardonnay</strong> nella sua gamma, e questo blanc de blancs è prodotto esclusivamente con questa varietà. In Champagne, lo Chardonnay raggiunge la sua espressione più riconosciuta nella Côte des Blancs, a sud di Épernay, dove i suoli di gesso conferiscono finezza e un'acidità molto marcata.</p><p>Come ogni Champagne, è prodotto con il metodo tradizionale, con seconda fermentazione in bottiglia e un affinamento sui lieviti che, per gli Champagne senza annata, deve durare almeno quindici mesi. Ne risulta uno spumante fine e teso, dal perlage delicato, con note di agrumi e fiori bianchi e le sfumature di pane e pasticceria dovute al contatto prolungato con i lieviti. È adatto come aperitivo e a tavola, con pesce e frutti di mare.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Amarillo pálido con burbuja fina. Aromas de limón, manzana verde, flores blancas y bollería. Boca tensa y cremosa, con acidez viva y final limpio.",
+    "en": "Pale yellow with fine bubbles. Aromas of lemon, green apple, white flowers and pastry. Taut and creamy on the palate, with lively acidity and a clean finish.",
+    "fr": "Jaune pâle à la bulle fine. Arômes de citron, pomme verte, fleurs blanches et viennoiserie. Bouche tendue et crémeuse, à l'acidité vive et à la finale nette.",
+    "it": "Giallo paglierino tenue con perlage fine. Aromi di limone, mela verde, fiori bianchi e pasticceria. Bocca tesa e cremosa, con acidità vivace e finale pulito."
+  },
   "pairing": {
-    "es": "Aperitivo, mariscos, fritos, pescados",
-    "en": "Aperitif, shellfish, fried food, fish",
-    "fr": "Apéritif, fruits de mer, fritures, poissons",
-    "it": "Aperitivo, frutti di mare, fritture, pesce"
+    "es": "Aperitivo, ostras, marisco, pescados blancos, sushi",
+    "en": "Aperitif, oysters, shellfish, white fish, sushi",
+    "fr": "Apéritif, huîtres, fruits de mer, poissons blancs, sushis",
+    "it": "Aperitivo, ostriche, frutti di mare, pesce bianco, sushi"
   },
   "serve": {
-    "es": "6-8 °C, copa de espumoso",
-    "en": "6-8 °C, sparkling wine glass",
-    "fr": "6-8 °C, verre à vin effervescent",
-    "it": "6-8 °C, calice da spumante"
+    "es": "8-10 °C, copa de vino blanco o tulipa",
+    "en": "8-10 °C, white wine glass or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da bianco o a tulipano"
   },
   "search": "Champagne Barons de Rothschild Blanc de Blancs Champagne Barons de Rothschild",
-  "brief": true,
   "source": "decantalo"
 }

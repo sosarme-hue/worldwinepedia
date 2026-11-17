@@ -8,33 +8,39 @@
   "appellation": "AOC Côte Rôtie",
   "type": "tinto",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "syrah"
+  ],
   "summary": {
-    "es": "Bott Côte-Rôtie es un vino tinto de Graeme & Julie Bott, con la denominación AOC Côte Rôtie, en Francia.",
-    "en": "Bott Côte-Rôtie is a red wine from Graeme & Julie Bott, made under the AOC Côte Rôtie appellation in France.",
-    "fr": "Bott Côte-Rôtie est un vin rouge de Graeme & Julie Bott, élaboré sous l’appellation AOC Côte Rôtie (France).",
-    "it": "Bott Côte-Rôtie è un vino rosso di Graeme & Julie Bott, prodotto nella denominazione AOC Côte Rôtie (Francia)."
+    "es": "Côte-Rôtie de Graeme y Julie Bott, un tinto de Syrah de las laderas de Ampuis, en el norte del Ródano, con crianza en madera.",
+    "en": "Côte-Rôtie from Graeme and Julie Bott, a Syrah red from the slopes of Ampuis in the northern Rhône, aged in wood.",
+    "fr": "Côte-Rôtie de Graeme et Julie Bott, un rouge de syrah des coteaux d’Ampuis, dans le Rhône septentrional, élevé sous bois.",
+    "it": "Côte-Rôtie di Graeme e Julie Bott, un rosso di Syrah dei pendii di Ampuis, nel Rodano settentrionale, affinato in legno."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 13,5 % vol.</p><p>Côte-Rôtie es la denominación más septentrional del valle del Ródano, en laderas vertiginosas sobre el pueblo de Ampuis. Sus tintos de Syrah, a veces cofermentados con un poco de Viognier, combinan perfume, finura y capacidad de guarda.</p>",
-    "en": "<p>It is aged in wood. It has 13.5% ABV.</p><p>Côte-Rôtie is the northernmost appellation of the Rhône valley, on dizzying slopes above the village of Ampuis. Its Syrah reds, sometimes co-fermented with a little Viognier, combine perfume, finesse and ageing potential.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 13,5 % vol.</p><p>Côte-Rôtie est l'appellation la plus septentrionale de la vallée du Rhône, sur des coteaux vertigineux dominant le village d'Ampuis. Ses rouges de syrah, parfois cofermentés avec un peu de viognier, allient parfum, finesse et aptitude à la garde.</p>",
-    "it": "<p>È affinato in legno. Ha 13,5% vol.</p><p>Côte-Rôtie è la denominazione più settentrionale della valle del Rodano, su pendii vertiginosi sopra il paese di Ampuis. I suoi rossi di Syrah, talvolta cofermentati con un po' di Viognier, uniscono profumo, finezza e longevità.</p>"
+    "es": "<p><strong>Graeme y Julie Bott</strong> son una pareja de viticultores instalada en Ampuis, en el norte del valle del Ródano, que creó su propio domaine en la segunda mitad de los años 2010 tras trabajar en bodegas de la zona. Cultivan pequeñas parcelas en las laderas de esta parte del valle y elaboran vinos de producción reducida, con una intervención cuidadosa y un estilo que busca la frescura y la definición más que la potencia.</p><p><strong>Côte-Rôtie</strong> es la denominación más septentrional del Ródano, en torno a Ampuis, con viñedos en terrazas sobre laderas muy pronunciadas de esquistos y gneis orientadas al sureste. Sus tintos se basan en la <strong>Syrah</strong>, que puede cofermentarse con una pequeña proporción de Viognier, y se distinguen por su perfume y su finura.</p><p>El vino de los Bott tiene crianza en madera y una graduación moderada, coherente con su búsqueda de frescura. Es un tinto aromático, de fruta oscura, notas florales y especiadas, tanino fino y buena capacidad de guarda.</p>",
+    "en": "<p><strong>Graeme and Julie Bott</strong> are a winegrowing couple based in Ampuis, in the northern Rhône valley, who set up their own domaine in the second half of the 2010s after working at wineries in the area. They farm small plots on the slopes of this part of the valley and make wines in small quantities, with careful intervention and a style that seeks freshness and definition rather than power.</p><p><strong>Côte-Rôtie</strong> is the northernmost appellation of the Rhône, around Ampuis, with terraced vineyards on very steep south-east-facing slopes of schist and gneiss. Its reds are based on <strong>Syrah</strong>, which may be co-fermented with a small proportion of Viognier, and stand out for their perfume and finesse.</p><p>The Botts’ wine is aged in wood and has moderate alcohol, in keeping with their search for freshness. It is an aromatic red, with dark fruit, floral and spicy notes, fine tannins and good ageing potential.</p>",
+    "fr": "<p><strong>Graeme et Julie Bott</strong> forment un couple de vignerons installé à Ampuis, dans la partie septentrionale de la vallée du Rhône, qui a créé son propre domaine dans la seconde moitié des années 2010 après avoir travaillé dans des caves du secteur. Ils cultivent de petites parcelles sur les coteaux de cette partie de la vallée et élaborent des vins en petites quantités, avec une intervention soignée et un style qui recherche la fraîcheur et la définition plutôt que la puissance.</p><p>La <strong>Côte-Rôtie</strong> est l’appellation la plus septentrionale du Rhône, autour d’Ampuis, avec des vignes en terrasses sur des coteaux très pentus de schistes et de gneiss exposés au sud-est. Ses rouges reposent sur la <strong>syrah</strong>, qui peut être cofermentée avec une faible proportion de viognier, et se distinguent par leur parfum et leur finesse.</p><p>Le vin des Bott est élevé sous bois et affiche un degré modéré, cohérent avec leur recherche de fraîcheur. C’est un rouge aromatique, aux fruits noirs, aux notes florales et épicées, au tanin fin et au bon potentiel de garde.</p>",
+    "it": "<p><strong>Graeme e Julie Bott</strong> sono una coppia di vignaioli stabilita ad Ampuis, nel nord della valle del Rodano, che ha creato il proprio domaine nella seconda metà degli anni 2010 dopo aver lavorato in cantine della zona. Coltivano piccole parcelle sui pendii di questa parte della valle e producono vini in piccole quantità, con un intervento attento e uno stile che cerca freschezza e definizione più che potenza.</p><p><strong>Côte-Rôtie</strong> è la denominazione più settentrionale del Rodano, intorno ad Ampuis, con vigneti terrazzati su pendii molto ripidi di scisti e gneiss esposti a sud-est. I suoi rossi si basano sul <strong>Syrah</strong>, che può essere cofermentato con una piccola quota di Viognier, e si distinguono per profumo e finezza.</p><p>Il vino dei Bott è affinato in legno e ha una gradazione moderata, coerente con la loro ricerca di freschezza. È un rosso aromatico, di frutto scuro, note floreali e speziate, tannino fine e buona capacità di invecchiamento.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Violeta, frambuesa negra, mora, pimienta y notas de aceituna negra y bacon ahumado. Boca de cuerpo medio, sedosa, con tanino fino y final largo.",
+    "en": "Violet, black raspberry, blackberry, pepper and notes of black olive and smoked bacon. Medium-bodied and silky, with fine tannins and a long finish.",
+    "fr": "Violette, framboise noire, mûre, poivre et notes d’olive noire et de lard fumé. Bouche de corps moyen, soyeuse, au tanin fin et à la finale longue.",
+    "it": "Viola, lampone nero, mora, pepe e note di oliva nera e pancetta affumicata. Bocca di medio corpo, setosa, con tannino fine e finale lungo."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Cordero asado, pato, caza de pluma, carnes a la parrilla, quesos curados",
+    "en": "Roast lamb, duck, game birds, grilled meats, aged cheeses",
+    "fr": "Agneau rôti, canard, gibier à plume, viandes grillées, fromages affinés",
+    "it": "Agnello arrosto, anatra, selvaggina da piuma, carni alla griglia, formaggi stagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "15-17 °C, copa amplia",
+    "en": "15-17 °C, large glass",
+    "fr": "15-17 °C, verre ample",
+    "it": "15-17 °C, calice ampio"
   },
   "search": "Bott Côte-Rôtie Graeme & Julie Bott",
-  "brief": true,
   "source": "decantalo"
 }

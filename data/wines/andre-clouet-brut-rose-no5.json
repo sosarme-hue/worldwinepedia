@@ -7,34 +7,45 @@
   "country": "francia",
   "appellation": null,
   "type": "espumoso",
-  "category": null,
-  "grapes": [],
+  "category": {
+    "es": "Brut",
+    "en": "Brut",
+    "fr": "Brut",
+    "it": "Brut"
+  },
+  "grapes": [
+    "pinot-noir"
+  ],
   "summary": {
-    "es": "André Clouet Brut Rosé Nº5 es un vino espumoso de André Clouet, en Francia.",
-    "en": "André Clouet Brut Rosé Nº5 is a sparkling wine from André Clouet in France.",
-    "fr": "André Clouet Brut Rosé Nº5 est un vin effervescent de André Clouet (France).",
-    "it": "André Clouet Brut Rosé Nº5 è un vino spumante di André Clouet (Francia)."
+    "es": "Champagne rosado de la casa familiar André Clouet, en Bouzy, elaborado a partir de la Pinot Noir de este pueblo Grand Cru de la Montagne de Reims.",
+    "en": "Rosé Champagne from the family house of André Clouet in Bouzy, made from the Pinot Noir of this Grand Cru village on the Montagne de Reims.",
+    "fr": "Champagne rosé de la maison familiale André Clouet, à Bouzy, élaboré à partir du pinot noir de ce village grand cru de la Montagne de Reims.",
+    "it": "Champagne rosato della casa familiare André Clouet, a Bouzy, prodotto con il Pinot Noir di questo villaggio Grand Cru della Montagne de Reims."
   },
   "body": {
-    "es": "<p>Su graduación es de 12,22 % vol.</p>",
-    "en": "<p>It has 12.22% ABV.</p>",
-    "fr": "<p>Il titre 12,22 % vol.</p>",
-    "it": "<p>Ha 12,22% vol.</p>"
+    "es": "<p><strong>André Clouet</strong> es una casa familiar de <strong>Bouzy</strong>, en la vertiente sur de la Montagne de Reims, que trabaja con viñedos propios en este municipio y en el vecino Ambonnay, ambos clasificados como Grand Cru. La familia tiene una larga historia en el pueblo y sus etiquetas, de estética clásica, recuerdan su antiguo oficio de impresores.</p><p>Bouzy es uno de los nombres de referencia para la <strong>Pinot Noir</strong> en Champagne: sus laderas orientadas al sur dan uvas maduras, con cuerpo y fruta, y el pueblo es también conocido por sus tintos tranquilos (Coteaux Champenois). La casa basa su gama en esta variedad.</p><p>El Brut Rosé Nº5 es un rosado de estilo vinoso, elaborado a partir de Pinot Noir de la casa. Como es habitual en Champagne, el color procede de la incorporación de una pequeña parte de vino tinto de la zona al vino base antes de la segunda fermentación en botella. Tras la crianza sobre lías y el degüelle, recibe una dosificación de tipo Brut. Es un champagne de fruta roja marcada y buena estructura, que funciona tanto en el aperitivo como acompañando platos.</p>",
+    "en": "<p><strong>André Clouet</strong> is a family house in <strong>Bouzy</strong>, on the southern slope of the Montagne de Reims, working with its own vineyards in this village and in neighbouring Ambonnay, both ranked Grand Cru. The family has a long history in the village and its classic-looking labels recall its former trade as printers.</p><p>Bouzy is one of the benchmark names for <strong>Pinot Noir</strong> in Champagne: its south-facing slopes give ripe grapes with body and fruit, and the village is also known for its still reds (Coteaux Champenois). The house builds its range around this variety.</p><p>The Brut Rosé Nº5 is a rosé in a vinous style, made from the house’s Pinot Noir. As is customary in Champagne, the colour comes from adding a small proportion of local red wine to the base wine before the second fermentation in bottle. After ageing on its lees and disgorgement, it receives a Brut dosage. It is a Champagne with marked red fruit and good structure, which works both as an aperitif and with food.</p>",
+    "fr": "<p><strong>André Clouet</strong> est une maison familiale de <strong>Bouzy</strong>, sur le versant sud de la Montagne de Reims, qui travaille ses propres vignes dans ce village et dans celui, voisin, d’Ambonnay, tous deux classés grand cru. La famille a une longue histoire dans le village et ses étiquettes au style classique rappellent son ancien métier d’imprimeurs.</p><p>Bouzy est l’un des noms de référence pour le <strong>pinot noir</strong> en Champagne : ses coteaux exposés au sud donnent des raisins mûrs, charnus et fruités, et le village est aussi connu pour ses rouges tranquilles (Coteaux champenois). La maison bâtit sa gamme autour de ce cépage.</p><p>Le Brut Rosé Nº5 est un rosé de style vineux, élaboré à partir du pinot noir de la maison. Comme il est d’usage en Champagne, la couleur provient de l’ajout d’une petite part de vin rouge local au vin de base avant la seconde fermentation en bouteille. Après un vieillissement sur lies et le dégorgement, il reçoit un dosage brut. C’est un champagne au fruit rouge marqué et à la bonne structure, qui convient aussi bien à l’apéritif qu’à table.</p>",
+    "it": "<p><strong>André Clouet</strong> è una casa familiare di <strong>Bouzy</strong>, sul versante sud della Montagne de Reims, che lavora vigneti propri in questo comune e nella vicina Ambonnay, entrambi classificati Grand Cru. La famiglia ha una lunga storia nel paese e le sue etichette, di gusto classico, ricordano l’antico mestiere di stampatori.</p><p>Bouzy è uno dei nomi di riferimento per il <strong>Pinot Noir</strong> in Champagne: i suoi pendii esposti a sud danno uve mature, con corpo e frutto, e il paese è noto anche per i suoi rossi fermi (Coteaux Champenois). La casa costruisce la sua gamma attorno a questo vitigno.</p><p>Il Brut Rosé Nº5 è un rosato di stile vinoso, prodotto con il Pinot Noir della casa. Come d’uso in Champagne, il colore deriva dall’aggiunta di una piccola parte di vino rosso locale al vino base prima della seconda fermentazione in bottiglia. Dopo l’affinamento sui lieviti e la sboccatura, riceve un dosaggio Brut. È uno champagne dal frutto rosso marcato e di buona struttura, adatto sia all’aperitivo sia alla tavola.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rosa salmón con burbuja fina. Aromas de fresa, frambuesa y cereza, con notas de bollería. En boca es fresco y sabroso, de buen volumen, con un final frutal y algo especiado.",
+    "en": "Salmon pink with fine bubbles. Aromas of strawberry, raspberry and cherry, with pastry notes. Fresh and savoury on the palate, with good volume and a fruity, slightly spicy finish.",
+    "fr": "Rose saumon à bulles fines. Arômes de fraise, framboise et cerise, avec des notes de viennoiserie. En bouche, il est frais et savoureux, d’un bon volume, avec une finale fruitée et légèrement épicée.",
+    "it": "Rosa salmone con perlage fine. Aromi di fragola, lampone e ciliegia, con note di pasticceria. In bocca è fresco e sapido, di buon volume, con un finale fruttato e leggermente speziato."
+  },
   "pairing": {
-    "es": "Aperitivo, mariscos, fritos, pescados",
-    "en": "Aperitif, shellfish, fried food, fish",
-    "fr": "Apéritif, fruits de mer, fritures, poissons",
-    "it": "Aperitivo, frutti di mare, fritture, pesce"
+    "es": "Salmón, atún, aves, embutidos, postres de frutos rojos poco dulces",
+    "en": "Salmon, tuna, poultry, charcuterie, lightly sweet red-berry desserts",
+    "fr": "Saumon, thon, volailles, charcuterie, desserts aux fruits rouges peu sucrés",
+    "it": "Salmone, tonno, pollame, salumi, dessert ai frutti rossi poco dolci"
   },
   "serve": {
-    "es": "6-8 °C, copa de espumoso",
-    "en": "6-8 °C, sparkling wine glass",
-    "fr": "6-8 °C, verre à vin effervescent",
-    "it": "6-8 °C, calice da spumante"
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
   },
   "search": "André Clouet Brut Rosé Nº5 André Clouet",
-  "brief": true,
   "source": "decantalo"
 }

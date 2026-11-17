@@ -8,33 +8,40 @@
   "appellation": "AOC Saint-Estèphe",
   "type": "tinto",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
   "summary": {
-    "es": "Château Cos d'Estournel Les Pagodes de Cos es un vino tinto de Château Cos d’Estournel, con la denominación AOC Saint-Estèphe, en Francia.",
-    "en": "Château Cos d'Estournel Les Pagodes de Cos is a red wine from Château Cos d’Estournel, made under the AOC Saint-Estèphe appellation in France.",
-    "fr": "Château Cos d'Estournel Les Pagodes de Cos est un vin rouge de Château Cos d’Estournel, élaboré sous l’appellation AOC Saint-Estèphe (France).",
-    "it": "Château Cos d'Estournel Les Pagodes de Cos è un vino rosso di Château Cos d’Estournel, prodotto nella denominazione AOC Saint-Estèphe (Francia)."
+    "es": "Segundo vino de Château Cos d'Estournel, en Saint-Estèphe, que toma su nombre de las pagodas de la bodega y suele dar más peso a la Merlot que el gran vino.",
+    "en": "Second wine of Château Cos d'Estournel in Saint-Estèphe, named after the winery's pagodas and usually giving more weight to Merlot than the grand vin.",
+    "fr": "Second vin du Château Cos d'Estournel, à Saint-Estèphe, qui doit son nom aux pagodes du chai et accorde généralement plus de place au merlot que le grand vin.",
+    "it": "Secondo vino di Château Cos d'Estournel, a Saint-Estèphe, che prende il nome dalle pagode della cantina e di solito dà più peso al Merlot rispetto al grand vin."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 14 % vol.</p><p>Segundo gran cru clasificado de Saint-Estèphe, reconocible por las pagodas de inspiración oriental de su bodega y situado frente a Lafite Rothschild.</p><p>Saint-Estèphe es la más septentrional de las grandes denominaciones comunales del Haut-Médoc. Sus suelos, más arcillosos que los de sus vecinas, dan tintos firmes y frescos, en los que la Merlot tiene a menudo un papel importante.</p>",
-    "en": "<p>It is aged in wood. It has 14% ABV.</p><p>Saint-Estèphe second growth, recognisable by the oriental-style pagodas of its winery and located opposite Lafite Rothschild.</p><p>Saint-Estèphe is the northernmost of the great communal appellations of the Haut-Médoc. Its soils, richer in clay than those of its neighbours, give firm, fresh reds in which Merlot often plays an important role.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 14 % vol.</p><p>Deuxième grand cru classé de Saint-Estèphe, reconnaissable aux pagodes d’inspiration orientale de son chai et situé face à Lafite Rothschild.</p><p>Saint-Estèphe est la plus septentrionale des grandes appellations communales du Haut-Médoc. Ses sols, plus argileux que ceux de ses voisines, donnent des rouges fermes et frais dans lesquels le merlot joue souvent un rôle important.</p>",
-    "it": "<p>È affinato in legno. Ha 14% vol.</p><p>Secondo grand cru classé di Saint-Estèphe, riconoscibile per le pagode di ispirazione orientale della sua cantina e situato di fronte a Lafite Rothschild.</p><p>Saint-Estèphe è la più settentrionale delle grandi denominazioni comunali dell'Haut-Médoc. I suoi suoli, più argillosi di quelli delle vicine, danno rossi saldi e freschi in cui il Merlot ha spesso un ruolo importante.</p>"
+    "es": "<p><strong>Château Cos d'Estournel</strong> es uno de los deuxièmes grands crus de la clasificación de 1855 y la propiedad más célebre de <strong>Saint-Estèphe</strong>, en el norte del Médoc. Su fundador, Louis-Gaspard d'Estournel, comerciaba con Oriente a comienzos del siglo XIX, y de esa época proceden las pagodas de inspiración asiática que coronan la bodega. Desde el año 2000 pertenece a Michel Reybier, que emprendió una profunda modernización de la finca.</p><p><strong>Les Pagodes de Cos</strong> es el segundo vino de la propiedad. Se elabora con uvas del mismo viñedo de gravas de Saint-Estèphe, en particular de parcelas más jóvenes o de lotes que no se destinan al gran vino, y suele llevar una proporción de <strong>Merlot</strong> mayor que este, junto a la <strong>Cabernet Sauvignon</strong>. Esto le da un carácter algo más accesible y redondo en su juventud.</p><p>Criado en barricas de roble, es un tinto de fruta negra madura, notas especiadas y de cedro y taninos firmes pero pulidos, con la estructura propia del Médoc. Puede disfrutarse antes que el gran vino, aunque también evoluciona favorablemente durante años en botella. Si se bebe joven, conviene decantarlo.</p>",
+    "en": "<p><strong>Château Cos d'Estournel</strong> is one of the deuxièmes grands crus of the 1855 classification and the most famous estate in <strong>Saint-Estèphe</strong>, in the northern Médoc. Its founder, Louis-Gaspard d'Estournel, traded with the East in the early nineteenth century, and the Asian-inspired pagodas that crown the winery date from that period. Since 2000 it has belonged to Michel Reybier, who undertook a thorough modernisation of the estate.</p><p><strong>Les Pagodes de Cos</strong> is the estate's second wine. It is made from grapes from the same Saint-Estèphe gravel vineyard, particularly from younger plots or lots not used for the grand vin, and usually contains a higher proportion of <strong>Merlot</strong> than the latter, alongside <strong>Cabernet Sauvignon</strong>. This gives it a somewhat more approachable, rounded character in its youth.</p><p>Aged in oak barrels, it is a red of ripe black fruit, spicy and cedar notes and firm but polished tannins, with the structure typical of the Médoc. It can be enjoyed earlier than the grand vin, although it also develops well for years in bottle. If drunk young, it is best decanted.</p>",
+    "fr": "<p>Le <strong>Château Cos d'Estournel</strong> est l'un des deuxièmes grands crus du classement de 1855 et la propriété la plus célèbre de <strong>Saint-Estèphe</strong>, dans le nord du Médoc. Son fondateur, Louis-Gaspard d'Estournel, commerçait avec l'Orient au début du XIXe siècle, et c'est de cette époque que datent les pagodes d'inspiration asiatique qui couronnent le chai. Depuis 2000, il appartient à Michel Reybier, qui a entrepris une profonde modernisation du domaine.</p><p><strong>Les Pagodes de Cos</strong> est le second vin de la propriété. Il est élaboré avec des raisins du même vignoble de graves de Saint-Estèphe, notamment de parcelles plus jeunes ou de lots non retenus pour le grand vin, et comporte généralement une proportion de <strong>merlot</strong> plus élevée que celui-ci, aux côtés du <strong>cabernet-sauvignon</strong>. Cela lui confère un caractère un peu plus accessible et rond dans sa jeunesse.</p><p>Élevé en barriques de chêne, c'est un rouge aux fruits noirs mûrs, aux notes épicées et de cèdre et aux tanins fermes mais polis, avec la structure propre au Médoc. Il s'apprécie plus tôt que le grand vin, même s'il évolue aussi favorablement pendant des années en bouteille. Bu jeune, il gagne à être carafé.</p>",
+    "it": "<p><strong>Château Cos d'Estournel</strong> è uno dei deuxièmes grands crus della classificazione del 1855 e la proprietà più celebre di <strong>Saint-Estèphe</strong>, nel nord del Médoc. Il suo fondatore, Louis-Gaspard d'Estournel, commerciava con l'Oriente all'inizio dell'Ottocento, e a quell'epoca risalgono le pagode di ispirazione asiatica che coronano la cantina. Dal 2000 appartiene a Michel Reybier, che ha avviato una profonda modernizzazione della tenuta.</p><p><strong>Les Pagodes de Cos</strong> è il secondo vino della proprietà. È prodotto con uve dello stesso vigneto di ghiaie di Saint-Estèphe, in particolare da parcelle più giovani o da lotti non destinati al grand vin, e di solito contiene una proporzione di <strong>Merlot</strong> maggiore di quest'ultimo, accanto al <strong>Cabernet Sauvignon</strong>. Ciò gli conferisce un carattere un po' più accessibile e rotondo in gioventù.</p><p>Affinato in barrique di rovere, è un rosso di frutto nero maturo, note speziate e di cedro e tannini decisi ma levigati, con la struttura tipica del Médoc. Può essere apprezzato prima del grand vin, anche se evolve favorevolmente per anni in bottiglia. Se bevuto giovane, conviene decantarlo.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo picota profundo. Aromas de mora, ciruela, grosella negra, especias y cedro. Boca carnosa y redonda, con taninos firmes pero pulidos y final persistente.",
+    "en": "Deep cherry red. Aromas of blackberry, plum, blackcurrant, spice and cedar. Fleshy and rounded on the palate, with firm but polished tannins and a persistent finish.",
+    "fr": "Rouge cerise profond. Arômes de mûre, prune, cassis, épices et cèdre. Bouche charnue et ronde, aux tanins fermes mais polis et à la finale persistante.",
+    "it": "Rosso ciliegia profondo. Aromi di mora, prugna, ribes nero, spezie e cedro. Bocca carnosa e rotonda, con tannini decisi ma levigati e finale persistente."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Cordero asado, carnes rojas a la parrilla, caza, quesos curados",
+    "en": "Roast lamb, grilled red meat, game, aged cheeses",
+    "fr": "Agneau rôti, viandes rouges grillées, gibier, fromages affinés",
+    "it": "Agnello arrosto, carni rosse alla griglia, selvaggina, formaggi stagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "16-18 °C, decantado, copa tipo Burdeos",
+    "en": "16-18 °C, decanted, Bordeaux glass",
+    "fr": "16-18 °C, carafé, verre de type bordeaux",
+    "it": "16-18 °C, decantato, calice tipo Bordeaux"
   },
   "search": "Château Cos d'Estournel Les Pagodes de Cos Château Cos d'Estournel",
-  "brief": true,
   "source": "decantalo"
 }

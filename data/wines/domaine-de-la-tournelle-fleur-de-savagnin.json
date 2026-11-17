@@ -12,31 +12,35 @@
     "savagnin"
   ],
   "summary": {
-    "es": "Domaine de la Tournelle Fleur de Savagnin es un vino blanco de Domaine de la Tournelle, con la denominación AOC Arbois Pupillin, en Francia.",
-    "en": "Domaine de la Tournelle Fleur de Savagnin is a white wine from Domaine de la Tournelle, made under the AOC Arbois Pupillin appellation in France.",
-    "fr": "Domaine de la Tournelle Fleur de Savagnin est un vin blanc de Domaine de la Tournelle, élaboré sous l’appellation AOC Arbois Pupillin (France).",
-    "it": "Domaine de la Tournelle Fleur de Savagnin è un vino bianco di Domaine de la Tournelle, prodotto nella denominazione AOC Arbois Pupillin (Francia)."
+    "es": "Blanco de Savagnin del Domaine de la Tournelle, en Arbois, elaborado en estilo «ouillé», con barricas rellenadas para evitar el velo de levaduras y preservar la fruta.",
+    "en": "A Savagnin white from Domaine de la Tournelle in Arbois, made in the ouillé style, with topped-up barrels to avoid the yeast veil and preserve the fruit.",
+    "fr": "Blanc de savagnin du Domaine de la Tournelle, à Arbois, élaboré en style ouillé, avec des fûts complétés pour éviter le voile et préserver le fruit.",
+    "it": "Bianco da Savagnin del Domaine de la Tournelle, ad Arbois, prodotto in stile «ouillé», con botti colmate per evitare il velo di lieviti e preservare il frutto."
   },
   "body": {
-    "es": "<p>Se elabora con Savagnin. Tiene crianza en madera. Su graduación es de 13 % vol.</p>",
-    "en": "<p>It is made from Savagnin. It is aged in wood. It has 13% ABV.</p>",
-    "fr": "<p>Il est élaboré à partir de Savagnin. Il est élevé en bois. Il titre 13 % vol.</p>",
-    "it": "<p>È prodotto con Savagnin. È affinato in legno. Ha 13% vol.</p>"
+    "es": "<p>El <strong>Domaine de la Tournelle</strong> es una pequeña finca de <strong>Arbois</strong>, en el Jura, fundada por Pascal y Évelyne Clairet a comienzos de los años noventa. Cultivada en agricultura biológica, es conocida por sus vinos de mínima intervención, con fermentaciones espontáneas y un uso muy limitado del sulfuroso.</p><p>En el Jura, la <strong>Savagnin</strong> se asocia sobre todo al vin jaune y a otros blancos criados bajo velo, de carácter oxidativo. Sin embargo, cada vez más productores elaboran también versiones <strong>ouillées</strong>, es decir, criadas en barricas que se rellenan periódicamente para evitar la formación del velo y el contacto con el aire. Estos vinos muestran la expresión más directa de la variedad.</p><p><strong>Fleur de Savagnin</strong> pertenece a este estilo. Se elabora exclusivamente con Savagnin de viñedos de la zona de Arbois, sobre suelos de margas y arcillas, y se cría en madera. El resultado es un blanco seco de buena acidez, con la textura y la intensidad propias de la variedad pero sin las notas de nuez y especias de los vinos bajo velo.</p>",
+    "en": "<p><strong>Domaine de la Tournelle</strong> is a small estate in <strong>Arbois</strong>, in the Jura, founded by Pascal and Évelyne Clairet in the early 1990s. Farmed organically, it is known for its low-intervention wines, with spontaneous fermentations and very limited use of sulphur.</p><p>In the Jura, <strong>Savagnin</strong> is associated above all with vin jaune and other whites aged under a yeast veil, with an oxidative character. However, more and more producers also make <strong>ouillé</strong> versions, aged in barrels that are regularly topped up to prevent the veil from forming and to avoid contact with air. These wines show the variety's most direct expression.</p><p><strong>Fleur de Savagnin</strong> belongs to this style. It is made solely from Savagnin from vineyards around Arbois, on marl and clay soils, and aged in wood. The result is a dry white with good acidity, showing the variety's texture and intensity but without the walnut and spice notes of veil-aged wines.</p>",
+    "fr": "<p>Le <strong>Domaine de la Tournelle</strong> est une petite propriété d'<strong>Arbois</strong>, dans le Jura, fondée par Pascal et Évelyne Clairet au début des années 1990. Cultivé en agriculture biologique, il est connu pour ses vins peu interventionnistes, aux fermentations spontanées et à l'usage très limité du soufre.</p><p>Dans le Jura, le <strong>savagnin</strong> est surtout associé au vin jaune et aux autres blancs élevés sous voile, de caractère oxydatif. De plus en plus de vignerons en élaborent toutefois des versions <strong>ouillées</strong>, c'est-à-dire élevées en fûts régulièrement complétés pour empêcher la formation du voile et le contact avec l'air. Ces vins offrent l'expression la plus directe du cépage.</p><p><strong>Fleur de Savagnin</strong> relève de ce style. Il est issu exclusivement de savagnin des vignes des environs d'Arbois, sur des sols de marnes et d'argiles, et s'élève sous bois. Il en résulte un blanc sec à la bonne acidité, qui montre la texture et l'intensité du cépage sans les notes de noix et d'épices des vins sous voile.</p>",
+    "it": "<p>Il <strong>Domaine de la Tournelle</strong> è una piccola tenuta di <strong>Arbois</strong>, nel Giura, fondata da Pascal ed Évelyne Clairet all'inizio degli anni Novanta. Coltivato in biologico, è noto per i suoi vini a basso intervento, con fermentazioni spontanee e un uso molto limitato della solforosa.</p><p>Nel Giura il <strong>Savagnin</strong> è associato soprattutto al vin jaune e ad altri bianchi affinati sotto velo, di carattere ossidativo. Tuttavia, sempre più produttori ne realizzano anche versioni <strong>ouillées</strong>, cioè affinate in botti regolarmente colmate per impedire la formazione del velo e il contatto con l'aria. Questi vini mostrano l'espressione più diretta del vitigno.</p><p><strong>Fleur de Savagnin</strong> appartiene a questo stile. È prodotto esclusivamente con Savagnin da vigneti dei dintorni di Arbois, su suoli di marne e argille, e matura in legno. Ne risulta un bianco secco di buona acidità, che mostra la struttura e l'intensità del vitigno senza le note di noce e spezie dei vini sotto velo.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Amarillo pálido. Aromas de manzana, pera, cítricos, flores blancas y notas especiadas. Boca seca y tensa, de buena textura, acidez viva y final salino.",
+    "en": "Pale yellow. Aromas of apple, pear, citrus, white flowers and spicy notes. Dry, taut palate with good texture, lively acidity and a saline finish.",
+    "fr": "Jaune pâle. Arômes de pomme, de poire, d'agrumes, de fleurs blanches et notes épicées. Bouche sèche et tendue, à la belle texture, à l'acidité vive et à la finale saline.",
+    "it": "Giallo paglierino. Aromi di mela, pera, agrumi, fiori bianchi e note speziate. Bocca secca e tesa, di buona struttura, acidità vivace e finale sapido."
+  },
   "pairing": {
-    "es": "Pescados, mariscos, arroces, quesos frescos",
-    "en": "Fish, shellfish, rice dishes, fresh cheeses",
-    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
-    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+    "es": "Comté joven, pescados de río, ave con crema, verduras asadas",
+    "en": "Young Comté, river fish, poultry in cream, roast vegetables",
+    "fr": "Comté jeune, poissons de rivière, volaille à la crème, légumes rôtis",
+    "it": "Comté giovane, pesce d'acqua dolce, pollame alla crema, verdure arrosto"
   },
   "serve": {
-    "es": "8-11 °C, copa de vino blanco",
-    "en": "8-11 °C, white wine glass",
-    "fr": "8-11 °C, verre à vin blanc",
-    "it": "8-11 °C, calice da vino bianco"
+    "es": "10-12 °C, copa de vino blanco",
+    "en": "10-12 °C, white wine glass",
+    "fr": "10-12 °C, verre à vin blanc",
+    "it": "10-12 °C, calice da bianco"
   },
   "search": "Domaine de la Tournelle Fleur de Savagnin Domaine de la Tournelle",
-  "brief": true,
   "source": "decantalo"
 }

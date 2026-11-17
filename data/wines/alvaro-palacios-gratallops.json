@@ -7,41 +7,41 @@
   "country": "espana",
   "appellation": "DOQ Priorat",
   "type": "tinto",
-  "category": {
-    "es": "Crianza",
-    "en": "Crianza",
-    "fr": "Crianza",
-    "it": "Crianza"
-  },
+  "category": null,
   "grapes": [
-    "garnacha"
+    "garnacha",
+    "carinena"
   ],
   "summary": {
-    "es": "Álvaro Palacios Gratallops es un vino tinto de Álvaro Palacios, con la denominación DOQ Priorat, en España.",
-    "en": "Álvaro Palacios Gratallops is a red wine from Álvaro Palacios, made under the DOQ Priorat appellation in Spain.",
-    "fr": "Álvaro Palacios Gratallops est un vin rouge de Álvaro Palacios, élaboré sous l’appellation DOQ Priorat (Espagne).",
-    "it": "Álvaro Palacios Gratallops è un vino rosso di Álvaro Palacios, prodotto nella denominazione DOQ Priorat (Spagna)."
+    "es": "Vino de pueblo de Álvaro Palacios, elaborado sobre todo con Garnacha de viñedos de pizarra en torno a Gratallops, en la DOQ Priorat.",
+    "en": "Village wine from Álvaro Palacios, made mainly from Garnacha grown on slate around Gratallops, in DOQ Priorat.",
+    "fr": "Vin de village d'Álvaro Palacios, élaboré surtout avec du grenache de vignes sur schiste autour de Gratallops, dans la DOQ Priorat.",
+    "it": "Vino di villaggio di Álvaro Palacios, prodotto soprattutto con Garnacha da vigneti su ardesia intorno a Gratallops, nella DOQ Priorat."
   },
   "body": {
-    "es": "<p>Se elabora con Garnacha. Lleva la mención Crianza. Su graduación es de 14,5 % vol.</p><p>Bodega de Álvaro Palacios en Gratallops, una de las protagonistas del renacimiento del Priorat a finales de los años ochenta, centrada en la garnacha y la cariñena de viñas viejas sobre llicorella.</p><p>Priorat, en la provincia de Tarragona, es una de las dos Denominaciones de Origen Calificadas de España, junto a Rioja. Sus tintos de Garnacha y Cariñena, cultivadas en laderas de pizarra llamada llicorella, se caracterizan por su concentración y su carácter mineral.</p>",
-    "en": "<p>It is made from Grenache. It carries the Crianza designation. It has 14.5% ABV.</p><p>Álvaro Palacios's winery in Gratallops, one of the leading names in the revival of Priorat in the late 1980s, focused on old-vine Garnacha and Carignan grown on llicorella slate.</p><p>Priorat, in the province of Tarragona, is one of Spain's two Qualified Designations of Origin, alongside Rioja. Its reds from Grenache and Carignan, grown on slopes of slate known as llicorella, are noted for their concentration and mineral character.</p>",
-    "fr": "<p>Il est élaboré à partir de Grenache. Il porte la mention Crianza. Il titre 14,5 % vol.</p><p>Domaine d'Álvaro Palacios à Gratallops, l'un des acteurs majeurs de la renaissance du Priorat à la fin des années 1980, centré sur le grenache et le carignan de vieilles vignes plantées sur la llicorella.</p><p>Le Priorat, dans la province de Tarragone, est l'une des deux dénominations d'origine qualifiées d'Espagne, avec la Rioja. Ses rouges de grenache et de carignan, cultivés sur des coteaux de schiste appelé llicorella, se distinguent par leur concentration et leur caractère minéral.</p>",
-    "it": "<p>È prodotto con Grenache. Riporta la menzione Crianza. Ha 14,5% vol.</p><p>Cantina di Álvaro Palacios a Gratallops, tra i protagonisti della rinascita del Priorat alla fine degli anni Ottanta, incentrata su Grenache e Carignano di vecchie vigne piantate sulla llicorella.</p><p>Il Priorat, nella provincia di Tarragona, è una delle due Denominazioni di origine qualificate della Spagna, insieme alla Rioja. I suoi rossi di Garnacha e Carignano, coltivati su pendii di scisto detto llicorella, si distinguono per concentrazione e carattere minerale.</p>"
+    "es": "<p><strong>Álvaro Palacios</strong>, miembro de la familia riojana de Palacios Remondo, se instaló en Gratallops a finales de los años ochenta y formó parte del pequeño grupo de elaboradores que impulsó el renacimiento del Priorat. Su bodega es hoy una de las referencias de la denominación, y él mismo ha sido uno de los principales defensores de una clasificación de los vinos según su origen, inspirada en Borgoña.</p><p>Ese enfoque se refleja en este vino, un <strong>vi de vila</strong> (vino de pueblo) que procede de viñedos del término de <strong>Gratallops</strong>. Se elabora principalmente con <strong>Garnacha</strong>, acompañada de algo de Cariñena, cultivadas en las laderas y terrazas de <strong>llicorella</strong>, la pizarra descompuesta típica del Priorat, que obliga a las raíces a profundizar y limita los rendimientos. Fermenta y se cría en madera, con un estilo que busca más la frescura y la finura que la extracción.</p><p>Con unos 14,5 % vol., es un tinto de fruta roja y negra madura, notas de hierbas mediterráneas y un marcado carácter mineral, con buena capacidad de guarda.</p>",
+    "en": "<p><strong>Álvaro Palacios</strong>, a member of the Rioja family behind Palacios Remondo, settled in Gratallops in the late 1980s and was part of the small group of winemakers who drove the revival of Priorat. His winery is now one of the appellation's benchmarks, and he himself has been one of the leading advocates of classifying wines by origin, on the Burgundian model.</p><p>That approach is reflected in this wine, a <strong>vi de vila</strong> (village wine) from vineyards within the municipality of <strong>Gratallops</strong>. It is made mainly from <strong>Garnacha</strong>, with some Cariñena, grown on slopes and terraces of <strong>llicorella</strong>, the crumbly slate typical of Priorat, which forces the roots deep and limits yields. It ferments and ages in wood, in a style that seeks freshness and finesse rather than extraction.</p><p>At around 14.5% ABV, it is a red with ripe red and black fruit, notes of Mediterranean herbs and a marked mineral character, with good ageing potential.</p>",
+    "fr": "<p><strong>Álvaro Palacios</strong>, membre de la famille riojane de Palacios Remondo, s'est installé à Gratallops à la fin des années 1980 et a fait partie du petit groupe de vignerons qui a lancé la renaissance du Priorat. Sa bodega est aujourd'hui l'une des références de l'appellation, et lui-même a été l'un des principaux défenseurs d'une classification des vins selon leur origine, inspirée de la Bourgogne.</p><p>Cette approche se reflète dans ce vin, un <strong>vi de vila</strong> (vin de village) issu de vignes de la commune de <strong>Gratallops</strong>. Il est élaboré principalement avec du <strong>grenache</strong>, accompagné d'un peu de carignan, cultivés sur les pentes et terrasses de <strong>llicorella</strong>, le schiste délité typique du Priorat, qui oblige les racines à descendre profondément et limite les rendements. Il fermente et s'élève sous bois, dans un style qui recherche la fraîcheur et la finesse plutôt que l'extraction.</p><p>D'environ 14,5 % vol., c'est un rouge aux fruits rouges et noirs mûrs, aux notes d'herbes méditerranéennes et au caractère minéral marqué, doté d'un bon potentiel de garde.</p>",
+    "it": "<p><strong>Álvaro Palacios</strong>, membro della famiglia riojana di Palacios Remondo, si stabilì a Gratallops alla fine degli anni Ottanta e fece parte del piccolo gruppo di produttori che avviò la rinascita del Priorat. La sua cantina è oggi uno dei riferimenti della denominazione, e lui stesso è stato tra i principali sostenitori di una classificazione dei vini secondo l'origine, ispirata alla Borgogna.</p><p>Questo approccio si riflette in questo vino, un <strong>vi de vila</strong> (vino di villaggio) proveniente da vigneti del comune di <strong>Gratallops</strong>. È prodotto principalmente con <strong>Garnacha</strong>, accompagnata da un po' di Cariñena, coltivate su pendii e terrazze di <strong>llicorella</strong>, l'ardesia friabile tipica del Priorat, che costringe le radici a scendere in profondità e limita le rese. Fermenta e affina in legno, con uno stile che cerca freschezza e finezza più che estrazione.</p><p>Con circa 14,5% vol., è un rosso di frutta rossa e nera matura, note di erbe mediterranee e un marcato carattere minerale, con buona capacità d'invecchiamento.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de fruta roja y negra madura, hierbas mediterráneas, especias y notas minerales de grafito. Boca sabrosa y fresca, de taninos finos y final largo.",
+    "en": "Intense deep cherry red. Aromas of ripe red and black fruit, Mediterranean herbs, spice and mineral, graphite notes. Savoury, fresh palate with fine tannins and a long finish.",
+    "fr": "Rouge cerise intense. Arômes de fruits rouges et noirs mûrs, d'herbes méditerranéennes, d'épices et notes minérales de graphite. Bouche savoureuse et fraîche, aux tanins fins et à la finale longue.",
+    "it": "Rosso ciliegia intenso. Aromi di frutta rossa e nera matura, erbe mediterranee, spezie e note minerali di grafite. Bocca sapida e fresca, tannini fini e finale lungo."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Cordero a la brasa, caza, carnes guisadas, setas, quesos curados",
+    "en": "Chargrilled lamb, game, braised meat, mushrooms, aged cheeses",
+    "fr": "Agneau à la braise, gibier, viandes braisées, champignons, fromages affinés",
+    "it": "Agnello alla brace, selvaggina, carni brasate, funghi, formaggi stagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
   },
   "search": "Álvaro Palacios Gratallops Alvaro Palacios",
-  "brief": true,
   "source": "decantalo"
 }

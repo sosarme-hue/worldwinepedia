@@ -8,33 +8,39 @@
   "appellation": "DOCG Brunello di Montalcino",
   "type": "tinto",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "sangiovese"
+  ],
   "summary": {
-    "es": "Cerbaiona Brunello di Montalcino es un vino tinto de Cerbaiona, con la denominación DOCG Brunello di Montalcino, en Italia.",
-    "en": "Cerbaiona Brunello di Montalcino is a red wine from Cerbaiona, made under the DOCG Brunello di Montalcino appellation in Italy.",
-    "fr": "Cerbaiona Brunello di Montalcino est un vin rouge de Cerbaiona, élaboré sous l’appellation DOCG Brunello di Montalcino (Italie).",
-    "it": "Cerbaiona Brunello di Montalcino è un vino rosso di Cerbaiona, prodotto nella denominazione DOCG Brunello di Montalcino (Italia)."
+    "es": "Brunello di Montalcino de Sangiovese de Cerbaiona, pequeña finca de la ladera oriental de Montalcino conocida por su estilo clásico.",
+    "en": "Sangiovese Brunello di Montalcino from Cerbaiona, a small estate on the eastern slope of Montalcino known for its classic style.",
+    "fr": "Brunello di Montalcino de sangiovese de Cerbaiona, petit domaine du versant oriental de Montalcino connu pour son style classique.",
+    "it": "Brunello di Montalcino di Sangiovese di Cerbaiona, piccola tenuta del versante orientale di Montalcino nota per il suo stile classico."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 14,13 % vol.</p><p>El Brunello di Montalcino es un tinto de Sangiovese 100 % elaborado en el municipio de Montalcino, en la provincia de Siena. Es conocido por su larga crianza obligatoria y por su capacidad de envejecimiento.</p>",
-    "en": "<p>It is aged in wood. It has 14.13% ABV.</p><p>Brunello di Montalcino is a 100% Sangiovese red made in the municipality of Montalcino, in the province of Siena. It is known for its long mandatory ageing and its capacity to develop in bottle.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 14,13 % vol.</p><p>Le Brunello di Montalcino est un rouge 100 % sangiovese produit sur la commune de Montalcino, dans la province de Sienne. Il est connu pour son long élevage obligatoire et son aptitude au vieillissement.</p>",
-    "it": "<p>È affinato in legno. Ha 14,13% vol.</p><p>Il Brunello di Montalcino è un rosso 100% Sangiovese prodotto nel comune di Montalcino, in provincia di Siena. È noto per il lungo affinamento obbligatorio e per la sua capacità di invecchiamento.</p>"
+    "es": "<p><strong>Cerbaiona</strong> es una pequeña finca situada en la ladera oriental de la colina de <strong>Montalcino</strong>, a poca distancia del pueblo, con viñedos a buena altitud sobre suelos pedregosos. Durante décadas estuvo ligada a <strong>Diego Molinari</strong>, que la adquirió en los años setenta y la convirtió en una de las referencias del Brunello de estilo clásico, y a mediados de la década de 2010 pasó a nuevos propietarios, que han mantenido su orientación tradicional.</p><p>La bodega elabora pocos vinos, con fermentaciones largas y crianza en grandes toneles de roble, buscando la transparencia del Sangiovese más que la potencia o la huella de la madera.</p><p>Como todo <strong>Brunello di Montalcino</strong>, se elabora exclusivamente con <strong>Sangiovese</strong> cultivado en el término municipal de Montalcino, en la provincia de Siena. La normativa exige un largo envejecimiento: el vino no puede salir al mercado hasta el 1 de enero del quinto año posterior a la vendimia y debe pasar al menos dos años en madera. Las colinas de Montalcino, más cálidas y secas que las del Chianti, dan Sangiovese de gran estructura, taninos firmes y notable longevidad.</p><p>Con una graduación de 14,13 % vol., es un Brunello de gran capacidad de guarda, que necesita años de botella y agradece la decantación.</p>",
+    "en": "<p><strong>Cerbaiona</strong> is a small estate on the eastern slope of the hill of <strong>Montalcino</strong>, a short distance from the town, with vineyards at good altitude on stony soils. For decades it was associated with <strong>Diego Molinari</strong>, who bought it in the 1970s and made it one of the benchmarks of classic-style Brunello, and in the mid-2010s it passed to new owners, who have kept its traditional approach.</p><p>The winery makes few wines, with long fermentations and ageing in large oak casks, seeking the transparency of Sangiovese rather than power or the imprint of oak.</p><p>Like every <strong>Brunello di Montalcino</strong>, it is made exclusively from <strong>Sangiovese</strong> grown within the municipality of Montalcino, in the province of Siena. The rules require long ageing: the wine cannot be released before 1 January of the fifth year after the harvest and must spend at least two years in wood. The hills of Montalcino, warmer and drier than those of Chianti, give Sangiovese of great structure, firm tannins and remarkable longevity.</p><p>At 14.13% ABV, it is a Brunello with great ageing potential, which needs years in bottle and benefits from decanting.</p>",
+    "fr": "<p><strong>Cerbaiona</strong> est un petit domaine situé sur le versant oriental de la colline de <strong>Montalcino</strong>, à peu de distance du village, avec des vignes à bonne altitude sur des sols caillouteux. Pendant des décennies, il a été lié à <strong>Diego Molinari</strong>, qui l’acquit dans les années 1970 et en fit l’une des références du Brunello de style classique ; au milieu des années 2010, il est passé à de nouveaux propriétaires, qui ont conservé son orientation traditionnelle.</p><p>La maison élabore peu de vins, avec de longues fermentations et un élevage en grands foudres de chêne, en recherchant la transparence du sangiovese plutôt que la puissance ou l’empreinte du bois.</p><p>Comme tout <strong>Brunello di Montalcino</strong>, il est élaboré exclusivement avec du <strong>sangiovese</strong> cultivé sur la commune de Montalcino, dans la province de Sienne. Le cahier des charges impose un long vieillissement : le vin ne peut être commercialisé avant le 1er janvier de la cinquième année suivant la vendange et doit passer au moins deux ans sous bois. Les collines de Montalcino, plus chaudes et plus sèches que celles du Chianti, donnent des sangioveses très structurés, aux tanins fermes et d’une remarquable longévité.</p><p>Titrant 14,13 % vol., c’est un Brunello d’un grand potentiel de garde, qui demande des années de bouteille et gagne à être carafé.</p>",
+    "it": "<p><strong>Cerbaiona</strong> è una piccola tenuta sul versante orientale della collina di <strong>Montalcino</strong>, a breve distanza dal paese, con vigneti a buona altitudine su suoli sassosi. Per decenni è stata legata a <strong>Diego Molinari</strong>, che la acquistò negli anni Settanta e ne fece uno dei riferimenti del Brunello di stile classico; a metà degli anni Dieci del Duemila è passata a nuovi proprietari, che ne hanno mantenuto l’impostazione tradizionale.</p><p>L’azienda produce pochi vini, con fermentazioni lunghe e affinamento in grandi botti di rovere, cercando la trasparenza del Sangiovese più che la potenza o l’impronta del legno.</p><p>Come ogni <strong>Brunello di Montalcino</strong>, è prodotto esclusivamente con <strong>Sangiovese</strong> coltivato nel comune di Montalcino, in provincia di Siena. Il disciplinare impone un lungo invecchiamento: il vino non può essere commercializzato prima del 1° gennaio del quinto anno successivo alla vendemmia e deve trascorrere almeno due anni in legno. Le colline di Montalcino, più calde e asciutte di quelle del Chianti, danno Sangiovese di grande struttura, tannini decisi e notevole longevità.</p><p>Con 14,13% vol., è un Brunello di grande longevità, che ha bisogno di anni di bottiglia e beneficia della decantazione.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo rubí con reflejos granates. Aromas de cereza madura, ciruela, violeta, hierbas aromáticas, cuero y especias. En boca es firme y elegante, con acidez viva, taninos marcados y un final largo.",
+    "en": "Ruby red with garnet glints. Aromas of ripe cherry, plum, violet, aromatic herbs, leather and spice. Firm and elegant on the palate, with lively acidity, marked tannins and a long finish.",
+    "fr": "Rouge rubis aux reflets grenat. Arômes de cerise mûre, de prune, de violette, d’herbes aromatiques, de cuir et d’épices. En bouche, il est ferme et élégant, à l’acidité vive et aux tanins marqués, avec une finale longue.",
+    "it": "Rosso rubino con riflessi granati. Aromi di ciliegia matura, prugna, viola, erbe aromatiche, cuoio e spezie. In bocca è deciso ed elegante, con acidità viva, tannini marcati e finale lungo."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Bistecca alla fiorentina, jabalí, pici al ragú, pecorino curado",
+    "en": "Bistecca alla fiorentina, wild boar, pici with ragù, aged pecorino",
+    "fr": "Bistecca alla fiorentina, sanglier, pici au ragù, pecorino affiné",
+    "it": "Bistecca alla fiorentina, cinghiale, pici al ragù, pecorino stagionato"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
   },
   "search": "Cerbaiona Brunello di Montalcino Cerbaiona",
-  "brief": true,
   "source": "decantalo"
 }

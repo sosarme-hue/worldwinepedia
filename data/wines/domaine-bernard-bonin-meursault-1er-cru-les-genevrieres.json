@@ -7,36 +7,45 @@
   "country": "francia",
   "appellation": "AOC Meursault 1er Cru / Côte-d'Or",
   "type": "blanco",
-  "category": null,
+  "category": {
+    "es": "Premier Cru",
+    "en": "Premier Cru",
+    "fr": "Premier Cru",
+    "it": "Premier Cru"
+  },
   "grapes": [
     "chardonnay"
   ],
   "summary": {
-    "es": "Domaine Bernard-Bonin Meursault 1er Cru Les Genevrières es un vino blanco de Domaine Bernard-Bonin, con la denominación AOC Meursault 1er Cru / Côte-d'Or, en Francia.",
-    "en": "Domaine Bernard-Bonin Meursault 1er Cru Les Genevrières is a white wine from Domaine Bernard-Bonin, made under the AOC Meursault 1er Cru / Côte-d'Or appellation in France.",
-    "fr": "Domaine Bernard-Bonin Meursault 1er Cru Les Genevrières est un vin blanc de Domaine Bernard-Bonin, élaboré sous l’appellation AOC Meursault 1er Cru / Côte-d'Or (France).",
-    "it": "Domaine Bernard-Bonin Meursault 1er Cru Les Genevrières è un vino bianco di Domaine Bernard-Bonin, prodotto nella denominazione AOC Meursault 1er Cru / Côte-d'Or (Francia)."
+    "es": "Meursault Premier Cru de Chardonnay procedente de Les Genevrières, uno de los grandes premiers crus de Meursault, elaborado por el Domaine Bernard-Bonin y criado en barrica.",
+    "en": "A Meursault Premier Cru from Chardonnay sourced from Les Genevrières, one of Meursault's great premiers crus, made by Domaine Bernard-Bonin and aged in barrel.",
+    "fr": "Meursault premier cru de chardonnay issu des Genevrières, l'un des grands premiers crus de Meursault, élaboré par le Domaine Bernard-Bonin et élevé en fût.",
+    "it": "Meursault Premier Cru da Chardonnay proveniente da Les Genevrières, uno dei grandi premier cru di Meursault, prodotto dal Domaine Bernard-Bonin e affinato in barrique."
   },
   "body": {
-    "es": "<p>Se elabora con Chardonnay. Tiene crianza en madera. Su graduación es de 13 % vol.</p>",
-    "en": "<p>It is made from Chardonnay. It is aged in wood. It has 13% ABV.</p>",
-    "fr": "<p>Il est élaboré à partir de Chardonnay. Il est élevé en bois. Il titre 13 % vol.</p>",
-    "it": "<p>È prodotto con Chardonnay. È affinato in legno. Ha 13% vol.</p>"
+    "es": "<p>El <strong>Domaine Bernard-Bonin</strong> es una pequeña explotación familiar de la Côte de Beaune, con viñedos centrados en <strong>Meursault</strong> y sus alrededores, que elabora blancos de Chardonnay de perfil cuidado y artesanal.</p><p><strong>Meursault</strong> es, junto a Puligny-Montrachet y Chassagne-Montrachet, uno de los grandes pueblos de vino blanco de Borgoña. Aunque no tiene grands crus, sus mejores parcelas están clasificadas como <strong>premiers crus</strong>, y entre ellas <strong>Les Genevrières</strong> figura tradicionalmente en el trío más prestigioso junto a Les Perrières y Les Charmes. Situada en la ladera, al norte de Les Perrières, se asienta sobre suelos calizos poco profundos con buen drenaje, que suelen dar vinos de gran finura y perfume.</p><p>El vino se elabora exclusivamente con <strong>Chardonnay</strong>. Como es tradicional en Meursault, fermenta y se cría en <strong>barricas de roble</strong>, a menudo con trabajo de lías, lo que le aporta textura y complejidad. El estilo de Genevrières suele asociarse con un equilibrio entre la amplitud característica de Meursault y una elegancia floral y una acidez fresca, con buena capacidad de guarda.</p>",
+    "en": "<p><strong>Domaine Bernard-Bonin</strong> is a small family estate in the Côte de Beaune, with vineyards centred on <strong>Meursault</strong> and its surroundings, producing carefully crafted Chardonnay whites.</p><p><strong>Meursault</strong> is, together with Puligny-Montrachet and Chassagne-Montrachet, one of Burgundy's great white-wine villages. Although it has no grands crus, its best plots are classified as <strong>premiers crus</strong>, and among them <strong>Les Genevrières</strong> is traditionally counted in the most prestigious trio alongside Les Perrières and Les Charmes. Lying on the slope north of Les Perrières, it sits on shallow, well-drained limestone soils that tend to give wines of great finesse and perfume.</p><p>The wine is made solely from <strong>Chardonnay</strong>. As is traditional in Meursault, it is fermented and aged in <strong>oak barrels</strong>, often with lees work, which adds texture and complexity. The Genevrières style is usually associated with a balance between Meursault's characteristic breadth and floral elegance with fresh acidity, together with good ageing potential.</p>",
+    "fr": "<p>Le <strong>Domaine Bernard-Bonin</strong> est une petite exploitation familiale de la Côte de Beaune, dont les vignes sont centrées sur <strong>Meursault</strong> et ses environs, et qui produit des blancs de chardonnay au profil soigné et artisanal.</p><p><strong>Meursault</strong> est, avec Puligny-Montrachet et Chassagne-Montrachet, l'un des grands villages de vin blanc de Bourgogne. S'il ne compte pas de grand cru, ses meilleures parcelles sont classées en <strong>premiers crus</strong>, et parmi elles <strong>Les Genevrières</strong> figure traditionnellement dans le trio le plus prestigieux avec Les Perrières et Les Charmes. Situé sur le coteau, au nord des Perrières, il repose sur des sols calcaires peu profonds et bien drainés qui donnent souvent des vins d'une grande finesse et d'un beau parfum.</p><p>Le vin est issu exclusivement de <strong>chardonnay</strong>. Comme le veut la tradition à Meursault, il fermente et s'élève en <strong>fûts de chêne</strong>, souvent avec un travail des lies qui lui apporte texture et complexité. Le style des Genevrières est généralement associé à un équilibre entre l'ampleur caractéristique de Meursault, une élégance florale et une acidité fraîche, avec un bon potentiel de garde.</p>",
+    "it": "<p>Il <strong>Domaine Bernard-Bonin</strong> è una piccola azienda familiare della Côte de Beaune, con vigneti concentrati a <strong>Meursault</strong> e dintorni, che produce bianchi da Chardonnay dal profilo curato e artigianale.</p><p><strong>Meursault</strong> è, con Puligny-Montrachet e Chassagne-Montrachet, uno dei grandi villaggi del vino bianco di Borgogna. Pur non avendo grand cru, le sue parcelle migliori sono classificate come <strong>premier cru</strong>, e tra queste <strong>Les Genevrières</strong> figura tradizionalmente nel trio più prestigioso insieme a Les Perrières e Les Charmes. Situato sul pendio, a nord di Les Perrières, poggia su suoli calcarei poco profondi e ben drenati, che tendono a dare vini di grande finezza e profumo.</p><p>Il vino è prodotto esclusivamente con <strong>Chardonnay</strong>. Come da tradizione a Meursault, fermenta e matura in <strong>botti di rovere</strong>, spesso con lavoro sulle fecce fini, che gli conferisce struttura e complessità. Lo stile di Genevrières è generalmente associato a un equilibrio tra l'ampiezza tipica di Meursault, un'eleganza floreale e una fresca acidità, con buona capacità d'invecchiamento.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Amarillo dorado claro. Aromas de flores blancas, cítricos, fruta de hueso, avellana y notas de mantequilla tostada. Boca amplia y cremosa, con acidez fresca y final largo y mineral.",
+    "en": "Pale gold. Aromas of white flowers, citrus, stone fruit, hazelnut and notes of toasted butter. Broad, creamy palate with fresh acidity and a long, mineral finish.",
+    "fr": "Or pâle. Arômes de fleurs blanches, d'agrumes, de fruits à noyau, de noisette et notes de beurre grillé. Bouche ample et crémeuse, à l'acidité fraîche et à la finale longue et minérale.",
+    "it": "Oro chiaro. Aromi di fiori bianchi, agrumi, frutta a nocciolo, nocciola e note di burro tostato. Bocca ampia e cremosa, con acidità fresca e finale lungo e minerale."
+  },
   "pairing": {
-    "es": "Pescados, mariscos, arroces, quesos frescos",
-    "en": "Fish, shellfish, rice dishes, fresh cheeses",
-    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
-    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+    "es": "Langosta, rodaballo, ave de Bresse en salsa de crema, quesos de pasta blanda",
+    "en": "Lobster, turbot, Bresse chicken in cream sauce, soft cheeses",
+    "fr": "Homard, turbot, volaille de Bresse à la crème, fromages à pâte molle",
+    "it": "Astice, rombo, pollo di Bresse in salsa alla crema, formaggi a pasta molle"
   },
   "serve": {
-    "es": "8-11 °C, copa de vino blanco",
-    "en": "8-11 °C, white wine glass",
-    "fr": "8-11 °C, verre à vin blanc",
-    "it": "8-11 °C, calice da vino bianco"
+    "es": "11-13 °C, copa amplia de vino blanco",
+    "en": "11-13 °C, large white wine glass",
+    "fr": "11-13 °C, grand verre à vin blanc",
+    "it": "11-13 °C, calice ampio da bianco"
   },
   "search": "Domaine Bernard-Bonin Meursault 1er Cru Les Genevrières Domaine Bernard-Bonin",
-  "brief": true,
   "source": "decantalo"
 }

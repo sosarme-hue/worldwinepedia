@@ -8,33 +8,39 @@
   "appellation": "AVA Napa Valley",
   "type": "tinto",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "cabernet-sauvignon"
+  ],
   "summary": {
-    "es": "Bond Pluribus es un vino tinto de Bond Estate, con la denominación AVA Napa Valley, en Estados Unidos.",
-    "en": "Bond Pluribus is a red wine from Bond Estate, made under the AVA Napa Valley appellation in United States.",
-    "fr": "Bond Pluribus est un vin rouge de Bond Estate, élaboré sous l’appellation AVA Napa Valley (États-Unis).",
-    "it": "Bond Pluribus è un vino rosso di Bond Estate, prodotto nella denominazione AVA Napa Valley (Stati Uniti)."
+    "es": "Tinto de base Cabernet Sauvignon de un viñedo de montaña de Spring Mountain, en el valle de Napa, uno de los vinos de pago de Bond.",
+    "en": "Cabernet Sauvignon-based red from a mountain vineyard on Spring Mountain in the Napa Valley, one of Bond’s single-vineyard wines.",
+    "fr": "Rouge à base de cabernet sauvignon issu d’un vignoble de montagne de Spring Mountain, dans la Napa Valley, l’un des vins de cru de Bond.",
+    "it": "Rosso a base di Cabernet Sauvignon da un vigneto di montagna di Spring Mountain, nella Napa Valley, uno dei vini di singolo vigneto di Bond."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 14,5 % vol.</p><p>Valle situado al norte de la bahía de San Francisco y la región vitícola más célebre de Estados Unidos, conocida sobre todo por sus Cabernet Sauvignon. Fue la primera AVA reconocida en California.</p>",
-    "en": "<p>It is aged in wood. It has 14.5% ABV.</p><p>A valley north of San Francisco Bay and the most famous wine region in the United States, known above all for its Cabernet Sauvignon. It was the first AVA recognised in California.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 14,5 % vol.</p><p>Vallée située au nord de la baie de San Francisco et région viticole la plus célèbre des États-Unis, connue surtout pour ses cabernets-sauvignons. Ce fut la première AVA reconnue en Californie.</p>",
-    "it": "<p>È affinato in legno. Ha 14,5% vol.</p><p>Valle a nord della baia di San Francisco e la regione vinicola più celebre degli Stati Uniti, nota soprattutto per i suoi Cabernet Sauvignon. Fu la prima AVA riconosciuta in California.</p>"
+    "es": "<p><strong>Bond</strong> es el proyecto que Bill Harlan, fundador de Harlan Estate, puso en marcha en el <strong>valle de Napa</strong> a finales de los años noventa. Su idea es aplicar a Napa un concepto cercano al de los grand crus: elaborar por separado tintos de base Cabernet Sauvignon procedentes de viñedos concretos, cultivados en exclusiva para la casa bajo acuerdos a largo plazo, para mostrar las diferencias entre los distintos terruños del valle.</p><p><strong>Pluribus</strong> procede de un viñedo de montaña en <strong>Spring Mountain</strong>, en las laderas de la cordillera de Mayacamas que cierran el valle por el oeste. La altitud, las pendientes y los suelos delgados y pedregosos dan rendimientos bajos y uvas de gran concentración, mientras que las temperaturas más frescas que en el fondo del valle favorecen un perfil de fruta oscura con frescura y un tanino firme.</p><p>La elaboración sigue los mismos principios en todos los vinos de la casa: vendimia manual, selección rigurosa de la uva y crianza en barricas de roble francés, en buena parte nuevas, durante un periodo prolongado. Son tintos concentrados y de larga guarda, que conviene beber tras varios años en botella y decantar con antelación.</p>",
+    "en": "<p><strong>Bond</strong> is the project that Bill Harlan, founder of Harlan Estate, launched in the <strong>Napa Valley</strong> in the late 1990s. Its idea is to apply to Napa a concept close to that of the grands crus: making separate Cabernet Sauvignon-based reds from specific vineyards, farmed exclusively for the house under long-term agreements, to show the differences between the valley’s terroirs.</p><p><strong>Pluribus</strong> comes from a mountain vineyard on <strong>Spring Mountain</strong>, on the slopes of the Mayacamas range that closes the valley to the west. Altitude, steep slopes and thin, stony soils give low yields and highly concentrated grapes, while temperatures cooler than on the valley floor favour a dark-fruited profile with freshness and firm tannins.</p><p>Winemaking follows the same principles for all the house’s wines: hand harvesting, rigorous fruit selection and extended ageing in French oak barrels, largely new. They are concentrated, long-lived reds, best drunk after several years in bottle and decanted in advance.</p>",
+    "fr": "<p><strong>Bond</strong> est le projet que Bill Harlan, fondateur de Harlan Estate, a lancé dans la <strong>Napa Valley</strong> à la fin des années 1990. L’idée est d’appliquer à Napa une notion proche de celle des grands crus : élaborer séparément des rouges à base de cabernet sauvignon issus de vignobles précis, cultivés en exclusivité pour la maison dans le cadre d’accords à long terme, afin de montrer les différences entre les terroirs de la vallée.</p><p><strong>Pluribus</strong> provient d’un vignoble de montagne à <strong>Spring Mountain</strong>, sur les pentes de la chaîne des Mayacamas qui ferme la vallée à l’ouest. L’altitude, les pentes et les sols minces et caillouteux donnent de faibles rendements et des raisins très concentrés, tandis que des températures plus fraîches qu’en fond de vallée favorisent un profil de fruits noirs doté de fraîcheur et d’un tanin ferme.</p><p>L’élaboration suit les mêmes principes pour tous les vins de la maison : vendange manuelle, tri rigoureux du raisin et élevage prolongé en barriques de chêne français, en grande partie neuves. Ce sont des rouges concentrés et de longue garde, qu’il convient de boire après plusieurs années de bouteille et de carafer à l’avance.</p>",
+    "it": "<p><strong>Bond</strong> è il progetto che Bill Harlan, fondatore di Harlan Estate, ha avviato nella <strong>Napa Valley</strong> alla fine degli anni Novanta. L’idea è applicare a Napa un concetto vicino a quello dei grand cru: produrre separatamente rossi a base di Cabernet Sauvignon da vigneti precisi, coltivati in esclusiva per la casa con accordi a lungo termine, per mostrare le differenze tra i terroir della valle.</p><p><strong>Pluribus</strong> proviene da un vigneto di montagna a <strong>Spring Mountain</strong>, sui pendii della catena dei Mayacamas che chiude la valle a ovest. L’altitudine, le pendenze e i suoli sottili e sassosi danno rese basse e uve molto concentrate, mentre le temperature più fresche rispetto al fondovalle favoriscono un profilo di frutto scuro con freschezza e un tannino deciso.</p><p>La vinificazione segue gli stessi principi per tutti i vini della casa: vendemmia manuale, selezione rigorosa dell’uva e lungo affinamento in barrique di rovere francese, in buona parte nuove. Sono rossi concentrati e di lungo invecchiamento, da bere dopo diversi anni di bottiglia e da decantare con anticipo.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Grosella negra, mora, violeta, grafito y especias, con los tostados de la barrica. En boca es denso y profundo, con taninos firmes y finos y un final muy largo.",
+    "en": "Blackcurrant, blackberry, violet, graphite and spice, with toasty oak. Dense and deep on the palate, with firm, fine tannins and a very long finish.",
+    "fr": "Cassis, mûre, violette, graphite et épices, avec le toasté de la barrique. Bouche dense et profonde, aux tanins fermes et fins et à la finale très longue.",
+    "it": "Ribes nero, mora, viola, grafite e spezie, con le tostature della barrique. In bocca è denso e profondo, con tannini saldi e fini e un finale molto lungo."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Solomillo y chuletón a la brasa, cordero asado, caza mayor, quesos curados",
+    "en": "Chargrilled fillet and rib steak, roast lamb, large game, aged cheeses",
+    "fr": "Filet et côte de bœuf à la braise, agneau rôti, gros gibier, fromages affinés",
+    "it": "Filetto e costata alla brace, agnello arrosto, selvaggina di grossa taglia, formaggi stagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
   },
   "search": "Bond Pluribus Bond Estate",
-  "brief": true,
   "source": "decantalo"
 }

@@ -10,31 +10,35 @@
   "category": null,
   "grapes": [],
   "summary": {
-    "es": "Andrew Will Champoux Vineyard es un vino tinto de Andrew Will, con la denominación Vashon, en Estados Unidos.",
-    "en": "Andrew Will Champoux Vineyard is a red wine from Andrew Will, made under the Vashon appellation in United States.",
-    "fr": "Andrew Will Champoux Vineyard est un vin rouge de Andrew Will, élaboré sous l’appellation Vashon (États-Unis).",
-    "it": "Andrew Will Champoux Vineyard è un vino rosso di Andrew Will, prodotto nella denominazione Vashon (Stati Uniti)."
+    "es": "Tinto de variedades bordelesas de Andrew Will procedente del viñedo Champoux, en Horse Heaven Hills, una de las parcelas históricas del estado de Washington.",
+    "en": "Bordeaux-variety red from Andrew Will sourced from Champoux Vineyard in the Horse Heaven Hills, one of Washington State’s historic sites.",
+    "fr": "Rouge de cépages bordelais d’Andrew Will issu du vignoble Champoux, dans les Horse Heaven Hills, l’un des sites historiques de l’État de Washington.",
+    "it": "Rosso di vitigni bordolesi di Andrew Will proveniente dal vigneto Champoux, nelle Horse Heaven Hills, uno dei siti storici dello stato di Washington."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 14,5 % vol.</p>",
-    "en": "<p>It is aged in wood. It has 14.5% ABV.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 14,5 % vol.</p>",
-    "it": "<p>È affinato in legno. Ha 14,5% vol.</p>"
+    "es": "<p><strong>Andrew Will</strong> es una bodega del estado de Washington fundada a finales de los años ochenta por Chris Camarda, que le dio el nombre de su sobrino Andrew y de su hijo Will. La bodega está en la isla de Vashon, en el estrecho de Puget, pero la uva procede del este del estado, en la cuenca del río Columbia, donde un clima seco y soleado, con fuertes contrastes térmicos, permite madurar bien las variedades bordelesas. La casa se dio a conocer por embotellar por separado vinos de viñedos concretos.</p><p>El <strong>viñedo Champoux</strong> se encuentra en la AVA <strong>Horse Heaven Hills</strong>, sobre las colinas que dominan el río Columbia, y es una de las parcelas más reputadas de Washington, con cepas de Cabernet Sauvignon de cierta edad. Andrew Will ha trabajado con este viñedo durante muchos años y elabora con su uva un tinto de corte bordelés en el que domina la Cabernet.</p><p>La fermentación se hace por separado y el vino se cría en barricas de roble, con una presencia de madera nueva medida. El estilo de la casa busca equilibrio y frescura antes que sobremaduración: es un vino de fruta negra, estructura firme y buena capacidad de guarda, que gana con algunos años en botella o con una decantación previa.</p>",
+    "en": "<p><strong>Andrew Will</strong> is a Washington State winery founded in the late 1980s by Chris Camarda, who named it after his nephew Andrew and his son Will. The winery is on Vashon Island, in Puget Sound, but the grapes come from the east of the state, in the Columbia River basin, where a dry, sunny climate with large temperature swings ripens the Bordeaux varieties well. The house made its name by bottling wines from individual vineyards separately.</p><p><strong>Champoux Vineyard</strong> lies in the <strong>Horse Heaven Hills</strong> AVA, on the hills overlooking the Columbia River, and is one of Washington’s most highly regarded sites, with Cabernet Sauvignon vines of some age. Andrew Will has worked with this vineyard for many years and makes from its fruit a Bordeaux-style red led by Cabernet.</p><p>Fermentation is carried out separately and the wine is aged in oak barrels, with a measured share of new wood. The house style favours balance and freshness over overripeness: it is a wine of black fruit, firm structure and good ageing potential, which benefits from a few years in bottle or from decanting.</p>",
+    "fr": "<p><strong>Andrew Will</strong> est une winery de l’État de Washington fondée à la fin des années 1980 par Chris Camarda, qui lui donna le nom de son neveu Andrew et de son fils Will. La cave se trouve sur l’île de Vashon, dans le Puget Sound, mais les raisins viennent de l’est de l’État, dans le bassin du Columbia, où un climat sec et ensoleillé, aux forts écarts de température, permet de bien mûrir les cépages bordelais. La maison s’est fait connaître en vinifiant séparément des vins de vignobles précis.</p><p>Le <strong>vignoble Champoux</strong> se situe dans l’AVA <strong>Horse Heaven Hills</strong>, sur les collines qui dominent le Columbia, et c’est l’un des sites les plus réputés de Washington, avec des ceps de cabernet-sauvignon d’un certain âge. Andrew Will travaille avec ce vignoble depuis de nombreuses années et en tire un rouge d’assemblage bordelais dominé par le cabernet.</p><p>Les fermentations se font séparément et le vin est élevé en barriques de chêne, avec une part mesurée de bois neuf. Le style de la maison privilégie l’équilibre et la fraîcheur plutôt que la surmaturité : c’est un vin de fruits noirs, à la structure ferme et au bon potentiel de garde, qui gagne à quelques années de bouteille ou à un passage en carafe.</p>",
+    "it": "<p><strong>Andrew Will</strong> è una cantina dello stato di Washington fondata alla fine degli anni Ottanta da Chris Camarda, che le diede il nome del nipote Andrew e del figlio Will. La cantina si trova sull’isola di Vashon, nel Puget Sound, ma le uve provengono dall’est dello stato, nel bacino del fiume Columbia, dove un clima secco e soleggiato, con forti escursioni termiche, consente una buona maturazione dei vitigni bordolesi. La casa si è fatta conoscere imbottigliando separatamente vini di singoli vigneti.</p><p>Il <strong>vigneto Champoux</strong> si trova nell’AVA <strong>Horse Heaven Hills</strong>, sulle colline che dominano il fiume Columbia, ed è uno dei siti più apprezzati di Washington, con viti di Cabernet Sauvignon di una certa età. Andrew Will lavora con questo vigneto da molti anni e ne ricava un rosso di taglio bordolese in cui domina il Cabernet.</p><p>Le fermentazioni avvengono separatamente e il vino affina in barrique di rovere, con una quota misurata di legno nuovo. Lo stile della casa privilegia equilibrio e freschezza piuttosto che la surmaturazione: è un vino di frutto nero, struttura salda e buona capacità di invecchiamento, che guadagna da qualche anno di bottiglia o da una decantazione.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de cassis, cereza negra, hierbas secas, cacao y especias de la madera. En boca es estructurado y fresco, con taninos firmes y final largo.",
+    "en": "Deep cherry red. Aromas of cassis, black cherry, dried herbs, cocoa and spicy oak. Structured and fresh on the palate, with firm tannins and a long finish.",
+    "fr": "Rouge cerise intense. Arômes de cassis, cerise noire, herbes sèches, cacao et épices du bois. En bouche, il est structuré et frais, aux tanins fermes et à la finale longue.",
+    "it": "Rosso ciliegia intenso. Aromi di cassis, ciliegia nera, erbe secche, cacao e spezie del legno. In bocca è strutturato e fresco, con tannini decisi e finale lungo."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Carnes rojas a la parrilla, cordero asado, caza, quesos curados",
+    "en": "Grilled red meat, roast lamb, game, aged cheeses",
+    "fr": "Viandes rouges grillées, agneau rôti, gibier, fromages affinés",
+    "it": "Carni rosse alla griglia, agnello arrosto, selvaggina, formaggi stagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
   },
   "search": "Andrew Will Champoux Vineyard Andrew Will",
-  "brief": true,
   "source": "decantalo"
 }

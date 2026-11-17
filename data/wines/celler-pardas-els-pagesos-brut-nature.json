@@ -7,34 +7,43 @@
   "country": "espana",
   "appellation": null,
   "type": "espumoso",
-  "category": null,
+  "category": {
+    "es": "Brut Nature",
+    "en": "Brut Nature",
+    "fr": "Brut Nature",
+    "it": "Brut Nature"
+  },
   "grapes": [],
   "summary": {
-    "es": "Celler Pardas Els Pagesos Brut Nature es un vino espumoso de Celler Pardas, en España.",
-    "en": "Celler Pardas Els Pagesos Brut Nature is a sparkling wine from Celler Pardas in Spain.",
-    "fr": "Celler Pardas Els Pagesos Brut Nature est un vin effervescent de Celler Pardas (Espagne).",
-    "it": "Celler Pardas Els Pagesos Brut Nature è un vino spumante di Celler Pardas (Spagna)."
+    "es": "Espumoso Brut Nature de Celler Pardas, bodega familiar del Alt Penedès centrada en las variedades autóctonas de la zona.",
+    "en": "Brut Nature sparkling wine from Celler Pardas, a family winery in the Alt Penedès focused on the area’s native varieties.",
+    "fr": "Effervescent Brut Nature de Celler Pardas, domaine familial de l’Alt Penedès centré sur les cépages autochtones de la région.",
+    "it": "Spumante Brut Nature di Celler Pardas, cantina di famiglia dell’Alt Penedès incentrata sulle varietà autoctone della zona."
   },
   "body": {
-    "es": "<p>Su graduación es de 12,5 % vol.</p>",
-    "en": "<p>It has 12.5% ABV.</p>",
-    "fr": "<p>Il titre 12,5 % vol.</p>",
-    "it": "<p>Ha 12,5% vol.</p>"
+    "es": "<p><strong>Celler Pardas</strong> es una pequeña bodega de <strong>Torrelavit</strong>, en el Alt Penedès, fundada en los años noventa por Ramon Parera y Jordi Arnan en la finca Can Comas, a orillas de la riera de Bitlles. Trabaja con viñedos propios en agricultura ecológica y ha centrado su labor en las variedades autóctonas del Penedès, especialmente el <strong>Xarel·lo</strong>, del que elabora algunos de sus vinos más conocidos, y en tintos de variedades locales como el Sumoll.</p><p>La finca se sitúa en una zona de colinas y bosque mediterráneo, con suelos calizos y arcillosos y un clima más fresco que el de la parte baja de la comarca. La filosofía de la casa busca vinos que reflejen ese paisaje con una intervención moderada en la bodega.</p><p><strong>Els Pagesos</strong> es su espumoso, elaborado en estilo <strong>Brut Nature</strong>, es decir, sin licor de expedición o con un contenido de azúcar residual muy bajo, lo que deja al descubierto el carácter de la uva y de la crianza sobre lías. Con 12,5 % vol., es un espumoso seco, fresco y de perfil gastronómico.</p>",
+    "en": "<p><strong>Celler Pardas</strong> is a small winery in <strong>Torrelavit</strong>, in the Alt Penedès, founded in the 1990s by Ramon Parera and Jordi Arnan on the Can Comas estate, beside the Bitlles stream. It works with its own organically farmed vineyards and has focused on the native varieties of Penedès, especially <strong>Xarel·lo</strong>, from which it makes some of its best-known wines, and on reds from local varieties such as Sumoll.</p><p>The estate lies in an area of hills and Mediterranean woodland, with limestone and clay soils and a cooler climate than the lower part of the district. The house philosophy seeks wines that reflect this landscape with moderate intervention in the cellar.</p><p><strong>Els Pagesos</strong> is its sparkling wine, made in the <strong>Brut Nature</strong> style, that is, with no dosage or with very low residual sugar, which lays bare the character of the grape and of the ageing on lees. At 12.5% ABV, it is a dry, fresh sparkling wine with a food-friendly profile.</p>",
+    "fr": "<p><strong>Celler Pardas</strong> est une petite bodega de <strong>Torrelavit</strong>, dans l’Alt Penedès, fondée dans les années 1990 par Ramon Parera et Jordi Arnan sur le domaine de Can Comas, au bord de la riera de Bitlles. Elle travaille ses propres vignes en agriculture biologique et s’est concentrée sur les cépages autochtones du Penedès, en particulier le <strong>xarel·lo</strong>, dont elle tire certains de ses vins les plus connus, ainsi que sur des rouges de cépages locaux comme le sumoll.</p><p>Le domaine se situe dans une zone de collines et de bois méditerranéens, aux sols calcaires et argileux, au climat plus frais que celui de la partie basse de la région. La philosophie de la maison recherche des vins qui reflètent ce paysage avec une intervention modérée en cave.</p><p><strong>Els Pagesos</strong> est son effervescent, élaboré dans le style <strong>Brut Nature</strong>, c’est-à-dire sans liqueur d’expédition ou avec une teneur en sucre résiduel très faible, ce qui met à nu le caractère du raisin et de l’élevage sur lies. Titrant 12,5 % vol., c’est un effervescent sec, frais et de profil gastronomique.</p>",
+    "it": "<p><strong>Celler Pardas</strong> è una piccola cantina di <strong>Torrelavit</strong>, nell’Alt Penedès, fondata negli anni Novanta da Ramon Parera e Jordi Arnan nella tenuta di Can Comas, sulle rive della riera de Bitlles. Lavora con vigneti di proprietà in agricoltura biologica e si è concentrata sulle varietà autoctone del Penedès, in particolare lo <strong>Xarel·lo</strong>, da cui ricava alcuni dei suoi vini più noti, e su rossi da varietà locali come il Sumoll.</p><p>La tenuta si trova in una zona di colline e macchia mediterranea, con suoli calcarei e argillosi e un clima più fresco di quello della parte bassa della zona. La filosofia della casa cerca vini che riflettano questo paesaggio con un intervento moderato in cantina.</p><p><strong>Els Pagesos</strong> è il suo spumante, prodotto nello stile <strong>Brut Nature</strong>, cioè senza liqueur d’expédition o con un residuo zuccherino molto basso, il che mette a nudo il carattere dell’uva e dell’affinamento sui lieviti. Con 12,5% vol., è uno spumante secco, fresco e dal profilo gastronomico.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Amarillo pálido con burbuja fina. Aromas de fruta blanca, cítricos, hierbas y notas de pan tostado de la crianza sobre lías. En boca es seco y fresco, con acidez viva y un final limpio y salino.",
+    "en": "Pale yellow with fine bubbles. Aromas of white fruit, citrus, herbs and toasted bread from lees ageing. Dry and fresh on the palate, with lively acidity and a clean, saline finish.",
+    "fr": "Jaune pâle à la bulle fine. Arômes de fruits blancs, d’agrumes, d’herbes et notes de pain grillé dues à l’élevage sur lies. En bouche, il est sec et frais, à l’acidité vive, avec une finale nette et saline.",
+    "it": "Giallo tenue con perlage fine. Aromi di frutta bianca, agrumi, erbe e note di pane tostato dovute all’affinamento sui lieviti. In bocca è secco e fresco, con acidità viva e finale pulito e sapido."
+  },
   "pairing": {
-    "es": "Aperitivo, mariscos, fritos, pescados",
-    "en": "Aperitif, shellfish, fried food, fish",
-    "fr": "Apéritif, fruits de mer, fritures, poissons",
-    "it": "Aperitivo, frutti di mare, fritture, pesce"
+    "es": "Aperitivos, marisco, pescados, arroces, embutidos ibéricos",
+    "en": "Aperitifs, shellfish, fish, rice dishes, Iberian charcuterie",
+    "fr": "Apéritifs, fruits de mer, poissons, riz, charcuterie ibérique",
+    "it": "Aperitivi, frutti di mare, pesce, risotti, salumi iberici"
   },
   "serve": {
-    "es": "6-8 °C, copa de espumoso",
-    "en": "6-8 °C, sparkling wine glass",
-    "fr": "6-8 °C, verre à vin effervescent",
-    "it": "6-8 °C, calice da spumante"
+    "es": "6-8 °C, copa de vino blanco o tulipa",
+    "en": "6-8 °C, white-wine or tulip glass",
+    "fr": "6-8 °C, verre à vin blanc ou tulipe",
+    "it": "6-8 °C, calice da bianco o tulipano"
   },
   "search": "Celler Pardas Els Pagesos Brut Nature Celler Pardas",
-  "brief": true,
   "source": "decantalo"
 }

@@ -8,33 +8,40 @@
   "appellation": "AOP Côtes de Bourg",
   "type": "tinto",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "merlot",
+    "cabernet-sauvignon"
+  ],
   "summary": {
-    "es": "Chateau Roc de Cambes Cotes de Bourg es un vino tinto de Roc de Cambes, con la denominación AOP Côtes de Bourg, en Francia.",
-    "en": "Chateau Roc de Cambes Cotes de Bourg is a red wine from Roc de Cambes, made under the AOP Côtes de Bourg appellation in France.",
-    "fr": "Chateau Roc de Cambes Cotes de Bourg est un vin rouge de Roc de Cambes, élaboré sous l’appellation AOP Côtes de Bourg (France).",
-    "it": "Chateau Roc de Cambes Cotes de Bourg è un vino rosso di Roc de Cambes, prodotto nella denominazione AOP Côtes de Bourg (Francia)."
+    "es": "Tinto de Côtes de Bourg de la finca que François Mitjavile, propietario de Tertre Rôtebœuf, cultiva en un anfiteatro orientado al estuario de la Gironda.",
+    "en": "A Côtes de Bourg red from the estate that François Mitjavile, owner of Tertre Rôtebœuf, farms in an amphitheatre facing the Gironde estuary.",
+    "fr": "Rouge de Côtes de Bourg issu du domaine que François Mitjavile, propriétaire de Tertre Rôtebœuf, cultive dans un amphithéâtre tourné vers l'estuaire de la Gironde.",
+    "it": "Rosso di Côtes de Bourg della tenuta che François Mitjavile, proprietario di Tertre Rôtebœuf, coltiva in un anfiteatro rivolto all'estuario della Gironda."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 13,5 % vol.</p>",
-    "en": "<p>It is aged in wood. It has 13.5% ABV.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 13,5 % vol.</p>",
-    "it": "<p>È affinato in legno. Ha 13,5% vol.</p>"
+    "es": "<p><strong>Roc de Cambes</strong> es una propiedad de la denominación <strong>Côtes de Bourg</strong>, en la orilla derecha del estuario de la Gironda, frente al Médoc. Fue adquirida a finales de los años ochenta por <strong>François Mitjavile</strong>, conocido por su trabajo en Château Tertre Rôtebœuf, en Saint-Émilion, que aplicó aquí la misma filosofía de viticultura cuidadosa y vendimias muy maduras.</p><p>El viñedo forma un anfiteatro natural orientado hacia el estuario, cuyas aguas moderan las temperaturas y protegen de las heladas. Los suelos son arcillo-calcáreos y la variedad dominante es la <strong>Merlot</strong>, acompañada de una parte de <strong>Cabernet Sauvignon</strong> y de otras variedades bordelesas en menor proporción.</p><p>La vendimia es manual y la crianza se realiza en barricas de roble. Roc de Cambes ha contribuido a mostrar el potencial de una denominación más modesta de Burdeos: es un tinto de fruta madura y textura sedosa, generoso pero equilibrado, que se disfruta con algunos años de botella.</p>",
+    "en": "<p><strong>Roc de Cambes</strong> is an estate in the <strong>Côtes de Bourg</strong> appellation, on the right bank of the Gironde estuary, facing the Médoc. It was acquired in the late 1980s by <strong>François Mitjavile</strong>, known for his work at Château Tertre Rôtebœuf in Saint-Émilion, who applied the same philosophy of careful viticulture and very ripe harvests here.</p><p>The vineyard forms a natural amphitheatre facing the estuary, whose waters moderate temperatures and protect against frost. The soils are clay-limestone and the dominant variety is <strong>Merlot</strong>, accompanied by a share of <strong>Cabernet Sauvignon</strong> and smaller amounts of other Bordeaux varieties.</p><p>Harvesting is by hand and the wine is aged in oak barrels. Roc de Cambes has helped show the potential of one of Bordeaux's more modest appellations: it is a red with ripe fruit and a silky texture, generous yet balanced, best enjoyed after a few years in bottle.</p>",
+    "fr": "<p><strong>Roc de Cambes</strong> est une propriété de l'appellation <strong>Côtes de Bourg</strong>, sur la rive droite de l'estuaire de la Gironde, face au Médoc. Elle a été acquise à la fin des années 1980 par <strong>François Mitjavile</strong>, connu pour son travail à Château Tertre Rôtebœuf, à Saint-Émilion, qui y a appliqué la même philosophie d'une viticulture soignée et de vendanges très mûres.</p><p>Le vignoble forme un amphithéâtre naturel tourné vers l'estuaire, dont les eaux modèrent les températures et protègent des gelées. Les sols sont argilo-calcaires et le cépage dominant est le <strong>merlot</strong>, accompagné d'une part de <strong>cabernet sauvignon</strong> et, en moindre proportion, d'autres cépages bordelais.</p><p>Les vendanges sont manuelles et l'élevage se fait en barriques de chêne. Roc de Cambes a contribué à révéler le potentiel d'une appellation plus modeste du Bordelais : c'est un rouge au fruit mûr et à la texture soyeuse, généreux mais équilibré, qui s'apprécie après quelques années de bouteille.</p>",
+    "it": "<p><strong>Roc de Cambes</strong> è una tenuta della denominazione <strong>Côtes de Bourg</strong>, sulla riva destra dell'estuario della Gironda, di fronte al Médoc. Fu acquistata alla fine degli anni Ottanta da <strong>François Mitjavile</strong>, noto per il suo lavoro a Château Tertre Rôtebœuf, a Saint-Émilion, che vi applicò la stessa filosofia di viticoltura accurata e vendemmie molto mature.</p><p>Il vigneto forma un anfiteatro naturale rivolto verso l'estuario, le cui acque moderano le temperature e proteggono dalle gelate. I suoli sono argillo-calcarei e il vitigno dominante è il <strong>Merlot</strong>, accompagnato da una quota di <strong>Cabernet Sauvignon</strong> e, in misura minore, da altri vitigni bordolesi.</p><p>La vendemmia è manuale e l'affinamento avviene in barrique di rovere. Roc de Cambes ha contribuito a mostrare il potenziale di una denominazione più modesta di Bordeaux: è un rosso dal frutto maturo e dalla trama setosa, generoso ma equilibrato, da gustare dopo qualche anno di bottiglia.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de ciruela madura, cereza negra, especias y un toque de cacao. Boca carnosa y sedosa, con taninos redondos y final agradable.",
+    "en": "Intense cherry red. Aromas of ripe plum, black cherry, spice and a touch of cocoa. Fleshy, silky palate with rounded tannins and a pleasant finish.",
+    "fr": "Rouge cerise intense. Arômes de prune mûre, de cerise noire, d'épices et une touche de cacao. Bouche charnue et soyeuse, aux tanins ronds et à la finale agréable.",
+    "it": "Rosso ciliegia intenso. Aromi di prugna matura, ciliegia nera, spezie e un tocco di cacao. Bocca polposa e setosa, tannini rotondi e finale piacevole."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Entrecot, cordero, pato, carnes guisadas, quesos semicurados",
+    "en": "Entrecôte, lamb, duck, braised meats, semi-hard cheeses",
+    "fr": "Entrecôte, agneau, canard, viandes mijotées, fromages mi-affinés",
+    "it": "Entrecôte, agnello, anatra, carni in umido, formaggi semistagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "16-18 °C, copa amplia tipo Burdeos",
+    "en": "16-18 °C, large Bordeaux glass",
+    "fr": "16-18 °C, grand verre de type bordeaux",
+    "it": "16-18 °C, calice ampio tipo Bordeaux"
   },
   "search": "Chateau Roc de Cambes Cotes de Bourg Roc de Cambes",
-  "brief": true,
   "source": "decantalo"
 }

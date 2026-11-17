@@ -10,31 +10,35 @@
   "category": null,
   "grapes": [],
   "summary": {
-    "es": "Arnot-Roberts California Red Wine es un vino tinto de Arnot-Roberts, con la denominación AVA Sonoma Coast, en Estados Unidos.",
-    "en": "Arnot-Roberts California Red Wine is a red wine from Arnot-Roberts, made under the AVA Sonoma Coast appellation in United States.",
-    "fr": "Arnot-Roberts California Red Wine est un vin rouge de Arnot-Roberts, élaboré sous l’appellation AVA Sonoma Coast (États-Unis).",
-    "it": "Arnot-Roberts California Red Wine è un vino rosso di Arnot-Roberts, prodotto nella denominazione AVA Sonoma Coast (Stati Uniti)."
+    "es": "Tinto de Arnot-Roberts con la indicación genérica California, un ensamblaje de uvas de distintos viñedos pensado para beberse joven.",
+    "en": "Red from Arnot-Roberts bearing the generic California designation, a blend of grapes from various vineyards designed to be drunk young.",
+    "fr": "Rouge d’Arnot-Roberts portant l’indication générique California, un assemblage de raisins de différents vignobles conçu pour être bu jeune.",
+    "it": "Rosso di Arnot-Roberts con l’indicazione generica California, un assemblaggio di uve di diversi vigneti pensato per essere bevuto giovane."
   },
   "body": {
-    "es": "<p>Su graduación es de 12,5 % vol.</p>",
-    "en": "<p>It has 12.5% ABV.</p>",
-    "fr": "<p>Il titre 12,5 % vol.</p>",
-    "it": "<p>Ha 12,5% vol.</p>"
+    "es": "<p><strong>Arnot-Roberts</strong> es una pequeña bodega de Healdsburg, en el condado de Sonoma, fundada a comienzos de los años 2000 por dos amigos de la infancia, Duncan Arnot Meyers y Nathan Lee Roberts. Compran uva a viticultores de distintos viñedos de California, a menudo en zonas frescas o de altitud, y la vinifican por separado con poca intervención. Su estilo, de graduaciones moderadas, vendimias tempranas y uso discreto de la madera, se ha convertido en una referencia de la corriente que busca vinos californianos más frescos y ligeros.</p><p>El <strong>California Red Wine</strong> es el tinto más sencillo de la bodega. La indicación genérica California le permite combinar uvas de varios viñedos y zonas del estado, sin la limitación de una AVA concreta, y las variedades pueden cambiar según la añada. Se elabora con la misma filosofía que los vinos de viñedo de la casa: vendimia temprana, fermentaciones naturales y crianza en recipientes que no marcan el vino con aromas de madera.</p><p>El resultado es un tinto de graduación moderada, color medio y perfil jugoso, con fruta roja, notas especiadas y taninos ligeros. Es un vino para el día a día que agradece servirse algo fresco.</p>",
+    "en": "<p><strong>Arnot-Roberts</strong> is a small winery in Healdsburg, Sonoma County, founded in the early 2000s by two childhood friends, Duncan Arnot Meyers and Nathan Lee Roberts. They buy grapes from growers in various California vineyards, often in cool or high-elevation areas, and vinify them separately with little intervention. Their style, with moderate alcohol, early picking and discreet use of oak, has become a reference for the movement seeking fresher, lighter Californian wines.</p><p><strong>California Red Wine</strong> is the winery’s simplest red. The generic California designation allows it to combine grapes from several vineyards and areas of the state, without the constraints of a specific AVA, and the varieties may change from vintage to vintage. It is made with the same philosophy as the house’s vineyard wines: early picking, natural fermentations and ageing in vessels that do not mark the wine with oak aromas.</p><p>The result is a red of moderate alcohol, medium colour and juicy profile, with red fruit, spicy notes and light tannins. It is an everyday wine that is best served slightly cool.</p>",
+    "fr": "<p><strong>Arnot-Roberts</strong> est une petite winery de Healdsburg, dans le comté de Sonoma, fondée au début des années 2000 par deux amis d’enfance, Duncan Arnot Meyers et Nathan Lee Roberts. Ils achètent des raisins à des viticulteurs de différents vignobles californiens, souvent dans des secteurs frais ou d’altitude, et les vinifient séparément avec peu d’intervention. Leur style, aux degrés modérés, aux vendanges précoces et à l’usage discret du bois, est devenu une référence du courant qui recherche des vins californiens plus frais et plus légers.</p><p>Le <strong>California Red Wine</strong> est le rouge le plus simple de la maison. L’indication générique California lui permet d’associer des raisins de plusieurs vignobles et secteurs de l’État, sans les contraintes d’une AVA précise, et les cépages peuvent varier selon le millésime. Il est élaboré selon la même philosophie que les vins de vignoble de la maison : vendanges précoces, fermentations naturelles et élevage dans des contenants qui ne marquent pas le vin d’arômes boisés.</p><p>Il en résulte un rouge au degré modéré, à la couleur moyenne et au profil juteux, avec des fruits rouges, des notes épicées et des tanins légers. C’est un vin de tous les jours, qu’il vaut mieux servir un peu frais.</p>",
+    "it": "<p><strong>Arnot-Roberts</strong> è una piccola cantina di Healdsburg, nella contea di Sonoma, fondata all’inizio degli anni Duemila da due amici d’infanzia, Duncan Arnot Meyers e Nathan Lee Roberts. Acquistano uve da viticoltori di diversi vigneti della California, spesso in zone fresche o d’altura, e le vinificano separatamente con un intervento minimo. Il loro stile, con gradazioni moderate, vendemmie precoci e uso discreto del legno, è diventato un riferimento della corrente che cerca vini californiani più freschi e leggeri.</p><p>Il <strong>California Red Wine</strong> è il rosso più semplice della cantina. L’indicazione generica California consente di unire uve di diversi vigneti e zone dello stato, senza i vincoli di una AVA specifica, e i vitigni possono cambiare a seconda dell’annata. È prodotto con la stessa filosofia dei vini da vigneto della casa: vendemmia precoce, fermentazioni spontanee e affinamento in contenitori che non segnano il vino con aromi di legno.</p><p>Il risultato è un rosso di gradazione moderata, colore medio e profilo succoso, con frutto rosso, note speziate e tannini leggeri. È un vino da tutti i giorni, da servire leggermente fresco.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo cereza de capa media-baja. Aromas de frutos rojos frescos, hierbas y especias suaves. En boca es ligero, jugoso y fresco, con taninos finos.",
+    "en": "Light to medium cherry red. Aromas of fresh red berries, herbs and gentle spice. Light, juicy and fresh on the palate, with fine tannins.",
+    "fr": "Rouge cerise de robe légère à moyenne. Arômes de fruits rouges frais, herbes et épices douces. En bouche, il est léger, juteux et frais, aux tanins fins.",
+    "it": "Rosso ciliegia di intensità medio-bassa. Aromi di frutti rossi freschi, erbe e spezie leggere. In bocca è leggero, succoso e fresco, con tannini fini."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Embutidos, pizza, pasta con tomate, carnes blancas a la parrilla",
+    "en": "Charcuterie, pizza, pasta with tomato sauce, grilled white meat",
+    "fr": "Charcuterie, pizza, pâtes à la tomate, viandes blanches grillées",
+    "it": "Salumi, pizza, pasta al pomodoro, carni bianche alla griglia"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "13-15 °C, copa de tamaño medio",
+    "en": "13-15 °C, medium-sized glass",
+    "fr": "13-15 °C, verre moyen",
+    "it": "13-15 °C, calice medio"
   },
   "search": "Arnot-Roberts California Red Wine Arnot-Roberts",
-  "brief": true,
   "source": "decantalo"
 }

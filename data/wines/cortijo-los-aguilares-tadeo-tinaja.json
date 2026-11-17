@@ -8,33 +8,39 @@
   "appellation": "DO Málaga-Sierras de Málaga",
   "type": "tinto",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "petit-verdot"
+  ],
   "summary": {
-    "es": "Cortijo los Aguilares Tadeo Tinaja es un vino tinto de Cortijo Los Aguilares, con la denominación DO Málaga-Sierras de Málaga, en España.",
-    "en": "Cortijo los Aguilares Tadeo Tinaja is a red wine from Cortijo Los Aguilares, made under the DO Málaga-Sierras de Málaga appellation in Spain.",
-    "fr": "Cortijo los Aguilares Tadeo Tinaja est un vin rouge de Cortijo Los Aguilares, élaboré sous l’appellation DO Málaga-Sierras de Málaga (Espagne).",
-    "it": "Cortijo los Aguilares Tadeo Tinaja è un vino rosso di Cortijo Los Aguilares, prodotto nella denominazione DO Málaga-Sierras de Málaga (Spagna)."
+    "es": "Versión de Tadeo, el Petit Verdot de Cortijo Los Aguilares, criada en tinajas de barro en lugar de barrica, en la Serranía de Ronda.",
+    "en": "Version of Tadeo, Cortijo Los Aguilares’ Petit Verdot, aged in clay jars instead of barrels, in the Serranía de Ronda.",
+    "fr": "Version de Tadeo, le petit verdot de Cortijo Los Aguilares, élevée en jarres de terre cuite plutôt qu’en barrique, dans la Serranía de Ronda.",
+    "it": "Versione di Tadeo, il Petit Verdot di Cortijo Los Aguilares, affinata in giare di terracotta anziché in barrique, nella Serranía de Ronda."
   },
   "body": {
-    "es": "<p>Se cría en recipientes de barro, como ánforas o tinajas. Su graduación es de 14,5 % vol.</p>",
-    "en": "<p>It is aged in clay vessels such as amphorae. It has 14.5% ABV.</p>",
-    "fr": "<p>Il est élevé en jarres de terre cuite, comme des amphores. Il titre 14,5 % vol.</p>",
-    "it": "<p>Affina in contenitori di terracotta, come anfore. Ha 14,5% vol.</p>"
+    "es": "<p>Cortijo Los Aguilares es una finca agrícola situada en la <strong>Serranía de Ronda</strong>, en la provincia de Málaga, a una altitud considerable para el sur de España. El viñedo convive con encinares, olivos y pastos, en un paisaje de montaña con fuertes contrastes térmicos entre el día y la noche, lo que permite conservar la frescura de la uva pese a la latitud. La bodega elabora vinos tintos con variedades como la Pinot Noir, la Tempranillo y la Petit Verdot, amparados por la <strong>DO Sierras de Málaga</strong>.</p><p>Tadeo Tinaja parte de la misma variedad que Tadeo, la <strong>Petit Verdot</strong>, cultivada en los viñedos de la finca, pero su crianza se realiza en <strong>tinajas de barro</strong> en lugar de en barricas de roble. El barro permite una ligera microoxigenación del vino sin aportar aromas de madera, de modo que la fruta y el carácter de la variedad se expresan con mayor nitidez.</p><p>La comparación entre ambos vinos ilustra la influencia del recipiente de crianza sobre una misma uva. Con 14,5 % vol., Tadeo Tinaja conserva el color intenso, la acidez y los taninos firmes de la Petit Verdot, pero con un perfil más directo y frutal, sin notas tostadas.</p>",
+    "en": "<p>Cortijo Los Aguilares is a farming estate in the <strong>Serranía de Ronda</strong>, in the province of Málaga, at a considerable altitude for southern Spain. The vineyard sits among holm oaks, olive trees and pastures, in a mountain landscape with sharp differences between day and night temperatures, which preserves the freshness of the grapes despite the latitude. The winery makes red wines from varieties such as Pinot Noir, Tempranillo and Petit Verdot, under the <strong>DO Sierras de Málaga</strong>.</p><p>Tadeo Tinaja starts from the same variety as Tadeo, <strong>Petit Verdot</strong> grown in the estate’s vineyards, but it is aged in <strong>clay jars</strong> (tinajas) instead of oak barrels. Clay allows slight micro-oxygenation of the wine without adding wood aromas, so the fruit and the character of the variety come through more clearly.</p><p>Comparing the two wines illustrates the influence of the ageing vessel on the same grape. At 14.5% ABV, Tadeo Tinaja keeps the deep colour, acidity and firm tannins of Petit Verdot, but with a more direct, fruit-driven profile and no toasty notes.</p>",
+    "fr": "<p>Cortijo Los Aguilares est un domaine agricole situé dans la <strong>Serranía de Ronda</strong>, dans la province de Málaga, à une altitude considérable pour le sud de l’Espagne. La vigne y côtoie chênes verts, oliviers et pâturages, dans un paysage de montagne aux forts écarts de température entre le jour et la nuit, ce qui préserve la fraîcheur du raisin malgré la latitude. La bodega élabore des vins rouges avec des cépages comme le pinot noir, le tempranillo et le petit verdot, sous la <strong>DO Sierras de Málaga</strong>.</p><p>Tadeo Tinaja part du même cépage que Tadeo, le <strong>petit verdot</strong> cultivé dans les vignes du domaine, mais son élevage se fait en <strong>jarres de terre cuite</strong> (tinajas) au lieu de barriques de chêne. La terre cuite permet une légère micro-oxygénation du vin sans apporter d’arômes boisés, si bien que le fruit et le caractère du cépage s’expriment plus nettement.</p><p>La comparaison des deux vins illustre l’influence du contenant d’élevage sur un même raisin. Avec 14,5 % vol., Tadeo Tinaja conserve la couleur intense, l’acidité et les tanins fermes du petit verdot, mais avec un profil plus direct et fruité, sans notes toastées.</p>",
+    "it": "<p>Cortijo Los Aguilares è una tenuta agricola situata nella <strong>Serranía de Ronda</strong>, in provincia di Málaga, a un’altitudine considerevole per il sud della Spagna. Il vigneto convive con lecci, ulivi e pascoli, in un paesaggio di montagna con forti escursioni termiche tra giorno e notte, che consentono di conservare la freschezza dell’uva nonostante la latitudine. La cantina produce vini rossi con varietà come Pinot Noir, Tempranillo e Petit Verdot, nella <strong>DO Sierras de Málaga</strong>.</p><p>Tadeo Tinaja parte dalla stessa varietà di Tadeo, il <strong>Petit Verdot</strong> coltivato nei vigneti della tenuta, ma l’affinamento avviene in <strong>giare di terracotta</strong> (tinajas) anziché in barrique di rovere. La terracotta consente una leggera microossigenazione del vino senza apportare aromi di legno, così che il frutto e il carattere del vitigno si esprimono con maggiore nitidezza.</p><p>Il confronto tra i due vini illustra l’influenza del contenitore di affinamento su una stessa uva. Con 14,5% vol., Tadeo Tinaja conserva il colore intenso, l’acidità e i tannini saldi del Petit Verdot, ma con un profilo più diretto e fruttato, senza note tostate.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Púrpura intenso. Aromas de fruta negra fresca, violeta, hierbas de monte y un fondo terroso. En boca es vivo y jugoso, con taninos firmes y final limpio.",
+    "en": "Deep purple. Aromas of fresh black fruit, violet, mountain herbs and an earthy background. Lively and juicy on the palate, with firm tannins and a clean finish.",
+    "fr": "Pourpre intense. Arômes de fruits noirs frais, violette, herbes de montagne et fond terreux. En bouche, il est vif et juteux, aux tanins fermes et à la finale nette.",
+    "it": "Porpora intenso. Aromi di frutta nera fresca, viola, erbe di montagna e un fondo terroso. In bocca è vivace e succoso, con tannini saldi e finale pulito."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Carnes rojas a la brasa, cordero, caza, quesos curados de cabra",
+    "en": "Grilled red meat, lamb, game, aged goat’s cheeses",
+    "fr": "Viandes rouges grillées, agneau, gibier, fromages de chèvre affinés",
+    "it": "Carni rosse alla brace, agnello, selvaggina, formaggi di capra stagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
   },
   "search": "Cortijo los Aguilares Tadeo Tinaja Cortijo Los Aguilares",
-  "brief": true,
   "source": "decantalo"
 }

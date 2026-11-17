@@ -7,36 +7,45 @@
   "country": "francia",
   "appellation": "AOC Corton Grand Cru / Côte-d'Or",
   "type": "blanco",
-  "category": null,
+  "category": {
+    "es": "Grand Cru",
+    "en": "Grand Cru",
+    "fr": "Grand Cru",
+    "it": "Grand Cru"
+  },
   "grapes": [
     "chardonnay"
   ],
   "summary": {
-    "es": "Domaine Chandon de Briailles Corton Grand Cru es un vino blanco de Domaine Chandon de Briailles, con la denominación AOC Corton Grand Cru / Côte-d'Or, en Francia.",
-    "en": "Domaine Chandon de Briailles Corton Grand Cru is a white wine from Domaine Chandon de Briailles, made under the AOC Corton Grand Cru / Côte-d'Or appellation in France.",
-    "fr": "Domaine Chandon de Briailles Corton Grand Cru est un vin blanc de Domaine Chandon de Briailles, élaboré sous l’appellation AOC Corton Grand Cru / Côte-d'Or (France).",
-    "it": "Domaine Chandon de Briailles Corton Grand Cru è un vino bianco di Domaine Chandon de Briailles, prodotto nella denominazione AOC Corton Grand Cru / Côte-d'Or (Francia)."
+    "es": "Corton Grand Cru blanco de Chardonnay elaborado por el Domaine Chandon de Briailles, finca biodinámica de Savigny-lès-Beaune, a partir de sus viñas en la colina de Corton.",
+    "en": "A white Corton Grand Cru from Chardonnay made by Domaine Chandon de Briailles, a biodynamic estate in Savigny-lès-Beaune, from its vines on the hill of Corton.",
+    "fr": "Corton grand cru blanc de chardonnay élaboré par le Domaine Chandon de Briailles, propriété biodynamique de Savigny-lès-Beaune, à partir de ses vignes sur la colline de Corton.",
+    "it": "Corton Grand Cru bianco da Chardonnay prodotto dal Domaine Chandon de Briailles, tenuta biodinamica di Savigny-lès-Beaune, dalle sue vigne sulla collina di Corton."
   },
   "body": {
-    "es": "<p>Se elabora con Chardonnay. Tiene crianza en madera. Su graduación es de 13 % vol.</p>",
-    "en": "<p>It is made from Chardonnay. It is aged in wood. It has 13% ABV.</p>",
-    "fr": "<p>Il est élaboré à partir de Chardonnay. Il est élevé en bois. Il titre 13 % vol.</p>",
-    "it": "<p>È prodotto con Chardonnay. È affinato in legno. Ha 13% vol.</p>"
+    "es": "<p>El <strong>Domaine Chandon de Briailles</strong> es una finca familiar de <strong>Savigny-lès-Beaune</strong>, en la Côte de Beaune, dirigida durante décadas por Nadine de Nicolay y hoy por su hija Claude. Es conocida por su cultivo en biodinámica y por un estilo de vinificación tradicional y poco intervencionista, con un uso muy moderado de la madera nueva.</p><p>La colina de <strong>Corton</strong>, compartida por Aloxe-Corton, Ladoix-Serrigny y Pernand-Vergelesses, es el único lugar de la Côte d'Or que alberga grands crus tanto tintos como blancos. La denominación <strong>Corton</strong> se asocia sobre todo a los tintos de Pinot Noir, pero también admite blancos de Chardonnay, distintos del célebre Corton-Charlemagne, que ocupa las partes altas y orientadas al oeste y al sur de la colina. Los suelos combinan margas y calizas, con zonas más arcillosas y ferruginosas en la parte media.</p><p>Este vino se elabora con <strong>Chardonnay</strong> y se cría en barricas, en su mayoría usadas, para que la madera aporte textura sin dominar. El estilo de la casa privilegia la pureza y la tensión sobre la opulencia. Es un blanco de cuerpo medio a pleno, firme y mineral, con capacidad para evolucionar varios años en botella.</p>",
+    "en": "<p><strong>Domaine Chandon de Briailles</strong> is a family estate in <strong>Savigny-lès-Beaune</strong>, in the Côte de Beaune, run for decades by Nadine de Nicolay and now by her daughter Claude. It is known for biodynamic farming and a traditional, low-intervention approach to winemaking, with very moderate use of new oak.</p><p>The hill of <strong>Corton</strong>, shared by Aloxe-Corton, Ladoix-Serrigny and Pernand-Vergelesses, is the only place in the Côte d'Or that hosts both red and white grands crus. The <strong>Corton</strong> appellation is associated above all with Pinot Noir reds, but it also allows Chardonnay whites, distinct from the famous Corton-Charlemagne, which occupies the upper, west- and south-facing parts of the hill. The soils combine marl and limestone, with more clayey, iron-rich zones mid-slope.</p><p>This wine is made from <strong>Chardonnay</strong> and aged in barrels, mostly used ones, so that the oak adds texture without dominating. The house style favours purity and tension over opulence. It is a medium- to full-bodied white, firm and mineral, capable of developing for several years in bottle.</p>",
+    "fr": "<p>Le <strong>Domaine Chandon de Briailles</strong> est une propriété familiale de <strong>Savigny-lès-Beaune</strong>, en Côte de Beaune, dirigée pendant des décennies par Nadine de Nicolay et aujourd'hui par sa fille Claude. Il est connu pour sa culture en biodynamie et pour une vinification traditionnelle et peu interventionniste, avec un usage très mesuré du bois neuf.</p><p>La colline de <strong>Corton</strong>, partagée entre Aloxe-Corton, Ladoix-Serrigny et Pernand-Vergelesses, est le seul endroit de la Côte-d'Or à abriter des grands crus à la fois rouges et blancs. L'appellation <strong>Corton</strong> est surtout associée aux rouges de pinot noir, mais elle admet aussi des blancs de chardonnay, distincts du célèbre corton-charlemagne, qui occupe les parties hautes de la colline exposées à l'ouest et au sud. Les sols associent marnes et calcaires, avec des zones plus argileuses et ferrugineuses à mi-pente.</p><p>Ce vin est issu de <strong>chardonnay</strong> et s'élève en fûts, majoritairement usagés, afin que le bois apporte de la texture sans dominer. Le style de la maison privilégie la pureté et la tension plutôt que l'opulence. C'est un blanc de corps moyen à ample, ferme et minéral, capable d'évoluer plusieurs années en bouteille.</p>",
+    "it": "<p>Il <strong>Domaine Chandon de Briailles</strong> è una tenuta familiare di <strong>Savigny-lès-Beaune</strong>, nella Côte de Beaune, guidata per decenni da Nadine de Nicolay e oggi dalla figlia Claude. È noto per la coltivazione biodinamica e per una vinificazione tradizionale e poco interventista, con un uso molto moderato del legno nuovo.</p><p>La collina di <strong>Corton</strong>, condivisa da Aloxe-Corton, Ladoix-Serrigny e Pernand-Vergelesses, è l'unico luogo della Côte d'Or che ospita grand cru sia rossi sia bianchi. La denominazione <strong>Corton</strong> è associata soprattutto ai rossi da Pinot Noir, ma ammette anche bianchi da Chardonnay, distinti dal celebre Corton-Charlemagne, che occupa le parti alte della collina esposte a ovest e a sud. I suoli uniscono marne e calcari, con zone più argillose e ferrose a metà pendio.</p><p>Questo vino è prodotto con <strong>Chardonnay</strong> e matura in barrique, per lo più usate, affinché il legno dia struttura senza dominare. Lo stile della casa privilegia purezza e tensione rispetto all'opulenza. È un bianco di corpo medio-pieno, deciso e minerale, in grado di evolvere per diversi anni in bottiglia.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Amarillo dorado claro. Aromas de cítricos, manzana, flores blancas, avellana y notas de piedra. Boca firme y de buena amplitud, con acidez tensa y final largo y mineral.",
+    "en": "Pale gold. Aromas of citrus, apple, white flowers, hazelnut and stony notes. Firm palate with good breadth, taut acidity and a long, mineral finish.",
+    "fr": "Or pâle. Arômes d'agrumes, de pomme, de fleurs blanches, de noisette et notes pierreuses. Bouche ferme et ample, à l'acidité tendue et à la finale longue et minérale.",
+    "it": "Oro chiaro. Aromi di agrumi, mela, fiori bianchi, nocciola e note di pietra. Bocca decisa e ampia, con acidità tesa e finale lungo e minerale."
+  },
   "pairing": {
-    "es": "Pescados, mariscos, arroces, quesos frescos",
-    "en": "Fish, shellfish, rice dishes, fresh cheeses",
-    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
-    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+    "es": "Pescados en salsa, langosta, ave de corral, quesos de pasta lavada suaves",
+    "en": "Fish in sauce, lobster, farmyard poultry, mild washed-rind cheeses",
+    "fr": "Poissons en sauce, homard, volaille fermière, fromages à croûte lavée doux",
+    "it": "Pesce in salsa, astice, pollame ruspante, formaggi a crosta lavata delicati"
   },
   "serve": {
-    "es": "8-11 °C, copa de vino blanco",
-    "en": "8-11 °C, white wine glass",
-    "fr": "8-11 °C, verre à vin blanc",
-    "it": "8-11 °C, calice da vino bianco"
+    "es": "11-13 °C, copa amplia de vino blanco",
+    "en": "11-13 °C, large white wine glass",
+    "fr": "11-13 °C, grand verre à vin blanc",
+    "it": "11-13 °C, calice ampio da bianco"
   },
   "search": "Domaine Chandon de Briailles Corton Grand Cru Domaine Chandon de Briailles",
-  "brief": true,
   "source": "decantalo"
 }

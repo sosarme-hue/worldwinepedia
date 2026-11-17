@@ -8,33 +8,40 @@
   "appellation": "DOP Abadía Retuerta",
   "type": "tinto",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "tempranillo",
+    "cabernet-sauvignon"
+  ],
   "summary": {
-    "es": "Abadía Retuerta Cuvée Palomar es un vino tinto de Abadía Retuerta, con la denominación DOP Abadía Retuerta, en España.",
-    "en": "Abadía Retuerta Cuvée Palomar is a red wine from Abadía Retuerta, made under the DOP Abadía Retuerta appellation in Spain.",
-    "fr": "Abadía Retuerta Cuvée Palomar est un vin rouge de Abadía Retuerta, élaboré sous l’appellation DOP Abadía Retuerta (Espagne).",
-    "it": "Abadía Retuerta Cuvée Palomar è un vino rosso di Abadía Retuerta, prodotto nella denominazione DOP Abadía Retuerta (Spagna)."
+    "es": "Tinto de Abadía Retuerta, en Sardón de Duero, que ensambla Tempranillo y Cabernet Sauvignon de la finca y se cría en roble.",
+    "en": "Red from Abadía Retuerta in Sardón de Duero, blending estate-grown Tempranillo and Cabernet Sauvignon, aged in oak.",
+    "fr": "Rouge d'Abadía Retuerta, à Sardón de Duero, qui assemble tempranillo et cabernet-sauvignon du domaine et s'élève en chêne.",
+    "it": "Rosso di Abadía Retuerta, a Sardón de Duero, che unisce Tempranillo e Cabernet Sauvignon della tenuta e affina in rovere."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 14 % vol.</p><p>Finca de Sardón de Duero, junto a un monasterio fundado en el siglo XII, cuyos vinos, elaborados desde mediados de los años noventa, se amparan en la indicación Vino de la Tierra de Castilla y León.</p>",
-    "en": "<p>It is aged in wood. It has 14% ABV.</p><p>Estate in Sardón de Duero, next to a monastery founded in the twelfth century, whose wines, made since the mid-1990s, are sold under the Vino de la Tierra de Castilla y León designation.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 14 % vol.</p><p>Domaine de Sardón de Duero, à côté d’un monastère fondé au XIIe siècle, dont les vins, élaborés depuis le milieu des années 1990, relèvent de l’indication Vino de la Tierra de Castilla y León.</p>",
-    "it": "<p>È affinato in legno. Ha 14% vol.</p><p>Tenuta di Sardón de Duero, accanto a un monastero fondato nel XII secolo, i cui vini, prodotti dalla metà degli anni Novanta, sono commercializzati come Vino de la Tierra de Castilla y León.</p>"
+    "es": "<p><strong>Abadía Retuerta</strong> es una finca vitícola situada en Sardón de Duero (Valladolid), junto a la antigua abadía de Santa María de Retuerta, monasterio premonstratense del siglo XII. Sus viñedos se extienden en la ribera del Duero, justo al oeste del límite de la DO Ribera del Duero, por lo que sus vinos se comercializaron durante años como Vino de la Tierra de Castilla y León, hasta acogerse a una denominación de pago propia, la DOP Abadía Retuerta. El proyecto vitícola moderno arrancó a finales de los años ochenta y la finca está dividida en numerosos pagos con suelos y orientaciones diferentes.</p><p><strong>Cuvée Palomar</strong> es uno de los ensamblajes de la casa: combina <strong>Tempranillo</strong>, la variedad tradicional del Duero, con <strong>Cabernet Sauvignon</strong>, una de las variedades francesas que la finca introdujo en sus viñedos. Se cría en barricas de roble y busca un estilo más estructurado y de guarda que el del vino principal de la casa, con unos 14 % vol.</p>",
+    "en": "<p><strong>Abadía Retuerta</strong> is a wine estate in Sardón de Duero (Valladolid), next to the old abbey of Santa María de Retuerta, a 12th-century Premonstratensian monastery. Its vineyards lie along the Duero just west of the boundary of DO Ribera del Duero, so for years its wines were sold as Vino de la Tierra de Castilla y León, until they came under an estate appellation of their own, DOP Abadía Retuerta. The modern winegrowing project began in the late 1980s and the estate is divided into many plots (pagos) with different soils and aspects.</p><p><strong>Cuvée Palomar</strong> is one of the house blends: it combines <strong>Tempranillo</strong>, the traditional variety of the Duero, with <strong>Cabernet Sauvignon</strong>, one of the French varieties the estate introduced into its vineyards. It is aged in oak barrels and aims for a more structured, age-worthy style than the house's main wine, at around 14% ABV.</p>",
+    "fr": "<p><strong>Abadía Retuerta</strong> est un domaine viticole situé à Sardón de Duero (Valladolid), à côté de l'ancienne abbaye de Santa María de Retuerta, monastère prémontré du XIIe siècle. Ses vignes s'étendent au bord du Douro, juste à l'ouest de la limite de la DO Ribera del Duero ; ses vins ont donc été commercialisés pendant des années comme Vino de la Tierra de Castilla y León, avant de relever d'une appellation de domaine propre, la DOP Abadía Retuerta. Le projet viticole moderne a démarré à la fin des années 1980 et le domaine est divisé en nombreuses parcelles (pagos) aux sols et expositions différents.</p><p><strong>Cuvée Palomar</strong> est l'un des assemblages de la maison : il associe le <strong>tempranillo</strong>, cépage traditionnel du Douro, au <strong>cabernet-sauvignon</strong>, l'une des variétés françaises que le domaine a introduites dans ses vignes. Élevé en barriques de chêne, il recherche un style plus structuré et de plus longue garde que le vin principal de la maison, à environ 14 % vol.</p>",
+    "it": "<p><strong>Abadía Retuerta</strong> è una tenuta vitivinicola di Sardón de Duero (Valladolid), accanto all'antica abbazia di Santa María de Retuerta, monastero premostratense del XII secolo. I vigneti si estendono lungo il Duero, appena a ovest del confine della DO Ribera del Duero, per cui i suoi vini sono stati commercializzati per anni come Vino de la Tierra de Castilla y León, fino a ottenere una denominazione di tenuta propria, la DOP Abadía Retuerta. Il progetto viticolo moderno è partito alla fine degli anni Ottanta e la tenuta è suddivisa in numerose parcelle (pagos) con suoli ed esposizioni diversi.</p><p><strong>Cuvée Palomar</strong> è uno degli assemblaggi della casa: unisce il <strong>Tempranillo</strong>, vitigno tradizionale del Duero, al <strong>Cabernet Sauvignon</strong>, uno dei vitigni francesi che la tenuta ha introdotto nei suoi vigneti. Affina in barrique di rovere e cerca uno stile più strutturato e longevo rispetto al vino principale della casa, con circa 14% vol.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de fruta negra, cassis, notas herbáceas finas, especias y tostados. Boca estructurada, de taninos firmes y final largo.",
+    "en": "Intense deep cherry red. Aromas of black fruit, cassis, subtle herbaceous notes, spice and toast. Structured palate with firm tannins and a long finish.",
+    "fr": "Rouge cerise intense. Arômes de fruits noirs, de cassis, notes herbacées fines, épices et toasté. Bouche structurée, aux tanins fermes et à la finale longue.",
+    "it": "Rosso ciliegia intenso. Aromi di frutta nera, cassis, sottili note erbacee, spezie e tostatura. Bocca strutturata, tannini decisi e finale lungo."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Carnes rojas a la brasa, lechazo asado, caza, guisos de carne, quesos curados",
+    "en": "Chargrilled red meat, roast milk-fed lamb, game, meat stews, aged cheeses",
+    "fr": "Viandes rouges à la braise, agneau de lait rôti, gibier, viandes mijotées, fromages affinés",
+    "it": "Carni rosse alla brace, agnello da latte arrosto, selvaggina, stufati di carne, formaggi stagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
   },
   "search": "Abadía Retuerta Cuvée Palomar Abadía Retuerta",
-  "brief": true,
   "source": "decantalo"
 }

@@ -7,36 +7,45 @@
   "country": "francia",
   "appellation": null,
   "type": "espumoso",
-  "category": null,
+  "category": {
+    "es": "Blanc de Blancs Brut Nature",
+    "en": "Blanc de Blancs Brut Nature",
+    "fr": "Blanc de Blancs Brut Nature",
+    "it": "Blanc de Blancs Brut Nature"
+  },
   "grapes": [
     "chardonnay"
   ],
   "summary": {
-    "es": "Champagne Pascal Agrapart Vénus Blanc de Blancs es un vino espumoso de Champagne Agrapart et Fils, en Francia.",
-    "en": "Champagne Pascal Agrapart Vénus Blanc de Blancs is a sparkling wine from Champagne Agrapart et Fils in France.",
-    "fr": "Champagne Pascal Agrapart Vénus Blanc de Blancs est un vin effervescent de Champagne Agrapart et Fils (France).",
-    "it": "Champagne Pascal Agrapart Vénus Blanc de Blancs è un vino spumante di Champagne Agrapart et Fils (Francia)."
+    "es": "Blanc de blancs de parcela de Agrapart, en Avize, elaborado con Chardonnay de un viñedo grand cru labrado con caballo y embotellado sin dosificación.",
+    "en": "Single-plot blanc de blancs from Agrapart in Avize, made from Chardonnay grown in a grand cru vineyard worked by horse and bottled without dosage.",
+    "fr": "Blanc de blancs parcellaire d'Agrapart, à Avize, élaboré avec le chardonnay d'une vigne grand cru labourée au cheval et mis en bouteille sans dosage.",
+    "it": "Blanc de blancs di parcella di Agrapart, ad Avize, prodotto con Chardonnay di un vigneto grand cru lavorato con il cavallo e imbottigliato senza dosaggio."
   },
   "body": {
-    "es": "<p>Se elabora con Chardonnay. Su graduación es de 12 % vol.</p>",
-    "en": "<p>It is made from Chardonnay. It has 12% ABV.</p>",
-    "fr": "<p>Il est élaboré à partir de Chardonnay. Il titre 12 % vol.</p>",
-    "it": "<p>È prodotto con Chardonnay. Ha 12% vol.</p>"
+    "es": "<p><strong>Agrapart &amp; Fils</strong> es una casa familiar de récoltant-manipulant, es decir, de viticultores que elaboran champagne con sus propias uvas, establecida en <strong>Avize</strong>, en la Côte des Blancs. Bajo la dirección de Pascal Agrapart se ha convertido en una referencia entre los productores que trabajan la viña con gran atención al suelo y elaboran champagnes de pueblo y de parcela.</p><p><strong>Vénus</strong> procede de una sola parcela de Chardonnay en Avize, pueblo clasificado como grand cru, y debe su nombre a la yegua con la que se labra ese viñedo, una práctica que evita compactar el suelo. Los suelos de creta de la Côte des Blancs aportan a la <strong>Chardonnay</strong> una acidez muy marcada y un perfil salino característico.</p><p>Es un champagne de añada que se embotella sin licor de expedición azucarado (<strong>brut nature</strong>), tras una larga crianza sobre lías. El resultado es un vino seco, tenso y profundo, en el que prima la expresión del suelo calizo, con capacidad para evolucionar durante años.</p>",
+    "en": "<p><strong>Agrapart &amp; Fils</strong> is a family récoltant-manipulant, that is, a grower who makes Champagne from their own grapes, based in <strong>Avize</strong>, in the Côte des Blancs. Under Pascal Agrapart it has become a benchmark among producers who farm their vines with great attention to the soil and make village and single-plot Champagnes.</p><p><strong>Vénus</strong> comes from a single plot of Chardonnay in Avize, a village classified as grand cru, and takes its name from the mare used to plough the vineyard, a practice that avoids compacting the soil. The chalk soils of the Côte des Blancs give <strong>Chardonnay</strong> very marked acidity and a characteristic saline profile.</p><p>It is a vintage Champagne bottled without a sweetened dosage (<strong>brut nature</strong>), after long ageing on the lees. The result is a dry, taut and deep wine in which the expression of the chalky soil comes first, with the capacity to develop for years.</p>",
+    "fr": "<p><strong>Agrapart &amp; Fils</strong> est une maison familiale de récoltant-manipulant, c'est-à-dire de vignerons qui élaborent du champagne avec leurs propres raisins, installée à <strong>Avize</strong>, dans la Côte des Blancs. Sous la conduite de Pascal Agrapart, elle est devenue une référence parmi les producteurs qui travaillent la vigne avec une grande attention au sol et élaborent des champagnes de village et de parcelle.</p><p><strong>Vénus</strong> provient d'une seule parcelle de chardonnay à Avize, village classé grand cru, et doit son nom à la jument avec laquelle cette vigne est labourée, une pratique qui évite de tasser le sol. Les sols de craie de la Côte des Blancs donnent au <strong>chardonnay</strong> une acidité très marquée et un profil salin caractéristique.</p><p>C'est un champagne millésimé mis en bouteille sans liqueur d'expédition sucrée (<strong>brut nature</strong>), après un long vieillissement sur lies. Il en résulte un vin sec, tendu et profond, où prime l'expression du sol crayeux, capable d'évoluer pendant des années.</p>",
+    "it": "<p><strong>Agrapart &amp; Fils</strong> è una maison familiare di récoltant-manipulant, cioè di viticoltori che producono champagne con le proprie uve, con sede ad <strong>Avize</strong>, nella Côte des Blancs. Sotto la guida di Pascal Agrapart è diventata un punto di riferimento tra i produttori che lavorano la vigna con grande attenzione al suolo e producono champagne di villaggio e di parcella.</p><p><strong>Vénus</strong> proviene da un'unica parcella di Chardonnay ad Avize, villaggio classificato grand cru, e deve il nome alla giumenta con cui si ara quel vigneto, una pratica che evita di compattare il suolo. I suoli gessosi della Côte des Blancs conferiscono allo <strong>Chardonnay</strong> un'acidità molto marcata e un caratteristico profilo salino.</p><p>È uno champagne millesimato imbottigliato senza liqueur d'expédition zuccherata (<strong>brut nature</strong>), dopo un lungo affinamento sui lieviti. Ne risulta un vino secco, teso e profondo, in cui prevale l'espressione del suolo calcareo, capace di evolvere per anni.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Dorado pálido con burbuja fina. Aromas de limón, manzana, tiza, frutos secos y pan tostado. Boca muy seca, tensa y salina, con gran profundidad y final largo.",
+    "en": "Pale gold with fine bubbles. Aromas of lemon, apple, chalk, nuts and toasted bread. Very dry, taut and saline on the palate, with great depth and a long finish.",
+    "fr": "Or pâle à la bulle fine. Arômes de citron, pomme, craie, fruits secs et pain grillé. Bouche très sèche, tendue et saline, d'une grande profondeur et à la finale longue.",
+    "it": "Dorato tenue con perlage fine. Aromi di limone, mela, gesso, frutta secca e pane tostato. Bocca molto secca, tesa e salina, di grande profondità e con finale lungo."
+  },
   "pairing": {
-    "es": "Aperitivo, mariscos, fritos, pescados",
-    "en": "Aperitif, shellfish, fried food, fish",
-    "fr": "Apéritif, fruits de mer, fritures, poissons",
-    "it": "Aperitivo, frutti di mare, fritture, pesce"
+    "es": "Ostras, marisco, pescados blancos, sushi, quesos de pasta dura",
+    "en": "Oysters, shellfish, white fish, sushi, hard cheeses",
+    "fr": "Huîtres, fruits de mer, poissons blancs, sushis, fromages à pâte dure",
+    "it": "Ostriche, frutti di mare, pesce bianco, sushi, formaggi a pasta dura"
   },
   "serve": {
-    "es": "6-8 °C, copa de espumoso",
-    "en": "6-8 °C, sparkling wine glass",
-    "fr": "6-8 °C, verre à vin effervescent",
-    "it": "6-8 °C, calice da spumante"
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
   },
   "search": "Champagne Pascal Agrapart Vénus Blanc de Blancs Champagne Agrapart et Fils",
-  "brief": true,
   "source": "decantalo"
 }

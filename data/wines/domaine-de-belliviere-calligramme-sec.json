@@ -8,33 +8,39 @@
   "appellation": "AOP Jasnières",
   "type": "blanco",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "chenin-blanc"
+  ],
   "summary": {
-    "es": "Domaine de Bellivière Calligramme Sec es un vino blanco de Domaine de Bellivière, con la denominación AOP Jasnières, en Francia.",
-    "en": "Domaine de Bellivière Calligramme Sec is a white wine from Domaine de Bellivière, made under the AOP Jasnières appellation in France.",
-    "fr": "Domaine de Bellivière Calligramme Sec est un vin blanc de Domaine de Bellivière, élaboré sous l’appellation AOP Jasnières (France).",
-    "it": "Domaine de Bellivière Calligramme Sec è un vino bianco di Domaine de Bellivière, prodotto nella denominazione AOP Jasnières (Francia)."
+    "es": "Jasnières seco de Chenin Blanc del Domaine de Bellivière, en el valle del Loir, elaborado con viñas viejas y criado en barrica.",
+    "en": "A dry Jasnières from Chenin Blanc by Domaine de Bellivière, in the Loir valley, made from old vines and aged in barrel.",
+    "fr": "Jasnières sec de chenin blanc du Domaine de Bellivière, dans la vallée du Loir, issu de vieilles vignes et élevé en fût.",
+    "it": "Jasnières secco da Chenin Blanc del Domaine de Bellivière, nella valle del Loir, ottenuto da vecchie vigne e affinato in barrique."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 12,7 % vol.</p>",
-    "en": "<p>It is aged in wood. It has 12.7% ABV.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 12,7 % vol.</p>",
-    "it": "<p>È affinato in legno. Ha 12,7% vol.</p>"
+    "es": "<p>El <strong>Domaine de Bellivière</strong> se encuentra en Lhomme, en el valle del <strong>Loir</strong>, un afluente septentrional del Loira, en el departamento de Sarthe. Fundado por Éric y Christine Nicolas a comienzos de los años noventa, contribuyó de forma decisiva a recuperar el prestigio de las pequeñas denominaciones de la zona, <strong>Jasnières</strong> y Coteaux du Loir, con un trabajo de viña en agricultura biológica y biodinámica.</p><p>Jasnières es una denominación de blancos de <strong>Chenin Blanc</strong> situada en una ladera orientada al sur sobre el río. Sus suelos de arcillas con sílex sobre toba calcárea (<em>tuffeau</em>) y su clima fresco, en el límite norte del cultivo de la Chenin, dan vinos de acidez muy marcada, capaces de envejecer durante décadas.</p><p><strong>Calligramme</strong> es el blanco seco de referencia del dominio en Jasnières, procedente de viñas viejas. Fermenta con levaduras autóctonas y se cría en barricas durante un periodo prolongado, lo que aporta textura sin borrar la tensión de la variedad. Es un vino concentrado y profundo, que suele necesitar unos años en botella para expresarse plenamente.</p>",
+    "en": "<p><strong>Domaine de Bellivière</strong> is located at Lhomme in the <strong>Loir</strong> valley, a northern tributary of the Loire, in the Sarthe department. Founded by Éric and Christine Nicolas in the early 1990s, it played a decisive role in restoring the reputation of the area's small appellations, <strong>Jasnières</strong> and Coteaux du Loir, with organic and biodynamic vineyard work.</p><p>Jasnières is an appellation for <strong>Chenin Blanc</strong> whites on a south-facing slope above the river. Its clay-with-flint soils over limestone <em>tuffeau</em> and its cool climate, at the northern limit of Chenin cultivation, produce wines with very pronounced acidity that can age for decades.</p><p><strong>Calligramme</strong> is the domaine's benchmark dry Jasnières, made from old vines. It ferments with indigenous yeasts and is aged in barrels for an extended period, which adds texture without erasing the variety's tension. It is a concentrated, deep wine that usually needs a few years in bottle to show its full expression.</p>",
+    "fr": "<p>Le <strong>Domaine de Bellivière</strong> se trouve à Lhomme, dans la vallée du <strong>Loir</strong>, affluent septentrional de la Loire, dans le département de la Sarthe. Fondé par Éric et Christine Nicolas au début des années 1990, il a contribué de façon décisive à redonner du prestige aux petites appellations du secteur, <strong>Jasnières</strong> et Coteaux du Loir, grâce à une viticulture biologique et biodynamique.</p><p>Jasnières est une appellation de blancs de <strong>chenin blanc</strong> située sur un coteau exposé au sud au-dessus de la rivière. Ses sols d'argiles à silex sur tuffeau et son climat frais, à la limite nord de la culture du chenin, donnent des vins à l'acidité très marquée, capables de vieillir pendant des décennies.</p><p><strong>Calligramme</strong> est le jasnières sec de référence du domaine, issu de vieilles vignes. Il fermente avec des levures indigènes et s'élève longuement en fûts, ce qui apporte de la texture sans effacer la tension du cépage. C'est un vin concentré et profond, qui demande généralement quelques années de bouteille pour s'exprimer pleinement.</p>",
+    "it": "<p>Il <strong>Domaine de Bellivière</strong> si trova a Lhomme, nella valle del <strong>Loir</strong>, affluente settentrionale della Loira, nel dipartimento della Sarthe. Fondato da Éric e Christine Nicolas all'inizio degli anni Novanta, ha contribuito in modo decisivo a restituire prestigio alle piccole denominazioni della zona, <strong>Jasnières</strong> e Coteaux du Loir, con una viticoltura biologica e biodinamica.</p><p>Jasnières è una denominazione di bianchi da <strong>Chenin Blanc</strong> situata su un pendio esposto a sud sopra il fiume. I suoli di argille con selce su tufo calcareo e il clima fresco, al limite settentrionale della coltivazione dello Chenin, danno vini di acidità molto marcata, capaci di invecchiare per decenni.</p><p><strong>Calligramme</strong> è il Jasnières secco di riferimento del domaine, ottenuto da vecchie vigne. Fermenta con lieviti indigeni e matura a lungo in botti, il che apporta struttura senza cancellare la tensione del vitigno. È un vino concentrato e profondo, che di solito richiede qualche anno di bottiglia per esprimersi pienamente.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Amarillo dorado claro. Aromas de membrillo, manzana, cítricos, cera de abeja y notas de pedernal. Boca seca, concentrada y tensa, de acidez vibrante y final muy largo y mineral.",
+    "en": "Pale gold. Aromas of quince, apple, citrus, beeswax and flinty notes. Dry, concentrated and taut palate with vibrant acidity and a very long, mineral finish.",
+    "fr": "Or pâle. Arômes de coing, de pomme, d'agrumes, de cire d'abeille et notes de pierre à fusil. Bouche sèche, concentrée et tendue, à l'acidité vibrante et à la finale très longue et minérale.",
+    "it": "Oro chiaro. Aromi di mela cotogna, mela, agrumi, cera d'api e note di pietra focaia. Bocca secca, concentrata e tesa, con acidità vibrante e finale lunghissimo e minerale."
+  },
   "pairing": {
-    "es": "Pescados, mariscos, arroces, quesos frescos",
-    "en": "Fish, shellfish, rice dishes, fresh cheeses",
-    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
-    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+    "es": "Pescados de río en salsa, ave de corral, cocina con setas, quesos de cabra curados",
+    "en": "River fish in sauce, farmyard poultry, mushroom dishes, aged goat's cheeses",
+    "fr": "Poissons de rivière en sauce, volaille fermière, cuisine aux champignons, chèvres affinés",
+    "it": "Pesce d'acqua dolce in salsa, pollame ruspante, piatti ai funghi, caprini stagionati"
   },
   "serve": {
-    "es": "8-11 °C, copa de vino blanco",
-    "en": "8-11 °C, white wine glass",
-    "fr": "8-11 °C, verre à vin blanc",
-    "it": "8-11 °C, calice da vino bianco"
+    "es": "11-13 °C, copa amplia de vino blanco",
+    "en": "11-13 °C, large white wine glass",
+    "fr": "11-13 °C, grand verre à vin blanc",
+    "it": "11-13 °C, calice ampio da bianco"
   },
   "search": "Domaine de Bellivière Calligramme Sec Domaine de Bellivière",
-  "brief": true,
   "source": "decantalo"
 }

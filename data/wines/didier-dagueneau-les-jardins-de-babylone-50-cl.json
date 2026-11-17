@@ -8,33 +8,39 @@
   "appellation": "AOC Jurançon",
   "type": "dulce",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "petit-manseng"
+  ],
   "summary": {
-    "es": "Didier Dagueneau Les Jardins de Babylone 50 cl. es un vino dulce de Domaine Didier Dagueneau, con la denominación AOC Jurançon, en Francia.",
-    "en": "Didier Dagueneau Les Jardins de Babylone 50 cl. is a sweet wine from Domaine Didier Dagueneau, made under the AOC Jurançon appellation in France.",
-    "fr": "Didier Dagueneau Les Jardins de Babylone 50 cl. est un vin doux de Domaine Didier Dagueneau, élaboré sous l’appellation AOC Jurançon (France).",
-    "it": "Didier Dagueneau Les Jardins de Babylone 50 cl. è un vino dolce di Domaine Didier Dagueneau, prodotto nella denominazione AOC Jurançon (Francia)."
+    "es": "Jurançon dulce elaborado por la familia Dagueneau en Les Jardins de Babylone, su pequeño viñedo en terrazas del Béarn, a partir sobre todo de Petit Manseng pasificada en la cepa.",
+    "en": "A sweet Jurançon made by the Dagueneau family at Les Jardins de Babylone, their small terraced vineyard in the Béarn, mainly from Petit Manseng shrivelled on the vine.",
+    "fr": "Jurançon moelleux élaboré par la famille Dagueneau aux Jardins de Babylone, son petit vignoble en terrasses du Béarn, principalement à partir de petit manseng passerillé sur souche.",
+    "it": "Jurançon dolce prodotto dalla famiglia Dagueneau a Les Jardins de Babylone, il suo piccolo vigneto terrazzato nel Béarn, soprattutto da Petit Manseng appassito sulla pianta."
   },
   "body": {
-    "es": "<p>Su graduación es de 10,5 % vol.</p><p>Dominio de Pouilly-Fumé, en el Loira, fundado por Didier Dagueneau y hoy dirigido por su hijo Louis-Benjamin, célebre por sus Sauvignon Blanc de parcela como Silex.</p><p>Jurançon, en el Béarn al sur de Pau, produce blancos de Petit Manseng y Gros Manseng en laderas al pie de los Pirineos. Es conocido sobre todo por sus vinos dulces de uvas pasificadas en la cepa, aunque hoy la mayor parte de la producción es Jurançon sec.</p>",
-    "en": "<p>It has 10.5% ABV.</p><p>Pouilly-Fumé domaine in the Loire, founded by Didier Dagueneau and now run by his son Louis-Benjamin, famous for single-parcel Sauvignon Blancs such as Silex.</p><p>Jurançon, in the Béarn south of Pau, produces whites from Petit Manseng and Gros Manseng on slopes at the foot of the Pyrenees. It is best known for its sweet wines from grapes shrivelled on the vine, although today most of the output is Jurançon sec.</p>",
-    "fr": "<p>Il titre 10,5 % vol.</p><p>Domaine de Pouilly-Fumé, dans la Loire, fondé par Didier Dagueneau et aujourd’hui dirigé par son fils Louis-Benjamin, célèbre pour ses sauvignons parcellaires comme Silex.</p><p>Le Jurançon, en Béarn au sud de Pau, produit des blancs de petit manseng et de gros manseng sur des coteaux au pied des Pyrénées. Il est surtout connu pour ses moelleux issus de raisins passerillés sur souche, même si l'essentiel de la production est aujourd'hui du jurançon sec.</p>",
-    "it": "<p>Ha 10,5% vol.</p><p>Domaine di Pouilly-Fumé, nella Loira, fondato da Didier Dagueneau e oggi guidato dal figlio Louis-Benjamin, celebre per i suoi Sauvignon Blanc di parcella come Silex.</p><p>Jurançon, nel Béarn a sud di Pau, produce bianchi di Petit Manseng e Gros Manseng su pendii ai piedi dei Pirenei. È noto soprattutto per i suoi vini dolci da uve appassite sulla pianta, anche se oggi la maggior parte della produzione è Jurançon sec.</p>"
+    "es": "<p><strong>Les Jardins de Babylone</strong> es el proyecto que <strong>Didier Dagueneau</strong>, el célebre viticultor de Pouilly-Fumé, emprendió lejos del Loira, en la denominación <strong>Jurançon</strong>, al pie de los Pirineos. Tras la muerte de Didier en 2008, la finca la gestiona su hijo Louis-Benjamin junto con el dominio familiar de Saint-Andelain.</p><p>Se trata de una pequeña parcela en terrazas, trabajada de forma muy manual, en un paisaje de colinas húmedas y soleadas al sur de Pau. La variedad principal es la <strong>Petit Manseng</strong>, una uva de piel gruesa y racimos pequeños que soporta bien el otoño y puede quedarse en la cepa hasta que sus bayas se pasifican y concentran azúcar sin perder su acidez natural, rasgo característico de los Jurançon dulces.</p><p>El vino se elabora a partir de vendimias tardías, a menudo en varias pasadas por la viña, y se fermenta y cría en madera con la misma atención al detalle que caracteriza los blancos de la casa. El resultado es un blanco <strong>dulce y muy fresco</strong>, en el que la acidez equilibra la riqueza en azúcar. Se comercializa en botella de 50 cl y tiene una larga capacidad de guarda.</p>",
+    "en": "<p><strong>Les Jardins de Babylone</strong> is the project that <strong>Didier Dagueneau</strong>, the celebrated Pouilly-Fumé grower, undertook far from the Loire, in the <strong>Jurançon</strong> appellation at the foot of the Pyrenees. Since Didier's death in 2008, the estate has been run by his son Louis-Benjamin together with the family domaine in Saint-Andelain.</p><p>It is a small terraced plot, worked largely by hand, in a landscape of humid, sunny hills south of Pau. The main variety is <strong>Petit Manseng</strong>, a thick-skinned grape with small bunches that copes well with autumn weather and can stay on the vine until its berries shrivel and concentrate sugar without losing their natural acidity, the defining trait of sweet Jurançon.</p><p>The wine is made from late-harvested fruit, often picked in several passes through the vineyard, and is fermented and aged in wood with the same attention to detail that marks the house's whites. The result is a <strong>sweet yet very fresh</strong> white in which acidity balances the richness of sugar. It is sold in 50 cl bottles and has long ageing potential.</p>",
+    "fr": "<p><strong>Les Jardins de Babylone</strong> est le projet que <strong>Didier Dagueneau</strong>, le célèbre vigneron de Pouilly-Fumé, a lancé loin de la Loire, dans l'appellation <strong>Jurançon</strong>, au pied des Pyrénées. Depuis la disparition de Didier en 2008, la propriété est conduite par son fils Louis-Benjamin, parallèlement au domaine familial de Saint-Andelain.</p><p>Il s'agit d'une petite parcelle en terrasses, travaillée en grande partie à la main, dans un paysage de coteaux humides et ensoleillés au sud de Pau. Le cépage principal est le <strong>petit manseng</strong>, raisin à peau épaisse et à petites grappes qui résiste bien aux conditions automnales et peut rester sur souche jusqu'à ce que ses baies se passerillent et concentrent leurs sucres sans perdre leur acidité naturelle, trait distinctif des jurançons moelleux.</p><p>Le vin naît de vendanges tardives, souvent cueillies en plusieurs tries, puis fermente et s'élève sous bois avec le même soin du détail que les blancs de la maison. Il en résulte un blanc <strong>liquoreux et très frais</strong>, où l'acidité équilibre la richesse en sucre. Il est commercialisé en bouteille de 50 cl et possède un long potentiel de garde.</p>",
+    "it": "<p><strong>Les Jardins de Babylone</strong> è il progetto che <strong>Didier Dagueneau</strong>, il celebre vignaiolo di Pouilly-Fumé, avviò lontano dalla Loira, nella denominazione <strong>Jurançon</strong>, ai piedi dei Pirenei. Dalla scomparsa di Didier nel 2008, la tenuta è condotta dal figlio Louis-Benjamin insieme al domaine di famiglia a Saint-Andelain.</p><p>Si tratta di una piccola parcella terrazzata, lavorata in gran parte a mano, in un paesaggio di colline umide e soleggiate a sud di Pau. Il vitigno principale è il <strong>Petit Manseng</strong>, uva dalla buccia spessa e dai grappoli piccoli che resiste bene al clima autunnale e può restare sulla pianta finché gli acini appassiscono e concentrano gli zuccheri senza perdere l'acidità naturale, tratto distintivo dei Jurançon dolci.</p><p>Il vino nasce da vendemmie tardive, spesso raccolte in più passaggi, e fermenta e matura in legno con la stessa cura del dettaglio che contraddistingue i bianchi della casa. Ne risulta un bianco <strong>dolce ma molto fresco</strong>, in cui l'acidità bilancia la ricchezza zuccherina. È commercializzato in bottiglia da 50 cl e ha una lunga capacità d'invecchiamento.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Dorado brillante. Aromas de piña, mango, cítricos confitados, miel y especias suaves. Boca dulce y untuosa, con una acidez vibrante que aporta frescura y un final largo.",
+    "en": "Bright gold. Aromas of pineapple, mango, candied citrus, honey and gentle spice. Sweet, unctuous palate with vibrant acidity that brings freshness and a long finish.",
+    "fr": "Or brillant. Arômes d'ananas, de mangue, d'agrumes confits, de miel et d'épices douces. Bouche liquoreuse et onctueuse, portée par une acidité vibrante qui apporte fraîcheur et longue finale.",
+    "it": "Oro brillante. Aromi di ananas, mango, agrumi canditi, miele e spezie delicate. Bocca dolce e untuosa, con un'acidità vibrante che dona freschezza e un finale lungo."
+  },
   "pairing": {
-    "es": "Postres, foie gras, quesos azules",
-    "en": "Desserts, foie gras, blue cheeses",
-    "fr": "Desserts, foie gras, fromages à pâte persillée",
-    "it": "Dolci, foie gras, formaggi erborinati"
+    "es": "Foie gras, quesos azules, tartas de frutas, postres con cítricos",
+    "en": "Foie gras, blue cheeses, fruit tarts, citrus desserts",
+    "fr": "Foie gras, fromages à pâte persillée, tartes aux fruits, desserts aux agrumes",
+    "it": "Foie gras, formaggi erborinati, crostate di frutta, dolci agli agrumi"
   },
   "serve": {
-    "es": "8-12 °C, copa pequeña",
-    "en": "8-12 °C, small glass",
-    "fr": "8-12 °C, petit verre",
-    "it": "8-12 °C, calice piccolo"
+    "es": "8-10 °C, copa pequeña de vino blanco",
+    "en": "8-10 °C, small white wine glass",
+    "fr": "8-10 °C, petit verre à vin blanc",
+    "it": "8-10 °C, calice piccolo da bianco"
   },
   "search": "Didier Dagueneau Les Jardins de Babylone 50 cl. Domaine Didier Dagueneau",
-  "brief": true,
   "source": "decantalo"
 }

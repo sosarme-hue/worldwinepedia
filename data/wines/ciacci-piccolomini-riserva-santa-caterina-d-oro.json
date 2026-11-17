@@ -7,34 +7,45 @@
   "country": "italia",
   "appellation": "DOCG Brunello di Montalcino",
   "type": "tinto",
-  "category": null,
-  "grapes": [],
+  "category": {
+    "es": "Riserva",
+    "en": "Riserva",
+    "fr": "Riserva",
+    "it": "Riserva"
+  },
+  "grapes": [
+    "sangiovese"
+  ],
   "summary": {
-    "es": "Ciacci Piccolomini Riserva Santa Caterina d'Oro es un vino tinto de Ciacci Piccolomini D'Aragona, con la denominación DOCG Brunello di Montalcino, en Italia.",
-    "en": "Ciacci Piccolomini Riserva Santa Caterina d'Oro is a red wine from Ciacci Piccolomini D'Aragona, made under the DOCG Brunello di Montalcino appellation in Italy.",
-    "fr": "Ciacci Piccolomini Riserva Santa Caterina d'Oro est un vin rouge de Ciacci Piccolomini D'Aragona, élaboré sous l’appellation DOCG Brunello di Montalcino (Italie).",
-    "it": "Ciacci Piccolomini Riserva Santa Caterina d'Oro è un vino rosso di Ciacci Piccolomini D'Aragona, prodotto nella denominazione DOCG Brunello di Montalcino (Italia)."
+    "es": "Brunello di Montalcino Riserva de Ciacci Piccolomini d'Aragona, procedente de su viñedo Pianrosso, en Castelnuovo dell'Abate, y elaborado solo en las mejores añadas.",
+    "en": "A Brunello di Montalcino Riserva from Ciacci Piccolomini d'Aragona, from its Pianrosso vineyard in Castelnuovo dell'Abate, made only in the best vintages.",
+    "fr": "Brunello di Montalcino Riserva de Ciacci Piccolomini d'Aragona, issu de sa vigne Pianrosso, à Castelnuovo dell'Abate, et produit seulement dans les meilleurs millésimes.",
+    "it": "Brunello di Montalcino Riserva di Ciacci Piccolomini d'Aragona, dalla vigna Pianrosso a Castelnuovo dell'Abate, prodotto solo nelle annate migliori."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 14,5 % vol.</p><p>El Brunello di Montalcino es un tinto de Sangiovese 100 % elaborado en el municipio de Montalcino, en la provincia de Siena. Es conocido por su larga crianza obligatoria y por su capacidad de envejecimiento.</p>",
-    "en": "<p>It is aged in wood. It has 14.5% ABV.</p><p>Brunello di Montalcino is a 100% Sangiovese red made in the municipality of Montalcino, in the province of Siena. It is known for its long mandatory ageing and its capacity to develop in bottle.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 14,5 % vol.</p><p>Le Brunello di Montalcino est un rouge 100 % sangiovese produit sur la commune de Montalcino, dans la province de Sienne. Il est connu pour son long élevage obligatoire et son aptitude au vieillissement.</p>",
-    "it": "<p>È affinato in legno. Ha 14,5% vol.</p><p>Il Brunello di Montalcino è un rosso 100% Sangiovese prodotto nel comune di Montalcino, in provincia di Siena. È noto per il lungo affinamento obbligatorio e per la sua capacità di invecchiamento.</p>"
+    "es": "<p><strong>Ciacci Piccolomini d'Aragona</strong> es una finca de <strong>Castelnuovo dell'Abate</strong>, en el sureste del municipio de Montalcino, cerca de la abadía de Sant'Antimo. Su centro es un palacio del siglo XVII que perteneció a la familia noble que le da nombre; desde finales del siglo XX la gestiona la familia <strong>Bianchini</strong>.</p><p><strong>Santa Caterina d'Oro</strong> es la Riserva de la casa y procede de <strong>Pianrosso</strong>, su viñedo más conocido, situado en la ladera que desciende hacia el valle del Orcia. Esta parte de Montalcino, cálida y protegida, favorece una maduración completa de la <strong>Sangiovese</strong>, única variedad permitida en el Brunello. La Riserva solo se elabora en las añadas que lo justifican.</p><p>Conforme al reglamento de la DOCG, la Riserva tiene un periodo de envejecimiento más largo que el Brunello básico antes de salir al mercado; en la bodega se cría en grandes toneles de roble. Es un vino de mayor concentración y profundidad, con fruta madura, notas especiadas y terrosas y una estructura que requiere tiempo en botella y permite una guarda muy larga.</p>",
+    "en": "<p><strong>Ciacci Piccolomini d'Aragona</strong> is an estate in <strong>Castelnuovo dell'Abate</strong>, in the south-east of the commune of Montalcino, near the abbey of Sant'Antimo. Its centrepiece is a 17th-century palazzo that belonged to the noble family that gives it its name; since the late 20th century it has been run by the <strong>Bianchini</strong> family.</p><p><strong>Santa Caterina d'Oro</strong> is the estate's Riserva and comes from <strong>Pianrosso</strong>, its best-known vineyard, on the slope running down towards the Orcia valley. This warm, sheltered part of Montalcino favours full ripening of <strong>Sangiovese</strong>, the only variety allowed in Brunello. The Riserva is made only in vintages that warrant it.</p><p>Under DOCG rules, the Riserva undergoes a longer ageing period than the standard Brunello before release; in the cellar it is aged in large oak casks. It is a wine of greater concentration and depth, with ripe fruit, spicy and earthy notes and a structure that needs time in bottle and allows very long ageing.</p>",
+    "fr": "<p><strong>Ciacci Piccolomini d'Aragona</strong> est un domaine de <strong>Castelnuovo dell'Abate</strong>, dans le sud-est de la commune de Montalcino, près de l'abbaye de Sant'Antimo. Son cœur est un palais du XVIIe siècle qui appartenait à la famille noble dont il porte le nom ; depuis la fin du XXe siècle, il est conduit par la famille <strong>Bianchini</strong>.</p><p><strong>Santa Caterina d'Oro</strong> est la Riserva de la maison ; elle provient de <strong>Pianrosso</strong>, sa vigne la plus connue, située sur le coteau qui descend vers la vallée de l'Orcia. Ce secteur chaud et abrité de Montalcino favorise une pleine maturité du <strong>sangiovese</strong>, seul cépage autorisé pour le brunello. La Riserva n'est produite que dans les millésimes qui le justifient.</p><p>Selon le règlement de la DOCG, la Riserva connaît une période de vieillissement plus longue que le brunello de base avant sa commercialisation ; au chai, elle est élevée en grands foudres de chêne. C'est un vin d'une plus grande concentration et profondeur, au fruit mûr, aux notes épicées et terreuses, doté d'une structure qui demande du temps en bouteille et permet une très longue garde.</p>",
+    "it": "<p><strong>Ciacci Piccolomini d'Aragona</strong> è una tenuta di <strong>Castelnuovo dell'Abate</strong>, nel sud-est del comune di Montalcino, vicino all'abbazia di Sant'Antimo. Il suo cuore è un palazzo seicentesco appartenuto alla famiglia nobile da cui prende il nome; dalla fine del Novecento è condotta dalla famiglia <strong>Bianchini</strong>.</p><p><strong>Santa Caterina d'Oro</strong> è la Riserva della casa e proviene da <strong>Pianrosso</strong>, la sua vigna più nota, sul pendio che scende verso la valle dell'Orcia. Questa parte di Montalcino, calda e riparata, favorisce una piena maturazione del <strong>Sangiovese</strong>, unico vitigno ammesso nel Brunello. La Riserva viene prodotta solo nelle annate che lo giustificano.</p><p>Secondo il disciplinare della DOCG, la Riserva ha un periodo di invecchiamento più lungo del Brunello base prima dell'immissione in commercio; in cantina matura in grandi botti di rovere. È un vino di maggiore concentrazione e profondità, con frutto maturo, note speziate e terrose e una struttura che richiede tempo in bottiglia e consente un invecchiamento molto lungo.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo granate profundo. Aromas de cereza en licor, ciruela, especias, tabaco, cuero y notas balsámicas. Boca amplia y profunda, con taninos firmes, acidez viva y final muy largo.",
+    "en": "Deep garnet red. Aromas of cherry liqueur, plum, spice, tobacco, leather and balsamic notes. Broad, deep palate with firm tannins, lively acidity and a very long finish.",
+    "fr": "Rouge grenat profond. Arômes de cerise à l'eau-de-vie, de prune, d'épices, de tabac, de cuir et notes balsamiques. Bouche ample et profonde, aux tanins fermes, à l'acidité vive et à la finale très longue.",
+    "it": "Rosso granato profondo. Aromi di ciliegia sotto spirito, prugna, spezie, tabacco, cuoio e note balsamiche. Bocca ampia e profonda, tannini fermi, acidità vivace e finale molto lungo."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Caza mayor, cordero asado, estofados de buey, platos con trufa, quesos muy curados",
+    "en": "Large game, roast lamb, beef stews, truffle dishes, well-aged cheeses",
+    "fr": "Grand gibier, agneau rôti, daubes de bœuf, plats truffés, fromages très affinés",
+    "it": "Selvaggina grossa, agnello arrosto, stracotti di manzo, piatti al tartufo, formaggi molto stagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "17-18 °C, copa amplia; conviene decantar",
+    "en": "17-18 °C, large glass; decanting recommended",
+    "fr": "17-18 °C, verre ample ; carafage conseillé",
+    "it": "17-18 °C, calice ampio; consigliata la decantazione"
   },
   "search": "Ciacci Piccolomini Riserva Santa Caterina d'Oro Ciacci Piccolomini D'Aragona",
-  "brief": true,
   "source": "decantalo"
 }

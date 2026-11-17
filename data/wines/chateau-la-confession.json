@@ -8,33 +8,40 @@
   "appellation": "AOC Saint-Émilion Grand Cru Classé",
   "type": "tinto",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "merlot",
+    "cabernet-franc"
+  ],
   "summary": {
-    "es": "Château La Confession es un vino tinto de Château La Confession, con la denominación AOC Saint-Émilion Grand Cru Classé, en Francia.",
-    "en": "Château La Confession is a red wine from Château La Confession, made under the AOC Saint-Émilion Grand Cru Classé appellation in France.",
-    "fr": "Château La Confession est un vin rouge de Château La Confession, élaboré sous l’appellation AOC Saint-Émilion Grand Cru Classé (France).",
-    "it": "Château La Confession è un vino rosso di Château La Confession, prodotto nella denominazione AOC Saint-Émilion Grand Cru Classé (Francia)."
+    "es": "Tinto de Saint-Émilion Grand Cru de Château La Confession, propiedad de la familia Janoueix, de estilo concentrado y moderno.",
+    "en": "Saint-Émilion Grand Cru red from Château La Confession, owned by the Janoueix family, in a concentrated, modern style.",
+    "fr": "Rouge de Saint-Émilion Grand Cru du Château La Confession, propriété de la famille Janoueix, au style concentré et moderne.",
+    "it": "Rosso di Saint-Émilion Grand Cru di Château La Confession, proprietà della famiglia Janoueix, dallo stile concentrato e moderno."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 13,5 % vol.</p>",
-    "en": "<p>It is aged in wood. It has 13.5% ABV.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 13,5 % vol.</p>",
-    "it": "<p>È affinato in legno. Ha 13,5% vol.</p>"
+    "es": "<p><strong>Château La Confession</strong> es una pequeña propiedad de Saint-Émilion vinculada a Jean-Philippe Janoueix, miembro de una familia de origen corrèziano asentada desde hace generaciones en Libourne, donde se ha dedicado al comercio de vino y a la gestión de varias fincas de la orilla derecha.</p><p><strong>Saint-Émilion</strong>, en la orilla derecha de Burdeos, es una denominación de viñedos sobre la meseta caliza que rodea la villa medieval, sus laderas y las llanuras de arena y grava que descienden hacia el Dordoña y hacia Pomerol. La <strong>Merlot</strong> es la variedad dominante, acompañada de la <strong>Cabernet Franc</strong>. La Confession se encuentra en el sector de la denominación cercano a Pomerol, con suelos de arena, grava y arcilla, y su ensamblaje combina la Merlot con la Cabernet Franc y otras variedades bordelesas en proporciones que varían según la añada. La etiqueta Saint-Émilion Grand Cru exige rendimientos más bajos y una crianza más prolongada que la de la denominación Saint-Émilion simple.</p><p>Criado en barricas de roble, en buena parte nuevas, es un tinto de estilo moderno, concentrado y de fruta muy madura, con notas tostadas y especiadas y taninos redondos. Puede disfrutarse tras unos pocos años en botella, aunque también admite una guarda media. Conviene decantarlo si se bebe joven.</p>",
+    "en": "<p><strong>Château La Confession</strong> is a small Saint-Émilion estate linked to Jean-Philippe Janoueix, a member of a family originally from Corrèze that has been settled for generations in Libourne, where it has worked in the wine trade and managed several right-bank estates.</p><p><strong>Saint-Émilion</strong>, on the right bank of Bordeaux, is an appellation of vineyards on the limestone plateau surrounding the medieval town, its slopes and the plains of sand and gravel descending towards the Dordogne and towards Pomerol. <strong>Merlot</strong> is the dominant variety, accompanied by <strong>Cabernet Franc</strong>. La Confession lies in the part of the appellation close to Pomerol, on sand, gravel and clay soils, and its blend combines Merlot with Cabernet Franc and other Bordeaux varieties in proportions that vary with the vintage. The Saint-Émilion Grand Cru label requires lower yields and longer ageing than the straight Saint-Émilion appellation.</p><p>Aged in oak barrels, largely new, it is a modern-style red, concentrated and with very ripe fruit, toasty and spicy notes and round tannins. It can be enjoyed after a few years in bottle, although it also lends itself to medium-term ageing. It is best decanted if drunk young.</p>",
+    "fr": "<p>Le <strong>Château La Confession</strong> est une petite propriété de Saint-Émilion liée à Jean-Philippe Janoueix, membre d'une famille originaire de Corrèze installée depuis des générations à Libourne, où elle s'est consacrée au négoce de vin et à la gestion de plusieurs propriétés de la rive droite.</p><p><strong>Saint-Émilion</strong>, sur la rive droite de Bordeaux, est une appellation de vignes sur le plateau calcaire qui entoure la cité médiévale, ses coteaux et les plaines de sables et de graves qui descendent vers la Dordogne et vers Pomerol. Le <strong>merlot</strong> est le cépage dominant, accompagné du <strong>cabernet franc</strong>. La Confession se trouve dans le secteur de l'appellation proche de Pomerol, sur des sols de sables, de graves et d'argiles, et son assemblage associe le merlot au cabernet franc et à d'autres cépages bordelais dans des proportions variables selon le millésime. La mention Saint-Émilion Grand Cru impose des rendements plus bas et un élevage plus long que l'appellation Saint-Émilion simple.</p><p>Élevé en barriques de chêne, en grande partie neuves, c'est un rouge de style moderne, concentré et au fruit très mûr, aux notes toastées et épicées et aux tanins ronds. Il peut s'apprécier après quelques années en bouteille, tout en supportant une garde moyenne. Il gagne à être carafé s'il est bu jeune.</p>",
+    "it": "<p><strong>Château La Confession</strong> è una piccola proprietà di Saint-Émilion legata a Jean-Philippe Janoueix, membro di una famiglia originaria della Corrèze stabilita da generazioni a Libourne, dove si è dedicata al commercio del vino e alla gestione di diverse tenute della riva destra.</p><p><strong>Saint-Émilion</strong>, sulla riva destra di Bordeaux, è una denominazione di vigneti sull'altopiano calcareo che circonda la cittadina medievale, sui suoi pendii e sulle pianure di sabbia e ghiaia che scendono verso la Dordogna e verso Pomerol. Il <strong>Merlot</strong> è la varietà dominante, accompagnata dal <strong>Cabernet Franc</strong>. La Confession si trova nel settore della denominazione vicino a Pomerol, su suoli di sabbia, ghiaia e argilla, e il suo assemblaggio unisce il Merlot al Cabernet Franc e ad altre varietà bordolesi in proporzioni che variano a seconda dell'annata. La menzione Saint-Émilion Grand Cru richiede rese più basse e un affinamento più lungo rispetto alla denominazione Saint-Émilion semplice.</p><p>Affinato in barrique di rovere, in buona parte nuove, è un rosso di stile moderno, concentrato e di frutto molto maturo, con note tostate e speziate e tannini rotondi. Può essere apprezzato dopo pochi anni in bottiglia, pur prestandosi a un invecchiamento medio. Conviene decantarlo se bevuto giovane.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo picota muy intenso. Aromas de mora, ciruela madura, cereza negra, vainilla y tostados. Boca concentrada y golosa, con taninos redondos y final cálido.",
+    "en": "Very intense cherry red. Aromas of blackberry, ripe plum, black cherry, vanilla and toast. Concentrated and generous on the palate, with round tannins and a warm finish.",
+    "fr": "Rouge cerise très intense. Arômes de mûre, prune mûre, cerise noire, vanille et toasté. Bouche concentrée et gourmande, aux tanins ronds et à la finale chaleureuse.",
+    "it": "Rosso ciliegia molto intenso. Aromi di mora, prugna matura, ciliegia nera, vaniglia e tostature. Bocca concentrata e golosa, con tannini rotondi e finale caldo."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Carnes rojas asadas, pato, cordero, guisos de carne, quesos curados",
+    "en": "Roast red meat, duck, lamb, meat stews, aged cheeses",
+    "fr": "Viandes rouges rôties, canard, agneau, ragoûts de viande, fromages affinés",
+    "it": "Carni rosse arrosto, anatra, agnello, stufati di carne, formaggi stagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "16-18 °C, decantado, copa tipo Burdeos",
+    "en": "16-18 °C, decanted, Bordeaux glass",
+    "fr": "16-18 °C, carafé, verre de type bordeaux",
+    "it": "16-18 °C, decantato, calice tipo Bordeaux"
   },
   "search": "Château La Confession Château La Confession",
-  "brief": true,
   "source": "decantalo"
 }

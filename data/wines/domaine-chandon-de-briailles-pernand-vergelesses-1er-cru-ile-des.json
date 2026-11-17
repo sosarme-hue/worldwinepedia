@@ -7,36 +7,45 @@
   "country": "francia",
   "appellation": "AOC Pernand-Vergelesses 1.er Crû/ Côte-d'Or",
   "type": "tinto",
-  "category": null,
+  "category": {
+    "es": "Premier Cru",
+    "en": "Premier Cru",
+    "fr": "Premier Cru",
+    "it": "Premier Cru"
+  },
   "grapes": [
     "pinot-noir"
   ],
   "summary": {
-    "es": "Domaine Chandon de Briailles Pernand-Vergelesses 1er Cru Île des es un vino tinto de Domaine Chandon de Briailles, con la denominación AOC Pernand-Vergelesses 1.er Crû/ Côte-d'Or, en Francia.",
-    "en": "Domaine Chandon de Briailles Pernand-Vergelesses 1er Cru Île des is a red wine from Domaine Chandon de Briailles, made under the AOC Pernand-Vergelesses 1.er Crû/ Côte-d'Or appellation in France.",
-    "fr": "Domaine Chandon de Briailles Pernand-Vergelesses 1er Cru Île des est un vin rouge de Domaine Chandon de Briailles, élaboré sous l’appellation AOC Pernand-Vergelesses 1.er Crû/ Côte-d'Or (France).",
-    "it": "Domaine Chandon de Briailles Pernand-Vergelesses 1er Cru Île des è un vino rosso di Domaine Chandon de Briailles, prodotto nella denominazione AOC Pernand-Vergelesses 1.er Crû/ Côte-d'Or (Francia)."
+    "es": "Pernand-Vergelesses Premier Cru tinto de Pinot Noir procedente de L'Île des Vergelesses, el premier cru más reputado del pueblo, elaborado por el Domaine Chandon de Briailles.",
+    "en": "A red Pernand-Vergelesses Premier Cru from Pinot Noir sourced from L'Île des Vergelesses, the village's most highly regarded premier cru, made by Domaine Chandon de Briailles.",
+    "fr": "Pernand-Vergelesses premier cru rouge de pinot noir issu de L'Île des Vergelesses, le premier cru le plus réputé du village, élaboré par le Domaine Chandon de Briailles.",
+    "it": "Pernand-Vergelesses Premier Cru rosso da Pinot Noir proveniente da L'Île des Vergelesses, il premier cru più rinomato del villaggio, prodotto dal Domaine Chandon de Briailles."
   },
   "body": {
-    "es": "<p>Se elabora con Pinot Noir. Tiene crianza en madera. Su graduación es de 13,5 % vol.</p>",
-    "en": "<p>It is made from Pinot Noir. It is aged in wood. It has 13.5% ABV.</p>",
-    "fr": "<p>Il est élaboré à partir de Pinot Noir. Il est élevé en bois. Il titre 13,5 % vol.</p>",
-    "it": "<p>È prodotto con Pinot Nero. È affinato in legno. Ha 13,5% vol.</p>"
+    "es": "<p>El <strong>Domaine Chandon de Briailles</strong> es una finca familiar de <strong>Savigny-lès-Beaune</strong>, en la Côte de Beaune, dirigida durante décadas por Nadine de Nicolay y hoy por su hija Claude. Es conocida por su cultivo en biodinámica y por un estilo de vinificación tradicional y poco intervencionista, con un uso muy moderado de la madera nueva.</p><p><strong>Pernand-Vergelesses</strong> es un pueblo situado al pie de la colina de Corton, en el límite norte de la Côte de Beaune. Sus premiers crus tintos más valorados se encuentran en la ladera de Vergelesses, orientada al sureste y contigua a Savigny-lès-Beaune. Dentro de ella, <strong>L'Île des Vergelesses</strong> es una parcela de media ladera, delimitada por caminos que la aíslan como una «isla», y está considerada tradicionalmente el mejor premier cru tinto del pueblo.</p><p>El vino se elabora con <strong>Pinot Noir</strong>; la casa suele vinificar con una proporción importante de racimos enteros y extracciones suaves, y cría en barricas mayoritariamente usadas. El resultado es un tinto de perfil elegante y aromático, con fruta roja, tanino fino y una frescura que le permite envejecer bien.</p>",
+    "en": "<p><strong>Domaine Chandon de Briailles</strong> is a family estate in <strong>Savigny-lès-Beaune</strong>, in the Côte de Beaune, run for decades by Nadine de Nicolay and now by her daughter Claude. It is known for biodynamic farming and a traditional, low-intervention approach to winemaking, with very moderate use of new oak.</p><p><strong>Pernand-Vergelesses</strong> is a village at the foot of the hill of Corton, at the northern end of the Côte de Beaune. Its most prized red premiers crus lie on the Vergelesses slope, facing south-east and adjoining Savigny-lès-Beaune. Within it, <strong>L'Île des Vergelesses</strong> is a mid-slope plot bounded by tracks that isolate it like an \"island\", and is traditionally regarded as the village's finest red premier cru.</p><p>The wine is made from <strong>Pinot Noir</strong>; the house tends to vinify with a significant proportion of whole bunches and gentle extraction, and ages in mostly used barrels. The result is an elegant, aromatic red with red fruit, fine tannins and a freshness that allows it to age well.</p>",
+    "fr": "<p>Le <strong>Domaine Chandon de Briailles</strong> est une propriété familiale de <strong>Savigny-lès-Beaune</strong>, en Côte de Beaune, dirigée pendant des décennies par Nadine de Nicolay et aujourd'hui par sa fille Claude. Il est connu pour sa culture en biodynamie et pour une vinification traditionnelle et peu interventionniste, avec un usage très mesuré du bois neuf.</p><p><strong>Pernand-Vergelesses</strong> est un village situé au pied de la colline de Corton, à l'extrémité nord de la Côte de Beaune. Ses premiers crus rouges les plus recherchés se trouvent sur le coteau des Vergelesses, exposé au sud-est et contigu à Savigny-lès-Beaune. En son sein, <strong>L'Île des Vergelesses</strong> est une parcelle de mi-pente, délimitée par des chemins qui l'isolent comme une « île », traditionnellement considérée comme le meilleur premier cru rouge du village.</p><p>Le vin est issu de <strong>pinot noir</strong> ; la maison vinifie généralement avec une part importante de vendange entière et des extractions douces, et élève en fûts majoritairement usagés. Il en résulte un rouge élégant et aromatique, au fruit rouge, aux tanins fins et à la fraîcheur qui lui permet de bien vieillir.</p>",
+    "it": "<p>Il <strong>Domaine Chandon de Briailles</strong> è una tenuta familiare di <strong>Savigny-lès-Beaune</strong>, nella Côte de Beaune, guidata per decenni da Nadine de Nicolay e oggi dalla figlia Claude. È noto per la coltivazione biodinamica e per una vinificazione tradizionale e poco interventista, con un uso molto moderato del legno nuovo.</p><p><strong>Pernand-Vergelesses</strong> è un villaggio ai piedi della collina di Corton, all'estremità settentrionale della Côte de Beaune. I suoi premier cru rossi più apprezzati si trovano sul pendio di Vergelesses, esposto a sud-est e confinante con Savigny-lès-Beaune. Al suo interno, <strong>L'Île des Vergelesses</strong> è una parcella di mezza costa, delimitata da strade che la isolano come un'«isola», tradizionalmente considerata il miglior premier cru rosso del villaggio.</p><p>Il vino è prodotto con <strong>Pinot Noir</strong>; la casa vinifica di solito con una quota importante di grappoli interi ed estrazioni delicate, e matura in barrique per lo più usate. Ne risulta un rosso elegante e aromatico, con frutto rosso, tannino fine e una freschezza che gli permette di invecchiare bene.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo rubí luminoso. Aromas de frambuesa, cereza, flores, especias y notas terrosas. Boca de cuerpo medio, de tanino fino y acidez fresca, con un final elegante.",
+    "en": "Bright ruby red. Aromas of raspberry, cherry, flowers, spice and earthy notes. Medium-bodied palate with fine tannins, fresh acidity and an elegant finish.",
+    "fr": "Rubis lumineux. Arômes de framboise, de cerise, de fleurs, d'épices et notes terreuses. Bouche de corps moyen, aux tanins fins et à l'acidité fraîche, avec une finale élégante.",
+    "it": "Rosso rubino luminoso. Aromi di lampone, ciliegia, fiori, spezie e note terrose. Bocca di medio corpo, dal tannino fine e dall'acidità fresca, con un finale elegante."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Pato, ave asada, terrinas, setas, quesos de pasta blanda",
+    "en": "Duck, roast poultry, terrines, mushrooms, soft cheeses",
+    "fr": "Canard, volaille rôtie, terrines, champignons, fromages à pâte molle",
+    "it": "Anatra, pollame arrosto, terrine, funghi, formaggi a pasta molle"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "15-17 °C, copa amplia tipo Borgoña",
+    "en": "15-17 °C, large Burgundy glass",
+    "fr": "15-17 °C, verre ample de type bourguignon",
+    "it": "15-17 °C, calice ampio tipo Borgogna"
   },
   "search": "Domaine Chandon de Briailles Pernand-Vergelesses 1er Cru Île des Domaine Chandon de Briailles",
-  "brief": true,
   "source": "decantalo"
 }

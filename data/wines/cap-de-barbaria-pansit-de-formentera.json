@@ -10,31 +10,35 @@
   "category": null,
   "grapes": [],
   "summary": {
-    "es": "Cap de Barbaria Pansit de Formentera es un vino dulce de Cap de Barbaria, en España.",
-    "en": "Cap de Barbaria Pansit de Formentera is a sweet wine from Cap de Barbaria in Spain.",
-    "fr": "Cap de Barbaria Pansit de Formentera est un vin doux de Cap de Barbaria (Espagne).",
-    "it": "Cap de Barbaria Pansit de Formentera è un vino dolce di Cap de Barbaria (Spagna)."
+    "es": "Vino dulce de uvas pasificadas de Cap de Barbaria, pequeña bodega de la isla de Formentera, en las Baleares.",
+    "en": "Sweet wine from dried grapes made by Cap de Barbaria, a small winery on the island of Formentera, in the Balearics.",
+    "fr": "Vin doux de raisins passerillés de Cap de Barbaria, petite bodega de l’île de Formentera, aux Baléares.",
+    "it": "Vino dolce da uve appassite di Cap de Barbaria, piccola cantina dell’isola di Formentera, nelle Baleari."
   },
   "body": {
-    "es": "",
-    "en": "",
-    "fr": "",
-    "it": ""
+    "es": "<p><strong>Cap de Barbaria</strong> es una pequeña bodega de <strong>Formentera</strong>, la menor de las Pitiusas, que toma su nombre del cabo del sur de la isla, uno de sus paisajes más conocidos. Sus viñedos crecen en un entorno muy particular: suelos calizos pobres y pedregosos, escasas lluvias, mucho sol y la presencia constante del viento y del mar, que condicionan una viticultura de rendimientos muy bajos.</p><p>El <strong>Pansit</strong> es su vino dulce. El nombre remite a la palabra catalana con que se designan las uvas pasificadas: la uva se deja secar para concentrar los azúcares, una práctica de larga tradición en el Mediterráneo para elaborar vinos dulces naturales, sin necesidad de añadir alcohol.</p><p>El resultado es un vino de producción limitada, de dulzor natural y textura untuosa, que suele tomarse en pequeñas cantidades al final de la comida. Es una muestra de la pequeña viticultura de Formentera, que ha recuperado en las últimas décadas un patrimonio vitícola muy ligado a la vida rural de la isla.</p>",
+    "en": "<p><strong>Cap de Barbaria</strong> is a small winery on <strong>Formentera</strong>, the smallest of the Pityusic Islands, named after the cape at the south of the island, one of its best-known landscapes. Its vineyards grow in a very particular setting: poor, stony limestone soils, little rain, plenty of sun and the constant presence of wind and sea, which make for very low-yielding viticulture.</p><p><strong>Pansit</strong> is its sweet wine. The name refers to the Catalan word for raisined grapes: the fruit is left to dry to concentrate its sugars, a long-standing Mediterranean practice for making naturally sweet wines without the need to add alcohol.</p><p>The result is a wine made in limited quantities, with natural sweetness and an unctuous texture, usually enjoyed in small measures at the end of a meal. It is an example of Formentera’s small-scale viticulture, which in recent decades has revived a winegrowing heritage closely tied to the island’s rural life.</p>",
+    "fr": "<p><strong>Cap de Barbaria</strong> est une petite bodega de <strong>Formentera</strong>, la plus petite des Pityuses, qui doit son nom au cap situé au sud de l’île, l’un de ses paysages les plus connus. Ses vignes poussent dans un environnement très particulier : sols calcaires pauvres et caillouteux, pluies rares, beaucoup de soleil et présence constante du vent et de la mer, qui imposent une viticulture à très faibles rendements.</p><p>Le <strong>Pansit</strong> est son vin doux. Son nom renvoie au mot catalan désignant les raisins passerillés : le raisin est mis à sécher pour concentrer ses sucres, une pratique ancienne en Méditerranée pour élaborer des vins naturellement doux, sans ajout d’alcool.</p><p>Il en résulte un vin produit en quantité limitée, d’une douceur naturelle et d’une texture onctueuse, généralement dégusté en petite quantité en fin de repas. Il illustre la petite viticulture de Formentera, qui a renoué au cours des dernières décennies avec un patrimoine viticole étroitement lié à la vie rurale de l’île.</p>",
+    "it": "<p><strong>Cap de Barbaria</strong> è una piccola cantina di <strong>Formentera</strong>, la più piccola delle Pitiuse, che prende il nome dal capo nel sud dell’isola, uno dei suoi paesaggi più noti. I suoi vigneti crescono in un ambiente molto particolare: suoli calcarei poveri e sassosi, scarse piogge, molto sole e la presenza costante del vento e del mare, che impongono una viticoltura a rese bassissime.</p><p>Il <strong>Pansit</strong> è il suo vino dolce. Il nome richiama la parola catalana che indica le uve appassite: l’uva viene lasciata asciugare per concentrarne gli zuccheri, una pratica di lunga tradizione nel Mediterraneo per produrre vini naturalmente dolci, senza aggiunta di alcol.</p><p>Il risultato è un vino prodotto in quantità limitata, di dolcezza naturale e consistenza untuosa, consumato di solito in piccole quantità a fine pasto. È un esempio della piccola viticoltura di Formentera, che negli ultimi decenni ha recuperato un patrimonio viticolo strettamente legato alla vita rurale dell’isola.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Color ámbar o caoba. Aromas de pasas, higos secos, miel, frutos secos y notas balsámicas. En boca es dulce y untuoso, con una acidez que equilibra el conjunto y un final largo.",
+    "en": "Amber to mahogany colour. Aromas of raisins, dried figs, honey, nuts and balsamic notes. Sweet and unctuous on the palate, with acidity balancing the whole and a long finish.",
+    "fr": "Couleur ambre à acajou. Arômes de raisins secs, de figues sèches, de miel, de fruits secs et notes balsamiques. En bouche, il est doux et onctueux, avec une acidité qui équilibre l’ensemble et une finale longue.",
+    "it": "Colore ambrato o mogano. Aromi di uva passa, fichi secchi, miele, frutta secca e note balsamiche. In bocca è dolce e untuoso, con un’acidità che equilibra l’insieme e un finale lungo."
+  },
   "pairing": {
-    "es": "Postres, foie gras, quesos azules",
-    "en": "Desserts, foie gras, blue cheeses",
-    "fr": "Desserts, foie gras, fromages à pâte persillée",
-    "it": "Dolci, foie gras, formaggi erborinati"
+    "es": "Repostería de almendra, quesos azules, foie gras, chocolate negro",
+    "en": "Almond pastries, blue cheeses, foie gras, dark chocolate",
+    "fr": "Pâtisseries aux amandes, fromages à pâte persillée, foie gras, chocolat noir",
+    "it": "Pasticceria di mandorle, formaggi erborinati, foie gras, cioccolato fondente"
   },
   "serve": {
-    "es": "8-12 °C, copa pequeña",
-    "en": "8-12 °C, small glass",
-    "fr": "8-12 °C, petit verre",
-    "it": "8-12 °C, calice piccolo"
+    "es": "10-12 °C, copa pequeña de vino dulce",
+    "en": "10-12 °C, small dessert-wine glass",
+    "fr": "10-12 °C, petit verre à vin doux",
+    "it": "10-12 °C, piccolo calice da vino dolce"
   },
   "search": "Cap de Barbaria Pansit de Formentera Cap de Barbaria",
-  "brief": true,
   "source": "decantalo"
 }

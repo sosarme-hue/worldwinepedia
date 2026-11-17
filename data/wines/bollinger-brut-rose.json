@@ -7,34 +7,47 @@
   "country": "francia",
   "appellation": null,
   "type": "espumoso",
-  "category": null,
-  "grapes": [],
+  "category": {
+    "es": "Brut Rosé",
+    "en": "Brut Rosé",
+    "fr": "Brut Rosé",
+    "it": "Brut Rosé"
+  },
+  "grapes": [
+    "pinot-noir",
+    "chardonnay",
+    "pinot-meunier"
+  ],
   "summary": {
-    "es": "Bollinger Brut Rosé es un vino espumoso de Champagne Bollinger, en Francia.",
-    "en": "Bollinger Brut Rosé is a sparkling wine from Champagne Bollinger in France.",
-    "fr": "Bollinger Brut Rosé est un vin effervescent de Champagne Bollinger (France).",
-    "it": "Bollinger Brut Rosé è un vino spumante di Champagne Bollinger (Francia)."
+    "es": "Champagne rosado brut sin añada de Bollinger, elaborado a partir de la base de la Special Cuvée con un pequeño añadido de vino tinto de Pinot Noir.",
+    "en": "Non-vintage brut rosé Champagne from Bollinger, made from the Special Cuvée base with a small addition of Pinot Noir red wine.",
+    "fr": "Champagne rosé brut sans année de Bollinger, élaboré à partir de la base de la Special Cuvée avec un faible ajout de vin rouge de pinot noir.",
+    "it": "Champagne rosé brut senza annata di Bollinger, ottenuto dalla base della Special Cuvée con una piccola aggiunta di vino rosso di Pinot Noir."
   },
   "body": {
-    "es": "<p>Su graduación es de 12 % vol.</p><p>Maison familiar de Aÿ fundada en 1829, conocida por un estilo de champagne con predominio de Pinot Noir y por fermentar parte de sus vinos en barrica.</p>",
-    "en": "<p>It has 12% ABV.</p><p>Family-owned house in Aÿ founded in 1829, known for a Pinot Noir-led champagne style and for fermenting part of its wines in barrel.</p>",
-    "fr": "<p>Il titre 12 % vol.</p><p>Maison familiale d’Aÿ fondée en 1829, connue pour un style de champagne dominé par le pinot noir et pour la fermentation d’une partie de ses vins en fût.</p>",
-    "it": "<p>Ha 12% vol.</p><p>Maison di famiglia di Aÿ fondata nel 1829, nota per uno stile di champagne a prevalenza di Pinot Noir e per la fermentazione di parte dei suoi vini in botte.</p>"
+    "es": "<p><strong>Bollinger</strong> es una de las grandes casas de Champagne, fundada en 1829 en <strong>Aÿ</strong>, en el corazón de la Montagne de Reims y la Vallée de la Marne, y todavía en manos de la familia fundadora. Su estilo se apoya en el <strong>Pinot Noir</strong>, en un importante patrimonio de viñedo propio, en la fermentación de una parte de los vinos en barricas de roble y en el uso de vinos de reserva conservados en magnum, que aportan complejidad a las mezclas.</p><p>El <strong>Brut Rosé</strong> sin añada se elabora a partir de una mezcla muy próxima a la de la Special Cuvée, dominada por el <strong>Pinot Noir</strong> y completada con <strong>Chardonnay</strong> y <strong>Pinot Meunier</strong>, a la que se añade una pequeña proporción de vino tinto de Pinot Noir de viñedos propios. Este método de ensamblaje, habitual en Champagne, permite controlar con precisión el color y aporta fruta roja y estructura.</p><p>Tras la toma de espuma en botella, el vino reposa sobre sus lías durante un periodo prolongado. El resultado es un rosado de color delicado y perfil vinoso, en el que la frescura de la fruta roja convive con las notas de crianza propias del estilo de la casa. Funciona tanto como aperitivo como acompañando platos.</p>",
+    "en": "<p><strong>Bollinger</strong> is one of the great Champagne houses, founded in 1829 in <strong>Aÿ</strong>, at the heart of the Montagne de Reims and Vallée de la Marne, and still owned by the founding family. Its style rests on <strong>Pinot Noir</strong>, a substantial holding of its own vineyards, fermentation of part of the wines in oak barrels and the use of reserve wines kept in magnum, which add complexity to the blends.</p><p>The non-vintage <strong>Brut Rosé</strong> is made from a blend very close to that of Special Cuvée, dominated by <strong>Pinot Noir</strong> and completed with <strong>Chardonnay</strong> and <strong>Pinot Meunier</strong>, to which a small proportion of Pinot Noir red wine from the house’s own vineyards is added. This blending method, common in Champagne, allows precise control of the colour and adds red fruit and structure.</p><p>After the second fermentation in bottle, the wine rests on its lees for an extended period. The result is a rosé of delicate colour and vinous profile, in which fresh red fruit sits alongside the mature notes typical of the house style. It works both as an aperitif and with food.</p>",
+    "fr": "<p><strong>Bollinger</strong> est l’une des grandes maisons de Champagne, fondée en 1829 à <strong>Aÿ</strong>, au cœur de la Montagne de Reims et de la Vallée de la Marne, et toujours aux mains de la famille fondatrice. Son style repose sur le <strong>pinot noir</strong>, sur un important vignoble en propre, sur la fermentation d’une partie des vins en fûts de chêne et sur l’emploi de vins de réserve conservés en magnum, qui apportent de la complexité aux assemblages.</p><p>Le <strong>Brut Rosé</strong> sans année est élaboré à partir d’un assemblage très proche de celui de la Special Cuvée, dominé par le <strong>pinot noir</strong> et complété par du <strong>chardonnay</strong> et du <strong>pinot meunier</strong>, auquel on ajoute une faible proportion de vin rouge de pinot noir issu des vignes de la maison. Cette méthode d’assemblage, courante en Champagne, permet de maîtriser précisément la couleur et apporte fruits rouges et structure.</p><p>Après la prise de mousse en bouteille, le vin repose sur ses lies pendant une période prolongée. Il en résulte un rosé à la robe délicate et au profil vineux, où la fraîcheur des fruits rouges côtoie les notes d’évolution propres au style de la maison. Il convient aussi bien à l’apéritif qu’à table.</p>",
+    "it": "<p><strong>Bollinger</strong> è una delle grandi maison della Champagne, fondata nel 1829 ad <strong>Aÿ</strong>, nel cuore della Montagne de Reims e della Vallée de la Marne, e ancora di proprietà della famiglia fondatrice. Il suo stile si basa sul <strong>Pinot Noir</strong>, su un importante patrimonio di vigneti di proprietà, sulla fermentazione di una parte dei vini in botti di rovere e sull’uso di vini di riserva conservati in magnum, che danno complessità agli assemblaggi.</p><p>Il <strong>Brut Rosé</strong> senza annata è prodotto a partire da un assemblaggio molto vicino a quello della Special Cuvée, dominato dal <strong>Pinot Noir</strong> e completato da <strong>Chardonnay</strong> e <strong>Pinot Meunier</strong>, al quale si aggiunge una piccola quota di vino rosso di Pinot Noir da vigneti di proprietà. Questo metodo di assemblaggio, comune in Champagne, consente di controllare con precisione il colore e apporta frutto rosso e struttura.</p><p>Dopo la presa di spuma in bottiglia, il vino riposa sui lieviti per un periodo prolungato. Il risultato è un rosé dal colore delicato e dal profilo vinoso, in cui la freschezza del frutto rosso convive con le note evolutive tipiche dello stile della maison. Si presta sia come aperitivo sia a tavola.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Color salmón pálido. Aromas de fresa, frambuesa, cereza y notas de bollería y especias. En boca es fresco y vinoso, con burbuja fina y final persistente.",
+    "en": "Pale salmon colour. Aromas of strawberry, raspberry, cherry and notes of pastry and spice. Fresh and vinous on the palate, with fine bubbles and a persistent finish.",
+    "fr": "Robe saumon pâle. Arômes de fraise, framboise, cerise et notes de viennoiserie et d’épices. Bouche fraîche et vineuse, à la bulle fine et à la finale persistante.",
+    "it": "Colore salmone tenue. Aromi di fragola, lampone, ciliegia e note di pasticceria e spezie. In bocca è fresco e vinoso, con perlage fine e finale persistente."
+  },
   "pairing": {
-    "es": "Aperitivo, mariscos, fritos, pescados",
-    "en": "Aperitif, shellfish, fried food, fish",
-    "fr": "Apéritif, fruits de mer, fritures, poissons",
-    "it": "Aperitivo, frutti di mare, fritture, pesce"
+    "es": "Aperitivo, salmón y atún, cocina japonesa, pato, postres de frutos rojos poco dulces",
+    "en": "Aperitif, salmon and tuna, Japanese cuisine, duck, lightly sweet red-berry desserts",
+    "fr": "Apéritif, saumon et thon, cuisine japonaise, canard, desserts aux fruits rouges peu sucrés",
+    "it": "Aperitivo, salmone e tonno, cucina giapponese, anatra, dessert ai frutti rossi poco dolci"
   },
   "serve": {
-    "es": "6-8 °C, copa de espumoso",
-    "en": "6-8 °C, sparkling wine glass",
-    "fr": "6-8 °C, verre à vin effervescent",
-    "it": "6-8 °C, calice da spumante"
+    "es": "8-10 °C, copa de vino blanco o tulipa",
+    "en": "8-10 °C, white wine or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da vino bianco o tulipano"
   },
   "search": "Bollinger Brut Rosé Bollinger",
-  "brief": true,
   "source": "decantalo"
 }

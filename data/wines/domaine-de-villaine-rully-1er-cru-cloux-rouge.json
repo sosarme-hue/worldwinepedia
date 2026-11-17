@@ -7,36 +7,45 @@
   "country": "francia",
   "appellation": "AOC Rully Premier Cru",
   "type": "tinto",
-  "category": null,
+  "category": {
+    "es": "Premier Cru",
+    "en": "Premier Cru",
+    "fr": "Premier Cru",
+    "it": "Premier Cru"
+  },
   "grapes": [
     "pinot-noir"
   ],
   "summary": {
-    "es": "Domaine de Villaine Rully 1er Cru Cloux Rouge es un vino tinto de Domaine de Villaine, con la denominación AOC Rully Premier Cru, en Francia.",
-    "en": "Domaine de Villaine Rully 1er Cru Cloux Rouge is a red wine from Domaine de Villaine, made under the AOC Rully Premier Cru appellation in France.",
-    "fr": "Domaine de Villaine Rully 1er Cru Cloux Rouge est un vin rouge de Domaine de Villaine, élaboré sous l’appellation AOC Rully Premier Cru (France).",
-    "it": "Domaine de Villaine Rully 1er Cru Cloux Rouge è un vino rosso di Domaine de Villaine, prodotto nella denominazione AOC Rully Premier Cru (Francia)."
+    "es": "Rully Premier Cru tinto de Pinot Noir procedente de Les Cloux, elaborado por el Domaine de Villaine, la finca de Bouzeron fundada por Aubert y Pamela de Villaine.",
+    "en": "A red Rully Premier Cru from Pinot Noir sourced from Les Cloux, made by Domaine de Villaine, the Bouzeron estate founded by Aubert and Pamela de Villaine.",
+    "fr": "Rully premier cru rouge de pinot noir issu des Cloux, élaboré par le Domaine de Villaine, la propriété de Bouzeron fondée par Aubert et Pamela de Villaine.",
+    "it": "Rully Premier Cru rosso da Pinot Noir proveniente da Les Cloux, prodotto dal Domaine de Villaine, la tenuta di Bouzeron fondata da Aubert e Pamela de Villaine."
   },
   "body": {
-    "es": "<p>Se elabora con Pinot Noir. Tiene crianza en madera. Su graduación es de 13,5 % vol.</p><p>Dominio de Bouzeron, en la Côte Chalonnaise, fundado por Aubert y Pamela de Villaine y conocido por sus blancos de Aligoté de la denominación Bouzeron.</p>",
-    "en": "<p>It is made from Pinot Noir. It is aged in wood. It has 13.5% ABV.</p><p>Domaine in Bouzeron, in the Côte Chalonnaise, founded by Aubert and Pamela de Villaine and known for its Aligoté whites from the Bouzeron appellation.</p>",
-    "fr": "<p>Il est élaboré à partir de Pinot Noir. Il est élevé en bois. Il titre 13,5 % vol.</p><p>Domaine de Bouzeron, dans la Côte chalonnaise, fondé par Aubert et Pamela de Villaine et connu pour ses blancs d’aligoté de l’appellation Bouzeron.</p>",
-    "it": "<p>È prodotto con Pinot Nero. È affinato in legno. Ha 13,5% vol.</p><p>Domaine di Bouzeron, nella Côte Chalonnaise, fondato da Aubert e Pamela de Villaine e noto per i suoi bianchi di Aligoté della denominazione Bouzeron.</p>"
+    "es": "<p>El <strong>Domaine de Villaine</strong> se encuentra en <strong>Bouzeron</strong>, en el norte de la Côte Chalonnaise. Fue fundado en los años setenta por Aubert de Villaine, codirector durante décadas del Domaine de la Romanée-Conti, y su esposa Pamela. La finca, cultivada en agricultura biológica, contribuyó de forma decisiva a que Bouzeron obtuviera su propia denominación para la Aligoté. Hoy la dirige su sobrino, Pierre de Benoist.</p><p><strong>Rully</strong>, al sur de Bouzeron, es una denominación conocida tanto por sus blancos como por sus tintos, con un clima algo más fresco que el de la Côte d'Or y suelos de calizas y margas. <strong>Les Cloux</strong> es uno de sus premiers crus, situado en ladera.</p><p>El vino se elabora con <strong>Pinot Noir</strong>, con extracciones suaves y crianza en barricas de roble con una proporción moderada de madera nueva. El estilo de la casa privilegia la pureza de la fruta y la frescura. El resultado es un tinto de cuerpo ligero a medio, aromático y fino, que ofrece una expresión accesible de la Pinot Noir borgoñona y puede disfrutarse joven o tras algunos años de guarda.</p>",
+    "en": "<p><strong>Domaine de Villaine</strong> is located in <strong>Bouzeron</strong>, in the north of the Côte Chalonnaise. It was founded in the 1970s by Aubert de Villaine, for decades co-director of Domaine de la Romanée-Conti, and his wife Pamela. Farmed organically, the estate played a decisive role in Bouzeron obtaining its own appellation for Aligoté. It is now run by their nephew, Pierre de Benoist.</p><p><strong>Rully</strong>, south of Bouzeron, is an appellation known for both whites and reds, with a slightly cooler climate than the Côte d'Or and limestone and marl soils. <strong>Les Cloux</strong> is one of its premiers crus, on a hillside.</p><p>The wine is made from <strong>Pinot Noir</strong>, with gentle extraction and ageing in oak barrels with a moderate proportion of new wood. The house style favours purity of fruit and freshness. The result is a light- to medium-bodied, aromatic and fine red, offering an accessible expression of Burgundian Pinot Noir that can be enjoyed young or after a few years of ageing.</p>",
+    "fr": "<p>Le <strong>Domaine de Villaine</strong> se trouve à <strong>Bouzeron</strong>, dans le nord de la Côte chalonnaise. Il a été fondé dans les années 1970 par Aubert de Villaine, longtemps codirecteur du Domaine de la Romanée-Conti, et son épouse Pamela. Cultivé en agriculture biologique, il a joué un rôle décisif dans l'obtention par Bouzeron de sa propre appellation pour l'aligoté. Il est aujourd'hui dirigé par leur neveu, Pierre de Benoist.</p><p><strong>Rully</strong>, au sud de Bouzeron, est une appellation connue autant pour ses blancs que pour ses rouges, au climat un peu plus frais que celui de la Côte-d'Or et aux sols de calcaires et de marnes. <strong>Les Cloux</strong> est l'un de ses premiers crus, situé en coteau.</p><p>Le vin est issu de <strong>pinot noir</strong>, avec des extractions douces et un élevage en fûts de chêne comprenant une proportion modérée de bois neuf. Le style de la maison privilégie la pureté du fruit et la fraîcheur. Il en résulte un rouge léger à moyennement corsé, aromatique et fin, qui offre une expression accessible du pinot noir bourguignon et peut se boire jeune ou après quelques années de garde.</p>",
+    "it": "<p>Il <strong>Domaine de Villaine</strong> si trova a <strong>Bouzeron</strong>, nel nord della Côte Chalonnaise. Fu fondato negli anni Settanta da Aubert de Villaine, per decenni codirettore del Domaine de la Romanée-Conti, e dalla moglie Pamela. Coltivata in biologico, la tenuta ha avuto un ruolo decisivo nell'ottenimento da parte di Bouzeron di una propria denominazione per l'Aligoté. Oggi è guidata dal nipote, Pierre de Benoist.</p><p><strong>Rully</strong>, a sud di Bouzeron, è una denominazione nota sia per i bianchi sia per i rossi, con un clima un po' più fresco di quello della Côte d'Or e suoli di calcari e marne. <strong>Les Cloux</strong> è uno dei suoi premier cru, situato in collina.</p><p>Il vino è prodotto con <strong>Pinot Noir</strong>, con estrazioni delicate e affinamento in botti di rovere con una quota moderata di legno nuovo. Lo stile della casa privilegia la purezza del frutto e la freschezza. Ne risulta un rosso di corpo leggero-medio, aromatico e fine, che offre un'espressione accessibile del Pinot Noir borgognone e può essere goduto giovane o dopo qualche anno di affinamento.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo rubí claro. Aromas de cereza, frambuesa, flores y notas especiadas suaves. Boca ligera y fresca, de tanino fino y final afrutado.",
+    "en": "Light ruby red. Aromas of cherry, raspberry, flowers and gentle spicy notes. Light, fresh palate with fine tannins and a fruity finish.",
+    "fr": "Rubis clair. Arômes de cerise, de framboise, de fleurs et notes épicées discrètes. Bouche légère et fraîche, aux tanins fins et à la finale fruitée.",
+    "it": "Rosso rubino chiaro. Aromi di ciliegia, lampone, fiori e lievi note speziate. Bocca leggera e fresca, dal tannino fine e finale fruttato."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Ave asada, embutidos, terrinas, pescados grasos, quesos suaves",
+    "en": "Roast poultry, cured meats, terrines, oily fish, mild cheeses",
+    "fr": "Volaille rôtie, charcuterie, terrines, poissons gras, fromages doux",
+    "it": "Pollame arrosto, salumi, terrine, pesce grasso, formaggi delicati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "14-16 °C, copa amplia tipo Borgoña",
+    "en": "14-16 °C, large Burgundy glass",
+    "fr": "14-16 °C, verre ample de type bourguignon",
+    "it": "14-16 °C, calice ampio tipo Borgogna"
   },
   "search": "Domaine de Villaine Rully 1er Cru Cloux Rouge Domaine de Villaine",
-  "brief": true,
   "source": "decantalo"
 }

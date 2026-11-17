@@ -8,25 +8,34 @@
   "appellation": "AOC Bandol",
   "type": "rosado",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "monastrell",
+    "cinsault",
+    "garnacha"
+  ],
   "summary": {
-    "es": "Château Romassan Coeur de Grain es un vino rosado de Domaines Ott, con la denominación AOC Bandol, en Francia.",
-    "en": "Château Romassan Coeur de Grain is a rosé wine from Domaines Ott, made under the AOC Bandol appellation in France.",
-    "fr": "Château Romassan Coeur de Grain est un vin rosé de Domaines Ott, élaboré sous l’appellation AOC Bandol (France).",
-    "it": "Château Romassan Coeur de Grain è un vino rosato di Domaines Ott, prodotto nella denominazione AOC Bandol (Francia)."
+    "es": "Rosado de Bandol de Château Romassan, la finca de Domaines Ott en Le Castellet, a base de Mourvèdre con Cinsault y Garnacha.",
+    "en": "A Bandol rosé from Château Romassan, Domaines Ott's estate in Le Castellet, based on Mourvèdre with Cinsault and Grenache.",
+    "fr": "Rosé de Bandol de Château Romassan, le domaine des Domaines Ott au Castellet, à base de mourvèdre avec cinsault et grenache.",
+    "it": "Rosato di Bandol di Château Romassan, la tenuta di Domaines Ott a Le Castellet, a base di Mourvèdre con Cinsault e Grenache."
   },
   "body": {
-    "es": "<p>Su graduación es de 12,5 % vol.</p><p>Casa provenzal fundada por Marcel Ott a comienzos del siglo XX, pionera del rosado de calidad y propiedad de Louis Roederer desde 2004.</p><p>Bandol, en la costa provenzal al oeste de Toulon, es la denominación de referencia de la Mourvèdre. Sus tintos, estructurados y de larga guarda, se acompañan de rosados de buena estructura y de algunos blancos.</p>",
-    "en": "<p>It has 12.5% ABV.</p><p>Provençal house founded by Marcel Ott in the early 20th century, a pioneer of quality rosé and owned by Louis Roederer since 2004.</p><p>Bandol, on the Provençal coast west of Toulon, is the benchmark appellation for Mourvèdre. Its structured, long-lived reds are joined by well-structured rosés and some whites.</p>",
-    "fr": "<p>Il titre 12,5 % vol.</p><p>Maison provençale fondée par Marcel Ott au début du XXe siècle, pionnière du rosé de qualité et propriété de Louis Roederer depuis 2004.</p><p>Bandol, sur la côte provençale à l'ouest de Toulon, est l'appellation de référence du mourvèdre. Ses rouges structurés et de longue garde sont accompagnés de rosés charpentés et de quelques blancs.</p>",
-    "it": "<p>Ha 12,5% vol.</p><p>Casa provenzale fondata da Marcel Ott all’inizio del Novecento, pioniera del rosato di qualità e di proprietà di Louis Roederer dal 2004.</p><p>Bandol, sulla costa provenzale a ovest di Tolone, è la denominazione di riferimento del Mourvèdre. I suoi rossi strutturati e longevi sono affiancati da rosati di buona struttura e da alcuni bianchi.</p>"
+    "es": "<p><strong>Domaines Ott</strong> es una casa provenzal fundada por Marcel Ott a comienzos del siglo XX y considerada una de las pioneras del rosado de calidad. Hoy pertenece a Louis Roederer y reúne tres propiedades: Château de Selle y Clos Mireille, en Côtes de Provence, y <strong>Château Romassan</strong>, en <strong>Bandol</strong>, en el municipio de Le Castellet.</p><p>En Romassan, los viñedos se disponen en terrazas sobre suelos calcáreos y arcillosos, bajo un clima soleado y ventilado por las brisas marinas. Como corresponde a Bandol, el ensamblaje se basa en la <strong>Mourvèdre</strong>, que aporta estructura, completada con <strong>Cinsault</strong> y <strong>Garnacha</strong>, que dan finura y fruta.</p><p><strong>Cœur de Grain</strong>, «corazón del grano», es el nombre del rosado de la finca; como es habitual en los rosados pálidos de la región, se elabora limitando el contacto del mosto con los hollejos. El vino, de color muy pálido, se presenta en la característica botella de la casa. Es un rosado seco, delicado pero con el cuerpo propio de Bandol, adecuado tanto para el aperitivo como para la mesa.</p>",
+    "en": "<p><strong>Domaines Ott</strong> is a Provençal house founded by Marcel Ott in the early 20th century and regarded as one of the pioneers of quality rosé. Today it belongs to Louis Roederer and comprises three estates: Château de Selle and Clos Mireille in Côtes de Provence, and <strong>Château Romassan</strong> in <strong>Bandol</strong>, in the commune of Le Castellet.</p><p>At Romassan the vineyards are laid out on terraces over limestone and clay soils, under a sunny climate ventilated by sea breezes. As befits Bandol, the blend is based on <strong>Mourvèdre</strong>, which brings structure, complemented by <strong>Cinsault</strong> and <strong>Grenache</strong>, which add finesse and fruit.</p><p><strong>Cœur de Grain</strong>, \"heart of the berry\", is the name of the estate's rosé; as is usual for the region's pale rosés, it is made by limiting the contact between the juice and the skins. The very pale wine is presented in the house's distinctive bottle. It is a dry, delicate rosé with the body typical of Bandol, suited both to the aperitif and to the table.</p>",
+    "fr": "<p><strong>Domaines Ott</strong> est une maison provençale fondée par Marcel Ott au début du XXe siècle et considérée comme l'une des pionnières du rosé de qualité. Elle appartient aujourd'hui à Louis Roederer et réunit trois propriétés : Château de Selle et Clos Mireille, en Côtes de Provence, et <strong>Château Romassan</strong>, à <strong>Bandol</strong>, sur la commune du Castellet.</p><p>À Romassan, les vignes sont disposées en restanques sur des sols calcaires et argileux, sous un climat ensoleillé et ventilé par les brises marines. Comme il se doit à Bandol, l'assemblage repose sur le <strong>mourvèdre</strong>, qui apporte la structure, complété par le <strong>cinsault</strong> et le <strong>grenache</strong>, qui donnent finesse et fruit.</p><p><strong>Cœur de Grain</strong> est le nom du rosé du domaine ; comme il est d'usage pour les rosés pâles de la région, il est élaboré en limitant le contact du moût avec les pellicules. Le vin, très pâle, est présenté dans la bouteille caractéristique de la maison. C'est un rosé sec, délicat mais doté du corps propre à Bandol, adapté à l'apéritif comme à la table.</p>",
+    "it": "<p><strong>Domaines Ott</strong> è una casa provenzale fondata da Marcel Ott all'inizio del Novecento e considerata una delle pioniere del rosato di qualità. Oggi appartiene a Louis Roederer e riunisce tre proprietà: Château de Selle e Clos Mireille, in Côtes de Provence, e <strong>Château Romassan</strong>, a <strong>Bandol</strong>, nel comune di Le Castellet.</p><p>A Romassan i vigneti sono disposti su terrazze con suoli calcarei e argillosi, sotto un clima soleggiato e ventilato dalle brezze marine. Come si conviene a Bandol, l'uvaggio si basa sul <strong>Mourvèdre</strong>, che apporta struttura, completato da <strong>Cinsault</strong> e <strong>Grenache</strong>, che danno finezza e frutto.</p><p><strong>Cœur de Grain</strong>, «cuore dell'acino», è il nome del rosato della tenuta; come d'uso per i rosati tenui della regione, viene prodotto limitando il contatto del mosto con le bucce. Il vino, molto tenue, è presentato nella caratteristica bottiglia della casa. È un rosato secco, delicato ma con il corpo tipico di Bandol, adatto sia all'aperitivo sia alla tavola.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rosa muy pálido. Aromas de melocotón blanco, cítricos, pequeños frutos rojos y notas florales. Boca seca y fresca, con buena textura y final ligeramente salino.",
+    "en": "Very pale pink. Aromas of white peach, citrus, small red berries and floral notes. Dry, fresh palate with good texture and a slightly saline finish.",
+    "fr": "Rose très pâle. Arômes de pêche blanche, d'agrumes, de petits fruits rouges et notes florales. Bouche sèche et fraîche, à la belle texture et à la finale légèrement saline.",
+    "it": "Rosa molto tenue. Aromi di pesca bianca, agrumi, piccoli frutti rossi e note floreali. Bocca secca e fresca, di buona trama e con finale leggermente sapido."
+  },
   "pairing": {
-    "es": "Aperitivo, ensaladas, arroces, pescados",
-    "en": "Aperitif, salads, rice dishes, fish",
-    "fr": "Apéritif, salades, plats de riz, poissons",
-    "it": "Aperitivo, insalate, risotti, pesce"
+    "es": "Aperitivo, pescados a la plancha, marisco, ensaladas mediterráneas, cocina asiática suave",
+    "en": "Aperitif, grilled fish, shellfish, Mediterranean salads, mild Asian cuisine",
+    "fr": "Apéritif, poissons à la plancha, fruits de mer, salades méditerranéennes, cuisine asiatique douce",
+    "it": "Aperitivo, pesce alla piastra, frutti di mare, insalate mediterranee, cucina asiatica delicata"
   },
   "serve": {
     "es": "8-10 °C, copa de vino blanco",
@@ -35,6 +44,5 @@
     "it": "8-10 °C, calice da vino bianco"
   },
   "search": "Château Romassan Coeur de Grain Domaines Ott",
-  "brief": true,
   "source": "decantalo"
 }

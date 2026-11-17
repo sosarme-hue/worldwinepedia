@@ -6,35 +6,41 @@
   "region": "barolo",
   "country": "italia",
   "appellation": "DOCG Barolo",
-  "type": "espumoso",
+  "type": "tinto",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "nebbiolo"
+  ],
   "summary": {
-    "es": "Cavallotto Barolo Bricco Boschis es un vino espumoso de Cavallotto, con la denominación DOCG Barolo, en Italia.",
-    "en": "Cavallotto Barolo Bricco Boschis is a sparkling wine from Cavallotto, made under the DOCG Barolo appellation in Italy.",
-    "fr": "Cavallotto Barolo Bricco Boschis est un vin effervescent de Cavallotto, élaboré sous l’appellation DOCG Barolo (Italie).",
-    "it": "Cavallotto Barolo Bricco Boschis è un vino spumante di Cavallotto, prodotto nella denominazione DOCG Barolo (Italia)."
+    "es": "Barolo de Nebbiolo de la familia Cavallotto, procedente de Bricco Boschis, la colina de Castiglione Falletto que rodea su bodega.",
+    "en": "Nebbiolo Barolo from the Cavallotto family, sourced from Bricco Boschis, the hill in Castiglione Falletto that surrounds their winery.",
+    "fr": "Barolo de nebbiolo de la famille Cavallotto, issu de Bricco Boschis, la colline de Castiglione Falletto qui entoure leur cave.",
+    "it": "Barolo di Nebbiolo della famiglia Cavallotto, proveniente da Bricco Boschis, la collina di Castiglione Falletto che circonda la loro cantina."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 14,5 % vol.</p><p>El Barolo, elaborado exclusivamente con Nebbiolo en las Langhe piamontesas, es uno de los grandes tintos de guarda de Italia. Fue una de las primeras DOCG del país, reconocida en 1980.</p>",
-    "en": "<p>It is aged in wood. It has 14.5% ABV.</p><p>Barolo, made exclusively from Nebbiolo in the Langhe hills of Piedmont, is one of Italy's great age-worthy reds. It was one of the country's first DOCGs, recognised in 1980.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 14,5 % vol.</p><p>Le Barolo, élaboré exclusivement à partir de nebbiolo dans les Langhe piémontaises, est l'un des grands rouges de garde d'Italie. Il fut l'une des premières DOCG du pays, reconnue en 1980.</p>",
-    "it": "<p>È affinato in legno. Ha 14,5% vol.</p><p>Il Barolo, prodotto esclusivamente con Nebbiolo nelle Langhe piemontesi, è uno dei grandi rossi da invecchiamento d'Italia. È stato tra le prime DOCG del paese, riconosciuta nel 1980.</p>"
+    "es": "<p><strong>Cavallotto</strong> es una bodega familiar de <strong>Castiglione Falletto</strong>, en el corazón de la zona del Barolo, conocida también como Tenuta Bricco Boschis. La familia posee prácticamente en exclusiva la colina de <strong>Bricco Boschis</strong>, una de las menciones geográficas adicionales (MGA) del municipio, donde se encuentran la bodega y la mayor parte de sus viñedos.</p><p>La casa es una de las referencias del <strong>Barolo tradicional</strong>: fermentaciones con maceraciones largas y crianza en grandes toneles de roble de Eslavonia, sin barricas pequeñas. Fue además una de las primeras de la zona en abandonar los herbicidas y los productos de síntesis en el viñedo.</p><p>Este Barolo se elabora exclusivamente con <strong>Nebbiolo</strong> de Bricco Boschis y, como exige la denominación, envejece al menos 38 meses, 18 de ellos en madera. Con 14,5 % vol., es un tinto de estructura firme, taninos marcados y gran capacidad de guarda, que necesita años de botella y una decantación previa.</p><p>Bricco Boschis se sitúa en la parte de Castiglione Falletto orientada hacia Serralunga, con suelos de margas calcáreas que dan Barolo de taninos firmes y gran longevidad.</p>",
+    "en": "<p><strong>Cavallotto</strong> is a family winery in <strong>Castiglione Falletto</strong>, at the heart of the Barolo zone, also known as Tenuta Bricco Boschis. The family owns practically the whole of the <strong>Bricco Boschis</strong> hill, one of the commune’s additional geographical mentions (MGA), where the winery and most of its vineyards are located.</p><p>The house is one of the benchmarks of <strong>traditional Barolo</strong>: fermentations with long macerations and ageing in large Slavonian oak casks, with no small barriques. It was also one of the first in the area to give up herbicides and synthetic products in the vineyard.</p><p>This Barolo is made exclusively from <strong>Nebbiolo</strong> from Bricco Boschis and, as the appellation requires, is aged for at least 38 months, 18 of them in wood. At 14.5% ABV, it is a red of firm structure, marked tannins and great ageing potential, which needs years in bottle and decanting beforehand.</p><p>Bricco Boschis lies in the part of Castiglione Falletto facing Serralunga, with calcareous marl soils that give Barolo with firm tannins and great longevity.</p>",
+    "fr": "<p><strong>Cavallotto</strong> est un domaine familial de <strong>Castiglione Falletto</strong>, au cœur de la zone du Barolo, connu aussi sous le nom de Tenuta Bricco Boschis. La famille possède pratiquement en exclusivité la colline de <strong>Bricco Boschis</strong>, l’une des mentions géographiques additionnelles (MGA) de la commune, où se trouvent la cave et la plupart de ses vignes.</p><p>La maison est l’une des références du <strong>Barolo traditionnel</strong> : fermentations avec de longues macérations et élevage en grands foudres de chêne de Slavonie, sans petites barriques. Elle fut aussi l’une des premières de la région à renoncer aux herbicides et aux produits de synthèse dans les vignes.</p><p>Ce Barolo est élaboré exclusivement avec du <strong>nebbiolo</strong> de Bricco Boschis et, comme l’exige l’appellation, vieillit au moins 38 mois, dont 18 sous bois. Titrant 14,5 % vol., c’est un rouge à la structure ferme, aux tanins marqués et d’un grand potentiel de garde, qui demande des années de bouteille et un passage en carafe.</p><p>Bricco Boschis se situe dans la partie de Castiglione Falletto tournée vers Serralunga, sur des sols de marnes calcaires qui donnent des Barolo aux tanins fermes et d’une grande longévité.</p>",
+    "it": "<p><strong>Cavallotto</strong> è un’azienda di famiglia di <strong>Castiglione Falletto</strong>, nel cuore della zona del Barolo, conosciuta anche come Tenuta Bricco Boschis. La famiglia possiede praticamente in esclusiva la collina di <strong>Bricco Boschis</strong>, una delle menzioni geografiche aggiuntive (MGA) del comune, dove si trovano la cantina e la maggior parte dei vigneti.</p><p>La casa è uno dei riferimenti del <strong>Barolo tradizionale</strong>: fermentazioni con lunghe macerazioni e affinamento in grandi botti di rovere di Slavonia, senza barrique. È stata inoltre una delle prime della zona ad abbandonare diserbanti e prodotti di sintesi in vigna.</p><p>Questo Barolo è prodotto esclusivamente con <strong>Nebbiolo</strong> di Bricco Boschis e, come richiede la denominazione, invecchia almeno 38 mesi, di cui 18 in legno. Con 14,5% vol., è un rosso di struttura salda, tannini marcati e grande longevità, che ha bisogno di anni di bottiglia e di una decantazione preventiva.</p><p>Bricco Boschis si trova nella parte di Castiglione Falletto rivolta verso Serralunga, con suoli di marne calcaree che danno Barolo dai tannini decisi e di grande longevità.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo granate de capa media con reflejos anaranjados. Aromas de cereza, rosa marchita, regaliz, especias y notas terrosas. En boca es firme y tenso, con taninos marcados, acidez viva y un final largo.",
+    "en": "Medium-intensity garnet red with orange glints. Aromas of cherry, faded rose, liquorice, spice and earthy notes. Firm and taut on the palate, with marked tannins, lively acidity and a long finish.",
+    "fr": "Rouge grenat d’intensité moyenne aux reflets orangés. Arômes de cerise, de rose fanée, de réglisse, d’épices et notes terreuses. En bouche, il est ferme et tendu, aux tanins marqués et à l’acidité vive, avec une finale longue.",
+    "it": "Rosso granato di media intensità con riflessi aranciati. Aromi di ciliegia, rosa appassita, liquirizia, spezie e note terrose. In bocca è deciso e teso, con tannini marcati, acidità viva e finale lungo."
+  },
   "pairing": {
-    "es": "Aperitivo, mariscos, fritos, pescados",
-    "en": "Aperitif, shellfish, fried food, fish",
-    "fr": "Apéritif, fruits de mer, fritures, poissons",
-    "it": "Aperitivo, frutti di mare, fritture, pesce"
+    "es": "Tajarin con trufa, carnes estofadas al vino, caza, quesos curados",
+    "en": "Tajarin with truffle, meat braised in wine, game, aged cheeses",
+    "fr": "Tajarin à la truffe, viandes braisées au vin, gibier, fromages affinés",
+    "it": "Tajarin al tartufo, brasati al vino, selvaggina, formaggi stagionati"
   },
   "serve": {
-    "es": "6-8 °C, copa de espumoso",
-    "en": "6-8 °C, sparkling wine glass",
-    "fr": "6-8 °C, verre à vin effervescent",
-    "it": "6-8 °C, calice da spumante"
+    "es": "16-18 °C, decantado con antelación, copa amplia de tipo borgoña",
+    "en": "16-18 °C, decanted in advance, large Burgundy-style glass",
+    "fr": "16-18 °C, carafé à l’avance, grand verre de type bourgogne",
+    "it": "16-18 °C, decantato in anticipo, ampio calice tipo borgogna"
   },
   "search": "Cavallotto Barolo Bricco Boschis Cavallotto",
-  "brief": true,
   "source": "decantalo"
 }

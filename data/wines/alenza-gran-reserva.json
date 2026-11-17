@@ -13,33 +13,39 @@
     "fr": "Gran Reserva",
     "it": "Gran Reserva"
   },
-  "grapes": [],
+  "grapes": [
+    "tempranillo"
+  ],
   "summary": {
-    "es": "Alenza Gran Reserva es un vino tinto de Condado de Haza, con la denominación DO Ribera del Duero, en España.",
-    "en": "Alenza Gran Reserva is a red wine from Condado de Haza, made under the DO Ribera del Duero appellation in Spain.",
-    "fr": "Alenza Gran Reserva est un vin rouge de Condado de Haza, élaboré sous l’appellation DO Ribera del Duero (Espagne).",
-    "it": "Alenza Gran Reserva è un vino rosso di Condado de Haza, prodotto nella denominazione DO Ribera del Duero (Spagna)."
+    "es": "Gran Reserva de Tinto Fino de Condado de Haza, la finca de la familia de Alejandro Fernández (Tinto Pesquera) en Roa, en la Ribera del Duero.",
+    "en": "Tinto Fino Gran Reserva from Condado de Haza, the estate of Alejandro Fernández's family (Tinto Pesquera) in Roa, in Ribera del Duero.",
+    "fr": "Gran Reserva de tinto fino de Condado de Haza, le domaine de la famille d'Alejandro Fernández (Tinto Pesquera) à Roa, dans la Ribera del Duero.",
+    "it": "Gran Reserva di Tinto Fino di Condado de Haza, la tenuta della famiglia di Alejandro Fernández (Tinto Pesquera) a Roa, nella Ribera del Duero."
   },
   "body": {
-    "es": "<p>Lleva la mención Gran Reserva. Su graduación es de 13,5 % vol.</p><p>Ribera del Duero es una denominación de origen de Castilla y León, creada en 1982, que se extiende a lo largo del río Duero en una meseta de gran altitud. Es conocida por sus tintos de Tempranillo, llamada aquí Tinto Fino o Tinta del País.</p>",
-    "en": "<p>It carries the Gran Reserva designation. It has 13.5% ABV.</p><p>Ribera del Duero is a designation of origin in Castilla y León, created in 1982, that runs along the Duero river on a high plateau. It is known for its reds made from Tempranillo, called Tinto Fino or Tinta del País locally.</p>",
-    "fr": "<p>Il porte la mention Gran Reserva. Il titre 13,5 % vol.</p><p>La Ribera del Duero est une dénomination d'origine de Castille-et-León, créée en 1982, qui s'étend le long du Douro sur un haut plateau. Elle est connue pour ses rouges de tempranillo, appelé ici tinto fino ou tinta del país.</p>",
-    "it": "<p>Riporta la menzione Gran Reserva. Ha 13,5% vol.</p><p>Ribera del Duero è una denominazione di origine della Castiglia e León, istituita nel 1982, che si estende lungo il fiume Duero su un altopiano elevato. È nota per i rossi di Tempranillo, chiamato qui Tinto Fino o Tinta del País.</p>"
+    "es": "<p><strong>Condado de Haza</strong> es la finca que <strong>Alejandro Fernández</strong>, el creador de Tinto Pesquera y una de las figuras clave del despegue de la Ribera del Duero, puso en marcha en los años noventa en el término de Roa (Burgos), con un gran viñedo en torno a la bodega, a orillas del Duero.</p><p><strong>Alenza</strong> es el vino de más larga crianza de la finca y solo se elabora en añadas seleccionadas. Como todos los vinos de la casa, se hace exclusivamente con <strong>Tinto Fino</strong>, la variante local del Tempranillo. La mención <strong>Gran Reserva</strong> exige en la Ribera del Duero al menos sesenta meses de envejecimiento, de los que como mínimo dos años transcurren en barrica de roble.</p><p>Con unos 13,5 % vol., es un tinto de estilo clásico, en el que la fruta madura del Tinto Fino se combina con los aromas terciarios de la larga crianza, de taninos pulidos y gran persistencia. Conviene decantarlo con cuidado para separar posibles posos.</p>",
+    "en": "<p><strong>Condado de Haza</strong> is the estate that <strong>Alejandro Fernández</strong>, creator of Tinto Pesquera and one of the key figures in the rise of Ribera del Duero, set up in the 1990s near Roa (Burgos), with a large vineyard surrounding the winery on the banks of the Duero.</p><p><strong>Alenza</strong> is the estate's longest-aged wine and is made only in selected vintages. Like all the house's wines, it is made exclusively from <strong>Tinto Fino</strong>, the local variant of Tempranillo. In Ribera del Duero the <strong>Gran Reserva</strong> designation requires at least sixty months of ageing, at least two years of them in oak barrels.</p><p>At around 13.5% ABV, it is a classic-style red in which the ripe fruit of Tinto Fino combines with the tertiary aromas of long ageing, with polished tannins and great persistence. It is best decanted carefully to separate any sediment.</p>",
+    "fr": "<p><strong>Condado de Haza</strong> est le domaine qu'<strong>Alejandro Fernández</strong>, créateur de Tinto Pesquera et l'une des figures clés de l'essor de la Ribera del Duero, a lancé dans les années 1990 sur la commune de Roa (Burgos), avec un grand vignoble entourant la bodega, au bord du Douro.</p><p><strong>Alenza</strong> est le vin au plus long élevage du domaine et n'est élaboré que dans des millésimes sélectionnés. Comme tous les vins de la maison, il est fait exclusivement de <strong>tinto fino</strong>, variante locale du tempranillo. Dans la Ribera del Duero, la mention <strong>Gran Reserva</strong> impose au moins soixante mois de vieillissement, dont au minimum deux ans en barrique de chêne.</p><p>D'environ 13,5 % vol., c'est un rouge de style classique où le fruit mûr du tinto fino se mêle aux arômes tertiaires du long élevage, aux tanins polis et d'une grande persistance. Il convient de le carafer avec soin pour séparer d'éventuels dépôts.</p>",
+    "it": "<p><strong>Condado de Haza</strong> è la tenuta che <strong>Alejandro Fernández</strong>, creatore di Tinto Pesquera e una delle figure chiave dell'affermazione della Ribera del Duero, avviò negli anni Novanta nel comune di Roa (Burgos), con un grande vigneto intorno alla cantina, sulle rive del Duero.</p><p><strong>Alenza</strong> è il vino a più lungo affinamento della tenuta e viene prodotto solo in annate selezionate. Come tutti i vini della casa, è fatto esclusivamente con <strong>Tinto Fino</strong>, la variante locale del Tempranillo. Nella Ribera del Duero la menzione <strong>Gran Reserva</strong> richiede almeno sessanta mesi di invecchiamento, di cui almeno due anni in botte di rovere.</p><p>Con circa 13,5% vol., è un rosso di stile classico in cui il frutto maturo del Tinto Fino si unisce agli aromi terziari del lungo affinamento, con tannini levigati e grande persistenza. Conviene decantarlo con cura per separare eventuali depositi.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo granate con ribete teja. Aromas de fruta negra confitada, cuero, tabaco, especias y notas balsámicas. Boca sedosa y estructurada, de taninos pulidos y final largo.",
+    "en": "Garnet red with a brick rim. Aromas of candied black fruit, leather, tobacco, spice and balsamic notes. Silky, structured palate with polished tannins and a long finish.",
+    "fr": "Rouge grenat à reflets tuilés. Arômes de fruits noirs confits, de cuir, de tabac, d'épices et notes balsamiques. Bouche soyeuse et structurée, aux tanins polis et à la finale longue.",
+    "it": "Rosso granato con unghia aranciata. Aromi di frutta nera candita, cuoio, tabacco, spezie e note balsamiche. Bocca setosa e strutturata, tannini levigati e finale lungo."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Lechazo asado, caza mayor, carnes guisadas, setas, quesos curados de oveja",
+    "en": "Roast milk-fed lamb, large game, braised meat, mushrooms, aged sheep's cheeses",
+    "fr": "Agneau de lait rôti, gros gibier, viandes braisées, champignons, fromages de brebis affinés",
+    "it": "Agnello da latte arrosto, selvaggina di grossa taglia, carni brasate, funghi, pecorini stagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
   },
   "search": "Alenza Gran Reserva Condado de Haza",
-  "brief": true,
   "source": "decantalo"
 }

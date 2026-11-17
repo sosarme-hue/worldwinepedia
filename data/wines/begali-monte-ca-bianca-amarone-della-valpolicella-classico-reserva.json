@@ -7,34 +7,46 @@
   "country": "italia",
   "appellation": "DOC Amarone della Valpolicella Classico",
   "type": "tinto",
-  "category": null,
-  "grapes": [],
+  "category": {
+    "es": "Riserva",
+    "en": "Riserva",
+    "fr": "Riserva",
+    "it": "Riserva"
+  },
+  "grapes": [
+    "corvina",
+    "rondinella"
+  ],
   "summary": {
-    "es": "Begali Monte Cà Bianca Amarone della Valpolicella Classico Reserva es un vino tinto de Begali Lorenzo, con la denominación DOC Amarone della Valpolicella Classico, en Italia.",
-    "en": "Begali Monte Cà Bianca Amarone della Valpolicella Classico Reserva is a red wine from Begali Lorenzo, made under the DOC Amarone della Valpolicella Classico appellation in Italy.",
-    "fr": "Begali Monte Cà Bianca Amarone della Valpolicella Classico Reserva est un vin rouge de Begali Lorenzo, élaboré sous l’appellation DOC Amarone della Valpolicella Classico (Italie).",
-    "it": "Begali Monte Cà Bianca Amarone della Valpolicella Classico Reserva è un vino rosso di Begali Lorenzo, prodotto nella denominazione DOC Amarone della Valpolicella Classico (Italia)."
+    "es": "Amarone della Valpolicella Classico Riserva de Begali procedente del viñedo Monte Cà Bianca, el vino de mayor ambición de la bodega, con una crianza prolongada.",
+    "en": "Amarone della Valpolicella Classico Riserva from Begali, from the Monte Cà Bianca vineyard, the winery’s most ambitious wine, with extended ageing.",
+    "fr": "Amarone della Valpolicella Classico Riserva de Begali issu du vignoble de Monte Cà Bianca, le vin le plus ambitieux du domaine, au long élevage.",
+    "it": "Amarone della Valpolicella Classico Riserva di Begali proveniente dal vigneto Monte Cà Bianca, il vino più ambizioso dell’azienda, con un lungo affinamento."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 16,5 % vol.</p>",
-    "en": "<p>It is aged in wood. It has 16.5% ABV.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 16,5 % vol.</p>",
-    "it": "<p>È affinato in legno. Ha 16,5% vol.</p>"
+    "es": "<p><strong>Begali Lorenzo</strong> es una pequeña bodega familiar de San Pietro in Cariano, en el corazón de la Valpolicella Classica, la zona histórica de colinas al noroeste de Verona. La familia cultiva sus propios viñedos en las laderas de la zona y elabora la gama clásica de la denominación, del Valpolicella al Amarone, con un estilo tradicional y cuidado.</p><p>El <strong>Amarone della Valpolicella</strong> se elabora sobre todo con Corvina, Corvinone y Rondinella. Tras la vendimia, los racimos se dejan secar durante varios meses en locales ventilados, el llamado appassimento, que concentra azúcares, aromas y taninos. El mosto resultante fermenta hasta quedar prácticamente seco, lo que explica su elevada graduación, y el vino pasa después una larga crianza en madera.</p><p><strong>Monte Cà Bianca</strong> es el nombre del viñedo del que procede este Amarone, que la familia embotella por separado como su selección más ambiciosa. La mención Riserva exige un periodo de crianza más largo que el del Amarone básico, de al menos cuatro años, y su graduación es de 16,5 % vol. Es un vino de gran concentración y estructura, con una larga vida por delante en botella.</p>",
+    "en": "<p><strong>Begali Lorenzo</strong> is a small family winery in San Pietro in Cariano, in the heart of Valpolicella Classica, the historic hill zone north-west of Verona. The family farms its own vineyards on the area’s slopes and makes the appellation’s classic range, from Valpolicella to Amarone, in a careful, traditional style.</p><p><strong>Amarone della Valpolicella</strong> is made mainly from Corvina, Corvinone and Rondinella. After harvest, the bunches are left to dry for several months in ventilated lofts, the process known as appassimento, which concentrates sugars, aromas and tannins. The resulting must ferments until practically dry, which explains its high alcohol, and the wine then undergoes long ageing in wood.</p><p><strong>Monte Cà Bianca</strong> is the name of the vineyard this Amarone comes from, which the family bottles separately as its most ambitious selection. The Riserva designation requires a longer ageing period than standard Amarone, of at least four years, and it has 16.5% ABV. It is a wine of great concentration and structure, with a long life ahead of it in bottle.</p>",
+    "fr": "<p><strong>Begali Lorenzo</strong> est un petit domaine familial de San Pietro in Cariano, au cœur de la Valpolicella Classica, la zone historique de collines au nord-ouest de Vérone. La famille cultive ses propres vignes sur les coteaux du secteur et élabore la gamme classique de l’appellation, du Valpolicella à l’Amarone, dans un style traditionnel et soigné.</p><p>L’<strong>Amarone della Valpolicella</strong> est élaboré principalement avec de la corvina, du corvinone et de la rondinella. Après la vendange, les grappes sèchent pendant plusieurs mois dans des locaux ventilés, l’appassimento, qui concentre sucres, arômes et tanins. Le moût obtenu fermente jusqu’à être pratiquement sec, ce qui explique son degré élevé, puis le vin connaît un long élevage en bois.</p><p><strong>Monte Cà Bianca</strong> est le nom du vignoble dont provient cet Amarone, que la famille met en bouteille séparément comme sa sélection la plus ambitieuse. La mention Riserva impose un élevage plus long que celui de l’Amarone de base, d’au moins quatre ans, et il titre 16,5 % vol. C’est un vin d’une grande concentration et d’une grande structure, avec une longue vie devant lui en bouteille.</p>",
+    "it": "<p><strong>Begali Lorenzo</strong> è una piccola azienda familiare di San Pietro in Cariano, nel cuore della Valpolicella Classica, la zona storica collinare a nord-ovest di Verona. La famiglia coltiva i propri vigneti sui pendii della zona e produce la gamma classica della denominazione, dal Valpolicella all’Amarone, con uno stile tradizionale e curato.</p><p>L’<strong>Amarone della Valpolicella</strong> si produce soprattutto con Corvina, Corvinone e Rondinella. Dopo la vendemmia, i grappoli vengono lasciati appassire per diversi mesi in locali ventilati, il cosiddetto appassimento, che concentra zuccheri, aromi e tannini. Il mosto ottenuto fermenta fino a risultare praticamente secco, il che spiega l’elevata gradazione, e il vino affronta poi un lungo affinamento in legno.</p><p><strong>Monte Cà Bianca</strong> è il nome del vigneto da cui proviene questo Amarone, che la famiglia imbottiglia separatamente come la sua selezione più ambiziosa. La menzione Riserva richiede un affinamento più lungo rispetto all’Amarone base, di almeno quattro anni, e ha una gradazione di 16,5% vol. È un vino di grande concentrazione e struttura, con una lunga vita davanti in bottiglia.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo granate intenso. Aromas de cereza en licor, ciruela pasa, especias, cacao y notas balsámicas. En boca es amplio, cálido y aterciopelado, con taninos maduros y final muy largo.",
+    "en": "Deep garnet red. Aromas of cherry liqueur, prune, spice, cocoa and balsamic notes. Broad, warm and velvety on the palate, with ripe tannins and a very long finish.",
+    "fr": "Rouge grenat intense. Arômes de cerise à l’eau-de-vie, pruneau, épices, cacao et notes balsamiques. En bouche, il est ample, chaleureux et velouté, aux tanins mûrs et à la finale très longue.",
+    "it": "Rosso granato intenso. Aromi di ciliegia sotto spirito, prugna secca, spezie, cacao e note balsamiche. In bocca è ampio, caldo e vellutato, con tannini maturi e finale molto lungo."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Brasato de ternera, caza, risotto all’Amarone, quesos muy curados",
+    "en": "Braised beef, game, risotto all’Amarone, long-aged cheeses",
+    "fr": "Bœuf braisé, gibier, risotto all’Amarone, fromages très affinés",
+    "it": "Brasato di manzo, selvaggina, risotto all’Amarone, formaggi molto stagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
   },
   "search": "Begali Monte Cà Bianca Amarone della Valpolicella Classico Reserva Begali Lorenzo",
-  "brief": true,
   "source": "decantalo"
 }

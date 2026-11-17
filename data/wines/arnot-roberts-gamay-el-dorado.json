@@ -8,33 +8,39 @@
   "appellation": "El Dorado",
   "type": "tinto",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "gamay"
+  ],
   "summary": {
-    "es": "Arnot-Roberts Gamay El Dorado es un vino tinto de Arnot-Roberts, con la denominación El Dorado, en Estados Unidos.",
-    "en": "Arnot-Roberts Gamay El Dorado is a red wine from Arnot-Roberts, made under the El Dorado appellation in United States.",
-    "fr": "Arnot-Roberts Gamay El Dorado est un vin rouge de Arnot-Roberts, élaboré sous l’appellation El Dorado (États-Unis).",
-    "it": "Arnot-Roberts Gamay El Dorado è un vino rosso di Arnot-Roberts, prodotto nella denominazione El Dorado (Stati Uniti)."
+    "es": "Gamay de Arnot-Roberts procedente del condado de El Dorado, en las estribaciones de Sierra Nevada, elaborado en un estilo ligero y fresco.",
+    "en": "Gamay from Arnot-Roberts sourced from El Dorado County, in the Sierra Nevada foothills, made in a light, fresh style.",
+    "fr": "Gamay d’Arnot-Roberts issu du comté d’El Dorado, dans les contreforts de la Sierra Nevada, élaboré dans un style léger et frais.",
+    "it": "Gamay di Arnot-Roberts proveniente dalla contea di El Dorado, ai piedi della Sierra Nevada, prodotto in uno stile leggero e fresco."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 12,5 % vol.</p>",
-    "en": "<p>It is aged in wood. It has 12.5% ABV.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 12,5 % vol.</p>",
-    "it": "<p>È affinato in legno. Ha 12,5% vol.</p>"
+    "es": "<p><strong>Arnot-Roberts</strong> es una pequeña bodega de Healdsburg, en el condado de Sonoma, fundada a comienzos de los años 2000 por dos amigos de la infancia, Duncan Arnot Meyers y Nathan Lee Roberts. Compran uva a viticultores de distintos viñedos de California, a menudo en zonas frescas o de altitud, y la vinifican por separado con poca intervención. Su estilo, de graduaciones moderadas, vendimias tempranas y uso discreto de la madera, se ha convertido en una referencia de la corriente que busca vinos californianos más frescos y ligeros.</p><p>La <strong>Gamay</strong>, la uva del Beaujolais, es una rareza en California. Arnot-Roberts la obtiene de viñedos del condado de <strong>El Dorado</strong>, en las estribaciones de Sierra Nevada (Sierra Foothills), donde la altitud modera el calor del verano y los suelos, con frecuencia graníticos o volcánicos, son pobres y bien drenados.</p><p>La elaboración se inspira en la de los crus del Beaujolais, con una parte de racimo entero y extracciones suaves, y el vino se cría en madera usada que no aporta aromas propios. El resultado es un tinto de color brillante y graduación moderada, aromático y jugoso, con taninos ligeros. Se disfruta joven y algo fresco.</p>",
+    "en": "<p><strong>Arnot-Roberts</strong> is a small winery in Healdsburg, Sonoma County, founded in the early 2000s by two childhood friends, Duncan Arnot Meyers and Nathan Lee Roberts. They buy grapes from growers in various California vineyards, often in cool or high-elevation areas, and vinify them separately with little intervention. Their style, with moderate alcohol, early picking and discreet use of oak, has become a reference for the movement seeking fresher, lighter Californian wines.</p><p><strong>Gamay</strong>, the grape of Beaujolais, is a rarity in California. Arnot-Roberts sources it from vineyards in <strong>El Dorado</strong> County, in the Sierra Nevada foothills (Sierra Foothills), where elevation tempers the summer heat and the soils, often granitic or volcanic, are poor and well drained.</p><p>Winemaking is inspired by that of the Beaujolais crus, with a share of whole bunches and gentle extraction, and the wine is aged in used oak that adds no aromas of its own. The result is a bright-coloured red of moderate alcohol, aromatic and juicy, with light tannins. It is enjoyed young and slightly cool.</p>",
+    "fr": "<p><strong>Arnot-Roberts</strong> est une petite winery de Healdsburg, dans le comté de Sonoma, fondée au début des années 2000 par deux amis d’enfance, Duncan Arnot Meyers et Nathan Lee Roberts. Ils achètent des raisins à des viticulteurs de différents vignobles californiens, souvent dans des secteurs frais ou d’altitude, et les vinifient séparément avec peu d’intervention. Leur style, aux degrés modérés, aux vendanges précoces et à l’usage discret du bois, est devenu une référence du courant qui recherche des vins californiens plus frais et plus légers.</p><p>Le <strong>gamay</strong>, cépage du Beaujolais, est une rareté en Californie. Arnot-Roberts le trouve dans des vignobles du comté d’<strong>El Dorado</strong>, dans les contreforts de la Sierra Nevada (Sierra Foothills), où l’altitude tempère la chaleur estivale et où les sols, souvent granitiques ou volcaniques, sont pauvres et bien drainés.</p><p>La vinification s’inspire de celle des crus du Beaujolais, avec une part de grappes entières et des extractions douces, et le vin est élevé en bois usagé qui n’apporte pas d’arômes propres. Il en résulte un rouge à la couleur brillante et au degré modéré, aromatique et juteux, aux tanins légers. Il se déguste jeune et un peu frais.</p>",
+    "it": "<p><strong>Arnot-Roberts</strong> è una piccola cantina di Healdsburg, nella contea di Sonoma, fondata all’inizio degli anni Duemila da due amici d’infanzia, Duncan Arnot Meyers e Nathan Lee Roberts. Acquistano uve da viticoltori di diversi vigneti della California, spesso in zone fresche o d’altura, e le vinificano separatamente con un intervento minimo. Il loro stile, con gradazioni moderate, vendemmie precoci e uso discreto del legno, è diventato un riferimento della corrente che cerca vini californiani più freschi e leggeri.</p><p>Il <strong>Gamay</strong>, l’uva del Beaujolais, è una rarità in California. Arnot-Roberts lo ricava da vigneti della contea di <strong>El Dorado</strong>, ai piedi della Sierra Nevada (Sierra Foothills), dove l’altitudine mitiga il caldo estivo e i suoli, spesso granitici o vulcanici, sono poveri e ben drenati.</p><p>La vinificazione si ispira a quella dei cru del Beaujolais, con una parte di grappoli interi ed estrazioni delicate, e il vino affina in legno usato che non apporta aromi propri. Il risultato è un rosso dal colore brillante e di gradazione moderata, aromatico e succoso, con tannini leggeri. Si gusta giovane e leggermente fresco.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo rubí brillante. Aromas de frambuesa, cereza, violeta y pimienta. En boca es ligero y vivo, con acidez fresca y taninos suaves.",
+    "en": "Bright ruby red. Aromas of raspberry, cherry, violet and pepper. Light and lively on the palate, with fresh acidity and soft tannins.",
+    "fr": "Rouge rubis brillant. Arômes de framboise, cerise, violette et poivre. En bouche, il est léger et vif, à l’acidité fraîche et aux tanins souples.",
+    "it": "Rosso rubino brillante. Aromi di lampone, ciliegia, viola e pepe. In bocca è leggero e vivace, con acidità fresca e tannini morbidi."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Charcutería, patés, pollo asado, ensaladas con queso de cabra",
+    "en": "Charcuterie, pâtés, roast chicken, salads with goat’s cheese",
+    "fr": "Charcuterie, pâtés, poulet rôti, salades au fromage de chèvre",
+    "it": "Salumi, paté, pollo arrosto, insalate con formaggio di capra"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "13-15 °C, copa de tamaño medio",
+    "en": "13-15 °C, medium-sized glass",
+    "fr": "13-15 °C, verre moyen",
+    "it": "13-15 °C, calice medio"
   },
   "search": "Arnot-Roberts Gamay El Dorado Arnot-Roberts",
-  "brief": true,
   "source": "decantalo"
 }

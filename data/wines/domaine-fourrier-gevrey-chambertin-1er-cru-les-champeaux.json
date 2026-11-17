@@ -7,36 +7,45 @@
   "country": "francia",
   "appellation": "AOC Gevrey-Chambertin Premier Cru / Côte-d'Or",
   "type": "tinto",
-  "category": null,
+  "category": {
+    "es": "Premier Cru",
+    "en": "Premier Cru",
+    "fr": "Premier Cru",
+    "it": "Premier Cru"
+  },
   "grapes": [
     "pinot-noir"
   ],
   "summary": {
-    "es": "Domaine Fourrier Gevrey-Chambertin 1er Cru Les Champeaux es un vino tinto de Domaine Fourrier, con la denominación AOC Gevrey-Chambertin Premier Cru / Côte-d'Or, en Francia.",
-    "en": "Domaine Fourrier Gevrey-Chambertin 1er Cru Les Champeaux is a red wine from Domaine Fourrier, made under the AOC Gevrey-Chambertin Premier Cru / Côte-d'Or appellation in France.",
-    "fr": "Domaine Fourrier Gevrey-Chambertin 1er Cru Les Champeaux est un vin rouge de Domaine Fourrier, élaboré sous l’appellation AOC Gevrey-Chambertin Premier Cru / Côte-d'Or (France).",
-    "it": "Domaine Fourrier Gevrey-Chambertin 1er Cru Les Champeaux è un vino rosso di Domaine Fourrier, prodotto nella denominazione AOC Gevrey-Chambertin Premier Cru / Côte-d'Or (Francia)."
+    "es": "Gevrey-Chambertin Premier Cru de Pinot Noir procedente de Les Champeaux, parcela de la parte alta de la ladera, elaborado por el Domaine Fourrier.",
+    "en": "A Gevrey-Chambertin Premier Cru from Pinot Noir sourced from Les Champeaux, a plot high on the slope, made by Domaine Fourrier.",
+    "fr": "Gevrey-Chambertin premier cru de pinot noir issu des Champeaux, parcelle du haut du coteau, élaboré par le Domaine Fourrier.",
+    "it": "Gevrey-Chambertin Premier Cru da Pinot Noir proveniente da Les Champeaux, parcella della parte alta del pendio, prodotto dal Domaine Fourrier."
   },
   "body": {
-    "es": "<p>Se elabora con Pinot Noir. Tiene crianza en madera. Su graduación es de 13 % vol.</p>",
-    "en": "<p>It is made from Pinot Noir. It is aged in wood. It has 13% ABV.</p>",
-    "fr": "<p>Il est élaboré à partir de Pinot Noir. Il est élevé en bois. Il titre 13 % vol.</p>",
-    "it": "<p>È prodotto con Pinot Nero. È affinato in legno. Ha 13% vol.</p>"
+    "es": "<p>El <strong>Domaine Fourrier</strong> es una finca familiar de <strong>Gevrey-Chambertin</strong> que dirige <strong>Jean-Marie Fourrier</strong> desde los años noventa. Formado en parte junto a Henri Jayer, ha dado al dominio un estilo de gran pureza, con un uso moderado de la madera nueva y extracciones suaves. La casa trabaja numerosas viñas viejas, una seña de identidad que suele destacar en sus etiquetas.</p><p><strong>Gevrey-Chambertin</strong>, en el norte de la Côte de Nuits, es el pueblo con más grands crus de Borgoña y uno de los grandes nombres de la Pinot Noir, conocido por tintos estructurados y profundos.</p><p><strong>Les Champeaux</strong> es un premier cru situado en la parte alta de la ladera, sobre suelos calizos poco profundos y pedregosos. Su altitud y su exposición dan vinos de perfil más fresco y tenso que los de las parcelas bajas. El vino de Fourrier se elabora con <strong>Pinot Noir</strong> de viñas viejas y se cría en barricas. Es un tinto preciso y mineral, de cuerpo medio y buena capacidad de guarda.</p>",
+    "en": "<p><strong>Domaine Fourrier</strong> is a family estate in <strong>Gevrey-Chambertin</strong> run by <strong>Jean-Marie Fourrier</strong> since the 1990s. Trained in part alongside Henri Jayer, he has given the domaine a style of great purity, with moderate use of new oak and gentle extraction. The house works many old vines, a hallmark it often highlights on its labels.</p><p><strong>Gevrey-Chambertin</strong>, in the north of the Côte de Nuits, is the village with the most grands crus in Burgundy and one of the great names of Pinot Noir, known for structured, deep reds.</p><p><strong>Les Champeaux</strong> is a premier cru located high on the slope, on shallow, stony limestone soils. Its altitude and exposure give wines with a fresher, tauter profile than those from lower plots. Fourrier's wine is made from old-vine <strong>Pinot Noir</strong> and aged in barrel. It is a precise, mineral red of medium body, with clear fruit and good ageing potential.</p>",
+    "fr": "<p>Le <strong>Domaine Fourrier</strong> est une propriété familiale de <strong>Gevrey-Chambertin</strong> dirigée par <strong>Jean-Marie Fourrier</strong> depuis les années 1990. Formé en partie aux côtés d'Henri Jayer, il a donné au domaine un style d'une grande pureté, avec un usage mesuré du bois neuf et des extractions douces. La maison travaille de nombreuses vieilles vignes, signe distinctif qu'elle met souvent en avant sur ses étiquettes.</p><p><strong>Gevrey-Chambertin</strong>, au nord de la Côte de Nuits, est le village qui compte le plus de grands crus en Bourgogne et l'un des grands noms du pinot noir, réputé pour ses rouges structurés et profonds.</p><p><strong>Les Champeaux</strong> est un premier cru situé dans le haut du coteau, sur des sols calcaires peu profonds et caillouteux. Son altitude et son exposition donnent des vins au profil plus frais et plus tendu que ceux des parcelles basses. Le vin de Fourrier est issu de <strong>pinot noir</strong> de vieilles vignes et s'élève en fûts. C'est un rouge précis et minéral, de corps moyen et de bon potentiel de garde.</p>",
+    "it": "<p>Il <strong>Domaine Fourrier</strong> è una tenuta familiare di <strong>Gevrey-Chambertin</strong> guidata da <strong>Jean-Marie Fourrier</strong> dagli anni Novanta. Formatosi in parte accanto a Henri Jayer, ha dato al domaine uno stile di grande purezza, con un uso moderato del legno nuovo ed estrazioni delicate. La casa lavora numerose vecchie vigne, un tratto distintivo che spesso evidenzia in etichetta.</p><p><strong>Gevrey-Chambertin</strong>, nel nord della Côte de Nuits, è il villaggio con il maggior numero di grand cru della Borgogna e uno dei grandi nomi del Pinot Noir, noto per rossi strutturati e profondi.</p><p><strong>Les Champeaux</strong> è un premier cru situato nella parte alta del pendio, su suoli calcarei poco profondi e sassosi. L'altitudine e l'esposizione danno vini dal profilo più fresco e teso rispetto a quelli delle parcelle basse. Il vino di Fourrier è prodotto con <strong>Pinot Noir</strong> di vecchie vigne e matura in barrique. È un rosso preciso e minerale, di medio corpo e buona capacità d'invecchiamento.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo rubí brillante. Aromas de cereza, frambuesa, flores, especias y notas terrosas. Boca pura y sedosa, de tanino fino, acidez fresca y final largo.",
+    "en": "Bright ruby red. Aromas of cherry, raspberry, flowers, spice and earthy notes. Pure, silky palate with fine tannins, fresh acidity and a long finish.",
+    "fr": "Rubis brillant. Arômes de cerise, de framboise, de fleurs, d'épices et notes terreuses. Bouche pure et soyeuse, aux tanins fins, à l'acidité fraîche et à la longue finale.",
+    "it": "Rosso rubino brillante. Aromi di ciliegia, lampone, fiori, spezie e note terrose. Bocca pura e setosa, dal tannino fine, acidità fresca e finale lungo."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Caza de pluma, pato, carnes rojas asadas, quesos de pasta lavada",
+    "en": "Game birds, duck, roast red meat, washed-rind cheeses",
+    "fr": "Gibier à plume, canard, viandes rouges rôties, fromages à croûte lavée",
+    "it": "Selvaggina da piuma, anatra, carni rosse arrosto, formaggi a crosta lavata"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "15-17 °C, copa amplia tipo Borgoña",
+    "en": "15-17 °C, large Burgundy glass",
+    "fr": "15-17 °C, verre ample de type bourguignon",
+    "it": "15-17 °C, calice ampio tipo Borgogna"
   },
   "search": "Domaine Fourrier Gevrey-Chambertin 1er Cru Les Champeaux Domaine Fourrier",
-  "brief": true,
   "source": "decantalo"
 }

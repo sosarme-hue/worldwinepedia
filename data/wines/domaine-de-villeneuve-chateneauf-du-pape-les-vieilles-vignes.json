@@ -8,33 +8,39 @@
   "appellation": "AOC Châteauneuf-du-pape",
   "type": "tinto",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "garnacha"
+  ],
   "summary": {
-    "es": "Domaine de Villeneuve Châteneauf du Pape Les Vieilles Vignes es un vino tinto de Domaine de Villeneuve, con la denominación AOC Châteauneuf-du-pape, en Francia.",
-    "en": "Domaine de Villeneuve Châteneauf du Pape Les Vieilles Vignes is a red wine from Domaine de Villeneuve, made under the AOC Châteauneuf-du-pape appellation in France.",
-    "fr": "Domaine de Villeneuve Châteneauf du Pape Les Vieilles Vignes est un vin rouge de Domaine de Villeneuve, élaboré sous l’appellation AOC Châteauneuf-du-pape (France).",
-    "it": "Domaine de Villeneuve Châteneauf du Pape Les Vieilles Vignes è un vino rosso di Domaine de Villeneuve, prodotto nella denominazione AOC Châteauneuf-du-pape (Francia)."
+    "es": "Châteauneuf-du-Pape tinto del Domaine de Villeneuve elaborado con viñas viejas, principalmente de Garnacha, y criado en depósitos de hormigón.",
+    "en": "A red Châteauneuf-du-Pape from Domaine de Villeneuve made from old vines, mainly Grenache, and aged in concrete tanks.",
+    "fr": "Châteauneuf-du-pape rouge du Domaine de Villeneuve issu de vieilles vignes, principalement de grenache, et élevé en cuves béton.",
+    "it": "Châteauneuf-du-Pape rosso del Domaine de Villeneuve ottenuto da vecchie vigne, soprattutto di Grenache, e affinato in vasche di cemento."
   },
   "body": {
-    "es": "<p>Se cría en depósitos de hormigón. Su graduación es de 15 % vol.</p><p>Châteauneuf-du-Pape, cerca de Aviñón, es la denominación más célebre del Ródano Sur. Sus tintos, basados sobre todo en la Garnacha, pueden ensamblar hasta trece variedades, y sus normas de 1923 sirvieron de base al sistema francés de denominaciones de origen.</p>",
-    "en": "<p>It is aged in concrete vats. It has 15% ABV.</p><p>Châteauneuf-du-Pape, near Avignon, is the most famous appellation of the Southern Rhône. Its reds, based mainly on Grenache, may blend up to thirteen varieties, and its rules of 1923 served as a basis for the French appellation system.</p>",
-    "fr": "<p>Il est élevé en cuves béton. Il titre 15 % vol.</p><p>Châteauneuf-du-Pape, près d'Avignon, est l'appellation la plus célèbre du Rhône méridional. Ses rouges, fondés surtout sur le grenache, peuvent assembler jusqu'à treize cépages, et ses règles de 1923 ont servi de base au système français des appellations d'origine.</p>",
-    "it": "<p>Affina in vasche di cemento. Ha 15% vol.</p><p>Châteauneuf-du-Pape, vicino ad Avignone, è la denominazione più celebre del Rodano meridionale. I suoi rossi, basati soprattutto sul Grenache, possono riunire fino a tredici vitigni, e le sue regole del 1923 hanno fatto da base al sistema francese delle denominazioni d'origine.</p>"
+    "es": "<p>El <strong>Domaine de Villeneuve</strong> es una finca de la denominación Châteauneuf-du-Pape que trabaja sus viñedos en agricultura biológica y biodinámica y elabora vinos de estilo tradicional, sin madera nueva.</p><p><strong>Châteauneuf-du-Pape</strong>, cerca de Aviñón, es la denominación más célebre del Ródano meridional. Su clima mediterráneo, marcado por el mistral y por veranos calurosos y secos, y sus suelos variados, con los célebres cantos rodados, arenas, arcillas y calizas, favorecen la maduración de la <strong>Garnacha</strong>. Esta variedad es la base de la mayoría de los tintos de la zona y se ensambla a menudo con Syrah, Mourvèdre y otras de las variedades autorizadas.</p><p><strong>Les Vieilles Vignes</strong> procede de cepas viejas, principalmente de Garnacha, de bajo rendimiento. Tras la fermentación, el vino se cría en <strong>depósitos de hormigón</strong>, un recipiente neutro que permite una microoxigenación suave sin aportar aromas de roble y que preserva la fruta y el carácter especiado de la Garnacha. El resultado es un tinto cálido, generoso y sabroso, de tanino maduro, que puede evolucionar durante años.</p>",
+    "en": "<p><strong>Domaine de Villeneuve</strong> is an estate in the Châteauneuf-du-Pape appellation which farms its vineyards organically and biodynamically and makes traditional-style wines without new oak.</p><p><strong>Châteauneuf-du-Pape</strong>, near Avignon, is the most famous appellation of the southern Rhône. Its Mediterranean climate, marked by the mistral and by hot, dry summers, and its varied soils, with the famous rounded pebbles, sand, clay and limestone, favour the ripening of <strong>Grenache</strong>. This variety is the basis of most reds in the area and is often blended with Syrah, Mourvèdre and other permitted varieties.</p><p><strong>Les Vieilles Vignes</strong> comes from old, low-yielding vines, mainly Grenache. After fermentation the wine is aged in <strong>concrete tanks</strong>, a neutral vessel that allows gentle micro-oxygenation without adding oak aromas and preserves Grenache's fruit and spicy character. The result is a warm, generous and savoury red with ripe tannins and a long finish, which can develop in bottle for many years.</p>",
+    "fr": "<p>Le <strong>Domaine de Villeneuve</strong> est une propriété de l'appellation Châteauneuf-du-Pape qui conduit ses vignes en agriculture biologique et biodynamique et élabore des vins de style traditionnel, sans bois neuf.</p><p><strong>Châteauneuf-du-Pape</strong>, près d'Avignon, est l'appellation la plus célèbre du Rhône méridional. Son climat méditerranéen, marqué par le mistral et par des étés chauds et secs, et ses sols variés, avec les fameux galets roulés, des sables, des argiles et des calcaires, favorisent la maturité du <strong>grenache</strong>. Ce cépage est la base de la plupart des rouges du secteur et s'assemble souvent avec la syrah, le mourvèdre et d'autres cépages autorisés.</p><p><strong>Les Vieilles Vignes</strong> provient de vieux ceps à faibles rendements, principalement de grenache. Après la fermentation, le vin s'élève en <strong>cuves béton</strong>, contenant neutre qui permet une micro-oxygénation douce sans apport d'arômes boisés et préserve le fruit et le caractère épicé du grenache. Il en résulte un rouge chaleureux, généreux et sapide, aux tanins mûrs, capable d'évoluer pendant des années.</p>",
+    "it": "<p>Il <strong>Domaine de Villeneuve</strong> è una tenuta della denominazione Châteauneuf-du-Pape che coltiva i suoi vigneti in biologico e biodinamica e produce vini di stile tradizionale, senza legno nuovo.</p><p><strong>Châteauneuf-du-Pape</strong>, vicino ad Avignone, è la denominazione più celebre del Rodano meridionale. Il clima mediterraneo, segnato dal mistral e da estati calde e secche, e i suoli vari, con i famosi ciottoli arrotondati, sabbie, argille e calcari, favoriscono la maturazione della <strong>Grenache</strong>. Questo vitigno è la base della maggior parte dei rossi della zona e viene spesso assemblato con Syrah, Mourvèdre e altri vitigni ammessi.</p><p><strong>Les Vieilles Vignes</strong> proviene da vecchie viti a bassa resa, soprattutto di Grenache. Dopo la fermentazione il vino matura in <strong>vasche di cemento</strong>, un contenitore neutro che consente una lenta microssigenazione senza apportare aromi di rovere e preserva il frutto e il carattere speziato della Grenache. Ne risulta un rosso caldo, generoso e sapido, dal tannino maturo, capace di evolvere per anni.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo granate intenso. Aromas de fruta roja madura, garriga, pimienta, regaliz y notas terrosas. Boca cálida y sabrosa, de tanino maduro y final largo y especiado.",
+    "en": "Deep garnet red. Aromas of ripe red fruit, garrigue, pepper, liquorice and earthy notes. Warm, savoury palate with ripe tannins and a long, spicy finish.",
+    "fr": "Grenat intense. Arômes de fruits rouges mûrs, de garrigue, de poivre, de réglisse et notes terreuses. Bouche chaleureuse et sapide, aux tanins mûrs et à la finale longue et épicée.",
+    "it": "Rosso granato intenso. Aromi di frutti rossi maturi, macchia mediterranea, pepe, liquirizia e note terrose. Bocca calda e sapida, dal tannino maturo e finale lungo e speziato."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Cordero asado, caza, estofados, quesos curados",
+    "en": "Roast lamb, game, stews, aged cheeses",
+    "fr": "Agneau rôti, gibier, daubes, fromages affinés",
+    "it": "Agnello arrosto, selvaggina, stufati, formaggi stagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "16-18 °C, copa amplia de tinto",
+    "en": "16-18 °C, large red wine glass",
+    "fr": "16-18 °C, grand verre à vin rouge",
+    "it": "16-18 °C, calice ampio da rosso"
   },
   "search": "Domaine de Villeneuve Châteneauf du Pape Les Vieilles Vignes Domaine de Villeneuve",
-  "brief": true,
   "source": "decantalo"
 }

@@ -8,33 +8,40 @@
   "appellation": "DOQ Priorat",
   "type": "tinto",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "garnacha",
+    "carinena"
+  ],
   "summary": {
-    "es": "Doix es un vino tinto de Mas Doix, con la denominación DOQ Priorat, en España.",
-    "en": "Doix is a red wine from Mas Doix, made under the DOQ Priorat appellation in Spain.",
-    "fr": "Doix est un vin rouge de Mas Doix, élaboré sous l’appellation DOQ Priorat (Espagne).",
-    "it": "Doix è un vino rosso di Mas Doix, prodotto nella denominazione DOQ Priorat (Spagna)."
+    "es": "Vino principal de Mas Doix, en Poboleda, elaborado con Garnacha y Cariñena de viñas muy viejas plantadas en las laderas de pizarra del norte del Priorat.",
+    "en": "The flagship wine of Mas Doix in Poboleda, made from Garnacha and Cariñena from very old vines planted on the slate slopes of northern Priorat.",
+    "fr": "Vin phare de Mas Doix, à Poboleda, élaboré avec du grenache et du carignan issus de très vieilles vignes plantées sur les coteaux de schiste du nord du Priorat.",
+    "it": "Il vino di punta di Mas Doix, a Poboleda, prodotto con Garnacha e Carignano da vigne molto vecchie piantate sui pendii di ardesia del Priorat settentrionale."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 14,5 % vol.</p><p>Bodega familiar de Poboleda que trabaja viñas muy viejas de garnacha y cariñena en el norte del Priorat, conocida por Les Crestes, Salanques y Doix.</p><p>Priorat, en la provincia de Tarragona, es una de las dos Denominaciones de Origen Calificadas de España, junto a Rioja. Sus tintos de Garnacha y Cariñena, cultivadas en laderas de pizarra llamada llicorella, se caracterizan por su concentración y su carácter mineral.</p>",
-    "en": "<p>It is aged in wood. It has 14.5% ABV.</p><p>Family winery in Poboleda working very old Garnacha and Cariñena vines in the northern Priorat, known for Les Crestes, Salanques and Doix.</p><p>Priorat, in the province of Tarragona, is one of Spain's two Qualified Designations of Origin, alongside Rioja. Its reds from Grenache and Carignan, grown on slopes of slate known as llicorella, are noted for their concentration and mineral character.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 14,5 % vol.</p><p>Domaine familial de Poboleda qui travaille de très vieilles vignes de grenache et de carignan dans le nord du Priorat, connu pour Les Crestes, Salanques et Doix.</p><p>Le Priorat, dans la province de Tarragone, est l'une des deux dénominations d'origine qualifiées d'Espagne, avec la Rioja. Ses rouges de grenache et de carignan, cultivés sur des coteaux de schiste appelé llicorella, se distinguent par leur concentration et leur caractère minéral.</p>",
-    "it": "<p>È affinato in legno. Ha 14,5% vol.</p><p>Cantina di famiglia di Poboleda che lavora vigne molto vecchie di Garnacha e Cariñena nel nord del Priorat, nota per Les Crestes, Salanques e Doix.</p><p>Il Priorat, nella provincia di Tarragona, è una delle due Denominazioni di origine qualificate della Spagna, insieme alla Rioja. I suoi rossi di Garnacha e Carignano, coltivati su pendii di scisto detto llicorella, si distinguono per concentrazione e carattere minerale.</p>"
+    "es": "<p><strong>Mas Doix</strong> es una bodega familiar de <strong>Poboleda</strong>, en el norte de la DOQ Priorat. La familia Doix lleva generaciones cultivando viña en el pueblo, pero fue a finales de los años noventa cuando decidió embotellar sus propios vinos, aprovechando un patrimonio de cepas muy antiguas que se había mantenido a pesar del abandono que sufrió la comarca en el siglo XX.</p><p><strong>Doix</strong> es el vino más emblemático de la casa. Procede de viñas viejas de <strong>Garnacha</strong> y <strong>Cariñena</strong>, muchas de ellas plantadas hace largo tiempo en terrazas y laderas de <strong>llicorella</strong>, la pizarra que define el paisaje del Priorat. Estas cepas producen muy poca uva, pequeña y concentrada, y obligan a un trabajo casi completamente manual.</p><p>Tras una vendimia y una selección cuidadosas, el vino fermenta y se cría en barricas de roble francés. El estilo combina la potencia y la madurez propias del Priorat con la frescura que aportan la Cariñena y la altitud de la zona norte de la denominación. Es un tinto de gran estructura y capacidad de guarda, que gana complejidad con los años en botella.</p>",
+    "en": "<p><strong>Mas Doix</strong> is a family winery in <strong>Poboleda</strong>, in the north of the DOQ Priorat. The Doix family has grown vines in the village for generations, but it was in the late 1990s that they decided to bottle their own wines, drawing on a heritage of very old vines that had survived the decline the area suffered in the 20th century.</p><p><strong>Doix</strong> is the house's most emblematic wine. It comes from old vines of <strong>Garnacha</strong> (Grenache) and <strong>Cariñena</strong> (Carignan), many planted long ago on terraces and slopes of <strong>llicorella</strong>, the slate that defines the Priorat landscape. These vines yield very little fruit, small and concentrated, and require almost entirely manual work.</p><p>After careful harvesting and sorting, the wine is fermented and aged in French oak barrels. The style combines the power and ripeness typical of Priorat with the freshness brought by Cariñena and the altitude of the appellation's northern zone. It is a red of great structure and ageing potential that gains complexity with years in bottle.</p>",
+    "fr": "<p><strong>Mas Doix</strong> est une bodega familiale de <strong>Poboleda</strong>, dans le nord de la DOQ Priorat. La famille Doix cultive la vigne dans le village depuis des générations, mais ce n'est qu'à la fin des années 1990 qu'elle a décidé de mettre ses propres vins en bouteille, en s'appuyant sur un patrimoine de très vieilles vignes qui avait survécu au déclin de la région au XXe siècle.</p><p><strong>Doix</strong> est le vin le plus emblématique de la maison. Il provient de vieilles vignes de <strong>grenache</strong> et de <strong>carignan</strong>, dont beaucoup ont été plantées il y a longtemps sur des terrasses et des pentes de <strong>llicorella</strong>, le schiste qui façonne le paysage du Priorat. Ces ceps donnent très peu de raisins, petits et concentrés, et imposent un travail presque entièrement manuel.</p><p>Après des vendanges et un tri soignés, le vin fermente et s'élève en barriques de chêne français. Le style allie la puissance et la maturité propres au Priorat à la fraîcheur apportée par le carignan et l'altitude du nord de l'appellation. C'est un rouge de grande structure et de longue garde, qui gagne en complexité avec les années en bouteille.</p>",
+    "it": "<p><strong>Mas Doix</strong> è una cantina familiare di <strong>Poboleda</strong>, nel nord della DOQ Priorat. La famiglia Doix coltiva la vite nel paese da generazioni, ma solo alla fine degli anni Novanta decise di imbottigliare i propri vini, valorizzando un patrimonio di vigne molto vecchie sopravvissute al declino che la zona conobbe nel Novecento.</p><p><strong>Doix</strong> è il vino più emblematico della casa. Proviene da vecchie vigne di <strong>Garnacha</strong> (Grenache) e <strong>Carignano</strong>, molte piantate tempo fa su terrazze e pendii di <strong>llicorella</strong>, l'ardesia che definisce il paesaggio del Priorat. Queste viti producono pochissima uva, piccola e concentrata, e richiedono un lavoro quasi interamente manuale.</p><p>Dopo una vendemmia e una selezione accurate, il vino fermenta e matura in barrique di rovere francese. Lo stile unisce la potenza e la maturità tipiche del Priorat alla freschezza portata dal Carignano e dall'altitudine della zona settentrionale della denominazione. È un rosso di grande struttura e longevità, che acquista complessità con gli anni in bottiglia.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo picota muy intenso. Aromas de fruta negra madura, regaliz, hierbas mediterráneas, notas tostadas y minerales. Boca potente y concentrada, de tanino firme pero pulido, con un final largo.",
+    "en": "Very deep cherry red. Aromas of ripe black fruit, liquorice, Mediterranean herbs, toasty and mineral notes. Powerful, concentrated palate with firm yet polished tannins and a long finish.",
+    "fr": "Rouge cerise très intense. Arômes de fruits noirs mûrs, de réglisse, d'herbes méditerranéennes, notes grillées et minérales. Bouche puissante et concentrée, aux tanins fermes mais polis, avec une longue finale.",
+    "it": "Rosso ciliegia molto intenso. Aromi di frutta nera matura, liquirizia, erbe mediterranee, note tostate e minerali. Bocca potente e concentrata, dal tannino deciso ma levigato, con un finale lungo."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Cordero asado, caza mayor, carnes rojas a la brasa, quesos curados",
+    "en": "Roast lamb, large game, grilled red meat, aged cheeses",
+    "fr": "Agneau rôti, gros gibier, viandes rouges grillées, fromages affinés",
+    "it": "Agnello arrosto, selvaggina di grossa taglia, carni rosse alla brace, formaggi stagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "16-18 °C, copa amplia de tinto; conviene decantarlo",
+    "en": "16-18 °C, large red wine glass; decanting recommended",
+    "fr": "16-18 °C, grand verre à vin rouge ; carafage conseillé",
+    "it": "16-18 °C, calice ampio da rosso; si consiglia la decantazione"
   },
   "search": "Doix Mas Doix",
-  "brief": true,
   "source": "decantalo"
 }

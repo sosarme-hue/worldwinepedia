@@ -7,34 +7,43 @@
   "country": "espana",
   "appellation": "DOCa Rioja",
   "type": "tinto",
-  "category": null,
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
   "grapes": [],
   "summary": {
-    "es": "Akutain Reserva Selection es un vino tinto de Akutain, con la denominación DOCa Rioja, en España.",
-    "en": "Akutain Reserva Selection is a red wine from Akutain, made under the DOCa Rioja appellation in Spain.",
-    "fr": "Akutain Reserva Selection est un vin rouge de Akutain, élaboré sous l’appellation DOCa Rioja (Espagne).",
-    "it": "Akutain Reserva Selection è un vino rosso di Akutain, prodotto nella denominazione DOCa Rioja (Spagna)."
+    "es": "Tinto Reserva de Bodegas Akutain, pequeña bodega familiar de Haro, elaborado en el estilo clásico de crianza de la Rioja Alta.",
+    "en": "Reserva red from Bodegas Akutain, a small family winery in Haro, made in the classic oak-aged style of Rioja Alta.",
+    "fr": "Rouge Reserva de Bodegas Akutain, petite bodega familiale de Haro, élaboré dans le style classique d'élevage de la Rioja Alta.",
+    "it": "Rosso Reserva di Bodegas Akutain, piccola cantina familiare di Haro, prodotto nello stile classico d'affinamento della Rioja Alta."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 14 % vol.</p><p>Rioja, en el valle del Ebro, fue en 1991 la primera Denominación de Origen Calificada de España. Es conocida sobre todo por sus tintos de Tempranillo y por su larga tradición de crianza en barrica de roble.</p>",
-    "en": "<p>It is aged in wood. It has 14% ABV.</p><p>Rioja, in the Ebro valley, became Spain's first Qualified Designation of Origin in 1991. It is best known for its Tempranillo-based reds and its long tradition of ageing in oak barrels.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 14 % vol.</p><p>La Rioja, dans la vallée de l'Èbre, est devenue en 1991 la première dénomination d'origine qualifiée d'Espagne. Elle est surtout connue pour ses rouges à base de tempranillo et sa longue tradition d'élevage en barrique de chêne.</p>",
-    "it": "<p>È affinato in legno. Ha 14% vol.</p><p>La Rioja, nella valle dell'Ebro, è diventata nel 1991 la prima Denominazione di origine qualificata di Spagna. È nota soprattutto per i rossi a base di Tempranillo e per la lunga tradizione di affinamento in botte di rovere.</p>"
+    "es": "<p><strong>Akutain</strong> es una pequeña bodega familiar de <strong>Haro</strong>, la localidad de la Rioja Alta que concentra varias de las casas más históricas de la denominación en torno al barrio de la Estación. Elabora vinos de corte tradicional, con uva de la zona y crianza en barrica de roble.</p><p>La Rioja Alta, la subzona más occidental y de mayor influencia atlántica de la DOCa Rioja, tiene un clima relativamente fresco y suelos arcillo-calcáreos y aluviales donde el <strong>Tempranillo</strong>, la variedad dominante, da tintos de buena acidez y gran aptitud para el envejecimiento.</p><p>Como <strong>Reserva</strong>, ha envejecido al menos tres años, con un mínimo de uno en barrica y el resto en botella. Con unos 14 % vol., es un tinto de perfil clásico, con fruta madura, especias y notas de crianza bien integradas, que puede beberse ya o guardarse algunos años más en botella. Conviene servirlo en copa amplia y, si es de una añada antigua, decantarlo con cuidado.</p>",
+    "en": "<p><strong>Akutain</strong> is a small family winery in <strong>Haro</strong>, the Rioja Alta town where several of the appellation's most historic houses are clustered around the Station district. It makes traditionally styled wines from local grapes, aged in oak barrels.</p><p>Rioja Alta, the westernmost and most Atlantic-influenced subzone of DOCa Rioja, has a relatively cool climate and clay-limestone and alluvial soils where <strong>Tempranillo</strong>, the dominant variety, gives reds with good acidity and great aptitude for ageing.</p><p>As a <strong>Reserva</strong>, it has been aged for at least three years, a minimum of one in barrel and the rest in bottle. At around 14% ABV, it is a classic-style red with ripe fruit, spice and well-integrated oak notes, which can be drunk now or kept for a few more years in bottle. It is best served in a large glass and, if from an older vintage, carefully decanted.</p>",
+    "fr": "<p><strong>Akutain</strong> est une petite bodega familiale de <strong>Haro</strong>, la ville de la Rioja Alta qui regroupe plusieurs des maisons les plus historiques de l'appellation autour du quartier de la Gare. Elle élabore des vins de facture traditionnelle, à partir de raisins de la zone et élevés en barrique de chêne.</p><p>La Rioja Alta, la sous-zone la plus occidentale et la plus influencée par l'Atlantique de la DOCa Rioja, a un climat relativement frais et des sols argilo-calcaires et alluviaux où le <strong>tempranillo</strong>, cépage dominant, donne des rouges à la bonne acidité et très aptes au vieillissement.</p><p>En tant que <strong>Reserva</strong>, il a vieilli au moins trois ans, dont un minimum d'un an en barrique et le reste en bouteille. D'environ 14 % vol., c'est un rouge de profil classique, aux fruits mûrs, aux épices et aux notes d'élevage bien intégrées, qui peut se boire dès maintenant ou se garder encore quelques années en bouteille. Il se sert de préférence dans un verre ample et, s'il s'agit d'un millésime ancien, se carafe avec soin.</p>",
+    "it": "<p><strong>Akutain</strong> è una piccola cantina familiare di <strong>Haro</strong>, la cittadina della Rioja Alta che raccoglie diverse delle case più storiche della denominazione intorno al quartiere della Stazione. Produce vini di taglio tradizionale, con uve della zona e affinamento in botte di rovere.</p><p>La Rioja Alta, la sottozona più occidentale e di maggiore influenza atlantica della DOCa Rioja, ha un clima relativamente fresco e suoli argillo-calcarei e alluvionali dove il <strong>Tempranillo</strong>, il vitigno dominante, dà rossi di buona acidità e grande attitudine all'invecchiamento.</p><p>In quanto <strong>Reserva</strong>, è invecchiato almeno tre anni, di cui almeno uno in botte e il resto in bottiglia. Con circa 14% vol., è un rosso di profilo classico, con frutta matura, spezie e note d'affinamento ben integrate, che si può bere subito o conservare ancora qualche anno in bottiglia. Va servito in un calice ampio e, se di annata vecchia, decantato con cura.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo picota con ribete teja. Aromas de fruta roja madura, vainilla, especias, cuero y tabaco. Boca equilibrada, de taninos redondos y final especiado.",
+    "en": "Deep cherry red with a brick rim. Aromas of ripe red fruit, vanilla, spice, leather and tobacco. Balanced palate with rounded tannins and a spicy finish.",
+    "fr": "Rouge cerise à reflets tuilés. Arômes de fruits rouges mûrs, de vanille, d'épices, de cuir et de tabac. Bouche équilibrée, aux tanins ronds et à la finale épicée.",
+    "it": "Rosso ciliegia con unghia aranciata. Aromi di frutta rossa matura, vaniglia, spezie, cuoio e tabacco. Bocca equilibrata, tannini rotondi e finale speziato."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Cordero asado, chuletillas al sarmiento, carnes rojas, guisos, quesos curados",
+    "en": "Roast lamb, lamb chops grilled over vine cuttings, red meat, stews, aged cheeses",
+    "fr": "Agneau rôti, côtelettes grillées aux sarments, viandes rouges, ragoûts, fromages affinés",
+    "it": "Agnello arrosto, costolette ai sarmenti, carni rosse, stufati, formaggi stagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
   },
   "search": "Akutain Reserva Selection Akutain",
-  "brief": true,
   "source": "decantalo"
 }

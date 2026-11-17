@@ -7,36 +7,45 @@
   "country": "francia",
   "appellation": "AOC Meursault 1er Cru / Côte-d'Or",
   "type": "blanco",
-  "category": null,
+  "category": {
+    "es": "Premier Cru",
+    "en": "Premier Cru",
+    "fr": "Premier Cru",
+    "it": "Premier Cru"
+  },
   "grapes": [
     "chardonnay"
   ],
   "summary": {
-    "es": "Domaine Bernard-Bonin Puligny-Montrachet 1er Cru La Garenne es un vino blanco de Domaine Bernard-Bonin, con la denominación AOC Meursault 1er Cru / Côte-d'Or, en Francia.",
-    "en": "Domaine Bernard-Bonin Puligny-Montrachet 1er Cru La Garenne is a white wine from Domaine Bernard-Bonin, made under the AOC Meursault 1er Cru / Côte-d'Or appellation in France.",
-    "fr": "Domaine Bernard-Bonin Puligny-Montrachet 1er Cru La Garenne est un vin blanc de Domaine Bernard-Bonin, élaboré sous l’appellation AOC Meursault 1er Cru / Côte-d'Or (France).",
-    "it": "Domaine Bernard-Bonin Puligny-Montrachet 1er Cru La Garenne è un vino bianco di Domaine Bernard-Bonin, prodotto nella denominazione AOC Meursault 1er Cru / Côte-d'Or (Francia)."
+    "es": "Puligny-Montrachet Premier Cru de Chardonnay procedente de La Garenne, parcela situada en la parte alta de la ladera hacia Blagny, elaborado por el Domaine Bernard-Bonin.",
+    "en": "A Puligny-Montrachet Premier Cru from Chardonnay sourced from La Garenne, a plot high on the slope towards Blagny, made by Domaine Bernard-Bonin.",
+    "fr": "Puligny-Montrachet premier cru de chardonnay issu de La Garenne, parcelle située dans le haut du coteau vers Blagny, élaboré par le Domaine Bernard-Bonin.",
+    "it": "Puligny-Montrachet Premier Cru da Chardonnay proveniente da La Garenne, parcella situata nella parte alta del pendio verso Blagny, prodotto dal Domaine Bernard-Bonin."
   },
   "body": {
-    "es": "<p>Se elabora con Chardonnay. Tiene crianza en madera. Su graduación es de 13 % vol.</p>",
-    "en": "<p>It is made from Chardonnay. It is aged in wood. It has 13% ABV.</p>",
-    "fr": "<p>Il est élaboré à partir de Chardonnay. Il est élevé en bois. Il titre 13 % vol.</p>",
-    "it": "<p>È prodotto con Chardonnay. È affinato in legno. Ha 13% vol.</p>"
+    "es": "<p>El <strong>Domaine Bernard-Bonin</strong> es una pequeña explotación familiar con sede en Meursault, en la Côte de Beaune, que elabora blancos de Chardonnay de varias parcelas de la zona, entre ellas este premier cru del vecino pueblo de Puligny-Montrachet.</p><p><strong>Puligny-Montrachet</strong> es uno de los pueblos más reputados del mundo para el vino blanco: en su término se encuentran parte de los grands crus Montrachet y Bâtard-Montrachet, así como una serie de premiers crus muy apreciados. <strong>La Garenne</strong> se sitúa en la parte alta de la ladera, cerca de la aldea de Blagny, a mayor altitud que la mayoría de los premiers crus del pueblo. Su exposición y sus suelos calizos pedregosos y frescos suelen dar vinos de perfil más fino, tenso y floral que los de las parcelas bajas.</p><p>Se elabora exclusivamente con <strong>Chardonnay</strong>, que fermenta y se cría en <strong>barricas de roble</strong> siguiendo la tradición borgoñona, con un uso de la madera pensado para aportar textura sin enmascarar la fruta. El resultado es un blanco elegante y preciso, de acidez viva, que puede evolucionar favorablemente durante varios años.</p>",
+    "en": "<p><strong>Domaine Bernard-Bonin</strong> is a small family estate based in Meursault, in the Côte de Beaune, producing Chardonnay whites from several plots in the area, including this premier cru from the neighbouring village of Puligny-Montrachet.</p><p><strong>Puligny-Montrachet</strong> is one of the world's most renowned villages for white wine: within its boundaries lie part of the Montrachet and Bâtard-Montrachet grands crus, as well as a series of highly regarded premiers crus. <strong>La Garenne</strong> sits high on the slope, near the hamlet of Blagny, at a greater altitude than most of the village's premiers crus. Its exposure and cool, stony limestone soils tend to give wines with a finer, tauter and more floral profile than those from lower plots.</p><p>It is made solely from <strong>Chardonnay</strong>, fermented and aged in <strong>oak barrels</strong> in the Burgundian tradition, with oak used to add texture without masking the fruit. The result is an elegant, precise white with lively acidity that can develop favourably over several years.</p>",
+    "fr": "<p>Le <strong>Domaine Bernard-Bonin</strong> est une petite exploitation familiale installée à Meursault, en Côte de Beaune, qui élabore des blancs de chardonnay issus de plusieurs parcelles du secteur, dont ce premier cru du village voisin de Puligny-Montrachet.</p><p><strong>Puligny-Montrachet</strong> est l'un des villages les plus réputés au monde pour le vin blanc : on y trouve une partie des grands crus Montrachet et Bâtard-Montrachet, ainsi qu'une série de premiers crus très recherchés. <strong>La Garenne</strong> se situe dans le haut du coteau, près du hameau de Blagny, à une altitude supérieure à celle de la plupart des premiers crus du village. Son exposition et ses sols calcaires caillouteux et frais donnent souvent des vins au profil plus fin, plus tendu et plus floral que ceux des parcelles basses.</p><p>Il est issu exclusivement de <strong>chardonnay</strong>, qui fermente et s'élève en <strong>fûts de chêne</strong> selon la tradition bourguignonne, avec un boisé pensé pour apporter de la texture sans masquer le fruit. Il en résulte un blanc élégant et précis, à l'acidité vive, qui peut évoluer favorablement pendant plusieurs années.</p>",
+    "it": "<p>Il <strong>Domaine Bernard-Bonin</strong> è una piccola azienda familiare con sede a Meursault, nella Côte de Beaune, che produce bianchi da Chardonnay da diverse parcelle della zona, tra cui questo premier cru del vicino villaggio di Puligny-Montrachet.</p><p><strong>Puligny-Montrachet</strong> è uno dei villaggi più rinomati al mondo per il vino bianco: nel suo territorio si trovano parte dei grand cru Montrachet e Bâtard-Montrachet e una serie di premier cru molto apprezzati. <strong>La Garenne</strong> si trova nella parte alta del pendio, vicino alla frazione di Blagny, a un'altitudine superiore a quella della maggior parte dei premier cru del villaggio. L'esposizione e i suoli calcarei sassosi e freschi tendono a dare vini dal profilo più fine, teso e floreale rispetto a quelli delle parcelle basse.</p><p>È prodotto esclusivamente con <strong>Chardonnay</strong>, che fermenta e matura in <strong>botti di rovere</strong> secondo la tradizione borgognona, con un uso del legno pensato per dare struttura senza coprire il frutto. Ne risulta un bianco elegante e preciso, dall'acidità vivace, che può evolvere favorevolmente per diversi anni.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Amarillo pálido brillante. Aromas de flores blancas, limón, pera, almendra y notas minerales. Boca tensa y elegante, de acidez viva y final largo y salino.",
+    "en": "Bright pale yellow. Aromas of white flowers, lemon, pear, almond and mineral notes. Taut, elegant palate with lively acidity and a long, saline finish.",
+    "fr": "Jaune pâle brillant. Arômes de fleurs blanches, de citron, de poire, d'amande et notes minérales. Bouche tendue et élégante, à l'acidité vive et à la finale longue et saline.",
+    "it": "Giallo paglierino brillante. Aromi di fiori bianchi, limone, pera, mandorla e note minerali. Bocca tesa ed elegante, con acidità vivace e finale lungo e sapido."
+  },
   "pairing": {
-    "es": "Pescados, mariscos, arroces, quesos frescos",
-    "en": "Fish, shellfish, rice dishes, fresh cheeses",
-    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
-    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+    "es": "Pescados nobles a la mantequilla, vieiras, crustáceos, ave asada",
+    "en": "Fine fish in butter sauce, scallops, crustaceans, roast poultry",
+    "fr": "Poissons nobles au beurre blanc, saint-jacques, crustacés, volaille rôtie",
+    "it": "Pesce pregiato al burro, capesante, crostacei, pollame arrosto"
   },
   "serve": {
-    "es": "8-11 °C, copa de vino blanco",
-    "en": "8-11 °C, white wine glass",
-    "fr": "8-11 °C, verre à vin blanc",
-    "it": "8-11 °C, calice da vino bianco"
+    "es": "11-13 °C, copa amplia de vino blanco",
+    "en": "11-13 °C, large white wine glass",
+    "fr": "11-13 °C, grand verre à vin blanc",
+    "it": "11-13 °C, calice ampio da bianco"
   },
   "search": "Domaine Bernard-Bonin Puligny-Montrachet 1er Cru La Garenne Domaine Bernard-Bonin",
-  "brief": true,
   "source": "decantalo"
 }

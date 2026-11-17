@@ -13,33 +13,39 @@
     "fr": "Reserva",
     "it": "Reserva"
   },
-  "grapes": [],
+  "grapes": [
+    "tempranillo"
+  ],
   "summary": {
-    "es": "Clave de Tábula es un vino tinto de Tábula, con la denominación DO Ribera del Duero, en España.",
-    "en": "Clave de Tábula is a red wine from Tábula, made under the DO Ribera del Duero appellation in Spain.",
-    "fr": "Clave de Tábula est un vin rouge de Tábula, élaboré sous l’appellation DO Ribera del Duero (Espagne).",
-    "it": "Clave de Tábula è un vino rosso di Tábula, prodotto nella denominazione DO Ribera del Duero (Spagna)."
+    "es": "Tinto de Ribera del Duero de la bodega Tábula, el vino de mayor rango de la casa, elaborado con Tempranillo y con mención Reserva.",
+    "en": "A Ribera del Duero red from the Tábula winery, the house's top wine, made from Tempranillo and labelled Reserva.",
+    "fr": "Rouge de Ribera del Duero de la cave Tábula, le vin le plus ambitieux de la maison, élaboré à partir de tempranillo et portant la mention Reserva.",
+    "it": "Rosso di Ribera del Duero della cantina Tábula, il vino di punta della casa, prodotto con Tempranillo e con la menzione Reserva."
   },
   "body": {
-    "es": "<p>Lleva la mención Reserva. Su graduación es de 13,5 % vol.</p><p>Ribera del Duero es una denominación de origen de Castilla y León, creada en 1982, que se extiende a lo largo del río Duero en una meseta de gran altitud. Es conocida por sus tintos de Tempranillo, llamada aquí Tinto Fino o Tinta del País.</p>",
-    "en": "<p>It carries the Reserva designation. It has 13.5% ABV.</p><p>Ribera del Duero is a designation of origin in Castilla y León, created in 1982, that runs along the Duero river on a high plateau. It is known for its reds made from Tempranillo, called Tinto Fino or Tinta del País locally.</p>",
-    "fr": "<p>Il porte la mention Reserva. Il titre 13,5 % vol.</p><p>La Ribera del Duero est une dénomination d'origine de Castille-et-León, créée en 1982, qui s'étend le long du Douro sur un haut plateau. Elle est connue pour ses rouges de tempranillo, appelé ici tinto fino ou tinta del país.</p>",
-    "it": "<p>Riporta la menzione Reserva. Ha 13,5% vol.</p><p>Ribera del Duero è una denominazione di origine della Castiglia e León, istituita nel 1982, che si estende lungo il fiume Duero su un altopiano elevato. È nota per i rossi di Tempranillo, chiamato qui Tinto Fino o Tinta del País.</p>"
+    "es": "<p><strong>Clave de Tábula</strong> es el vino de mayor rango de <strong>Bodegas Tábula</strong>, una bodega de la <strong>Ribera del Duero</strong> nacida en la etapa de expansión de la denominación, a finales del siglo XX y comienzos del XXI. La gama de la casa se escalona desde tintos más jóvenes hasta este vino, procedente de una selección de sus viñas de más calidad.</p><p>La Ribera del Duero se extiende por una meseta elevada a lo largo del río Duero, con un clima continental de inviernos fríos, veranos cálidos y una fuerte diferencia de temperatura entre el día y la noche. Estas condiciones dan a la <strong>Tempranillo</strong>, llamada aquí Tinto Fino o Tinta del País, color intenso, buena acidez y tanino firme.</p><p>El vino lleva la mención <strong>Reserva</strong>, que en la denominación exige un periodo mínimo de envejecimiento en barrica y en botella antes de su salida al mercado. Es un tinto concentrado y estructurado, con fruta negra madura, notas de roble y especias, y capacidad para evolucionar durante varios años.</p>",
+    "en": "<p><strong>Clave de Tábula</strong> is the top wine of <strong>Bodegas Tábula</strong>, a <strong>Ribera del Duero</strong> winery born during the appellation's period of expansion in the late 20th and early 21st centuries. The house's range is tiered from younger reds up to this wine, which comes from a selection of its best vineyards.</p><p>Ribera del Duero stretches across a high plateau along the Duero river, with a continental climate of cold winters, hot summers and a large difference between day and night temperatures. These conditions give <strong>Tempranillo</strong>, known here as Tinto Fino or Tinta del País, deep colour, good acidity and firm tannin.</p><p>The wine carries the <strong>Reserva</strong> designation, which in this appellation requires a minimum period of ageing in barrel and bottle before release. It is a concentrated, structured red with ripe black fruit, notes of oak and spice, and the capacity to develop for several years.</p>",
+    "fr": "<p><strong>Clave de Tábula</strong> est le vin le plus ambitieux de <strong>Bodegas Tábula</strong>, une cave de la <strong>Ribera del Duero</strong> née pendant la période d'expansion de l'appellation, à la fin du XXe et au début du XXIe siècle. La gamme de la maison s'échelonne de rouges plus jeunes jusqu'à ce vin, issu d'une sélection de ses meilleures vignes.</p><p>La Ribera del Duero s'étend sur un plateau élevé le long du Duero, sous un climat continental aux hivers froids, aux étés chauds et à la forte amplitude thermique entre le jour et la nuit. Ces conditions donnent au <strong>tempranillo</strong>, appelé ici Tinto Fino ou Tinta del País, une couleur profonde, une bonne acidité et un tanin ferme.</p><p>Le vin porte la mention <strong>Reserva</strong>, qui exige dans l'appellation une durée minimale de vieillissement en barrique et en bouteille avant la commercialisation. C'est un rouge concentré et structuré, aux fruits noirs mûrs, aux notes boisées et épicées, capable d'évoluer pendant plusieurs années.</p>",
+    "it": "<p><strong>Clave de Tábula</strong> è il vino di punta di <strong>Bodegas Tábula</strong>, una cantina della <strong>Ribera del Duero</strong> nata nel periodo di espansione della denominazione, tra la fine del XX e l'inizio del XXI secolo. La gamma della casa va dai rossi più giovani fino a questo vino, frutto di una selezione dei suoi vigneti migliori.</p><p>La Ribera del Duero si estende su un altopiano elevato lungo il fiume Duero, con un clima continentale di inverni freddi, estati calde e forte escursione termica tra giorno e notte. Queste condizioni conferiscono al <strong>Tempranillo</strong>, chiamato qui Tinto Fino o Tinta del País, colore intenso, buona acidità e tannino deciso.</p><p>Il vino porta la menzione <strong>Reserva</strong>, che nella denominazione richiede un periodo minimo di invecchiamento in botte e in bottiglia prima della commercializzazione. È un rosso concentrato e strutturato, con frutti neri maturi, note di rovere e spezie, e capacità di evolvere per diversi anni.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo picota de capa alta. Aromas de mora, ciruela, regaliz, especias y roble tostado. Boca potente y bien estructurada, con taninos firmes y final largo.",
+    "en": "Deep cherry red. Aromas of blackberry, plum, liquorice, spice and toasted oak. Powerful, well-structured palate with firm tannins and a long finish.",
+    "fr": "Rouge cerise à la robe profonde. Arômes de mûre, de prune, de réglisse, d'épices et de chêne toasté. Bouche puissante et bien structurée, aux tanins fermes et à la finale longue.",
+    "it": "Rosso ciliegia molto carico. Aromi di mora, prugna, liquirizia, spezie e rovere tostato. Bocca potente e ben strutturata, tannini fermi e finale lungo."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Lechazo asado, chuletón, caza mayor, guisos de carne, quesos curados",
+    "en": "Roast suckling lamb, rib steak, large game, meat stews, aged cheeses",
+    "fr": "Agneau de lait rôti, côte de bœuf, grand gibier, ragoûts de viande, fromages affinés",
+    "it": "Agnello da latte arrosto, costata, selvaggina grossa, stufati di carne, formaggi stagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "16-18 °C, copa amplia; conviene decantar",
+    "en": "16-18 °C, large glass; decanting recommended",
+    "fr": "16-18 °C, verre ample ; carafage conseillé",
+    "it": "16-18 °C, calice ampio; consigliata la decantazione"
   },
   "search": "Clave de Tábula Tábula",
-  "brief": true,
   "source": "decantalo"
 }

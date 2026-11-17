@@ -7,34 +7,45 @@
   "country": "italia",
   "appellation": "DOCG Chianti Classico",
   "type": "tinto",
-  "category": null,
-  "grapes": [],
+  "category": {
+    "es": "Gran Selezione",
+    "en": "Gran Selezione",
+    "fr": "Gran Selezione",
+    "it": "Gran Selezione"
+  },
+  "grapes": [
+    "sangiovese"
+  ],
   "summary": {
-    "es": "Dievole Vigna di Sessina Chianti Classico Gran Selezione es un vino tinto de Dievole, con la denominación DOCG Chianti Classico, en Italia.",
-    "en": "Dievole Vigna di Sessina Chianti Classico Gran Selezione is a red wine from Dievole, made under the DOCG Chianti Classico appellation in Italy.",
-    "fr": "Dievole Vigna di Sessina Chianti Classico Gran Selezione est un vin rouge de Dievole, élaboré sous l’appellation DOCG Chianti Classico (Italie).",
-    "it": "Dievole Vigna di Sessina Chianti Classico Gran Selezione è un vino rosso di Dievole, prodotto nella denominazione DOCG Chianti Classico (Italia)."
+    "es": "Chianti Classico Gran Selezione de la finca Dievole, en el sector sur de la denominación, procedente de la viña Sessina y basado en la Sangiovese.",
+    "en": "A Chianti Classico Gran Selezione from the Dievole estate, in the southern part of the appellation, sourced from the Sessina vineyard and based on Sangiovese.",
+    "fr": "Chianti Classico Gran Selezione du domaine Dievole, dans le sud de l'appellation, issu de la vigne Sessina et fondé sur le sangiovese.",
+    "it": "Chianti Classico Gran Selezione della tenuta Dievole, nel settore meridionale della denominazione, proveniente dalla Vigna di Sessina e basato sul Sangiovese."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 14 % vol.</p><p>El Chianti Classico es la zona histórica del Chianti, entre Florencia y Siena, y su vino se elabora con un mínimo del 80 % de Sangiovese. Su símbolo es el gallo negro y es DOCG independiente desde 1996.</p>",
-    "en": "<p>It is aged in wood. It has 14% ABV.</p><p>Chianti Classico is the historic heart of Chianti, between Florence and Siena, and its wine is made from at least 80% Sangiovese. Its symbol is the black rooster, and it has been a separate DOCG since 1996.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 14 % vol.</p><p>Le Chianti Classico est la zone historique du Chianti, entre Florence et Sienne, et son vin est élaboré avec au moins 80 % de sangiovese. Son emblème est le coq noir et il constitue une DOCG autonome depuis 1996.</p>",
-    "it": "<p>È affinato in legno. Ha 14% vol.</p><p>Il Chianti Classico è la zona storica del Chianti, tra Firenze e Siena, e il suo vino si produce con almeno l'80% di Sangiovese. Il suo simbolo è il gallo nero ed è DOCG autonoma dal 1996.</p>"
+    "es": "<p><strong>Dievole</strong> es una antigua finca del <strong>Chianti Classico</strong> situada en Vagliagli, en el municipio de Castelnuovo Berardenga, en las colinas al norte de Siena. Sus tierras combinan viñedo, olivar y bosque, el paisaje típico del corazón histórico del Chianti.</p><p>La <strong>Gran Selezione</strong> es la categoría más alta de la pirámide del Chianti Classico, por encima de la Annata y la Riserva. Se reserva a vinos elaborados con uvas propias de la finca y exige una crianza más larga que las otras categorías. <strong>Vigna di Sessina</strong> es la expresión de una sola viña de Dievole, lo que la sitúa entre los vinos de parcela de la denominación.</p><p>Se basa en la <strong>Sangiovese</strong>, la variedad que define el Chianti Classico, cultivada aquí en suelos de colina en los que se alternan arcillas, calizas y el característico <em>alberese</em> de la zona. Tras la fermentación, el vino se cría en madera, en un estilo que busca conservar la fruta y la frescura propias de la Sangiovese. Es un tinto estructurado, de tanino firme y acidez viva, pensado para mejorar varios años en botella.</p>",
+    "en": "<p><strong>Dievole</strong> is a long-established <strong>Chianti Classico</strong> estate at Vagliagli, in the municipality of Castelnuovo Berardenga, in the hills north of Siena. Its land combines vineyards, olive groves and woodland, the typical landscape of the historic heart of Chianti.</p><p><strong>Gran Selezione</strong> is the top tier of the Chianti Classico pyramid, above Annata and Riserva. It is reserved for wines made from the estate's own grapes and requires longer ageing than the other categories. <strong>Vigna di Sessina</strong> is the expression of a single Dievole vineyard, placing it among the appellation's single-site wines.</p><p>It is based on <strong>Sangiovese</strong>, the variety that defines Chianti Classico, grown here on hillside soils that alternate clay, limestone and the area's characteristic <em>alberese</em>. After fermentation the wine is aged in wood, in a style that seeks to preserve Sangiovese's fruit and freshness. It is a structured red with firm tannins and lively acidity, designed to improve for several years in bottle.</p>",
+    "fr": "<p><strong>Dievole</strong> est un domaine ancien du <strong>Chianti Classico</strong> situé à Vagliagli, sur la commune de Castelnuovo Berardenga, dans les collines au nord de Sienne. Ses terres associent vignes, oliviers et bois, le paysage typique du cœur historique du Chianti.</p><p>La <strong>Gran Selezione</strong> est le sommet de la pyramide du Chianti Classico, au-dessus de l'Annata et de la Riserva. Elle est réservée aux vins issus des raisins du domaine et impose un élevage plus long que les autres catégories. <strong>Vigna di Sessina</strong> est l'expression d'une seule vigne de Dievole, ce qui la place parmi les vins parcellaires de l'appellation.</p><p>Il repose sur le <strong>sangiovese</strong>, le cépage qui définit le Chianti Classico, cultivé ici sur des sols de coteaux où alternent argiles, calcaires et l'<em>alberese</em> caractéristique de la zone. Après la fermentation, le vin est élevé sous bois, dans un style qui cherche à préserver le fruit et la fraîcheur du sangiovese. C'est un rouge structuré, aux tanins fermes et à l'acidité vive, conçu pour s'améliorer plusieurs années en bouteille.</p>",
+    "it": "<p><strong>Dievole</strong> è una storica tenuta del <strong>Chianti Classico</strong> situata a Vagliagli, nel comune di Castelnuovo Berardenga, sulle colline a nord di Siena. Le sue terre uniscono vigneti, oliveti e boschi, il paesaggio tipico del cuore storico del Chianti.</p><p>La <strong>Gran Selezione</strong> è il vertice della piramide del Chianti Classico, al di sopra di Annata e Riserva. È riservata ai vini ottenuti da uve di proprietà e richiede un affinamento più lungo rispetto alle altre tipologie. La <strong>Vigna di Sessina</strong> è l'espressione di un singolo vigneto di Dievole, il che la colloca tra i vini di parcella della denominazione.</p><p>Si basa sul <strong>Sangiovese</strong>, il vitigno che definisce il Chianti Classico, coltivato qui su suoli collinari in cui si alternano argille, calcari e il caratteristico <em>alberese</em> della zona. Dopo la fermentazione il vino matura in legno, con uno stile che punta a preservare il frutto e la freschezza del Sangiovese. È un rosso strutturato, dal tannino deciso e dall'acidità vivace, pensato per migliorare per diversi anni in bottiglia.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo rubí intenso. Aromas de cereza, guinda, violeta, hierbas mediterráneas y notas especiadas. Boca estructurada, de tanino firme y acidez viva, con un final largo y sabroso.",
+    "en": "Deep ruby red. Aromas of cherry, sour cherry, violet, Mediterranean herbs and spicy notes. Structured palate with firm tannins, lively acidity and a long, savoury finish.",
+    "fr": "Rouge rubis intense. Arômes de cerise, de griotte, de violette, d'herbes méditerranéennes et notes épicées. Bouche structurée, aux tanins fermes et à l'acidité vive, avec une finale longue et sapide.",
+    "it": "Rosso rubino intenso. Aromi di ciliegia, amarena, viola, erbe mediterranee e note speziate. Bocca strutturata, dal tannino deciso e dall'acidità vivace, con un finale lungo e sapido."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Bistecca a la florentina, caza, pappardelle con ragú de jabalí, quesos curados",
+    "en": "Bistecca alla fiorentina, game, pappardelle with wild boar ragù, aged cheeses",
+    "fr": "Bistecca alla fiorentina, gibier, pappardelle au ragoût de sanglier, fromages affinés",
+    "it": "Bistecca alla fiorentina, selvaggina, pappardelle al ragù di cinghiale, formaggi stagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "16-18 °C, copa amplia de tinto",
+    "en": "16-18 °C, large red wine glass",
+    "fr": "16-18 °C, grand verre à vin rouge",
+    "it": "16-18 °C, calice ampio da rosso"
   },
   "search": "Dievole Vigna di Sessina Chianti Classico Gran Selezione Dievole",
-  "brief": true,
   "source": "decantalo"
 }

@@ -8,33 +8,40 @@
   "appellation": "DOQ Priorat",
   "type": "blanco",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "garnacha-blanca",
+    "macabeo"
+  ],
   "summary": {
-    "es": "Coma Blanca es un vino blanco de Mas d'en Gil, con la denominación DOQ Priorat, en España.",
-    "en": "Coma Blanca is a white wine from Mas d'en Gil, made under the DOQ Priorat appellation in Spain.",
-    "fr": "Coma Blanca est un vin blanc de Mas d'en Gil, élaboré sous l’appellation DOQ Priorat (Espagne).",
-    "it": "Coma Blanca è un vino bianco di Mas d'en Gil, prodotto nella denominazione DOQ Priorat (Spagna)."
+    "es": "Blanco con crianza en madera de Mas d’en Gil, finca de Bellmunt del Priorat, elaborado con variedades blancas mediterráneas cultivadas sobre pizarra.",
+    "en": "Oak-aged white from Mas d’en Gil, an estate in Bellmunt del Priorat, made from Mediterranean white varieties grown on slate.",
+    "fr": "Blanc élevé en fût de Mas d’en Gil, domaine de Bellmunt del Priorat, élaboré avec des cépages blancs méditerranéens cultivés sur schiste.",
+    "it": "Bianco affinato in legno di Mas d’en Gil, tenuta di Bellmunt del Priorat, prodotto con varietà bianche mediterranee coltivate su scisto."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 15 % vol.</p><p>Priorat, en la provincia de Tarragona, es una de las dos Denominaciones de Origen Calificadas de España, junto a Rioja. Sus tintos de Garnacha y Cariñena, cultivadas en laderas de pizarra llamada llicorella, se caracterizan por su concentración y su carácter mineral.</p>",
-    "en": "<p>It is aged in wood. It has 15% ABV.</p><p>Priorat, in the province of Tarragona, is one of Spain's two Qualified Designations of Origin, alongside Rioja. Its reds from Grenache and Carignan, grown on slopes of slate known as llicorella, are noted for their concentration and mineral character.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 15 % vol.</p><p>Le Priorat, dans la province de Tarragone, est l'une des deux dénominations d'origine qualifiées d'Espagne, avec la Rioja. Ses rouges de grenache et de carignan, cultivés sur des coteaux de schiste appelé llicorella, se distinguent par leur concentration et leur caractère minéral.</p>",
-    "it": "<p>È affinato in legno. Ha 15% vol.</p><p>Il Priorat, nella provincia di Tarragona, è una delle due Denominazioni di origine qualificate della Spagna, insieme alla Rioja. I suoi rossi di Garnacha e Carignano, coltivati su pendii di scisto detto llicorella, si distinguono per concentrazione e carattere minerale.</p>"
+    "es": "<p>Mas d’en Gil es una finca vitícola situada en <strong>Bellmunt del Priorat</strong>, en el sur de la DOQ Priorat, una zona de tradición minera donde el viñedo se reparte entre terrazas y laderas de <strong>llicorella</strong>, la pizarra característica de la comarca. La propiedad, de origen antiguo, elabora vinos exclusivamente con uva de sus propias viñas, rodeadas de olivos, almendros y monte bajo.</p><p>Coma Blanca es el blanco de referencia de la casa. Se elabora con variedades blancas tradicionales del Priorat, en particular <strong>Garnacha Blanca</strong> y <strong>Macabeo</strong>, que en este clima cálido y seco alcanzan una madurez elevada, como refleja su graduación de 15 % vol. Tras la fermentación, el vino se cría en barrica, lo que le aporta volumen y notas tostadas sin ocultar el carácter de la fruta.</p><p>Es un blanco de cuerpo, más cercano en estructura a un tinto ligero que a un blanco joven, con textura glicérica y un fondo mineral asociado a los suelos de pizarra. Puede evolucionar favorablemente en botella durante varios años y gana con un poco de aireación.</p>",
+    "en": "<p>Mas d’en Gil is a wine estate in <strong>Bellmunt del Priorat</strong>, in the south of the DOQ Priorat, a former mining area where the vines are spread over terraces and slopes of <strong>llicorella</strong>, the slate typical of the district. The property, of old origin, makes wine exclusively from its own vineyards, surrounded by olive and almond trees and scrubland.</p><p>Coma Blanca is the house’s flagship white. It is made from traditional Priorat white varieties, in particular <strong>Garnacha Blanca</strong> and <strong>Macabeo</strong>, which reach high ripeness in this hot, dry climate, as its 15% ABV shows. After fermentation the wine is aged in barrel, which gives it volume and toasty notes without masking the character of the fruit.</p><p>It is a full-bodied white, closer in structure to a light red than to a young white, with a glyceric texture and a mineral background associated with the slate soils. It can develop well in bottle for several years and benefits from a little aeration.</p>",
+    "fr": "<p>Mas d’en Gil est un domaine viticole situé à <strong>Bellmunt del Priorat</strong>, dans le sud de la DOQ Priorat, une ancienne zone minière où les vignes se répartissent entre terrasses et coteaux de <strong>llicorella</strong>, le schiste caractéristique de la région. La propriété, d’origine ancienne, élabore ses vins exclusivement avec les raisins de ses propres vignes, entourées d’oliviers, d’amandiers et de garrigue.</p><p>Coma Blanca est le blanc de référence de la maison. Il est élaboré avec des cépages blancs traditionnels du Priorat, notamment le <strong>grenache blanc</strong> et le <strong>macabeu</strong>, qui atteignent dans ce climat chaud et sec une maturité élevée, comme en témoignent ses 15 % vol. Après la fermentation, le vin est élevé en barrique, ce qui lui apporte du volume et des notes toastées sans masquer le caractère du fruit.</p><p>C’est un blanc corsé, plus proche par sa structure d’un rouge léger que d’un blanc jeune, à la texture glycérinée et au fond minéral associé aux sols de schiste. Il peut bien évoluer en bouteille pendant plusieurs années et gagne à être un peu aéré.</p>",
+    "it": "<p>Mas d’en Gil è una tenuta vitivinicola situata a <strong>Bellmunt del Priorat</strong>, nel sud della DOQ Priorat, un’antica zona mineraria dove le vigne si distribuiscono tra terrazze e pendii di <strong>llicorella</strong>, lo scisto caratteristico della zona. La proprietà, di origine antica, produce vini esclusivamente con uve dei propri vigneti, circondati da ulivi, mandorli e macchia.</p><p>Coma Blanca è il bianco di riferimento della casa. È prodotto con varietà bianche tradizionali del Priorat, in particolare <strong>Garnacha Blanca</strong> e <strong>Macabeo</strong>, che in questo clima caldo e secco raggiungono una maturazione elevata, come rivela la gradazione di 15% vol. Dopo la fermentazione il vino affina in barrique, che gli conferisce volume e note tostate senza coprire il carattere del frutto.</p><p>È un bianco di corpo, più vicino per struttura a un rosso leggero che a un bianco giovane, con una consistenza glicerica e un fondo minerale legato ai suoli di scisto. Può evolvere bene in bottiglia per diversi anni e beneficia di una leggera ossigenazione.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Amarillo dorado. Aromas de fruta blanca madura, hierbas mediterráneas, miel y notas tostadas de la barrica. En boca es amplio y untuoso, con un fondo mineral y final largo.",
+    "en": "Golden yellow. Aromas of ripe white fruit, Mediterranean herbs, honey and toasty oak notes. Broad and unctuous on the palate, with a mineral background and a long finish.",
+    "fr": "Jaune doré. Arômes de fruits blancs mûrs, herbes méditerranéennes, miel et notes toastées de la barrique. En bouche, il est ample et onctueux, avec un fond minéral et une longue finale.",
+    "it": "Giallo dorato. Aromi di frutta bianca matura, erbe mediterranee, miele e note tostate della barrique. In bocca è ampio e untuoso, con un fondo minerale e un finale lungo."
+  },
   "pairing": {
-    "es": "Pescados, mariscos, arroces, quesos frescos",
-    "en": "Fish, shellfish, rice dishes, fresh cheeses",
-    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
-    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+    "es": "Pescados al horno, arroces, aves, setas, quesos semicurados",
+    "en": "Baked fish, rice dishes, poultry, mushrooms, semi-cured cheeses",
+    "fr": "Poissons au four, plats de riz, volailles, champignons, fromages mi-affinés",
+    "it": "Pesce al forno, risotti e piatti di riso, pollame, funghi, formaggi semistagionati"
   },
   "serve": {
-    "es": "8-11 °C, copa de vino blanco",
-    "en": "8-11 °C, white wine glass",
-    "fr": "8-11 °C, verre à vin blanc",
-    "it": "8-11 °C, calice da vino bianco"
+    "es": "11-13 °C, copa amplia",
+    "en": "11-13 °C, large glass",
+    "fr": "11-13 °C, verre ample",
+    "it": "11-13 °C, calice ampio"
   },
   "search": "Coma Blanca Mas d'en Gil",
-  "brief": true,
   "source": "decantalo"
 }

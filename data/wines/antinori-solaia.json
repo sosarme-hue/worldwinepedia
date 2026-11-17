@@ -8,33 +8,41 @@
   "appellation": "IGP Toscana",
   "type": "tinto",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "cabernet-sauvignon",
+    "sangiovese",
+    "cabernet-franc"
+  ],
   "summary": {
-    "es": "Antinori Solaia es un vino tinto de Marchesi Antinori, con la denominación IGP Toscana, en Italia.",
-    "en": "Antinori Solaia is a red wine from Marchesi Antinori, made under the IGP Toscana appellation in Italy.",
-    "fr": "Antinori Solaia est un vin rouge de Marchesi Antinori, élaboré sous l’appellation IGP Toscana (Italie).",
-    "it": "Antinori Solaia è un vino rosso di Marchesi Antinori, prodotto nella denominazione IGP Toscana (Italia)."
+    "es": "Supertoscano de la familia Antinori procedente del viñedo Solaia, contiguo al de Tignanello, elaborado sobre todo con Cabernet Sauvignon junto a Sangiovese y Cabernet Franc.",
+    "en": "Super Tuscan from the Antinori family sourced from the Solaia vineyard, next to Tignanello, made mainly from Cabernet Sauvignon with Sangiovese and Cabernet Franc.",
+    "fr": "Super-toscan de la famille Antinori issu du vignoble Solaia, voisin de celui de Tignanello, élaboré surtout avec du cabernet-sauvignon, avec du sangiovese et du cabernet franc.",
+    "it": "Supertuscan della famiglia Antinori proveniente dal vigneto Solaia, attiguo a quello del Tignanello, prodotto soprattutto con Cabernet Sauvignon insieme a Sangiovese e Cabernet Franc."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 14 % vol.</p><p>Familia florentina dedicada al vino desde 1385, una de las casas más influyentes de Italia y artífice de Tignanello, uno de los primeros grandes «supertoscanos».</p><p>Toscana, en el centro de Italia, es la gran tierra de la Sangiovese, base del Chianti, el Brunello di Montalcino y el Vino Nobile di Montepulciano. En su costa se desarrollaron además los vinos de variedades bordelesas conocidos como Supertoscanos.</p>",
-    "en": "<p>It is aged in wood. It has 14% ABV.</p><p>Florentine family involved in wine since 1385, one of Italy’s most influential houses and the creator of Tignanello, one of the first great “Super Tuscans”.</p><p>Tuscany, in central Italy, is the great home of Sangiovese, the basis of Chianti, Brunello di Montalcino and Vino Nobile di Montepulciano. Its coast also gave rise to the Bordeaux-variety wines known as Super Tuscans.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 14 % vol.</p><p>Famille florentine liée au vin depuis 1385, l’une des maisons les plus influentes d’Italie et créatrice du Tignanello, l’un des premiers grands « super-toscans ».</p><p>La Toscane, au centre de l'Italie, est la grande terre du sangiovese, base du Chianti, du Brunello di Montalcino et du Vino Nobile di Montepulciano. Sur sa côte se sont aussi développés les vins de cépages bordelais connus sous le nom de Supertoscans.</p>",
-    "it": "<p>È affinato in legno. Ha 14% vol.</p><p>Famiglia fiorentina dedita al vino dal 1385, una delle case più influenti d’Italia e artefice del Tignanello, uno dei primi grandi “Supertuscan”.</p><p>La Toscana, nell'Italia centrale, è la grande terra del Sangiovese, base del Chianti, del Brunello di Montalcino e del Vino Nobile di Montepulciano. Sulla sua costa si sono inoltre sviluppati i vini da vitigni bordolesi noti come Supertuscan.</p>"
+    "es": "<p><strong>Solaia</strong> toma su nombre del viñedo del que procede, una ladera muy soleada (de ahí el nombre, «la soleada») situada en la finca Tignanello de los <strong>Antinori</strong>, en la zona del Chianti Classico, entre los valles de los ríos Greve y Pesa. La familia, dedicada al vino en Florencia desde el siglo XIV, fue una de las protagonistas de la aparición de los llamados <strong>supertoscanos</strong> en los años setenta, vinos de gran ambición que quedaban fuera de las normas de las denominaciones de la época.</p><p>A diferencia del Tignanello, en el que domina la Sangiovese, Solaia se basa en la <strong>Cabernet Sauvignon</strong>, completada con Sangiovese y una pequeña parte de Cabernet Franc. El viñedo, a unos cientos de metros de altitud, tiene suelos pedregosos de margas y caliza (galestro y alberese). Las variedades y parcelas se vinifican por separado y el vino se cría en barricas de roble francés antes del ensamblaje final y de un reposo en botella.</p><p>Hoy se embotella como IGT Toscana. Es un tinto concentrado y de gran estructura, en el que la fruta negra de la Cabernet se combina con la acidez y el carácter más especiado de la Sangiovese. Está concebido para una larga guarda.</p>",
+    "en": "<p><strong>Solaia</strong> takes its name from the vineyard it comes from, a very sunny slope (hence the name, “the sunny one”) on the <strong>Antinori</strong> family’s Tignanello estate, in the Chianti Classico area between the Greve and Pesa valleys. The family, in the wine business in Florence since the 14th century, was one of the protagonists of the emergence of the so-called <strong>Super Tuscans</strong> in the 1970s, highly ambitious wines that fell outside the appellation rules of the time.</p><p>Unlike Tignanello, which is led by Sangiovese, Solaia is based on <strong>Cabernet Sauvignon</strong>, completed with Sangiovese and a small proportion of Cabernet Franc. The vineyard, a few hundred metres above sea level, has stony soils of marl and limestone (galestro and alberese). Varieties and plots are vinified separately and the wine is aged in French oak barrels before final blending and a period of bottle rest.</p><p>Today it is bottled as IGT Toscana. It is a concentrated, highly structured red in which the black fruit of Cabernet combines with the acidity and spicier character of Sangiovese. It is built for long ageing.</p>",
+    "fr": "<p><strong>Solaia</strong> doit son nom au vignoble dont il provient, un coteau très ensoleillé (d’où le nom, « l’ensoleillée ») situé sur le domaine Tignanello de la famille <strong>Antinori</strong>, dans le Chianti Classico, entre les vallées de la Greve et de la Pesa. La famille, active dans le vin à Florence depuis le XIVe siècle, fut l’une des protagonistes de l’apparition des <strong>super-toscans</strong> dans les années 1970, des vins très ambitieux qui sortaient des règles des appellations de l’époque.</p><p>Contrairement au Tignanello, dominé par le sangiovese, Solaia repose sur le <strong>cabernet-sauvignon</strong>, complété par du sangiovese et une petite part de cabernet franc. Le vignoble, à quelques centaines de mètres d’altitude, possède des sols caillouteux de marnes et de calcaire (galestro et alberese). Cépages et parcelles sont vinifiés séparément, et le vin est élevé en barriques de chêne français avant l’assemblage final et un repos en bouteille.</p><p>Il est aujourd’hui commercialisé en IGT Toscana. C’est un rouge concentré et très structuré, où les fruits noirs du cabernet s’associent à l’acidité et au caractère plus épicé du sangiovese. Il est conçu pour une longue garde.</p>",
+    "it": "<p><strong>Solaia</strong> prende il nome dal vigneto da cui proviene, un pendio molto soleggiato (da qui il nome) nella tenuta Tignanello della famiglia <strong>Antinori</strong>, nella zona del Chianti Classico, tra le valli della Greve e della Pesa. La famiglia, attiva nel vino a Firenze dal XIV secolo, è stata tra i protagonisti della nascita dei cosiddetti <strong>Supertuscan</strong> negli anni Settanta, vini di grande ambizione che restavano fuori dalle regole delle denominazioni dell’epoca.</p><p>A differenza del Tignanello, in cui domina il Sangiovese, Solaia si basa sul <strong>Cabernet Sauvignon</strong>, completato da Sangiovese e da una piccola parte di Cabernet Franc. Il vigneto, a qualche centinaio di metri di altitudine, ha suoli sassosi di marne e calcare (galestro e alberese). Vitigni e parcelle vengono vinificati separatamente e il vino affina in barrique di rovere francese prima dell’assemblaggio finale e di un riposo in bottiglia.</p><p>Oggi è imbottigliato come IGT Toscana. È un rosso concentrato e di grande struttura, in cui il frutto nero del Cabernet si unisce all’acidità e al carattere più speziato del Sangiovese. È pensato per un lungo invecchiamento.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo rubí profundo. Aromas de cassis, mora, cereza, hierbas aromáticas, tabaco y especias de la barrica. En boca es amplio y estructurado, con taninos densos y pulidos, buena acidez y final muy largo.",
+    "en": "Deep ruby red. Aromas of cassis, blackberry, cherry, aromatic herbs, tobacco and oak spice. Broad and structured on the palate, with dense, polished tannins, good acidity and a very long finish.",
+    "fr": "Rouge rubis profond. Arômes de cassis, mûre, cerise, herbes aromatiques, tabac et épices de la barrique. En bouche, il est ample et structuré, aux tanins denses et polis, à la bonne acidité et à la finale très longue.",
+    "it": "Rosso rubino profondo. Aromi di cassis, mora, ciliegia, erbe aromatiche, tabacco e spezie della barrique. In bocca è ampio e strutturato, con tannini densi e levigati, buona acidità e finale molto lungo."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Bistecca a la florentina, cordero asado, caza, platos con trufa, quesos curados",
+    "en": "Bistecca alla fiorentina, roast lamb, game, truffle dishes, aged cheeses",
+    "fr": "Bistecca alla fiorentina, agneau rôti, gibier, plats à la truffe, fromages affinés",
+    "it": "Bistecca alla fiorentina, agnello arrosto, selvaggina, piatti al tartufo, formaggi stagionati"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "17-18 °C, decantado, copa amplia",
+    "en": "17-18 °C, decanted, large glass",
+    "fr": "17-18 °C, carafé, verre ample",
+    "it": "17-18 °C, decantato, calice ampio"
   },
   "search": "Antinori Solaia Antinori",
-  "brief": true,
   "source": "decantalo"
 }

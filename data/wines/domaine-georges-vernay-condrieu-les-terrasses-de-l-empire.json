@@ -8,33 +8,39 @@
   "appellation": "AOC Condrieu",
   "type": "blanco",
   "category": null,
-  "grapes": [],
+  "grapes": [
+    "viognier"
+  ],
   "summary": {
-    "es": "Domaine Georges Vernay Condrieu Les Terrasses de l'Empire es un vino blanco de Domaine Georges Vernay, con la denominación AOC Condrieu, en Francia.",
-    "en": "Domaine Georges Vernay Condrieu Les Terrasses de l'Empire is a white wine from Domaine Georges Vernay, made under the AOC Condrieu appellation in France.",
-    "fr": "Domaine Georges Vernay Condrieu Les Terrasses de l'Empire est un vin blanc de Domaine Georges Vernay, élaboré sous l’appellation AOC Condrieu (France).",
-    "it": "Domaine Georges Vernay Condrieu Les Terrasses de l'Empire è un vino bianco di Domaine Georges Vernay, prodotto nella denominazione AOC Condrieu (Francia)."
+    "es": "Condrieu de Viognier del Domaine Georges Vernay, procedente de viñas en terrazas graníticas sobre el Ródano y criado en parte en barrica.",
+    "en": "A Condrieu from Viognier by Domaine Georges Vernay, sourced from vines on granite terraces above the Rhône and partly aged in barrel.",
+    "fr": "Condrieu de viognier du Domaine Georges Vernay, issu de vignes en terrasses granitiques au-dessus du Rhône et élevé en partie en fût.",
+    "it": "Condrieu da Viognier del Domaine Georges Vernay, proveniente da vigne su terrazze granitiche sopra il Rodano e affinato in parte in barrique."
   },
   "body": {
-    "es": "<p>Tiene crianza en madera. Su graduación es de 13,5 % vol.</p><p>Finca familiar de Condrieu, en el Ródano norte, ligada a Georges Vernay, figura clave en la salvación de la denominación, y dirigida hoy por su hija Christine.</p><p>Condrieu, al sur de Côte-Rôtie, es la denominación de referencia de la Viognier. Sus blancos, muy aromáticos y untuosos, proceden de laderas graníticas en terrazas sobre el Ródano.</p>",
-    "en": "<p>It is aged in wood. It has 13.5% ABV.</p><p>Family estate in Condrieu, in the northern Rhône, linked to Georges Vernay, a key figure in saving the appellation, and now run by his daughter Christine.</p><p>Condrieu, south of Côte-Rôtie, is the benchmark appellation for Viognier. Its very aromatic, unctuous whites come from terraced granite slopes above the Rhône.</p>",
-    "fr": "<p>Il est élevé en bois. Il titre 13,5 % vol.</p><p>Domaine familial de Condrieu, dans le Rhône septentrional, lié à Georges Vernay, figure clé du sauvetage de l’appellation, et dirigé aujourd’hui par sa fille Christine.</p><p>Condrieu, au sud de Côte-Rôtie, est l'appellation de référence du viognier. Ses blancs très aromatiques et onctueux naissent de coteaux granitiques en terrasses dominant le Rhône.</p>",
-    "it": "<p>È affinato in legno. Ha 13,5% vol.</p><p>Tenuta familiare di Condrieu, nel Rodano settentrionale, legata a Georges Vernay, figura chiave nel salvataggio della denominazione, e oggi diretta dalla figlia Christine.</p><p>Condrieu, a sud di Côte-Rôtie, è la denominazione di riferimento del Viognier. I suoi bianchi, molto aromatici e untuosi, provengono da pendii granitici terrazzati sopra il Rodano.</p>"
+    "es": "<p>El <strong>Domaine Georges Vernay</strong> es una finca familiar de <strong>Condrieu</strong>, en el norte del Ródano. <strong>Georges Vernay</strong> fue una figura clave en la supervivencia de la denominación en la segunda mitad del siglo XX, cuando la superficie de Viognier se había reducido a unas pocas hectáreas, y contribuyó a recuperar las terrazas abandonadas. Desde los años noventa dirige la finca su hija <strong>Christine Vernay</strong>; la gama de la casa incluye también vinos de Côte-Rôtie y Saint-Joseph.</p><p><strong>Condrieu</strong>, al sur de Côte-Rôtie, es la denominación de referencia de la <strong>Viognier</strong>. Sus viñas ocupan laderas muy empinadas de granito descompuesto, sostenidas por muros de piedra seca y orientadas al sur y al sureste sobre el río. Los vinos son blancos secos, muy aromáticos y de textura untuosa.</p><p><strong>Les Terrasses de l'Empire</strong> es el Condrieu más difundido de la casa y procede de varias parcelas en terrazas. Se elabora con Viognier y se cría en parte en barrica y en parte en depósito, sobre lías, para conservar la expresión aromática de la variedad. Es un blanco amplio y perfumado, con un final fresco, que puede disfrutarse joven.</p>",
+    "en": "<p><strong>Domaine Georges Vernay</strong> is a family estate in <strong>Condrieu</strong>, in the northern Rhône. <strong>Georges Vernay</strong> was a key figure in the survival of the appellation in the second half of the 20th century, when the area under Viognier had shrunk to just a few hectares, and he helped restore abandoned terraces. Since the 1990s the estate has been run by his daughter <strong>Christine Vernay</strong>; the range also includes wines from Côte-Rôtie and Saint-Joseph.</p><p><strong>Condrieu</strong>, south of Côte-Rôtie, is the benchmark appellation for <strong>Viognier</strong>. Its vines occupy very steep slopes of decomposed granite, held up by dry-stone walls and facing south and south-east over the river. The wines are dry, highly aromatic whites with an unctuous texture.</p><p><strong>Les Terrasses de l'Empire</strong> is the house's most widely available Condrieu and comes from several terraced plots. It is made from Viognier and aged partly in barrel and partly in tank, on its lees, to preserve the variety's aromatic expression. It is a broad, perfumed white with a fresh finish that can be enjoyed young.</p>",
+    "fr": "<p>Le <strong>Domaine Georges Vernay</strong> est une propriété familiale de <strong>Condrieu</strong>, dans le Rhône septentrional. <strong>Georges Vernay</strong> a joué un rôle clé dans la survie de l'appellation au cours de la seconde moitié du XXe siècle, lorsque le viognier n'occupait plus que quelques hectares, et a contribué à remettre en valeur les terrasses abandonnées. Depuis les années 1990, le domaine est dirigé par sa fille <strong>Christine Vernay</strong> ; la gamme comprend aussi des côte-rôtie et des saint-joseph.</p><p><strong>Condrieu</strong>, au sud de la Côte-Rôtie, est l'appellation de référence du <strong>viognier</strong>. Ses vignes occupent des coteaux très pentus de granite décomposé, retenus par des murets de pierre sèche et exposés au sud et au sud-est au-dessus du fleuve. Les vins sont des blancs secs, très aromatiques et à la texture onctueuse.</p><p><strong>Les Terrasses de l'Empire</strong> est le condrieu le plus diffusé de la maison et provient de plusieurs parcelles en terrasses. Il est issu de viognier et s'élève en partie en fût et en partie en cuve, sur lies, afin de préserver l'expression aromatique du cépage. C'est un blanc ample et parfumé, à la finale fraîche, qui peut se boire jeune.</p>",
+    "it": "<p>Il <strong>Domaine Georges Vernay</strong> è una tenuta familiare di <strong>Condrieu</strong>, nel Rodano settentrionale. <strong>Georges Vernay</strong> fu una figura chiave nella sopravvivenza della denominazione nella seconda metà del Novecento, quando la superficie a Viognier si era ridotta a pochi ettari, e contribuì a recuperare le terrazze abbandonate. Dagli anni Novanta la tenuta è guidata dalla figlia <strong>Christine Vernay</strong>; la gamma comprende anche vini di Côte-Rôtie e Saint-Joseph.</p><p><strong>Condrieu</strong>, a sud di Côte-Rôtie, è la denominazione di riferimento del <strong>Viognier</strong>. Le sue vigne occupano pendii molto ripidi di granito decomposto, sostenuti da muretti a secco ed esposti a sud e sud-est sopra il fiume. I vini sono bianchi secchi, molto aromatici e dalla trama untuosa.</p><p><strong>Les Terrasses de l'Empire</strong> è il Condrieu più diffuso della casa e proviene da diverse parcelle terrazzate. È prodotto con Viognier e matura in parte in barrique e in parte in vasca, sulle fecce fini, per preservare l'espressione aromatica del vitigno. È un bianco ampio e profumato, dal finale fresco, che può essere goduto giovane.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Amarillo dorado. Aromas de albaricoque, melocotón, flores blancas, violeta y notas especiadas. Boca untuosa y amplia, con una frescura que equilibra el conjunto y un final aromático.",
+    "en": "Golden yellow. Aromas of apricot, peach, white flowers, violet and spicy notes. Unctuous, broad palate with freshness that balances the whole and an aromatic finish.",
+    "fr": "Jaune doré. Arômes d'abricot, de pêche, de fleurs blanches, de violette et notes épicées. Bouche onctueuse et ample, avec une fraîcheur qui équilibre l'ensemble et une finale aromatique.",
+    "it": "Giallo dorato. Aromi di albicocca, pesca, fiori bianchi, viola e note speziate. Bocca untuosa e ampia, con una freschezza che bilancia l'insieme e un finale aromatico."
+  },
   "pairing": {
-    "es": "Pescados, mariscos, arroces, quesos frescos",
-    "en": "Fish, shellfish, rice dishes, fresh cheeses",
-    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
-    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+    "es": "Cocina asiática especiada, crustáceos, ave con albaricoques, quesos de cabra",
+    "en": "Spiced Asian cuisine, crustaceans, poultry with apricots, goat's cheeses",
+    "fr": "Cuisine asiatique épicée, crustacés, volaille aux abricots, fromages de chèvre",
+    "it": "Cucina asiatica speziata, crostacei, pollame con albicocche, formaggi di capra"
   },
   "serve": {
-    "es": "8-11 °C, copa de vino blanco",
-    "en": "8-11 °C, white wine glass",
-    "fr": "8-11 °C, verre à vin blanc",
-    "it": "8-11 °C, calice da vino bianco"
+    "es": "11-13 °C, copa amplia de vino blanco",
+    "en": "11-13 °C, large white wine glass",
+    "fr": "11-13 °C, grand verre à vin blanc",
+    "it": "11-13 °C, calice ampio da bianco"
   },
   "search": "Domaine Georges Vernay Condrieu Les Terrasses de l'Empire Domaine Georges Vernay",
-  "brief": true,
   "source": "decantalo"
 }

@@ -12,31 +12,35 @@
     "garnacha"
   ],
   "summary": {
-    "es": "Comando G Villanueva es un vino tinto de Comando G, con la denominación DO Cebreros, en España.",
-    "en": "Comando G Villanueva is a red wine from Comando G, made under the DO Cebreros appellation in Spain.",
-    "fr": "Comando G Villanueva est un vin rouge de Comando G, élaboré sous l’appellation DO Cebreros (Espagne).",
-    "it": "Comando G Villanueva è un vino rosso di Comando G, prodotto nella denominazione DO Cebreros (Spagna)."
+    "es": "Garnacha de Comando G procedente de viñedos de la vertiente abulense de la Sierra de Gredos, amparada por la DO Cebreros.",
+    "en": "Garnacha from Comando G sourced from vineyards on the Ávila side of the Sierra de Gredos, under the DO Cebreros.",
+    "fr": "Grenache de Comando G provenant de vignes du versant d’Ávila de la Sierra de Gredos, sous la DO Cebreros.",
+    "it": "Garnacha di Comando G proveniente da vigneti del versante di Ávila della Sierra de Gredos, nella DO Cebreros."
   },
   "body": {
-    "es": "<p>Se elabora con Garnacha. Su graduación es de 14,5 % vol.</p>",
-    "en": "<p>It is made from Grenache. It has 14.5% ABV.</p>",
-    "fr": "<p>Il est élaboré à partir de Grenache. Il titre 14,5 % vol.</p>",
-    "it": "<p>È prodotto con Grenache. Ha 14,5% vol.</p>"
+    "es": "<p><strong>Comando G</strong> es el proyecto que Fernando García y Daniel Landi pusieron en marcha a finales de la década de 2000 para recuperar viejos viñedos de <strong>Garnacha</strong> en la Sierra de Gredos, repartidos entre las provincias de Madrid, Ávila y Toledo. Su trabajo ha sido decisivo en el reconocimiento de esta zona montañosa, donde la Garnacha crece en altitud sobre suelos de granito y arena, y ha dado lugar a tintos de perfil fresco y transparente, muy alejados de la Garnacha cálida y concentrada.</p><p>Villanueva es uno de los vinos de pueblo que el proyecto elabora en la <strong>provincia de Ávila</strong>, con uva de viñas viejas de Garnacha cultivadas en altitud, sobre suelos pobres de granito y arena, en el entorno del valle del Alberche. El vino se acoge a la <strong>DO Cebreros</strong>, la denominación de la parte abulense de Gredos.</p><p>La elaboración es poco intervencionista, con fermentaciones con levaduras autóctonas, uso de racimo entero según la añada y crianza en recipientes de madera de tamaño mediano o grande, que respetan la fruta. Con 14,5 % vol., combina la madurez de la Garnacha con la frescura propia de la montaña y puede evolucionar en botella durante varios años.</p>",
+    "en": "<p><strong>Comando G</strong> is the project Fernando García and Daniel Landi launched in the late 2000s to revive old <strong>Garnacha</strong> vineyards in the Sierra de Gredos, spread across the provinces of Madrid, Ávila and Toledo. Their work has been decisive in the recognition of this mountainous area, where Garnacha grows at altitude on granite and sandy soils, producing fresh, transparent reds far removed from warm, concentrated Garnacha.</p><p>Villanueva is one of the village wines the project makes in the <strong>province of Ávila</strong>, from old Garnacha vines grown at altitude on poor granite and sandy soils around the Alberche valley. The wine is bottled under the <strong>DO Cebreros</strong>, the appellation of the Ávila side of Gredos.</p><p>Winemaking is low-intervention, with fermentations using native yeasts, whole bunches depending on the vintage and ageing in medium or large wooden vessels that respect the fruit. At 14.5% ABV, it combines the ripeness of Garnacha with the freshness of the mountains and can develop in bottle for several years.</p>",
+    "fr": "<p><strong>Comando G</strong> est le projet lancé à la fin des années 2000 par Fernando García et Daniel Landi pour faire revivre de vieilles vignes de <strong>grenache</strong> dans la Sierra de Gredos, réparties entre les provinces de Madrid, d’Ávila et de Tolède. Leur travail a été décisif pour la reconnaissance de cette zone montagneuse, où le grenache pousse en altitude sur des sols de granit et de sable, donnant des rouges frais et transparents, très éloignés du grenache chaud et concentré.</p><p>Villanueva est l’un des vins de village que le projet élabore dans la <strong>province d’Ávila</strong>, à partir de vieilles vignes de grenache cultivées en altitude, sur des sols pauvres de granit et de sable, autour de la vallée de l’Alberche. Le vin relève de la <strong>DO Cebreros</strong>, l’appellation du versant d’Ávila de Gredos.</p><p>La vinification est peu interventionniste, avec des fermentations en levures indigènes, de la vendange entière selon le millésime et un élevage en contenants de bois de taille moyenne ou grande, respectueux du fruit. Avec 14,5 % vol., il associe la maturité du grenache à la fraîcheur de la montagne et peut évoluer en bouteille pendant plusieurs années.</p>",
+    "it": "<p><strong>Comando G</strong> è il progetto avviato alla fine degli anni Duemila da Fernando García e Daniel Landi per recuperare vecchi vigneti di <strong>Garnacha</strong> nella Sierra de Gredos, distribuiti tra le province di Madrid, Ávila e Toledo. Il loro lavoro è stato decisivo per il riconoscimento di questa zona montuosa, dove la Garnacha cresce in altitudine su suoli di granito e sabbia, dando rossi freschi e trasparenti, molto lontani dalla Garnacha calda e concentrata.</p><p>Villanueva è uno dei vini di paese che il progetto produce nella <strong>provincia di Ávila</strong>, con uve di vecchie vigne di Garnacha coltivate in altitudine, su suoli poveri di granito e sabbia, nei dintorni della valle dell’Alberche. Il vino rientra nella <strong>DO Cebreros</strong>, la denominazione del versante di Ávila di Gredos.</p><p>La vinificazione è poco interventista, con fermentazioni a lieviti indigeni, grappolo intero a seconda dell’annata e affinamento in contenitori di legno di media o grande capacità, rispettosi del frutto. Con 14,5% vol., unisce la maturità della Garnacha alla freschezza della montagna e può evolvere in bottiglia per diversi anni.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Rojo rubí de capa media o ligera. Aromas de fruta roja, flores, hierbas de monte y notas terrosas. En boca es fresco y fino, con taninos sutiles y una marcada sensación mineral.",
+    "en": "Light to medium ruby. Aromas of red fruit, flowers, mountain herbs and earthy notes. Fresh and fine on the palate, with subtle tannins and a marked mineral feel.",
+    "fr": "Rubis de teinte légère à moyenne. Arômes de fruits rouges, de fleurs, d’herbes de montagne et notes terreuses. En bouche, il est frais et fin, aux tanins subtils et à la sensation minérale marquée.",
+    "it": "Rosso rubino di media o leggera intensità. Aromi di frutta rossa, fiori, erbe di montagna e note terrose. In bocca è fresco e fine, con tannini sottili e una spiccata sensazione minerale."
+  },
   "pairing": {
-    "es": "Carnes rojas, asados, guisos, quesos curados",
-    "en": "Red meat, roasts, stews, aged cheeses",
-    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
-    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+    "es": "Aves asadas, caza menor, setas, embutidos ibéricos, cocina de cuchara ligera",
+    "en": "Roast poultry, small game, mushrooms, Iberian charcuterie, light stews",
+    "fr": "Volailles rôties, petit gibier, champignons, charcuterie ibérique, plats mijotés légers",
+    "it": "Pollame arrosto, selvaggina da piuma, funghi, salumi iberici, piatti in umido leggeri"
   },
   "serve": {
-    "es": "15-18 °C, copa amplia",
-    "en": "15-18 °C, large glass",
-    "fr": "15-18 °C, verre ample",
-    "it": "15-18 °C, calice ampio"
+    "es": "14-16 °C, copa amplia tipo borgoña",
+    "en": "14-16 °C, large Burgundy-style glass",
+    "fr": "14-16 °C, grand verre de type bourgogne",
+    "it": "14-16 °C, ampio calice tipo borgogna"
   },
   "search": "Comando G Villanueva Comando G",
-  "brief": true,
   "source": "decantalo"
 }

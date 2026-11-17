@@ -7,36 +7,45 @@
   "country": "francia",
   "appellation": "AOC Arbois Pupillin",
   "type": "blanco",
-  "category": null,
+  "category": {
+    "es": "Vin Jaune",
+    "en": "Vin Jaune",
+    "fr": "Vin Jaune",
+    "it": "Vin Jaune"
+  },
   "grapes": [
     "savagnin"
   ],
   "summary": {
-    "es": "Domaine de la Pinte Vin Jaune 62 cl es un vino blanco de Domaine de la Pinte, con la denominación AOC Arbois Pupillin, en Francia.",
-    "en": "Domaine de la Pinte Vin Jaune 62 cl is a white wine from Domaine de la Pinte, made under the AOC Arbois Pupillin appellation in France.",
-    "fr": "Domaine de la Pinte Vin Jaune 62 cl est un vin blanc de Domaine de la Pinte, élaboré sous l’appellation AOC Arbois Pupillin (France).",
-    "it": "Domaine de la Pinte Vin Jaune 62 cl è un vino bianco di Domaine de la Pinte, prodotto nella denominazione AOC Arbois Pupillin (Francia)."
+    "es": "Vin jaune de Savagnin del Domaine de la Pinte, en Arbois-Pupillin, criado durante años bajo velo de levaduras y embotellado en el tradicional clavelin de 62 cl.",
+    "en": "A vin jaune from Savagnin by Domaine de la Pinte, in Arbois-Pupillin, aged for years under a veil of yeast and bottled in the traditional 62 cl clavelin.",
+    "fr": "Vin jaune de savagnin du Domaine de la Pinte, en Arbois-Pupillin, élevé pendant des années sous voile et mis en bouteille dans le traditionnel clavelin de 62 cl.",
+    "it": "Vin jaune da Savagnin del Domaine de la Pinte, ad Arbois-Pupillin, affinato per anni sotto un velo di lieviti e imbottigliato nel tradizionale clavelin da 62 cl."
   },
   "body": {
-    "es": "<p>Se elabora con Savagnin. Tiene crianza en madera. Su graduación es de 13 % vol.</p>",
-    "en": "<p>It is made from Savagnin. It is aged in wood. It has 13% ABV.</p>",
-    "fr": "<p>Il est élaboré à partir de Savagnin. Il est élevé en bois. Il titre 13 % vol.</p>",
-    "it": "<p>È prodotto con Savagnin. È affinato in legno. Ha 13% vol.</p>"
+    "es": "<p>El <strong>Domaine de la Pinte</strong> es una finca de <strong>Pupillin</strong>, cerca de Arbois, en el Jura. Creada a mediados del siglo XX, se distingue por haber plantado una superficie importante de <strong>Savagnin</strong>, la gran variedad blanca de la región, y por su cultivo en agricultura biológica y biodinámica.</p><p>El <strong>vin jaune</strong> es el vino más singular del Jura. Se elabora exclusivamente con Savagnin, que tras la fermentación se cría en barricas sin rellenar durante al menos seis años y tres meses. En ese tiempo se forma en la superficie del vino un velo de levaduras, similar a la flor del Jerez, que lo protege de una oxidación excesiva y le aporta aromas muy característicos. A diferencia del Jerez, el vino no se encabeza.</p><p>Por tradición se embotella en el <strong>clavelin</strong>, una botella achaparrada de 62 cl que representa, según se explica tradicionalmente, lo que queda de un litro de vino tras la larga crianza. El resultado es un blanco seco, intenso y muy longevo, con notas de nuez y curry, que puede guardarse durante décadas y gana en complejidad tras abrirse.</p>",
+    "en": "<p><strong>Domaine de la Pinte</strong> is an estate in <strong>Pupillin</strong>, near Arbois, in the Jura. Established in the mid-20th century, it stands out for having planted a significant area of <strong>Savagnin</strong>, the region's great white variety, and for its organic and biodynamic farming.</p><p><strong>Vin jaune</strong> is the Jura's most distinctive wine. It is made solely from Savagnin, which after fermentation is aged in barrels that are not topped up for at least six years and three months. During this time a veil of yeast forms on the surface of the wine, similar to the flor of Sherry, protecting it from excessive oxidation and giving it very characteristic aromas. Unlike Sherry, the wine is not fortified.</p><p>By tradition it is bottled in the <strong>clavelin</strong>, a squat 62 cl bottle said to represent what remains of a litre of wine after the long ageing. The result is a dry, intense and extremely long-lived white, with notes of walnut and curry, which can be kept for decades and gains complexity after opening.</p>",
+    "fr": "<p>Le <strong>Domaine de la Pinte</strong> est une propriété de <strong>Pupillin</strong>, près d'Arbois, dans le Jura. Créé au milieu du XXe siècle, il se distingue par l'importante surface plantée en <strong>savagnin</strong>, le grand cépage blanc de la région, et par sa culture en agriculture biologique et biodynamique.</p><p>Le <strong>vin jaune</strong> est le vin le plus singulier du Jura. Il est issu exclusivement de savagnin qui, après la fermentation, est élevé en fûts sans ouillage pendant au moins six ans et trois mois. Pendant ce temps se forme à la surface du vin un voile de levures, comparable à la flor du xérès, qui le protège d'une oxydation excessive et lui donne des arômes très caractéristiques. Contrairement au xérès, le vin n'est pas muté.</p><p>Par tradition, il est mis en bouteille dans le <strong>clavelin</strong>, flacon trapu de 62 cl censé représenter ce qui reste d'un litre de vin après ce long élevage. Il en résulte un blanc sec, intense et d'une très grande longévité, aux notes de noix et de curry, qui peut se garder des décennies et gagne en complexité après ouverture.</p>",
+    "it": "<p>Il <strong>Domaine de la Pinte</strong> è una tenuta di <strong>Pupillin</strong>, vicino ad Arbois, nel Giura. Nata a metà del Novecento, si distingue per l'importante superficie piantata a <strong>Savagnin</strong>, il grande vitigno bianco della regione, e per la coltivazione biologica e biodinamica.</p><p>Il <strong>vin jaune</strong> è il vino più singolare del Giura. Si ottiene esclusivamente da Savagnin che, dopo la fermentazione, matura in botti non colmate per almeno sei anni e tre mesi. In questo periodo si forma sulla superficie del vino un velo di lieviti, simile al flor dello Sherry, che lo protegge da un'ossidazione eccessiva e gli conferisce aromi molto caratteristici. A differenza dello Sherry, il vino non viene fortificato.</p><p>Per tradizione si imbottiglia nel <strong>clavelin</strong>, una bottiglia tozza da 62 cl che rappresenterebbe ciò che resta di un litro di vino dopo il lungo affinamento. Ne risulta un bianco secco, intenso e longevissimo, con note di noce e curry, che può essere conservato per decenni e acquista complessità dopo l'apertura.</p>"
   },
-  "tasting": null,
+  "tasting": {
+    "es": "Amarillo dorado intenso. Aromas de nuez, curry, avellana tostada, especias y fruta seca. Boca seca, potente y salina, de acidez firme y final larguísimo.",
+    "en": "Deep golden yellow. Aromas of walnut, curry, toasted hazelnut, spice and dried fruit. Dry, powerful and saline palate with firm acidity and a very long finish.",
+    "fr": "Jaune doré intense. Arômes de noix, de curry, de noisette grillée, d'épices et de fruits secs. Bouche sèche, puissante et saline, à l'acidité ferme et à la finale très longue.",
+    "it": "Giallo dorato intenso. Aromi di noce, curry, nocciola tostata, spezie e frutta secca. Bocca secca, potente e sapida, con acidità decisa e finale lunghissimo."
+  },
   "pairing": {
-    "es": "Pescados, mariscos, arroces, quesos frescos",
-    "en": "Fish, shellfish, rice dishes, fresh cheeses",
-    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
-    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+    "es": "Comté curado, pollo de Bresse con colmenillas al vin jaune, cocina especiada, frutos secos",
+    "en": "Aged Comté, Bresse chicken with morels and vin jaune, spiced dishes, nuts",
+    "fr": "Comté vieux, poulet de Bresse aux morilles et au vin jaune, cuisine épicée, fruits secs",
+    "it": "Comté stagionato, pollo di Bresse con spugnole al vin jaune, cucina speziata, frutta secca"
   },
   "serve": {
-    "es": "8-11 °C, copa de vino blanco",
-    "en": "8-11 °C, white wine glass",
-    "fr": "8-11 °C, verre à vin blanc",
-    "it": "8-11 °C, calice da vino bianco"
+    "es": "13-15 °C, copa amplia de vino blanco; conviene abrirlo con antelación",
+    "en": "13-15 °C, large white wine glass; best opened in advance",
+    "fr": "13-15 °C, grand verre à vin blanc ; à ouvrir à l'avance",
+    "it": "13-15 °C, calice ampio da bianco; meglio aprirlo in anticipo"
   },
   "search": "Domaine de la Pinte Vin Jaune 62 cl Domaine de la Pinte",
-  "brief": true,
   "source": "decantalo"
 }
