@@ -1,0 +1,42 @@
+{
+  "slug": "domaine-de-la-tournelle-trousseau-des-corvees",
+  "name": "Domaine de la Tournelle Trousseau des Corvées",
+  "winery": null,
+  "winery_name": "Domaine de la Tournelle",
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Arbois Pupillin",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "trousseau"
+  ],
+  "summary": {
+    "es": "Domaine de la Tournelle Trousseau des Corvées es un vino tinto de Domaine de la Tournelle, con la denominación AOC Arbois Pupillin, en Francia.",
+    "en": "Domaine de la Tournelle Trousseau des Corvées is a red wine from Domaine de la Tournelle, made under the AOC Arbois Pupillin appellation in France.",
+    "fr": "Domaine de la Tournelle Trousseau des Corvées est un vin rouge de Domaine de la Tournelle, élaboré sous l’appellation AOC Arbois Pupillin (France).",
+    "it": "Domaine de la Tournelle Trousseau des Corvées è un vino rosso di Domaine de la Tournelle, prodotto nella denominazione AOC Arbois Pupillin (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Trousseau (Merenzao, Bastardo). Tiene crianza en madera. Su graduación es de 12 % vol.</p>",
+    "en": "<p>It is made from Trousseau (Merenzao, Bastardo). It is aged in wood. It has 12% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Trousseau (merenzao, bastardo). Il est élevé en bois. Il titre 12 % vol.</p>",
+    "it": "<p>È prodotto con Trousseau (Merenzao, Bastardo). È affinato in legno. Ha 12% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Domaine de la Tournelle Trousseau des Corvées Domaine de la Tournelle",
+  "brief": true,
+  "source": "decantalo"
+}

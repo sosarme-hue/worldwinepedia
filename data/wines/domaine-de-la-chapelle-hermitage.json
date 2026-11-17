@@ -1,0 +1,40 @@
+{
+  "slug": "domaine-de-la-chapelle-hermitage",
+  "name": "Domaine de la Chapelle Hermitage",
+  "winery": "paul-jaboulet-aine",
+  "winery_name": null,
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Crozes-Hermitage",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Domaine de la Chapelle Hermitage es un vino tinto de Paul Jaboulet Aîné, con la denominación AOC Crozes-Hermitage, en Francia.",
+    "en": "Domaine de la Chapelle Hermitage is a red wine from Paul Jaboulet Aîné, made under the AOC Crozes-Hermitage appellation in France.",
+    "fr": "Domaine de la Chapelle Hermitage est un vin rouge de Paul Jaboulet Aîné, élaboré sous l’appellation AOC Crozes-Hermitage (France).",
+    "it": "Domaine de la Chapelle Hermitage è un vino rosso di Paul Jaboulet Aîné, prodotto nella denominazione AOC Crozes-Hermitage (Francia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14 % vol.</p><p>Casa histórica del Ródano septentrional fundada en 1834 en Tain-l’Hermitage, célebre por su Hermitage La Chapelle y propietaria de viñedos en las principales denominaciones del norte del valle.</p>",
+    "en": "<p>It is aged in wood. It has 14% ABV.</p><p>Historic northern Rhône house founded in 1834 in Tain-l’Hermitage, famous for its Hermitage La Chapelle and owner of vineyards in the main appellations of the northern valley.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14 % vol.</p><p>Maison historique du Rhône septentrional fondée en 1834 à Tain-l’Hermitage, célèbre pour son Hermitage La Chapelle et propriétaire de vignes dans les principales appellations du nord de la vallée.</p>",
+    "it": "<p>È affinato in legno. Ha 14% vol.</p><p>Casa storica del Rodano settentrionale fondata nel 1834 a Tain-l’Hermitage, celebre per il suo Hermitage La Chapelle e proprietaria di vigneti nelle principali denominazioni del nord della valle.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Domaine de la Chapelle Hermitage Domaine Paul Jaboulet Ainé",
+  "brief": true,
+  "source": "decantalo"
+}

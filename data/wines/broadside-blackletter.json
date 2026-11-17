@@ -1,0 +1,42 @@
+{
+  "slug": "broadside-blackletter",
+  "name": "Broadside Blackletter",
+  "winery": null,
+  "winery_name": "Broadside",
+  "region": "paso-robles",
+  "country": "estados-unidos",
+  "appellation": "Paso Robles",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "Broadside Blackletter es un vino tinto de Broadside, con la denominación Paso Robles, en Estados Unidos.",
+    "en": "Broadside Blackletter is a red wine from Broadside, made under the Paso Robles appellation in United States.",
+    "fr": "Broadside Blackletter est un vin rouge de Broadside, élaboré sous l’appellation Paso Robles (États-Unis).",
+    "it": "Broadside Blackletter è un vino rosso di Broadside, prodotto nella denominazione Paso Robles (Stati Uniti)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Cabernet Sauvignon. Tiene crianza en madera. Su graduación es de 15 % vol.</p><p>Amplia AVA de la Costa Central de California, a medio camino entre San Francisco y Los Ángeles, conocida por su Zinfandel, sus mezclas de variedades del Ródano y sus Cabernet Sauvignon.</p>",
+    "en": "<p>It is made from Cabernet Sauvignon. It is aged in wood. It has 15% ABV.</p><p>A large AVA on California’s Central Coast, halfway between San Francisco and Los Angeles, known for its Zinfandel, its blends of Rhône varieties and its Cabernet Sauvignon.</p>",
+    "fr": "<p>Il est élaboré à partir de Cabernet Sauvignon. Il est élevé en bois. Il titre 15 % vol.</p><p>Vaste AVA de la Côte centrale de Californie, à mi-chemin entre San Francisco et Los Angeles, connue pour son zinfandel, ses assemblages de cépages rhodaniens et ses cabernets-sauvignons.</p>",
+    "it": "<p>È prodotto con Cabernet Sauvignon. È affinato in legno. Ha 15% vol.</p><p>Ampia AVA della Costa Centrale californiana, a metà strada tra San Francisco e Los Angeles, nota per lo Zinfandel, gli uvaggi di vitigni del Rodano e i Cabernet Sauvignon.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Broadside Blackletter Broadside",
+  "brief": true,
+  "source": "decantalo"
+}

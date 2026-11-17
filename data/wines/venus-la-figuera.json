@@ -1,0 +1,42 @@
+{
+  "slug": "venus-la-figuera",
+  "name": "Venus La Figuera",
+  "winery": null,
+  "winery_name": "Venus La Universal",
+  "region": "montsant",
+  "country": "espana",
+  "appellation": "DO Montsant",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Venus La Figuera es un vino tinto de Venus La Universal, con la denominación DO Montsant, en España.",
+    "en": "Venus La Figuera is a red wine from Venus La Universal, made under the DO Montsant appellation in Spain.",
+    "fr": "Venus La Figuera est un vin rouge de Venus La Universal, élaboré sous l’appellation DO Montsant (Espagne).",
+    "it": "Venus La Figuera è un vino rosso di Venus La Universal, prodotto nella denominazione DO Montsant (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Se cría en recipientes de barro, como ánforas o tinajas. Su graduación es de 14,5 % vol.</p><p>Montsant es una denominación de origen de la provincia de Tarragona creada en 2001, que rodea casi por completo al Priorat. Elabora sobre todo tintos de Garnacha y Cariñena sobre suelos más variados que los de su vecino.</p>",
+    "en": "<p>It is made from Grenache. It is aged in clay vessels such as amphorae. It has 14.5% ABV.</p><p>Montsant is a designation of origin in the province of Tarragona created in 2001, which almost completely surrounds Priorat. It mainly produces Grenache and Carignan reds on soils more varied than those of its neighbour.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. Il est élevé en jarres de terre cuite, comme des amphores. Il titre 14,5 % vol.</p><p>Le Montsant est une dénomination d'origine de la province de Tarragone créée en 2001, qui entoure presque entièrement le Priorat. Il produit surtout des rouges de grenache et de carignan sur des sols plus variés que ceux de son voisin.</p>",
+    "it": "<p>È prodotto con Grenache. Affina in contenitori di terracotta, come anfore. Ha 14,5% vol.</p><p>Montsant è una denominazione di origine della provincia di Tarragona istituita nel 2001, che circonda quasi completamente il Priorat. Produce soprattutto rossi di Garnacha e Carignano su suoli più vari di quelli del vicino.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Venus La Figuera Venus La Universal",
+  "brief": true,
+  "source": "decantalo"
+}

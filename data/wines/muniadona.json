@@ -1,0 +1,40 @@
+{
+  "slug": "muniadona",
+  "name": "Muniadona",
+  "winery": null,
+  "winery_name": "Valtravieso Bodegas y Viñedos",
+  "region": "arlanza",
+  "country": "espana",
+  "appellation": "DO Arlanza",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Muniadona es un vino blanco de Valtravieso Bodegas y Viñedos, con la denominación DO Arlanza, en España.",
+    "en": "Muniadona is a white wine from Valtravieso Bodegas y Viñedos, made under the DO Arlanza appellation in Spain.",
+    "fr": "Muniadona est un vin blanc de Valtravieso Bodegas y Viñedos, élaboré sous l’appellation DO Arlanza (Espagne).",
+    "it": "Muniadona è un vino bianco di Valtravieso Bodegas y Viñedos, prodotto nella denominazione DO Arlanza (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13,5 % vol.</p><p>Arlanza es una denominación de origen de Castilla y León que se extiende por el valle del río Arlanza, entre las provincias de Burgos y Palencia. Es una de las zonas vitícolas más frías y altas de la meseta norte y elabora sobre todo tintos de Tempranillo, además de rosados y claretes tradicionales.</p>",
+    "en": "<p>It is aged in wood. It has 13.5% ABV.</p><p>Arlanza is a designation of origin in Castilla y León that stretches along the valley of the river Arlanza, between the provinces of Burgos and Palencia. It is one of the coldest and highest wine areas of the northern plateau and mainly produces Tempranillo reds, along with traditional rosés and claretes.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13,5 % vol.</p><p>Arlanza est une dénomination d'origine de Castille-et-León qui s'étend le long de la vallée de l'Arlanza, entre les provinces de Burgos et de Palencia. C'est l'une des zones viticoles les plus froides et les plus hautes du plateau nord ; elle produit surtout des rouges de tempranillo, ainsi que des rosés et des claretes traditionnels.</p>",
+    "it": "<p>È affinato in legno. Ha 13,5% vol.</p><p>Arlanza è una denominazione di origine della Castiglia e León che si estende lungo la valle del fiume Arlanza, tra le province di Burgos e Palencia. È una delle zone viticole più fredde ed elevate dell'altopiano settentrionale e produce soprattutto rossi di Tempranillo, oltre a rosati e claretes tradizionali.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Muniadona Valtravieso Bodegas y Viñedos",
+  "brief": true,
+  "source": "decantalo"
+}

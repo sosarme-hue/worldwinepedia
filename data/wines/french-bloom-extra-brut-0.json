@@ -1,0 +1,42 @@
+{
+  "slug": "french-bloom-extra-brut-0",
+  "name": "French Bloom Extra Brut 0%",
+  "winery": null,
+  "winery_name": "French Bloom",
+  "region": null,
+  "country": "francia",
+  "appellation": null,
+  "type": "espumoso",
+  "category": null,
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "French Bloom Extra Brut 0% es un vino espumoso de French Bloom, en Francia.",
+    "en": "French Bloom Extra Brut 0% is a sparkling wine from French Bloom in France.",
+    "fr": "French Bloom Extra Brut 0% est un vin effervescent de French Bloom (France).",
+    "it": "French Bloom Extra Brut 0% è un vino spumante di French Bloom (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Chardonnay.</p>",
+    "en": "<p>It is made from Chardonnay.</p>",
+    "fr": "<p>Il est élaboré à partir de Chardonnay.</p>",
+    "it": "<p>È prodotto con Chardonnay.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "French Bloom Extra Brut 0% French Bloom",
+  "brief": true,
+  "source": "decantalo"
+}

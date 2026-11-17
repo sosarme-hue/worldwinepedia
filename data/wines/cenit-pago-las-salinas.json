@@ -1,0 +1,40 @@
+{
+  "slug": "cenit-pago-las-salinas",
+  "name": "Cénit Pago Las Salinas",
+  "winery": null,
+  "winery_name": "Viñas del Cénit",
+  "region": null,
+  "country": "espana",
+  "appellation": "VC Tierra del Vino de Zamora",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Cénit Pago Las Salinas es un vino tinto de Viñas del Cénit, con la denominación VC Tierra del Vino de Zamora, en España.",
+    "en": "Cénit Pago Las Salinas is a red wine from Viñas del Cénit, made under the VC Tierra del Vino de Zamora appellation in Spain.",
+    "fr": "Cénit Pago Las Salinas est un vin rouge de Viñas del Cénit, élaboré sous l’appellation VC Tierra del Vino de Zamora (Espagne).",
+    "it": "Cénit Pago Las Salinas è un vino rosso di Viñas del Cénit, prodotto nella denominazione VC Tierra del Vino de Zamora (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 15 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 15% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 15 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 15% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Cénit Pago Las Salinas Viñas del Cénit",
+  "brief": true,
+  "source": "decantalo"
+}

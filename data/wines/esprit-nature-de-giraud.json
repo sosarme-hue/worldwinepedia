@@ -1,0 +1,40 @@
+{
+  "slug": "esprit-nature-de-giraud",
+  "name": "Esprit Nature de Giraud",
+  "winery": null,
+  "winery_name": "Champagne Henri Giraud",
+  "region": null,
+  "country": "francia",
+  "appellation": null,
+  "type": "espumoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Esprit Nature de Giraud es un vino espumoso de Champagne Henri Giraud, en Francia.",
+    "en": "Esprit Nature de Giraud is a sparkling wine from Champagne Henri Giraud in France.",
+    "fr": "Esprit Nature de Giraud est un vin effervescent de Champagne Henri Giraud (France).",
+    "it": "Esprit Nature de Giraud è un vino spumante di Champagne Henri Giraud (Francia)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 12 % vol.</p>",
+    "en": "<p>It has 12% ABV.</p>",
+    "fr": "<p>Il titre 12 % vol.</p>",
+    "it": "<p>Ha 12% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Esprit Nature de Giraud Champagne Henri Giraud",
+  "brief": true,
+  "source": "decantalo"
+}

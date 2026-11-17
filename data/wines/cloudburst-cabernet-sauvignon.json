@@ -1,0 +1,42 @@
+{
+  "slug": "cloudburst-cabernet-sauvignon",
+  "name": "Cloudburst Cabernet Sauvignon",
+  "winery": null,
+  "winery_name": "Cloudburst",
+  "region": null,
+  "country": "australia",
+  "appellation": "Wilyabrup",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "Cloudburst Cabernet Sauvignon es un vino tinto de Cloudburst, con la denominación Wilyabrup, en Australia.",
+    "en": "Cloudburst Cabernet Sauvignon is a red wine from Cloudburst, made under the Wilyabrup appellation in Australia.",
+    "fr": "Cloudburst Cabernet Sauvignon est un vin rouge de Cloudburst, élaboré sous l’appellation Wilyabrup (Australie).",
+    "it": "Cloudburst Cabernet Sauvignon è un vino rosso di Cloudburst, prodotto nella denominazione Wilyabrup (Australia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Cabernet Sauvignon. Tiene crianza en madera. Su graduación es de 13,4 % vol.</p>",
+    "en": "<p>It is made from Cabernet Sauvignon. It is aged in wood. It has 13.4% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Cabernet Sauvignon. Il est élevé en bois. Il titre 13,4 % vol.</p>",
+    "it": "<p>È prodotto con Cabernet Sauvignon. È affinato in legno. Ha 13,4% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Cloudburst Cabernet Sauvignon Cloudburst",
+  "brief": true,
+  "source": "decantalo"
+}

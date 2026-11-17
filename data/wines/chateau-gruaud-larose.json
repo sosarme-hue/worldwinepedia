@@ -1,0 +1,40 @@
+{
+  "slug": "chateau-gruaud-larose",
+  "name": "Château Gruaud Larose",
+  "winery": "chateau-gruaud-larose",
+  "winery_name": null,
+  "region": "saint-julien",
+  "country": "francia",
+  "appellation": "AOC Saint-Julien",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Château Gruaud Larose es un vino tinto de Château Gruaud Larose, con la denominación AOC Saint-Julien, en Francia.",
+    "en": "Château Gruaud Larose is a red wine from Château Gruaud Larose, made under the AOC Saint-Julien appellation in France.",
+    "fr": "Château Gruaud Larose est un vin rouge de Château Gruaud Larose, élaboré sous l’appellation AOC Saint-Julien (France).",
+    "it": "Château Gruaud Larose è un vino rosso di Château Gruaud Larose, prodotto nella denominazione AOC Saint-Julien (Francia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13,5 % vol.</p><p>Segundo gran cru clasificado de 1855 en Saint-Julien, una de las grandes fincas del Médoc, conocida por tintos estructurados y longevos de Cabernet Sauvignon y Merlot.</p><p>Saint-Julien, entre Margaux y Pauillac, es una denominación compacta del Haut-Médoc en la que los crus clasificados ocupan buena parte del viñedo. Sus tintos se aprecian por su equilibrio entre potencia y elegancia.</p>",
+    "en": "<p>It is aged in wood. It has 13.5% ABV.</p><p>Second growth of the 1855 classification in Saint-Julien, one of the large estates of the Médoc, known for structured, long-lived reds from Cabernet Sauvignon and Merlot.</p><p>Saint-Julien, between Margaux and Pauillac, is a compact Haut-Médoc appellation in which classified growths occupy much of the vineyard. Its reds are prized for their balance between power and elegance.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13,5 % vol.</p><p>Deuxième grand cru classé en 1855 à Saint-Julien, l’un des grands domaines du Médoc, connu pour des rouges structurés et de longue garde de cabernet sauvignon et de merlot.</p><p>Saint-Julien, entre Margaux et Pauillac, est une appellation compacte du Haut-Médoc où les crus classés occupent une grande partie du vignoble. Ses rouges sont appréciés pour leur équilibre entre puissance et élégance.</p>",
+    "it": "<p>È affinato in legno. Ha 13,5% vol.</p><p>Secondo grand cru classé del 1855 a Saint-Julien, una delle grandi tenute del Médoc, nota per rossi strutturati e longevi di Cabernet Sauvignon e Merlot.</p><p>Saint-Julien, tra Margaux e Pauillac, è una denominazione compatta dell'Haut-Médoc in cui i cru classificati occupano buona parte del vigneto. I suoi rossi sono apprezzati per l'equilibrio tra potenza ed eleganza.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Château Gruaud Larose Château Gruaud Larose",
+  "brief": true,
+  "source": "decantalo"
+}

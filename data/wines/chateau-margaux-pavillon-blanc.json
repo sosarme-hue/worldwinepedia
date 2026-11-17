@@ -1,0 +1,42 @@
+{
+  "slug": "chateau-margaux-pavillon-blanc",
+  "name": "Château Margaux Pavillon Blanc",
+  "winery": "chateau-margaux",
+  "winery_name": null,
+  "region": "margaux",
+  "country": "francia",
+  "appellation": "AOC Margaux",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "sauvignon-blanc"
+  ],
+  "summary": {
+    "es": "Château Margaux Pavillon Blanc es un vino blanco de Château Margaux, con la denominación AOC Margaux, en Francia.",
+    "en": "Château Margaux Pavillon Blanc is a white wine from Château Margaux, made under the AOC Margaux appellation in France.",
+    "fr": "Château Margaux Pavillon Blanc est un vin blanc de Château Margaux, élaboré sous l’appellation AOC Margaux (France).",
+    "it": "Château Margaux Pavillon Blanc è un vino bianco di Château Margaux, prodotto nella denominazione AOC Margaux (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Sauvignon Blanc. Tiene crianza en madera. Su graduación es de 14 % vol.</p><p>Premier Grand Cru Classé de la clasificación de 1855, situado en la denominación Margaux del Médoc y propiedad de la familia Mentzelopoulos desde 1977.</p><p>Margaux es la denominación comunal más meridional del Haut-Médoc y la que reúne más crus clasificados en 1855. Sus tintos, a base de Cabernet Sauvignon, son conocidos por su finura y su perfume.</p>",
+    "en": "<p>It is made from Sauvignon Blanc. It is aged in wood. It has 14% ABV.</p><p>Premier Grand Cru Classé in the 1855 classification, located in the Margaux appellation of the Médoc and owned by the Mentzelopoulos family since 1977.</p><p>Margaux is the southernmost communal appellation of the Haut-Médoc and the one with the most growths classified in 1855. Its Cabernet Sauvignon-based reds are known for their finesse and perfume.</p>",
+    "fr": "<p>Il est élaboré à partir de Sauvignon Blanc. Il est élevé en bois. Il titre 14 % vol.</p><p>Premier grand cru classé en 1855, situé dans l’appellation Margaux, dans le Médoc, et propriété de la famille Mentzelopoulos depuis 1977.</p><p>Margaux est l'appellation communale la plus méridionale du Haut-Médoc et celle qui compte le plus de crus classés en 1855. Ses rouges à base de cabernet-sauvignon sont réputés pour leur finesse et leur parfum.</p>",
+    "it": "<p>È prodotto con Sauvignon Blanc. È affinato in legno. Ha 14% vol.</p><p>Premier Grand Cru Classé della classificazione del 1855, situato nella denominazione Margaux nel Médoc e di proprietà della famiglia Mentzelopoulos dal 1977.</p><p>Margaux è la denominazione comunale più meridionale dell'Haut-Médoc e quella che riunisce il maggior numero di cru classificati nel 1855. I suoi rossi a base di Cabernet Sauvignon sono noti per finezza e profumo.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Château Margaux Pavillon Blanc Château Margaux",
+  "brief": true,
+  "source": "decantalo"
+}

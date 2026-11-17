@@ -1,0 +1,45 @@
+{
+  "slug": "rioja-alta-890-gran-reserva",
+  "name": "Rioja Alta 890 Gran Reserva",
+  "winery": "la-rioja-alta",
+  "winery_name": null,
+  "region": "rioja",
+  "country": "espana",
+  "appellation": "DOCa Rioja",
+  "type": "tinto",
+  "category": {
+    "es": "Gran Reserva",
+    "en": "Gran Reserva",
+    "fr": "Gran Reserva",
+    "it": "Gran Reserva"
+  },
+  "grapes": [],
+  "summary": {
+    "es": "Rioja Alta 890 Gran Reserva es un vino tinto de La Rioja Alta, S.A., con la denominación DOCa Rioja, en España.",
+    "en": "Rioja Alta 890 Gran Reserva is a red wine from La Rioja Alta, S.A., made under the DOCa Rioja appellation in Spain.",
+    "fr": "Rioja Alta 890 Gran Reserva est un vin rouge de La Rioja Alta, S.A., élaboré sous l’appellation DOCa Rioja (Espagne).",
+    "it": "Rioja Alta 890 Gran Reserva è un vino rosso di La Rioja Alta, S.A., prodotto nella denominazione DOCa Rioja (Spagna)."
+  },
+  "body": {
+    "es": "<p>Lleva la mención Gran Reserva. Su graduación es de 13,5 % vol.</p><p>Bodega fundada en Haro en 1890, referencia del Rioja tradicional de crianza en roble americano, elaborado en barricas de tonelería propia.</p><p>Rioja, en el valle del Ebro, fue en 1991 la primera Denominación de Origen Calificada de España. Es conocida sobre todo por sus tintos de Tempranillo y por su larga tradición de crianza en barrica de roble.</p>",
+    "en": "<p>It carries the Gran Reserva designation. It has 13.5% ABV.</p><p>Winery founded in Haro in 1890, a benchmark for traditional Rioja aged in American oak, using barrels from its own cooperage.</p><p>Rioja, in the Ebro valley, became Spain's first Qualified Designation of Origin in 1991. It is best known for its Tempranillo-based reds and its long tradition of ageing in oak barrels.</p>",
+    "fr": "<p>Il porte la mention Gran Reserva. Il titre 13,5 % vol.</p><p>Bodega fondée à Haro en 1890, référence du Rioja traditionnel élevé en chêne américain, dans des barriques issues de sa propre tonnellerie.</p><p>La Rioja, dans la vallée de l'Èbre, est devenue en 1991 la première dénomination d'origine qualifiée d'Espagne. Elle est surtout connue pour ses rouges à base de tempranillo et sa longue tradition d'élevage en barrique de chêne.</p>",
+    "it": "<p>Riporta la menzione Gran Reserva. Ha 13,5% vol.</p><p>Cantina fondata a Haro nel 1890, punto di riferimento del Rioja tradizionale affinato in rovere americano, in botti della propria bottaia.</p><p>La Rioja, nella valle dell'Ebro, è diventata nel 1991 la prima Denominazione di origine qualificata di Spagna. È nota soprattutto per i rossi a base di Tempranillo e per la lunga tradizione di affinamento in botte di rovere.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Rioja Alta 890 Gran Reserva La Rioja Alta",
+  "brief": true,
+  "source": "decantalo"
+}

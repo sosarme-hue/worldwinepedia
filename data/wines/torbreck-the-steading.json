@@ -1,0 +1,40 @@
+{
+  "slug": "torbreck-the-steading",
+  "name": "Torbreck The Steading",
+  "winery": "torbreck",
+  "winery_name": null,
+  "region": "barossa-valley",
+  "country": "australia",
+  "appellation": "Barossa Valley",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Torbreck The Steading es un vino tinto de Torbreck, con la denominación Barossa Valley, en Australia.",
+    "en": "Torbreck The Steading is a red wine from Torbreck, made under the Barossa Valley appellation in Australia.",
+    "fr": "Torbreck The Steading est un vin rouge de Torbreck, élaboré sous l’appellation Barossa Valley (Australie).",
+    "it": "Torbreck The Steading è un vino rosso di Torbreck, prodotto nella denominazione Barossa Valley (Australia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 15 % vol.</p><p>Bodega del Barossa fundada en 1994 por David Powell, especializada en tintos y blancos de variedades del Ródano procedentes de viñas viejas.</p><p>El valle del Barossa, al noreste de Adelaida, es la región más emblemática de Australia para el Shiraz. Conserva viñas muy antiguas en pie franco y una fuerte herencia cultural de los colonos de origen alemán.</p>",
+    "en": "<p>It is aged in wood. It has 15% ABV.</p><p>Barossa winery founded in 1994 by David Powell, specialising in reds and whites from Rhône varieties grown on old vines.</p><p>The Barossa Valley, north-east of Adelaide, is Australia’s most iconic region for Shiraz. It preserves very old own-rooted vines and a strong cultural heritage from settlers of German origin.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 15 % vol.</p><p>Domaine de la Barossa fondé en 1994 par David Powell, spécialisé dans les rouges et les blancs de cépages rhodaniens issus de vieilles vignes.</p><p>La vallée de la Barossa, au nord-est d’Adélaïde, est la région la plus emblématique d’Australie pour la shiraz. Elle conserve de très vieilles vignes franches de pied et un fort héritage culturel des colons d’origine allemande.</p>",
+    "it": "<p>È affinato in legno. Ha 15% vol.</p><p>Cantina della Barossa fondata nel 1994 da David Powell, specializzata in rossi e bianchi da varietà del Rodano provenienti da vecchie vigne.</p><p>La Barossa Valley, a nord-est di Adelaide, è la regione australiana più emblematica per lo Shiraz. Conserva viti molto antiche a piede franco e una forte eredità culturale dei coloni di origine tedesca.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Torbreck The Steading Torbreck",
+  "brief": true,
+  "source": "decantalo"
+}

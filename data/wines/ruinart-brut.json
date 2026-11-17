@@ -1,0 +1,40 @@
+{
+  "slug": "ruinart-brut",
+  "name": "Ruinart Brut",
+  "winery": "ruinart",
+  "winery_name": null,
+  "region": null,
+  "country": "francia",
+  "appellation": null,
+  "type": "espumoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Ruinart Brut es un vino espumoso de Ruinart, en Francia.",
+    "en": "Ruinart Brut is a sparkling wine from Ruinart in France.",
+    "fr": "Ruinart Brut est un vin effervescent de Ruinart (France).",
+    "it": "Ruinart Brut è un vino spumante di Ruinart (Francia)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 12,5 % vol.</p><p>Casa de Champagne fundada en Reims en 1729, considerada la más antigua de las casas dedicadas desde su origen al vino espumoso y conocida por su estilo centrado en la Chardonnay.</p>",
+    "en": "<p>It has 12.5% ABV.</p><p>Champagne house founded in Reims in 1729, considered the oldest of the houses devoted from the outset to sparkling wine and known for a Chardonnay-centred style.</p>",
+    "fr": "<p>Il titre 12,5 % vol.</p><p>Maison de Champagne fondée à Reims en 1729, considérée comme la plus ancienne des maisons consacrées dès l’origine au vin effervescent et connue pour un style centré sur le chardonnay.</p>",
+    "it": "<p>Ha 12,5% vol.</p><p>Casa di Champagne fondata a Reims nel 1729, considerata la più antica tra le case dedicate fin dall’origine al vino spumante e nota per uno stile incentrato sullo Chardonnay.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Ruinart Brut Ruinart",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "chateau-pesquie-ascensio-rouge",
+  "name": "Château Pesquié Ascensio Rouge",
+  "winery": "chateau-pesquie",
+  "winery_name": null,
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Ventoux",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Château Pesquié Ascensio Rouge es un vino tinto de Château Pesquié, con la denominación AOC Ventoux, en Francia.",
+    "en": "Château Pesquié Ascensio Rouge is a red wine from Château Pesquié, made under the AOC Ventoux appellation in France.",
+    "fr": "Château Pesquié Ascensio Rouge est un vin rouge de Château Pesquié, élaboré sous l’appellation AOC Ventoux (France).",
+    "it": "Château Pesquié Ascensio Rouge è un vino rosso di Château Pesquié, prodotto nella denominazione AOC Ventoux (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Se cría en depósitos de hormigón. Su graduación es de 15 % vol.</p><p>Finca familiar de Mormoiron, al pie del monte Ventoux, referencia de la denominación Ventoux en el sur del valle del Ródano.</p>",
+    "en": "<p>It is made from Grenache. It is aged in concrete vats. It has 15% ABV.</p><p>Family estate in Mormoiron, at the foot of Mont Ventoux, a reference for the Ventoux appellation in the southern Rhône Valley.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. Il est élevé en cuves béton. Il titre 15 % vol.</p><p>Domaine familial de Mormoiron, au pied du mont Ventoux, référence de l’appellation Ventoux dans le sud de la vallée du Rhône.</p>",
+    "it": "<p>È prodotto con Grenache. Affina in vasche di cemento. Ha 15% vol.</p><p>Tenuta familiare di Mormoiron, ai piedi del Mont Ventoux, punto di riferimento della denominazione Ventoux nel sud della valle del Rodano.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Château Pesquié Ascensio Rouge Château Pesquié",
+  "brief": true,
+  "source": "decantalo"
+}

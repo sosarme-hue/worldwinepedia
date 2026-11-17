@@ -1,0 +1,40 @@
+{
+  "slug": "mauro-godello",
+  "name": "Mauro Godello",
+  "winery": "bodegas-mauro",
+  "winery_name": null,
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Castilla y León",
+  "type": "espumoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Mauro Godello es un vino espumoso de Bodegas Mauro, con la denominación VT Castilla y León, en España.",
+    "en": "Mauro Godello is a sparkling wine from Bodegas Mauro, made under the VT Castilla y León appellation in Spain.",
+    "fr": "Mauro Godello est un vin effervescent de Bodegas Mauro, élaboré sous l’appellation VT Castilla y León (Espagne).",
+    "it": "Mauro Godello è un vino spumante di Bodegas Mauro, prodotto nella denominazione VT Castilla y León (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13 % vol.</p><p>Bodega de Tudela de Duero creada por Mariano García y su familia, con primera añada en 1980; sus viñedos quedan fuera de los límites de la DO Ribera del Duero y sus vinos se amparan en la indicación Vino de la Tierra de Castilla y León.</p>",
+    "en": "<p>It is aged in wood. It has 13% ABV.</p><p>Winery in Tudela de Duero created by Mariano García and his family, with a first vintage in 1980; its vineyards lie outside the boundaries of the Ribera del Duero DO and its wines are sold under the Vino de la Tierra de Castilla y León designation.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13 % vol.</p><p>Bodega de Tudela de Duero créée par Mariano García et sa famille, avec un premier millésime en 1980 ; ses vignes se trouvent hors des limites de la DO Ribera del Duero et ses vins relèvent de l’indication Vino de la Tierra de Castilla y León.</p>",
+    "it": "<p>È affinato in legno. Ha 13% vol.</p><p>Cantina di Tudela de Duero creata da Mariano García e dalla sua famiglia, con prima annata nel 1980; i suoi vigneti sono fuori dai confini della DO Ribera del Duero e i vini sono commercializzati come Vino de la Tierra de Castilla y León.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Mauro Godello Mauro",
+  "brief": true,
+  "source": "decantalo"
+}

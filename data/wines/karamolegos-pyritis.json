@@ -1,0 +1,42 @@
+{
+  "slug": "karamolegos-pyritis",
+  "name": "Karamolegos Pyritis",
+  "winery": null,
+  "winery_name": "Artemis Karamolegos",
+  "region": null,
+  "country": "grecia",
+  "appellation": "PDO Santorini",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "assyrtiko"
+  ],
+  "summary": {
+    "es": "Karamolegos Pyritis es un vino blanco de Artemis Karamolegos, con la denominación PDO Santorini, en Grecia.",
+    "en": "Karamolegos Pyritis is a white wine from Artemis Karamolegos, made under the PDO Santorini appellation in Greece.",
+    "fr": "Karamolegos Pyritis est un vin blanc de Artemis Karamolegos, élaboré sous l’appellation PDO Santorini (Grèce).",
+    "it": "Karamolegos Pyritis è un vino bianco di Artemis Karamolegos, prodotto nella denominazione PDO Santorini (Grecia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Assyrtiko. Se cría sobre sus lías. Su graduación es de 14 % vol.</p>",
+    "en": "<p>It is made from Assyrtiko. It is aged on its lees. It has 14% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Assyrtiko. Il est élevé sur lies. Il titre 14 % vol.</p>",
+    "it": "<p>È prodotto con Assyrtiko. Affina sulle fecce fini. Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Karamolegos Pyritis Artemis Karamolegos",
+  "brief": true,
+  "source": "decantalo"
+}

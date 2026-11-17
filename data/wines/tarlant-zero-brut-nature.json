@@ -1,0 +1,40 @@
+{
+  "slug": "tarlant-zero-brut-nature",
+  "name": "Tarlant Zéro Brut Nature",
+  "winery": null,
+  "winery_name": "Tarlant",
+  "region": null,
+  "country": "francia",
+  "appellation": null,
+  "type": "espumoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Tarlant Zéro Brut Nature es un vino espumoso de Tarlant, en Francia.",
+    "en": "Tarlant Zéro Brut Nature is a sparkling wine from Tarlant in France.",
+    "fr": "Tarlant Zéro Brut Nature est un vin effervescent de Tarlant (France).",
+    "it": "Tarlant Zéro Brut Nature è un vino spumante di Tarlant (Francia)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 12 % vol.</p>",
+    "en": "<p>It has 12% ABV.</p>",
+    "fr": "<p>Il titre 12 % vol.</p>",
+    "it": "<p>Ha 12% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Tarlant Zéro Brut Nature Tarlant",
+  "brief": true,
+  "source": "decantalo"
+}

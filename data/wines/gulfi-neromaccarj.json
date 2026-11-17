@@ -1,0 +1,40 @@
+{
+  "slug": "gulfi-neromaccarj",
+  "name": "Gulfi NeroMàccarj",
+  "winery": null,
+  "winery_name": "Cantina Gulfi",
+  "region": null,
+  "country": "italia",
+  "appellation": "IGT Terre Siciliane",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Gulfi NeroMàccarj es un vino tinto de Cantina Gulfi, con la denominación IGT Terre Siciliane, en Italia.",
+    "en": "Gulfi NeroMàccarj is a red wine from Cantina Gulfi, made under the IGT Terre Siciliane appellation in Italy.",
+    "fr": "Gulfi NeroMàccarj est un vin rouge de Cantina Gulfi, élaboré sous l’appellation IGT Terre Siciliane (Italie).",
+    "it": "Gulfi NeroMàccarj è un vino rosso di Cantina Gulfi, prodotto nella denominazione IGT Terre Siciliane (Italia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 13% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Gulfi NeroMàccarj Cantina Gulfi",
+  "brief": true,
+  "source": "decantalo"
+}

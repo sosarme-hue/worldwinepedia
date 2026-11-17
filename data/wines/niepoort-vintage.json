@@ -1,0 +1,40 @@
+{
+  "slug": "niepoort-vintage",
+  "name": "Niepoort Vintage",
+  "winery": "niepoort",
+  "winery_name": null,
+  "region": "porto",
+  "country": "portugal",
+  "appellation": "Porto",
+  "type": "generoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Niepoort Vintage es un vino generoso de Niepoort, con la denominación Porto, en Portugal.",
+    "en": "Niepoort Vintage is a fortified wine from Niepoort, made under the Porto appellation in Portugal.",
+    "fr": "Niepoort Vintage est un vin fortifié de Niepoort, élaboré sous l’appellation Porto (Portugal).",
+    "it": "Niepoort Vintage è un vino liquoroso di Niepoort, prodotto nella denominazione Porto (Portogallo)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 19,5 % vol.</p><p>Casa familiar de origen neerlandés fundada en 1842, reputada por sus Oportos Colheita y Vintage y pionera de los tintos y blancos modernos del Douro con vinos como Redoma.</p><p>La DOC Porto ampara el vino generoso elaborado con uvas del valle del Douro, cuya fermentación se interrumpe con aguardiente vínica. Tradicionalmente se cría en las bodegas o lodges de Vila Nova de Gaia, frente a la ciudad de Oporto.</p>",
+    "en": "<p>It has 19.5% ABV.</p><p>Family house of Dutch origin founded in 1842, renowned for its Colheita and Vintage Ports and a pioneer of modern Douro reds and whites with wines such as Redoma.</p><p>The Porto DOC covers the fortified wine made from Douro valley grapes, whose fermentation is stopped with grape spirit. It is traditionally aged in the lodges of Vila Nova de Gaia, across the river from the city of Porto.</p>",
+    "fr": "<p>Il titre 19,5 % vol.</p><p>Maison familiale d’origine néerlandaise fondée en 1842, réputée pour ses portos Colheita et Vintage et pionnière des rouges et blancs modernes du Douro avec des vins comme Redoma.</p><p>La DOC Porto protège le vin muté élaboré avec des raisins de la vallée du Douro, dont la fermentation est arrêtée par l’ajout d’eau-de-vie de vin. Il vieillit traditionnellement dans les chais, ou lodges, de Vila Nova de Gaia, face à la ville de Porto.</p>",
+    "it": "<p>Ha 19,5% vol.</p><p>Casa di famiglia di origine olandese fondata nel 1842, rinomata per i suoi Porto Colheita e Vintage e pioniera dei rossi e bianchi moderni del Douro con vini come Redoma.</p><p>La DOC Porto tutela il vino fortificato prodotto con uve della valle del Douro, la cui fermentazione viene interrotta con acquavite di vino. Tradizionalmente invecchia nelle cantine, o lodges, di Vila Nova de Gaia, di fronte alla città di Porto.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, jamón, frutos secos, quesos curados",
+    "en": "Aperitif, cured ham, nuts, aged cheeses",
+    "fr": "Apéritif, jambon sec, fruits secs, fromages affinés",
+    "it": "Aperitivo, prosciutto crudo, frutta secca, formaggi stagionati"
+  },
+  "serve": {
+    "es": "7-14 °C según el tipo, catavino",
+    "en": "7-14 °C depending on style, copita glass",
+    "fr": "7-14 °C selon le style, verre à xérès",
+    "it": "7-14 °C secondo lo stile, bicchiere da sherry"
+  },
+  "search": "Niepoort Vintage Niepoort",
+  "brief": true,
+  "source": "decantalo"
+}

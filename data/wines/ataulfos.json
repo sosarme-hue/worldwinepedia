@@ -1,0 +1,42 @@
+{
+  "slug": "ataulfos",
+  "name": "Ataulfos",
+  "winery": null,
+  "winery_name": "Jiménez-Landi",
+  "region": "mentrida",
+  "country": "espana",
+  "appellation": "DO Méntrida",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Ataulfos es un vino tinto de Jiménez-Landi, con la denominación DO Méntrida, en España.",
+    "en": "Ataulfos is a red wine from Jiménez-Landi, made under the DO Méntrida appellation in Spain.",
+    "fr": "Ataulfos est un vin rouge de Jiménez-Landi, élaboré sous l’appellation DO Méntrida (Espagne).",
+    "it": "Ataulfos è un vino rosso di Jiménez-Landi, prodotto nella denominazione DO Méntrida (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Tiene crianza en madera. Su graduación es de 14,5 % vol.</p><p>Méntrida es una denominación de origen del norte de la provincia de Toledo, en Castilla-La Mancha, junto al límite con la Comunidad de Madrid. Tradicionalmente tierra de Garnacha, ha ganado reconocimiento por los tintos de esta variedad procedentes de las estribaciones de la sierra de Gredos.</p>",
+    "en": "<p>It is made from Grenache. It is aged in wood. It has 14.5% ABV.</p><p>Méntrida is a designation of origin in the north of the province of Toledo, in Castilla-La Mancha, close to the border with the Community of Madrid. Traditionally Garnacha country, it has gained recognition for reds from this variety grown in the foothills of the Sierra de Gredos.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. Il est élevé en bois. Il titre 14,5 % vol.</p><p>Méntrida est une dénomination d'origine du nord de la province de Tolède, en Castille-La Manche, près de la limite avec la Communauté de Madrid. Terre traditionnelle du grenache, elle s'est fait connaître par les rouges de ce cépage issus des contreforts de la sierra de Gredos.</p>",
+    "it": "<p>È prodotto con Grenache. È affinato in legno. Ha 14,5% vol.</p><p>Méntrida è una denominazione di origine del nord della provincia di Toledo, in Castiglia-La Mancia, vicino al confine con la Comunità di Madrid. Tradizionalmente terra di Garnacha, ha ottenuto riconoscimento per i rossi di questo vitigno provenienti dalle pendici della Sierra de Gredos.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Ataulfos Jiménez-Landi",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "chateau-lafleur",
+  "name": "Château Lafleur",
+  "winery": null,
+  "winery_name": "Château Lafleur",
+  "region": "pomerol",
+  "country": "francia",
+  "appellation": "AOC Pomerol",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Château Lafleur es un vino tinto de Château Lafleur, con la denominación AOC Pomerol, en Francia.",
+    "en": "Château Lafleur is a red wine from Château Lafleur, made under the AOC Pomerol appellation in France.",
+    "fr": "Château Lafleur est un vin rouge de Château Lafleur, élaboré sous l’appellation AOC Pomerol (France).",
+    "it": "Château Lafleur è un vino rosso di Château Lafleur, prodotto nella denominazione AOC Pomerol (Francia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14,5 % vol.</p><p>Pomerol es una pequeña denominación de la orilla derecha de Burdeos, junto a Libourne, dedicada a tintos de Merlot con aporte de Cabernet Franc. Nunca ha tenido una clasificación oficial, pero alberga algunos de los vinos más buscados de la región.</p>",
+    "en": "<p>It is aged in wood. It has 14.5% ABV.</p><p>Pomerol is a small appellation on the right bank of Bordeaux, next to Libourne, devoted to Merlot-based reds with some Cabernet Franc. It has never had an official classification, yet it is home to some of the region's most sought-after wines.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14,5 % vol.</p><p>Pomerol est une petite appellation de la rive droite bordelaise, voisine de Libourne, consacrée à des rouges de merlot complétés par du cabernet franc. Elle n'a jamais eu de classement officiel, mais abrite certains des vins les plus recherchés de la région.</p>",
+    "it": "<p>È affinato in legno. Ha 14,5% vol.</p><p>Pomerol è una piccola denominazione della riva destra di Bordeaux, vicino a Libourne, dedicata a rossi di Merlot con un apporto di Cabernet Franc. Non ha mai avuto una classificazione ufficiale, ma ospita alcuni dei vini più ricercati della regione.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Château Lafleur Château Lafleur",
+  "brief": true,
+  "source": "decantalo"
+}

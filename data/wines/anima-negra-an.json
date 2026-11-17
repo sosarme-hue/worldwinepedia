@@ -1,0 +1,45 @@
+{
+  "slug": "anima-negra-an",
+  "name": "Ànima Negra AN",
+  "winery": null,
+  "winery_name": "AN Negra",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Illes Balears",
+  "type": "tinto",
+  "category": {
+    "es": "Crianza",
+    "en": "Crianza",
+    "fr": "Crianza",
+    "it": "Crianza"
+  },
+  "grapes": [],
+  "summary": {
+    "es": "Ànima Negra AN es un vino tinto de AN Negra, con la denominación VT Illes Balears, en España.",
+    "en": "Ànima Negra AN is a red wine from AN Negra, made under the VT Illes Balears appellation in Spain.",
+    "fr": "Ànima Negra AN est un vin rouge de AN Negra, élaboré sous l’appellation VT Illes Balears (Espagne).",
+    "it": "Ànima Negra AN è un vino rosso di AN Negra, prodotto nella denominazione VT Illes Balears (Spagna)."
+  },
+  "body": {
+    "es": "<p>Lleva la mención Crianza. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It carries the Crianza designation. It has 13.5% ABV.</p>",
+    "fr": "<p>Il porte la mention Crianza. Il titre 13,5 % vol.</p>",
+    "it": "<p>Riporta la menzione Crianza. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Ànima Negra AN AN Negra",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "domaine-de-la-tournelle-uva-arbosiana",
+  "name": "Domaine de la Tournelle Uva Arbosiana",
+  "winery": null,
+  "winery_name": "Domaine de la Tournelle",
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Arbois Pupillin",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "poulsard"
+  ],
+  "summary": {
+    "es": "Domaine de la Tournelle Uva Arbosiana es un vino tinto de Domaine de la Tournelle, con la denominación AOC Arbois Pupillin, en Francia.",
+    "en": "Domaine de la Tournelle Uva Arbosiana is a red wine from Domaine de la Tournelle, made under the AOC Arbois Pupillin appellation in France.",
+    "fr": "Domaine de la Tournelle Uva Arbosiana est un vin rouge de Domaine de la Tournelle, élaboré sous l’appellation AOC Arbois Pupillin (France).",
+    "it": "Domaine de la Tournelle Uva Arbosiana è un vino rosso di Domaine de la Tournelle, prodotto nella denominazione AOC Arbois Pupillin (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Poulsard. Tiene crianza en madera. Su graduación es de 11 % vol.</p>",
+    "en": "<p>It is made from Poulsard. It is aged in wood. It has 11% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Poulsard. Il est élevé en bois. Il titre 11 % vol.</p>",
+    "it": "<p>È prodotto con Poulsard. È affinato in legno. Ha 11% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Domaine de la Tournelle Uva Arbosiana Domaine de la Tournelle",
+  "brief": true,
+  "source": "decantalo"
+}

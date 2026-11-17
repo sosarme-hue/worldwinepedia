@@ -1,0 +1,42 @@
+{
+  "slug": "domaine-r-p-bouley-volnay",
+  "name": "Domaine R&P Bouley Volnay",
+  "winery": null,
+  "winery_name": "Domaine R&P Bouley",
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Volnay / Côte-d'Or",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Domaine R&P Bouley Volnay es un vino tinto de Domaine R&P Bouley, con la denominación AOC Volnay / Côte-d'Or, en Francia.",
+    "en": "Domaine R&P Bouley Volnay is a red wine from Domaine R&P Bouley, made under the AOC Volnay / Côte-d'Or appellation in France.",
+    "fr": "Domaine R&P Bouley Volnay est un vin rouge de Domaine R&P Bouley, élaboré sous l’appellation AOC Volnay / Côte-d'Or (France).",
+    "it": "Domaine R&P Bouley Volnay è un vino rosso di Domaine R&P Bouley, prodotto nella denominazione AOC Volnay / Côte-d'Or (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Pinot Noir. Su graduación es de 14 % vol.</p>",
+    "en": "<p>It is made from Pinot Noir. It has 14% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Pinot Noir. Il titre 14 % vol.</p>",
+    "it": "<p>È prodotto con Pinot Nero. Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Domaine R&P Bouley Volnay Domaine R&P Bouley",
+  "brief": true,
+  "source": "decantalo"
+}

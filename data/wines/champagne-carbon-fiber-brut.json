@@ -1,0 +1,40 @@
+{
+  "slug": "champagne-carbon-fiber-brut",
+  "name": "Champagne Carbon Fiber Brut",
+  "winery": null,
+  "winery_name": "Champagne Carbon",
+  "region": null,
+  "country": "francia",
+  "appellation": null,
+  "type": "espumoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Champagne Carbon Fiber Brut es un vino espumoso de Champagne Carbon, en Francia.",
+    "en": "Champagne Carbon Fiber Brut is a sparkling wine from Champagne Carbon in France.",
+    "fr": "Champagne Carbon Fiber Brut est un vin effervescent de Champagne Carbon (France).",
+    "it": "Champagne Carbon Fiber Brut è un vino spumante di Champagne Carbon (Francia)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 12 % vol.</p>",
+    "en": "<p>It has 12% ABV.</p>",
+    "fr": "<p>Il titre 12 % vol.</p>",
+    "it": "<p>Ha 12% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Champagne Carbon Fiber Brut Champagne Carbon",
+  "brief": true,
+  "source": "decantalo"
+}

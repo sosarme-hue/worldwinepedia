@@ -1,0 +1,40 @@
+{
+  "slug": "chateau-valandraud",
+  "name": "Château Valandraud",
+  "winery": "chateau-valandraud",
+  "winery_name": null,
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Saint-Émilion 1er Grand Cru Classé",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Château Valandraud es un vino tinto de Château Valandraud, con la denominación AOC Saint-Émilion 1er Grand Cru Classé, en Francia.",
+    "en": "Château Valandraud is a red wine from Château Valandraud, made under the AOC Saint-Émilion 1er Grand Cru Classé appellation in France.",
+    "fr": "Château Valandraud est un vin rouge de Château Valandraud, élaboré sous l’appellation AOC Saint-Émilion 1er Grand Cru Classé (France).",
+    "it": "Château Valandraud è un vino rosso di Château Valandraud, prodotto nella denominazione AOC Saint-Émilion 1er Grand Cru Classé (Francia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13,5 % vol.</p><p>Propiedad de Saint-Émilion creada a comienzos de los años noventa por Jean-Luc Thunevin y Murielle Andraud, símbolo de los llamados «vinos de garaje» y Premier Grand Cru Classé desde 2012.</p>",
+    "en": "<p>It is aged in wood. It has 13.5% ABV.</p><p>Saint-Émilion estate created in the early 1990s by Jean-Luc Thunevin and Murielle Andraud, a symbol of the so-called “garage wines” and a Premier Grand Cru Classé since 2012.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13,5 % vol.</p><p>Propriété de Saint-Émilion créée au début des années 1990 par Jean-Luc Thunevin et Murielle Andraud, symbole des « vins de garage » et premier grand cru classé depuis 2012.</p>",
+    "it": "<p>È affinato in legno. Ha 13,5% vol.</p><p>Tenuta di Saint-Émilion creata all’inizio degli anni Novanta da Jean-Luc Thunevin e Murielle Andraud, simbolo dei cosiddetti «vini da garage» e Premier Grand Cru Classé dal 2012.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Château Valandraud Château Valandraud",
+  "brief": true,
+  "source": "decantalo"
+}

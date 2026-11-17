@@ -1,0 +1,42 @@
+{
+  "slug": "ami-volnay",
+  "name": "AMI Volnay",
+  "winery": null,
+  "winery_name": "Maison AMI",
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Volnay / Côte-d'Or",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "AMI Volnay es un vino tinto de Maison AMI, con la denominación AOC Volnay / Côte-d'Or, en Francia.",
+    "en": "AMI Volnay is a red wine from Maison AMI, made under the AOC Volnay / Côte-d'Or appellation in France.",
+    "fr": "AMI Volnay est un vin rouge de Maison AMI, élaboré sous l’appellation AOC Volnay / Côte-d'Or (France).",
+    "it": "AMI Volnay è un vino rosso di Maison AMI, prodotto nella denominazione AOC Volnay / Côte-d'Or (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Pinot Noir. Tiene crianza en madera. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is made from Pinot Noir. It is aged in wood. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Pinot Noir. Il est élevé en bois. Il titre 13,5 % vol.</p>",
+    "it": "<p>È prodotto con Pinot Nero. È affinato in legno. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "AMI Volnay Maison AMI",
+  "brief": true,
+  "source": "decantalo"
+}

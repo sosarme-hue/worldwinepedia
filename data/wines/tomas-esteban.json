@@ -1,0 +1,45 @@
+{
+  "slug": "tomas-esteban",
+  "name": "Tomás Esteban",
+  "winery": null,
+  "winery_name": "Valderiz",
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "appellation": "DO Ribera del Duero",
+  "type": "tinto",
+  "category": {
+    "es": "Gran Reserva",
+    "en": "Gran Reserva",
+    "fr": "Gran Reserva",
+    "it": "Gran Reserva"
+  },
+  "grapes": [],
+  "summary": {
+    "es": "Tomás Esteban es un vino tinto de Valderiz, con la denominación DO Ribera del Duero, en España.",
+    "en": "Tomás Esteban is a red wine from Valderiz, made under the DO Ribera del Duero appellation in Spain.",
+    "fr": "Tomás Esteban est un vin rouge de Valderiz, élaboré sous l’appellation DO Ribera del Duero (Espagne).",
+    "it": "Tomás Esteban è un vino rosso di Valderiz, prodotto nella denominazione DO Ribera del Duero (Spagna)."
+  },
+  "body": {
+    "es": "<p>Lleva la mención Gran Reserva. Su graduación es de 14,6 % vol.</p><p>Ribera del Duero es una denominación de origen de Castilla y León, creada en 1982, que se extiende a lo largo del río Duero en una meseta de gran altitud. Es conocida por sus tintos de Tempranillo, llamada aquí Tinto Fino o Tinta del País.</p>",
+    "en": "<p>It carries the Gran Reserva designation. It has 14.6% ABV.</p><p>Ribera del Duero is a designation of origin in Castilla y León, created in 1982, that runs along the Duero river on a high plateau. It is known for its reds made from Tempranillo, called Tinto Fino or Tinta del País locally.</p>",
+    "fr": "<p>Il porte la mention Gran Reserva. Il titre 14,6 % vol.</p><p>La Ribera del Duero est une dénomination d'origine de Castille-et-León, créée en 1982, qui s'étend le long du Douro sur un haut plateau. Elle est connue pour ses rouges de tempranillo, appelé ici tinto fino ou tinta del país.</p>",
+    "it": "<p>Riporta la menzione Gran Reserva. Ha 14,6% vol.</p><p>Ribera del Duero è una denominazione di origine della Castiglia e León, istituita nel 1982, che si estende lungo il fiume Duero su un altopiano elevato. È nota per i rossi di Tempranillo, chiamato qui Tinto Fino o Tinta del País.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Tomás Esteban Valderiz",
+  "brief": true,
+  "source": "decantalo"
+}

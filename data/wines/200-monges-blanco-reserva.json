@@ -1,0 +1,45 @@
+{
+  "slug": "200-monges-blanco-reserva",
+  "name": "200 Monges Blanco Reserva",
+  "winery": null,
+  "winery_name": "Vinícola Real",
+  "region": "rioja",
+  "country": "espana",
+  "appellation": "DOCa Rioja",
+  "type": "blanco",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [],
+  "summary": {
+    "es": "200 Monges Blanco Reserva es un vino blanco de Vinícola Real, con la denominación DOCa Rioja, en España.",
+    "en": "200 Monges Blanco Reserva is a white wine from Vinícola Real, made under the DOCa Rioja appellation in Spain.",
+    "fr": "200 Monges Blanco Reserva est un vin blanc de Vinícola Real, élaboré sous l’appellation DOCa Rioja (Espagne).",
+    "it": "200 Monges Blanco Reserva è un vino bianco di Vinícola Real, prodotto nella denominazione DOCa Rioja (Spagna)."
+  },
+  "body": {
+    "es": "<p>Lleva la mención Reserva. Su graduación es de 13 % vol.</p><p>Rioja, en el valle del Ebro, fue en 1991 la primera Denominación de Origen Calificada de España. Es conocida sobre todo por sus tintos de Tempranillo y por su larga tradición de crianza en barrica de roble.</p>",
+    "en": "<p>It carries the Reserva designation. It has 13% ABV.</p><p>Rioja, in the Ebro valley, became Spain's first Qualified Designation of Origin in 1991. It is best known for its Tempranillo-based reds and its long tradition of ageing in oak barrels.</p>",
+    "fr": "<p>Il porte la mention Reserva. Il titre 13 % vol.</p><p>La Rioja, dans la vallée de l'Èbre, est devenue en 1991 la première dénomination d'origine qualifiée d'Espagne. Elle est surtout connue pour ses rouges à base de tempranillo et sa longue tradition d'élevage en barrique de chêne.</p>",
+    "it": "<p>Riporta la menzione Reserva. Ha 13% vol.</p><p>La Rioja, nella valle dell'Ebro, è diventata nel 1991 la prima Denominazione di origine qualificata di Spagna. È nota soprattutto per i rossi a base di Tempranillo e per la lunga tradizione di affinamento in botte di rovere.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "200 Monges Blanco Reserva Vinícola Real",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "deutz-amour-de-deutz-brut",
+  "name": "Deutz Amour de Deutz Brut",
+  "winery": "deutz",
+  "winery_name": null,
+  "region": null,
+  "country": "francia",
+  "appellation": null,
+  "type": "espumoso",
+  "category": null,
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Deutz Amour de Deutz Brut es un vino espumoso de Champagne Deutz, en Francia.",
+    "en": "Deutz Amour de Deutz Brut is a sparkling wine from Champagne Deutz in France.",
+    "fr": "Deutz Amour de Deutz Brut est un vin effervescent de Champagne Deutz (France).",
+    "it": "Deutz Amour de Deutz Brut è un vino spumante di Champagne Deutz (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Chardonnay. Su graduación es de 12,5 % vol.</p><p>Casa de champán fundada en 1838 en Aÿ, en la Vallée de la Marne, conocida por un estilo fino y elegante; forma parte del grupo Louis Roederer.</p>",
+    "en": "<p>It is made from Chardonnay. It has 12.5% ABV.</p><p>Champagne house founded in 1838 in Aÿ, in the Vallée de la Marne, known for a fine, elegant style; it belongs to the Louis Roederer group.</p>",
+    "fr": "<p>Il est élaboré à partir de Chardonnay. Il titre 12,5 % vol.</p><p>Maison de champagne fondée en 1838 à Aÿ, dans la Vallée de la Marne, connue pour un style fin et élégant ; elle appartient au groupe Louis Roederer.</p>",
+    "it": "<p>È prodotto con Chardonnay. Ha 12,5% vol.</p><p>Maison di champagne fondata nel 1838 ad Aÿ, nella Vallée de la Marne, nota per uno stile fine ed elegante; fa parte del gruppo Louis Roederer.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Deutz Amour de Deutz Brut Champagne Deutz",
+  "brief": true,
+  "source": "decantalo"
+}

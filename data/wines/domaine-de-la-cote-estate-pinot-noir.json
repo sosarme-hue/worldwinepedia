@@ -1,0 +1,42 @@
+{
+  "slug": "domaine-de-la-cote-estate-pinot-noir",
+  "name": "Domaine de la Côte Estate Pinot Noir",
+  "winery": null,
+  "winery_name": "Domaine de la Côte",
+  "region": null,
+  "country": "estados-unidos",
+  "appellation": "Santa Rita Hills",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Domaine de la Côte Estate Pinot Noir es un vino tinto de Domaine de la Côte, con la denominación Santa Rita Hills, en Estados Unidos.",
+    "en": "Domaine de la Côte Estate Pinot Noir is a red wine from Domaine de la Côte, made under the Santa Rita Hills appellation in United States.",
+    "fr": "Domaine de la Côte Estate Pinot Noir est un vin rouge de Domaine de la Côte, élaboré sous l’appellation Santa Rita Hills (États-Unis).",
+    "it": "Domaine de la Côte Estate Pinot Noir è un vino rosso di Domaine de la Côte, prodotto nella denominazione Santa Rita Hills (Stati Uniti)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Pinot Noir. Tiene crianza en madera. Su graduación es de 13,3 % vol.</p>",
+    "en": "<p>It is made from Pinot Noir. It is aged in wood. It has 13.3% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Pinot Noir. Il est élevé en bois. Il titre 13,3 % vol.</p>",
+    "it": "<p>È prodotto con Pinot Nero. È affinato in legno. Ha 13,3% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Domaine de la Côte Estate Pinot Noir Domaine de la Côte",
+  "brief": true,
+  "source": "decantalo"
+}

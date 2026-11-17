@@ -1,0 +1,42 @@
+{
+  "slug": "frontonio-la-cerqueta",
+  "name": "Frontonio La Cerqueta",
+  "winery": null,
+  "winery_name": "Bodegas Frontonio",
+  "region": null,
+  "country": "espana",
+  "appellation": "Sin denominación",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Frontonio La Cerqueta es un vino tinto de Bodegas Frontonio, con la denominación Sin denominación, en España.",
+    "en": "Frontonio La Cerqueta is a red wine from Bodegas Frontonio, made under the Sin denominación appellation in Spain.",
+    "fr": "Frontonio La Cerqueta est un vin rouge de Bodegas Frontonio, élaboré sous l’appellation Sin denominación (Espagne).",
+    "it": "Frontonio La Cerqueta è un vino rosso di Bodegas Frontonio, prodotto nella denominazione Sin denominación (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Tiene crianza en madera. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is made from Grenache. It is aged in wood. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. Il est élevé en bois. Il titre 13,5 % vol.</p>",
+    "it": "<p>È prodotto con Grenache. È affinato in legno. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Frontonio La Cerqueta Bodegas Frontonio",
+  "brief": true,
+  "source": "decantalo"
+}

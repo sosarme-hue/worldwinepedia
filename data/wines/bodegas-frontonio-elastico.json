@@ -1,0 +1,40 @@
+{
+  "slug": "bodegas-frontonio-elastico",
+  "name": "Bodegas Frontonio Elástico",
+  "winery": null,
+  "winery_name": "Bodegas Frontonio",
+  "region": null,
+  "country": "espana",
+  "appellation": "Sin denominación",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Bodegas Frontonio Elástico es un vino blanco de Bodegas Frontonio, con la denominación Sin denominación, en España.",
+    "en": "Bodegas Frontonio Elástico is a white wine from Bodegas Frontonio, made under the Sin denominación appellation in Spain.",
+    "fr": "Bodegas Frontonio Elástico est un vin blanc de Bodegas Frontonio, élaboré sous l’appellation Sin denominación (Espagne).",
+    "it": "Bodegas Frontonio Elástico è un vino bianco di Bodegas Frontonio, prodotto nella denominazione Sin denominación (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se cría en depósitos de hormigón. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is aged in concrete vats. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élevé en cuves béton. Il titre 12,5 % vol.</p>",
+    "it": "<p>Affina in vasche di cemento. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Bodegas Frontonio Elástico Bodegas Frontonio",
+  "brief": true,
+  "source": "decantalo"
+}

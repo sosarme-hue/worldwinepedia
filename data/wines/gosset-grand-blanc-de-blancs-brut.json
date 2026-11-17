@@ -1,0 +1,42 @@
+{
+  "slug": "gosset-grand-blanc-de-blancs-brut",
+  "name": "Gosset Grand Blanc de Blancs Brut",
+  "winery": "gosset",
+  "winery_name": null,
+  "region": null,
+  "country": "francia",
+  "appellation": null,
+  "type": "espumoso",
+  "category": null,
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Gosset Grand Blanc de Blancs Brut es un vino espumoso de Champagne Gosset, en Francia.",
+    "en": "Gosset Grand Blanc de Blancs Brut is a sparkling wine from Champagne Gosset in France.",
+    "fr": "Gosset Grand Blanc de Blancs Brut est un vin effervescent de Champagne Gosset (France).",
+    "it": "Gosset Grand Blanc de Blancs Brut è un vino spumante di Champagne Gosset (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Chardonnay. Su graduación es de 12,5 % vol.</p><p>Casa de Champagne cuyo origen se remonta a 1584 en Aÿ, considerada la casa de vinos más antigua de la región, conocida por un estilo vinoso y fresco.</p>",
+    "en": "<p>It is made from Chardonnay. It has 12.5% ABV.</p><p>Champagne house whose origins go back to 1584 in Aÿ, regarded as the oldest wine house in the region and known for a vinous, fresh style.</p>",
+    "fr": "<p>Il est élaboré à partir de Chardonnay. Il titre 12,5 % vol.</p><p>Maison de Champagne dont l’origine remonte à 1584 à Aÿ, considérée comme la plus ancienne maison de vins de la région et connue pour un style vineux et frais.</p>",
+    "it": "<p>È prodotto con Chardonnay. Ha 12,5% vol.</p><p>Casa di Champagne le cui origini risalgono al 1584 ad Aÿ, considerata la più antica casa vinicola della regione, nota per uno stile vinoso e fresco.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Gosset Grand Blanc de Blancs Brut Gosset",
+  "brief": true,
+  "source": "decantalo"
+}

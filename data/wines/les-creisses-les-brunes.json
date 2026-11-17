@@ -1,0 +1,40 @@
+{
+  "slug": "les-creisses-les-brunes",
+  "name": "Les Creisses Les Brunes",
+  "winery": null,
+  "winery_name": "Domaine Les Creisses",
+  "region": null,
+  "country": "francia",
+  "appellation": "IGP Pays d'Oc",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Les Creisses Les Brunes es un vino tinto de Domaine Les Creisses, con la denominación IGP Pays d'Oc, en Francia.",
+    "en": "Les Creisses Les Brunes is a red wine from Domaine Les Creisses, made under the IGP Pays d'Oc appellation in France.",
+    "fr": "Les Creisses Les Brunes est un vin rouge de Domaine Les Creisses, élaboré sous l’appellation IGP Pays d'Oc (France).",
+    "it": "Les Creisses Les Brunes è un vino rosso di Domaine Les Creisses, prodotto nella denominazione IGP Pays d'Oc (Francia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14,5 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 14.5% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14,5 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 14,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Les Creisses Les Brunes Domaine Les Creisses",
+  "brief": true,
+  "source": "decantalo"
+}

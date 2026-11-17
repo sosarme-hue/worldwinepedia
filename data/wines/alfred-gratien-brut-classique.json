@@ -1,0 +1,40 @@
+{
+  "slug": "alfred-gratien-brut-classique",
+  "name": "Alfred Gratien Brut Classique",
+  "winery": null,
+  "winery_name": "Alfred Gratien",
+  "region": null,
+  "country": "francia",
+  "appellation": null,
+  "type": "espumoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Alfred Gratien Brut Classique es un vino espumoso de Alfred Gratien, en Francia.",
+    "en": "Alfred Gratien Brut Classique is a sparkling wine from Alfred Gratien in France.",
+    "fr": "Alfred Gratien Brut Classique est un vin effervescent de Alfred Gratien (France).",
+    "it": "Alfred Gratien Brut Classique è un vino spumante di Alfred Gratien (Francia)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It has 12.5% ABV.</p>",
+    "fr": "<p>Il titre 12,5 % vol.</p>",
+    "it": "<p>Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Alfred Gratien Brut Classique Alfred Gratien",
+  "brief": true,
+  "source": "decantalo"
+}

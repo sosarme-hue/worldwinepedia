@@ -1,0 +1,42 @@
+{
+  "slug": "el-jardin-de-las-iguales-blanco",
+  "name": "El Jardín de las Iguales Blanco",
+  "winery": null,
+  "winery_name": "Bodegas Frontonio",
+  "region": null,
+  "country": "espana",
+  "appellation": "IGP Valdejalón",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "macabeo"
+  ],
+  "summary": {
+    "es": "El Jardín de las Iguales Blanco es un vino blanco de Bodegas Frontonio, con la denominación IGP Valdejalón, en España.",
+    "en": "El Jardín de las Iguales Blanco is a white wine from Bodegas Frontonio, made under the IGP Valdejalón appellation in Spain.",
+    "fr": "El Jardín de las Iguales Blanco est un vin blanc de Bodegas Frontonio, élaboré sous l’appellation IGP Valdejalón (Espagne).",
+    "it": "El Jardín de las Iguales Blanco è un vino bianco di Bodegas Frontonio, prodotto nella denominazione IGP Valdejalón (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Macabeo. Tiene crianza en madera. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is made from Macabeo (Viura). It is aged in wood. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Macabeu. Il est élevé en bois. Il titre 13,5 % vol.</p>",
+    "it": "<p>È prodotto con Macabeo. È affinato in legno. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "El Jardín de las Iguales Blanco Bodegas Frontonio",
+  "brief": true,
+  "source": "decantalo"
+}

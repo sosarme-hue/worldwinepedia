@@ -1,0 +1,40 @@
+{
+  "slug": "chateau-grillet",
+  "name": "Chateau Grillet",
+  "winery": null,
+  "winery_name": "Château-Grillet",
+  "region": "cotes-du-rhone",
+  "country": "francia",
+  "appellation": "AOC Côtes du Rhône",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Chateau Grillet es un vino blanco de Château-Grillet, con la denominación AOC Côtes du Rhône, en Francia.",
+    "en": "Chateau Grillet is a white wine from Château-Grillet, made under the AOC Côtes du Rhône appellation in France.",
+    "fr": "Chateau Grillet est un vin blanc de Château-Grillet, élaboré sous l’appellation AOC Côtes du Rhône (France).",
+    "it": "Chateau Grillet è un vino bianco di Château-Grillet, prodotto nella denominazione AOC Côtes du Rhône (Francia)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 14 % vol.</p><p>Côtes du Rhône es la denominación regional del valle del Ródano y una de las más extensas de Francia. La mayor parte de su producción procede del sur del valle y consiste en tintos de ensamblaje a base de Garnacha, Syrah y Mourvèdre.</p>",
+    "en": "<p>It has 14% ABV.</p><p>Côtes du Rhône is the regional appellation of the Rhône valley and one of the largest in France. Most of its output comes from the south of the valley and consists of red blends based on Grenache, Syrah and Mourvèdre.</p>",
+    "fr": "<p>Il titre 14 % vol.</p><p>Côtes du Rhône est l'appellation régionale de la vallée du Rhône et l'une des plus étendues de France. L'essentiel de sa production provient du sud de la vallée et consiste en rouges d'assemblage à base de grenache, de syrah et de mourvèdre.</p>",
+    "it": "<p>Ha 14% vol.</p><p>Côtes du Rhône è la denominazione regionale della valle del Rodano e una delle più estese di Francia. La maggior parte della produzione proviene dal sud della valle e consiste in rossi da uvaggio a base di Grenache, Syrah e Mourvèdre.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Chateau Grillet Château-Grillet",
+  "brief": true,
+  "source": "decantalo"
+}

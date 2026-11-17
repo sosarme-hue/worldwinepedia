@@ -1,0 +1,40 @@
+{
+  "slug": "caves-d-esclans-garrus",
+  "name": "Caves d'Esclans Garrus",
+  "winery": null,
+  "winery_name": "Caves d'Esclans",
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Côtes de Provence",
+  "type": "rosado",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Caves d'Esclans Garrus es un vino rosado de Caves d'Esclans, con la denominación AOC Côtes de Provence, en Francia.",
+    "en": "Caves d'Esclans Garrus is a rosé wine from Caves d'Esclans, made under the AOC Côtes de Provence appellation in France.",
+    "fr": "Caves d'Esclans Garrus est un vin rosé de Caves d'Esclans, élaboré sous l’appellation AOC Côtes de Provence (France).",
+    "it": "Caves d'Esclans Garrus è un vino rosato di Caves d'Esclans, prodotto nella denominazione AOC Côtes de Provence (Francia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14,5 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 14.5% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14,5 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 14,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, ensaladas, arroces, pescados",
+    "en": "Aperitif, salads, rice dishes, fish",
+    "fr": "Apéritif, salades, plats de riz, poissons",
+    "it": "Aperitivo, insalate, risotti, pesce"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Caves d'Esclans Garrus Caves d'Esclans",
+  "brief": true,
+  "source": "decantalo"
+}

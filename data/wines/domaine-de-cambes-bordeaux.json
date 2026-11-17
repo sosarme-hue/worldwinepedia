@@ -1,0 +1,40 @@
+{
+  "slug": "domaine-de-cambes-bordeaux",
+  "name": "Domaine de Cambes Bordeaux",
+  "winery": null,
+  "winery_name": "Domaine De Cambes",
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Bordeaux Supérieur",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Domaine de Cambes Bordeaux es un vino tinto de Domaine De Cambes, con la denominación AOC Bordeaux Supérieur, en Francia.",
+    "en": "Domaine de Cambes Bordeaux is a red wine from Domaine De Cambes, made under the AOC Bordeaux Supérieur appellation in France.",
+    "fr": "Domaine de Cambes Bordeaux est un vin rouge de Domaine De Cambes, élaboré sous l’appellation AOC Bordeaux Supérieur (France).",
+    "it": "Domaine de Cambes Bordeaux è un vino rosso di Domaine De Cambes, prodotto nella denominazione AOC Bordeaux Supérieur (Francia)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 14 % vol.</p>",
+    "en": "<p>It has 14% ABV.</p>",
+    "fr": "<p>Il titre 14 % vol.</p>",
+    "it": "<p>Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Domaine de Cambes Bordeaux Domaine De Cambes",
+  "brief": true,
+  "source": "decantalo"
+}

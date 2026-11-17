@@ -1,0 +1,42 @@
+{
+  "slug": "bass-phillip-premium-pinot-noir",
+  "name": "Bass Phillip Premium Pinot Noir",
+  "winery": null,
+  "winery_name": "Bass Phillip",
+  "region": null,
+  "country": "australia",
+  "appellation": "Gippsland",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Bass Phillip Premium Pinot Noir es un vino tinto de Bass Phillip, con la denominación Gippsland, en Australia.",
+    "en": "Bass Phillip Premium Pinot Noir is a red wine from Bass Phillip, made under the Gippsland appellation in Australia.",
+    "fr": "Bass Phillip Premium Pinot Noir est un vin rouge de Bass Phillip, élaboré sous l’appellation Gippsland (Australie).",
+    "it": "Bass Phillip Premium Pinot Noir è un vino rosso di Bass Phillip, prodotto nella denominazione Gippsland (Australia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Pinot Noir. Tiene crianza en madera. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is made from Pinot Noir. It is aged in wood. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Pinot Noir. Il est élevé en bois. Il titre 13,5 % vol.</p>",
+    "it": "<p>È prodotto con Pinot Nero. È affinato in legno. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Bass Phillip Premium Pinot Noir Bass Phillip",
+  "brief": true,
+  "source": "decantalo"
+}

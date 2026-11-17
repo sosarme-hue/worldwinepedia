@@ -1,0 +1,40 @@
+{
+  "slug": "ridge-three-valleys",
+  "name": "Ridge Three Valleys",
+  "winery": "ridge",
+  "winery_name": null,
+  "region": null,
+  "country": "estados-unidos",
+  "appellation": "North Coast",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Ridge Three Valleys es un vino tinto de Ridge Vineyards, con la denominación North Coast, en Estados Unidos.",
+    "en": "Ridge Three Valleys is a red wine from Ridge Vineyards, made under the North Coast appellation in United States.",
+    "fr": "Ridge Three Valleys est un vin rouge de Ridge Vineyards, élaboré sous l’appellation North Coast (États-Unis).",
+    "it": "Ridge Three Valleys è un vino rosso di Ridge Vineyards, prodotto nella denominazione North Coast (Stati Uniti)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 14,4 % vol.</p><p>Bodega californiana fundada en 1962, célebre por el Cabernet Sauvignon de Monte Bello, en las montañas de Santa Cruz, y por sus Zinfandel de viñas viejas de Sonoma, como Lytton Springs y Geyserville.</p>",
+    "en": "<p>It has 14.4% ABV.</p><p>Californian winery founded in 1962, famous for its Monte Bello Cabernet Sauvignon from the Santa Cruz Mountains and for its old-vine Zinfandels from Sonoma, such as Lytton Springs and Geyserville.</p>",
+    "fr": "<p>Il titre 14,4 % vol.</p><p>Cave californienne fondée en 1962, célèbre pour le cabernet-sauvignon de Monte Bello, dans les montagnes de Santa Cruz, et pour ses zinfandels de vieilles vignes de Sonoma, comme Lytton Springs et Geyserville.</p>",
+    "it": "<p>Ha 14,4% vol.</p><p>Cantina californiana fondata nel 1962, celebre per il Cabernet Sauvignon di Monte Bello, sulle montagne di Santa Cruz, e per gli Zinfandel di vecchie vigne di Sonoma, come Lytton Springs e Geyserville.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Ridge Three Valleys Ridge Vineyards",
+  "brief": true,
+  "source": "decantalo"
+}

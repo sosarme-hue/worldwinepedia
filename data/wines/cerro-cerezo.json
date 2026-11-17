@@ -1,0 +1,40 @@
+{
+  "slug": "cerro-cerezo",
+  "name": "Cerro Cerezo",
+  "winery": null,
+  "winery_name": "Valtravieso Bodegas y Viñedos",
+  "region": "arlanza",
+  "country": "espana",
+  "appellation": "DO Arlanza",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Cerro Cerezo es un vino tinto de Valtravieso Bodegas y Viñedos, con la denominación DO Arlanza, en España.",
+    "en": "Cerro Cerezo is a red wine from Valtravieso Bodegas y Viñedos, made under the DO Arlanza appellation in Spain.",
+    "fr": "Cerro Cerezo est un vin rouge de Valtravieso Bodegas y Viñedos, élaboré sous l’appellation DO Arlanza (Espagne).",
+    "it": "Cerro Cerezo è un vino rosso di Valtravieso Bodegas y Viñedos, prodotto nella denominazione DO Arlanza (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 15 % vol.</p><p>Arlanza es una denominación de origen de Castilla y León que se extiende por el valle del río Arlanza, entre las provincias de Burgos y Palencia. Es una de las zonas vitícolas más frías y altas de la meseta norte y elabora sobre todo tintos de Tempranillo, además de rosados y claretes tradicionales.</p>",
+    "en": "<p>It is aged in wood. It has 15% ABV.</p><p>Arlanza is a designation of origin in Castilla y León that stretches along the valley of the river Arlanza, between the provinces of Burgos and Palencia. It is one of the coldest and highest wine areas of the northern plateau and mainly produces Tempranillo reds, along with traditional rosés and claretes.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 15 % vol.</p><p>Arlanza est une dénomination d'origine de Castille-et-León qui s'étend le long de la vallée de l'Arlanza, entre les provinces de Burgos et de Palencia. C'est l'une des zones viticoles les plus froides et les plus hautes du plateau nord ; elle produit surtout des rouges de tempranillo, ainsi que des rosés et des claretes traditionnels.</p>",
+    "it": "<p>È affinato in legno. Ha 15% vol.</p><p>Arlanza è una denominazione di origine della Castiglia e León che si estende lungo la valle del fiume Arlanza, tra le province di Burgos e Palencia. È una delle zone viticole più fredde ed elevate dell'altopiano settentrionale e produce soprattutto rossi di Tempranillo, oltre a rosati e claretes tradizionali.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Cerro Cerezo Valtravieso Bodegas y Viñedos",
+  "brief": true,
+  "source": "decantalo"
+}

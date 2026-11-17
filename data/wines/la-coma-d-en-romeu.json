@@ -1,0 +1,42 @@
+{
+  "slug": "la-coma-d-en-romeu",
+  "name": "La Coma d'en Romeu",
+  "winery": null,
+  "winery_name": "Ester Nin",
+  "region": "priorat",
+  "country": "espana",
+  "appellation": "DOQ Priorat",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "La Coma d'en Romeu es un vino tinto de Ester Nin, con la denominación DOQ Priorat, en España.",
+    "en": "La Coma d'en Romeu is a red wine from Ester Nin, made under the DOQ Priorat appellation in Spain.",
+    "fr": "La Coma d'en Romeu est un vin rouge de Ester Nin, élaboré sous l’appellation DOQ Priorat (Espagne).",
+    "it": "La Coma d'en Romeu è un vino rosso di Ester Nin, prodotto nella denominazione DOQ Priorat (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Tiene crianza en madera. Su graduación es de 14,5 % vol.</p><p>Priorat, en la provincia de Tarragona, es una de las dos Denominaciones de Origen Calificadas de España, junto a Rioja. Sus tintos de Garnacha y Cariñena, cultivadas en laderas de pizarra llamada llicorella, se caracterizan por su concentración y su carácter mineral.</p>",
+    "en": "<p>It is made from Grenache. It is aged in wood. It has 14.5% ABV.</p><p>Priorat, in the province of Tarragona, is one of Spain's two Qualified Designations of Origin, alongside Rioja. Its reds from Grenache and Carignan, grown on slopes of slate known as llicorella, are noted for their concentration and mineral character.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. Il est élevé en bois. Il titre 14,5 % vol.</p><p>Le Priorat, dans la province de Tarragone, est l'une des deux dénominations d'origine qualifiées d'Espagne, avec la Rioja. Ses rouges de grenache et de carignan, cultivés sur des coteaux de schiste appelé llicorella, se distinguent par leur concentration et leur caractère minéral.</p>",
+    "it": "<p>È prodotto con Grenache. È affinato in legno. Ha 14,5% vol.</p><p>Il Priorat, nella provincia di Tarragona, è una delle due Denominazioni di origine qualificate della Spagna, insieme alla Rioja. I suoi rossi di Garnacha e Carignano, coltivati su pendii di scisto detto llicorella, si distinguono per concentrazione e carattere minerale.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "La Coma d'en Romeu Ester Nin",
+  "brief": true,
+  "source": "decantalo"
+}

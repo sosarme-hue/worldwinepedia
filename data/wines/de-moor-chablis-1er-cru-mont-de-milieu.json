@@ -1,0 +1,42 @@
+{
+  "slug": "de-moor-chablis-1er-cru-mont-de-milieu",
+  "name": "De Moor Chablis 1er Cru Mont de Milieu",
+  "winery": null,
+  "winery_name": "Alice & Olivier De Moor",
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Chablis Premier Cru",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "De Moor Chablis 1er Cru Mont de Milieu es un vino blanco de Alice & Olivier De Moor, con la denominación AOC Chablis Premier Cru, en Francia.",
+    "en": "De Moor Chablis 1er Cru Mont de Milieu is a white wine from Alice & Olivier De Moor, made under the AOC Chablis Premier Cru appellation in France.",
+    "fr": "De Moor Chablis 1er Cru Mont de Milieu est un vin blanc de Alice & Olivier De Moor, élaboré sous l’appellation AOC Chablis Premier Cru (France).",
+    "it": "De Moor Chablis 1er Cru Mont de Milieu è un vino bianco di Alice & Olivier De Moor, prodotto nella denominazione AOC Chablis Premier Cru (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Chardonnay. Tiene crianza en madera. Su graduación es de 13 % vol.</p>",
+    "en": "<p>It is made from Chardonnay. It is aged in wood. It has 13% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Chardonnay. Il est élevé en bois. Il titre 13 % vol.</p>",
+    "it": "<p>È prodotto con Chardonnay. È affinato in legno. Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "De Moor Chablis 1er Cru Mont de Milieu Alice & Olivier De Moor",
+  "brief": true,
+  "source": "decantalo"
+}

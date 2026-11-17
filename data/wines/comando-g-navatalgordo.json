@@ -1,0 +1,42 @@
+{
+  "slug": "comando-g-navatalgordo",
+  "name": "Comando G Navatalgordo",
+  "winery": null,
+  "winery_name": "Comando G",
+  "region": null,
+  "country": "espana",
+  "appellation": "DO Cebreros",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Comando G Navatalgordo es un vino tinto de Comando G, con la denominación DO Cebreros, en España.",
+    "en": "Comando G Navatalgordo is a red wine from Comando G, made under the DO Cebreros appellation in Spain.",
+    "fr": "Comando G Navatalgordo est un vin rouge de Comando G, élaboré sous l’appellation DO Cebreros (Espagne).",
+    "it": "Comando G Navatalgordo è un vino rosso di Comando G, prodotto nella denominazione DO Cebreros (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Su graduación es de 14 % vol.</p>",
+    "en": "<p>It is made from Grenache. It has 14% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. Il titre 14 % vol.</p>",
+    "it": "<p>È prodotto con Grenache. Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Comando G Navatalgordo Comando G",
+  "brief": true,
+  "source": "decantalo"
+}

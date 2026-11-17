@@ -1,0 +1,40 @@
+{
+  "slug": "bollinger-brut-rose",
+  "name": "Bollinger Brut Rosé",
+  "winery": "bollinger",
+  "winery_name": null,
+  "region": null,
+  "country": "francia",
+  "appellation": null,
+  "type": "espumoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Bollinger Brut Rosé es un vino espumoso de Champagne Bollinger, en Francia.",
+    "en": "Bollinger Brut Rosé is a sparkling wine from Champagne Bollinger in France.",
+    "fr": "Bollinger Brut Rosé est un vin effervescent de Champagne Bollinger (France).",
+    "it": "Bollinger Brut Rosé è un vino spumante di Champagne Bollinger (Francia)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 12 % vol.</p><p>Maison familiar de Aÿ fundada en 1829, conocida por un estilo de champagne con predominio de Pinot Noir y por fermentar parte de sus vinos en barrica.</p>",
+    "en": "<p>It has 12% ABV.</p><p>Family-owned house in Aÿ founded in 1829, known for a Pinot Noir-led champagne style and for fermenting part of its wines in barrel.</p>",
+    "fr": "<p>Il titre 12 % vol.</p><p>Maison familiale d’Aÿ fondée en 1829, connue pour un style de champagne dominé par le pinot noir et pour la fermentation d’une partie de ses vins en fût.</p>",
+    "it": "<p>Ha 12% vol.</p><p>Maison di famiglia di Aÿ fondata nel 1829, nota per uno stile di champagne a prevalenza di Pinot Noir e per la fermentazione di parte dei suoi vini in botte.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Bollinger Brut Rosé Bollinger",
+  "brief": true,
+  "source": "decantalo"
+}

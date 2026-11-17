@@ -1,0 +1,42 @@
+{
+  "slug": "champagne-barons-de-rothschild-blanc-de-blancs",
+  "name": "Champagne Barons de Rothschild Blanc de Blancs",
+  "winery": null,
+  "winery_name": "Champagne Barons de Rothschild",
+  "region": null,
+  "country": "francia",
+  "appellation": null,
+  "type": "espumoso",
+  "category": null,
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Champagne Barons de Rothschild Blanc de Blancs es un vino espumoso de Champagne Barons de Rothschild, en Francia.",
+    "en": "Champagne Barons de Rothschild Blanc de Blancs is a sparkling wine from Champagne Barons de Rothschild in France.",
+    "fr": "Champagne Barons de Rothschild Blanc de Blancs est un vin effervescent de Champagne Barons de Rothschild (France).",
+    "it": "Champagne Barons de Rothschild Blanc de Blancs è un vino spumante di Champagne Barons de Rothschild (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Chardonnay. Su graduación es de 12 % vol.</p>",
+    "en": "<p>It is made from Chardonnay. It has 12% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Chardonnay. Il titre 12 % vol.</p>",
+    "it": "<p>È prodotto con Chardonnay. Ha 12% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Champagne Barons de Rothschild Blanc de Blancs Champagne Barons de Rothschild",
+  "brief": true,
+  "source": "decantalo"
+}

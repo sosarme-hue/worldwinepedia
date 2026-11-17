@@ -1,0 +1,40 @@
+{
+  "slug": "gran-enemigo-agrelo",
+  "name": "Gran Enemigo Agrelo",
+  "winery": null,
+  "winery_name": "Bodega Aleanna",
+  "region": "mendoza",
+  "country": "argentina",
+  "appellation": "Mendoza",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Gran Enemigo Agrelo es un vino tinto de Bodega Aleanna, con la denominación Mendoza, en Argentina.",
+    "en": "Gran Enemigo Agrelo is a red wine from Bodega Aleanna, made under the Mendoza appellation in Argentina.",
+    "fr": "Gran Enemigo Agrelo est un vin rouge de Bodega Aleanna, élaboré sous l’appellation Mendoza (Argentine).",
+    "it": "Gran Enemigo Agrelo è un vino rosso di Bodega Aleanna, prodotto nella denominazione Mendoza (Argentina)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14 % vol.</p><p>Mendoza es la principal provincia vitícola de Argentina y concentra la mayor parte del viñedo del país. Sus oasis regados al pie de los Andes son la tierra de la Malbec por excelencia.</p>",
+    "en": "<p>It is aged in wood. It has 14% ABV.</p><p>Mendoza is Argentina’s leading wine province and accounts for most of the country’s vineyard area. Its irrigated oases at the foot of the Andes are the heartland of Malbec.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14 % vol.</p><p>Mendoza est la principale province viticole d’Argentine et concentre la majeure partie du vignoble du pays. Ses oasis irriguées au pied des Andes sont la terre du malbec par excellence.</p>",
+    "it": "<p>È affinato in legno. Ha 14% vol.</p><p>Mendoza è la principale provincia vitivinicola dell’Argentina e concentra la maggior parte dei vigneti del paese. Le sue oasi irrigate ai piedi delle Ande sono la terra del Malbec per eccellenza.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Gran Enemigo Agrelo Bodega Aleanna",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "chateau-pibarnon",
+  "name": "Château Pibarnon",
+  "winery": null,
+  "winery_name": "Château Pibarnon",
+  "region": "bandol",
+  "country": "francia",
+  "appellation": "AOC Bandol",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Château Pibarnon es un vino tinto de Château Pibarnon, con la denominación AOC Bandol, en Francia.",
+    "en": "Château Pibarnon is a red wine from Château Pibarnon, made under the AOC Bandol appellation in France.",
+    "fr": "Château Pibarnon est un vin rouge de Château Pibarnon, élaboré sous l’appellation AOC Bandol (France).",
+    "it": "Château Pibarnon è un vino rosso di Château Pibarnon, prodotto nella denominazione AOC Bandol (Francia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14 % vol.</p><p>Bandol, en la costa provenzal al oeste de Toulon, es la denominación de referencia de la Mourvèdre. Sus tintos, estructurados y de larga guarda, se acompañan de rosados de buena estructura y de algunos blancos.</p>",
+    "en": "<p>It is aged in wood. It has 14% ABV.</p><p>Bandol, on the Provençal coast west of Toulon, is the benchmark appellation for Mourvèdre. Its structured, long-lived reds are joined by well-structured rosés and some whites.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14 % vol.</p><p>Bandol, sur la côte provençale à l'ouest de Toulon, est l'appellation de référence du mourvèdre. Ses rouges structurés et de longue garde sont accompagnés de rosés charpentés et de quelques blancs.</p>",
+    "it": "<p>È affinato in legno. Ha 14% vol.</p><p>Bandol, sulla costa provenzale a ovest di Tolone, è la denominazione di riferimento del Mourvèdre. I suoi rossi strutturati e longevi sono affiancati da rosati di buona struttura e da alcuni bianchi.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Château Pibarnon Château Pibarnon",
+  "brief": true,
+  "source": "decantalo"
+}

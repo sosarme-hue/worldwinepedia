@@ -1,0 +1,40 @@
+{
+  "slug": "agostado-palo-cortado",
+  "name": "Agostado Palo Cortado",
+  "winery": null,
+  "winery_name": "Cota 45",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Cádiz",
+  "type": "generoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Agostado Palo Cortado es un vino generoso de Cota 45, con la denominación VT Cádiz, en España.",
+    "en": "Agostado Palo Cortado is a fortified wine from Cota 45, made under the VT Cádiz appellation in Spain.",
+    "fr": "Agostado Palo Cortado est un vin fortifié de Cota 45, élaboré sous l’appellation VT Cádiz (Espagne).",
+    "it": "Agostado Palo Cortado è un vino liquoroso di Cota 45, prodotto nella denominazione VT Cádiz (Spagna)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 15,5 % vol.</p>",
+    "en": "<p>It has 15.5% ABV.</p>",
+    "fr": "<p>Il titre 15,5 % vol.</p>",
+    "it": "<p>Ha 15,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, jamón, frutos secos, quesos curados",
+    "en": "Aperitif, cured ham, nuts, aged cheeses",
+    "fr": "Apéritif, jambon sec, fruits secs, fromages affinés",
+    "it": "Aperitivo, prosciutto crudo, frutta secca, formaggi stagionati"
+  },
+  "serve": {
+    "es": "7-14 °C según el tipo, catavino",
+    "en": "7-14 °C depending on style, copita glass",
+    "fr": "7-14 °C selon le style, verre à xérès",
+    "it": "7-14 °C secondo lo stile, bicchiere da sherry"
+  },
+  "search": "Agostado Palo Cortado Cota 45",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "champagne-lanson-le-green-label-bio",
+  "name": "Champagne Lanson Le Green Label Bio",
+  "winery": "lanson",
+  "winery_name": null,
+  "region": null,
+  "country": "francia",
+  "appellation": null,
+  "type": "espumoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Champagne Lanson Le Green Label Bio es un vino espumoso de Champagne Lanson, en Francia.",
+    "en": "Champagne Lanson Le Green Label Bio is a sparkling wine from Champagne Lanson in France.",
+    "fr": "Champagne Lanson Le Green Label Bio est un vin effervescent de Champagne Lanson (France).",
+    "it": "Champagne Lanson Le Green Label Bio è un vino spumante di Champagne Lanson (Francia)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 12,5 % vol.</p><p>Casa de Champagne fundada en Reims en 1760, cuyo emblema es la cruz de Malta y cuyo estilo se ha basado tradicionalmente en evitar la fermentación maloláctica.</p>",
+    "en": "<p>It has 12.5% ABV.</p><p>Champagne house founded in Reims in 1760, whose emblem is the Maltese cross and whose style has traditionally been based on avoiding malolactic fermentation.</p>",
+    "fr": "<p>Il titre 12,5 % vol.</p><p>Maison de Champagne fondée à Reims en 1760, dont l’emblème est la croix de Malte et dont le style repose traditionnellement sur l’absence de fermentation malolactique.</p>",
+    "it": "<p>Ha 12,5% vol.</p><p>Casa di Champagne fondata a Reims nel 1760, il cui emblema è la croce di Malta e il cui stile si è tradizionalmente basato sull’evitare la fermentazione malolattica.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Champagne Lanson Le Green Label Bio Champagne Lanson",
+  "brief": true,
+  "source": "decantalo"
+}

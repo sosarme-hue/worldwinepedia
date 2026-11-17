@@ -1,0 +1,40 @@
+{
+  "slug": "ayala-brut-majeur",
+  "name": "Ayala Brut Majeur",
+  "winery": "ayala",
+  "winery_name": null,
+  "region": null,
+  "country": "francia",
+  "appellation": null,
+  "type": "espumoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Ayala Brut Majeur es un vino espumoso de Champagne Ayala, en Francia.",
+    "en": "Ayala Brut Majeur is a sparkling wine from Champagne Ayala in France.",
+    "fr": "Ayala Brut Majeur est un vin effervescent de Champagne Ayala (France).",
+    "it": "Ayala Brut Majeur è un vino spumante di Champagne Ayala (Francia)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 12 % vol.</p><p>Casa de Champagne fundada en Aÿ en el siglo XIX, integrada en el grupo de Bollinger, conocida por un estilo fresco con protagonismo del Chardonnay y dosificaciones bajas.</p>",
+    "en": "<p>It has 12% ABV.</p><p>Champagne house founded in Aÿ in the 19th century, part of the Bollinger group, known for a fresh, Chardonnay-led style and low dosages.</p>",
+    "fr": "<p>Il titre 12 % vol.</p><p>Maison de Champagne fondée à Aÿ au XIXe siècle, intégrée au groupe Bollinger, connue pour un style frais, porté par le chardonnay et de faibles dosages.</p>",
+    "it": "<p>Ha 12% vol.</p><p>Maison di Champagne fondata ad Aÿ nell’Ottocento, parte del gruppo Bollinger, nota per uno stile fresco, guidato dallo Chardonnay e con dosaggi bassi.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Ayala Brut Majeur Ayala",
+  "brief": true,
+  "source": "decantalo"
+}

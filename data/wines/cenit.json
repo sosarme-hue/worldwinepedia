@@ -1,0 +1,40 @@
+{
+  "slug": "cenit",
+  "name": "Cénit",
+  "winery": null,
+  "winery_name": "Viñas del Cénit",
+  "region": null,
+  "country": "espana",
+  "appellation": "VC Tierra del Vino de Zamora",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Cénit es un vino tinto de Viñas del Cénit, con la denominación VC Tierra del Vino de Zamora, en España.",
+    "en": "Cénit is a red wine from Viñas del Cénit, made under the VC Tierra del Vino de Zamora appellation in Spain.",
+    "fr": "Cénit est un vin rouge de Viñas del Cénit, élaboré sous l’appellation VC Tierra del Vino de Zamora (Espagne).",
+    "it": "Cénit è un vino rosso di Viñas del Cénit, prodotto nella denominazione VC Tierra del Vino de Zamora (Spagna)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 15,5 % vol.</p>",
+    "en": "<p>It has 15.5% ABV.</p>",
+    "fr": "<p>Il titre 15,5 % vol.</p>",
+    "it": "<p>Ha 15,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Cénit Viñas del Cénit",
+  "brief": true,
+  "source": "decantalo"
+}

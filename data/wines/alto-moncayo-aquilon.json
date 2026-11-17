@@ -1,0 +1,42 @@
+{
+  "slug": "alto-moncayo-aquilon",
+  "name": "Alto Moncayo Aquilón",
+  "winery": "alto-moncayo",
+  "winery_name": null,
+  "region": "campo-de-borja",
+  "country": "espana",
+  "appellation": "DO Campo de Borja",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Alto Moncayo Aquilón es un vino tinto de Bodegas Alto Moncayo, con la denominación DO Campo de Borja, en España.",
+    "en": "Alto Moncayo Aquilón is a red wine from Bodegas Alto Moncayo, made under the DO Campo de Borja appellation in Spain.",
+    "fr": "Alto Moncayo Aquilón est un vin rouge de Bodegas Alto Moncayo, élaboré sous l’appellation DO Campo de Borja (Espagne).",
+    "it": "Alto Moncayo Aquilón è un vino rosso di Bodegas Alto Moncayo, prodotto nella denominazione DO Campo de Borja (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Tiene crianza en madera. Su graduación es de 16 % vol.</p><p>Bodega del Campo de Borja creada a comienzos del siglo XXI por Bodegas Borsao, el importador Jorge Ordóñez y el enólogo australiano Chris Ringland, dedicada a garnachas de viñas viejas.</p><p>Campo de Borja es una denominación de origen de la provincia de Zaragoza, situada entre el valle del Ebro y las faldas del Moncayo. Se ha especializado en la Garnacha, con numerosas viñas viejas, y se presenta como «el Imperio de la Garnacha».</p>",
+    "en": "<p>It is made from Grenache. It is aged in wood. It has 16% ABV.</p><p>Campo de Borja winery created in the early twenty-first century by Bodegas Borsao, the importer Jorge Ordóñez and Australian winemaker Chris Ringland, devoted to old-vine Garnacha.</p><p>Campo de Borja is a designation of origin in the province of Zaragoza, between the Ebro valley and the slopes of the Moncayo. It specialises in Grenache, with many old vineyards, and promotes itself as the Empire of Grenache.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. Il est élevé en bois. Il titre 16 % vol.</p><p>Domaine du Campo de Borja créé au début du XXIe siècle par Bodegas Borsao, l'importateur Jorge Ordóñez et l'œnologue australien Chris Ringland, consacré aux grenaches de vieilles vignes.</p><p>Campo de Borja est une dénomination d'origine de la province de Saragosse, située entre la vallée de l'Èbre et les contreforts du Moncayo. Elle s'est spécialisée dans le grenache, avec de nombreuses vieilles vignes, et se présente comme « l'Empire du grenache ».</p>",
+    "it": "<p>È prodotto con Grenache. È affinato in legno. Ha 16% vol.</p><p>Cantina del Campo de Borja creata all'inizio del XXI secolo da Bodegas Borsao, dall'importatore Jorge Ordóñez e dall'enologo australiano Chris Ringland, dedicata alla Garnacha di vecchie vigne.</p><p>Campo de Borja è una denominazione di origine della provincia di Saragozza, situata tra la valle dell'Ebro e le pendici del Moncayo. Si è specializzata nella Garnacha, con numerose vecchie vigne, e si presenta come «l'Impero della Garnacha».</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Alto Moncayo Aquilón Alto Moncayo",
+  "brief": true,
+  "source": "decantalo"
+}

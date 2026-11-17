@@ -1,0 +1,42 @@
+{
+  "slug": "derain-mercurey-la-plante-chassey",
+  "name": "Derain Mercurey La Plante Chassey",
+  "winery": null,
+  "winery_name": "Dominique Derain",
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Saint Aubin / Côte-d'Or",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Derain Mercurey La Plante Chassey es un vino tinto de Dominique Derain, con la denominación AOC Saint Aubin / Côte-d'Or, en Francia.",
+    "en": "Derain Mercurey La Plante Chassey is a red wine from Dominique Derain, made under the AOC Saint Aubin / Côte-d'Or appellation in France.",
+    "fr": "Derain Mercurey La Plante Chassey est un vin rouge de Dominique Derain, élaboré sous l’appellation AOC Saint Aubin / Côte-d'Or (France).",
+    "it": "Derain Mercurey La Plante Chassey è un vino rosso di Dominique Derain, prodotto nella denominazione AOC Saint Aubin / Côte-d'Or (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Pinot Noir. Tiene crianza en madera. Su graduación es de 12 % vol.</p>",
+    "en": "<p>It is made from Pinot Noir. It is aged in wood. It has 12% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Pinot Noir. Il est élevé en bois. Il titre 12 % vol.</p>",
+    "it": "<p>È prodotto con Pinot Nero. È affinato in legno. Ha 12% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Derain Mercurey La Plante Chassey Dominique Derain",
+  "brief": true,
+  "source": "decantalo"
+}
