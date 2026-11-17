@@ -1,0 +1,42 @@
+{
+  "slug": "forster-winzer-spatburgunder",
+  "name": "Forster Winzer Spätburgunder",
+  "winery": null,
+  "winery_name": "Forster Winzer",
+  "region": null,
+  "country": "alemania",
+  "appellation": "VDP Nahe",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Forster Winzer Spätburgunder es un vino tinto de Forster Winzer, con la denominación VDP Nahe, en Alemania.",
+    "en": "Forster Winzer Spätburgunder is a red wine from Forster Winzer, made under the VDP Nahe appellation in Germany.",
+    "fr": "Forster Winzer Spätburgunder est un vin rouge de Forster Winzer, élaboré sous l’appellation VDP Nahe (Allemagne).",
+    "it": "Forster Winzer Spätburgunder è un vino rosso di Forster Winzer, prodotto nella denominazione VDP Nahe (Germania)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Pinot Noir. Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 12 % vol.</p>",
+    "en": "<p>It is made from Pinot Noir. It is a young wine, meant to be drunk in its first years. It has 12% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Pinot Noir. C’est un vin jeune, à boire dans ses premières années. Il titre 12 % vol.</p>",
+    "it": "<p>È prodotto con Pinot Nero. È un vino giovane, da bere nei primi anni. Ha 12% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Forster Winzer Spätburgunder Forster Winzer",
+  "brief": true,
+  "source": "decantalo"
+}

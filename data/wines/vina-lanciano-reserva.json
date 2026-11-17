@@ -1,0 +1,45 @@
+{
+  "slug": "vina-lanciano-reserva",
+  "name": "Viña Lanciano Reserva",
+  "winery": "bodegas-lan",
+  "winery_name": null,
+  "region": "rioja",
+  "country": "espana",
+  "appellation": "DOCa Rioja",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [],
+  "summary": {
+    "es": "Viña Lanciano Reserva es un vino tinto de Bodegas LAN, con la denominación DOCa Rioja, en España.",
+    "en": "Viña Lanciano Reserva is a red wine from Bodegas LAN, made under the DOCa Rioja appellation in Spain.",
+    "fr": "Viña Lanciano Reserva est un vin rouge de Bodegas LAN, élaboré sous l’appellation DOCa Rioja (Espagne).",
+    "it": "Viña Lanciano Reserva è un vino rosso di Bodegas LAN, prodotto nella denominazione DOCa Rioja (Spagna)."
+  },
+  "body": {
+    "es": "<p>Lleva la mención Reserva. Su graduación es de 13,5 % vol.</p><p>Bodega de Fuenmayor fundada en 1972, cuyo nombre reúne las iniciales de las tres provincias de la Denominación —Logroño, Álava y Navarra— y cuya finca de referencia es Viña Lanciano.</p><p>Rioja, en el valle del Ebro, fue en 1991 la primera Denominación de Origen Calificada de España. Es conocida sobre todo por sus tintos de Tempranillo y por su larga tradición de crianza en barrica de roble.</p>",
+    "en": "<p>It carries the Reserva designation. It has 13.5% ABV.</p><p>Winery in Fuenmayor founded in 1972, whose name brings together the initials of the appellation’s three provinces —Logroño, Álava and Navarra— and whose flagship estate is Viña Lanciano.</p><p>Rioja, in the Ebro valley, became Spain's first Qualified Designation of Origin in 1991. It is best known for its Tempranillo-based reds and its long tradition of ageing in oak barrels.</p>",
+    "fr": "<p>Il porte la mention Reserva. Il titre 13,5 % vol.</p><p>Bodega de Fuenmayor fondée en 1972, dont le nom réunit les initiales des trois provinces de l’appellation —Logroño, Álava et Navarra— et dont le domaine phare est Viña Lanciano.</p><p>La Rioja, dans la vallée de l'Èbre, est devenue en 1991 la première dénomination d'origine qualifiée d'Espagne. Elle est surtout connue pour ses rouges à base de tempranillo et sa longue tradition d'élevage en barrique de chêne.</p>",
+    "it": "<p>Riporta la menzione Reserva. Ha 13,5% vol.</p><p>Cantina di Fuenmayor fondata nel 1972, il cui nome riunisce le iniziali delle tre province della denominazione —Logroño, Álava e Navarra— e la cui tenuta di riferimento è Viña Lanciano.</p><p>La Rioja, nella valle dell'Ebro, è diventata nel 1991 la prima Denominazione di origine qualificata di Spagna. È nota soprattutto per i rossi a base di Tempranillo e per la lunga tradizione di affinamento in botte di rovere.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Viña Lanciano Reserva Bodegas LAN",
+  "brief": true,
+  "source": "decantalo"
+}

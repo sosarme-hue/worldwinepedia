@@ -1,0 +1,40 @@
+{
+  "slug": "vantorosso-valpolicella-ripasso",
+  "name": "Vantorosso Valpolicella Ripasso",
+  "winery": null,
+  "winery_name": "Vantorosso",
+  "region": null,
+  "country": "italia",
+  "appellation": "DOC Valpolicella Ripasso",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Vantorosso Valpolicella Ripasso es un vino tinto de Vantorosso, con la denominación DOC Valpolicella Ripasso, en Italia.",
+    "en": "Vantorosso Valpolicella Ripasso is a red wine from Vantorosso, made under the DOC Valpolicella Ripasso appellation in Italy.",
+    "fr": "Vantorosso Valpolicella Ripasso est un vin rouge de Vantorosso, élaboré sous l’appellation DOC Valpolicella Ripasso (Italie).",
+    "it": "Vantorosso Valpolicella Ripasso è un vino rosso di Vantorosso, prodotto nella denominazione DOC Valpolicella Ripasso (Italia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14,5 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 14.5% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14,5 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 14,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Vantorosso Valpolicella Ripasso Vantorosso",
+  "brief": true,
+  "source": "decantalo"
+}

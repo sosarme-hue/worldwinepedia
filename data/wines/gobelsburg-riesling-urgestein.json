@@ -1,0 +1,42 @@
+{
+  "slug": "gobelsburg-riesling-urgestein",
+  "name": "Gobelsburg Riesling Urgestein",
+  "winery": "schloss-gobelsburg",
+  "winery_name": null,
+  "region": null,
+  "country": "austria",
+  "appellation": "Niederösterreich",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "riesling"
+  ],
+  "summary": {
+    "es": "Gobelsburg Riesling Urgestein es un vino blanco de Schloss Gobelsburg, con la denominación Niederösterreich, en Austria.",
+    "en": "Gobelsburg Riesling Urgestein is a white wine from Schloss Gobelsburg, made under the Niederösterreich appellation in Austria.",
+    "fr": "Gobelsburg Riesling Urgestein est un vin blanc de Schloss Gobelsburg, élaboré sous l’appellation Niederösterreich (Autriche).",
+    "it": "Gobelsburg Riesling Urgestein è un vino bianco di Schloss Gobelsburg, prodotto nella denominazione Niederösterreich (Austria)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Riesling. Se cría en depósitos de acero inoxidable. Su graduación es de 12 % vol.</p><p>Finca histórica del Kamptal, junto a Langenlois, vinculada durante siglos a los monjes cistercienses de Zwettl y gestionada desde 1996 por Michael Moosbrugger.</p>",
+    "en": "<p>It is made from Riesling. It is aged in stainless steel tanks. It has 12% ABV.</p><p>Historic Kamptal estate near Langenlois, linked for centuries to the Cistercian monks of Zwettl and managed since 1996 by Michael Moosbrugger.</p>",
+    "fr": "<p>Il est élaboré à partir de Riesling. Il est élevé en cuves inox. Il titre 12 % vol.</p><p>Domaine historique du Kamptal, près de Langenlois, lié pendant des siècles aux moines cisterciens de Zwettl et géré depuis 1996 par Michael Moosbrugger.</p>",
+    "it": "<p>È prodotto con Riesling Renano. Affina in acciaio inox. Ha 12% vol.</p><p>Tenuta storica del Kamptal, vicino a Langenlois, legata per secoli ai monaci cistercensi di Zwettl e gestita dal 1996 da Michael Moosbrugger.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Gobelsburg Riesling Urgestein Schloss Gobelsburg",
+  "brief": true,
+  "source": "decantalo"
+}

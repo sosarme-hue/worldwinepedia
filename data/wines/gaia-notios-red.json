@@ -1,0 +1,40 @@
+{
+  "slug": "gaia-notios-red",
+  "name": "Gaia Notios Red",
+  "winery": "gaia-wines",
+  "winery_name": null,
+  "region": null,
+  "country": "grecia",
+  "appellation": "Peloponeso",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Gaia Notios Red es un vino tinto de Gaia Wines, con la denominación Peloponeso, en Grecia.",
+    "en": "Gaia Notios Red is a red wine from Gaia Wines, made under the Peloponeso appellation in Greece.",
+    "fr": "Gaia Notios Red est un vin rouge de Gaia Wines, élaboré sous l’appellation Peloponeso (Grèce).",
+    "it": "Gaia Notios Red è un vino rosso di Gaia Wines, prodotto nella denominazione Peloponeso (Grecia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13 % vol.</p><p>Bodega griega fundada en 1994 por Leon Karatsalos y el enólogo Yiannis Paraskevopoulos, con instalaciones en Nemea y en Santorini. Se ha centrado en la Agiorgitiko y la Assyrtiko.</p>",
+    "en": "<p>It is aged in wood. It has 13% ABV.</p><p>A Greek winery founded in 1994 by Leon Karatsalos and the oenologist Yiannis Paraskevopoulos, with facilities in Nemea and on Santorini. It has focused on Agiorgitiko and Assyrtiko.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13 % vol.</p><p>Domaine grec fondé en 1994 par Leon Karatsalos et l’œnologue Yiannis Paraskevopoulos, avec des installations à Némée et à Santorin. Il s’est consacré à l’agiorgitiko et à l’assyrtiko.</p>",
+    "it": "<p>È affinato in legno. Ha 13% vol.</p><p>Cantina greca fondata nel 1994 da Leon Karatsalos e dall’enologo Yiannis Paraskevopoulos, con sedi a Nemea e a Santorini. Si è concentrata sull’Agiorgitiko e sull’Assyrtiko.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Gaia Notios Red Gaia Wines",
+  "brief": true,
+  "source": "decantalo"
+}

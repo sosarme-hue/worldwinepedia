@@ -1,0 +1,40 @@
+{
+  "slug": "mariotti-malestar",
+  "name": "Mariotti Malestar",
+  "winery": null,
+  "winery_name": "Azienda Agricola Mirco Mariotti",
+  "region": null,
+  "country": "italia",
+  "appellation": "IGT Emilia",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Mariotti Malestar es un vino blanco de Azienda Agricola Mirco Mariotti, con la denominación IGT Emilia, en Italia.",
+    "en": "Mariotti Malestar is a white wine from Azienda Agricola Mirco Mariotti, made under the IGT Emilia appellation in Italy.",
+    "fr": "Mariotti Malestar est un vin blanc de Azienda Agricola Mirco Mariotti, élaboré sous l’appellation IGT Emilia (Italie).",
+    "it": "Mariotti Malestar è un vino bianco di Azienda Agricola Mirco Mariotti, prodotto nella denominazione IGT Emilia (Italia)."
+  },
+  "body": {
+    "es": "<p>Se cría sobre sus lías. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is aged on its lees. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élevé sur lies. Il titre 12,5 % vol.</p>",
+    "it": "<p>Affina sulle fecce fini. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Mariotti Malestar Azienda Agricola Mirco Mariotti",
+  "brief": true,
+  "source": "decantalo"
+}

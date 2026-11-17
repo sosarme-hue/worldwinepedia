@@ -1,0 +1,40 @@
+{
+  "slug": "binitord-rosat",
+  "name": "Binitord Rosat",
+  "winery": null,
+  "winery_name": "Binitord",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Illa de Menorca",
+  "type": "rosado",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Binitord Rosat es un vino rosado de Binitord, con la denominación VT Illa de Menorca, en España.",
+    "en": "Binitord Rosat is a rosé wine from Binitord, made under the VT Illa de Menorca appellation in Spain.",
+    "fr": "Binitord Rosat est un vin rosé de Binitord, élaboré sous l’appellation VT Illa de Menorca (Espagne).",
+    "it": "Binitord Rosat è un vino rosato di Binitord, prodotto nella denominazione VT Illa de Menorca (Spagna)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It has 12.5% ABV.</p>",
+    "fr": "<p>Il titre 12,5 % vol.</p>",
+    "it": "<p>Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, ensaladas, arroces, pescados",
+    "en": "Aperitif, salads, rice dishes, fish",
+    "fr": "Apéritif, salades, plats de riz, poissons",
+    "it": "Aperitivo, insalate, risotti, pesce"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Binitord Rosat Binitord",
+  "brief": true,
+  "source": "decantalo"
+}

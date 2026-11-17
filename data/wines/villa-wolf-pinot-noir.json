@@ -1,0 +1,42 @@
+{
+  "slug": "villa-wolf-pinot-noir",
+  "name": "Villa Wolf Pinot Noir",
+  "winery": null,
+  "winery_name": "Weingut Villa Wolf",
+  "region": null,
+  "country": "alemania",
+  "appellation": "VDP Pfalz",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Villa Wolf Pinot Noir es un vino tinto de Weingut Villa Wolf, con la denominación VDP Pfalz, en Alemania.",
+    "en": "Villa Wolf Pinot Noir is a red wine from Weingut Villa Wolf, made under the VDP Pfalz appellation in Germany.",
+    "fr": "Villa Wolf Pinot Noir est un vin rouge de Weingut Villa Wolf, élaboré sous l’appellation VDP Pfalz (Allemagne).",
+    "it": "Villa Wolf Pinot Noir è un vino rosso di Weingut Villa Wolf, prodotto nella denominazione VDP Pfalz (Germania)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Pinot Noir. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is made from Pinot Noir. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Pinot Noir. Il titre 12,5 % vol.</p>",
+    "it": "<p>È prodotto con Pinot Nero. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Villa Wolf Pinot Noir Weingut Villa Wolf",
+  "brief": true,
+  "source": "decantalo"
+}

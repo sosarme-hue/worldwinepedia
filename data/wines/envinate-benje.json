@@ -1,0 +1,42 @@
+{
+  "slug": "envinate-benje",
+  "name": "Envínate Benje",
+  "winery": null,
+  "winery_name": "Envínate",
+  "region": "ycoden-daute-isora",
+  "country": "espana",
+  "appellation": "DO Ycoden-Daute-Isora",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "listan-negro"
+  ],
+  "summary": {
+    "es": "Envínate Benje es un vino tinto de Envínate, con la denominación DO Ycoden-Daute-Isora, en España.",
+    "en": "Envínate Benje is a red wine from Envínate, made under the DO Ycoden-Daute-Isora appellation in Spain.",
+    "fr": "Envínate Benje est un vin rouge de Envínate, élaboré sous l’appellation DO Ycoden-Daute-Isora (Espagne).",
+    "it": "Envínate Benje è un vino rosso di Envínate, prodotto nella denominazione DO Ycoden-Daute-Isora (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Listán Negro. Tiene crianza en madera. Su graduación es de 12,5 % vol.</p><p>Ycoden-Daute-Isora es una denominación de origen del noroeste y el oeste de Tenerife, con centros en Icod de los Vinos, Garachico y Guía de Isora. Elabora sobre todo blancos de Listán Blanco, además de tintos de Listán Negro y otras variedades canarias, y vinos dulces de Malvasía.</p>",
+    "en": "<p>It is made from Listán Negro. It is aged in wood. It has 12.5% ABV.</p><p>Ycoden-Daute-Isora is a designation of origin in the north-west and west of Tenerife, centred on Icod de los Vinos, Garachico and Guía de Isora. It mainly produces Listán Blanco whites, along with reds from Listán Negro and other Canary varieties and sweet Malvasía wines.</p>",
+    "fr": "<p>Il est élaboré à partir de Listán Negro. Il est élevé en bois. Il titre 12,5 % vol.</p><p>Ycoden-Daute-Isora est une dénomination d'origine du nord-ouest et de l'ouest de Tenerife, centrée sur Icod de los Vinos, Garachico et Guía de Isora. Elle produit surtout des blancs de listán blanco, ainsi que des rouges de listán negro et d'autres cépages canariens et des vins doux de malvasía.</p>",
+    "it": "<p>È prodotto con Listán Negro. È affinato in legno. Ha 12,5% vol.</p><p>Ycoden-Daute-Isora è una denominazione di origine del nord-ovest e dell'ovest di Tenerife, con centri a Icod de los Vinos, Garachico e Guía de Isora. Produce soprattutto bianchi di Listán Blanco, oltre a rossi di Listán Negro e di altri vitigni delle Canarie e vini dolci di Malvasía.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Envínate Benje Envínate",
+  "brief": true,
+  "source": "decantalo"
+}

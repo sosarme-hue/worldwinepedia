@@ -1,0 +1,45 @@
+{
+  "slug": "faustino-crianza",
+  "name": "Faustino Crianza",
+  "winery": "bodegas-faustino",
+  "winery_name": null,
+  "region": "rioja",
+  "country": "espana",
+  "appellation": "DOCa Rioja",
+  "type": "tinto",
+  "category": {
+    "es": "Crianza",
+    "en": "Crianza",
+    "fr": "Crianza",
+    "it": "Crianza"
+  },
+  "grapes": [],
+  "summary": {
+    "es": "Faustino Crianza es un vino tinto de Bodegas Faustino, con la denominación DOCa Rioja, en España.",
+    "en": "Faustino Crianza is a red wine from Bodegas Faustino, made under the DOCa Rioja appellation in Spain.",
+    "fr": "Faustino Crianza est un vin rouge de Bodegas Faustino, élaboré sous l’appellation DOCa Rioja (Espagne).",
+    "it": "Faustino Crianza è un vino rosso di Bodegas Faustino, prodotto nella denominazione DOCa Rioja (Spagna)."
+  },
+  "body": {
+    "es": "<p>Lleva la mención Crianza. Su graduación es de 13 % vol.</p><p>Bodega familiar de Oyón, en la Rioja Alavesa, cuyos orígenes se remontan a 1861 y cuyo Faustino I Gran Reserva, con su etiqueta inspirada en un retrato de Rembrandt, es uno de los riojas clásicos más reconocibles.</p><p>Rioja, en el valle del Ebro, fue en 1991 la primera Denominación de Origen Calificada de España. Es conocida sobre todo por sus tintos de Tempranillo y por su larga tradición de crianza en barrica de roble.</p>",
+    "en": "<p>It carries the Crianza designation. It has 13% ABV.</p><p>Family winery in Oyón, in Rioja Alavesa, whose origins date back to 1861 and whose Faustino I Gran Reserva, with its label inspired by a Rembrandt portrait, is one of the most recognisable classic Riojas.</p><p>Rioja, in the Ebro valley, became Spain's first Qualified Designation of Origin in 1991. It is best known for its Tempranillo-based reds and its long tradition of ageing in oak barrels.</p>",
+    "fr": "<p>Il porte la mention Crianza. Il titre 13 % vol.</p><p>Bodega familiale d’Oyón, dans la Rioja Alavesa, dont les origines remontent à 1861 et dont le Faustino I Gran Reserva, avec son étiquette inspirée d’un portrait de Rembrandt, est l’un des riojas classiques les plus reconnaissables.</p><p>La Rioja, dans la vallée de l'Èbre, est devenue en 1991 la première dénomination d'origine qualifiée d'Espagne. Elle est surtout connue pour ses rouges à base de tempranillo et sa longue tradition d'élevage en barrique de chêne.</p>",
+    "it": "<p>Riporta la menzione Crianza. Ha 13% vol.</p><p>Cantina di famiglia di Oyón, nella Rioja Alavesa, le cui origini risalgono al 1861 e il cui Faustino I Gran Reserva, con l’etichetta ispirata a un ritratto di Rembrandt, è uno dei Rioja classici più riconoscibili.</p><p>La Rioja, nella valle dell'Ebro, è diventata nel 1991 la prima Denominazione di origine qualificata di Spagna. È nota soprattutto per i rossi a base di Tempranillo e per la lunga tradizione di affinamento in botte di rovere.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Faustino Crianza Faustino",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "binitord-blanc",
+  "name": "Binitord Blanc",
+  "winery": null,
+  "winery_name": "Binitord",
+  "region": "pla-i-llevant",
+  "country": "espana",
+  "appellation": "DO Pla i Llevant",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Binitord Blanc es un vino blanco de Binitord, con la denominación DO Pla i Llevant, en España.",
+    "en": "Binitord Blanc is a white wine from Binitord, made under the DO Pla i Llevant appellation in Spain.",
+    "fr": "Binitord Blanc est un vin blanc de Binitord, élaboré sous l’appellation DO Pla i Llevant (Espagne).",
+    "it": "Binitord Blanc è un vino bianco di Binitord, prodotto nella denominazione DO Pla i Llevant (Spagna)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 12 % vol.</p><p>Pla i Llevant es una denominación de origen de Mallorca que abarca la llanura central y la comarca oriental de la isla, en torno a localidades como Manacor, Felanitx y Petra. Elabora blancos, rosados y tintos que combinan variedades autóctonas, como la Callet, con uvas foráneas.</p>",
+    "en": "<p>It has 12% ABV.</p><p>Pla i Llevant is a designation of origin in Mallorca covering the central plain and the eastern district of the island, around towns such as Manacor, Felanitx and Petra. It produces whites, rosés and reds that combine native varieties, such as Callet, with non-native grapes.</p>",
+    "fr": "<p>Il titre 12 % vol.</p><p>Pla i Llevant est une dénomination d'origine de Majorque qui couvre la plaine centrale et la contrée orientale de l'île, autour de localités comme Manacor, Felanitx et Petra. Elle produit des blancs, des rosés et des rouges qui associent cépages autochtones, comme le callet, et cépages venus d'ailleurs.</p>",
+    "it": "<p>Ha 12% vol.</p><p>Pla i Llevant è una denominazione di origine di Maiorca che comprende la pianura centrale e la zona orientale dell'isola, intorno a località come Manacor, Felanitx e Petra. Produce bianchi, rosati e rossi che uniscono vitigni autoctoni, come il Callet, a uve non autoctone.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Binitord Blanc Binitord",
+  "brief": true,
+  "source": "decantalo"
+}

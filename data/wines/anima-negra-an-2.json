@@ -1,0 +1,40 @@
+{
+  "slug": "anima-negra-an-2",
+  "name": "Ànima Negra 'AN/2'",
+  "winery": null,
+  "winery_name": "AN Negra",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Illes Balears",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Ànima Negra 'AN/2' es un vino tinto de AN Negra, con la denominación VT Illes Balears, en España.",
+    "en": "Ànima Negra 'AN/2' is a red wine from AN Negra, made under the VT Illes Balears appellation in Spain.",
+    "fr": "Ànima Negra 'AN/2' est un vin rouge de AN Negra, élaboré sous l’appellation VT Illes Balears (Espagne).",
+    "it": "Ànima Negra 'AN/2' è un vino rosso di AN Negra, prodotto nella denominazione VT Illes Balears (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13,5 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Ànima Negra 'AN/2' AN Negra",
+  "brief": true,
+  "source": "decantalo"
+}

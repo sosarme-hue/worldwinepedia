@@ -1,0 +1,40 @@
+{
+  "slug": "992-finca-rio-negro",
+  "name": "992 Finca Río Negro",
+  "winery": null,
+  "winery_name": "Finca Río Negro",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Castilla",
+  "type": "espumoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "992 Finca Río Negro es un vino espumoso de Finca Río Negro, con la denominación VT Castilla, en España.",
+    "en": "992 Finca Río Negro is a sparkling wine from Finca Río Negro, made under the VT Castilla appellation in Spain.",
+    "fr": "992 Finca Río Negro est un vin effervescent de Finca Río Negro, élaboré sous l’appellation VT Castilla (Espagne).",
+    "it": "992 Finca Río Negro è un vino spumante di Finca Río Negro, prodotto nella denominazione VT Castilla (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 14% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "992 Finca Río Negro Finca Río Negro",
+  "brief": true,
+  "source": "decantalo"
+}

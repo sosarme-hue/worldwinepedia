@@ -1,0 +1,42 @@
+{
+  "slug": "atteca-armas",
+  "name": "Atteca Armas",
+  "winery": "bodegas-ateca",
+  "winery_name": null,
+  "region": "calatayud",
+  "country": "espana",
+  "appellation": "DO Calatayud",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Atteca Armas es un vino tinto de Bodegas Ateca, con la denominación DO Calatayud, en España.",
+    "en": "Atteca Armas is a red wine from Bodegas Ateca, made under the DO Calatayud appellation in Spain.",
+    "fr": "Atteca Armas est un vin rouge de Bodegas Ateca, élaboré sous l’appellation DO Calatayud (Espagne).",
+    "it": "Atteca Armas è un vino rosso di Bodegas Ateca, prodotto nella denominazione DO Calatayud (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Tiene crianza en madera. Su graduación es de 16 % vol.</p><p>Bodega de la D.O. Calatayud perteneciente al grupo Gil Family Estates, centrada en la garnacha de viñas viejas de altitud y conocida por los vinos Atteca y Honoro Vera.</p><p>Calatayud es una denominación de origen del suroeste de la provincia de Zaragoza, en el Sistema Ibérico, con algunos de los viñedos más altos de Aragón. Es conocida por sus Garnachas de viñas viejas sobre suelos pobres de pizarra y caliza.</p>",
+    "en": "<p>It is made from Grenache. It is aged in wood. It has 16% ABV.</p><p>Calatayud D.O. winery belonging to the Gil Family Estates group, focused on high-altitude old-vine Garnacha and known for the Atteca and Honoro Vera wines.</p><p>Calatayud is a designation of origin in the south-west of the province of Zaragoza, in the Iberian System, with some of the highest vineyards in Aragón. It is known for old-vine Grenache grown on poor slate and limestone soils.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. Il est élevé en bois. Il titre 16 % vol.</p><p>Cave de la D.O. Calatayud appartenant au groupe Gil Family Estates, centrée sur le grenache de vieilles vignes d'altitude et connue pour les vins Atteca et Honoro Vera.</p><p>Calatayud est une dénomination d'origine du sud-ouest de la province de Saragosse, dans le Système ibérique, qui compte certains des vignobles les plus élevés d'Aragon. Elle est connue pour ses grenaches de vieilles vignes sur des sols pauvres de schiste et de calcaire.</p>",
+    "it": "<p>È prodotto con Grenache. È affinato in legno. Ha 16% vol.</p><p>Cantina della D.O. Calatayud appartenente al gruppo Gil Family Estates, incentrata sulla Grenache di vecchie vigne d'altura e nota per i vini Atteca e Honoro Vera.</p><p>Calatayud è una denominazione di origine del sud-ovest della provincia di Saragozza, nel Sistema Iberico, con alcuni dei vigneti più alti dell'Aragona. È nota per le Garnacha da vecchie vigne su suoli poveri di scisto e calcare.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Atteca Armas Ateca",
+  "brief": true,
+  "source": "decantalo"
+}

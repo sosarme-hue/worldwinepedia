@@ -1,0 +1,42 @@
+{
+  "slug": "fattoria-selvapiana-chianti-rufina",
+  "name": "Fattoria Selvapiana Chianti Rufina",
+  "winery": null,
+  "winery_name": "Fattoria Selvapiana",
+  "region": null,
+  "country": "italia",
+  "appellation": "DOCG Chianti Rufina",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "canaiolo"
+  ],
+  "summary": {
+    "es": "Fattoria Selvapiana Chianti Rufina es un vino tinto de Fattoria Selvapiana, con la denominación DOCG Chianti Rufina, en Italia.",
+    "en": "Fattoria Selvapiana Chianti Rufina is a red wine from Fattoria Selvapiana, made under the DOCG Chianti Rufina appellation in Italy.",
+    "fr": "Fattoria Selvapiana Chianti Rufina est un vin rouge de Fattoria Selvapiana, élaboré sous l’appellation DOCG Chianti Rufina (Italie).",
+    "it": "Fattoria Selvapiana Chianti Rufina è un vino rosso di Fattoria Selvapiana, prodotto nella denominazione DOCG Chianti Rufina (Italia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Canaiolo. Tiene crianza en madera. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is made from Canaiolo. It is aged in wood. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Canaiolo. Il est élevé en bois. Il titre 13,5 % vol.</p>",
+    "it": "<p>È prodotto con Canaiolo. È affinato in legno. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Fattoria Selvapiana Chianti Rufina Fattoria Selvapiana",
+  "brief": true,
+  "source": "decantalo"
+}

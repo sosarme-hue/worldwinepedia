@@ -1,0 +1,42 @@
+{
+  "slug": "son-prim-blanc-de-merlot",
+  "name": "Son Prim Blanc de Merlot",
+  "winery": null,
+  "winery_name": "Son Prim",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Mallorca",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "merlot"
+  ],
+  "summary": {
+    "es": "Son Prim Blanc de Merlot es un vino blanco de Son Prim, con la denominación VT Mallorca, en España.",
+    "en": "Son Prim Blanc de Merlot is a white wine from Son Prim, made under the VT Mallorca appellation in Spain.",
+    "fr": "Son Prim Blanc de Merlot est un vin blanc de Son Prim, élaboré sous l’appellation VT Mallorca (Espagne).",
+    "it": "Son Prim Blanc de Merlot è un vino bianco di Son Prim, prodotto nella denominazione VT Mallorca (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Merlot. Se cría en depósitos de acero inoxidable. Su graduación es de 14 % vol.</p>",
+    "en": "<p>It is made from Merlot. It is aged in stainless steel tanks. It has 14% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Merlot. Il est élevé en cuves inox. Il titre 14 % vol.</p>",
+    "it": "<p>È prodotto con Merlot. Affina in acciaio inox. Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Son Prim Blanc de Merlot Son Prim",
+  "brief": true,
+  "source": "decantalo"
+}

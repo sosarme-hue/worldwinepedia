@@ -1,0 +1,40 @@
+{
+  "slug": "tres-navios-clarete",
+  "name": "Tres Navíos Clarete",
+  "winery": null,
+  "winery_name": "Barco del Corneta",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Castilla y León",
+  "type": "espumoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Tres Navíos Clarete es un vino espumoso de Barco del Corneta, con la denominación VT Castilla y León, en España.",
+    "en": "Tres Navíos Clarete is a sparkling wine from Barco del Corneta, made under the VT Castilla y León appellation in Spain.",
+    "fr": "Tres Navíos Clarete est un vin effervescent de Barco del Corneta, élaboré sous l’appellation VT Castilla y León (Espagne).",
+    "it": "Tres Navíos Clarete è un vino spumante di Barco del Corneta, prodotto nella denominazione VT Castilla y León (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 13% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Tres Navíos Clarete Barco del Corneta",
+  "brief": true,
+  "source": "decantalo"
+}

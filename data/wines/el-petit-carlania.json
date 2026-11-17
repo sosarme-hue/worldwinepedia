@@ -1,0 +1,40 @@
+{
+  "slug": "el-petit-carlania",
+  "name": "El Petit Carlania",
+  "winery": null,
+  "winery_name": "Celler Carlania",
+  "region": "conca-de-barbera",
+  "country": "espana",
+  "appellation": "DO Conca de Barberà",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "El Petit Carlania es un vino tinto de Celler Carlania, con la denominación DO Conca de Barberà, en España.",
+    "en": "El Petit Carlania is a red wine from Celler Carlania, made under the DO Conca de Barberà appellation in Spain.",
+    "fr": "El Petit Carlania est un vin rouge de Celler Carlania, élaboré sous l’appellation DO Conca de Barberà (Espagne).",
+    "it": "El Petit Carlania è un vino rosso di Celler Carlania, prodotto nella denominazione DO Conca de Barberà (Spagna)."
+  },
+  "body": {
+    "es": "<p>Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 12 % vol.</p><p>Conca de Barberà es una denominación de origen catalana situada en el interior de la provincia de Tarragona, en torno a Montblanc y al monasterio de Poblet. Es conocida por su variedad autóctona Trepat, con la que se elaboran rosados y tintos ligeros, y por sus uvas blancas destinadas en buena parte al cava.</p>",
+    "en": "<p>It is a young wine, meant to be drunk in its first years. It has 12% ABV.</p><p>Conca de Barberà is a Catalan designation of origin in the interior of the province of Tarragona, around Montblanc and the monastery of Poblet. It is known for its native Trepat grape, used for rosés and light reds, and for its white grapes, a large share of which go into cava.</p>",
+    "fr": "<p>C’est un vin jeune, à boire dans ses premières années. Il titre 12 % vol.</p><p>Conca de Barberà est une dénomination d'origine catalane située à l'intérieur de la province de Tarragone, autour de Montblanc et du monastère de Poblet. Elle est connue pour son cépage autochtone, le trepat, dont on tire des rosés et des rouges légers, et pour ses raisins blancs, destinés en bonne partie au cava.</p>",
+    "it": "<p>È un vino giovane, da bere nei primi anni. Ha 12% vol.</p><p>Conca de Barberà è una denominazione di origine catalana situata nell'interno della provincia di Tarragona, intorno a Montblanc e al monastero di Poblet. È nota per il suo vitigno autoctono Trepat, da cui si ottengono rosati e rossi leggeri, e per le sue uve bianche, destinate in buona parte al cava.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "El Petit Carlania Celler Carlania",
+  "brief": true,
+  "source": "decantalo"
+}

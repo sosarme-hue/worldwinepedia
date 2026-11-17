@@ -1,0 +1,40 @@
+{
+  "slug": "balma-reserva-brut",
+  "name": "Balma Reserva Brut",
+  "winery": null,
+  "winery_name": "Mas Bertran",
+  "region": null,
+  "country": "espana",
+  "appellation": null,
+  "type": "espumoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Balma Reserva Brut es un vino espumoso de Mas Bertran, en España.",
+    "en": "Balma Reserva Brut is a sparkling wine from Mas Bertran in Spain.",
+    "fr": "Balma Reserva Brut est un vin effervescent de Mas Bertran (Espagne).",
+    "it": "Balma Reserva Brut è un vino spumante di Mas Bertran (Spagna)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 11,5 % vol.</p>",
+    "en": "<p>It has 11.5% ABV.</p>",
+    "fr": "<p>Il titre 11,5 % vol.</p>",
+    "it": "<p>Ha 11,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Balma Reserva Brut Mas Bertran",
+  "brief": true,
+  "source": "decantalo"
+}

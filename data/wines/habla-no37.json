@@ -1,0 +1,42 @@
+{
+  "slug": "habla-no37",
+  "name": "Habla Nº37",
+  "winery": null,
+  "winery_name": "Habla",
+  "region": null,
+  "country": "espana",
+  "appellation": "Extremadura",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "malbec"
+  ],
+  "summary": {
+    "es": "Habla Nº37 es un vino tinto de Habla, con la denominación Extremadura, en España.",
+    "en": "Habla Nº37 is a red wine from Habla, made under the Extremadura appellation in Spain.",
+    "fr": "Habla Nº37 est un vin rouge de Habla, élaboré sous l’appellation Extremadura (Espagne).",
+    "it": "Habla Nº37 è un vino rosso di Habla, prodotto nella denominazione Extremadura (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Malbec. Tiene crianza en madera. Su graduación es de 13 % vol.</p>",
+    "en": "<p>It is made from Malbec. It is aged in wood. It has 13% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Malbec (Côt). Il est élevé en bois. Il titre 13 % vol.</p>",
+    "it": "<p>È prodotto con Malbec. È affinato in legno. Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Habla Nº37 Habla",
+  "brief": true,
+  "source": "decantalo"
+}

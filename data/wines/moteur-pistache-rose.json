@@ -1,0 +1,40 @@
+{
+  "slug": "moteur-pistache-rose",
+  "name": "Moteur Pistache Rosé",
+  "winery": null,
+  "winery_name": "4 Kilos",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Mallorca",
+  "type": "rosado",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Moteur Pistache Rosé es un vino rosado de 4 Kilos, con la denominación VT Mallorca, en España.",
+    "en": "Moteur Pistache Rosé is a rosé wine from 4 Kilos, made under the VT Mallorca appellation in Spain.",
+    "fr": "Moteur Pistache Rosé est un vin rosé de 4 Kilos, élaboré sous l’appellation VT Mallorca (Espagne).",
+    "it": "Moteur Pistache Rosé è un vino rosato di 4 Kilos, prodotto nella denominazione VT Mallorca (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 12 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 12% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 12 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 12% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, ensaladas, arroces, pescados",
+    "en": "Aperitif, salads, rice dishes, fish",
+    "fr": "Apéritif, salades, plats de riz, poissons",
+    "it": "Aperitivo, insalate, risotti, pesce"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Moteur Pistache Rosé 4 Kilos",
+  "brief": true,
+  "source": "decantalo"
+}

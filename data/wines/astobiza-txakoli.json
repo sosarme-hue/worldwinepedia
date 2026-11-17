@@ -1,0 +1,42 @@
+{
+  "slug": "astobiza-txakoli",
+  "name": "Astobiza Txakolí",
+  "winery": null,
+  "winery_name": "Astobiza",
+  "region": null,
+  "country": "espana",
+  "appellation": "Txacolí de Álava",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "hondarrabi-zuri"
+  ],
+  "summary": {
+    "es": "Astobiza Txakolí es un vino blanco de Astobiza, con la denominación Txacolí de Álava, en España.",
+    "en": "Astobiza Txakolí is a white wine from Astobiza, made under the Txacolí de Álava appellation in Spain.",
+    "fr": "Astobiza Txakolí est un vin blanc de Astobiza, élaboré sous l’appellation Txacolí de Álava (Espagne).",
+    "it": "Astobiza Txakolí è un vino bianco di Astobiza, prodotto nella denominazione Txacolí de Álava (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Hondarrabi Zuri. Su graduación es de 13 % vol.</p>",
+    "en": "<p>It is made from Hondarrabi Zuri. It has 13% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Hondarrabi Zuri. Il titre 13 % vol.</p>",
+    "it": "<p>È prodotto con Hondarrabi Zuri. Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Astobiza Txakolí Astobiza",
+  "brief": true,
+  "source": "decantalo"
+}

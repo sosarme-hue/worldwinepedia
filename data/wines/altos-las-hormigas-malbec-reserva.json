@@ -1,0 +1,42 @@
+{
+  "slug": "altos-las-hormigas-malbec-reserva",
+  "name": "Altos Las Hormigas Malbec Reserva",
+  "winery": null,
+  "winery_name": "Altos Las Hormigas",
+  "region": "mendoza",
+  "country": "argentina",
+  "appellation": "Mendoza",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "malbec"
+  ],
+  "summary": {
+    "es": "Altos Las Hormigas Malbec Reserva es un vino tinto de Altos Las Hormigas, con la denominación Mendoza, en Argentina.",
+    "en": "Altos Las Hormigas Malbec Reserva is a red wine from Altos Las Hormigas, made under the Mendoza appellation in Argentina.",
+    "fr": "Altos Las Hormigas Malbec Reserva est un vin rouge de Altos Las Hormigas, élaboré sous l’appellation Mendoza (Argentine).",
+    "it": "Altos Las Hormigas Malbec Reserva è un vino rosso di Altos Las Hormigas, prodotto nella denominazione Mendoza (Argentina)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Malbec. Tiene crianza en madera. Su graduación es de 13,5 % vol.</p><p>Mendoza es la principal provincia vitícola de Argentina y concentra la mayor parte del viñedo del país. Sus oasis regados al pie de los Andes son la tierra de la Malbec por excelencia.</p>",
+    "en": "<p>It is made from Malbec. It is aged in wood. It has 13.5% ABV.</p><p>Mendoza is Argentina’s leading wine province and accounts for most of the country’s vineyard area. Its irrigated oases at the foot of the Andes are the heartland of Malbec.</p>",
+    "fr": "<p>Il est élaboré à partir de Malbec (Côt). Il est élevé en bois. Il titre 13,5 % vol.</p><p>Mendoza est la principale province viticole d’Argentine et concentre la majeure partie du vignoble du pays. Ses oasis irriguées au pied des Andes sont la terre du malbec par excellence.</p>",
+    "it": "<p>È prodotto con Malbec. È affinato in legno. Ha 13,5% vol.</p><p>Mendoza è la principale provincia vitivinicola dell’Argentina e concentra la maggior parte dei vigneti del paese. Le sue oasi irrigate ai piedi delle Ande sono la terra del Malbec per eccellenza.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Altos Las Hormigas Malbec Reserva Altos Las Hormigas",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "monteraponi-chianti-classico",
+  "name": "Monteraponi Chianti Classico",
+  "winery": null,
+  "winery_name": "Monteraponi",
+  "region": "chianti-classico",
+  "country": "italia",
+  "appellation": "DOCG Chianti Classico",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Monteraponi Chianti Classico es un vino tinto de Monteraponi, con la denominación DOCG Chianti Classico, en Italia.",
+    "en": "Monteraponi Chianti Classico is a red wine from Monteraponi, made under the DOCG Chianti Classico appellation in Italy.",
+    "fr": "Monteraponi Chianti Classico est un vin rouge de Monteraponi, élaboré sous l’appellation DOCG Chianti Classico (Italie).",
+    "it": "Monteraponi Chianti Classico è un vino rosso di Monteraponi, prodotto nella denominazione DOCG Chianti Classico (Italia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13,5 % vol.</p><p>El Chianti Classico es la zona histórica del Chianti, entre Florencia y Siena, y su vino se elabora con un mínimo del 80 % de Sangiovese. Su símbolo es el gallo negro y es DOCG independiente desde 1996.</p>",
+    "en": "<p>It is aged in wood. It has 13.5% ABV.</p><p>Chianti Classico is the historic heart of Chianti, between Florence and Siena, and its wine is made from at least 80% Sangiovese. Its symbol is the black rooster, and it has been a separate DOCG since 1996.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13,5 % vol.</p><p>Le Chianti Classico est la zone historique du Chianti, entre Florence et Sienne, et son vin est élaboré avec au moins 80 % de sangiovese. Son emblème est le coq noir et il constitue une DOCG autonome depuis 1996.</p>",
+    "it": "<p>È affinato in legno. Ha 13,5% vol.</p><p>Il Chianti Classico è la zona storica del Chianti, tra Firenze e Siena, e il suo vino si produce con almeno l'80% di Sangiovese. Il suo simbolo è il gallo nero ed è DOCG autonoma dal 1996.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Monteraponi Chianti Classico Monteraponi",
+  "brief": true,
+  "source": "decantalo"
+}

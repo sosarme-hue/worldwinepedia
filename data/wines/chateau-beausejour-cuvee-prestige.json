@@ -1,0 +1,40 @@
+{
+  "slug": "chateau-beausejour-cuvee-prestige",
+  "name": "Château Beausejour Cuvée Prestige",
+  "winery": null,
+  "winery_name": "Château Beauséjour",
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Fronsac",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Château Beausejour Cuvée Prestige es un vino tinto de Château Beauséjour, con la denominación AOC Fronsac, en Francia.",
+    "en": "Château Beausejour Cuvée Prestige is a red wine from Château Beauséjour, made under the AOC Fronsac appellation in France.",
+    "fr": "Château Beausejour Cuvée Prestige est un vin rouge de Château Beauséjour, élaboré sous l’appellation AOC Fronsac (France).",
+    "it": "Château Beausejour Cuvée Prestige è un vino rosso di Château Beauséjour, prodotto nella denominazione AOC Fronsac (Francia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13,5 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Château Beausejour Cuvée Prestige Château Beauséjour",
+  "brief": true,
+  "source": "decantalo"
+}

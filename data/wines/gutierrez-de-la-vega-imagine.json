@@ -1,0 +1,40 @@
+{
+  "slug": "gutierrez-de-la-vega-imagine",
+  "name": "Gutierrez de la Vega Imagine",
+  "winery": null,
+  "winery_name": "Gutiérrez de la Vega",
+  "region": null,
+  "country": "espana",
+  "appellation": "Sin denominación",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Gutierrez de la Vega Imagine es un vino tinto de Gutiérrez de la Vega, con la denominación Sin denominación, en España.",
+    "en": "Gutierrez de la Vega Imagine is a red wine from Gutiérrez de la Vega, made under the Sin denominación appellation in Spain.",
+    "fr": "Gutierrez de la Vega Imagine est un vin rouge de Gutiérrez de la Vega, élaboré sous l’appellation Sin denominación (Espagne).",
+    "it": "Gutierrez de la Vega Imagine è un vino rosso di Gutiérrez de la Vega, prodotto nella denominazione Sin denominación (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 14% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Gutierrez de la Vega Imagine Gutiérrez de la Vega",
+  "brief": true,
+  "source": "decantalo"
+}

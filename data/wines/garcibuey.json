@@ -1,0 +1,40 @@
+{
+  "slug": "garcibuey",
+  "name": "Garcibuey",
+  "winery": null,
+  "winery_name": "Viñas Serranas",
+  "region": null,
+  "country": "espana",
+  "appellation": "DO Sierra de Salamanca",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Garcibuey es un vino tinto de Viñas Serranas, con la denominación DO Sierra de Salamanca, en España.",
+    "en": "Garcibuey is a red wine from Viñas Serranas, made under the DO Sierra de Salamanca appellation in Spain.",
+    "fr": "Garcibuey est un vin rouge de Viñas Serranas, élaboré sous l’appellation DO Sierra de Salamanca (Espagne).",
+    "it": "Garcibuey è un vino rosso di Viñas Serranas, prodotto nella denominazione DO Sierra de Salamanca (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14,3 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 14.3% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14,3 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 14,3% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Garcibuey Viñas Serranas",
+  "brief": true,
+  "source": "decantalo"
+}

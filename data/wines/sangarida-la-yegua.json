@@ -1,0 +1,40 @@
+{
+  "slug": "sangarida-la-yegua",
+  "name": "Sangarida La Yegua",
+  "winery": null,
+  "winery_name": "Sangarida",
+  "region": "bierzo",
+  "country": "espana",
+  "appellation": "DO Bierzo",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Sangarida La Yegua es un vino blanco de Sangarida, con la denominación DO Bierzo, en España.",
+    "en": "Sangarida La Yegua is a white wine from Sangarida, made under the DO Bierzo appellation in Spain.",
+    "fr": "Sangarida La Yegua est un vin blanc de Sangarida, élaboré sous l’appellation DO Bierzo (Espagne).",
+    "it": "Sangarida La Yegua è un vino bianco di Sangarida, prodotto nella denominazione DO Bierzo (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13 % vol.</p><p>Bierzo es una denominación de origen del noroeste de la provincia de León, reconocida en 1989. Es la cuna de los tintos de Mencía y de blancos de Godello, a menudo procedentes de viñedos viejos en ladera.</p>",
+    "en": "<p>It is aged in wood. It has 13% ABV.</p><p>Bierzo is a designation of origin in the north-west of the province of León, recognised in 1989. It is the home of Mencía reds and Godello whites, often from old hillside vineyards.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13 % vol.</p><p>Le Bierzo est une dénomination d'origine du nord-ouest de la province de León, reconnue en 1989. C'est le berceau des rouges de mencía et des blancs de godello, souvent issus de vieilles vignes en coteau.</p>",
+    "it": "<p>È affinato in legno. Ha 13% vol.</p><p>Bierzo è una denominazione di origine del nord-ovest della provincia di León, riconosciuta nel 1989. È la patria dei rossi di Mencía e dei bianchi di Godello, spesso da vecchi vigneti in collina.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Sangarida La Yegua Sangarida",
+  "brief": true,
+  "source": "decantalo"
+}

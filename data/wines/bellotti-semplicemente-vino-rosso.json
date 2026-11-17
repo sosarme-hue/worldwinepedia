@@ -1,0 +1,40 @@
+{
+  "slug": "bellotti-semplicemente-vino-rosso",
+  "name": "Bellotti Semplicemente Vino Rosso",
+  "winery": null,
+  "winery_name": "Cascina degli Ulivi",
+  "region": null,
+  "country": "italia",
+  "appellation": "Vino da Tavola",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Bellotti Semplicemente Vino Rosso es un vino tinto de Cascina degli Ulivi, con la denominación Vino da Tavola, en Italia.",
+    "en": "Bellotti Semplicemente Vino Rosso is a red wine from Cascina degli Ulivi, made under the Vino da Tavola appellation in Italy.",
+    "fr": "Bellotti Semplicemente Vino Rosso est un vin rouge de Cascina degli Ulivi, élaboré sous l’appellation Vino da Tavola (Italie).",
+    "it": "Bellotti Semplicemente Vino Rosso è un vino rosso di Cascina degli Ulivi, prodotto nella denominazione Vino da Tavola (Italia)."
+  },
+  "body": {
+    "es": "<p>Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is a young wine, meant to be drunk in its first years. It has 13.5% ABV.</p>",
+    "fr": "<p>C’est un vin jeune, à boire dans ses premières années. Il titre 13,5 % vol.</p>",
+    "it": "<p>È un vino giovane, da bere nei primi anni. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Bellotti Semplicemente Vino Rosso Cascina degli Ulivi",
+  "brief": true,
+  "source": "decantalo"
+}

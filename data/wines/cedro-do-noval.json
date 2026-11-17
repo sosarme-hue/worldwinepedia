@@ -1,0 +1,40 @@
+{
+  "slug": "cedro-do-noval",
+  "name": "Cedro do Noval",
+  "winery": "quinta-do-noval",
+  "winery_name": null,
+  "region": "douro",
+  "country": "portugal",
+  "appellation": "DOC Douro",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Cedro do Noval es un vino tinto de Quinta do Noval, con la denominación DOC Douro, en Portugal.",
+    "en": "Cedro do Noval is a red wine from Quinta do Noval, made under the DOC Douro appellation in Portugal.",
+    "fr": "Cedro do Noval est un vin rouge de Quinta do Noval, élaboré sous l’appellation DOC Douro (Portugal).",
+    "it": "Cedro do Noval è un vino rosso di Quinta do Noval, prodotto nella denominazione DOC Douro (Portogallo)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14,5 % vol.</p><p>Histórica quinta del valle del Pinhão, con registros desde 1715, famosa por su Vintage y por Nacional, elaborado con cepas no injertadas; pertenece a AXA Millésimes desde 1993.</p><p>El valle del Douro, en el norte de Portugal, es la cuna del vino de Oporto y una de las regiones vitícolas delimitadas más antiguas del mundo. Bajo la DOC Douro se elaboran además tintos y blancos tranquilos de creciente prestigio.</p>",
+    "en": "<p>It is aged in wood. It has 14.5% ABV.</p><p>Historic quinta in the Pinhão valley, with records dating back to 1715, famous for its Vintage Port and for Nacional, made from ungrafted vines; owned by AXA Millésimes since 1993.</p><p>The Douro valley, in northern Portugal, is the birthplace of Port and one of the oldest demarcated wine regions in the world. Under the Douro DOC it also produces still reds and whites of growing prestige.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14,5 % vol.</p><p>Quinta historique de la vallée du Pinhão, mentionnée dès 1715, célèbre pour son Vintage et pour le Nacional, issu de vignes non greffées ; propriété d’AXA Millésimes depuis 1993.</p><p>La vallée du Douro, dans le nord du Portugal, est le berceau du porto et l’une des plus anciennes régions viticoles délimitées au monde. Sous la DOC Douro, on y élabore aussi des rouges et des blancs tranquilles au prestige croissant.</p>",
+    "it": "<p>È affinato in legno. Ha 14,5% vol.</p><p>Quinta storica della valle del Pinhão, documentata dal 1715, famosa per il suo Vintage e per il Nacional, prodotto da viti non innestate; appartiene ad AXA Millésimes dal 1993.</p><p>La valle del Douro, nel nord del Portogallo, è la culla del Porto e una delle regioni vitivinicole delimitate più antiche del mondo. Con la DOC Douro vi si producono anche rossi e bianchi fermi di crescente prestigio.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Cedro do Noval Quinta do Noval",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "orto-vins-orto",
+  "name": "Orto Vins \"Orto\"",
+  "winery": null,
+  "winery_name": "Orto Vins",
+  "region": "montsant",
+  "country": "espana",
+  "appellation": "DO Montsant",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Orto Vins \"Orto\" es un vino tinto de Orto Vins, con la denominación DO Montsant, en España.",
+    "en": "Orto Vins \"Orto\" is a red wine from Orto Vins, made under the DO Montsant appellation in Spain.",
+    "fr": "Orto Vins \"Orto\" est un vin rouge de Orto Vins, élaboré sous l’appellation DO Montsant (Espagne).",
+    "it": "Orto Vins \"Orto\" è un vino rosso di Orto Vins, prodotto nella denominazione DO Montsant (Spagna)."
+  },
+  "body": {
+    "es": "<p>Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 14 % vol.</p><p>Montsant es una denominación de origen de la provincia de Tarragona creada en 2001, que rodea casi por completo al Priorat. Elabora sobre todo tintos de Garnacha y Cariñena sobre suelos más variados que los de su vecino.</p>",
+    "en": "<p>It is a young wine, meant to be drunk in its first years. It has 14% ABV.</p><p>Montsant is a designation of origin in the province of Tarragona created in 2001, which almost completely surrounds Priorat. It mainly produces Grenache and Carignan reds on soils more varied than those of its neighbour.</p>",
+    "fr": "<p>C’est un vin jeune, à boire dans ses premières années. Il titre 14 % vol.</p><p>Le Montsant est une dénomination d'origine de la province de Tarragone créée en 2001, qui entoure presque entièrement le Priorat. Il produit surtout des rouges de grenache et de carignan sur des sols plus variés que ceux de son voisin.</p>",
+    "it": "<p>È un vino giovane, da bere nei primi anni. Ha 14% vol.</p><p>Montsant è una denominazione di origine della provincia di Tarragona istituita nel 2001, che circonda quasi completamente il Priorat. Produce soprattutto rossi di Garnacha e Carignano su suoli più vari di quelli del vicino.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Orto Vins \"Orto\" Orto Vins",
+  "brief": true,
+  "source": "decantalo"
+}

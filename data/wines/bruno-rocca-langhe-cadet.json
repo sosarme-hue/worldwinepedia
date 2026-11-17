@@ -1,0 +1,42 @@
+{
+  "slug": "bruno-rocca-langhe-cadet",
+  "name": "Bruno Rocca Langhe Cadet",
+  "winery": null,
+  "winery_name": "Bruno Rocca",
+  "region": "langhe",
+  "country": "italia",
+  "appellation": "DOC Langhe",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Bruno Rocca Langhe Cadet es un vino blanco de Bruno Rocca, con la denominación DOC Langhe, en Italia.",
+    "en": "Bruno Rocca Langhe Cadet is a white wine from Bruno Rocca, made under the DOC Langhe appellation in Italy.",
+    "fr": "Bruno Rocca Langhe Cadet est un vin blanc de Bruno Rocca, élaboré sous l’appellation DOC Langhe (Italie).",
+    "it": "Bruno Rocca Langhe Cadet è un vino bianco di Bruno Rocca, prodotto nella denominazione DOC Langhe (Italia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Chardonnay. Se cría en depósitos de acero inoxidable. Su graduación es de 13,5 % vol.</p><p>Las Langhe son un territorio de colinas del sur del Piamonte, en torno a Alba, cuna del Barolo y del Barbaresco. Además de esas DOCG, la zona tiene una DOC propia, Langhe, que ampara tintos y blancos de numerosas variedades.</p>",
+    "en": "<p>It is made from Chardonnay. It is aged in stainless steel tanks. It has 13.5% ABV.</p><p>The Langhe are a hilly area of southern Piedmont, around Alba, and the home of Barolo and Barbaresco. Besides those DOCGs, the area has its own DOC, Langhe, which covers reds and whites from many varieties.</p>",
+    "fr": "<p>Il est élaboré à partir de Chardonnay. Il est élevé en cuves inox. Il titre 13,5 % vol.</p><p>Les Langhe sont un territoire de collines du sud du Piémont, autour d'Alba, berceau du Barolo et du Barbaresco. Outre ces DOCG, la zone possède sa propre DOC, Langhe, qui couvre des rouges et des blancs issus de nombreux cépages.</p>",
+    "it": "<p>È prodotto con Chardonnay. Affina in acciaio inox. Ha 13,5% vol.</p><p>Le Langhe sono un territorio collinare del Piemonte meridionale, attorno ad Alba, culla del Barolo e del Barbaresco. Oltre a queste DOCG, la zona ha una propria DOC, Langhe, che comprende rossi e bianchi da numerosi vitigni.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Bruno Rocca Langhe Cadet Bruno Rocca",
+  "brief": true,
+  "source": "decantalo"
+}

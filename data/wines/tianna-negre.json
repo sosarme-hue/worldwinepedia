@@ -1,0 +1,40 @@
+{
+  "slug": "tianna-negre",
+  "name": "Tianna Negre",
+  "winery": null,
+  "winery_name": "Celler Tianna Negre",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Mallorca",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Tianna Negre es un vino tinto de Celler Tianna Negre, con la denominación VT Mallorca, en España.",
+    "en": "Tianna Negre is a red wine from Celler Tianna Negre, made under the VT Mallorca appellation in Spain.",
+    "fr": "Tianna Negre est un vin rouge de Celler Tianna Negre, élaboré sous l’appellation VT Mallorca (Espagne).",
+    "it": "Tianna Negre è un vino rosso di Celler Tianna Negre, prodotto nella denominazione VT Mallorca (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14,5 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 14.5% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14,5 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 14,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Tianna Negre Celler Tianna Negre",
+  "brief": true,
+  "source": "decantalo"
+}

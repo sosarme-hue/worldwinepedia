@@ -1,0 +1,40 @@
+{
+  "slug": "gargalo-godello",
+  "name": "Gargalo Godello",
+  "winery": null,
+  "winery_name": "Gargalo",
+  "region": "monterrei",
+  "country": "espana",
+  "appellation": "DO Monterrei",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Gargalo Godello es un vino blanco de Gargalo, con la denominación DO Monterrei, en España.",
+    "en": "Gargalo Godello is a white wine from Gargalo, made under the DO Monterrei appellation in Spain.",
+    "fr": "Gargalo Godello est un vin blanc de Gargalo, élaboré sous l’appellation DO Monterrei (Espagne).",
+    "it": "Gargalo Godello è un vino bianco di Gargalo, prodotto nella denominazione DO Monterrei (Spagna)."
+  },
+  "body": {
+    "es": "<p>Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 13,5 % vol.</p><p>Monterrei es la denominación de origen más meridional y de clima más continental de Galicia, situada en el valle del Támega, en torno a Verín, junto a la frontera portuguesa. Elabora sobre todo blancos de Godello y Treixadura y tintos de Mencía.</p>",
+    "en": "<p>It is a young wine, meant to be drunk in its first years. It has 13.5% ABV.</p><p>Monterrei is the southernmost designation of origin in Galicia and the one with the most continental climate, located in the Támega valley around Verín, next to the Portuguese border. It produces mainly Godello and Treixadura whites and Mencía reds.</p>",
+    "fr": "<p>C’est un vin jeune, à boire dans ses premières années. Il titre 13,5 % vol.</p><p>Monterrei est la dénomination d'origine la plus méridionale et la plus continentale de Galice, située dans la vallée du Tâmega, autour de Verín, près de la frontière portugaise. Elle produit surtout des blancs de godello et de treixadura et des rouges de mencía.</p>",
+    "it": "<p>È un vino giovane, da bere nei primi anni. Ha 13,5% vol.</p><p>Monterrei è la denominazione di origine più meridionale e dal clima più continentale della Galizia, situata nella valle del Támega, attorno a Verín, vicino al confine portoghese. Produce soprattutto bianchi di Godello e Treixadura e rossi di Mencía.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Gargalo Godello Gargalo",
+  "brief": true,
+  "source": "decantalo"
+}

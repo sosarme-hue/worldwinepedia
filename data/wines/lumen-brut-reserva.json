@@ -1,0 +1,40 @@
+{
+  "slug": "lumen-brut-reserva",
+  "name": "Lumen Brut Reserva",
+  "winery": "bodegas-bilbainas",
+  "winery_name": null,
+  "region": null,
+  "country": "espana",
+  "appellation": null,
+  "type": "espumoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Lumen Brut Reserva es un vino espumoso de Bodegas Bilbaínas, en España.",
+    "en": "Lumen Brut Reserva is a sparkling wine from Bodegas Bilbaínas in Spain.",
+    "fr": "Lumen Brut Reserva est un vin effervescent de Bodegas Bilbaínas (Espagne).",
+    "it": "Lumen Brut Reserva è un vino spumante di Bodegas Bilbaínas (Spagna)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 12 % vol.</p><p>Bodega centenaria del Barrio de la Estación de Haro, fundada en 1901 y perteneciente al grupo Raventós Codorníu, conocida sobre todo por su marca Viña Pomal.</p>",
+    "en": "<p>It has 12% ABV.</p><p>Century-old winery in Haro’s Station District, founded in 1901 and part of the Raventós Codorníu group, best known for its Viña Pomal brand.</p>",
+    "fr": "<p>Il titre 12 % vol.</p><p>Bodega centenaire du Quartier de la Gare de Haro, fondée en 1901 et appartenant au groupe Raventós Codorníu, surtout connue pour sa marque Viña Pomal.</p>",
+    "it": "<p>Ha 12% vol.</p><p>Cantina centenaria del Quartiere della Stazione di Haro, fondata nel 1901 e appartenente al gruppo Raventós Codorníu, nota soprattutto per il marchio Viña Pomal.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Lumen Brut Reserva Bodegas Bilbaínas",
+  "brief": true,
+  "source": "decantalo"
+}

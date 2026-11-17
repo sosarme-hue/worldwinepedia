@@ -1,0 +1,40 @@
+{
+  "slug": "motor-callet",
+  "name": "Motor Callet",
+  "winery": null,
+  "winery_name": "4 Kilos",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Mallorca",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Motor Callet es un vino tinto de 4 Kilos, con la denominación VT Mallorca, en España.",
+    "en": "Motor Callet is a red wine from 4 Kilos, made under the VT Mallorca appellation in Spain.",
+    "fr": "Motor Callet est un vin rouge de 4 Kilos, élaboré sous l’appellation VT Mallorca (Espagne).",
+    "it": "Motor Callet è un vino rosso di 4 Kilos, prodotto nella denominazione VT Mallorca (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se cría en depósitos de hormigón. Su graduación es de 11 % vol.</p>",
+    "en": "<p>It is aged in concrete vats. It has 11% ABV.</p>",
+    "fr": "<p>Il est élevé en cuves béton. Il titre 11 % vol.</p>",
+    "it": "<p>Affina in vasche di cemento. Ha 11% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Motor Callet 4 Kilos",
+  "brief": true,
+  "source": "decantalo"
+}

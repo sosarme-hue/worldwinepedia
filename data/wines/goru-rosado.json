@@ -1,0 +1,42 @@
+{
+  "slug": "goru-rosado",
+  "name": "Goru Rosado",
+  "winery": null,
+  "winery_name": "Ego Bodegas",
+  "region": "jumilla",
+  "country": "espana",
+  "appellation": "DO Jumilla",
+  "type": "rosado",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Goru Rosado es un vino rosado de Ego Bodegas, con la denominación DO Jumilla, en España.",
+    "en": "Goru Rosado is a rosé wine from Ego Bodegas, made under the DO Jumilla appellation in Spain.",
+    "fr": "Goru Rosado est un vin rosé de Ego Bodegas, élaboré sous l’appellation DO Jumilla (Espagne).",
+    "it": "Goru Rosado è un vino rosato di Ego Bodegas, prodotto nella denominazione DO Jumilla (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 13 % vol.</p><p>Jumilla es una denominación de origen del sureste de España, entre el norte de la Región de Murcia y el sureste de Albacete. Su variedad emblemática es la Monastrell, cultivada en un clima continental seco y, en parte, sobre pie franco.</p>",
+    "en": "<p>It is made from Grenache. It is a young wine, meant to be drunk in its first years. It has 13% ABV.</p><p>Jumilla is a designation of origin in south-eastern Spain, between the north of the Region of Murcia and the south-east of Albacete. Its emblematic variety is Monastrell, grown in a dry continental climate and partly on its own roots.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. C’est un vin jeune, à boire dans ses premières années. Il titre 13 % vol.</p><p>Jumilla est une dénomination d'origine du sud-est de l'Espagne, entre le nord de la Région de Murcie et le sud-est de la province d'Albacete. Son cépage emblématique est le monastrell, cultivé sous un climat continental sec et en partie franc de pied.</p>",
+    "it": "<p>È prodotto con Grenache. È un vino giovane, da bere nei primi anni. Ha 13% vol.</p><p>Jumilla è una denominazione di origine del sud-est della Spagna, tra il nord della Regione di Murcia e il sud-est della provincia di Albacete. Il suo vitigno simbolo è il Monastrell, coltivato in un clima continentale secco e in parte a piede franco.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, ensaladas, arroces, pescados",
+    "en": "Aperitif, salads, rice dishes, fish",
+    "fr": "Apéritif, salades, plats de riz, poissons",
+    "it": "Aperitivo, insalate, risotti, pesce"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Goru Rosado Ego Bodegas",
+  "brief": true,
+  "source": "decantalo"
+}

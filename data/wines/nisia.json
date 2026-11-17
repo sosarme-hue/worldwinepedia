@@ -1,0 +1,40 @@
+{
+  "slug": "nisia",
+  "name": "Nisia",
+  "winery": "jorge-ordonez",
+  "winery_name": null,
+  "region": "rueda",
+  "country": "espana",
+  "appellation": "DO Rueda",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Nisia es un vino blanco de Bodegas Jorge Ordóñez & Co., con la denominación DO Rueda, en España.",
+    "en": "Nisia is a white wine from Bodegas Jorge Ordóñez & Co., made under the DO Rueda appellation in Spain.",
+    "fr": "Nisia est un vin blanc de Bodegas Jorge Ordóñez & Co., élaboré sous l’appellation DO Rueda (Espagne).",
+    "it": "Nisia è un vino bianco di Bodegas Jorge Ordóñez & Co., prodotto nella denominazione DO Rueda (Spagna)."
+  },
+  "body": {
+    "es": "<p>Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 14,5 % vol.</p><p>Bodega malagueña impulsada por el importador Jorge Ordóñez para recuperar los vinos de moscatel de la Axarquía, tanto secos como dulces.</p><p>Rueda, creada en 1980, fue la primera denominación de origen de Castilla y León. Es la gran referencia de la uva Verdejo y de los vinos blancos de la Meseta norte.</p>",
+    "en": "<p>It is a young wine, meant to be drunk in its first years. It has 14.5% ABV.</p><p>Málaga winery founded by the importer Jorge Ordóñez to revive the Moscatel wines of the Axarquía, both dry and sweet.</p><p>Rueda, created in 1980, was the first designation of origin in Castilla y León. It is the leading reference for the Verdejo grape and for the white wines of the northern Meseta.</p>",
+    "fr": "<p>C’est un vin jeune, à boire dans ses premières années. Il titre 14,5 % vol.</p><p>Domaine de Málaga créé par l'importateur Jorge Ordóñez pour faire renaître les vins de muscat de l'Axarquía, secs comme doux.</p><p>Rueda, créée en 1980, fut la première dénomination d'origine de Castille-et-León. C'est la grande référence du cépage verdejo et des vins blancs de la Meseta septentrionale.</p>",
+    "it": "<p>È un vino giovane, da bere nei primi anni. Ha 14,5% vol.</p><p>Cantina di Málaga fondata dall'importatore Jorge Ordóñez per rilanciare i vini di Moscato dell'Axarquía, sia secchi sia dolci.</p><p>Rueda, istituita nel 1980, è stata la prima denominazione di origine della Castiglia e León. È il grande punto di riferimento per il Verdejo e per i vini bianchi della Meseta settentrionale.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Nisia Jorge Ordoñez",
+  "brief": true,
+  "source": "decantalo"
+}

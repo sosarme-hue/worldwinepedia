@@ -1,0 +1,42 @@
+{
+  "slug": "albariza",
+  "name": "Albariza",
+  "winery": null,
+  "winery_name": "José Estévez",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Cádiz",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "palomino"
+  ],
+  "summary": {
+    "es": "Albariza es un vino blanco de José Estévez, con la denominación VT Cádiz, en España.",
+    "en": "Albariza is a white wine from José Estévez, made under the VT Cádiz appellation in Spain.",
+    "fr": "Albariza est un vin blanc de José Estévez, élaboré sous l’appellation VT Cádiz (Espagne).",
+    "it": "Albariza è un vino bianco di José Estévez, prodotto nella denominazione VT Cádiz (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Palomino. Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 12 % vol.</p>",
+    "en": "<p>It is made from Palomino. It is a young wine, meant to be drunk in its first years. It has 12% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Palomino. C’est un vin jeune, à boire dans ses premières années. Il titre 12 % vol.</p>",
+    "it": "<p>È prodotto con Palomino. È un vino giovane, da bere nei primi anni. Ha 12% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Albariza José Estévez",
+  "brief": true,
+  "source": "decantalo"
+}

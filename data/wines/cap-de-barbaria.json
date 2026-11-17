@@ -1,0 +1,40 @@
+{
+  "slug": "cap-de-barbaria",
+  "name": "Cap de Barbaria",
+  "winery": null,
+  "winery_name": "Cap de Barbaria",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Formentera",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Cap de Barbaria es un vino tinto de Cap de Barbaria, con la denominación VT Formentera, en España.",
+    "en": "Cap de Barbaria is a red wine from Cap de Barbaria, made under the VT Formentera appellation in Spain.",
+    "fr": "Cap de Barbaria est un vin rouge de Cap de Barbaria, élaboré sous l’appellation VT Formentera (Espagne).",
+    "it": "Cap de Barbaria è un vino rosso di Cap de Barbaria, prodotto nella denominazione VT Formentera (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14,5 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 14.5% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14,5 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 14,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Cap de Barbaria Cap de Barbaria",
+  "brief": true,
+  "source": "decantalo"
+}

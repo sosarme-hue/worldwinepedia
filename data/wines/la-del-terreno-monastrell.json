@@ -1,0 +1,40 @@
+{
+  "slug": "la-del-terreno-monastrell",
+  "name": "La del Terreno Monastrell",
+  "winery": null,
+  "winery_name": "La del Terreno",
+  "region": "bullas",
+  "country": "espana",
+  "appellation": "DO Bullas",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "La del Terreno Monastrell es un vino tinto de La del Terreno, con la denominación DO Bullas, en España.",
+    "en": "La del Terreno Monastrell is a red wine from La del Terreno, made under the DO Bullas appellation in Spain.",
+    "fr": "La del Terreno Monastrell est un vin rouge de La del Terreno, élaboré sous l’appellation DO Bullas (Espagne).",
+    "it": "La del Terreno Monastrell è un vino rosso di La del Terreno, prodotto nella denominazione DO Bullas (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se cría en depósitos de hormigón. Su graduación es de 14 % vol.</p><p>Bullas es una denominación de origen del noroeste de la Región de Murcia, en un territorio montañoso de altitud media y alta. Su variedad principal es la Monastrell, con la que se elaboran tintos y rosados de carácter mediterráneo.</p>",
+    "en": "<p>It is aged in concrete vats. It has 14% ABV.</p><p>Bullas is a designation of origin in the north-west of the Region of Murcia, in mountainous country of medium to high altitude. Its main variety is Monastrell, used for reds and rosés of Mediterranean character.</p>",
+    "fr": "<p>Il est élevé en cuves béton. Il titre 14 % vol.</p><p>Bullas est une dénomination d'origine du nord-ouest de la Région de Murcie, sur un territoire montagneux d'altitude moyenne à élevée. Son cépage principal est le monastrell (mourvèdre), dont on tire des rouges et des rosés de caractère méditerranéen.</p>",
+    "it": "<p>Affina in vasche di cemento. Ha 14% vol.</p><p>Bullas è una denominazione di origine del nord-ovest della Regione di Murcia, in un territorio montuoso di media e alta quota. Il suo vitigno principale è il Monastrell, da cui si ottengono rossi e rosati di carattere mediterraneo.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "La del Terreno Monastrell La del Terreno",
+  "brief": true,
+  "source": "decantalo"
+}

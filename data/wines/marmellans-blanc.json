@@ -1,0 +1,40 @@
+{
+  "slug": "marmellans-blanc",
+  "name": "Marmellans Blanc",
+  "winery": "celler-de-capcanes",
+  "winery_name": null,
+  "region": "montsant",
+  "country": "espana",
+  "appellation": "DO Montsant",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Marmellans Blanc es un vino blanco de Celler de Capçanes, con la denominación DO Montsant, en España.",
+    "en": "Marmellans Blanc is a white wine from Celler de Capçanes, made under the DO Montsant appellation in Spain.",
+    "fr": "Marmellans Blanc est un vin blanc de Celler de Capçanes, élaboré sous l’appellation DO Montsant (Espagne).",
+    "it": "Marmellans Blanc è un vino bianco di Celler de Capçanes, prodotto nella denominazione DO Montsant (Spagna)."
+  },
+  "body": {
+    "es": "<p>Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 13 % vol.</p><p>Cooperativa del pueblo de Capçanes, en el Montsant, que pasó de vender a granel a embotellar vinos de garnacha de viñas viejas y es conocida también por sus vinos kosher.</p><p>Montsant es una denominación de origen de la provincia de Tarragona creada en 2001, que rodea casi por completo al Priorat. Elabora sobre todo tintos de Garnacha y Cariñena sobre suelos más variados que los de su vecino.</p>",
+    "en": "<p>It is a young wine, meant to be drunk in its first years. It has 13% ABV.</p><p>Village cooperative of Capçanes, in the Montsant, which moved from selling in bulk to bottling old-vine Garnacha wines and is also known for its kosher wines.</p><p>Montsant is a designation of origin in the province of Tarragona created in 2001, which almost completely surrounds Priorat. It mainly produces Grenache and Carignan reds on soils more varied than those of its neighbour.</p>",
+    "fr": "<p>C’est un vin jeune, à boire dans ses premières années. Il titre 13 % vol.</p><p>Coopérative du village de Capçanes, dans le Montsant, passée de la vente en vrac à la mise en bouteille de vins de grenache de vieilles vignes, également connue pour ses vins casher.</p><p>Le Montsant est une dénomination d'origine de la province de Tarragone créée en 2001, qui entoure presque entièrement le Priorat. Il produit surtout des rouges de grenache et de carignan sur des sols plus variés que ceux de son voisin.</p>",
+    "it": "<p>È un vino giovane, da bere nei primi anni. Ha 13% vol.</p><p>Cooperativa del paese di Capçanes, nel Montsant, passata dalla vendita di sfuso all'imbottigliamento di vini di Garnacha di vecchie vigne, nota anche per i suoi vini kosher.</p><p>Montsant è una denominazione di origine della provincia di Tarragona istituita nel 2001, che circonda quasi completamente il Priorat. Produce soprattutto rossi di Garnacha e Carignano su suoli più vari di quelli del vicino.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Marmellans Blanc Celler de Capçanes",
+  "brief": true,
+  "source": "decantalo"
+}

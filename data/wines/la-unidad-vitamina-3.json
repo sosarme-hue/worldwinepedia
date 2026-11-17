@@ -1,0 +1,42 @@
+{
+  "slug": "la-unidad-vitamina-3",
+  "name": "La Unidad Vitamina 3",
+  "winery": null,
+  "winery_name": "La Unidad Bodegas",
+  "region": null,
+  "country": "espana",
+  "appellation": "DO Cebreros",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "La Unidad Vitamina 3 es un vino tinto de La Unidad Bodegas, con la denominación DO Cebreros, en España.",
+    "en": "La Unidad Vitamina 3 is a red wine from La Unidad Bodegas, made under the DO Cebreros appellation in Spain.",
+    "fr": "La Unidad Vitamina 3 est un vin rouge de La Unidad Bodegas, élaboré sous l’appellation DO Cebreros (Espagne).",
+    "it": "La Unidad Vitamina 3 è un vino rosso di La Unidad Bodegas, prodotto nella denominazione DO Cebreros (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Tiene crianza en madera. Su graduación es de 14 % vol.</p>",
+    "en": "<p>It is made from Grenache. It is aged in wood. It has 14% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. Il est élevé en bois. Il titre 14 % vol.</p>",
+    "it": "<p>È prodotto con Grenache. È affinato in legno. Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "La Unidad Vitamina 3 La Unidad Bodegas",
+  "brief": true,
+  "source": "decantalo"
+}

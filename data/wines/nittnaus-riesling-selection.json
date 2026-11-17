@@ -1,0 +1,42 @@
+{
+  "slug": "nittnaus-riesling-selection",
+  "name": "Nittnaus Riesling Selection",
+  "winery": null,
+  "winery_name": "Gebrüder Nittnaus",
+  "region": "burgenland",
+  "country": "austria",
+  "appellation": "Burgenland",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "riesling"
+  ],
+  "summary": {
+    "es": "Nittnaus Riesling Selection es un vino blanco de Gebrüder Nittnaus, con la denominación Burgenland, en Austria.",
+    "en": "Nittnaus Riesling Selection is a white wine from Gebrüder Nittnaus, made under the Burgenland appellation in Austria.",
+    "fr": "Nittnaus Riesling Selection est un vin blanc de Gebrüder Nittnaus, élaboré sous l’appellation Burgenland (Autriche).",
+    "it": "Nittnaus Riesling Selection è un vino bianco di Gebrüder Nittnaus, prodotto nella denominazione Burgenland (Austria)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Riesling. Se cría en depósitos de acero inoxidable. Su graduación es de 12 % vol.</p><p>El Burgenland, el estado más oriental de Austria, linda con Hungría y está marcado por el clima panónico y por el lago de Neusiedl. Es la gran región austriaca de los vinos tintos, sobre todo de Blaufränkisch y Zweigelt, y de los vinos dulces de podredumbre noble.</p>",
+    "en": "<p>It is made from Riesling. It is aged in stainless steel tanks. It has 12% ABV.</p><p>Burgenland, Austria’s easternmost state, borders Hungary and is shaped by the Pannonian climate and by Lake Neusiedl. It is Austria’s great region for red wines, above all from Blaufränkisch and Zweigelt, and for nobly sweet wines.</p>",
+    "fr": "<p>Il est élaboré à partir de Riesling. Il est élevé en cuves inox. Il titre 12 % vol.</p><p>Le Burgenland, Land le plus oriental d’Autriche, est frontalier de la Hongrie et marqué par le climat pannonien et par le lac de Neusiedl. C’est la grande région autrichienne des vins rouges, surtout de blaufränkisch et de zweigelt, et des liquoreux de pourriture noble.</p>",
+    "it": "<p>È prodotto con Riesling Renano. Affina in acciaio inox. Ha 12% vol.</p><p>Il Burgenland, il Land più orientale dell’Austria, confina con l’Ungheria ed è segnato dal clima pannonico e dal lago di Neusiedl. È la grande regione austriaca dei vini rossi, soprattutto di Blaufränkisch e Zweigelt, e dei vini dolci da muffa nobile.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Nittnaus Riesling Selection Gebrüder Nittnaus",
+  "brief": true,
+  "source": "decantalo"
+}

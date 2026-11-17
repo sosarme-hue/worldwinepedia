@@ -1,0 +1,42 @@
+{
+  "slug": "clos-du-rouge-gorge-vieilles-vignes",
+  "name": "Clos du Rouge Gorge Vieilles Vignes",
+  "winery": null,
+  "winery_name": "Clos Du Rouge Gorge",
+  "region": null,
+  "country": "francia",
+  "appellation": "IGP des Côtes Catalanes",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "carinena"
+  ],
+  "summary": {
+    "es": "Clos du Rouge Gorge Vieilles Vignes es un vino tinto de Clos Du Rouge Gorge, con la denominación IGP des Côtes Catalanes, en Francia.",
+    "en": "Clos du Rouge Gorge Vieilles Vignes is a red wine from Clos Du Rouge Gorge, made under the IGP des Côtes Catalanes appellation in France.",
+    "fr": "Clos du Rouge Gorge Vieilles Vignes est un vin rouge de Clos Du Rouge Gorge, élaboré sous l’appellation IGP des Côtes Catalanes (France).",
+    "it": "Clos du Rouge Gorge Vieilles Vignes è un vino rosso di Clos Du Rouge Gorge, prodotto nella denominazione IGP des Côtes Catalanes (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Cariñena. Tiene crianza en madera. Su graduación es de 13,2 % vol.</p>",
+    "en": "<p>It is made from Carignan. It is aged in wood. It has 13.2% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Carignan. Il est élevé en bois. Il titre 13,2 % vol.</p>",
+    "it": "<p>È prodotto con Carignano. È affinato in legno. Ha 13,2% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Clos du Rouge Gorge Vieilles Vignes Clos Du Rouge Gorge",
+  "brief": true,
+  "source": "decantalo"
+}

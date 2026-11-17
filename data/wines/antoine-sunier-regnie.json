@@ -1,0 +1,40 @@
+{
+  "slug": "antoine-sunier-regnie",
+  "name": "Antoine Sunier Régnié",
+  "winery": null,
+  "winery_name": "Antoine Sunier",
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Régnié",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Antoine Sunier Régnié es un vino tinto de Antoine Sunier, con la denominación AOC Régnié, en Francia.",
+    "en": "Antoine Sunier Régnié is a red wine from Antoine Sunier, made under the AOC Régnié appellation in France.",
+    "fr": "Antoine Sunier Régnié est un vin rouge de Antoine Sunier, élaboré sous l’appellation AOC Régnié (France).",
+    "it": "Antoine Sunier Régnié è un vino rosso di Antoine Sunier, prodotto nella denominazione AOC Régnié (Francia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13,5 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Antoine Sunier Régnié Antoine Sunier",
+  "brief": true,
+  "source": "decantalo"
+}

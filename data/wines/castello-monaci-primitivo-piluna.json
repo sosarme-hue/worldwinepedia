@@ -1,0 +1,40 @@
+{
+  "slug": "castello-monaci-primitivo-piluna",
+  "name": "Castello Monaci Primitivo Piluna",
+  "winery": null,
+  "winery_name": "Castello Monaci",
+  "region": null,
+  "country": "italia",
+  "appellation": "IGT Salento",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Castello Monaci Primitivo Piluna es un vino tinto de Castello Monaci, con la denominación IGT Salento, en Italia.",
+    "en": "Castello Monaci Primitivo Piluna is a red wine from Castello Monaci, made under the IGT Salento appellation in Italy.",
+    "fr": "Castello Monaci Primitivo Piluna est un vin rouge de Castello Monaci, élaboré sous l’appellation IGT Salento (Italie).",
+    "it": "Castello Monaci Primitivo Piluna è un vino rosso di Castello Monaci, prodotto nella denominazione IGT Salento (Italia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 14% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Castello Monaci Primitivo Piluna Castello Monaci",
+  "brief": true,
+  "source": "decantalo"
+}

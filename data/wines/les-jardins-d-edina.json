@@ -1,0 +1,42 @@
+{
+  "slug": "les-jardins-d-edina",
+  "name": "Les Jardins D´Édina",
+  "winery": null,
+  "winery_name": "Olivier Riviere",
+  "region": "bordeaux",
+  "country": "francia",
+  "appellation": "AOC Bordeaux",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "merlot"
+  ],
+  "summary": {
+    "es": "Les Jardins D´Édina es un vino tinto de Olivier Riviere, con la denominación AOC Bordeaux, en Francia.",
+    "en": "Les Jardins D´Édina is a red wine from Olivier Riviere, made under the AOC Bordeaux appellation in France.",
+    "fr": "Les Jardins D´Édina est un vin rouge de Olivier Riviere, élaboré sous l’appellation AOC Bordeaux (France).",
+    "it": "Les Jardins D´Édina è un vino rosso di Olivier Riviere, prodotto nella denominazione AOC Bordeaux (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Merlot. Su graduación es de 14,5 % vol.</p><p>Burdeos, en el departamento de la Gironda, es una de las regiones vinícolas más influyentes del mundo. Es célebre por sus tintos de ensamblaje a base de Cabernet Sauvignon y Merlot, por sus blancos secos y por los vinos dulces de Sauternes.</p>",
+    "en": "<p>It is made from Merlot. It has 14.5% ABV.</p><p>Bordeaux, in the Gironde département, is one of the most influential wine regions in the world. It is famous for its blended reds based on Cabernet Sauvignon and Merlot, its dry whites and the sweet wines of Sauternes.</p>",
+    "fr": "<p>Il est élaboré à partir de Merlot. Il titre 14,5 % vol.</p><p>Bordeaux, dans le département de la Gironde, est l'une des régions viticoles les plus influentes du monde. Elle est célèbre pour ses rouges d'assemblage à base de cabernet-sauvignon et de merlot, ses blancs secs et les liquoreux de Sauternes.</p>",
+    "it": "<p>È prodotto con Merlot. Ha 14,5% vol.</p><p>Bordeaux, nel dipartimento della Gironda, è una delle regioni vinicole più influenti al mondo. È celebre per i rossi da uvaggio a base di Cabernet Sauvignon e Merlot, per i bianchi secchi e per i vini dolci di Sauternes.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Les Jardins D´Édina Olivier Riviere",
+  "brief": true,
+  "source": "decantalo"
+}

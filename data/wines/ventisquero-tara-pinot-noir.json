@@ -1,0 +1,42 @@
+{
+  "slug": "ventisquero-tara-pinot-noir",
+  "name": "Ventisquero Tara Pinot Noir",
+  "winery": null,
+  "winery_name": "Viña Ventisquero",
+  "region": null,
+  "country": "chile",
+  "appellation": "Valle de Huasco",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Ventisquero Tara Pinot Noir es un vino tinto de Viña Ventisquero, con la denominación Valle de Huasco, en Chile.",
+    "en": "Ventisquero Tara Pinot Noir is a red wine from Viña Ventisquero, made under the Valle de Huasco appellation in Chile.",
+    "fr": "Ventisquero Tara Pinot Noir est un vin rouge de Viña Ventisquero, élaboré sous l’appellation Valle de Huasco (Chili).",
+    "it": "Ventisquero Tara Pinot Noir è un vino rosso di Viña Ventisquero, prodotto nella denominazione Valle de Huasco (Cile)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Pinot Noir. Tiene crianza en madera. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is made from Pinot Noir. It is aged in wood. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Pinot Noir. Il est élevé en bois. Il titre 13,5 % vol.</p>",
+    "it": "<p>È prodotto con Pinot Nero. È affinato in legno. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Ventisquero Tara Pinot Noir Viña Ventisquero",
+  "brief": true,
+  "source": "decantalo"
+}

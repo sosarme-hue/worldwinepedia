@@ -1,0 +1,40 @@
+{
+  "slug": "sextant-metisse",
+  "name": "Sextant Métisse",
+  "winery": null,
+  "winery_name": "Sextant",
+  "region": null,
+  "country": "francia",
+  "appellation": "Vin de France",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Sextant Métisse es un vino tinto de Sextant, con la denominación Vin de France, en Francia.",
+    "en": "Sextant Métisse is a red wine from Sextant, made under the Vin de France appellation in France.",
+    "fr": "Sextant Métisse est un vin rouge de Sextant, élaboré sous l’appellation Vin de France (France).",
+    "it": "Sextant Métisse è un vino rosso di Sextant, prodotto nella denominazione Vin de France (Francia)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 12 % vol.</p>",
+    "en": "<p>It has 12% ABV.</p>",
+    "fr": "<p>Il titre 12 % vol.</p>",
+    "it": "<p>Ha 12% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Sextant Métisse Sextant",
+  "brief": true,
+  "source": "decantalo"
+}

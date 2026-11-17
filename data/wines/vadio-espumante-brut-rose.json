@@ -1,0 +1,42 @@
+{
+  "slug": "vadio-espumante-brut-rose",
+  "name": "Vadio Espumante Brut Rosé",
+  "winery": null,
+  "winery_name": "Vadio",
+  "region": null,
+  "country": "portugal",
+  "appellation": null,
+  "type": "espumoso",
+  "category": null,
+  "grapes": [
+    "baga"
+  ],
+  "summary": {
+    "es": "Vadio Espumante Brut Rosé es un vino espumoso de Vadio, en Portugal.",
+    "en": "Vadio Espumante Brut Rosé is a sparkling wine from Vadio in Portugal.",
+    "fr": "Vadio Espumante Brut Rosé est un vin effervescent de Vadio (Portugal).",
+    "it": "Vadio Espumante Brut Rosé è un vino spumante di Vadio (Portogallo)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Baga. Su graduación es de 12 % vol.</p>",
+    "en": "<p>It is made from Baga. It has 12% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Baga. Il titre 12 % vol.</p>",
+    "it": "<p>È prodotto con Baga. Ha 12% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Vadio Espumante Brut Rosé Vadio",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "barco-del-corneta-loseco",
+  "name": "Barco del Corneta Loseco",
+  "winery": null,
+  "winery_name": "Barco del Corneta",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Castilla y León",
+  "type": "espumoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Barco del Corneta Loseco es un vino espumoso de Barco del Corneta, con la denominación VT Castilla y León, en España.",
+    "en": "Barco del Corneta Loseco is a sparkling wine from Barco del Corneta, made under the VT Castilla y León appellation in Spain.",
+    "fr": "Barco del Corneta Loseco est un vin effervescent de Barco del Corneta, élaboré sous l’appellation VT Castilla y León (Espagne).",
+    "it": "Barco del Corneta Loseco è un vino spumante di Barco del Corneta, prodotto nella denominazione VT Castilla y León (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 12,5 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Barco del Corneta Loseco Barco del Corneta",
+  "brief": true,
+  "source": "decantalo"
+}

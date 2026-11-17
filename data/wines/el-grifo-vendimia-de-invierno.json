@@ -1,0 +1,42 @@
+{
+  "slug": "el-grifo-vendimia-de-invierno",
+  "name": "El Grifo Vendimia de Invierno",
+  "winery": "el-grifo",
+  "winery_name": null,
+  "region": "lanzarote",
+  "country": "espana",
+  "appellation": "DO Lanzarote",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "malvasia"
+  ],
+  "summary": {
+    "es": "El Grifo Vendimia de Invierno es un vino blanco de Bodegas El Grifo, con la denominación DO Lanzarote, en España.",
+    "en": "El Grifo Vendimia de Invierno is a white wine from Bodegas El Grifo, made under the DO Lanzarote appellation in Spain.",
+    "fr": "El Grifo Vendimia de Invierno est un vin blanc de Bodegas El Grifo, élaboré sous l’appellation DO Lanzarote (Espagne).",
+    "it": "El Grifo Vendimia de Invierno è un vino bianco di Bodegas El Grifo, prodotto nella denominazione DO Lanzarote (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Malvasía. Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 13 % vol.</p><p>Bodega de Lanzarote fundada en 1775, una de las más antiguas de Canarias, conocida por sus vinos de malvasía volcánica cultivada en hoyos sobre ceniza volcánica.</p><p>Lanzarote es la denominación de origen de la isla canaria del mismo nombre, donde la vid se cultiva en hoyos excavados en la ceniza volcánica y protegidos por muros de piedra. Su variedad emblemática es la Malvasía Volcánica.</p>",
+    "en": "<p>It is made from Malvasia. It is a young wine, meant to be drunk in its first years. It has 13% ABV.</p><p>Lanzarote winery founded in 1775, one of the oldest in the Canary Islands, known for its wines from Malvasía Volcánica grown in pits dug into volcanic ash.</p><p>Lanzarote is the designation of origin of the Canary island of the same name, where vines are grown in pits dug into volcanic ash and protected by stone walls. Its emblematic variety is Malvasía Volcánica.</p>",
+    "fr": "<p>Il est élaboré à partir de Malvoisie. C’est un vin jeune, à boire dans ses premières années. Il titre 13 % vol.</p><p>Maison de Lanzarote fondée en 1775, l'une des plus anciennes des Canaries, connue pour ses vins de malvasía volcánica cultivée dans des fosses creusées dans la cendre volcanique.</p><p>Lanzarote est la dénomination d'origine de l'île canarienne du même nom, où la vigne est cultivée dans des fosses creusées dans la cendre volcanique et protégées par des murets de pierre. Son cépage emblématique est la malvasía volcánica.</p>",
+    "it": "<p>È prodotto con Malvasia. È un vino giovane, da bere nei primi anni. Ha 13% vol.</p><p>Cantina di Lanzarote fondata nel 1775, una delle più antiche delle Canarie, nota per i vini di Malvasía Volcánica coltivata in buche scavate nella cenere vulcanica.</p><p>Lanzarote è la denominazione di origine dell'omonima isola delle Canarie, dove la vite è coltivata in buche scavate nella cenere vulcanica e protette da muretti di pietra. Il suo vitigno simbolo è la Malvasía Volcánica.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "El Grifo Vendimia de Invierno El Grifo",
+  "brief": true,
+  "source": "decantalo"
+}

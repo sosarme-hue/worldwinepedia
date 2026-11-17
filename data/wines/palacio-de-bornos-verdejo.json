@@ -1,0 +1,40 @@
+{
+  "slug": "palacio-de-bornos-verdejo",
+  "name": "Palacio de Bornos Verdejo",
+  "winery": null,
+  "winery_name": "Palacio de Bornos",
+  "region": "rueda",
+  "country": "espana",
+  "appellation": "DO Rueda",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Palacio de Bornos Verdejo es un vino blanco de Palacio de Bornos, con la denominación DO Rueda, en España.",
+    "en": "Palacio de Bornos Verdejo is a white wine from Palacio de Bornos, made under the DO Rueda appellation in Spain.",
+    "fr": "Palacio de Bornos Verdejo est un vin blanc de Palacio de Bornos, élaboré sous l’appellation DO Rueda (Espagne).",
+    "it": "Palacio de Bornos Verdejo è un vino bianco di Palacio de Bornos, prodotto nella denominazione DO Rueda (Spagna)."
+  },
+  "body": {
+    "es": "<p>Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 13 % vol.</p><p>Rueda, creada en 1980, fue la primera denominación de origen de Castilla y León. Es la gran referencia de la uva Verdejo y de los vinos blancos de la Meseta norte.</p>",
+    "en": "<p>It is a young wine, meant to be drunk in its first years. It has 13% ABV.</p><p>Rueda, created in 1980, was the first designation of origin in Castilla y León. It is the leading reference for the Verdejo grape and for the white wines of the northern Meseta.</p>",
+    "fr": "<p>C’est un vin jeune, à boire dans ses premières années. Il titre 13 % vol.</p><p>Rueda, créée en 1980, fut la première dénomination d'origine de Castille-et-León. C'est la grande référence du cépage verdejo et des vins blancs de la Meseta septentrionale.</p>",
+    "it": "<p>È un vino giovane, da bere nei primi anni. Ha 13% vol.</p><p>Rueda, istituita nel 1980, è stata la prima denominazione di origine della Castiglia e León. È il grande punto di riferimento per il Verdejo e per i vini bianchi della Meseta settentrionale.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Palacio de Bornos Verdejo Palacio de Bornos",
+  "brief": true,
+  "source": "decantalo"
+}

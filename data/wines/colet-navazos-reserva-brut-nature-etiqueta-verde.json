@@ -1,0 +1,42 @@
+{
+  "slug": "colet-navazos-reserva-brut-nature-etiqueta-verde",
+  "name": "Colet Navazos Reserva Brut Nature Etiqueta Verde",
+  "winery": null,
+  "winery_name": "Colet",
+  "region": null,
+  "country": "espana",
+  "appellation": null,
+  "type": "espumoso",
+  "category": null,
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Colet Navazos Reserva Brut Nature Etiqueta Verde es un vino espumoso de Colet, en España.",
+    "en": "Colet Navazos Reserva Brut Nature Etiqueta Verde is a sparkling wine from Colet in Spain.",
+    "fr": "Colet Navazos Reserva Brut Nature Etiqueta Verde est un vin effervescent de Colet (Espagne).",
+    "it": "Colet Navazos Reserva Brut Nature Etiqueta Verde è un vino spumante di Colet (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Chardonnay. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is made from Chardonnay. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Chardonnay. Il titre 12,5 % vol.</p>",
+    "it": "<p>È prodotto con Chardonnay. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Colet Navazos Reserva Brut Nature Etiqueta Verde Colet",
+  "brief": true,
+  "source": "decantalo"
+}

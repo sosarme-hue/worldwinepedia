@@ -1,0 +1,42 @@
+{
+  "slug": "el-grifo-malvasia-brut-nature",
+  "name": "El Grifo Malvasía Brut Nature",
+  "winery": "el-grifo",
+  "winery_name": null,
+  "region": null,
+  "country": "espana",
+  "appellation": null,
+  "type": "espumoso",
+  "category": null,
+  "grapes": [
+    "malvasia"
+  ],
+  "summary": {
+    "es": "El Grifo Malvasía Brut Nature es un vino espumoso de Bodegas El Grifo, en España.",
+    "en": "El Grifo Malvasía Brut Nature is a sparkling wine from Bodegas El Grifo in Spain.",
+    "fr": "El Grifo Malvasía Brut Nature est un vin effervescent de Bodegas El Grifo (Espagne).",
+    "it": "El Grifo Malvasía Brut Nature è un vino spumante di Bodegas El Grifo (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Malvasía. Su graduación es de 13 % vol.</p><p>Bodega de Lanzarote fundada en 1775, una de las más antiguas de Canarias, conocida por sus vinos de malvasía volcánica cultivada en hoyos sobre ceniza volcánica.</p>",
+    "en": "<p>It is made from Malvasia. It has 13% ABV.</p><p>Lanzarote winery founded in 1775, one of the oldest in the Canary Islands, known for its wines from Malvasía Volcánica grown in pits dug into volcanic ash.</p>",
+    "fr": "<p>Il est élaboré à partir de Malvoisie. Il titre 13 % vol.</p><p>Maison de Lanzarote fondée en 1775, l'une des plus anciennes des Canaries, connue pour ses vins de malvasía volcánica cultivée dans des fosses creusées dans la cendre volcanique.</p>",
+    "it": "<p>È prodotto con Malvasia. Ha 13% vol.</p><p>Cantina di Lanzarote fondata nel 1775, una delle più antiche delle Canarie, nota per i vini di Malvasía Volcánica coltivata in buche scavate nella cenere vulcanica.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "El Grifo Malvasía Brut Nature El Grifo",
+  "brief": true,
+  "source": "decantalo"
+}

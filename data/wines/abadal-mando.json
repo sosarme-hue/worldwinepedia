@@ -1,0 +1,40 @@
+{
+  "slug": "abadal-mando",
+  "name": "Abadal Mandó",
+  "winery": null,
+  "winery_name": "Abadal",
+  "region": null,
+  "country": "espana",
+  "appellation": "DO Pla del Bages",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Abadal Mandó es un vino tinto de Abadal, con la denominación DO Pla del Bages, en España.",
+    "en": "Abadal Mandó is a red wine from Abadal, made under the DO Pla del Bages appellation in Spain.",
+    "fr": "Abadal Mandó est un vin rouge de Abadal, élaboré sous l’appellation DO Pla del Bages (Espagne).",
+    "it": "Abadal Mandó è un vino rosso di Abadal, prodotto nella denominazione DO Pla del Bages (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se cría en recipientes de barro, como ánforas o tinajas. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is aged in clay vessels such as amphorae. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élevé en jarres de terre cuite, comme des amphores. Il titre 12,5 % vol.</p>",
+    "it": "<p>Affina in contenitori di terracotta, come anfore. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Abadal Mandó Abadal",
+  "brief": true,
+  "source": "decantalo"
+}

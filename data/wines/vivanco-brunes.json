@@ -1,0 +1,40 @@
+{
+  "slug": "vivanco-brunes",
+  "name": "Vivanco Brunés",
+  "winery": null,
+  "winery_name": "Vivanco",
+  "region": "rioja",
+  "country": "espana",
+  "appellation": "DOCa Rioja",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Vivanco Brunés es un vino tinto de Vivanco, con la denominación DOCa Rioja, en España.",
+    "en": "Vivanco Brunés is a red wine from Vivanco, made under the DOCa Rioja appellation in Spain.",
+    "fr": "Vivanco Brunés est un vin rouge de Vivanco, élaboré sous l’appellation DOCa Rioja (Espagne).",
+    "it": "Vivanco Brunés è un vino rosso di Vivanco, prodotto nella denominazione DOCa Rioja (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14 % vol.</p><p>Rioja, en el valle del Ebro, fue en 1991 la primera Denominación de Origen Calificada de España. Es conocida sobre todo por sus tintos de Tempranillo y por su larga tradición de crianza en barrica de roble.</p>",
+    "en": "<p>It is aged in wood. It has 14% ABV.</p><p>Rioja, in the Ebro valley, became Spain's first Qualified Designation of Origin in 1991. It is best known for its Tempranillo-based reds and its long tradition of ageing in oak barrels.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14 % vol.</p><p>La Rioja, dans la vallée de l'Èbre, est devenue en 1991 la première dénomination d'origine qualifiée d'Espagne. Elle est surtout connue pour ses rouges à base de tempranillo et sa longue tradition d'élevage en barrique de chêne.</p>",
+    "it": "<p>È affinato in legno. Ha 14% vol.</p><p>La Rioja, nella valle dell'Ebro, è diventata nel 1991 la prima Denominazione di origine qualificata di Spagna. È nota soprattutto per i rossi a base di Tempranillo e per la lunga tradizione di affinamento in botte di rovere.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Vivanco Brunés Vivanco",
+  "brief": true,
+  "source": "decantalo"
+}

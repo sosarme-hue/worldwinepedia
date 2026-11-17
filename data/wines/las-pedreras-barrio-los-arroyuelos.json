@@ -1,0 +1,42 @@
+{
+  "slug": "las-pedreras-barrio-los-arroyuelos",
+  "name": "Las Pedreras Barrio Los Arroyuelos",
+  "winery": null,
+  "winery_name": "Las Pedreras",
+  "region": null,
+  "country": "espana",
+  "appellation": "DO Cebreros",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Las Pedreras Barrio Los Arroyuelos es un vino tinto de Las Pedreras, con la denominación DO Cebreros, en España.",
+    "en": "Las Pedreras Barrio Los Arroyuelos is a red wine from Las Pedreras, made under the DO Cebreros appellation in Spain.",
+    "fr": "Las Pedreras Barrio Los Arroyuelos est un vin rouge de Las Pedreras, élaboré sous l’appellation DO Cebreros (Espagne).",
+    "it": "Las Pedreras Barrio Los Arroyuelos è un vino rosso di Las Pedreras, prodotto nella denominazione DO Cebreros (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Tiene crianza en madera. Su graduación es de 14 % vol.</p>",
+    "en": "<p>It is made from Grenache. It is aged in wood. It has 14% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. Il est élevé en bois. Il titre 14 % vol.</p>",
+    "it": "<p>È prodotto con Grenache. È affinato in legno. Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Las Pedreras Barrio Los Arroyuelos Las Pedreras",
+  "brief": true,
+  "source": "decantalo"
+}

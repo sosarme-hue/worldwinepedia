@@ -1,0 +1,42 @@
+{
+  "slug": "domaine-des-carlines-poulsard",
+  "name": "Domaine des Carlines Poulsard",
+  "winery": null,
+  "winery_name": "Domaine des Carlines",
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Côtes du Jura",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "poulsard"
+  ],
+  "summary": {
+    "es": "Domaine des Carlines Poulsard es un vino tinto de Domaine des Carlines, con la denominación AOC Côtes du Jura, en Francia.",
+    "en": "Domaine des Carlines Poulsard is a red wine from Domaine des Carlines, made under the AOC Côtes du Jura appellation in France.",
+    "fr": "Domaine des Carlines Poulsard est un vin rouge de Domaine des Carlines, élaboré sous l’appellation AOC Côtes du Jura (France).",
+    "it": "Domaine des Carlines Poulsard è un vino rosso di Domaine des Carlines, prodotto nella denominazione AOC Côtes du Jura (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Poulsard. Se cría en depósitos de acero inoxidable. Su graduación es de 11 % vol.</p>",
+    "en": "<p>It is made from Poulsard. It is aged in stainless steel tanks. It has 11% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Poulsard. Il est élevé en cuves inox. Il titre 11 % vol.</p>",
+    "it": "<p>È prodotto con Poulsard. Affina in acciaio inox. Ha 11% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Domaine des Carlines Poulsard Domaine des Carlines",
+  "brief": true,
+  "source": "decantalo"
+}

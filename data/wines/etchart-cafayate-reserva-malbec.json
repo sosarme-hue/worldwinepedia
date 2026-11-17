@@ -1,0 +1,42 @@
+{
+  "slug": "etchart-cafayate-reserva-malbec",
+  "name": "Etchart Cafayate Reserva Malbec",
+  "winery": null,
+  "winery_name": "Bodegas Etchart",
+  "region": "salta",
+  "country": "argentina",
+  "appellation": "Salta",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "malbec"
+  ],
+  "summary": {
+    "es": "Etchart Cafayate Reserva Malbec es un vino tinto de Bodegas Etchart, con la denominación Salta, en Argentina.",
+    "en": "Etchart Cafayate Reserva Malbec is a red wine from Bodegas Etchart, made under the Salta appellation in Argentina.",
+    "fr": "Etchart Cafayate Reserva Malbec est un vin rouge de Bodegas Etchart, élaboré sous l’appellation Salta (Argentine).",
+    "it": "Etchart Cafayate Reserva Malbec è un vino rosso di Bodegas Etchart, prodotto nella denominazione Salta (Argentina)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Malbec. Tiene crianza en madera. Su graduación es de 14,5 % vol.</p><p>La provincia de Salta, en el noroeste argentino, alberga en los Valles Calchaquíes algunos de los viñedos más altos del mundo. Cafayate es la cuna de la Torrontés y también produce tintos intensos de Malbec y Cabernet Sauvignon.</p>",
+    "en": "<p>It is made from Malbec. It is aged in wood. It has 14.5% ABV.</p><p>The province of Salta, in north-west Argentina, is home in the Calchaquí Valleys to some of the highest vineyards in the world. Cafayate is the cradle of Torrontés and also produces intense reds from Malbec and Cabernet Sauvignon.</p>",
+    "fr": "<p>Il est élaboré à partir de Malbec (Côt). Il est élevé en bois. Il titre 14,5 % vol.</p><p>La province de Salta, dans le nord-ouest argentin, abrite dans les vallées Calchaquíes certains des vignobles les plus hauts du monde. Cafayate est le berceau du torrontés et produit aussi des rouges intenses de malbec et de cabernet-sauvignon.</p>",
+    "it": "<p>È prodotto con Malbec. È affinato in legno. Ha 14,5% vol.</p><p>La provincia di Salta, nel nord-ovest argentino, ospita nelle Valli Calchaquíes alcuni dei vigneti più alti del mondo. Cafayate è la culla del Torrontés e produce anche rossi intensi di Malbec e Cabernet Sauvignon.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Etchart Cafayate Reserva Malbec Bodegas Etchart",
+  "brief": true,
+  "source": "decantalo"
+}

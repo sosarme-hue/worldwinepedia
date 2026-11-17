@@ -1,0 +1,40 @@
+{
+  "slug": "tarima-mediterraneo",
+  "name": "Tarima Mediterráneo",
+  "winery": "bodegas-volver",
+  "winery_name": null,
+  "region": "alicante",
+  "country": "espana",
+  "appellation": "DO Alicante",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Tarima Mediterráneo es un vino blanco de Bodegas Volver, con la denominación DO Alicante, en España.",
+    "en": "Tarima Mediterráneo is a white wine from Bodegas Volver, made under the DO Alicante appellation in Spain.",
+    "fr": "Tarima Mediterráneo est un vin blanc de Bodegas Volver, élaboré sous l’appellation DO Alicante (Espagne).",
+    "it": "Tarima Mediterráneo è un vino bianco di Bodegas Volver, prodotto nella denominazione DO Alicante (Spagna)."
+  },
+  "body": {
+    "es": "<p>Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 12 % vol.</p><p>Bodega que elabora vinos de viñas viejas en varias zonas del centro y el sureste de España, conocida por Volver (La Mancha) y Tarima (Alicante).</p><p>Alicante es una denominación de origen de la Comunidad Valenciana dividida en dos subzonas, Vinalopó y La Marina. Es conocida por sus tintos de Monastrell, por los moscateles de la Marina Alta y por el Fondillón, un vino histórico de larga crianza.</p>",
+    "en": "<p>It is a young wine, meant to be drunk in its first years. It has 12% ABV.</p><p>Winery making old-vine wines in several areas of central and south-eastern Spain, known for Volver (La Mancha) and Tarima (Alicante).</p><p>Alicante is a designation of origin in the Valencian Community divided into two subzones, Vinalopó and La Marina. It is known for its Monastrell reds, the Moscatels of the Marina Alta and Fondillón, a historic long-aged wine.</p>",
+    "fr": "<p>C’est un vin jeune, à boire dans ses premières années. Il titre 12 % vol.</p><p>Domaine qui élabore des vins de vieilles vignes dans plusieurs zones du centre et du sud-est de l'Espagne, connu pour Volver (La Mancha) et Tarima (Alicante).</p><p>Alicante est une dénomination d'origine de la Communauté valencienne divisée en deux sous-zones, Vinalopó et La Marina. Elle est connue pour ses rouges de monastrell, les muscats de la Marina Alta et le Fondillón, vin historique de long élevage.</p>",
+    "it": "<p>È un vino giovane, da bere nei primi anni. Ha 12% vol.</p><p>Cantina che produce vini di vecchie vigne in diverse zone del centro e del sud-est della Spagna, nota per Volver (La Mancha) e Tarima (Alicante).</p><p>Alicante è una denominazione di origine della Comunità Valenciana suddivisa in due sottozone, Vinalopó e La Marina. È nota per i rossi di Monastrell, i moscati della Marina Alta e il Fondillón, un vino storico di lungo affinamento.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Tarima Mediterráneo Volver",
+  "brief": true,
+  "source": "decantalo"
+}

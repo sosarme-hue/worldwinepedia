@@ -1,0 +1,40 @@
+{
+  "slug": "soalheiro-nature",
+  "name": "Soalheiro Nature",
+  "winery": "soalheiro",
+  "winery_name": null,
+  "region": "vinho-verde",
+  "country": "portugal",
+  "appellation": "Vinho Verde",
+  "type": "espumoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Soalheiro Nature es un vino espumoso de Soalheiro, con la denominación Vinho Verde, en Portugal.",
+    "en": "Soalheiro Nature is a sparkling wine from Soalheiro, made under the Vinho Verde appellation in Portugal.",
+    "fr": "Soalheiro Nature est un vin effervescent de Soalheiro, élaboré sous l’appellation Vinho Verde (Portugal).",
+    "it": "Soalheiro Nature è un vino spumante di Soalheiro, prodotto nella denominazione Vinho Verde (Portogallo)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 12,5 % vol.</p><p>Bodega familiar de Melgaço, en la subregión de Monção e Melgaço, pionera en la elaboración de Alvarinho embotellado en la zona y referencia de esta variedad en Portugal.</p><p>La región del Vinho Verde ocupa el verde y lluvioso noroeste de Portugal, en el Minho. Es conocida por sus blancos ligeros, frescos y aromáticos, y por los Alvarinho de Monção e Melgaço.</p>",
+    "en": "<p>It has 12.5% ABV.</p><p>Family winery in Melgaço, in the Monção e Melgaço subregion, a pioneer of bottled Alvarinho in the area and a benchmark for the variety in Portugal.</p><p>The Vinho Verde region occupies the green, rainy north-west of Portugal, in the Minho. It is known for its light, fresh, aromatic whites and for the Alvarinhos of Monção e Melgaço.</p>",
+    "fr": "<p>Il titre 12,5 % vol.</p><p>Domaine familial de Melgaço, dans la sous-région de Monção e Melgaço, pionnier de l’alvarinho mis en bouteille dans la zone et référence pour ce cépage au Portugal.</p><p>La région du Vinho Verde occupe le nord-ouest vert et pluvieux du Portugal, dans le Minho. Elle est connue pour ses blancs légers, frais et aromatiques, et pour les alvarinhos de Monção e Melgaço.</p>",
+    "it": "<p>Ha 12,5% vol.</p><p>Cantina di famiglia di Melgaço, nella sottoregione di Monção e Melgaço, pioniera dell’Alvarinho imbottigliato nella zona e punto di riferimento per questo vitigno in Portogallo.</p><p>La regione del Vinho Verde occupa il nord-ovest verde e piovoso del Portogallo, nel Minho. È nota per i bianchi leggeri, freschi e aromatici e per gli Alvarinho di Monção e Melgaço.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Soalheiro Nature Quinta de Soalheiro",
+  "brief": true,
+  "source": "decantalo"
+}

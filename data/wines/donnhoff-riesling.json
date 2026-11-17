@@ -1,0 +1,42 @@
+{
+  "slug": "donnhoff-riesling",
+  "name": "Dönnhoff Riesling",
+  "winery": "donnhoff",
+  "winery_name": null,
+  "region": null,
+  "country": "alemania",
+  "appellation": "VDP Nahe",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "riesling"
+  ],
+  "summary": {
+    "es": "Dönnhoff Riesling es un vino blanco de Weingut Hermann Dönnhoff, con la denominación VDP Nahe, en Alemania.",
+    "en": "Dönnhoff Riesling is a white wine from Weingut Hermann Dönnhoff, made under the VDP Nahe appellation in Germany.",
+    "fr": "Dönnhoff Riesling est un vin blanc de Weingut Hermann Dönnhoff, élaboré sous l’appellation VDP Nahe (Allemagne).",
+    "it": "Dönnhoff Riesling è un vino bianco di Weingut Hermann Dönnhoff, prodotto nella denominazione VDP Nahe (Germania)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Riesling. Su graduación es de 11,5 % vol.</p><p>Finca familiar de Oberhausen que ha situado al Nahe entre las grandes regiones del Riesling, con vinos precisos de viñedos como Hermannshöhle, Brücke y Felsenberg.</p>",
+    "en": "<p>It is made from Riesling. It has 11.5% ABV.</p><p>Family estate in Oberhausen that has placed the Nahe among the great Riesling regions, with precise wines from vineyards such as Hermannshöhle, Brücke and Felsenberg.</p>",
+    "fr": "<p>Il est élaboré à partir de Riesling. Il titre 11,5 % vol.</p><p>Domaine familial d’Oberhausen qui a placé la Nahe parmi les grandes régions du riesling, avec des vins précis de vignobles comme Hermannshöhle, Brücke et Felsenberg.</p>",
+    "it": "<p>È prodotto con Riesling Renano. Ha 11,5% vol.</p><p>Tenuta di famiglia di Oberhausen che ha collocato la Nahe tra le grandi regioni del Riesling, con vini precisi di vigneti come Hermannshöhle, Brücke e Felsenberg.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Dönnhoff Riesling Weingut Hermann Dönnhoff",
+  "brief": true,
+  "source": "decantalo"
+}

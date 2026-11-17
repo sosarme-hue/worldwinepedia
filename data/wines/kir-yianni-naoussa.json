@@ -1,0 +1,42 @@
+{
+  "slug": "kir-yianni-naoussa",
+  "name": "Kir Yianni Naoussa",
+  "winery": "kir-yianni",
+  "winery_name": null,
+  "region": null,
+  "country": "grecia",
+  "appellation": "PDO Naoussa",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "xinomavro"
+  ],
+  "summary": {
+    "es": "Kir Yianni Naoussa es un vino tinto de Kir-Yianni, con la denominación PDO Naoussa, en Grecia.",
+    "en": "Kir Yianni Naoussa is a red wine from Kir-Yianni, made under the PDO Naoussa appellation in Greece.",
+    "fr": "Kir Yianni Naoussa est un vin rouge de Kir-Yianni, élaboré sous l’appellation PDO Naoussa (Grèce).",
+    "it": "Kir Yianni Naoussa è un vino rosso di Kir-Yianni, prodotto nella denominazione PDO Naoussa (Grecia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Xinomavro. Tiene crianza en madera. Su graduación es de 14 % vol.</p><p>Bodega de la Macedonia griega fundada en 1997 por Yiannis Boutaris, con fincas en Naoussa y Amyndeon. Es una de las principales referencias de la Xinomavro, con vinos como el Naoussa Ramnista.</p>",
+    "en": "<p>It is made from Xinomavro. It is aged in wood. It has 14% ABV.</p><p>A winery in Greek Macedonia founded in 1997 by Yiannis Boutaris, with estates in Naoussa and Amyndeon. It is one of the leading references for Xinomavro, with wines such as Ramnista Naoussa.</p>",
+    "fr": "<p>Il est élaboré à partir de Xinomavro. Il est élevé en bois. Il titre 14 % vol.</p><p>Domaine de Macédoine grecque fondé en 1997 par Yiannis Boutaris, avec des propriétés à Naoussa et à Amyndeon. C’est l’une des grandes références du xinomavro, avec des vins comme le Naoussa Ramnista.</p>",
+    "it": "<p>È prodotto con Xinomavro. È affinato in legno. Ha 14% vol.</p><p>Cantina della Macedonia greca fondata nel 1997 da Yiannis Boutaris, con tenute a Naoussa e Amyndeon. È uno dei principali riferimenti per lo Xinomavro, con vini come il Naoussa Ramnista.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Kir Yianni Naoussa Kir Yianni",
+  "brief": true,
+  "source": "decantalo"
+}

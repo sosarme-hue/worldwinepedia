@@ -1,0 +1,42 @@
+{
+  "slug": "museum-vinea-crianza",
+  "name": "Museum Vinea Crianza",
+  "winery": null,
+  "winery_name": "Museum",
+  "region": "cigales",
+  "country": "espana",
+  "appellation": "DO Cigales",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Museum Vinea Crianza es un vino tinto de Museum, con la denominación DO Cigales, en España.",
+    "en": "Museum Vinea Crianza is a red wine from Museum, made under the DO Cigales appellation in Spain.",
+    "fr": "Museum Vinea Crianza est un vin rouge de Museum, élaboré sous l’appellation DO Cigales (Espagne).",
+    "it": "Museum Vinea Crianza è un vino rosso di Museum, prodotto nella denominazione DO Cigales (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Tempranillo. Tiene crianza en madera. Su graduación es de 14,5 % vol.</p><p>Cigales es una denominación de origen situada al norte de Valladolid, en el valle del Pisuerga, reconocida en 1991. Tradicionalmente asociada a los rosados y claretes, elabora también tintos de Tempranillo.</p>",
+    "en": "<p>It is made from Tempranillo. It is aged in wood. It has 14.5% ABV.</p><p>Cigales is a designation of origin north of Valladolid, in the Pisuerga valley, recognised in 1991. Traditionally associated with rosés and claretes, it also produces Tempranillo reds.</p>",
+    "fr": "<p>Il est élaboré à partir de Tempranillo. Il est élevé en bois. Il titre 14,5 % vol.</p><p>Cigales est une dénomination d'origine située au nord de Valladolid, dans la vallée de la Pisuerga, reconnue en 1991. Traditionnellement associée aux rosés et aux claretes, elle produit aussi des rouges de tempranillo.</p>",
+    "it": "<p>È prodotto con Tempranillo. È affinato in legno. Ha 14,5% vol.</p><p>Cigales è una denominazione di origine situata a nord di Valladolid, nella valle del Pisuerga, riconosciuta nel 1991. Tradizionalmente legata ai rosati e ai claretes, produce anche rossi di Tempranillo.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Museum Vinea Crianza Museum",
+  "brief": true,
+  "source": "decantalo"
+}

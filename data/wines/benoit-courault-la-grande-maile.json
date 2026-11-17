@@ -1,0 +1,42 @@
+{
+  "slug": "benoit-courault-la-grande-maile",
+  "name": "Benoit Courault La Grande Maile",
+  "winery": null,
+  "winery_name": "Benoit Courault",
+  "region": null,
+  "country": "francia",
+  "appellation": "Vin de France",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Benoit Courault La Grande Maile es un vino tinto de Benoit Courault, con la denominación Vin de France, en Francia.",
+    "en": "Benoit Courault La Grande Maile is a red wine from Benoit Courault, made under the Vin de France appellation in France.",
+    "fr": "Benoit Courault La Grande Maile est un vin rouge de Benoit Courault, élaboré sous l’appellation Vin de France (France).",
+    "it": "Benoit Courault La Grande Maile è un vino rosso di Benoit Courault, prodotto nella denominazione Vin de France (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Cabernet Franc. Tiene crianza en madera. Su graduación es de 13 % vol.</p>",
+    "en": "<p>It is made from Cabernet Franc. It is aged in wood. It has 13% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Cabernet Franc. Il est élevé en bois. Il titre 13 % vol.</p>",
+    "it": "<p>È prodotto con Cabernet Franc. È affinato in legno. Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Benoit Courault La Grande Maile Benoit Courault",
+  "brief": true,
+  "source": "decantalo"
+}

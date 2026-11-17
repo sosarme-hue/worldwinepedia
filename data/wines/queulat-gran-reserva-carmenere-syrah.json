@@ -1,0 +1,45 @@
+{
+  "slug": "queulat-gran-reserva-carmenere-syrah",
+  "name": "Queulat Gran Reserva Carmenère Syrah",
+  "winery": null,
+  "winery_name": "Viña Ventisquero",
+  "region": null,
+  "country": "chile",
+  "appellation": "Valle de Maipo",
+  "type": "tinto",
+  "category": {
+    "es": "Gran Reserva",
+    "en": "Gran Reserva",
+    "fr": "Gran Reserva",
+    "it": "Gran Reserva"
+  },
+  "grapes": [],
+  "summary": {
+    "es": "Queulat Gran Reserva Carmenère Syrah es un vino tinto de Viña Ventisquero, con la denominación Valle de Maipo, en Chile.",
+    "en": "Queulat Gran Reserva Carmenère Syrah is a red wine from Viña Ventisquero, made under the Valle de Maipo appellation in Chile.",
+    "fr": "Queulat Gran Reserva Carmenère Syrah est un vin rouge de Viña Ventisquero, élaboré sous l’appellation Valle de Maipo (Chili).",
+    "it": "Queulat Gran Reserva Carmenère Syrah è un vino rosso di Viña Ventisquero, prodotto nella denominazione Valle de Maipo (Cile)."
+  },
+  "body": {
+    "es": "<p>Lleva la mención Gran Reserva. Su graduación es de 13 % vol.</p>",
+    "en": "<p>It carries the Gran Reserva designation. It has 13% ABV.</p>",
+    "fr": "<p>Il porte la mention Gran Reserva. Il titre 13 % vol.</p>",
+    "it": "<p>Riporta la menzione Gran Reserva. Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Queulat Gran Reserva Carmenère Syrah Viña Ventisquero",
+  "brief": true,
+  "source": "decantalo"
+}

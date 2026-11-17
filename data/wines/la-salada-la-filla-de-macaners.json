@@ -1,0 +1,40 @@
+{
+  "slug": "la-salada-la-filla-de-macaners",
+  "name": "La Salada La Filla de Maçaners",
+  "winery": null,
+  "winery_name": "Celler La Salada",
+  "region": null,
+  "country": "espana",
+  "appellation": "Sin denominación",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "La Salada La Filla de Maçaners es un vino tinto de Celler La Salada, con la denominación Sin denominación, en España.",
+    "en": "La Salada La Filla de Maçaners is a red wine from Celler La Salada, made under the Sin denominación appellation in Spain.",
+    "fr": "La Salada La Filla de Maçaners est un vin rouge de Celler La Salada, élaboré sous l’appellation Sin denominación (Espagne).",
+    "it": "La Salada La Filla de Maçaners è un vino rosso di Celler La Salada, prodotto nella denominazione Sin denominación (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se cría en recipientes de barro, como ánforas o tinajas. Su graduación es de 11 % vol.</p>",
+    "en": "<p>It is aged in clay vessels such as amphorae. It has 11% ABV.</p>",
+    "fr": "<p>Il est élevé en jarres de terre cuite, comme des amphores. Il titre 11 % vol.</p>",
+    "it": "<p>Affina in contenitori di terracotta, come anfore. Ha 11% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "La Salada La Filla de Maçaners Celler La Salada",
+  "brief": true,
+  "source": "decantalo"
+}

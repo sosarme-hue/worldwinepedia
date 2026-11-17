@@ -1,0 +1,40 @@
+{
+  "slug": "allegrini-soave",
+  "name": "Allegrini Soave",
+  "winery": "allegrini",
+  "winery_name": null,
+  "region": "soave",
+  "country": "italia",
+  "appellation": "DOC Soave",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Allegrini Soave es un vino blanco de Allegrini, con la denominación DOC Soave, en Italia.",
+    "en": "Allegrini Soave is a white wine from Allegrini, made under the DOC Soave appellation in Italy.",
+    "fr": "Allegrini Soave est un vin blanc de Allegrini, élaboré sous l’appellation DOC Soave (Italie).",
+    "it": "Allegrini Soave è un vino bianco di Allegrini, prodotto nella denominazione DOC Soave (Italia)."
+  },
+  "body": {
+    "es": "<p>Se cría en depósitos de acero inoxidable. Su graduación es de 13 % vol.</p><p>Bodega familiar de Fumane, en la Valpolicella Classica, conocida por su Amarone y por tintos de la IGT como Palazzo della Torre y La Poja.</p><p>El Soave es uno de los blancos más conocidos de Italia, elaborado principalmente con Garganega en las colinas al este de Verona. La zona produce también el Soave Superiore y el dulce Recioto di Soave, ambos DOCG.</p>",
+    "en": "<p>It is aged in stainless steel tanks. It has 13% ABV.</p><p>Family winery in Fumane, in Valpolicella Classica, known for its Amarone and for IGT reds such as Palazzo della Torre and La Poja.</p><p>Soave is one of Italy's best-known white wines, made mainly from Garganega in the hills east of Verona. The area also produces Soave Superiore and the sweet Recioto di Soave, both DOCG.</p>",
+    "fr": "<p>Il est élevé en cuves inox. Il titre 13 % vol.</p><p>Maison familiale de Fumane, dans la Valpolicella Classica, connue pour son Amarone et pour des rouges IGT comme Palazzo della Torre et La Poja.</p><p>Le Soave est l'un des blancs les plus connus d'Italie, élaboré principalement à partir de garganega sur les collines à l'est de Vérone. La zone produit aussi le Soave Superiore et le Recioto di Soave, doux, tous deux en DOCG.</p>",
+    "it": "<p>Affina in acciaio inox. Ha 13% vol.</p><p>Cantina di famiglia di Fumane, nella Valpolicella Classica, nota per il suo Amarone e per rossi IGT come Palazzo della Torre e La Poja.</p><p>Il Soave è uno dei bianchi più noti d'Italia, prodotto principalmente con Garganega sulle colline a est di Verona. La zona produce anche il Soave Superiore e il dolce Recioto di Soave, entrambi DOCG.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Allegrini Soave Allegrini",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "vadio-espumante-branco-brut",
+  "name": "Vadio Espumante Branco Brut",
+  "winery": null,
+  "winery_name": "Vadio",
+  "region": null,
+  "country": "portugal",
+  "appellation": null,
+  "type": "espumoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Vadio Espumante Branco Brut es un vino espumoso de Vadio, en Portugal.",
+    "en": "Vadio Espumante Branco Brut is a sparkling wine from Vadio in Portugal.",
+    "fr": "Vadio Espumante Branco Brut est un vin effervescent de Vadio (Portugal).",
+    "it": "Vadio Espumante Branco Brut è un vino spumante di Vadio (Portogallo)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 12 % vol.</p>",
+    "en": "<p>It has 12% ABV.</p>",
+    "fr": "<p>Il titre 12 % vol.</p>",
+    "it": "<p>Ha 12% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Vadio Espumante Branco Brut Vadio",
+  "brief": true,
+  "source": "decantalo"
+}

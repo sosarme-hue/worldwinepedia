@@ -1,0 +1,45 @@
+{
+  "slug": "quinta-sardonia",
+  "name": "Quinta Sardonia",
+  "winery": null,
+  "winery_name": "Quinta Sardonia",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Castilla y León",
+  "type": "espumoso",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [],
+  "summary": {
+    "es": "Quinta Sardonia es un vino espumoso de Quinta Sardonia, con la denominación VT Castilla y León, en España.",
+    "en": "Quinta Sardonia is a sparkling wine from Quinta Sardonia, made under the VT Castilla y León appellation in Spain.",
+    "fr": "Quinta Sardonia est un vin effervescent de Quinta Sardonia, élaboré sous l’appellation VT Castilla y León (Espagne).",
+    "it": "Quinta Sardonia è un vino spumante di Quinta Sardonia, prodotto nella denominazione VT Castilla y León (Spagna)."
+  },
+  "body": {
+    "es": "<p>Lleva la mención Reserva. Su graduación es de 15 % vol.</p>",
+    "en": "<p>It carries the Reserva designation. It has 15% ABV.</p>",
+    "fr": "<p>Il porte la mention Reserva. Il titre 15 % vol.</p>",
+    "it": "<p>Riporta la menzione Reserva. Ha 15% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Quinta Sardonia Quinta Sardonia",
+  "brief": true,
+  "source": "decantalo"
+}

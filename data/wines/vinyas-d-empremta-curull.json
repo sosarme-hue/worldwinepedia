@@ -1,0 +1,40 @@
+{
+  "slug": "vinyas-d-empremta-curull",
+  "name": "Vinyas d'empremta Curull",
+  "winery": null,
+  "winery_name": "Vinyas d'empremta",
+  "region": null,
+  "country": "espana",
+  "appellation": "Vino de España",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Vinyas d'empremta Curull es un vino tinto de Vinyas d'empremta, con la denominación Vino de España, en España.",
+    "en": "Vinyas d'empremta Curull is a red wine from Vinyas d'empremta, made under the Vino de España appellation in Spain.",
+    "fr": "Vinyas d'empremta Curull est un vin rouge de Vinyas d'empremta, élaboré sous l’appellation Vino de España (Espagne).",
+    "it": "Vinyas d'empremta Curull è un vino rosso di Vinyas d'empremta, prodotto nella denominazione Vino de España (Spagna)."
+  },
+  "body": {
+    "es": "<p>Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 12 % vol.</p>",
+    "en": "<p>It is a young wine, meant to be drunk in its first years. It has 12% ABV.</p>",
+    "fr": "<p>C’est un vin jeune, à boire dans ses premières années. Il titre 12 % vol.</p>",
+    "it": "<p>È un vino giovane, da bere nei primi anni. Ha 12% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Vinyas d'empremta Curull Vinyas d'empremta",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "le-naturel-tinto",
+  "name": "Le Naturel Tinto",
+  "winery": null,
+  "winery_name": "Aroa Bodegas",
+  "region": null,
+  "country": "espana",
+  "appellation": null,
+  "type": "espumoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Le Naturel Tinto es un vino espumoso de Aroa Bodegas, en España.",
+    "en": "Le Naturel Tinto is a sparkling wine from Aroa Bodegas in Spain.",
+    "fr": "Le Naturel Tinto est un vin effervescent de Aroa Bodegas (Espagne).",
+    "it": "Le Naturel Tinto è un vino spumante di Aroa Bodegas (Spagna)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 14 % vol.</p>",
+    "en": "<p>It has 14% ABV.</p>",
+    "fr": "<p>Il titre 14 % vol.</p>",
+    "it": "<p>Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Le Naturel Tinto Aroa Bodegas",
+  "brief": true,
+  "source": "decantalo"
+}

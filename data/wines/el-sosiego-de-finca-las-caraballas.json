@@ -1,0 +1,42 @@
+{
+  "slug": "el-sosiego-de-finca-las-caraballas",
+  "name": "El Sosiego de Finca las Caraballas",
+  "winery": null,
+  "winery_name": "Finca Las Caraballas",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Castilla y León",
+  "type": "espumoso",
+  "category": null,
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "El Sosiego de Finca las Caraballas es un vino espumoso de Finca Las Caraballas, con la denominación VT Castilla y León, en España.",
+    "en": "El Sosiego de Finca las Caraballas is a sparkling wine from Finca Las Caraballas, made under the VT Castilla y León appellation in Spain.",
+    "fr": "El Sosiego de Finca las Caraballas est un vin effervescent de Finca Las Caraballas, élaboré sous l’appellation VT Castilla y León (Espagne).",
+    "it": "El Sosiego de Finca las Caraballas è un vino spumante di Finca Las Caraballas, prodotto nella denominazione VT Castilla y León (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Chardonnay. Se cría sobre sus lías. Su graduación es de 13 % vol.</p>",
+    "en": "<p>It is made from Chardonnay. It is aged on its lees. It has 13% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Chardonnay. Il est élevé sur lies. Il titre 13 % vol.</p>",
+    "it": "<p>È prodotto con Chardonnay. Affina sulle fecce fini. Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "El Sosiego de Finca las Caraballas Finca Las Caraballas",
+  "brief": true,
+  "source": "decantalo"
+}

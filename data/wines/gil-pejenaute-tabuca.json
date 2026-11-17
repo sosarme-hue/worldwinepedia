@@ -1,0 +1,42 @@
+{
+  "slug": "gil-pejenaute-tabuca",
+  "name": "Gil Pejenaute Tabuca",
+  "winery": null,
+  "winery_name": "Gil Pejenaute",
+  "region": "campo-de-borja",
+  "country": "espana",
+  "appellation": "DO Campo de Borja",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Gil Pejenaute Tabuca es un vino tinto de Gil Pejenaute, con la denominación DO Campo de Borja, en España.",
+    "en": "Gil Pejenaute Tabuca is a red wine from Gil Pejenaute, made under the DO Campo de Borja appellation in Spain.",
+    "fr": "Gil Pejenaute Tabuca est un vin rouge de Gil Pejenaute, élaboré sous l’appellation DO Campo de Borja (Espagne).",
+    "it": "Gil Pejenaute Tabuca è un vino rosso di Gil Pejenaute, prodotto nella denominazione DO Campo de Borja (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Su graduación es de 15 % vol.</p><p>Campo de Borja es una denominación de origen de la provincia de Zaragoza, situada entre el valle del Ebro y las faldas del Moncayo. Se ha especializado en la Garnacha, con numerosas viñas viejas, y se presenta como «el Imperio de la Garnacha».</p>",
+    "en": "<p>It is made from Grenache. It has 15% ABV.</p><p>Campo de Borja is a designation of origin in the province of Zaragoza, between the Ebro valley and the slopes of the Moncayo. It specialises in Grenache, with many old vineyards, and promotes itself as the Empire of Grenache.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. Il titre 15 % vol.</p><p>Campo de Borja est une dénomination d'origine de la province de Saragosse, située entre la vallée de l'Èbre et les contreforts du Moncayo. Elle s'est spécialisée dans le grenache, avec de nombreuses vieilles vignes, et se présente comme « l'Empire du grenache ».</p>",
+    "it": "<p>È prodotto con Grenache. Ha 15% vol.</p><p>Campo de Borja è una denominazione di origine della provincia di Saragozza, situata tra la valle dell'Ebro e le pendici del Moncayo. Si è specializzata nella Garnacha, con numerose vecchie vigne, e si presenta come «l'Impero della Garnacha».</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Gil Pejenaute Tabuca Gil Pejenaute",
+  "brief": true,
+  "source": "decantalo"
+}

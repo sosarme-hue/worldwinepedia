@@ -1,0 +1,42 @@
+{
+  "slug": "contino-san-rafael",
+  "name": "Contino San Rafael",
+  "winery": "contino",
+  "winery_name": null,
+  "region": "rioja",
+  "country": "espana",
+  "appellation": "DOCa Rioja",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Contino San Rafael es un vino tinto de Viñedos del Contino, con la denominación DOCa Rioja, en España.",
+    "en": "Contino San Rafael is a red wine from Viñedos del Contino, made under the DOCa Rioja appellation in Spain.",
+    "fr": "Contino San Rafael est un vin rouge de Viñedos del Contino, élaboré sous l’appellation DOCa Rioja (Espagne).",
+    "it": "Contino San Rafael è un vino rosso di Viñedos del Contino, prodotto nella denominazione DOCa Rioja (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Tiene crianza en madera. Su graduación es de 13 % vol.</p><p>Finca de la Rioja Alavesa situada en un meandro del Ebro, en Laserna, creada en 1973 en asociación con CVNE y considerada uno de los primeros viñedos de Rioja concebidos como «château».</p><p>Rioja, en el valle del Ebro, fue en 1991 la primera Denominación de Origen Calificada de España. Es conocida sobre todo por sus tintos de Tempranillo y por su larga tradición de crianza en barrica de roble.</p>",
+    "en": "<p>It is made from Grenache. It is aged in wood. It has 13% ABV.</p><p>Estate in Rioja Alavesa set in a meander of the Ebro at Laserna, created in 1973 in partnership with CVNE and regarded as one of the first Rioja vineyards conceived as a ‘château’.</p><p>Rioja, in the Ebro valley, became Spain's first Qualified Designation of Origin in 1991. It is best known for its Tempranillo-based reds and its long tradition of ageing in oak barrels.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. Il est élevé en bois. Il titre 13 % vol.</p><p>Domaine de la Rioja Alavesa situé dans un méandre de l’Èbre, à Laserna, créé en 1973 en association avec CVNE et considéré comme l’un des premiers vignobles de la Rioja conçus comme un « château ».</p><p>La Rioja, dans la vallée de l'Èbre, est devenue en 1991 la première dénomination d'origine qualifiée d'Espagne. Elle est surtout connue pour ses rouges à base de tempranillo et sa longue tradition d'élevage en barrique de chêne.</p>",
+    "it": "<p>È prodotto con Grenache. È affinato in legno. Ha 13% vol.</p><p>Tenuta della Rioja Alavesa situata in un’ansa dell’Ebro, a Laserna, creata nel 1973 in associazione con CVNE e considerata uno dei primi vigneti della Rioja concepiti come «château».</p><p>La Rioja, nella valle dell'Ebro, è diventata nel 1991 la prima Denominazione di origine qualificata di Spagna. È nota soprattutto per i rossi a base di Tempranillo e per la lunga tradizione di affinamento in botte di rovere.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Contino San Rafael Contino",
+  "brief": true,
+  "source": "decantalo"
+}

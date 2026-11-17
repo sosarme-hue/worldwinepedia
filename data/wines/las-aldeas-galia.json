@@ -1,0 +1,40 @@
+{
+  "slug": "las-aldeas-galia",
+  "name": "Las Aldeas Galia",
+  "winery": null,
+  "winery_name": "Galia",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Castilla y León",
+  "type": "espumoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Las Aldeas Galia es un vino espumoso de Galia, con la denominación VT Castilla y León, en España.",
+    "en": "Las Aldeas Galia is a sparkling wine from Galia, made under the VT Castilla y León appellation in Spain.",
+    "fr": "Las Aldeas Galia est un vin effervescent de Galia, élaboré sous l’appellation VT Castilla y León (Espagne).",
+    "it": "Las Aldeas Galia è un vino spumante di Galia, prodotto nella denominazione VT Castilla y León (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13,8 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 13.8% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13,8 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 13,8% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Las Aldeas Galia Galia",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "las-pedreras-arquiton",
+  "name": "Las Pedreras Arquitón",
+  "winery": null,
+  "winery_name": "Las Pedreras",
+  "region": null,
+  "country": "espana",
+  "appellation": "DO Cebreros",
+  "type": "rosado",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Las Pedreras Arquitón es un vino rosado de Las Pedreras, con la denominación DO Cebreros, en España.",
+    "en": "Las Pedreras Arquitón is a rosé wine from Las Pedreras, made under the DO Cebreros appellation in Spain.",
+    "fr": "Las Pedreras Arquitón est un vin rosé de Las Pedreras, élaboré sous l’appellation DO Cebreros (Espagne).",
+    "it": "Las Pedreras Arquitón è un vino rosato di Las Pedreras, prodotto nella denominazione DO Cebreros (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Se cría sobre sus lías. Su graduación es de 13 % vol.</p>",
+    "en": "<p>It is made from Grenache. It is aged on its lees. It has 13% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. Il est élevé sur lies. Il titre 13 % vol.</p>",
+    "it": "<p>È prodotto con Grenache. Affina sulle fecce fini. Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, ensaladas, arroces, pescados",
+    "en": "Aperitif, salads, rice dishes, fish",
+    "fr": "Apéritif, salades, plats de riz, poissons",
+    "it": "Aperitivo, insalate, risotti, pesce"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Las Pedreras Arquitón Las Pedreras",
+  "brief": true,
+  "source": "decantalo"
+}

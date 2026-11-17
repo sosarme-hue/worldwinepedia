@@ -1,0 +1,42 @@
+{
+  "slug": "botijo-rojo-garnacha",
+  "name": "Botijo Rojo Garnacha",
+  "winery": null,
+  "winery_name": "Bodegas Frontonio",
+  "region": null,
+  "country": "espana",
+  "appellation": "IGP Valdejalón",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Botijo Rojo Garnacha es un vino tinto de Bodegas Frontonio, con la denominación IGP Valdejalón, en España.",
+    "en": "Botijo Rojo Garnacha is a red wine from Bodegas Frontonio, made under the IGP Valdejalón appellation in Spain.",
+    "fr": "Botijo Rojo Garnacha est un vin rouge de Bodegas Frontonio, élaboré sous l’appellation IGP Valdejalón (Espagne).",
+    "it": "Botijo Rojo Garnacha è un vino rosso di Bodegas Frontonio, prodotto nella denominazione IGP Valdejalón (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Se cría en depósitos de hormigón. Su graduación es de 14 % vol.</p>",
+    "en": "<p>It is made from Grenache. It is aged in concrete vats. It has 14% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. Il est élevé en cuves béton. Il titre 14 % vol.</p>",
+    "it": "<p>È prodotto con Grenache. Affina in vasche di cemento. Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Botijo Rojo Garnacha Bodegas Frontonio",
+  "brief": true,
+  "source": "decantalo"
+}

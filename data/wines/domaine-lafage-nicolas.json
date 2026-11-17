@@ -1,0 +1,42 @@
+{
+  "slug": "domaine-lafage-nicolas",
+  "name": "Domaine Lafage Nicolas",
+  "winery": null,
+  "winery_name": "Domaine Lafage",
+  "region": null,
+  "country": "francia",
+  "appellation": "IGP des Côtes Catalanes",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Domaine Lafage Nicolas es un vino tinto de Domaine Lafage, con la denominación IGP des Côtes Catalanes, en Francia.",
+    "en": "Domaine Lafage Nicolas is a red wine from Domaine Lafage, made under the IGP des Côtes Catalanes appellation in France.",
+    "fr": "Domaine Lafage Nicolas est un vin rouge de Domaine Lafage, élaboré sous l’appellation IGP des Côtes Catalanes (France).",
+    "it": "Domaine Lafage Nicolas è un vino rosso di Domaine Lafage, prodotto nella denominazione IGP des Côtes Catalanes (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Tiene crianza en madera. Su graduación es de 15 % vol.</p>",
+    "en": "<p>It is made from Grenache. It is aged in wood. It has 15% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. Il est élevé en bois. Il titre 15 % vol.</p>",
+    "it": "<p>È prodotto con Grenache. È affinato in legno. Ha 15% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Domaine Lafage Nicolas Domaine Lafage",
+  "brief": true,
+  "source": "decantalo"
+}

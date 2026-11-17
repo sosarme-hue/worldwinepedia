@@ -1,0 +1,42 @@
+{
+  "slug": "la-valle-franciacorta-brut-regium",
+  "name": "La Valle Franciacorta Brut Regium",
+  "winery": null,
+  "winery_name": "La Valle",
+  "region": null,
+  "country": "italia",
+  "appellation": null,
+  "type": "espumoso",
+  "category": null,
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "La Valle Franciacorta Brut Regium es un vino espumoso de La Valle, en Italia.",
+    "en": "La Valle Franciacorta Brut Regium is a sparkling wine from La Valle in Italy.",
+    "fr": "La Valle Franciacorta Brut Regium est un vin effervescent de La Valle (Italie).",
+    "it": "La Valle Franciacorta Brut Regium è un vino spumante di La Valle (Italia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Chardonnay. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is made from Chardonnay. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Chardonnay. Il titre 12,5 % vol.</p>",
+    "it": "<p>È prodotto con Chardonnay. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "La Valle Franciacorta Brut Regium La Valle",
+  "brief": true,
+  "source": "decantalo"
+}

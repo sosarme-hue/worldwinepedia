@@ -1,0 +1,42 @@
+{
+  "slug": "weingut-seckinger-savagnin",
+  "name": "Weingut Seckinger Savagnin",
+  "winery": null,
+  "winery_name": "Weingut Seckinger",
+  "region": null,
+  "country": "alemania",
+  "appellation": "VDP Pfalz",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "savagnin"
+  ],
+  "summary": {
+    "es": "Weingut Seckinger Savagnin es un vino blanco de Weingut Seckinger, con la denominación VDP Pfalz, en Alemania.",
+    "en": "Weingut Seckinger Savagnin is a white wine from Weingut Seckinger, made under the VDP Pfalz appellation in Germany.",
+    "fr": "Weingut Seckinger Savagnin est un vin blanc de Weingut Seckinger, élaboré sous l’appellation VDP Pfalz (Allemagne).",
+    "it": "Weingut Seckinger Savagnin è un vino bianco di Weingut Seckinger, prodotto nella denominazione VDP Pfalz (Germania)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Savagnin. Tiene crianza en madera. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is made from Savagnin. It is aged in wood. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Savagnin. Il est élevé en bois. Il titre 12,5 % vol.</p>",
+    "it": "<p>È prodotto con Savagnin. È affinato in legno. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Weingut Seckinger Savagnin Weingut Seckinger",
+  "brief": true,
+  "source": "decantalo"
+}

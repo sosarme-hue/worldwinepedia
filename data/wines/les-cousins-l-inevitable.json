@@ -1,0 +1,40 @@
+{
+  "slug": "les-cousins-l-inevitable",
+  "name": "Les Cousins L'Inévitable",
+  "winery": null,
+  "winery_name": "Les Cousins Marc & Adrià",
+  "region": null,
+  "country": "espana",
+  "appellation": "Vino de Mesa",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Les Cousins L'Inévitable es un vino tinto de Les Cousins Marc & Adrià, con la denominación Vino de Mesa, en España.",
+    "en": "Les Cousins L'Inévitable is a red wine from Les Cousins Marc & Adrià, made under the Vino de Mesa appellation in Spain.",
+    "fr": "Les Cousins L'Inévitable est un vin rouge de Les Cousins Marc & Adrià, élaboré sous l’appellation Vino de Mesa (Espagne).",
+    "it": "Les Cousins L'Inévitable è un vino rosso di Les Cousins Marc & Adrià, prodotto nella denominazione Vino de Mesa (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se cría en depósitos de hormigón. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is aged in concrete vats. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élevé en cuves béton. Il titre 12,5 % vol.</p>",
+    "it": "<p>Affina in vasche di cemento. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Les Cousins L'Inévitable Les Cousins Marc & Adrià",
+  "brief": true,
+  "source": "decantalo"
+}

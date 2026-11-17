@@ -1,0 +1,40 @@
+{
+  "slug": "miraval-rose-miraval",
+  "name": "Miraval Rosé",
+  "winery": "chateau-miraval",
+  "winery_name": null,
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Côtes de Provence",
+  "type": "rosado",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Miraval Rosé es un vino rosado de Château Miraval, con la denominación AOC Côtes de Provence, en Francia.",
+    "en": "Miraval Rosé is a rosé wine from Château Miraval, made under the AOC Côtes de Provence appellation in France.",
+    "fr": "Miraval Rosé est un vin rosé de Château Miraval, élaboré sous l’appellation AOC Côtes de Provence (France).",
+    "it": "Miraval Rosé è un vino rosato di Château Miraval, prodotto nella denominazione AOC Côtes de Provence (Francia)."
+  },
+  "body": {
+    "es": "<p>Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 13 % vol.</p><p>Finca de Correns, en el interior del Var, cuyo rosado de Côtes de Provence, elaborado en asociación con la familia Perrin desde la cosecha de 2012, alcanzó gran notoriedad internacional.</p>",
+    "en": "<p>It is a young wine, meant to be drunk in its first years. It has 13% ABV.</p><p>Estate in Correns, inland in the Var, whose Côtes de Provence rosé, made in partnership with the Perrin family since the 2012 vintage, achieved wide international recognition.</p>",
+    "fr": "<p>C’est un vin jeune, à boire dans ses premières années. Il titre 13 % vol.</p><p>Domaine de Correns, dans l’arrière-pays varois, dont le rosé des Côtes de Provence, élaboré en partenariat avec la famille Perrin depuis le millésime 2012, a acquis une grande notoriété internationale.</p>",
+    "it": "<p>È un vino giovane, da bere nei primi anni. Ha 13% vol.</p><p>Tenuta di Correns, nell’entroterra del Var, il cui rosato Côtes de Provence, prodotto in collaborazione con la famiglia Perrin dall’annata 2012, ha raggiunto una grande notorietà internazionale.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, ensaladas, arroces, pescados",
+    "en": "Aperitif, salads, rice dishes, fish",
+    "fr": "Apéritif, salades, plats de riz, poissons",
+    "it": "Aperitivo, insalate, risotti, pesce"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Miraval Rosé Miraval",
+  "brief": true,
+  "source": "decantalo"
+}

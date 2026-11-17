@@ -1,0 +1,40 @@
+{
+  "slug": "coronas-crianza",
+  "name": "Coronas Crianza",
+  "winery": "familia-torres",
+  "winery_name": null,
+  "region": "catalunya",
+  "country": "espana",
+  "appellation": "DO Catalunya",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Coronas Crianza es un vino tinto de Familia Torres, con la denominación DO Catalunya, en España.",
+    "en": "Coronas Crianza is a red wine from Familia Torres, made under the DO Catalunya appellation in Spain.",
+    "fr": "Coronas Crianza est un vin rouge de Familia Torres, élaboré sous l’appellation DO Catalunya (Espagne).",
+    "it": "Coronas Crianza è un vino rosso di Familia Torres, prodotto nella denominazione DO Catalunya (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13,5 % vol.</p><p>Empresa familiar del Penedès fundada en 1870, una de las bodegas españolas más conocidas internacionalmente, con viñedos en varias denominaciones catalanas y en otras regiones de España.</p><p>Catalunya es una denominación de origen de ámbito regional que abarca la mayor parte del viñedo catalán y permite elaborar vinos con uvas procedentes de distintas comarcas. Es la denominación de muchos vinos de gran volumen de las principales bodegas de Cataluña, junto a otros más singulares.</p>",
+    "en": "<p>It is aged in wood. It has 13.5% ABV.</p><p>Family-owned Penedès winery founded in 1870, one of Spain's best-known wineries internationally, with vineyards in several Catalan designations and other Spanish regions.</p><p>Catalunya is a region-wide designation of origin that covers most of the Catalan vineyard and allows wines to be made from grapes sourced in different districts. It is the designation of many high-volume wines from Catalonia's leading wineries, alongside more distinctive ones.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13,5 % vol.</p><p>Entreprise familiale du Penedès fondée en 1870, l'une des maisons espagnoles les plus connues à l'international, avec des vignobles dans plusieurs appellations catalanes et d'autres régions d'Espagne.</p><p>Catalunya est une dénomination d'origine de portée régionale qui couvre la majeure partie du vignoble catalan et permet d'élaborer des vins avec des raisins provenant de différentes contrées. C'est l'appellation de nombreux vins de grand volume des principales caves de Catalogne, à côté d'autres plus singuliers.</p>",
+    "it": "<p>È affinato in legno. Ha 13,5% vol.</p><p>Azienda di famiglia del Penedès fondata nel 1870, una delle cantine spagnole più note a livello internazionale, con vigneti in diverse denominazioni catalane e in altre regioni della Spagna.</p><p>Catalunya è una denominazione di origine di ambito regionale che comprende la maggior parte dei vigneti catalani e consente di produrre vini con uve provenienti da diverse comarche. È la denominazione di molti vini di grande volume delle principali cantine della Catalogna, accanto ad altri più particolari.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Coronas Crianza Torres",
+  "brief": true,
+  "source": "decantalo"
+}

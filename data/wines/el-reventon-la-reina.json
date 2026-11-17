@@ -1,0 +1,42 @@
+{
+  "slug": "el-reventon-la-reina",
+  "name": "El Reventón La Reina",
+  "winery": null,
+  "winery_name": "El Reventón",
+  "region": null,
+  "country": "espana",
+  "appellation": "DO Cebreros",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "El Reventón La Reina es un vino tinto de El Reventón, con la denominación DO Cebreros, en España.",
+    "en": "El Reventón La Reina is a red wine from El Reventón, made under the DO Cebreros appellation in Spain.",
+    "fr": "El Reventón La Reina est un vin rouge de El Reventón, élaboré sous l’appellation DO Cebreros (Espagne).",
+    "it": "El Reventón La Reina è un vino rosso di El Reventón, prodotto nella denominazione DO Cebreros (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Su graduación es de 14,5 % vol.</p>",
+    "en": "<p>It is made from Grenache. It has 14.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. Il titre 14,5 % vol.</p>",
+    "it": "<p>È prodotto con Grenache. Ha 14,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "El Reventón La Reina El Reventón",
+  "brief": true,
+  "source": "decantalo"
+}

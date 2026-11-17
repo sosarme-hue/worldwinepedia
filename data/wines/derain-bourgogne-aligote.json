@@ -1,0 +1,42 @@
+{
+  "slug": "derain-bourgogne-aligote",
+  "name": "Derain Bourgogne Aligoté",
+  "winery": null,
+  "winery_name": "Dominique Derain",
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Bourgogne Aligoté",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "aligote"
+  ],
+  "summary": {
+    "es": "Derain Bourgogne Aligoté es un vino blanco de Dominique Derain, con la denominación AOC Bourgogne Aligoté, en Francia.",
+    "en": "Derain Bourgogne Aligoté is a white wine from Dominique Derain, made under the AOC Bourgogne Aligoté appellation in France.",
+    "fr": "Derain Bourgogne Aligoté est un vin blanc de Dominique Derain, élaboré sous l’appellation AOC Bourgogne Aligoté (France).",
+    "it": "Derain Bourgogne Aligoté è un vino bianco di Dominique Derain, prodotto nella denominazione AOC Bourgogne Aligoté (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Aligoté. Tiene crianza en madera. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is made from Aligoté. It is aged in wood. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Aligoté. Il est élevé en bois. Il titre 12,5 % vol.</p>",
+    "it": "<p>È prodotto con Aligoté. È affinato in legno. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Derain Bourgogne Aligoté Dominique Derain",
+  "brief": true,
+  "source": "decantalo"
+}

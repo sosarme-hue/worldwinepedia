@@ -1,0 +1,40 @@
+{
+  "slug": "cortijo-los-aguilares-tinto",
+  "name": "Cortijo Los Aguilares Tinto",
+  "winery": null,
+  "winery_name": "Cortijo Los Aguilares",
+  "region": null,
+  "country": "espana",
+  "appellation": "DO Málaga-Sierras de Málaga",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Cortijo Los Aguilares Tinto es un vino tinto de Cortijo Los Aguilares, con la denominación DO Málaga-Sierras de Málaga, en España.",
+    "en": "Cortijo Los Aguilares Tinto is a red wine from Cortijo Los Aguilares, made under the DO Málaga-Sierras de Málaga appellation in Spain.",
+    "fr": "Cortijo Los Aguilares Tinto est un vin rouge de Cortijo Los Aguilares, élaboré sous l’appellation DO Málaga-Sierras de Málaga (Espagne).",
+    "it": "Cortijo Los Aguilares Tinto è un vino rosso di Cortijo Los Aguilares, prodotto nella denominazione DO Málaga-Sierras de Málaga (Spagna)."
+  },
+  "body": {
+    "es": "<p>Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 14 % vol.</p>",
+    "en": "<p>It is a young wine, meant to be drunk in its first years. It has 14% ABV.</p>",
+    "fr": "<p>C’est un vin jeune, à boire dans ses premières années. Il titre 14 % vol.</p>",
+    "it": "<p>È un vino giovane, da bere nei primi anni. Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Cortijo Los Aguilares Tinto Cortijo Los Aguilares",
+  "brief": true,
+  "source": "decantalo"
+}

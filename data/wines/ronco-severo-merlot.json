@@ -1,0 +1,42 @@
+{
+  "slug": "ronco-severo-merlot",
+  "name": "Ronco Severo Merlot",
+  "winery": null,
+  "winery_name": "Ronco Severo",
+  "region": null,
+  "country": "italia",
+  "appellation": "DOP Colli Orientali del Friuli",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "merlot"
+  ],
+  "summary": {
+    "es": "Ronco Severo Merlot es un vino tinto de Ronco Severo, con la denominación DOP Colli Orientali del Friuli, en Italia.",
+    "en": "Ronco Severo Merlot is a red wine from Ronco Severo, made under the DOP Colli Orientali del Friuli appellation in Italy.",
+    "fr": "Ronco Severo Merlot est un vin rouge de Ronco Severo, élaboré sous l’appellation DOP Colli Orientali del Friuli (Italie).",
+    "it": "Ronco Severo Merlot è un vino rosso di Ronco Severo, prodotto nella denominazione DOP Colli Orientali del Friuli (Italia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Merlot. Tiene crianza en madera. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is made from Merlot. It is aged in wood. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Merlot. Il est élevé en bois. Il titre 13,5 % vol.</p>",
+    "it": "<p>È prodotto con Merlot. È affinato in legno. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Ronco Severo Merlot Ronco Severo",
+  "brief": true,
+  "source": "decantalo"
+}

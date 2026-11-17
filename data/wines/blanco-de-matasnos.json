@@ -1,0 +1,40 @@
+{
+  "slug": "blanco-de-matasnos",
+  "name": "Blanco de Matasnos",
+  "winery": null,
+  "winery_name": "Bosque de Matasnos",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Castilla y León",
+  "type": "espumoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Blanco de Matasnos es un vino espumoso de Bosque de Matasnos, con la denominación VT Castilla y León, en España.",
+    "en": "Blanco de Matasnos is a sparkling wine from Bosque de Matasnos, made under the VT Castilla y León appellation in Spain.",
+    "fr": "Blanco de Matasnos est un vin effervescent de Bosque de Matasnos, élaboré sous l’appellation VT Castilla y León (Espagne).",
+    "it": "Blanco de Matasnos è un vino spumante di Bosque de Matasnos, prodotto nella denominazione VT Castilla y León (Spagna)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 14,5 % vol.</p>",
+    "en": "<p>It has 14.5% ABV.</p>",
+    "fr": "<p>Il titre 14,5 % vol.</p>",
+    "it": "<p>Ha 14,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Blanco de Matasnos Bosque de Matasnos",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "chateau-grange-cochard-les-charmes",
+  "name": "Château Grange Cochard Les Charmes",
+  "winery": null,
+  "winery_name": "Château Grange Cochard",
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Morgon",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Château Grange Cochard Les Charmes es un vino tinto de Château Grange Cochard, con la denominación AOC Morgon, en Francia.",
+    "en": "Château Grange Cochard Les Charmes is a red wine from Château Grange Cochard, made under the AOC Morgon appellation in France.",
+    "fr": "Château Grange Cochard Les Charmes est un vin rouge de Château Grange Cochard, élaboré sous l’appellation AOC Morgon (France).",
+    "it": "Château Grange Cochard Les Charmes è un vino rosso di Château Grange Cochard, prodotto nella denominazione AOC Morgon (Francia)."
+  },
+  "body": {
+    "es": "<p>Se cría en depósitos de hormigón. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is aged in concrete vats. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élevé en cuves béton. Il titre 13,5 % vol.</p>",
+    "it": "<p>Affina in vasche di cemento. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Château Grange Cochard Les Charmes Château Grange Cochard",
+  "brief": true,
+  "source": "decantalo"
+}

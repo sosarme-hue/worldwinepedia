@@ -1,0 +1,40 @@
+{
+  "slug": "mar-de-frades-brut-nature",
+  "name": "Mar de Frades Brut Nature",
+  "winery": "mar-de-frades",
+  "winery_name": null,
+  "region": null,
+  "country": "espana",
+  "appellation": null,
+  "type": "espumoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Mar de Frades Brut Nature es un vino espumoso de Mar de Frades, en España.",
+    "en": "Mar de Frades Brut Nature is a sparkling wine from Mar de Frades in Spain.",
+    "fr": "Mar de Frades Brut Nature est un vin effervescent de Mar de Frades (Espagne).",
+    "it": "Mar de Frades Brut Nature è un vino spumante di Mar de Frades (Spagna)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 11,5 % vol.</p><p>Bodega del Val do Salnés dedicada al Albariño, cuyo blanco se reconoce por su botella azul y por una etiqueta en la que aparece un barco cuando el vino alcanza la temperatura de servicio.</p>",
+    "en": "<p>It has 11.5% ABV.</p><p>Winery in the Val do Salnés devoted to Albariño, whose white is recognisable by its blue bottle and by a label on which a ship appears when the wine reaches serving temperature.</p>",
+    "fr": "<p>Il titre 11,5 % vol.</p><p>Bodega du Val do Salnés consacrée à l’albariño, dont le blanc se reconnaît à sa bouteille bleue et à une étiquette où apparaît un bateau lorsque le vin atteint sa température de service.</p>",
+    "it": "<p>Ha 11,5% vol.</p><p>Cantina della Val do Salnés dedicata all’Albariño, il cui bianco si riconosce per la bottiglia blu e per un’etichetta su cui appare una nave quando il vino raggiunge la temperatura di servizio.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Mar de Frades Brut Nature Mar de Frades",
+  "brief": true,
+  "source": "decantalo"
+}

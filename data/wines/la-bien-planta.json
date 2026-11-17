@@ -1,0 +1,42 @@
+{
+  "slug": "la-bien-planta",
+  "name": "La Bien Plantá",
+  "winery": null,
+  "winery_name": "Atalaya",
+  "region": "almansa",
+  "country": "espana",
+  "appellation": "DO Almansa",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "La Bien Plantá es un vino tinto de Atalaya, con la denominación DO Almansa, en España.",
+    "en": "La Bien Plantá is a red wine from Atalaya, made under the DO Almansa appellation in Spain.",
+    "fr": "La Bien Plantá est un vin rouge de Atalaya, élaboré sous l’appellation DO Almansa (Espagne).",
+    "it": "La Bien Plantá è un vino rosso di Atalaya, prodotto nella denominazione DO Almansa (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 12,5 % vol.</p><p>Almansa es una denominación de origen del sureste de la provincia de Albacete, en Castilla-La Mancha, en el límite con la Comunidad Valenciana y la Región de Murcia. Su uva más característica es la Garnacha Tintorera, una de las pocas variedades tintas de pulpa coloreada, junto a la Monastrell.</p>",
+    "en": "<p>It is made from Grenache. It is a young wine, meant to be drunk in its first years. It has 12.5% ABV.</p><p>Almansa is a designation of origin in the south-east of the province of Albacete, in Castilla-La Mancha, on the border with the Valencian Community and the Region of Murcia. Its most characteristic grape is Garnacha Tintorera, one of the few red varieties with coloured flesh, together with Monastrell.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. C’est un vin jeune, à boire dans ses premières années. Il titre 12,5 % vol.</p><p>Almansa est une dénomination d'origine du sud-est de la province d'Albacete, en Castille-La Manche, à la limite de la Communauté valencienne et de la Région de Murcie. Son cépage le plus caractéristique est la garnacha tintorera (alicante bouschet), l'un des rares cépages noirs à pulpe colorée, aux côtés du monastrell.</p>",
+    "it": "<p>È prodotto con Grenache. È un vino giovane, da bere nei primi anni. Ha 12,5% vol.</p><p>Almansa è una denominazione di origine del sud-est della provincia di Albacete, in Castiglia-La Mancia, al confine con la Comunità Valenciana e la Regione di Murcia. La sua uva più caratteristica è la Garnacha Tintorera, uno dei pochi vitigni rossi a polpa colorata, insieme al Monastrell.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "La Bien Plantá Atalaya",
+  "brief": true,
+  "source": "decantalo"
+}

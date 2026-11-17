@@ -1,0 +1,40 @@
+{
+  "slug": "sclavos-orgion",
+  "name": "Sclavos Orgion",
+  "winery": null,
+  "winery_name": "Sclavos",
+  "region": null,
+  "country": "grecia",
+  "appellation": "Cefalonia",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Sclavos Orgion es un vino tinto de Sclavos, con la denominación Cefalonia, en Grecia.",
+    "en": "Sclavos Orgion is a red wine from Sclavos, made under the Cefalonia appellation in Greece.",
+    "fr": "Sclavos Orgion est un vin rouge de Sclavos, élaboré sous l’appellation Cefalonia (Grèce).",
+    "it": "Sclavos Orgion è un vino rosso di Sclavos, prodotto nella denominazione Cefalonia (Grecia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 13% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Sclavos Orgion Sclavos",
+  "brief": true,
+  "source": "decantalo"
+}

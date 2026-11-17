@@ -1,0 +1,42 @@
+{
+  "slug": "yoyo-la-tranchee",
+  "name": "Yoyo La Tranchée",
+  "winery": null,
+  "winery_name": "Yoyo",
+  "region": null,
+  "country": "francia",
+  "appellation": "Vin de France",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Yoyo La Tranchée es un vino tinto de Yoyo, con la denominación Vin de France, en Francia.",
+    "en": "Yoyo La Tranchée is a red wine from Yoyo, made under the Vin de France appellation in France.",
+    "fr": "Yoyo La Tranchée est un vin rouge de Yoyo, élaboré sous l’appellation Vin de France (France).",
+    "it": "Yoyo La Tranchée è un vino rosso di Yoyo, prodotto nella denominazione Vin de France (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Su graduación es de 14 % vol.</p>",
+    "en": "<p>It is made from Grenache. It has 14% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. Il titre 14 % vol.</p>",
+    "it": "<p>È prodotto con Grenache. Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Yoyo La Tranchée Yoyo",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "marques-de-caceres-gran-reserva",
+  "name": "Marqués de Cáceres Gran Reserva",
+  "winery": "marques-de-caceres",
+  "winery_name": null,
+  "region": "rioja",
+  "country": "espana",
+  "appellation": "DOCa Rioja",
+  "type": "tinto",
+  "category": {
+    "es": "Gran Reserva",
+    "en": "Gran Reserva",
+    "fr": "Gran Reserva",
+    "it": "Gran Reserva"
+  },
+  "grapes": [],
+  "summary": {
+    "es": "Marqués de Cáceres Gran Reserva es un vino tinto de Marqués de Cáceres, con la denominación DOCa Rioja, en España.",
+    "en": "Marqués de Cáceres Gran Reserva is a red wine from Marqués de Cáceres, made under the DOCa Rioja appellation in Spain.",
+    "fr": "Marqués de Cáceres Gran Reserva est un vin rouge de Marqués de Cáceres, élaboré sous l’appellation DOCa Rioja (Espagne).",
+    "it": "Marqués de Cáceres Gran Reserva è un vino rosso di Marqués de Cáceres, prodotto nella denominazione DOCa Rioja (Spagna)."
+  },
+  "body": {
+    "es": "<p>Lleva la mención Gran Reserva. Su graduación es de 12,5 % vol.</p><p>Bodega de Cenicero fundada en 1970 por Enrique Forner, que introdujo en Rioja técnicas de vinificación de inspiración bordelesa y hoy es una de las marcas riojanas más conocidas fuera de España.</p><p>Rioja, en el valle del Ebro, fue en 1991 la primera Denominación de Origen Calificada de España. Es conocida sobre todo por sus tintos de Tempranillo y por su larga tradición de crianza en barrica de roble.</p>",
+    "en": "<p>It carries the Gran Reserva designation. It has 12.5% ABV.</p><p>Winery in Cenicero founded in 1970 by Enrique Forner, who brought Bordeaux-inspired winemaking techniques to Rioja; it is now one of the best-known Rioja brands outside Spain.</p><p>Rioja, in the Ebro valley, became Spain's first Qualified Designation of Origin in 1991. It is best known for its Tempranillo-based reds and its long tradition of ageing in oak barrels.</p>",
+    "fr": "<p>Il porte la mention Gran Reserva. Il titre 12,5 % vol.</p><p>Bodega de Cenicero fondée en 1970 par Enrique Forner, qui introduisit dans la Rioja des techniques de vinification d’inspiration bordelaise ; c’est aujourd’hui l’une des marques de Rioja les plus connues hors d’Espagne.</p><p>La Rioja, dans la vallée de l'Èbre, est devenue en 1991 la première dénomination d'origine qualifiée d'Espagne. Elle est surtout connue pour ses rouges à base de tempranillo et sa longue tradition d'élevage en barrique de chêne.</p>",
+    "it": "<p>Riporta la menzione Gran Reserva. Ha 12,5% vol.</p><p>Cantina di Cenicero fondata nel 1970 da Enrique Forner, che portò in Rioja tecniche di vinificazione di ispirazione bordolese; oggi è uno dei marchi della Rioja più conosciuti fuori dalla Spagna.</p><p>La Rioja, nella valle dell'Ebro, è diventata nel 1991 la prima Denominazione di origine qualificata di Spagna. È nota soprattutto per i rossi a base di Tempranillo e per la lunga tradizione di affinamento in botte di rovere.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Marqués de Cáceres Gran Reserva Marqués de Cáceres",
+  "brief": true,
+  "source": "decantalo"
+}

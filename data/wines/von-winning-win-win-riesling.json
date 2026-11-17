@@ -1,0 +1,42 @@
+{
+  "slug": "von-winning-win-win-riesling",
+  "name": "Von Winning Win Win Riesling",
+  "winery": null,
+  "winery_name": "Von Winning",
+  "region": null,
+  "country": "alemania",
+  "appellation": "VDP Gutswein",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "riesling"
+  ],
+  "summary": {
+    "es": "Von Winning Win Win Riesling es un vino blanco de Von Winning, con la denominación VDP Gutswein, en Alemania.",
+    "en": "Von Winning Win Win Riesling is a white wine from Von Winning, made under the VDP Gutswein appellation in Germany.",
+    "fr": "Von Winning Win Win Riesling est un vin blanc de Von Winning, élaboré sous l’appellation VDP Gutswein (Allemagne).",
+    "it": "Von Winning Win Win Riesling è un vino bianco di Von Winning, prodotto nella denominazione VDP Gutswein (Germania)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Riesling. Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 12 % vol.</p>",
+    "en": "<p>It is made from Riesling. It is a young wine, meant to be drunk in its first years. It has 12% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Riesling. C’est un vin jeune, à boire dans ses premières années. Il titre 12 % vol.</p>",
+    "it": "<p>È prodotto con Riesling Renano. È un vino giovane, da bere nei primi anni. Ha 12% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Von Winning Win Win Riesling Von Winning",
+  "brief": true,
+  "source": "decantalo"
+}

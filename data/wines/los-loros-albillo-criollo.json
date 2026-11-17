@@ -1,0 +1,40 @@
+{
+  "slug": "los-loros-albillo-criollo",
+  "name": "Los Loros Albillo Criollo",
+  "winery": null,
+  "winery_name": "Juan Fco. Fariña Pérez",
+  "region": null,
+  "country": "espana",
+  "appellation": "DO Valle de Guímar",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Los Loros Albillo Criollo es un vino blanco de Juan Fco. Fariña Pérez, con la denominación DO Valle de Guímar, en España.",
+    "en": "Los Loros Albillo Criollo is a white wine from Juan Fco. Fariña Pérez, made under the DO Valle de Guímar appellation in Spain.",
+    "fr": "Los Loros Albillo Criollo est un vin blanc de Juan Fco. Fariña Pérez, élaboré sous l’appellation DO Valle de Guímar (Espagne).",
+    "it": "Los Loros Albillo Criollo è un vino bianco di Juan Fco. Fariña Pérez, prodotto nella denominazione DO Valle de Guímar (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 12 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 12% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 12 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 12% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Los Loros Albillo Criollo Juan Fco. Fariña Pérez",
+  "brief": true,
+  "source": "decantalo"
+}

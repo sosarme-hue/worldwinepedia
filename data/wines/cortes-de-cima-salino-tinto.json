@@ -1,0 +1,42 @@
+{
+  "slug": "cortes-de-cima-salino-tinto",
+  "name": "Cortes de Cima Salino Tinto",
+  "winery": null,
+  "winery_name": "Cortes de Cima",
+  "region": "alentejo",
+  "country": "portugal",
+  "appellation": "Vinho Regional Alentejo",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Cortes de Cima Salino Tinto es un vino tinto de Cortes de Cima, con la denominación Vinho Regional Alentejo, en Portugal.",
+    "en": "Cortes de Cima Salino Tinto is a red wine from Cortes de Cima, made under the Vinho Regional Alentejo appellation in Portugal.",
+    "fr": "Cortes de Cima Salino Tinto est un vin rouge de Cortes de Cima, élaboré sous l’appellation Vinho Regional Alentejo (Portugal).",
+    "it": "Cortes de Cima Salino Tinto è un vino rosso di Cortes de Cima, prodotto nella denominazione Vinho Regional Alentejo (Portogallo)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Cabernet Franc. Se cría en depósitos de acero inoxidable. Su graduación es de 12,5 % vol.</p><p>El Alentejo, la gran llanura cálida del sur de Portugal, produce sobre todo tintos maduros y afrutados y blancos amplios, y conserva la antigua tradición de fermentar el vino en tinajas de barro.</p>",
+    "en": "<p>It is made from Cabernet Franc. It is aged in stainless steel tanks. It has 12.5% ABV.</p><p>The Alentejo, the great warm plain of southern Portugal, produces mainly ripe, fruity reds and broad whites, and keeps alive the ancient tradition of fermenting wine in clay amphorae.</p>",
+    "fr": "<p>Il est élaboré à partir de Cabernet Franc. Il est élevé en cuves inox. Il titre 12,5 % vol.</p><p>L’Alentejo, la grande plaine chaude du sud du Portugal, produit surtout des rouges mûrs et fruités et des blancs amples, et perpétue l’antique tradition de la fermentation en jarres de terre cuite.</p>",
+    "it": "<p>È prodotto con Cabernet Franc. Affina in acciaio inox. Ha 12,5% vol.</p><p>L’Alentejo, la grande pianura calda del sud del Portogallo, produce soprattutto rossi maturi e fruttati e bianchi ampi, e conserva l’antica tradizione di fermentare il vino in giare di terracotta.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Cortes de Cima Salino Tinto Cortes de Cima",
+  "brief": true,
+  "source": "decantalo"
+}

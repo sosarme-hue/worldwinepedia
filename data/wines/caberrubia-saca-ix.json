@@ -1,0 +1,40 @@
+{
+  "slug": "caberrubia-saca-ix",
+  "name": "Caberrubia Saca IX",
+  "winery": null,
+  "winery_name": "Bodegas Luis Pérez",
+  "region": null,
+  "country": "espana",
+  "appellation": "Vino de España",
+  "type": "generoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Caberrubia Saca IX es un vino generoso de Bodegas Luis Pérez, con la denominación Vino de España, en España.",
+    "en": "Caberrubia Saca IX is a fortified wine from Bodegas Luis Pérez, made under the Vino de España appellation in Spain.",
+    "fr": "Caberrubia Saca IX est un vin fortifié de Bodegas Luis Pérez, élaboré sous l’appellation Vino de España (Espagne).",
+    "it": "Caberrubia Saca IX è un vino liquoroso di Bodegas Luis Pérez, prodotto nella denominazione Vino de España (Spagna)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 14,5 % vol.</p>",
+    "en": "<p>It has 14.5% ABV.</p>",
+    "fr": "<p>Il titre 14,5 % vol.</p>",
+    "it": "<p>Ha 14,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, jamón, frutos secos, quesos curados",
+    "en": "Aperitif, cured ham, nuts, aged cheeses",
+    "fr": "Apéritif, jambon sec, fruits secs, fromages affinés",
+    "it": "Aperitivo, prosciutto crudo, frutta secca, formaggi stagionati"
+  },
+  "serve": {
+    "es": "7-14 °C según el tipo, catavino",
+    "en": "7-14 °C depending on style, copita glass",
+    "fr": "7-14 °C selon le style, verre à xérès",
+    "it": "7-14 °C secondo lo stile, bicchiere da sherry"
+  },
+  "search": "Caberrubia Saca IX Bodegas Luis Pérez",
+  "brief": true,
+  "source": "decantalo"
+}

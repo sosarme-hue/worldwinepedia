@@ -1,0 +1,40 @@
+{
+  "slug": "bott-first-flight-syrah",
+  "name": "Bott First Flight Syrah",
+  "winery": null,
+  "winery_name": "Graeme & Julie Bott",
+  "region": null,
+  "country": "francia",
+  "appellation": "IGP Collines Rhodaniennes",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Bott First Flight Syrah es un vino tinto de Graeme & Julie Bott, con la denominación IGP Collines Rhodaniennes, en Francia.",
+    "en": "Bott First Flight Syrah is a red wine from Graeme & Julie Bott, made under the IGP Collines Rhodaniennes appellation in France.",
+    "fr": "Bott First Flight Syrah est un vin rouge de Graeme & Julie Bott, élaboré sous l’appellation IGP Collines Rhodaniennes (France).",
+    "it": "Bott First Flight Syrah è un vino rosso di Graeme & Julie Bott, prodotto nella denominazione IGP Collines Rhodaniennes (Francia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 12,5 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Bott First Flight Syrah Graeme & Julie Bott",
+  "brief": true,
+  "source": "decantalo"
+}

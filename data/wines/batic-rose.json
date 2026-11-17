@@ -1,0 +1,42 @@
+{
+  "slug": "batic-rose",
+  "name": "Batič Rosé",
+  "winery": null,
+  "winery_name": "Batič",
+  "region": null,
+  "country": "eslovenia",
+  "appellation": "Valle de Vipava",
+  "type": "rosado",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "Batič Rosé es un vino rosado de Batič, con la denominación Valle de Vipava, en Eslovenia.",
+    "en": "Batič Rosé is a rosé wine from Batič, made under the Valle de Vipava appellation in Slovenia.",
+    "fr": "Batič Rosé est un vin rosé de Batič, élaboré sous l’appellation Valle de Vipava (Slovénie).",
+    "it": "Batič Rosé è un vino rosato di Batič, prodotto nella denominazione Valle de Vipava (Slovenia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Cabernet Sauvignon. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is made from Cabernet Sauvignon. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Cabernet Sauvignon. Il titre 13,5 % vol.</p>",
+    "it": "<p>È prodotto con Cabernet Sauvignon. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, ensaladas, arroces, pescados",
+    "en": "Aperitif, salads, rice dishes, fish",
+    "fr": "Apéritif, salades, plats de riz, poissons",
+    "it": "Aperitivo, insalate, risotti, pesce"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Batič Rosé Batič",
+  "brief": true,
+  "source": "decantalo"
+}

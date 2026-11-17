@@ -1,0 +1,40 @@
+{
+  "slug": "chateau-potensac",
+  "name": "Château Potensac",
+  "winery": null,
+  "winery_name": "Château Potensac",
+  "region": "medoc",
+  "country": "francia",
+  "appellation": "Médoc",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Château Potensac es un vino tinto de Château Potensac, con la denominación Médoc, en Francia.",
+    "en": "Château Potensac is a red wine from Château Potensac, made under the Médoc appellation in France.",
+    "fr": "Château Potensac est un vin rouge de Château Potensac, élaboré sous l’appellation Médoc (France).",
+    "it": "Château Potensac è un vino rosso di Château Potensac, prodotto nella denominazione Médoc (Francia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13,5 % vol.</p><p>El Médoc es la península de la orilla izquierda de la Gironda, al norte de la ciudad de Burdeos. Sus suelos de grava y sus tintos dominados por la Cabernet Sauvignon dieron lugar a la mayoría de los vinos de la clasificación de 1855.</p>",
+    "en": "<p>It is aged in wood. It has 13.5% ABV.</p><p>The Médoc is the peninsula on the left bank of the Gironde, north of the city of Bordeaux. Its gravel soils and Cabernet Sauvignon-dominated reds account for most of the wines in the 1855 classification.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13,5 % vol.</p><p>Le Médoc est la presqu'île de la rive gauche de la Gironde, au nord de la ville de Bordeaux. Ses sols de graves et ses rouges dominés par le cabernet-sauvignon fournissent l'essentiel des vins du classement de 1855.</p>",
+    "it": "<p>È affinato in legno. Ha 13,5% vol.</p><p>Il Médoc è la penisola sulla riva sinistra della Gironda, a nord della città di Bordeaux. I suoi suoli ghiaiosi e i rossi dominati dal Cabernet Sauvignon costituiscono la maggior parte dei vini della classificazione del 1855.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Château Potensac Château Potensac",
+  "brief": true,
+  "source": "decantalo"
+}

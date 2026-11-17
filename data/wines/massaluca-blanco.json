@@ -1,0 +1,40 @@
+{
+  "slug": "massaluca-blanco",
+  "name": "Massaluca Blanco",
+  "winery": null,
+  "winery_name": "Massaluca",
+  "region": "terra-alta",
+  "country": "espana",
+  "appellation": "DO Terra Alta",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Massaluca Blanco es un vino blanco de Massaluca, con la denominación DO Terra Alta, en España.",
+    "en": "Massaluca Blanco is a white wine from Massaluca, made under the DO Terra Alta appellation in Spain.",
+    "fr": "Massaluca Blanco est un vin blanc de Massaluca, élaboré sous l’appellation DO Terra Alta (Espagne).",
+    "it": "Massaluca Blanco è un vino bianco di Massaluca, prodotto nella denominazione DO Terra Alta (Spagna)."
+  },
+  "body": {
+    "es": "<p>Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 12,5 % vol.</p><p>Terra Alta es una denominación de origen del extremo occidental de la provincia de Tarragona, en torno a Gandesa. Es especialmente conocida por sus blancos de Garnacha Blanca, aunque elabora también tintos de Garnacha y Cariñena y vinos rancios y dulces tradicionales.</p>",
+    "en": "<p>It is a young wine, meant to be drunk in its first years. It has 12.5% ABV.</p><p>Terra Alta is a designation of origin in the far west of the province of Tarragona, around Gandesa. It is particularly known for its White Grenache whites, although it also makes Grenache and Carignan reds and traditional rancio and sweet wines.</p>",
+    "fr": "<p>C’est un vin jeune, à boire dans ses premières années. Il titre 12,5 % vol.</p><p>Terra Alta est une dénomination d'origine de l'extrémité occidentale de la province de Tarragone, autour de Gandesa. Elle est surtout connue pour ses blancs de grenache blanc, mais produit aussi des rouges de grenache et de carignan ainsi que des vins rancios et doux traditionnels.</p>",
+    "it": "<p>È un vino giovane, da bere nei primi anni. Ha 12,5% vol.</p><p>Terra Alta è una denominazione di origine dell'estremo ovest della provincia di Tarragona, attorno a Gandesa. È nota soprattutto per i bianchi di Garnacha Blanca, ma produce anche rossi di Garnacha e Carignano e vini rancio e dolci tradizionali.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Massaluca Blanco Massaluca",
+  "brief": true,
+  "source": "decantalo"
+}

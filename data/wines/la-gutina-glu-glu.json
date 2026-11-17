@@ -1,0 +1,42 @@
+{
+  "slug": "la-gutina-glu-glu",
+  "name": "La Gutina Glu Glu",
+  "winery": null,
+  "winery_name": "La Gutina",
+  "region": "emporda",
+  "country": "espana",
+  "appellation": "Empordà",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "La Gutina Glu Glu es un vino tinto de La Gutina, con la denominación Empordà, en España.",
+    "en": "La Gutina Glu Glu is a red wine from La Gutina, made under the Empordà appellation in Spain.",
+    "fr": "La Gutina Glu Glu est un vin rouge de La Gutina, élaboré sous l’appellation Empordà (Espagne).",
+    "it": "La Gutina Glu Glu è un vino rosso di La Gutina, prodotto nella denominazione Empordà (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 12,9 % vol.</p><p>Empordà es la denominación de origen del noreste de Cataluña, en la provincia de Girona, entre los Pirineos y el Mediterráneo. Marcada por el viento de tramontana, elabora tintos de Cariñena y Garnacha, blancos y el vino dulce tradicional Garnatxa de l'Empordà.</p>",
+    "en": "<p>It is made from Grenache. It is a young wine, meant to be drunk in its first years. It has 12.9% ABV.</p><p>Empordà is the designation of origin of north-eastern Catalonia, in the province of Girona, between the Pyrenees and the Mediterranean. Shaped by the tramontana wind, it produces Carignan and Grenache reds, whites and the traditional sweet wine Garnatxa de l'Empordà.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. C’est un vin jeune, à boire dans ses premières années. Il titre 12,9 % vol.</p><p>L'Empordà est la dénomination d'origine du nord-est de la Catalogne, dans la province de Gérone, entre les Pyrénées et la Méditerranée. Marquée par la tramontane, elle produit des rouges de carignan et de grenache, des blancs et le vin doux traditionnel Garnatxa de l'Empordà.</p>",
+    "it": "<p>È prodotto con Grenache. È un vino giovane, da bere nei primi anni. Ha 12,9% vol.</p><p>L'Empordà è la denominazione di origine della Catalogna nord-orientale, nella provincia di Girona, tra i Pirenei e il Mediterraneo. Segnata dal vento di tramontana, produce rossi di Carignano e Garnacha, bianchi e il vino dolce tradizionale Garnatxa de l'Empordà.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "La Gutina Glu Glu La Gutina",
+  "brief": true,
+  "source": "decantalo"
+}

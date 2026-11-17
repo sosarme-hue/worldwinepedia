@@ -1,0 +1,42 @@
+{
+  "slug": "impromptu-sauvignon-blanc",
+  "name": "Impromptu Sauvignon Blanc",
+  "winery": null,
+  "winery_name": "Hispano-Suizas",
+  "region": "valencia",
+  "country": "espana",
+  "appellation": "DO Valencia",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "sauvignon-blanc"
+  ],
+  "summary": {
+    "es": "Impromptu Sauvignon Blanc es un vino blanco de Hispano-Suizas, con la denominación DO Valencia, en España.",
+    "en": "Impromptu Sauvignon Blanc is a white wine from Hispano-Suizas, made under the DO Valencia appellation in Spain.",
+    "fr": "Impromptu Sauvignon Blanc est un vin blanc de Hispano-Suizas, élaboré sous l’appellation DO Valencia (Espagne).",
+    "it": "Impromptu Sauvignon Blanc è un vino bianco di Hispano-Suizas, prodotto nella denominazione DO Valencia (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Sauvignon Blanc. Fermenta en barrica. Su graduación es de 13,5 % vol.</p><p>Valencia es una denominación de origen de la Comunidad Valenciana que abarca distintas comarcas de la provincia de Valencia, organizadas en subzonas. Es conocida por su Moscatel de Valencia, un vino dulce de tradición centenaria, y produce además blancos, rosados y tintos de estilo mediterráneo.</p>",
+    "en": "<p>It is made from Sauvignon Blanc. It is fermented in barrel. It has 13.5% ABV.</p><p>Valencia is a designation of origin in the Valencian Community that covers various districts of the province of Valencia, organised into subzones. It is known for its Moscatel de Valencia, a sweet wine with a centuries-old tradition, and also produces Mediterranean-style whites, rosés and reds.</p>",
+    "fr": "<p>Il est élaboré à partir de Sauvignon Blanc. Il est fermenté en barrique. Il titre 13,5 % vol.</p><p>Valencia est une dénomination d'origine de la Communauté valencienne qui couvre plusieurs contrées de la province de Valence, organisées en sous-zones. Elle est connue pour son Moscatel de Valencia, un vin doux de tradition séculaire, et produit aussi des blancs, des rosés et des rouges de style méditerranéen.</p>",
+    "it": "<p>È prodotto con Sauvignon Blanc. Fermenta in barrique. Ha 13,5% vol.</p><p>Valencia è una denominazione di origine della Comunità Valenciana che comprende diverse comarche della provincia di Valencia, organizzate in sottozone. È nota per il suo Moscatel de Valencia, un vino dolce di tradizione secolare, e produce inoltre bianchi, rosati e rossi di stile mediterraneo.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Impromptu Sauvignon Blanc Hispano-Suizas",
+  "brief": true,
+  "source": "decantalo"
+}

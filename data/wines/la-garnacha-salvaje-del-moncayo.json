@@ -1,0 +1,42 @@
+{
+  "slug": "la-garnacha-salvaje-del-moncayo",
+  "name": "La Garnacha Salvaje del Moncayo",
+  "winery": null,
+  "winery_name": "Proyecto Garnachas de España",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Ribera del Queiles",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "La Garnacha Salvaje del Moncayo es un vino tinto de Proyecto Garnachas de España, con la denominación VT Ribera del Queiles, en España.",
+    "en": "La Garnacha Salvaje del Moncayo is a red wine from Proyecto Garnachas de España, made under the VT Ribera del Queiles appellation in Spain.",
+    "fr": "La Garnacha Salvaje del Moncayo est un vin rouge de Proyecto Garnachas de España, élaboré sous l’appellation VT Ribera del Queiles (Espagne).",
+    "it": "La Garnacha Salvaje del Moncayo è un vino rosso di Proyecto Garnachas de España, prodotto nella denominazione VT Ribera del Queiles (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Tiene crianza en madera. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is made from Grenache. It is aged in wood. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. Il est élevé en bois. Il titre 13,5 % vol.</p>",
+    "it": "<p>È prodotto con Grenache. È affinato in legno. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "La Garnacha Salvaje del Moncayo Proyecto Garnachas de España",
+  "brief": true,
+  "source": "decantalo"
+}

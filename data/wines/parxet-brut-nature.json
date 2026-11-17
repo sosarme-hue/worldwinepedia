@@ -1,0 +1,40 @@
+{
+  "slug": "parxet-brut-nature",
+  "name": "Parxet Brut Nature",
+  "winery": null,
+  "winery_name": "Parxet",
+  "region": null,
+  "country": "espana",
+  "appellation": null,
+  "type": "espumoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Parxet Brut Nature es un vino espumoso de Parxet, en España.",
+    "en": "Parxet Brut Nature is a sparkling wine from Parxet in Spain.",
+    "fr": "Parxet Brut Nature est un vin effervescent de Parxet (Espagne).",
+    "it": "Parxet Brut Nature è un vino spumante di Parxet (Spagna)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 11,5 % vol.</p>",
+    "en": "<p>It has 11.5% ABV.</p>",
+    "fr": "<p>Il titre 11,5 % vol.</p>",
+    "it": "<p>Ha 11,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Parxet Brut Nature Parxet",
+  "brief": true,
+  "source": "decantalo"
+}

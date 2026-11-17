@@ -1,0 +1,40 @@
+{
+  "slug": "mascorrubi-captirot",
+  "name": "Mascorrubí Captirot",
+  "winery": null,
+  "winery_name": "Heredad Mascorrubí",
+  "region": "catalunya",
+  "country": "espana",
+  "appellation": "DO Catalunya",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Mascorrubí Captirot es un vino tinto de Heredad Mascorrubí, con la denominación DO Catalunya, en España.",
+    "en": "Mascorrubí Captirot is a red wine from Heredad Mascorrubí, made under the DO Catalunya appellation in Spain.",
+    "fr": "Mascorrubí Captirot est un vin rouge de Heredad Mascorrubí, élaboré sous l’appellation DO Catalunya (Espagne).",
+    "it": "Mascorrubí Captirot è un vino rosso di Heredad Mascorrubí, prodotto nella denominazione DO Catalunya (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14,5 % vol.</p><p>Catalunya es una denominación de origen de ámbito regional que abarca la mayor parte del viñedo catalán y permite elaborar vinos con uvas procedentes de distintas comarcas. Es la denominación de muchos vinos de gran volumen de las principales bodegas de Cataluña, junto a otros más singulares.</p>",
+    "en": "<p>It is aged in wood. It has 14.5% ABV.</p><p>Catalunya is a region-wide designation of origin that covers most of the Catalan vineyard and allows wines to be made from grapes sourced in different districts. It is the designation of many high-volume wines from Catalonia's leading wineries, alongside more distinctive ones.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14,5 % vol.</p><p>Catalunya est une dénomination d'origine de portée régionale qui couvre la majeure partie du vignoble catalan et permet d'élaborer des vins avec des raisins provenant de différentes contrées. C'est l'appellation de nombreux vins de grand volume des principales caves de Catalogne, à côté d'autres plus singuliers.</p>",
+    "it": "<p>È affinato in legno. Ha 14,5% vol.</p><p>Catalunya è una denominazione di origine di ambito regionale che comprende la maggior parte dei vigneti catalani e consente di produrre vini con uve provenienti da diverse comarche. È la denominazione di molti vini di grande volume delle principali cantine della Catalogna, accanto ad altri più particolari.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Mascorrubí Captirot Heredad Mascorrubí",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "el-nispero",
+  "name": "El Níspero",
+  "winery": null,
+  "winery_name": "El Níspero",
+  "region": "la-palma",
+  "country": "espana",
+  "appellation": "DO La Palma",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "El Níspero es un vino blanco de El Níspero, con la denominación DO La Palma, en España.",
+    "en": "El Níspero is a white wine from El Níspero, made under the DO La Palma appellation in Spain.",
+    "fr": "El Níspero est un vin blanc de El Níspero, élaboré sous l’appellation DO La Palma (Espagne).",
+    "it": "El Níspero è un vino bianco di El Níspero, prodotto nella denominazione DO La Palma (Spagna)."
+  },
+  "body": {
+    "es": "<p>Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 12,5 % vol.</p><p>La Palma es la denominación de origen de la isla canaria del mismo nombre, dividida en tres subzonas: Fuencaliente, Hoyo de Mazo y Norte de La Palma. Es conocida por la Malvasía dulce de Fuencaliente, cultivada sobre ceniza volcánica, y por el vino de tea, criado en madera de pino canario.</p>",
+    "en": "<p>It is a young wine, meant to be drunk in its first years. It has 12.5% ABV.</p><p>La Palma is the designation of origin of the Canary island of the same name, divided into three subzones: Fuencaliente, Hoyo de Mazo and Norte de La Palma. It is known for the sweet Malvasía of Fuencaliente, grown on volcanic ash, and for vino de tea, aged in Canary pine wood.</p>",
+    "fr": "<p>C’est un vin jeune, à boire dans ses premières années. Il titre 12,5 % vol.</p><p>La Palma est la dénomination d'origine de l'île canarienne du même nom, divisée en trois sous-zones : Fuencaliente, Hoyo de Mazo et Norte de La Palma. Elle est connue pour la malvasía douce de Fuencaliente, cultivée sur la cendre volcanique, et pour le vino de tea, élevé dans du bois de pin des Canaries.</p>",
+    "it": "<p>È un vino giovane, da bere nei primi anni. Ha 12,5% vol.</p><p>La Palma è la denominazione di origine dell'omonima isola delle Canarie, divisa in tre sottozone: Fuencaliente, Hoyo de Mazo e Norte de La Palma. È nota per la Malvasía dolce di Fuencaliente, coltivata sulla cenere vulcanica, e per il vino de tea, affinato in legno di pino delle Canarie.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "El Níspero El Níspero",
+  "brief": true,
+  "source": "decantalo"
+}

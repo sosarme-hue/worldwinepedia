@@ -1,0 +1,42 @@
+{
+  "slug": "domaine-bobinet-piak-blanc",
+  "name": "Domaine Bobinet Piak! Blanc",
+  "winery": null,
+  "winery_name": "Domaine Bobinet",
+  "region": null,
+  "country": "francia",
+  "appellation": "Vin de France",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Domaine Bobinet Piak! Blanc es un vino blanco de Domaine Bobinet, con la denominación Vin de France, en Francia.",
+    "en": "Domaine Bobinet Piak! Blanc is a white wine from Domaine Bobinet, made under the Vin de France appellation in France.",
+    "fr": "Domaine Bobinet Piak! Blanc est un vin blanc de Domaine Bobinet, élaboré sous l’appellation Vin de France (France).",
+    "it": "Domaine Bobinet Piak! Blanc è un vino bianco di Domaine Bobinet, prodotto nella denominazione Vin de France (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Cabernet Franc. Su graduación es de 12 % vol.</p>",
+    "en": "<p>It is made from Cabernet Franc. It has 12% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Cabernet Franc. Il titre 12 % vol.</p>",
+    "it": "<p>È prodotto con Cabernet Franc. Ha 12% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Domaine Bobinet Piak! Blanc Domaine Bobinet",
+  "brief": true,
+  "source": "decantalo"
+}

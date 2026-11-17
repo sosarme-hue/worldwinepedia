@@ -1,0 +1,40 @@
+{
+  "slug": "vara-y-pulgar",
+  "name": "Vara y Pulgar",
+  "winery": null,
+  "winery_name": "Compañía de Vinos del Atlántico",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Cádiz",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Vara y Pulgar es un vino tinto de Compañía de Vinos del Atlántico, con la denominación VT Cádiz, en España.",
+    "en": "Vara y Pulgar is a red wine from Compañía de Vinos del Atlántico, made under the VT Cádiz appellation in Spain.",
+    "fr": "Vara y Pulgar est un vin rouge de Compañía de Vinos del Atlántico, élaboré sous l’appellation VT Cádiz (Espagne).",
+    "it": "Vara y Pulgar è un vino rosso di Compañía de Vinos del Atlántico, prodotto nella denominazione VT Cádiz (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13,5 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Vara y Pulgar Compañía de Vinos del Atlántico",
+  "brief": true,
+  "source": "decantalo"
+}

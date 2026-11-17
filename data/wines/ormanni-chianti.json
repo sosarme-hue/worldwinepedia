@@ -1,0 +1,40 @@
+{
+  "slug": "ormanni-chianti",
+  "name": "Ormanni Chianti",
+  "winery": null,
+  "winery_name": "Fattoria Ormanni",
+  "region": null,
+  "country": "italia",
+  "appellation": "DOCG Chianti",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Ormanni Chianti es un vino tinto de Fattoria Ormanni, con la denominación DOCG Chianti, en Italia.",
+    "en": "Ormanni Chianti is a red wine from Fattoria Ormanni, made under the DOCG Chianti appellation in Italy.",
+    "fr": "Ormanni Chianti est un vin rouge de Fattoria Ormanni, élaboré sous l’appellation DOCG Chianti (Italie).",
+    "it": "Ormanni Chianti è un vino rosso di Fattoria Ormanni, prodotto nella denominazione DOCG Chianti (Italia)."
+  },
+  "body": {
+    "es": "<p>Se cría en depósitos de hormigón. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is aged in concrete vats. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élevé en cuves béton. Il titre 13,5 % vol.</p>",
+    "it": "<p>Affina in vasche di cemento. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Ormanni Chianti Fattoria Ormanni",
+  "brief": true,
+  "source": "decantalo"
+}

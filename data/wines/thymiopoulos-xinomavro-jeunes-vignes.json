@@ -1,0 +1,42 @@
+{
+  "slug": "thymiopoulos-xinomavro-jeunes-vignes",
+  "name": "Thymiopoulos Xinomavro Jeunes Vignes",
+  "winery": null,
+  "winery_name": "Apostolos Thymiopoulos",
+  "region": null,
+  "country": "grecia",
+  "appellation": "PDO Naoussa",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "xinomavro"
+  ],
+  "summary": {
+    "es": "Thymiopoulos Xinomavro Jeunes Vignes es un vino tinto de Apostolos Thymiopoulos, con la denominación PDO Naoussa, en Grecia.",
+    "en": "Thymiopoulos Xinomavro Jeunes Vignes is a red wine from Apostolos Thymiopoulos, made under the PDO Naoussa appellation in Greece.",
+    "fr": "Thymiopoulos Xinomavro Jeunes Vignes est un vin rouge de Apostolos Thymiopoulos, élaboré sous l’appellation PDO Naoussa (Grèce).",
+    "it": "Thymiopoulos Xinomavro Jeunes Vignes è un vino rosso di Apostolos Thymiopoulos, prodotto nella denominazione PDO Naoussa (Grecia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Xinomavro. Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 13 % vol.</p>",
+    "en": "<p>It is made from Xinomavro. It is a young wine, meant to be drunk in its first years. It has 13% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Xinomavro. C’est un vin jeune, à boire dans ses premières années. Il titre 13 % vol.</p>",
+    "it": "<p>È prodotto con Xinomavro. È un vino giovane, da bere nei primi anni. Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Thymiopoulos Xinomavro Jeunes Vignes Apostolos Thymiopoulos",
+  "brief": true,
+  "source": "decantalo"
+}

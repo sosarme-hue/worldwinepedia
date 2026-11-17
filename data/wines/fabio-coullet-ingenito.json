@@ -1,0 +1,42 @@
+{
+  "slug": "fabio-coullet-ingenito",
+  "name": "Fabio Coullet Ingénito",
+  "winery": null,
+  "winery_name": "Bodegas Fabio Coullet",
+  "region": null,
+  "country": "espana",
+  "appellation": "DO Málaga-Sierras de Málaga",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Fabio Coullet Ingénito es un vino tinto de Bodegas Fabio Coullet, con la denominación DO Málaga-Sierras de Málaga, en España.",
+    "en": "Fabio Coullet Ingénito is a red wine from Bodegas Fabio Coullet, made under the DO Málaga-Sierras de Málaga appellation in Spain.",
+    "fr": "Fabio Coullet Ingénito est un vin rouge de Bodegas Fabio Coullet, élaboré sous l’appellation DO Málaga-Sierras de Málaga (Espagne).",
+    "it": "Fabio Coullet Ingénito è un vino rosso di Bodegas Fabio Coullet, prodotto nella denominazione DO Málaga-Sierras de Málaga (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Tiene crianza en madera. Su graduación es de 13 % vol.</p>",
+    "en": "<p>It is made from Grenache. It is aged in wood. It has 13% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. Il est élevé en bois. Il titre 13 % vol.</p>",
+    "it": "<p>È prodotto con Grenache. È affinato in legno. Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Fabio Coullet Ingénito Bodegas Fabio Coullet",
+  "brief": true,
+  "source": "decantalo"
+}

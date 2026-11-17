@@ -1,0 +1,40 @@
+{
+  "slug": "cos-contrada-nero-d-avola",
+  "name": "COS Contrada Nero d'Avola",
+  "winery": null,
+  "winery_name": "Azienda Agricola Cos",
+  "region": null,
+  "country": "italia",
+  "appellation": "IGT Terre Siciliane",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "COS Contrada Nero d'Avola es un vino tinto de Azienda Agricola Cos, con la denominación IGT Terre Siciliane, en Italia.",
+    "en": "COS Contrada Nero d'Avola is a red wine from Azienda Agricola Cos, made under the IGT Terre Siciliane appellation in Italy.",
+    "fr": "COS Contrada Nero d'Avola est un vin rouge de Azienda Agricola Cos, élaboré sous l’appellation IGT Terre Siciliane (Italie).",
+    "it": "COS Contrada Nero d'Avola è un vino rosso di Azienda Agricola Cos, prodotto nella denominazione IGT Terre Siciliane (Italia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 13% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "COS Contrada Nero d'Avola Azienda Agricola Cos",
+  "brief": true,
+  "source": "decantalo"
+}

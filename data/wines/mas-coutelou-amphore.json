@@ -1,0 +1,40 @@
+{
+  "slug": "mas-coutelou-amphore",
+  "name": "Mas Coutelou Amphore",
+  "winery": null,
+  "winery_name": "Mas Coutelou",
+  "region": null,
+  "country": "francia",
+  "appellation": "Vin de France",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Mas Coutelou Amphore es un vino tinto de Mas Coutelou, con la denominación Vin de France, en Francia.",
+    "en": "Mas Coutelou Amphore is a red wine from Mas Coutelou, made under the Vin de France appellation in France.",
+    "fr": "Mas Coutelou Amphore est un vin rouge de Mas Coutelou, élaboré sous l’appellation Vin de France (France).",
+    "it": "Mas Coutelou Amphore è un vino rosso di Mas Coutelou, prodotto nella denominazione Vin de France (Francia)."
+  },
+  "body": {
+    "es": "<p>Se cría en recipientes de barro, como ánforas o tinajas. Su graduación es de 14,5 % vol.</p>",
+    "en": "<p>It is aged in clay vessels such as amphorae. It has 14.5% ABV.</p>",
+    "fr": "<p>Il est élevé en jarres de terre cuite, comme des amphores. Il titre 14,5 % vol.</p>",
+    "it": "<p>Affina in contenitori di terracotta, come anfore. Ha 14,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Mas Coutelou Amphore Mas Coutelou",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "alta-vista-premium-cabernet-sauvignon",
+  "name": "Alta Vista Premium Cabernet Sauvignon",
+  "winery": null,
+  "winery_name": "Alta Vista",
+  "region": "mendoza",
+  "country": "argentina",
+  "appellation": "Mendoza",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "Alta Vista Premium Cabernet Sauvignon es un vino tinto de Alta Vista, con la denominación Mendoza, en Argentina.",
+    "en": "Alta Vista Premium Cabernet Sauvignon is a red wine from Alta Vista, made under the Mendoza appellation in Argentina.",
+    "fr": "Alta Vista Premium Cabernet Sauvignon est un vin rouge de Alta Vista, élaboré sous l’appellation Mendoza (Argentine).",
+    "it": "Alta Vista Premium Cabernet Sauvignon è un vino rosso di Alta Vista, prodotto nella denominazione Mendoza (Argentina)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Cabernet Sauvignon. Tiene crianza en madera. Su graduación es de 14 % vol.</p><p>Mendoza es la principal provincia vitícola de Argentina y concentra la mayor parte del viñedo del país. Sus oasis regados al pie de los Andes son la tierra de la Malbec por excelencia.</p>",
+    "en": "<p>It is made from Cabernet Sauvignon. It is aged in wood. It has 14% ABV.</p><p>Mendoza is Argentina’s leading wine province and accounts for most of the country’s vineyard area. Its irrigated oases at the foot of the Andes are the heartland of Malbec.</p>",
+    "fr": "<p>Il est élaboré à partir de Cabernet Sauvignon. Il est élevé en bois. Il titre 14 % vol.</p><p>Mendoza est la principale province viticole d’Argentine et concentre la majeure partie du vignoble du pays. Ses oasis irriguées au pied des Andes sont la terre du malbec par excellence.</p>",
+    "it": "<p>È prodotto con Cabernet Sauvignon. È affinato in legno. Ha 14% vol.</p><p>Mendoza è la principale provincia vitivinicola dell’Argentina e concentra la maggior parte dei vigneti del paese. Le sue oasi irrigate ai piedi delle Ande sono la terra del Malbec per eccellenza.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Alta Vista Premium Cabernet Sauvignon Alta Vista",
+  "brief": true,
+  "source": "decantalo"
+}

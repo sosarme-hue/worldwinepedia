@@ -1,0 +1,40 @@
+{
+  "slug": "cova-rosa",
+  "name": "Cova Rosa",
+  "winery": null,
+  "winery_name": "Cap de Barbaria",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Formentera",
+  "type": "rosado",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Cova Rosa es un vino rosado de Cap de Barbaria, con la denominación VT Formentera, en España.",
+    "en": "Cova Rosa is a rosé wine from Cap de Barbaria, made under the VT Formentera appellation in Spain.",
+    "fr": "Cova Rosa est un vin rosé de Cap de Barbaria, élaboré sous l’appellation VT Formentera (Espagne).",
+    "it": "Cova Rosa è un vino rosato di Cap de Barbaria, prodotto nella denominazione VT Formentera (Spagna)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It has 12.5% ABV.</p>",
+    "fr": "<p>Il titre 12,5 % vol.</p>",
+    "it": "<p>Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, ensaladas, arroces, pescados",
+    "en": "Aperitif, salads, rice dishes, fish",
+    "fr": "Apéritif, salades, plats de riz, poissons",
+    "it": "Aperitivo, insalate, risotti, pesce"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Cova Rosa Cap de Barbaria",
+  "brief": true,
+  "source": "decantalo"
+}

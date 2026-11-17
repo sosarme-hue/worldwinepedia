@@ -1,0 +1,42 @@
+{
+  "slug": "venta-la-ossa-tempranillo",
+  "name": "Venta la Ossa Tempranillo",
+  "winery": null,
+  "winery_name": "Mano a Mano",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Castilla",
+  "type": "espumoso",
+  "category": null,
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Venta la Ossa Tempranillo es un vino espumoso de Mano a Mano, con la denominación VT Castilla, en España.",
+    "en": "Venta la Ossa Tempranillo is a sparkling wine from Mano a Mano, made under the VT Castilla appellation in Spain.",
+    "fr": "Venta la Ossa Tempranillo est un vin effervescent de Mano a Mano, élaboré sous l’appellation VT Castilla (Espagne).",
+    "it": "Venta la Ossa Tempranillo è un vino spumante di Mano a Mano, prodotto nella denominazione VT Castilla (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Tempranillo. Tiene crianza en madera. Su graduación es de 14,5 % vol.</p>",
+    "en": "<p>It is made from Tempranillo. It is aged in wood. It has 14.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Tempranillo. Il est élevé en bois. Il titre 14,5 % vol.</p>",
+    "it": "<p>È prodotto con Tempranillo. È affinato in legno. Ha 14,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Venta la Ossa Tempranillo Mano a Mano",
+  "brief": true,
+  "source": "decantalo"
+}

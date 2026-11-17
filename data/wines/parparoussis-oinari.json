@@ -1,0 +1,40 @@
+{
+  "slug": "parparoussis-oinari",
+  "name": "Parparoussis Oinari",
+  "winery": null,
+  "winery_name": "Parparoussis",
+  "region": null,
+  "country": "grecia",
+  "appellation": "PGI Peloponnese",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Parparoussis Oinari es un vino tinto de Parparoussis, con la denominación PGI Peloponnese, en Grecia.",
+    "en": "Parparoussis Oinari is a red wine from Parparoussis, made under the PGI Peloponnese appellation in Greece.",
+    "fr": "Parparoussis Oinari est un vin rouge de Parparoussis, élaboré sous l’appellation PGI Peloponnese (Grèce).",
+    "it": "Parparoussis Oinari è un vino rosso di Parparoussis, prodotto nella denominazione PGI Peloponnese (Grecia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 13% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Parparoussis Oinari Parparoussis",
+  "brief": true,
+  "source": "decantalo"
+}

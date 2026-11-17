@@ -1,0 +1,40 @@
+{
+  "slug": "pago-de-otazu",
+  "name": "Pago de Otazu",
+  "winery": null,
+  "winery_name": "Otazu",
+  "region": null,
+  "country": "espana",
+  "appellation": "VP Pago de Otazu",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Pago de Otazu es un vino tinto de Otazu, con la denominación VP Pago de Otazu, en España.",
+    "en": "Pago de Otazu is a red wine from Otazu, made under the VP Pago de Otazu appellation in Spain.",
+    "fr": "Pago de Otazu est un vin rouge de Otazu, élaboré sous l’appellation VP Pago de Otazu (Espagne).",
+    "it": "Pago de Otazu è un vino rosso di Otazu, prodotto nella denominazione VP Pago de Otazu (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 14% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Pago de Otazu Otazu",
+  "brief": true,
+  "source": "decantalo"
+}

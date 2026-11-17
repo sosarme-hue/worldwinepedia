@@ -1,0 +1,45 @@
+{
+  "slug": "tesalia-iceni",
+  "name": "Tesalia Iceni",
+  "winery": null,
+  "winery_name": "Tesalia",
+  "region": null,
+  "country": "espana",
+  "appellation": "IGP Cádiz",
+  "type": "tinto",
+  "category": {
+    "es": "Crianza",
+    "en": "Crianza",
+    "fr": "Crianza",
+    "it": "Crianza"
+  },
+  "grapes": [],
+  "summary": {
+    "es": "Tesalia Iceni es un vino tinto de Tesalia, con la denominación IGP Cádiz, en España.",
+    "en": "Tesalia Iceni is a red wine from Tesalia, made under the IGP Cádiz appellation in Spain.",
+    "fr": "Tesalia Iceni est un vin rouge de Tesalia, élaboré sous l’appellation IGP Cádiz (Espagne).",
+    "it": "Tesalia Iceni è un vino rosso di Tesalia, prodotto nella denominazione IGP Cádiz (Spagna)."
+  },
+  "body": {
+    "es": "<p>Lleva la mención Crianza. Su graduación es de 14 % vol.</p>",
+    "en": "<p>It carries the Crianza designation. It has 14% ABV.</p>",
+    "fr": "<p>Il porte la mention Crianza. Il titre 14 % vol.</p>",
+    "it": "<p>Riporta la menzione Crianza. Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Tesalia Iceni Tesalia",
+  "brief": true,
+  "source": "decantalo"
+}

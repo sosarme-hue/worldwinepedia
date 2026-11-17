@@ -1,0 +1,42 @@
+{
+  "slug": "abadal-5-merlot",
+  "name": "Abadal 5 Merlot",
+  "winery": null,
+  "winery_name": "Abadal",
+  "region": null,
+  "country": "espana",
+  "appellation": "DO Pla del Bages",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "merlot"
+  ],
+  "summary": {
+    "es": "Abadal 5 Merlot es un vino tinto de Abadal, con la denominación DO Pla del Bages, en España.",
+    "en": "Abadal 5 Merlot is a red wine from Abadal, made under the DO Pla del Bages appellation in Spain.",
+    "fr": "Abadal 5 Merlot est un vin rouge de Abadal, élaboré sous l’appellation DO Pla del Bages (Espagne).",
+    "it": "Abadal 5 Merlot è un vino rosso di Abadal, prodotto nella denominazione DO Pla del Bages (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Merlot. Tiene crianza en madera. Su graduación es de 14,5 % vol.</p>",
+    "en": "<p>It is made from Merlot. It is aged in wood. It has 14.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Merlot. Il est élevé en bois. Il titre 14,5 % vol.</p>",
+    "it": "<p>È prodotto con Merlot. È affinato in legno. Ha 14,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Abadal 5 Merlot Abadal",
+  "brief": true,
+  "source": "decantalo"
+}

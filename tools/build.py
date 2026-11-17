@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 """Genera la web estática de WorldWinePedia en dist/ a partir de data/."""
+import unicodedata
 import json, glob, os, shutil, html, re, sys
 sys.path.insert(0, os.path.dirname(__file__))
 from i18n import LANGS, LANG_NAMES, SEG, S, SHIP, ATLAS
@@ -211,9 +212,13 @@ def crumbs(l, items):
 
 BOTTLE = {'tinto': 'redb', 'blanco': 'whiteb', 'rosado': 'roseb', 'espumoso': 'sparkb', 'dulce': 'sweetb', 'generoso': 'sweetb'}
 
+def wname(w):
+    b = B.get(w.get('winery'))
+    return b['name'] if b else (w.get('winery_name') or '')
+
 def wine_card(l, w, photo=True):
     reg = R.get(w.get('region'), {})
-    win = B.get(w.get('winery'), {})
+    win = B.get(w.get('winery'), {}) or {'name': w.get('winery_name') or ''}
     label = re.split(r'[ \-/]', T(reg.get('name'), l) or '')[0][:11]
     txt = (w['name'] + ' ' + win.get('name', '') + ' ' + T(reg.get('name'), l) + ' ' + ' '.join(T(G[g]['name'], l) for g in w.get('grapes', []) if g in G)).lower()
     grapes = ', '.join(T(G[g]['name'], l) for g in w.get('grapes', []) if g in G)
@@ -223,7 +228,7 @@ def wine_card(l, w, photo=True):
     bottle_img = f'<img class="realbottle" src="{e(wm["src"])}" alt="{e(wm.get("alt", ""))}" loading="lazy">' if wm else f'<div class="bottle {BOTTLE.get(w.get("type"), "")}" data-label="{e(label)}"></div>'
     return f'''<article class="wine" data-item data-type="{w.get('type','')}" data-region="{w.get('region','')}" data-text="{e(txt)}">
 <div class="bottlearea"><span class="label">{e(T(S['type1'].get(w.get('type'), {}), l)).upper()}</span>{bottle_img}</div>
-<p class="meta">{e(win.get('name',''))} · {e(T(reg.get('name'), l))}</p>
+<p class="meta">{e(win.get('name',''))} · {e(T(reg.get('name'), l) or w.get('appellation') or '')}</p>
 <h3>{e(w['name'])}</h3>
 <p class="meta">{e(grapes)}</p>
 <a class="btn" href="{url(l, 'wines', w['slug'])}">{s('see_buy', l)} ↗</a>
@@ -300,9 +305,28 @@ def page_wrap(l, h1, intro, inner, cr):
 def wines_list(l):
     regs = sorted({w.get('region') for w in V.values() if w.get('region') in R}, key=lambda r: T(R[r]['name'], l))
     opts = '<option value="">%s</option>' % s('filter_region', l) + ''.join('<option value="%s">%s</option>' % (r, e(T(R[r]['name'], l))) for r in regs)
-    cards = ''.join(wine_card(l, w) for w in sorted(V.values(), key=lambda w: w['name']))
-    inner = f'<div data-filter-scope><div class="filters"><input class="ftext" type="search" placeholder="{s("search_ph", l)}" aria-label="{s("search_btn", l)}"><select class="freg" aria-label="{s("region", l)}">{opts}</select><span><b class="fcount"></b> {s("results", l)}</span></div>{type_pills(l, set(w.get("type") for w in V.values()))}<div class="listgrid">{cards}</div></div>'
+    cards = ''.join(wine_card(l, w) for w in sorted(V.values(), key=lambda w: w['name']) if not w.get('brief'))
+    inner = f'<div data-filter-scope><div class="filters"><input class="ftext" type="search" placeholder="{s("search_ph", l)}" aria-label="{s("search_btn", l)}"><select class="freg" aria-label="{s("region", l)}">{opts}</select><span><b class="fcount"></b> {s("results", l)}</span></div>{type_pills(l, set(w.get("type") for w in V.values()))}<div class="listgrid">{cards}</div></div>' + az_nav(l, AZ_T[l])
     return layout(l, s('all_wines', l) + ' · WorldWinePedia', s('wines_intro', l), page_wrap(l, s('all_wines', l), s('wines_intro', l), inner, [(s('nav_wines', l), None)]), alts('wines'), 'wines')
+
+AZ_T = {'es': 'Todos los vinos de la A a la Z', 'en': 'All wines from A to Z', 'fr': 'Tous les vins de A à Z', 'it': 'Tutti i vini dalla A alla Z'}
+def az_key(w):
+    c = unicodedata.normalize('NFKD', w['name'][:1]).encode('ascii', 'ignore').decode().lower()
+    return c if c.isalpha() else '0'
+def az_nav(l, title):
+    keys = sorted({az_key(w) for w in V.values()})
+    return '<div class="box" style="margin-top:28px"><h3>%s</h3><div class="linklist">%s</div></div>' % (title, ''.join('<a href="%saz-%s/">%s</a>' % (url(l, 'wines'), k, k.upper() if k != '0' else '0-9') for k in keys))
+def wines_az(l):
+    out = []
+    groups = {}
+    for w in sorted(V.values(), key=lambda w: w['name'].lower()): groups.setdefault(az_key(w), []).append(w)
+    for k, ws in groups.items():
+        lab = k.upper() if k != '0' else '0-9'
+        items = ''.join('<a href="%s">%s<small style="display:block;opacity:.7">%s</small></a>' % (url(l, 'wines', w['slug']), e(w['name']), e(wname(w))) for w in ws)
+        inner = '<div class="linklist">%s</div>%s' % (items, az_nav(l, AZ_T[l]))
+        h1 = '%s · %s' % (s('all_wines', l), lab)
+        out.append((url(l, 'wines') + 'az-%s/' % k, layout(l, h1 + ' · WorldWinePedia', s('wines_intro', l), page_wrap(l, h1, '', inner, [(s('nav_wines', l), url(l, 'wines')), (lab, None)]), {x: url(x, 'wines') + 'az-%s/' % k for x in LANGS}, 'wines')))
+    return out
 
 def simple_cards(items):
     return '<div class="listgrid">' + ''.join(f'<a class="card" href="{u}" data-item data-type="" data-region="" data-text="{e(t.lower())}"><h3>{e(t)}</h3><p>{e(p)}</p></a>' for t, p, u in items) + '</div>'
@@ -374,20 +398,20 @@ def wine_page(l, w):
     reg = R.get(w.get('region'), {}); win = B.get(w.get('winery'), {}); co = C.get(w.get('country') or reg.get('country'), {})
     ship_opts = ''.join('<option value="%s">%s</option>' % (c, T(n, l)) for c, n in SHIP)
     side = f'''<aside><div class="buybox"><h2>{s('where_buy', l)}</h2><label style="font-size:13px">{s('shops_to', l)}:<select class="ship">{ship_opts}</select></label><div class="shops" data-q="{e(w.get('search') or w['name'])}"{(' data-vinatis="%s"' % e(VIN[w['slug']]['url'])) if w['slug'] in VIN else ''}{(' data-decantalo="%s"' % e(DEC[w['slug']]['url'])) if w['slug'] in DEC else ''}></div><small>{s('price_note', l)}<br>{s('aff_short', l)} {s('amazon_note', l)}</small></div>
-{facts([(s('winery', l), a_(url(l, 'wineries', win['slug']), win['name']) if win else ''), (s('region', l), a_(url(l, 'regions', reg['slug']), T(reg['name'], l)) if reg else ''), (s('country', l), a_(url(l, 'countries', co['slug']), T(co['name'], l)) if co else ''), (s('type', l), T(S['type1'].get(w.get('type'), {}), l)), (s('category', l), e(T(w.get('category'), l))), (s('grapes', l), grape_links(l, w.get('grapes', []))), (s('serve', l), e(T(w.get('serve'), l)))])}</aside>'''
-    more = [x for x in V.values() if x['slug'] != w['slug'] and (x.get('winery') == w.get('winery') or x.get('region') == w.get('region'))][:8]
+{facts([(s('winery', l), a_(url(l, 'wineries', win['slug']), win['name']) if win else e(w.get('winery_name') or '')), (s('region', l), a_(url(l, 'regions', reg['slug']), T(reg['name'], l)) if reg else e(w.get('appellation') or '')), (s('country', l), a_(url(l, 'countries', co['slug']), T(co['name'], l)) if co else ''), (s('type', l), T(S['type1'].get(w.get('type'), {}), l)), (s('category', l), e(T(w.get('category'), l))), (s('grapes', l), grape_links(l, w.get('grapes', []))), (s('serve', l), e(T(w.get('serve'), l)))])}</aside>'''
+    more = [x for x in V.values() if x['slug'] != w['slug'] and ((w.get('winery') and x.get('winery') == w.get('winery')) or (w.get('region') and x.get('region') == w.get('region')))][:8]
     morehtml = f'<div class="box"><h3>{s("related", l)}</h3>{linklist([(x["name"], url(l, "wines", x["slug"])) for x in more])}</div>' if more else ''
     main = f'''<div>{crumbs(l, [(T(co.get('name'), l), url(l, 'countries', co['slug']) if co else None), (T(reg.get('name'), l), url(l, 'regions', reg['slug']) if reg else None), (w['name'], None)])}
-<span class="eyebrow">{e(win.get('name', ''))}</span><h1>{e(w['name'])}</h1>
-<div class="tags"><span class="tag2 t">{T(S['type1'].get(w.get('type'), {}), l)}</span>{'<span class="tag2">%s</span>' % e(T(w.get('category'), l)) if w.get('category') else ''}<span class="tag2">{e(T(reg.get('kind'), l))} {e(T(reg.get('name'), l))}</span></div>
+<span class="eyebrow">{e(wname(w))}</span><h1>{e(w['name'])}</h1>
+<div class="tags"><span class="tag2 t">{T(S['type1'].get(w.get('type'), {}), l)}</span>{'<span class="tag2">%s</span>' % e(T(w.get('category'), l)) if w.get('category') else ''}{('<span class="tag2">%s %s</span>' % (e(T(reg.get('kind'), l)), e(T(reg.get('name'), l)))) if reg else ('<span class="tag2">%s</span>' % e(w['appellation']) if w.get('appellation') else '')}</div>
 <p class="lead">{e(T(w.get('summary'), l))}</p>
 {photo(WM.get('wines', {}).get(w['slug']), l, cls='bottle-photo') or vin_photo(w, l)}
 <div class="prose">{T(w.get('body'), l)}</div>
-<div class="grid three" style="margin-top:24px"><div class="box"><h3>{s('tasting', l)}</h3><p>{e(T(w.get('tasting'), l))}</p></div><div class="box"><h3>{s('pairing', l)}</h3><p>{e(T(w.get('pairing'), l))}</p></div><div class="box"><h3>{s('serve', l)}</h3><p>{e(T(w.get('serve'), l))}</p></div></div>
+<div class="grid three" style="margin-top:24px">{('<div class="box"><h3>%s</h3><p>%s</p></div>' % (s('tasting', l), e(T(w.get('tasting'), l)))) if w.get('tasting') else ''}<div class="box"><h3>{s('pairing', l)}</h3><p>{e(T(w.get('pairing'), l))}</p></div><div class="box"><h3>{s('serve', l)}</h3><p>{e(T(w.get('serve'), l))}</p></div></div>
 {morehtml}</div>'''
-    ld = {"@context": "https://schema.org", "@type": "Product", "name": w['name'], "brand": win.get('name'), "category": "Wine", "description": strip(T(w.get('summary'), l))}
+    ld = {"@context": "https://schema.org", "@type": "Product", "name": w['name'], "brand": wname(w) or None, "category": "Wine", "description": strip(T(w.get('summary'), l))}
     body = f'<main class="page"><div class="detail">{main}{side}</div><script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script></main>'
-    return layout(l, f"{w['name']} · {win.get('name', '')} · WorldWinePedia", strip(T(w.get('summary'), l)), body, alts('wines', w['slug']), 'wines')
+    return layout(l, f"{w['name']} · {wname(w)} · WorldWinePedia", strip(T(w.get('summary'), l)), body, alts('wines', w['slug']), 'wines')
 
 def winery_page(l, b):
     reg = R.get(b.get('region'), {}); co = C.get(b.get('country') or reg.get('country'), {})
@@ -534,6 +558,7 @@ def build():
         pages = [(url(l), home(l)), (url(l, 'wines'), wines_list(l)), (url(l, 'grapes'), grapes_list(l)), (url(l, 'wineries'), wineries_list(l)), (url(l, 'countries'), countries_list(l)), (url(l, 'regions'), regions_list(l)), (url(l, 'articles'), articles_list(l)), (url(l, 'glossary'), glossary(l)), (url(l, 'search'), search_page(l))]
         pages += [(url(l, k), static_page(l, k)) for k in STATIC_PAGES]
         pages += tools_pages(l)
+        pages += wines_az(l)
         pages += [(url(l, 'wines', x['slug']), wine_page(l, x)) for x in V.values()]
         pages += [(url(l, 'wineries', x['slug']), winery_page(l, x)) for x in B.values()]
         pages += [(url(l, 'regions', x['slug']), region_page(l, x)) for x in R.values()]

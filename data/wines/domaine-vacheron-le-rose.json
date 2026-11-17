@@ -1,0 +1,42 @@
+{
+  "slug": "domaine-vacheron-le-rose",
+  "name": "Domaine Vacheron Le Rosé",
+  "winery": "domaine-vacheron",
+  "winery_name": null,
+  "region": "sancerre",
+  "country": "francia",
+  "appellation": "AOC Sancerre",
+  "type": "rosado",
+  "category": null,
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Domaine Vacheron Le Rosé es un vino rosado de Domaine Vacheron, con la denominación AOC Sancerre, en Francia.",
+    "en": "Domaine Vacheron Le Rosé is a rosé wine from Domaine Vacheron, made under the AOC Sancerre appellation in France.",
+    "fr": "Domaine Vacheron Le Rosé est un vin rosé de Domaine Vacheron, élaboré sous l’appellation AOC Sancerre (France).",
+    "it": "Domaine Vacheron Le Rosé è un vino rosato di Domaine Vacheron, prodotto nella denominazione AOC Sancerre (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Pinot Noir. Se cría sobre sus lías. Su graduación es de 13 % vol.</p><p>Dominio familiar de Sancerre, en el Loira, conocido por sus Sauvignon Blanc y Pinot Noir de cultivo biodinámico y por sus vinos de parcela.</p><p>Sancerre, en la orilla izquierda del Loira, en el departamento del Cher, es una de las denominaciones de referencia de la Sauvignon Blanc. Produce también tintos y rosados de Pinot Noir.</p>",
+    "en": "<p>It is made from Pinot Noir. It is aged on its lees. It has 13% ABV.</p><p>Family domaine in Sancerre, in the Loire, known for its biodynamically farmed Sauvignon Blanc and Pinot Noir and for its single-parcel wines.</p><p>Sancerre, on the left bank of the Loire in the Cher département, is one of the benchmark appellations for Sauvignon Blanc. It also produces reds and rosés from Pinot Noir.</p>",
+    "fr": "<p>Il est élaboré à partir de Pinot Noir. Il est élevé sur lies. Il titre 13 % vol.</p><p>Domaine familial de Sancerre, dans la Loire, connu pour ses sauvignons blancs et pinots noirs cultivés en biodynamie et pour ses vins parcellaires.</p><p>Sancerre, sur la rive gauche de la Loire, dans le département du Cher, est l'une des appellations de référence du sauvignon blanc. Elle produit aussi des rouges et des rosés de pinot noir.</p>",
+    "it": "<p>È prodotto con Pinot Nero. Affina sulle fecce fini. Ha 13% vol.</p><p>Domaine di famiglia a Sancerre, nella Loira, noto per i suoi Sauvignon Blanc e Pinot Noir coltivati in biodinamica e per i suoi vini di parcella.</p><p>Sancerre, sulla riva sinistra della Loira, nel dipartimento del Cher, è una delle denominazioni di riferimento per il Sauvignon Blanc. Produce anche rossi e rosati da Pinot Nero.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, ensaladas, arroces, pescados",
+    "en": "Aperitif, salads, rice dishes, fish",
+    "fr": "Apéritif, salades, plats de riz, poissons",
+    "it": "Aperitivo, insalate, risotti, pesce"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Domaine Vacheron Le Rosé Domaine Vacheron",
+  "brief": true,
+  "source": "decantalo"
+}

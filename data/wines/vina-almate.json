@@ -1,0 +1,40 @@
+{
+  "slug": "vina-almate",
+  "name": "Viña Almate",
+  "winery": null,
+  "winery_name": "Alfredo Maestro",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Castilla y León",
+  "type": "espumoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Viña Almate es un vino espumoso de Alfredo Maestro, con la denominación VT Castilla y León, en España.",
+    "en": "Viña Almate is a sparkling wine from Alfredo Maestro, made under the VT Castilla y León appellation in Spain.",
+    "fr": "Viña Almate est un vin effervescent de Alfredo Maestro, élaboré sous l’appellation VT Castilla y León (Espagne).",
+    "it": "Viña Almate è un vino spumante di Alfredo Maestro, prodotto nella denominazione VT Castilla y León (Spagna)."
+  },
+  "body": {
+    "es": "<p>Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 14,5 % vol.</p>",
+    "en": "<p>It is a young wine, meant to be drunk in its first years. It has 14.5% ABV.</p>",
+    "fr": "<p>C’est un vin jeune, à boire dans ses premières années. Il titre 14,5 % vol.</p>",
+    "it": "<p>È un vino giovane, da bere nei primi anni. Ha 14,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Viña Almate Alfredo Maestro",
+  "brief": true,
+  "source": "decantalo"
+}

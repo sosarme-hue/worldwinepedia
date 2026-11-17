@@ -1,0 +1,42 @@
+{
+  "slug": "foss-marai-surfine-brut-cuvee",
+  "name": "Foss Marai Surfine Brut Cuvée",
+  "winery": null,
+  "winery_name": "Foss Marai",
+  "region": null,
+  "country": "italia",
+  "appellation": null,
+  "type": "espumoso",
+  "category": null,
+  "grapes": [
+    "sauvignon-blanc"
+  ],
+  "summary": {
+    "es": "Foss Marai Surfine Brut Cuvée es un vino espumoso de Foss Marai, en Italia.",
+    "en": "Foss Marai Surfine Brut Cuvée is a sparkling wine from Foss Marai in Italy.",
+    "fr": "Foss Marai Surfine Brut Cuvée est un vin effervescent de Foss Marai (Italie).",
+    "it": "Foss Marai Surfine Brut Cuvée è un vino spumante di Foss Marai (Italia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Sauvignon Blanc. Su graduación es de 11 % vol.</p>",
+    "en": "<p>It is made from Sauvignon Blanc. It has 11% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Sauvignon Blanc. Il titre 11 % vol.</p>",
+    "it": "<p>È prodotto con Sauvignon Blanc. Ha 11% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Foss Marai Surfine Brut Cuvée Foss Marai",
+  "brief": true,
+  "source": "decantalo"
+}

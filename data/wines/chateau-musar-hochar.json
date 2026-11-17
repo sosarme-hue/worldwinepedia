@@ -1,0 +1,40 @@
+{
+  "slug": "chateau-musar-hochar",
+  "name": "Château Musar Hochar",
+  "winery": "chateau-musar",
+  "winery_name": null,
+  "region": null,
+  "country": "libano",
+  "appellation": "Ghazir",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Château Musar Hochar es un vino tinto de Château Musar, con la denominación Ghazir, en Líbano.",
+    "en": "Château Musar Hochar is a red wine from Château Musar, made under the Ghazir appellation in Lebanon.",
+    "fr": "Château Musar Hochar est un vin rouge de Château Musar, élaboré sous l’appellation Ghazir (Liban).",
+    "it": "Château Musar Hochar è un vino rosso di Château Musar, prodotto nella denominazione Ghazir (Libano)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14,5 % vol.</p><p>Bodega familiar fundada en 1930 por Gaston Hochar, la más conocida internacionalmente del Líbano. Elabora en Ghazir, al norte de Beirut, vinos de uvas de la Bekaa y del Monte Líbano, de crianza larga y estilo muy personal.</p>",
+    "en": "<p>It is aged in wood. It has 14.5% ABV.</p><p>Family winery founded in 1930 by Gaston Hochar, the best-known Lebanese winery internationally. At Ghazir, north of Beirut, it makes long-aged wines of very personal style from grapes grown in the Bekaa and on Mount Lebanon.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14,5 % vol.</p><p>Domaine familial fondé en 1930 par Gaston Hochar, la cave libanaise la plus connue à l’international. À Ghazir, au nord de Beyrouth, il élabore à partir de raisins de la Bekaa et du Mont-Liban des vins de long élevage au style très personnel.</p>",
+    "it": "<p>È affinato in legno. Ha 14,5% vol.</p><p>Cantina di famiglia fondata nel 1930 da Gaston Hochar, la più nota a livello internazionale del Libano. A Ghazir, a nord di Beirut, produce con uve della Bekaa e del Monte Libano vini di lungo affinamento e dallo stile molto personale.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Château Musar Hochar Château Musar",
+  "brief": true,
+  "source": "decantalo"
+}

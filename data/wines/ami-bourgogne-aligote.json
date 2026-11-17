@@ -1,0 +1,42 @@
+{
+  "slug": "ami-bourgogne-aligote",
+  "name": "AMI Bourgogne Aligoté",
+  "winery": null,
+  "winery_name": "Maison AMI",
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Bourgogne Aligoté",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "aligote"
+  ],
+  "summary": {
+    "es": "AMI Bourgogne Aligoté es un vino blanco de Maison AMI, con la denominación AOC Bourgogne Aligoté, en Francia.",
+    "en": "AMI Bourgogne Aligoté is a white wine from Maison AMI, made under the AOC Bourgogne Aligoté appellation in France.",
+    "fr": "AMI Bourgogne Aligoté est un vin blanc de Maison AMI, élaboré sous l’appellation AOC Bourgogne Aligoté (France).",
+    "it": "AMI Bourgogne Aligoté è un vino bianco di Maison AMI, prodotto nella denominazione AOC Bourgogne Aligoté (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Aligoté. Se cría sobre sus lías. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is made from Aligoté. It is aged on its lees. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Aligoté. Il est élevé sur lies. Il titre 12,5 % vol.</p>",
+    "it": "<p>È prodotto con Aligoté. Affina sulle fecce fini. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "AMI Bourgogne Aligoté Maison AMI",
+  "brief": true,
+  "source": "decantalo"
+}

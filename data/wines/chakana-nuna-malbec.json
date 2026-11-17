@@ -1,0 +1,42 @@
+{
+  "slug": "chakana-nuna-malbec",
+  "name": "Chakana Nuna Malbec",
+  "winery": null,
+  "winery_name": "Chakana",
+  "region": "mendoza",
+  "country": "argentina",
+  "appellation": "Mendoza",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "malbec"
+  ],
+  "summary": {
+    "es": "Chakana Nuna Malbec es un vino tinto de Chakana, con la denominación Mendoza, en Argentina.",
+    "en": "Chakana Nuna Malbec is a red wine from Chakana, made under the Mendoza appellation in Argentina.",
+    "fr": "Chakana Nuna Malbec est un vin rouge de Chakana, élaboré sous l’appellation Mendoza (Argentine).",
+    "it": "Chakana Nuna Malbec è un vino rosso di Chakana, prodotto nella denominazione Mendoza (Argentina)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Malbec. Se cría en depósitos de hormigón. Su graduación es de 13,5 % vol.</p><p>Mendoza es la principal provincia vitícola de Argentina y concentra la mayor parte del viñedo del país. Sus oasis regados al pie de los Andes son la tierra de la Malbec por excelencia.</p>",
+    "en": "<p>It is made from Malbec. It is aged in concrete vats. It has 13.5% ABV.</p><p>Mendoza is Argentina’s leading wine province and accounts for most of the country’s vineyard area. Its irrigated oases at the foot of the Andes are the heartland of Malbec.</p>",
+    "fr": "<p>Il est élaboré à partir de Malbec (Côt). Il est élevé en cuves béton. Il titre 13,5 % vol.</p><p>Mendoza est la principale province viticole d’Argentine et concentre la majeure partie du vignoble du pays. Ses oasis irriguées au pied des Andes sont la terre du malbec par excellence.</p>",
+    "it": "<p>È prodotto con Malbec. Affina in vasche di cemento. Ha 13,5% vol.</p><p>Mendoza è la principale provincia vitivinicola dell’Argentina e concentra la maggior parte dei vigneti del paese. Le sue oasi irrigate ai piedi delle Ande sono la terra del Malbec per eccellenza.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Chakana Nuna Malbec Chakana",
+  "brief": true,
+  "source": "decantalo"
+}

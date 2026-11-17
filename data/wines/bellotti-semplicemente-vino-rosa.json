@@ -1,0 +1,42 @@
+{
+  "slug": "bellotti-semplicemente-vino-rosa",
+  "name": "Bellotti Semplicemente Vino Rosa",
+  "winery": null,
+  "winery_name": "Cascina degli Ulivi",
+  "region": null,
+  "country": "italia",
+  "appellation": "Vino da Tavola",
+  "type": "rosado",
+  "category": null,
+  "grapes": [
+    "merlot"
+  ],
+  "summary": {
+    "es": "Bellotti Semplicemente Vino Rosa es un vino rosado de Cascina degli Ulivi, con la denominación Vino da Tavola, en Italia.",
+    "en": "Bellotti Semplicemente Vino Rosa is a rosé wine from Cascina degli Ulivi, made under the Vino da Tavola appellation in Italy.",
+    "fr": "Bellotti Semplicemente Vino Rosa est un vin rosé de Cascina degli Ulivi, élaboré sous l’appellation Vino da Tavola (Italie).",
+    "it": "Bellotti Semplicemente Vino Rosa è un vino rosato di Cascina degli Ulivi, prodotto nella denominazione Vino da Tavola (Italia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Merlot. Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is made from Merlot. It is a young wine, meant to be drunk in its first years. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Merlot. C’est un vin jeune, à boire dans ses premières années. Il titre 13,5 % vol.</p>",
+    "it": "<p>È prodotto con Merlot. È un vino giovane, da bere nei primi anni. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, ensaladas, arroces, pescados",
+    "en": "Aperitif, salads, rice dishes, fish",
+    "fr": "Apéritif, salades, plats de riz, poissons",
+    "it": "Aperitivo, insalate, risotti, pesce"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Bellotti Semplicemente Vino Rosa Cascina degli Ulivi",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "ophiusa",
+  "name": "Ophiusa",
+  "winery": null,
+  "winery_name": "Cap de Barbaria",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Formentera",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Ophiusa es un vino tinto de Cap de Barbaria, con la denominación VT Formentera, en España.",
+    "en": "Ophiusa is a red wine from Cap de Barbaria, made under the VT Formentera appellation in Spain.",
+    "fr": "Ophiusa est un vin rouge de Cap de Barbaria, élaboré sous l’appellation VT Formentera (Espagne).",
+    "it": "Ophiusa è un vino rosso di Cap de Barbaria, prodotto nella denominazione VT Formentera (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 14% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Ophiusa Cap de Barbaria",
+  "brief": true,
+  "source": "decantalo"
+}

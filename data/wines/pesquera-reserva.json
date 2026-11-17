@@ -1,0 +1,47 @@
+{
+  "slug": "pesquera-reserva",
+  "name": "Pesquera Reserva",
+  "winery": "pesquera",
+  "winery_name": null,
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "appellation": "DO Ribera del Duero",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Pesquera Reserva es un vino tinto de Tinto Pesquera (Familia Fernández Rivera), con la denominación DO Ribera del Duero, en España.",
+    "en": "Pesquera Reserva is a red wine from Tinto Pesquera (Familia Fernández Rivera), made under the DO Ribera del Duero appellation in Spain.",
+    "fr": "Pesquera Reserva est un vin rouge de Tinto Pesquera (Familia Fernández Rivera), élaboré sous l’appellation DO Ribera del Duero (Espagne).",
+    "it": "Pesquera Reserva è un vino rosso di Tinto Pesquera (Familia Fernández Rivera), prodotto nella denominazione DO Ribera del Duero (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Tempranillo. Lleva la mención Reserva. Su graduación es de 14,5 % vol.</p><p>Bodega creada por Alejandro Fernández en Pesquera de Duero, cuyo Tinto Pesquera contribuyó de forma decisiva a dar a conocer la Ribera del Duero en el mundo.</p><p>Ribera del Duero es una denominación de origen de Castilla y León, creada en 1982, que se extiende a lo largo del río Duero en una meseta de gran altitud. Es conocida por sus tintos de Tempranillo, llamada aquí Tinto Fino o Tinta del País.</p>",
+    "en": "<p>It is made from Tempranillo. It carries the Reserva designation. It has 14.5% ABV.</p><p>Winery created by Alejandro Fernández in Pesquera de Duero, whose Tinto Pesquera played a decisive role in making Ribera del Duero known worldwide.</p><p>Ribera del Duero is a designation of origin in Castilla y León, created in 1982, that runs along the Duero river on a high plateau. It is known for its reds made from Tempranillo, called Tinto Fino or Tinta del País locally.</p>",
+    "fr": "<p>Il est élaboré à partir de Tempranillo. Il porte la mention Reserva. Il titre 14,5 % vol.</p><p>Bodega créée par Alejandro Fernández à Pesquera de Duero, dont le Tinto Pesquera a joué un rôle décisif dans la reconnaissance internationale de la Ribera del Duero.</p><p>La Ribera del Duero est une dénomination d'origine de Castille-et-León, créée en 1982, qui s'étend le long du Douro sur un haut plateau. Elle est connue pour ses rouges de tempranillo, appelé ici tinto fino ou tinta del país.</p>",
+    "it": "<p>È prodotto con Tempranillo. Riporta la menzione Reserva. Ha 14,5% vol.</p><p>Cantina creata da Alejandro Fernández a Pesquera de Duero, il cui Tinto Pesquera ha contribuito in modo decisivo a far conoscere la Ribera del Duero nel mondo.</p><p>Ribera del Duero è una denominazione di origine della Castiglia e León, istituita nel 1982, che si estende lungo il fiume Duero su un altopiano elevato. È nota per i rossi di Tempranillo, chiamato qui Tinto Fino o Tinta del País.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Pesquera Reserva Pesquera",
+  "brief": true,
+  "source": "decantalo"
+}

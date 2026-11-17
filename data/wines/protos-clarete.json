@@ -1,0 +1,40 @@
+{
+  "slug": "protos-clarete",
+  "name": "Protos Clarete",
+  "winery": "protos",
+  "winery_name": null,
+  "region": "cigales",
+  "country": "espana",
+  "appellation": "DO Cigales",
+  "type": "rosado",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Protos Clarete es un vino rosado de Bodegas Protos, con la denominación DO Cigales, en España.",
+    "en": "Protos Clarete is a rosé wine from Bodegas Protos, made under the DO Cigales appellation in Spain.",
+    "fr": "Protos Clarete est un vin rosé de Bodegas Protos, élaboré sous l’appellation DO Cigales (Espagne).",
+    "it": "Protos Clarete è un vino rosato di Bodegas Protos, prodotto nella denominazione DO Cigales (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se cría sobre sus lías. Su graduación es de 13,5 % vol.</p><p>Bodega fundada en Peñafiel en 1927 por un grupo de viticultores, con galerías excavadas bajo el cerro del castillo y presencia también en Rueda.</p><p>Cigales es una denominación de origen situada al norte de Valladolid, en el valle del Pisuerga, reconocida en 1991. Tradicionalmente asociada a los rosados y claretes, elabora también tintos de Tempranillo.</p>",
+    "en": "<p>It is aged on its lees. It has 13.5% ABV.</p><p>Winery founded in Peñafiel in 1927 by a group of growers, with galleries dug beneath the castle hill and a presence in Rueda as well.</p><p>Cigales is a designation of origin north of Valladolid, in the Pisuerga valley, recognised in 1991. Traditionally associated with rosés and claretes, it also produces Tempranillo reds.</p>",
+    "fr": "<p>Il est élevé sur lies. Il titre 13,5 % vol.</p><p>Bodega fondée à Peñafiel en 1927 par un groupe de viticulteurs, avec des galeries creusées sous la colline du château et une présence également à Rueda.</p><p>Cigales est une dénomination d'origine située au nord de Valladolid, dans la vallée de la Pisuerga, reconnue en 1991. Traditionnellement associée aux rosés et aux claretes, elle produit aussi des rouges de tempranillo.</p>",
+    "it": "<p>Affina sulle fecce fini. Ha 13,5% vol.</p><p>Cantina fondata a Peñafiel nel 1927 da un gruppo di viticoltori, con gallerie scavate sotto la collina del castello e una presenza anche a Rueda.</p><p>Cigales è una denominazione di origine situata a nord di Valladolid, nella valle del Pisuerga, riconosciuta nel 1991. Tradizionalmente legata ai rosati e ai claretes, produce anche rossi di Tempranillo.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, ensaladas, arroces, pescados",
+    "en": "Aperitif, salads, rice dishes, fish",
+    "fr": "Apéritif, salades, plats de riz, poissons",
+    "it": "Aperitivo, insalate, risotti, pesce"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Protos Clarete Protos",
+  "brief": true,
+  "source": "decantalo"
+}

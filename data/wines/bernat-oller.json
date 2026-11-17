@@ -1,0 +1,40 @@
+{
+  "slug": "bernat-oller",
+  "name": "Bernat Oller",
+  "winery": null,
+  "winery_name": "Oller del Mas",
+  "region": null,
+  "country": "espana",
+  "appellation": "DO Pla del Bages",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Bernat Oller es un vino tinto de Oller del Mas, con la denominación DO Pla del Bages, en España.",
+    "en": "Bernat Oller is a red wine from Oller del Mas, made under the DO Pla del Bages appellation in Spain.",
+    "fr": "Bernat Oller est un vin rouge de Oller del Mas, élaboré sous l’appellation DO Pla del Bages (Espagne).",
+    "it": "Bernat Oller è un vino rosso di Oller del Mas, prodotto nella denominazione DO Pla del Bages (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13,5 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Bernat Oller Oller del Mas",
+  "brief": true,
+  "source": "decantalo"
+}

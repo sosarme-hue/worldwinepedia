@@ -1,0 +1,42 @@
+{
+  "slug": "tornatore-etna-bianco-pietrarizzo",
+  "name": "Tornatore Etna Bianco Pietrarizzo",
+  "winery": null,
+  "winery_name": "Tornatore",
+  "region": null,
+  "country": "italia",
+  "appellation": "DOC Etna Bianco",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "carricante"
+  ],
+  "summary": {
+    "es": "Tornatore Etna Bianco Pietrarizzo es un vino blanco de Tornatore, con la denominación DOC Etna Bianco, en Italia.",
+    "en": "Tornatore Etna Bianco Pietrarizzo is a white wine from Tornatore, made under the DOC Etna Bianco appellation in Italy.",
+    "fr": "Tornatore Etna Bianco Pietrarizzo est un vin blanc de Tornatore, élaboré sous l’appellation DOC Etna Bianco (Italie).",
+    "it": "Tornatore Etna Bianco Pietrarizzo è un vino bianco di Tornatore, prodotto nella denominazione DOC Etna Bianco (Italia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Carricante. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is made from Carricante. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Carricante. Il titre 13,5 % vol.</p>",
+    "it": "<p>È prodotto con Carricante. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Tornatore Etna Bianco Pietrarizzo Tornatore",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "du-grappin-macon-villages",
+  "name": "Du Grappin Mâcon-Villages",
+  "winery": null,
+  "winery_name": "Le Grappin",
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Mâcon-Villages",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Du Grappin Mâcon-Villages es un vino blanco de Le Grappin, con la denominación AOC Mâcon-Villages, en Francia.",
+    "en": "Du Grappin Mâcon-Villages is a white wine from Le Grappin, made under the AOC Mâcon-Villages appellation in France.",
+    "fr": "Du Grappin Mâcon-Villages est un vin blanc de Le Grappin, élaboré sous l’appellation AOC Mâcon-Villages (France).",
+    "it": "Du Grappin Mâcon-Villages è un vino bianco di Le Grappin, prodotto nella denominazione AOC Mâcon-Villages (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Chardonnay. Se cría sobre sus lías. Su graduación es de 13 % vol.</p>",
+    "en": "<p>It is made from Chardonnay. It is aged on its lees. It has 13% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Chardonnay. Il est élevé sur lies. Il titre 13 % vol.</p>",
+    "it": "<p>È prodotto con Chardonnay. Affina sulle fecce fini. Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Du Grappin Mâcon-Villages Le Grappin",
+  "brief": true,
+  "source": "decantalo"
+}

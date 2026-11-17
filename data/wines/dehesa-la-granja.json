@@ -1,0 +1,45 @@
+{
+  "slug": "dehesa-la-granja",
+  "name": "Dehesa La Granja",
+  "winery": null,
+  "winery_name": "Dehesa de la Granja",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Castilla y León",
+  "type": "espumoso",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [],
+  "summary": {
+    "es": "Dehesa La Granja es un vino espumoso de Dehesa de la Granja, con la denominación VT Castilla y León, en España.",
+    "en": "Dehesa La Granja is a sparkling wine from Dehesa de la Granja, made under the VT Castilla y León appellation in Spain.",
+    "fr": "Dehesa La Granja est un vin effervescent de Dehesa de la Granja, élaboré sous l’appellation VT Castilla y León (Espagne).",
+    "it": "Dehesa La Granja è un vino spumante di Dehesa de la Granja, prodotto nella denominazione VT Castilla y León (Spagna)."
+  },
+  "body": {
+    "es": "<p>Lleva la mención Reserva. Su graduación es de 14 % vol.</p>",
+    "en": "<p>It carries the Reserva designation. It has 14% ABV.</p>",
+    "fr": "<p>Il porte la mention Reserva. Il titre 14 % vol.</p>",
+    "it": "<p>Riporta la menzione Reserva. Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Dehesa La Granja Dehesa de la Granja",
+  "brief": true,
+  "source": "decantalo"
+}

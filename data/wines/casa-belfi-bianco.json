@@ -1,0 +1,40 @@
+{
+  "slug": "casa-belfi-bianco",
+  "name": "Casa Belfi Bianco",
+  "winery": null,
+  "winery_name": "Casa Belfi",
+  "region": null,
+  "country": "italia",
+  "appellation": "IGT Delle Venezie",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Casa Belfi Bianco es un vino blanco de Casa Belfi, con la denominación IGT Delle Venezie, en Italia.",
+    "en": "Casa Belfi Bianco is a white wine from Casa Belfi, made under the IGT Delle Venezie appellation in Italy.",
+    "fr": "Casa Belfi Bianco est un vin blanc de Casa Belfi, élaboré sous l’appellation IGT Delle Venezie (Italie).",
+    "it": "Casa Belfi Bianco è un vino bianco di Casa Belfi, prodotto nella denominazione IGT Delle Venezie (Italia)."
+  },
+  "body": {
+    "es": "<p>Se cría en recipientes de barro, como ánforas o tinajas. Su graduación es de 12 % vol.</p>",
+    "en": "<p>It is aged in clay vessels such as amphorae. It has 12% ABV.</p>",
+    "fr": "<p>Il est élevé en jarres de terre cuite, comme des amphores. Il titre 12 % vol.</p>",
+    "it": "<p>Affina in contenitori di terracotta, come anfore. Ha 12% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Casa Belfi Bianco Casa Belfi",
+  "brief": true,
+  "source": "decantalo"
+}

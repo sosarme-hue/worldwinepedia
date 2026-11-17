@@ -1,0 +1,42 @@
+{
+  "slug": "geltz-zilliken-rausch-kabinett",
+  "name": "Geltz Zilliken Rausch Kabinett",
+  "winery": null,
+  "winery_name": "Weingut Forstmeister Geltz-Zilliken",
+  "region": null,
+  "country": "alemania",
+  "appellation": "VDP Mosel-Saar-Ruwer",
+  "type": "dulce",
+  "category": null,
+  "grapes": [
+    "riesling"
+  ],
+  "summary": {
+    "es": "Geltz Zilliken Rausch Kabinett es un vino dulce de Weingut Forstmeister Geltz-Zilliken, con la denominación VDP Mosel-Saar-Ruwer, en Alemania.",
+    "en": "Geltz Zilliken Rausch Kabinett is a sweet wine from Weingut Forstmeister Geltz-Zilliken, made under the VDP Mosel-Saar-Ruwer appellation in Germany.",
+    "fr": "Geltz Zilliken Rausch Kabinett est un vin doux de Weingut Forstmeister Geltz-Zilliken, élaboré sous l’appellation VDP Mosel-Saar-Ruwer (Allemagne).",
+    "it": "Geltz Zilliken Rausch Kabinett è un vino dolce di Weingut Forstmeister Geltz-Zilliken, prodotto nella denominazione VDP Mosel-Saar-Ruwer (Germania)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Riesling. Su graduación es de 8 % vol.</p>",
+    "en": "<p>It is made from Riesling. It has 8% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Riesling. Il titre 8 % vol.</p>",
+    "it": "<p>È prodotto con Riesling Renano. Ha 8% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Postres, foie gras, quesos azules",
+    "en": "Desserts, foie gras, blue cheeses",
+    "fr": "Desserts, foie gras, fromages à pâte persillée",
+    "it": "Dolci, foie gras, formaggi erborinati"
+  },
+  "serve": {
+    "es": "8-12 °C, copa pequeña",
+    "en": "8-12 °C, small glass",
+    "fr": "8-12 °C, petit verre",
+    "it": "8-12 °C, calice piccolo"
+  },
+  "search": "Geltz Zilliken Rausch Kabinett Weingut Forstmeister Geltz-Zilliken",
+  "brief": true,
+  "source": "decantalo"
+}

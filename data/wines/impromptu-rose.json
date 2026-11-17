@@ -1,0 +1,42 @@
+{
+  "slug": "impromptu-rose",
+  "name": "Impromptu Rosé",
+  "winery": null,
+  "winery_name": "Hispano-Suizas",
+  "region": "cava",
+  "country": "espana",
+  "appellation": "DO Cava",
+  "type": "espumoso",
+  "category": null,
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Impromptu Rosé es un vino espumoso de Hispano-Suizas, con la denominación DO Cava, en España.",
+    "en": "Impromptu Rosé is a sparkling wine from Hispano-Suizas, made under the DO Cava appellation in Spain.",
+    "fr": "Impromptu Rosé est un vin effervescent de Hispano-Suizas, élaboré sous l’appellation DO Cava (Espagne).",
+    "it": "Impromptu Rosé è un vino spumante di Hispano-Suizas, prodotto nella denominazione DO Cava (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Pinot Noir. Se cría sobre sus lías. Su graduación es de 14 % vol.</p><p>Cava es la denominación de origen de los vinos espumosos españoles elaborados por el método tradicional, con segunda fermentación en botella. Aunque su producción se concentra en el Penedès, en torno a Sant Sadurní d'Anoia, su zona de producción abarca municipios de varias comunidades autónomas.</p>",
+    "en": "<p>It is made from Pinot Noir. It is aged on its lees. It has 14% ABV.</p><p>Cava is the designation of origin for Spanish sparkling wines made by the traditional method, with a second fermentation in bottle. Although production is concentrated in Penedès, around Sant Sadurní d'Anoia, its production area covers municipalities in several autonomous communities.</p>",
+    "fr": "<p>Il est élaboré à partir de Pinot Noir. Il est élevé sur lies. Il titre 14 % vol.</p><p>Le Cava est la dénomination d'origine des vins effervescents espagnols élaborés selon la méthode traditionnelle, avec seconde fermentation en bouteille. Si sa production se concentre dans le Penedès, autour de Sant Sadurní d'Anoia, sa zone de production couvre des communes de plusieurs communautés autonomes.</p>",
+    "it": "<p>È prodotto con Pinot Nero. Affina sulle fecce fini. Ha 14% vol.</p><p>Il Cava è la denominazione di origine degli spumanti spagnoli prodotti con il metodo classico, con seconda fermentazione in bottiglia. Sebbene la produzione si concentri nel Penedès, attorno a Sant Sadurní d'Anoia, la sua zona di produzione comprende comuni di diverse comunità autonome.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Impromptu Rosé Hispano-Suizas",
+  "brief": true,
+  "source": "decantalo"
+}

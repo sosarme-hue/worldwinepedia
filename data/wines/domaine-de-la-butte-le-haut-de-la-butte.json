@@ -1,0 +1,42 @@
+{
+  "slug": "domaine-de-la-butte-le-haut-de-la-butte",
+  "name": "Domaine de la Butte Le Haut de la Butte",
+  "winery": null,
+  "winery_name": "Domaine de la Butte - Jacky Blot",
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Bourgueil",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Domaine de la Butte Le Haut de la Butte es un vino tinto de Domaine de la Butte - Jacky Blot, con la denominación AOC Bourgueil, en Francia.",
+    "en": "Domaine de la Butte Le Haut de la Butte is a red wine from Domaine de la Butte - Jacky Blot, made under the AOC Bourgueil appellation in France.",
+    "fr": "Domaine de la Butte Le Haut de la Butte est un vin rouge de Domaine de la Butte - Jacky Blot, élaboré sous l’appellation AOC Bourgueil (France).",
+    "it": "Domaine de la Butte Le Haut de la Butte è un vino rosso di Domaine de la Butte - Jacky Blot, prodotto nella denominazione AOC Bourgueil (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Cabernet Franc. Tiene crianza en madera. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is made from Cabernet Franc. It is aged in wood. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Cabernet Franc. Il est élevé en bois. Il titre 12,5 % vol.</p>",
+    "it": "<p>È prodotto con Cabernet Franc. È affinato in legno. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Domaine de la Butte Le Haut de la Butte Domaine de la Butte - Jacky Blot",
+  "brief": true,
+  "source": "decantalo"
+}

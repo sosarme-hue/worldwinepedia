@@ -1,0 +1,42 @@
+{
+  "slug": "tatsis-malagouzia",
+  "name": "Tatsis Malagouzia",
+  "winery": null,
+  "winery_name": "Tatsis Winery",
+  "region": null,
+  "country": "grecia",
+  "appellation": "PGI Macedonia",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "malagousia"
+  ],
+  "summary": {
+    "es": "Tatsis Malagouzia es un vino blanco de Tatsis Winery, con la denominación PGI Macedonia, en Grecia.",
+    "en": "Tatsis Malagouzia is a white wine from Tatsis Winery, made under the PGI Macedonia appellation in Greece.",
+    "fr": "Tatsis Malagouzia est un vin blanc de Tatsis Winery, élaboré sous l’appellation PGI Macedonia (Grèce).",
+    "it": "Tatsis Malagouzia è un vino bianco di Tatsis Winery, prodotto nella denominazione PGI Macedonia (Grecia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Malagousia. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is made from Malagousia. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Malagousia. Il titre 12,5 % vol.</p>",
+    "it": "<p>È prodotto con Malagousia. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Tatsis Malagouzia Tatsis Winery",
+  "brief": true,
+  "source": "decantalo"
+}

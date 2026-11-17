@@ -1,0 +1,40 @@
+{
+  "slug": "bimbache-chivo-tinto",
+  "name": "Bimbache Chivo Tinto",
+  "winery": null,
+  "winery_name": "Bimbache Vinícola",
+  "region": null,
+  "country": "espana",
+  "appellation": "DO El Hierro",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Bimbache Chivo Tinto es un vino tinto de Bimbache Vinícola, con la denominación DO El Hierro, en España.",
+    "en": "Bimbache Chivo Tinto is a red wine from Bimbache Vinícola, made under the DO El Hierro appellation in Spain.",
+    "fr": "Bimbache Chivo Tinto est un vin rouge de Bimbache Vinícola, élaboré sous l’appellation DO El Hierro (Espagne).",
+    "it": "Bimbache Chivo Tinto è un vino rosso di Bimbache Vinícola, prodotto nella denominazione DO El Hierro (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se cría en depósitos de acero inoxidable. Su graduación es de 13 % vol.</p>",
+    "en": "<p>It is aged in stainless steel tanks. It has 13% ABV.</p>",
+    "fr": "<p>Il est élevé en cuves inox. Il titre 13 % vol.</p>",
+    "it": "<p>Affina in acciaio inox. Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Bimbache Chivo Tinto Bimbache Vinícola",
+  "brief": true,
+  "source": "decantalo"
+}

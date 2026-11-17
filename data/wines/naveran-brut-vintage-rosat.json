@@ -1,0 +1,42 @@
+{
+  "slug": "naveran-brut-vintage-rosat",
+  "name": "Naverán Brut Vintage Rosat",
+  "winery": null,
+  "winery_name": "Naverán",
+  "region": null,
+  "country": "espana",
+  "appellation": null,
+  "type": "espumoso",
+  "category": null,
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Naverán Brut Vintage Rosat es un vino espumoso de Naverán, en España.",
+    "en": "Naverán Brut Vintage Rosat is a sparkling wine from Naverán in Spain.",
+    "fr": "Naverán Brut Vintage Rosat est un vin effervescent de Naverán (Espagne).",
+    "it": "Naverán Brut Vintage Rosat è un vino spumante di Naverán (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Pinot Noir. Su graduación es de 12 % vol.</p>",
+    "en": "<p>It is made from Pinot Noir. It has 12% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Pinot Noir. Il titre 12 % vol.</p>",
+    "it": "<p>È prodotto con Pinot Nero. Ha 12% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Naverán Brut Vintage Rosat Naverán",
+  "brief": true,
+  "source": "decantalo"
+}

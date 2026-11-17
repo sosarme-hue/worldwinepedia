@@ -1,0 +1,42 @@
+{
+  "slug": "pegasus-bay-riesling",
+  "name": "Pegasus Bay Riesling",
+  "winery": null,
+  "winery_name": "Pegasus Bay",
+  "region": null,
+  "country": "nueva-zelanda",
+  "appellation": "Waipara Valley",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "riesling"
+  ],
+  "summary": {
+    "es": "Pegasus Bay Riesling es un vino blanco de Pegasus Bay, con la denominación Waipara Valley, en Nueva Zelanda.",
+    "en": "Pegasus Bay Riesling is a white wine from Pegasus Bay, made under the Waipara Valley appellation in New Zealand.",
+    "fr": "Pegasus Bay Riesling est un vin blanc de Pegasus Bay, élaboré sous l’appellation Waipara Valley (Nouvelle-Zélande).",
+    "it": "Pegasus Bay Riesling è un vino bianco di Pegasus Bay, prodotto nella denominazione Waipara Valley (Nuova Zelanda)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Riesling. Se cría sobre sus lías. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is made from Riesling. It is aged on its lees. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Riesling. Il est élevé sur lies. Il titre 12,5 % vol.</p>",
+    "it": "<p>È prodotto con Riesling Renano. Affina sulle fecce fini. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Pegasus Bay Riesling Pegasus Bay",
+  "brief": true,
+  "source": "decantalo"
+}

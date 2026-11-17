@@ -1,0 +1,42 @@
+{
+  "slug": "chalk-hill-luna-cabernet-sauvignon",
+  "name": "Chalk Hill Luna Cabernet Sauvignon",
+  "winery": null,
+  "winery_name": "Chalk Hill",
+  "region": "mclaren-vale",
+  "country": "australia",
+  "appellation": "McLaren Vale",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "Chalk Hill Luna Cabernet Sauvignon es un vino tinto de Chalk Hill, con la denominación McLaren Vale, en Australia.",
+    "en": "Chalk Hill Luna Cabernet Sauvignon is a red wine from Chalk Hill, made under the McLaren Vale appellation in Australia.",
+    "fr": "Chalk Hill Luna Cabernet Sauvignon est un vin rouge de Chalk Hill, élaboré sous l’appellation McLaren Vale (Australie).",
+    "it": "Chalk Hill Luna Cabernet Sauvignon è un vino rosso di Chalk Hill, prodotto nella denominazione McLaren Vale (Australia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Cabernet Sauvignon. Tiene crianza en madera. Su graduación es de 14 % vol.</p><p>McLaren Vale, al sur de Adelaida y junto al golfo de San Vicente, es una de las regiones históricas de Australia Meridional. Destaca por sus Shiraz y Garnachas de viñas viejas y por una gran diversidad geológica.</p>",
+    "en": "<p>It is made from Cabernet Sauvignon. It is aged in wood. It has 14% ABV.</p><p>McLaren Vale, south of Adelaide and next to Gulf St Vincent, is one of South Australia’s historic regions. It stands out for its old-vine Shiraz and Grenache and for great geological diversity.</p>",
+    "fr": "<p>Il est élaboré à partir de Cabernet Sauvignon. Il est élevé en bois. Il titre 14 % vol.</p><p>McLaren Vale, au sud d’Adélaïde et au bord du golfe Saint-Vincent, est l’une des régions historiques d’Australie-Méridionale. Elle se distingue par ses shiraz et grenaches de vieilles vignes et par une grande diversité géologique.</p>",
+    "it": "<p>È prodotto con Cabernet Sauvignon. È affinato in legno. Ha 14% vol.</p><p>McLaren Vale, a sud di Adelaide e affacciata sul golfo di San Vincenzo, è una delle regioni storiche dell’Australia Meridionale. Si distingue per Shiraz e Grenache di vecchie vigne e per una grande diversità geologica.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Chalk Hill Luna Cabernet Sauvignon Chalk Hill",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "barahonda-crianza",
+  "name": "Barahonda Crianza",
+  "winery": null,
+  "winery_name": "Barahonda",
+  "region": "yecla",
+  "country": "espana",
+  "appellation": "DO Yecla",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Barahonda Crianza es un vino tinto de Barahonda, con la denominación DO Yecla, en España.",
+    "en": "Barahonda Crianza is a red wine from Barahonda, made under the DO Yecla appellation in Spain.",
+    "fr": "Barahonda Crianza est un vin rouge de Barahonda, élaboré sous l’appellation DO Yecla (Espagne).",
+    "it": "Barahonda Crianza è un vino rosso di Barahonda, prodotto nella denominazione DO Yecla (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14,5 % vol.</p><p>Yecla es una denominación de origen del norte de la Región de Murcia que se limita a un único término municipal, el de la ciudad de Yecla. Su variedad dominante es la Monastrell, con la que se elaboran tintos cálidos y afrutados de clima mediterráneo continental.</p>",
+    "en": "<p>It is aged in wood. It has 14.5% ABV.</p><p>Yecla is a designation of origin in the north of the Region of Murcia that is limited to a single municipality, that of the town of Yecla. Its dominant variety is Monastrell, which gives warm, fruity reds from a continental Mediterranean climate.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14,5 % vol.</p><p>Yecla est une dénomination d'origine du nord de la Région de Murcie qui se limite à une seule commune, celle de la ville de Yecla. Son cépage dominant est le monastrell (mourvèdre), dont on tire des rouges chaleureux et fruités sous un climat méditerranéen continental.</p>",
+    "it": "<p>È affinato in legno. Ha 14,5% vol.</p><p>Yecla è una denominazione di origine del nord della Regione di Murcia che si limita a un unico comune, quello della città di Yecla. Il suo vitigno dominante è il Monastrell, da cui si ottengono rossi caldi e fruttati in un clima mediterraneo continentale.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Barahonda Crianza Barahonda",
+  "brief": true,
+  "source": "decantalo"
+}

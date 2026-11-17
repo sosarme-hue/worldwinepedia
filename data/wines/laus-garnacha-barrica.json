@@ -1,0 +1,42 @@
+{
+  "slug": "laus-garnacha-barrica",
+  "name": "Laus Garnacha Barrica",
+  "winery": null,
+  "winery_name": "Bodegas Laus",
+  "region": "somontano",
+  "country": "espana",
+  "appellation": "DO Somontano",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Laus Garnacha Barrica es un vino tinto de Bodegas Laus, con la denominación DO Somontano, en España.",
+    "en": "Laus Garnacha Barrica is a red wine from Bodegas Laus, made under the DO Somontano appellation in Spain.",
+    "fr": "Laus Garnacha Barrica est un vin rouge de Bodegas Laus, élaboré sous l’appellation DO Somontano (Espagne).",
+    "it": "Laus Garnacha Barrica è un vino rosso di Bodegas Laus, prodotto nella denominazione DO Somontano (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Tiene crianza en madera. Su graduación es de 13,5 % vol.</p><p>Somontano es una denominación de origen de la provincia de Huesca, al pie de los Pirineos, con Barbastro como centro. Combina variedades autóctonas como Moristel y Parraleta con un amplio abanico de uvas internacionales.</p>",
+    "en": "<p>It is made from Grenache. It is aged in wood. It has 13.5% ABV.</p><p>Somontano is a designation of origin in the province of Huesca, at the foot of the Pyrenees, centred on Barbastro. It combines native varieties such as Moristel and Parraleta with a wide range of international grapes.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. Il est élevé en bois. Il titre 13,5 % vol.</p><p>Le Somontano est une dénomination d'origine de la province de Huesca, au pied des Pyrénées, centrée sur Barbastro. Il associe des cépages autochtones comme le moristel et la parraleta à une large palette de cépages internationaux.</p>",
+    "it": "<p>È prodotto con Grenache. È affinato in legno. Ha 13,5% vol.</p><p>Somontano è una denominazione di origine della provincia di Huesca, ai piedi dei Pirenei, con Barbastro come centro. Unisce vitigni autoctoni come Moristel e Parraleta a un'ampia gamma di uve internazionali.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Laus Garnacha Barrica Bodegas Laus",
+  "brief": true,
+  "source": "decantalo"
+}

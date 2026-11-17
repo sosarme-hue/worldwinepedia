@@ -1,0 +1,42 @@
+{
+  "slug": "agaliu",
+  "name": "Agaliu",
+  "winery": null,
+  "winery_name": "L'Olivera",
+  "region": "costers-del-segre",
+  "country": "espana",
+  "appellation": "DO Costers del Segre",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "macabeo"
+  ],
+  "summary": {
+    "es": "Agaliu es un vino blanco de L'Olivera, con la denominación DO Costers del Segre, en España.",
+    "en": "Agaliu is a white wine from L'Olivera, made under the DO Costers del Segre appellation in Spain.",
+    "fr": "Agaliu est un vin blanc de L'Olivera, élaboré sous l’appellation DO Costers del Segre (Espagne).",
+    "it": "Agaliu è un vino bianco di L'Olivera, prodotto nella denominazione DO Costers del Segre (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Macabeo. Fermenta en barrica. Su graduación es de 12 % vol.</p><p>Costers del Segre es una denominación de origen del interior de Cataluña, principalmente en la provincia de Lleida, formada por varias subzonas dispersas a lo largo del río Segre y sus afluentes. Su clima continental y seco da lugar a una amplia variedad de tintos, blancos y rosados.</p>",
+    "en": "<p>It is made from Macabeo (Viura). It is fermented in barrel. It has 12% ABV.</p><p>Costers del Segre is a designation of origin in inland Catalonia, mainly in the province of Lleida, made up of several scattered subzones along the Segre river and its tributaries. Its dry continental climate gives rise to a wide variety of reds, whites and rosés.</p>",
+    "fr": "<p>Il est élaboré à partir de Macabeu. Il est fermenté en barrique. Il titre 12 % vol.</p><p>Costers del Segre est une dénomination d'origine de l'intérieur de la Catalogne, principalement dans la province de Lleida, formée de plusieurs sous-zones dispersées le long du Segre et de ses affluents. Son climat continental et sec donne une grande variété de rouges, de blancs et de rosés.</p>",
+    "it": "<p>È prodotto con Macabeo. Fermenta in barrique. Ha 12% vol.</p><p>Costers del Segre è una denominazione di origine della Catalogna interna, principalmente nella provincia di Lleida, formata da diverse sottozone sparse lungo il fiume Segre e i suoi affluenti. Il clima continentale e secco dà origine a un'ampia varietà di rossi, bianchi e rosati.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Agaliu L'Olivera",
+  "brief": true,
+  "source": "decantalo"
+}

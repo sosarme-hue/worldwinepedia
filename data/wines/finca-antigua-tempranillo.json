@@ -1,0 +1,45 @@
+{
+  "slug": "finca-antigua-tempranillo",
+  "name": "Finca Antigua Tempranillo",
+  "winery": "finca-antigua",
+  "winery_name": null,
+  "region": "la-mancha",
+  "country": "espana",
+  "appellation": "DO La Mancha",
+  "type": "tinto",
+  "category": {
+    "es": "Crianza",
+    "en": "Crianza",
+    "fr": "Crianza",
+    "it": "Crianza"
+  },
+  "grapes": [],
+  "summary": {
+    "es": "Finca Antigua Tempranillo es un vino tinto de Finca Antigua, con la denominación DO La Mancha, en España.",
+    "en": "Finca Antigua Tempranillo is a red wine from Finca Antigua, made under the DO La Mancha appellation in Spain.",
+    "fr": "Finca Antigua Tempranillo est un vin rouge de Finca Antigua, élaboré sous l’appellation DO La Mancha (Espagne).",
+    "it": "Finca Antigua Tempranillo è un vino rosso di Finca Antigua, prodotto nella denominazione DO La Mancha (Spagna)."
+  },
+  "body": {
+    "es": "<p>Lleva la mención Crianza. Su graduación es de 14 % vol.</p><p>Finca de la familia Martínez Bujanda en Los Hinojosos (Cuenca), dentro de la D.O. La Mancha, con viñedo propio de altitud y una amplia gama de vinos varietales y de crianza.</p><p>La Mancha, en Castilla-La Mancha, es la denominación de origen de mayor superficie de España y una de las mayores zonas vitícolas del mundo. Tradicionalmente dominada por la blanca Airén, elabora hoy también una parte creciente de tintos de Tempranillo y variedades internacionales.</p>",
+    "en": "<p>It carries the Crianza designation. It has 14% ABV.</p><p>Estate of the Martínez Bujanda family in Los Hinojosos (Cuenca), within the La Mancha D.O., with its own high-altitude vineyards and a wide range of varietal and oak-aged wines.</p><p>La Mancha, in Castilla-La Mancha, is Spain's largest designation of origin by area and one of the largest wine regions in the world. Traditionally dominated by the white Airén, it now also produces a growing share of reds from Tempranillo and international varieties.</p>",
+    "fr": "<p>Il porte la mention Crianza. Il titre 14 % vol.</p><p>Domaine de la famille Martínez Bujanda à Los Hinojosos (Cuenca), dans la D.O. La Mancha, avec un vignoble propre en altitude et une large gamme de vins de cépage et élevés en fût.</p><p>La Mancha, en Castille-La Manche, est la dénomination d'origine la plus étendue d'Espagne et l'une des plus vastes zones viticoles du monde. Traditionnellement dominée par l'airén blanc, elle produit aujourd'hui une part croissante de rouges de tempranillo et de cépages internationaux.</p>",
+    "it": "<p>Riporta la menzione Crianza. Ha 14% vol.</p><p>Tenuta della famiglia Martínez Bujanda a Los Hinojosos (Cuenca), nella D.O. La Mancha, con vigneti propri d'altura e un'ampia gamma di vini varietali e affinati in legno.</p><p>La Mancha, in Castiglia-La Mancia, è la denominazione di origine più estesa della Spagna e una delle maggiori zone vitivinicole del mondo. Tradizionalmente dominata dal bianco Airén, oggi produce anche una quota crescente di rossi di Tempranillo e vitigni internazionali.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Finca Antigua Tempranillo Finca Antigua",
+  "brief": true,
+  "source": "decantalo"
+}

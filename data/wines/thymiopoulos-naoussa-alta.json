@@ -1,0 +1,42 @@
+{
+  "slug": "thymiopoulos-naoussa-alta",
+  "name": "Thymiopoulos Naoussa Alta",
+  "winery": null,
+  "winery_name": "Apostolos Thymiopoulos",
+  "region": null,
+  "country": "grecia",
+  "appellation": "PDO Naoussa",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "xinomavro"
+  ],
+  "summary": {
+    "es": "Thymiopoulos Naoussa Alta es un vino tinto de Apostolos Thymiopoulos, con la denominación PDO Naoussa, en Grecia.",
+    "en": "Thymiopoulos Naoussa Alta is a red wine from Apostolos Thymiopoulos, made under the PDO Naoussa appellation in Greece.",
+    "fr": "Thymiopoulos Naoussa Alta est un vin rouge de Apostolos Thymiopoulos, élaboré sous l’appellation PDO Naoussa (Grèce).",
+    "it": "Thymiopoulos Naoussa Alta è un vino rosso di Apostolos Thymiopoulos, prodotto nella denominazione PDO Naoussa (Grecia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Xinomavro. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is made from Xinomavro. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Xinomavro. Il titre 12,5 % vol.</p>",
+    "it": "<p>È prodotto con Xinomavro. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Thymiopoulos Naoussa Alta Apostolos Thymiopoulos",
+  "brief": true,
+  "source": "decantalo"
+}

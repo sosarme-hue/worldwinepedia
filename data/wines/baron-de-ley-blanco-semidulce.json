@@ -1,0 +1,42 @@
+{
+  "slug": "baron-de-ley-blanco-semidulce",
+  "name": "Barón de Ley Blanco Semidulce",
+  "winery": null,
+  "winery_name": "Barón de Ley",
+  "region": "rioja",
+  "country": "espana",
+  "appellation": "DOCa Rioja",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "sauvignon-blanc"
+  ],
+  "summary": {
+    "es": "Barón de Ley Blanco Semidulce es un vino blanco de Barón de Ley, con la denominación DOCa Rioja, en España.",
+    "en": "Barón de Ley Blanco Semidulce is a white wine from Barón de Ley, made under the DOCa Rioja appellation in Spain.",
+    "fr": "Barón de Ley Blanco Semidulce est un vin blanc de Barón de Ley, élaboré sous l’appellation DOCa Rioja (Espagne).",
+    "it": "Barón de Ley Blanco Semidulce è un vino bianco di Barón de Ley, prodotto nella denominazione DOCa Rioja (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Sauvignon Blanc. Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 10,5 % vol.</p><p>Rioja, en el valle del Ebro, fue en 1991 la primera Denominación de Origen Calificada de España. Es conocida sobre todo por sus tintos de Tempranillo y por su larga tradición de crianza en barrica de roble.</p>",
+    "en": "<p>It is made from Sauvignon Blanc. It is a young wine, meant to be drunk in its first years. It has 10.5% ABV.</p><p>Rioja, in the Ebro valley, became Spain's first Qualified Designation of Origin in 1991. It is best known for its Tempranillo-based reds and its long tradition of ageing in oak barrels.</p>",
+    "fr": "<p>Il est élaboré à partir de Sauvignon Blanc. C’est un vin jeune, à boire dans ses premières années. Il titre 10,5 % vol.</p><p>La Rioja, dans la vallée de l'Èbre, est devenue en 1991 la première dénomination d'origine qualifiée d'Espagne. Elle est surtout connue pour ses rouges à base de tempranillo et sa longue tradition d'élevage en barrique de chêne.</p>",
+    "it": "<p>È prodotto con Sauvignon Blanc. È un vino giovane, da bere nei primi anni. Ha 10,5% vol.</p><p>La Rioja, nella valle dell'Ebro, è diventata nel 1991 la prima Denominazione di origine qualificata di Spagna. È nota soprattutto per i rossi a base di Tempranillo e per la lunga tradizione di affinamento in botte di rovere.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Barón de Ley Blanco Semidulce Barón de Ley",
+  "brief": true,
+  "source": "decantalo"
+}

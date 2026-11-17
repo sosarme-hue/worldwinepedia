@@ -1,0 +1,42 @@
+{
+  "slug": "domaine-lafage-cayrol",
+  "name": "Domaine Lafage Cayrol",
+  "winery": null,
+  "winery_name": "Domaine Lafage",
+  "region": null,
+  "country": "francia",
+  "appellation": "IGP des Côtes Catalanes",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "carinena"
+  ],
+  "summary": {
+    "es": "Domaine Lafage Cayrol es un vino tinto de Domaine Lafage, con la denominación IGP des Côtes Catalanes, en Francia.",
+    "en": "Domaine Lafage Cayrol is a red wine from Domaine Lafage, made under the IGP des Côtes Catalanes appellation in France.",
+    "fr": "Domaine Lafage Cayrol est un vin rouge de Domaine Lafage, élaboré sous l’appellation IGP des Côtes Catalanes (France).",
+    "it": "Domaine Lafage Cayrol è un vino rosso di Domaine Lafage, prodotto nella denominazione IGP des Côtes Catalanes (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Cariñena. Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 14,5 % vol.</p>",
+    "en": "<p>It is made from Carignan. It is a young wine, meant to be drunk in its first years. It has 14.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Carignan. C’est un vin jeune, à boire dans ses premières années. Il titre 14,5 % vol.</p>",
+    "it": "<p>È prodotto con Carignano. È un vino giovane, da bere nei primi anni. Ha 14,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Domaine Lafage Cayrol Domaine Lafage",
+  "brief": true,
+  "source": "decantalo"
+}

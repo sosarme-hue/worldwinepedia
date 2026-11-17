@@ -1,0 +1,42 @@
+{
+  "slug": "rico-nuevo-garnacha",
+  "name": "Rico - Nuevo Garnacha",
+  "winery": null,
+  "winery_name": "Rico - Nuevo Viticultores",
+  "region": null,
+  "country": "espana",
+  "appellation": "DO Cebreros",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Rico - Nuevo Garnacha es un vino tinto de Rico - Nuevo Viticultores, con la denominación DO Cebreros, en España.",
+    "en": "Rico - Nuevo Garnacha is a red wine from Rico - Nuevo Viticultores, made under the DO Cebreros appellation in Spain.",
+    "fr": "Rico - Nuevo Garnacha est un vin rouge de Rico - Nuevo Viticultores, élaboré sous l’appellation DO Cebreros (Espagne).",
+    "it": "Rico - Nuevo Garnacha è un vino rosso di Rico - Nuevo Viticultores, prodotto nella denominazione DO Cebreros (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Su graduación es de 14 % vol.</p>",
+    "en": "<p>It is made from Grenache. It has 14% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. Il titre 14 % vol.</p>",
+    "it": "<p>È prodotto con Grenache. Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Rico - Nuevo Garnacha Rico - Nuevo Viticultores",
+  "brief": true,
+  "source": "decantalo"
+}
