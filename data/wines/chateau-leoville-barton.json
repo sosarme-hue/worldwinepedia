@@ -1,0 +1,50 @@
+{
+  "slug": "chateau-leoville-barton",
+  "name": "Château Léoville Barton",
+  "winery": "chateau-leoville-barton",
+  "region": "saint-julien",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Second Cru Classé 1855",
+    "en": "Second Cru Classé 1855",
+    "fr": "Second Cru Classé 1855",
+    "it": "Second Cru Classé 1855"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Gran vino de Château Léoville Barton, segundo cru classé de Saint-Julien, un tinto clásico dominado por la Cabernet Sauvignon y de larga guarda.",
+    "en": "Grand vin of Château Léoville Barton, a Saint-Julien second growth: a classic, long-lived red dominated by Cabernet Sauvignon.",
+    "fr": "Grand vin de Château Léoville Barton, deuxième cru classé de Saint-Julien : un rouge classique dominé par le cabernet-sauvignon, de longue garde.",
+    "it": "Grand vin di Château Léoville Barton, secondo cru classé di Saint-Julien: un rosso classico dominato dal Cabernet Sauvignon, di lungo invecchiamento."
+  },
+  "body": {
+    "es": "<p>El gran vino de <strong>Château Léoville Barton</strong> procede de un viñedo sobre las gravas de Saint-Julien, en el corazón del Médoc, que la familia Barton posee desde 1826. Clasificado como segundo cru classé en 1855, se elabora en las instalaciones del vecino Château Langoa Barton, también propiedad de la familia, aunque ambos viñedos se vinifican por separado.</p><p>El ensamblaje está dominado por la <strong>Cabernet Sauvignon</strong>, completada con Merlot y una pequeña parte de Cabernet Franc. El vino se cría en barricas de roble francés, una parte nuevas, durante un periodo prolongado antes del embotellado.</p><p>La casa es conocida por un estilo clásico de Saint-Julien, con fruta negra precisa, notas de cedro y grafito, taninos firmes y una gran capacidad de envejecimiento. En su juventud puede mostrarse austero, y alcanza su plenitud tras muchos años de botella; conviene decantarlo con antelación.</p>",
+    "en": "<p>The grand vin of <strong>Château Léoville Barton</strong> comes from a vineyard on the gravels of Saint-Julien, in the heart of the Médoc, owned by the Barton family since 1826. Ranked as a second growth in 1855, it is made at the facilities of neighbouring Château Langoa Barton, also owned by the family, although the two vineyards are vinified separately.</p><p>The blend is dominated by <strong>Cabernet Sauvignon</strong>, completed by Merlot and a small share of Cabernet Franc. The wine is aged in French oak barrels, a proportion of them new, for an extended period before bottling.</p><p>The house is known for a classic Saint-Julien style, with precise black fruit, cedar and graphite notes, firm tannins and great ageing potential. It can seem austere in its youth and reaches its peak after many years in bottle; it is best decanted in advance.</p>",
+    "fr": "<p>Le grand vin de <strong>Château Léoville Barton</strong> provient d’un vignoble situé sur les graves de Saint-Julien, au cœur du Médoc, propriété de la famille Barton depuis 1826. Classé deuxième cru classé en 1855, il est élaboré dans les installations du château voisin de Langoa Barton, qui appartient aussi à la famille, même si les deux vignobles sont vinifiés séparément.</p><p>L’assemblage est dominé par le <strong>cabernet-sauvignon</strong>, complété par le merlot et une petite part de cabernet franc. Le vin est élevé en barriques de chêne français, dont une partie neuves, pendant une période prolongée avant la mise en bouteille.</p><p>La maison est connue pour un style classique de Saint-Julien, au fruit noir précis, aux notes de cèdre et de graphite, aux tanins fermes et au grand potentiel de garde. Il peut paraître austère dans sa jeunesse et atteint sa plénitude après de nombreuses années de bouteille ; il gagne à être carafé à l’avance.</p>",
+    "it": "<p>Il grand vin di <strong>Château Léoville Barton</strong> proviene da un vigneto sulle ghiaie di Saint-Julien, nel cuore del Médoc, di proprietà della famiglia Barton dal 1826. Classificato secondo cru classé nel 1855, è prodotto negli impianti del vicino Château Langoa Barton, anch’esso della famiglia, sebbene i due vigneti siano vinificati separatamente.</p><p>L’uvaggio è dominato dal <strong>Cabernet Sauvignon</strong>, completato da Merlot e da una piccola quota di Cabernet Franc. Il vino è affinato in barrique di rovere francese, in parte nuove, per un periodo prolungato prima dell’imbottigliamento.</p><p>La casa è nota per uno stile classico di Saint-Julien, con frutto nero preciso, note di cedro e grafite, tannini decisi e grande capacità d’invecchiamento. Da giovane può apparire austero e raggiunge la pienezza dopo molti anni di bottiglia; conviene decantarlo in anticipo.</p>"
+  },
+  "tasting": {
+    "es": "Grosella negra, mora, cedro, grafito, tabaco y especias. Boca firme y estructurada, de taninos densos y final largo.",
+    "en": "Blackcurrant, blackberry, cedar, graphite, tobacco and spice. Firm, structured palate with dense tannins and a long finish.",
+    "fr": "Cassis, mûre, cèdre, graphite, tabac et épices. Bouche ferme et structurée, tanins denses et finale longue.",
+    "it": "Ribes nero, mora, cedro, grafite, tabacco e spezie. Bocca decisa e strutturata, tannini densi e finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, entrecot, caza, pato, quesos curados",
+    "en": "Roast lamb, rib steak, game, duck, aged cheeses",
+    "fr": "Agneau rôti, entrecôte, gibier, canard, fromages affinés",
+    "it": "Agnello arrosto, entrecôte, selvaggina, anatra, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Château Léoville Barton Saint-Julien"
+}

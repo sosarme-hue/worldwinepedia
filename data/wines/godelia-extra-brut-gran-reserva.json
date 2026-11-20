@@ -1,0 +1,40 @@
+{
+  "slug": "godelia-extra-brut-gran-reserva",
+  "name": "Godelia Extra Brut Gran Reserva",
+  "winery": null,
+  "winery_name": "Godelia",
+  "region": null,
+  "country": "espana",
+  "appellation": null,
+  "type": "espumoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Godelia Extra Brut Gran Reserva es un vino espumoso de Godelia, en España.",
+    "en": "Godelia Extra Brut Gran Reserva is a sparkling wine from Godelia in Spain.",
+    "fr": "Godelia Extra Brut Gran Reserva est un vin effervescent de Godelia (Espagne).",
+    "it": "Godelia Extra Brut Gran Reserva è un vino spumante di Godelia (Spagna)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It has 12.5% ABV.</p>",
+    "fr": "<p>Il titre 12,5 % vol.</p>",
+    "it": "<p>Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Godelia Extra Brut Gran Reserva Godelia",
+  "brief": true,
+  "source": "decantalo"
+}

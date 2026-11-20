@@ -1,0 +1,42 @@
+{
+  "slug": "perelada-aires-de-garbet",
+  "name": "Perelada Aires de Garbet",
+  "winery": "perelada",
+  "winery_name": null,
+  "region": "emporda",
+  "country": "espana",
+  "appellation": "DO Empordà",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Perelada Aires de Garbet es un vino tinto de Perelada, con la denominación DO Empordà, en España.",
+    "en": "Perelada Aires de Garbet is a red wine from Perelada, made under the DO Empordà appellation in Spain.",
+    "fr": "Perelada Aires de Garbet est un vin rouge de Perelada, élaboré sous l’appellation DO Empordà (Espagne).",
+    "it": "Perelada Aires de Garbet è un vino rosso di Perelada, prodotto nella denominazione DO Empordà (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Tiene crianza en madera. Su graduación es de 14,2 % vol.</p><p>Bodega histórica del Alt Empordà vinculada al castillo de Peralada, que elabora vinos tranquilos de la D.O. Empordà y espumosos de la D.O. Cava.</p><p>Empordà es la denominación de origen del noreste de Cataluña, en la provincia de Girona, entre los Pirineos y el Mediterráneo. Marcada por el viento de tramontana, elabora tintos de Cariñena y Garnacha, blancos y el vino dulce tradicional Garnatxa de l'Empordà.</p>",
+    "en": "<p>It is made from Grenache. It is aged in wood. It has 14.2% ABV.</p><p>Historic Alt Empordà winery linked to the castle of Peralada, producing still wines under the Empordà D.O. and sparkling wines under the Cava D.O.</p><p>Empordà is the designation of origin of north-eastern Catalonia, in the province of Girona, between the Pyrenees and the Mediterranean. Shaped by the tramontana wind, it produces Carignan and Grenache reds, whites and the traditional sweet wine Garnatxa de l'Empordà.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. Il est élevé en bois. Il titre 14,2 % vol.</p><p>Maison historique de l'Alt Empordà liée au château de Peralada, qui élabore des vins tranquilles de la D.O. Empordà et des effervescents de la D.O. Cava.</p><p>L'Empordà est la dénomination d'origine du nord-est de la Catalogne, dans la province de Gérone, entre les Pyrénées et la Méditerranée. Marquée par la tramontane, elle produit des rouges de carignan et de grenache, des blancs et le vin doux traditionnel Garnatxa de l'Empordà.</p>",
+    "it": "<p>È prodotto con Grenache. È affinato in legno. Ha 14,2% vol.</p><p>Storica cantina dell'Alt Empordà legata al castello di Peralada, che produce vini fermi della D.O. Empordà e spumanti della D.O. Cava.</p><p>L'Empordà è la denominazione di origine della Catalogna nord-orientale, nella provincia di Girona, tra i Pirenei e il Mediterraneo. Segnata dal vento di tramontana, produce rossi di Carignano e Garnacha, bianchi e il vino dolce tradizionale Garnatxa de l'Empordà.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Perelada Aires de Garbet Perelada",
+  "brief": true,
+  "source": "decantalo"
+}

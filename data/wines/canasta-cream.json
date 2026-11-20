@@ -1,0 +1,49 @@
+{
+  "slug": "canasta-cream",
+  "name": "Canasta Cream",
+  "winery": "williams-humbert",
+  "region": "jerez-xeres-sherry",
+  "country": "espana",
+  "type": "generoso",
+  "category": {
+    "es": "Cream",
+    "en": "Cream",
+    "fr": "Cream",
+    "it": "Cream"
+  },
+  "grapes": [
+    "palomino",
+    "pedro-ximenez"
+  ],
+  "summary": {
+    "es": "Jerez dulce de tipo cream de Williams & Humbert, mezcla de oloroso y Pedro Ximénez.",
+    "en": "Sweet cream sherry from Williams & Humbert, a blend of oloroso and Pedro Ximénez.",
+    "fr": "Xérès doux de type cream de Williams & Humbert, assemblage d'oloroso et de Pedro Ximénez.",
+    "it": "Sherry dolce di tipo cream di Williams & Humbert, miscela di oloroso e Pedro Ximénez."
+  },
+  "body": {
+    "es": "<p>Canasta es el cream histórico de Williams & Humbert y una de las marcas veteranas del jerez dulce, elaborada durante mucho tiempo con la vista puesta en el mercado británico, que tradicionalmente ha preferido los jereces con un punto de dulzor.</p><p>Pertenece a la categoría <strong>cream</strong> de la D.O. Jerez, que reúne los vinos dulces de mezcla. Su base es el <strong>oloroso</strong>, un vino de <strong>palomino</strong> encabezado desde el principio a una graduación que impide el desarrollo de la flor y que, por tanto, envejece de forma oxidativa en contacto con el aire, ganando color, cuerpo y aromas de frutos secos. A este oloroso se le añade vino dulce de <strong>pedro ximénez</strong>, elaborado con uvas pasificadas al sol, que aporta dulzor y notas de pasas; las proporciones no se detallan. La crianza se realiza en el sistema de criaderas y solera. El resultado es un jerez dulce, de color caoba, redondo y fácil de beber.</p>",
+    "en": "<p>Canasta is Williams & Humbert's historic cream and one of the longest-established sweet sherry brands, made for a long time with an eye to the British market, which has traditionally preferred sherries with a touch of sweetness.</p><p>It belongs to the <strong>cream</strong> category of the Jerez D.O., which covers sweet blended wines. Its base is <strong>oloroso</strong>, a <strong>Palomino</strong> wine fortified from the outset to a strength that prevents flor from developing and which therefore ages oxidatively in contact with the air, gaining colour, body and nutty aromas. Sweet <strong>Pedro Ximénez</strong> wine, made from sun-dried grapes, is added to this oloroso, contributing sweetness and raisin notes; the proportions are not disclosed. Ageing takes place in the criaderas and solera system. The result is a sweet, mahogany-coloured sherry that is round and easy to drink.</p>",
+    "fr": "<p>Canasta est le cream historique de Williams & Humbert et l'une des marques les plus anciennes du xérès doux, longtemps élaborée en pensant au marché britannique, qui a traditionnellement préféré les xérès avec une pointe de douceur.</p><p>Il appartient à la catégorie <strong>cream</strong> de la D.O. Jerez, qui réunit les vins doux d'assemblage. Sa base est l'<strong>oloroso</strong>, un vin de <strong>palomino</strong> muté dès le départ à un degré qui empêche le développement de la flor et qui vieillit donc de façon oxydative au contact de l'air, gagnant couleur, corps et arômes de fruits secs. À cet oloroso s'ajoute du vin doux de <strong>pedro ximénez</strong>, élaboré avec des raisins passerillés au soleil, qui apporte douceur et notes de raisins secs ; les proportions ne sont pas détaillées. L'élevage se fait dans le système des criaderas et solera. Le résultat est un xérès doux, de couleur acajou, rond et facile à boire.</p>",
+    "it": "<p>Canasta è il cream storico di Williams & Humbert e uno dei marchi più antichi dello sherry dolce, prodotto a lungo pensando al mercato britannico, che tradizionalmente ha preferito sherry con una punta di dolcezza.</p><p>Appartiene alla categoria <strong>cream</strong> della D.O. Jerez, che riunisce i vini dolci di miscela. La sua base è l'<strong>oloroso</strong>, un vino di <strong>Palomino</strong> fortificato fin dall'inizio a una gradazione che impedisce lo sviluppo della flor e che quindi invecchia in modo ossidativo a contatto con l'aria, acquistando colore, corpo e aromi di frutta secca. A questo oloroso si aggiunge vino dolce di <strong>Pedro Ximénez</strong>, prodotto con uve appassite al sole, che apporta dolcezza e note di uvetta; le proporzioni non sono specificate. L'affinamento avviene nel sistema di criaderas e solera. Il risultato è uno sherry dolce, color mogano, rotondo e facile da bere.</p>"
+  },
+  "tasting": {
+    "es": "Caoba. Aromas de pasas, higos, nuez, caramelo y especias dulces. En boca es dulce, sedoso y equilibrado.",
+    "en": "Mahogany. Aromas of raisins, figs, walnut, caramel and sweet spice. Sweet, silky and balanced on the palate.",
+    "fr": "Acajou. Arômes de raisins secs, de figues, de noix, de caramel et d'épices douces. En bouche, doux, soyeux et équilibré.",
+    "it": "Mogano. Aromi di uvetta, fichi, noce, caramello e spezie dolci. In bocca è dolce, setoso ed equilibrato."
+  },
+  "pairing": {
+    "es": "Postres de frutos secos, tarta de manzana, quesos azules, helado",
+    "en": "Nut desserts, apple tart, blue cheeses, ice cream",
+    "fr": "Desserts aux fruits secs, tarte aux pommes, fromages persillés, glace",
+    "it": "Dolci alla frutta secca, torta di mele, formaggi erborinati, gelato"
+  },
+  "serve": {
+    "es": "10-12 °C o con hielo, copa de vino blanco",
+    "en": "10-12 °C or over ice, white wine glass",
+    "fr": "10-12 °C ou sur glace, verre à vin blanc",
+    "it": "10-12 °C o con ghiaccio, calice da vino bianco"
+  },
+  "search": "Canasta Cream Williams & Humbert"
+}

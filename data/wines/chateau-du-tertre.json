@@ -1,0 +1,49 @@
+{
+  "slug": "chateau-du-tertre",
+  "name": "Château du Tertre",
+  "winery": null,
+  "winery_name": "Château du Tertre",
+  "region": "margaux",
+  "country": "francia",
+  "appellation": "AOC Margaux",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "cabernet-franc",
+    "petit-verdot"
+  ],
+  "summary": {
+    "es": "Quinto gran cru clasificado de Margaux en 1855, situado sobre un otero de gravas en Arsac, en el sector suroccidental de la denominación.",
+    "en": "Margaux fifth growth classified in 1855, located on a gravel knoll in Arsac, in the south-western part of the appellation.",
+    "fr": "Cinquième grand cru classé de Margaux en 1855, situé sur un tertre de graves à Arsac, dans le secteur sud-ouest de l'appellation.",
+    "it": "Quinto grand cru classé di Margaux nel 1855, situato su un poggio di ghiaie ad Arsac, nel settore sud-occidentale della denominazione."
+  },
+  "body": {
+    "es": "<p><strong>Château du Tertre</strong> es uno de los cinquièmes grands crus de la clasificación de 1855, en la denominación <strong>Margaux</strong>. Es la única propiedad clasificada del municipio de Arsac, en el sector suroccidental de la denominación, algo más alejado del estuario de la Gironda que los viñedos de Margaux y Cantenac.</p><p>Su nombre alude al otero (<em>tertre</em>) de gravas sobre el que se asienta el viñedo, una de las elevaciones más altas de la zona, con suelos pobres y bien drenados. El ensamblaje se basa en la <strong>Cabernet Sauvignon</strong> y la <strong>Merlot</strong>, con una proporción apreciable de <strong>Cabernet Franc</strong> y algo de <strong>Petit Verdot</strong>.</p><p>Margaux es conocida por dar los tintos más perfumados y delicados del Médoc, y Du Tertre responde a ese perfil: fruta negra y roja, notas florales y especiadas y taninos finos, con la estructura propia de la Cabernet. Criado en barricas de roble, puede disfrutarse tras algunos años en botella y tiene capacidad para evolucionar durante bastante tiempo. Conviene decantarlo si se bebe joven.</p>",
+    "en": "<p><strong>Château du Tertre</strong> is one of the cinquièmes grands crus of the 1855 classification, in the <strong>Margaux</strong> appellation. It is the only classified estate in the commune of Arsac, in the south-western part of the appellation, somewhat further from the Gironde estuary than the vineyards of Margaux and Cantenac.</p><p>Its name refers to the gravel knoll (<em>tertre</em>) on which the vineyard stands, one of the highest rises in the area, with poor, well-drained soils. The blend is based on <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong>, with a significant proportion of <strong>Cabernet Franc</strong> and some <strong>Petit Verdot</strong>.</p><p>Margaux is known for producing the most fragrant and delicate reds of the Médoc, and Du Tertre fits that profile: black and red fruit, floral and spicy notes and fine tannins, with the structure brought by Cabernet. Aged in oak barrels, it can be enjoyed after a few years in bottle and is able to develop for quite some time. It is best decanted if drunk young.</p>",
+    "fr": "<p>Le <strong>Château du Tertre</strong> est l'un des cinquièmes grands crus du classement de 1855, dans l'appellation <strong>Margaux</strong>. C'est la seule propriété classée de la commune d'Arsac, dans le secteur sud-ouest de l'appellation, un peu plus éloigné de l'estuaire de la Gironde que les vignes de Margaux et de Cantenac.</p><p>Son nom évoque le <em>tertre</em> de graves sur lequel repose le vignoble, l'une des élévations les plus hautes du secteur, aux sols pauvres et bien drainés. L'assemblage repose sur le <strong>cabernet-sauvignon</strong> et le <strong>merlot</strong>, avec une proportion appréciable de <strong>cabernet franc</strong> et un peu de <strong>petit verdot</strong>.</p><p>Margaux est réputée pour donner les rouges les plus parfumés et délicats du Médoc, et Du Tertre répond à ce profil : fruits noirs et rouges, notes florales et épicées et tanins fins, avec la structure apportée par le cabernet. Élevé en barriques de chêne, il peut s'apprécier après quelques années de bouteille et est capable d'évoluer assez longtemps. Il gagne à être carafé s'il est bu jeune.</p>",
+    "it": "<p><strong>Château du Tertre</strong> è uno dei cinquièmes grands crus della classificazione del 1855, nella denominazione <strong>Margaux</strong>. È l'unica proprietà classificata del comune di Arsac, nel settore sud-occidentale della denominazione, un po' più lontano dall'estuario della Gironda rispetto ai vigneti di Margaux e Cantenac.</p><p>Il nome allude al poggio (<em>tertre</em>) di ghiaie su cui sorge il vigneto, una delle alture più elevate della zona, con suoli poveri e ben drenati. L'assemblaggio si basa su <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong>, con una proporzione apprezzabile di <strong>Cabernet Franc</strong> e un po' di <strong>Petit Verdot</strong>.</p><p>Margaux è nota per dare i rossi più profumati e delicati del Médoc, e Du Tertre risponde a questo profilo: frutto nero e rosso, note floreali e speziate e tannini fini, con la struttura apportata dal Cabernet. Affinato in barrique di rovere, può essere apprezzato dopo qualche anno in bottiglia ed è in grado di evolvere a lungo. Conviene decantarlo se bevuto giovane.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota. Aromas de grosella negra, frambuesa, violeta, especias y cedro. Boca elegante y fresca, con taninos finos y final persistente.",
+    "en": "Cherry red. Aromas of blackcurrant, raspberry, violet, spice and cedar. Elegant and fresh on the palate, with fine tannins and a persistent finish.",
+    "fr": "Rouge cerise. Arômes de cassis, framboise, violette, épices et cèdre. Bouche élégante et fraîche, aux tanins fins et à la finale persistante.",
+    "it": "Rosso ciliegia. Aromi di ribes nero, lampone, violetta, spezie e cedro. Bocca elegante e fresca, con tannini fini e finale persistente."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes rojas a la parrilla, caza, quesos curados",
+    "en": "Roast lamb, grilled red meat, game, aged cheeses",
+    "fr": "Agneau rôti, viandes rouges grillées, gibier, fromages affinés",
+    "it": "Agnello arrosto, carni rosse alla griglia, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa tipo Burdeos",
+    "en": "16-18 °C, decanted, Bordeaux glass",
+    "fr": "16-18 °C, carafé, verre de type bordeaux",
+    "it": "16-18 °C, decantato, calice tipo Bordeaux"
+  },
+  "search": "Château du Tertre Château du Tertre",
+  "source": "decantalo"
+}

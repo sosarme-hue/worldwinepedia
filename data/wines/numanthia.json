@@ -1,0 +1,43 @@
+{
+  "slug": "numanthia",
+  "name": "Numanthia",
+  "winery": "numanthia",
+  "region": "toro",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Tinto de viñas viejas de Tinta de Toro que da nombre a la bodega, concentrado y con crianza en roble francés.",
+    "en": "Old-vine Tinta de Toro red that gives the winery its name, concentrated and aged in French oak.",
+    "fr": "Rouge de vieilles vignes de tinta de toro qui donne son nom à la bodega, concentré et élevé en chêne français.",
+    "it": "Rosso da vigne vecchie di Tinta de Toro che dà il nome alla cantina, concentrato e affinato in rovere francese."
+  },
+  "body": {
+    "es": "<p>Numanthia es el vino central de la gama de la bodega, situado entre el Termes y el Termanthia. Se elabora con Tinta de Toro, adaptación local de la Tempranillo, procedente de viñas viejas en vaso, muchas de ellas plantadas en suelos arenosos donde se conservan cepas sin injertar.</p><p>Las uvas, de piel gruesa y gran concentración por el clima continental extremo de la zona, se vendimian a mano. Tras la fermentación, el vino se cría en barricas de roble francés y reposa después en botella antes de salir al mercado.</p><p>Es un Toro de perfil moderno, potente y concentrado, en el que la crianza busca pulir el tanino natural de la variedad. Suele ganar complejidad con varios años de guarda en botella.</p><p>La D.O. Toro, en la provincia de Zamora, es conocida por sus tintos de gran concentración, fruto de un clima de veranos muy calurosos y de una variedad adaptada durante siglos a esas condiciones.</p>",
+    "en": "<p>Numanthia is the central wine in the winery’s range, sitting between Termes and Termanthia. It is made from Tinta de Toro, the local adaptation of Tempranillo, from old bush vines, many planted on sandy soils where ungrafted vines survive.</p><p>The grapes, thick-skinned and highly concentrated owing to the area’s extreme continental climate, are hand-harvested. After fermentation the wine is aged in French oak barrels and then rests in bottle before release.</p><p>It is a modern-style Toro, powerful and concentrated, in which ageing seeks to polish the variety’s natural tannins. It tends to gain complexity with several years of bottle age.</p><p>The Toro D.O., in the province of Zamora, is known for highly concentrated reds, the result of very hot summers and a variety adapted over centuries to those conditions.</p>",
+    "fr": "<p>Numanthia est le vin central de la gamme de la bodega, entre le Termes et le Termanthia. Il est élaboré avec de la tinta de toro, adaptation locale du tempranillo, issue de vieux ceps en gobelet, dont beaucoup sont plantés sur des sols sableux où subsistent des vignes franches de pied.</p><p>Les raisins, à peau épaisse et très concentrés en raison du climat continental extrême de la zone, sont vendangés à la main. Après la fermentation, le vin est élevé en barriques de chêne français puis repose en bouteille avant sa commercialisation.</p><p>C’est un Toro au profil moderne, puissant et concentré, dans lequel l’élevage cherche à polir les tanins naturels du cépage. Il gagne généralement en complexité après plusieurs années en bouteille.</p><p>La D.O. Toro, dans la province de Zamora, est connue pour ses rouges très concentrés, fruit d’étés très chauds et d’un cépage adapté depuis des siècles à ces conditions.</p>",
+    "it": "<p>Numanthia è il vino centrale della gamma della cantina, tra il Termes e il Termanthia. È prodotto con Tinta de Toro, adattamento locale del Tempranillo, da vecchie viti ad alberello, molte delle quali piantate su suoli sabbiosi dove sopravvivono ceppi a piede franco.</p><p>Le uve, dalla buccia spessa e molto concentrate per il clima continentale estremo della zona, sono vendemmiate a mano. Dopo la fermentazione il vino affina in barrique di rovere francese e riposa poi in bottiglia prima di uscire sul mercato.</p><p>È un Toro di stile moderno, potente e concentrato, in cui l’affinamento cerca di levigare il tannino naturale della varietà. Di solito acquista complessità con diversi anni di bottiglia.</p><p>La D.O. Toro, in provincia di Zamora, è nota per i suoi rossi molto concentrati, frutto di estati molto calde e di una varietà adattatasi nei secoli a queste condizioni.</p>"
+  },
+  "tasting": {
+    "es": "Color picota muy intenso, casi opaco. Aromas de fruta negra madura, ciruela, regaliz, especias, cacao y notas tostadas. En boca es potente y concentrado, con tanino abundante y final largo.",
+    "en": "Very deep, almost opaque cherry-red. Aromas of ripe black fruit, plum, liquorice, spice, cocoa and toasty notes. Powerful and concentrated on the palate, with abundant tannins and a long finish.",
+    "fr": "Robe cerise noire très intense, presque opaque. Arômes de fruits noirs mûrs, de prune, de réglisse, d’épices, de cacao et notes grillées. En bouche, puissant et concentré, aux tanins abondants et à la finale longue.",
+    "it": "Colore rosso ciliegia molto intenso, quasi impenetrabile. Aromi di frutta nera matura, prugna, liquirizia, spezie, cacao e note tostate. In bocca è potente e concentrato, con tannino abbondante e finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, caza mayor, guisos contundentes, quesos curados",
+    "en": "Chargrilled red meat, large game, hearty stews, aged cheeses",
+    "fr": "Viandes rouges à la braise, grand gibier, plats mijotés copieux, fromages affinés",
+    "it": "Carni rosse alla brace, selvaggina grossa, stufati sostanziosi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia; conviene decantar",
+    "en": "16-18 °C, large glass; decanting is advisable",
+    "fr": "16-18 °C, verre ample ; il est conseillé de carafer",
+    "it": "16-18 °C, calice ampio; è consigliabile decantare"
+  },
+  "search": "Numanthia Toro"
+}

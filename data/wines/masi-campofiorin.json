@@ -1,0 +1,41 @@
+{
+  "slug": "masi-campofiorin",
+  "name": "Masi Campofiorin",
+  "winery": "masi",
+  "region": "veneto",
+  "country": "italia",
+  "type": "tinto",
+  "category": {"es": "Rosso del Veronese IGT", "en": "Rosso del Veronese IGT", "fr": "Rosso del Veronese IGT", "it": "Rosso del Veronese IGT"},
+  "grapes": ["corvina"],
+  "summary": {
+    "es": "Tinto de Masi lanzado en 1964 y elaborado con una «doble fermentación» sobre uvas parcialmente secas, precursor de los tintos de estilo ripasso.",
+    "en": "Masi red launched in 1964 and made by “double fermentation” on partially dried grapes, a forerunner of ripasso-style reds.",
+    "fr": "Rouge de Masi lancé en 1964 et élaboré par « double fermentation » sur des raisins partiellement séchés, précurseur des rouges de style ripasso.",
+    "it": "Rosso di Masi lanciato nel 1964 e prodotto con una “doppia fermentazione” su uve parzialmente appassite, precursore dei rossi in stile ripasso."
+  },
+  "body": {
+    "es": "<p>Campofiorin se presentó en 1964 y es uno de los tintos más conocidos de la zona de Verona. Fue concebido como un vino intermedio entre el Valpolicella clásico, ligero y afrutado, y el Amarone, concentrado y potente.</p><p>Se elabora con Corvina, Rondinella y Molinara. El vino base se obtiene con uvas frescas y, más tarde, se refermenta en contacto con uvas parcialmente secas, lo que aumenta su cuerpo, su color y su complejidad aromática. Masi describe esta técnica como «doble fermentación»; está emparentada con el ripasso, en el que el vino se hace pasar sobre los orujos del Amarone.</p><p>Tras la refermentación, el vino se cría en toneles y barricas de roble. Es un tinto de cuerpo medio a pleno, redondo y especiado, versátil en la mesa y con buena relación entre precio y carácter.</p>",
+    "en": "<p>Campofiorin was introduced in 1964 and is one of the best-known reds from the Verona area. It was conceived as a wine halfway between classic Valpolicella, light and fruity, and Amarone, concentrated and powerful.</p><p>It is made from Corvina, Rondinella and Molinara. The base wine is made from fresh grapes and is later refermented in contact with partially dried grapes, which increases its body, colour and aromatic complexity. Masi describes this technique as “double fermentation”; it is related to ripasso, in which the wine is passed over the pomace of Amarone.</p><p>After refermentation the wine is aged in oak casks and barrels. It is a medium- to full-bodied red, round and spicy, versatile at the table and good value for its character.</p>",
+    "fr": "<p>Le Campofiorin a été présenté en 1964 et c’est l’un des rouges les plus connus de la région de Vérone. Il a été conçu comme un vin intermédiaire entre le Valpolicella classique, léger et fruité, et l’Amarone, concentré et puissant.</p><p>Il est élaboré avec de la corvina, de la rondinella et de la molinara. Le vin de base est obtenu à partir de raisins frais puis refermente au contact de raisins partiellement séchés, ce qui augmente son corps, sa couleur et sa complexité aromatique. Masi décrit cette technique comme une « double fermentation » ; elle est apparentée au ripasso, où le vin repasse sur les marcs de l’Amarone.</p><p>Après la refermentation, le vin est élevé en foudres et en barriques de chêne. C’est un rouge de corps moyen à plein, rond et épicé, polyvalent à table et au bon rapport entre prix et caractère.</p>",
+    "it": "<p>Il Campofiorin è stato presentato nel 1964 ed è uno dei rossi più noti del Veronese. È stato concepito come un vino intermedio tra il Valpolicella classico, leggero e fruttato, e l’Amarone, concentrato e potente.</p><p>È prodotto con Corvina, Rondinella e Molinara. Il vino base si ottiene da uve fresche e viene poi rifermentato a contatto con uve parzialmente appassite, il che ne aumenta corpo, colore e complessità aromatica. Masi definisce questa tecnica “doppia fermentazione”; è affine al ripasso, in cui il vino viene ripassato sulle vinacce dell’Amarone.</p><p>Dopo la rifermentazione il vino affina in botti e barrique di rovere. È un rosso di corpo medio-pieno, rotondo e speziato, versatile a tavola e con un buon rapporto tra prezzo e carattere.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de cereza madura, ciruela y frutos rojos pasificados, con notas de especias y canela. En boca es redondo y suave, con tanino amable y un final ligeramente especiado.",
+    "en": "Deep ruby. Aromas of ripe cherry, plum and raisined red fruit, with notes of spice and cinnamon. Round and smooth on the palate, with gentle tannins and a lightly spicy finish.",
+    "fr": "Rubis intense. Arômes de cerise mûre, de prune et de fruits rouges passerillés, avec des notes d’épices et de cannelle. En bouche, il est rond et souple, aux tanins aimables et à la finale légèrement épicée.",
+    "it": "Rubino intenso. Profumi di ciliegia matura, prugna e frutti rossi appassiti, con note di spezie e cannella. In bocca è rotondo e morbido, con tannino gentile e finale leggermente speziato."
+  },
+  "pairing": {
+    "es": "Pasta con ragú, carnes asadas y a la parrilla, guisos, quesos semicurados",
+    "en": "Pasta with ragù, roast and grilled meat, stews, semi-aged cheeses",
+    "fr": "Pâtes au ragù, viandes rôties et grillées, ragoûts, fromages mi-affinés",
+    "it": "Pasta al ragù, carni arrosto e alla griglia, spezzatini, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Masi Campofiorin"
+}

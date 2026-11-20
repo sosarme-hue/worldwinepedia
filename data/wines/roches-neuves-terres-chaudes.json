@@ -1,0 +1,48 @@
+{
+  "slug": "roches-neuves-terres-chaudes",
+  "name": "Roches Neuves Terres Chaudes",
+  "winery": "domaine-des-roches-neuves",
+  "region": "loire",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Saumur-Champigny",
+    "en": "Saumur-Champigny",
+    "fr": "Saumur-Champigny",
+    "it": "Saumur-Champigny"
+  },
+  "grapes": [
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Saumur-Champigny del Domaine des Roches Neuves procedente del lugar llamado Terres Chaudes, un Cabernet Franc de terruño cálido y expresivo.",
+    "en": "Saumur-Champigny from Domaine des Roches Neuves from the site called Terres Chaudes, a Cabernet Franc from a warm, expressive terroir.",
+    "fr": "Saumur-champigny du Domaine des Roches Neuves issu du lieu-dit Terres Chaudes, un cabernet franc d’un terroir chaud et expressif.",
+    "it": "Saumur-Champigny del Domaine des Roches Neuves dal luogo detto Terres Chaudes, un Cabernet Franc da un terroir caldo ed espressivo."
+  },
+  "body": {
+    "es": "<p>Terres Chaudes es una de las cuvées de terruño más conocidas del Domaine des Roches Neuves, la finca de Thierry Germain en Varrains. Su nombre, «tierras cálidas», alude al carácter del lugar del que procede, un sector bien expuesto que se calienta pronto y favorece una maduración completa del Cabernet Franc.</p><p>El viñedo, cultivado en biodinámica, se asienta sobre la <strong>toba</strong> caliza de la denominación <strong>Saumur-Champigny</strong>, cubierta en este lugar por una capa de suelo arenoso y arcilloso. La combinación de exposición cálida y subsuelo calizo da un <strong>Cabernet Franc</strong> con más cuerpo y fruta madura que la Cuvée Domaine, pero sin perder la frescura que caracteriza a la zona.</p><p>La vinificación, con extracciones suaves, y la crianza en madera de gran volumen buscan preservar la fruta y la finura de los taninos. Es un tinto que ya resulta agradable en su juventud y que gana complejidad tras unos años en botella.</p>",
+    "en": "<p>Terres Chaudes is one of the best-known terroir cuvées of Domaine des Roches Neuves, Thierry Germain’s estate in Varrains. Its name, “warm lands”, refers to the character of the site it comes from, a well-exposed sector that warms up early and favours full ripening of the Cabernet Franc.</p><p>The vineyard, farmed biodynamically, lies on the <strong>tuffeau</strong> limestone of the <strong>Saumur-Champigny</strong> appellation, covered here by a layer of sandy, clayey soil. The combination of warm exposure and limestone subsoil gives a <strong>Cabernet Franc</strong> with more body and riper fruit than the Cuvée Domaine, without losing the freshness that characterises the area.</p><p>Vinification with gentle extraction and ageing in large wood aim to preserve the fruit and the finesse of the tannins. It is a red that is already enjoyable in its youth and gains complexity after a few years in bottle.</p>",
+    "fr": "<p>Terres Chaudes est l’une des cuvées de terroir les plus connues du Domaine des Roches Neuves, le domaine de Thierry Germain à Varrains. Son nom évoque le caractère du lieu dont elle provient, un secteur bien exposé qui se réchauffe tôt et favorise une maturation complète du cabernet franc.</p><p>Le vignoble, conduit en biodynamie, repose sur le <strong>tuffeau</strong> calcaire de l’appellation <strong>Saumur-Champigny</strong>, recouvert ici d’une couche de sol sablo-argileux. L’association d’une exposition chaude et d’un sous-sol calcaire donne un <strong>cabernet franc</strong> plus corsé et au fruit plus mûr que la Cuvée Domaine, sans perdre la fraîcheur qui caractérise le secteur.</p><p>La vinification, avec des extractions douces, et l’élevage en bois de grand volume cherchent à préserver le fruit et la finesse des tanins. C’est un rouge déjà agréable dans sa jeunesse, qui gagne en complexité après quelques années de bouteille.</p>",
+    "it": "<p>Terres Chaudes è una delle cuvée di terroir più note del Domaine des Roches Neuves, la tenuta di Thierry Germain a Varrains. Il nome, «terre calde», allude al carattere del luogo da cui proviene, un settore ben esposto che si riscalda presto e favorisce una maturazione completa del Cabernet Franc.</p><p>Il vigneto, coltivato in biodinamica, poggia sul <strong>tuffeau</strong> calcareo della denominazione <strong>Saumur-Champigny</strong>, coperto qui da uno strato di terreno sabbioso e argilloso. L’unione di esposizione calda e sottosuolo calcareo dà un <strong>Cabernet Franc</strong> più corposo e dal frutto più maturo della Cuvée Domaine, senza perdere la freschezza che caratterizza la zona.</p><p>La vinificazione, con estrazioni morbide, e l’affinamento in legno di grande volume mirano a preservare il frutto e la finezza dei tannini. È un rosso già piacevole da giovane, che acquista complessità dopo qualche anno di bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de cereza madura, mora, especias suaves y un toque floral. Boca carnosa y fresca, de taninos sedosos.",
+    "en": "Deep ruby. Aromas of ripe cherry, blackberry, gentle spice and a floral touch. Fleshy, fresh palate with silky tannins.",
+    "fr": "Rubis intense. Arômes de cerise mûre, de mûre, d’épices douces et touche florale. Bouche charnue et fraîche, aux tanins soyeux.",
+    "it": "Rubino intenso. Aromi di ciliegia matura, mora, spezie delicate e un tocco floreale. Bocca carnosa e fresca, dai tannini setosi."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la parrilla, pato, cerdo asado, quesos semicurados",
+    "en": "Grilled red meat, duck, roast pork, semi-hard cheeses",
+    "fr": "Viandes rouges grillées, canard, porc rôti, fromages mi-affinés",
+    "it": "Carni rosse alla griglia, anatra, maiale arrosto, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "15-17 °C, copa amplia",
+    "en": "15-17 °C, large glass",
+    "fr": "15-17 °C, grand verre",
+    "it": "15-17 °C, calice ampio"
+  },
+  "search": "Terres Chaudes Saumur-Champigny Roches Neuves Thierry Germain"
+}

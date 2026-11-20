@@ -1,0 +1,42 @@
+{
+  "slug": "herencia-altes-la-borrassona",
+  "name": "Herència Altés La Borrassona",
+  "winery": null,
+  "winery_name": "Herencia Altés",
+  "region": "terra-alta",
+  "country": "espana",
+  "appellation": "DO Terra Alta",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Herència Altés La Borrassona es un vino tinto de Herencia Altés, con la denominación DO Terra Alta, en España.",
+    "en": "Herència Altés La Borrassona is a red wine from Herencia Altés, made under the DO Terra Alta appellation in Spain.",
+    "fr": "Herència Altés La Borrassona est un vin rouge de Herencia Altés, élaboré sous l’appellation DO Terra Alta (Espagne).",
+    "it": "Herència Altés La Borrassona è un vino rosso di Herencia Altés, prodotto nella denominazione DO Terra Alta (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Tiene crianza en madera. Su graduación es de 14,5 % vol.</p><p>Terra Alta es una denominación de origen del extremo occidental de la provincia de Tarragona, en torno a Gandesa. Es especialmente conocida por sus blancos de Garnacha Blanca, aunque elabora también tintos de Garnacha y Cariñena y vinos rancios y dulces tradicionales.</p>",
+    "en": "<p>It is made from Grenache. It is aged in wood. It has 14.5% ABV.</p><p>Terra Alta is a designation of origin in the far west of the province of Tarragona, around Gandesa. It is particularly known for its White Grenache whites, although it also makes Grenache and Carignan reds and traditional rancio and sweet wines.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. Il est élevé en bois. Il titre 14,5 % vol.</p><p>Terra Alta est une dénomination d'origine de l'extrémité occidentale de la province de Tarragone, autour de Gandesa. Elle est surtout connue pour ses blancs de grenache blanc, mais produit aussi des rouges de grenache et de carignan ainsi que des vins rancios et doux traditionnels.</p>",
+    "it": "<p>È prodotto con Grenache. È affinato in legno. Ha 14,5% vol.</p><p>Terra Alta è una denominazione di origine dell'estremo ovest della provincia di Tarragona, attorno a Gandesa. È nota soprattutto per i bianchi di Garnacha Blanca, ma produce anche rossi di Garnacha e Carignano e vini rancio e dolci tradizionali.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Herència Altés La Borrassona Herencia Altés",
+  "brief": true,
+  "source": "decantalo"
+}

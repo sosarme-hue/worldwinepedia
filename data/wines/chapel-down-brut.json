@@ -1,0 +1,49 @@
+{
+  "slug": "chapel-down-brut",
+  "name": "Chapel Down Brut",
+  "winery": "chapel-down",
+  "region": "kent",
+  "country": "inglaterra",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut",
+    "en": "Brut",
+    "fr": "Brut",
+    "it": "Brut"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Espumoso sin añada de método tradicional, el vino más difundido de Chapel Down, elaborado con las variedades clásicas a partir de uva del sureste de Inglaterra.",
+    "en": "Non-vintage traditional-method sparkling wine, Chapel Down’s most widely available wine, made from the classic varieties with grapes from south-east England.",
+    "fr": "Effervescent non millésimé de méthode traditionnelle, le vin le plus diffusé de Chapel Down, élaboré avec les cépages classiques à partir de raisins du sud-est de l’Angleterre.",
+    "it": "Spumante senza annata metodo classico, il vino più diffuso di Chapel Down, prodotto con le varietà classiche da uve dell’Inghilterra sud-orientale."
+  },
+  "body": {
+    "es": "<p>El Brut sin añada es el espumoso de referencia de Chapel Down y uno de los vinos ingleses más fáciles de encontrar. Se elabora con Chardonnay, Pinot Noir y Pinot Meunier, procedentes de los viñedos de la bodega en Kent y de viticultores asociados del sureste de Inglaterra.</p><p>Como corresponde a un vino sin añada, el ensamblaje combina vinos de la cosecha del año con vinos de reserva, lo que permite mantener un estilo regular pese a las variaciones del clima. La segunda fermentación se realiza en botella por el método tradicional, seguida de una crianza sobre lías. El resultado es un espumoso fresco y frutal, de acidez marcada, pensado para un consumo relativamente joven y versátil en la mesa. Su perfil lo hace adecuado tanto para el aperitivo como para acompañar platos de pescado y marisco, y es una buena introducción al espumoso inglés. Chapel Down elabora también espumosos de añada y rosados.</p>",
+    "en": "<p>The non-vintage Brut is Chapel Down’s benchmark sparkling wine and one of the easiest English wines to find. It is made from Chardonnay, Pinot Noir and Pinot Meunier, from the winery’s vineyards in Kent and from partner growers in south-east England.</p><p>As befits a non-vintage wine, the blend combines wines from the current harvest with reserve wines, allowing a consistent style despite variations in the weather. The second fermentation takes place in bottle by the traditional method, followed by ageing on the lees. The result is a fresh, fruity sparkling wine with marked acidity, intended to be drunk relatively young and versatile at the table. Its profile makes it suitable both as an aperitif and alongside fish and shellfish dishes, and it is a good introduction to English sparkling wine. Chapel Down also makes vintage and rosé sparkling wines that build on the same approach.</p>",
+    "fr": "<p>Le Brut non millésimé est l’effervescent de référence de Chapel Down et l’un des vins anglais les plus faciles à trouver. Il est élaboré avec du chardonnay, du pinot noir et du pinot meunier, issus des vignes de la maison dans le Kent et de viticulteurs partenaires du sud-est de l’Angleterre.</p><p>Comme il sied à un vin non millésimé, l’assemblage associe des vins de l’année à des vins de réserve, ce qui permet de maintenir un style régulier malgré les variations du climat. La seconde fermentation se fait en bouteille selon la méthode traditionnelle, suivie d’un élevage sur lies. Le résultat est un effervescent frais et fruité, à l’acidité marquée, destiné à être bu relativement jeune et polyvalent à table. Son profil le rend adapté aussi bien à l’apéritif qu’aux plats de poisson et de fruits de mer, et il constitue une bonne introduction à l’effervescent anglais. Chapel Down élabore aussi des effervescents millésimés et rosés.</p>",
+    "it": "<p>Il Brut senza annata è lo spumante di riferimento di Chapel Down e uno dei vini inglesi più facili da trovare. È prodotto con Chardonnay, Pinot Nero e Pinot Meunier, provenienti dai vigneti della cantina nel Kent e da viticoltori associati dell’Inghilterra sud-orientale.</p><p>Come si addice a un vino senza annata, l’assemblaggio unisce vini della vendemmia dell’anno a vini di riserva, il che consente di mantenere uno stile regolare nonostante le variazioni del clima. La seconda fermentazione avviene in bottiglia secondo il metodo classico, seguita da un affinamento sui lieviti. Il risultato è uno spumante fresco e fruttato, dall’acidità marcata, pensato per essere bevuto relativamente giovane e versatile a tavola. Il suo profilo lo rende adatto sia all’aperitivo sia ai piatti di pesce e frutti di mare, ed è una buona introduzione allo spumante inglese. Chapel Down produce anche spumanti millesimati e rosé.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido. Aromas de manzana verde, pera y cítricos con notas ligeras de pan. Boca viva, fresca y de burbuja animada.",
+    "en": "Pale yellow. Aromas of green apple, pear and citrus with light bready notes. Lively and fresh on the palate, with a vivacious mousse.",
+    "fr": "Jaune pâle. Arômes de pomme verte, de poire et d’agrumes avec de légères notes de pain. Bouche vive et fraîche, à la mousse animée.",
+    "it": "Giallo paglierino tenue. Profumi di mela verde, pera e agrumi con leggere note di pane. Bocca vivace e fresca, dal perlage brioso."
+  },
+  "pairing": {
+    "es": "Aperitivo, pescado frito, marisco, tempura, quesos suaves",
+    "en": "Aperitif, fried fish, shellfish, tempura, mild cheeses",
+    "fr": "Apéritif, poisson frit, fruits de mer, tempura, fromages doux",
+    "it": "Aperitivo, pesce fritto, frutti di mare, tempura, formaggi delicati"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de vino blanco o tulipa",
+    "en": "6-8 °C, white wine glass or tulip",
+    "fr": "6-8 °C, verre à vin blanc ou tulipe",
+    "it": "6-8 °C, calice da vino bianco o tulipano"
+  },
+  "search": "Chapel Down Brut"
+}

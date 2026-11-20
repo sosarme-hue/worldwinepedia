@@ -1,0 +1,48 @@
+{
+  "slug": "condado-de-haza",
+  "name": "Condado de Haza",
+  "winery": "pesquera",
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Crianza",
+    "en": "Crianza",
+    "fr": "Crianza",
+    "it": "Crianza"
+  },
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Crianza de Tinto Fino de la finca Condado de Haza, junto al Duero cerca de Roa, creada por Alejandro Fernández, el fundador de Tinto Pesquera.",
+    "en": "Tinto Fino Crianza from the Condado de Haza estate, beside the Duero near Roa, created by Alejandro Fernández, the founder of Tinto Pesquera.",
+    "fr": "Crianza de tinto fino du domaine Condado de Haza, au bord du Duero près de Roa, créé par Alejandro Fernández, fondateur de Tinto Pesquera.",
+    "it": "Crianza di Tinto Fino della tenuta Condado de Haza, sul Duero vicino a Roa, creata da Alejandro Fernández, fondatore di Tinto Pesquera."
+  },
+  "body": {
+    "es": "<p>Condado de Haza es una finca situada a orillas del Duero, cerca de Roa, en la Ribera del Duero burgalesa. Alejandro Fernández, el fundador de Tinto Pesquera y una de las figuras clave en el desarrollo de la denominación, la adquirió y plantó con viñedo a finales de los años ochenta, como segundo proyecto de su familia, hoy agrupado bajo el nombre de Familia Fernández Rivera.</p><p>El vino se elabora exclusivamente con Tinto Fino, la variante local del Tempranillo, procedente del viñedo de la finca, que se extiende en una ladera sobre el río. Siguiendo el estilo de la casa, la vinificación es de corte tradicional y el vino se cría en barricas de roble americano durante el tiempo exigido para la categoría Crianza, como mínimo doce meses, seguido de un periodo en botella.</p><p>El resultado es un tinto de fruta madura, color intenso y estructura firme, con las notas especiadas y de vainilla del roble americano. Es una de las referencias del estilo clásico de la Ribera del Duero.</p>",
+    "en": "<p>Condado de Haza is an estate on the banks of the Duero near Roa, on the Burgos side of Ribera del Duero. Alejandro Fernández, the founder of Tinto Pesquera and one of the key figures in the development of the appellation, acquired it and planted it with vines in the late 1980s as his family’s second project, now grouped under the name Familia Fernández Rivera.</p><p>The wine is made exclusively from Tinto Fino, the local variant of Tempranillo, from the estate’s vineyard, which stretches over a slope above the river. In keeping with the house style, winemaking is traditional and the wine is aged in American oak barrels for the time required by the Crianza category, at least twelve months, followed by a period in bottle.</p><p>The result is a red with ripe fruit, deep colour and firm structure, with the spicy and vanilla notes of American oak. It is one of the references for the classic style of Ribera del Duero.</p>",
+    "fr": "<p>Condado de Haza est un domaine situé au bord du Duero, près de Roa, dans la Ribera del Duero de Burgos. Alejandro Fernández, fondateur de Tinto Pesquera et l’une des figures clés du développement de l’appellation, l’acquit et le planta en vignes à la fin des années 1980, comme deuxième projet de sa famille, aujourd’hui regroupé sous le nom de Familia Fernández Rivera.</p><p>Le vin est élaboré exclusivement avec du tinto fino, variante locale du tempranillo, provenant du vignoble du domaine, qui s’étend sur un coteau au-dessus du fleuve. Fidèle au style de la maison, la vinification est traditionnelle et le vin est élevé en barriques de chêne américain pendant la durée exigée par la catégorie Crianza, soit au moins douze mois, suivie d’une période en bouteille.</p><p>Il en résulte un rouge au fruit mûr, à la couleur intense et à la structure ferme, avec les notes épicées et vanillées du chêne américain. C’est l’une des références du style classique de la Ribera del Duero.</p>",
+    "it": "<p>Condado de Haza è una tenuta sulle rive del Duero, vicino a Roa, nella Ribera del Duero di Burgos. Alejandro Fernández, fondatore di Tinto Pesquera e una delle figure chiave nello sviluppo della denominazione, la acquistò e la piantò a vigneto alla fine degli anni Ottanta, come secondo progetto della sua famiglia, oggi riunito sotto il nome di Familia Fernández Rivera.</p><p>Il vino è prodotto esclusivamente con Tinto Fino, la variante locale del Tempranillo, proveniente dal vigneto della tenuta, che si estende su un pendio sopra il fiume. Secondo lo stile della casa, la vinificazione è tradizionale e il vino affina in barrique di rovere americano per il tempo richiesto dalla categoria Crianza, almeno dodici mesi, seguito da un periodo in bottiglia.</p><p>Il risultato è un rosso dal frutto maturo, dal colore intenso e dalla struttura salda, con le note speziate e di vaniglia del rovere americano. È uno dei riferimenti dello stile classico della Ribera del Duero.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de fruta negra madura, regaliz, especias y tostados de la barrica. En boca es carnoso y estructurado, con taninos firmes y final persistente.",
+    "en": "Intense deep cherry red. Aromas of ripe black fruit, liquorice, spice and toasty oak. Fleshy and structured on the palate, with firm tannins and a persistent finish.",
+    "fr": "Rouge cerise burlat intense. Arômes de fruits noirs mûrs, réglisse, épices et toasté de la barrique. En bouche, il est charnu et structuré, aux tanins fermes et à la finale persistante.",
+    "it": "Rosso ciliegia intenso. Aromi di frutta nera matura, liquirizia, spezie e tostatura della barrique. In bocca è carnoso e strutturato, con tannini decisi e finale persistente."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, lechazo asado, caza mayor, quesos curados de oveja",
+    "en": "Chargrilled red meat, roast milk-fed lamb, large game, aged sheep’s cheeses",
+    "fr": "Viandes rouges à la braise, agneau de lait rôti, gros gibier, fromages de brebis affinés",
+    "it": "Carni rosse alla brace, agnello da latte arrosto, selvaggina di grossa taglia, pecorini stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Condado de Haza Crianza Ribera del Duero"
+}

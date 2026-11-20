@@ -1,0 +1,40 @@
+{
+  "slug": "le-batossay-ouech-cousin",
+  "name": "Le Batossay Ouech Cousin",
+  "winery": null,
+  "winery_name": "Le Batossay - Cousin Baptiste",
+  "region": null,
+  "country": "francia",
+  "appellation": "Vin de France",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Le Batossay Ouech Cousin es un vino tinto de Le Batossay - Cousin Baptiste, con la denominación Vin de France, en Francia.",
+    "en": "Le Batossay Ouech Cousin is a red wine from Le Batossay - Cousin Baptiste, made under the Vin de France appellation in France.",
+    "fr": "Le Batossay Ouech Cousin est un vin rouge de Le Batossay - Cousin Baptiste, élaboré sous l’appellation Vin de France (France).",
+    "it": "Le Batossay Ouech Cousin è un vino rosso di Le Batossay - Cousin Baptiste, prodotto nella denominazione Vin de France (Francia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 12,5 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Le Batossay Ouech Cousin Le Batossay - Cousin Baptiste",
+  "brief": true,
+  "source": "decantalo"
+}

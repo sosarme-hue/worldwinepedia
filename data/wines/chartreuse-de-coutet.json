@@ -1,0 +1,49 @@
+{
+  "slug": "chartreuse-de-coutet",
+  "name": "La Chartreuse de Coutet",
+  "winery": "chateau-coutet",
+  "region": "sauternes",
+  "country": "francia",
+  "type": "dulce",
+  "category": {
+    "es": "Segundo vino",
+    "en": "Second wine",
+    "fr": "Second vin",
+    "it": "Secondo vino"
+  },
+  "grapes": [
+    "semillon",
+    "sauvignon-blanc"
+  ],
+  "summary": {
+    "es": "Segundo vino dulce de Château Coutet, un Barsac más ligero y accesible en su juventud que el grand vin.",
+    "en": "Sweet second wine of Château Coutet, a Barsac that is lighter and more approachable in youth than the grand vin.",
+    "fr": "Second vin liquoreux du Château Coutet, un Barsac plus léger et plus accessible dans sa jeunesse que le grand vin.",
+    "it": "Secondo vino dolce di Château Coutet, un Barsac più leggero e accessibile in gioventù rispetto al grand vin."
+  },
+  "body": {
+    "es": "<p>La Chartreuse de Coutet es el segundo vino de Château Coutet, primer cru clasificado de Barsac. Procede de los lotes que no se incorporan al <em>grand vin</em> en el ensamblaje final, a menudo de viñas más jóvenes o de pasadas de vendimia menos concentradas.</p><p>Los vinos dulces de Sauternes y Barsac se elaboran con uvas afectadas por la <em>Botrytis cinerea</em>, la podredumbre noble que, favorecida por las nieblas matinales del Ciron y el Garona, deshidrata los granos y concentra azúcares, acidez y aromas. La vendimia se realiza a mano, en varias pasadas por la viña.</p><p>Como el vino principal, se basa en la <strong>Sémillon</strong>, con una parte de Sauvignon Blanc, y comparte el carácter fresco que dan los suelos calcáreos de Barsac. Su crianza es más corta y su perfil más afrutado y menos concentrado, lo que lo hace agradable desde joven. Es una buena introducción al estilo de la casa y un dulce versátil, tanto como aperitivo como en la mesa.</p>",
+    "en": "<p>La Chartreuse de Coutet is the second wine of Château Coutet, a first growth of Barsac. It comes from lots not included in the <em>grand vin</em> at final blending, often from younger vines or less concentrated harvest passes.</p><p>The sweet wines of Sauternes and Barsac are made from grapes affected by <em>Botrytis cinerea</em>, the noble rot which, encouraged by morning mists from the Ciron and the Garonne, dehydrates the berries and concentrates sugars, acidity and aromas. Harvesting is done by hand, in several passes through the vineyard.</p><p>Like the main wine, it is based on <strong>Sémillon</strong>, with some Sauvignon Blanc, and shares the freshness given by Barsac’s limestone soils. Its ageing is shorter and its profile fruitier and less concentrated, which makes it enjoyable from youth. It is a good introduction to the house style and a versatile sweet wine, both as an aperitif and with food.</p>",
+    "fr": "<p>La Chartreuse de Coutet est le second vin du Château Coutet, premier cru classé de Barsac. Elle provient des lots non retenus pour le <em>grand vin</em> lors de l’assemblage final, souvent de vignes plus jeunes ou de tries moins concentrées.</p><p>Les liquoreux de Sauternes et de Barsac sont élaborés avec des raisins atteints de <em>Botrytis cinerea</em>, la pourriture noble qui, favorisée par les brumes matinales du Ciron et de la Garonne, déshydrate les baies et concentre sucres, acidité et arômes. Les vendanges se font à la main, en plusieurs tries successives.</p><p>Comme le vin principal, elle repose sur le <strong>sémillon</strong>, avec une part de sauvignon blanc, et partage la fraîcheur que donnent les sols calcaires de Barsac. Son élevage est plus court et son profil plus fruité et moins concentré, ce qui la rend agréable dès sa jeunesse. C’est une bonne introduction au style de la maison et un liquoreux polyvalent, à l’apéritif comme à table.</p>",
+    "it": "<p>La Chartreuse de Coutet è il secondo vino di Château Coutet, premier cru classé di Barsac. Proviene dai lotti non inclusi nel <em>grand vin</em> all’assemblaggio finale, spesso da vigne più giovani o da passaggi di vendemmia meno concentrati.</p><p>I vini dolci di Sauternes e Barsac si producono con uve colpite dalla <em>Botrytis cinerea</em>, la muffa nobile che, favorita dalle nebbie mattutine del Ciron e della Garonna, disidrata gli acini e concentra zuccheri, acidità e aromi. La vendemmia si svolge a mano, con più passaggi in vigna.</p><p>Come il vino principale, si basa sul <strong>Sémillon</strong>, con una parte di Sauvignon Blanc, e condivide la freschezza data dai suoli calcarei di Barsac. Il suo affinamento è più breve e il profilo più fruttato e meno concentrato, il che lo rende piacevole già da giovane. È una buona introduzione allo stile della casa e un vino dolce versatile, sia come aperitivo sia a tavola.</p>"
+  },
+  "tasting": {
+    "es": "Dorado pálido. Aromas de albaricoque, melocotón, cítricos y miel. Boca dulce y fresca, ligera para su estilo.",
+    "en": "Pale gold. Aromas of apricot, peach, citrus and honey. Sweet, fresh palate, light for its style.",
+    "fr": "Or pâle. Arômes d’abricot, de pêche, d’agrumes et de miel. Bouche douce et fraîche, légère pour son style.",
+    "it": "Oro pallido. Aromi di albicocca, pesca, agrumi e miele. Bocca dolce e fresca, leggera per il suo stile."
+  },
+  "pairing": {
+    "es": "Foie gras, quesos azules, postres de frutas, cocina asiática especiada",
+    "en": "Foie gras, blue cheeses, fruit desserts, spiced Asian cuisine",
+    "fr": "Foie gras, fromages persillés, desserts aux fruits, cuisine asiatique épicée",
+    "it": "Foie gras, formaggi erborinati, dessert alla frutta, cucina asiatica speziata"
+  },
+  "serve": {
+    "es": "8-10 °C, copa pequeña de vino blanco",
+    "en": "8-10 °C, small white wine glass",
+    "fr": "8-10 °C, petit verre à vin blanc",
+    "it": "8-10 °C, piccolo calice da vino bianco"
+  },
+  "search": "La Chartreuse de Coutet Barsac"
+}

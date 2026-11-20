@@ -1,0 +1,42 @@
+{
+  "slug": "vina-zorzal-bidai-berri",
+  "name": "Viña Zorzal Bidai Berri",
+  "winery": null,
+  "winery_name": "Proyecto Zorzal",
+  "region": null,
+  "country": "espana",
+  "appellation": "Sin denominación",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Viña Zorzal Bidai Berri es un vino tinto de Proyecto Zorzal, con la denominación Sin denominación, en España.",
+    "en": "Viña Zorzal Bidai Berri is a red wine from Proyecto Zorzal, made under the Sin denominación appellation in Spain.",
+    "fr": "Viña Zorzal Bidai Berri est un vin rouge de Proyecto Zorzal, élaboré sous l’appellation Sin denominación (Espagne).",
+    "it": "Viña Zorzal Bidai Berri è un vino rosso di Proyecto Zorzal, prodotto nella denominazione Sin denominación (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Tiene crianza en madera. Su graduación es de 13,07 % vol.</p>",
+    "en": "<p>It is made from Grenache. It is aged in wood. It has 13.07% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. Il est élevé en bois. Il titre 13,07 % vol.</p>",
+    "it": "<p>È prodotto con Grenache. È affinato in legno. Ha 13,07% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Viña Zorzal Bidai Berri Proyecto Zorzal",
+  "brief": true,
+  "source": "decantalo"
+}

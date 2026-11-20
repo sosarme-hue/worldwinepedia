@@ -1,0 +1,50 @@
+{
+  "slug": "chateau-la-mission-haut-brion",
+  "name": "Château La Mission Haut-Brion",
+  "winery": "chateau-la-mission-haut-brion",
+  "region": "pessac-leognan",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Cru Classé de Graves",
+    "en": "Cru Classé de Graves",
+    "fr": "Cru classé de Graves",
+    "it": "Cru Classé de Graves"
+  },
+  "grapes": [
+    "merlot",
+    "cabernet-sauvignon",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Gran vino tinto de Château La Mission Haut-Brion, cru clasificado de Graves en Pessac-Léognan, rico, profundo y de muy larga guarda.",
+    "en": "Red grand vin of Château La Mission Haut-Brion, a classified growth of Graves in Pessac-Léognan, rich, deep and very long-lived.",
+    "fr": "Grand vin rouge du Château La Mission Haut-Brion, cru classé de Graves en Pessac-Léognan, riche, profond et de très longue garde.",
+    "it": "Grand vin rosso di Château La Mission Haut-Brion, cru classé di Graves a Pessac-Léognan, ricco, profondo e molto longevo."
+  },
+  "body": {
+    "es": "<p>El gran vino tinto de <strong>Château La Mission Haut-Brion</strong> procede del viñedo de la finca en Talence, frente a Haut-Brion, en la denominación <strong>Pessac-Léognan</strong>. Las <strong>gravas profundas</strong> del suelo y el microclima algo más cálido del entorno urbano favorecen una maduración completa de la uva.</p><p>El ensamblaje combina <strong>Merlot y Cabernet Sauvignon</strong> en proporciones cercanas, con una parte menor de Cabernet Franc, que varían según la añada. La vendimia es manual, las parcelas se vinifican por separado y el vino se cría en barricas de roble francés, en buena parte nuevas.</p><p>Es un tinto de gran riqueza y profundidad, con una estructura potente y taninos densos. En su juventud muestra fruta negra concentrada y notas tostadas; con los años desarrolla los aromas de tabaco, tierra cálida y especias que suelen asociarse a los grandes vinos de Graves. Su capacidad de guarda es muy larga.</p>",
+    "en": "<p>The red grand vin of <strong>Château La Mission Haut-Brion</strong> comes from the estate’s vineyard in Talence, opposite Haut-Brion, in the <strong>Pessac-Léognan</strong> appellation. The <strong>deep gravel</strong> soils and the slightly warmer microclimate of the urban setting favour full ripening of the grapes.</p><p>The blend combines <strong>Merlot and Cabernet Sauvignon</strong> in similar proportions, with a smaller share of Cabernet Franc, varying with the vintage. Harvesting is by hand, the plots are vinified separately and the wine is aged in French oak barrels, a large part of them new.</p><p>It is a red of great richness and depth, with a powerful structure and dense tannins. In its youth it shows concentrated black fruit and toasty notes; with age it develops the aromas of tobacco, warm earth and spice often associated with the great wines of Graves. Its ageing potential is very long.</p>",
+    "fr": "<p>Le grand vin rouge du <strong>Château La Mission Haut-Brion</strong> provient du vignoble du domaine à Talence, face à Haut-Brion, dans l’appellation <strong>Pessac-Léognan</strong>. Les <strong>graves profondes</strong> et le microclimat un peu plus chaud du cadre urbain favorisent une maturité complète du raisin.</p><p>L’assemblage associe <strong>merlot et cabernet sauvignon</strong> dans des proportions proches, avec une part moindre de cabernet franc, variables selon le millésime. Les vendanges sont manuelles, les parcelles vinifiées séparément et le vin est élevé en barriques de chêne français, en bonne partie neuves.</p><p>C’est un rouge d’une grande richesse et d’une grande profondeur, à la structure puissante et aux tanins denses. Dans sa jeunesse, il montre un fruit noir concentré et des notes toastées ; avec les années, il développe les arômes de tabac, de terre chaude et d’épices souvent associés aux grands vins des Graves. Son potentiel de garde est très long.</p>",
+    "it": "<p>Il grand vin rosso di <strong>Château La Mission Haut-Brion</strong> proviene dal vigneto della tenuta a Talence, di fronte a Haut-Brion, nella denominazione <strong>Pessac-Léognan</strong>. Le <strong>ghiaie profonde</strong> e il microclima un po’ più caldo dell’ambiente urbano favoriscono una piena maturazione dell’uva.</p><p>L’assemblaggio unisce <strong>Merlot e Cabernet Sauvignon</strong> in proporzioni simili, con una quota minore di Cabernet Franc, variabili a seconda dell’annata. La vendemmia è manuale, le parcelle sono vinificate separatamente e il vino affina in barrique di rovere francese, in buona parte nuove.</p><p>È un rosso di grande ricchezza e profondità, con una struttura potente e tannini densi. In gioventù mostra frutto nero concentrato e note tostate; con gli anni sviluppa gli aromi di tabacco, terra calda e spezie spesso associati ai grandi vini delle Graves. La sua capacità di invecchiamento è molto lunga.</p>"
+  },
+  "tasting": {
+    "es": "Granate muy oscuro. Aromas de casis, ciruela negra, tabaco, notas ahumadas y minerales. Boca amplia y densa, de taninos firmes y final muy largo.",
+    "en": "Very dark garnet. Aromas of blackcurrant, black plum, tobacco, smoky and mineral notes. Broad, dense palate with firm tannins and a very long finish.",
+    "fr": "Grenat très sombre. Arômes de cassis, de prune noire, de tabac, notes fumées et minérales. Bouche ample et dense, aux tanins fermes, finale très longue.",
+    "it": "Granato molto scuro. Aromi di ribes nero, prugna nera, tabacco, note affumicate e minerali. Bocca ampia e densa, dai tannini decisi e finale molto lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, entrecot a la parrilla, caza menor, quesos curados",
+    "en": "Roast lamb, grilled rib-eye, small game, aged cheeses",
+    "fr": "Agneau rôti, entrecôte grillée, petit gibier, fromages affinés",
+    "it": "Agnello arrosto, costata alla griglia, selvaggina minuta, formaggi stagionati"
+  },
+  "serve": {
+    "es": "17-18 °C, copa de Burdeos; decantar en añadas jóvenes",
+    "en": "17-18 °C, Bordeaux glass; decant when young",
+    "fr": "17-18 °C, verre de type bordelais ; carafer dans les millésimes jeunes",
+    "it": "17-18 °C, calice tipo Bordeaux; decantare nelle annate giovani"
+  },
+  "search": "Château La Mission Haut-Brion Pessac-Léognan"
+}

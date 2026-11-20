@@ -1,0 +1,46 @@
+{
+  "slug": "amaren-graciano",
+  "name": "Amaren Graciano",
+  "winery": null,
+  "winery_name": "Amaren",
+  "region": "rioja",
+  "country": "espana",
+  "appellation": "DOCa Rioja",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "graciano"
+  ],
+  "summary": {
+    "es": "Graciano monovarietal de Bodegas Amaren, en Samaniego, la bodega creada por la familia Cañas en la Rioja Alavesa.",
+    "en": "Single-varietal Graciano from Bodegas Amaren in Samaniego, the winery created by the Cañas family in Rioja Alavesa.",
+    "fr": "Graciano monocépage de Bodegas Amaren, à Samaniego, la bodega créée par la famille Cañas dans la Rioja Alavesa.",
+    "it": "Graciano in purezza di Bodegas Amaren, a Samaniego, la cantina creata dalla famiglia Cañas nella Rioja Alavesa."
+  },
+  "body": {
+    "es": "<p><strong>Amaren</strong> es la bodega que <strong>Juan Luis Cañas</strong>, al frente de la bodega familiar Luis Cañas en Villabuena de Álava, creó en la vecina Samaniego para elaborar vinos de viñedos seleccionados con un estilo propio. Su nombre, en euskera, rinde homenaje a la madre de la familia. Samaniego se sitúa al pie de la sierra de Cantabria, en la Rioja Alavesa, con viñedos en altitud sobre suelos arcillo-calcáreos.</p><p>Este vino se elabora solo con <strong>Graciano</strong>, una variedad tradicional de Rioja de maduración tardía y rendimientos bajos, que suele emplearse en pequeñas proporciones por la acidez, el color y la frescura aromática que aporta a los ensamblajes. Vinificada sola y criada en barrica, da un tinto de unos 14,5 % vol., intenso de color, aromático y de taninos firmes, con una acidez que le permite evolucionar bien en botella. Se recomienda servirlo en copa amplia y, si es joven, decantarlo un rato antes para que se abran sus aromas.</p>",
+    "en": "<p><strong>Amaren</strong> is the winery that <strong>Juan Luis Cañas</strong>, head of the family winery Luis Cañas in Villabuena de Álava, created in neighbouring Samaniego to make wines from selected vineyards in a style of their own. Its Basque name pays tribute to the family's mother. Samaniego lies at the foot of the Sierra de Cantabria, in Rioja Alavesa, with high vineyards on clay-limestone soils.</p><p>This wine is made solely from <strong>Graciano</strong>, a traditional, late-ripening, low-yielding Rioja variety usually used in small proportions for the acidity, colour and aromatic freshness it brings to blends. Vinified on its own and aged in barrel, it gives a red of around 14.5% ABV, deeply coloured, aromatic and firmly tannic, with an acidity that allows it to develop well in bottle. It is best served in a large glass and, when young, decanted for a while beforehand so that its aromas open up.</p>",
+    "fr": "<p><strong>Amaren</strong> est la bodega que <strong>Juan Luis Cañas</strong>, à la tête de la bodega familiale Luis Cañas à Villabuena de Álava, a créée dans la commune voisine de Samaniego pour élaborer des vins de vignes sélectionnées dans un style propre. Son nom, en basque, rend hommage à la mère de la famille. Samaniego se situe au pied de la sierra de Cantabria, dans la Rioja Alavesa, avec des vignes d'altitude sur sols argilo-calcaires.</p><p>Ce vin est élaboré uniquement avec du <strong>graciano</strong>, cépage traditionnel de la Rioja à maturité tardive et faibles rendements, généralement employé en petites proportions pour l'acidité, la couleur et la fraîcheur aromatique qu'il apporte aux assemblages. Vinifié seul et élevé en barrique, il donne un rouge d'environ 14,5 % vol., profond de couleur, aromatique et aux tanins fermes, avec une acidité qui lui permet de bien évoluer en bouteille. Il se sert de préférence dans un verre ample et, jeune, gagne à être carafé quelque temps à l'avance pour que ses arômes s'ouvrent.</p>",
+    "it": "<p><strong>Amaren</strong> è la cantina che <strong>Juan Luis Cañas</strong>, alla guida della cantina di famiglia Luis Cañas a Villabuena de Álava, ha creato nella vicina Samaniego per produrre vini da vigneti selezionati con uno stile proprio. Il nome, in basco, rende omaggio alla madre della famiglia. Samaniego si trova ai piedi della sierra de Cantabria, nella Rioja Alavesa, con vigneti d'altura su suoli argillo-calcarei.</p><p>Questo vino è prodotto solo con <strong>Graciano</strong>, vitigno tradizionale della Rioja a maturazione tardiva e bassa resa, di solito impiegato in piccole proporzioni per l'acidità, il colore e la freschezza aromatica che apporta agli assemblaggi. Vinificato in purezza e affinato in barrique, dà un rosso di circa 14,5% vol., intenso di colore, aromatico e dai tannini decisi, con un'acidità che gli consente di evolvere bene in bottiglia. Va servito in un calice ampio e, se giovane, decantato per qualche tempo prima affinché i suoi aromi si aprano.</p>"
+  },
+  "tasting": {
+    "es": "Rojo violáceo muy intenso. Aromas de fruta negra, violeta, hierbas aromáticas, regaliz y tostados. Boca fresca y estructurada, de acidez viva, taninos firmes y final largo.",
+    "en": "Very deep purple-red. Aromas of black fruit, violet, aromatic herbs, liquorice and toast. Fresh, structured palate with lively acidity, firm tannins and a long finish.",
+    "fr": "Rouge violacé très intense. Arômes de fruits noirs, de violette, d'herbes aromatiques, de réglisse et de toasté. Bouche fraîche et structurée, à l'acidité vive, aux tanins fermes et à la finale longue.",
+    "it": "Rosso violaceo molto intenso. Aromi di frutta nera, violetta, erbe aromatiche, liquirizia e tostatura. Bocca fresca e strutturata, acidità vivace, tannini decisi e finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas, cordero asado, caza, guisos especiados, quesos curados",
+    "en": "Red meat, roast lamb, game, spiced stews, aged cheeses",
+    "fr": "Viandes rouges, agneau rôti, gibier, ragoûts épicés, fromages affinés",
+    "it": "Carni rosse, agnello arrosto, selvaggina, stufati speziati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Amaren Graciano Amaren",
+  "source": "decantalo"
+}

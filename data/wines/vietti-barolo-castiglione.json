@@ -1,0 +1,48 @@
+{
+  "slug": "vietti-barolo-castiglione",
+  "name": "Vietti Barolo Castiglione",
+  "winery": "vietti",
+  "region": "barolo",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "Barolo DOCG",
+    "en": "Barolo DOCG",
+    "fr": "Barolo DOCG",
+    "it": "Barolo DOCG"
+  },
+  "grapes": [
+    "nebbiolo"
+  ],
+  "summary": {
+    "es": "Barolo de ensamblaje de Vietti, elaborado con Nebbiolo de varios viñedos y municipios de la denominación, que sirve de introducción al estilo de la casa.",
+    "en": "Vietti’s blended Barolo, made from Nebbiolo from several vineyards and communes of the appellation, serving as an introduction to the house style.",
+    "fr": "Barolo d’assemblage de Vietti, élaboré avec du nebbiolo de plusieurs vignobles et communes de l’appellation, qui sert d’introduction au style de la maison.",
+    "it": "Barolo di assemblaggio di Vietti, prodotto con Nebbiolo di diverse vigne e comuni della denominazione, che fa da introduzione allo stile della casa."
+  },
+  "body": {
+    "es": "<p>Aunque Vietti es conocida por sus Barolo de viñedo único, el <strong>Barolo Castiglione</strong> recupera una idea más antigua de la denominación: la de componer el vino con uvas de distintos pagos y municipios para lograr un conjunto equilibrado. Lleva el nombre de Castiglione Falletto, el pueblo donde se encuentra la bodega.</p><p>Se elabora exclusivamente con Nebbiolo. Las parcelas se vinifican por separado y, tras la fermentación y la maceración, el vino se cría en roble, principalmente en toneles grandes, antes del ensamblaje final. La combinación de suelos y exposiciones de diferentes zonas del Barolo busca un vino completo, con fruta, perfume y estructura.</p><p>Es un Barolo algo más accesible en su juventud que los vinos de viñedo de la casa, aunque mantiene los taninos y la acidez característicos del Nebbiolo y puede evolucionar bien durante años. Es uno de los Barolo de Vietti que se encuentran con más facilidad en tiendas y restaurantes.</p>",
+    "en": "<p>Although Vietti is known for its single-vineyard Barolos, <strong>Barolo Castiglione</strong> revives an older idea in the appellation: building the wine from grapes grown in different crus and communes to achieve a balanced whole. It is named after Castiglione Falletto, the village where the winery is based.</p><p>It is made solely from Nebbiolo. The plots are vinified separately and, after fermentation and maceration, the wine is aged in oak, mainly in large casks, before the final blend. Combining soils and exposures from different parts of Barolo is meant to produce a complete wine, with fruit, perfume and structure.</p><p>It is a Barolo that is somewhat more approachable in its youth than the house’s single-vineyard wines, although it keeps the tannins and acidity typical of Nebbiolo and can evolve well for years. It is one of the Vietti Barolos most easily found in shops and restaurants.</p>",
+    "fr": "<p>Bien que Vietti soit connu pour ses barolos de cru, le <strong>Barolo Castiglione</strong> reprend une idée plus ancienne de l’appellation : composer le vin avec des raisins de différents crus et communes pour obtenir un ensemble équilibré. Il porte le nom de Castiglione Falletto, le village où se trouve le domaine.</p><p>Il est élaboré uniquement avec du nebbiolo. Les parcelles sont vinifiées séparément et, après la fermentation et la macération, le vin est élevé sous bois, principalement en grands foudres, avant l’assemblage final. La combinaison de sols et d’expositions de différentes zones du Barolo vise un vin complet, alliant fruit, parfum et structure.</p><p>C’est un barolo un peu plus accessible dans sa jeunesse que les vins de cru de la maison, même s’il conserve les tanins et l’acidité caractéristiques du nebbiolo et peut bien évoluer pendant des années. C’est l’un des barolos de Vietti que l’on trouve le plus facilement chez les cavistes et au restaurant.</p>",
+    "it": "<p>Sebbene Vietti sia nota per i Barolo da singola vigna, il <strong>Barolo Castiglione</strong> riprende un’idea più antica della denominazione: comporre il vino con uve di cru e comuni diversi per ottenere un insieme equilibrato. Prende il nome da Castiglione Falletto, il paese in cui ha sede la cantina.</p><p>È prodotto esclusivamente con Nebbiolo. Le parcelle sono vinificate separatamente e, dopo fermentazione e macerazione, il vino affina in rovere, soprattutto in botti grandi, prima dell’assemblaggio finale. La combinazione di suoli ed esposizioni di zone diverse del Barolo mira a un vino completo, con frutto, profumo e struttura.</p><p>È un Barolo un po’ più accessibile in gioventù rispetto ai vini di vigna della casa, pur mantenendo i tannini e l’acidità tipici del Nebbiolo e potendo evolvere bene per anni. È uno dei Barolo di Vietti che si trovano più facilmente in enoteca e al ristorante.</p>"
+  },
+  "tasting": {
+    "es": "Granate de capa media. Aromas de cereza, frambuesa, rosa, regaliz y especias. Boca de cuerpo medio a pleno, con taninos firmes pero pulidos, buena acidez y final persistente.",
+    "en": "Medium garnet. Aromas of cherry, raspberry, rose, liquorice and spice. Medium- to full-bodied palate, with firm but polished tannins, good acidity and a persistent finish.",
+    "fr": "Grenat moyen. Arômes de cerise, de framboise, de rose, de réglisse et d’épices. Bouche de corps moyen à ample, aux tanins fermes mais polis, avec une bonne acidité et une finale persistante.",
+    "it": "Granato di media intensità. Profumi di ciliegia, lampone, rosa, liquirizia e spezie. Bocca di medio-pieno corpo, con tannini saldi ma levigati, buona acidità e finale persistente."
+  },
+  "pairing": {
+    "es": "Carnes rojas estofadas, brasato al Barolo, caza, platos con trufa, quesos curados",
+    "en": "Braised red meat, brasato al Barolo, game, truffle dishes, aged cheeses",
+    "fr": "Viandes rouges braisées, brasato au barolo, gibier, plats à la truffe, fromages affinés",
+    "it": "Carni rosse brasate, brasato al Barolo, selvaggina, piatti al tartufo, formaggi stagionati"
+  },
+  "serve": {
+    "es": "17-18 °C, decantado, copa amplia",
+    "en": "17-18 °C, decanted, large glass",
+    "fr": "17-18 °C, carafé, verre ample",
+    "it": "17-18 °C, decantato, calice ampio"
+  },
+  "search": "Vietti Barolo Castiglione"
+}

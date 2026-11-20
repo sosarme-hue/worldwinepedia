@@ -1,0 +1,50 @@
+{
+  "slug": "chateau-la-lagune",
+  "name": "Château La Lagune",
+  "winery": "chateau-la-lagune",
+  "region": "medoc",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "3.er Gran Cru Clasificado 1855, Haut-Médoc",
+    "en": "Third Growth (1855), Haut-Médoc",
+    "fr": "3e Grand Cru Classé en 1855, Haut-Médoc",
+    "it": "3° Grand Cru Classé 1855, Haut-Médoc"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "petit-verdot"
+  ],
+  "summary": {
+    "es": "El gran vino de Château La Lagune, tercer gran cru clasificado del Haut-Médoc, un tinto fino y equilibrado de Cabernet Sauvignon, Merlot y Petit Verdot.",
+    "en": "The grand vin of Château La Lagune, a Haut-Médoc third growth, a fine, balanced red from Cabernet Sauvignon, Merlot and Petit Verdot.",
+    "fr": "Le grand vin du château La Lagune, troisième grand cru classé du Haut-Médoc, un rouge fin et équilibré de cabernet sauvignon, merlot et petit verdot.",
+    "it": "Il grand vin di Château La Lagune, terzo grand cru classé dell’Haut-Médoc, un rosso fine ed equilibrato di Cabernet Sauvignon, Merlot e Petit Verdot."
+  },
+  "body": {
+    "es": "<p>Château La Lagune es el gran vino de la propiedad del mismo nombre en Ludon-Médoc, <strong>tercer gran cru clasificado</strong> en 1855 y el más meridional de los crus clasificados del Médoc. Se acoge a la denominación <strong>Haut-Médoc</strong>.</p><p>Procede de un viñedo de un solo bloque sobre suelos de gravas y arenas muy permeables, cercanos en carácter a los de Margaux. Se elabora con <strong>Cabernet Sauvignon</strong>, <strong>Merlot</strong> y una proporción de <strong>Petit Verdot</strong> más elevada de lo habitual en el Médoc, que aporta color, notas especiadas y frescura. Las proporciones varían según la añada.</p><p>Bajo la dirección de la familia Frey, la elaboración privilegia la precisión de la fruta y la suavidad de la extracción, con crianza en barricas de roble francés. El resultado es un tinto elegante, de fruta negra y roja, notas florales y especiadas y taninos sedosos, que se disfruta tras unos años de botella y puede envejecer durante mucho tiempo.</p>",
+    "en": "<p>Château La Lagune is the grand vin of the estate of the same name in Ludon-Médoc, a <strong>third growth</strong> in 1855 and the southernmost of the Médoc’s classified growths. It is bottled under the <strong>Haut-Médoc</strong> appellation.</p><p>It comes from a single-block vineyard on very free-draining gravel and sandy soils, similar in character to those of Margaux. It is made from <strong>Cabernet Sauvignon</strong>, <strong>Merlot</strong> and a proportion of <strong>Petit Verdot</strong> higher than usual in the Médoc, which brings colour, spicy notes and freshness. The proportions vary with the vintage.</p><p>Under the Frey family’s management, winemaking favours precise fruit and gentle extraction, with ageing in French oak barrels. The result is an elegant red with black and red fruit, floral and spicy notes and silky tannins, best enjoyed after a few years in bottle and able to age for a long time.</p>",
+    "fr": "<p>Château La Lagune est le grand vin de la propriété du même nom à Ludon-Médoc, <strong>troisième grand cru classé</strong> en 1855 et le plus méridional des crus classés du Médoc. Il relève de l’appellation <strong>Haut-Médoc</strong>.</p><p>Il provient d’un vignoble d’un seul tenant sur des sols de graves et de sables très drainants, proches par leur caractère de ceux de Margaux. Il est élaboré à partir de <strong>cabernet sauvignon</strong>, de <strong>merlot</strong> et d’une proportion de <strong>petit verdot</strong> plus élevée qu’à l’ordinaire en Médoc, qui apporte couleur, notes épicées et fraîcheur. Les proportions varient selon le millésime.</p><p>Sous la direction de la famille Frey, la vinification privilégie la précision du fruit et la douceur de l’extraction, avec un élevage en barriques de chêne français. Il en résulte un rouge élégant, au fruit noir et rouge, aux notes florales et épicées et aux tanins soyeux, à apprécier après quelques années de bouteille et capable de vieillir longtemps.</p>",
+    "it": "<p>Château La Lagune è il grand vin della proprietà omonima di Ludon-Médoc, <strong>terzo grand cru classé</strong> nel 1855 e il più meridionale dei cru classé del Médoc. Rientra nella denominazione <strong>Haut-Médoc</strong>.</p><p>Proviene da un vigneto in un unico corpo su suoli di ghiaia e sabbia molto drenanti, simili per carattere a quelli di Margaux. È prodotto con <strong>Cabernet Sauvignon</strong>, <strong>Merlot</strong> e una quota di <strong>Petit Verdot</strong> più alta del consueto nel Médoc, che apporta colore, note speziate e freschezza. Le proporzioni variano secondo l’annata.</p><p>Sotto la guida della famiglia Frey, la vinificazione privilegia la precisione del frutto e un’estrazione delicata, con affinamento in barrique di rovere francese. Il risultato è un rosso elegante, con frutto nero e rosso, note floreali e speziate e tannini setosi, da gustare dopo qualche anno di bottiglia e capace di invecchiare a lungo.</p>"
+  },
+  "tasting": {
+    "es": "Granate profundo. Aromas de casis, cereza negra, violeta, especias y cedro. Boca elegante y fresca, de taninos sedosos y final largo.",
+    "en": "Deep garnet. Aromas of blackcurrant, black cherry, violet, spice and cedar. Elegant, fresh palate with silky tannins and a long finish.",
+    "fr": "Grenat profond. Arômes de cassis, de cerise noire, de violette, d’épices et de cèdre. Bouche élégante et fraîche, aux tanins soyeux et à la longue finale.",
+    "it": "Granato profondo. Aromi di ribes nero, ciliegia nera, viola, spezie e cedro. Bocca elegante e fresca, dai tannini setosi e lungo finale."
+  },
+  "pairing": {
+    "es": "Cordero asado, solomillo, caza de pluma, quesos curados",
+    "en": "Roast lamb, beef fillet, game birds, mature cheeses",
+    "fr": "Agneau rôti, filet de bœuf, gibier à plume, fromages affinés",
+    "it": "Agnello arrosto, filetto, selvaggina da piuma, formaggi stagionati"
+  },
+  "serve": {
+    "es": "17-18 °C, copa tipo Burdeos; decantar en su juventud",
+    "en": "17-18 °C, Bordeaux glass; decant when young",
+    "fr": "17-18 °C, verre de type bordelais ; carafer dans sa jeunesse",
+    "it": "17-18 °C, calice tipo Bordeaux; decantare da giovane"
+  },
+  "search": "Château La Lagune Haut-Médoc"
+}

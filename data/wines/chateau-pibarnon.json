@@ -1,0 +1,47 @@
+{
+  "slug": "chateau-pibarnon",
+  "name": "Château Pibarnon",
+  "winery": null,
+  "winery_name": "Château Pibarnon",
+  "region": "bandol",
+  "country": "francia",
+  "appellation": "AOC Bandol",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "monastrell",
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Tinto de Bandol de una finca de La Cadière-d'Azur con viñedos en terrazas a gran altitud, elaborado mayoritariamente con Mourvèdre.",
+    "en": "A Bandol red from an estate in La Cadière-d'Azur with high-altitude terraced vineyards, made mainly from Mourvèdre.",
+    "fr": "Rouge de Bandol issu d'un domaine de La Cadière-d'Azur aux vignes en terrasses de haute altitude, élaboré majoritairement à partir de mourvèdre.",
+    "it": "Rosso di Bandol prodotto da una tenuta di La Cadière-d'Azur con vigneti terrazzati ad alta quota, in prevalenza da Mourvèdre."
+  },
+  "body": {
+    "es": "<p><strong>Château de Pibarnon</strong> es una de las propiedades de referencia de <strong>Bandol</strong>, en la costa de Provenza. Se encuentra en el municipio de La Cadière-d'Azur, en lo alto de una colina desde la que se domina el Mediterráneo, y pertenece desde finales de los años setenta a la familia <strong>de Saint-Victor</strong>, que reconstruyó el viñedo en un gran anfiteatro de terrazas.</p><p>Sus viñas figuran entre las más altas de la denominación y se asientan sobre suelos calcáreos y margosos muy antiguos, que aportan frescura y finura a los vinos. La variedad principal es la <strong>Mourvèdre</strong>, emblema de Bandol, que necesita mucho sol y la influencia marina para madurar bien, completada con una pequeña parte de <strong>Garnacha</strong>.</p><p>El tinto se cría durante un periodo prolongado en grandes toneles de roble, como exige la tradición de la denominación para los tintos. Es un vino de estructura firme y taninos densos en su juventud, con un perfil aromático complejo que evoluciona durante muchos años en botella.</p>",
+    "en": "<p><strong>Château de Pibarnon</strong> is one of the benchmark estates of <strong>Bandol</strong>, on the Provençal coast. It lies in the commune of La Cadière-d'Azur, at the top of a hill overlooking the Mediterranean, and has belonged since the late 1970s to the <strong>de Saint-Victor</strong> family, who rebuilt the vineyard as a great amphitheatre of terraces.</p><p>Its vines are among the highest in the appellation and grow on very old limestone and marl soils that bring freshness and finesse to the wines. The main variety is <strong>Mourvèdre</strong>, Bandol's emblem, which needs plenty of sun and the maritime influence to ripen well, complemented by a small share of <strong>Grenache</strong>.</p><p>The red is aged for an extended period in large oak casks, as the appellation's tradition requires for its reds. It is a wine with firm structure and dense tannins in its youth, and a complex aromatic profile that develops over many years in bottle.</p>",
+    "fr": "<p><strong>Château de Pibarnon</strong> est l'une des propriétés de référence de <strong>Bandol</strong>, sur la côte provençale. Il se trouve sur la commune de La Cadière-d'Azur, au sommet d'une colline qui domine la Méditerranée, et appartient depuis la fin des années 1970 à la famille <strong>de Saint-Victor</strong>, qui a reconstruit le vignoble en un vaste amphithéâtre de restanques.</p><p>Ses vignes comptent parmi les plus hautes de l'appellation et reposent sur des sols calcaires et marneux très anciens, qui apportent fraîcheur et finesse aux vins. Le cépage principal est le <strong>mourvèdre</strong>, emblème de Bandol, qui a besoin de beaucoup de soleil et de l'influence marine pour bien mûrir, complété par une petite part de <strong>grenache</strong>.</p><p>Le rouge est élevé longuement en grands foudres de chêne, comme le veut la tradition de l'appellation pour les rouges. C'est un vin à la structure ferme et aux tanins denses dans sa jeunesse, au profil aromatique complexe qui évolue pendant de nombreuses années en bouteille.</p>",
+    "it": "<p><strong>Château de Pibarnon</strong> è una delle tenute di riferimento di <strong>Bandol</strong>, sulla costa provenzale. Si trova nel comune di La Cadière-d'Azur, in cima a una collina che domina il Mediterraneo, e appartiene dalla fine degli anni Settanta alla famiglia <strong>de Saint-Victor</strong>, che ha ricostruito il vigneto in un grande anfiteatro di terrazze.</p><p>Le sue vigne sono tra le più alte della denominazione e poggiano su suoli calcarei e marnosi molto antichi, che conferiscono freschezza e finezza ai vini. Il vitigno principale è il <strong>Mourvèdre</strong>, emblema di Bandol, che ha bisogno di molto sole e dell'influenza marina per maturare bene, completato da una piccola quota di <strong>Grenache</strong>.</p><p>Il rosso matura a lungo in grandi botti di rovere, come vuole la tradizione della denominazione per i rossi. È un vino dalla struttura salda e dai tannini fitti in gioventù, con un profilo aromatico complesso che evolve per molti anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rojo granate oscuro. Aromas de mora, ciruela, regaliz, cuero, hierbas provenzales y notas terrosas. Boca firme y profunda, con taninos densos y final largo.",
+    "en": "Dark garnet. Aromas of blackberry, plum, liquorice, leather, Provençal herbs and earthy notes. Firm, deep palate with dense tannins and a long finish.",
+    "fr": "Grenat sombre. Arômes de mûre, de prune, de réglisse, de cuir, d'herbes de Provence et notes terreuses. Bouche ferme et profonde, aux tanins denses et à la finale longue.",
+    "it": "Granato scuro. Aromi di mora, prugna, liquirizia, cuoio, erbe provenzali e note terrose. Bocca salda e profonda, tannini fitti e finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, daube de buey, caza, guisos con aceitunas, quesos curados",
+    "en": "Roast lamb, beef daube, game, stews with olives, aged cheeses",
+    "fr": "Agneau rôti, daube de bœuf, gibier, ragoûts aux olives, fromages affinés",
+    "it": "Agnello arrosto, daube di manzo, selvaggina, stufati con olive, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia; conviene decantar",
+    "en": "16-18 °C, large glass; decanting recommended",
+    "fr": "16-18 °C, verre ample ; carafage conseillé",
+    "it": "16-18 °C, calice ampio; consigliata la decantazione"
+  },
+  "search": "Château Pibarnon Château Pibarnon",
+  "source": "decantalo"
+}

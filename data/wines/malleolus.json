@@ -1,0 +1,43 @@
+{
+  "slug": "malleolus",
+  "name": "Malleolus",
+  "winery": "emilio-moro",
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Tinto de alta gama de Bodegas Emilio Moro, elaborado con Tinto Fino de viñas viejas del entorno de Pesquera de Duero y criado en roble francés.",
+    "en": "Top red from Bodegas Emilio Moro, made from old-vine Tinto Fino from around Pesquera de Duero and aged in French oak.",
+    "fr": "Rouge haut de gamme de Bodegas Emilio Moro, élaboré avec du tinto fino de vieilles vignes des environs de Pesquera de Duero et élevé en chêne français.",
+    "it": "Rosso di punta di Bodegas Emilio Moro, prodotto con Tinto Fino di vecchie vigne dei dintorni di Pesquera de Duero e affinato in rovere francese."
+  },
+  "body": {
+    "es": "<p>Malleolus es uno de los vinos de mayor ambición de Bodegas Emilio Moro, la bodega familiar de Pesquera de Duero, en el tramo vallisoletano de la Ribera del Duero. Su nombre procede del latín <em>malleolus</em>, término del que deriva la palabra castellana «majuelo», con la que se designa tradicionalmente una viña joven o una pequeña parcela de viñedo.</p><p>Se elabora con Tinto Fino, la variante local del Tempranillo, procedente de viñas viejas de la familia en el entorno de Pesquera de Duero, sobre suelos de arcilla y caliza. La uva se selecciona con cuidado y el vino se cría en barricas de roble francés durante un periodo prolongado, seguido de reposo en botella. La bodega elabora además dos vinos de parcela de la misma familia, Malleolus de Valderramiro y Malleolus de Sanchomartín.</p><p>El resultado es un tinto concentrado, de fruta negra madura, notas tostadas y especiadas y taninos firmes, con capacidad para evolucionar varios años en botella.</p>",
+    "en": "<p>Malleolus is one of the most ambitious wines from Bodegas Emilio Moro, the family winery in Pesquera de Duero, on the Valladolid stretch of Ribera del Duero. Its name comes from the Latin <em>malleolus</em>, the root of the Spanish word ‘majuelo’, traditionally used for a young vine or a small vineyard plot.</p><p>It is made from Tinto Fino, the local variant of Tempranillo, from the family’s old vines around Pesquera de Duero, on clay and limestone soils. The grapes are carefully selected and the wine is aged in French oak barrels for an extended period, followed by bottle rest. The winery also makes two single-plot wines in the same family, Malleolus de Valderramiro and Malleolus de Sanchomartín.</p><p>The result is a concentrated red with ripe black fruit, toasty and spicy notes and firm tannins, able to develop for several years in bottle.</p>",
+    "fr": "<p>Malleolus est l’un des vins les plus ambitieux de Bodegas Emilio Moro, la bodega familiale de Pesquera de Duero, sur le tronçon de Valladolid de la Ribera del Duero. Son nom vient du latin <em>malleolus</em>, à l’origine du mot espagnol « majuelo », qui désigne traditionnellement une jeune vigne ou une petite parcelle de vignoble.</p><p>Il est élaboré avec du tinto fino, variante locale du tempranillo, provenant de vieilles vignes de la famille autour de Pesquera de Duero, sur des sols d’argile et de calcaire. Le raisin est soigneusement sélectionné et le vin est élevé en barriques de chêne français pendant une longue période, suivie d’un repos en bouteille. La bodega élabore également deux vins parcellaires de la même famille, Malleolus de Valderramiro et Malleolus de Sanchomartín.</p><p>Il en résulte un rouge concentré, aux fruits noirs mûrs, aux notes toastées et épicées et aux tanins fermes, capable d’évoluer plusieurs années en bouteille.</p>",
+    "it": "<p>Malleolus è uno dei vini più ambiziosi di Bodegas Emilio Moro, la cantina di famiglia di Pesquera de Duero, nel tratto di Valladolid della Ribera del Duero. Il nome deriva dal latino <em>malleolus</em>, da cui proviene la parola spagnola «majuelo», usata tradizionalmente per indicare una vigna giovane o una piccola parcella di vigneto.</p><p>È prodotto con Tinto Fino, la variante locale del Tempranillo, proveniente da vecchie vigne della famiglia nei dintorni di Pesquera de Duero, su suoli di argilla e calcare. Le uve sono selezionate con cura e il vino affina in barrique di rovere francese per un periodo prolungato, seguito da un riposo in bottiglia. La cantina produce inoltre due vini di parcella della stessa famiglia, Malleolus de Valderramiro e Malleolus de Sanchomartín.</p><p>Il risultato è un rosso concentrato, con frutto nero maturo, note tostate e speziate e tannini decisi, capace di evolvere per diversi anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de fruta negra madura, regaliz, especias y tostados de la barrica. En boca es carnoso y estructurado, con taninos firmes y final persistente.",
+    "en": "Intense deep cherry red. Aromas of ripe black fruit, liquorice, spice and toasty oak. Fleshy and structured on the palate, with firm tannins and a persistent finish.",
+    "fr": "Rouge cerise burlat intense. Arômes de fruits noirs mûrs, réglisse, épices et toasté de la barrique. En bouche, il est charnu et structuré, aux tanins fermes et à la finale persistante.",
+    "it": "Rosso ciliegia intenso. Aromi di frutta nera matura, liquirizia, spezie e tostatura della barrique. In bocca è carnoso e strutturato, con tannini decisi e finale persistente."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, lechazo asado, caza mayor, quesos curados de oveja",
+    "en": "Chargrilled red meat, roast milk-fed lamb, large game, aged sheep’s cheeses",
+    "fr": "Viandes rouges à la braise, agneau de lait rôti, gros gibier, fromages de brebis affinés",
+    "it": "Carni rosse alla brace, agnello da latte arrosto, selvaggina di grossa taglia, pecorini stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Malleolus Emilio Moro Ribera del Duero"
+}

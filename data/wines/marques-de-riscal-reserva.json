@@ -1,0 +1,50 @@
+{
+  "slug": "marques-de-riscal-reserva",
+  "name": "Marqués de Riscal Reserva",
+  "winery": "marques-de-riscal",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [
+    "tempranillo",
+    "graciano",
+    "carinena"
+  ],
+  "summary": {
+    "es": "El reserva clásico de Marqués de Riscal, reconocible por su malla dorada, uno de los Rioja más difundidos dentro y fuera de España.",
+    "en": "Marqués de Riscal’s classic reserva, recognisable by its golden wire mesh, one of the most widely available Riojas in Spain and abroad.",
+    "fr": "Le reserva classique de Marqués de Riscal, reconnaissable à son grillage doré, l’un des Rioja les plus diffusés en Espagne et à l’étranger.",
+    "it": "Il reserva classico di Marqués de Riscal, riconoscibile dalla reticella dorata, uno dei Rioja più diffusi in Spagna e all’estero."
+  },
+  "body": {
+    "es": "<p>El Marqués de Riscal Reserva es el vino más conocido de la bodega de Elciego y una de las etiquetas más reconocibles del vino español, gracias a la malla de alambre dorado que envuelve la botella. Se elabora mayoritariamente con Tempranillo, completada con proporciones menores de Graciano y Mazuelo (Cariñena), de viñedos de Rioja Alavesa.</p><p>Tras la fermentación, el vino se cría en barricas de roble y completa su evolución en botella antes de salir al mercado, de acuerdo con los tiempos mínimos que exige la categoría Reserva.</p><p>Es un Rioja de estilo clásico y accesible, con equilibrio entre la fruta y las notas de crianza, que se encuentra con facilidad en tiendas y restaurantes. Puede beberse desde su salida al mercado y también aguanta varios años en botella.</p>",
+    "en": "<p>Marqués de Riscal Reserva is the best-known wine of the Elciego winery and one of the most recognisable labels in Spanish wine, thanks to the golden wire mesh wrapped around the bottle. It is made mainly from Tempranillo, completed with smaller proportions of Graciano and Mazuelo (Carignan), from Rioja Alavesa vineyards.</p><p>After fermentation, the wine is aged in oak barrels and completes its development in bottle before release, in accordance with the minimum periods required for the Reserva category.</p><p>It is a classic, accessible Rioja, balancing fruit and ageing notes, and easy to find in shops and restaurants. It can be drunk on release and will also keep for several years in bottle.</p>",
+    "fr": "<p>Le Marqués de Riscal Reserva est le vin le plus connu de la maison d’Elciego et l’une des étiquettes les plus reconnaissables du vin espagnol, grâce au grillage de fil doré qui enveloppe la bouteille. Il est élaboré majoritairement avec du tempranillo, complété par de plus petites proportions de graciano et de mazuelo (carignan), issus de vignes de Rioja Alavesa.</p><p>Après la fermentation, le vin est élevé en barriques de chêne et achève son évolution en bouteille avant sa commercialisation, conformément aux durées minimales exigées pour la catégorie Reserva.</p><p>C’est un Rioja classique et accessible, équilibré entre fruit et notes d’élevage, que l’on trouve facilement chez les cavistes et au restaurant. Il peut se boire dès sa sortie et se garde aussi plusieurs années en bouteille.</p>",
+    "it": "<p>Il Marqués de Riscal Reserva è il vino più noto della cantina di Elciego e una delle etichette più riconoscibili del vino spagnolo, grazie alla reticella di filo dorato che avvolge la bottiglia. È prodotto in prevalenza con Tempranillo, completato da quote minori di Graciano e Mazuelo (Carignano), da vigneti della Rioja Alavesa.</p><p>Dopo la fermentazione, il vino affina in botti di rovere e completa la sua evoluzione in bottiglia prima di uscire sul mercato, secondo i tempi minimi richiesti dalla categoria Reserva.</p><p>È un Rioja classico e accessibile, equilibrato tra frutto e note di affinamento, facile da trovare in enoteche e ristoranti. Si può bere appena uscito e regge anche diversi anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rubí de capa media. Aromas de fruta roja madura, vainilla, especias y notas tostadas. En boca es de cuerpo medio, redondo, con tanino suave y buena acidez.",
+    "en": "Medium-depth ruby. Aromas of ripe red fruit, vanilla, spice and toasty notes. Medium-bodied and rounded on the palate, with soft tannins and good acidity.",
+    "fr": "Rubis d’intensité moyenne. Arômes de fruits rouges mûrs, de vanille, d’épices et notes grillées. En bouche, corps moyen, rond, tanins souples et bonne acidité.",
+    "it": "Rubino di media intensità. Aromi di frutta rossa matura, vaniglia, spezie e note tostate. In bocca ha corpo medio, è rotondo, con tannino morbido e buona acidità."
+  },
+  "pairing": {
+    "es": "Carnes rojas, cordero, embutidos ibéricos, guisos, quesos semicurados",
+    "en": "Red meat, lamb, Iberian charcuterie, stews, semi-aged cheeses",
+    "fr": "Viandes rouges, agneau, charcuterie ibérique, ragoûts, fromages mi-affinés",
+    "it": "Carni rosse, agnello, salumi iberici, stufati, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Marqués de Riscal Reserva Rioja"
+}

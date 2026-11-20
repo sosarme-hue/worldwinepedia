@@ -1,0 +1,42 @@
+{
+  "slug": "pascal-doquet-diapason-grand-cru-extra-brut",
+  "name": "Pascal Doquet Diapason Grand Cru Extra Brut",
+  "winery": null,
+  "winery_name": "Pascal Doquet",
+  "region": null,
+  "country": "francia",
+  "appellation": null,
+  "type": "espumoso",
+  "category": null,
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Pascal Doquet Diapason Grand Cru Extra Brut es un vino espumoso de Pascal Doquet, en Francia.",
+    "en": "Pascal Doquet Diapason Grand Cru Extra Brut is a sparkling wine from Pascal Doquet in France.",
+    "fr": "Pascal Doquet Diapason Grand Cru Extra Brut est un vin effervescent de Pascal Doquet (France).",
+    "it": "Pascal Doquet Diapason Grand Cru Extra Brut è un vino spumante di Pascal Doquet (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Chardonnay. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is made from Chardonnay. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Chardonnay. Il titre 12,5 % vol.</p>",
+    "it": "<p>È prodotto con Chardonnay. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Pascal Doquet Diapason Grand Cru Extra Brut Pascal Doquet",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "vina-bosconia-reserva",
+  "name": "Viña Bosconia Reserva",
+  "winery": "lopez-de-heredia",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {"es": "Reserva", "en": "Reserva", "fr": "Reserva", "it": "Reserva"},
+  "grapes": ["tempranillo", "garnacha", "carinena", "graciano"],
+  "summary": {
+    "es": "Reserva de López de Heredia procedente de la finca El Bosque, de perfil algo más amplio y carnoso que el Viña Tondonia.",
+    "en": "López de Heredia reserva from the El Bosque estate, with a somewhat rounder, fleshier profile than Viña Tondonia.",
+    "fr": "Reserva de López de Heredia issu du domaine El Bosque, au profil un peu plus ample et charnu que le Viña Tondonia.",
+    "it": "Reserva di López de Heredia proveniente dalla tenuta El Bosque, dal profilo un po’ più ampio e carnoso del Viña Tondonia."
+  },
+  "body": {
+    "es": "<p>El Viña Bosconia toma su nombre de la finca El Bosque, propiedad de la bodega en las cercanías de Haro. Se elabora con una mezcla basada en la Tempranillo, a la que se añaden Garnacha, Mazuelo (Cariñena) y Graciano.</p><p>Como el resto de vinos de la casa, fermenta en tinas de roble y se cría durante varios años en barricas usadas, con trasiegos manuales y clarificación con clara de huevo, antes de un largo reposo en botella. La bodega sólo lo comercializa cuando considera que está listo para beber.</p><p>Tradicionalmente se ha descrito como el vino de la casa de carácter más amplio y redondo, frente al perfil más fino y ácido del Viña Tondonia. Comparte con él la filosofía de crianza larga y la gran capacidad de envejecimiento.</p>",
+    "en": "<p>Viña Bosconia takes its name from the El Bosque estate, owned by the winery near Haro. It is made from a Tempranillo-based blend, with Grenache, Mazuelo (Carignan) and Graciano added.</p><p>Like the house’s other wines, it ferments in oak vats and is aged for several years in used barrels, with manual racking and egg-white fining, before a long rest in bottle. The winery releases it only when it considers it ready to drink.</p><p>It has traditionally been described as the house’s broader, rounder wine, in contrast to the finer, more acidic profile of Viña Tondonia. It shares with it the philosophy of long ageing and great cellaring potential.</p>",
+    "fr": "<p>Le Viña Bosconia tire son nom du domaine El Bosque, propriété de la maison près de Haro. Il est élaboré à partir d’un assemblage à base de tempranillo, complété par le grenache, le mazuelo (carignan) et le graciano.</p><p>Comme les autres vins de la maison, il fermente en cuves de chêne et est élevé plusieurs années en barriques usagées, avec soutirages manuels et collage au blanc d’œuf, avant un long repos en bouteille. La maison ne le commercialise que lorsqu’elle le juge prêt à boire.</p><p>Il est traditionnellement décrit comme le vin le plus ample et rond de la maison, face au profil plus fin et plus acide du Viña Tondonia. Il partage avec lui la philosophie d’un long élevage et un grand potentiel de garde.</p>",
+    "it": "<p>Il Viña Bosconia prende il nome dalla tenuta El Bosque, di proprietà della cantina nei pressi di Haro. È prodotto con un uvaggio a base di Tempranillo, a cui si aggiungono Grenache, Mazuelo (Carignano) e Graciano.</p><p>Come gli altri vini della casa, fermenta in tini di rovere e affina per diversi anni in botti usate, con travasi manuali e chiarifica con albume d’uovo, prima di un lungo riposo in bottiglia. La cantina lo mette in commercio solo quando lo ritiene pronto da bere.</p><p>Tradizionalmente è descritto come il vino più ampio e rotondo della casa, rispetto al profilo più fine e acido del Viña Tondonia. Ne condivide la filosofia di lungo affinamento e la grande capacità di invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Rubí con reflejos teja. Notas de fruta roja y negra madura, especias, cuero y madera vieja. En boca es amplio y sedoso, con acidez fresca y final especiado.",
+    "en": "Ruby with brick highlights. Notes of ripe red and black fruit, spice, leather and old wood. Broad and silky on the palate, with fresh acidity and a spicy finish.",
+    "fr": "Rubis aux reflets tuilés. Notes de fruits rouges et noirs mûrs, d’épices, de cuir et de vieux bois. En bouche, ample et soyeux, avec une acidité fraîche et une finale épicée.",
+    "it": "Rubino con riflessi aranciati. Note di frutta rossa e nera matura, spezie, cuoio e legno vecchio. In bocca è ampio e setoso, con acidità fresca e finale speziato."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes rojas, caza menor, quesos curados",
+    "en": "Roast lamb, red meat, small game, aged cheeses",
+    "fr": "Agneau rôti, viandes rouges, petit gibier, fromages affinés",
+    "it": "Agnello arrosto, carni rosse, selvaggina minuta, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia; decantar si tiene sedimento",
+    "en": "16-18 °C, large glass; decant if there is sediment",
+    "fr": "16-18 °C, verre ample ; carafer en cas de dépôt",
+    "it": "16-18 °C, calice ampio; decantare in presenza di sedimento"
+  },
+  "search": "Viña Bosconia Reserva López de Heredia"
+}

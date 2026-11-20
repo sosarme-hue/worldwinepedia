@@ -1,0 +1,48 @@
+{
+  "slug": "boutari-naoussa",
+  "name": "Boutari Naoussa",
+  "winery": "boutari",
+  "region": "naoussa",
+  "country": "grecia",
+  "type": "tinto",
+  "category": {
+    "es": "Naoussa DOP",
+    "en": "Naoussa PDO",
+    "fr": "Naoussa AOP",
+    "it": "Naoussa DOP"
+  },
+  "grapes": [
+    "xinomavro"
+  ],
+  "summary": {
+    "es": "Tinto clásico de Xinomavro de la casa Boutari, uno de los vinos más conocidos de Grecia. Ha sido para muchos consumidores la primera aproximación a los tintos de Naoussa.",
+    "en": "A classic Xinomavro red from the Boutari house, one of the best-known wines in Greece. For many consumers it has been their first encounter with the reds of Naoussa.",
+    "fr": "Rouge classique de xinomavro de la maison Boutari, l’un des vins les plus connus de Grèce. Il a été pour de nombreux consommateurs la première approche des rouges de Naoussa.",
+    "it": "Rosso classico di Xinomavro della casa Boutari, uno dei vini più noti della Grecia. Per molti consumatori è stato il primo approccio ai rossi di Naoussa."
+  },
+  "body": {
+    "es": "<p>El Boutari Naoussa es uno de los vinos con más historia de la casa, ligada a esta denominación desde su fundación en 1879. Se elabora exclusivamente con <strong>Xinomavro</strong> de viñedos de la zona de Naoussa, en las laderas del monte Vermio, con uvas propias y de viticultores locales.</p><p>Tras la fermentación, el vino se cría en barricas y toneles de roble y después en botella antes de salir al mercado. Su estilo es clásico y representa bien el carácter de la variedad: color rubí de intensidad media que evoluciona pronto hacia tonos teja, acidez viva, taninos firmes y aromas de fruta roja, especias y las notas de tomate seco y aceituna propias de la Xinomavro. Es un tinto versátil en la mesa, que puede beberse en sus primeros años o guardarse algún tiempo, durante el cual desarrolla notas de evolución.</p>",
+    "en": "<p>Boutari Naoussa is one of the house’s wines with the longest history, linked to this appellation since the company was founded in 1879. It is made exclusively from <strong>Xinomavro</strong> from vineyards in the Naoussa area, on the slopes of Mount Vermio, with the house’s own grapes and those of local growers.</p><p>After fermentation, the wine is aged in oak barrels and casks and then in bottle before release. Its style is classic and represents the variety’s character well: medium-intensity ruby colour that soon evolves towards brick hues, lively acidity, firm tannins and aromas of red fruit, spice and the sun-dried tomato and olive notes typical of Xinomavro. It is a versatile red at the table, which can be drunk in its first few years or kept for a while, during which it develops more evolved notes.</p>",
+    "fr": "<p>Le Boutari Naoussa est l’un des vins les plus chargés d’histoire de la maison, liée à cette appellation depuis sa fondation en 1879. Il est élaboré exclusivement à partir de <strong>xinomavro</strong> de vignes de la zone de Naoussa, sur les pentes du mont Vermio, avec des raisins de la maison et de vignerons locaux.</p><p>Après la fermentation, le vin est élevé en barriques et en foudres de chêne, puis en bouteille avant sa commercialisation. Son style est classique et représente bien le caractère du cépage : un rubis d’intensité moyenne qui évolue tôt vers des teintes tuilées, une acidité vive, des tanins fermes et des arômes de fruits rouges, d’épices et les notes de tomate séchée et d’olive propres au xinomavro. C’est un rouge polyvalent à table, qui peut se boire dans ses premières années ou se garder quelque temps, en développant des notes d’évolution.</p>",
+    "it": "<p>Il Boutari Naoussa è uno dei vini più storici della casa, legata a questa denominazione fin dalla fondazione nel 1879. Si ottiene esclusivamente da <strong>Xinomavro</strong> di vigneti della zona di Naoussa, sulle pendici del monte Vermio, con uve proprie e di viticoltori locali.</p><p>Dopo la fermentazione il vino affina in barrique e botti di rovere e poi in bottiglia prima della messa in commercio. Il suo stile è classico e rappresenta bene il carattere del vitigno: colore rubino di media intensità che evolve presto verso toni aranciati, acidità vivace, tannini decisi e profumi di frutti rossi, spezie e le note di pomodoro secco e oliva tipiche dello Xinomavro. È un rosso versatile a tavola, che si può bere nei primi anni o conservare per qualche tempo, sviluppando note evolutive.</p>"
+  },
+  "tasting": {
+    "es": "Rubí con ribete teja. Aromas de cereza ácida, frambuesa, tomate seco, especias y un fondo de madera. En boca es de cuerpo medio, fresco, con taninos firmes y final ligeramente especiado.",
+    "en": "Ruby with a brick rim. Aromas of sour cherry, raspberry, sun-dried tomato, spice and a background of oak. Medium-bodied and fresh on the palate, with firm tannins and a slightly spicy finish.",
+    "fr": "Rubis au bord tuilé. Arômes de cerise acidulée, de framboise, de tomate séchée, d’épices et un fond boisé. En bouche, il est de corps moyen et frais, avec des tanins fermes et une finale légèrement épicée.",
+    "it": "Rubino con unghia aranciata. Profumi di ciliegia acidula, lampone, pomodoro secco, spezie e un fondo di legno. In bocca è di medio corpo, fresco, con tannini decisi e finale leggermente speziato."
+  },
+  "pairing": {
+    "es": "cordero asado, carnes a la brasa, guisos con tomate, setas, quesos curados",
+    "en": "roast lamb, grilled meat, tomato-based stews, mushrooms, aged cheeses",
+    "fr": "agneau rôti, viandes grillées, ragoûts à la tomate, champignons, fromages affinés",
+    "it": "agnello arrosto, carni alla brace, stufati al pomodoro, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Boutari Naoussa Xinomavro"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "gerovassiliou-avaton",
+  "name": "Gerovassiliou Avaton",
+  "winery": null,
+  "winery_name": "Ktima Gerovassiliou",
+  "region": null,
+  "country": "grecia",
+  "appellation": "PGI Epanomi",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Gerovassiliou Avaton es un vino tinto de Ktima Gerovassiliou, con la denominación PGI Epanomi, en Grecia.",
+    "en": "Gerovassiliou Avaton is a red wine from Ktima Gerovassiliou, made under the PGI Epanomi appellation in Greece.",
+    "fr": "Gerovassiliou Avaton est un vin rouge de Ktima Gerovassiliou, élaboré sous l’appellation PGI Epanomi (Grèce).",
+    "it": "Gerovassiliou Avaton è un vino rosso di Ktima Gerovassiliou, prodotto nella denominazione PGI Epanomi (Grecia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 14% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Gerovassiliou Avaton Ktima Gerovassiliou",
+  "brief": true,
+  "source": "decantalo"
+}

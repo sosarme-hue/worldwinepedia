@@ -1,0 +1,40 @@
+{
+  "slug": "cascina-degli-ulivi-nibio",
+  "name": "Cascina degli Ulivi Nibiô",
+  "winery": null,
+  "winery_name": "Cascina degli Ulivi",
+  "region": null,
+  "country": "italia",
+  "appellation": "Vino da Tavola",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Cascina degli Ulivi Nibiô es un vino tinto de Cascina degli Ulivi, con la denominación Vino da Tavola, en Italia.",
+    "en": "Cascina degli Ulivi Nibiô is a red wine from Cascina degli Ulivi, made under the Vino da Tavola appellation in Italy.",
+    "fr": "Cascina degli Ulivi Nibiô est un vin rouge de Cascina degli Ulivi, élaboré sous l’appellation Vino da Tavola (Italie).",
+    "it": "Cascina degli Ulivi Nibiô è un vino rosso di Cascina degli Ulivi, prodotto nella denominazione Vino da Tavola (Italia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 13% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Cascina degli Ulivi Nibiô Cascina degli Ulivi",
+  "brief": true,
+  "source": "decantalo"
+}

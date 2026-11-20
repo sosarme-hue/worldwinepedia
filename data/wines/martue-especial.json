@@ -1,0 +1,45 @@
+{
+  "slug": "martue-especial",
+  "name": "Martue Especial",
+  "winery": null,
+  "winery_name": "Martúe",
+  "region": null,
+  "country": "espana",
+  "appellation": "VP Pago Campo de La Guardia",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [],
+  "summary": {
+    "es": "Martue Especial es un vino tinto de Martúe, con la denominación VP Pago Campo de La Guardia, en España.",
+    "en": "Martue Especial is a red wine from Martúe, made under the VP Pago Campo de La Guardia appellation in Spain.",
+    "fr": "Martue Especial est un vin rouge de Martúe, élaboré sous l’appellation VP Pago Campo de La Guardia (Espagne).",
+    "it": "Martue Especial è un vino rosso di Martúe, prodotto nella denominazione VP Pago Campo de La Guardia (Spagna)."
+  },
+  "body": {
+    "es": "<p>Lleva la mención Reserva. Su graduación es de 15 % vol.</p>",
+    "en": "<p>It carries the Reserva designation. It has 15% ABV.</p>",
+    "fr": "<p>Il porte la mention Reserva. Il titre 15 % vol.</p>",
+    "it": "<p>Riporta la menzione Reserva. Ha 15% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Martue Especial Martúe",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "lustau-don-nuno",
+  "name": "Lustau Don Nuño",
+  "winery": "lustau",
+  "region": "jerez-xeres-sherry",
+  "country": "espana",
+  "type": "generoso",
+  "category": {
+    "es": "Oloroso",
+    "en": "Oloroso",
+    "fr": "Oloroso",
+    "it": "Oloroso"
+  },
+  "grapes": ["palomino"],
+  "summary": {
+    "es": "Oloroso seco de la gama Solera Reserva de Lustau, de crianza oxidativa en criaderas y solera.",
+    "en": "Dry oloroso from Lustau's Solera Reserva range, oxidatively aged in criaderas and solera.",
+    "fr": "Oloroso sec de la gamme Solera Reserva de Lustau, à élevage oxydatif en criaderas et solera.",
+    "it": "Oloroso secco della linea Solera Reserva di Lustau, ad affinamento ossidativo in criaderas e solera."
+  },
+  "body": {
+    "es": "<p>Don Nuño es el oloroso de la gama Solera Reserva de Lustau. El <strong>oloroso</strong> es el estilo de Jerez de crianza exclusivamente oxidativa: el vino de <strong>palomino</strong> se encabeza hasta una graduación que impide el desarrollo del velo de flor, de modo que envejece en contacto con el oxígeno que penetra a través de la madera de la bota.</p><p>Con los años, en el sistema de <strong>criaderas y solera</strong>, el vino gana color —del ámbar al caoba—, cuerpo y concentración, y desarrolla aromas de frutos secos, especias y madera. A pesar de su nombre, que alude a su intensidad aromática, es un vino <strong>seco</strong>. Por su estructura se presta a acompañar platos contundentes y aguanta bien una vez abierta la botella.</p>",
+    "en": "<p>Don Nuño is the oloroso in Lustau's Solera Reserva range. <strong>Oloroso</strong> is the sherry style aged exclusively by oxidation: the <strong>Palomino</strong> wine is fortified to a strength that prevents flor from developing, so it ages in contact with the oxygen that seeps through the cask's wood.</p><p>Over the years in the <strong>criaderas and solera</strong> system, the wine gains colour —from amber to mahogany—, body and concentration, and develops aromas of nuts, spice and wood. Despite its name, which refers to its aromatic intensity («fragrant»), it is a <strong>dry</strong> wine. Its structure suits hearty dishes, and it keeps well once the bottle is opened.</p>",
+    "fr": "<p>Don Nuño est l'oloroso de la gamme Solera Reserva de Lustau. L'<strong>oloroso</strong> est le style de Xérès à élevage exclusivement oxydatif : le vin de <strong>palomino</strong> est muté jusqu'à un degré qui empêche le développement du voile de flor, de sorte qu'il vieillit au contact de l'oxygène qui pénètre à travers le bois du fût.</p><p>Au fil des années, dans le système des <strong>criaderas et solera</strong>, le vin gagne en couleur —de l'ambre à l'acajou—, en corps et en concentration, et développe des arômes de fruits secs, d'épices et de bois. Malgré son nom, qui évoque son intensité aromatique (« odorant »), c'est un vin <strong>sec</strong>. Sa structure lui permet d'accompagner des plats consistants, et il se conserve bien une fois la bouteille ouverte.</p>",
+    "it": "<p>Don Nuño è l'oloroso della linea Solera Reserva di Lustau. L'<strong>oloroso</strong> è lo stile di Jerez ad affinamento esclusivamente ossidativo: il vino di <strong>Palomino</strong> viene fortificato fino a una gradazione che impedisce lo sviluppo del velo di flor, così che invecchia a contatto con l'ossigeno che penetra attraverso il legno della botte.</p><p>Con gli anni, nel sistema di <strong>criaderas e solera</strong>, il vino acquista colore —dall'ambra al mogano—, corpo e concentrazione, e sviluppa aromi di frutta secca, spezie e legno. Nonostante il nome, che allude alla sua intensità aromatica («profumato»), è un vino <strong>secco</strong>. La sua struttura lo rende adatto a piatti sostanziosi, e si conserva bene una volta aperta la bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Nuez, avellana tostada, especias, cuero suave y madera noble. Boca seca, amplia y cálida, con final largo.",
+    "en": "Walnut, toasted hazelnut, spice, soft leather and fine wood. Dry, broad and warm palate with a long finish.",
+    "fr": "Noix, noisette grillée, épices, cuir léger et bois noble. Bouche sèche, ample et chaleureuse, à la finale longue.",
+    "it": "Noce, nocciola tostata, spezie, cuoio leggero e legno nobile. Bocca secca, ampia e calda, con finale lungo."
+  },
+  "pairing": {
+    "es": "Rabo de toro, guisos de carne, caza, setas, quesos curados",
+    "en": "Oxtail stew, meat stews, game, mushrooms, aged cheeses",
+    "fr": "Queue de taureau, ragoûts de viande, gibier, champignons, fromages affinés",
+    "it": "Coda di toro, stufati di carne, selvaggina, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "12-14 °C, copa de vino blanco",
+    "en": "12-14 °C, white wine glass",
+    "fr": "12-14 °C, verre à vin blanc",
+    "it": "12-14 °C, calice da vino bianco"
+  },
+  "search": "Lustau Don Nuño Oloroso"
+}

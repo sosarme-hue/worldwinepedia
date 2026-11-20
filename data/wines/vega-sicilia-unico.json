@@ -1,0 +1,41 @@
+{
+  "slug": "vega-sicilia-unico",
+  "name": "Vega Sicilia Único",
+  "winery": "vega-sicilia",
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": ["tempranillo", "cabernet-sauvignon"],
+  "summary": {
+    "es": "El vino más célebre de Vega Sicilia, un tinto de Tinto Fino y Cabernet Sauvignon con una crianza excepcionalmente larga antes de salir al mercado.",
+    "en": "Vega Sicilia’s most celebrated wine, a Tinto Fino and Cabernet Sauvignon red given exceptionally long ageing before release.",
+    "fr": "Le vin le plus célèbre de Vega Sicilia, un rouge de tinto fino et de cabernet-sauvignon au vieillissement exceptionnellement long avant sa commercialisation.",
+    "it": "Il vino più celebre di Vega Sicilia, un rosso di Tinto Fino e Cabernet Sauvignon con un affinamento eccezionalmente lungo prima dell’uscita sul mercato."
+  },
+  "body": {
+    "es": "<p>Único es el vino insignia de Vega Sicilia y uno de los tintos más conocidos de España. Se elabora sólo en las añadas que la bodega considera adecuadas, con uvas de la finca de Valbuena de Duero, principalmente Tinto Fino (Tempranillo) acompañada de Cabernet Sauvignon.</p><p>Su rasgo más característico es una crianza muy prolongada, que combina distintos tipos de recipientes de madera, como barricas nuevas y usadas y grandes tinos, seguida de un largo reposo en botella. Como resultado, el vino suele salir al mercado alrededor de una década después de la vendimia. La bodega no se acoge a las categorías de crianza tradicionales en su etiqueta.</p><p>Es un tinto de gran complejidad y longevidad, muy apreciado por coleccionistas, que puede seguir evolucionando durante décadas en buenas condiciones de conservación. Su distribución es limitada y se comercializa en gran parte a través de clientes habituales de la bodega.</p>",
+    "en": "<p>Único is Vega Sicilia’s flagship wine and one of Spain’s best-known reds. It is made only in vintages the winery considers suitable, from grapes grown on the Valbuena de Duero estate, mainly Tinto Fino (Tempranillo) together with Cabernet Sauvignon.</p><p>Its most distinctive feature is very long ageing, combining different types of wooden vessels, such as new and used barrels and large vats, followed by an extended rest in bottle. As a result, the wine is usually released around a decade after the harvest. The winery does not use the traditional ageing categories on its label.</p><p>It is a red of great complexity and longevity, highly prized by collectors, that can keep evolving for decades under good storage conditions. Its distribution is limited and much of it is sold to the winery’s regular customers.</p>",
+    "fr": "<p>Único est le vin phare de Vega Sicilia et l’un des rouges les plus connus d’Espagne. Il n’est élaboré que dans les millésimes que la maison juge adaptés, avec des raisins du domaine de Valbuena de Duero, principalement du tinto fino (tempranillo) accompagné de cabernet-sauvignon.</p><p>Son trait le plus caractéristique est un élevage très prolongé, qui combine différents contenants en bois, comme des barriques neuves et usagées et de grandes cuves, suivi d’un long repos en bouteille. Le vin est donc généralement commercialisé une dizaine d’années après les vendanges. La maison ne fait pas figurer les catégories d’élevage traditionnelles sur son étiquette.</p><p>C’est un rouge d’une grande complexité et d’une grande longévité, très prisé des collectionneurs, qui peut continuer d’évoluer pendant des décennies dans de bonnes conditions de conservation. Sa distribution est limitée et il est en grande partie vendu aux clients habituels de la maison.</p>",
+    "it": "<p>Único è il vino di punta di Vega Sicilia e uno dei rossi più conosciuti di Spagna. Viene prodotto solo nelle annate che la cantina ritiene adatte, con uve della tenuta di Valbuena de Duero, principalmente Tinto Fino (Tempranillo) accompagnato da Cabernet Sauvignon.</p><p>Il suo tratto più caratteristico è un affinamento molto prolungato, che combina diversi tipi di contenitori in legno, come barrique nuove e usate e grandi tini, seguito da un lungo riposo in bottiglia. Di conseguenza il vino esce di solito sul mercato circa un decennio dopo la vendemmia. La cantina non utilizza in etichetta le categorie di affinamento tradizionali.</p><p>È un rosso di grande complessità e longevità, molto apprezzato dai collezionisti, che può continuare a evolvere per decenni in buone condizioni di conservazione. La distribuzione è limitata e in gran parte riservata ai clienti abituali della cantina.</p>"
+  },
+  "tasting": {
+    "es": "Rubí profundo con ribete granate. Nariz compleja de fruta negra y roja madura, especias, cedro, tabaco, notas balsámicas y de sotobosque. En boca es profundo y elegante, con tanino fino, acidez fresca y final muy largo.",
+    "en": "Deep ruby with a garnet rim. A complex nose of ripe black and red fruit, spice, cedar, tobacco, balsamic and forest-floor notes. Deep and elegant on the palate, with fine tannins, fresh acidity and a very long finish.",
+    "fr": "Rubis profond aux reflets grenat. Nez complexe de fruits noirs et rouges mûrs, d’épices, de cèdre, de tabac, de notes balsamiques et de sous-bois. En bouche, profond et élégant, avec des tanins fins, une acidité fraîche et une finale très longue.",
+    "it": "Rubino profondo con unghia granata. Naso complesso di frutta nera e rossa matura, spezie, cedro, tabacco, note balsamiche e di sottobosco. In bocca è profondo ed elegante, con tannino fine, acidità fresca e finale molto lungo."
+  },
+  "pairing": {
+    "es": "Lechazo asado, caza mayor, carnes rojas guisadas, platos con trufa, quesos curados",
+    "en": "Roast suckling lamb, large game, braised red meat, truffle dishes, aged cheeses",
+    "fr": "Agneau de lait rôti, grand gibier, viandes rouges mijotées, plats à la truffe, fromages affinés",
+    "it": "Agnello da latte arrosto, selvaggina grossa, carni rosse brasate, piatti al tartufo, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia; decantar con antelación",
+    "en": "16-18 °C, large glass; decant ahead of time",
+    "fr": "16-18 °C, verre ample ; carafer à l’avance",
+    "it": "16-18 °C, calice ampio; decantare in anticipo"
+  },
+  "search": "Vega Sicilia Único"
+}

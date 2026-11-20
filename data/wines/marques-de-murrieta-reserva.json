@@ -1,0 +1,51 @@
+{
+  "slug": "marques-de-murrieta-reserva",
+  "name": "Marqués de Murrieta Reserva",
+  "winery": "marques-de-murrieta",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [
+    "tempranillo",
+    "garnacha",
+    "carinena",
+    "graciano"
+  ],
+  "summary": {
+    "es": "Reserva de la finca Ygay, el tinto más difundido de Marqués de Murrieta, de estilo clásico y crianza en barrica.",
+    "en": "Reserva from the Ygay estate, Marqués de Murrieta’s most widely available red, classically styled and barrel-aged.",
+    "fr": "Reserva du domaine d’Ygay, le rouge le plus diffusé de Marqués de Murrieta, de style classique et élevé en barrique.",
+    "it": "Reserva della tenuta Ygay, il rosso più diffuso di Marqués de Murrieta, di stile classico e affinato in botte."
+  },
+  "body": {
+    "es": "<p>El Marqués de Murrieta Reserva procede íntegramente de la finca Ygay, al sureste de Logroño, donde la bodega concentra su viñedo. Se elabora mayoritariamente con Tempranillo, completada con Garnacha, Mazuelo (Cariñena) y Graciano.</p><p>Tras la fermentación, el vino se cría en barricas de roble americano y después reposa en botella en las instalaciones de la bodega antes de salir al mercado, de acuerdo con los tiempos exigidos para la categoría Reserva.</p><p>Es un Rioja de corte clásico, con fruta madura, notas de crianza y una estructura que le permite evolucionar durante años en botella. Constituye una buena introducción al estilo de una de las casas más antiguas de la región.</p><p>Que todo el vino proceda de una única finca es poco habitual entre las grandes casas históricas de Rioja, que tradicionalmente compraban uva en distintas zonas. En el caso de Murrieta, la finca Ygay permite a la bodega controlar todo el proceso desde el viñedo.</p>",
+    "en": "<p>Marqués de Murrieta Reserva comes entirely from the Ygay estate, southeast of Logroño, where the winery’s vineyards are concentrated. It is made mainly from Tempranillo, completed with Grenache, Mazuelo (Carignan) and Graciano.</p><p>After fermentation, the wine is aged in American oak barrels and then rests in bottle at the winery before release, in line with the periods required for the Reserva category.</p><p>It is a classically styled Rioja, with ripe fruit, ageing notes and a structure that allows it to evolve for years in bottle. It makes a good introduction to the style of one of the region’s oldest houses.</p><p>Sourcing all the wine from a single estate is unusual among Rioja’s great historic houses, which traditionally bought grapes from different areas. In Murrieta’s case, the Ygay estate allows the winery to control the whole process from the vineyard onwards.</p>",
+    "fr": "<p>Le Marqués de Murrieta Reserva provient entièrement du domaine d’Ygay, au sud-est de Logroño, où la maison concentre ses vignes. Il est élaboré majoritairement avec du tempranillo, complété par du grenache, du mazuelo (carignan) et du graciano.</p><p>Après la fermentation, le vin est élevé en barriques de chêne américain puis repose en bouteille à la bodega avant sa commercialisation, conformément aux durées exigées pour la catégorie Reserva.</p><p>C’est un Rioja classique, au fruit mûr, aux notes d’élevage et à la structure qui lui permet d’évoluer pendant des années en bouteille. Il constitue une bonne introduction au style de l’une des plus anciennes maisons de la région.</p><p>Le fait que tout le vin provienne d’un seul domaine est peu courant parmi les grandes maisons historiques de la Rioja, qui achetaient traditionnellement des raisins dans différentes zones. Dans le cas de Murrieta, le domaine d’Ygay permet à la maison de maîtriser tout le processus depuis la vigne.</p>",
+    "it": "<p>Il Marqués de Murrieta Reserva proviene interamente dalla tenuta Ygay, a sud-est di Logroño, dove la cantina concentra i suoi vigneti. È prodotto in prevalenza con Tempranillo, completato da Grenache, Mazuelo (Carignano) e Graciano.</p><p>Dopo la fermentazione, il vino affina in botti di rovere americano e riposa poi in bottiglia in cantina prima di uscire sul mercato, secondo i tempi richiesti dalla categoria Reserva.</p><p>È un Rioja di taglio classico, con frutto maturo, note di affinamento e una struttura che gli permette di evolvere per anni in bottiglia. Costituisce una buona introduzione allo stile di una delle case più antiche della regione.</p><p>Che tutto il vino provenga da un’unica tenuta è poco comune tra le grandi case storiche della Rioja, che tradizionalmente acquistavano uve in zone diverse. Nel caso di Murrieta, la tenuta Ygay permette alla cantina di controllare l’intero processo a partire dal vigneto.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de fruta negra y roja madura, especias, vainilla y notas tostadas. En boca es amplio, con tanino maduro, buena acidez y final largo.",
+    "en": "Deep ruby. Aromas of ripe black and red fruit, spice, vanilla and toasty notes. Broad on the palate, with ripe tannins, good acidity and a long finish.",
+    "fr": "Rubis intense. Arômes de fruits noirs et rouges mûrs, d’épices, de vanille et notes grillées. En bouche, ample, avec des tanins mûrs, une bonne acidité et une finale longue.",
+    "it": "Rubino intenso. Aromi di frutta nera e rossa matura, spezie, vaniglia e note tostate. In bocca è ampio, con tannino maturo, buona acidità e finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas, cordero, caza, guisos, quesos curados",
+    "en": "Red meat, lamb, game, stews, aged cheeses",
+    "fr": "Viandes rouges, agneau, gibier, ragoûts, fromages affinés",
+    "it": "Carni rosse, agnello, cacciagione, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Marqués de Murrieta Reserva Finca Ygay"
+}

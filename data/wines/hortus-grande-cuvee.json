@@ -1,0 +1,50 @@
+{
+  "slug": "hortus-grande-cuvee",
+  "name": "Domaine de l'Hortus Grande Cuvée",
+  "winery": "domaine-de-l-hortus",
+  "region": "languedoc-roussillon",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Pic Saint-Loup",
+    "en": "Pic Saint-Loup",
+    "fr": "Pic Saint-Loup",
+    "it": "Pic Saint-Loup"
+  },
+  "grapes": [
+    "syrah",
+    "monastrell",
+    "garnacha"
+  ],
+  "summary": {
+    "es": "La cuvée de guarda del Domaine de l'Hortus, un Pic Saint-Loup concentrado de Syrah, Monastrell y Garnacha con crianza en barrica.",
+    "en": "Domaine de l'Hortus’ age-worthy cuvée, a concentrated Pic Saint-Loup from Syrah, Mourvèdre and Grenache aged in barrel.",
+    "fr": "La cuvée de garde du Domaine de l'Hortus, un pic-saint-loup concentré de syrah, mourvèdre et grenache élevé en barrique.",
+    "it": "La cuvée da invecchiamento del Domaine de l'Hortus, un Pic Saint-Loup concentrato di Syrah, Mourvèdre e Grenache affinato in barrique."
+  },
+  "body": {
+    "es": "<p>La Grande Cuvée es el tinto de mayor ambición del Domaine de l'Hortus, la finca de la familia Orliac en Valflaunès, en la denominación <strong>Pic Saint-Loup</strong>. Procede de una selección de las mejores parcelas de la finca, al pie de los acantilados de l'Hortus.</p><p>Se elabora con <strong>Syrah</strong>, que suele dominar el ensamblaje, y <strong>Monastrell</strong>, completadas con <strong>Garnacha</strong> según la añada. Los suelos calcáreos y pedregosos y el clima mediterráneo matizado por las noches frescas del valle permiten obtener uvas maduras pero con acidez, lo que da a los vinos de Pic Saint-Loup una frescura característica dentro del Languedoc.</p><p>La crianza en barricas de roble aporta estructura y notas especiadas, sin ocultar los aromas de fruta negra y garriga. El resultado es un tinto concentrado, de taninos firmes y finos, que gana complejidad con algunos años de botella y puede guardarse durante una década o más en las buenas añadas.</p>",
+    "en": "<p>The Grande Cuvée is the most ambitious red of Domaine de l'Hortus, the Orliac family estate in Valflaunès, in the <strong>Pic Saint-Loup</strong> appellation. It comes from a selection of the estate’s best plots, at the foot of the Hortus cliffs.</p><p>It is made from <strong>Syrah</strong>, which usually dominates the blend, and <strong>Mourvèdre</strong>, completed with <strong>Grenache</strong> depending on the vintage. The stony limestone soils and the Mediterranean climate tempered by the valley’s cool nights yield ripe grapes that keep their acidity, giving Pic Saint-Loup wines a characteristic freshness within the Languedoc.</p><p>Ageing in oak barrels adds structure and spicy notes without masking the aromas of black fruit and garrigue. The result is a concentrated red with firm, fine tannins, which gains complexity with a few years in bottle and can be kept for a decade or more in good vintages.</p>",
+    "fr": "<p>La Grande Cuvée est le rouge le plus ambitieux du Domaine de l'Hortus, le domaine de la famille Orliac à Valflaunès, en appellation <strong>Pic Saint-Loup</strong>. Elle provient d’une sélection des meilleures parcelles du domaine, au pied des falaises de l’Hortus.</p><p>Elle est élaborée à partir de <strong>syrah</strong>, généralement majoritaire, et de <strong>mourvèdre</strong>, complétés par du <strong>grenache</strong> selon le millésime. Les sols calcaires et caillouteux et le climat méditerranéen tempéré par les nuits fraîches de la vallée donnent des raisins mûrs qui gardent leur acidité, ce qui confère aux vins du Pic Saint-Loup une fraîcheur caractéristique au sein du Languedoc.</p><p>L’élevage en barriques de chêne apporte structure et notes épicées, sans masquer les arômes de fruits noirs et de garrigue. Il en résulte un rouge concentré, aux tanins fermes et fins, qui gagne en complexité après quelques années de bouteille et peut se garder une dizaine d’années ou davantage dans les bons millésimes.</p>",
+    "it": "<p>La Grande Cuvée è il rosso più ambizioso del Domaine de l'Hortus, la tenuta della famiglia Orliac a Valflaunès, nella denominazione <strong>Pic Saint-Loup</strong>. Proviene da una selezione delle migliori parcelle della tenuta, ai piedi delle falesie dell’Hortus.</p><p>È prodotta con <strong>Syrah</strong>, di solito prevalente, e <strong>Mourvèdre</strong>, completate dalla <strong>Grenache</strong> secondo l’annata. I suoli calcarei e sassosi e il clima mediterraneo mitigato dalle notti fresche della valle danno uve mature che conservano l’acidità, il che conferisce ai vini del Pic Saint-Loup una freschezza caratteristica all’interno della Linguadoca.</p><p>L’affinamento in barrique di rovere apporta struttura e note speziate, senza mascherare gli aromi di frutti neri e garrigue. Il risultato è un rosso concentrato, dai tannini decisi e fini, che acquista complessità dopo qualche anno di bottiglia e si può conservare per una decina d’anni o più nelle buone annate.</p>"
+  },
+  "tasting": {
+    "es": "Granate profundo. Aromas de mora, regaliz, pimienta, garriga y notas tostadas. Boca concentrada y fresca, de taninos firmes.",
+    "en": "Deep garnet. Aromas of blackberry, liquorice, pepper, garrigue and toasty notes. Concentrated, fresh palate with firm tannins.",
+    "fr": "Grenat profond. Arômes de mûre, de réglisse, de poivre, de garrigue et notes grillées. Bouche concentrée et fraîche, aux tanins fermes.",
+    "it": "Granato profondo. Aromi di mora, liquirizia, pepe, garrigue e note tostate. Bocca concentrata e fresca, dai tannini decisi."
+  },
+  "pairing": {
+    "es": "Cordero asado, caza, estofados de buey, quesos curados",
+    "en": "Roast lamb, game, beef stews, mature cheeses",
+    "fr": "Agneau rôti, gibier, daube de bœuf, fromages affinés",
+    "it": "Agnello arrosto, selvaggina, stufato di manzo, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia; decantar en su juventud",
+    "en": "16-18 °C, large glass; decant when young",
+    "fr": "16-18 °C, grand verre ; carafer dans sa jeunesse",
+    "it": "16-18 °C, calice ampio; decantare da giovane"
+  },
+  "search": "Grande Cuvée Domaine de l'Hortus Pic Saint-Loup"
+}

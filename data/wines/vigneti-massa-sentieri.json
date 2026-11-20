@@ -1,0 +1,40 @@
+{
+  "slug": "vigneti-massa-sentieri",
+  "name": "Vigneti Massa Sentieri",
+  "winery": null,
+  "winery_name": "Vigneti Massa",
+  "region": null,
+  "country": "italia",
+  "appellation": "DOC Colli Tortonesi",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Vigneti Massa Sentieri es un vino tinto de Vigneti Massa, con la denominación DOC Colli Tortonesi, en Italia.",
+    "en": "Vigneti Massa Sentieri is a red wine from Vigneti Massa, made under the DOC Colli Tortonesi appellation in Italy.",
+    "fr": "Vigneti Massa Sentieri est un vin rouge de Vigneti Massa, élaboré sous l’appellation DOC Colli Tortonesi (Italie).",
+    "it": "Vigneti Massa Sentieri è un vino rosso di Vigneti Massa, prodotto nella denominazione DOC Colli Tortonesi (Italia)."
+  },
+  "body": {
+    "es": "<p>Se cría en depósitos de acero inoxidable. Su graduación es de 14 % vol.</p>",
+    "en": "<p>It is aged in stainless steel tanks. It has 14% ABV.</p>",
+    "fr": "<p>Il est élevé en cuves inox. Il titre 14 % vol.</p>",
+    "it": "<p>Affina in acciaio inox. Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Vigneti Massa Sentieri Vigneti Massa",
+  "brief": true,
+  "source": "decantalo"
+}

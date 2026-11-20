@@ -1,0 +1,44 @@
+{
+  "slug": "lalama",
+  "name": "Lalama",
+  "winery": "dominio-do-bibei",
+  "region": "ribeira-sacra",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "mencia",
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Tinto de Dominio do Bibei, en la subzona Quiroga-Bibei de la Ribeira Sacra, elaborado con Mencía y otras variedades tradicionales gallegas de viñedos en terrazas.",
+    "en": "Red from Dominio do Bibei, in the Quiroga-Bibei subzone of Ribeira Sacra, made from Mencía and other traditional Galician varieties from terraced vineyards.",
+    "fr": "Rouge de Dominio do Bibei, dans la sous-zone Quiroga-Bibei de la Ribeira Sacra, élaboré avec du mencía et d’autres cépages galiciens traditionnels issus de vignes en terrasses.",
+    "it": "Rosso di Dominio do Bibei, nella sottozona Quiroga-Bibei della Ribeira Sacra, prodotto con Mencía e altre varietà tradizionali galiziane da vigneti terrazzati."
+  },
+  "body": {
+    "es": "<p>Lalama es el tinto más conocido de Dominio do Bibei, la bodega situada en el valle del río Bibei, en el municipio orensano de Manzaneda, dentro de la subzona Quiroga-Bibei de la Denominación de Origen Ribeira Sacra. Procede de viñedos cultivados en estrechas terrazas de piedra, sobre suelos de pizarra y granito, en laderas muy pronunciadas donde el trabajo es casi siempre manual.</p><p>La base es la Mencía, la variedad tinta más extendida de la Ribeira Sacra, acompañada de otras uvas tradicionales gallegas, como el Brancellao, el Mouratón y la Garnacha Tintorera, cuyas proporciones varían según la añada. La vinificación combina depósitos y recipientes de madera de distintos tamaños, y la crianza se plantea para respetar la fruta y la frescura propias de un vino de montaña.</p><p>El resultado es un tinto de cuerpo medio, aromático y fresco, con fruta roja y negra, notas florales y un carácter mineral marcado. Puede beberse joven, pero gana complejidad con algunos años en botella.</p>",
+    "en": "<p>Lalama is the best-known red from Dominio do Bibei, the winery in the valley of the river Bibei, in the Ourense municipality of Manzaneda, within the Quiroga-Bibei subzone of the Ribeira Sacra Denominación de Origen. It comes from vineyards grown on narrow stone terraces, on slate and granite soils, on very steep slopes where work is almost always manual.</p><p>Its basis is Mencía, the most widespread red variety in Ribeira Sacra, accompanied by other traditional Galician grapes such as Brancellao, Mouratón and Garnacha Tintorera, whose proportions vary with the vintage. Winemaking combines tanks and wooden vessels of different sizes, and ageing is designed to respect the fruit and freshness of a mountain wine.</p><p>The result is a medium-bodied, aromatic and fresh red, with red and black fruit, floral notes and a marked mineral character. It can be drunk young but gains complexity with a few years in bottle.</p>",
+    "fr": "<p>Lalama est le rouge le plus connu de Dominio do Bibei, la bodega située dans la vallée du Bibei, sur la commune de Manzaneda, dans la province d’Ourense, au sein de la sous-zone Quiroga-Bibei de la Denominación de Origen Ribeira Sacra. Il provient de vignes cultivées sur d’étroites terrasses de pierre, sur des sols de schiste et de granite, sur des pentes très raides où le travail est presque toujours manuel.</p><p>Sa base est le mencía, le cépage rouge le plus répandu de la Ribeira Sacra, accompagné d’autres raisins galiciens traditionnels comme le brancellao, le mouratón et le garnacha tintorera, dont les proportions varient selon le millésime. La vinification associe cuves et contenants en bois de différentes tailles, et l’élevage est pensé pour respecter le fruit et la fraîcheur d’un vin de montagne.</p><p>Il en résulte un rouge de corps moyen, aromatique et frais, aux fruits rouges et noirs, aux notes florales et au caractère minéral marqué. Il peut se boire jeune, mais gagne en complexité après quelques années en bouteille.</p>",
+    "it": "<p>Lalama è il rosso più noto di Dominio do Bibei, la cantina situata nella valle del fiume Bibei, nel comune di Manzaneda, in provincia di Ourense, all’interno della sottozona Quiroga-Bibei della Denominación de Origen Ribeira Sacra. Proviene da vigneti coltivati su strette terrazze in pietra, su suoli di ardesia e granito, su pendii molto ripidi dove il lavoro è quasi sempre manuale.</p><p>La base è la Mencía, il vitigno rosso più diffuso della Ribeira Sacra, accompagnata da altre uve tradizionali galiziane come Brancellao, Mouratón e Garnacha Tintorera, le cui proporzioni variano secondo l’annata. La vinificazione combina vasche e contenitori di legno di diverse dimensioni, e l’affinamento è pensato per rispettare il frutto e la freschezza di un vino di montagna.</p><p>Il risultato è un rosso di medio corpo, aromatico e fresco, con frutto rosso e nero, note floreali e un marcato carattere minerale. Si può bere giovane, ma acquista complessità con alcuni anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rojo cereza de capa media. Fruta roja y negra, violetas, hierbas de monte y notas minerales. En boca es fresco, de taninos finos y acidez viva.",
+    "en": "Medium-intensity cherry red. Red and black fruit, violets, wild herbs and mineral notes. Fresh on the palate, with fine tannins and lively acidity.",
+    "fr": "Rouge cerise de moyenne intensité. Fruits rouges et noirs, violette, herbes de montagne et notes minérales. En bouche, il est frais, aux tanins fins et à l’acidité vive.",
+    "it": "Rosso ciliegia di media intensità. Frutta rossa e nera, viole, erbe di montagna e note minerali. In bocca è fresco, con tannini fini e acidità vivace."
+  },
+  "pairing": {
+    "es": "Embutidos, empanada gallega, carnes blancas, setas, quesos de vaca",
+    "en": "Charcuterie, Galician empanada, white meat, mushrooms, cow’s milk cheeses",
+    "fr": "Charcuterie, empanada galicienne, viandes blanches, champignons, fromages de vache",
+    "it": "Salumi, empanada galiziana, carni bianche, funghi, formaggi vaccini"
+  },
+  "serve": {
+    "es": "14-16 °C, copa de tinto",
+    "en": "14-16 °C, red wine glass",
+    "fr": "14-16 °C, verre à vin rouge",
+    "it": "14-16 °C, calice da rosso"
+  },
+  "search": "Lalama Dominio do Bibei Ribeira Sacra"
+}

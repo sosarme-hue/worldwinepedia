@@ -1,0 +1,41 @@
+{
+  "slug": "moet-imperial-brut",
+  "name": "Moët & Chandon Impérial Brut",
+  "winery": "moet-chandon",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {"es": "Brut", "en": "Brut", "fr": "Brut", "it": "Brut"},
+  "grapes": ["pinot-noir", "chardonnay"],
+  "summary": {
+    "es": "El brut sin añada de Moët & Chandon, creado en 1869 y uno de los champagnes más vendidos del mundo.",
+    "en": "Moët & Chandon’s non-vintage brut, created in 1869 and one of the best-selling champagnes in the world.",
+    "fr": "Le brut sans année de Moët & Chandon, créé en 1869 et l’un des champagnes les plus vendus au monde.",
+    "it": "Il brut senza annata di Moët & Chandon, creato nel 1869 e uno degli champagne più venduti al mondo."
+  },
+  "body": {
+    "es": "<p>El Moët Impérial es el vino emblemático de la casa de Épernay. Se trata de un champagne sin añada que ensambla las tres variedades de la región —Pinot Noir, Pinot Meunier y Chardonnay— procedentes de un gran número de parcelas, junto con una proporción de vinos de reserva de cosechas anteriores que ayudan a mantener un estilo constante año tras año.</p><p>Como todo champagne, se elabora por el método tradicional: el vino base realiza una segunda fermentación en la botella y permanece después un tiempo sobre sus lías en las bodegas de creta de la casa antes del degüelle y del añadido del licor de expedición, que en este caso da lugar a un brut.</p><p>Su perfil busca un champagne afrutado, fresco y fácil de apreciar, adecuado tanto como aperitivo como para celebraciones.</p>",
+    "en": "<p>Moët Impérial is the flagship wine of the Épernay house. It is a non-vintage champagne blending the region’s three varieties — Pinot Noir, Pinot Meunier and Chardonnay — from a large number of plots, together with a proportion of reserve wines from earlier harvests that help maintain a consistent style year after year.</p><p>Like all champagne, it is made by the traditional method: the base wine undergoes a second fermentation in bottle and then spends time on its lees in the house’s chalk cellars before disgorgement and the addition of the dosage liqueur, which in this case produces a brut.</p><p>Its profile aims for a fruity, fresh and easy-to-enjoy champagne, suitable both as an aperitif and for celebrations.</p>",
+    "fr": "<p>Le Moët Impérial est le vin emblématique de la maison d’Épernay. C’est un champagne sans année qui assemble les trois cépages de la région — pinot noir, pinot meunier et chardonnay — issus d’un grand nombre de parcelles, avec une part de vins de réserve de récoltes antérieures qui aide à maintenir un style constant d’une année à l’autre.</p><p>Comme tout champagne, il est élaboré selon la méthode traditionnelle : le vin de base effectue une seconde fermentation en bouteille, puis repose un temps sur lies dans les caves crayeuses de la maison avant le dégorgement et l’ajout de la liqueur d’expédition, qui en fait ici un brut.</p><p>Son profil recherche un champagne fruité, frais et facile à apprécier, aussi bien à l’apéritif que pour les célébrations.</p>",
+    "it": "<p>Il Moët Impérial è il vino simbolo della casa di Épernay. È uno champagne senza annata che assembla le tre varietà della regione — Pinot Noir, Pinot Meunier e Chardonnay — provenienti da un gran numero di parcelle, insieme a una quota di vini di riserva di vendemmie precedenti che aiutano a mantenere uno stile costante anno dopo anno.</p><p>Come ogni champagne, è prodotto con il metodo tradizionale: il vino base compie una seconda fermentazione in bottiglia e riposa poi per un periodo sui lieviti nelle cantine di gesso della casa prima della sboccatura e dell’aggiunta del liqueur d’expédition, che in questo caso dà un brut.</p><p>Il suo profilo punta su uno champagne fruttato, fresco e di facile approccio, adatto sia come aperitivo sia per le celebrazioni.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido con burbuja fina. Aromas de manzana verde, cítricos y pera, con notas florales y un fondo ligero de brioche. En boca es fresco y afrutado, de acidez viva y final limpio.",
+    "en": "Pale yellow with fine bubbles. Aromas of green apple, citrus and pear, with floral notes and a light hint of brioche. Fresh and fruity on the palate, with lively acidity and a clean finish.",
+    "fr": "Jaune pâle à la bulle fine. Arômes de pomme verte, d’agrumes et de poire, avec des notes florales et une légère touche briochée. En bouche, frais et fruité, à l’acidité vive et à la finale nette.",
+    "it": "Giallo paglierino tenue con perlage fine. Aromi di mela verde, agrumi e pera, con note floreali e un leggero fondo di brioche. In bocca è fresco e fruttato, con acidità vivace e finale pulito."
+  },
+  "pairing": {
+    "es": "Aperitivo, marisco, ostras, sushi, frituras ligeras",
+    "en": "Aperitif, shellfish, oysters, sushi, light fried dishes",
+    "fr": "Apéritif, fruits de mer, huîtres, sushis, fritures légères",
+    "it": "Aperitivo, frutti di mare, ostriche, sushi, fritture leggere"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco o tulipa",
+    "en": "8-10 °C, white wine or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da vino bianco o a tulipano"
+  },
+  "search": "Moët & Chandon Impérial Brut Champagne"
+}

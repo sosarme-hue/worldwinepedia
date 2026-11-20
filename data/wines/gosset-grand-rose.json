@@ -1,0 +1,49 @@
+{
+  "slug": "gosset-grand-rose",
+  "name": "Gosset Grand Rosé Brut",
+  "winery": "gosset",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut Rosé",
+    "en": "Brut Rosé",
+    "fr": "Brut Rosé",
+    "it": "Brut Rosé"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Champagne rosado sin añada de Gosset, ensamblaje de Chardonnay y Pinot Noir con vino tinto de Pinot Noir, elaborado sin fermentación maloláctica.",
+    "en": "Gosset’s non-vintage rosé champagne, a blend of Chardonnay and Pinot Noir with Pinot Noir red wine, made without malolactic fermentation.",
+    "fr": "Champagne rosé non millésimé de Gosset, assemblage de chardonnay et de pinot noir avec du vin rouge de pinot noir, élaboré sans fermentation malolactique.",
+    "it": "Champagne rosé senza annata di Gosset, assemblaggio di Chardonnay e Pinot Nero con vino rosso di Pinot Nero, prodotto senza fermentazione malolattica."
+  },
+  "body": {
+    "es": "<p>El Grand Rosé es el champán rosado sin añada de Gosset. Se elabora mediante el método de ensamblaje: a una base de <strong>Chardonnay</strong> y <strong>Pinot Noir</strong>, procedentes sobre todo de municipios grand cru y premier cru, se añade una pequeña proporción de vino tinto tranquilo de Pinot Noir. Las proporciones varían según el ensamblaje.</p><p>Como el resto de la gama, se elabora en general <strong>sin fermentación maloláctica</strong>, para conservar la frescura de la fruta, y se cría varios años sobre lías antes del degüelle. Se presenta en la botella de forma antigua de la casa.</p><p>Es un rosado de color rosa vivo, con aromas de fresa, frambuesa, grosella y notas de cítricos, y una boca fresca, afrutada y estructurada. Su acidez y su fruta lo hacen versátil en la mesa.</p>",
+    "en": "<p>Grand Rosé is Gosset’s non-vintage rosé champagne. It is made by the blending method: to a base of <strong>Chardonnay</strong> and <strong>Pinot Noir</strong>, mainly from grand cru and premier cru villages, a small proportion of still red Pinot Noir wine is added. The proportions vary from blend to blend.</p><p>Like the rest of the range, it is generally made <strong>without malolactic fermentation</strong>, to preserve the freshness of the fruit, and is aged for several years on its lees before disgorgement. It is presented in the house’s antique-shaped bottle.</p><p>It is a bright pink rosé, with aromas of strawberry, raspberry, redcurrant and citrus notes, and a fresh, fruity, structured palate. Its acidity and fruit make it versatile at the table.</p>",
+    "fr": "<p>Le Grand Rosé est le champagne rosé non millésimé de Gosset. Il est élaboré par assemblage : à une base de <strong>chardonnay</strong> et de <strong>pinot noir</strong>, issus surtout de villages grand cru et premier cru, on ajoute une petite proportion de vin rouge tranquille de pinot noir. Les proportions varient selon l’assemblage.</p><p>Comme le reste de la gamme, il est généralement élaboré <strong>sans fermentation malolactique</strong>, pour préserver la fraîcheur du fruit, et il est élevé plusieurs années sur lies avant le dégorgement. Il est présenté dans la bouteille de forme ancienne de la maison.</p><p>C’est un rosé à la couleur rose vif, aux arômes de fraise, de framboise, de groseille et aux notes d’agrumes, à la bouche fraîche, fruitée et structurée. Son acidité et son fruit le rendent polyvalent à table.</p>",
+    "it": "<p>Il Grand Rosé è lo champagne rosé senza annata di Gosset. È prodotto con il metodo dell’assemblaggio: a una base di <strong>Chardonnay</strong> e <strong>Pinot Nero</strong>, provenienti soprattutto da villaggi grand cru e premier cru, si aggiunge una piccola quota di vino rosso fermo di Pinot Nero. Le proporzioni variano secondo l’assemblaggio.</p><p>Come il resto della gamma, è in genere prodotto <strong>senza fermentazione malolattica</strong>, per conservare la freschezza del frutto, e affina per diversi anni sui lieviti prima della sboccatura. È presentato nella bottiglia dalla forma antica della casa.</p><p>È un rosé di colore rosa vivace, con aromi di fragola, lampone, ribes e note agrumate, e una bocca fresca, fruttata e strutturata. La sua acidità e il suo frutto lo rendono versatile a tavola.</p>"
+  },
+  "tasting": {
+    "es": "Rosa vivo con burbuja fina. Aromas de fresa, frambuesa, grosella y piel de naranja. Boca fresca, afrutada y estructurada, de acidez viva.",
+    "en": "Bright pink with fine bubbles. Aromas of strawberry, raspberry, redcurrant and orange peel. Fresh, fruity, structured palate with lively acidity.",
+    "fr": "Rose vif à la bulle fine. Arômes de fraise, de framboise, de groseille et d’écorce d’orange. Bouche fraîche, fruitée et structurée, à l’acidité vive.",
+    "it": "Rosa vivace dal perlage fine. Aromi di fragola, lampone, ribes e scorza d’arancia. Bocca fresca, fruttata e strutturata, di acidità vivace."
+  },
+  "pairing": {
+    "es": "Salmón, atún en tataki, pato, cocina asiática, postres de frutos rojos poco dulces",
+    "en": "Salmon, tuna tataki, duck, Asian cuisine, not-too-sweet red fruit desserts",
+    "fr": "Saumon, tataki de thon, canard, cuisine asiatique, desserts aux fruits rouges peu sucrés",
+    "it": "Salmone, tataki di tonno, anatra, cucina asiatica, dolci ai frutti rossi poco zuccherati"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco o de tulipa",
+    "en": "8-10 °C, white wine or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da vino bianco o a tulipano"
+  },
+  "search": "Gosset Grand Rosé Brut Champagne"
+}

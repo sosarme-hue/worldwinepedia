@@ -1,0 +1,50 @@
+{
+  "slug": "chateau-la-tour-blanche",
+  "name": "Château La Tour Blanche",
+  "winery": "chateau-la-tour-blanche",
+  "region": "sauternes",
+  "country": "francia",
+  "type": "dulce",
+  "category": {
+    "es": "Premier Cru Classé de Sauternes",
+    "en": "Premier Cru Classé de Sauternes",
+    "fr": "Premier Cru Classé de Sauternes",
+    "it": "Premier Cru Classé de Sauternes"
+  },
+  "grapes": [
+    "semillon",
+    "sauvignon-blanc",
+    "muscadelle"
+  ],
+  "summary": {
+    "es": "El gran vino de Château La Tour Blanche, Premier Cru Classé de Sauternes en Bommes, un vino dulce de uvas botritizadas, rico y untuoso, de larga guarda.",
+    "en": "The grand vin of Château La Tour Blanche, a Sauternes Premier Cru Classé in Bommes: a rich, unctuous, long-lived sweet wine from botrytised grapes.",
+    "fr": "Le grand vin du château La Tour Blanche, premier cru classé de Sauternes à Bommes : un liquoreux de raisins botrytisés, riche, onctueux et de longue garde.",
+    "it": "Il grand vin di Château La Tour Blanche, Premier Cru Classé di Sauternes a Bommes: un vino dolce da uve botritizzate, ricco, untuoso e longevo."
+  },
+  "body": {
+    "es": "<p><strong>Château La Tour Blanche</strong> es el gran vino de la propiedad homónima de Bommes, clasificada entre los Premiers Crus de Sauternes en 1855 y perteneciente desde principios del siglo XX al Estado francés, que la gestiona como finca escuela.</p><p>Se elabora sobre todo con <strong>Sémillon</strong>, completado con <strong>Sauvignon Blanc</strong> y una pequeña parte de <strong>Muscadelle</strong>. La proximidad del Ciron favorece en otoño la aparición de la <em>podredumbre noble</em>, que deshidrata las uvas y concentra sus azúcares y su acidez. La vendimia se hace a mano en varias pasadas, seleccionando solo las bayas botritizadas.</p><p>El mosto fermenta en barricas de roble, donde el vino se cría después durante un periodo prolongado. El resultado es un Sauternes de estilo opulento, con notas de fruta confitada, miel y especias aportadas por la crianza, equilibradas por una acidez que le da frescura. Es un vino de muy larga guarda, que con los años adquiere un color ambarino y una gran complejidad.</p>",
+    "en": "<p><strong>Château La Tour Blanche</strong> is the grand vin of the estate of the same name in Bommes, classified among the Premiers Crus of Sauternes in 1855 and owned since the early twentieth century by the French State, which runs it as a teaching estate.</p><p>It is made mainly from <strong>Sémillon</strong>, complemented by <strong>Sauvignon Blanc</strong> and a small proportion of <strong>Muscadelle</strong>. The nearby Ciron encourages <em>noble rot</em> in autumn, which dehydrates the grapes and concentrates their sugar and acidity. Harvesting is done by hand in several passes, selecting only botrytised berries.</p><p>The must ferments in oak barrels, where the wine is then aged for an extended period. The result is an opulent Sauternes with notes of candied fruit, honey and spice from the oak, balanced by acidity that gives it freshness. It is a wine for very long ageing, which over the years takes on an amber colour and great complexity.</p>",
+    "fr": "<p><strong>Château La Tour Blanche</strong> est le grand vin de la propriété homonyme de Bommes, classée parmi les premiers crus de Sauternes en 1855 et appartenant depuis le début du XXe siècle à l’État français, qui la gère comme domaine-école.</p><p>Il est élaboré surtout à partir de <strong>sémillon</strong>, complété de <strong>sauvignon blanc</strong> et d’une petite part de <strong>muscadelle</strong>. La proximité du Ciron favorise à l’automne l’apparition de la <em>pourriture noble</em>, qui déshydrate les raisins et en concentre les sucres et l’acidité. Les vendanges se font à la main par tries successives, en ne retenant que les baies botrytisées.</p><p>Le moût fermente en barriques de chêne, où le vin est ensuite élevé longuement. Il en résulte un sauternes opulent, aux notes de fruits confits, de miel et d’épices apportées par l’élevage, équilibrées par une acidité qui lui donne de la fraîcheur. C’est un vin de très longue garde, qui prend avec les années une couleur ambrée et une grande complexité.</p>",
+    "it": "<p><strong>Château La Tour Blanche</strong> è il grand vin della tenuta omonima di Bommes, classificata tra i Premiers Crus di Sauternes nel 1855 e appartenente dall’inizio del Novecento allo Stato francese, che la gestisce come tenuta scuola.</p><p>È prodotto soprattutto con <strong>Sémillon</strong>, completato da <strong>Sauvignon Blanc</strong> e una piccola quota di <strong>Muscadelle</strong>. La vicinanza del Ciron favorisce in autunno la comparsa della <em>muffa nobile</em>, che disidrata le uve e ne concentra zuccheri e acidità. La vendemmia si fa a mano in più passaggi, selezionando solo gli acini botritizzati.</p><p>Il mosto fermenta in barrique di rovere, dove il vino affina poi a lungo. Ne risulta un Sauternes opulento, con note di frutta candita, miele e spezie dovute all’affinamento, bilanciate da un’acidità che gli dà freschezza. È un vino di lunghissimo invecchiamento, che con gli anni assume un colore ambrato e una grande complessità.</p>"
+  },
+  "tasting": {
+    "es": "Dorado intenso. Aromas de albaricoque confitado, naranja amarga, piña, miel, vainilla y especias. Boca untuosa y rica, con buena acidez y final muy largo.",
+    "en": "Deep gold. Aromas of candied apricot, bitter orange, pineapple, honey, vanilla and spice. Unctuous, rich palate with good acidity and a very long finish.",
+    "fr": "Or intense. Arômes d’abricot confit, d’orange amère, d’ananas, de miel, de vanille et d’épices. Bouche onctueuse et riche, à la belle acidité et à la finale très longue.",
+    "it": "Oro intenso. Aromi di albicocca candita, arancia amara, ananas, miele, vaniglia e spezie. Bocca untuosa e ricca, con buona acidità e finale lunghissimo."
+  },
+  "pairing": {
+    "es": "Foie gras, roquefort, quesos azules, postres de fruta, cocina especiada",
+    "en": "Foie gras, Roquefort, blue cheeses, fruit desserts, spiced dishes",
+    "fr": "Foie gras, roquefort, fromages à pâte persillée, desserts aux fruits, cuisine épicée",
+    "it": "Foie gras, Roquefort, formaggi erborinati, dessert alla frutta, cucina speziata"
+  },
+  "serve": {
+    "es": "9-11 °C, copa de vino blanco",
+    "en": "9-11 °C, white wine glass",
+    "fr": "9-11 °C, verre à vin blanc",
+    "it": "9-11 °C, calice da vino bianco"
+  },
+  "search": "Château La Tour Blanche Sauternes"
+}

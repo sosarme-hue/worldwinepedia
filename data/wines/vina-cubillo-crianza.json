@@ -1,0 +1,51 @@
+{
+  "slug": "vina-cubillo-crianza",
+  "name": "Viña Cubillo Crianza",
+  "winery": "lopez-de-heredia",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Crianza",
+    "en": "Crianza",
+    "fr": "Crianza",
+    "it": "Crianza"
+  },
+  "grapes": [
+    "tempranillo",
+    "garnacha",
+    "carinena",
+    "graciano"
+  ],
+  "summary": {
+    "es": "Crianza de López de Heredia Viña Tondonia, en Haro, de estilo tradicional y con una crianza en barrica más prolongada que el mínimo de la categoría.",
+    "en": "Crianza from López de Heredia Viña Tondonia in Haro, traditional in style and with barrel ageing longer than the category minimum.",
+    "fr": "Crianza de López de Heredia Viña Tondonia, à Haro, de style traditionnel et avec un élevage en barrique plus long que le minimum de la catégorie.",
+    "it": "Crianza di López de Heredia Viña Tondonia, a Haro, di stile tradizionale e con un affinamento in barrique più lungo del minimo della categoria."
+  },
+  "body": {
+    "es": "<p>Viña Cubillo es el tinto más joven de López de Heredia Viña Tondonia, la bodega fundada en 1877 en el Barrio de la Estación de Haro y uno de los máximos exponentes del Rioja tradicional. Aunque se comercializa con la mención Crianza, su elaboración sigue los mismos criterios que el resto de los vinos de la casa, con una crianza en barrica más larga que el mínimo exigido.</p><p>Se elabora con Tempranillo, Garnacha, Mazuelo (Cariñena) y Graciano, cuyas proporciones varían según la añada, procedentes de viñedos propios en el entorno de Haro, en la Rioja Alta. El vino fermenta en grandes tinos de roble y se cría en barricas usadas de roble americano, construidas en la tonelería de la bodega, con trasiegos manuales periódicos y clarificación con clara de huevo. Después reposa en botella antes de salir al mercado.</p><p>El resultado es un tinto ligero y fresco, de fruta roja, notas especiadas y una acidez viva, que ofrece una primera aproximación al estilo inconfundible de la casa.</p>",
+    "en": "<p>Viña Cubillo is the youngest red from López de Heredia Viña Tondonia, the winery founded in 1877 in Haro’s Station District and one of the leading exponents of traditional Rioja. Although it is sold with the Crianza designation, it is made according to the same criteria as the house’s other wines, with barrel ageing longer than the required minimum.</p><p>It is made from Tempranillo, Garnacha, Mazuelo (Carignan) and Graciano, whose proportions vary with the vintage, from its own vineyards around Haro, in Rioja Alta. The wine ferments in large oak vats and is aged in used American oak barrels built in the winery’s cooperage, with periodic manual racking and fining with egg white. It then rests in bottle before release.</p><p>The result is a light, fresh red with red fruit, spicy notes and lively acidity, offering a first approach to the house’s unmistakable style.</p>",
+    "fr": "<p>Viña Cubillo est le rouge le plus jeune de López de Heredia Viña Tondonia, la bodega fondée en 1877 dans le Quartier de la Gare de Haro et l’un des plus grands représentants du Rioja traditionnel. Bien qu’il soit commercialisé avec la mention Crianza, il est élaboré selon les mêmes critères que les autres vins de la maison, avec un élevage en barrique plus long que le minimum exigé.</p><p>Il est élaboré avec du tempranillo, du grenache, du mazuelo (carignan) et du graciano, dont les proportions varient selon le millésime, provenant de ses propres vignes autour de Haro, dans la Rioja Alta. Le vin fermente dans de grandes cuves en chêne et s’élève dans des barriques usagées de chêne américain fabriquées dans la tonnellerie de la bodega, avec des soutirages manuels périodiques et un collage au blanc d’œuf. Il repose ensuite en bouteille avant sa commercialisation.</p><p>Il en résulte un rouge léger et frais, aux fruits rouges, aux notes épicées et à l’acidité vive, qui offre une première approche du style inimitable de la maison.</p>",
+    "it": "<p>Viña Cubillo è il rosso più giovane di López de Heredia Viña Tondonia, la cantina fondata nel 1877 nel Quartiere della Stazione di Haro e uno dei massimi esponenti del Rioja tradizionale. Pur essendo commercializzato con la menzione Crianza, è prodotto secondo gli stessi criteri degli altri vini della casa, con un affinamento in barrique più lungo del minimo richiesto.</p><p>È prodotto con Tempranillo, Garnacha, Mazuelo (Carignano) e Graciano, le cui proporzioni variano secondo l’annata, provenienti da vigneti propri nei dintorni di Haro, nella Rioja Alta. Il vino fermenta in grandi tini di rovere e affina in barrique usate di rovere americano costruite nella bottaia della cantina, con travasi manuali periodici e chiarifica con albume d’uovo. Riposa poi in bottiglia prima della messa in commercio.</p><p>Il risultato è un rosso leggero e fresco, con frutto rosso, note speziate e un’acidità vivace, che offre un primo approccio allo stile inconfondibile della casa.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí claro con ribete teja. Fruta roja, notas especiadas, cuero suave y un toque balsámico. En boca es ligero, fresco y de acidez viva.",
+    "en": "Light ruby red with a brick rim. Red fruit, spicy notes, soft leather and a balsamic touch. Light, fresh and lively in acidity on the palate.",
+    "fr": "Rouge rubis clair à reflets tuilés. Fruits rouges, notes épicées, cuir léger et touche balsamique. En bouche, il est léger, frais et d’une acidité vive.",
+    "it": "Rosso rubino chiaro con unghia mattone. Frutto rosso, note speziate, cuoio leggero e un tocco balsamico. In bocca è leggero, fresco e di acidità vivace."
+  },
+  "pairing": {
+    "es": "Cordero asado, chuletillas a la brasa, embutidos ibéricos, quesos semicurados",
+    "en": "Roast lamb, grilled lamb chops, Iberian cured meats, semi-cured cheeses",
+    "fr": "Agneau rôti, côtelettes grillées, charcuterie ibérique, fromages mi-affinés",
+    "it": "Agnello arrosto, costolette alla brace, salumi iberici, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Viña Cubillo Crianza López de Heredia"
+}

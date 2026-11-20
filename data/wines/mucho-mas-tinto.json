@@ -1,0 +1,44 @@
+{
+  "slug": "mucho-mas-tinto",
+  "name": "Mucho Más Tinto",
+  "winery": "felix-solis",
+  "region": null,
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tempranillo",
+    "syrah"
+  ],
+  "summary": {
+    "es": "Tinto de gran difusión de Félix Solís, ensamblaje de tempranillo y syrah de perfil frutal y fácil de beber.",
+    "en": "Widely distributed red from Félix Solís, a fruity, easy-drinking blend of Tempranillo and Syrah.",
+    "fr": "Rouge très diffusé de Félix Solís, assemblage fruité et facile à boire de tempranillo et de syrah.",
+    "it": "Rosso molto diffuso di Félix Solís, uvaggio fruttato e facile da bere di Tempranillo e Syrah."
+  },
+  "body": {
+    "es": "<p>Mucho Más es una de las marcas más vendidas de <strong>Félix Solís</strong>, el gran grupo vinícola de Valdepeñas conocido también por Viña Albali. Se lanzó como un tinto moderno y de imagen llamativa, pensado para el consumo cotidiano, y alcanzó una gran popularidad en supermercados de España y de otros países.</p><p>Se comercializa como <strong>Vino de España</strong>, la categoría que permite combinar uvas de distintas zonas sin adscribirse a una denominación de origen concreta. Se elabora con <strong>tempranillo</strong> y <strong>syrah</strong>, cuyas proporciones no se detallan, procedentes sobre todo de los extensos viñedos de Castilla-La Mancha, con su clima continental cálido y seco. La marca se presenta como un ensamblaje sin añada, que combina vinos de distintas cosechas con el fin de mantener un estilo constante. Parte del vino pasa por madera, lo que aporta notas de vainilla y tostados. Es un tinto suave y frutal, de cuerpo medio, pensado para beberse en su juventud.</p>",
+    "en": "<p>Mucho Más is one of the best-selling brands of <strong>Félix Solís</strong>, the large Valdepeñas wine group also known for Viña Albali. It was launched as a modern red with an eye-catching image, intended for everyday drinking, and became very popular in supermarkets in Spain and other countries.</p><p>It is sold as <strong>Vino de España</strong>, the category that allows grapes from different areas to be combined without belonging to a specific designation of origin. It is made from <strong>Tempranillo</strong> and <strong>Syrah</strong>, in undisclosed proportions, mainly from the vast vineyards of Castilla-La Mancha, with their hot, dry continental climate. The brand is presented as a non-vintage blend, combining wines from different harvests in order to maintain a consistent style. Part of the wine spends time in oak, which adds notes of vanilla and toast. It is a smooth, fruity, medium-bodied red intended to be drunk young.</p>",
+    "fr": "<p>Mucho Más est l'une des marques les plus vendues de <strong>Félix Solís</strong>, le grand groupe vinicole de Valdepeñas également connu pour Viña Albali. Il a été lancé comme un rouge moderne à l'image accrocheuse, pensé pour la consommation quotidienne, et a connu une grande popularité dans les supermarchés d'Espagne et d'autres pays.</p><p>Il est commercialisé comme <strong>Vino de España</strong>, la catégorie qui permet d'associer des raisins de différentes zones sans relever d'une appellation d'origine précise. Il est élaboré avec du <strong>tempranillo</strong> et de la <strong>syrah</strong>, dans des proportions non précisées, issus surtout des vastes vignobles de Castille-La Manche, au climat continental chaud et sec. La marque se présente comme un assemblage non millésimé, qui associe des vins de différentes récoltes afin de maintenir un style constant. Une partie du vin passe sous bois, ce qui apporte des notes de vanille et de grillé. C'est un rouge souple et fruité, de corps moyen, à boire jeune.</p>",
+    "it": "<p>Mucho Más è uno dei marchi più venduti di <strong>Félix Solís</strong>, il grande gruppo vinicolo di Valdepeñas noto anche per Viña Albali. È stato lanciato come rosso moderno dall'immagine accattivante, pensato per il consumo quotidiano, e ha raggiunto una grande popolarità nei supermercati in Spagna e in altri paesi.</p><p>È commercializzato come <strong>Vino de España</strong>, la categoria che permette di unire uve di zone diverse senza appartenere a una denominazione d'origine specifica. È prodotto con <strong>Tempranillo</strong> e <strong>Syrah</strong>, in proporzioni non dichiarate, provenienti soprattutto dai vasti vigneti della Castiglia-La Mancia, dal clima continentale caldo e secco. Il marchio si presenta come un uvaggio senza annata, che unisce vini di vendemmie diverse per mantenere uno stile costante. Una parte del vino passa in legno, il che apporta note di vaniglia e tostature. È un rosso morbido e fruttato, di corpo medio, pensato per essere bevuto giovane.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de fruta roja y negra madura, vainilla y un toque tostado. En boca es suave, redondo y frutal.",
+    "en": "Intense cherry red. Aromas of ripe red and black fruit, vanilla and a toasty touch. Smooth, round and fruity on the palate.",
+    "fr": "Rouge cerise intense. Arômes de fruits rouges et noirs mûrs, de vanille et une touche grillée. En bouche, souple, rond et fruité.",
+    "it": "Rosso ciliegia intenso. Aromi di frutta rossa e nera matura, vaniglia e un tocco tostato. In bocca è morbido, rotondo e fruttato."
+  },
+  "pairing": {
+    "es": "Pasta, pizza, hamburguesas, embutidos, carnes a la plancha",
+    "en": "Pasta, pizza, burgers, charcuterie, grilled meats",
+    "fr": "Pâtes, pizza, hamburgers, charcuterie, viandes à la plancha",
+    "it": "Pasta, pizza, hamburger, salumi, carni alla piastra"
+  },
+  "serve": {
+    "es": "14-16 °C, copa de vino tinto",
+    "en": "14-16 °C, red wine glass",
+    "fr": "14-16 °C, verre à vin rouge",
+    "it": "14-16 °C, calice da vino rosso"
+  },
+  "search": "Mucho Más tinto Félix Solís"
+}

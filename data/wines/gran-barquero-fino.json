@@ -1,0 +1,48 @@
+{
+  "slug": "gran-barquero-fino",
+  "name": "Gran Barquero Fino",
+  "winery": "perez-barquero",
+  "region": "montilla-moriles",
+  "country": "espana",
+  "type": "generoso",
+  "category": {
+    "es": "Fino",
+    "en": "Fino",
+    "fr": "Fino",
+    "it": "Fino"
+  },
+  "grapes": [
+    "pedro-ximenez"
+  ],
+  "summary": {
+    "es": "Fino de Montilla-Moriles elaborado por Pérez Barquero con pedro ximénez y criado bajo velo de flor.",
+    "en": "Montilla-Moriles fino made by Pérez Barquero from Pedro Ximénez and aged under flor.",
+    "fr": "Fino de Montilla-Moriles élaboré par Pérez Barquero avec du pedro ximénez et élevé sous voile de flor.",
+    "it": "Fino di Montilla-Moriles prodotto da Pérez Barquero con Pedro Ximénez e affinato sotto il velo di flor."
+  },
+  "body": {
+    "es": "<p>El Gran Barquero Fino es el vino seco de crianza biológica de la gama principal de Pérez Barquero y un buen ejemplo de las diferencias entre los finos de <strong>Montilla-Moriles</strong> y los de Jerez. Mientras que en Jerez se elaboran con palomino, en Montilla la variedad tradicional es la <strong>pedro ximénez</strong>.</p><p>En el clima cálido de la campiña cordobesa, la pedro ximénez alcanza una madurez elevada, de modo que los mostos suelen llegar de forma natural a la graduación adecuada para la crianza bajo flor, sin necesidad de encabezado o con un encabezado mínimo. Tras la fermentación, el vino se cría en botas de roble por el sistema de <strong>criaderas y solera</strong>, cubierto por el velo de <strong>flor</strong>, durante varios años. El resultado es un fino seco y punzante, con los aromas de levadura y almendra propios de la crianza biológica, pero a menudo con algo más de cuerpo y una textura más suave que los finos de la costa gaditana.</p>",
+    "en": "<p>Gran Barquero Fino is the biologically aged dry wine of Pérez Barquero's main range and a good example of the differences between <strong>Montilla-Moriles</strong> finos and those of Jerez. While in Jerez they are made from Palomino, in Montilla the traditional variety is <strong>Pedro Ximénez</strong>.</p><p>In the hot climate of the Córdoba countryside, Pedro Ximénez reaches high ripeness, so the musts often naturally attain the strength suitable for ageing under flor, with no fortification or only a minimal one. After fermentation the wine is aged in oak casks by the <strong>criaderas and solera</strong> system, covered by <strong>flor</strong>, for several years. The result is a dry, pungent fino with the yeasty and almond aromas typical of biological ageing, but often with somewhat more body and a softer texture than finos from the Cádiz coast.</p>",
+    "fr": "<p>Le Gran Barquero Fino est le vin sec d'élevage biologique de la gamme principale de Pérez Barquero et un bon exemple des différences entre les finos de <strong>Montilla-Moriles</strong> et ceux de Jerez. Alors qu'à Jerez on les élabore avec du palomino, à Montilla le cépage traditionnel est le <strong>pedro ximénez</strong>.</p><p>Sous le climat chaud de la campagne cordouane, le pedro ximénez atteint une maturité élevée, si bien que les moûts atteignent souvent naturellement le degré adapté à l'élevage sous flor, sans mutage ou avec un mutage minime. Après la fermentation, le vin est élevé en fûts de chêne selon le système des <strong>criaderas et solera</strong>, couvert par le voile de <strong>flor</strong>, pendant plusieurs années. Le résultat est un fino sec et piquant, aux arômes de levure et d'amande propres à l'élevage biologique, mais souvent avec un peu plus de corps et une texture plus douce que les finos de la côte de Cadix.</p>",
+    "it": "<p>Il Gran Barquero Fino è il vino secco ad affinamento biologico della gamma principale di Pérez Barquero e un buon esempio delle differenze tra i fino di <strong>Montilla-Moriles</strong> e quelli di Jerez. Mentre a Jerez si producono con Palomino, a Montilla la varietà tradizionale è il <strong>Pedro Ximénez</strong>.</p><p>Nel clima caldo della campagna cordovese, il Pedro Ximénez raggiunge una maturazione elevata, così che i mosti arrivano spesso in modo naturale alla gradazione adatta all'affinamento sotto flor, senza fortificazione o con una fortificazione minima. Dopo la fermentazione il vino affina in botti di rovere con il sistema di <strong>criaderas e solera</strong>, coperto dal velo di <strong>flor</strong>, per diversi anni. Il risultato è un fino secco e pungente, con gli aromi di lievito e mandorla tipici dell'affinamento biologico, ma spesso con un po' più di corpo e una consistenza più morbida dei fino della costa di Cadice.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo dorado pálido. Aromas de levadura, almendra, aceituna y notas de panadería. En boca es seco, punzante y de cuerpo medio, con final amargo.",
+    "en": "Pale golden yellow. Aromas of yeast, almond, olive and bakery notes. Dry, pungent and medium-bodied on the palate, with a bitter finish.",
+    "fr": "Jaune doré pâle. Arômes de levure, d'amande, d'olive et notes de boulangerie. En bouche, sec, piquant et de corps moyen, avec une finale amère.",
+    "it": "Giallo dorato pallido. Aromi di lievito, mandorla, oliva e note di panificazione. In bocca è secco, pungente e di corpo medio, con finale amarognolo."
+  },
+  "pairing": {
+    "es": "Salmorejo, jamón, aceitunas, flamenquín, pescado frito",
+    "en": "Salmorejo, ham, olives, flamenquín, fried fish",
+    "fr": "Salmorejo, jambon, olives, flamenquín, friture de poisson",
+    "it": "Salmorejo, prosciutto, olive, flamenquín, frittura di pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de vino blanco",
+    "en": "6-8 °C, white wine glass",
+    "fr": "6-8 °C, verre à vin blanc",
+    "it": "6-8 °C, calice da vino bianco"
+  },
+  "search": "Gran Barquero Fino Pérez Barquero Montilla"
+}

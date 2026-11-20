@@ -1,0 +1,43 @@
+{
+  "slug": "luis-pato-vinha-pan",
+  "name": "Vinha Pan",
+  "winery": "luis-pato",
+  "region": "bairrada",
+  "country": "portugal",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "baga"
+  ],
+  "summary": {
+    "es": "Tinto de viñedo único de Luís Pato en la Bairrada, elaborado con Baga, de acidez viva, taninos firmes y larga guarda.",
+    "en": "Single-vineyard red from Luís Pato in Bairrada, made from Baga, with lively acidity, firm tannins and long ageing potential.",
+    "fr": "Rouge de vignoble unique de Luís Pato en Bairrada, issu du baga, à l’acidité vive, aux tanins fermes et de longue garde.",
+    "it": "Rosso da vigneto singolo di Luís Pato in Bairrada, prodotto con Baga, di acidità vivace, tannini decisi e lunga longevità."
+  },
+  "body": {
+    "es": "<p>Luís Pato es uno de los productores más conocidos de la <strong>Bairrada</strong>, la región del centro de Portugal situada entre la costa atlántica y las sierras del interior. Su trabajo ha estado muy ligado a la <strong>Baga</strong>, la variedad tinta tradicional de la zona, conocida por su acidez elevada y sus taninos abundantes, y a la elaboración de vinos procedentes de viñedos concretos.</p><p>Vinha Pan es uno de esos vinos de parcela. La Bairrada combina la influencia atlántica, que aporta frescura y lluvia, con suelos en los que abundan las arcillas y las calizas, condiciones en las que la Baga da tintos de color intenso, estructura firme y gran capacidad de evolución.</p><p>Es un tinto de carácter, con fruta roja y negra, notas especiadas y terrosas y una acidez que le da tensión. En su juventud puede mostrarse austero, pero con los años en botella sus taninos se suavizan y gana complejidad.</p>",
+    "en": "<p>Luís Pato is one of the best-known producers of <strong>Bairrada</strong>, the central Portuguese region lying between the Atlantic coast and the inland hills. His work has been closely tied to <strong>Baga</strong>, the area’s traditional red grape, known for its high acidity and abundant tannins, and to making wines from specific vineyards.</p><p>Vinha Pan is one of those single-plot wines. Bairrada combines Atlantic influence, which brings freshness and rain, with soils rich in clay and limestone, conditions in which Baga yields deeply coloured, firmly structured reds with great capacity to develop.</p><p>It is a red of character, with red and black fruit, spicy and earthy notes and acidity that gives it tension. In its youth it can seem austere, but with years in bottle its tannins soften and it gains complexity.</p>",
+    "fr": "<p>Luís Pato est l’un des producteurs les plus connus de la <strong>Bairrada</strong>, la région du centre du Portugal située entre la côte atlantique et les reliefs de l’intérieur. Son travail est étroitement lié au <strong>baga</strong>, le cépage rouge traditionnel de la zone, réputé pour son acidité élevée et ses tanins abondants, ainsi qu’à l’élaboration de vins issus de vignobles précis.</p><p>Vinha Pan est l’un de ces vins de parcelle. La Bairrada associe l’influence atlantique, qui apporte fraîcheur et pluie, à des sols riches en argiles et en calcaires, conditions dans lesquelles le baga donne des rouges très colorés, à la structure ferme et à la grande capacité d’évolution.</p><p>C’est un rouge de caractère, aux fruits rouges et noirs, aux notes épicées et terriennes, avec une acidité qui lui donne de la tension. Jeune, il peut paraître austère, mais avec les années en bouteille ses tanins s’assouplissent et il gagne en complexité.</p>",
+    "it": "<p>Luís Pato è uno dei produttori più noti della <strong>Bairrada</strong>, la regione del Portogallo centrale situata tra la costa atlantica e i rilievi dell’interno. Il suo lavoro è strettamente legato al <strong>Baga</strong>, il vitigno rosso tradizionale della zona, noto per l’acidità elevata e i tannini abbondanti, e alla produzione di vini da vigneti specifici.</p><p>Vinha Pan è uno di questi vini di parcella. La Bairrada unisce l’influenza atlantica, che porta freschezza e piogge, a suoli ricchi di argille e calcari, condizioni in cui il Baga dà rossi di colore intenso, struttura salda e grande capacità evolutiva.</p><p>È un rosso di carattere, con frutta rossa e nera, note speziate e terrose e un’acidità che gli conferisce tensione. In gioventù può apparire austero, ma con gli anni in bottiglia i tannini si ammorbidiscono e acquista complessità.</p>"
+  },
+  "tasting": {
+    "es": "Rubí oscuro. Aromas de guinda, ciruela, especias y notas terrosas. Boca firme, de acidez viva y taninos marcados, con final largo.",
+    "en": "Dark ruby. Aromas of sour cherry, plum, spice and earthy notes. Firm palate with lively acidity, marked tannins and a long finish.",
+    "fr": "Rubis sombre. Arômes de griotte, de prune, d’épices et notes terriennes. Bouche ferme, acidité vive, tanins marqués, finale longue.",
+    "it": "Rubino scuro. Aromi di amarena, prugna, spezie e note terrose. Bocca salda, acidità vivace, tannini marcati e finale lungo."
+  },
+  "pairing": {
+    "es": "Cochinillo asado, cordero, caza, guisos de carne, quesos curados",
+    "en": "Roast suckling pig, lamb, game, meat stews, aged cheeses",
+    "fr": "Cochon de lait rôti, agneau, gibier, ragoûts de viande, fromages affinés",
+    "it": "Maialino arrosto, agnello, selvaggina, stufati di carne, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Vinha Pan Luís Pato Bairrada"
+}

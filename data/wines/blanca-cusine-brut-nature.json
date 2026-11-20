@@ -1,0 +1,40 @@
+{
+  "slug": "blanca-cusine-brut-nature",
+  "name": "Blanca Cusiné Brut Nature",
+  "winery": null,
+  "winery_name": "Parés Baltà",
+  "region": null,
+  "country": "espana",
+  "appellation": null,
+  "type": "espumoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Blanca Cusiné Brut Nature es un vino espumoso de Parés Baltà, en España.",
+    "en": "Blanca Cusiné Brut Nature is a sparkling wine from Parés Baltà in Spain.",
+    "fr": "Blanca Cusiné Brut Nature est un vin effervescent de Parés Baltà (Espagne).",
+    "it": "Blanca Cusiné Brut Nature è un vino spumante di Parés Baltà (Spagna)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 12 % vol.</p>",
+    "en": "<p>It has 12% ABV.</p>",
+    "fr": "<p>Il titre 12 % vol.</p>",
+    "it": "<p>Ha 12% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Blanca Cusiné Brut Nature Parés Baltà",
+  "brief": true,
+  "source": "decantalo"
+}

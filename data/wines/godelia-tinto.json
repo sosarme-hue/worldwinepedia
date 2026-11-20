@@ -1,0 +1,47 @@
+{
+  "slug": "godelia-tinto",
+  "name": "Godelia Tinto",
+  "winery": null,
+  "winery_name": "Godelia",
+  "region": "bierzo",
+  "country": "espana",
+  "appellation": "DO Bierzo",
+  "type": "tinto",
+  "category": {
+    "es": "Crianza",
+    "en": "Crianza",
+    "fr": "Crianza",
+    "it": "Crianza"
+  },
+  "grapes": [
+    "mencia"
+  ],
+  "summary": {
+    "es": "Godelia Tinto es un vino tinto de Godelia, con la denominación DO Bierzo, en España.",
+    "en": "Godelia Tinto is a red wine from Godelia, made under the DO Bierzo appellation in Spain.",
+    "fr": "Godelia Tinto est un vin rouge de Godelia, élaboré sous l’appellation DO Bierzo (Espagne).",
+    "it": "Godelia Tinto è un vino rosso di Godelia, prodotto nella denominazione DO Bierzo (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Mencía. Lleva la mención Crianza. Su graduación es de 15 % vol.</p><p>Bierzo es una denominación de origen del noroeste de la provincia de León, reconocida en 1989. Es la cuna de los tintos de Mencía y de blancos de Godello, a menudo procedentes de viñedos viejos en ladera.</p>",
+    "en": "<p>It is made from Mencía. It carries the Crianza designation. It has 15% ABV.</p><p>Bierzo is a designation of origin in the north-west of the province of León, recognised in 1989. It is the home of Mencía reds and Godello whites, often from old hillside vineyards.</p>",
+    "fr": "<p>Il est élaboré à partir de Mencía. Il porte la mention Crianza. Il titre 15 % vol.</p><p>Le Bierzo est une dénomination d'origine du nord-ouest de la province de León, reconnue en 1989. C'est le berceau des rouges de mencía et des blancs de godello, souvent issus de vieilles vignes en coteau.</p>",
+    "it": "<p>È prodotto con Mencía. Riporta la menzione Crianza. Ha 15% vol.</p><p>Bierzo è una denominazione di origine del nord-ovest della provincia di León, riconosciuta nel 1989. È la patria dei rossi di Mencía e dei bianchi di Godello, spesso da vecchi vigneti in collina.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Godelia Tinto Godelia",
+  "brief": true,
+  "source": "decantalo"
+}

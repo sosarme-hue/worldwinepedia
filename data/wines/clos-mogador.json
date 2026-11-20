@@ -1,0 +1,41 @@
+{
+  "slug": "clos-mogador",
+  "name": "Clos Mogador",
+  "winery": "clos-mogador",
+  "region": "priorat",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": ["garnacha", "carinena", "syrah", "cabernet-sauvignon"],
+  "summary": {
+    "es": "El tinto emblemático de la familia Barbier en Gratallops, uno de los vinos que marcaron el renacimiento del Priorat, procedente de la finca familiar.",
+    "en": "The flagship red of the Barbier family in Gratallops, one of the wines that marked the revival of Priorat, sourced from the family estate.",
+    "fr": "Le rouge emblématique de la famille Barbier à Gratallops, l'un des vins qui ont marqué la renaissance du Priorat, issu du domaine familial.",
+    "it": "Il rosso simbolo della famiglia Barbier a Gratallops, uno dei vini che hanno segnato la rinascita del Priorat, proveniente dalla tenuta di famiglia."
+  },
+  "body": {
+    "es": "<p>Clos Mogador es el vino que da nombre a la bodega de René Barbier y uno de los tintos con los que el Priorat volvió a situarse en el mapa a finales del siglo XX. Procede de los viñedos que la familia cultiva en las laderas de <strong>llicorella</strong> de Gratallops, en terrazas y pendientes de bajo rendimiento.</p><p>Es un ensamblaje en el que la <strong>garnacha</strong> suele tener el papel principal, acompañada de <strong>cariñena</strong>, <strong>syrah</strong> y <strong>cabernet sauvignon</strong>, en proporciones que varían según la añada. Tras la fermentación, el vino se cría en madera de roble durante un periodo prolongado. Es un tinto de estructura y concentración, pensado para evolucionar en botella durante años, que expresa el carácter cálido, especiado y mineral de la zona.</p>",
+    "en": "<p>Clos Mogador is the wine that gives René Barbier's winery its name and one of the reds that put Priorat back on the map at the end of the 20th century. It comes from the vineyards the family farms on the <strong>llicorella</strong> slopes of Gratallops, on low-yielding terraces and hillsides.</p><p>It is a blend in which <strong>Garnacha</strong> usually takes the lead, accompanied by <strong>Carignan</strong>, <strong>Syrah</strong> and <strong>Cabernet Sauvignon</strong>, in proportions that vary with the vintage. After fermentation the wine is aged in oak for an extended period. It is a structured, concentrated red designed to develop in bottle over many years, expressing the warm, spicy and mineral character of the area.</p>",
+    "fr": "<p>Clos Mogador est le vin qui donne son nom au domaine de René Barbier et l'un des rouges qui ont replacé le Priorat sur la carte à la fin du XXe siècle. Il provient des vignes que la famille cultive sur les coteaux de <strong>llicorella</strong> de Gratallops, en terrasses et pentes à faibles rendements.</p><p>C'est un assemblage où le <strong>grenache</strong> joue généralement le premier rôle, accompagné de <strong>carignan</strong>, de <strong>syrah</strong> et de <strong>cabernet-sauvignon</strong>, dans des proportions qui varient selon le millésime. Après la fermentation, le vin est élevé en chêne pendant une période prolongée. C'est un rouge structuré et concentré, conçu pour évoluer en bouteille pendant des années, qui exprime le caractère chaleureux, épicé et minéral de la région.</p>",
+    "it": "<p>Clos Mogador è il vino che dà il nome alla cantina di René Barbier e uno dei rossi con cui il Priorat è tornato sulla mappa alla fine del Novecento. Proviene dai vigneti che la famiglia coltiva sui pendii di <strong>llicorella</strong> di Gratallops, su terrazze e versanti a bassa resa.</p><p>È un assemblaggio in cui la <strong>Grenache</strong> ha di solito il ruolo principale, accompagnata da <strong>Carignano</strong>, <strong>Syrah</strong> e <strong>Cabernet Sauvignon</strong>, in proporzioni che variano secondo l'annata. Dopo la fermentazione il vino affina in rovere per un periodo prolungato. È un rosso di struttura e concentrazione, pensato per evolvere in bottiglia per anni, che esprime il carattere caldo, speziato e minerale della zona.</p>"
+  },
+  "tasting": {
+    "es": "Fruta negra madura, notas balsámicas, de regaliz, especias y pizarra. En boca es amplio y estructurado, con tanino firme y final largo.",
+    "en": "Ripe black fruit, balsamic notes, liquorice, spice and slate. Broad and structured on the palate, with firm tannins and a long finish.",
+    "fr": "Fruits noirs mûrs, notes balsamiques, de réglisse, d'épices et de schiste. Bouche ample et structurée, aux tanins fermes et à la finale longue.",
+    "it": "Frutta nera matura, note balsamiche, di liquirizia, spezie e ardesia. In bocca è ampio e strutturato, con tannino deciso e finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas asadas, caza, estofados, quesos curados",
+    "en": "Roast red meats, game, braises, aged cheeses",
+    "fr": "Viandes rouges rôties, gibier, plats mijotés, fromages affinés",
+    "it": "Carni rosse arrosto, selvaggina, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia; decantar si es joven",
+    "en": "16-18 °C, large glass; decant when young",
+    "fr": "16-18 °C, grand verre ; carafer s'il est jeune",
+    "it": "16-18 °C, calice ampio; decantare se giovane"
+  },
+  "search": "Clos Mogador Priorat René Barbier"
+}

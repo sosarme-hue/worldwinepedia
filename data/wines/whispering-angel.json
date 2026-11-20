@@ -1,0 +1,50 @@
+{
+  "slug": "whispering-angel",
+  "name": "Château d’Esclans Whispering Angel",
+  "winery": "chateau-d-esclans",
+  "region": "provence",
+  "country": "francia",
+  "type": "rosado",
+  "category": {
+    "es": "Côtes de Provence",
+    "en": "Côtes de Provence",
+    "fr": "Côtes de Provence",
+    "it": "Côtes de Provence"
+  },
+  "grapes": [
+    "garnacha",
+    "cinsault",
+    "vermentino"
+  ],
+  "summary": {
+    "es": "El rosado más conocido de Château d’Esclans, un Côtes de Provence pálido y seco que se convirtió en símbolo del auge internacional del rosado provenzal.",
+    "en": "Château d’Esclans’ best-known rosé, a pale, dry Côtes de Provence that became a symbol of the international boom in Provence rosé.",
+    "fr": "Le rosé le plus connu du Château d’Esclans, un côtes-de-provence pâle et sec devenu le symbole de l’essor international du rosé provençal.",
+    "it": "Il rosato più noto di Château d’Esclans, un Côtes de Provence tenue e secco diventato simbolo del boom internazionale del rosato provenzale."
+  },
+  "body": {
+    "es": "<p>Whispering Angel nació poco después de que Sacha Lichine adquiriera Château d’Esclans en 2006 y se convirtió en uno de los rosados más vendidos y reconocibles del mundo.</p><p>Se elabora con uvas de los viñedos de la finca y de viticultores de la zona, sobre todo Garnacha, Cinsault y Rolle (Vermentino), con otras variedades mediterráneas en menor proporción. Las uvas se prensan con suavidad y el mosto fermenta a baja temperatura en depósitos de acero inoxidable, para obtener un vino de color muy pálido y aromas frescos.</p><p>Es un rosado seco, ligero y afrutado, pensado para beberse joven, como aperitivo o con cocina mediterránea.</p><p>La denominación Côtes de Provence es la más extensa de Provenza y la mayor parte de su producción corresponde a vinos rosados. Su clima mediterráneo, soleado y ventoso, permite obtener uvas sanas, y los productores suelen vendimiar temprano o de noche para conservar la frescura.</p>",
+    "en": "<p>Whispering Angel was born shortly after Sacha Lichine acquired Château d’Esclans in 2006 and became one of the best-selling and most recognisable rosés in the world.</p><p>It is made from grapes from the estate’s vineyards and local growers, mainly Grenache, Cinsault and Rolle (Vermentino), with other Mediterranean varieties in smaller proportions. The grapes are gently pressed and the must ferments at low temperatures in stainless-steel tanks, giving a very pale wine with fresh aromas.</p><p>It is a dry, light and fruity rosé, designed to be drunk young, as an aperitif or with Mediterranean food.</p><p>Côtes de Provence is the largest appellation in Provence, and most of its production is rosé. Its sunny, windy Mediterranean climate yields healthy grapes, and producers often harvest early or at night to retain freshness.</p>",
+    "fr": "<p>Whispering Angel est né peu après l’acquisition du Château d’Esclans par Sacha Lichine en 2006 et est devenu l’un des rosés les plus vendus et les plus reconnaissables au monde.</p><p>Il est élaboré à partir de raisins des vignes du domaine et de vignerons de la région, surtout grenache, cinsault et rolle (vermentino), avec d’autres cépages méditerranéens en moindre proportion. Les raisins sont pressés délicatement et le moût fermente à basse température en cuves inox, pour obtenir un vin très pâle aux arômes frais.</p><p>C’est un rosé sec, léger et fruité, à boire jeune, à l’apéritif ou avec une cuisine méditerranéenne.</p><p>L’appellation Côtes de Provence est la plus étendue de Provence et l’essentiel de sa production est en rosé. Son climat méditerranéen, ensoleillé et venté, permet d’obtenir des raisins sains, et les producteurs vendangent souvent tôt ou de nuit pour préserver la fraîcheur.</p>",
+    "it": "<p>Whispering Angel è nato poco dopo che Sacha Lichine acquistò Château d’Esclans nel 2006 ed è diventato uno dei rosati più venduti e riconoscibili al mondo.</p><p>Si produce con uve dei vigneti della tenuta e di viticoltori della zona, soprattutto Grenache, Cinsault e Rolle (Vermentino), con altre varietà mediterranee in quota minore. Le uve si pressano delicatamente e il mosto fermenta a bassa temperatura in vasche d’acciaio inox, ottenendo un vino dal colore molto tenue e dagli aromi freschi.</p><p>È un rosato secco, leggero e fruttato, pensato per essere bevuto giovane, come aperitivo o con la cucina mediterranea.</p><p>La denominazione Côtes de Provence è la più estesa della Provenza e la maggior parte della sua produzione è di rosati. Il clima mediterraneo, soleggiato e ventoso, permette di ottenere uve sane, e i produttori vendemmiano spesso presto o di notte per preservare la freschezza.</p>"
+  },
+  "tasting": {
+    "es": "Rosa muy pálido. Aromas de fresa, frambuesa, pomelo y melocotón blanco, con notas florales. En boca es seco, fresco y suave, con un final limpio.",
+    "en": "Very pale pink. Aromas of strawberry, raspberry, grapefruit and white peach, with floral notes. Dry, fresh and smooth on the palate, with a clean finish.",
+    "fr": "Rose très pâle. Arômes de fraise, de framboise, de pamplemousse et de pêche blanche, avec des notes florales. En bouche, sec, frais et souple, avec une finale nette.",
+    "it": "Rosa molto tenue. Aromi di fragola, lampone, pompelmo e pesca bianca, con note floreali. In bocca è secco, fresco e morbido, con finale pulito."
+  },
+  "pairing": {
+    "es": "Aperitivo, ensaladas, marisco, salmón, cocina mediterránea",
+    "en": "Aperitif, salads, shellfish, salmon, Mediterranean cuisine",
+    "fr": "Apéritif, salades, fruits de mer, saumon, cuisine méditerranéenne",
+    "it": "Aperitivo, insalate, frutti di mare, salmone, cucina mediterranea"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Whispering Angel Rosé Château d'Esclans"
+}

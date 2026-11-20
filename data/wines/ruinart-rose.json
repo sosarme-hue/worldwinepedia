@@ -1,0 +1,49 @@
+{
+  "slug": "ruinart-rose",
+  "name": "Ruinart Rosé",
+  "winery": "ruinart",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut Rosé",
+    "en": "Brut Rosé",
+    "fr": "Brut Rosé",
+    "it": "Brut Rosé"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Champagne rosado sin añada de Ruinart, con una base importante de Chardonnay a la que se añade vino tinto de Pinot Noir.",
+    "en": "Ruinart’s non-vintage rosé champagne, with a substantial Chardonnay base to which Pinot Noir red wine is added.",
+    "fr": "Champagne rosé non millésimé de Ruinart, avec une base importante de chardonnay à laquelle est ajouté du vin rouge de pinot noir.",
+    "it": "Champagne rosé senza annata di Ruinart, con un’importante base di Chardonnay a cui si aggiunge vino rosso di Pinot Nero."
+  },
+  "body": {
+    "es": "<p>El Rosé de Ruinart se elabora mediante el método de ensamblaje: a una base de vinos blancos, en la que la <strong>Chardonnay</strong> tiene un papel muy destacado, coherente con el estilo de la casa, se añade una proporción de <strong>Pinot Noir</strong> vinificado en tinto, que aporta el color y los aromas de frutos rojos. Las uvas proceden de distintos municipios de Champagne y las proporciones varían según el ensamblaje.</p><p>El vino incluye vinos de reserva de años anteriores y se cría durante varios años sobre lías en las crayères de Reims antes del degüelle. Como el Blanc de Blancs, se presenta en la botella redondeada característica de la casa.</p><p>Es un rosado de color rosa intenso con matices anaranjados, con aromas de frutos rojos y exóticos, como guayaba o granada, y una boca fresca y sedosa. Su frescura lo hace adecuado como aperitivo y con platos de cocina contemporánea.</p>",
+    "en": "<p>Ruinart’s Rosé is made by the blending method: to a base of white wines, in which <strong>Chardonnay</strong> plays a very prominent role, in keeping with the house style, a proportion of <strong>Pinot Noir</strong> vinified as red wine is added, bringing colour and red fruit aromas. The grapes come from different Champagne villages and the proportions vary from blend to blend.</p><p>The wine includes reserve wines from earlier years and is aged for several years on its lees in the Reims crayères before disgorgement. Like the Blanc de Blancs, it is presented in the house’s characteristic rounded bottle.</p><p>It is a rosé of intense pink with orange hints, with aromas of red and exotic fruit such as guava and pomegranate, and a fresh, silky palate. Its freshness makes it suitable as an aperitif and with contemporary dishes.</p>",
+    "fr": "<p>Le Rosé de Ruinart est élaboré par assemblage : à une base de vins blancs, où le <strong>chardonnay</strong> occupe une place très importante, conformément au style de la maison, on ajoute une proportion de <strong>pinot noir</strong> vinifié en rouge, qui apporte la couleur et les arômes de fruits rouges. Les raisins proviennent de différents villages de Champagne et les proportions varient selon l’assemblage.</p><p>Le vin comprend des vins de réserve d’années antérieures et il est élevé plusieurs années sur lies dans les crayères de Reims avant le dégorgement. Comme le Blanc de Blancs, il est présenté dans la bouteille arrondie caractéristique de la maison.</p><p>C’est un rosé d’un rose intense aux nuances orangées, aux arômes de fruits rouges et exotiques comme la goyave ou la grenade, et à la bouche fraîche et soyeuse. Sa fraîcheur le rend adapté à l’apéritif et aux plats de cuisine contemporaine.</p>",
+    "it": "<p>Il Rosé di Ruinart è prodotto con il metodo dell’assemblaggio: a una base di vini bianchi, in cui lo <strong>Chardonnay</strong> ha un ruolo di grande rilievo, coerente con lo stile della casa, si aggiunge una quota di <strong>Pinot Nero</strong> vinificato in rosso, che apporta il colore e gli aromi di frutti rossi. Le uve provengono da diversi villaggi della Champagne e le proporzioni variano secondo l’assemblaggio.</p><p>Il vino comprende vini di riserva di anni precedenti e affina per diversi anni sui lieviti nelle crayères di Reims prima della sboccatura. Come il Blanc de Blancs, è presentato nella bottiglia arrotondata caratteristica della casa.</p><p>È un rosé di un rosa intenso con sfumature aranciate, con aromi di frutti rossi ed esotici come guava e melograno, e una bocca fresca e setosa. La sua freschezza lo rende adatto come aperitivo e con piatti di cucina contemporanea.</p>"
+  },
+  "tasting": {
+    "es": "Rosa intenso con reflejos anaranjados y burbuja fina. Aromas de frambuesa, cereza, granada y frutas exóticas. Boca fresca y sedosa, afrutada, con final limpio.",
+    "en": "Intense pink with orange hints and fine bubbles. Aromas of raspberry, cherry, pomegranate and exotic fruit. Fresh, silky, fruity palate with a clean finish.",
+    "fr": "Rose intense aux reflets orangés, bulle fine. Arômes de framboise, de cerise, de grenade et de fruits exotiques. Bouche fraîche et soyeuse, fruitée, finale nette.",
+    "it": "Rosa intenso con riflessi aranciati e perlage fine. Aromi di lampone, ciliegia, melograno e frutti esotici. Bocca fresca e setosa, fruttata, dal finale pulito."
+  },
+  "pairing": {
+    "es": "Salmón, atún en tataki, pato, cocina asiática, postres de frutos rojos poco dulces",
+    "en": "Salmon, tuna tataki, duck, Asian cuisine, not-too-sweet red fruit desserts",
+    "fr": "Saumon, tataki de thon, canard, cuisine asiatique, desserts aux fruits rouges peu sucrés",
+    "it": "Salmone, tataki di tonno, anatra, cucina asiatica, dolci ai frutti rossi poco zuccherati"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco o de tulipa",
+    "en": "8-10 °C, white wine or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da vino bianco o a tulipano"
+  },
+  "search": "Ruinart Rosé Champagne Brut"
+}

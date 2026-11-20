@@ -1,0 +1,51 @@
+{
+  "slug": "miraval-rose",
+  "name": "Miraval Côtes de Provence Rosé",
+  "winery": "chateau-miraval",
+  "region": "provence",
+  "country": "francia",
+  "type": "rosado",
+  "category": {
+    "es": "Côtes de Provence",
+    "en": "Côtes de Provence",
+    "fr": "Côtes de Provence",
+    "it": "Côtes de Provence"
+  },
+  "grapes": [
+    "cinsault",
+    "garnacha",
+    "syrah",
+    "vermentino"
+  ],
+  "summary": {
+    "es": "Rosado de Côtes de Provence de Château Miraval, elaborado con la familia Perrin, pálido, fresco y de fruta delicada.",
+    "en": "Côtes de Provence rosé from Château Miraval, made with the Perrin family, pale, fresh and delicately fruity.",
+    "fr": "Rosé des Côtes de Provence du château Miraval, élaboré avec la famille Perrin, pâle, frais et au fruit délicat.",
+    "it": "Rosato Côtes de Provence di Château Miraval, prodotto con la famiglia Perrin, chiaro, fresco e dal frutto delicato."
+  },
+  "body": {
+    "es": "<p>El rosado de Château Miraval se lanzó con la cosecha de 2012 y se convirtió rápidamente en uno de los rosados provenzales más conocidos del mundo, impulsado tanto por su estilo como por la notoriedad de sus propietarios de entonces. Su elaboración está a cargo de la familia Perrin, de Château de Beaucastel.</p><p>Se elabora a partir de <strong>Cinsault</strong>, <strong>Garnacha</strong>, <strong>Syrah</strong> y <strong>Rolle</strong> (Vermentino), en proporciones que varían según la añada, con uvas de la finca de Correns y de viticultores de la denominación Côtes de Provence. Las uvas se prensan directamente para obtener un color pálido. La mayor parte del vino fermenta en depósito, mientras que una pequeña proporción de Rolle se cría en barrica para aportar textura.</p><p>Es un rosado seco, fresco y elegante, de fruta delicada y buena acidez, pensado para beberse joven, como aperitivo o con platos mediterráneos.</p>",
+    "en": "<p>The Château Miraval rosé was launched with the 2012 vintage and quickly became one of the best-known Provence rosés in the world, driven both by its style and by the fame of its owners at the time. Its production is in the hands of the Perrin family of Château de Beaucastel.</p><p>It is made from <strong>Cinsault</strong>, <strong>Grenache</strong>, <strong>Syrah</strong> and <strong>Rolle</strong> (Vermentino), in proportions that vary with the vintage, with grapes from the Correns estate and from growers in the Côtes de Provence appellation. The grapes are pressed directly to obtain a pale colour. Most of the wine is fermented in tank, while a small proportion of Rolle is aged in barrel to add texture.</p><p>It is a dry, fresh and elegant rosé, with delicate fruit and good acidity, designed to be drunk young, as an aperitif or with Mediterranean dishes.</p>",
+    "fr": "<p>Le rosé du château Miraval a été lancé avec le millésime 2012 et il est rapidement devenu l’un des rosés provençaux les plus connus au monde, porté à la fois par son style et par la notoriété de ses propriétaires d’alors. Son élaboration est assurée par la famille Perrin, du château de Beaucastel.</p><p>Il est élaboré à partir de <strong>cinsault</strong>, de <strong>grenache</strong>, de <strong>syrah</strong> et de <strong>rolle</strong> (vermentino), dans des proportions qui varient selon le millésime, avec des raisins du domaine de Correns et de viticulteurs de l’appellation Côtes de Provence. Les raisins sont pressés directement pour obtenir une couleur pâle. La majeure partie du vin fermente en cuve, tandis qu’une petite proportion de rolle est élevée en barrique pour apporter de la texture.</p><p>C’est un rosé sec, frais et élégant, au fruit délicat et à la bonne acidité, à boire jeune, à l’apéritif ou avec des plats méditerranéens.</p>",
+    "it": "<p>Il rosato di Château Miraval è stato lanciato con l’annata 2012 ed è diventato rapidamente uno dei rosati provenzali più noti al mondo, spinto sia dal suo stile sia dalla notorietà dei proprietari di allora. La sua produzione è affidata alla famiglia Perrin, di Château de Beaucastel.</p><p>È prodotto con <strong>Cinsault</strong>, <strong>Grenache</strong>, <strong>Syrah</strong> e <strong>Rolle</strong> (Vermentino), in proporzioni che variano secondo l’annata, con uve della tenuta di Correns e di viticoltori della denominazione Côtes de Provence. Le uve sono pressate direttamente per ottenere un colore chiaro. La maggior parte del vino fermenta in vasca, mentre una piccola parte di Rolle affina in barrique per conferire consistenza.</p><p>È un rosato secco, fresco ed elegante, dal frutto delicato e di buona acidità, pensato per essere bevuto giovane, come aperitivo o con piatti mediterranei.</p>"
+  },
+  "tasting": {
+    "es": "Rosa pálido. Aromas de fresa, frambuesa, cítricos y flores blancas. Boca fresca y equilibrada, de textura ligeramente sedosa y final salino.",
+    "en": "Pale pink. Aromas of strawberry, raspberry, citrus and white flowers. Fresh, balanced palate with a slightly silky texture and a saline finish.",
+    "fr": "Rose pâle. Arômes de fraise, de framboise, d’agrumes et de fleurs blanches. Bouche fraîche et équilibrée, à la texture légèrement soyeuse et à la finale saline.",
+    "it": "Rosa chiaro. Aromi di fragola, lampone, agrumi e fiori bianchi. Bocca fresca ed equilibrata, di trama leggermente setosa e finale salino."
+  },
+  "pairing": {
+    "es": "Ensaladas, marisco, pescados a la parrilla, cocina mediterránea",
+    "en": "Salads, shellfish, grilled fish, Mediterranean cuisine",
+    "fr": "Salades, fruits de mer, poissons grillés, cuisine méditerranéenne",
+    "it": "Insalate, frutti di mare, pesce alla griglia, cucina mediterranea"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da bianco"
+  },
+  "search": "Miraval Rosé Côtes de Provence"
+}

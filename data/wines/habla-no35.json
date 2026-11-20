@@ -1,0 +1,42 @@
+{
+  "slug": "habla-no35",
+  "name": "Habla Nº35",
+  "winery": null,
+  "winery_name": "Habla",
+  "region": null,
+  "country": "espana",
+  "appellation": "Extremadura",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Habla Nº35 es un vino tinto de Habla, con la denominación Extremadura, en España.",
+    "en": "Habla Nº35 is a red wine from Habla, made under the Extremadura appellation in Spain.",
+    "fr": "Habla Nº35 est un vin rouge de Habla, élaboré sous l’appellation Extremadura (Espagne).",
+    "it": "Habla Nº35 è un vino rosso di Habla, prodotto nella denominazione Extremadura (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Cabernet Franc. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is made from Cabernet Franc. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Cabernet Franc. Il titre 13,5 % vol.</p>",
+    "it": "<p>È prodotto con Cabernet Franc. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Habla Nº35 Habla",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "otazu-altar",
+  "name": "Otazu Altar",
+  "winery": null,
+  "winery_name": "Otazu",
+  "region": null,
+  "country": "espana",
+  "appellation": "DOP Pago de Otazu",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "Otazu Altar es un vino tinto de Otazu, con la denominación DOP Pago de Otazu, en España.",
+    "en": "Otazu Altar is a red wine from Otazu, made under the DOP Pago de Otazu appellation in Spain.",
+    "fr": "Otazu Altar est un vin rouge de Otazu, élaboré sous l’appellation DOP Pago de Otazu (Espagne).",
+    "it": "Otazu Altar è un vino rosso di Otazu, prodotto nella denominazione DOP Pago de Otazu (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Cabernet Sauvignon. Tiene crianza en madera. Su graduación es de 14 % vol.</p>",
+    "en": "<p>It is made from Cabernet Sauvignon. It is aged in wood. It has 14% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Cabernet Sauvignon. Il est élevé en bois. Il titre 14 % vol.</p>",
+    "it": "<p>È prodotto con Cabernet Sauvignon. È affinato in legno. Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Otazu Altar Otazu",
+  "brief": true,
+  "source": "decantalo"
+}

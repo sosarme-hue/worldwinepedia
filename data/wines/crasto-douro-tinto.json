@@ -1,0 +1,41 @@
+{
+  "slug": "crasto-douro-tinto",
+  "name": "Crasto Douro Tinto",
+  "winery": "quinta-do-crasto",
+  "region": "douro",
+  "country": "portugal",
+  "type": "tinto",
+  "category": null,
+  "grapes": ["touriga-nacional", "touriga-franca", "tempranillo"],
+  "summary": {
+    "es": "El tinto de entrada de gama de Quinta do Crasto, un Douro afrutado elaborado con las variedades tradicionales de la región y pensado para beberse en sus primeros años.",
+    "en": "Quinta do Crasto’s entry-level red, a fruity Douro made from the region’s traditional varieties and intended for drinking in its early years.",
+    "fr": "Le rouge d’entrée de gamme de la Quinta do Crasto, un Douro fruité élaboré avec les cépages traditionnels de la région et destiné à être bu dans ses premières années.",
+    "it": "Il rosso d’ingresso di Quinta do Crasto, un Douro fruttato prodotto con i vitigni tradizionali della regione e pensato per essere bevuto nei primi anni."
+  },
+  "body": {
+    "es": "<p>El Crasto es el tinto más difundido de Quinta do Crasto y la puerta de entrada a la gama de la casa. Se elabora con uvas de la quinta, situada en el Cima Corgo, y de otras parcelas de la familia en el Douro, a partir de variedades tradicionales como la Touriga Nacional, la Touriga Franca, la Tinta Roriz (Tempranillo) y la Tinta Barroca.</p><p>Las variedades suelen vinificarse por separado y ensamblarse después, buscando un vino en el que predomine la fruta y que exprese el carácter de los suelos de esquisto de la región. Su elaboración privilegia la frescura y una estructura accesible frente a la crianza prolongada, de modo que está listo para beber al salir al mercado. Es un buen ejemplo del estilo moderno de los tintos del Douro: concentrados y maduros, pero con equilibrio y una acidez que les da viveza.</p>",
+    "en": "<p>Crasto is the most widely available red from Quinta do Crasto and the gateway to the house’s range. It is made from grapes from the quinta, in the Cima Corgo, and from other family plots in the Douro, using traditional varieties such as Touriga Nacional, Touriga Franca, Tinta Roriz (Tempranillo) and Tinta Barroca.</p><p>The varieties are usually vinified separately and blended afterwards, aiming for a wine in which fruit predominates and which expresses the character of the region’s schist soils. Its winemaking favours freshness and an approachable structure over prolonged ageing, so it is ready to drink on release. It is a good example of the modern style of Douro reds: concentrated and ripe, but with balance and acidity that give it liveliness.</p>",
+    "fr": "<p>Le Crasto est le rouge le plus diffusé de la Quinta do Crasto et la porte d’entrée de la gamme de la maison. Il est élaboré avec des raisins de la quinta, située dans le Cima Corgo, et d’autres parcelles de la famille dans le Douro, à partir de cépages traditionnels comme la touriga nacional, la touriga franca, la tinta roriz (tempranillo) et la tinta barroca.</p><p>Les cépages sont généralement vinifiés séparément puis assemblés, en recherchant un vin où domine le fruit et qui exprime le caractère des sols de schiste de la région. Son élaboration privilégie la fraîcheur et une structure accessible plutôt qu’un long élevage, si bien qu’il est prêt à boire dès sa commercialisation. C’est un bon exemple du style moderne des rouges du Douro : concentrés et mûrs, mais équilibrés et dotés d’une acidité qui leur donne de la vivacité.</p>",
+    "it": "<p>Il Crasto è il rosso più diffuso di Quinta do Crasto e la porta d’ingresso alla gamma della casa. È prodotto con uve della quinta, nel Cima Corgo, e di altre parcelle della famiglia nel Douro, a partire da varietà tradizionali come Touriga Nacional, Touriga Franca, Tinta Roriz (Tempranillo) e Tinta Barroca.</p><p>Le varietà vengono di solito vinificate separatamente e poi assemblate, cercando un vino in cui prevalga il frutto e che esprima il carattere dei suoli di scisto della regione. La vinificazione privilegia la freschezza e una struttura accessibile rispetto a un affinamento prolungato, così che è pronto da bere all’uscita. È un buon esempio dello stile moderno dei rossi del Douro: concentrati e maturi, ma equilibrati e con un’acidità che dà loro vivacità.</p>"
+  },
+  "tasting": {
+    "es": "Rubí violáceo. Aromas de fruta roja y negra fresca, violeta y un toque de jara. En boca es jugoso, de cuerpo medio, con taninos suaves.",
+    "en": "Purple-tinged ruby. Aromas of fresh red and black fruit, violet and a hint of rockrose. Juicy and medium-bodied on the palate, with soft tannins.",
+    "fr": "Rubis violacé. Arômes de fruits rouges et noirs frais, de violette et une touche de ciste. En bouche, il est juteux, de corps moyen, avec des tanins souples.",
+    "it": "Rubino violaceo. Aromi di frutta rossa e nera fresca, violetta e un tocco di cisto. In bocca è succoso, di medio corpo, con tannini morbidi."
+  },
+  "pairing": {
+    "es": "Carnes a la parrilla, embutidos, pasta con ragú, hamburguesas",
+    "en": "Grilled meat, charcuterie, pasta with ragù, burgers",
+    "fr": "Viandes grillées, charcuterie, pâtes au ragù, hamburgers",
+    "it": "Carni alla griglia, salumi, pasta al ragù, hamburger"
+  },
+  "serve": {
+    "es": "15-17 °C, copa amplia",
+    "en": "15-17 °C, large glass",
+    "fr": "15-17 °C, verre ample",
+    "it": "15-17 °C, calice ampio"
+  },
+  "search": "Crasto Douro Tinto Quinta do Crasto"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "chateau-olivier-rouge",
+  "name": "Château Olivier Rouge",
+  "winery": "chateau-olivier",
+  "region": "pessac-leognan",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Cru Classé de Graves",
+    "en": "Cru Classé de Graves",
+    "fr": "Cru classé de Graves",
+    "it": "Cru Classé de Graves"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Tinto de Château Olivier, Cru Classé de Graves de Léognan, a base de Cabernet Sauvignon y Merlot.",
+    "en": "The red of Château Olivier, a Cru Classé de Graves in Léognan, based on Cabernet Sauvignon and Merlot.",
+    "fr": "Rouge de Château Olivier, cru classé de Graves à Léognan, à base de cabernet-sauvignon et de merlot.",
+    "it": "Rosso di Château Olivier, Cru Classé de Graves a Léognan, a base di Cabernet Sauvignon e Merlot."
+  },
+  "body": {
+    "es": "<p>El tinto de <strong>Château Olivier</strong> es el vino principal de esta propiedad de Léognan, en la denominación <strong>Pessac-Léognan</strong>, clasificada como <strong>Cru Classé de Graves</strong>. Procede de las lomas de grava de la finca, rodeadas de bosques, que dan uvas de maduración regular.</p><p>Se elabora con una mezcla de <strong>Cabernet Sauvignon</strong> y <strong>Merlot</strong>, completada con una pequeña proporción de Petit Verdot. Las parcelas se vinifican por separado según el estudio de suelos realizado por la propiedad, y el vino se cría en barricas de roble antes del ensamblaje.</p><p>Su estilo privilegia la frescura y la finura sobre la potencia: fruta negra, notas de grafito y especias, y taninos pulidos. Es un tinto que gana en complejidad con algunos años de botella y que refleja bien el carácter de los vinos de grava de Pessac-Léognan.</p>",
+    "en": "<p>The red <strong>Château Olivier</strong> is the main wine of this Léognan estate in the <strong>Pessac-Léognan</strong> appellation, classified as a <strong>Cru Classé de Graves</strong>. It comes from the property’s gravel ridges, surrounded by woodland, which give evenly ripening grapes.</p><p>It is made from a blend of <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong>, completed by a small proportion of Petit Verdot. The plots are vinified separately according to the estate’s soil study, and the wine is aged in oak barrels before blending.</p><p>Its style favours freshness and finesse over power: dark fruit, graphite and spice notes, and polished tannins. It is a red that gains complexity with a few years in bottle and reflects well the character of the gravel wines of Pessac-Léognan.</p>",
+    "fr": "<p>Le rouge de <strong>Château Olivier</strong> est le vin principal de cette propriété de Léognan, dans l’appellation <strong>Pessac-Léognan</strong>, classée <strong>cru classé de Graves</strong>. Il provient des croupes de graves du domaine, entourées de bois, qui donnent des raisins à la maturité régulière.</p><p>Il est issu d’un assemblage de <strong>cabernet-sauvignon</strong> et de <strong>merlot</strong>, complété par un peu de petit verdot. Les parcelles sont vinifiées séparément selon l’étude des sols menée par la propriété, et le vin est élevé en barriques de chêne avant l’assemblage.</p><p>Son style privilégie la fraîcheur et la finesse plutôt que la puissance : fruits noirs, notes de graphite et d’épices, tanins polis. C’est un rouge qui gagne en complexité après quelques années de bouteille et reflète bien le caractère des vins de graves de Pessac-Léognan.</p>",
+    "it": "<p>Il rosso di <strong>Château Olivier</strong> è il vino principale di questa proprietà di Léognan, nella denominazione <strong>Pessac-Léognan</strong>, classificata <strong>Cru Classé de Graves</strong>. Proviene dai dossi ghiaiosi della tenuta, circondati da boschi, che danno uve di maturazione regolare.</p><p>È prodotto con un uvaggio di <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong>, completato da una piccola quota di Petit Verdot. Le parcelle vengono vinificate separatamente secondo lo studio dei suoli condotto dalla proprietà e il vino affina in barrique di rovere prima dell’assemblaggio.</p><p>Il suo stile privilegia freschezza e finezza rispetto alla potenza: frutta nera, note di grafite e spezie e tannini levigati. È un rosso che acquista complessità con qualche anno di bottiglia e riflette bene il carattere dei vini di ghiaia di Pessac-Léognan.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota. Aromas de grosella negra, cereza, grafito y especias. Boca fresca y elegante, de taninos pulidos.",
+    "en": "Deep red. Aromas of blackcurrant, cherry, graphite and spice. Fresh, elegant palate with polished tannins.",
+    "fr": "Rouge profond. Arômes de cassis, de cerise, de graphite et d’épices. Bouche fraîche et élégante, aux tanins polis.",
+    "it": "Rosso intenso. Aromi di ribes nero, ciliegia, grafite e spezie. Bocca fresca ed elegante, dai tannini levigati."
+  },
+  "pairing": {
+    "es": "Cordero, pato, carnes rojas asadas, quesos curados",
+    "en": "Lamb, duck, roast red meat, aged cheeses",
+    "fr": "Agneau, canard, viandes rouges rôties, fromages affinés",
+    "it": "Agnello, anatra, carni rosse arrosto, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Château Olivier Rouge Pessac-Léognan"
+}

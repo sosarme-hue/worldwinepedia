@@ -1,0 +1,48 @@
+{
+  "slug": "garzon-albarino-reserva",
+  "name": "Garzón Albariño Reserva",
+  "winery": "bodega-garzon",
+  "region": "maldonado",
+  "country": "uruguay",
+  "type": "blanco",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [
+    "albarino"
+  ],
+  "summary": {
+    "es": "Albariño de las colinas atlánticas de Maldonado, uno de los blancos más conocidos de Bodega Garzón y de Uruguay.",
+    "en": "Albariño from the Atlantic hills of Maldonado, one of the best-known whites from Bodega Garzón and from Uruguay.",
+    "fr": "Albariño des collines atlantiques de Maldonado, l’un des blancs les plus connus de Bodega Garzón et de l’Uruguay.",
+    "it": "Albariño delle colline atlantiche di Maldonado, uno dei bianchi più noti di Bodega Garzón e dell’Uruguay."
+  },
+  "body": {
+    "es": "<p>La Albariño, originaria de Galicia y del norte de Portugal, ha encontrado en el sureste de Uruguay unas condiciones parecidas a las de su tierra de origen: un clima fresco, húmedo y ventoso, con fuerte influencia atlántica. Bodega Garzón ha sido una de las bodegas que más han contribuido a dar a conocer la Albariño uruguaya, y su versión Reserva se ha convertido en uno de sus vinos más difundidos.</p><p>Las uvas proceden de parcelas de ladera de los viñedos de la bodega, cerca del pueblo de Garzón, sobre suelos poco profundos de granito descompuesto. La vendimia se realiza buscando conservar la acidez y la frescura aromática, y la elaboración se orienta a preservar la expresión de la fruta, con un periodo de contacto con las lías que aporta textura. El resultado es un blanco seco, fresco y de marcado carácter salino, pensado para beberse en sus primeros años, aunque puede ganar complejidad con algo de guarda.</p>",
+    "en": "<p>Albariño, native to Galicia and northern Portugal, has found conditions in south-eastern Uruguay similar to those of its homeland: a cool, humid and windy climate with strong Atlantic influence. Bodega Garzón has been one of the wineries that has done most to make Uruguayan Albariño known, and its Reserva version has become one of its most widely available wines.</p><p>The grapes come from hillside plots in the winery’s vineyards near the village of Garzón, on shallow soils of decomposed granite. Harvesting aims to preserve acidity and aromatic freshness, and winemaking is geared to keeping the expression of the fruit, with a period of lees contact that adds texture. The result is a dry, fresh white of marked saline character, designed to be drunk in its first few years, although it can gain complexity with some time in bottle.</p>",
+    "fr": "<p>L’albariño, originaire de Galice et du nord du Portugal, a trouvé dans le sud-est de l’Uruguay des conditions proches de celles de sa terre d’origine : un climat frais, humide et venté, sous forte influence atlantique. Bodega Garzón est l’une des caves qui ont le plus contribué à faire connaître l’albariño uruguayen, et sa version Reserva est devenue l’un de ses vins les plus diffusés.</p><p>Les raisins proviennent de parcelles en coteau des vignes du domaine, près du village de Garzón, sur des sols peu profonds de granite décomposé. Les vendanges visent à préserver l’acidité et la fraîcheur aromatique, et l’élaboration cherche à conserver l’expression du fruit, avec une période de contact avec les lies qui apporte de la texture. Le résultat est un blanc sec, frais et au caractère salin marqué, destiné à être bu dans ses premières années, même s’il peut gagner en complexité avec un peu de garde.</p>",
+    "it": "<p>L’Albariño, originario della Galizia e del Portogallo settentrionale, ha trovato nel sud-est dell’Uruguay condizioni simili a quelle della sua terra d’origine: un clima fresco, umido e ventoso, con forte influenza atlantica. Bodega Garzón è stata una delle cantine che più hanno contribuito a far conoscere l’Albariño uruguaiano, e la sua versione Reserva è diventata uno dei suoi vini più diffusi.</p><p>Le uve provengono da parcelle in collina dei vigneti della cantina, vicino al paese di Garzón, su suoli poco profondi di granito decomposto. La vendemmia mira a conservare l’acidità e la freschezza aromatica, e la vinificazione è orientata a preservare l’espressione del frutto, con un periodo di contatto con i lieviti che apporta consistenza. Il risultato è un bianco secco, fresco e dal marcato carattere salino, pensato per essere bevuto nei primi anni, anche se può acquistare complessità con un po’ di affinamento.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido con reflejos verdosos. Aromas de melocotón blanco, cítricos y flores, con un toque salino. Boca fresca, de acidez viva y final mineral.",
+    "en": "Pale yellow with green tints. Aromas of white peach, citrus and flowers, with a saline touch. Fresh on the palate, with lively acidity and a mineral finish.",
+    "fr": "Jaune pâle aux reflets verts. Arômes de pêche blanche, d’agrumes et de fleurs, avec une touche saline. Bouche fraîche, à l’acidité vive et à la finale minérale.",
+    "it": "Giallo paglierino tenue con riflessi verdolini. Profumi di pesca bianca, agrumi e fiori, con un tocco salino. Bocca fresca, di acidità vivace e finale minerale."
+  },
+  "pairing": {
+    "es": "Marisco, pescado a la parrilla, ceviche, sushi",
+    "en": "Shellfish, grilled fish, ceviche, sushi",
+    "fr": "Fruits de mer, poisson grillé, ceviche, sushis",
+    "it": "Frutti di mare, pesce alla griglia, ceviche, sushi"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Garzón Albariño Reserva Bodega Garzón"
+}

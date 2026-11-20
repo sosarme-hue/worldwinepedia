@@ -1,0 +1,41 @@
+{
+  "slug": "chateau-de-selle-rose",
+  "name": "Domaines Ott Château de Selle Rosé",
+  "winery": "domaines-ott",
+  "region": "provence",
+  "country": "francia",
+  "type": "rosado",
+  "category": {"es": "Côtes de Provence", "en": "Côtes de Provence", "fr": "Côtes de Provence", "it": "Côtes de Provence"},
+  "grapes": ["garnacha", "cinsault", "syrah"],
+  "summary": {
+    "es": "El rosado de la propiedad histórica de Domaines Ott en Taradeau, un Côtes de Provence pálido y elegante presentado en la característica botella de la casa.",
+    "en": "The rosé from Domaines Ott’s historic estate in Taradeau, a pale, elegant Côtes de Provence presented in the house’s distinctive bottle.",
+    "fr": "Le rosé de la propriété historique de Domaines Ott à Taradeau, un côtes-de-provence pâle et élégant présenté dans la bouteille caractéristique de la maison.",
+    "it": "Il rosato della storica tenuta di Domaines Ott a Taradeau, un Côtes de Provence tenue ed elegante presentato nella caratteristica bottiglia della casa."
+  },
+  "body": {
+    "es": "<p>El Château de Selle, en Taradeau, es la primera propiedad que adquirió Marcel Ott en 1912 y la cuna de Domaines Ott. Situada en el interior del Var, sobre suelos arcillo-calcáreos, disfruta de un clima mediterráneo con influencia continental, con noches más frescas que en la costa.</p><p>Su rosado se elabora principalmente con Garnacha y Cinsault, completados con Syrah y otras variedades mediterráneas. Las uvas se prensan con suavidad para extraer un mosto de color pálido, que fermenta a temperatura controlada; una parte del vino puede criarse en fudres de roble antes del ensamblaje, lo que le aporta textura.</p><p>Es un rosado seco, delicado y con buena estructura para su tipo, que se presenta en la botella de inspiración en las ánforas que identifica a la casa desde los años treinta.</p>",
+    "en": "<p>Château de Selle, in Taradeau, is the first property Marcel Ott acquired, in 1912, and the birthplace of Domaines Ott. Located inland in the Var on clay-limestone soils, it enjoys a Mediterranean climate with continental influence, with cooler nights than on the coast.</p><p>Its rosé is made mainly from Grenache and Cinsault, completed with Syrah and other Mediterranean varieties. The grapes are gently pressed to extract pale-coloured must, which ferments at controlled temperatures; part of the wine may be aged in large oak casks before blending, adding texture.</p><p>It is a dry, delicate rosé with good structure for its type, presented in the amphora-inspired bottle that has identified the house since the 1930s.</p>",
+    "fr": "<p>Le Château de Selle, à Taradeau, est la première propriété acquise par Marcel Ott, en 1912, et le berceau de Domaines Ott. Situé dans l’arrière-pays varois, sur des sols argilo-calcaires, il bénéficie d’un climat méditerranéen à influence continentale, aux nuits plus fraîches que sur le littoral.</p><p>Son rosé est élaboré principalement à partir de grenache et de cinsault, complétés par de la syrah et d’autres cépages méditerranéens. Les raisins sont pressés délicatement pour obtenir un moût pâle, qui fermente à température contrôlée ; une partie du vin peut être élevée en foudres de chêne avant l’assemblage, ce qui lui apporte de la texture.</p><p>C’est un rosé sec, délicat et bien structuré pour son type, présenté dans la bouteille inspirée des amphores qui identifie la maison depuis les années 1930.</p>",
+    "it": "<p>Lo Château de Selle, a Taradeau, è la prima proprietà acquistata da Marcel Ott, nel 1912, e la culla di Domaines Ott. Situato nell’entroterra del Var su suoli argilloso-calcarei, gode di un clima mediterraneo con influenza continentale e notti più fresche rispetto alla costa.</p><p>Il suo rosato si produce principalmente con Grenache e Cinsault, completati da Syrah e altre varietà mediterranee. Le uve si pressano delicatamente per ottenere un mosto tenue, che fermenta a temperatura controllata; una parte del vino può affinare in grandi botti di rovere prima dell’assemblaggio, il che gli conferisce struttura.</p><p>È un rosato secco, delicato e ben strutturato per la sua tipologia, presentato nella bottiglia ispirata alle anfore che identifica la casa dagli anni Trenta.</p>"
+  },
+  "tasting": {
+    "es": "Rosa muy pálido, con reflejos de piel de cebolla. Aromas de melocotón blanco, cítricos, flores y hierbas mediterráneas. En boca es seco, delicado y fresco, con una textura suave.",
+    "en": "Very pale pink with onion-skin tints. Aromas of white peach, citrus, flowers and Mediterranean herbs. Dry, delicate and fresh on the palate, with a smooth texture.",
+    "fr": "Rose très pâle aux reflets pelure d’oignon. Arômes de pêche blanche, d’agrumes, de fleurs et d’herbes méditerranéennes. En bouche, sec, délicat et frais, à la texture soyeuse.",
+    "it": "Rosa molto tenue con riflessi buccia di cipolla. Aromi di pesca bianca, agrumi, fiori ed erbe mediterranee. In bocca è secco, delicato e fresco, con una consistenza morbida."
+  },
+  "pairing": {
+    "es": "Cocina mediterránea, bullabesa, pescado a la brasa, ensaladas, cocina asiática",
+    "en": "Mediterranean cuisine, bouillabaisse, chargrilled fish, salads, Asian cuisine",
+    "fr": "Cuisine méditerranéenne, bouillabaisse, poisson à la braise, salades, cuisine asiatique",
+    "it": "Cucina mediterranea, bouillabaisse, pesce alla brace, insalate, cucina asiatica"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Domaines Ott Château de Selle Rosé Côtes de Provence"
+}

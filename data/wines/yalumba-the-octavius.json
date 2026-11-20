@@ -1,0 +1,48 @@
+{
+  "slug": "yalumba-the-octavius",
+  "name": "Yalumba The Octavius Old Vine Shiraz",
+  "winery": "yalumba",
+  "region": "barossa-valley",
+  "country": "australia",
+  "type": "tinto",
+  "category": {
+    "es": "Old Vine Shiraz",
+    "en": "Old Vine Shiraz",
+    "fr": "Old Vine Shiraz",
+    "it": "Old Vine Shiraz"
+  },
+  "grapes": [
+    "syrah"
+  ],
+  "summary": {
+    "es": "Shiraz de viñas viejas del Barossa elaborado por Yalumba y criado en «octavas», pequeños barriles de roble fabricados en la tonelería de la propia bodega.",
+    "en": "Old-vine Barossa Shiraz made by Yalumba and aged in “octaves”, small oak barrels made in the winery’s own cooperage.",
+    "fr": "Shiraz de vieilles vignes de la Barossa élaboré par Yalumba et élevé en « octaves », petits fûts de chêne fabriqués dans la tonnellerie du domaine.",
+    "it": "Shiraz di vecchie vigne della Barossa prodotto da Yalumba e affinato in «ottave», piccole botti di rovere costruite nella bottaia della cantina."
+  },
+  "body": {
+    "es": "<p>Yalumba, fundada a mediados del siglo XIX en Angaston, se presenta como la bodega familiar más antigua de Australia y es una de las pocas que mantiene su propia tonelería. <strong>The Octavius</strong> es uno de sus vinos de cumbre y debe su nombre a esa tradición: se cría en <em>octaves</em>, barriles de pequeño tamaño —de unos cien litros, aproximadamente un octavo de un tonel tradicional— elaborados por los toneleros de la casa.</p><p>El vino procede de <strong>Shiraz</strong> de viñas viejas del <strong>Barossa</strong>, una región donde se conservan algunas de las cepas más antiguas del mundo gracias a la ausencia histórica de filoxera. Las viñas viejas dan rendimientos bajos y uvas concentradas.</p><p>El pequeño formato del barril intensifica el intercambio entre vino y madera, lo que aporta estructura y notas especiadas y tostadas. El resultado es un Shiraz denso y profundo, con fruta negra madura, chocolate, especias y taninos firmes, concebido para una larga guarda.</p>",
+    "en": "<p>Yalumba, founded in the mid-nineteenth century at Angaston, describes itself as Australia’s oldest family-owned winery and is one of the few to maintain its own cooperage. <strong>The Octavius</strong> is one of its flagship wines and owes its name to that tradition: it is aged in <em>octaves</em>, small barrels —of around one hundred litres, roughly an eighth of a traditional cask— made by the house coopers.</p><p>The wine comes from old-vine <strong>Shiraz</strong> in the <strong>Barossa</strong>, a region that preserves some of the oldest vines in the world thanks to the historical absence of phylloxera. Old vines give low yields and concentrated grapes.</p><p>The small size of the barrel intensifies the exchange between wine and wood, adding structure and spicy, toasty notes. The result is a dense, deep Shiraz with ripe dark fruit, chocolate, spice and firm tannins, built for long cellaring.</p>",
+    "fr": "<p>Yalumba, fondée au milieu du XIXe siècle à Angaston, se présente comme le plus ancien domaine familial d’Australie et compte parmi les rares à disposer de sa propre tonnellerie. <strong>The Octavius</strong> est l’un de ses vins de sommet et doit son nom à cette tradition : il est élevé en <em>octaves</em>, des fûts de petite taille —d’environ cent litres, soit à peu près un huitième d’un foudre traditionnel— fabriqués par les tonneliers de la maison.</p><p>Le vin provient de <strong>shiraz</strong> de vieilles vignes de la <strong>Barossa</strong>, une région qui conserve certains des plus vieux ceps du monde grâce à l’absence historique de phylloxéra. Les vieilles vignes donnent de faibles rendements et des raisins concentrés.</p><p>Le petit format du fût intensifie les échanges entre le vin et le bois, apportant structure et notes épicées et grillées. Il en résulte une shiraz dense et profonde, aux fruits noirs mûrs, au chocolat, aux épices et aux tanins fermes, conçue pour une longue garde.</p>",
+    "it": "<p>Yalumba, fondata a metà Ottocento ad Angaston, si presenta come la più antica cantina di famiglia dell’Australia ed è una delle poche a mantenere una propria bottaia. <strong>The Octavius</strong> è uno dei suoi vini di punta e deve il nome a questa tradizione: matura in <em>octaves</em>, botti di piccole dimensioni —circa cento litri, all’incirca un ottavo di una botte tradizionale— costruite dai bottai della casa.</p><p>Il vino proviene da <strong>Shiraz</strong> di vecchie vigne della <strong>Barossa</strong>, una regione che conserva alcuni dei ceppi più antichi del mondo grazie alla storica assenza della fillossera. Le vecchie vigne danno rese basse e uve concentrate.</p><p>Il piccolo formato della botte intensifica lo scambio tra vino e legno, apportando struttura e note speziate e tostate. Il risultato è uno Shiraz denso e profondo, con frutto nero maturo, cioccolato, spezie e tannini decisi, pensato per un lungo invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Rojo casi negro. Aromas de mora, ciruela negra, chocolate, especias dulces y tostados. Boca densa y potente, de taninos firmes y final muy largo.",
+    "en": "Almost black red. Aromas of blackberry, black plum, chocolate, sweet spice and toast. Dense, powerful palate with firm tannins and a very long finish.",
+    "fr": "Rouge presque noir. Arômes de mûre, de prune noire, de chocolat, d’épices douces et de grillé. Bouche dense et puissante, aux tanins fermes et à la finale très longue.",
+    "it": "Rosso quasi nero. Aromi di mora, prugna nera, cioccolato, spezie dolci e tostatura. Bocca densa e potente, con tannini decisi e finale lunghissimo."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, caza, costillas de buey, guisos especiados, quesos curados",
+    "en": "Chargrilled red meat, game, beef ribs, spiced stews, aged cheeses",
+    "fr": "Viandes rouges à la braise, gibier, côte de bœuf, ragoûts épicés, fromages affinés",
+    "it": "Carni rosse alla brace, selvaggina, costata di manzo, stufati speziati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "The Octavius Old Vine Shiraz Yalumba"
+}

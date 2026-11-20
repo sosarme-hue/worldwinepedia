@@ -1,0 +1,40 @@
+{
+  "slug": "frontonio-supersonico-garnacha",
+  "name": "Frontonio Supersónico Garnacha",
+  "winery": null,
+  "winery_name": "Bodegas Frontonio",
+  "region": null,
+  "country": "espana",
+  "appellation": "Sin denominación",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Frontonio Supersónico Garnacha es un vino tinto de Bodegas Frontonio, con la denominación Sin denominación, en España.",
+    "en": "Frontonio Supersónico Garnacha is a red wine from Bodegas Frontonio, made under the Sin denominación appellation in Spain.",
+    "fr": "Frontonio Supersónico Garnacha est un vin rouge de Bodegas Frontonio, élaboré sous l’appellation Sin denominación (Espagne).",
+    "it": "Frontonio Supersónico Garnacha è un vino rosso di Bodegas Frontonio, prodotto nella denominazione Sin denominación (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13,5 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Frontonio Supersónico Garnacha Bodegas Frontonio",
+  "brief": true,
+  "source": "decantalo"
+}

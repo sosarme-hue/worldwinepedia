@@ -1,0 +1,41 @@
+{
+  "slug": "moet-rose-imperial",
+  "name": "Moët & Chandon Rosé Impérial",
+  "winery": "moet-chandon",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {"es": "Brut rosado", "en": "Brut rosé", "fr": "Brut rosé", "it": "Brut rosé"},
+  "grapes": ["pinot-noir", "chardonnay"],
+  "summary": {
+    "es": "La versión rosada del champagne sin añada de Moët & Chandon, con predominio de las variedades tintas y una parte de vino tinto en el ensamblaje.",
+    "en": "The rosé version of Moët & Chandon’s non-vintage champagne, dominated by the red varieties and including some red wine in the blend.",
+    "fr": "La version rosée du champagne sans année de Moët & Chandon, dominée par les cépages noirs et comprenant une part de vin rouge dans l’assemblage.",
+    "it": "La versione rosata dello champagne senza annata di Moët & Chandon, a prevalenza di varietà a bacca nera e con una parte di vino rosso nell’assemblaggio."
+  },
+  "body": {
+    "es": "<p>El Rosé Impérial es el rosado sin añada de Moët & Chandon. Como la mayoría de los champagnes rosados, se elabora por ensamblaje: al vino base blanco se le añade una proporción de vino tinto tranquilo de Pinot Noir, que aporta el color y parte de la fruta. El ensamblaje da protagonismo a las variedades tintas, Pinot Noir y Pinot Meunier, completadas con Chardonnay.</p><p>Tras la segunda fermentación en botella, el vino reposa sobre sus lías en las bodegas de Épernay antes del degüelle y del dosaje, que lo sitúa en la categoría brut.</p><p>El resultado es un champagne de perfil afrutado y expresivo, con más cuerpo que el Impérial blanco, que funciona como aperitivo y también en la mesa.</p>",
+    "en": "<p>Rosé Impérial is Moët & Chandon’s non-vintage rosé. Like most rosé champagnes, it is made by blending: a proportion of still red Pinot Noir wine is added to the white base wine, contributing colour and some of the fruit. The blend puts the red varieties, Pinot Noir and Pinot Meunier, centre stage, completed with Chardonnay.</p><p>After the second fermentation in bottle, the wine rests on its lees in the Épernay cellars before disgorgement and dosage, which places it in the brut category.</p><p>The result is a fruity, expressive champagne with more body than the white Impérial, which works as an aperitif and also at the table.</p>",
+    "fr": "<p>Le Rosé Impérial est le rosé sans année de Moët & Chandon. Comme la plupart des champagnes rosés, il est élaboré par assemblage : on ajoute au vin de base blanc une part de vin rouge tranquille de pinot noir, qui apporte la couleur et une partie du fruit. L’assemblage fait la part belle aux cépages noirs, pinot noir et pinot meunier, complétés par du chardonnay.</p><p>Après la seconde fermentation en bouteille, le vin repose sur lies dans les caves d’Épernay avant le dégorgement et le dosage, qui le classe en brut.</p><p>Il en résulte un champagne au profil fruité et expressif, plus corsé que l’Impérial blanc, qui convient à l’apéritif comme à table.</p>",
+    "it": "<p>Il Rosé Impérial è il rosato senza annata di Moët & Chandon. Come la maggior parte degli champagne rosé, si ottiene per assemblaggio: al vino base bianco si aggiunge una quota di vino rosso fermo di Pinot Noir, che apporta il colore e parte del frutto. L’assemblaggio dà spazio alle varietà a bacca nera, Pinot Noir e Pinot Meunier, completate dallo Chardonnay.</p><p>Dopo la seconda fermentazione in bottiglia, il vino riposa sui lieviti nelle cantine di Épernay prima della sboccatura e del dosaggio, che lo colloca nella categoria brut.</p><p>Il risultato è uno champagne dal profilo fruttato ed espressivo, con più corpo dell’Impérial bianco, adatto come aperitivo e anche a tavola.</p>"
+  },
+  "tasting": {
+    "es": "Rosa intenso con burbuja fina. Aromas de fresa, frambuesa y cereza, con notas florales. En boca es afrutado y redondo, con buena frescura.",
+    "en": "Deep pink with fine bubbles. Aromas of strawberry, raspberry and cherry, with floral notes. Fruity and rounded on the palate, with good freshness.",
+    "fr": "Rose soutenu à la bulle fine. Arômes de fraise, de framboise et de cerise, avec des notes florales. En bouche, fruité et rond, avec une belle fraîcheur.",
+    "it": "Rosa intenso con perlage fine. Aromi di fragola, lampone e ciliegia, con note floreali. In bocca è fruttato e rotondo, con buona freschezza."
+  },
+  "pairing": {
+    "es": "Salmón, atún en tartar, cocina asiática, postres de frutos rojos",
+    "en": "Salmon, tuna tartare, Asian cuisine, red-berry desserts",
+    "fr": "Saumon, tartare de thon, cuisine asiatique, desserts aux fruits rouges",
+    "it": "Salmone, tartare di tonno, cucina asiatica, dessert ai frutti rossi"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco o tulipa",
+    "en": "8-10 °C, white wine or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da vino bianco o a tulipano"
+  },
+  "search": "Moët & Chandon Rosé Impérial Champagne"
+}

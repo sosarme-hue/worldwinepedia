@@ -1,0 +1,41 @@
+{
+  "slug": "pavillon-rouge-du-chateau-margaux",
+  "name": "Pavillon Rouge du Château Margaux",
+  "winery": "chateau-margaux",
+  "region": "medoc",
+  "country": "francia",
+  "type": "tinto",
+  "category": {"es": "Segundo vino", "en": "Second wine", "fr": "Second vin", "it": "Secondo vino"},
+  "grapes": ["cabernet-sauvignon", "merlot", "cabernet-franc", "petit-verdot"],
+  "summary": {
+    "es": "El segundo vino de Château Margaux, elaborado con uvas del mismo viñedo y criado con los mismos cuidados que el gran vino.",
+    "en": "The second wine of Château Margaux, made from grapes from the same vineyard and aged with the same care as the grand vin.",
+    "fr": "Le second vin du Château Margaux, issu du même vignoble et élevé avec le même soin que le grand vin.",
+    "it": "Il secondo vino di Château Margaux, prodotto con uve dello stesso vigneto e affinato con la stessa cura del grand vin."
+  },
+  "body": {
+    "es": "<p>Pavillon Rouge du Château Margaux es el segundo vino de la finca. Se elabora con las parcelas y lotes que, tras la selección, no se destinan al gran vino, a menudo procedentes de viñas más jóvenes o de parcelas cuyo perfil se adapta mejor a un vino de evolución más rápida. Al igual que el gran vino, se basa en el Cabernet Sauvignon, con Merlot y pequeñas proporciones de Cabernet Franc y Petit Verdot.</p><p>Se cría en barricas de roble francés, con una proporción de madera nueva generalmente menor que la del gran vino. La selección se ha vuelto más estricta con los años, de modo que hoy representa una parte reducida de la producción total.</p><p>Ofrece el estilo elegante de Margaux con una fruta más inmediata y puede disfrutarse antes que el gran vino, aunque también tiene una buena capacidad de guarda.</p>",
+    "en": "<p>Pavillon Rouge du Château Margaux is the estate’s second wine. It is made from the plots and lots that, after selection, do not go into the grand vin, often from younger vines or plots whose profile suits a wine that develops more quickly. Like the grand vin, it is based on Cabernet Sauvignon, with Merlot and small proportions of Cabernet Franc and Petit Verdot.</p><p>It is aged in French oak barrels, generally with a lower proportion of new wood than the grand vin. Selection has become stricter over the years, so it now accounts for a small part of total production.</p><p>It offers the elegant Margaux style with more immediate fruit and can be enjoyed earlier than the grand vin, although it also ages well.</p>",
+    "fr": "<p>Le Pavillon Rouge du Château Margaux est le second vin du domaine. Il est élaboré à partir des parcelles et des lots qui, après sélection, n’entrent pas dans le grand vin, souvent issus de vignes plus jeunes ou de parcelles dont le profil convient mieux à un vin d’évolution plus rapide. Comme le grand vin, il repose sur le cabernet sauvignon, avec du merlot et de faibles proportions de cabernet franc et de petit verdot.</p><p>Il est élevé en barriques de chêne français, avec une part de bois neuf généralement inférieure à celle du grand vin. La sélection s’est resserrée au fil des ans, si bien qu’il ne représente plus qu’une part réduite de la production totale.</p><p>Il offre le style élégant de Margaux avec un fruit plus immédiat et peut être apprécié plus tôt que le grand vin, tout en ayant un bon potentiel de garde.</p>",
+    "it": "<p>Pavillon Rouge du Château Margaux è il secondo vino della tenuta. Si produce con le parcelle e i lotti che, dopo la selezione, non entrano nel grand vin, spesso da vigne più giovani o da parcelle il cui profilo si adatta meglio a un vino di evoluzione più rapida. Come il grand vin, si basa sul Cabernet Sauvignon, con Merlot e piccole quote di Cabernet Franc e Petit Verdot.</p><p>Affina in barrique di rovere francese, con una quota di legno nuovo in genere inferiore a quella del grand vin. La selezione si è fatta più rigorosa con gli anni, tanto che oggi rappresenta una parte ridotta della produzione totale.</p><p>Offre lo stile elegante di Margaux con un frutto più immediato e si può gustare prima del grand vin, pur avendo una buona capacità di invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de grosella negra, cereza, violeta y notas de cedro y tostado. En boca es de cuerpo medio, sedoso y equilibrado, con tanino fino.",
+    "en": "Deep ruby. Aromas of blackcurrant, cherry, violet and notes of cedar and toast. Medium-bodied, silky and balanced on the palate, with fine tannins.",
+    "fr": "Rubis intense. Arômes de cassis, de cerise, de violette, avec des notes de cèdre et de grillé. En bouche, corps moyen, soyeux et équilibré, aux tanins fins.",
+    "it": "Rubino intenso. Aromi di ribes nero, ciliegia, violetta e note di cedro e tostatura. In bocca ha corpo medio, è setoso ed equilibrato, con tannino fine."
+  },
+  "pairing": {
+    "es": "Cordero, magret de pato, carnes rojas a la parrilla, quesos curados suaves",
+    "en": "Lamb, duck breast, grilled red meat, mild aged cheeses",
+    "fr": "Agneau, magret de canard, viandes rouges grillées, fromages affinés doux",
+    "it": "Agnello, petto d’anatra, carni rosse alla griglia, formaggi stagionati delicati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de Burdeos",
+    "en": "16-18 °C, Bordeaux glass",
+    "fr": "16-18 °C, verre à bordeaux",
+    "it": "16-18 °C, calice da Bordeaux"
+  },
+  "search": "Pavillon Rouge du Château Margaux"
+}

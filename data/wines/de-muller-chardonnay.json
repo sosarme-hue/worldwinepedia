@@ -1,0 +1,42 @@
+{
+  "slug": "de-muller-chardonnay",
+  "name": "De Muller Chardonnay",
+  "winery": null,
+  "winery_name": "De Muller",
+  "region": "tarragona",
+  "country": "espana",
+  "appellation": "DO Tarragona",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "De Muller Chardonnay es un vino blanco de De Muller, con la denominación DO Tarragona, en España.",
+    "en": "De Muller Chardonnay is a white wine from De Muller, made under the DO Tarragona appellation in Spain.",
+    "fr": "De Muller Chardonnay est un vin blanc de De Muller, élaboré sous l’appellation DO Tarragona (Espagne).",
+    "it": "De Muller Chardonnay è un vino bianco di De Muller, prodotto nella denominazione DO Tarragona (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Chardonnay. Fermenta en barrica. Su graduación es de 13,5 % vol.</p><p>Tarragona es una de las denominaciones de origen más antiguas de Cataluña, con viñedos en el Camp de Tarragona y en la Ribera d'Ebre. Históricamente famosa por sus vinos de licor y sus rancios, hoy elabora sobre todo blancos, rosados y tintos mediterráneos.</p>",
+    "en": "<p>It is made from Chardonnay. It is fermented in barrel. It has 13.5% ABV.</p><p>Tarragona is one of the oldest designations of origin in Catalonia, with vineyards in the Camp de Tarragona and the Ribera d'Ebre. Historically famous for its fortified and rancio wines, it now mainly produces Mediterranean whites, rosés and reds.</p>",
+    "fr": "<p>Il est élaboré à partir de Chardonnay. Il est fermenté en barrique. Il titre 13,5 % vol.</p><p>Tarragona est l'une des plus anciennes dénominations d'origine de Catalogne, avec des vignes dans le Camp de Tarragona et la Ribera d'Ebre. Historiquement célèbre pour ses vins de liqueur et ses rancios, elle produit aujourd'hui surtout des blancs, des rosés et des rouges méditerranéens.</p>",
+    "it": "<p>È prodotto con Chardonnay. Fermenta in barrique. Ha 13,5% vol.</p><p>Tarragona è una delle denominazioni di origine più antiche della Catalogna, con vigneti nel Camp de Tarragona e nella Ribera d'Ebre. Storicamente famosa per i suoi vini liquorosi e i suoi rancio, oggi produce soprattutto bianchi, rosati e rossi mediterranei.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "De Muller Chardonnay De Muller",
+  "brief": true,
+  "source": "decantalo"
+}

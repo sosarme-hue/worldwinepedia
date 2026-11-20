@@ -1,0 +1,40 @@
+{
+  "slug": "malaga-virgen",
+  "name": "Málaga Virgen",
+  "winery": null,
+  "winery_name": "Málaga Virgen",
+  "region": null,
+  "country": "espana",
+  "appellation": "DO Málaga-Sierras de Málaga",
+  "type": "dulce",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Málaga Virgen es un vino dulce de Málaga Virgen, con la denominación DO Málaga-Sierras de Málaga, en España.",
+    "en": "Málaga Virgen is a sweet wine from Málaga Virgen, made under the DO Málaga-Sierras de Málaga appellation in Spain.",
+    "fr": "Málaga Virgen est un vin doux de Málaga Virgen, élaboré sous l’appellation DO Málaga-Sierras de Málaga (Espagne).",
+    "it": "Málaga Virgen è un vino dolce di Málaga Virgen, prodotto nella denominazione DO Málaga-Sierras de Málaga (Spagna)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 15 % vol.</p>",
+    "en": "<p>It has 15% ABV.</p>",
+    "fr": "<p>Il titre 15 % vol.</p>",
+    "it": "<p>Ha 15% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Postres, foie gras, quesos azules",
+    "en": "Desserts, foie gras, blue cheeses",
+    "fr": "Desserts, foie gras, fromages à pâte persillée",
+    "it": "Dolci, foie gras, formaggi erborinati"
+  },
+  "serve": {
+    "es": "8-12 °C, copa pequeña",
+    "en": "8-12 °C, small glass",
+    "fr": "8-12 °C, petit verre",
+    "it": "8-12 °C, calice piccolo"
+  },
+  "search": "Málaga Virgen Málaga Virgen",
+  "brief": true,
+  "source": "decantalo"
+}

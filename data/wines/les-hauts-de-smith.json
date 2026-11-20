@@ -1,0 +1,49 @@
+{
+  "slug": "les-hauts-de-smith",
+  "name": "Les Hauts de Smith",
+  "winery": "chateau-smith-haut-lafitte",
+  "region": "pessac-leognan",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Segundo vino",
+    "en": "Second wine",
+    "fr": "Second vin",
+    "it": "Secondo vino"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Segundo vino tinto de Château Smith Haut Lafitte, cru classé de Graves en Pessac-Léognan, de Cabernet Sauvignon y Merlot.",
+    "en": "Red second wine of Château Smith Haut Lafitte, a cru classé de Graves in Pessac-Léognan, made from Cabernet Sauvignon and Merlot.",
+    "fr": "Second vin rouge du Château Smith Haut Lafitte, cru classé de Graves en Pessac-Léognan, de cabernet-sauvignon et merlot.",
+    "it": "Secondo vino rosso di Château Smith Haut Lafitte, cru classé de Graves a Pessac-Léognan, di Cabernet Sauvignon e Merlot."
+  },
+  "body": {
+    "es": "<p>Les Hauts de Smith es el segundo vino de Château Smith Haut Lafitte, propiedad situada en Martillac, en la denominación Pessac-Léognan, al sur de Burdeos. Procede de viñas más jóvenes y de lotes que no se destinan al gran vino, y se elabora con el mismo cuidado y en la misma bodega. Como el primer vino, se basa en la Cabernet Sauvignon y la Merlot, cultivadas sobre la loma de gravas profundas que caracteriza a la finca.</p><p>Desde 1990 la finca pertenece a Daniel y Florence Cathiard, que renovaron el viñedo y la bodega e introdujeron prácticas de cultivo respetuosas con el medio ambiente y una tonelería propia. El segundo vino ofrece una aproximación al estilo de la casa —fruta madura, estructura elegante y notas de crianza en roble— con una evolución más rápida que la del gran vino.</p>",
+    "en": "<p>Les Hauts de Smith is the second wine of Château Smith Haut Lafitte, an estate in Martillac, in the Pessac-Léognan appellation south of Bordeaux. It comes from younger vines and lots not selected for the grand vin, and is made with the same care in the same cellar. Like the first wine, it is based on Cabernet Sauvignon and Merlot grown on the deep gravel rise that characterises the estate.</p><p>Since 1990 the estate has belonged to Daniel and Florence Cathiard, who renovated the vineyard and cellar and introduced environmentally friendly farming and an in-house cooperage. The second wine offers an approach to the house style —ripe fruit, elegant structure and notes of oak ageing— with quicker development than the grand vin.</p>",
+    "fr": "<p>Les Hauts de Smith est le second vin du Château Smith Haut Lafitte, propriété située à Martillac, dans l’appellation Pessac-Léognan, au sud de Bordeaux. Il provient de vignes plus jeunes et de lots non retenus pour le grand vin, et il est élaboré avec le même soin dans le même chai. Comme le premier vin, il repose sur le cabernet-sauvignon et le merlot, cultivés sur la croupe de graves profondes qui caractérise la propriété.</p><p>Depuis 1990, la propriété appartient à Daniel et Florence Cathiard, qui ont rénové le vignoble et le chai, et introduit des pratiques culturales respectueuses de l’environnement ainsi qu’une tonnellerie intégrée. Le second vin offre une approche du style de la maison —fruit mûr, structure élégante et notes d’élevage en chêne— avec une évolution plus rapide que celle du grand vin.</p>",
+    "it": "<p>Les Hauts de Smith è il secondo vino di Château Smith Haut Lafitte, tenuta situata a Martillac, nella denominazione Pessac-Léognan, a sud di Bordeaux. Proviene da vigne più giovani e da partite non destinate al grand vin, ed è prodotto con la stessa cura nella stessa cantina. Come il primo vino, si basa su Cabernet Sauvignon e Merlot coltivati sul dosso di ghiaie profonde che caratterizza la tenuta.</p><p>Dal 1990 la tenuta appartiene a Daniel e Florence Cathiard, che hanno rinnovato vigneto e cantina e introdotto pratiche colturali rispettose dell’ambiente e una bottaia interna. Il secondo vino offre un approccio allo stile della casa —frutto maturo, struttura elegante e note di affinamento in rovere— con un’evoluzione più rapida rispetto al grand vin.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de cassis, ciruela, cedro, especias y notas tostadas. En boca es de cuerpo medio, con taninos finos y final fresco.",
+    "en": "Deep ruby. Aromas of blackcurrant, plum, cedar, spice and toasty notes. Medium-bodied on the palate, with fine tannins and a fresh finish.",
+    "fr": "Rubis profond. Arômes de cassis, de prune, de cèdre, d’épices et notes grillées. En bouche, de corps moyen, aux tanins fins et à la finale fraîche.",
+    "it": "Rubino intenso. Aromi di ribes nero, prugna, cedro, spezie e note tostate. In bocca è di medio corpo, con tannini fini e finale fresco."
+  },
+  "pairing": {
+    "es": "Cordero, carnes rojas a la parrilla, aves asadas, quesos curados",
+    "en": "Lamb, grilled red meat, roast poultry, aged cheeses",
+    "fr": "Agneau, viandes rouges grillées, volailles rôties, fromages affinés",
+    "it": "Agnello, carni rosse alla griglia, pollame arrosto, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Les Hauts de Smith Château Smith Haut Lafitte"
+}

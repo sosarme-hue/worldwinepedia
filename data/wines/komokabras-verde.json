@@ -1,0 +1,40 @@
+{
+  "slug": "komokabras-verde",
+  "name": "KomoKabras Verde",
+  "winery": null,
+  "winery_name": "Adega Entre os Ríos",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Barbanza e Iria",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "KomoKabras Verde es un vino blanco de Adega Entre os Ríos, con la denominación VT Barbanza e Iria, en España.",
+    "en": "KomoKabras Verde is a white wine from Adega Entre os Ríos, made under the VT Barbanza e Iria appellation in Spain.",
+    "fr": "KomoKabras Verde est un vin blanc de Adega Entre os Ríos, élaboré sous l’appellation VT Barbanza e Iria (Espagne).",
+    "it": "KomoKabras Verde è un vino bianco di Adega Entre os Ríos, prodotto nella denominazione VT Barbanza e Iria (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se cría sobre sus lías. Su graduación es de 13 % vol.</p>",
+    "en": "<p>It is aged on its lees. It has 13% ABV.</p>",
+    "fr": "<p>Il est élevé sur lies. Il titre 13 % vol.</p>",
+    "it": "<p>Affina sulle fecce fini. Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "KomoKabras Verde Adega Entre os Ríos",
+  "brief": true,
+  "source": "decantalo"
+}

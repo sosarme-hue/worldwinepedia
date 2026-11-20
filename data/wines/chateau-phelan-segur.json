@@ -1,0 +1,46 @@
+{
+  "slug": "chateau-phelan-segur",
+  "name": "Château Phélan Ségur",
+  "winery": "chateau-phelan-segur",
+  "region": "saint-estephe",
+  "country": "francia",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "cabernet-franc",
+    "petit-verdot"
+  ],
+  "summary": {
+    "es": "Gran vino de Château Phélan Ségur, un Saint-Estèphe de Cabernet Sauvignon y Merlot que une estructura y fruta pulida.",
+    "en": "Grand vin of Château Phélan Ségur, a Saint-Estèphe from Cabernet Sauvignon and Merlot combining structure with polished fruit.",
+    "fr": "Grand vin du Château Phélan Ségur, un saint-estèphe de cabernet sauvignon et de merlot qui allie structure et fruit poli.",
+    "it": "Grand vin di Château Phélan Ségur, un Saint-Estèphe di Cabernet Sauvignon e Merlot che unisce struttura e frutto levigato."
+  },
+  "body": {
+    "es": "<p>El gran vino de <strong>Château Phélan Ségur</strong> procede de las mejores parcelas de la finca en <strong>Saint-Estèphe</strong>, la denominación más septentrional de las grandes comunas del Médoc. Sus suelos de gravas con una proporción importante de arcilla dan vinos de buena estructura y frescor.</p><p>El ensamblaje se basa en <strong>Cabernet Sauvignon y Merlot</strong>, completados en algunas añadas con pequeñas cantidades de Cabernet Franc y Petit Verdot. Cada parcela se vinifica por separado y el vino se cría en barricas de roble francés, una parte de ellas nuevas, antes del ensamblaje final.</p><p>El estilo de la casa busca suavizar la reciedumbre clásica de Saint-Estèphe con una fruta madura y unos taninos pulidos. Es un tinto que puede disfrutarse relativamente pronto, pero que gana complejidad con varios años de guarda en buena bodega.</p>",
+    "en": "<p>The grand vin of <strong>Château Phélan Ségur</strong> comes from the estate’s best plots in <strong>Saint-Estèphe</strong>, the northernmost of the great Médoc communes. Its gravel soils with a significant proportion of clay give wines with good structure and freshness.</p><p>The blend is based on <strong>Cabernet Sauvignon and Merlot</strong>, completed in some vintages with small amounts of Cabernet Franc and Petit Verdot. Each plot is vinified separately and the wine is aged in French oak barrels, part of them new, before the final blend.</p><p>The house style seeks to soften the classic sturdiness of Saint-Estèphe with ripe fruit and polished tannins. It is a red that can be enjoyed relatively early, but gains complexity with several years of cellaring in good conditions.</p>",
+    "fr": "<p>Le grand vin du <strong>Château Phélan Ségur</strong> provient des meilleures parcelles du domaine à <strong>Saint-Estèphe</strong>, la plus septentrionale des grandes communes du Médoc. Ses sols de graves, riches en argile, donnent des vins bien structurés et frais.</p><p>L’assemblage repose sur le <strong>cabernet sauvignon et le merlot</strong>, complétés certaines années par de petites proportions de cabernet franc et de petit verdot. Chaque parcelle est vinifiée séparément et le vin est élevé en barriques de chêne français, dont une partie neuves, avant l’assemblage final.</p><p>Le style de la maison cherche à adoucir la vigueur classique de Saint-Estèphe par un fruit mûr et des tanins polis. C’est un rouge qui peut s’apprécier assez tôt, mais qui gagne en complexité après plusieurs années de garde dans une bonne cave.</p>",
+    "it": "<p>Il grand vin di <strong>Château Phélan Ségur</strong> proviene dalle migliori parcelle della tenuta a <strong>Saint-Estèphe</strong>, il più settentrionale dei grandi comuni del Médoc. I suoli di ghiaia con una quota importante di argilla danno vini ben strutturati e freschi.</p><p>L’assemblaggio si basa su <strong>Cabernet Sauvignon e Merlot</strong>, completati in alcune annate da piccole quantità di Cabernet Franc e Petit Verdot. Ogni parcella è vinificata separatamente e il vino affina in barrique di rovere francese, in parte nuove, prima dell’assemblaggio finale.</p><p>Lo stile della casa cerca di ammorbidire la classica robustezza di Saint-Estèphe con un frutto maturo e tannini levigati. È un rosso che si può gustare relativamente presto, ma che guadagna complessità con diversi anni di affinamento in una buona cantina.</p>"
+  },
+  "tasting": {
+    "es": "Rubí oscuro. Aromas de casis, mora, cedro y notas tostadas suaves. Boca de cuerpo medio a amplio, con taninos firmes pero pulidos y final fresco.",
+    "en": "Deep ruby. Aromas of blackcurrant, blackberry, cedar and gentle toasty notes. Medium- to full-bodied palate with firm yet polished tannins and a fresh finish.",
+    "fr": "Rubis sombre. Arômes de cassis, de mûre, de cèdre et notes toastées discrètes. Bouche de corps moyen à ample, aux tanins fermes mais polis, finale fraîche.",
+    "it": "Rubino scuro. Aromi di ribes nero, mora, cedro e lievi note tostate. Bocca di corpo medio-pieno, con tannini decisi ma levigati e finale fresco."
+  },
+  "pairing": {
+    "es": "Cordero asado, entrecot a la parrilla, caza menor, quesos curados",
+    "en": "Roast lamb, grilled rib-eye, small game, aged cheeses",
+    "fr": "Agneau rôti, entrecôte grillée, petit gibier, fromages affinés",
+    "it": "Agnello arrosto, costata alla griglia, selvaggina minuta, formaggi stagionati"
+  },
+  "serve": {
+    "es": "17-18 °C, copa de Burdeos; decantar en añadas jóvenes",
+    "en": "17-18 °C, Bordeaux glass; decant when young",
+    "fr": "17-18 °C, verre de type bordelais ; carafer dans les millésimes jeunes",
+    "it": "17-18 °C, calice tipo Bordeaux; decantare nelle annate giovani"
+  },
+  "search": "Château Phélan Ségur Saint-Estèphe"
+}

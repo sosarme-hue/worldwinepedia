@@ -1,0 +1,49 @@
+{
+  "slug": "carillon-d-angelus",
+  "name": "Carillon d’Angélus",
+  "winery": "chateau-angelus",
+  "region": "saint-emilion",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Segundo vino",
+    "en": "Second wine",
+    "fr": "Second vin",
+    "it": "Secondo vino"
+  },
+  "grapes": [
+    "merlot",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Segundo vino de Château Angélus, cuyo nombre alude al carillón de la finca, con Merlot y Cabernet Franc y un perfil más afrutado e inmediato.",
+    "en": "The second wine of Château Angélus, named after the estate’s carillon, with Merlot and Cabernet Franc and a fruitier, more immediate profile.",
+    "fr": "Second vin de Château Angélus, dont le nom fait référence au carillon du domaine, avec merlot et cabernet franc et un profil plus fruité et immédiat.",
+    "it": "Secondo vino di Château Angélus, il cui nome allude al carillon della tenuta, con Merlot e Cabernet Franc e un profilo più fruttato e immediato."
+  },
+  "body": {
+    "es": "<p>Carillon d’Angélus es el segundo vino de Château Angélus. Su nombre hace referencia al carillón instalado en la torre de la finca, que retoma el tema de las campanas presente en toda la identidad de la casa. Se elabora con uvas del viñedo de la propiedad en Saint-Émilion, generalmente de viñas más jóvenes o de parcelas cuyo perfil se adapta mejor a un vino de consumo más temprano.</p><p>Como el gran vino, combina <strong>Merlot</strong> y <strong>Cabernet Franc</strong>, aunque la Merlot suele tener un peso mayor; las proporciones varían según la añada. Se cría en barricas de roble francés, con una proporción menor de madera nueva que el gran vino.</p><p>Es un Saint-Émilion de fruta madura y generosa, textura suave y taninos amables, con las notas especiadas propias de la Cabernet Franc. Puede beberse tras pocos años, aunque también admite una guarda moderada.</p>",
+    "en": "<p>Carillon d’Angélus is the second wine of Château Angélus. Its name refers to the carillon installed in the estate’s tower, echoing the bell theme found throughout the house’s identity. It is made from grapes from the property’s vineyard in Saint-Émilion, generally from younger vines or from plots whose profile is better suited to a wine for earlier drinking.</p><p>Like the grand vin, it combines <strong>Merlot</strong> and <strong>Cabernet Franc</strong>, although Merlot usually carries more weight; the proportions vary with the vintage. It is aged in French oak barrels, with a smaller proportion of new wood than the grand vin.</p><p>It is a Saint-Émilion with ripe, generous fruit, a soft texture and gentle tannins, with the spicy notes typical of Cabernet Franc. It can be drunk after a few years, although it also takes moderate cellaring.</p>",
+    "fr": "<p>Carillon d’Angélus est le second vin de Château Angélus. Son nom fait référence au carillon installé dans la tour du domaine, qui reprend le thème des cloches présent dans toute l’identité de la maison. Il est élaboré avec des raisins du vignoble de la propriété à Saint-Émilion, généralement issus de vignes plus jeunes ou de parcelles dont le profil se prête mieux à un vin à boire plus tôt.</p><p>Comme le grand vin, il associe <strong>merlot</strong> et <strong>cabernet franc</strong>, le merlot y ayant généralement un poids plus important ; les proportions varient selon le millésime. Il est élevé en barriques de chêne français, avec une proportion de bois neuf inférieure à celle du grand vin.</p><p>C’est un saint-émilion au fruit mûr et généreux, à la texture souple et aux tanins aimables, avec les notes épicées propres au cabernet franc. Il peut être bu après quelques années, tout en supportant une garde modérée.</p>",
+    "it": "<p>Carillon d’Angélus è il secondo vino di Château Angélus. Il nome fa riferimento al carillon installato nella torre della tenuta, che riprende il tema delle campane presente in tutta l’identità della casa. È prodotto con uve del vigneto della proprietà a Saint-Émilion, in genere da viti più giovani o da parcelle il cui profilo si adatta meglio a un vino da bere prima.</p><p>Come il grand vin, unisce <strong>Merlot</strong> e <strong>Cabernet Franc</strong>, anche se il Merlot ha di solito un peso maggiore; le proporzioni variano secondo l’annata. Affina in barrique di rovere francese, con una quota di legno nuovo inferiore a quella del grand vin.</p><p>È un Saint-Émilion dal frutto maturo e generoso, dalla tessitura morbida e dai tannini gentili, con le note speziate tipiche del Cabernet Franc. Si può bere dopo pochi anni, pur reggendo un affinamento moderato.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de ciruela, cereza madura y especias, con un toque de vainilla. Boca redonda y jugosa, de taninos suaves y final afrutado.",
+    "en": "Intense ruby. Aromas of plum, ripe cherry and spice, with a touch of vanilla. Round, juicy palate with soft tannins and a fruity finish.",
+    "fr": "Rubis intense. Arômes de prune, de cerise mûre et d’épices, avec une touche de vanille. Bouche ronde et juteuse, aux tanins souples, finale fruitée.",
+    "it": "Rubino intenso. Aromi di prugna, ciliegia matura e spezie, con un tocco di vaniglia. Bocca rotonda e succosa, dai tannini morbidi e dal finale fruttato."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, pato asado, guisos de carne, quesos semicurados",
+    "en": "Grilled red meat, roast duck, meat stews, semi-hard cheeses",
+    "fr": "Viandes rouges grillées, canard rôti, ragoûts de viande, fromages à pâte pressée",
+    "it": "Carni rosse alla brace, anatra arrosto, stufati di carne, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-17 °C, copa de tipo Burdeos",
+    "en": "16-17 °C, Bordeaux glass",
+    "fr": "16-17 °C, verre de type bordeaux",
+    "it": "16-17 °C, calice tipo Bordeaux"
+  },
+  "search": "Carillon d’Angélus Saint-Émilion Grand Cru"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "dom-ruinart-rose",
+  "name": "Dom Ruinart Rosé",
+  "winery": "ruinart",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut Rosé Millésimé",
+    "en": "Vintage Brut Rosé",
+    "fr": "Brut Rosé Millésimé",
+    "it": "Brut Rosé Millesimato"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Dom Ruinart Rosé, el champagne rosado de prestigio de Ruinart, elaborado sólo en añadas seleccionadas sobre una base mayoritaria de Chardonnay.",
+    "en": "Dom Ruinart Rosé, Ruinart’s prestige rosé Champagne, made only in selected vintages on a base that is mostly Chardonnay.",
+    "fr": "Dom Ruinart Rosé, le champagne rosé de prestige de Ruinart, élaboré uniquement dans des millésimes choisis sur une base majoritairement de chardonnay.",
+    "it": "Dom Ruinart Rosé, lo champagne rosato di prestigio di Ruinart, prodotto solo in annate selezionate su una base in prevalenza di Chardonnay."
+  },
+  "body": {
+    "es": "<p>Ruinart, fundada en Reims en 1729, está considerada la casa de Champagne más antigua en actividad. Sus vinos se crían en las antiguas <em>crayères</em>, galerías excavadas en la creta bajo la ciudad, y el <strong>Chardonnay</strong> es la variedad que define el estilo de la casa. La gama de prestigio lleva el nombre de Dom Thierry Ruinart, monje benedictino y tío del fundador.</p><p>El Dom Ruinart Rosé parte de una base de Chardonnay, a la que se añade una proporción de vino tinto de <strong>Pinot Noir</strong> que le aporta color y estructura. Sólo se elabora en añadas que la casa considera excepcionales y permanece muchos años sobre sus lías antes de salir al mercado.</p><p>Es un rosado de gran finura, en el que la frescura del Chardonnay se combina con la fruta y la profundidad del Pinot Noir. Con la crianza desarrolla notas especiadas y tostadas, y conserva capacidad para seguir evolucionando en botella.</p>",
+    "en": "<p>Ruinart, founded in Reims in 1729, is considered the oldest Champagne house still in business. Its wines age in the old <em>crayères</em>, galleries dug into the chalk beneath the city, and <strong>Chardonnay</strong> is the variety that defines the house style. The prestige range is named after Dom Thierry Ruinart, a Benedictine monk and the founder’s uncle.</p><p>Dom Ruinart Rosé starts from a Chardonnay base, to which a proportion of red wine from <strong>Pinot Noir</strong> is added to provide colour and structure. It is made only in vintages the house considers exceptional and spends many years on its lees before release.</p><p>It is a rosé of great finesse, in which the freshness of Chardonnay combines with the fruit and depth of Pinot Noir. With age it develops spicy and toasty notes, and it retains the capacity to keep evolving in bottle.</p>",
+    "fr": "<p>Ruinart, fondée à Reims en 1729, est considérée comme la plus ancienne maison de Champagne en activité. Ses vins vieillissent dans les anciennes <em>crayères</em>, galeries creusées dans la craie sous la ville, et le <strong>chardonnay</strong> est le cépage qui définit le style de la maison. La gamme de prestige porte le nom de Dom Thierry Ruinart, moine bénédictin et oncle du fondateur.</p><p>Le Dom Ruinart Rosé part d’une base de chardonnay, à laquelle on ajoute une proportion de vin rouge de <strong>pinot noir</strong> qui lui apporte couleur et structure. Il n’est élaboré que dans les millésimes que la maison juge exceptionnels et repose de nombreuses années sur lies avant sa commercialisation.</p><p>C’est un rosé d’une grande finesse, où la fraîcheur du chardonnay s’associe au fruit et à la profondeur du pinot noir. Avec le temps, il développe des notes épicées et grillées, et conserve la capacité de continuer à évoluer en bouteille.</p>",
+    "it": "<p>Ruinart, fondata a Reims nel 1729, è considerata la più antica casa di Champagne ancora in attività. I suoi vini maturano nelle antiche <em>crayères</em>, gallerie scavate nel gesso sotto la città, e lo <strong>Chardonnay</strong> è il vitigno che definisce lo stile della casa. La gamma di prestigio porta il nome di Dom Thierry Ruinart, monaco benedettino e zio del fondatore.</p><p>Il Dom Ruinart Rosé parte da una base di Chardonnay, a cui si aggiunge una quota di vino rosso di <strong>Pinot Noir</strong> che apporta colore e struttura. È prodotto solo nelle annate che la casa ritiene eccezionali e rimane molti anni sui lieviti prima di essere commercializzato.</p><p>È un rosato di grande finezza, in cui la freschezza dello Chardonnay si unisce al frutto e alla profondità del Pinot Noir. Con l’affinamento sviluppa note speziate e tostate, e conserva la capacità di continuare a evolvere in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rosa asalmonado con reflejos cobrizos. Aromas de fruta roja, cítricos, especias y notas tostadas y de bollería. Boca fina y profunda, de burbuja delicada y final largo.",
+    "en": "Salmon pink with copper hints. Aromas of red fruit, citrus, spice and toasty, pastry notes. Fine, deep palate with delicate bubbles and a long finish.",
+    "fr": "Rose saumoné aux reflets cuivrés. Arômes de fruits rouges, d’agrumes, d’épices et notes grillées et briochées. Bouche fine et profonde, bulle délicate, finale longue.",
+    "it": "Rosa salmone con riflessi ramati. Aromi di frutta rossa, agrumi, spezie e note tostate e di pasticceria. Bocca fine e profonda, perlage delicato e finale lungo."
+  },
+  "pairing": {
+    "es": "Langosta, salmón, pato laqueado, cocina japonesa",
+    "en": "Lobster, salmon, lacquered duck, Japanese cuisine",
+    "fr": "Homard, saumon, canard laqué, cuisine japonaise",
+    "it": "Astice, salmone, anatra laccata, cucina giapponese"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de vino blanco amplia, no flauta",
+    "en": "10-12 °C, wide white wine glass, not a flute",
+    "fr": "10-12 °C, verre à vin blanc ample, pas de flûte",
+    "it": "10-12 °C, calice da vino bianco ampio, non flûte"
+  },
+  "search": "Dom Ruinart Rosé"
+}

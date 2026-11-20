@@ -1,0 +1,45 @@
+{
+  "slug": "torre-muga",
+  "name": "Torre Muga",
+  "winery": "muga",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tempranillo",
+    "carinena",
+    "graciano"
+  ],
+  "summary": {
+    "es": "Tinto de alta gama de Bodegas Muga, en Haro, elaborado con Tempranillo, Mazuelo y Graciano de viñedos propios y criado en barricas de roble francés de su tonelería.",
+    "en": "Top red from Bodegas Muga in Haro, made from Tempranillo, Mazuelo and Graciano from its own vineyards and aged in French oak barrels from its cooperage.",
+    "fr": "Rouge haut de gamme de Bodegas Muga, à Haro, élaboré avec du tempranillo, du mazuelo et du graciano de ses propres vignes et élevé en barriques de chêne français de sa tonnellerie.",
+    "it": "Rosso di punta di Bodegas Muga, a Haro, prodotto con Tempranillo, Mazuelo e Graciano di vigneti propri e affinato in barrique di rovere francese della sua bottaia."
+  },
+  "body": {
+    "es": "<p>Torre Muga es uno de los vinos de mayor ambición de Bodegas Muga y representa la vertiente más moderna de una casa conocida por su estilo tradicional. Se elabora desde comienzos de los años noventa, en añadas seleccionadas, con uva de viñedos propios situados en las faldas de los Montes Obarenes, en el entorno de Haro, en la Rioja Alta.</p><p>La base es el Tempranillo, completado con Mazuelo (Cariñena) y Graciano en proporciones que varían según la añada. Como todos los vinos de la casa, fermenta en grandes tinos de roble, y después se cría en barricas de roble francés fabricadas en la tonelería de la propia bodega, durante un periodo prolongado, seguido de reposo en botella.</p><p>Frente al perfil clásico del Muga Reserva o de Prado Enea, Torre Muga busca mayor concentración, fruta más madura y un uso más marcado del roble francés. Es un tinto pensado para una larga guarda, que se beneficia de la decantación en su juventud.</p>",
+    "en": "<p>Torre Muga is one of Bodegas Muga’s most ambitious wines and represents the more modern side of a house known for its traditional style. It has been made since the early 1990s, in selected vintages, from its own vineyards on the slopes of the Montes Obarenes, around Haro, in Rioja Alta.</p><p>Its basis is Tempranillo, completed by Mazuelo (Carignan) and Graciano in proportions that vary with the vintage. Like all the house wines, it ferments in large oak vats and is then aged in French oak barrels made in the winery’s own cooperage, for an extended period, followed by bottle rest.</p><p>In contrast to the classic profile of Muga Reserva or Prado Enea, Torre Muga seeks greater concentration, riper fruit and a more pronounced use of French oak. It is a red designed for long ageing, which benefits from decanting in its youth.</p>",
+    "fr": "<p>Torre Muga est l’un des vins les plus ambitieux de Bodegas Muga et représente le versant le plus moderne d’une maison connue pour son style traditionnel. Il est élaboré depuis le début des années 1990, les millésimes sélectionnés, avec le raisin de ses propres vignes situées sur les pentes des Montes Obarenes, autour de Haro, dans la Rioja Alta.</p><p>Sa base est le tempranillo, complété par le mazuelo (carignan) et le graciano dans des proportions qui varient selon le millésime. Comme tous les vins de la maison, il fermente dans de grandes cuves en chêne, puis il est élevé en barriques de chêne français fabriquées dans la tonnellerie de la bodega, pendant une longue période, suivie d’un repos en bouteille.</p><p>Face au profil classique du Muga Reserva ou du Prado Enea, Torre Muga recherche davantage de concentration, un fruit plus mûr et un usage plus marqué du chêne français. C’est un rouge conçu pour une longue garde, qui gagne à être carafé dans sa jeunesse.</p>",
+    "it": "<p>Torre Muga è uno dei vini più ambiziosi di Bodegas Muga e rappresenta il versante più moderno di una casa nota per il suo stile tradizionale. Si produce dall’inizio degli anni Novanta, nelle annate selezionate, con uve di vigneti propri situati sulle pendici dei Montes Obarenes, nei dintorni di Haro, nella Rioja Alta.</p><p>La base è il Tempranillo, completato da Mazuelo (Carignano) e Graciano in proporzioni che variano secondo l’annata. Come tutti i vini della casa, fermenta in grandi tini di rovere e affina poi in barrique di rovere francese costruite nella bottaia della cantina, per un periodo prolungato, seguito da un riposo in bottiglia.</p><p>Rispetto al profilo classico del Muga Reserva o del Prado Enea, Torre Muga cerca maggiore concentrazione, frutto più maturo e un uso più marcato del rovere francese. È un rosso pensato per un lungo invecchiamento, che beneficia della decantazione in gioventù.</p>"
+  },
+  "tasting": {
+    "es": "Color picota profundo. Fruta negra madura, regaliz, especias, notas tostadas y balsámicas. En boca es denso y amplio, con taninos maduros y un final largo.",
+    "en": "Deep cherry colour. Ripe black fruit, liquorice, spice, toasty and balsamic notes. Dense and broad on the palate, with ripe tannins and a long finish.",
+    "fr": "Couleur cerise burlat profonde. Fruits noirs mûrs, réglisse, épices, notes toastées et balsamiques. Dense et ample en bouche, aux tanins mûrs et à la finale longue.",
+    "it": "Colore ciliegia profondo. Frutta nera matura, liquirizia, spezie, note tostate e balsamiche. In bocca è denso e ampio, con tannini maturi e un finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, lechazo asado, caza mayor, quesos curados de oveja",
+    "en": "Chargrilled red meat, roast milk-fed lamb, large game, aged sheep’s cheeses",
+    "fr": "Viandes rouges à la braise, agneau de lait rôti, gros gibier, fromages de brebis affinés",
+    "it": "Carni rosse alla brace, agnello da latte arrosto, selvaggina di grossa taglia, pecorini stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Torre Muga Rioja Bodegas Muga"
+}

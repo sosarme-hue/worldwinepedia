@@ -1,0 +1,41 @@
+{
+  "slug": "masi-costasera-amarone",
+  "name": "Masi Costasera Amarone della Valpolicella Classico",
+  "winery": "masi",
+  "region": "valpolicella",
+  "country": "italia",
+  "type": "tinto",
+  "category": {"es": "Amarone della Valpolicella Classico DOCG", "en": "Amarone della Valpolicella Classico DOCG", "fr": "Amarone della Valpolicella Classico DOCG", "it": "Amarone della Valpolicella Classico DOCG"},
+  "grapes": ["corvina"],
+  "summary": {
+    "es": "El Amarone clásico de Masi, elaborado con uvas secadas en cañizos procedentes de laderas orientadas hacia el lago de Garda.",
+    "en": "Masi’s classic Amarone, made from grapes dried on racks, from slopes facing Lake Garda.",
+    "fr": "L’Amarone classique de Masi, élaboré avec des raisins séchés sur claies, issus de coteaux tournés vers le lac de Garde.",
+    "it": "L’Amarone classico di Masi, prodotto con uve appassite su graticci provenienti da pendii rivolti verso il lago di Garda."
+  },
+  "body": {
+    "es": "<p>Costasera significa «ladera de la tarde» y alude a la orientación de los viñedos de la zona clásica de la Valpolicella de los que procede este Amarone: laderas expuestas al sol del atardecer y orientadas hacia el lago de Garda, cuyo reflejo y cuya influencia templada favorecen la maduración.</p><p>Se elabora con Corvina, Rondinella y Molinara, variedades tradicionales de la zona. Tras la vendimia, las uvas se secan durante varios meses sobre cañizos de bambú en locales ventilados, siguiendo la técnica del appassimento en la que Masi está especializada. Después se prensan y fermentan hasta obtener un vino seco, que se cría en madera de roble antes del embotellado.</p><p>Es un Amarone de estilo clásico, rico y potente, con aromas de fruta pasificada y una estructura que le permite evolucionar durante muchos años.</p>",
+    "en": "<p>Costasera means “evening slope” and refers to the aspect of the vineyards in the classic Valpolicella zone from which this Amarone comes: slopes exposed to the setting sun and facing Lake Garda, whose reflected light and moderating influence favour ripening.</p><p>It is made from Corvina, Rondinella and Molinara, the area’s traditional varieties. After the harvest the grapes are dried for several months on bamboo racks in ventilated lofts, following the appassimento technique in which Masi specialises. They are then pressed and fermented to a dry wine, which is aged in oak before bottling.</p><p>It is a classically styled Amarone, rich and powerful, with dried-fruit aromas and a structure that allows it to evolve for many years.</p>",
+    "fr": "<p>Costasera signifie « coteau du soir » et évoque l’exposition des vignes de la zone classique de la Valpolicella dont provient cet Amarone : des coteaux tournés vers le soleil couchant et vers le lac de Garde, dont le reflet et l’influence modératrice favorisent la maturation.</p><p>Il est élaboré avec de la corvina, de la rondinella et de la molinara, cépages traditionnels de la zone. Après la vendange, les raisins sèchent pendant plusieurs mois sur des claies de bambou dans des greniers ventilés, selon la technique de l’appassimento dans laquelle Masi s’est spécialisée. Ils sont ensuite pressés et fermentés jusqu’à obtenir un vin sec, élevé en chêne avant la mise en bouteille.</p><p>C’est un Amarone de style classique, riche et puissant, aux arômes de fruits passerillés et à la structure qui lui permet d’évoluer de nombreuses années.</p>",
+    "it": "<p>Costasera significa “costa della sera” e richiama l’esposizione dei vigneti della zona classica della Valpolicella da cui nasce questo Amarone: pendii esposti al sole del tramonto e rivolti verso il lago di Garda, il cui riflesso e la cui influenza mitigatrice favoriscono la maturazione.</p><p>È prodotto con Corvina, Rondinella e Molinara, varietà tradizionali della zona. Dopo la vendemmia le uve appassiscono per diversi mesi su graticci di bambù in fruttai ventilati, secondo la tecnica dell’appassimento in cui Masi è specializzata. Vengono poi pigiate e fermentate fino a ottenere un vino secco, che affina in rovere prima dell’imbottigliamento.</p><p>È un Amarone di stile classico, ricco e potente, con profumi di frutta appassita e una struttura che gli consente di evolvere per molti anni.</p>"
+  },
+  "tasting": {
+    "es": "Granate oscuro. Aromas de ciruela pasa, cereza en licor, pasas y especias, con notas de cacao y café. En boca es amplio, cálido y envolvente, con tanino maduro y un final largo.",
+    "en": "Dark garnet. Aromas of prune, cherry liqueur, raisins and spice, with notes of cocoa and coffee. Broad, warm and enveloping on the palate, with ripe tannins and a long finish.",
+    "fr": "Grenat sombre. Arômes de pruneau, de cerise à l’eau-de-vie, de raisins secs et d’épices, avec des notes de cacao et de café. En bouche, il est ample, chaleureux et enveloppant, aux tanins mûrs et à la finale longue.",
+    "it": "Granato scuro. Profumi di prugna secca, ciliegia sotto spirito, uvetta e spezie, con note di cacao e caffè. In bocca è ampio, caldo e avvolgente, con tannino maturo e finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas estofadas, caza, platos especiados, quesos curados y azules",
+    "en": "Braised red meat, game, spiced dishes, aged and blue cheeses",
+    "fr": "Viandes rouges braisées, gibier, plats épicés, fromages affinés et persillés",
+    "it": "Carni rosse brasate, selvaggina, piatti speziati, formaggi stagionati ed erborinati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia; se beneficia de la decantación",
+    "en": "16-18 °C, large glass; benefits from decanting",
+    "fr": "16-18 °C, verre ample ; gagne à être carafé",
+    "it": "16-18 °C, calice ampio; trae beneficio dalla decantazione"
+  },
+  "search": "Masi Costasera Amarone Classico"
+}

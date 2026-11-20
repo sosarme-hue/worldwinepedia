@@ -1,0 +1,50 @@
+{
+  "slug": "veuve-clicquot-vintage-rose",
+  "name": "Veuve Clicquot Vintage Rosé",
+  "winery": "veuve-clicquot",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut millésimé",
+    "en": "Vintage Brut",
+    "fr": "Brut millésimé",
+    "it": "Brut millesimato"
+  },
+  "grapes": [
+    "pinot-noir",
+    "chardonnay",
+    "pinot-meunier"
+  ],
+  "summary": {
+    "es": "Champagne rosado de añada de Veuve Clicquot, elaborado por ensamblaje con vino tinto de Pinot Noir y sólo en los mejores años.",
+    "en": "Vintage rosé Champagne from Veuve Clicquot, made by blending in red Pinot Noir wine and produced only in the best years.",
+    "fr": "Champagne rosé millésimé de Veuve Clicquot, élaboré par assemblage avec du vin rouge de pinot noir et produit seulement les meilleures années.",
+    "it": "Champagne rosé millesimato di Veuve Clicquot, prodotto per assemblaggio con vino rosso di Pinot Nero e solo nelle annate migliori."
+  },
+  "body": {
+    "es": "<p>El Vintage Rosé es la versión rosada del champán de añada de Veuve Clicquot. A diferencia del Rosé sin añada de la casa, sólo se elabora con uvas de una única vendimia y en los años que la bodega considera de calidad suficiente para declarar una añada.</p><p>Sigue el método que la casa asocia a Madame Clicquot, que a principios del siglo XIX elaboró uno de los primeros champanes rosados <strong>por ensamblaje</strong>: a un vino base blanco se le añade una proporción de vino tinto tranquilo de <strong>Pinot Noir</strong> procedente de parcelas de la Montaña de Reims. El ensamblaje está dominado por la Pinot Noir, completada con Chardonnay y algo de Pinot Meunier, en proporciones que varían según la añada.</p><p>Tras la segunda fermentación en botella, el vino permanece varios años sobre sus lías antes del degüelle, más tiempo que los champanes sin añada. El resultado es un rosado de estructura firme y aromas más complejos, que conserva la potencia característica del estilo Clicquot y puede evolucionar en botella.</p>",
+    "en": "<p>Vintage Rosé is the rosé version of Veuve Clicquot’s vintage Champagne. Unlike the house’s non-vintage Rosé, it is made only from grapes of a single harvest and only in years the house considers good enough to declare a vintage.</p><p>It follows the method the house associates with Madame Clicquot, who in the early 19th century made one of the first rosé Champagnes <strong>by blending</strong>: a proportion of still red <strong>Pinot Noir</strong> wine from plots on the Montagne de Reims is added to a white base wine. The blend is dominated by Pinot Noir, completed by Chardonnay and some Pinot Meunier, in proportions that vary with the vintage.</p><p>After the second fermentation in bottle, the wine spends several years on its lees before disgorgement, longer than non-vintage Champagnes. The result is a rosé with firm structure and more complex aromas, which keeps the power characteristic of the Clicquot style and can evolve in bottle.</p>",
+    "fr": "<p>Le Vintage Rosé est la version rosée du champagne millésimé de Veuve Clicquot. Contrairement au Rosé non millésimé de la maison, il n’est élaboré qu’avec des raisins d’une seule vendange et seulement les années que la maison juge dignes d’un millésime.</p><p>Il suit la méthode que la maison associe à Madame Clicquot, qui élabora au début du XIXe siècle l’un des premiers champagnes rosés <strong>d’assemblage</strong> : on ajoute à un vin de base blanc une proportion de vin rouge tranquille de <strong>pinot noir</strong> issu de parcelles de la Montagne de Reims. L’assemblage est dominé par le pinot noir, complété par du chardonnay et un peu de pinot meunier, dans des proportions qui varient selon le millésime.</p><p>Après la seconde fermentation en bouteille, le vin reste plusieurs années sur lies avant le dégorgement, plus longtemps que les champagnes non millésimés. Le résultat est un rosé à la structure ferme et aux arômes plus complexes, qui conserve la puissance caractéristique du style Clicquot et peut évoluer en bouteille.</p>",
+    "it": "<p>Il Vintage Rosé è la versione rosata dello Champagne millesimato di Veuve Clicquot. A differenza del Rosé senza annata della casa, è prodotto solo con uve di una singola vendemmia e soltanto negli anni che la maison considera degni di un millesimo.</p><p>Segue il metodo che la casa associa a Madame Clicquot, che all’inizio del XIX secolo produsse uno dei primi Champagne rosati <strong>per assemblaggio</strong>: a un vino base bianco si aggiunge una quota di vino rosso fermo di <strong>Pinot Nero</strong> proveniente da parcelle della Montagne de Reims. L’assemblaggio è dominato dal Pinot Nero, completato da Chardonnay e da un po’ di Pinot Meunier, in proporzioni che variano secondo l’annata.</p><p>Dopo la seconda fermentazione in bottiglia, il vino resta diversi anni sui lieviti prima della sboccatura, più a lungo degli Champagne senza annata. Il risultato è un rosato dalla struttura salda e dagli aromi più complessi, che conserva la potenza caratteristica dello stile Clicquot e può evolvere in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rosa salmón. Aromas de frutos rojos maduros, cereza, notas de bollería y especias suaves. Boca estructurada y vinosa, de burbuja fina y final largo.",
+    "en": "Salmon pink. Aromas of ripe red fruit, cherry, pastry notes and gentle spice. Structured, vinous palate with fine bubbles and a long finish.",
+    "fr": "Rose saumoné. Arômes de fruits rouges mûrs, de cerise, notes de viennoiserie et d’épices douces. Bouche structurée et vineuse, à la bulle fine, finale longue.",
+    "it": "Rosa salmone. Aromi di frutti rossi maturi, ciliegia, note di pasticceria e spezie delicate. Bocca strutturata e vinosa, perlage fine e finale lungo."
+  },
+  "pairing": {
+    "es": "Salmón, atún, pato, cocina japonesa, postres de frutos rojos poco dulces",
+    "en": "Salmon, tuna, duck, Japanese cuisine, lightly sweet red-fruit desserts",
+    "fr": "Saumon, thon, canard, cuisine japonaise, desserts aux fruits rouges peu sucrés",
+    "it": "Salmone, tonno, anatra, cucina giapponese, dessert ai frutti rossi poco dolci"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco o tulipa",
+    "en": "8-10 °C, white wine or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da vino bianco o a tulipano"
+  },
+  "search": "Veuve Clicquot Vintage Rosé"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "montes-alpha-chardonnay",
+  "name": "Montes Alpha Chardonnay",
+  "winery": "montes",
+  "winery_name": null,
+  "region": "casablanca",
+  "country": "chile",
+  "appellation": "DO Casablanca Valley",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Montes Alpha Chardonnay es un vino blanco de Viña Montes, con la denominación DO Casablanca Valley, en Chile.",
+    "en": "Montes Alpha Chardonnay is a white wine from Viña Montes, made under the DO Casablanca Valley appellation in Chile.",
+    "fr": "Montes Alpha Chardonnay est un vin blanc de Viña Montes, élaboré sous l’appellation DO Casablanca Valley (Chili).",
+    "it": "Montes Alpha Chardonnay è un vino bianco di Viña Montes, prodotto nella denominazione DO Casablanca Valley (Cile)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Chardonnay. Tiene crianza en madera. Su graduación es de 13 % vol.</p><p>Viña chilena creada a finales de los años ochenta por el enólogo Aurelio Montes y tres socios. Con sede en Apalta, en el valle de Colchagua, es conocida por tintos como Montes Alpha M, Purple Angel y Folly.</p><p>El valle de Casablanca, entre Santiago y Valparaíso, fue la primera gran zona costera fría de la viticultura chilena. Es conocido por sus Sauvignon Blanc, Chardonnay y Pinot Noir.</p>",
+    "en": "<p>It is made from Chardonnay. It is aged in wood. It has 13% ABV.</p><p>Chilean winery created in the late 1980s by the winemaker Aurelio Montes and three partners. Based in Apalta, in the Colchagua Valley, it is known for reds such as Montes Alpha M, Purple Angel and Folly.</p><p>The Casablanca Valley, between Santiago and Valparaíso, was the first major cool coastal area in Chilean viticulture. It is known for its Sauvignon Blanc, Chardonnay and Pinot Noir.</p>",
+    "fr": "<p>Il est élaboré à partir de Chardonnay. Il est élevé en bois. Il titre 13 % vol.</p><p>Domaine chilien créé à la fin des années 1980 par l’œnologue Aurelio Montes et trois associés. Installé à Apalta, dans la vallée de Colchagua, il est connu pour des rouges comme Montes Alpha M, Purple Angel et Folly.</p><p>La vallée de Casablanca, entre Santiago et Valparaíso, fut la première grande zone côtière fraîche de la viticulture chilienne. Elle est réputée pour ses sauvignons blancs, chardonnays et pinots noirs.</p>",
+    "it": "<p>È prodotto con Chardonnay. È affinato in legno. Ha 13% vol.</p><p>Azienda cilena creata alla fine degli anni Ottanta dall’enologo Aurelio Montes e da tre soci. Con sede ad Apalta, nella valle di Colchagua, è nota per rossi come Montes Alpha M, Purple Angel e Folly.</p><p>La valle di Casablanca, tra Santiago e Valparaíso, è stata la prima grande zona costiera fresca della viticoltura cilena. È nota per i suoi Sauvignon Blanc, Chardonnay e Pinot Nero.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Montes Alpha Chardonnay Montes Wines",
+  "brief": true,
+  "source": "decantalo"
+}

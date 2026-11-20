@@ -1,0 +1,42 @@
+{
+  "slug": "aroa-mutiko",
+  "name": "Aroa Mutiko",
+  "winery": null,
+  "winery_name": "Aroa Bodegas",
+  "region": "navarra",
+  "country": "espana",
+  "appellation": "DO Navarra",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Aroa Mutiko es un vino tinto de Aroa Bodegas, con la denominación DO Navarra, en España.",
+    "en": "Aroa Mutiko is a red wine from Aroa Bodegas, made under the DO Navarra appellation in Spain.",
+    "fr": "Aroa Mutiko est un vin rouge de Aroa Bodegas, élaboré sous l’appellation DO Navarra (Espagne).",
+    "it": "Aroa Mutiko è un vino rosso di Aroa Bodegas, prodotto nella denominazione DO Navarra (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 13,5 % vol.</p><p>Navarra es una de las denominaciones de origen más antiguas de España, con cinco subzonas que van desde los valles prepirenaicos hasta la Ribera del Ebro. Fue tradicionalmente famosa por sus rosados de Garnacha y hoy elabora una gama amplia de tintos, blancos y vinos dulces de Moscatel.</p>",
+    "en": "<p>It is made from Grenache. It is a young wine, meant to be drunk in its first years. It has 13.5% ABV.</p><p>Navarra is one of Spain's oldest designations of origin, with five subzones ranging from the pre-Pyrenean valleys to the Ebro plain. It was traditionally famous for its Grenache rosés and now produces a wide range of reds, whites and sweet Moscatel wines.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. C’est un vin jeune, à boire dans ses premières années. Il titre 13,5 % vol.</p><p>La Navarre est l'une des plus anciennes dénominations d'origine d'Espagne, avec cinq sous-zones allant des vallées pré-pyrénéennes à la plaine de l'Èbre. Traditionnellement réputée pour ses rosés de grenache, elle produit aujourd'hui une large gamme de rouges, de blancs et de vins doux de muscat.</p>",
+    "it": "<p>È prodotto con Grenache. È un vino giovane, da bere nei primi anni. Ha 13,5% vol.</p><p>La Navarra è una delle denominazioni di origine più antiche della Spagna, con cinque sottozone che vanno dalle valli prepirenaiche alla pianura dell'Ebro. Tradizionalmente famosa per i rosati di Garnacha, oggi produce un'ampia gamma di rossi, bianchi e vini dolci di Moscato.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Aroa Mutiko Aroa Bodegas",
+  "brief": true,
+  "source": "decantalo"
+}

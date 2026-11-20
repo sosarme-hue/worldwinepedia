@@ -1,0 +1,49 @@
+{
+  "slug": "chateau-le-boscq",
+  "name": "Château Le Boscq",
+  "winery": "dourthe",
+  "region": "saint-estephe",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Cru Bourgeois Exceptionnel",
+    "en": "Cru Bourgeois Exceptionnel",
+    "fr": "Cru Bourgeois Exceptionnel",
+    "it": "Cru Bourgeois Exceptionnel"
+  },
+  "grapes": [
+    "merlot",
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "Tinto de Saint-Estèphe propiedad de Dourthe, clasificado como Cru Bourgeois Exceptionnel, a partir de Merlot y Cabernet Sauvignon.",
+    "en": "Saint-Estèphe red owned by Dourthe and classified as Cru Bourgeois Exceptionnel, made from Merlot and Cabernet Sauvignon.",
+    "fr": "Rouge de Saint-Estèphe appartenant à Dourthe, classé Cru Bourgeois Exceptionnel, issu de merlot et de cabernet-sauvignon.",
+    "it": "Rosso di Saint-Estèphe di proprietà di Dourthe, classificato Cru Bourgeois Exceptionnel, da Merlot e Cabernet Sauvignon."
+  },
+  "body": {
+    "es": "<p>Château Le Boscq se sitúa en el norte de la denominación <strong>Saint-Estèphe</strong>, la más septentrional de las grandes denominaciones municipales del Médoc, en un terreno próximo al estuario de la Gironda. Pertenece a Dourthe, que lo explota desde los años noventa, y figura en la categoría superior, Exceptionnel, de la clasificación de los Crus Bourgeois du Médoc.</p><p>El viñedo, de gravas sobre un subsuelo con presencia de arcilla y caliza, está plantado sobre todo con <strong>Merlot</strong> y <strong>Cabernet Sauvignon</strong>, completados con otras variedades bordelesas. El vino se cría en barricas de roble, con una proporción de madera nueva, y el ensamblaje varía según la añada.</p><p>Como muchos Saint-Estèphe, es un tinto de buena estructura y frescura, aunque la presencia de Merlot le aporta una textura más redonda y una fruta generosa. Puede disfrutarse relativamente joven y evoluciona bien durante algunos años en botella.</p>",
+    "en": "<p>Château Le Boscq lies in the north of the <strong>Saint-Estèphe</strong> appellation, the northernmost of the great communal appellations of the Médoc, on land close to the Gironde estuary. It belongs to Dourthe, which has run it since the 1990s, and it is ranked in the top tier, Exceptionnel, of the Crus Bourgeois du Médoc classification.</p><p>The vineyard, on gravel over a subsoil containing clay and limestone, is planted mainly with <strong>Merlot</strong> and <strong>Cabernet Sauvignon</strong>, complemented by other Bordeaux varieties. The wine is aged in oak barrels, including a proportion of new wood, and the blend varies with the vintage.</p><p>Like many Saint-Estèphe wines, it is a red of good structure and freshness, though the Merlot gives it a rounder texture and generous fruit. It can be enjoyed relatively young and develops well over several years in bottle.</p>",
+    "fr": "<p>Château Le Boscq se situe au nord de l’appellation <strong>Saint-Estèphe</strong>, la plus septentrionale des grandes appellations communales du Médoc, sur des terres proches de l’estuaire de la Gironde. Il appartient à Dourthe, qui l’exploite depuis les années 1990, et figure dans la catégorie supérieure, Exceptionnel, du classement des Crus Bourgeois du Médoc.</p><p>Le vignoble, de graves sur un sous-sol comportant argile et calcaire, est planté surtout en <strong>merlot</strong> et en <strong>cabernet-sauvignon</strong>, complétés par d’autres cépages bordelais. Le vin est élevé en barriques de chêne, avec une part de bois neuf, et l’assemblage varie selon le millésime.</p><p>Comme beaucoup de saint-estèphe, c’est un rouge d’une bonne structure et d’une belle fraîcheur, même si le merlot lui apporte une texture plus ronde et un fruit généreux. Il peut s’apprécier assez jeune et évolue bien pendant plusieurs années en bouteille.</p>",
+    "it": "<p>Château Le Boscq si trova nel nord della denominazione <strong>Saint-Estèphe</strong>, la più settentrionale delle grandi denominazioni comunali del Médoc, su terreni vicini all’estuario della Gironda. Appartiene a Dourthe, che lo gestisce dagli anni Novanta, e figura nella categoria superiore, Exceptionnel, della classificazione dei Crus Bourgeois du Médoc.</p><p>Il vigneto, di ghiaie su un sottosuolo con presenza di argilla e calcare, è piantato soprattutto a <strong>Merlot</strong> e <strong>Cabernet Sauvignon</strong>, completati da altre varietà bordolesi. Il vino matura in barrique di rovere, con una quota di legno nuovo, e l’uvaggio varia secondo l’annata.</p><p>Come molti Saint-Estèphe, è un rosso di buona struttura e freschezza, anche se il Merlot gli conferisce una trama più rotonda e un frutto generoso. Si può apprezzare relativamente giovane ed evolve bene per diversi anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Granate oscuro. Aromas de ciruela, mora, grosella negra y notas tostadas. Boca redonda pero firme, con taninos bien integrados.",
+    "en": "Dark garnet. Aromas of plum, blackberry, blackcurrant and toasty notes. Round yet firm palate with well-integrated tannins.",
+    "fr": "Grenat sombre. Arômes de prune, de mûre, de cassis et notes grillées. Bouche ronde mais ferme, aux tanins bien intégrés.",
+    "it": "Granato scuro. Aromi di prugna, mora, ribes nero e note tostate. Bocca rotonda ma decisa, con tannini ben integrati."
+  },
+  "pairing": {
+    "es": "Cordero asado, entrecot, magret de pato, caza, quesos curados",
+    "en": "Roast lamb, rib-eye steak, duck breast, game, aged cheeses",
+    "fr": "Agneau rôti, entrecôte, magret de canard, gibier, fromages affinés",
+    "it": "Agnello arrosto, costata, petto d’anatra, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia tipo Burdeos",
+    "en": "16-18 °C, large Bordeaux glass",
+    "fr": "16-18 °C, grand verre de type bordelais",
+    "it": "16-18 °C, calice ampio tipo Bordeaux"
+  },
+  "search": "Château Le Boscq Saint-Estèphe"
+}

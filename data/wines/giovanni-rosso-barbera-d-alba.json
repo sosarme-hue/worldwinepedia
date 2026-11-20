@@ -1,0 +1,40 @@
+{
+  "slug": "giovanni-rosso-barbera-d-alba",
+  "name": "Giovanni Rosso Barbera d'Alba",
+  "winery": null,
+  "winery_name": "Giovanni Rosso",
+  "region": null,
+  "country": "italia",
+  "appellation": "DOC Barbera d'Alba",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Giovanni Rosso Barbera d'Alba es un vino tinto de Giovanni Rosso, con la denominación DOC Barbera d'Alba, en Italia.",
+    "en": "Giovanni Rosso Barbera d'Alba is a red wine from Giovanni Rosso, made under the DOC Barbera d'Alba appellation in Italy.",
+    "fr": "Giovanni Rosso Barbera d'Alba est un vin rouge de Giovanni Rosso, élaboré sous l’appellation DOC Barbera d'Alba (Italie).",
+    "it": "Giovanni Rosso Barbera d'Alba è un vino rosso di Giovanni Rosso, prodotto nella denominazione DOC Barbera d'Alba (Italia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13,5 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Giovanni Rosso Barbera d'Alba Giovanni Rosso",
+  "brief": true,
+  "source": "decantalo"
+}

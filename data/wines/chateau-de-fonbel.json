@@ -1,0 +1,40 @@
+{
+  "slug": "chateau-de-fonbel",
+  "name": "Château de Fonbel",
+  "winery": null,
+  "winery_name": "Château de Fonbel",
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Saint-Émilion Grand Cru",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Château de Fonbel es un vino tinto de Château de Fonbel, con la denominación AOC Saint-Émilion Grand Cru, en Francia.",
+    "en": "Château de Fonbel is a red wine from Château de Fonbel, made under the AOC Saint-Émilion Grand Cru appellation in France.",
+    "fr": "Château de Fonbel est un vin rouge de Château de Fonbel, élaboré sous l’appellation AOC Saint-Émilion Grand Cru (France).",
+    "it": "Château de Fonbel è un vino rosso di Château de Fonbel, prodotto nella denominazione AOC Saint-Émilion Grand Cru (Francia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13,5 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Château de Fonbel Château de Fonbel",
+  "brief": true,
+  "source": "decantalo"
+}

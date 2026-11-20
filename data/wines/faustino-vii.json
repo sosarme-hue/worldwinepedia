@@ -1,0 +1,43 @@
+{
+  "slug": "faustino-vii",
+  "name": "Faustino VII",
+  "winery": "bodegas-faustino",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Tinto de Rioja joven y de gran difusión de Bodegas Faustino, elaborado sobre todo con Tempranillo para un consumo cotidiano.",
+    "en": "Young, widely sold Rioja red from Bodegas Faustino, made mainly from Tempranillo for everyday drinking.",
+    "fr": "Rouge de Rioja jeune et très diffusé de Bodegas Faustino, élaboré surtout avec du tempranillo pour une consommation quotidienne.",
+    "it": "Rosso della Rioja giovane e molto diffuso di Bodegas Faustino, prodotto soprattutto con Tempranillo per il consumo quotidiano."
+  },
+  "body": {
+    "es": "<p>Faustino VII es el vino de entrada de la gama clásica de Bodegas Faustino y uno de los riojas más vendidos en supermercados españoles. Su nombre sigue la numeración romana con la que la casa identifica sus vinos, en la que el número más bajo corresponde al de mayor crianza, el Faustino I Gran Reserva.</p><p>Se elabora principalmente con Tempranillo, a veces con pequeñas proporciones de otras variedades autorizadas, con uva de viñedos de distintas zonas de la Denominación de Origen Calificada Rioja. A diferencia de sus hermanos mayores, no se somete a una crianza larga: es un tinto de estilo joven, que conserva la fruta fresca de la variedad y puede tener un breve contacto con la madera según la versión y la añada.</p><p>El resultado es un rioja sencillo y afrutado, de cuerpo ligero a medio, pensado para beberse en los primeros años y para acompañar platos cotidianos.</p>",
+    "en": "<p>Faustino VII is the entry-level wine of Bodegas Faustino’s classic range and one of the best-selling Riojas in Spanish supermarkets. Its name follows the Roman numbering with which the house identifies its wines, in which the lowest number corresponds to the longest-aged, the Faustino I Gran Reserva.</p><p>It is made mainly from Tempranillo, sometimes with small proportions of other authorised varieties, from vineyards in different parts of the Rioja Denominación de Origen Calificada. Unlike its older siblings, it does not undergo long ageing: it is a young-style red that keeps the variety’s fresh fruit and may have brief contact with oak depending on the version and vintage.</p><p>The result is a simple, fruity Rioja, light to medium in body, designed to be drunk in its first years and to accompany everyday dishes.</p>",
+    "fr": "<p>Faustino VII est le vin d’entrée de la gamme classique de Bodegas Faustino et l’un des riojas les plus vendus dans les supermarchés espagnols. Son nom suit la numérotation romaine par laquelle la maison identifie ses vins, le plus petit chiffre correspondant au plus long élevage, le Faustino I Gran Reserva.</p><p>Il est élaboré principalement avec du tempranillo, parfois avec de petites proportions d’autres cépages autorisés, à partir de vignes de différents secteurs de la Denominación de Origen Calificada Rioja. Contrairement à ses aînés, il ne connaît pas de long élevage : c’est un rouge de style jeune, qui garde le fruit frais du cépage et peut avoir un bref contact avec le bois selon la version et le millésime.</p><p>Il en résulte un rioja simple et fruité, de corps léger à moyen, conçu pour être bu dans ses premières années et pour accompagner les plats du quotidien.</p>",
+    "it": "<p>Faustino VII è il vino d’ingresso della gamma classica di Bodegas Faustino e uno dei Rioja più venduti nei supermercati spagnoli. Il nome segue la numerazione romana con cui la casa identifica i suoi vini, in cui il numero più basso corrisponde a quello di affinamento più lungo, il Faustino I Gran Reserva.</p><p>È prodotto principalmente con Tempranillo, talvolta con piccole percentuali di altre varietà autorizzate, da vigneti di diverse zone della Denominación de Origen Calificada Rioja. A differenza dei fratelli maggiori, non è sottoposto a un lungo affinamento: è un rosso di stile giovane, che conserva il frutto fresco del vitigno e può avere un breve contatto con il legno a seconda della versione e dell’annata.</p><p>Il risultato è un Rioja semplice e fruttato, di corpo leggero o medio, pensato per essere bevuto nei primi anni e per accompagnare i piatti di tutti i giorni.</p>"
+  },
+  "tasting": {
+    "es": "Rojo cereza con reflejos violáceos. Aromas de fruta roja fresca, como fresa y cereza. En boca es ligero, afrutado y de taninos suaves.",
+    "en": "Cherry red with violet tints. Aromas of fresh red fruit such as strawberry and cherry. Light, fruity and soft-tannined on the palate.",
+    "fr": "Rouge cerise aux reflets violacés. Arômes de fruits rouges frais, comme la fraise et la cerise. En bouche, il est léger, fruité et aux tanins souples.",
+    "it": "Rosso ciliegia con riflessi violacei. Aromi di frutta rossa fresca, come fragola e ciliegia. In bocca è leggero, fruttato e dai tannini morbidi."
+  },
+  "pairing": {
+    "es": "Tapas, embutidos, carnes a la plancha, arroces de carne, pasta",
+    "en": "Tapas, charcuterie, grilled meat, meat rice dishes, pasta",
+    "fr": "Tapas, charcuterie, viandes à la plancha, riz à la viande, pâtes",
+    "it": "Tapas, salumi, carni alla piastra, risi con carne, pasta"
+  },
+  "serve": {
+    "es": "14-16 °C, copa de tinto",
+    "en": "14-16 °C, red wine glass",
+    "fr": "14-16 °C, verre à vin rouge",
+    "it": "14-16 °C, calice da rosso"
+  },
+  "search": "Faustino VII Rioja tinto"
+}

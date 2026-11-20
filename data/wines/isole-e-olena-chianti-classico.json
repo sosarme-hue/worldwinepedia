@@ -1,0 +1,48 @@
+{
+  "slug": "isole-e-olena-chianti-classico",
+  "name": "Isole e Olena Chianti Classico",
+  "winery": "isole-e-olena",
+  "region": "chianti-classico",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "Chianti Classico DOCG",
+    "en": "Chianti Classico DOCG",
+    "fr": "Chianti Classico DOCG",
+    "it": "Chianti Classico DOCG"
+  },
+  "grapes": [
+    "sangiovese"
+  ],
+  "summary": {
+    "es": "Chianti Classico de Isole e Olena, basado en la Sangiovese de los viñedos de altitud de la finca, de estilo fresco y elegante.",
+    "en": "Chianti Classico from Isole e Olena, based on Sangiovese from the estate’s high vineyards, fresh and elegant in style.",
+    "fr": "Chianti classico d’Isole e Olena, à base de sangiovese des vignes d’altitude du domaine, au style frais et élégant.",
+    "it": "Chianti Classico di Isole e Olena, a base di Sangiovese dei vigneti d’altura della tenuta, dallo stile fresco ed elegante."
+  },
+  "body": {
+    "es": "<p>El <strong>Chianti Classico</strong> es el vino principal de Isole e Olena, la finca situada en el extremo occidental de la denominación, en Barberino Tavarnelle. Durante décadas, bajo la dirección de Paolo De Marchi, se convirtió en uno de los ejemplos más citados del Chianti Classico de perfil clásico, centrado en la frescura y la elegancia de la <strong>Sangiovese</strong>.</p><p>Se elabora mayoritariamente con Sangiovese, completada con pequeñas proporciones de otras variedades tintas cultivadas en la finca, como la Canaiolo, según la añada. Los viñedos, en laderas relativamente altas sobre suelos de galestro y alberese, dan uvas de maduración lenta y buena acidez. El vino se cría en toneles y barricas de roble, sin que la madera domine.</p><p>Es un tinto de cuerpo medio, con cereza ácida, frutos rojos, violeta y notas especiadas, acidez viva y taninos finos. Se disfruta joven y evoluciona bien durante varios años.</p>",
+    "en": "<p><strong>Chianti Classico</strong> is the main wine of Isole e Olena, the estate at the western edge of the appellation, in Barberino Tavarnelle. For decades, under Paolo De Marchi’s direction, it became one of the most frequently cited examples of classic-style Chianti Classico, centred on the freshness and elegance of <strong>Sangiovese</strong>.</p><p>It is made mostly from Sangiovese, complemented by small proportions of other red varieties grown on the estate, such as Canaiolo, depending on the vintage. The vineyards, on relatively high slopes with galestro and alberese soils, give slow-ripening grapes with good acidity. The wine is aged in oak casks and barrels without the wood dominating.</p><p>It is a medium-bodied red with sour cherry, red berries, violet and spicy notes, lively acidity and fine tannins. It is enjoyable young and develops well over several years.</p>",
+    "fr": "<p>Le <strong>chianti classico</strong> est le vin principal d’Isole e Olena, le domaine situé à l’extrémité occidentale de l’appellation, à Barberino Tavarnelle. Pendant des décennies, sous la direction de Paolo De Marchi, il est devenu l’un des exemples les plus cités du chianti classico de style classique, centré sur la fraîcheur et l’élégance du <strong>sangiovese</strong>.</p><p>Il est élaboré majoritairement à partir de sangiovese, complété par de petites proportions d’autres cépages rouges cultivés au domaine, comme le canaiolo, selon le millésime. Les vignes, sur des coteaux relativement élevés aux sols de galestro et d’alberese, donnent des raisins à maturation lente et à la bonne acidité. Le vin est élevé en foudres et en barriques de chêne, sans que le bois domine.</p><p>C’est un rouge de corps moyen, aux notes de griotte, de fruits rouges, de violette et d’épices, à l’acidité vive et aux tanins fins. Il se savoure jeune et évolue bien pendant plusieurs années.</p>",
+    "it": "<p>Il <strong>Chianti Classico</strong> è il vino principale di Isole e Olena, la tenuta situata all’estremità occidentale della denominazione, a Barberino Tavarnelle. Per decenni, sotto la guida di Paolo De Marchi, è diventato uno degli esempi più citati di Chianti Classico di stile classico, incentrato sulla freschezza e l’eleganza del <strong>Sangiovese</strong>.</p><p>È prodotto in prevalenza con Sangiovese, completato da piccole quote di altre varietà rosse coltivate nella tenuta, come il Canaiolo, a seconda dell’annata. I vigneti, su pendii relativamente alti con suoli di galestro e alberese, danno uve a maturazione lenta e di buona acidità. Il vino affina in botti e barrique di rovere, senza che il legno prevalga.</p><p>È un rosso di medio corpo, con amarena, frutti rossi, violetta e note speziate, acidità vivace e tannini fini. Si gusta giovane ed evolve bene per diversi anni.</p>"
+  },
+  "tasting": {
+    "es": "Cereza ácida, frambuesa, violeta y especias. Boca fresca, de cuerpo medio y taninos finos.",
+    "en": "Sour cherry, raspberry, violet and spice. Fresh, medium-bodied palate with fine tannins.",
+    "fr": "Griotte, framboise, violette et épices. Bouche fraîche, de corps moyen, aux tanins fins.",
+    "it": "Amarena, lampone, violetta e spezie. Bocca fresca, di medio corpo e dai tannini fini."
+  },
+  "pairing": {
+    "es": "Pasta con ragú, carnes a la brasa, embutidos toscanos, pecorino, setas",
+    "en": "Pasta with ragù, grilled meats, Tuscan salumi, pecorino, mushrooms",
+    "fr": "Pâtes au ragoût, viandes grillées, charcuterie toscane, pecorino, champignons",
+    "it": "Pasta al ragù, carni alla brace, salumi toscani, pecorino, funghi"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Chianti Classico Isole e Olena"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "mil-cantos",
+  "name": "Mil Cantos",
+  "winery": null,
+  "winery_name": "Valtravieso Bodegas y Viñedos",
+  "region": "ribera-del-jucar",
+  "country": "espana",
+  "appellation": "DO Ribera del Júcar",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Mil Cantos es un vino tinto de Valtravieso Bodegas y Viñedos, con la denominación DO Ribera del Júcar, en España.",
+    "en": "Mil Cantos is a red wine from Valtravieso Bodegas y Viñedos, made under the DO Ribera del Júcar appellation in Spain.",
+    "fr": "Mil Cantos est un vin rouge de Valtravieso Bodegas y Viñedos, élaboré sous l’appellation DO Ribera del Júcar (Espagne).",
+    "it": "Mil Cantos è un vino rosso di Valtravieso Bodegas y Viñedos, prodotto nella denominazione DO Ribera del Júcar (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14,5 % vol.</p><p>Ribera del Júcar es una pequeña denominación de origen del sur de la provincia de Cuenca, en Castilla-La Mancha, situada a orillas del río Júcar. Elabora sobre todo tintos de Tempranillo y de variedades internacionales, en un clima continental de la meseta manchega.</p>",
+    "en": "<p>It is aged in wood. It has 14.5% ABV.</p><p>Ribera del Júcar is a small designation of origin in the south of the province of Cuenca, in Castilla-La Mancha, on the banks of the river Júcar. It mainly produces reds from Tempranillo and international varieties, in the continental climate of the La Mancha plateau.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14,5 % vol.</p><p>Ribera del Júcar est une petite dénomination d'origine du sud de la province de Cuenca, en Castille-La Manche, située sur les rives du Júcar. Elle produit surtout des rouges de tempranillo et de cépages internationaux, sous le climat continental du plateau de la Manche.</p>",
+    "it": "<p>È affinato in legno. Ha 14,5% vol.</p><p>Ribera del Júcar è una piccola denominazione di origine del sud della provincia di Cuenca, in Castiglia-La Mancia, situata sulle rive del fiume Júcar. Produce soprattutto rossi di Tempranillo e di vitigni internazionali, nel clima continentale dell'altopiano della Mancia.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Mil Cantos Valtravieso Bodegas y Viñedos",
+  "brief": true,
+  "source": "decantalo"
+}

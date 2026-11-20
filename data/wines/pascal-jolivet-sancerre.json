@@ -1,0 +1,41 @@
+{
+  "slug": "pascal-jolivet-sancerre",
+  "name": "Pascal Jolivet Sancerre",
+  "winery": "pascal-jolivet",
+  "region": "sancerre",
+  "country": "francia",
+  "type": "blanco",
+  "category": {"es": "Sancerre", "en": "Sancerre", "fr": "Sancerre", "it": "Sancerre"},
+  "grapes": ["sauvignon-blanc"],
+  "summary": {
+    "es": "El Sancerre blanco de Pascal Jolivet, un Sauvignon Blanc del Alto Loira fresco, aromático y de perfil clásico.",
+    "en": "Pascal Jolivet’s white Sancerre, a fresh, aromatic Upper Loire Sauvignon Blanc with a classic profile.",
+    "fr": "Le sancerre blanc de Pascal Jolivet, un sauvignon blanc du Centre-Loire frais, aromatique et de profil classique.",
+    "it": "Il Sancerre bianco di Pascal Jolivet, un Sauvignon Blanc dell’Alta Loira fresco, aromatico e di profilo classico."
+  },
+  "body": {
+    "es": "<p>Sancerre es la denominación más conocida del Alto Loira, en el centro de Francia, y uno de los grandes referentes mundiales del Sauvignon Blanc. Sus viñedos se extienden por colinas de suelos calizos, margosos y de sílex en torno a la localidad que le da nombre, con un clima de influencia continental.</p><p>El Sancerre de Pascal Jolivet ensambla uvas de parcelas situadas en los distintos tipos de suelo de la denominación, para combinar la fruta de las margas, la finura de las calizas y el carácter mineral del sílex. Fermenta con levaduras autóctonas en depósitos de acero inoxidable y se cría sobre sus lías durante unos meses antes del embotellado, sin madera.</p><p>Es un blanco seco, aromático y de acidez viva, que expresa con nitidez el carácter del Sauvignon del Loira y se disfruta en sus primeros años.</p>",
+    "en": "<p>Sancerre is the best-known appellation of the Upper Loire, in central France, and one of the world’s great benchmarks for Sauvignon Blanc. Its vineyards cover hills of limestone, marl and flint soils around the town that gives it its name, with a climate under continental influence.</p><p>Pascal Jolivet’s Sancerre blends grapes from plots on the appellation’s different soil types, combining the fruit of the marls, the finesse of the limestone and the mineral character of the flint. It ferments with indigenous yeasts in stainless-steel tanks and is aged on its lees for a few months before bottling, without oak.</p><p>It is a dry, aromatic white with lively acidity that clearly expresses the character of Loire Sauvignon and is enjoyed in its early years.</p>",
+    "fr": "<p>Sancerre est l’appellation la plus connue du Centre-Loire, au cœur de la France, et l’une des grandes références mondiales du sauvignon blanc. Ses vignes couvrent des collines aux sols calcaires, marneux et à silex autour de la ville qui lui donne son nom, sous un climat d’influence continentale.</p><p>Le sancerre de Pascal Jolivet assemble des raisins de parcelles situées sur les différents types de sols de l’appellation, afin d’associer le fruit des marnes, la finesse des calcaires et le caractère minéral du silex. Il fermente en levures indigènes en cuves inox et s’élève sur lies quelques mois avant la mise en bouteille, sans bois.</p><p>C’est un blanc sec, aromatique et d’une acidité vive, qui exprime nettement le caractère du sauvignon de Loire et s’apprécie dans ses premières années.</p>",
+    "it": "<p>Sancerre è la denominazione più nota dell’Alta Loira, nel centro della Francia, e uno dei grandi riferimenti mondiali per il Sauvignon Blanc. I vigneti si estendono su colline di suoli calcarei, marnosi e di selce attorno alla cittadina che le dà il nome, con un clima di influenza continentale.</p><p>Il Sancerre di Pascal Jolivet assembla uve di parcelle situate sui diversi tipi di suolo della denominazione, per unire il frutto delle marne, la finezza dei calcari e il carattere minerale della selce. Fermenta con lieviti indigeni in vasche d’acciaio inox e affina sulle fecce per alcuni mesi prima dell’imbottigliamento, senza legno.</p><p>È un bianco secco, aromatico e di acidità vivace, che esprime con nitidezza il carattere del Sauvignon della Loira e si gusta nei primi anni.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido con reflejos verdosos. Aromas de pomelo, lima, grosella blanca, hierba recién cortada y notas minerales. En boca es seco, vivo y fresco, con un final limpio.",
+    "en": "Pale yellow with green tints. Aromas of grapefruit, lime, white currant, freshly cut grass and mineral notes. Dry, lively and fresh on the palate, with a clean finish.",
+    "fr": "Jaune pâle aux reflets verts. Arômes de pamplemousse, de citron vert, de groseille blanche, d’herbe fraîchement coupée et notes minérales. En bouche, sec, vif et frais, avec une finale nette.",
+    "it": "Giallo tenue con riflessi verdolini. Aromi di pompelmo, lime, ribes bianco, erba appena tagliata e note minerali. In bocca è secco, vivace e fresco, con un finale pulito."
+  },
+  "pairing": {
+    "es": "Queso de cabra (como el crottin de Chavignol), ostras, pescado a la plancha, espárragos",
+    "en": "Goat’s cheese (such as crottin de Chavignol), oysters, grilled fish, asparagus",
+    "fr": "Fromage de chèvre (comme le crottin de Chavignol), huîtres, poisson grillé, asperges",
+    "it": "Formaggio di capra (come il crottin de Chavignol), ostriche, pesce alla griglia, asparagi"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Pascal Jolivet Sancerre blanc"
+}

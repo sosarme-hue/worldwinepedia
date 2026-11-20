@@ -1,0 +1,40 @@
+{
+  "slug": "chateau-clos-de-bouard",
+  "name": "Château Clos de Boüard",
+  "winery": null,
+  "winery_name": "Château Clos de Boüard",
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Montagne Saint-Émilion",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Château Clos de Boüard es un vino tinto de Château Clos de Boüard, con la denominación AOC Montagne Saint-Émilion, en Francia.",
+    "en": "Château Clos de Boüard is a red wine from Château Clos de Boüard, made under the AOC Montagne Saint-Émilion appellation in France.",
+    "fr": "Château Clos de Boüard est un vin rouge de Château Clos de Boüard, élaboré sous l’appellation AOC Montagne Saint-Émilion (France).",
+    "it": "Château Clos de Boüard è un vino rosso di Château Clos de Boüard, prodotto nella denominazione AOC Montagne Saint-Émilion (Francia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13,5 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Château Clos de Boüard Château Clos de Boüard",
+  "brief": true,
+  "source": "decantalo"
+}

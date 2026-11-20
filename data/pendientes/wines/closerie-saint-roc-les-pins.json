@@ -1,0 +1,42 @@
+{
+  "slug": "closerie-saint-roc-les-pins",
+  "name": "Closerie Saint Roc Les Pins",
+  "winery": null,
+  "winery_name": "Closerie Saint Roc",
+  "region": null,
+  "country": "francia",
+  "appellation": "Vin de France",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "merlot"
+  ],
+  "summary": {
+    "es": "Closerie Saint Roc Les Pins es un vino tinto de Closerie Saint Roc, con la denominación Vin de France, en Francia.",
+    "en": "Closerie Saint Roc Les Pins is a red wine from Closerie Saint Roc, made under the Vin de France appellation in France.",
+    "fr": "Closerie Saint Roc Les Pins est un vin rouge de Closerie Saint Roc, élaboré sous l’appellation Vin de France (France).",
+    "it": "Closerie Saint Roc Les Pins è un vino rosso di Closerie Saint Roc, prodotto nella denominazione Vin de France (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Merlot. Tiene crianza en madera. Su graduación es de 12 % vol.</p>",
+    "en": "<p>It is made from Merlot. It is aged in wood. It has 12% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Merlot. Il est élevé en bois. Il titre 12 % vol.</p>",
+    "it": "<p>È prodotto con Merlot. È affinato in legno. Ha 12% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Closerie Saint Roc Les Pins Closerie Saint Roc",
+  "brief": true,
+  "source": "decantalo"
+}

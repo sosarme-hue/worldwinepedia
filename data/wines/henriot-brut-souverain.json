@@ -1,0 +1,50 @@
+{
+  "slug": "henriot-brut-souverain",
+  "name": "Henriot Brut Souverain",
+  "winery": "henriot",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut",
+    "en": "Brut",
+    "fr": "Brut",
+    "it": "Brut"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir",
+    "pinot-meunier"
+  ],
+  "summary": {
+    "es": "Champagne brut sin añada de Henriot, el vino que resume el estilo de la casa de Reims, con una proporción importante de Chardonnay.",
+    "en": "Non-vintage brut Champagne from Henriot, the wine that sums up the style of this Reims house, with a significant share of Chardonnay.",
+    "fr": "Champagne brut sans année d’Henriot, le vin qui résume le style de cette maison rémoise, avec une part importante de chardonnay.",
+    "it": "Champagne brut senza annata di Henriot, il vino che riassume lo stile della casa di Reims, con un’importante quota di Chardonnay."
+  },
+  "body": {
+    "es": "<p>El <strong>Brut Souverain</strong> es el champán sin añada de Henriot, la casa fundada en Reims en 1808 por Apolline Henriot. Ensambla <strong>Chardonnay</strong>, que ocupa un lugar destacado, con Pinot Noir y una parte de Pinot Meunier, procedentes de numerosos pueblos de la Champagne, entre ellos de la Côte des Blancs y de la Montagne de Reims.</p><p>Como todos los champanes sin añada, se basa en el vino de una cosecha principal al que se añade una proporción importante de vinos de reserva de años anteriores, lo que aporta complejidad y permite mantener un estilo constante. Tras la segunda fermentación en botella, el vino envejece varios años sobre sus lías en las bodegas de creta de la casa antes del degüelle.</p><p>El resultado es un champán equilibrado y elegante, con frescura, notas de fruta blanca y de panadería y una textura cremosa, adecuado como aperitivo y a lo largo de una comida.</p>",
+    "en": "<p><strong>Brut Souverain</strong> is the non-vintage champagne of Henriot, the house founded in Reims in 1808 by Apolline Henriot. It blends <strong>Chardonnay</strong>, which takes a prominent place, with Pinot Noir and a share of Pinot Meunier, from many Champagne villages, including the Côte des Blancs and the Montagne de Reims.</p><p>Like all non-vintage champagnes, it is based on the wine of a main harvest to which a significant proportion of reserve wines from earlier years is added, bringing complexity and keeping the style consistent. After the second fermentation in bottle, the wine ages for several years on its lees in the house’s chalk cellars before disgorgement.</p><p>The result is a balanced, elegant champagne with freshness, notes of white fruit and bakery and a creamy texture, suited to the aperitif and to a whole meal.</p>",
+    "fr": "<p>Le <strong>Brut Souverain</strong> est le champagne sans année d’Henriot, la maison fondée à Reims en 1808 par Apolline Henriot. Il assemble le <strong>chardonnay</strong>, qui y tient une place de choix, au pinot noir et à une part de pinot meunier, issus de nombreux villages de Champagne, dont la Côte des Blancs et la Montagne de Reims.</p><p>Comme tous les champagnes sans année, il repose sur le vin d’une récolte principale auquel s’ajoute une part importante de vins de réserve d’années antérieures, ce qui apporte de la complexité et permet de garder un style constant. Après la seconde fermentation en bouteille, le vin vieillit plusieurs années sur lies dans les caves de craie de la maison avant le dégorgement.</p><p>Le résultat est un champagne équilibré et élégant, frais, aux notes de fruits blancs et de boulangerie et à la texture crémeuse, adapté à l’apéritif comme à tout un repas.</p>",
+    "it": "<p>Il <strong>Brut Souverain</strong> è lo champagne senza annata di Henriot, la casa fondata a Reims nel 1808 da Apolline Henriot. Unisce lo <strong>Chardonnay</strong>, che vi occupa un posto di rilievo, al Pinot Noir e a una parte di Pinot Meunier, provenienti da numerosi villaggi della Champagne, tra cui la Côte des Blancs e la Montagne de Reims.</p><p>Come tutti gli champagne senza annata, si basa sul vino di una vendemmia principale a cui si aggiunge un’importante quota di vini di riserva di anni precedenti, che apporta complessità e consente di mantenere uno stile costante. Dopo la seconda fermentazione in bottiglia, il vino matura per diversi anni sui lieviti nelle cantine di gesso della casa prima della sboccatura.</p><p>Il risultato è uno champagne equilibrato ed elegante, fresco, con note di frutta bianca e di panificazione e una trama cremosa, adatto all’aperitivo e a un intero pasto.</p>"
+  },
+  "tasting": {
+    "es": "Manzana, pera, cítricos, flores blancas, brioche y almendra. Boca fresca y cremosa, de burbuja fina y final equilibrado.",
+    "en": "Apple, pear, citrus, white flowers, brioche and almond. Fresh, creamy palate with fine bubbles and a balanced finish.",
+    "fr": "Pomme, poire, agrumes, fleurs blanches, brioche et amande. Bouche fraîche et crémeuse, bulle fine et finale équilibrée.",
+    "it": "Mela, pera, agrumi, fiori bianchi, brioche e mandorla. Bocca fresca e cremosa, perlage fine e finale equilibrato."
+  },
+  "pairing": {
+    "es": "Aperitivo, marisco, pescado blanco, ave, quesos de pasta blanda",
+    "en": "Aperitif, shellfish, white fish, poultry, soft cheeses",
+    "fr": "Apéritif, fruits de mer, poisson blanc, volaille, fromages à pâte molle",
+    "it": "Aperitivo, frutti di mare, pesce bianco, pollame, formaggi a pasta molle"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco o tulipa",
+    "en": "8-10 °C, white wine or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da vino bianco o a tulipano"
+  },
+  "search": "Champagne Henriot Brut Souverain"
+}

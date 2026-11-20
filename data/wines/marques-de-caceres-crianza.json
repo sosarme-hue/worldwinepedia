@@ -1,0 +1,50 @@
+{
+  "slug": "marques-de-caceres-crianza",
+  "name": "Marqués de Cáceres Crianza",
+  "winery": "marques-de-caceres",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Crianza",
+    "en": "Crianza",
+    "fr": "Crianza",
+    "it": "Crianza"
+  },
+  "grapes": [
+    "tempranillo",
+    "garnacha",
+    "graciano"
+  ],
+  "summary": {
+    "es": "Crianza de Rioja de gran difusión internacional, elaborado sobre todo con Tempranillo y criado en barrica de roble francés y americano.",
+    "en": "Widely distributed Rioja Crianza, made mainly from Tempranillo and aged in French and American oak barrels.",
+    "fr": "Crianza de Rioja très diffusé à l’international, élaboré surtout avec du tempranillo et élevé en barriques de chêne français et américain.",
+    "it": "Crianza della Rioja ampiamente diffuso a livello internazionale, prodotto soprattutto con Tempranillo e affinato in barrique di rovere francese e americano."
+  },
+  "body": {
+    "es": "<p>El Crianza es el vino más conocido de Marqués de Cáceres y uno de los riojas más presentes en tiendas y restaurantes de todo el mundo. Se elabora con uva de la Rioja Alta, principalmente Tempranillo, acompañado de pequeñas proporciones de Garnacha y Graciano que varían según la añada.</p><p>Fiel al planteamiento con el que nació la bodega en los años setenta, la vinificación busca preservar la fruta: fermentación a temperatura controlada y una crianza en barrica que, conforme a las normas de la categoría Crianza en Rioja, dura al menos un año, seguida de un periodo de reposo en botella antes de su salida al mercado. La casa combina barricas de roble francés y americano, con el fin de equilibrar las notas especiadas de la madera con la fruta de la variedad.</p><p>El resultado es un tinto de cuerpo medio, de estilo moderno y fácil de entender, pensado para beberse en los años siguientes a la cosecha y para acompañar una cocina variada.</p>",
+    "en": "<p>The Crianza is Marqués de Cáceres’s best-known wine and one of the most widely available Riojas in shops and restaurants around the world. It is made from Rioja Alta grapes, mainly Tempranillo, with small proportions of Garnacha and Graciano that vary with the vintage.</p><p>True to the approach with which the winery was born in the 1970s, winemaking aims to preserve the fruit: temperature-controlled fermentation and barrel ageing which, in line with the rules of the Crianza category in Rioja, lasts at least one year, followed by a period of bottle rest before release. The house combines French and American oak barrels in order to balance the spicy notes of the wood with the fruit of the variety.</p><p>The result is a medium-bodied red in a modern, easy-to-understand style, designed to be drunk in the years following the harvest and to accompany a varied cuisine.</p>",
+    "fr": "<p>Le Crianza est le vin le plus connu de Marqués de Cáceres et l’un des riojas les plus présents chez les cavistes et dans les restaurants du monde entier. Il est élaboré avec du raisin de la Rioja Alta, principalement du tempranillo, accompagné de petites proportions de grenache et de graciano qui varient selon le millésime.</p><p>Fidèle à l’approche avec laquelle la bodega est née dans les années 1970, la vinification cherche à préserver le fruit : fermentation à température contrôlée et élevage en barrique qui, conformément aux règles de la catégorie Crianza dans la Rioja, dure au moins un an, suivi d’une période de repos en bouteille avant la commercialisation. La maison associe barriques de chêne français et américain, afin d’équilibrer les notes épicées du bois et le fruit du cépage.</p><p>Il en résulte un rouge de corps moyen, de style moderne et facile à comprendre, conçu pour être bu dans les années qui suivent la vendange et pour accompagner une cuisine variée.</p>",
+    "it": "<p>Il Crianza è il vino più noto di Marqués de Cáceres e uno dei Rioja più presenti nei negozi e nei ristoranti di tutto il mondo. È prodotto con uve della Rioja Alta, principalmente Tempranillo, con piccole percentuali di Garnacha e Graciano che variano a seconda dell’annata.</p><p>Fedele all’impostazione con cui la cantina nacque negli anni Settanta, la vinificazione cerca di preservare il frutto: fermentazione a temperatura controllata e un affinamento in barrique che, secondo le norme della categoria Crianza in Rioja, dura almeno un anno, seguito da un periodo di riposo in bottiglia prima della messa in commercio. La casa combina barrique di rovere francese e americano, per equilibrare le note speziate del legno con il frutto del vitigno.</p><p>Il risultato è un rosso di medio corpo, di stile moderno e facile da capire, pensato per essere bevuto negli anni successivi alla vendemmia e per accompagnare una cucina varia.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí con ribete granate. Aromas de fruta roja madura, como cereza y frambuesa, con notas de vainilla y especias. En boca es suave, de taninos amables y final afrutado.",
+    "en": "Ruby red with a garnet rim. Aromas of ripe red fruit such as cherry and raspberry, with notes of vanilla and spice. Smooth on the palate, with gentle tannins and a fruity finish.",
+    "fr": "Rouge rubis à reflets grenat. Arômes de fruits rouges mûrs, comme la cerise et la framboise, avec des notes de vanille et d’épices. En bouche, il est souple, aux tanins aimables et à la finale fruitée.",
+    "it": "Rosso rubino con unghia granata. Aromi di frutta rossa matura, come ciliegia e lampone, con note di vaniglia e spezie. In bocca è morbido, con tannini gentili e finale fruttato."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la plancha, cordero asado, pasta con ragú, quesos semicurados",
+    "en": "Grilled red meat, roast lamb, pasta with ragù, semi-cured cheeses",
+    "fr": "Viandes rouges à la plancha, agneau rôti, pâtes au ragù, fromages mi-affinés",
+    "it": "Carni rosse alla piastra, agnello arrosto, pasta al ragù, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Marqués de Cáceres Crianza Rioja"
+}

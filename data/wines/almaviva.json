@@ -1,0 +1,47 @@
+{
+  "slug": "almaviva",
+  "name": "Almaviva",
+  "winery": "almaviva",
+  "region": "valle-del-maipo",
+  "country": "chile",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon",
+    "carmenere",
+    "cabernet-franc",
+    "petit-verdot",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Gran vino de Puente Alto nacido de la asociación entre Concha y Toro y Baron Philippe de Rothschild. Es un ensamblaje de base Cabernet Sauvignon cuya primera cosecha fue la de 1996.",
+    "en": "Grand vin from Puente Alto born of the partnership between Concha y Toro and Baron Philippe de Rothschild. It is a Cabernet Sauvignon-based blend whose first vintage was 1996.",
+    "fr": "Grand vin de Puente Alto né de l’association entre Concha y Toro et Baron Philippe de Rothschild. C’est un assemblage à base de cabernet-sauvignon dont le premier millésime fut 1996.",
+    "it": "Grande vino di Puente Alto nato dall’associazione tra Concha y Toro e Baron Philippe de Rothschild. È un uvaggio a base di Cabernet Sauvignon la cui prima annata fu il 1996."
+  },
+  "body": {
+    "es": "<p>Almaviva es el único gran vino de la viña del mismo nombre, fruto de la alianza entre la chilena Concha y Toro y la bordelesa Baron Philippe de Rothschild. La primera cosecha fue la de 1996, y desde entonces se ha convertido en uno de los tintos chilenos más reconocidos internacionalmente. El nombre procede del conde Almaviva de <em>Las bodas de Fígaro</em>.</p><p>Las uvas proceden de los viñedos de <strong>Puente Alto</strong>, en el Alto Maipo, situados en una terraza aluvial del río Maipo con suelos pedregosos y bien drenados. La base del ensamblaje es la <strong>Cabernet Sauvignon</strong>, acompañada de Carmenère, Cabernet Franc, Petit Verdot y, en algunas añadas, Merlot, en proporciones que cambian cada año. La elaboración se inspira en la de los grandes châteaux de Burdeos: vinificación por parcelas, selección rigurosa y crianza en barricas de roble francés. El resultado es un tinto profundo y elegante, con taninos finos y gran capacidad de envejecimiento, que combina la fruta madura del Maipo con una estructura de inspiración bordelesa.</p>",
+    "en": "<p>Almaviva is the sole grand vin of the winery of the same name, the fruit of an alliance between Chile’s Concha y Toro and Bordeaux’s Baron Philippe de Rothschild. The first vintage was 1996, and it has since become one of Chile’s most internationally acclaimed reds. The name comes from Count Almaviva in <em>The Marriage of Figaro</em>.</p><p>The grapes come from the <strong>Puente Alto</strong> vineyards in Alto Maipo, on an alluvial terrace of the Maipo River with stony, well-drained soils. The base of the blend is <strong>Cabernet Sauvignon</strong>, accompanied by Carmenère, Cabernet Franc, Petit Verdot and, in some vintages, Merlot, in proportions that change every year. Winemaking is inspired by that of the great Bordeaux châteaux: plot-by-plot vinification, rigorous selection and ageing in French oak barrels. The result is a deep, elegant red with fine tannins and great ageing potential, combining the ripe fruit of the Maipo with a Bordeaux-inspired structure.</p>",
+    "fr": "<p>Almaviva est l’unique grand vin du domaine du même nom, fruit de l’alliance entre la chilienne Concha y Toro et la bordelaise Baron Philippe de Rothschild. Le premier millésime fut 1996, et il est depuis devenu l’un des rouges chiliens les plus reconnus au niveau international. Le nom vient du comte Almaviva du <em>Mariage de Figaro</em>.</p><p>Les raisins proviennent des vignobles de <strong>Puente Alto</strong>, dans l’Alto Maipo, situés sur une terrasse alluviale du río Maipo aux sols caillouteux et bien drainés. La base de l’assemblage est le <strong>cabernet-sauvignon</strong>, accompagné de carménère, de cabernet franc, de petit verdot et, certaines années, de merlot, dans des proportions qui changent chaque année. L’élaboration s’inspire de celle des grands châteaux bordelais : vinification parcellaire, sélection rigoureuse et élevage en barriques de chêne français. Il en résulte un rouge profond et élégant, aux tanins fins et d’un grand potentiel de vieillissement, qui associe le fruit mûr du Maipo à une structure d’inspiration bordelaise.</p>",
+    "it": "<p>Almaviva è l’unico grande vino dell’azienda omonima, frutto dell’alleanza tra la cilena Concha y Toro e la bordolese Baron Philippe de Rothschild. La prima annata fu il 1996, e da allora è diventato uno dei rossi cileni più apprezzati a livello internazionale. Il nome deriva dal conte Almaviva de <em>Le nozze di Figaro</em>.</p><p>Le uve provengono dai vigneti di <strong>Puente Alto</strong>, nell’Alto Maipo, situati su un terrazzo alluvionale del fiume Maipo con suoli sassosi e ben drenati. La base dell’uvaggio è il <strong>Cabernet Sauvignon</strong>, accompagnato da Carmenère, Cabernet Franc, Petit Verdot e, in alcune annate, Merlot, in proporzioni che cambiano ogni anno. La vinificazione si ispira a quella dei grandi châteaux di Bordeaux: vinificazione per parcelle, selezione rigorosa e affinamento in barrique di rovere francese. Il risultato è un rosso profondo ed elegante, dai tannini fini e di grande capacità d’invecchiamento, che unisce il frutto maturo del Maipo a una struttura di ispirazione bordolese.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí muy profundo. Cassis, mora, cereza negra, notas de grafito, tabaco, cacao y especias. Boca amplia y elegante, de taninos finos y final muy persistente.",
+    "en": "Very deep ruby red. Cassis, blackberry, black cherry, notes of graphite, tobacco, cocoa and spice. Ample, elegant palate with fine tannins and a very persistent finish.",
+    "fr": "Rouge rubis très profond. Cassis, mûre, cerise noire, notes de graphite, de tabac, de cacao et d’épices. Bouche ample et élégante, tanins fins et finale très persistante.",
+    "it": "Rosso rubino molto profondo. Cassis, mora, ciliegia nera, note di grafite, tabacco, cacao e spezie. Bocca ampia ed elegante, con tannini fini e finale molto persistente."
+  },
+  "pairing": {
+    "es": "Cordero asado, solomillo, caza mayor, setas, quesos de pasta dura",
+    "en": "Roast lamb, beef tenderloin, large game, mushrooms, hard cheeses",
+    "fr": "Agneau rôti, filet de bœuf, gros gibier, champignons, fromages à pâte dure",
+    "it": "Agnello arrosto, filetto di manzo, selvaggina di grossa taglia, funghi, formaggi a pasta dura"
+  },
+  "serve": {
+    "es": "17-18 °C, decantado, copa amplia",
+    "en": "17-18 °C, decanted, large glass",
+    "fr": "17-18 °C, carafé, verre ample",
+    "it": "17-18 °C, decantato, calice ampio"
+  },
+  "search": "Almaviva Puente Alto Concha y Toro Baron Philippe de Rothschild"
+}

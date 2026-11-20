@@ -1,0 +1,48 @@
+{
+  "slug": "comtes-lafon-meursault",
+  "name": "Meursault",
+  "winery": "comtes-lafon",
+  "region": "cote-de-beaune",
+  "country": "francia",
+  "type": "blanco",
+  "category": {
+    "es": "Meursault",
+    "en": "Meursault",
+    "fr": "Meursault",
+    "it": "Meursault"
+  },
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Meursault de pueblo del Domaine des Comtes Lafon, elaborado con Chardonnay de varias parcelas de la denominación.",
+    "en": "Village Meursault from Domaine des Comtes Lafon, made from Chardonnay from several plots in the appellation.",
+    "fr": "Meursault village du Domaine des Comtes Lafon, élaboré à partir de chardonnay de plusieurs parcelles de l'appellation.",
+    "it": "Meursault di villaggio del Domaine des Comtes Lafon, prodotto con Chardonnay di diverse parcelle della denominazione."
+  },
+  "body": {
+    "es": "<p>Meursault es uno de los grandes pueblos de vino blanco de la Côte de Beaune, en Borgoña, y el Domaine des Comtes Lafon una de sus propiedades de referencia. Este es su vino de denominación comunal, elaborado con <strong>Chardonnay</strong> de varias parcelas situadas fuera de los premiers crus.</p><p>Las viñas, cultivadas con criterios biodinámicos, crecen sobre los suelos de caliza y marga de la ladera de Meursault. El vino fermenta y se cría en barrica durante un periodo largo, como el resto de los blancos de la casa, buscando amplitud sin perder precisión.</p><p>Es un blanco de textura generosa, con la riqueza propia de Meursault —notas de avellana, mantequilla y fruta madura— equilibrada por una buena acidez. Aunque es la entrada a la gama de blancos del domaine, tiene capacidad para evolucionar varios años en botella.</p>",
+    "en": "<p>Meursault is one of the great white-wine villages of the Côte de Beaune in Burgundy, and Domaine des Comtes Lafon is one of its benchmark properties. This is its village-level wine, made from <strong>Chardonnay</strong> from several plots lying outside the premiers crus.</p><p>The vines, farmed biodynamically, grow on the limestone and marl soils of the Meursault slope. The wine is fermented and aged in barrel for a long period, like the house's other whites, aiming for breadth without losing precision.</p><p>It is a white of generous texture, with the richness typical of Meursault — notes of hazelnut, butter and ripe fruit — balanced by good acidity. Although it is the entry point to the estate's white range, it is able to develop for several years in bottle.</p>",
+    "fr": "<p>Meursault est l'un des grands villages de vin blanc de la Côte de Beaune, en Bourgogne, et le Domaine des Comtes Lafon l'une de ses propriétés de référence. Voici son vin d'appellation communale, élaboré à partir de <strong>chardonnay</strong> de plusieurs parcelles situées hors des premiers crus.</p><p>Les vignes, conduites en biodynamie, poussent sur les sols de calcaire et de marne du coteau de Meursault. Le vin fermente et s'élève en barrique pendant une longue période, comme les autres blancs de la maison, en recherchant l'ampleur sans perdre en précision.</p><p>C'est un blanc à la texture généreuse, doté de la richesse propre au Meursault — notes de noisette, de beurre et de fruits mûrs — équilibrée par une bonne acidité. Bien qu'il soit l'entrée de la gamme des blancs du domaine, il peut évoluer plusieurs années en bouteille.</p>",
+    "it": "<p>Meursault è uno dei grandi villaggi di vino bianco della Côte de Beaune, in Borgogna, e il Domaine des Comtes Lafon una delle sue proprietà di riferimento. Questo è il suo vino di denominazione comunale, prodotto con <strong>Chardonnay</strong> di diverse parcelle situate al di fuori dei premiers crus.</p><p>Le vigne, coltivate in biodinamica, crescono sui suoli di calcare e marna del pendio di Meursault. Il vino fermenta e matura in barrique per un lungo periodo, come gli altri bianchi della casa, cercando ampiezza senza perdere precisione.</p><p>È un bianco dalla tessitura generosa, con la ricchezza tipica del Meursault — note di nocciola, burro e frutta matura — bilanciata da una buona acidità. Pur essendo l'ingresso alla gamma dei bianchi del domaine, è in grado di evolvere per diversi anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo dorado. Aromas de fruta blanca madura, avellana, mantequilla y notas minerales. Boca amplia y untuosa, con acidez fresca y final largo.",
+    "en": "Golden yellow. Aromas of ripe white fruit, hazelnut, butter and mineral notes. Broad, unctuous palate with fresh acidity and a long finish.",
+    "fr": "Jaune doré. Arômes de fruits blancs mûrs, de noisette, de beurre et notes minérales. Bouche ample et onctueuse, acidité fraîche et finale longue.",
+    "it": "Giallo dorato. Aromi di frutta bianca matura, nocciola, burro e note minerali. Bocca ampia e untuosa, con acidità fresca e finale lungo."
+  },
+  "pairing": {
+    "es": "Bogavante, pescados en salsa, ave con crema, quesos de pasta blanda",
+    "en": "Lobster, fish in sauce, poultry in cream, soft cheeses",
+    "fr": "Homard, poissons en sauce, volaille à la crème, fromages à pâte molle",
+    "it": "Astice, pesce in salsa, pollame alla crema, formaggi a pasta molle"
+  },
+  "serve": {
+    "es": "12-14 °C, copa amplia",
+    "en": "12-14 °C, large glass",
+    "fr": "12-14 °C, verre ample",
+    "it": "12-14 °C, calice ampio"
+  },
+  "search": "Meursault Domaine des Comtes Lafon"
+}

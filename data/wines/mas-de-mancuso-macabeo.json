@@ -1,0 +1,42 @@
+{
+  "slug": "mas-de-mancuso-macabeo",
+  "name": "Mas de Mancuso Macabeo",
+  "winery": null,
+  "winery_name": "Mas de Mancuso",
+  "region": "carinena",
+  "country": "espana",
+  "appellation": "DO Cariñena",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "macabeo"
+  ],
+  "summary": {
+    "es": "Mas de Mancuso Macabeo es un vino blanco de Mas de Mancuso, con la denominación DO Cariñena.",
+    "en": "Mas de Mancuso Macabeo is a white wine from Mas de Mancuso, made under the DO Cariñena appellation.",
+    "fr": "Mas de Mancuso Macabeo est un vin blanc de Mas de Mancuso, élaboré sous l’appellation DO Cariñena.",
+    "it": "Mas de Mancuso Macabeo è un vino bianco di Mas de Mancuso, prodotto nella denominazione DO Cariñena."
+  },
+  "body": {
+    "es": "<p>Se elabora con Macabeo. Tiene crianza en madera. Su graduación es de 13 % vol.</p><p>Cariñena, al sur de Zaragoza, es una de las denominaciones de origen más antiguas de España y da nombre a la uva Cariñena, conocida en Francia como Carignan. Hoy su variedad principal es la Garnacha.</p>",
+    "en": "<p>It is made from Macabeo (Viura). It is aged in wood. It has 13% ABV.</p><p>Cariñena, south of Zaragoza, is one of Spain's oldest designations of origin and gives its name to the Cariñena grape, known in France as Carignan. Today its main variety is Grenache.</p>",
+    "fr": "<p>Il est élaboré à partir de Macabeu. Il est élevé en bois. Il titre 13 % vol.</p><p>Cariñena, au sud de Saragosse, est l'une des plus anciennes dénominations d'origine d'Espagne et donne son nom au cépage cariñena, connu en France sous le nom de carignan. Aujourd'hui, son cépage principal est le grenache.</p>",
+    "it": "<p>È prodotto con Macabeo. È affinato in legno. Ha 13% vol.</p><p>Cariñena, a sud di Saragozza, è una delle denominazioni di origine più antiche della Spagna e dà il nome al vitigno Cariñena, noto in Francia come Carignan. Oggi il suo vitigno principale è la Garnacha.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Mas de Mancuso Macabeo Mas de Mancuso",
+  "brief": true,
+  "source": "decantalo"
+}

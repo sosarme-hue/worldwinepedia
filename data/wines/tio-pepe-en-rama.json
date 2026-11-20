@@ -1,0 +1,42 @@
+{
+  "slug": "tio-pepe-en-rama",
+  "name": "Tío Pepe en Rama",
+  "winery": null,
+  "winery_name": "Bodegas Tío Pepe",
+  "region": null,
+  "country": "espana",
+  "appellation": "Rama 2026 elaborado por la bodega Bodegas Tío Pepe en DO Jerez-Xérès-Sherry",
+  "type": "generoso",
+  "category": null,
+  "grapes": [
+    "palomino"
+  ],
+  "summary": {
+    "es": "Tío Pepe en Rama es un vino generoso de Bodegas Tío Pepe, con la denominación Rama 2026 elaborado por la bodega Bodegas Tío Pepe en DO Jerez-Xérès-Sherry, en España.",
+    "en": "Tío Pepe en Rama is a fortified wine from Bodegas Tío Pepe, made under the Rama 2026 elaborado por la bodega Bodegas Tío Pepe en DO Jerez-Xérès-Sherry appellation in Spain.",
+    "fr": "Tío Pepe en Rama est un vin fortifié de Bodegas Tío Pepe, élaboré sous l’appellation Rama 2026 elaborado por la bodega Bodegas Tío Pepe en DO Jerez-Xérès-Sherry (Espagne).",
+    "it": "Tío Pepe en Rama è un vino liquoroso di Bodegas Tío Pepe, prodotto nella denominazione Rama 2026 elaborado por la bodega Bodegas Tío Pepe en DO Jerez-Xérès-Sherry (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Palomino. Su graduación es de 15,3 % vol.</p>",
+    "en": "<p>It is made from Palomino. It has 15.3% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Palomino. Il titre 15,3 % vol.</p>",
+    "it": "<p>È prodotto con Palomino. Ha 15,3% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, jamón, frutos secos, quesos curados",
+    "en": "Aperitif, cured ham, nuts, aged cheeses",
+    "fr": "Apéritif, jambon sec, fruits secs, fromages affinés",
+    "it": "Aperitivo, prosciutto crudo, frutta secca, formaggi stagionati"
+  },
+  "serve": {
+    "es": "7-14 °C según el tipo, catavino",
+    "en": "7-14 °C depending on style, copita glass",
+    "fr": "7-14 °C selon le style, verre à xérès",
+    "it": "7-14 °C secondo lo stile, bicchiere da sherry"
+  },
+  "search": "Tío Pepe en Rama Bodegas Tío Pepe",
+  "brief": true,
+  "source": "decantalo"
+}

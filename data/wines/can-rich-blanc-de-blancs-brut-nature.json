@@ -1,0 +1,42 @@
+{
+  "slug": "can-rich-blanc-de-blancs-brut-nature",
+  "name": "Can Rich Blanc de Blancs Brut Nature",
+  "winery": null,
+  "winery_name": "Can Rich",
+  "region": null,
+  "country": "espana",
+  "appellation": null,
+  "type": "espumoso",
+  "category": null,
+  "grapes": [
+    "malvasia"
+  ],
+  "summary": {
+    "es": "Can Rich Blanc de Blancs Brut Nature es un vino espumoso de Can Rich, en España.",
+    "en": "Can Rich Blanc de Blancs Brut Nature is a sparkling wine from Can Rich in Spain.",
+    "fr": "Can Rich Blanc de Blancs Brut Nature est un vin effervescent de Can Rich (Espagne).",
+    "it": "Can Rich Blanc de Blancs Brut Nature è un vino spumante di Can Rich (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Malvasía. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is made from Malvasia. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Malvoisie. Il titre 12,5 % vol.</p>",
+    "it": "<p>È prodotto con Malvasia. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Can Rich Blanc de Blancs Brut Nature Can Rich",
+  "brief": true,
+  "source": "decantalo"
+}

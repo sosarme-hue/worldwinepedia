@@ -1,0 +1,49 @@
+{
+  "slug": "la-croix-de-beaucaillou",
+  "name": "La Croix de Beaucaillou",
+  "winery": "chateau-ducru-beaucaillou",
+  "region": "saint-julien",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Saint-Julien, segundo vino",
+    "en": "Saint-Julien, second wine",
+    "fr": "Saint-Julien, second vin",
+    "it": "Saint-Julien, secondo vino"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "El segundo vino de Château Ducru-Beaucaillou, un Saint-Julien de Cabernet Sauvignon y Merlot con el estilo elegante de la casa.",
+    "en": "The second wine of Château Ducru-Beaucaillou, a Cabernet Sauvignon and Merlot Saint-Julien with the house’s elegant style.",
+    "fr": "Le second vin du château Ducru-Beaucaillou, un saint-julien de cabernet sauvignon et de merlot au style élégant de la maison.",
+    "it": "Il secondo vino di Château Ducru-Beaucaillou, un Saint-Julien di Cabernet Sauvignon e Merlot con lo stile elegante della casa."
+  },
+  "body": {
+    "es": "<p>La Croix de Beaucaillou es el <strong>segundo vino</strong> de Château Ducru-Beaucaillou, segundo gran cru clasificado en 1855 y uno de los grandes nombres de <strong>Saint-Julien</strong>. Como en las demás grandes propiedades del Médoc, el segundo vino permite una selección más estricta para el gran vino, y al mismo tiempo ofrece un vino de gran calidad con la identidad de la casa.</p><p>Procede de parcelas de la propiedad en Saint-Julien, sobre suelos de gravas garonesas. Se elabora con <strong>Cabernet Sauvignon</strong> y <strong>Merlot</strong>, a veces con una pequeña parte de otras variedades bordelesas; la proporción de Merlot suele ser algo mayor que en el gran vino, lo que aporta redondez.</p><p>La crianza en barricas de roble francés da estructura y complejidad. El resultado es un tinto elegante, con fruta negra, notas de cedro y grafito, y taninos finos, que se expresa antes que el gran vino pero puede guardarse durante bastantes años.</p>",
+    "en": "<p>La Croix de Beaucaillou is the <strong>second wine</strong> of Château Ducru-Beaucaillou, a second growth in the 1855 classification and one of the great names of <strong>Saint-Julien</strong>. As at the other great Médoc estates, the second wine allows a stricter selection for the grand vin while offering a high-quality wine with the house’s identity.</p><p>It comes from the estate’s plots in Saint-Julien, on Garonne gravel soils. It is made from <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong>, sometimes with a small share of other Bordeaux varieties; the proportion of Merlot is usually somewhat higher than in the grand vin, bringing roundness.</p><p>Ageing in French oak barrels adds structure and complexity. The result is an elegant red with black fruit, notes of cedar and graphite, and fine tannins, which shows its qualities earlier than the grand vin but can be kept for many years.</p>",
+    "fr": "<p>La Croix de Beaucaillou est le <strong>second vin</strong> du château Ducru-Beaucaillou, second grand cru classé en 1855 et l’un des grands noms de <strong>Saint-Julien</strong>. Comme dans les autres grandes propriétés du Médoc, le second vin permet une sélection plus stricte pour le grand vin tout en offrant un vin de grande qualité à l’identité de la maison.</p><p>Il provient de parcelles de la propriété à Saint-Julien, sur des sols de graves garonnaises. Il est élaboré à partir de <strong>cabernet sauvignon</strong> et de <strong>merlot</strong>, parfois avec une petite part d’autres cépages bordelais ; la part de merlot y est généralement un peu plus élevée que dans le grand vin, ce qui apporte de la rondeur.</p><p>L’élevage en barriques de chêne français apporte structure et complexité. Il en résulte un rouge élégant, au fruit noir, aux notes de cèdre et de graphite et aux tanins fins, qui s’exprime plus tôt que le grand vin mais peut se garder de nombreuses années.</p>",
+    "it": "<p>La Croix de Beaucaillou è il <strong>secondo vino</strong> di Château Ducru-Beaucaillou, secondo grand cru classé nel 1855 e uno dei grandi nomi di <strong>Saint-Julien</strong>. Come nelle altre grandi proprietà del Médoc, il secondo vino permette una selezione più severa per il grand vin offrendo al tempo stesso un vino di grande qualità con l’identità della casa.</p><p>Proviene da parcelle della proprietà a Saint-Julien, su suoli di ghiaia della Garonna. È prodotto con <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong>, talvolta con una piccola parte di altre varietà bordolesi; la quota di Merlot è di solito un po’ più alta che nel grand vin, il che apporta rotondità.</p><p>L’affinamento in barrique di rovere francese apporta struttura e complessità. Il risultato è un rosso elegante, con frutto nero, note di cedro e grafite e tannini fini, che si esprime prima del grand vin ma può essere conservato per molti anni.</p>"
+  },
+  "tasting": {
+    "es": "Granate intenso. Aromas de casis, mora, cedro y grafito. Boca elegante y equilibrada, de taninos finos y final persistente.",
+    "en": "Deep garnet. Aromas of blackcurrant, blackberry, cedar and graphite. Elegant, balanced palate with fine tannins and a persistent finish.",
+    "fr": "Grenat intense. Arômes de cassis, de mûre, de cèdre et de graphite. Bouche élégante et équilibrée, aux tanins fins et à la finale persistante.",
+    "it": "Granato intenso. Aromi di ribes nero, mora, cedro e grafite. Bocca elegante ed equilibrata, dai tannini fini e dal finale persistente."
+  },
+  "pairing": {
+    "es": "Cordero de Pauillac, solomillo, caza de pluma, quesos curados",
+    "en": "Pauillac lamb, beef fillet, game birds, mature cheeses",
+    "fr": "Agneau de Pauillac, filet de bœuf, gibier à plume, fromages affinés",
+    "it": "Agnello di Pauillac, filetto di manzo, selvaggina da piuma, formaggi stagionati"
+  },
+  "serve": {
+    "es": "17-18 °C, copa tipo Burdeos; decantar en su juventud",
+    "en": "17-18 °C, Bordeaux glass; decant when young",
+    "fr": "17-18 °C, verre de type bordelais ; carafer dans sa jeunesse",
+    "it": "17-18 °C, calice tipo Bordeaux; decantare da giovane"
+  },
+  "search": "La Croix de Beaucaillou Saint-Julien"
+}

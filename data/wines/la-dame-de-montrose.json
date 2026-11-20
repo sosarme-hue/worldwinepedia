@@ -1,0 +1,44 @@
+{
+  "slug": "la-dame-de-montrose",
+  "name": "La Dame de Montrose",
+  "winery": "chateau-montrose",
+  "region": "saint-estephe",
+  "country": "francia",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Segundo vino de Château Montrose, en Saint-Estèphe, de estilo más accesible que el gran vino.",
+    "en": "Second wine of Château Montrose in Saint-Estèphe, more approachable in style than the grand vin.",
+    "fr": "Second vin du Château Montrose, à Saint-Estèphe, au style plus accessible que le grand vin.",
+    "it": "Secondo vino di Château Montrose, a Saint-Estèphe, di stile più accessibile rispetto al grand vin."
+  },
+  "body": {
+    "es": "<p>La Dame de Montrose es el segundo vino de Château Montrose, segundo gran cru clasificado de Saint-Estèphe en 1855. Se elabora con la uva y los lotes que no se destinan al gran vino, a menudo procedentes de viñas más jóvenes o de parcelas de perfil más inmediato del mismo viñedo, situado frente al estuario de la Gironda.</p><p>El ensamblaje combina <strong>Cabernet Sauvignon</strong> y <strong>Merlot</strong>, con una proporción de Merlot por lo general mayor que en el gran vino, lo que le da más redondez y fruta en su juventud. La crianza en barrica es más breve o con menos madera nueva.</p><p>Es un tinto de estructura firme pero más amable que Château Montrose, con fruta negra, notas de cedro y taninos más suaves. Puede disfrutarse antes que el gran vino, aunque conserva la capacidad de guarda propia de Saint-Estèphe.</p>",
+    "en": "<p>La Dame de Montrose is the second wine of Château Montrose, a Saint-Estèphe second growth in the 1855 classification. It is made from the grapes and lots not used for the grand vin, often from younger vines or from plots with a more immediate profile in the same vineyard, which faces the Gironde estuary.</p><p>The blend combines <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong>, with a proportion of Merlot generally higher than in the grand vin, giving it more roundness and fruit in its youth. Barrel ageing is shorter or uses less new oak.</p><p>It is a firmly structured but gentler red than Château Montrose, with black fruit, cedar notes and softer tannins. It can be enjoyed earlier than the grand vin while retaining the ageing potential typical of Saint-Estèphe.</p>",
+    "fr": "<p>La Dame de Montrose est le second vin du Château Montrose, deuxième grand cru classé de Saint-Estèphe en 1855. Il est élaboré à partir des raisins et des lots non retenus pour le grand vin, souvent issus de vignes plus jeunes ou de parcelles au profil plus immédiat du même vignoble, face à l'estuaire de la Gironde.</p><p>L'assemblage associe <strong>cabernet sauvignon</strong> et <strong>merlot</strong>, avec une part de merlot en général plus importante que dans le grand vin, ce qui lui donne plus de rondeur et de fruit dans sa jeunesse. L'élevage en barrique est plus court ou fait appel à moins de bois neuf.</p><p>C'est un rouge à la structure ferme mais plus aimable que le Château Montrose, aux fruits noirs, aux notes de cèdre et aux tanins plus souples. Il peut s'apprécier plus tôt que le grand vin, tout en gardant l'aptitude à la garde propre à Saint-Estèphe.</p>",
+    "it": "<p>La Dame de Montrose è il secondo vino di Château Montrose, secondo grand cru classé di Saint-Estèphe nel 1855. È prodotto con le uve e i lotti non destinati al grand vin, spesso provenienti da vigne più giovani o da parcelle dal profilo più immediato dello stesso vigneto, di fronte all'estuario della Gironda.</p><p>L'assemblaggio unisce <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong>, con una quota di Merlot in genere maggiore che nel grand vin, il che gli dà più rotondità e frutto in gioventù. L'affinamento in barrique è più breve o con meno legno nuovo.</p><p>È un rosso di struttura decisa ma più amabile di Château Montrose, con frutta nera, note di cedro e tannini più morbidi. Si può gustare prima del grand vin, pur conservando la capacità d'invecchiamento tipica di Saint-Estèphe.</p>"
+  },
+  "tasting": {
+    "es": "Rojo granate oscuro. Aromas de casis, ciruela, cedro y especias suaves. Boca equilibrada, de taninos firmes pero pulidos.",
+    "en": "Dark garnet. Aromas of blackcurrant, plum, cedar and gentle spice. Balanced palate with firm yet polished tannins.",
+    "fr": "Grenat sombre. Arômes de cassis, de prune, de cèdre et d'épices douces. Bouche équilibrée, aux tanins fermes mais polis.",
+    "it": "Granato scuro. Aromi di ribes nero, prugna, cedro e spezie delicate. Bocca equilibrata, dai tannini decisi ma levigati."
+  },
+  "pairing": {
+    "es": "Cordero asado, entrecot, caza, quesos curados",
+    "en": "Roast lamb, rib steak, game, aged cheeses",
+    "fr": "Agneau rôti, entrecôte, gibier, fromages affinés",
+    "it": "Agnello arrosto, entrecôte, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "La Dame de Montrose Saint-Estèphe"
+}

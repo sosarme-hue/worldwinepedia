@@ -1,0 +1,44 @@
+{
+  "slug": "segla",
+  "name": "Ségla",
+  "winery": "chateau-rauzan-segla",
+  "region": "margaux",
+  "country": "francia",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Segundo vino de Château Rauzan-Ségla, un Margaux de estilo más accesible que el gran vino.",
+    "en": "Second wine of Château Rauzan-Ségla, a Margaux more approachable in style than the grand vin.",
+    "fr": "Second vin du Château Rauzan-Ségla, un Margaux au style plus accessible que le grand vin.",
+    "it": "Secondo vino di Château Rauzan-Ségla, un Margaux di stile più accessibile rispetto al grand vin."
+  },
+  "body": {
+    "es": "<p>Ségla es el segundo vino de Château Rauzan-Ségla, segundo gran cru clasificado de Margaux en 1855 y propiedad de la familia Wertheimer desde 1994. Se elabora con la uva y los lotes que no se destinan al gran vino, a menudo procedentes de viñas más jóvenes de la finca.</p><p>Como el gran vino, se basa en el ensamblaje de <strong>Cabernet Sauvignon</strong> y <strong>Merlot</strong>, cultivados sobre las gravas de Margaux, con pequeñas aportaciones de otras variedades bordelesas según la añada. La Merlot suele tener un papel algo mayor, lo que le da más redondez en su juventud, y la crianza en barrica es más breve o con menos madera nueva.</p><p>Es un tinto fino y aromático, con fruta roja y negra, notas florales y taninos suaves, que ofrece una aproximación más inmediata al estilo de la casa. Puede disfrutarse tras unos años en botella, aunque admite una guarda media.</p>",
+    "en": "<p>Ségla is the second wine of Château Rauzan-Ségla, a Margaux second growth in the 1855 classification, owned by the Wertheimer family since 1994. It is made from the grapes and lots not used for the grand vin, often from the estate's younger vines.</p><p>Like the grand vin, it is based on a blend of <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong> grown on the gravels of Margaux, with small contributions from other Bordeaux varieties depending on the vintage. Merlot usually plays a somewhat larger role, giving it more roundness in its youth, and barrel ageing is shorter or uses less new oak.</p><p>It is a fine, aromatic red with red and black fruit, floral notes and soft tannins, offering a more immediate approach to the house style. It can be enjoyed after a few years in bottle, although it can take medium-term ageing.</p>",
+    "fr": "<p>Ségla est le second vin du Château Rauzan-Ségla, deuxième grand cru classé de Margaux en 1855 et propriété de la famille Wertheimer depuis 1994. Il est élaboré à partir des raisins et des lots non retenus pour le grand vin, souvent issus des jeunes vignes du domaine.</p><p>Comme le grand vin, il repose sur l'assemblage de <strong>cabernet sauvignon</strong> et de <strong>merlot</strong> cultivés sur les graves de Margaux, avec de petits apports d'autres cépages bordelais selon les millésimes. Le merlot y joue en général un rôle un peu plus important, ce qui lui donne plus de rondeur dans sa jeunesse, et l'élevage en barrique est plus court ou fait appel à moins de bois neuf.</p><p>C'est un rouge fin et aromatique, aux fruits rouges et noirs, aux notes florales et aux tanins souples, qui offre une approche plus immédiate du style de la maison. Il peut s'apprécier après quelques années de bouteille, même s'il supporte une garde moyenne.</p>",
+    "it": "<p>Ségla è il secondo vino di Château Rauzan-Ségla, secondo grand cru classé di Margaux nel 1855 e di proprietà della famiglia Wertheimer dal 1994. È prodotto con le uve e i lotti non destinati al grand vin, spesso provenienti dalle vigne più giovani della tenuta.</p><p>Come il grand vin, si basa sull'assemblaggio di <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong> coltivati sulle ghiaie di Margaux, con piccoli apporti di altre varietà bordolesi secondo l'annata. Il Merlot ha di solito un ruolo un po' maggiore, il che gli dà più rotondità in gioventù, e l'affinamento in barrique è più breve o con meno legno nuovo.</p><p>È un rosso fine e aromatico, con frutta rossa e nera, note floreali e tannini morbidi, che offre un approccio più immediato allo stile della casa. Si può gustare dopo alcuni anni in bottiglia, anche se regge un invecchiamento medio.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí oscuro. Aromas de frutos rojos y negros, violeta y cedro. Boca fina y equilibrada, de taninos suaves.",
+    "en": "Dark ruby. Aromas of red and black fruit, violet and cedar. Fine, balanced palate with soft tannins.",
+    "fr": "Rubis sombre. Arômes de fruits rouges et noirs, de violette et de cèdre. Bouche fine et équilibrée, aux tanins souples.",
+    "it": "Rubino scuro. Aromi di frutti rossi e neri, violetta e cedro. Bocca fine ed equilibrata, dai tannini morbidi."
+  },
+  "pairing": {
+    "es": "Cordero asado, entrecot, caza, quesos curados",
+    "en": "Roast lamb, rib steak, game, aged cheeses",
+    "fr": "Agneau rôti, entrecôte, gibier, fromages affinés",
+    "it": "Agnello arrosto, entrecôte, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Ségla Margaux Rauzan-Ségla"
+}

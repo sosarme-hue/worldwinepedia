@@ -1,0 +1,45 @@
+{
+  "slug": "ridge-lytton-springs",
+  "name": "Lytton Springs",
+  "winery": "ridge",
+  "region": "sonoma",
+  "country": "estados-unidos",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "primitivo",
+    "petite-sirah",
+    "carinena"
+  ],
+  "summary": {
+    "es": "Tinto de Ridge procedente de viñas viejas de Dry Creek Valley, en Sonoma, basado en la Zinfandel con Petite Sirah y Carignan.",
+    "en": "A Ridge red from old vines in Dry Creek Valley, Sonoma, based on Zinfandel with Petite Sirah and Carignan.",
+    "fr": "Rouge de Ridge issu de vieilles vignes de la Dry Creek Valley, dans le comté de Sonoma, à base de zinfandel avec petite sirah et carignan.",
+    "it": "Rosso di Ridge da vecchie vigne della Dry Creek Valley, a Sonoma, basato sullo Zinfandel con Petite Sirah e Carignano."
+  },
+  "body": {
+    "es": "<p>El viñedo de <strong>Lytton Springs</strong> se encuentra en la AVA Dry Creek Valley, al norte de Healdsburg, y conserva parcelas plantadas a comienzos del siglo XX según la costumbre de la época: viñas de Zinfandel mezcladas en el mismo campo con Petite Sirah, Carignan y otras variedades. Ridge comenzó a elaborar vino con uvas de este viñedo en los años setenta y acabó adquiriéndolo, y en él construyó su segunda bodega.</p><p>El vino refleja esa mezcla de campo. La Zinfandel, idéntica al Primitivo italiano, aporta fruta madura y especias; la Petite Sirah, color y taninos; y la Carignan, frescura. Como la proporción de Zinfandel varía según la cosecha, el vino se comercializa con el nombre del viñedo y no siempre con el de la variedad. Se fermenta con levaduras autóctonas y se cría en barricas de roble americano, de acuerdo con la filosofía de la casa.</p>",
+    "en": "<p>The <strong>Lytton Springs</strong> vineyard lies in the Dry Creek Valley AVA, north of Healdsburg, and retains parcels planted in the early twentieth century according to the custom of the time: Zinfandel vines interplanted in the same field with Petite Sirah, Carignan and other varieties. Ridge began making wine from this vineyard in the 1970s, eventually bought it, and built its second winery there.</p><p>The wine reflects that field blend. Zinfandel, identical to Italy’s Primitivo, brings ripe fruit and spice; Petite Sirah, colour and tannin; and Carignan, freshness. Because the proportion of Zinfandel varies with the vintage, the wine is sold under the vineyard name rather than always under the variety. It is fermented with native yeasts and aged in American oak barrels, in keeping with the house philosophy.</p>",
+    "fr": "<p>Le vignoble de <strong>Lytton Springs</strong> se trouve dans l’AVA Dry Creek Valley, au nord de Healdsburg, et conserve des parcelles plantées au début du XXe siècle selon l’usage de l’époque : des ceps de zinfandel mêlés dans la même parcelle à de la petite sirah, du carignan et d’autres cépages. Ridge commença à vinifier les raisins de ce vignoble dans les années 1970, finit par l’acquérir et y construisit sa deuxième cave.</p><p>Le vin reflète cette complantation. Le zinfandel, identique au primitivo italien, apporte fruit mûr et épices ; la petite sirah, couleur et tanins ; le carignan, fraîcheur. La proportion de zinfandel variant selon le millésime, le vin est commercialisé sous le nom du vignoble et pas toujours sous celui du cépage. Il fermente en levures indigènes et s’élève en barriques de chêne américain, conformément à la philosophie de la maison.</p>",
+    "it": "<p>Il vigneto di <strong>Lytton Springs</strong> si trova nell’AVA Dry Creek Valley, a nord di Healdsburg, e conserva parcelle piantate all’inizio del Novecento secondo l’uso dell’epoca: viti di Zinfandel mescolate nello stesso campo con Petite Sirah, Carignano e altri vitigni. Ridge iniziò a vinificare le uve di questo vigneto negli anni Settanta, finì per acquistarlo e vi costruì la sua seconda cantina.</p><p>Il vino riflette questo uvaggio di campo. Lo Zinfandel, identico al Primitivo italiano, apporta frutto maturo e spezie; la Petite Sirah, colore e tannini; il Carignano, freschezza. Poiché la quota di Zinfandel varia secondo l’annata, il vino è commercializzato con il nome del vigneto e non sempre con quello del vitigno. Fermenta con lieviti indigeni e affina in barrique di rovere americano, secondo la filosofia della casa.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de zarzamora, frambuesa madura, pimienta negra y hierbas mediterráneas. Boca jugosa y estructurada, con taninos firmes y final especiado.",
+    "en": "Deep cherry red. Aromas of bramble fruit, ripe raspberry, black pepper and Mediterranean herbs. Juicy and structured on the palate, with firm tannins and a spicy finish.",
+    "fr": "Rouge cerise intense. Arômes de mûre sauvage, de framboise mûre, de poivre noir et d’herbes méditerranéennes. Bouche juteuse et structurée, aux tanins fermes et à la finale épicée.",
+    "it": "Rosso ciliegia intenso. Aromi di mora di rovo, lampone maturo, pepe nero ed erbe mediterranee. Bocca succosa e strutturata, con tannini fermi e finale speziato."
+  },
+  "pairing": {
+    "es": "Costillas a la barbacoa, cordero especiado, embutidos, pizza, quesos curados",
+    "en": "Barbecued ribs, spiced lamb, charcuterie, pizza, aged cheeses",
+    "fr": "Travers au barbecue, agneau épicé, charcuterie, pizza, fromages affinés",
+    "it": "Costine alla brace, agnello speziato, salumi, pizza, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia; puede decantarse",
+    "en": "16-18 °C, large glass; may be decanted",
+    "fr": "16-18 °C, verre ample ; peut être carafé",
+    "it": "16-18 °C, calice ampio; può essere decantato"
+  },
+  "search": "Ridge Lytton Springs Dry Creek Valley"
+}

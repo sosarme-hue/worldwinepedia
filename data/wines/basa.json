@@ -1,0 +1,45 @@
+{
+  "slug": "basa",
+  "name": "Basa",
+  "winery": "telmo-rodriguez",
+  "region": "rueda",
+  "country": "espana",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "verdejo",
+    "macabeo",
+    "sauvignon-blanc"
+  ],
+  "summary": {
+    "es": "Blanco joven de Rueda de Telmo Rodríguez, elaborado sobre todo con Verdejo, con pequeñas proporciones de Viura y Sauvignon Blanc.",
+    "en": "Young Rueda white from Telmo Rodríguez, made mainly from Verdejo with small proportions of Viura and Sauvignon Blanc.",
+    "fr": "Blanc jeune de Rueda de Telmo Rodríguez, élaboré surtout avec du verdejo, avec de petites proportions de viura et de sauvignon blanc.",
+    "it": "Bianco giovane di Rueda di Telmo Rodríguez, prodotto soprattutto con Verdejo, con piccole percentuali di Viura e Sauvignon Blanc."
+  },
+  "body": {
+    "es": "<p>Basa es el blanco de la Compañía de Vinos Telmo Rodríguez en la Denominación de Origen Rueda, una de las regiones de blancos más importantes de España, situada en la meseta castellana, al sur del Duero. Fue uno de los primeros vinos del proyecto y se ha convertido en una de sus etiquetas de mayor difusión.</p><p>Se elabora principalmente con Verdejo, la variedad autóctona de Rueda, complementada con pequeñas proporciones de Viura (Macabeo) y Sauvignon Blanc, que varían según la añada. Las uvas proceden de viñedos de la zona, algunos de ellos viejos y conducidos en vaso, sobre suelos pedregosos y arenosos, con un clima continental de fuertes contrastes térmicos.</p><p>La vinificación busca un vino fresco y aromático: fermentación en depósito a temperatura controlada y una breve crianza sobre lías, sin paso por madera. El resultado es un blanco sencillo, vivo y de buena acidez, pensado para beberse en los primeros años tras la cosecha.</p>",
+    "en": "<p>Basa is the white of the Compañía de Vinos Telmo Rodríguez in the Rueda Denominación de Origen, one of Spain’s most important white wine regions, located on the Castilian plateau south of the Duero. It was one of the project’s first wines and has become one of its most widely distributed labels.</p><p>It is made mainly from Verdejo, Rueda’s native variety, complemented by small proportions of Viura (Macabeo) and Sauvignon Blanc, which vary with the vintage. The grapes come from vineyards in the area, some of them old and bush-trained, on stony, sandy soils, with a continental climate of sharp temperature contrasts.</p><p>Winemaking seeks a fresh, aromatic wine: temperature-controlled fermentation in tank and brief ageing on lees, without oak. The result is a simple, lively white with good acidity, designed to be drunk in the first years after the harvest.</p>",
+    "fr": "<p>Basa est le blanc de la Compañía de Vinos Telmo Rodríguez dans la Denominación de Origen Rueda, l’une des principales régions de vins blancs d’Espagne, située sur le plateau castillan au sud du Duero. Ce fut l’un des premiers vins du projet et il est devenu l’une de ses étiquettes les plus diffusées.</p><p>Il est élaboré principalement avec du verdejo, cépage autochtone de Rueda, complété par de petites proportions de viura (macabeu) et de sauvignon blanc, qui varient selon le millésime. Les raisins proviennent de vignes de la région, dont certaines vieilles et conduites en gobelet, sur des sols caillouteux et sableux, sous un climat continental aux forts contrastes de température.</p><p>La vinification recherche un vin frais et aromatique : fermentation en cuve à température contrôlée et bref élevage sur lies, sans passage sous bois. Il en résulte un blanc simple, vif et d’une bonne acidité, conçu pour être bu dans les premières années suivant la vendange.</p>",
+    "it": "<p>Basa è il bianco della Compañía de Vinos Telmo Rodríguez nella Denominación de Origen Rueda, una delle più importanti regioni di vini bianchi della Spagna, situata sull’altopiano castigliano a sud del Duero. Fu uno dei primi vini del progetto ed è diventato una delle sue etichette più diffuse.</p><p>È prodotto principalmente con Verdejo, il vitigno autoctono di Rueda, completato da piccole percentuali di Viura (Macabeo) e Sauvignon Blanc, che variano secondo l’annata. Le uve provengono da vigneti della zona, alcuni vecchi e allevati ad alberello, su suoli sassosi e sabbiosi, con un clima continentale di forti escursioni termiche.</p><p>La vinificazione cerca un vino fresco e aromatico: fermentazione in vasca a temperatura controllata e breve affinamento sulle fecce, senza passaggio in legno. Il risultato è un bianco semplice, vivace e di buona acidità, pensato per essere bevuto nei primi anni dopo la vendemmia.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido con reflejos verdosos. Aromas de hierba fresca, hinojo, cítricos y fruta blanca. En boca es fresco, vivo y con un final ligeramente amargo, típico del Verdejo.",
+    "en": "Pale yellow with green tints. Aromas of fresh grass, fennel, citrus and white fruit. Fresh and lively on the palate, with a slightly bitter finish typical of Verdejo.",
+    "fr": "Jaune pâle aux reflets verts. Arômes d’herbe fraîche, de fenouil, d’agrumes et de fruits blancs. En bouche, il est frais et vif, avec une finale légèrement amère, typique du verdejo.",
+    "it": "Giallo pallido con riflessi verdolini. Aromi di erba fresca, finocchio, agrumi e frutta bianca. In bocca è fresco e vivace, con un finale leggermente amarognolo tipico del Verdejo."
+  },
+  "pairing": {
+    "es": "Aperitivos, ensaladas, pescados a la plancha, verduras, cocina asiática suave",
+    "en": "Aperitifs, salads, grilled fish, vegetables, mild Asian cuisine",
+    "fr": "Apéritifs, salades, poissons à la plancha, légumes, cuisine asiatique douce",
+    "it": "Aperitivi, insalate, pesce alla piastra, verdure, cucina asiatica delicata"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da bianco"
+  },
+  "search": "Basa Telmo Rodríguez Rueda"
+}

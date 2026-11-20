@@ -1,0 +1,40 @@
+{
+  "slug": "lo-vilero-clar",
+  "name": "Lo Vilero Clar",
+  "winery": null,
+  "winery_name": "Cati Ribot i Eloi Cedó",
+  "region": null,
+  "country": "espana",
+  "appellation": "Vino de España",
+  "type": "rosado",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Lo Vilero Clar es un vino rosado de Cati Ribot i Eloi Cedó, con la denominación Vino de España, en España.",
+    "en": "Lo Vilero Clar is a rosé wine from Cati Ribot i Eloi Cedó, made under the Vino de España appellation in Spain.",
+    "fr": "Lo Vilero Clar est un vin rosé de Cati Ribot i Eloi Cedó, élaboré sous l’appellation Vino de España (Espagne).",
+    "it": "Lo Vilero Clar è un vino rosato di Cati Ribot i Eloi Cedó, prodotto nella denominazione Vino de España (Spagna)."
+  },
+  "body": {
+    "es": "<p>Fermenta en barrica. Su graduación es de 12 % vol.</p>",
+    "en": "<p>It is fermented in barrel. It has 12% ABV.</p>",
+    "fr": "<p>Il est fermenté en barrique. Il titre 12 % vol.</p>",
+    "it": "<p>Fermenta in barrique. Ha 12% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, ensaladas, arroces, pescados",
+    "en": "Aperitif, salads, rice dishes, fish",
+    "fr": "Apéritif, salades, plats de riz, poissons",
+    "it": "Aperitivo, insalate, risotti, pesce"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Lo Vilero Clar Cati Ribot i Eloi Cedó",
+  "brief": true,
+  "source": "decantalo"
+}

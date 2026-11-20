@@ -1,0 +1,43 @@
+{
+  "slug": "casa-lapostolle-cuvee-alexandre-chardonnay",
+  "name": "Lapostolle Cuvée Alexandre Chardonnay",
+  "winery": "casa-lapostolle",
+  "region": "casablanca",
+  "country": "chile",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Chardonnay de la línea Cuvée Alexandre de Casa Lapostolle, elaborado con uvas del valle de Casablanca y fermentado en barrica.",
+    "en": "Chardonnay from Casa Lapostolle’s Cuvée Alexandre line, made from Casablanca Valley grapes and barrel-fermented.",
+    "fr": "Chardonnay de la ligne Cuvée Alexandre de Casa Lapostolle, élaboré avec des raisins de la vallée de Casablanca et fermenté en barrique.",
+    "it": "Chardonnay della linea Cuvée Alexandre di Casa Lapostolle, prodotto con uve della valle di Casablanca e fermentato in barrique."
+  },
+  "body": {
+    "es": "<p>La línea Cuvée Alexandre de Casa Lapostolle lleva el nombre de Louis-Alexandre Marnier Lapostolle, creador del licor Grand Marnier y antepasado de la familia fundadora. Su Chardonnay procede del <strong>valle de Casablanca</strong>, la zona costera fría situada entre Santiago y Valparaíso, cuyo clima, influido por la corriente de Humboldt, es especialmente adecuado para esta variedad.</p><p>Las nieblas matinales y las brisas del Pacífico mantienen temperaturas moderadas durante el verano, lo que prolonga la maduración y preserva la acidez de la uva. La vendimia se realiza a mano y el vino se fermenta y se cría en barricas de roble francés, lo que le aporta textura y complejidad. El uso de la madera busca un equilibrio entre la fruta y las notas de crianza. El resultado es un Chardonnay amplio pero fresco, con fruta blanca y cítrica, notas de frutos secos y mantequilla y una acidez viva que le da equilibrio. Puede disfrutarse joven o tras algunos años en botella, y acompaña bien pescados y aves.</p>",
+    "en": "<p>Casa Lapostolle’s Cuvée Alexandre line is named after Louis-Alexandre Marnier Lapostolle, creator of Grand Marnier liqueur and an ancestor of the founding family. Its Chardonnay comes from the <strong>Casablanca Valley</strong>, the cool coastal area between Santiago and Valparaíso whose climate, influenced by the Humboldt Current, is especially well suited to this variety.</p><p>Morning fogs and Pacific breezes keep summer temperatures moderate, which prolongs ripening and preserves the grapes’ acidity. The grapes are hand-picked and the wine is fermented and aged in French oak barrels, which add texture and complexity. The use of oak seeks a balance between fruit and the notes of ageing. The result is an ample yet fresh Chardonnay, with white and citrus fruit, notes of nuts and butter and a lively acidity that gives it balance. It can be enjoyed young or after a few years in bottle, and goes well with fish and poultry.</p>",
+    "fr": "<p>La ligne Cuvée Alexandre de Casa Lapostolle porte le nom de Louis-Alexandre Marnier Lapostolle, créateur de la liqueur Grand Marnier et ancêtre de la famille fondatrice. Son chardonnay provient de la <strong>vallée de Casablanca</strong>, la zone côtière fraîche située entre Santiago et Valparaíso, dont le climat, influencé par le courant de Humboldt, convient particulièrement à ce cépage.</p><p>Les brouillards matinaux et les brises du Pacifique maintiennent des températures modérées en été, ce qui prolonge la maturation et préserve l’acidité du raisin. Les vendanges sont manuelles et le vin fermente et s’élève en barriques de chêne français, qui lui apportent texture et complexité. L’usage du bois recherche un équilibre entre le fruit et les notes d’élevage. Il en résulte un chardonnay ample mais frais, aux fruits blancs et aux agrumes, aux notes de fruits secs et de beurre et à l’acidité vive qui lui donne de l’équilibre. Il peut se boire jeune ou après quelques années en bouteille, et accompagne bien poissons et volailles.</p>",
+    "it": "<p>La linea Cuvée Alexandre di Casa Lapostolle porta il nome di Louis-Alexandre Marnier Lapostolle, creatore del liquore Grand Marnier e antenato della famiglia fondatrice. Il suo Chardonnay proviene dalla <strong>valle di Casablanca</strong>, la zona costiera fresca situata tra Santiago e Valparaíso, il cui clima, influenzato dalla corrente di Humboldt, è particolarmente adatto a questa varietà.</p><p>Le nebbie mattutine e le brezze del Pacifico mantengono temperature moderate in estate, il che prolunga la maturazione e preserva l’acidità dell’uva. La vendemmia è manuale e il vino fermenta e affina in barrique di rovere francese, che gli apportano struttura e complessità. L’uso del legno cerca un equilibrio tra il frutto e le note di affinamento. Il risultato è uno Chardonnay ampio ma fresco, con frutta bianca e agrumi, note di frutta secca e burro e un’acidità vivace che gli dà equilibrio. Si può gustare giovane o dopo qualche anno in bottiglia, e accompagna bene pesce e pollame.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo dorado pálido. Manzana, pera, cítricos, notas de avellana, mantequilla y vainilla. Boca amplia y cremosa, con acidez fresca y final largo.",
+    "en": "Pale golden yellow. Apple, pear, citrus, notes of hazelnut, butter and vanilla. Ample, creamy palate with fresh acidity and a long finish.",
+    "fr": "Jaune doré pâle. Pomme, poire, agrumes, notes de noisette, de beurre et de vanille. Bouche ample et crémeuse, acidité fraîche et finale longue.",
+    "it": "Giallo dorato tenue. Mela, pera, agrumi, note di nocciola, burro e vaniglia. Bocca ampia e cremosa, con acidità fresca e finale lungo."
+  },
+  "pairing": {
+    "es": "Pescados en salsa, marisco a la plancha, pollo asado, risotto, quesos cremosos",
+    "en": "Fish in sauce, grilled shellfish, roast chicken, risotto, creamy cheeses",
+    "fr": "Poissons en sauce, fruits de mer grillés, poulet rôti, risotto, fromages crémeux",
+    "it": "Pesce in salsa, frutti di mare alla piastra, pollo arrosto, risotto, formaggi cremosi"
+  },
+  "serve": {
+    "es": "10-12 °C, copa amplia de vino blanco",
+    "en": "10-12 °C, large white wine glass",
+    "fr": "10-12 °C, grand verre à vin blanc",
+    "it": "10-12 °C, calice ampio da vino bianco"
+  },
+  "search": "Lapostolle Cuvée Alexandre Chardonnay Casablanca"
+}

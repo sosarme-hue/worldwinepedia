@@ -1,0 +1,49 @@
+{
+  "slug": "bollinger-rose",
+  "name": "Bollinger Rosé",
+  "winery": "bollinger",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut Rosé",
+    "en": "Brut Rosé",
+    "fr": "Brut Rosé",
+    "it": "Brut Rosé"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Champagne rosado sin añada de Bollinger, basado en el ensamblaje de la Special Cuvée al que se añade un pequeño porcentaje de vino tinto de Pinot Noir.",
+    "en": "Bollinger’s non-vintage rosé champagne, based on the Special Cuvée blend with a small percentage of Pinot Noir red wine added.",
+    "fr": "Champagne rosé non millésimé de Bollinger, fondé sur l’assemblage de la Special Cuvée auquel est ajouté un petit pourcentage de vin rouge de pinot noir.",
+    "it": "Champagne rosé senza annata di Bollinger, basato sull’assemblaggio della Special Cuvée a cui si aggiunge una piccola percentuale di vino rosso di Pinot Nero."
+  },
+  "body": {
+    "es": "<p>El Bollinger Rosé se lanzó a finales de la década de 2000 y es el champán rosado sin añada de la casa de Aÿ. Parte del mismo ensamblaje que la <strong>Special Cuvée</strong>, el brut de la casa, dominado por el <strong>Pinot Noir</strong> y completado con <strong>Chardonnay</strong> y Pinot Meunier, al que se añade un pequeño porcentaje de vino tinto tranquilo de Pinot Noir elaborado con uvas de viñedos propios de la casa.</p><p>Como los demás vinos de Bollinger, una parte de los vinos base fermenta en barricas de roble usadas, y el ensamblaje incluye vinos de reserva, algunos conservados en magnum. El champán se cría durante varios años sobre lías antes del degüelle, más tiempo que el mínimo exigido.</p><p>Es un rosado de estilo vinoso, más estructurado que muchos rosados de la región, con aromas de frutos rojos, especias y notas tostadas, y una boca amplia y fresca. Combina bien con platos de cierta intensidad.</p>",
+    "en": "<p>Bollinger Rosé was launched in the late 2000s and is the non-vintage rosé of the Aÿ house. It starts from the same blend as the <strong>Special Cuvée</strong>, the house brut, dominated by <strong>Pinot Noir</strong> and completed with <strong>Chardonnay</strong> and Pinot Meunier, to which a small percentage of still red Pinot Noir wine made from grapes from the house’s own vineyards is added.</p><p>As with Bollinger’s other wines, part of the base wines ferments in used oak barrels, and the blend includes reserve wines, some of them kept in magnums. The champagne is aged for several years on its lees before disgorgement, longer than the minimum required.</p><p>It is a vinous rosé, more structured than many of the region’s rosés, with aromas of red fruit, spice and toasty notes and a broad, fresh palate. It goes well with dishes of some intensity.</p>",
+    "fr": "<p>Le Bollinger Rosé a été lancé à la fin des années 2000 ; c’est le rosé non millésimé de la maison d’Aÿ. Il part du même assemblage que la <strong>Special Cuvée</strong>, le brut de la maison, à dominante de <strong>pinot noir</strong> et complété par le <strong>chardonnay</strong> et le pinot meunier, auquel on ajoute un petit pourcentage de vin rouge tranquille de pinot noir élaboré avec des raisins des vignes de la maison.</p><p>Comme pour les autres vins de Bollinger, une partie des vins de base fermente en fûts de chêne usagés, et l’assemblage comprend des vins de réserve, dont certains sont conservés en magnums. Le champagne est élevé plusieurs années sur lies avant le dégorgement, plus longtemps que le minimum exigé.</p><p>C’est un rosé au style vineux, plus structuré que bien des rosés de la région, aux arômes de fruits rouges, d’épices et aux notes toastées, à la bouche ample et fraîche. Il s’accorde bien avec des plats d’une certaine intensité.</p>",
+    "it": "<p>Il Bollinger Rosé è stato lanciato alla fine degli anni Duemila ed è il rosé senza annata della casa di Aÿ. Parte dallo stesso assemblaggio della <strong>Special Cuvée</strong>, il brut della casa, con prevalenza di <strong>Pinot Nero</strong> e completato da <strong>Chardonnay</strong> e Pinot Meunier, a cui si aggiunge una piccola percentuale di vino rosso fermo di Pinot Nero prodotto con uve dei vigneti della casa.</p><p>Come per gli altri vini di Bollinger, una parte dei vini base fermenta in botti di rovere usate, e l’assemblaggio comprende vini di riserva, alcuni conservati in magnum. Lo champagne affina per diversi anni sui lieviti prima della sboccatura, più a lungo del minimo richiesto.</p><p>È un rosé di stile vinoso, più strutturato di molti rosé della regione, con aromi di frutti rossi, spezie e note tostate e una bocca ampia e fresca. Si abbina bene a piatti di una certa intensità.</p>"
+  },
+  "tasting": {
+    "es": "Rosa cobrizo con burbuja fina. Aromas de frutos rojos, especias y notas tostadas. Boca vinosa y estructurada, fresca, con final largo.",
+    "en": "Coppery pink with fine bubbles. Aromas of red fruit, spice and toasty notes. Vinous, structured, fresh palate with a long finish.",
+    "fr": "Rose cuivré à la bulle fine. Arômes de fruits rouges, d’épices et notes toastées. Bouche vineuse et structurée, fraîche, finale longue.",
+    "it": "Rosa ramato dal perlage fine. Aromi di frutti rossi, spezie e note tostate. Bocca vinosa e strutturata, fresca, dal finale lungo."
+  },
+  "pairing": {
+    "es": "Salmón, atún en tataki, pato, cocina asiática, postres de frutos rojos poco dulces",
+    "en": "Salmon, tuna tataki, duck, Asian cuisine, not-too-sweet red fruit desserts",
+    "fr": "Saumon, tataki de thon, canard, cuisine asiatique, desserts aux fruits rouges peu sucrés",
+    "it": "Salmone, tataki di tonno, anatra, cucina asiatica, dolci ai frutti rossi poco zuccherati"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de vino blanco amplia, no flauta",
+    "en": "10-12 °C, large white wine glass rather than a flute",
+    "fr": "10-12 °C, grand verre à vin blanc plutôt qu’une flûte",
+    "it": "10-12 °C, calice ampio da vino bianco anziché flûte"
+  },
+  "search": "Bollinger Rosé Champagne Brut"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "ferrari-maximum-brut",
+  "name": "Ferrari Maximum Brut",
+  "winery": "ferrari",
+  "region": "trentino-alto-adige",
+  "country": "italia",
+  "type": "espumoso",
+  "category": {
+    "es": "Trento DOC Brut",
+    "en": "Trento DOC Brut",
+    "fr": "Trento DOC Brut",
+    "it": "Trento DOC Brut"
+  },
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Trento DOC brut de Ferrari elaborado con Chardonnay por el método tradicional, con una crianza sobre lías más larga que la del Ferrari Brut.",
+    "en": "Ferrari Trento DOC brut made from Chardonnay by the traditional method, with longer lees ageing than Ferrari Brut.",
+    "fr": "Trento DOC brut de Ferrari élaboré avec du chardonnay selon la méthode traditionnelle, avec un vieillissement sur lies plus long que celui du Ferrari Brut.",
+    "it": "Trento DOC brut di Ferrari prodotto con Chardonnay secondo il metodo classico, con un affinamento sui lieviti più lungo del Ferrari Brut."
+  },
+  "body": {
+    "es": "<p>El <strong>Maximum Brut</strong> forma parte de la gama de Ferrari, la casa de Trento que, desde principios del siglo XX, se ha dedicado a los espumosos de método tradicional en las montañas del Trentino. Se sitúa por encima del Ferrari Brut, el vino más difundido de la casa, y se distingue por una crianza más larga sobre lías.</p><p>Se elabora exclusivamente con <strong>Chardonnay</strong> de viñedos de las laderas del Trentino, donde la altitud y las diferencias de temperatura entre el día y la noche favorecen uvas con buena acidez. Tras la primera fermentación, el vino base realiza la segunda en botella, según el <strong>método tradicional</strong>, y permanece en contacto con las lías durante un periodo prolongado antes del degüelle.</p><p>Es un espumoso seco, de burbuja fina, que combina la frescura de la fruta con notas de pan tostado procedentes de la crianza. Es adecuado como aperitivo y para acompañar una comida completa.</p>",
+    "en": "<p><strong>Maximum Brut</strong> belongs to the range of Ferrari, the Trento house that has devoted itself since the early twentieth century to traditional-method sparkling wines in the mountains of Trentino. It sits above Ferrari Brut, the house’s most widely available wine, and is distinguished by longer ageing on the lees.</p><p>It is made solely from <strong>Chardonnay</strong> from vineyards on the slopes of Trentino, where altitude and the difference between day and night temperatures favour grapes with good acidity. After the first fermentation, the base wine undergoes the second in bottle by the <strong>traditional method</strong> and stays in contact with the lees for an extended period before disgorgement.</p><p>It is a dry sparkling wine with fine bubbles, combining fresh fruit with notes of toasted bread from ageing. It is suitable as an aperitif and to accompany a whole meal.</p>",
+    "fr": "<p>Le <strong>Maximum Brut</strong> fait partie de la gamme de Ferrari, la maison de Trente qui se consacre depuis le début du XXe siècle aux effervescents de méthode traditionnelle dans les montagnes du Trentin. Il se situe au-dessus du Ferrari Brut, le vin le plus diffusé de la maison, et se distingue par un vieillissement plus long sur lies.</p><p>Il est élaboré uniquement avec du <strong>chardonnay</strong> de vignes situées sur les coteaux du Trentin, où l’altitude et les écarts de température entre le jour et la nuit favorisent des raisins à bonne acidité. Après la première fermentation, le vin de base effectue la seconde en bouteille selon la <strong>méthode traditionnelle</strong> et reste au contact des lies pendant une période prolongée avant le dégorgement.</p><p>C’est un effervescent sec, à la bulle fine, qui associe la fraîcheur du fruit à des notes de pain grillé issues du vieillissement. Il convient à l’apéritif comme pour accompagner un repas complet.</p>",
+    "it": "<p>Il <strong>Maximum Brut</strong> fa parte della gamma di Ferrari, la casa di Trento che dall’inizio del Novecento si dedica agli spumanti metodo classico tra le montagne del Trentino. Si colloca al di sopra del Ferrari Brut, il vino più diffuso della casa, e si distingue per un affinamento più lungo sui lieviti.</p><p>Si produce esclusivamente con <strong>Chardonnay</strong> di vigneti sulle pendici del Trentino, dove l’altitudine e le escursioni termiche tra giorno e notte favoriscono uve di buona acidità. Dopo la prima fermentazione, il vino base compie la seconda in bottiglia secondo il <strong>metodo classico</strong> e resta a contatto con i lieviti per un periodo prolungato prima della sboccatura.</p><p>È uno spumante secco, dal perlage fine, che unisce la freschezza del frutto a note di pane tostato derivate dall’affinamento. È adatto come aperitivo e per accompagnare un pasto intero.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pajizo con reflejos dorados, burbuja fina. Aromas de manzana madura, cítricos, flores blancas y pan tostado. Boca seca, fresca y cremosa, con final persistente.",
+    "en": "Straw yellow with golden hints, fine bubbles. Aromas of ripe apple, citrus, white flowers and toast. Dry, fresh, creamy palate with a persistent finish.",
+    "fr": "Jaune paille aux reflets dorés, bulle fine. Arômes de pomme mûre, d’agrumes, de fleurs blanches et de pain grillé. Bouche sèche, fraîche et crémeuse, à la finale persistante.",
+    "it": "Giallo paglierino con riflessi dorati, perlage fine. Profumi di mela matura, agrumi, fiori bianchi e pane tostato. Bocca secca, fresca e cremosa, con finale persistente."
+  },
+  "pairing": {
+    "es": "Aperitivo, marisco, pescado crudo, risotto, frituras, quesos de pasta blanda",
+    "en": "Aperitif, shellfish, raw fish, risotto, fried food, soft cheeses",
+    "fr": "Apéritif, fruits de mer, poisson cru, risotto, fritures, fromages à pâte molle",
+    "it": "Aperitivo, crostacei, pesce crudo, risotto, fritture, formaggi a pasta molle"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de vino blanco o flauta",
+    "en": "6-8 °C, white wine glass or flute",
+    "fr": "6-8 °C, verre à vin blanc ou flûte",
+    "it": "6-8 °C, calice da vino bianco o flûte"
+  },
+  "search": "Ferrari Maximum Brut Trento DOC"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "fleur-de-pedesclaux",
+  "name": "Fleur de Pedesclaux",
+  "winery": "chateau-pedesclaux",
+  "region": "pauillac",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Segundo vino",
+    "en": "Second wine",
+    "fr": "Second vin",
+    "it": "Secondo vino"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Segundo vino de Château Pedesclaux, un Pauillac afrutado y de taninos suaves, pensado para disfrutarse antes que el gran vino.",
+    "en": "Second wine of Château Pedesclaux, a fruity Pauillac with soft tannins, intended to be enjoyed earlier than the grand vin.",
+    "fr": "Second vin du Château Pedesclaux, un pauillac fruité aux tanins souples, conçu pour être apprécié plus tôt que le grand vin.",
+    "it": "Secondo vino di Château Pedesclaux, un Pauillac fruttato dai tannini morbidi, pensato per essere goduto prima del grand vin."
+  },
+  "body": {
+    "es": "<p><strong>Fleur de Pedesclaux</strong> es el segundo vino de <strong>Château Pedesclaux</strong>, quinto gran cru clasificado de la denominación <strong>Pauillac</strong>. Se elabora con los lotes que no se destinan al gran vino, a menudo procedentes de viñas más jóvenes o de parcelas de perfil más ligero, del mismo viñedo de gravas del Médoc.</p><p>El ensamblaje combina <strong>Cabernet Sauvignon y Merlot</strong>, con un peso del Merlot que suele aportar más redondez que en el gran vino. Se vinifica en la misma bodega por gravedad y se cría en barrica durante menos tiempo o con menos madera nueva.</p><p>El resultado es un tinto de cuerpo medio, con fruta negra jugosa y taninos amables, que muestra el carácter de Pauillac de forma más inmediata. Está pensado para beberse en los primeros años tras la cosecha, aunque las buenas añadas aguantan bien algunos años en botella.</p>",
+    "en": "<p><strong>Fleur de Pedesclaux</strong> is the second wine of <strong>Château Pedesclaux</strong>, a fifth growth in the <strong>Pauillac</strong> appellation. It is made from lots not used for the grand vin, often from younger vines or lighter plots, from the same Médoc gravel vineyard.</p><p>The blend combines <strong>Cabernet Sauvignon and Merlot</strong>, with Merlot usually bringing more roundness than in the grand vin. It is vinified in the same gravity-flow winery and aged in barrel for a shorter time or with less new oak.</p><p>The result is a medium-bodied red with juicy black fruit and friendly tannins, showing the character of Pauillac in a more immediate way. It is meant to be drunk in the first years after the vintage, although good vintages hold well for some years in bottle and gain a little complexity with time.</p>",
+    "fr": "<p><strong>Fleur de Pedesclaux</strong> est le second vin du <strong>Château Pedesclaux</strong>, cinquième grand cru classé de l’appellation <strong>Pauillac</strong>. Il est élaboré à partir des lots non retenus pour le grand vin, souvent issus de jeunes vignes ou de parcelles au profil plus léger, sur le même vignoble de graves du Médoc.</p><p>L’assemblage associe <strong>cabernet sauvignon et merlot</strong>, le merlot apportant généralement plus de rondeur que dans le grand vin. Il est vinifié dans le même cuvier gravitaire et élevé en barrique moins longtemps ou avec moins de bois neuf.</p><p>Le résultat est un rouge de corps moyen, au fruit noir juteux et aux tanins aimables, qui montre le caractère de Pauillac de façon plus immédiate. Il est conçu pour être bu dans les premières années après la récolte, même si les bons millésimes tiennent bien quelques années en bouteille.</p>",
+    "it": "<p><strong>Fleur de Pedesclaux</strong> è il secondo vino di <strong>Château Pedesclaux</strong>, quinto grand cru classé della denominazione <strong>Pauillac</strong>. Si produce con i lotti non destinati al grand vin, spesso da viti più giovani o da parcelle dal profilo più leggero, dello stesso vigneto di ghiaie del Médoc.</p><p>L’assemblaggio unisce <strong>Cabernet Sauvignon e Merlot</strong>, con il Merlot che di solito apporta più rotondità che nel grand vin. Viene vinificato nella stessa cantina a gravità e affina in barrique per un periodo più breve o con meno legno nuovo.</p><p>Il risultato è un rosso di medio corpo, con frutto nero succoso e tannini gentili, che mostra il carattere di Pauillac in modo più immediato. È pensato per essere bevuto nei primi anni dopo la vendemmia, anche se le buone annate reggono bene qualche anno in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rubí. Aromas de mora, casis y un toque de cedro. Boca jugosa, de cuerpo medio, con taninos suaves y final afrutado.",
+    "en": "Ruby. Aromas of blackberry, blackcurrant and a touch of cedar. Juicy, medium-bodied palate with soft tannins and a fruity finish.",
+    "fr": "Rubis. Arômes de mûre, de cassis et une touche de cèdre. Bouche juteuse, de corps moyen, aux tanins souples et finale fruitée.",
+    "it": "Rubino. Aromi di mora, ribes nero e un tocco di cedro. Bocca succosa, di medio corpo, con tannini morbidi e finale fruttato."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la parrilla, aves asadas, quesos semicurados",
+    "en": "Grilled red meat, roast poultry, semi-hard cheeses",
+    "fr": "Viandes rouges grillées, volailles rôties, fromages mi-affinés",
+    "it": "Carni rosse alla griglia, pollame arrosto, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de Burdeos",
+    "en": "16-18 °C, Bordeaux glass",
+    "fr": "16-18 °C, verre de type bordelais",
+    "it": "16-18 °C, calice tipo Bordeaux"
+  },
+  "search": "Fleur de Pedesclaux Pauillac"
+}

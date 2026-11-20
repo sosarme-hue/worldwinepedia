@@ -1,0 +1,42 @@
+{
+  "slug": "district-7-cabernet-sauvignon",
+  "name": "District 7 Cabernet Sauvignon",
+  "winery": null,
+  "winery_name": "District 7",
+  "region": null,
+  "country": "estados-unidos",
+  "appellation": "Monterey",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "District 7 Cabernet Sauvignon es un vino tinto de District 7, con la denominación Monterey, en Estados Unidos.",
+    "en": "District 7 Cabernet Sauvignon is a red wine from District 7, made under the Monterey appellation in United States.",
+    "fr": "District 7 Cabernet Sauvignon est un vin rouge de District 7, élaboré sous l’appellation Monterey (États-Unis).",
+    "it": "District 7 Cabernet Sauvignon è un vino rosso di District 7, prodotto nella denominazione Monterey (Stati Uniti)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Cabernet Sauvignon. Tiene crianza en madera. Su graduación es de 14 % vol.</p>",
+    "en": "<p>It is made from Cabernet Sauvignon. It is aged in wood. It has 14% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Cabernet Sauvignon. Il est élevé en bois. Il titre 14 % vol.</p>",
+    "it": "<p>È prodotto con Cabernet Sauvignon. È affinato in legno. Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "District 7 Cabernet Sauvignon District 7",
+  "brief": true,
+  "source": "decantalo"
+}

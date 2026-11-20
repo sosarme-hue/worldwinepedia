@@ -1,0 +1,42 @@
+{
+  "slug": "azores-wine-company-arinto-dos-acores",
+  "name": "Azores Wine Company Arinto dos Açores",
+  "winery": null,
+  "winery_name": "Azores Wine Company",
+  "region": null,
+  "country": "portugal",
+  "appellation": "DOC Pico",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "arinto"
+  ],
+  "summary": {
+    "es": "Azores Wine Company Arinto dos Açores es un vino blanco de Azores Wine Company, con la denominación DOC Pico, en Portugal.",
+    "en": "Azores Wine Company Arinto dos Açores is a white wine from Azores Wine Company, made under the DOC Pico appellation in Portugal.",
+    "fr": "Azores Wine Company Arinto dos Açores est un vin blanc de Azores Wine Company, élaboré sous l’appellation DOC Pico (Portugal).",
+    "it": "Azores Wine Company Arinto dos Açores è un vino bianco di Azores Wine Company, prodotto nella denominazione DOC Pico (Portogallo)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Arinto. Se cría sobre sus lías. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is made from Arinto. It is aged on its lees. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Arinto. Il est élevé sur lies. Il titre 12,5 % vol.</p>",
+    "it": "<p>È prodotto con Arinto. Affina sulle fecce fini. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Azores Wine Company Arinto dos Açores Azores Wine Company",
+  "brief": true,
+  "source": "decantalo"
+}

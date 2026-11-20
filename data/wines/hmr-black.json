@@ -1,0 +1,42 @@
+{
+  "slug": "hmr-black",
+  "name": "HMR Black",
+  "winery": null,
+  "winery_name": "Heretat MontRubí",
+  "region": "penedes",
+  "country": "espana",
+  "appellation": "DO Penedès",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "HMR Black es un vino tinto de Heretat MontRubí, con la denominación DO Penedès, en España.",
+    "en": "HMR Black is a red wine from Heretat MontRubí, made under the DO Penedès appellation in Spain.",
+    "fr": "HMR Black est un vin rouge de Heretat MontRubí, élaboré sous l’appellation DO Penedès (Espagne).",
+    "it": "HMR Black è un vino rosso di Heretat MontRubí, prodotto nella denominazione DO Penedès (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 14 % vol.</p><p>Penedès es una denominación de origen de Cataluña, entre Barcelona y Tarragona, conocida por sus blancos de Xarel·lo, Macabeo y Parellada y por una amplia gama de tintos, rosados y espumosos. Su territorio coincide en buena parte con el corazón de la producción de Cava.</p>",
+    "en": "<p>It is made from Grenache. It is a young wine, meant to be drunk in its first years. It has 14% ABV.</p><p>Penedès is a designation of origin in Catalonia, between Barcelona and Tarragona, known for its whites from Xarel·lo, Macabeo and Parellada and for a wide range of reds, rosés and sparkling wines. Its territory largely overlaps with the heartland of Cava production.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. C’est un vin jeune, à boire dans ses premières années. Il titre 14 % vol.</p><p>Le Penedès est une dénomination d'origine de Catalogne, entre Barcelone et Tarragone, connue pour ses blancs de xarel·lo, de macabeo et de parellada et pour une large gamme de rouges, de rosés et d'effervescents. Son territoire coïncide en grande partie avec le cœur de la production du Cava.</p>",
+    "it": "<p>È prodotto con Grenache. È un vino giovane, da bere nei primi anni. Ha 14% vol.</p><p>Il Penedès è una denominazione di origine della Catalogna, tra Barcellona e Tarragona, nota per i bianchi di Xarel·lo, Macabeo e Parellada e per un'ampia gamma di rossi, rosati e spumanti. Il suo territorio coincide in gran parte con il cuore della produzione del Cava.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "HMR Black Heretat MontRubí",
+  "brief": true,
+  "source": "decantalo"
+}

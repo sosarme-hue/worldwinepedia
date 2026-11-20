@@ -1,0 +1,50 @@
+{
+  "slug": "marques-de-caceres-reserva",
+  "name": "Marqués de Cáceres Reserva",
+  "winery": "marques-de-caceres",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [
+    "tempranillo",
+    "garnacha",
+    "graciano"
+  ],
+  "summary": {
+    "es": "Reserva de Rioja de Marqués de Cáceres, elaborado en las mejores añadas con uva de la Rioja Alta y criado en barrica durante un periodo más prolongado que el Crianza.",
+    "en": "Rioja Reserva from Marqués de Cáceres, made in the best vintages from Rioja Alta grapes and aged in barrel for longer than the Crianza.",
+    "fr": "Reserva de Rioja de Marqués de Cáceres, élaboré les meilleurs millésimes avec du raisin de la Rioja Alta et élevé en barrique plus longtemps que le Crianza.",
+    "it": "Reserva della Rioja di Marqués de Cáceres, prodotto nelle annate migliori con uve della Rioja Alta e affinato in barrique più a lungo del Crianza."
+  },
+  "body": {
+    "es": "<p>El Reserva ocupa un escalón superior en la gama clásica de Marqués de Cáceres. Se elabora con uva de viñedos seleccionados de la Rioja Alta, sobre todo Tempranillo, acompañado de Garnacha y Graciano en proporciones que cambian de una cosecha a otra. La bodega lo elabora en añadas que considera adecuadas para una crianza larga.</p><p>Según las normas de la Denominación de Origen Calificada Rioja, un Reserva debe envejecer al menos tres años entre barrica y botella, con un mínimo de un año en madera. Marqués de Cáceres utiliza barricas de roble francés y americano y, tras la crianza en madera, mantiene el vino en botella en sus instalaciones de Cenicero antes de comercializarlo. Esa crianza en botella contribuye a redondear los taninos y a integrar los aromas de la madera.</p><p>El resultado es un tinto más complejo y estructurado que el Crianza, con capacidad para evolucionar durante varios años en una bodega bien acondicionada.</p>",
+    "en": "<p>The Reserva occupies a higher step in Marqués de Cáceres’s classic range. It is made from grapes from selected vineyards in Rioja Alta, mainly Tempranillo, accompanied by Garnacha and Graciano in proportions that change from one harvest to the next. The winery makes it in vintages it considers suitable for long ageing.</p><p>Under the rules of the Rioja Denominación de Origen Calificada, a Reserva must age for at least three years between barrel and bottle, with a minimum of one year in wood. Marqués de Cáceres uses French and American oak barrels and, after the wood ageing, keeps the wine in bottle in its Cenicero cellars before releasing it. That bottle ageing helps to round out the tannins and integrate the oak aromas.</p><p>The result is a red that is more complex and structured than the Crianza, able to develop for several years in a well-kept cellar.</p>",
+    "fr": "<p>Le Reserva occupe une marche supérieure dans la gamme classique de Marqués de Cáceres. Il est élaboré avec le raisin de vignes sélectionnées de la Rioja Alta, surtout du tempranillo, accompagné de grenache et de graciano dans des proportions qui changent d’une récolte à l’autre. La bodega le produit les millésimes qu’elle juge propices à un long élevage.</p><p>Selon les règles de la Denominación de Origen Calificada Rioja, un Reserva doit vieillir au moins trois ans entre barrique et bouteille, dont un an minimum sous bois. Marqués de Cáceres utilise des barriques de chêne français et américain et, après l’élevage sous bois, conserve le vin en bouteille dans ses caves de Cenicero avant de le commercialiser. Ce vieillissement en bouteille contribue à arrondir les tanins et à intégrer les arômes du bois.</p><p>Il en résulte un rouge plus complexe et plus structuré que le Crianza, capable d’évoluer plusieurs années dans une cave bien tenue.</p>",
+    "it": "<p>Il Reserva occupa un gradino superiore nella gamma classica di Marqués de Cáceres. È prodotto con uve di vigneti selezionati della Rioja Alta, soprattutto Tempranillo, accompagnato da Garnacha e Graciano in proporzioni che cambiano da una vendemmia all’altra. La cantina lo produce nelle annate che ritiene adatte a un lungo affinamento.</p><p>Secondo le norme della Denominación de Origen Calificada Rioja, un Reserva deve invecchiare almeno tre anni tra barrique e bottiglia, di cui almeno uno in legno. Marqués de Cáceres utilizza barrique di rovere francese e americano e, dopo l’affinamento in legno, conserva il vino in bottiglia nelle sue cantine di Cenicero prima di commercializzarlo. Questo affinamento in bottiglia contribuisce ad arrotondare i tannini e a integrare gli aromi del legno.</p><p>Il risultato è un rosso più complesso e strutturato del Crianza, in grado di evolvere per diversi anni in una cantina ben tenuta.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota con ribete teja. Fruta roja y negra madura, especias dulces, notas de cuero y tostados. En boca es amplio, de taninos pulidos y final largo y especiado.",
+    "en": "Deep cherry red with a brick rim. Ripe red and black fruit, sweet spice, notes of leather and toast. Broad on the palate, with polished tannins and a long, spicy finish.",
+    "fr": "Rouge cerise burlat à reflets tuilés. Fruits rouges et noirs mûrs, épices douces, notes de cuir et de toasté. Ample en bouche, aux tanins polis et à la finale longue et épicée.",
+    "it": "Rosso ciliegia con unghia mattone. Frutta rossa e nera matura, spezie dolci, note di cuoio e tostatura. In bocca è ampio, con tannini levigati e finale lungo e speziato."
+  },
+  "pairing": {
+    "es": "Cordero lechal asado, solomillo de ternera, caza menor, quesos curados",
+    "en": "Roast suckling lamb, beef tenderloin, small game, aged cheeses",
+    "fr": "Agneau de lait rôti, filet de bœuf, petit gibier, fromages affinés",
+    "it": "Agnello da latte arrosto, filetto di manzo, selvaggina di piccola taglia, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Marqués de Cáceres Reserva Rioja"
+}

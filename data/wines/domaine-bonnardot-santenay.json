@@ -1,0 +1,42 @@
+{
+  "slug": "domaine-bonnardot-santenay",
+  "name": "Domaine Bonnardot Santenay",
+  "winery": null,
+  "winery_name": "Domaine Bonnardot",
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Santenay",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Domaine Bonnardot Santenay es un vino tinto de Domaine Bonnardot, con la denominación AOC Santenay, en Francia.",
+    "en": "Domaine Bonnardot Santenay is a red wine from Domaine Bonnardot, made under the AOC Santenay appellation in France.",
+    "fr": "Domaine Bonnardot Santenay est un vin rouge de Domaine Bonnardot, élaboré sous l’appellation AOC Santenay (France).",
+    "it": "Domaine Bonnardot Santenay è un vino rosso di Domaine Bonnardot, prodotto nella denominazione AOC Santenay (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Pinot Noir. Tiene crianza en madera. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is made from Pinot Noir. It is aged in wood. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Pinot Noir. Il est élevé en bois. Il titre 12,5 % vol.</p>",
+    "it": "<p>È prodotto con Pinot Nero. È affinato in legno. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Domaine Bonnardot Santenay Domaine Bonnardot",
+  "brief": true,
+  "source": "decantalo"
+}

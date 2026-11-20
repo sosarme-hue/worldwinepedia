@@ -1,0 +1,45 @@
+{
+  "slug": "el-origen-de-prieto-pariente",
+  "name": "El Origen de Prieto Pariente",
+  "winery": null,
+  "winery_name": "Prieto Pariente",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Castilla y León",
+  "type": "espumoso",
+  "category": {
+    "es": "Crianza",
+    "en": "Crianza",
+    "fr": "Crianza",
+    "it": "Crianza"
+  },
+  "grapes": [],
+  "summary": {
+    "es": "El Origen de Prieto Pariente es un vino espumoso de Prieto Pariente, con la denominación VT Castilla y León, en España.",
+    "en": "El Origen de Prieto Pariente is a sparkling wine from Prieto Pariente, made under the VT Castilla y León appellation in Spain.",
+    "fr": "El Origen de Prieto Pariente est un vin effervescent de Prieto Pariente, élaboré sous l’appellation VT Castilla y León (Espagne).",
+    "it": "El Origen de Prieto Pariente è un vino spumante di Prieto Pariente, prodotto nella denominazione VT Castilla y León (Spagna)."
+  },
+  "body": {
+    "es": "<p>Lleva la mención Crianza. Su graduación es de 14,5 % vol.</p>",
+    "en": "<p>It carries the Crianza designation. It has 14.5% ABV.</p>",
+    "fr": "<p>Il porte la mention Crianza. Il titre 14,5 % vol.</p>",
+    "it": "<p>Riporta la menzione Crianza. Ha 14,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "El Origen de Prieto Pariente Prieto Pariente",
+  "brief": true,
+  "source": "decantalo"
+}

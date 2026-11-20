@@ -1,0 +1,49 @@
+{
+  "slug": "fleur-de-miraval-er3",
+  "name": "Fleur de Miraval ER3",
+  "winery": "chateau-miraval",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut rosé",
+    "en": "Brut rosé",
+    "fr": "Brut rosé",
+    "it": "Brut rosé"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Champán rosado de prestigio de Fleur de Miraval, tercera edición de su cuvée «Exclusivement Rosé».",
+    "en": "Prestige rosé Champagne from Fleur de Miraval, the third edition of its “Exclusivement Rosé” cuvée.",
+    "fr": "Champagne rosé de prestige de Fleur de Miraval, troisième édition de sa cuvée « Exclusivement Rosé ».",
+    "it": "Champagne rosé di prestigio di Fleur de Miraval, terza edizione della sua cuvée «Exclusivement Rosé»."
+  },
+  "body": {
+    "es": "<p><strong>Fleur de Miraval</strong> es el proyecto de champán vinculado a Château Miraval, la finca provenzal conocida por su rosado. Nació de la colaboración con la familia Péters, viticultores de Le Mesnil-sur-Oger, en la Côte des Blancs, y se dedica exclusivamente al <strong>champán rosado</strong>. Los vinos se elaboran por ensamblaje: una base de <strong>Chardonnay</strong>, que aporta finura y frescura, recibe una pequeña proporción de vino tinto de <strong>Pinot Noir</strong>, que da el color y la fruta roja.</p><p>La cuvée principal de la casa se presenta por ediciones numeradas: las letras <strong>ER</strong> corresponden a «Exclusivement Rosé» y la cifra indica la edición. Cada edición ensambla vinos de varias añadas, con un largo envejecimiento sobre lías antes del degüelle. El resultado es un champán rosado de color pálido, fino y cremoso, en el que la tensión del Chardonnay se combina con la fruta delicada del Pinot Noir.</p>",
+    "en": "<p><strong>Fleur de Miraval</strong> is the Champagne project linked to Château Miraval, the Provence estate known for its rosé. It was born of a collaboration with the Péters family, growers in Le Mesnil-sur-Oger in the Côte des Blancs, and is devoted exclusively to <strong>rosé Champagne</strong>. The wines are made by blending: a <strong>Chardonnay</strong> base, which brings finesse and freshness, receives a small proportion of red <strong>Pinot Noir</strong> wine, which provides colour and red fruit.</p><p>The house’s main cuvée is released in numbered editions: the letters <strong>ER</strong> stand for “Exclusivement Rosé” and the number indicates the edition. Each edition blends wines from several years, with long ageing on the lees before disgorgement. The result is a pale, fine and creamy rosé Champagne in which the tension of Chardonnay combines with the delicate fruit of Pinot Noir.</p>",
+    "fr": "<p><strong>Fleur de Miraval</strong> est le projet champenois lié au Château Miraval, domaine provençal connu pour son rosé. Il est né d’une collaboration avec la famille Péters, vignerons au Mesnil-sur-Oger, dans la Côte des Blancs, et se consacre exclusivement au <strong>champagne rosé</strong>. Les vins sont élaborés par assemblage : une base de <strong>chardonnay</strong>, qui apporte finesse et fraîcheur, reçoit une petite part de vin rouge de <strong>pinot noir</strong>, qui donne la couleur et le fruit rouge.</p><p>La cuvée principale de la maison est présentée en éditions numérotées : les lettres <strong>ER</strong> signifient « Exclusivement Rosé » et le chiffre indique l’édition. Chaque édition assemble des vins de plusieurs années, avec un long vieillissement sur lies avant le dégorgement. Il en résulte un champagne rosé à la robe pâle, fin et crémeux, où la tension du chardonnay s’unit au fruit délicat du pinot noir.</p>",
+    "it": "<p><strong>Fleur de Miraval</strong> è il progetto di champagne legato al Château Miraval, la tenuta provenzale nota per il suo rosé. È nato dalla collaborazione con la famiglia Péters, viticoltori a Le Mesnil-sur-Oger, nella Côte des Blancs, ed è dedicato esclusivamente allo <strong>champagne rosé</strong>. I vini sono prodotti per assemblaggio: una base di <strong>Chardonnay</strong>, che apporta finezza e freschezza, riceve una piccola quota di vino rosso di <strong>Pinot Noir</strong>, che dona colore e frutto rosso.</p><p>La cuvée principale della maison è presentata in edizioni numerate: le lettere <strong>ER</strong> stanno per «Exclusivement Rosé» e il numero indica l’edizione. Ogni edizione assembla vini di diverse annate, con un lungo affinamento sui lieviti prima della sboccatura. Il risultato è uno champagne rosé dal colore tenue, fine e cremoso, in cui la tensione dello Chardonnay si unisce al frutto delicato del Pinot Noir.</p>"
+  },
+  "tasting": {
+    "es": "Rosa pálido, burbuja muy fina. Aromas de frutos rojos, cítricos, flores y notas de bollería. Boca cremosa, fresca y larga.",
+    "en": "Pale pink with very fine bubbles. Aromas of red berries, citrus, flowers and pastry notes. Creamy, fresh, long palate.",
+    "fr": "Rose pâle, bulle très fine. Arômes de petits fruits rouges, d’agrumes, de fleurs et notes de pâtisserie. Bouche crémeuse, fraîche et longue.",
+    "it": "Rosa tenue, perlage finissimo. Aromi di frutti rossi, agrumi, fiori e note di pasticceria. Bocca cremosa, fresca e lunga."
+  },
+  "pairing": {
+    "es": "Aperitivo, marisco, salmón, sushi, aves",
+    "en": "Aperitif, shellfish, salmon, sushi, poultry",
+    "fr": "Apéritif, fruits de mer, saumon, sushi, volailles",
+    "it": "Aperitivo, frutti di mare, salmone, sushi, pollame"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Fleur de Miraval ER3 Champagne rosé"
+}

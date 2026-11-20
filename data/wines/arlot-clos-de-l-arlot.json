@@ -1,0 +1,48 @@
+{
+  "slug": "arlot-clos-de-l-arlot",
+  "name": "Nuits-Saint-Georges 1er Cru Clos de l’Arlot",
+  "winery": "domaine-de-l-arlot",
+  "region": "cote-de-nuits",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Premier Cru (monopolio)",
+    "en": "Premier Cru (monopole)",
+    "fr": "Premier Cru (monopole)",
+    "it": "Premier Cru (monopolio)"
+  },
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Nuits-Saint-Georges premier cru tinto del Clos de l’Arlot, viñedo cercado y monopolio del dominio en Premeaux-Prissey, de estilo fino y aromático.",
+    "en": "Red Nuits-Saint-Georges premier cru from the Clos de l’Arlot, the domaine’s walled monopole vineyard in Premeaux-Prissey, fine and aromatic in style.",
+    "fr": "Nuits-Saint-Georges premier cru rouge du Clos de l’Arlot, vignoble clos et monopole du domaine à Premeaux-Prissey, au style fin et aromatique.",
+    "it": "Nuits-Saint-Georges premier cru rosso del Clos de l’Arlot, vigneto cintato e monopolio del domaine a Premeaux-Prissey, dallo stile fine e aromatico."
+  },
+  "body": {
+    "es": "<p>El <strong>Clos de l’Arlot</strong> es un premier cru de la denominación <strong>Nuits-Saint-Georges</strong>, en el municipio de Premeaux-Prissey, y da nombre al dominio. Es un <strong>monopolio</strong>: un viñedo rodeado de muros, dispuesto en terrazas en una ladera empinada junto a la casa y su parque, sobre suelos pedregosos y calcáreos, de poca profundidad.</p><p>La mayor parte del clos está plantada con <strong>Pinot Noir</strong>, que da este tinto, mientras que una parte se dedica a variedades blancas para un vino blanco poco habitual en la denominación. La vendimia es manual y la crianza se realiza en barricas de roble francés, con un uso moderado de madera nueva.</p><p>El tinto del Clos de l’Arlot se distingue por su delicadeza y su perfil aromático, con fruta roja, flores y especias finas, más cerca de la elegancia que de la potencia que a menudo se asocia a Nuits-Saint-Georges. Gana complejidad con algunos años de guarda.</p>",
+    "en": "<p>The <strong>Clos de l’Arlot</strong> is a premier cru of the <strong>Nuits-Saint-Georges</strong> appellation, in the commune of Premeaux-Prissey, and gives the domaine its name. It is a <strong>monopole</strong>: a walled vineyard laid out in terraces on a steep slope next to the house and its park, on shallow, stony limestone soils.</p><p>Most of the clos is planted with <strong>Pinot Noir</strong>, which produces this red, while part of it is given over to white varieties for a white wine that is unusual in the appellation. Harvesting is by hand and ageing takes place in French oak barrels, with moderate use of new wood.</p><p>The red Clos de l’Arlot stands out for its delicacy and aromatic profile, with red fruit, flowers and fine spice, closer to elegance than to the power often associated with Nuits-Saint-Georges. It gains complexity with a few years of cellaring and can develop gracefully over a longer period in good vintages.</p>",
+    "fr": "<p>Le <strong>Clos de l’Arlot</strong> est un premier cru de l’appellation <strong>Nuits-Saint-Georges</strong>, sur la commune de Premeaux-Prissey, et donne son nom au domaine. C’est un <strong>monopole</strong> : un vignoble ceint de murs, disposé en terrasses sur un coteau pentu à côté de la maison et de son parc, sur des sols calcaires caillouteux et peu profonds.</p><p>L’essentiel du clos est planté de <strong>pinot noir</strong>, qui donne ce rouge, tandis qu’une partie est consacrée à des cépages blancs pour un vin blanc peu courant dans l’appellation. Les vendanges sont manuelles et l’élevage se fait en barriques de chêne français, avec un recours modéré au bois neuf.</p><p>Le Clos de l’Arlot rouge se distingue par sa délicatesse et son profil aromatique, aux fruits rouges, aux fleurs et aux épices fines, plus proche de l’élégance que de la puissance souvent associée à Nuits-Saint-Georges. Il gagne en complexité après quelques années de garde.</p>",
+    "it": "<p>Il <strong>Clos de l’Arlot</strong> è un premier cru della denominazione <strong>Nuits-Saint-Georges</strong>, nel comune di Premeaux-Prissey, e dà il nome al domaine. È un <strong>monopolio</strong>: un vigneto cinto da mura, disposto a terrazze su un pendio ripido accanto alla casa e al suo parco, su suoli calcarei sassosi e poco profondi.</p><p>La maggior parte del clos è piantata a <strong>Pinot Noir</strong>, da cui nasce questo rosso, mentre una parte è dedicata a varietà bianche per un vino bianco poco comune nella denominazione. La vendemmia è manuale e l’affinamento avviene in barrique di rovere francese, con un uso moderato di legno nuovo.</p><p>Il Clos de l’Arlot rosso si distingue per la sua delicatezza e il suo profilo aromatico, con frutti rossi, fiori e spezie fini, più vicino all’eleganza che alla potenza spesso associata a Nuits-Saint-Georges. Guadagna complessità con qualche anno di affinamento.</p>"
+  },
+  "tasting": {
+    "es": "Rubí brillante. Aromas de frambuesa, cereza, rosa y especias finas. Boca delicada y fresca, de taninos sedosos y final persistente.",
+    "en": "Bright ruby. Aromas of raspberry, cherry, rose and fine spice. Delicate, fresh palate with silky tannins and a persistent finish.",
+    "fr": "Rubis brillant. Arômes de framboise, de cerise, de rose et d’épices fines. Bouche délicate et fraîche, aux tanins soyeux et finale persistante.",
+    "it": "Rubino brillante. Aromi di lampone, ciliegia, rosa e spezie fini. Bocca delicata e fresca, dai tannini setosi e finale persistente."
+  },
+  "pairing": {
+    "es": "Pato asado, aves de corral, setas, quesos de pasta blanda",
+    "en": "Roast duck, farmyard poultry, mushrooms, soft cheeses",
+    "fr": "Canard rôti, volailles fermières, champignons, fromages à pâte molle",
+    "it": "Anatra arrosto, pollame da cortile, funghi, formaggi a pasta molle"
+  },
+  "serve": {
+    "es": "15-17 °C, copa de Borgoña",
+    "en": "15-17 °C, Burgundy glass",
+    "fr": "15-17 °C, verre de type bourguignon",
+    "it": "15-17 °C, calice tipo Borgogna"
+  },
+  "search": "Clos de l’Arlot Nuits-Saint-Georges rouge Domaine de l’Arlot"
+}

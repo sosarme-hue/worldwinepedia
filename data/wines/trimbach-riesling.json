@@ -1,0 +1,41 @@
+{
+  "slug": "trimbach-riesling",
+  "name": "Trimbach Riesling",
+  "winery": "trimbach",
+  "region": "alsace",
+  "country": "francia",
+  "type": "blanco",
+  "category": null,
+  "grapes": ["riesling"],
+  "summary": {
+    "es": "El Riesling básico de la casa Trimbach, un Alsacia seco, tenso y mineral que resume el estilo de la casa.",
+    "en": "Maison Trimbach’s basic Riesling, a dry, taut and mineral Alsace that sums up the house style.",
+    "fr": "Le riesling de base de la maison Trimbach, un alsace sec, tendu et minéral qui résume le style de la maison.",
+    "it": "Il Riesling base della casa Trimbach, un Alsazia secco, teso e minerale che riassume lo stile della casa."
+  },
+  "body": {
+    "es": "<p>El Riesling de la gama Classic es uno de los vinos más difundidos de Trimbach y una buena puerta de entrada a su estilo. Se elabora con uvas de viñedos propios y de viticultores de la zona de Ribeauvillé y sus alrededores, al pie de los Vosgos, con suelos variados en los que predominan las calizas.</p><p>Fermenta en depósitos de acero inoxidable y en grandes toneles de roble antiguos, que no aportan sabores de madera, y se embotella relativamente pronto para preservar su frescura. Fiel a la línea de la casa, es un vino seco, sin el azúcar residual perceptible que se encuentra en otros Riesling de Alsacia.</p><p>Es un blanco ligero a medio, de acidez marcada y carácter mineral, muy versátil en la mesa, que puede disfrutarse joven y también evoluciona bien durante algunos años.</p>",
+    "en": "<p>The Riesling from the Classic range is one of Trimbach’s most widely available wines and a good introduction to its style. It is made from grapes from the house’s own vineyards and from growers in and around Ribeauvillé, at the foot of the Vosges, on varied soils in which limestone predominates.</p><p>It ferments in stainless-steel tanks and large old oak casks, which add no oak flavours, and is bottled relatively early to preserve its freshness. In keeping with the house line, it is a dry wine, without the noticeable residual sugar found in some other Alsace Rieslings.</p><p>It is a light-to-medium white with marked acidity and a mineral character, very versatile at the table, which can be enjoyed young and also develops well for a few years.</p>",
+    "fr": "<p>Le riesling de la gamme Classic est l’un des vins les plus diffusés de Trimbach et une bonne porte d’entrée dans son style. Il est élaboré à partir de raisins des vignes de la maison et de vignerons de Ribeauvillé et de ses environs, au pied des Vosges, sur des sols variés où dominent les calcaires.</p><p>Il fermente en cuves inox et en grands foudres de chêne anciens, qui n’apportent pas de goût boisé, et il est mis en bouteille assez tôt pour préserver sa fraîcheur. Fidèle à la ligne de la maison, c’est un vin sec, sans le sucre résiduel perceptible de certains autres rieslings d’Alsace.</p><p>C’est un blanc léger à moyennement corsé, à l’acidité marquée et au caractère minéral, très polyvalent à table, qui s’apprécie jeune et évolue aussi bien pendant quelques années.</p>",
+    "it": "<p>Il Riesling della linea Classic è uno dei vini più diffusi di Trimbach e una buona porta d’ingresso al suo stile. Si produce con uve dei vigneti di proprietà e di viticoltori di Ribeauvillé e dintorni, ai piedi dei Vosgi, su suoli vari in cui prevalgono i calcari.</p><p>Fermenta in vasche d’acciaio inox e in grandi botti di rovere antiche, che non cedono sentori di legno, e viene imbottigliato relativamente presto per preservarne la freschezza. Fedele alla linea della casa, è un vino secco, senza lo zucchero residuo percepibile in altri Riesling d’Alsazia.</p><p>È un bianco di corpo leggero-medio, di acidità marcata e carattere minerale, molto versatile a tavola, che si può gustare giovane e si evolve bene anche per alcuni anni.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido con reflejos verdosos. Aromas de limón, lima, manzana verde, flores blancas y notas minerales. En boca es seco, tenso y fresco, con final largo y salino.",
+    "en": "Pale yellow with green tints. Aromas of lemon, lime, green apple, white flowers and mineral notes. Dry, taut and fresh on the palate, with a long, saline finish.",
+    "fr": "Jaune pâle aux reflets verts. Arômes de citron, de citron vert, de pomme verte, de fleurs blanches et notes minérales. En bouche, sec, tendu et frais, avec une finale longue et saline.",
+    "it": "Giallo tenue con riflessi verdolini. Aromi di limone, lime, mela verde, fiori bianchi e note minerali. In bocca è secco, teso e fresco, con finale lungo e sapido."
+  },
+  "pairing": {
+    "es": "Choucroute, pescados de río, marisco, cocina asiática, quesos frescos",
+    "en": "Choucroute, freshwater fish, shellfish, Asian cuisine, fresh cheeses",
+    "fr": "Choucroute, poissons de rivière, fruits de mer, cuisine asiatique, fromages frais",
+    "it": "Choucroute, pesce d’acqua dolce, frutti di mare, cucina asiatica, formaggi freschi"
+  },
+  "serve": {
+    "es": "9-11 °C, copa de vino blanco",
+    "en": "9-11 °C, white wine glass",
+    "fr": "9-11 °C, verre à vin blanc",
+    "it": "9-11 °C, calice da vino bianco"
+  },
+  "search": "Trimbach Riesling Alsace"
+}

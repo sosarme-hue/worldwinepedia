@@ -1,0 +1,51 @@
+{
+  "slug": "corullon",
+  "name": "Corullón",
+  "winery": "descendientes-de-j-palacios",
+  "winery_name": null,
+  "region": "bierzo",
+  "country": "espana",
+  "appellation": "DO Bierzo",
+  "type": "tinto",
+  "category": {
+    "es": "Crianza",
+    "en": "Crianza",
+    "fr": "Crianza",
+    "it": "Crianza"
+  },
+  "grapes": [
+    "mencia"
+  ],
+  "summary": {
+    "es": "Vino de pueblo de Descendientes de J. Palacios elaborado con Mencía de viñas viejas en las laderas de pizarra de Corullón, en el Bierzo.",
+    "en": "Village wine from Descendientes de J. Palacios made from old-vine Mencía grown on the slate slopes of Corullón, in Bierzo.",
+    "fr": "Vin de village de Descendientes de J. Palacios élaboré avec de la mencía de vieilles vignes sur les coteaux de schiste de Corullón, dans le Bierzo.",
+    "it": "Vino di paese di Descendientes de J. Palacios prodotto con Mencía di vecchie vigne sui pendii di scisto di Corullón, nel Bierzo."
+  },
+  "body": {
+    "es": "<p>Descendientes de J. Palacios es el proyecto que <strong>Álvaro Palacios</strong> y su sobrino <strong>Ricardo Pérez Palacios</strong> pusieron en marcha en 1999 en <strong>Corullón</strong>, al oeste de Villafranca del Bierzo. Su trabajo fue decisivo para el redescubrimiento de la Mencía de ladera y para la idea de clasificar los vinos del Bierzo según su origen, de forma parecida a la jerarquía de Borgoña: vino regional, vino de pueblo y vinos de paraje.</p><p>Corullón es el vino de pueblo de la casa. Procede de numerosas pequeñas parcelas de viñas viejas de <strong>Mencía</strong> repartidas por las laderas empinadas que rodean el pueblo, sobre suelos de <strong>pizarra</strong>, con algunas cepas de otras variedades tradicionales plantadas entre ellas. Los viñedos se trabajan con criterios biodinámicos, a menudo con ayuda de caballerías por la fuerte pendiente.</p><p>El vino fermenta con levaduras autóctonas y se cría en barricas y tinos de roble. Es un tinto de 14 % vol. que muestra la cara más fina y mineral de la Mencía, con buena capacidad para evolucionar en botella.</p>",
+    "en": "<p>Descendientes de J. Palacios is the project that <strong>Álvaro Palacios</strong> and his nephew <strong>Ricardo Pérez Palacios</strong> launched in 1999 in <strong>Corullón</strong>, west of Villafranca del Bierzo. Their work was decisive in the rediscovery of hillside Mencía and in the idea of classifying Bierzo wines by origin, much like the Burgundian hierarchy: regional wine, village wine and single-site wines.</p><p>Corullón is the house’s village wine. It comes from many small plots of old <strong>Mencía</strong> vines spread across the steep slopes around the village, on <strong>slate</strong> soils, with a few vines of other traditional varieties interplanted. The vineyards are farmed biodynamically, often with the help of horses or mules because of the steep gradient.</p><p>The wine ferments with native yeasts and is aged in oak barrels and vats. It is a 14% ABV red showing the finest, most mineral side of Mencía, with good potential to develop in bottle.</p>",
+    "fr": "<p>Descendientes de J. Palacios est le projet lancé en 1999 par <strong>Álvaro Palacios</strong> et son neveu <strong>Ricardo Pérez Palacios</strong> à <strong>Corullón</strong>, à l’ouest de Villafranca del Bierzo. Leur travail a été décisif dans la redécouverte de la mencía de coteaux et dans l’idée de classer les vins du Bierzo selon leur origine, à la manière de la hiérarchie bourguignonne : vin régional, vin de village et vins de lieu-dit.</p><p>Corullón est le vin de village de la maison. Il provient de nombreuses petites parcelles de vieilles vignes de <strong>mencía</strong> réparties sur les coteaux escarpés qui entourent le village, sur des sols de <strong>schiste</strong>, avec quelques pieds d’autres cépages traditionnels plantés en mélange. Les vignes sont cultivées en biodynamie, souvent avec l’aide de chevaux ou de mules en raison de la forte pente.</p><p>Le vin fermente en levures indigènes et s’élève en barriques et cuves de chêne. C’est un rouge de 14 % vol. qui montre le visage le plus fin et le plus minéral de la mencía, avec un bon potentiel d’évolution en bouteille.</p>",
+    "it": "<p>Descendientes de J. Palacios è il progetto avviato nel 1999 da <strong>Álvaro Palacios</strong> e dal nipote <strong>Ricardo Pérez Palacios</strong> a <strong>Corullón</strong>, a ovest di Villafranca del Bierzo. Il loro lavoro fu decisivo per la riscoperta della Mencía di collina e per l’idea di classificare i vini del Bierzo secondo l’origine, in modo simile alla gerarchia borgognona: vino regionale, vino di paese e vini di singolo vigneto.</p><p>Corullón è il vino di paese della casa. Proviene da numerose piccole parcelle di vecchie vigne di <strong>Mencía</strong> distribuite sui ripidi pendii che circondano il paese, su suoli di <strong>scisto</strong>, con alcune viti di altre varietà tradizionali piantate in mezzo. I vigneti sono coltivati in biodinamica, spesso con l’aiuto di cavalli o muli per la forte pendenza.</p><p>Il vino fermenta con lieviti indigeni e affina in barrique e tini di rovere. È un rosso di 14% vol. che mostra il volto più fine e minerale della Mencía, con un buon potenziale di evoluzione in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rojo cereza de capa media. Aromas de fruta roja y negra, violeta, hierbas de monte y notas minerales. En boca es fresco y fino, con taninos sedosos y final largo.",
+    "en": "Medium cherry red. Aromas of red and black fruit, violet, mountain herbs and mineral notes. Fresh and fine on the palate, with silky tannins and a long finish.",
+    "fr": "Rouge cerise de teinte moyenne. Arômes de fruits rouges et noirs, violette, herbes de montagne et notes minérales. En bouche, il est frais et fin, aux tanins soyeux et à la longue finale.",
+    "it": "Rosso ciliegia di media intensità. Aromi di frutta rossa e nera, viola, erbe di montagna e note minerali. In bocca è fresco e fine, con tannini setosi e finale lungo."
+  },
+  "pairing": {
+    "es": "Botillo y embutidos, carnes asadas, setas, aves de caza, quesos curados",
+    "en": "Botillo and charcuterie, roast meats, mushrooms, game birds, aged cheeses",
+    "fr": "Botillo et charcuterie, viandes rôties, champignons, gibier à plume, fromages affinés",
+    "it": "Botillo e salumi, carni arrosto, funghi, selvaggina da piuma, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-17 °C, copa amplia tipo borgoña",
+    "en": "15-17 °C, large Burgundy-style glass",
+    "fr": "15-17 °C, grand verre de type bourgogne",
+    "it": "15-17 °C, ampio calice tipo borgogna"
+  },
+  "search": "Corullón Descendientes de J. Palacios",
+  "source": "decantalo"
+}

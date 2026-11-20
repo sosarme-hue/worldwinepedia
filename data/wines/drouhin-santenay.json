@@ -1,0 +1,43 @@
+{
+  "slug": "drouhin-santenay",
+  "name": "Santenay",
+  "winery": "joseph-drouhin",
+  "region": "cote-de-beaune",
+  "country": "francia",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Santenay tinto de Joseph Drouhin, un Pinot Noir del extremo sur de la Côte de Beaune, afrutado y de estructura firme.",
+    "en": "Red Santenay from Joseph Drouhin, a Pinot Noir from the southern tip of the Côte de Beaune, fruity and firmly structured.",
+    "fr": "Santenay rouge de Joseph Drouhin, un pinot noir de l’extrémité sud de la Côte de Beaune, fruité et bien charpenté.",
+    "it": "Santenay rosso di Joseph Drouhin, un Pinot Noir dell’estremità meridionale della Côte de Beaune, fruttato e di struttura salda."
+  },
+  "body": {
+    "es": "<p><strong>Santenay</strong> es el último pueblo de la Côte de Beaune hacia el sur, más allá de Chassagne-Montrachet, antes de que la Côte d’Or dé paso a la Côte Chalonnaise. Aunque la denominación admite blancos, la mayor parte de su producción es de tintos de <strong>Pinot Noir</strong>, conocidos por su fruta generosa y una estructura algo más firme que la de otros pueblos vecinos.</p><p>Joseph Drouhin, casa de negocio y propietaria de viñedos con sede en Beaune desde 1880, elabora este village a partir de uvas de distintas parcelas de la denominación. La vinificación sigue el estilo de la casa, que privilegia la finura, una extracción moderada y una crianza en barrica en la que la madera queda en segundo plano.</p><p>El resultado es un tinto de corte clásico, afrutado y fácil de comprender, que puede disfrutarse joven y que también admite algunos años de guarda en botella, cuando sus taninos se suavizan y aparecen aromas más terrosos.</p>",
+    "en": "<p><strong>Santenay</strong> is the southernmost village of the Côte de Beaune, beyond Chassagne-Montrachet, just before the Côte d’Or gives way to the Côte Chalonnaise. Although the appellation allows white wines, most of its production is red <strong>Pinot Noir</strong>, known for generous fruit and a somewhat firmer structure than that of some neighbouring villages.</p><p>Joseph Drouhin, a négociant and vineyard owner based in Beaune since 1880, makes this village wine from grapes grown on various plots within the appellation. Vinification follows the house style, which favours finesse, moderate extraction and barrel ageing in which the oak stays in the background.</p><p>The result is a classic red, fruity and easy to understand, that can be enjoyed young and can also take a few years of bottle ageing, when its tannins soften and earthier aromas appear.</p>",
+    "fr": "<p><strong>Santenay</strong> est le dernier village de la Côte de Beaune vers le sud, au-delà de Chassagne-Montrachet, avant que la Côte-d’Or ne cède la place à la Côte chalonnaise. Bien que l’appellation admette des blancs, l’essentiel de sa production est en rouge, issu du <strong>pinot noir</strong>, réputé pour son fruit généreux et une structure un peu plus ferme que celle de certains villages voisins.</p><p>Joseph Drouhin, maison de négoce et propriétaire de vignes installée à Beaune depuis 1880, élabore ce village à partir de raisins provenant de différentes parcelles de l’appellation. La vinification suit le style de la maison, qui privilégie la finesse, une extraction modérée et un élevage en fût où le bois reste discret.</p><p>Il en résulte un rouge classique, fruité et facile à comprendre, qui se boit jeune mais peut aussi vieillir quelques années en bouteille, lorsque ses tanins s’assouplissent et que des arômes plus terriens apparaissent.</p>",
+    "it": "<p><strong>Santenay</strong> è l’ultimo villaggio della Côte de Beaune verso sud, oltre Chassagne-Montrachet, prima che la Côte d’Or lasci il posto alla Côte Chalonnaise. Sebbene la denominazione ammetta i bianchi, la maggior parte della produzione è di rossi da <strong>Pinot Noir</strong>, noti per il frutto generoso e una struttura un po’ più salda rispetto ad alcuni villaggi vicini.</p><p>Joseph Drouhin, négociant e proprietario di vigneti con sede a Beaune dal 1880, produce questo village con uve provenienti da diverse parcelle della denominazione. La vinificazione segue lo stile della casa, che privilegia la finezza, un’estrazione moderata e un affinamento in barrique in cui il legno resta in secondo piano.</p><p>Il risultato è un rosso di taglio classico, fruttato e di facile comprensione, che si può gustare giovane ma che sopporta anche alcuni anni in bottiglia, quando i tannini si ammorbidiscono e compaiono aromi più terrosi.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Notas de cereza negra, grosella y un fondo especiado. Boca afrutada, con taninos presentes pero amables y final limpio.",
+    "en": "Deep ruby. Notes of black cherry, redcurrant and a spicy background. Fruity palate, with present yet gentle tannins and a clean finish.",
+    "fr": "Rubis soutenu. Notes de cerise noire, de groseille et un fond épicé. Bouche fruitée, aux tanins présents mais aimables, finale nette.",
+    "it": "Rubino intenso. Note di ciliegia nera, ribes rosso e un fondo speziato. Bocca fruttata, con tannini presenti ma gentili e finale pulito."
+  },
+  "pairing": {
+    "es": "Aves de corral, conejo, embutidos, carnes a la parrilla, quesos semicurados",
+    "en": "Poultry, rabbit, charcuterie, grilled meat, semi-hard cheeses",
+    "fr": "Volailles, lapin, charcuterie, viandes grillées, fromages à pâte pressée",
+    "it": "Pollame, coniglio, salumi, carni alla griglia, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "15-16 °C, copa de Borgoña",
+    "en": "15-16 °C, Burgundy glass",
+    "fr": "15-16 °C, verre de Bourgogne",
+    "it": "15-16 °C, calice da Borgogna"
+  },
+  "search": "Santenay Joseph Drouhin"
+}

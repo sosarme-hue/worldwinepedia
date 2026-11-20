@@ -1,0 +1,42 @@
+{
+  "slug": "los-confines-de-prieto-pariente",
+  "name": "Los Confines de Prieto Pariente",
+  "winery": null,
+  "winery_name": "Prieto Pariente",
+  "region": null,
+  "country": "espana",
+  "appellation": "DO Cebreros",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Los Confines de Prieto Pariente es un vino tinto de Prieto Pariente, con la denominación DO Cebreros, en España.",
+    "en": "Los Confines de Prieto Pariente is a red wine from Prieto Pariente, made under the DO Cebreros appellation in Spain.",
+    "fr": "Los Confines de Prieto Pariente est un vin rouge de Prieto Pariente, élaboré sous l’appellation DO Cebreros (Espagne).",
+    "it": "Los Confines de Prieto Pariente è un vino rosso di Prieto Pariente, prodotto nella denominazione DO Cebreros (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Tiene crianza en madera. Su graduación es de 14,5 % vol.</p>",
+    "en": "<p>It is made from Grenache. It is aged in wood. It has 14.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. Il est élevé en bois. Il titre 14,5 % vol.</p>",
+    "it": "<p>È prodotto con Grenache. È affinato in legno. Ha 14,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Los Confines de Prieto Pariente Prieto Pariente",
+  "brief": true,
+  "source": "decantalo"
+}

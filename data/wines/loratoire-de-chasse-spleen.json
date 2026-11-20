@@ -1,0 +1,49 @@
+{
+  "slug": "loratoire-de-chasse-spleen",
+  "name": "L'Oratoire de Chasse-Spleen",
+  "winery": "chateau-chasse-spleen",
+  "region": "medoc",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Moulis-en-Médoc, segundo vino",
+    "en": "Moulis-en-Médoc, second wine",
+    "fr": "Moulis-en-Médoc, second vin",
+    "it": "Moulis-en-Médoc, secondo vino"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "El segundo vino de Château Chasse-Spleen, un Moulis-en-Médoc más afrutado y accesible en su juventud que el gran vino.",
+    "en": "The second wine of Château Chasse-Spleen, a Moulis-en-Médoc that is fruitier and more approachable when young than the grand vin.",
+    "fr": "Le second vin du château Chasse-Spleen, un moulis-en-médoc plus fruité et plus accessible dans sa jeunesse que le grand vin.",
+    "it": "Il secondo vino di Château Chasse-Spleen, un Moulis-en-Médoc più fruttato e accessibile da giovane rispetto al grand vin."
+  },
+  "body": {
+    "es": "<p>L'Oratoire de Chasse-Spleen es el <strong>segundo vino</strong> de Château Chasse-Spleen, la conocida propiedad de <strong>Moulis-en-Médoc</strong>. Como es habitual en Burdeos, el segundo vino reúne los lotes que no se seleccionan para el gran vino, a menudo procedentes de viñas más jóvenes o de parcelas que dan vinos de evolución más rápida.</p><p>Se elabora con las mismas variedades que el gran vino, principalmente <strong>Cabernet Sauvignon</strong> y <strong>Merlot</strong>, con eventuales aportes de Petit Verdot, sobre los suelos de gravas y arcillas calcáreas de Moulis. La proporción de Merlot suele ser algo mayor, lo que favorece un perfil más redondo.</p><p>La crianza en barrica es más breve y con menos madera nueva que la del gran vino. El resultado es un tinto con el carácter de la casa, fruta negra, notas especiadas y taninos firmes pero más suaves, que puede disfrutarse antes, tras unos pocos años de botella.</p>",
+    "en": "<p>L'Oratoire de Chasse-Spleen is the <strong>second wine</strong> of Château Chasse-Spleen, the well-known <strong>Moulis-en-Médoc</strong> estate. As is customary in Bordeaux, the second wine brings together the lots not selected for the grand vin, often from younger vines or from plots that give wines that develop more quickly.</p><p>It is made from the same varieties as the grand vin, mainly <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong>, with occasional Petit Verdot, on the gravel and clay-limestone soils of Moulis. The proportion of Merlot is usually somewhat higher, which favours a rounder profile.</p><p>Barrel ageing is shorter and uses less new oak than for the grand vin. The result is a red with the house character, black fruit, spicy notes and firm but softer tannins, which can be enjoyed earlier, after just a few years in bottle.</p>",
+    "fr": "<p>L'Oratoire de Chasse-Spleen est le <strong>second vin</strong> du château Chasse-Spleen, la célèbre propriété de <strong>Moulis-en-Médoc</strong>. Comme il est d’usage à Bordeaux, le second vin réunit les lots non retenus pour le grand vin, souvent issus de vignes plus jeunes ou de parcelles donnant des vins d’évolution plus rapide.</p><p>Il est élaboré avec les mêmes cépages que le grand vin, principalement le <strong>cabernet sauvignon</strong> et le <strong>merlot</strong>, avec parfois du petit verdot, sur les sols de graves et d’argilo-calcaires de Moulis. La part de merlot y est en général un peu plus élevée, ce qui favorise un profil plus rond.</p><p>L’élevage en barrique est plus court et fait moins appel au bois neuf que celui du grand vin. Il en résulte un rouge au caractère de la maison, au fruit noir, aux notes épicées et aux tanins fermes mais plus souples, que l’on peut apprécier plus tôt, après quelques années de bouteille.</p>",
+    "it": "<p>L'Oratoire de Chasse-Spleen è il <strong>secondo vino</strong> di Château Chasse-Spleen, la nota proprietà di <strong>Moulis-en-Médoc</strong>. Come d’uso a Bordeaux, il secondo vino riunisce le partite non selezionate per il grand vin, spesso da vigne più giovani o da parcelle che danno vini di evoluzione più rapida.</p><p>È prodotto con le stesse varietà del grand vin, principalmente <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong>, talvolta con Petit Verdot, sui suoli di ghiaia e argillo-calcarei di Moulis. La quota di Merlot è di solito un po’ più alta, il che favorisce un profilo più rotondo.</p><p>L’affinamento in barrique è più breve e con meno legno nuovo rispetto al grand vin. Il risultato è un rosso con il carattere della casa, frutto nero, note speziate e tannini decisi ma più morbidi, che si può gustare prima, dopo pochi anni di bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rubí oscuro. Aromas de mora, casis, ciruela y notas de cedro. Boca de cuerpo medio, afrutada y de taninos redondos.",
+    "en": "Dark ruby. Aromas of blackberry, blackcurrant, plum and cedar notes. Medium-bodied, fruity palate with rounded tannins.",
+    "fr": "Rubis sombre. Arômes de mûre, de cassis, de prune et notes de cèdre. Bouche de corps moyen, fruitée, aux tanins ronds.",
+    "it": "Rubino scuro. Aromi di mora, ribes nero, prugna e note di cedro. Bocca di medio corpo, fruttata, dai tannini rotondi."
+  },
+  "pairing": {
+    "es": "Carnes rojas, cordero, pato, quesos curados",
+    "en": "Red meat, lamb, duck, mature cheeses",
+    "fr": "Viandes rouges, agneau, canard, fromages affinés",
+    "it": "Carni rosse, agnello, anatra, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa tipo Burdeos",
+    "en": "16-18 °C, Bordeaux glass",
+    "fr": "16-18 °C, verre de type bordelais",
+    "it": "16-18 °C, calice tipo Bordeaux"
+  },
+  "search": "L'Oratoire de Chasse-Spleen Moulis"
+}

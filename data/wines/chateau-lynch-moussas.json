@@ -1,0 +1,49 @@
+{
+  "slug": "chateau-lynch-moussas",
+  "name": "Château Lynch-Moussas",
+  "winery": "chateau-lynch-moussas",
+  "region": "pauillac",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "5º Gran Cru Clasificado (1855)",
+    "en": "5th Grand Cru Classé (1855)",
+    "fr": "5e Grand Cru Classé (1855)",
+    "it": "5° Grand Cru Classé (1855)"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Gran vino de Château Lynch-Moussas, quinto cru clasificado de Pauillac, un tinto de Cabernet Sauvignon y Merlot de perfil clásico.",
+    "en": "The grand vin of Château Lynch-Moussas, a Pauillac fifth growth, a classic Cabernet Sauvignon and Merlot red.",
+    "fr": "Grand vin du Château Lynch-Moussas, cinquième cru classé de Pauillac, un rouge de cabernet sauvignon et de merlot au profil classique.",
+    "it": "Grand vin di Château Lynch-Moussas, quinto cru classé di Pauillac, un rosso di Cabernet Sauvignon e Merlot di profilo classico."
+  },
+  "body": {
+    "es": "<p>El gran vino de <strong>Château Lynch-Moussas</strong> procede de los viñedos de la propiedad en el sector occidental de <strong>Pauillac</strong>, rodeados de bosques, cerca de Château Batailley. Es un quinto gran cru clasificado de 1855, propiedad de la familia Castéja.</p><p>Se elabora con un ensamblaje dominado por el <strong>Cabernet Sauvignon</strong>, completado con <strong>Merlot</strong>; las proporciones varían según la añada. Los suelos de gravas favorecen la madurez del Cabernet y dan vinos de estructura firme, mientras que el Merlot aporta redondez.</p><p>La crianza se realiza en barricas de roble, con una parte de madera nueva. El resultado es un Pauillac de perfil clásico, con aromas de cassis, cedro y grafito, y taninos firmes, en un estilo algo más ligero y accesible que el de los grandes crus de la comuna. Gana armonía con algunos años de botella y las buenas añadas pueden guardarse durante largo tiempo.</p>",
+    "en": "<p>The grand vin of <strong>Château Lynch-Moussas</strong> comes from the estate's vineyards in the western sector of <strong>Pauillac</strong>, surrounded by woodland, near Château Batailley. It is a fifth growth of the 1855 classification, owned by the Castéja family.</p><p>It is made from a blend dominated by <strong>Cabernet Sauvignon</strong>, completed with <strong>Merlot</strong>; the proportions vary with the vintage. The gravel soils favour the ripening of Cabernet and give wines of firm structure, while Merlot brings roundness.</p><p>Ageing takes place in oak barrels, part of them new. The result is a classic Pauillac, with aromas of blackcurrant, cedar and graphite and firm tannins, in a somewhat lighter and more approachable style than the commune's great growths. It gains harmony with a few years in bottle, and good vintages can be kept for a long time.</p>",
+    "fr": "<p>Le grand vin du <strong>Château Lynch-Moussas</strong> provient des vignes de la propriété dans le secteur ouest de <strong>Pauillac</strong>, entourées de bois, près du château Batailley. C'est un cinquième grand cru classé en 1855, propriété de la famille Castéja.</p><p>Il est issu d'un assemblage dominé par le <strong>cabernet sauvignon</strong>, complété de <strong>merlot</strong> ; les proportions varient selon le millésime. Les sols de graves favorisent la maturité du cabernet et donnent des vins à la structure ferme, tandis que le merlot apporte de la rondeur.</p><p>L'élevage se fait en barriques de chêne, dont une part de bois neuf. Il en résulte un pauillac au profil classique, aux arômes de cassis, de cèdre et de graphite, aux tanins fermes, dans un style un peu plus léger et accessible que celui des grands crus de la commune. Il gagne en harmonie après quelques années de bouteille, et les bons millésimes peuvent se garder longtemps.</p>",
+    "it": "<p>Il grand vin di <strong>Château Lynch-Moussas</strong> proviene dai vigneti della tenuta nel settore occidentale di <strong>Pauillac</strong>, circondati da boschi, vicino a Château Batailley. È un quinto grand cru classé del 1855, di proprietà della famiglia Castéja.</p><p>È prodotto con un taglio dominato dal <strong>Cabernet Sauvignon</strong>, completato da <strong>Merlot</strong>; le proporzioni variano secondo l'annata. I suoli di ghiaie favoriscono la maturazione del Cabernet e danno vini dalla struttura decisa, mentre il Merlot apporta rotondità.</p><p>L'affinamento avviene in barrique di rovere, in parte nuove. Il risultato è un Pauillac di profilo classico, con aromi di ribes nero, cedro e grafite e tannini decisi, in uno stile un po' più leggero e accessibile rispetto ai grandi cru del comune. Guadagna armonia dopo qualche anno di bottiglia, e le buone annate si conservano a lungo.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí oscuro. Aromas de cassis, cedro, grafito y notas especiadas. Boca de cuerpo medio, taninos firmes y final fresco.",
+    "en": "Deep ruby. Aromas of blackcurrant, cedar, graphite and spicy notes. Medium-bodied palate with firm tannins and a fresh finish.",
+    "fr": "Rubis sombre. Arômes de cassis, de cèdre, de graphite et notes épicées. Bouche de corps moyen, tanins fermes et finale fraîche.",
+    "it": "Rubino scuro. Aromi di ribes nero, cedro, grafite e note speziate. Bocca di medio corpo, tannini decisi e finale fresco."
+  },
+  "pairing": {
+    "es": "Cordero de Pauillac, carnes rojas a la parrilla, caza menor, quesos curados",
+    "en": "Pauillac lamb, grilled red meat, small game, aged cheeses",
+    "fr": "Agneau de Pauillac, viandes rouges grillées, petit gibier, fromages affinés",
+    "it": "Agnello di Pauillac, carni rosse alla griglia, piccola selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de Burdeos",
+    "en": "16-18 °C, Bordeaux glass",
+    "fr": "16-18 °C, verre à bordeaux",
+    "it": "16-18 °C, calice da Bordeaux"
+  },
+  "search": "Château Lynch-Moussas Pauillac"
+}

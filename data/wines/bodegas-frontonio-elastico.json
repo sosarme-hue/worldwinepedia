@@ -1,0 +1,44 @@
+{
+  "slug": "bodegas-frontonio-elastico",
+  "name": "Bodegas Frontonio Elástico",
+  "winery": null,
+  "winery_name": "Bodegas Frontonio",
+  "region": null,
+  "country": "espana",
+  "appellation": "Sin denominación",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Blanco sin denominación de Bodegas Frontonio, el proyecto aragonés del Master of Wine Fernando Mora, criado en depósitos de hormigón.",
+    "en": "White wine without appellation from Bodegas Frontonio, the Aragonese project of Master of Wine Fernando Mora, aged in concrete tanks.",
+    "fr": "Blanc sans appellation de Bodegas Frontonio, le projet aragonais du Master of Wine Fernando Mora, élevé en cuves béton.",
+    "it": "Bianco senza denominazione di Bodegas Frontonio, il progetto aragonese del Master of Wine Fernando Mora, affinato in vasche di cemento."
+  },
+  "body": {
+    "es": "<p><strong>Bodegas Frontonio</strong> es una pequeña bodega de la provincia de Zaragoza impulsada por <strong>Fernando Mora</strong>, uno de los pocos Master of Wine españoles, junto a un grupo de socios. Su trabajo se centra en el valle del Jalón, en la zona de Valdejalón, al oeste de Zaragoza, donde recupera viñedos viejos de Garnacha y de variedades blancas tradicionales de Aragón, en altura y sobre suelos variados.</p><p>La bodega elabora tanto vinos acogidos a indicaciones geográficas como vinos sin denominación, una fórmula que le da libertad para trabajar con parcelas, variedades o métodos que no encajan en las normas de una DO. Su estilo busca la frescura, la expresión del terreno y una intervención moderada en bodega, con poco protagonismo de la madera nueva.</p><p><strong>Elástico</strong> es uno de los blancos de la casa. Se cría en <strong>depósitos de hormigón</strong>, un material que permite una microoxigenación suave sin aportar aromas de madera, lo que favorece un vino de textura amplia y perfil limpio. Su graduación moderada encaja con un estilo fresco y de fácil lectura, pensado para mostrar la fruta y la tensión de la uva.</p>",
+    "en": "<p><strong>Bodegas Frontonio</strong> is a small winery in the province of Zaragoza driven by <strong>Fernando Mora</strong>, one of the few Spanish Masters of Wine, together with a group of partners. Its work centres on the Jalón valley, in the Valdejalón area west of Zaragoza, where it revives old vineyards of Garnacha and traditional Aragonese white varieties, at altitude and on varied soils.</p><p>The winery makes both wines under geographical indications and wines without appellation, an approach that gives it freedom to work with plots, varieties or methods that do not fit the rules of a DO. Its style seeks freshness, expression of the land and moderate intervention in the cellar, with little emphasis on new oak.</p><p><strong>Elástico</strong> is one of the house’s whites. It is aged in <strong>concrete tanks</strong>, a material that allows gentle micro-oxygenation without adding oak aromas, which favours a wine with broad texture and a clean profile. Its moderate alcohol suits a fresh, easy-to-read style designed to show the fruit and tension of the grape.</p>",
+    "fr": "<p><strong>Bodegas Frontonio</strong> est une petite bodega de la province de Saragosse animée par <strong>Fernando Mora</strong>, l’un des rares Masters of Wine espagnols, avec un groupe d’associés. Son travail se concentre sur la vallée du Jalón, dans le secteur de Valdejalón, à l’ouest de Saragosse, où elle remet en valeur de vieilles vignes de grenache et de cépages blancs traditionnels d’Aragon, en altitude et sur des sols variés.</p><p>La bodega élabore à la fois des vins sous indication géographique et des vins sans appellation, une formule qui lui laisse la liberté de travailler des parcelles, des cépages ou des méthodes qui n’entrent pas dans les règles d’une DO. Son style recherche la fraîcheur, l’expression du terroir et une intervention modérée en cave, avec peu de place pour le bois neuf.</p><p><strong>Elástico</strong> est l’un des blancs de la maison. Il est élevé en <strong>cuves béton</strong>, un matériau qui permet une micro-oxygénation douce sans apporter d’arômes boisés, ce qui favorise un vin à la texture ample et au profil net. Son degré modéré s’accorde avec un style frais et lisible, pensé pour montrer le fruit et la tension du raisin.</p>",
+    "it": "<p><strong>Bodegas Frontonio</strong> è una piccola cantina della provincia di Saragozza guidata da <strong>Fernando Mora</strong>, uno dei pochi Master of Wine spagnoli, insieme a un gruppo di soci. Il suo lavoro si concentra sulla valle del Jalón, nella zona di Valdejalón, a ovest di Saragozza, dove recupera vecchi vigneti di Garnacha e di varietà bianche tradizionali dell’Aragona, in quota e su suoli diversi.</p><p>La cantina produce sia vini a indicazione geografica sia vini senza denominazione, una formula che le lascia libertà di lavorare con parcelle, vitigni o metodi che non rientrano nelle regole di una DO. Il suo stile cerca freschezza, espressione del territorio e un intervento moderato in cantina, con poco spazio per il legno nuovo.</p><p><strong>Elástico</strong> è uno dei bianchi della casa. Affina in <strong>vasche di cemento</strong>, un materiale che consente una lieve microssigenazione senza apportare aromi di legno, favorendo un vino dalla trama ampia e dal profilo pulito. La gradazione moderata si accorda con uno stile fresco e di facile lettura, pensato per mostrare il frutto e la tensione dell’uva.</p>"
+  },
+  "tasting": {
+    "es": "Aromas de fruta blanca y cítricos, notas florales y un fondo de hierbas. En boca es fresco y de textura suave, con buena acidez y final limpio.",
+    "en": "Aromas of white fruit and citrus, floral notes and an herbal background. Fresh on the palate with a soft texture, good acidity and a clean finish.",
+    "fr": "Arômes de fruits blancs et d’agrumes, notes florales et fond d’herbes. Bouche fraîche à la texture souple, bonne acidité et finale nette.",
+    "it": "Aromi di frutta bianca e agrumi, note floreali e un fondo di erbe. In bocca è fresco e di trama morbida, con buona acidità e finale pulito."
+  },
+  "pairing": {
+    "es": "Ensaladas, pescado blanco a la plancha, arroces de verduras, quesos frescos",
+    "en": "Salads, grilled white fish, vegetable rice dishes, fresh cheeses",
+    "fr": "Salades, poisson blanc à la plancha, riz aux légumes, fromages frais",
+    "it": "Insalate, pesce bianco alla piastra, risi alle verdure, formaggi freschi"
+  },
+  "serve": {
+    "es": "9-11 °C, copa de vino blanco",
+    "en": "9-11 °C, white wine glass",
+    "fr": "9-11 °C, verre à vin blanc",
+    "it": "9-11 °C, calice da vino bianco"
+  },
+  "search": "Bodegas Frontonio Elástico Bodegas Frontonio",
+  "source": "decantalo"
+}

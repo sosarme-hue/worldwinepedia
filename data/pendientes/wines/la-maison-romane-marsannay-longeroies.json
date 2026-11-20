@@ -1,0 +1,42 @@
+{
+  "slug": "la-maison-romane-marsannay-longeroies",
+  "name": "La Maison Romane Marsannay Longeroies",
+  "winery": null,
+  "winery_name": "La Maison Romane",
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Marsannay",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "La Maison Romane Marsannay Longeroies es un vino tinto de La Maison Romane, con la denominación AOC Marsannay, en Francia.",
+    "en": "La Maison Romane Marsannay Longeroies is a red wine from La Maison Romane, made under the AOC Marsannay appellation in France.",
+    "fr": "La Maison Romane Marsannay Longeroies est un vin rouge de La Maison Romane, élaboré sous l’appellation AOC Marsannay (France).",
+    "it": "La Maison Romane Marsannay Longeroies è un vino rosso di La Maison Romane, prodotto nella denominazione AOC Marsannay (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Pinot Noir. Tiene crianza en madera. Su graduación es de 12 % vol.</p>",
+    "en": "<p>It is made from Pinot Noir. It is aged in wood. It has 12% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Pinot Noir. Il est élevé en bois. Il titre 12 % vol.</p>",
+    "it": "<p>È prodotto con Pinot Nero. È affinato in legno. Ha 12% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "La Maison Romane Marsannay Longeroies La Maison Romane",
+  "brief": true,
+  "source": "decantalo"
+}

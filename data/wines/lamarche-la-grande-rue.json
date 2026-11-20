@@ -1,0 +1,48 @@
+{
+  "slug": "lamarche-la-grande-rue",
+  "name": "La Grande Rue Grand Cru Monopole",
+  "winery": "domaine-francois-lamarche",
+  "region": "cote-de-nuits",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Grand Cru",
+    "en": "Grand Cru",
+    "fr": "Grand cru",
+    "it": "Grand Cru"
+  },
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Grand cru de Vosne-Romanée en monopolio del Domaine François Lamarche, Pinot Noir de un viñedo situado entre La Tâche y La Romanée-Conti.",
+    "en": "Vosne-Romanée grand cru owned as a monopole by Domaine François Lamarche, a Pinot Noir from a vineyard between La Tâche and La Romanée-Conti.",
+    "fr": "Grand cru de Vosne-Romanée en monopole du Domaine François Lamarche, pinot noir d’un vignoble situé entre La Tâche et La Romanée-Conti.",
+    "it": "Grand cru di Vosne-Romanée in monopolio del Domaine François Lamarche, Pinot Nero di un vigneto situato tra La Tâche e La Romanée-Conti."
+  },
+  "body": {
+    "es": "<p><strong>La Grande Rue</strong> es un grand cru de <strong>Vosne-Romanée</strong>, en la <strong>Côte de Nuits</strong>, cuya única propietaria es la familia Lamarche (monopole). El viñedo forma una franja estrecha que sube por la ladera entre La Tâche y La Romanée-Conti, en el corazón del sector más prestigioso de Borgoña. Clasificado durante décadas como premier cru, fue ascendido a grand cru en 1992.</p><p>Se elabora exclusivamente con <strong>Pinot Noir</strong>, a partir de viñas que crecen sobre suelos de caliza y margas con buena exposición al este. En el Domaine François Lamarche, la nueva generación dirigida por Nicole Lamarche ha afinado el trabajo en el viñedo y una vinificación que busca respetar la pureza del fruto, con crianza en barricas de roble.</p><p>Es un vino de gran finura, con aromas de cereza, frambuesa, rosa y especias, una textura sedosa y una estructura profunda pero delicada. Necesita años de botella para revelar toda su complejidad, y con la edad desarrolla notas de sotobosque y especias propias de los grandes Vosne-Romanée.</p>",
+    "en": "<p><strong>La Grande Rue</strong> is a grand cru of <strong>Vosne-Romanée</strong>, in the <strong>Côte de Nuits</strong>, wholly owned by the Lamarche family (monopole). The vineyard forms a narrow strip climbing the slope between La Tâche and La Romanée-Conti, at the heart of Burgundy’s most prestigious sector. Classified for decades as a premier cru, it was promoted to grand cru in 1992.</p><p>It is made exclusively from <strong>Pinot Noir</strong>, from vines growing on limestone and marl soils with good eastern exposure. At Domaine François Lamarche, the new generation led by Nicole Lamarche has refined the vineyard work and a vinification that seeks to respect the purity of the fruit, with ageing in oak barrels.</p><p>It is a wine of great finesse, with aromas of cherry, raspberry, rose and spice, a silky texture and a deep yet delicate structure. It needs years in bottle to reveal its full complexity, and with age it develops the forest-floor and spice notes typical of great Vosne-Romanée.</p>",
+    "fr": "<p><strong>La Grande Rue</strong> est un grand cru de <strong>Vosne-Romanée</strong>, dans la <strong>Côte de Nuits</strong>, dont la famille Lamarche est l’unique propriétaire (monopole). Le vignoble forme une étroite bande qui monte le coteau entre La Tâche et La Romanée-Conti, au cœur du secteur le plus prestigieux de Bourgogne. Classé pendant des décennies en premier cru, il a été promu grand cru en 1992.</p><p>Il est élaboré exclusivement à partir de <strong>pinot noir</strong>, issu de vignes poussant sur des sols de calcaires et de marnes bien exposés à l’est. Au Domaine François Lamarche, la nouvelle génération menée par Nicole Lamarche a affiné le travail à la vigne et une vinification qui cherche à respecter la pureté du fruit, avec un élevage en fûts de chêne.</p><p>C’est un vin d’une grande finesse, aux arômes de cerise, de framboise, de rose et d’épices, à la texture soyeuse et à la structure profonde mais délicate. Il demande des années de bouteille pour révéler toute sa complexité et développe avec l’âge les notes de sous-bois et d’épices propres aux grands Vosne-Romanée.</p>",
+    "it": "<p><strong>La Grande Rue</strong> è un grand cru di <strong>Vosne-Romanée</strong>, nella <strong>Côte de Nuits</strong>, di cui la famiglia Lamarche è unica proprietaria (monopole). Il vigneto forma una stretta striscia che sale lungo il pendio tra La Tâche e La Romanée-Conti, nel cuore del settore più prestigioso della Borgogna. Classificato per decenni come premier cru, è stato promosso grand cru nel 1992.</p><p>È prodotto esclusivamente con <strong>Pinot Nero</strong>, da viti che crescono su suoli di calcare e marne ben esposti a est. Al Domaine François Lamarche la nuova generazione guidata da Nicole Lamarche ha affinato il lavoro in vigna e una vinificazione che mira a rispettare la purezza del frutto, con affinamento in botti di rovere.</p><p>È un vino di grande finezza, con aromi di ciliegia, lampone, rosa e spezie, una tessitura setosa e una struttura profonda ma delicata. Richiede anni di bottiglia per rivelare tutta la sua complessità e con l’età sviluppa le note di sottobosco e spezie tipiche dei grandi Vosne-Romanée.</p>"
+  },
+  "tasting": {
+    "es": "Rubí brillante. Aromas de cereza, frambuesa, rosa y especias finas. Boca sedosa, profunda y delicada, de final muy largo.",
+    "en": "Bright ruby. Aromas of cherry, raspberry, rose and fine spice. Silky, deep and delicate palate with a very long finish.",
+    "fr": "Rubis brillant. Arômes de cerise, de framboise, de rose et d’épices fines. Bouche soyeuse, profonde et délicate, à la finale très longue.",
+    "it": "Rubino brillante. Aromi di ciliegia, lampone, rosa e spezie fini. Bocca setosa, profonda e delicata, dal finale molto lungo."
+  },
+  "pairing": {
+    "es": "Aves de caza, pichón, ternera asada, setas, quesos de pasta blanda",
+    "en": "Game birds, pigeon, roast veal, mushrooms, soft cheeses",
+    "fr": "Gibier à plume, pigeon, veau rôti, champignons, fromages à pâte molle",
+    "it": "Selvaggina da piuma, piccione, vitello arrosto, funghi, formaggi a pasta molle"
+  },
+  "serve": {
+    "es": "15-17 °C, copa amplia de Borgoña",
+    "en": "15-17 °C, large Burgundy glass",
+    "fr": "15-17 °C, verre ample de type bourguignon",
+    "it": "15-17 °C, calice ampio da Borgogna"
+  },
+  "search": "La Grande Rue Grand Cru Domaine Lamarche"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "mountain-blanco-seco",
+  "name": "Mountain Blanco Seco",
+  "winery": "telmo-rodriguez",
+  "winery_name": null,
+  "region": null,
+  "country": "espana",
+  "appellation": "DO Málaga-Sierras de Málaga",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "moscatel"
+  ],
+  "summary": {
+    "es": "Mountain Blanco Seco es un vino blanco de Compañía de Vinos Telmo Rodríguez, con la denominación DO Málaga-Sierras de Málaga, en España.",
+    "en": "Mountain Blanco Seco is a white wine from Compañía de Vinos Telmo Rodríguez, made under the DO Málaga-Sierras de Málaga appellation in Spain.",
+    "fr": "Mountain Blanco Seco est un vin blanc de Compañía de Vinos Telmo Rodríguez, élaboré sous l’appellation DO Málaga-Sierras de Málaga (Espagne).",
+    "it": "Mountain Blanco Seco è un vino bianco di Compañía de Vinos Telmo Rodríguez, prodotto nella denominazione DO Málaga-Sierras de Málaga (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Moscatel. Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 13 % vol.</p><p>Empresa fundada en 1994 por el enólogo Telmo Rodríguez y Pablo Eguzkiza para elaborar vinos en distintas regiones españolas, con la recuperación de viñedos y variedades tradicionales como eje.</p>",
+    "en": "<p>It is made from Muscat. It is a young wine, meant to be drunk in its first years. It has 13% ABV.</p><p>Company founded in 1994 by winemaker Telmo Rodríguez and Pablo Eguzkiza to make wines in various Spanish regions, centred on reviving traditional vineyards and varieties.</p>",
+    "fr": "<p>Il est élaboré à partir de Muscat. C’est un vin jeune, à boire dans ses premières années. Il titre 13 % vol.</p><p>Entreprise fondée en 1994 par l’œnologue Telmo Rodríguez et Pablo Eguzkiza pour élaborer des vins dans plusieurs régions d’Espagne, avec pour fil conducteur la sauvegarde de vignobles et de cépages traditionnels.</p>",
+    "it": "<p>È prodotto con Moscato. È un vino giovane, da bere nei primi anni. Ha 13% vol.</p><p>Azienda fondata nel 1994 dall’enologo Telmo Rodríguez e da Pablo Eguzkiza per produrre vini in diverse regioni spagnole, con al centro il recupero di vigneti e varietà tradizionali.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Mountain Blanco Seco Telmo Rodríguez",
+  "brief": true,
+  "source": "decantalo"
+}

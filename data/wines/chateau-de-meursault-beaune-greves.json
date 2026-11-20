@@ -1,0 +1,48 @@
+{
+  "slug": "chateau-de-meursault-beaune-greves",
+  "name": "Beaune 1er Cru Les Grèves",
+  "winery": "chateau-de-meursault",
+  "region": "cote-de-beaune",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Premier Cru",
+    "en": "Premier Cru",
+    "fr": "Premier Cru",
+    "it": "Premier Cru"
+  },
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Pinot Noir del premier cru Les Grèves, uno de los climats más reputados de Beaune, elaborado por el Château de Meursault.",
+    "en": "Pinot Noir from the Les Grèves premier cru, one of the most highly regarded climats of Beaune, made by Château de Meursault.",
+    "fr": "Pinot noir du premier cru Les Grèves, l’un des climats les plus réputés de Beaune, élaboré par le Château de Meursault.",
+    "it": "Pinot Noir del premier cru Les Grèves, uno dei climats più rinomati di Beaune, prodotto dal Château de Meursault."
+  },
+  "body": {
+    "es": "<p><em>Les Grèves</em> es uno de los premiers crus más extensos y apreciados de <strong>Beaune</strong>. Ocupa la parte media de la ladera en el sector central de la denominación, y su nombre alude a los suelos de gravas y piedras calizas mezcladas con arcilla, que aseguran un buen drenaje. Suele dar tintos con una combinación de cuerpo y elegancia que lo sitúa entre los climats de referencia del pueblo.</p><p>El Château de Meursault vinifica su parcela por separado, con uva vendimiada a mano, y cría el vino en barricas de roble francés. Es un Pinot Noir de fruta roja y negra madura, textura sedosa y taninos finos pero presentes, que se expresa bien tras unos años de botella y puede guardarse más tiempo, ganando matices especiados.</p>",
+    "en": "<p><em>Les Grèves</em> is one of the largest and most highly regarded premiers crus of <strong>Beaune</strong>. It occupies the middle of the slope in the central sector of the appellation, and its name refers to soils of gravel and limestone stones mixed with clay, which ensure good drainage. It tends to give reds combining body and elegance, placing it among the benchmark climats of the town.</p><p>Château de Meursault vinifies its plot separately, from hand-harvested grapes, and ages the wine in French oak barrels. It is a Pinot Noir of ripe red and black fruit, silky texture and fine but present tannins, which shows well after a few years in bottle and can be kept longer, gaining spicy nuances as it develops.</p>",
+    "fr": "<p><em>Les Grèves</em> est l’un des premiers crus les plus étendus et les plus appréciés de <strong>Beaune</strong>. Il occupe le milieu du coteau dans le secteur central de l’appellation, et son nom évoque des sols de graviers et de cailloux calcaires mêlés d’argile, qui assurent un bon drainage. Il donne généralement des rouges alliant corps et élégance, ce qui le place parmi les climats de référence de la ville.</p><p>Le Château de Meursault vinifie sa parcelle séparément, à partir de raisins vendangés à la main, et élève le vin en fûts de chêne français. C’est un pinot noir aux fruits rouges et noirs mûrs, à la texture soyeuse et aux tanins fins mais présents, qui s’exprime bien après quelques années de bouteille et peut se garder plus longtemps en gagnant des nuances épicées.</p>",
+    "it": "<p><em>Les Grèves</em> è uno dei premier cru più estesi e apprezzati di <strong>Beaune</strong>. Occupa la parte media del pendio nel settore centrale della denominazione, e il suo nome richiama suoli di ghiaie e pietre calcaree mescolate ad argilla, che assicurano un buon drenaggio. Dà di solito rossi che uniscono corpo ed eleganza, collocandolo tra i climats di riferimento della città.</p><p>Il Château de Meursault vinifica la sua parcella separatamente, con uve vendemmiate a mano, e affina il vino in barrique di rovere francese. È un Pinot Noir di frutta rossa e nera matura, trama setosa e tannini fini ma presenti, che si esprime bene dopo qualche anno di bottiglia e può essere conservato più a lungo, acquistando sfumature speziate.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí intenso. Aromas de cereza madura, grosella negra y especias. Boca sedosa y equilibrada, con taninos finos.",
+    "en": "Deep ruby. Aromas of ripe cherry, blackcurrant and spice. Silky, balanced palate with fine tannins.",
+    "fr": "Rubis intense. Arômes de cerise mûre, de cassis et d’épices. Bouche soyeuse et équilibrée, aux tanins fins.",
+    "it": "Rubino intenso. Aromi di ciliegia matura, ribes nero e spezie. Bocca setosa ed equilibrata, dai tannini fini."
+  },
+  "pairing": {
+    "es": "Aves asadas, pato, ternera, setas, quesos de pasta blanda",
+    "en": "Roast poultry, duck, veal, mushrooms, soft cheeses",
+    "fr": "Volailles rôties, canard, veau, champignons, fromages à pâte molle",
+    "it": "Pollame arrosto, anatra, vitello, funghi, formaggi a pasta molle"
+  },
+  "serve": {
+    "es": "15-17 °C, copa de Borgoña",
+    "en": "15-17 °C, Burgundy glass",
+    "fr": "15-17 °C, verre de Bourgogne",
+    "it": "15-17 °C, calice da Borgogna"
+  },
+  "search": "Beaune 1er Cru Les Grèves Château de Meursault"
+}

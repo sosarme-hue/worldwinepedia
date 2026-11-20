@@ -1,0 +1,49 @@
+{
+  "slug": "le-petit-cheval",
+  "name": "Le Petit Cheval",
+  "winery": "chateau-cheval-blanc",
+  "region": "saint-emilion",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Segundo vino",
+    "en": "Second wine",
+    "fr": "Second vin",
+    "it": "Secondo vino"
+  },
+  "grapes": [
+    "merlot",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Segundo vino de Château Cheval Blanc, en Saint-Émilion, elaborado con Merlot y Cabernet Franc de la propia finca.",
+    "en": "Second wine of Château Cheval Blanc, in Saint-Émilion, made from Merlot and Cabernet Franc from the estate.",
+    "fr": "Second vin du Château Cheval Blanc, à Saint-Émilion, élaboré à partir de merlot et de cabernet franc du domaine.",
+    "it": "Secondo vino di Château Cheval Blanc, a Saint-Émilion, prodotto con Merlot e Cabernet Franc della tenuta."
+  },
+  "body": {
+    "es": "<p><strong>Le Petit Cheval</strong> es el segundo vino de <strong>Château Cheval Blanc</strong>, finca situada en el extremo noroeste de Saint-Émilion, junto al límite con Pomerol, sobre una combinación poco habitual de gravas y arcillas. La finca destaca por la importancia que concede a la Cabernet Franc.</p><p>Procede de las mismas viñas que el gran vino, a partir de parcelas o lotes que no se seleccionan para este, a menudo de cepas más jóvenes. Como en Cheval Blanc, el ensamblaje se basa en <strong>Merlot</strong> y <strong>Cabernet Franc</strong>, en proporciones que varían según la añada, y el vino se cría en barricas de roble.</p><p>Le Petit Cheval comparte el estilo de la casa, que combina fruta madura, frescura y finura aromática, en un perfil algo más accesible en su juventud que el gran vino. Aun así, tiene buena capacidad de guarda y gana complejidad con los años.</p>",
+    "en": "<p><strong>Le Petit Cheval</strong> is the second wine of <strong>Château Cheval Blanc</strong>, an estate at the north-western tip of Saint-Émilion, on the border with Pomerol, on an unusual combination of gravel and clay. The estate stands out for the importance it gives to Cabernet Franc.</p><p>It comes from the same vineyards as the grand vin, from plots or lots not selected for it, often from younger vines. As at Cheval Blanc, the blend is based on <strong>Merlot</strong> and <strong>Cabernet Franc</strong>, in proportions that vary with the vintage, and the wine is aged in oak barrels.</p><p>Le Petit Cheval shares the house style, which combines ripe fruit, freshness and aromatic finesse, in a profile somewhat more approachable when young than the grand vin. Even so, it has good ageing potential and gains complexity over the years.</p>",
+    "fr": "<p><strong>Le Petit Cheval</strong> est le second vin du <strong>Château Cheval Blanc</strong>, domaine situé à l’extrémité nord-ouest de Saint-Émilion, à la limite de Pomerol, sur une association peu commune de graves et d’argiles. Le domaine se distingue par la place qu’il accorde au cabernet franc.</p><p>Il provient des mêmes vignes que le grand vin, à partir de parcelles ou de lots qui ne sont pas retenus pour celui-ci, souvent issus de vignes plus jeunes. Comme pour Cheval Blanc, l’assemblage repose sur le <strong>merlot</strong> et le <strong>cabernet franc</strong>, dans des proportions qui varient selon le millésime, et le vin est élevé en barriques de chêne.</p><p>Le Petit Cheval partage le style de la maison, qui associe fruit mûr, fraîcheur et finesse aromatique, dans un profil un peu plus accessible dans sa jeunesse que le grand vin. Il possède néanmoins un bon potentiel de garde et gagne en complexité avec les années.</p>",
+    "it": "<p><strong>Le Petit Cheval</strong> è il secondo vino di <strong>Château Cheval Blanc</strong>, tenuta situata all’estremità nord-occidentale di Saint-Émilion, al confine con Pomerol, su un’insolita combinazione di ghiaie e argille. La tenuta si distingue per l’importanza che attribuisce al Cabernet Franc.</p><p>Proviene dalle stesse vigne del grand vin, da parcelle o lotti non selezionati per quest’ultimo, spesso da viti più giovani. Come per Cheval Blanc, l’assemblaggio si basa su <strong>Merlot</strong> e <strong>Cabernet Franc</strong>, in proporzioni che variano secondo l’annata, e il vino affina in barrique di rovere.</p><p>Le Petit Cheval condivide lo stile della casa, che unisce frutto maturo, freschezza e finezza aromatica, in un profilo un po’ più accessibile da giovane rispetto al grand vin. Ha comunque una buona capacità di invecchiamento e acquista complessità con gli anni.</p>"
+  },
+  "tasting": {
+    "es": "Rubí oscuro. Aromas de fruta roja y negra madura, violeta, especias y notas de roble. Boca suave y fresca, de taninos finos y buena persistencia.",
+    "en": "Dark ruby. Aromas of ripe red and black fruit, violet, spice and oak notes. Smooth, fresh palate with fine tannins and good length.",
+    "fr": "Rubis sombre. Arômes de fruits rouges et noirs mûrs, de violette, d’épices et notes boisées. Bouche souple et fraîche, aux tanins fins et de bonne persistance.",
+    "it": "Rubino scuro. Aromi di frutta rossa e nera matura, violetta, spezie e note di rovere. Bocca morbida e fresca, con tannini fini e buona persistenza."
+  },
+  "pairing": {
+    "es": "Cordero asado, ternera, pato, setas, quesos curados",
+    "en": "Roast lamb, veal, duck, mushrooms, aged cheeses",
+    "fr": "Agneau rôti, veau, canard, champignons, fromages affinés",
+    "it": "Agnello arrosto, vitello, anatra, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia de tipo Burdeos; conviene decantarlo",
+    "en": "16-18 °C, large Bordeaux glass; best decanted",
+    "fr": "16-18 °C, grand verre de type bordelais ; à carafer de préférence",
+    "it": "16-18 °C, calice ampio tipo Bordeaux; meglio decantarlo"
+  },
+  "search": "Le Petit Cheval Château Cheval Blanc"
+}

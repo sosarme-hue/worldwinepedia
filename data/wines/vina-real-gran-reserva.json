@@ -1,0 +1,48 @@
+{
+  "slug": "vina-real-gran-reserva",
+  "name": "Viña Real Gran Reserva",
+  "winery": "cvne",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Gran Reserva",
+    "en": "Gran Reserva",
+    "fr": "Gran Reserva",
+    "it": "Gran Reserva"
+  },
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Gran reserva de CVNE bajo la marca Viña Real, asociada a la Rioja Alavesa, elaborado sólo en las mejores añadas y con larga crianza en barrica y botella.",
+    "en": "Gran reserva from CVNE under the Viña Real brand, linked to Rioja Alavesa, made only in the best vintages with long ageing in barrel and bottle.",
+    "fr": "Gran reserva de CVNE sous la marque Viña Real, liée à la Rioja Alavesa, élaboré seulement dans les meilleurs millésimes avec un long élevage en barrique et en bouteille.",
+    "it": "Gran reserva di CVNE con il marchio Viña Real, legato alla Rioja Alavesa, prodotto solo nelle migliori annate con un lungo affinamento in botte e in bottiglia."
+  },
+  "body": {
+    "es": "<p><strong>Viña Real</strong> es una de las marcas históricas de CVNE (Compañía Vinícola del Norte de España), nacida a comienzos del siglo XX y vinculada desde siempre a los viñedos de la Rioja Alavesa. Desde 2004 sus vinos se elaboran en una bodega propia situada en Laguardia, en el cerro de la Mesa, distinta de la casa histórica de CVNE en el barrio de la Estación de Haro.</p><p>El Gran Reserva es el vino más ambicioso de la marca y sólo se elabora en las añadas que la bodega considera excepcionales. Se basa en la Tempranillo de viñedos de la Rioja Alavesa, acompañada en ocasiones por pequeñas proporciones de otras variedades tradicionales. Como exige la normativa de la D.O.Ca. Rioja para los gran reserva, permanece al menos dos años en barrica y otros tres en botella antes de salir al mercado.</p><p>El resultado es un tinto de estilo clásico riojano, complejo y elegante, con fruta madura y matices de crianza, y una gran capacidad de envejecimiento.</p>",
+    "en": "<p><strong>Viña Real</strong> is one of the historic brands of CVNE (Compañía Vinícola del Norte de España), born in the early twentieth century and always linked to the vineyards of Rioja Alavesa. Since 2004 its wines have been made in a dedicated winery in Laguardia, on the Cerro de la Mesa, separate from CVNE’s historic house in the Barrio de la Estación in Haro.</p><p>The Gran Reserva is the brand’s most ambitious wine and is made only in vintages the winery considers exceptional. It is based on Tempranillo from Rioja Alavesa vineyards, sometimes with small proportions of other traditional varieties. As the D.O.Ca. Rioja rules require for gran reserva, it spends at least two years in barrel and three more in bottle before release.</p><p>The result is a red in classic Rioja style, complex and elegant, with ripe fruit and ageing nuances, and great ageing potential.</p>",
+    "fr": "<p><strong>Viña Real</strong> est l’une des marques historiques de CVNE (Compañía Vinícola del Norte de España), née au début du XXe siècle et liée depuis toujours aux vignobles de la Rioja Alavesa. Depuis 2004, ses vins sont élaborés dans une cave propre située à Laguardia, sur le Cerro de la Mesa, distincte de la maison historique de CVNE dans le Barrio de la Estación de Haro.</p><p>Le Gran Reserva est le vin le plus ambitieux de la marque et n’est élaboré que dans les millésimes que la maison juge exceptionnels. Il repose sur le tempranillo de vignes de la Rioja Alavesa, accompagné parfois de petites proportions d’autres cépages traditionnels. Comme l’exige la réglementation de la D.O.Ca. Rioja pour les gran reserva, il passe au moins deux ans en barrique et trois autres en bouteille avant sa commercialisation.</p><p>Le résultat est un rouge de style riojan classique, complexe et élégant, au fruit mûr et aux nuances d’élevage, doté d’un grand potentiel de vieillissement.</p>",
+    "it": "<p><strong>Viña Real</strong> è uno dei marchi storici di CVNE (Compañía Vinícola del Norte de España), nato all’inizio del Novecento e da sempre legato ai vigneti della Rioja Alavesa. Dal 2004 i suoi vini sono prodotti in una cantina dedicata a Laguardia, sul Cerro de la Mesa, distinta dalla sede storica di CVNE nel Barrio de la Estación di Haro.</p><p>Il Gran Reserva è il vino più ambizioso del marchio ed è prodotto solo nelle annate che la cantina considera eccezionali. Si basa sul Tempranillo di vigneti della Rioja Alavesa, talvolta accompagnato da piccole quote di altre varietà tradizionali. Come richiede il disciplinare della D.O.Ca. Rioja per i gran reserva, trascorre almeno due anni in botte e altri tre in bottiglia prima di essere commercializzato.</p><p>Il risultato è un rosso in stile classico riojano, complesso ed elegante, con frutto maturo e sfumature di affinamento, e una grande capacità d’invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Granate con ribete teja. Fruta roja madura y confitada, cuero, tabaco, especias y notas balsámicas. Boca sedosa, de taninos pulidos y final largo.",
+    "en": "Garnet with a brick rim. Ripe and preserved red fruit, leather, tobacco, spice and balsamic notes. Silky palate with polished tannins and a long finish.",
+    "fr": "Grenat aux reflets tuilés. Fruits rouges mûrs et confits, cuir, tabac, épices et notes balsamiques. Bouche soyeuse, tanins polis et finale longue.",
+    "it": "Granato con unghia aranciata. Frutta rossa matura e confettura, cuoio, tabacco, spezie e note balsamiche. Bocca setosa, tannini levigati e finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, caza, carnes rojas guisadas, quesos curados",
+    "en": "Roast lamb, game, braised red meat, aged cheeses",
+    "fr": "Agneau rôti, gibier, viandes rouges mijotées, fromages affinés",
+    "it": "Agnello arrosto, selvaggina, carni rosse brasate, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Viña Real Gran Reserva CVNE"
+}

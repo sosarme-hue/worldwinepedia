@@ -1,0 +1,50 @@
+{
+  "slug": "le-petit-mouton",
+  "name": "Le Petit Mouton de Mouton Rothschild",
+  "winery": "baron-philippe-de-rothschild",
+  "region": "medoc",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Segundo vino",
+    "en": "Second wine",
+    "fr": "Second vin",
+    "it": "Secondo vino"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Segundo vino de Château Mouton Rothschild, elaborado con uvas de la misma finca de Pauillac y concebido para expresar el estilo de la casa con algo más de accesibilidad.",
+    "en": "The second wine of Château Mouton Rothschild, made from grapes from the same Pauillac estate and designed to express the house style with a little more approachability.",
+    "fr": "Second vin de Château Mouton Rothschild, élaboré avec des raisins du même domaine de Pauillac et conçu pour exprimer le style de la maison avec un peu plus d’accessibilité.",
+    "it": "Secondo vino di Château Mouton Rothschild, prodotto con uve della stessa tenuta di Pauillac e pensato per esprimere lo stile della casa con un po’ più di accessibilità."
+  },
+  "body": {
+    "es": "<p>Le Petit Mouton es el segundo vino de Château Mouton Rothschild. Se elabora con uvas del viñedo de la finca en Pauillac, en general de parcelas o lotes que, en la selección de cada año, no se destinan al gran vino. Su existencia permite al château ser más exigente con la composición del Premier Grand Cru Classé.</p><p>El ensamblaje se basa en la <strong>Cabernet Sauvignon</strong> y la <strong>Merlot</strong>, con una aportación ocasional de Cabernet Franc; las proporciones varían según la añada y la Merlot suele tener un papel algo mayor que en el gran vino. La vinificación y la crianza en barrica se realizan en las instalaciones de la propiedad.</p><p>A diferencia del gran vino, su etiqueta no cambia cada año con la obra de un artista. Es un tinto de Pauillac de perfil aromático, con fruta negra y taninos firmes pero suaves, que puede apreciarse antes, aunque también admite una guarda de varios años.</p>",
+    "en": "<p>Le Petit Mouton is the second wine of Château Mouton Rothschild. It is made from grapes grown in the estate’s vineyard in Pauillac, generally from plots or lots that, in each year’s selection, are not used for the grand vin. Its existence allows the château to be more demanding about the composition of the Premier Grand Cru Classé.</p><p>The blend is based on <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong>, with an occasional contribution of Cabernet Franc; the proportions vary with the vintage, and Merlot usually plays a slightly larger role than in the grand vin. Vinification and barrel ageing take place at the property’s own facilities.</p><p>Unlike the grand vin, its label does not change every year with an artist’s work. It is a Pauillac red with an aromatic profile, black fruit and firm but supple tannins, which can be enjoyed earlier, though it can also be cellared for several years.</p>",
+    "fr": "<p>Le Petit Mouton est le second vin de Château Mouton Rothschild. Il est élaboré avec des raisins du vignoble du domaine à Pauillac, en général issus de parcelles ou de lots qui, lors de la sélection annuelle, ne sont pas retenus pour le grand vin. Son existence permet au château d’être plus exigeant sur la composition du Premier Grand Cru Classé.</p><p>L’assemblage repose sur le <strong>cabernet-sauvignon</strong> et le <strong>merlot</strong>, avec un apport occasionnel de cabernet franc ; les proportions varient selon le millésime et le merlot y joue habituellement un rôle un peu plus important que dans le grand vin. La vinification et l’élevage en barrique se déroulent dans les installations de la propriété.</p><p>Contrairement au grand vin, son étiquette ne change pas chaque année avec l’œuvre d’un artiste. C’est un pauillac au profil aromatique, aux fruits noirs et aux tanins fermes mais souples, qui peut être apprécié plus tôt, tout en supportant une garde de plusieurs années.</p>",
+    "it": "<p>Le Petit Mouton è il secondo vino di Château Mouton Rothschild. È prodotto con uve del vigneto della tenuta a Pauillac, in genere da parcelle o lotti che, nella selezione di ogni anno, non sono destinati al grand vin. La sua esistenza permette allo château di essere più esigente nella composizione del Premier Grand Cru Classé.</p><p>L’uvaggio si basa su <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong>, con un contributo occasionale di Cabernet Franc; le proporzioni variano secondo l’annata e il Merlot ha di solito un ruolo un po’ maggiore che nel grand vin. Vinificazione e affinamento in barrique avvengono nelle strutture della proprietà.</p><p>A differenza del grand vin, la sua etichetta non cambia ogni anno con l’opera di un artista. È un rosso di Pauillac dal profilo aromatico, con frutta nera e tannini decisi ma morbidi, che si può apprezzare prima, pur reggendo anche un affinamento di diversi anni.</p>"
+  },
+  "tasting": {
+    "es": "Rubí oscuro. Aromas de casis, mora y notas tostadas y especiadas. Boca de buena estructura, con taninos firmes pero redondos y un final persistente.",
+    "en": "Dark ruby. Aromas of blackcurrant, blackberry and toasty, spicy notes. Well-structured palate with firm but rounded tannins and a persistent finish.",
+    "fr": "Rubis sombre. Arômes de cassis, de mûre et notes toastées et épicées. Bouche bien structurée, aux tanins fermes mais ronds, finale persistante.",
+    "it": "Rubino scuro. Aromi di ribes nero, mora e note tostate e speziate. Bocca ben strutturata, con tannini decisi ma rotondi e finale persistente."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, pato asado, guisos de carne, quesos semicurados",
+    "en": "Grilled red meat, roast duck, meat stews, semi-hard cheeses",
+    "fr": "Viandes rouges grillées, canard rôti, ragoûts de viande, fromages à pâte pressée",
+    "it": "Carni rosse alla brace, anatra arrosto, stufati di carne, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia de tipo Burdeos",
+    "en": "16-18 °C, decanted, large Bordeaux glass",
+    "fr": "16-18 °C, carafé, grand verre de type bordeaux",
+    "it": "16-18 °C, decantato, calice ampio tipo Bordeaux"
+  },
+  "search": "Le Petit Mouton de Mouton Rothschild Pauillac"
+}

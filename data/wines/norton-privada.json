@@ -1,0 +1,45 @@
+{
+  "slug": "norton-privada",
+  "name": "Norton Privada",
+  "winery": "bodega-norton",
+  "region": "lujan-de-cuyo",
+  "country": "argentina",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "malbec",
+    "merlot",
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "Tinto de mezcla de Bodega Norton, en Luján de Cuyo, elaborado con Malbec, Merlot y Cabernet Sauvignon y criado en roble francés.",
+    "en": "Red blend from Bodega Norton in Luján de Cuyo, made from Malbec, Merlot and Cabernet Sauvignon and aged in French oak.",
+    "fr": "Assemblage rouge de Bodega Norton, à Luján de Cuyo, élaboré avec malbec, merlot et cabernet-sauvignon et élevé en chêne français.",
+    "it": "Rosso da uvaggio di Bodega Norton, a Luján de Cuyo, prodotto con Malbec, Merlot e Cabernet Sauvignon e affinato in rovere francese."
+  },
+  "body": {
+    "es": "<p><strong>Privada</strong> es uno de los vinos de referencia de Bodega Norton, la casa fundada a finales del siglo XIX por el ingeniero inglés Edmund Norton en Luján de Cuyo. Su nombre sugiere una selección especial de la casa. Se sitúa por encima de la línea Reserva en la gama de la bodega.</p><p>El vino es una mezcla de <strong>Malbec</strong>, Merlot y Cabernet Sauvignon, en proporciones que varían según la añada, procedentes de viñedos propios de <strong>Luján de Cuyo</strong>, algunos de ellos de cepas viejas, sobre suelos aluviales. Cada variedad se vinifica por separado y el vino se cría en barricas de roble francés antes de la mezcla final. El resultado es un tinto de estructura media a plena, con fruta madura, taninos redondos y buena capacidad de evolución en botella durante varios años.</p>",
+    "en": "<p><strong>Privada</strong> is one of the benchmark wines of Bodega Norton, the house founded in the late nineteenth century by the English engineer Edmund Norton in Luján de Cuyo. Its name, meaning “private”, suggests a special selection of the house, a wine built to show the character of the estate’s older vineyards. It sits above the Reserva line in the winery’s range.</p><p>The wine is a blend of <strong>Malbec</strong>, Merlot and Cabernet Sauvignon, in proportions that vary with the vintage, from estate vineyards in <strong>Luján de Cuyo</strong>, some of them old vines, on alluvial soils. Each variety is vinified separately and the wine is aged in French oak barrels before the final blend. The result is a medium- to full-bodied red with ripe fruit, round tannins and a good capacity to develop in bottle for several years.</p>",
+    "fr": "<p><strong>Privada</strong> est l’un des vins de référence de Bodega Norton, la maison fondée à la fin du XIXe siècle par l’ingénieur anglais Edmund Norton à Luján de Cuyo. Son nom, qui signifie « privée », évoque une sélection particulière de la maison. Il se situe au-dessus de la ligne Reserva dans la gamme de la bodega.</p><p>Le vin est un assemblage de <strong>malbec</strong>, de merlot et de cabernet-sauvignon, dans des proportions qui varient selon le millésime, issus de vignes du domaine à <strong>Luján de Cuyo</strong>, dont certaines sont de vieilles vignes, sur des sols alluviaux. Chaque cépage est vinifié séparément et le vin est élevé en fûts de chêne français avant l’assemblage final. Il en résulte un rouge de corps moyen à plein, au fruit mûr, aux tanins ronds et doté d’une bonne capacité d’évolution en bouteille pendant plusieurs années.</p>",
+    "it": "<p><strong>Privada</strong> è uno dei vini di riferimento di Bodega Norton, la casa fondata alla fine dell’Ottocento dall’ingegnere inglese Edmund Norton a Luján de Cuyo. Il nome, che significa «privata», suggerisce una selezione speciale della casa. Si colloca al di sopra della linea Reserva nella gamma della cantina.</p><p>Il vino è un uvaggio di <strong>Malbec</strong>, Merlot e Cabernet Sauvignon, in proporzioni che variano secondo l’annata, provenienti da vigneti di proprietà a <strong>Luján de Cuyo</strong>, alcuni dei quali di vecchie viti, su suoli alluvionali. Ogni varietà viene vinificata separatamente e il vino affina in barrique di rovere francese prima dell’assemblaggio finale. Il risultato è un rosso di corpo da medio a pieno, dal frutto maturo, dai tannini rotondi e con una buona capacità di evoluzione in bottiglia per diversi anni.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí profundo. Aromas de ciruela, cereza negra, especias, tabaco y vainilla. Boca amplia y redonda, con un final persistente.",
+    "en": "Deep ruby red. Aromas of plum, black cherry, spice, tobacco and vanilla. Broad, rounded palate with a persistent finish.",
+    "fr": "Rouge rubis profond. Arômes de prune, de cerise noire, d’épices, de tabac et de vanille. Bouche ample et ronde, à la finale persistante.",
+    "it": "Rosso rubino profondo. Aromi di prugna, ciliegia nera, spezie, tabacco e vaniglia. Bocca ampia e rotonda, dal finale persistente."
+  },
+  "pairing": {
+    "es": "Asado argentino, carnes a la parrilla, empanadas, quesos semicurados",
+    "en": "Argentine asado, grilled meats, empanadas, semi-hard cheeses",
+    "fr": "Asado argentin, viandes grillées, empanadas, fromages mi-affinés",
+    "it": "Asado argentino, carni alla griglia, empanadas, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia; puede beneficiarse de un decantado",
+    "en": "16-18 °C, large glass; may benefit from decanting",
+    "fr": "16-18 °C, verre ample ; peut gagner à être carafé",
+    "it": "16-18 °C, calice ampio; può giovarsi della decantazione"
+  },
+  "search": "Norton Privada Luján de Cuyo"
+}

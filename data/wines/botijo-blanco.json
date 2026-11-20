@@ -1,0 +1,40 @@
+{
+  "slug": "botijo-blanco",
+  "name": "Botijo Blanco",
+  "winery": null,
+  "winery_name": "Bodegas Frontonio",
+  "region": null,
+  "country": "espana",
+  "appellation": "IGP Valdejalón",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Botijo Blanco es un vino blanco de Bodegas Frontonio, con la denominación IGP Valdejalón, en España.",
+    "en": "Botijo Blanco is a white wine from Bodegas Frontonio, made under the IGP Valdejalón appellation in Spain.",
+    "fr": "Botijo Blanco est un vin blanc de Bodegas Frontonio, élaboré sous l’appellation IGP Valdejalón (Espagne).",
+    "it": "Botijo Blanco è un vino bianco di Bodegas Frontonio, prodotto nella denominazione IGP Valdejalón (Spagna)."
+  },
+  "body": {
+    "es": "<p>Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 13 % vol.</p>",
+    "en": "<p>It is a young wine, meant to be drunk in its first years. It has 13% ABV.</p>",
+    "fr": "<p>C’est un vin jeune, à boire dans ses premières années. Il titre 13 % vol.</p>",
+    "it": "<p>È un vino giovane, da bere nei primi anni. Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Botijo Blanco Bodegas Frontonio",
+  "brief": true,
+  "source": "decantalo"
+}

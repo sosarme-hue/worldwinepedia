@@ -1,0 +1,45 @@
+{
+  "slug": "coto-de-imaz-seleccion-vinedos-reserva",
+  "name": "Coto de Imaz Selección Viñedos Reserva",
+  "winery": "el-coto",
+  "winery_name": null,
+  "region": "rioja",
+  "country": "espana",
+  "appellation": "DOCa Rioja",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [],
+  "summary": {
+    "es": "Coto de Imaz Selección Viñedos Reserva es un vino tinto de El Coto de Rioja, con la denominación DOCa Rioja, en España.",
+    "en": "Coto de Imaz Selección Viñedos Reserva is a red wine from El Coto de Rioja, made under the DOCa Rioja appellation in Spain.",
+    "fr": "Coto de Imaz Selección Viñedos Reserva est un vin rouge de El Coto de Rioja, élaboré sous l’appellation DOCa Rioja (Espagne).",
+    "it": "Coto de Imaz Selección Viñedos Reserva è un vino rosso di El Coto de Rioja, prodotto nella denominazione DOCa Rioja (Spagna)."
+  },
+  "body": {
+    "es": "<p>Lleva la mención Reserva. Su graduación es de 13,5 % vol.</p><p>Bodega de Oyón, en la Rioja Alavesa, fundada en 1970, cuyos tintos El Coto Crianza y Coto de Imaz Reserva figuran entre los riojas más vendidos en España.</p><p>Rioja, en el valle del Ebro, fue en 1991 la primera Denominación de Origen Calificada de España. Es conocida sobre todo por sus tintos de Tempranillo y por su larga tradición de crianza en barrica de roble.</p>",
+    "en": "<p>It carries the Reserva designation. It has 13.5% ABV.</p><p>Winery in Oyón, Rioja Alavesa, founded in 1970, whose reds El Coto Crianza and Coto de Imaz Reserva are among the best-selling Riojas in Spain.</p><p>Rioja, in the Ebro valley, became Spain's first Qualified Designation of Origin in 1991. It is best known for its Tempranillo-based reds and its long tradition of ageing in oak barrels.</p>",
+    "fr": "<p>Il porte la mention Reserva. Il titre 13,5 % vol.</p><p>Bodega d’Oyón, dans la Rioja Alavesa, fondée en 1970, dont les rouges El Coto Crianza et Coto de Imaz Reserva comptent parmi les riojas les plus vendus en Espagne.</p><p>La Rioja, dans la vallée de l'Èbre, est devenue en 1991 la première dénomination d'origine qualifiée d'Espagne. Elle est surtout connue pour ses rouges à base de tempranillo et sa longue tradition d'élevage en barrique de chêne.</p>",
+    "it": "<p>Riporta la menzione Reserva. Ha 13,5% vol.</p><p>Cantina di Oyón, nella Rioja Alavesa, fondata nel 1970, i cui rossi El Coto Crianza e Coto de Imaz Reserva sono tra i Rioja più venduti in Spagna.</p><p>La Rioja, nella valle dell'Ebro, è diventata nel 1991 la prima Denominazione di origine qualificata di Spagna. È nota soprattutto per i rossi a base di Tempranillo e per la lunga tradizione di affinamento in botte di rovere.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Coto de Imaz Selección Viñedos Reserva El Coto de Rioja",
+  "brief": true,
+  "source": "decantalo"
+}

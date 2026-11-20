@@ -1,0 +1,49 @@
+{
+  "slug": "anna-de-codorniu-rose",
+  "name": "Anna de Codorníu Rosé",
+  "winery": "codorniu",
+  "region": "cava",
+  "country": "espana",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut",
+    "en": "Brut",
+    "fr": "Brut",
+    "it": "Brut"
+  },
+  "grapes": [
+    "pinot-noir",
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Versión rosada del cava Anna de Codorníu, elaborada con Pinot Noir y Chardonnay por el método tradicional.",
+    "en": "Rosé version of the Anna de Codorníu Cava, made from Pinot Noir and Chardonnay using the traditional method.",
+    "fr": "Version rosée du cava Anna de Codorníu, élaborée à partir de pinot noir et de chardonnay selon la méthode traditionnelle.",
+    "it": "Versione rosata del cava Anna de Codorníu, prodotta con Pinot Noir e Chardonnay secondo il metodo tradizionale."
+  },
+  "body": {
+    "es": "<p>La gama <strong>Anna de Codorníu</strong> rinde homenaje a la heredera de la familia Codorníu que en el siglo XVII se casó con Miquel Raventós, uniendo ambos linajes. Codorníu fue de las primeras casas en incorporar variedades internacionales al cava, y esta línea se convirtió en el símbolo de esa apuesta.</p><p>Esta versión rosada se elabora con <strong>Pinot Noir</strong>, que aporta el color y la fruta roja, y <strong>Chardonnay</strong>, que suma finura y frescura. Sigue el <strong>método tradicional</strong>, con segunda fermentación en botella y crianza sobre lías en las cavas de Sant Sadurní d’Anoia antes del degüelle.</p><p>El resultado es un cava rosado de dosificación brut, fresco y afrutado, con una burbuja fina y un perfil aromático de frutos rojos. Está pensado para beberse joven, como aperitivo o con platos ligeros, y es una de las etiquetas más difundidas de la casa.</p>",
+    "en": "<p>The <strong>Anna de Codorníu</strong> range pays tribute to the heiress of the Codorníu family who in the 17th century married Miquel Raventós, uniting the two lineages. Codorníu was among the first houses to bring international varieties into Cava, and this line became the symbol of that choice.</p><p>This rosé version is made from <strong>Pinot Noir</strong>, which gives colour and red fruit, and <strong>Chardonnay</strong>, which adds finesse and freshness. It follows the <strong>traditional method</strong>, with a second fermentation in bottle and ageing on the lees in the cellars of Sant Sadurní d’Anoia before disgorgement.</p><p>The result is a brut rosé Cava, fresh and fruity, with fine bubbles and an aromatic profile of red berries. It is meant to be drunk young, as an aperitif or with light dishes, and is one of the house’s most widely available labels.</p>",
+    "fr": "<p>La gamme <strong>Anna de Codorníu</strong> rend hommage à l’héritière de la famille Codorníu qui épousa au XVIIe siècle Miquel Raventós, unissant les deux lignées. Codorníu fut parmi les premières maisons à introduire des cépages internationaux dans le cava, et cette ligne est devenue le symbole de ce choix.</p><p>Cette version rosée est élaborée à partir de <strong>pinot noir</strong>, qui apporte la couleur et le fruit rouge, et de <strong>chardonnay</strong>, qui ajoute finesse et fraîcheur. Elle suit la <strong>méthode traditionnelle</strong>, avec une seconde fermentation en bouteille et un vieillissement sur lies dans les caves de Sant Sadurní d’Anoia avant le dégorgement.</p><p>Il en résulte un cava rosé brut, frais et fruité, aux bulles fines et au profil aromatique de fruits rouges. Il est destiné à être bu jeune, à l’apéritif ou avec des plats légers, et figure parmi les étiquettes les plus diffusées de la maison.</p>",
+    "it": "<p>La linea <strong>Anna de Codorníu</strong> rende omaggio all’erede della famiglia Codorníu che nel XVII secolo sposò Miquel Raventós, unendo le due stirpi. Codorníu fu tra le prime case a introdurre vitigni internazionali nel cava, e questa linea è diventata il simbolo di tale scelta.</p><p>Questa versione rosata è prodotta con <strong>Pinot Noir</strong>, che apporta il colore e il frutto rosso, e <strong>Chardonnay</strong>, che aggiunge finezza e freschezza. Segue il <strong>metodo tradizionale</strong>, con seconda fermentazione in bottiglia e affinamento sui lieviti nelle cantine di Sant Sadurní d’Anoia prima della sboccatura.</p><p>Il risultato è un cava rosato brut, fresco e fruttato, dal perlage fine e dal profilo aromatico di frutti rossi. È pensato per essere bevuto giovane, come aperitivo o con piatti leggeri, ed è una delle etichette più diffuse della casa.</p>"
+  },
+  "tasting": {
+    "es": "Rosa pálido, burbuja fina. Aromas de fresa, frambuesa y cereza, con un fondo de bollería. Boca fresca y afrutada, de final limpio.",
+    "en": "Pale pink, fine bubbles. Aromas of strawberry, raspberry and cherry, with a hint of pastry. Fresh, fruity palate with a clean finish.",
+    "fr": "Rose pâle, bulles fines. Arômes de fraise, de framboise et de cerise, avec un fond de viennoiserie. Bouche fraîche et fruitée, à la finale nette.",
+    "it": "Rosa tenue, perlage fine. Aromi di fragola, lampone e ciliegia, con un fondo di pasticceria. Bocca fresca e fruttata, dal finale pulito."
+  },
+  "pairing": {
+    "es": "Aperitivo, sushi, salmón, ensaladas, postres de frutos rojos",
+    "en": "Aperitif, sushi, salmon, salads, red-berry desserts",
+    "fr": "Apéritif, sushi, saumon, salades, desserts aux fruits rouges",
+    "it": "Aperitivo, sushi, salmone, insalate, dessert ai frutti rossi"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de tipo tulipa",
+    "en": "8-10 °C, tulip glass",
+    "fr": "8-10 °C, verre tulipe",
+    "it": "8-10 °C, calice a tulipano"
+  },
+  "search": "Anna de Codorníu Rosé Brut Codorníu"
+}

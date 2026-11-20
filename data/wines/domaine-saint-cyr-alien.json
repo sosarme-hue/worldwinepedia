@@ -1,0 +1,42 @@
+{
+  "slug": "domaine-saint-cyr-alien",
+  "name": "Domaine Saint-Cyr Alien",
+  "winery": null,
+  "winery_name": "Domaine Saint-Cyr",
+  "region": null,
+  "country": "francia",
+  "appellation": "Vin de France",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "aligote"
+  ],
+  "summary": {
+    "es": "Domaine Saint-Cyr Alien es un vino blanco de Domaine Saint-Cyr, con la denominación Vin de France, en Francia.",
+    "en": "Domaine Saint-Cyr Alien is a white wine from Domaine Saint-Cyr, made under the Vin de France appellation in France.",
+    "fr": "Domaine Saint-Cyr Alien est un vin blanc de Domaine Saint-Cyr, élaboré sous l’appellation Vin de France (France).",
+    "it": "Domaine Saint-Cyr Alien è un vino bianco di Domaine Saint-Cyr, prodotto nella denominazione Vin de France (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Aligoté. Tiene crianza en madera. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is made from Aligoté. It is aged in wood. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Aligoté. Il est élevé en bois. Il titre 12,5 % vol.</p>",
+    "it": "<p>È prodotto con Aligoté. È affinato in legno. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Domaine Saint-Cyr Alien Domaine Saint-Cyr",
+  "brief": true,
+  "source": "decantalo"
+}

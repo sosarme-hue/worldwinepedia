@@ -1,0 +1,48 @@
+{
+  "slug": "inniskillin-riesling-icewine",
+  "name": "Inniskillin Riesling Icewine",
+  "winery": "inniskillin",
+  "region": "niagara-peninsula",
+  "country": "canada",
+  "type": "dulce",
+  "category": {
+    "es": "Vino de hielo (Icewine VQA)",
+    "en": "Icewine (VQA)",
+    "fr": "Vin de glace (Icewine VQA)",
+    "it": "Vino del ghiaccio (Icewine VQA)"
+  },
+  "grapes": [
+    "riesling"
+  ],
+  "summary": {
+    "es": "Vino de hielo de Riesling de la península del Niágara elaborado por Inniskillin, más tenso y cítrico que su versión de Vidal.",
+    "en": "Riesling icewine from the Niagara Peninsula made by Inniskillin, tauter and more citrus-driven than its Vidal version.",
+    "fr": "Vin de glace de riesling de la péninsule du Niagara élaboré par Inniskillin, plus tendu et plus citronné que sa version de vidal.",
+    "it": "Vino del ghiaccio di Riesling della penisola del Niagara prodotto da Inniskillin, più teso e agrumato della sua versione di Vidal."
+  },
+  "body": {
+    "es": "<p>Junto al de Vidal, el vino de hielo de Riesling es una de las especialidades de Inniskillin. La Riesling, de maduración tardía y acidez naturalmente elevada, es otra de las variedades clásicas del icewine en Ontario: su piel es más fina que la de la Vidal, por lo que mantener la uva sana en la cepa hasta el invierno exige más cuidados, pero a cambio aporta un perfil aromático más fino y una acidez más marcada.</p><p>La elaboración sigue las normas VQA: las uvas se dejan en la cepa hasta que se congelan de forma natural, se vendimian a mano a temperaturas de al menos ocho grados bajo cero y se prensan heladas para extraer un mosto muy concentrado, que fermenta lentamente. El vino conserva una gran dulzura, pero su acidez le da tensión y frescura. Gracias a esa acidez, puede evolucionar en botella durante varios años y desarrollar notas de miel y de frutos secos.</p>",
+    "en": "<p>Alongside Vidal, Riesling icewine is one of Inniskillin’s specialities. Riesling, late-ripening and naturally high in acidity, is another classic icewine variety in Ontario: its skin is thinner than Vidal’s, so keeping the grapes healthy on the vine until winter requires more care, but in return it brings a finer aromatic profile and more pronounced acidity.</p><p>Production follows VQA rules: the grapes are left on the vine until they freeze naturally, harvested by hand at temperatures of at least minus eight degrees Celsius and pressed while frozen to extract a highly concentrated juice, which ferments slowly. The wine retains great sweetness, but its acidity gives it tension and freshness. Thanks to that acidity, it can develop in bottle over several years and gain notes of honey and dried fruit.</p>",
+    "fr": "<p>À côté de celui de vidal, le vin de glace de riesling est l’une des spécialités d’Inniskillin. Le riesling, tardif et naturellement riche en acidité, est un autre cépage classique de l’icewine en Ontario : sa peau est plus fine que celle du vidal, de sorte que garder les raisins sains sur la vigne jusqu’à l’hiver exige davantage de soins, mais il apporte en échange un profil aromatique plus fin et une acidité plus marquée.</p><p>L’élaboration suit les règles VQA : les raisins restent sur la vigne jusqu’à ce qu’ils gèlent naturellement, sont vendangés à la main à des températures d’au moins huit degrés sous zéro et pressés gelés pour extraire un moût très concentré, qui fermente lentement. Le vin conserve une grande douceur, mais son acidité lui donne tension et fraîcheur. Grâce à cette acidité, il peut évoluer en bouteille pendant plusieurs années et développer des notes de miel et de fruits secs.</p>",
+    "it": "<p>Accanto a quello di Vidal, il vino del ghiaccio di Riesling è una delle specialità di Inniskillin. Il Riesling, a maturazione tardiva e di acidità naturalmente elevata, è un’altra varietà classica dell’icewine in Ontario: la sua buccia è più sottile di quella del Vidal, perciò mantenere sane le uve sulla pianta fino all’inverno richiede più attenzioni, ma in cambio apporta un profilo aromatico più fine e un’acidità più marcata.</p><p>La produzione segue le norme VQA: le uve restano sulla pianta finché non gelano naturalmente, sono vendemmiate a mano a temperature di almeno otto gradi sotto zero e pressate congelate per estrarre un mosto molto concentrato, che fermenta lentamente. Il vino conserva una grande dolcezza, ma l’acidità gli dà tensione e freschezza. Grazie a questa acidità può evolvere in bottiglia per diversi anni e sviluppare note di miele e frutta secca.</p>"
+  },
+  "tasting": {
+    "es": "Dorado brillante. Aromas de lima, pomelo, albaricoque y miel, con notas florales. Boca dulce pero tensa, con una acidez vibrante y un final largo y limpio.",
+    "en": "Bright gold. Aromas of lime, grapefruit, apricot and honey, with floral notes. Sweet yet taut on the palate, with vibrant acidity and a long, clean finish.",
+    "fr": "Or brillant. Arômes de citron vert, de pamplemousse, d’abricot et de miel, avec des notes florales. Bouche douce mais tendue, à l’acidité vibrante, avec une finale longue et nette.",
+    "it": "Oro brillante. Profumi di lime, pompelmo, albicocca e miele, con note floreali. Bocca dolce ma tesa, con un’acidità vibrante e un finale lungo e pulito."
+  },
+  "pairing": {
+    "es": "Foie gras, quesos azules, postres de cítricos, tarta de limón, fruta fresca",
+    "en": "Foie gras, blue cheeses, citrus desserts, lemon tart, fresh fruit",
+    "fr": "Foie gras, fromages persillés, desserts aux agrumes, tarte au citron, fruits frais",
+    "it": "Foie gras, formaggi erborinati, dolci agli agrumi, crostata al limone, frutta fresca"
+  },
+  "serve": {
+    "es": "8-10 °C, copa pequeña de vino dulce",
+    "en": "8-10 °C, small dessert wine glass",
+    "fr": "8-10 °C, petit verre à vin liquoreux",
+    "it": "8-10 °C, piccolo calice da vino dolce"
+  },
+  "search": "Inniskillin Riesling Icewine"
+}

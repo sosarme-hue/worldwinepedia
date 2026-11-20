@@ -1,0 +1,42 @@
+{
+  "slug": "gerovassiliou-chardonnay",
+  "name": "Gerovassiliou Chardonnay",
+  "winery": null,
+  "winery_name": "Ktima Gerovassiliou",
+  "region": null,
+  "country": "grecia",
+  "appellation": "PGI Epanomi",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Gerovassiliou Chardonnay es un vino blanco de Ktima Gerovassiliou, con la denominación PGI Epanomi, en Grecia.",
+    "en": "Gerovassiliou Chardonnay is a white wine from Ktima Gerovassiliou, made under the PGI Epanomi appellation in Greece.",
+    "fr": "Gerovassiliou Chardonnay est un vin blanc de Ktima Gerovassiliou, élaboré sous l’appellation PGI Epanomi (Grèce).",
+    "it": "Gerovassiliou Chardonnay è un vino bianco di Ktima Gerovassiliou, prodotto nella denominazione PGI Epanomi (Grecia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Chardonnay. Tiene crianza en madera. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is made from Chardonnay. It is aged in wood. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Chardonnay. Il est élevé en bois. Il titre 13,5 % vol.</p>",
+    "it": "<p>È prodotto con Chardonnay. È affinato in legno. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Gerovassiliou Chardonnay Ktima Gerovassiliou",
+  "brief": true,
+  "source": "decantalo"
+}

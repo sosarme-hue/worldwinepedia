@@ -1,0 +1,42 @@
+{
+  "slug": "les-fumees-blanches-rose",
+  "name": "Les Fumées Blanches Rosé",
+  "winery": null,
+  "winery_name": "François Lurton",
+  "region": null,
+  "country": "francia",
+  "appellation": "IGP Côtes de Gascogne",
+  "type": "rosado",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "Les Fumées Blanches Rosé es un vino rosado de François Lurton, con la denominación IGP Côtes de Gascogne, en Francia.",
+    "en": "Les Fumées Blanches Rosé is a rosé wine from François Lurton, made under the IGP Côtes de Gascogne appellation in France.",
+    "fr": "Les Fumées Blanches Rosé est un vin rosé de François Lurton, élaboré sous l’appellation IGP Côtes de Gascogne (France).",
+    "it": "Les Fumées Blanches Rosé è un vino rosato di François Lurton, prodotto nella denominazione IGP Côtes de Gascogne (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Cabernet Sauvignon. Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is made from Cabernet Sauvignon. It is a young wine, meant to be drunk in its first years. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Cabernet Sauvignon. C’est un vin jeune, à boire dans ses premières années. Il titre 12,5 % vol.</p>",
+    "it": "<p>È prodotto con Cabernet Sauvignon. È un vino giovane, da bere nei primi anni. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, ensaladas, arroces, pescados",
+    "en": "Aperitif, salads, rice dishes, fish",
+    "fr": "Apéritif, salades, plats de riz, poissons",
+    "it": "Aperitivo, insalate, risotti, pesce"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Les Fumées Blanches Rosé François Lurton",
+  "brief": true,
+  "source": "decantalo"
+}

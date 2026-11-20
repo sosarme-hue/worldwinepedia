@@ -1,0 +1,42 @@
+{
+  "slug": "soto-manrique-naranjas-azules-garnacha",
+  "name": "Soto Manrique Naranjas Azules Garnacha",
+  "winery": null,
+  "winery_name": "Bodega Soto y Manrique",
+  "region": null,
+  "country": "espana",
+  "appellation": "DO Cebreros",
+  "type": "rosado",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Soto Manrique Naranjas Azules Garnacha es un vino rosado de Bodega Soto y Manrique, con la denominación DO Cebreros, en España.",
+    "en": "Soto Manrique Naranjas Azules Garnacha is a rosé wine from Bodega Soto y Manrique, made under the DO Cebreros appellation in Spain.",
+    "fr": "Soto Manrique Naranjas Azules Garnacha est un vin rosé de Bodega Soto y Manrique, élaboré sous l’appellation DO Cebreros (Espagne).",
+    "it": "Soto Manrique Naranjas Azules Garnacha è un vino rosato di Bodega Soto y Manrique, prodotto nella denominazione DO Cebreros (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 13 % vol.</p>",
+    "en": "<p>It is made from Grenache. It is a young wine, meant to be drunk in its first years. It has 13% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. C’est un vin jeune, à boire dans ses premières années. Il titre 13 % vol.</p>",
+    "it": "<p>È prodotto con Grenache. È un vino giovane, da bere nei primi anni. Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, ensaladas, arroces, pescados",
+    "en": "Aperitif, salads, rice dishes, fish",
+    "fr": "Apéritif, salades, plats de riz, poissons",
+    "it": "Aperitivo, insalate, risotti, pesce"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Soto Manrique Naranjas Azules Garnacha Bodega Soto y Manrique",
+  "brief": true,
+  "source": "decantalo"
+}

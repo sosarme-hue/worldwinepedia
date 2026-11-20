@@ -1,0 +1,49 @@
+{
+  "slug": "grahams-six-grapes",
+  "name": "Graham’s Six Grapes Reserve Port",
+  "winery": "grahams",
+  "region": "porto",
+  "country": "portugal",
+  "type": "generoso",
+  "category": {
+    "es": "Reserve (ruby)",
+    "en": "Reserve (ruby)",
+    "fr": "Reserve (ruby)",
+    "it": "Reserve (ruby)"
+  },
+  "grapes": [
+    "touriga-nacional",
+    "touriga-franca"
+  ],
+  "summary": {
+    "es": "Oporto ruby de categoría Reserve de Graham’s, de estilo afrutado y rico, elaborado con vinos de las mismas quintas que abastecen sus Vintage.",
+    "en": "Reserve ruby Port from Graham’s, fruity and rich in style, made from wines from the same quintas that supply its Vintage Ports.",
+    "fr": "Porto ruby de catégorie Reserve de Graham’s, fruité et riche, élaboré avec des vins des mêmes quintas que celles qui fournissent ses Vintage.",
+    "it": "Porto ruby di categoria Reserve di Graham’s, fruttato e ricco, ottenuto da vini delle stesse quintas che riforniscono i suoi Vintage."
+  },
+  "body": {
+    "es": "<p>El nombre Six Grapes procede de la marca que se utilizaba en los registros de la casa para señalar los vinos de mayor calidad, dibujada como seis racimos. Graham’s lo presenta como un Oporto Reserve elaborado con vinos procedentes de sus quintas del Douro, entre ellas Quinta dos Malvedos, que también aportan uva a sus Vintage.</p><p>Se elabora con variedades tradicionales del Douro, como la Touriga Nacional y la Touriga Franca, con fermentación interrumpida mediante aguardiente vínica. Después envejece algunos años en grandes toneles de roble, una crianza que conserva el color profundo y la fruta del vino. Es un Oporto de estilo ruby pensado para beber sin necesidad de guarda y que, una vez abierto, se mantiene bien durante algunas semanas si se conserva cerrado y en un lugar fresco.</p><p>Por su estilo, se suele describir como un Oporto que recuerda en carácter a un Vintage joven, aunque sin su capacidad de guarda.</p>",
+    "en": "<p>The name Six Grapes comes from the mark used in the house’s records to identify its finest wines, drawn as six bunches of grapes. Graham’s presents it as a Reserve Port made from wines from its Douro quintas, including Quinta dos Malvedos, which also supply grapes for its Vintage Ports.</p><p>It is made from traditional Douro varieties such as Touriga Nacional and Touriga Franca, with fermentation stopped by grape spirit. It then ages for a few years in large oak vats, a form of ageing that preserves the wine’s deep colour and fruit. It is a ruby-style Port intended for drinking without cellaring, and once opened it keeps well for a few weeks if stoppered and stored somewhere cool.</p><p>Stylistically, it is often described as a Port that recalls the character of a young Vintage, though without its ageing capacity.</p>",
+    "fr": "<p>Le nom Six Grapes vient de la marque utilisée dans les registres de la maison pour signaler ses meilleurs vins, dessinée sous la forme de six grappes. Graham’s le présente comme un porto Reserve élaboré avec des vins issus de ses quintas du Douro, dont la Quinta dos Malvedos, qui fournissent aussi le raisin de ses Vintage.</p><p>Il est élaboré avec des cépages traditionnels du Douro, comme la touriga nacional et la touriga franca, et sa fermentation est arrêtée par l’ajout d’eau-de-vie de vin. Il vieillit ensuite quelques années dans de grands foudres de chêne, un élevage qui préserve sa couleur profonde et son fruit. C’est un porto de style ruby destiné à être bu sans garde et qui, une fois ouvert, se conserve bien quelques semaines s’il est rebouché et gardé au frais.</p><p>Par son style, il est souvent décrit comme un porto qui rappelle le caractère d’un jeune Vintage, sans en avoir toutefois l’aptitude à la garde.</p>",
+    "it": "<p>Il nome Six Grapes deriva dal segno usato nei registri della casa per indicare i vini di qualità più alta, disegnato come sei grappoli. Graham’s lo presenta come un Porto Reserve ottenuto da vini delle sue quintas del Douro, tra cui Quinta dos Malvedos, che forniscono uva anche per i suoi Vintage.</p><p>È prodotto con varietà tradizionali del Douro, come Touriga Nacional e Touriga Franca, con fermentazione interrotta tramite acquavite di vino. Invecchia poi alcuni anni in grandi botti di rovere, un affinamento che conserva il colore profondo e il frutto del vino. È un Porto in stile ruby pensato per essere bevuto senza invecchiamento e che, una volta aperto, si mantiene bene per alcune settimane se ben chiuso e conservato al fresco.</p><p>Per il suo stile, viene spesso descritto come un Porto che ricorda il carattere di un Vintage giovane, pur senza la sua capacità di invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Rubí profundo, con aromas de cereza negra, ciruela y moras, y notas de chocolate. En boca es dulce, amplio y con taninos redondos.",
+    "en": "Deep ruby, with aromas of black cherry, plum and blackberry and notes of chocolate. Sweet and broad on the palate, with rounded tannins.",
+    "fr": "Rubis profond, avec des arômes de cerise noire, de prune et de mûre et des notes de chocolat. En bouche, il est doux, ample, avec des tanins ronds.",
+    "it": "Rubino profondo, con aromi di ciliegia nera, prugna e mora e note di cioccolato. In bocca è dolce, ampio, con tannini rotondi."
+  },
+  "pairing": {
+    "es": "Postres de chocolate, quesos azules, tartas de frutos rojos",
+    "en": "Chocolate desserts, blue cheeses, red berry tarts",
+    "fr": "Desserts au chocolat, fromages persillés, tartes aux fruits rouges",
+    "it": "Dolci al cioccolato, formaggi erborinati, crostate di frutti rossi"
+  },
+  "serve": {
+    "es": "15-17 °C, copa de vino generoso",
+    "en": "15-17 °C, Port glass",
+    "fr": "15-17 °C, verre à porto",
+    "it": "15-17 °C, calice da Porto"
+  },
+  "search": "Graham's Six Grapes Reserve Port"
+}

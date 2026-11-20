@@ -1,0 +1,44 @@
+{
+  "slug": "mateus-rose",
+  "name": "Mateus Rosé",
+  "winery": "sogrape",
+  "region": null,
+  "country": "portugal",
+  "type": "rosado",
+  "category": null,
+  "grapes": [
+    "baga",
+    "touriga-franca"
+  ],
+  "summary": {
+    "es": "Rosado ligeramente burbujeante creado por Sogrape en 1942, reconocible por su botella achatada y su etiqueta con el palacio de Mateus, uno de los vinos portugueses más vendidos en el mundo.",
+    "en": "Slightly sparkling rosé created by Sogrape in 1942, recognisable by its flattened flask-shaped bottle and its label showing the Mateus palace, one of the best-selling Portuguese wines in the world.",
+    "fr": "Rosé légèrement pétillant créé par Sogrape en 1942, reconnaissable à sa bouteille aplatie et à son étiquette représentant le palais de Mateus, l’un des vins portugais les plus vendus au monde.",
+    "it": "Rosato leggermente frizzante creato da Sogrape nel 1942, riconoscibile per la bottiglia schiacciata e l’etichetta con il palazzo di Mateus, uno dei vini portoghesi più venduti al mondo."
+  },
+  "body": {
+    "es": "<p>Mateus Rosé fue creado en 1942 por Fernando van Zeller Guedes, fundador de Sogrape, con la idea de elaborar un vino portugués pensado desde el principio para la exportación. Su botella de forma achatada, inspirada en las cantimploras de los soldados de la Primera Guerra Mundial, y su etiqueta, que reproduce el palacio barroco de Mateus, cerca de Vila Real, lo convirtieron en uno de los vinos más reconocibles del mundo. Durante la segunda mitad del siglo XX fue uno de los vinos europeos de mayor éxito internacional.</p><p>Se elabora con variedades tintas portuguesas, entre ellas la Baga, la Rufete, la Tinta Barroca y la Touriga Franca, en proporciones que varían según la cosecha. Tras una breve maceración con las pieles para obtener el color rosado, el mosto fermenta a baja temperatura para preservar los aromas frutales. El vino conserva un ligero dulzor y una suave aguja, es decir, una pequeña cantidad de gas carbónico que le da frescura.</p><p>Es un rosado joven, pensado para beberse en el año, sin crianza.</p>",
+    "en": "<p>Mateus Rosé was created in 1942 by Fernando van Zeller Guedes, the founder of Sogrape, with the idea of making a Portuguese wine designed from the outset for export. Its flattened bottle, inspired by the canteens of First World War soldiers, and its label, which shows the baroque Mateus palace near Vila Real, made it one of the most recognisable wines in the world. During the second half of the twentieth century it was one of Europe’s most internationally successful wines.</p><p>It is made from Portuguese red varieties, among them Baga, Rufete, Tinta Barroca and Touriga Franca, in proportions that vary with the vintage. After a brief maceration on the skins to obtain the pink colour, the must ferments at low temperature to preserve fruity aromas. The wine keeps a slight sweetness and a gentle spritz, that is, a small amount of carbon dioxide that gives it freshness.</p><p>It is a young rosé, meant to be drunk within the year, without ageing.</p>",
+    "fr": "<p>Le Mateus Rosé a été créé en 1942 par Fernando van Zeller Guedes, fondateur de Sogrape, avec l’idée d’élaborer un vin portugais conçu dès le départ pour l’exportation. Sa bouteille aplatie, inspirée des gourdes des soldats de la Première Guerre mondiale, et son étiquette, qui reproduit le palais baroque de Mateus, près de Vila Real, en ont fait l’un des vins les plus reconnaissables du monde. Dans la seconde moitié du XXe siècle, il fut l’un des vins européens au plus grand succès international.</p><p>Il est élaboré avec des cépages rouges portugais, parmi lesquels la baga, le rufete, la tinta barroca et la touriga franca, dans des proportions qui varient selon le millésime. Après une brève macération avec les peaux pour obtenir la couleur rosée, le moût fermente à basse température afin de préserver les arômes fruités. Le vin conserve une légère douceur et un léger perlant, c’est-à-dire une petite quantité de gaz carbonique qui lui donne de la fraîcheur.</p><p>C’est un rosé jeune, à boire dans l’année, sans élevage.</p>",
+    "it": "<p>Il Mateus Rosé fu creato nel 1942 da Fernando van Zeller Guedes, fondatore di Sogrape, con l’idea di produrre un vino portoghese pensato fin dall’inizio per l’esportazione. La bottiglia schiacciata, ispirata alle borracce dei soldati della Prima guerra mondiale, e l’etichetta, che riproduce il palazzo barocco di Mateus, vicino a Vila Real, lo hanno reso uno dei vini più riconoscibili al mondo. Nella seconda metà del Novecento fu uno dei vini europei di maggior successo internazionale.</p><p>È prodotto con varietà rosse portoghesi, tra cui Baga, Rufete, Tinta Barroca e Touriga Franca, in proporzioni che variano secondo l’annata. Dopo una breve macerazione sulle bucce per ottenere il colore rosato, il mosto fermenta a bassa temperatura per preservare gli aromi fruttati. Il vino conserva una leggera dolcezza e un lieve frizzante, cioè una piccola quantità di anidride carbonica che gli dà freschezza.</p><p>È un rosato giovane, da bere entro l’anno, senza affinamento.</p>"
+  },
+  "tasting": {
+    "es": "Color rosa brillante. Aromas de fresa, frambuesa y caramelo de frutas rojas. En boca es ligero, fresco y ligeramente dulce, con una suave efervescencia.",
+    "en": "Bright pink colour. Aromas of strawberry, raspberry and red fruit sweets. Light, fresh and slightly sweet on the palate, with a gentle effervescence.",
+    "fr": "Robe rose brillant. Arômes de fraise, de framboise et de bonbon aux fruits rouges. En bouche, il est léger, frais et légèrement doux, avec une douce effervescence.",
+    "it": "Colore rosa brillante. Aromi di fragola, lampone e caramella ai frutti rossi. In bocca è leggero, fresco e leggermente dolce, con una delicata effervescenza."
+  },
+  "pairing": {
+    "es": "Aperitivo, ensaladas, cocina asiática especiada, pizza, platos de verano",
+    "en": "Aperitif, salads, spicy Asian cuisine, pizza, summer dishes",
+    "fr": "Apéritif, salades, cuisine asiatique épicée, pizza, plats d’été",
+    "it": "Aperitivo, insalate, cucina asiatica speziata, pizza, piatti estivi"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de vino blanco",
+    "en": "6-8 °C, white wine glass",
+    "fr": "6-8 °C, verre à vin blanc",
+    "it": "6-8 °C, calice da vino bianco"
+  },
+  "search": "Mateus Rosé Sogrape"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "mestizaje-tinto",
+  "name": "Mestizaje Tinto",
+  "winery": "mustiguillo",
+  "region": "utiel-requena",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "bobal"
+  ],
+  "summary": {
+    "es": "Tinto joven de Bodega Mustiguillo basado en bobal, la versión más fresca y accesible de los vinos de la finca El Terrerazo.",
+    "en": "Young red from Bodega Mustiguillo based on Bobal, the freshest and most accessible version of the El Terrerazo estate's wines.",
+    "fr": "Rouge jeune de Bodega Mustiguillo fondé sur le bobal, la version la plus fraîche et la plus accessible des vins du domaine d'El Terrerazo.",
+    "it": "Rosso giovane di Bodega Mustiguillo a base di Bobal, la versione più fresca e accessibile dei vini della tenuta El Terrerazo."
+  },
+  "body": {
+    "es": "<p>Mestizaje es la línea más accesible de Mustiguillo. Su versión tinta tiene como base la <strong>bobal</strong>, la variedad que la bodega ha defendido desde sus inicios, a la que se suman en menor proporción otras variedades tintas cultivadas en la zona; de esa mezcla procede el nombre del vino.</p><p>Las uvas proceden del entorno de la finca El Terrerazo, en la meseta de Utiel-Requena, a gran altitud y con un clima continental que favorece la frescura. El vino tiene una crianza breve en madera y se embotella pensando en un consumo relativamente temprano. Es un tinto jugoso y fragante, de tanino amable, que permite acercarse a la bobal moderna a un precio contenido.</p><p>Se recomienda servirlo ligeramente por debajo de la temperatura ambiente, para que la fruta y la frescura se muestren con nitidez, y disfrutarlo preferentemente en sus primeros años tras la cosecha.</p>",
+    "en": "<p>Mestizaje is Mustiguillo's most accessible line. Its red version is based on <strong>Bobal</strong>, the variety the winery has championed since the start, with smaller proportions of other red varieties grown in the area; the wine's name («blending», «mixed heritage») comes from that mix.</p><p>The grapes come from around the El Terrerazo estate, on the Utiel-Requena plateau, at high altitude and with a continental climate that favours freshness. The wine has a short spell in oak and is bottled for relatively early drinking. It is a juicy, fragrant red with friendly tannins, an affordable way to discover modern Bobal.</p><p>It is best served slightly below room temperature, so that its fruit and freshness show clearly, and preferably enjoyed within its first few years after the harvest.</p>",
+    "fr": "<p>Mestizaje est la ligne la plus accessible de Mustiguillo. Sa version rouge repose sur le <strong>bobal</strong>, le cépage que la maison défend depuis ses débuts, auquel s'ajoutent en moindre proportion d'autres cépages rouges cultivés dans la zone ; c'est de ce mélange (« métissage ») que vient le nom du vin.</p><p>Les raisins proviennent des alentours du domaine d'El Terrerazo, sur le plateau d'Utiel-Requena, en altitude et sous un climat continental qui favorise la fraîcheur. Le vin bénéficie d'un court élevage sous bois et est mis en bouteille pour être bu relativement jeune. C'est un rouge juteux et parfumé, aux tanins aimables, qui permet de découvrir le bobal moderne à un prix modéré.</p><p>Il est conseillé de le servir légèrement en dessous de la température ambiante, pour que le fruit et la fraîcheur s'expriment nettement, et de l'apprécier de préférence dans ses premières années après la récolte.</p>",
+    "it": "<p>Mestizaje è la linea più accessibile di Mustiguillo. La versione rossa ha come base il <strong>Bobal</strong>, la varietà che la cantina sostiene fin dall'inizio, a cui si aggiungono in proporzione minore altre varietà rosse coltivate nella zona; da questa mescolanza («meticciato») deriva il nome del vino.</p><p>Le uve provengono dai dintorni della tenuta El Terrerazo, sull'altopiano di Utiel-Requena, ad alta quota e con un clima continentale che favorisce la freschezza. Il vino ha un breve passaggio in legno ed è imbottigliato per un consumo relativamente precoce. È un rosso succoso e profumato, dal tannino gentile, che permette di avvicinarsi al Bobal moderno a un prezzo contenuto.</p><p>Si consiglia di servirlo leggermente al di sotto della temperatura ambiente, perché frutto e freschezza emergano con nitidezza, e di gustarlo preferibilmente nei primi anni dopo la vendemmia.</p>"
+  },
+  "tasting": {
+    "es": "Fruta roja y negra fresca, notas florales y de hierbas. Boca jugosa, de acidez viva y tanino suave.",
+    "en": "Fresh red and black fruit, floral and herbal notes. Juicy palate with lively acidity and soft tannins.",
+    "fr": "Fruits rouges et noirs frais, notes florales et herbacées. Bouche juteuse, à l'acidité vive et aux tanins souples.",
+    "it": "Frutta rossa e nera fresca, note floreali ed erbacee. Bocca succosa, con acidità vivace e tannino morbido."
+  },
+  "pairing": {
+    "es": "Embutidos, arroces, carnes a la parrilla, pizza, verduras asadas",
+    "en": "Charcuterie, rice dishes, grilled meats, pizza, roasted vegetables",
+    "fr": "Charcuterie, plats de riz, viandes grillées, pizza, légumes rôtis",
+    "it": "Salumi, risi, carni alla griglia, pizza, verdure arrosto"
+  },
+  "serve": {
+    "es": "14-16 °C, copa de vino tinto",
+    "en": "14-16 °C, red wine glass",
+    "fr": "14-16 °C, verre à vin rouge",
+    "it": "14-16 °C, calice da vino rosso"
+  },
+  "search": "Mestizaje Tinto Mustiguillo"
+}

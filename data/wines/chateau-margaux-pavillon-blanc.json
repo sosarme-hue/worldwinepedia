@@ -1,0 +1,46 @@
+{
+  "slug": "chateau-margaux-pavillon-blanc",
+  "name": "Château Margaux Pavillon Blanc",
+  "winery": "chateau-margaux",
+  "winery_name": null,
+  "region": "bordeaux",
+  "country": "francia",
+  "appellation": "AOC Bordeaux",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "sauvignon-blanc"
+  ],
+  "summary": {
+    "es": "El blanco de Château Margaux, elaborado exclusivamente con Sauvignon Blanc procedente de parcelas propias de la finca y fermentado en barrica.",
+    "en": "The white wine of Château Margaux, made exclusively from Sauvignon Blanc grown on the estate's own plots and fermented in barrel.",
+    "fr": "Le blanc de Château Margaux, élaboré exclusivement à partir de sauvignon blanc issu de parcelles du domaine et fermenté en barrique.",
+    "it": "Il bianco di Château Margaux, prodotto esclusivamente con Sauvignon Blanc proveniente da appezzamenti della tenuta e fermentato in barrique."
+  },
+  "body": {
+    "es": "<p><strong>Pavillon Blanc du Château Margaux</strong> es el vino blanco de <strong>Château Margaux</strong>, Premier Grand Cru Classé de 1855. Su nombre procede del pabellón de la finca y su existencia es una rareza en el Médoc, una zona dedicada casi por completo a los tintos. Como los demás blancos del Médoc, no puede acogerse a la denominación comunal Margaux, reservada a los tintos, y se comercializa bajo la denominación <strong>Bordeaux</strong>.</p><p>Se elabora únicamente con <strong>Sauvignon Blanc</strong>, cultivada en parcelas propias de la finca, en suelos más frescos y arcillosos que las gravas reservadas a los tintos. La vendimia es manual y se realiza en varias pasadas para recoger cada parcela en su punto.</p><p>El mosto fermenta en barricas de roble francés, donde el vino se cría varios meses sobre sus lías. El resultado es un Sauvignon Blanc de gran densidad, alejado del perfil herbáceo más ligero de la variedad: combina fruta madura y notas cítricas con una textura amplia, una acidez firme y capacidad para evolucionar en botella.</p>",
+    "en": "<p><strong>Pavillon Blanc du Château Margaux</strong> is the white wine of <strong>Château Margaux</strong>, a First Growth in the 1855 classification. Its name comes from the estate's pavilion, and its very existence is a rarity in the Médoc, an area devoted almost entirely to red wine. Like the other Médoc whites, it cannot use the Margaux communal appellation, which is reserved for reds, and is sold under the <strong>Bordeaux</strong> appellation.</p><p>It is made solely from <strong>Sauvignon Blanc</strong>, grown on the estate's own plots, on cooler, more clay-rich soils than the gravel reserved for the reds. Harvesting is by hand, in several passes, to pick each plot at the right moment.</p><p>The must ferments in French oak barrels, where the wine is aged for several months on its lees. The result is a Sauvignon Blanc of great density, far from the variety's lighter, herbaceous profile: it combines ripe fruit and citrus notes with a broad texture, firm acidity and the capacity to develop in bottle.</p>",
+    "fr": "<p><strong>Pavillon Blanc du Château Margaux</strong> est le vin blanc de <strong>Château Margaux</strong>, premier grand cru classé en 1855. Son nom vient du pavillon du domaine, et son existence même est une rareté dans le Médoc, voué presque exclusivement aux rouges. Comme les autres blancs médocains, il ne peut revendiquer l'appellation communale Margaux, réservée aux rouges, et il est commercialisé sous l'appellation <strong>Bordeaux</strong>.</p><p>Il est élaboré uniquement à partir de <strong>sauvignon blanc</strong>, cultivé sur des parcelles du domaine, sur des sols plus frais et argileux que les graves réservées aux rouges. Les vendanges sont manuelles et se font en plusieurs passages pour cueillir chaque parcelle à point.</p><p>Le moût fermente en barriques de chêne français, où le vin est élevé plusieurs mois sur lies. Il en résulte un sauvignon d'une grande densité, loin du profil plus léger et végétal du cépage : il associe fruit mûr et notes d'agrumes à une texture ample, une acidité ferme et une capacité d'évolution en bouteille.</p>",
+    "it": "<p><strong>Pavillon Blanc du Château Margaux</strong> è il vino bianco di <strong>Château Margaux</strong>, Premier Grand Cru Classé nel 1855. Il nome deriva dal padiglione della tenuta e la sua stessa esistenza è una rarità nel Médoc, zona dedicata quasi interamente ai rossi. Come gli altri bianchi del Médoc, non può fregiarsi della denominazione comunale Margaux, riservata ai rossi, ed è commercializzato con la denominazione <strong>Bordeaux</strong>.</p><p>È prodotto unicamente con <strong>Sauvignon Blanc</strong>, coltivato in appezzamenti della tenuta, su suoli più freschi e argillosi rispetto alle ghiaie riservate ai rossi. La vendemmia è manuale e avviene in più passaggi per raccogliere ogni parcella al momento giusto.</p><p>Il mosto fermenta in barrique di rovere francese, dove il vino matura diversi mesi sui lieviti. Il risultato è un Sauvignon Blanc di grande densità, lontano dal profilo più leggero ed erbaceo del vitigno: unisce frutto maturo e note agrumate a una trama ampia, un'acidità decisa e la capacità di evolvere in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido con reflejos dorados. Aromas de pomelo, fruta blanca madura, flores y notas tostadas sutiles. Boca densa y fresca, con buena tensión y un final largo.",
+    "en": "Pale yellow with golden glints. Aromas of grapefruit, ripe white fruit, flowers and subtle toasty notes. Dense, fresh palate with good tension and a long finish.",
+    "fr": "Jaune pâle aux reflets dorés. Arômes de pamplemousse, de fruits blancs mûrs, de fleurs et notes toastées subtiles. Bouche dense et fraîche, d'une belle tension, à la finale longue.",
+    "it": "Giallo paglierino con riflessi dorati. Aromi di pompelmo, frutta bianca matura, fiori e sottili note tostate. Bocca densa e fresca, di buona tensione e con finale lungo."
+  },
+  "pairing": {
+    "es": "Pescados nobles, marisco, langosta, ave en salsa cremosa, quesos de cabra",
+    "en": "Fine fish, shellfish, lobster, poultry in cream sauce, goat's cheeses",
+    "fr": "Poissons nobles, fruits de mer, homard, volaille à la crème, fromages de chèvre",
+    "it": "Pesce pregiato, frutti di mare, astice, pollame in salsa cremosa, formaggi di capra"
+  },
+  "serve": {
+    "es": "10-12 °C, copa amplia de blanco",
+    "en": "10-12 °C, large white wine glass",
+    "fr": "10-12 °C, grand verre à vin blanc",
+    "it": "10-12 °C, calice ampio da bianco"
+  },
+  "search": "Château Margaux Pavillon Blanc Château Margaux",
+  "source": "decantalo"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "chateau-l-evangile",
+  "name": "Château L'Évangile",
+  "winery": "chateau-l-evangile",
+  "region": "pomerol",
+  "country": "francia",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "merlot",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Grand vin de Château L’Évangile, Pomerol de Merlot y Cabernet Franc de los Domaines Barons de Rothschild (Lafite), rico y de larga guarda.",
+    "en": "The grand vin of Château L’Évangile, a Pomerol of Merlot and Cabernet Franc from Domaines Barons de Rothschild (Lafite), rich and long-lived.",
+    "fr": "Grand vin de Château L’Évangile, pomerol de merlot et de cabernet franc des Domaines Barons de Rothschild (Lafite), riche et de longue garde.",
+    "it": "Grand vin di Château L’Évangile, Pomerol di Merlot e Cabernet Franc dei Domaines Barons de Rothschild (Lafite), ricco e longevo."
+  },
+  "body": {
+    "es": "<p><strong>Château L’Évangile</strong> es el vino principal de esta propiedad de <strong>Pomerol</strong>, situada entre Pétrus y Cheval Blanc y perteneciente a los Domaines Barons de Rothschild (Lafite), que entraron en su capital en 1990.</p><p>Se elabora con una amplia mayoría de <strong>Merlot</strong> y una proporción de <strong>Cabernet Franc</strong>, procedentes de suelos de arcilla y grava con subsuelo ferruginoso. La vendimia se hace a mano, con una selección estricta, y el vino se cría en barricas de roble, en buena parte nuevas, durante un periodo prolongado. Las uvas que no se destinan al grand vin se emplean en el segundo vino, Blason de l’Évangile.</p><p>Es un Pomerol rico y opulento, de fruta negra muy madura, notas de trufa, regaliz y especias y una textura densa sostenida por taninos firmes. En su juventud muestra gran concentración; con los años se vuelve más complejo y armonioso, y puede envejecer durante décadas en buenas condiciones.</p>",
+    "en": "<p><strong>Château L’Évangile</strong> is the main wine of this <strong>Pomerol</strong> estate, located between Pétrus and Cheval Blanc and owned by Domaines Barons de Rothschild (Lafite), which took a stake in 1990.</p><p>It is made from a large majority of <strong>Merlot</strong> with a proportion of <strong>Cabernet Franc</strong>, from clay and gravel soils with an iron-rich subsoil. Grapes are hand-harvested with strict selection, and the wine is aged in oak barrels, largely new, for an extended period. Grapes not used for the grand vin go into the second wine, Blason de l’Évangile.</p><p>It is a rich, opulent Pomerol, with very ripe dark fruit, notes of truffle, liquorice and spice and a dense texture supported by firm tannins. In youth it shows great concentration; with age it becomes more complex and harmonious, and it can age for decades in good conditions.</p>",
+    "fr": "<p><strong>Château L’Évangile</strong> est le vin principal de cette propriété de <strong>Pomerol</strong>, située entre Pétrus et Cheval Blanc et appartenant aux Domaines Barons de Rothschild (Lafite), entrés à son capital en 1990.</p><p>Il est issu d’une large majorité de <strong>merlot</strong> et d’une part de <strong>cabernet franc</strong>, provenant de sols d’argile et de graves au sous-sol ferrugineux. Les vendanges sont manuelles, avec un tri rigoureux, et le vin est élevé en barriques de chêne, en grande partie neuves, pendant une période prolongée. Les raisins non retenus pour le grand vin servent au second vin, Blason de l’Évangile.</p><p>C’est un Pomerol riche et opulent, aux fruits noirs très mûrs, aux notes de truffe, de réglisse et d’épices, à la texture dense soutenue par des tanins fermes. Jeune, il montre une grande concentration ; avec les années, il devient plus complexe et harmonieux, et peut vieillir des décennies dans de bonnes conditions.</p>",
+    "it": "<p><strong>Château L’Évangile</strong> è il vino principale di questa proprietà di <strong>Pomerol</strong>, situata tra Pétrus e Cheval Blanc e appartenente ai Domaines Barons de Rothschild (Lafite), entrati nel capitale nel 1990.</p><p>È prodotto con un’ampia maggioranza di <strong>Merlot</strong> e una quota di <strong>Cabernet Franc</strong>, da suoli di argilla e ghiaia con sottosuolo ferroso. La vendemmia è manuale, con una selezione rigorosa, e il vino affina in barrique di rovere, in gran parte nuove, per un periodo prolungato. Le uve non destinate al grand vin vanno al secondo vino, Blason de l’Évangile.</p><p>È un Pomerol ricco e opulento, con frutta nera molto matura, note di tartufo, liquirizia e spezie e una tessitura densa sostenuta da tannini decisi. In gioventù mostra grande concentrazione; con gli anni diventa più complesso e armonioso e può invecchiare per decenni in buone condizioni.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota muy oscuro. Aromas de mora, ciruela, trufa y especias. Boca opulenta y densa, de taninos firmes y final muy largo.",
+    "en": "Very dark crimson. Aromas of blackberry, plum, truffle and spice. Opulent, dense palate with firm tannins and a very long finish.",
+    "fr": "Rouge très sombre. Arômes de mûre, de prune, de truffe et d’épices. Bouche opulente et dense, aux tanins fermes et à la finale très longue.",
+    "it": "Rosso molto scuro. Aromi di mora, prugna, tartufo e spezie. Bocca opulenta e densa, dai tannini decisi e dal finale molto lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes rojas, pato, setas, trufa, quesos curados",
+    "en": "Roast lamb, red meat, duck, mushrooms, truffle, aged cheeses",
+    "fr": "Agneau rôti, viandes rouges, canard, champignons, truffe, fromages affinés",
+    "it": "Agnello arrosto, carni rosse, anatra, funghi, tartufo, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Château L'Évangile Pomerol"
+}

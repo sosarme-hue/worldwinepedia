@@ -1,0 +1,48 @@
+{
+  "slug": "long-depaquit-chablis-vaucoupin",
+  "name": "Domaine Long-Depaquit Chablis 1er Cru Vaucoupin",
+  "winery": "albert-bichot",
+  "region": "chablis",
+  "country": "francia",
+  "type": "blanco",
+  "category": {
+    "es": "Premier Cru",
+    "en": "Premier Cru",
+    "fr": "Premier Cru",
+    "it": "Premier Cru"
+  },
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Chablis premier cru del climat Vaucoupin, elaborado por el Domaine Long-Depaquit (Albert Bichot).",
+    "en": "Chablis premier cru from the Vaucoupin climat, made by Domaine Long-Depaquit (Albert Bichot).",
+    "fr": "Chablis premier cru du climat Vaucoupin, élaboré par le Domaine Long-Depaquit (Albert Bichot).",
+    "it": "Chablis premier cru del climat Vaucoupin, prodotto dal Domaine Long-Depaquit (Albert Bichot)."
+  },
+  "body": {
+    "es": "<p>El <strong>Domaine Long-Depaquit</strong> es una de las fincas históricas de Chablis y pertenece a la casa Albert Bichot, de Beaune. Con sede en el propio pueblo de Chablis, posee viñas en las distintas categorías de la denominación, sobre las margas y calizas kimmeridgienses que dan al Chardonnay de la zona su carácter tenso y mineral.</p><p><strong>Vaucoupin</strong> es un premier cru de la orilla derecha del Serein, situado al sureste de Chablis, en una ladera bien expuesta. Sus vinos suelen combinar madurez de fruta y una firme columna mineral. El Domaine Long-Depaquit vinifica este Chardonnay principalmente en depósito, con una crianza sobre lías que aporta textura y, según la añada, una pequeña parte en barrica. Es un Chablis seco, preciso y salino, que se disfruta tras unos pocos años y puede guardarse más tiempo.</p>",
+    "en": "<p><strong>Domaine Long-Depaquit</strong> is one of the historic estates of Chablis and belongs to the Beaune house of Albert Bichot. Based in the village of Chablis itself, it owns vines in the different categories of the appellation, on the Kimmeridgian marls and limestones that give the area’s Chardonnay its taut, mineral character.</p><p><strong>Vaucoupin</strong> is a premier cru on the right bank of the Serein, south-east of Chablis, on a well-exposed slope. Its wines tend to combine ripe fruit with a firm mineral backbone. Domaine Long-Depaquit vinifies this Chardonnay mainly in tank, with ageing on the lees for texture and, depending on the vintage, a small portion in barrel. It is a dry, precise, saline Chablis, enjoyable after a few years and able to keep for longer.</p>",
+    "fr": "<p>Le <strong>Domaine Long-Depaquit</strong> est l’un des domaines historiques de Chablis et appartient à la maison beaunoise Albert Bichot. Installé dans le bourg même de Chablis, il possède des vignes dans les différentes catégories de l’appellation, sur les marnes et calcaires kimméridgiens qui donnent au chardonnay local son caractère tendu et minéral.</p><p><strong>Vaucoupin</strong> est un premier cru de la rive droite du Serein, situé au sud-est de Chablis, sur un coteau bien exposé. Ses vins associent souvent maturité du fruit et ferme colonne minérale. Le Domaine Long-Depaquit vinifie ce chardonnay principalement en cuve, avec un élevage sur lies qui apporte de la texture et, selon le millésime, une petite part en fût. C’est un chablis sec, précis et salin, qui s’apprécie après quelques années et peut se garder plus longtemps.</p>",
+    "it": "<p>Il <strong>Domaine Long-Depaquit</strong> è una delle tenute storiche di Chablis e appartiene alla casa Albert Bichot di Beaune. Con sede nel paese stesso di Chablis, possiede vigne nelle diverse categorie della denominazione, sulle marne e i calcari kimmeridgiani che danno allo Chardonnay della zona il suo carattere teso e minerale.</p><p><strong>Vaucoupin</strong> è un premier cru della riva destra del Serein, situato a sud-est di Chablis, su un pendio ben esposto. I suoi vini uniscono spesso maturità del frutto e una ferma spina dorsale minerale. Il Domaine Long-Depaquit vinifica questo Chardonnay principalmente in vasca, con un affinamento sulle fecce che apporta struttura e, secondo l’annata, una piccola parte in barrique. È uno Chablis secco, preciso e sapido, che si gusta dopo qualche anno e può essere conservato più a lungo.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido. Aromas de limón, manzana verde, flores blancas y notas de concha. Boca seca, tensa y salina.",
+    "en": "Pale yellow. Aromas of lemon, green apple, white flowers and oyster-shell notes. Dry, taut, saline palate.",
+    "fr": "Jaune pâle. Arômes de citron, de pomme verte, de fleurs blanches et notes de coquille d’huître. Bouche sèche, tendue et saline.",
+    "it": "Giallo paglierino. Aromi di limone, mela verde, fiori bianchi e note di conchiglia. Bocca secca, tesa e sapida."
+  },
+  "pairing": {
+    "es": "Ostras, marisco, pescados a la plancha, quesos de cabra",
+    "en": "Oysters, shellfish, grilled fish, goat’s cheeses",
+    "fr": "Huîtres, fruits de mer, poissons grillés, fromages de chèvre",
+    "it": "Ostriche, frutti di mare, pesce alla griglia, formaggi di capra"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de vino blanco",
+    "en": "10-12 °C, white wine glass",
+    "fr": "10-12 °C, verre à vin blanc",
+    "it": "10-12 °C, calice da vino bianco"
+  },
+  "search": "Chablis 1er Cru Vaucoupin Long-Depaquit"
+}

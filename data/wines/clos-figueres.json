@@ -1,0 +1,47 @@
+{
+  "slug": "clos-figueres",
+  "name": "Clos Figueres",
+  "winery": null,
+  "winery_name": "Clos Figueras",
+  "region": "priorat",
+  "country": "espana",
+  "appellation": "DOQ Priorat",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha",
+    "carinena"
+  ],
+  "summary": {
+    "es": "Tinto del Priorat de Clos Figueras, finca de Gratallops fundada a finales de los años noventa por el británico Christopher Cannan.",
+    "en": "A Priorat red from Clos Figueras, a Gratallops estate founded in the late 1990s by Briton Christopher Cannan.",
+    "fr": "Rouge du Priorat de Clos Figueras, domaine de Gratallops fondé à la fin des années 1990 par le Britannique Christopher Cannan.",
+    "it": "Rosso del Priorat di Clos Figueras, tenuta di Gratallops fondata alla fine degli anni Novanta dal britannico Christopher Cannan."
+  },
+  "body": {
+    "es": "<p><strong>Clos Figueras</strong> es una finca de <strong>Gratallops</strong>, en el corazón del <strong>Priorat</strong>, fundada a finales de los años noventa por <strong>Christopher Cannan</strong>, un británico vinculado durante décadas al comercio del vino, que conoció de cerca el renacimiento de la comarca impulsado por los pioneros de Gratallops. Su nombre alude a las higueras, figueres en catalán.</p><p>El viñedo se extiende por laderas y terrazas de <strong>llicorella</strong>, la pizarra descompuesta que caracteriza la comarca, con cepas viejas y plantaciones más recientes. <strong>Clos Figueres</strong>, el vino principal de la casa, se basa en las variedades tradicionales, <strong>Garnacha</strong> y <strong>Cariñena</strong>, que pueden completarse con pequeñas proporciones de otras variedades presentes en la finca.</p><p>La vendimia es manual, algo obligado en unas pendientes tan pronunciadas, y el vino se cría en barricas de roble. Es un Priorat de estilo concentrado y de graduación elevada, con fruta negra madura, notas de hierbas mediterráneas, especias y un marcado carácter mineral, que gana complejidad con algunos años de botella.</p>",
+    "en": "<p><strong>Clos Figueras</strong> is an estate in <strong>Gratallops</strong>, in the heart of <strong>Priorat</strong>, founded in the late 1990s by <strong>Christopher Cannan</strong>, a Briton involved for decades in the wine trade, who witnessed at first hand the region's revival led by the Gratallops pioneers. Its name refers to fig trees, figueres in Catalan.</p><p>The vineyard spreads across slopes and terraces of <strong>llicorella</strong>, the crumbly slate that characterises the region, with old vines and more recent plantings. <strong>Clos Figueres</strong>, the estate's main wine, is based on the traditional varieties, <strong>Grenache</strong> and <strong>Carignan</strong>, which may be complemented by small proportions of other varieties grown on the estate.</p><p>Harvesting is by hand, a necessity on such steep slopes, and the wine is aged in oak barrels. It is a concentrated, high-alcohol Priorat with ripe black fruit, notes of Mediterranean herbs, spice and a marked mineral character, which gains complexity with a few years in bottle.</p>",
+    "fr": "<p><strong>Clos Figueras</strong> est un domaine de <strong>Gratallops</strong>, au cœur du <strong>Priorat</strong>, fondé à la fin des années 1990 par <strong>Christopher Cannan</strong>, un Britannique lié pendant des décennies au négoce du vin, qui a suivi de près la renaissance de la région menée par les pionniers de Gratallops. Son nom évoque les figuiers, figueres en catalan.</p><p>Le vignoble s'étend sur des coteaux et des terrasses de <strong>llicorella</strong>, le schiste délité qui caractérise la région, avec de vieilles vignes et des plantations plus récentes. <strong>Clos Figueres</strong>, le vin principal de la maison, repose sur les cépages traditionnels, <strong>grenache</strong> et <strong>carignan</strong>, qui peuvent être complétés par de petites proportions d'autres cépages présents sur le domaine.</p><p>Les vendanges sont manuelles, une nécessité sur des pentes aussi raides, et le vin est élevé en barriques de chêne. C'est un priorat de style concentré et riche en alcool, aux fruits noirs mûrs, aux notes d'herbes méditerranéennes, d'épices et au caractère minéral marqué, qui gagne en complexité après quelques années de bouteille.</p>",
+    "it": "<p><strong>Clos Figueras</strong> è una tenuta di <strong>Gratallops</strong>, nel cuore del <strong>Priorat</strong>, fondata alla fine degli anni Novanta da <strong>Christopher Cannan</strong>, un britannico legato per decenni al commercio del vino, che seguì da vicino la rinascita della zona guidata dai pionieri di Gratallops. Il nome allude agli alberi di fico, figueres in catalano.</p><p>Il vigneto si estende su pendii e terrazze di <strong>llicorella</strong>, l'ardesia sfaldata che caratterizza la zona, con vecchie viti e impianti più recenti. <strong>Clos Figueres</strong>, il vino principale della casa, si basa sui vitigni tradizionali, <strong>Grenache</strong> e <strong>Carignano</strong>, che possono essere completati da piccole quote di altri vitigni presenti nella tenuta.</p><p>La vendemmia è manuale, una necessità su pendii così ripidi, e il vino matura in barrique di rovere. È un Priorat di stile concentrato e di gradazione elevata, con frutti neri maturi, note di erbe mediterranee, spezie e un marcato carattere minerale, che guadagna complessità con qualche anno di bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota muy intenso. Aromas de mora, ciruela, regaliz, hierbas de monte y notas minerales. Boca concentrada y cálida, con taninos firmes y final largo.",
+    "en": "Very intense cherry red. Aromas of blackberry, plum, liquorice, wild herbs and mineral notes. Concentrated, warm palate with firm tannins and a long finish.",
+    "fr": "Rouge cerise très intense. Arômes de mûre, de prune, de réglisse, d'herbes de garrigue et notes minérales. Bouche concentrée et chaleureuse, aux tanins fermes et à la finale longue.",
+    "it": "Rosso ciliegia molto intenso. Aromi di mora, prugna, liquirizia, erbe di macchia e note minerali. Bocca concentrata e calda, tannini fermi e finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, caza mayor, carnes a la brasa, quesos curados",
+    "en": "Roast lamb, large game, grilled meats, aged cheeses",
+    "fr": "Agneau rôti, grand gibier, viandes grillées, fromages affinés",
+    "it": "Agnello arrosto, selvaggina grossa, carni alla brace, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia; conviene decantar",
+    "en": "16-18 °C, large glass; decanting recommended",
+    "fr": "16-18 °C, verre ample ; carafage conseillé",
+    "it": "16-18 °C, calice ampio; consigliata la decantazione"
+  },
+  "search": "Clos Figueres Clos Figueras",
+  "source": "decantalo"
+}

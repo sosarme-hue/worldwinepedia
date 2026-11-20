@@ -1,0 +1,43 @@
+{
+  "slug": "trumpeter-malbec",
+  "name": "Trumpeter Malbec",
+  "winery": "rutini",
+  "region": "mendoza",
+  "country": "argentina",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "malbec"
+  ],
+  "summary": {
+    "es": "Malbec mendocino de la línea Trumpeter, de Rutini Wines, un tinto afrutado y de precio accesible muy difundido fuera de Argentina.",
+    "en": "Mendoza Malbec from Rutini Wines’ Trumpeter line, a fruity, affordably priced red widely available outside Argentina.",
+    "fr": "Malbec mendocin de la ligne Trumpeter, de Rutini Wines, un rouge fruité au prix accessible très diffusé hors d’Argentine.",
+    "it": "Malbec mendocino della linea Trumpeter, di Rutini Wines, un rosso fruttato dal prezzo accessibile molto diffuso fuori dall’Argentina."
+  },
+  "body": {
+    "es": "<p><strong>Trumpeter</strong> es la línea de vinos de precio accesible de Rutini Wines, creada para ofrecer varietales afrutados y fáciles de beber. La marca se ha hecho muy conocida en los mercados de exportación, donde ha servido a muchos consumidores como primera aproximación al vino argentino, y el Malbec es su referencia más vendida.</p><p>Las uvas proceden de distintas zonas de <strong>Mendoza</strong>, entre ellas viñedos del Valle de Uco y de otras áreas de la provincia, lo que permite mantener un estilo constante de una cosecha a otra. El clima seco y soleado, con noches frescas, favorece uvas sanas y maduras. Una parte del vino tiene contacto con roble, que aporta notas suaves de vainilla sin dominar la fruta. Es un Malbec jugoso, de cuerpo medio y taninos amables, pensado para beberse joven y para acompañar comidas informales.</p>",
+    "en": "<p><strong>Trumpeter</strong> is Rutini Wines’ line of affordably priced wines, created to offer fruity, easy-drinking varietals. The brand has become very well known in export markets, where it has served many consumers as a first introduction to Argentine wine, and the Malbec is its best-selling wine.</p><p>The grapes come from different parts of <strong>Mendoza</strong>, including vineyards in the Uco Valley and other areas of the province, which makes it possible to maintain a consistent style from one vintage to the next. The dry, sunny climate with cool nights favours healthy, ripe grapes. Part of the wine has contact with oak, which contributes gentle vanilla notes without dominating the fruit. It is a juicy, medium-bodied Malbec with friendly tannins, intended to be drunk young and to accompany casual meals.</p>",
+    "fr": "<p><strong>Trumpeter</strong> est la ligne de vins au prix accessible de Rutini Wines, créée pour proposer des vins de cépage fruités et faciles à boire. La marque est devenue très connue sur les marchés d’exportation, où elle a servi à de nombreux consommateurs de première approche du vin argentin, et le malbec en est la référence la plus vendue.</p><p>Les raisins proviennent de différentes zones de <strong>Mendoza</strong>, dont des vignobles de la vallée d’Uco et d’autres secteurs de la province, ce qui permet de maintenir un style constant d’un millésime à l’autre. Le climat sec et ensoleillé, aux nuits fraîches, favorise des raisins sains et mûrs. Une partie du vin est mise au contact du chêne, qui apporte de légères notes vanillées sans dominer le fruit. C’est un malbec juteux, de corps moyen et aux tanins aimables, à boire jeune pour accompagner les repas sans façons.</p>",
+    "it": "<p><strong>Trumpeter</strong> è la linea di vini dal prezzo accessibile di Rutini Wines, creata per offrire varietali fruttati e facili da bere. Il marchio è diventato molto noto sui mercati d’esportazione, dove ha rappresentato per molti consumatori un primo approccio al vino argentino, e il Malbec è la sua etichetta più venduta.</p><p>Le uve provengono da diverse zone di <strong>Mendoza</strong>, tra cui vigneti della Valle de Uco e di altre aree della provincia, il che permette di mantenere uno stile costante da un’annata all’altra. Il clima secco e soleggiato, con notti fresche, favorisce uve sane e mature. Una parte del vino è messa a contatto con il rovere, che apporta delicate note di vaniglia senza sovrastare il frutto. È un Malbec succoso, di medio corpo e dai tannini gentili, da bere giovane per accompagnare pasti informali.</p>"
+  },
+  "tasting": {
+    "es": "Rojo violáceo. Aromas de cereza, ciruela, frambuesa y un toque de vainilla. Boca jugosa y suave, de final frutal.",
+    "en": "Purplish red. Aromas of cherry, plum, raspberry and a touch of vanilla. Juicy, smooth palate with a fruity finish.",
+    "fr": "Rouge violacé. Arômes de cerise, de prune, de framboise et une touche de vanille. Bouche juteuse et souple, finale fruitée.",
+    "it": "Rosso violaceo. Aromi di ciliegia, prugna, lampone e un tocco di vaniglia. Bocca succosa e morbida, dal finale fruttato."
+  },
+  "pairing": {
+    "es": "Asado argentino, carnes a la parrilla, empanadas, quesos semicurados",
+    "en": "Argentine asado, grilled meats, empanadas, semi-hard cheeses",
+    "fr": "Asado argentin, viandes grillées, empanadas, fromages mi-affinés",
+    "it": "Asado argentino, carni alla griglia, empanadas, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Trumpeter Malbec Rutini Mendoza"
+}

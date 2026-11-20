@@ -1,0 +1,45 @@
+{
+  "slug": "borsao-seleccion",
+  "name": "Borsao Selección Tinto",
+  "winery": "borsao",
+  "region": "campo-de-borja",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha",
+    "syrah",
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Tinto joven y muy asequible de Bodegas Borsao, basado en garnacha, pensado para el consumo diario.",
+    "en": "Young, very affordable red from Bodegas Borsao, based on Garnacha and designed for everyday drinking.",
+    "fr": "Rouge jeune et très abordable de Bodegas Borsao, fondé sur le grenache et pensé pour la consommation quotidienne.",
+    "it": "Rosso giovane e molto accessibile di Bodegas Borsao, a base di Grenache e pensato per il consumo quotidiano."
+  },
+  "body": {
+    "es": "<p>Borsao Selección es el tinto de entrada de la gama de Bodegas Borsao y uno de los vinos más fáciles de encontrar de la D.O. Campo de Borja. La <strong>garnacha</strong> es la variedad principal, completada con <strong>syrah</strong> y <strong>tempranillo</strong>, que aportan color, estructura y matices complementarios.</p><p>Las uvas proceden de viñedos de los socios de la cooperativa, repartidos entre las llanuras y las laderas próximas al Moncayo. El vino se elabora para conservar la fruta fresca de la variedad, sin crianza prolongada en madera, y se embotella joven. Es un tinto sencillo, frutal y de trago fácil, que ilustra bien el estilo abierto y generoso de la garnacha aragonesa a un precio muy contenido.</p><p>Se recomienda servirlo ligeramente por debajo de la temperatura ambiente, para que la fruta y la frescura se muestren con nitidez, y disfrutarlo preferentemente en sus primeros años tras la cosecha.</p>",
+    "en": "<p>Borsao Selección is the entry-level red in Bodegas Borsao's range and one of the easiest Campo de Borja D.O. wines to find. <strong>Garnacha</strong> is the main variety, completed by <strong>Syrah</strong> and <strong>Tempranillo</strong>, which add colour, structure and complementary nuances.</p><p>The grapes come from the cooperative members' vineyards, spread across the plains and slopes near the Moncayo. The wine is made to preserve the variety's fresh fruit, without extended oak ageing, and is bottled young. It is a simple, fruity, easy-drinking red that illustrates the open, generous style of Aragonese Garnacha at a very modest price.</p><p>It is best served slightly below room temperature, so that its fruit and freshness show clearly, and preferably enjoyed within its first few years after the harvest.</p>",
+    "fr": "<p>Borsao Selección est le rouge d'entrée de gamme de Bodegas Borsao et l'un des vins de la D.O. Campo de Borja les plus faciles à trouver. Le <strong>grenache</strong> en est le cépage principal, complété par la <strong>syrah</strong> et le <strong>tempranillo</strong>, qui apportent couleur, structure et nuances complémentaires.</p><p>Les raisins proviennent des vignes des adhérents de la coopérative, réparties entre les plaines et les coteaux proches du Moncayo. Le vin est élaboré pour préserver le fruit frais du cépage, sans élevage prolongé en bois, et mis en bouteille jeune. C'est un rouge simple, fruité et facile à boire, qui illustre bien le style ouvert et généreux du grenache aragonais à un prix très modéré.</p><p>Il est conseillé de le servir légèrement en dessous de la température ambiante, pour que le fruit et la fraîcheur s'expriment nettement, et de l'apprécier de préférence dans ses premières années après la récolte.</p>",
+    "it": "<p>Borsao Selección è il rosso d'ingresso della gamma di Bodegas Borsao e uno dei vini della D.O. Campo de Borja più facili da trovare. La <strong>Grenache</strong> è la varietà principale, completata da <strong>Syrah</strong> e <strong>Tempranillo</strong>, che apportano colore, struttura e sfumature complementari.</p><p>Le uve provengono dai vigneti dei soci della cooperativa, distribuiti tra le pianure e i pendii vicini al Moncayo. Il vino è prodotto per preservare il frutto fresco della varietà, senza lunghi affinamenti in legno, ed è imbottigliato giovane. È un rosso semplice, fruttato e di facile beva, che illustra bene lo stile aperto e generoso della Grenache aragonese a un prezzo molto contenuto.</p><p>Si consiglia di servirlo leggermente al di sotto della temperatura ambiente, perché frutto e freschezza emergano con nitidezza, e di gustarlo preferibilmente nei primi anni dopo la vendemmia.</p>"
+  },
+  "tasting": {
+    "es": "Fruta roja fresca, fresas y cerezas, con un toque especiado. Boca ligera a media, jugosa y de tanino suave.",
+    "en": "Fresh red fruit, strawberries and cherries, with a touch of spice. Light to medium-bodied, juicy palate with soft tannins.",
+    "fr": "Fruits rouges frais, fraise et cerise, avec une touche épicée. Bouche légère à moyenne, juteuse, aux tanins souples.",
+    "it": "Frutta rossa fresca, fragole e ciliegie, con un tocco speziato. Bocca da leggera a media, succosa e dal tannino morbido."
+  },
+  "pairing": {
+    "es": "Tapas, pasta, hamburguesas, embutidos, platos de diario",
+    "en": "Tapas, pasta, burgers, charcuterie, everyday dishes",
+    "fr": "Tapas, pâtes, hamburgers, charcuterie, plats du quotidien",
+    "it": "Tapas, pasta, hamburger, salumi, piatti di tutti i giorni"
+  },
+  "serve": {
+    "es": "14-16 °C, copa de vino tinto",
+    "en": "14-16 °C, red wine glass",
+    "fr": "14-16 °C, verre à vin rouge",
+    "it": "14-16 °C, calice da vino rosso"
+  },
+  "search": "Borsao Selección Tinto Campo de Borja"
+}

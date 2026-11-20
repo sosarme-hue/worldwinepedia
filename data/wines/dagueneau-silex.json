@@ -1,0 +1,48 @@
+{
+  "slug": "dagueneau-silex",
+  "name": "Silex",
+  "winery": "didier-dagueneau",
+  "region": "loire",
+  "country": "francia",
+  "type": "blanco",
+  "category": {
+    "es": "Pouilly-Fumé",
+    "en": "Pouilly-Fumé",
+    "fr": "Pouilly-Fumé",
+    "it": "Pouilly-Fumé"
+  },
+  "grapes": [
+    "sauvignon-blanc"
+  ],
+  "summary": {
+    "es": "Pouilly-Fumé del Domaine Didier Dagueneau, elaborado con Sauvignon Blanc de suelos de sílex; el vino más célebre del dominio y una referencia mundial de la variedad.",
+    "en": "Pouilly-Fumé from Domaine Didier Dagueneau, made from Sauvignon Blanc grown on flint soils; the domaine’s most famous wine and a worldwide benchmark for the variety.",
+    "fr": "Pouilly-Fumé du domaine Didier Dagueneau, élaboré à partir de sauvignon blanc sur sols de silex ; le vin le plus célèbre du domaine et une référence mondiale du cépage.",
+    "it": "Pouilly-Fumé del Domaine Didier Dagueneau, prodotto con Sauvignon Blanc da suoli di selce; il vino più celebre del domaine e un riferimento mondiale per la varietà."
+  },
+  "body": {
+    "es": "<p>Silex toma su nombre de los suelos de sílex de las parcelas de las que procede, en el entorno de Saint-Andelain, en la denominación Pouilly-Fumé. Estos suelos, con piedras de pedernal mezcladas con arcilla, se asocian en la zona a vinos de gran tensión y con notas que recuerdan al humo o a la piedra.</p><p>Se elabora exclusivamente con <strong>Sauvignon Blanc</strong>, con rendimientos bajos y vendimia manual. La fermentación y la crianza se realizan en barricas de distintos tamaños, incluidas las alargadas «cigares» propias del dominio, buscando aportar textura sin que la madera se imponga al carácter de la variedad y del suelo.</p><p>Es un Sauvignon Blanc muy alejado del estilo aromático y exuberante que se asocia a menudo a la uva: intenso pero contenido, de acidez viva y con capacidad para evolucionar durante muchos años en botella. Su producción es limitada y suele venderse por asignación.</p>",
+    "en": "<p>Silex takes its name from the flint soils of the parcels it comes from, around Saint-Andelain, in the Pouilly-Fumé appellation. These soils, with flint stones mixed into clay, are associated locally with wines of great tension and notes reminiscent of smoke or stone.</p><p>It is made exclusively from <strong>Sauvignon Blanc</strong>, with low yields and hand harvesting. Fermentation and ageing take place in barrels of various sizes, including the domaine’s elongated “cigares”, with the aim of adding texture without the oak overriding the character of the variety and the soil.</p><p>It is a Sauvignon Blanc far removed from the aromatic, exuberant style often associated with the grape: intense but restrained, with lively acidity and the ability to develop for many years in bottle. Production is limited and it is usually sold by allocation.</p>",
+    "fr": "<p>Silex doit son nom aux sols de silex des parcelles dont il provient, autour de Saint-Andelain, dans l’appellation Pouilly-Fumé. Ces sols, où les pierres de silex sont mêlées à l’argile, sont associés dans le secteur à des vins d’une grande tension, aux notes rappelant la fumée ou la pierre.</p><p>Il est élaboré exclusivement à partir de <strong>sauvignon blanc</strong>, avec de faibles rendements et des vendanges manuelles. La fermentation et l’élevage se déroulent dans des fûts de différentes tailles, dont les « cigares » allongés propres au domaine, afin d’apporter de la texture sans que le bois s’impose au caractère du cépage et du sol.</p><p>C’est un sauvignon blanc très éloigné du style aromatique et exubérant souvent associé au cépage : intense mais retenu, d’une acidité vive et capable d’évoluer pendant de nombreuses années en bouteille. Sa production est limitée et il est généralement vendu sur allocation.</p>",
+    "it": "<p>Silex prende il nome dai suoli di selce delle parcelle da cui proviene, nei dintorni di Saint-Andelain, nella denominazione Pouilly-Fumé. Questi suoli, con pietre di selce mescolate all’argilla, sono associati nella zona a vini di grande tensione e con note che ricordano il fumo o la pietra.</p><p>È prodotto esclusivamente con <strong>Sauvignon Blanc</strong>, con rese basse e vendemmia manuale. Fermentazione e affinamento avvengono in botti di diverse dimensioni, comprese le «cigares» allungate tipiche del domaine, con l’obiettivo di conferire consistenza senza che il legno prevalga sul carattere della varietà e del suolo.</p><p>È un Sauvignon Blanc molto lontano dallo stile aromatico ed esuberante spesso associato all’uva: intenso ma contenuto, di acidità vivace e capace di evolvere per molti anni in bottiglia. La produzione è limitata e di solito viene venduto su assegnazione.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido. Aromas de cítricos, pomelo, flores blancas y notas de pedernal y humo. Boca tensa y profunda, de acidez viva y final largo y salino.",
+    "en": "Pale yellow. Aromas of citrus, grapefruit, white flowers and flinty, smoky notes. Taut, deep palate with lively acidity and a long, saline finish.",
+    "fr": "Jaune pâle. Arômes d’agrumes, de pamplemousse, de fleurs blanches et notes de pierre à fusil et de fumée. Bouche tendue et profonde, d’une acidité vive, à la finale longue et saline.",
+    "it": "Giallo paglierino. Aromi di agrumi, pompelmo, fiori bianchi e note di pietra focaia e fumo. Bocca tesa e profonda, di acidità vivace e finale lungo e salino."
+  },
+  "pairing": {
+    "es": "Pescados nobles, bogavante, ostras, quesos de cabra del Loira",
+    "en": "Fine fish, lobster, oysters, Loire goat’s cheeses",
+    "fr": "Poissons nobles, homard, huîtres, chèvres de Loire",
+    "it": "Pesce pregiato, astice, ostriche, formaggi di capra della Loira"
+  },
+  "serve": {
+    "es": "12-13 °C, copa de blanco amplia",
+    "en": "12-13 °C, large white wine glass",
+    "fr": "12-13 °C, grand verre à vin blanc",
+    "it": "12-13 °C, calice ampio da bianco"
+  },
+  "search": "Didier Dagueneau Silex Pouilly-Fumé"
+}

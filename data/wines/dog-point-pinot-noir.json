@@ -1,0 +1,42 @@
+{
+  "slug": "dog-point-pinot-noir",
+  "name": "Dog Point Pinot Noir",
+  "winery": "dog-point",
+  "winery_name": null,
+  "region": "marlborough",
+  "country": "nueva-zelanda",
+  "appellation": "Marlborough",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Dog Point Pinot Noir es un vino tinto de Dog Point Vineyard, con la denominación Marlborough, en Nueva Zelanda.",
+    "en": "Dog Point Pinot Noir is a red wine from Dog Point Vineyard, made under the Marlborough appellation in New Zealand.",
+    "fr": "Dog Point Pinot Noir est un vin rouge de Dog Point Vineyard, élaboré sous l’appellation Marlborough (Nouvelle-Zélande).",
+    "it": "Dog Point Pinot Noir è un vino rosso di Dog Point Vineyard, prodotto nella denominazione Marlborough (Nuova Zelanda)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Pinot Noir. Tiene crianza en madera. Su graduación es de 13 % vol.</p><p>Bodega familiar de Marlborough creada por Ivan Sutherland y James Healy, antiguos responsables de Cloudy Bay, con un enfoque de viñedo propio y cultivo ecológico.</p><p>Marlborough, en el extremo noreste de la Isla Sur, es la mayor región vitícola de Nueva Zelanda. Su Sauvignon Blanc, intensamente aromático, dio fama internacional al vino neozelandés.</p>",
+    "en": "<p>It is made from Pinot Noir. It is aged in wood. It has 13% ABV.</p><p>Family winery in Marlborough created by Ivan Sutherland and James Healy, both formerly of Cloudy Bay, with a focus on estate vineyards and organic farming.</p><p>Marlborough, at the north-eastern tip of the South Island, is New Zealand’s largest wine region. Its intensely aromatic Sauvignon Blanc brought international fame to New Zealand wine.</p>",
+    "fr": "<p>Il est élaboré à partir de Pinot Noir. Il est élevé en bois. Il titre 13 % vol.</p><p>Domaine familial de Marlborough créé par Ivan Sutherland et James Healy, tous deux anciens de Cloudy Bay, axé sur ses propres vignes et la culture biologique.</p><p>Marlborough, à l’extrémité nord-est de l’île du Sud, est la plus grande région viticole de Nouvelle-Zélande. Son sauvignon blanc intensément aromatique a valu une renommée internationale au vin néo-zélandais.</p>",
+    "it": "<p>È prodotto con Pinot Nero. È affinato in legno. Ha 13% vol.</p><p>Cantina di famiglia di Marlborough creata da Ivan Sutherland e James Healy, entrambi ex di Cloudy Bay, incentrata su vigneti di proprietà e coltivazione biologica.</p><p>Marlborough, all’estremità nord-orientale dell’Isola del Sud, è la più grande regione vitivinicola della Nuova Zelanda. Il suo Sauvignon Blanc intensamente aromatico ha dato fama internazionale al vino neozelandese.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Dog Point Pinot Noir Dog Point",
+  "brief": true,
+  "source": "decantalo"
+}

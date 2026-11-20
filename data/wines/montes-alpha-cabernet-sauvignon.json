@@ -1,0 +1,43 @@
+{
+  "slug": "montes-alpha-cabernet-sauvignon",
+  "name": "Montes Alpha Cabernet Sauvignon",
+  "winery": "montes",
+  "region": "colchagua",
+  "country": "chile",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "Cabernet Sauvignon de la línea Montes Alpha, la primera marca de prestigio de Viña Montes, elaborado con uvas del valle de Colchagua y criado en barrica.",
+    "en": "Cabernet Sauvignon from the Montes Alpha line, Viña Montes’s first prestige brand, made from Colchagua Valley grapes and aged in barrel.",
+    "fr": "Cabernet-sauvignon de la ligne Montes Alpha, première marque de prestige de Viña Montes, élaboré avec des raisins de la vallée de Colchagua et élevé en barrique.",
+    "it": "Cabernet Sauvignon della linea Montes Alpha, il primo marchio di prestigio di Viña Montes, prodotto con uve della valle di Colchagua e affinato in barrique."
+  },
+  "body": {
+    "es": "<p>Montes Alpha fue la marca con la que Viña Montes se presentó en los mercados internacionales a finales de los años ochenta, con la intención de demostrar que Chile podía producir vinos de calidad más allá de los tintos económicos que entonces lo caracterizaban. Su Cabernet Sauvignon se convirtió en uno de los vinos chilenos más conocidos en el extranjero.</p><p>Las uvas proceden de viñedos del <strong>valle de Colchagua</strong>, entre ellos parcelas en el entorno de Apalta, donde el clima cálido y soleado permite una maduración completa de la <strong>Cabernet Sauvignon</strong>. El vino, elaborado mayoritariamente con esta variedad, puede incluir una pequeña proporción de otras uvas tintas según la añada. Tras la fermentación, se cría en barricas de roble francés, lo que le aporta notas tostadas y especiadas y redondea los taninos. Es un tinto de estilo generoso, con fruta madura y buena estructura, que se disfruta en sus primeros años pero que puede evolucionar favorablemente durante algún tiempo en botella. Acompaña bien las carnes rojas y los platos de sabor intenso.</p>",
+    "en": "<p>Montes Alpha was the brand with which Viña Montes presented itself on international markets in the late 1980s, aiming to show that Chile could produce quality wines beyond the inexpensive reds that then defined it. Its Cabernet Sauvignon became one of the best-known Chilean wines abroad.</p><p>The grapes come from vineyards in the <strong>Colchagua Valley</strong>, including plots around Apalta, where the warm, sunny climate allows <strong>Cabernet Sauvignon</strong> to ripen fully. The wine, made mainly from this variety, may include a small proportion of other red grapes depending on the vintage. After fermentation it is aged in French oak barrels, which give it toasty, spicy notes and round out the tannins. It is a generous red with ripe fruit and good structure, enjoyable in its first few years but able to develop favourably for some time in bottle. It goes well with red meat and richly flavoured dishes.</p>",
+    "fr": "<p>Montes Alpha fut la marque avec laquelle Viña Montes se présenta sur les marchés internationaux à la fin des années 1980, avec l’intention de montrer que le Chili pouvait produire des vins de qualité au-delà des rouges bon marché qui le caractérisaient alors. Son cabernet-sauvignon est devenu l’un des vins chiliens les plus connus à l’étranger.</p><p>Les raisins proviennent de vignobles de la <strong>vallée de Colchagua</strong>, dont des parcelles aux alentours d’Apalta, où le climat chaud et ensoleillé permet une maturation complète du <strong>cabernet-sauvignon</strong>. Le vin, élaboré majoritairement avec ce cépage, peut inclure une petite proportion d’autres raisins rouges selon le millésime. Après la fermentation, il est élevé en barriques de chêne français, qui lui apportent des notes grillées et épicées et arrondissent les tanins. C’est un rouge généreux, au fruit mûr et bien structuré, à apprécier dans ses premières années mais capable d’évoluer favorablement quelque temps en bouteille. Il accompagne bien les viandes rouges et les plats de saveur intense.</p>",
+    "it": "<p>Montes Alpha fu il marchio con cui Viña Montes si presentò sui mercati internazionali alla fine degli anni Ottanta, con l’intento di dimostrare che il Cile poteva produrre vini di qualità oltre ai rossi economici che allora lo caratterizzavano. Il suo Cabernet Sauvignon è diventato uno dei vini cileni più noti all’estero.</p><p>Le uve provengono da vigneti della <strong>valle di Colchagua</strong>, tra cui parcelle nei dintorni di Apalta, dove il clima caldo e soleggiato consente una maturazione completa del <strong>Cabernet Sauvignon</strong>. Il vino, prodotto in gran parte con questa varietà, può includere una piccola percentuale di altre uve rosse secondo l’annata. Dopo la fermentazione affina in barrique di rovere francese, che gli conferiscono note tostate e speziate e ne arrotondano i tannini. È un rosso generoso, dal frutto maturo e di buona struttura, piacevole nei primi anni ma capace di evolvere favorevolmente per qualche tempo in bottiglia. Accompagna bene le carni rosse e i piatti dal sapore intenso.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí intenso. Cassis, ciruela, notas de vainilla, tabaco y hierbas. Boca con cuerpo, taninos maduros y final especiado.",
+    "en": "Deep ruby red. Cassis, plum, notes of vanilla, tobacco and herbs. Full palate with ripe tannins and a spicy finish.",
+    "fr": "Rouge rubis intense. Cassis, prune, notes de vanille, de tabac et d’herbes. Bouche corsée, tanins mûrs et finale épicée.",
+    "it": "Rosso rubino intenso. Cassis, prugna, note di vaniglia, tabacco ed erbe. Bocca di corpo, tannini maturi e finale speziato."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes rojas a la parrilla, guisos de caza, quesos curados",
+    "en": "Roast lamb, grilled red meat, game stews, aged cheeses",
+    "fr": "Agneau rôti, viandes rouges grillées, civets de gibier, fromages affinés",
+    "it": "Agnello arrosto, carni rosse alla griglia, stufati di selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Montes Alpha Cabernet Sauvignon Colchagua"
+}

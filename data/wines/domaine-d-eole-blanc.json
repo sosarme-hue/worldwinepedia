@@ -1,0 +1,40 @@
+{
+  "slug": "domaine-d-eole-blanc",
+  "name": "Domaine d'Eole Blanc",
+  "winery": null,
+  "winery_name": "Domaine d'Eole",
+  "region": null,
+  "country": "francia",
+  "appellation": "IGP Alpilles",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Domaine d'Eole Blanc es un vino blanco de Domaine d'Eole, con la denominación IGP Alpilles, en Francia.",
+    "en": "Domaine d'Eole Blanc is a white wine from Domaine d'Eole, made under the IGP Alpilles appellation in France.",
+    "fr": "Domaine d'Eole Blanc est un vin blanc de Domaine d'Eole, élaboré sous l’appellation IGP Alpilles (France).",
+    "it": "Domaine d'Eole Blanc è un vino bianco di Domaine d'Eole, prodotto nella denominazione IGP Alpilles (Francia)."
+  },
+  "body": {
+    "es": "<p>Se cría sobre sus lías. Su graduación es de 13 % vol.</p>",
+    "en": "<p>It is aged on its lees. It has 13% ABV.</p>",
+    "fr": "<p>Il est élevé sur lies. Il titre 13 % vol.</p>",
+    "it": "<p>Affina sulle fecce fini. Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Domaine d'Eole Blanc Domaine d'Eole",
+  "brief": true,
+  "source": "decantalo"
+}

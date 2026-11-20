@@ -1,0 +1,41 @@
+{
+  "slug": "il-bruciato",
+  "name": "Il Bruciato",
+  "winery": "antinori",
+  "region": "bolgheri",
+  "country": "italia",
+  "type": "tinto",
+  "category": {"es": "Bolgheri DOC", "en": "Bolgheri DOC", "fr": "Bolgheri DOC", "it": "Bolgheri DOC"},
+  "grapes": ["cabernet-sauvignon", "merlot", "syrah"],
+  "summary": {
+    "es": "El Bolgheri de entrada de la Tenuta Guado al Tasso, la finca de Antinori en la costa toscana, elaborado con variedades bordelesas y Syrah.",
+    "en": "The entry-level Bolgheri from Tenuta Guado al Tasso, Antinori’s estate on the Tuscan coast, made from Bordeaux varieties and Syrah.",
+    "fr": "Le Bolgheri d’entrée de gamme de la Tenuta Guado al Tasso, le domaine d’Antinori sur la côte toscane, élaboré avec des cépages bordelais et de la syrah.",
+    "it": "Il Bolgheri d’ingresso della Tenuta Guado al Tasso, la proprietà Antinori sulla costa toscana, prodotto con varietà bordolesi e Syrah."
+  },
+  "body": {
+    "es": "<p>Il Bruciato procede de la Tenuta Guado al Tasso, la finca de la familia Antinori en Bolgheri, una amplia propiedad situada en la llanura costera y las colinas entre el mar Tirreno y el pueblo de Bolgheri. La zona, de clima mediterráneo templado por la brisa marina, se ha hecho conocida por sus tintos de variedades bordelesas.</p><p>El vino se elabora con Cabernet Sauvignon, Merlot y Syrah, en proporciones que varían según la añada. Cada variedad se vinifica por separado y el vino se cría durante unos meses en barrica antes del ensamblaje y el embotellado.</p><p>Es el segundo vino de la finca, por detrás del Guado al Tasso, y está pensado para mostrar el estilo de Bolgheri de forma accesible: fruta madura, cuerpo medio y un tanino suave que permite disfrutarlo joven.</p>",
+    "en": "<p>Il Bruciato comes from Tenuta Guado al Tasso, the Antinori family’s estate in Bolgheri, a large property on the coastal plain and hills between the Tyrrhenian Sea and the village of Bolgheri. The area, with a Mediterranean climate tempered by sea breezes, has become known for its reds from Bordeaux varieties.</p><p>The wine is made from Cabernet Sauvignon, Merlot and Syrah, in proportions that vary with the vintage. Each variety is vinified separately, and the wine is aged for a few months in barriques before blending and bottling.</p><p>It is the estate’s second wine, after Guado al Tasso, and is designed to show the Bolgheri style in an approachable way: ripe fruit, medium body and soft tannins that make it enjoyable young.</p>",
+    "fr": "<p>Il Bruciato provient de la Tenuta Guado al Tasso, le domaine de la famille Antinori à Bolgheri, une vaste propriété située sur la plaine côtière et les collines entre la mer Tyrrhénienne et le village de Bolgheri. La zone, au climat méditerranéen tempéré par les brises marines, s’est fait connaître pour ses rouges de cépages bordelais.</p><p>Le vin est élaboré avec du cabernet-sauvignon, du merlot et de la syrah, dans des proportions qui varient selon le millésime. Chaque cépage est vinifié séparément et le vin est élevé quelques mois en barriques avant l’assemblage et la mise en bouteille.</p><p>C’est le second vin du domaine, après le Guado al Tasso, conçu pour montrer le style de Bolgheri de façon accessible : fruit mûr, corps moyen et tanins souples qui permettent de l’apprécier jeune.</p>",
+    "it": "<p>Il Bruciato proviene dalla Tenuta Guado al Tasso, la proprietà della famiglia Antinori a Bolgheri, una vasta tenuta tra la pianura costiera e le colline che separano il mar Tirreno dal borgo di Bolgheri. La zona, dal clima mediterraneo mitigato dalle brezze marine, è diventata nota per i rossi da varietà bordolesi.</p><p>Il vino è prodotto con Cabernet Sauvignon, Merlot e Syrah, in proporzioni che variano secondo l’annata. Ogni varietà viene vinificata separatamente e il vino affina alcuni mesi in barrique prima dell’assemblaggio e dell’imbottigliamento.</p><p>È il secondo vino della tenuta, dopo il Guado al Tasso, ed è pensato per esprimere lo stile di Bolgheri in modo accessibile: frutto maturo, corpo medio e tannino morbido che lo rendono piacevole già giovane.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí intenso. Aromas de fruta negra madura, ciruela y especias, con notas balsámicas y un ligero tostado. En boca es redondo, de tanino suave y final afrutado.",
+    "en": "Deep ruby red. Aromas of ripe black fruit, plum and spice, with balsamic notes and a light toastiness. Round on the palate, with soft tannins and a fruity finish.",
+    "fr": "Rouge rubis intense. Arômes de fruits noirs mûrs, de prune et d’épices, avec des notes balsamiques et un léger grillé. En bouche, il est rond, aux tanins souples et à la finale fruitée.",
+    "it": "Rosso rubino intenso. Profumi di frutta nera matura, prugna e spezie, con note balsamiche e una leggera tostatura. In bocca è rotondo, dal tannino morbido e dal finale fruttato."
+  },
+  "pairing": {
+    "es": "Carnes a la brasa, hamburguesas, pasta con salsas de carne, quesos semicurados",
+    "en": "Chargrilled meat, burgers, pasta with meat sauces, semi-aged cheeses",
+    "fr": "Viandes à la braise, burgers, pâtes à la sauce à la viande, fromages mi-affinés",
+    "it": "Carni alla brace, hamburger, pasta con sughi di carne, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Il Bruciato Guado al Tasso Bolgheri Antinori"
+}

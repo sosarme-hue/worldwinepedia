@@ -1,0 +1,40 @@
+{
+  "slug": "binitord-negre",
+  "name": "Binitord Negre",
+  "winery": null,
+  "winery_name": "Binitord",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Illa de Menorca",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Binitord Negre es un vino tinto de Binitord, con la denominación VT Illa de Menorca, en España.",
+    "en": "Binitord Negre is a red wine from Binitord, made under the VT Illa de Menorca appellation in Spain.",
+    "fr": "Binitord Negre est un vin rouge de Binitord, élaboré sous l’appellation VT Illa de Menorca (Espagne).",
+    "it": "Binitord Negre è un vino rosso di Binitord, prodotto nella denominazione VT Illa de Menorca (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 12,5 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Binitord Negre Binitord",
+  "brief": true,
+  "source": "decantalo"
+}

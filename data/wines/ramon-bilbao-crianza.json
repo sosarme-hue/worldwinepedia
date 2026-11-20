@@ -1,0 +1,41 @@
+{
+  "slug": "ramon-bilbao-crianza",
+  "name": "Ramón Bilbao Crianza",
+  "winery": "ramon-bilbao",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {"es": "Crianza", "en": "Crianza", "fr": "Crianza", "it": "Crianza"},
+  "grapes": ["tempranillo"],
+  "summary": {
+    "es": "Crianza de Tempranillo de Bodegas Ramón Bilbao, uno de los Rioja más fáciles de encontrar en tiendas y restaurantes.",
+    "en": "Tempranillo crianza from Bodegas Ramón Bilbao, one of the easiest Riojas to find in shops and restaurants.",
+    "fr": "Crianza de tempranillo de Bodegas Ramón Bilbao, l’un des Rioja les plus faciles à trouver chez les cavistes et au restaurant.",
+    "it": "Crianza di Tempranillo di Bodegas Ramón Bilbao, uno dei Rioja più facili da trovare in enoteche e ristoranti."
+  },
+  "body": {
+    "es": "<p>El Ramón Bilbao Crianza es el vino más conocido de la bodega de Haro y uno de los tintos de Rioja de mayor difusión. Se elabora con Tempranillo procedente de viñedos de distintas zonas de la denominación, con especial presencia de la Rioja Alta.</p><p>Tras la fermentación en depósito, el vino se cría en barricas de roble, de acuerdo con el mínimo de un año que exige la categoría Crianza en Rioja, y completa su evolución en botella antes de salir al mercado. La bodega busca un equilibrio entre la fruta madura de la Tempranillo y las notas especiadas de la madera.</p><p>Es un tinto accesible y versátil, de precio moderado, pensado para el consumo habitual y para acompañar una gran variedad de platos. Se disfruta mejor en sus primeros años.</p>",
+    "en": "<p>Ramón Bilbao Crianza is the Haro winery’s best-known wine and one of the most widely distributed Rioja reds. It is made from Tempranillo grown in vineyards across different parts of the appellation, with a strong presence of Rioja Alta.</p><p>After fermentation in tank, the wine is aged in oak barrels, in line with the one-year minimum required for the Crianza category in Rioja, and completes its development in bottle before release. The winery seeks a balance between Tempranillo’s ripe fruit and the spicy notes of oak.</p><p>It is an accessible, versatile red at a moderate price, intended for everyday drinking and for pairing with a wide range of dishes. It is best enjoyed in its first few years.</p>",
+    "fr": "<p>Le Ramón Bilbao Crianza est le vin le plus connu de la bodega de Haro et l’un des rouges de Rioja les plus diffusés. Il est élaboré avec du tempranillo issu de vignes de différentes zones de l’appellation, avec une forte présence de la Rioja Alta.</p><p>Après une fermentation en cuve, le vin est élevé en barriques de chêne, conformément au minimum d’un an exigé pour la catégorie Crianza en Rioja, puis achève son évolution en bouteille avant sa commercialisation. La maison recherche un équilibre entre le fruit mûr du tempranillo et les notes épicées du bois.</p><p>C’est un rouge accessible et polyvalent, à prix modéré, pensé pour la consommation courante et pour accompagner une grande variété de plats. Il s’apprécie surtout dans ses premières années.</p>",
+    "it": "<p>Il Ramón Bilbao Crianza è il vino più noto della cantina di Haro e uno dei rossi di Rioja più diffusi. È prodotto con Tempranillo da vigneti di diverse zone della denominazione, con una forte presenza della Rioja Alta.</p><p>Dopo la fermentazione in vasca, il vino affina in botti di rovere, secondo il minimo di un anno richiesto per la categoria Crianza in Rioja, e completa la sua evoluzione in bottiglia prima di uscire sul mercato. La cantina cerca un equilibrio tra il frutto maturo del Tempranillo e le note speziate del legno.</p><p>È un rosso accessibile e versatile, dal prezzo moderato, pensato per il consumo quotidiano e per accompagnare un’ampia varietà di piatti. Si gusta al meglio nei primi anni.</p>"
+  },
+  "tasting": {
+    "es": "Rubí de capa media-alta. Aromas de fruta roja y negra madura, con notas de vainilla, regaliz y especias. En boca es redondo, de cuerpo medio y tanino suave.",
+    "en": "Medium-deep ruby. Aromas of ripe red and black fruit, with notes of vanilla, liquorice and spice. Rounded and medium-bodied on the palate, with soft tannins.",
+    "fr": "Rubis d’intensité moyenne à soutenue. Arômes de fruits rouges et noirs mûrs, avec des notes de vanille, de réglisse et d’épices. En bouche, rond, de corps moyen, aux tanins souples.",
+    "it": "Rubino di intensità medio-alta. Aromi di frutta rossa e nera matura, con note di vaniglia, liquirizia e spezie. In bocca è rotondo, di medio corpo e con tannino morbido."
+  },
+  "pairing": {
+    "es": "Tapas, embutidos, carnes a la brasa, pasta con salsas de carne, quesos semicurados",
+    "en": "Tapas, charcuterie, chargrilled meat, pasta with meat sauces, semi-aged cheeses",
+    "fr": "Tapas, charcuterie, viandes à la braise, pâtes en sauce à la viande, fromages mi-affinés",
+    "it": "Tapas, salumi, carni alla brace, pasta al ragù, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "15-17 °C, copa de vino tinto",
+    "en": "15-17 °C, red wine glass",
+    "fr": "15-17 °C, verre à vin rouge",
+    "it": "15-17 °C, calice da vino rosso"
+  },
+  "search": "Ramón Bilbao Crianza Rioja"
+}

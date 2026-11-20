@@ -1,0 +1,40 @@
+{
+  "slug": "beronia-verdejo",
+  "name": "Beronia Verdejo",
+  "winery": "beronia",
+  "winery_name": null,
+  "region": "rueda",
+  "country": "espana",
+  "appellation": "DO Rueda",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Beronia Verdejo es un vino blanco de Bodegas Beronia, con la denominación DO Rueda, en España.",
+    "en": "Beronia Verdejo is a white wine from Bodegas Beronia, made under the DO Rueda appellation in Spain.",
+    "fr": "Beronia Verdejo est un vin blanc de Bodegas Beronia, élaboré sous l’appellation DO Rueda (Espagne).",
+    "it": "Beronia Verdejo è un vino bianco di Bodegas Beronia, prodotto nella denominazione DO Rueda (Spagna)."
+  },
+  "body": {
+    "es": "<p>Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 13 % vol.</p><p>Bodega de Ollauri, en la Rioja Alta, fundada en 1973 y perteneciente desde los años ochenta a González Byass; es conocida por sus crianzas y reservas de estilo clásico.</p><p>Rueda, creada en 1980, fue la primera denominación de origen de Castilla y León. Es la gran referencia de la uva Verdejo y de los vinos blancos de la Meseta norte.</p>",
+    "en": "<p>It is a young wine, meant to be drunk in its first years. It has 13% ABV.</p><p>Winery in Ollauri, Rioja Alta, founded in 1973 and owned since the 1980s by González Byass; it is known for its classic-style Crianzas and Reservas.</p><p>Rueda, created in 1980, was the first designation of origin in Castilla y León. It is the leading reference for the Verdejo grape and for the white wines of the northern Meseta.</p>",
+    "fr": "<p>C’est un vin jeune, à boire dans ses premières années. Il titre 13 % vol.</p><p>Bodega d’Ollauri, dans la Rioja Alta, fondée en 1973 et propriété de González Byass depuis les années 1980 ; elle est connue pour ses Crianza et Reserva de style classique.</p><p>Rueda, créée en 1980, fut la première dénomination d'origine de Castille-et-León. C'est la grande référence du cépage verdejo et des vins blancs de la Meseta septentrionale.</p>",
+    "it": "<p>È un vino giovane, da bere nei primi anni. Ha 13% vol.</p><p>Cantina di Ollauri, nella Rioja Alta, fondata nel 1973 e di proprietà di González Byass dagli anni Ottanta; è nota per i suoi Crianza e Reserva di stile classico.</p><p>Rueda, istituita nel 1980, è stata la prima denominazione di origine della Castiglia e León. È il grande punto di riferimento per il Verdejo e per i vini bianchi della Meseta settentrionale.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Beronia Verdejo Beronia",
+  "brief": true,
+  "source": "decantalo"
+}

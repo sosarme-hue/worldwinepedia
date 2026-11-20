@@ -1,0 +1,51 @@
+{
+  "slug": "chateau-haut-bailly",
+  "name": "Château Haut-Bailly",
+  "winery": "chateau-haut-bailly",
+  "region": "pessac-leognan",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Cru Classé de Graves",
+    "en": "Cru Classé de Graves",
+    "fr": "Cru Classé de Graves",
+    "it": "Cru Classé de Graves"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "cabernet-franc",
+    "petit-verdot"
+  ],
+  "summary": {
+    "es": "El gran vino de Château Haut-Bailly, tinto Cru Classé de Graves de Pessac-Léognan, ensamblaje de Cabernet Sauvignon y Merlot conocido por su finura.",
+    "en": "The grand vin of Château Haut-Bailly, a red Cru Classé de Graves from Pessac-Léognan, a blend of Cabernet Sauvignon and Merlot known for its finesse.",
+    "fr": "Le grand vin du château Haut-Bailly, rouge cru classé de Graves en Pessac-Léognan, assemblage de cabernet sauvignon et de merlot réputé pour sa finesse.",
+    "it": "Il grand vin di Château Haut-Bailly, rosso Cru Classé de Graves di Pessac-Léognan, uvaggio di Cabernet Sauvignon e Merlot noto per la sua finezza."
+  },
+  "body": {
+    "es": "<p><strong>Château Haut-Bailly</strong> es el gran vino de la propiedad del mismo nombre en Léognan, uno de los tintos clasificados de Graves y una de las referencias de la denominación <strong>Pessac-Léognan</strong>.</p><p>Procede de un viñedo de un solo bloque sobre una loma de gravas y arenas, dominado por el <strong>Cabernet Sauvignon</strong> y el <strong>Merlot</strong>, con pequeñas proporciones de Cabernet Franc y Petit Verdot. Una parte de las uvas procede de una parcela de viñas muy viejas, plantadas con varias variedades mezcladas, que aporta complejidad al ensamblaje. Las proporciones varían según la añada.</p><p>Las distintas parcelas se vinifican por separado y el vino se cría en barricas de roble francés, de las que una parte es nueva. El estilo de Haut-Bailly es conocido por su elegancia: taninos sedosos, fruta pura y un equilibrio que hace que el vino sea agradable relativamente pronto, sin renunciar a una gran capacidad de envejecimiento. Con los años desarrolla las notas de tabaco, humo y tierra típicas de Graves.</p>",
+    "en": "<p><strong>Château Haut-Bailly</strong> is the grand vin of the estate of the same name in Léognan, one of the classified reds of Graves and a benchmark of the <strong>Pessac-Léognan</strong> appellation.</p><p>It comes from a single-block vineyard on a rise of gravel and sand, dominated by <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong>, with small proportions of Cabernet Franc and Petit Verdot. Some of the grapes come from a parcel of very old vines, interplanted with several varieties, which adds complexity to the blend. Proportions vary with the vintage.</p><p>The different parcels are vinified separately and the wine is aged in French oak barrels, part of them new. Haut-Bailly’s style is known for its elegance: silky tannins, pure fruit and a balance that makes the wine enjoyable relatively early, while retaining great ageing potential. Over the years it develops the tobacco, smoke and earth notes typical of Graves.</p>",
+    "fr": "<p><strong>Château Haut-Bailly</strong> est le grand vin de la propriété du même nom à Léognan, l’un des rouges classés des Graves et une référence de l’appellation <strong>Pessac-Léognan</strong>.</p><p>Il provient d’un vignoble d’un seul tenant sur une croupe de graves et de sables, dominé par le <strong>cabernet sauvignon</strong> et le <strong>merlot</strong>, avec de petites proportions de cabernet franc et de petit verdot. Une partie des raisins provient d’une parcelle de très vieilles vignes complantées de plusieurs cépages, qui apporte de la complexité à l’assemblage. Les proportions varient selon le millésime.</p><p>Les différentes parcelles sont vinifiées séparément et le vin est élevé en barriques de chêne français, dont une partie neuve. Le style de Haut-Bailly est réputé pour son élégance : tanins soyeux, fruit pur et un équilibre qui rend le vin agréable assez tôt, sans renoncer à un grand potentiel de garde. Avec les années, il développe les notes de tabac, de fumée et de terre typiques des Graves.</p>",
+    "it": "<p><strong>Château Haut-Bailly</strong> è il grand vin della tenuta omonima a Léognan, uno dei rossi classificati delle Graves e un riferimento della denominazione <strong>Pessac-Léognan</strong>.</p><p>Proviene da un vigneto in un unico corpo su un rilievo di ghiaie e sabbie, dominato da <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong>, con piccole quote di Cabernet Franc e Petit Verdot. Una parte delle uve proviene da una parcella di viti molto vecchie, piantate con diverse varietà mescolate, che apporta complessità all’uvaggio. Le proporzioni variano secondo l’annata.</p><p>Le diverse parcelle sono vinificate separatamente e il vino affina in barrique di rovere francese, in parte nuove. Lo stile di Haut-Bailly è noto per l’eleganza: tannini setosi, frutto puro e un equilibrio che rende il vino piacevole relativamente presto, pur conservando una grande capacità di invecchiamento. Con gli anni sviluppa le note di tabacco, fumo e terra tipiche delle Graves.</p>"
+  },
+  "tasting": {
+    "es": "Rojo granate profundo. Aromas de casis, cereza negra, violeta, tabaco y notas ahumadas. Boca elegante y sedosa, de taninos finos y final largo.",
+    "en": "Deep garnet. Aromas of blackcurrant, black cherry, violet, tobacco and smoky notes. Elegant, silky palate with fine tannins and a long finish.",
+    "fr": "Grenat profond. Arômes de cassis, de cerise noire, de violette, de tabac et notes fumées. Bouche élégante et soyeuse, aux tanins fins et à la finale longue.",
+    "it": "Granato profondo. Aromi di ribes nero, ciliegia nera, violetta, tabacco e note affumicate. Bocca elegante e setosa, dai tannini fini e dal finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, solomillo, caza de pluma, setas, quesos curados",
+    "en": "Roast lamb, beef fillet, game birds, mushrooms, aged cheeses",
+    "fr": "Agneau rôti, filet de bœuf, gibier à plume, champignons, fromages affinés",
+    "it": "Agnello arrosto, filetto di manzo, selvaggina da piuma, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de tipo Burdeos; decantar en su juventud",
+    "en": "16-18 °C, Bordeaux-style glass; decant when young",
+    "fr": "16-18 °C, verre de type bordelais ; carafer dans sa jeunesse",
+    "it": "16-18 °C, calice tipo Bordeaux; decantare da giovane"
+  },
+  "search": "Château Haut-Bailly Pessac-Léognan"
+}

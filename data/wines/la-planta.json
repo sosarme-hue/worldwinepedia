@@ -1,0 +1,42 @@
+{
+  "slug": "la-planta",
+  "name": "La Planta",
+  "winery": "arzuaga",
+  "winery_name": null,
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "appellation": "DO Ribera del Duero",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "La Planta es un vino tinto de Bodegas Arzuaga Navarro, con la denominación DO Ribera del Duero, en España.",
+    "en": "La Planta is a red wine from Bodegas Arzuaga Navarro, made under the DO Ribera del Duero appellation in Spain.",
+    "fr": "La Planta est un vin rouge de Bodegas Arzuaga Navarro, élaboré sous l’appellation DO Ribera del Duero (Espagne).",
+    "it": "La Planta è un vino rosso di Bodegas Arzuaga Navarro, prodotto nella denominazione DO Ribera del Duero (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Tempranillo. Tiene crianza en madera. Su graduación es de 14 % vol.</p><p>Bodega familiar de Quintanilla de Onésimo, en la Ribera del Duero vallisoletana, fundada por Florentino Arzuaga, que combina la elaboración de tintos de crianza con un hotel y un restaurante en la propia finca.</p><p>Ribera del Duero es una denominación de origen de Castilla y León, creada en 1982, que se extiende a lo largo del río Duero en una meseta de gran altitud. Es conocida por sus tintos de Tempranillo, llamada aquí Tinto Fino o Tinta del País.</p>",
+    "en": "<p>It is made from Tempranillo. It is aged in wood. It has 14% ABV.</p><p>Family winery in Quintanilla de Onésimo, in the Valladolid part of Ribera del Duero, founded by Florentino Arzuaga, which combines aged reds with a hotel and restaurant on the estate.</p><p>Ribera del Duero is a designation of origin in Castilla y León, created in 1982, that runs along the Duero river on a high plateau. It is known for its reds made from Tempranillo, called Tinto Fino or Tinta del País locally.</p>",
+    "fr": "<p>Il est élaboré à partir de Tempranillo. Il est élevé en bois. Il titre 14 % vol.</p><p>Bodega familiale de Quintanilla de Onésimo, dans la Ribera del Duero de Valladolid, fondée par Florentino Arzuaga, qui associe l’élaboration de rouges élevés à un hôtel et à un restaurant sur le domaine.</p><p>La Ribera del Duero est une dénomination d'origine de Castille-et-León, créée en 1982, qui s'étend le long du Douro sur un haut plateau. Elle est connue pour ses rouges de tempranillo, appelé ici tinto fino ou tinta del país.</p>",
+    "it": "<p>È prodotto con Tempranillo. È affinato in legno. Ha 14% vol.</p><p>Cantina di famiglia di Quintanilla de Onésimo, nella Ribera del Duero di Valladolid, fondata da Florentino Arzuaga, che unisce la produzione di rossi affinati a un hotel e a un ristorante nella tenuta.</p><p>Ribera del Duero è una denominazione di origine della Castiglia e León, istituita nel 1982, che si estende lungo il fiume Duero su un altopiano elevato. È nota per i rossi di Tempranillo, chiamato qui Tinto Fino o Tinta del País.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "La Planta Arzuaga Navarro",
+  "brief": true,
+  "source": "decantalo"
+}

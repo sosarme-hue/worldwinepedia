@@ -1,0 +1,41 @@
+{
+  "slug": "biondi-santi-brunello",
+  "name": "Biondi-Santi Brunello di Montalcino",
+  "winery": "biondi-santi",
+  "region": "brunello-di-montalcino",
+  "country": "italia",
+  "type": "tinto",
+  "category": {"es": "Brunello di Montalcino DOCG", "en": "Brunello di Montalcino DOCG", "fr": "Brunello di Montalcino DOCG", "it": "Brunello di Montalcino DOCG"},
+  "grapes": ["sangiovese"],
+  "summary": {
+    "es": "El Brunello de la Tenuta Greppo, la casa a la que la tradición atribuye el nacimiento de la denominación, un Sangiovese de estilo clásico y larga vida.",
+    "en": "The Brunello from Tenuta Greppo, the house traditionally credited with the birth of the appellation, a classically styled, long-lived Sangiovese.",
+    "fr": "Le Brunello de la Tenuta Greppo, la maison à laquelle la tradition attribue la naissance de l’appellation, un sangiovese de style classique et de longue garde.",
+    "it": "Il Brunello della Tenuta Greppo, la casa a cui la tradizione attribuisce la nascita della denominazione, un Sangiovese di stile classico e di grande longevità."
+  },
+  "body": {
+    "es": "<p>El Brunello di Montalcino de Biondi-Santi, a menudo llamado «Annata» para distinguirlo de la Riserva, procede de los viñedos de la Tenuta Greppo, en las colinas a las afueras del pueblo de Montalcino, a una altitud relativamente elevada para la zona.</p><p>Se elabora sólo con Sangiovese, a partir de la selección de cepas que la familia ha conservado y propagado durante generaciones. La crianza se realiza en grandes toneles de roble de Eslavonia, siguiendo el método tradicional de la casa, y el vino reposa después en botella antes de salir al mercado.</p><p>Es un Brunello de estilo clásico, que privilegia la acidez, la finura y la tensión sobre la concentración. De joven puede mostrarse austero, y está concebido para evolucionar lentamente durante muchos años en la bodega.</p>",
+    "en": "<p>Biondi-Santi’s Brunello di Montalcino, often called “Annata” to distinguish it from the Riserva, comes from the vineyards of Tenuta Greppo, on the hills just outside the town of Montalcino, at a relatively high altitude for the area.</p><p>It is made only from Sangiovese, from the selection of vines that the family has preserved and propagated for generations. Ageing takes place in large Slavonian oak casks, following the house’s traditional method, and the wine then rests in bottle before release.</p><p>It is a classically styled Brunello that favours acidity, finesse and tension over concentration. When young it can seem austere, and it is designed to evolve slowly in the cellar over many years.</p>",
+    "fr": "<p>Le Brunello di Montalcino de Biondi-Santi, souvent appelé « Annata » pour le distinguer de la Riserva, provient des vignes de la Tenuta Greppo, sur les collines aux portes du bourg de Montalcino, à une altitude relativement élevée pour la zone.</p><p>Il est élaboré uniquement avec du sangiovese, issu de la sélection de ceps que la famille a conservée et multipliée pendant des générations. L’élevage se fait en grands foudres de chêne de Slavonie, selon la méthode traditionnelle de la maison, puis le vin repose en bouteille avant sa commercialisation.</p><p>C’est un Brunello de style classique, qui privilégie l’acidité, la finesse et la tension plutôt que la concentration. Jeune, il peut paraître austère, et il est conçu pour évoluer lentement en cave pendant de nombreuses années.</p>",
+    "it": "<p>Il Brunello di Montalcino di Biondi-Santi, spesso chiamato “Annata” per distinguerlo dalla Riserva, proviene dai vigneti della Tenuta Greppo, sulle colline alle porte del paese di Montalcino, a un’altitudine relativamente elevata per la zona.</p><p>È prodotto solo con Sangiovese, dalla selezione di viti che la famiglia ha conservato e propagato per generazioni. L’affinamento avviene in grandi botti di rovere di Slavonia, secondo il metodo tradizionale della casa, e il vino riposa poi in bottiglia prima di uscire sul mercato.</p><p>È un Brunello di stile classico, che privilegia acidità, finezza e tensione rispetto alla concentrazione. Da giovane può risultare austero ed è pensato per evolvere lentamente in cantina per molti anni.</p>"
+  },
+  "tasting": {
+    "es": "Granate de capa media, luminoso. Aromas de cereza ácida, frutos rojos, hierbas secas y notas terrosas y de especias. En boca es tenso y elegante, con acidez marcada y tanino fino y firme.",
+    "en": "Bright, medium-depth garnet. Aromas of sour cherry, red berries, dried herbs and earthy, spicy notes. Taut and elegant on the palate, with pronounced acidity and fine, firm tannins.",
+    "fr": "Grenat lumineux de profondeur moyenne. Arômes de griotte, de fruits rouges, d’herbes sèches et de notes terreuses et épicées. En bouche, il est tendu et élégant, avec une acidité marquée et des tanins fins et fermes.",
+    "it": "Granato luminoso di media intensità. Profumi di amarena, piccoli frutti rossi, erbe secche e note terrose e speziate. In bocca è teso ed elegante, con acidità spiccata e tannino fine e deciso."
+  },
+  "pairing": {
+    "es": "Carnes rojas asadas, caza, platos con trufa o setas, quesos curados",
+    "en": "Roast red meat, game, dishes with truffle or mushrooms, aged cheeses",
+    "fr": "Viandes rouges rôties, gibier, plats à la truffe ou aux champignons, fromages affinés",
+    "it": "Carni rosse arrosto, selvaggina, piatti al tartufo o ai funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia; se beneficia de la decantación",
+    "en": "16-18 °C, large glass; benefits from decanting",
+    "fr": "16-18 °C, verre ample ; gagne à être carafé",
+    "it": "16-18 °C, calice ampio; trae beneficio dalla decantazione"
+  },
+  "search": "Biondi-Santi Brunello di Montalcino"
+}

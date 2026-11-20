@@ -1,0 +1,43 @@
+{
+  "slug": "aalto",
+  "name": "Aalto",
+  "winery": "aalto",
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Tinto principal de Bodegas Aalto, elaborado con Tinto Fino de numerosas parcelas viejas de distintos pueblos de la Ribera del Duero y criado en roble.",
+    "en": "The main red of Bodegas Aalto, made from Tinto Fino from numerous old plots in different villages of Ribera del Duero and aged in oak.",
+    "fr": "Rouge principal de Bodegas Aalto, élaboré avec du tinto fino de nombreuses vieilles parcelles de différents villages de la Ribera del Duero et élevé en chêne.",
+    "it": "Rosso principale di Bodegas Aalto, prodotto con Tinto Fino di numerose vecchie parcelle di diversi paesi della Ribera del Duero e affinato in rovere."
+  },
+  "body": {
+    "es": "<p>Aalto es el tinto que da nombre a la bodega fundada en 1999 por Mariano García y Javier Zaccagnini. Su planteamiento consiste en reunir uva de viñedos viejos de Tinto Fino repartidos por distintos municipios de la Ribera del Duero, en las provincias de Burgos y Valladolid, para componer un vino que refleje la diversidad de la región.</p><p>Las parcelas, con suelos y altitudes distintos, se vendimian y vinifican por separado. Una vez criados en barrica, los distintos lotes se ensamblan para obtener el equilibrio buscado en cada añada. La crianza se realiza en barricas de roble, con predominio del francés, durante un periodo prolongado, seguido de reposo en botella.</p><p>El resultado es un tinto concentrado y estructurado, con la fruta madura y la intensidad de color propias de la Ribera, taninos firmes y capacidad para evolucionar durante años. Es uno de los vinos más conocidos de la nueva generación de la Ribera surgida a finales del siglo XX.</p>",
+    "en": "<p>Aalto is the red that gives its name to the winery founded in 1999 by Mariano García and Javier Zaccagnini. Its approach is to bring together grapes from old Tinto Fino vineyards spread across different villages of Ribera del Duero, in the provinces of Burgos and Valladolid, to create a wine that reflects the region’s diversity.</p><p>The plots, with different soils and altitudes, are harvested and vinified separately. Once aged in barrel, the different lots are blended to achieve the balance sought in each vintage. Ageing takes place in oak barrels, mainly French, for an extended period, followed by bottle rest.</p><p>The result is a concentrated, structured red with the ripe fruit and depth of colour typical of Ribera, firm tannins and the ability to develop for years. It is one of the best-known wines of the new generation of Ribera that emerged at the end of the twentieth century.</p>",
+    "fr": "<p>Aalto est le rouge qui donne son nom à la bodega fondée en 1999 par Mariano García et Javier Zaccagnini. Sa démarche consiste à réunir le raisin de vieilles vignes de tinto fino réparties dans différentes communes de la Ribera del Duero, dans les provinces de Burgos et de Valladolid, pour composer un vin qui reflète la diversité de la région.</p><p>Les parcelles, aux sols et aux altitudes différents, sont vendangées et vinifiées séparément. Une fois élevés en barrique, les différents lots sont assemblés pour obtenir l’équilibre recherché chaque millésime. L’élevage se fait en barriques de chêne, majoritairement français, pendant une longue période, suivie d’un repos en bouteille.</p><p>Il en résulte un rouge concentré et structuré, au fruit mûr et à l’intensité de couleur propres à la Ribera, aux tanins fermes et capable d’évoluer pendant des années. C’est l’un des vins les plus connus de la nouvelle génération de la Ribera apparue à la fin du XXe siècle.</p>",
+    "it": "<p>Aalto è il rosso che dà il nome alla cantina fondata nel 1999 da Mariano García e Javier Zaccagnini. Il suo approccio consiste nel riunire uve di vecchi vigneti di Tinto Fino sparsi in diversi comuni della Ribera del Duero, nelle province di Burgos e Valladolid, per comporre un vino che rifletta la diversità della regione.</p><p>Le parcelle, con suoli e altitudini diversi, sono vendemmiate e vinificate separatamente. Dopo l’affinamento in barrique, i diversi lotti vengono assemblati per ottenere l’equilibrio cercato in ogni annata. L’affinamento avviene in barrique di rovere, prevalentemente francese, per un periodo prolungato, seguito dal riposo in bottiglia.</p><p>Il risultato è un rosso concentrato e strutturato, con il frutto maturo e l’intensità di colore tipici della Ribera, tannini decisi e capacità di evolvere per anni. È uno dei vini più noti della nuova generazione della Ribera emersa alla fine del Novecento.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de fruta negra madura, regaliz, especias y tostados de la barrica. En boca es carnoso y estructurado, con taninos firmes y final persistente.",
+    "en": "Intense deep cherry red. Aromas of ripe black fruit, liquorice, spice and toasty oak. Fleshy and structured on the palate, with firm tannins and a persistent finish.",
+    "fr": "Rouge cerise burlat intense. Arômes de fruits noirs mûrs, réglisse, épices et toasté de la barrique. En bouche, il est charnu et structuré, aux tanins fermes et à la finale persistante.",
+    "it": "Rosso ciliegia intenso. Aromi di frutta nera matura, liquirizia, spezie e tostatura della barrique. In bocca è carnoso e strutturato, con tannini decisi e finale persistente."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, lechazo asado, caza mayor, quesos curados de oveja",
+    "en": "Chargrilled red meat, roast milk-fed lamb, large game, aged sheep’s cheeses",
+    "fr": "Viandes rouges à la braise, agneau de lait rôti, gros gibier, fromages de brebis affinés",
+    "it": "Carni rosse alla brace, agnello da latte arrosto, selvaggina di grossa taglia, pecorini stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Aalto Ribera del Duero"
+}

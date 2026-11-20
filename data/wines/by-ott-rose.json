@@ -1,0 +1,41 @@
+{
+  "slug": "by-ott-rose",
+  "name": "BY.OTT Rosé",
+  "winery": "domaines-ott",
+  "region": "provence",
+  "country": "francia",
+  "type": "rosado",
+  "category": {"es": "Côtes de Provence", "en": "Côtes de Provence", "fr": "Côtes de Provence", "it": "Côtes de Provence"},
+  "grapes": ["garnacha", "cinsault", "syrah"],
+  "summary": {
+    "es": "El rosado más accesible de Domaines Ott, un Côtes de Provence elaborado con uvas de las propiedades de la casa y de viticultores asociados.",
+    "en": "Domaines Ott’s most affordable rosé, a Côtes de Provence made from grapes from the house’s estates and partner growers.",
+    "fr": "Le rosé le plus accessible de Domaines Ott, un côtes-de-provence élaboré à partir de raisins des propriétés de la maison et de vignerons partenaires.",
+    "it": "Il rosato più accessibile di Domaines Ott, un Côtes de Provence prodotto con uve delle tenute della casa e di viticoltori partner."
+  },
+  "body": {
+    "es": "<p>BY.OTT es la gama que Domaines Ott creó para ofrecer el estilo de la casa a un precio más asequible que los vinos de sus tres propiedades. A diferencia de éstos, se elabora con uvas procedentes tanto de los viñedos de la casa como de viticultores de Provenza con los que trabaja.</p><p>El rosado se basa en las variedades mediterráneas habituales en la región, sobre todo Garnacha y Cinsault, con Syrah y otras uvas. Se elabora por prensado directo o maceración muy breve para obtener un color pálido, y fermenta a temperatura controlada para preservar la frescura y los aromas.</p><p>Es un rosado seco, ligero y afrutado, pensado para beberse joven, que mantiene el perfil delicado característico de los rosados de la casa.</p>",
+    "en": "<p>BY.OTT is the range Domaines Ott created to offer the house style at a more affordable price than the wines from its three estates. Unlike those, it is made from grapes from both the house’s vineyards and Provençal growers it works with.</p><p>The rosé is based on the Mediterranean varieties common in the region, mainly Grenache and Cinsault, with Syrah and other grapes. It is made by direct pressing or very brief maceration to obtain a pale colour, and fermented at controlled temperatures to preserve freshness and aromas.</p><p>It is a dry, light and fruity rosé, designed to be drunk young, which keeps the delicate profile characteristic of the house’s rosés.</p>",
+    "fr": "<p>BY.OTT est la gamme créée par Domaines Ott pour proposer le style de la maison à un prix plus abordable que les vins de ses trois propriétés. Contrairement à ceux-ci, elle est élaborée à partir de raisins issus à la fois des vignes de la maison et de vignerons provençaux partenaires.</p><p>Le rosé repose sur les cépages méditerranéens courants dans la région, surtout grenache et cinsault, avec de la syrah et d’autres cépages. Il est élaboré par pressurage direct ou très courte macération pour obtenir une couleur pâle, et fermente à température contrôlée pour préserver fraîcheur et arômes.</p><p>C’est un rosé sec, léger et fruité, à boire jeune, qui conserve le profil délicat caractéristique des rosés de la maison.</p>",
+    "it": "<p>BY.OTT è la linea creata da Domaines Ott per offrire lo stile della casa a un prezzo più accessibile rispetto ai vini delle sue tre tenute. A differenza di questi, si produce con uve provenienti sia dai vigneti della casa sia da viticoltori provenzali con cui collabora.</p><p>Il rosato si basa sulle varietà mediterranee diffuse nella regione, soprattutto Grenache e Cinsault, con Syrah e altre uve. Si ottiene per pressatura diretta o macerazione molto breve per avere un colore tenue, e fermenta a temperatura controllata per preservare freschezza e aromi.</p><p>È un rosato secco, leggero e fruttato, pensato per essere bevuto giovane, che mantiene il profilo delicato tipico dei rosati della casa.</p>"
+  },
+  "tasting": {
+    "es": "Rosa pálido. Aromas de fresa, melocotón, cítricos y notas florales. En boca es seco, ligero y fresco.",
+    "en": "Pale pink. Aromas of strawberry, peach, citrus and floral notes. Dry, light and fresh on the palate.",
+    "fr": "Rose pâle. Arômes de fraise, de pêche, d’agrumes et notes florales. En bouche, sec, léger et frais.",
+    "it": "Rosa tenue. Aromi di fragola, pesca, agrumi e note floreali. In bocca è secco, leggero e fresco."
+  },
+  "pairing": {
+    "es": "Aperitivo, ensaladas, pescado a la plancha, pizza, cocina mediterránea",
+    "en": "Aperitif, salads, grilled fish, pizza, Mediterranean cuisine",
+    "fr": "Apéritif, salades, poisson grillé, pizza, cuisine méditerranéenne",
+    "it": "Aperitivo, insalate, pesce alla griglia, pizza, cucina mediterranea"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "BY.OTT Rosé Côtes de Provence Domaines Ott"
+}

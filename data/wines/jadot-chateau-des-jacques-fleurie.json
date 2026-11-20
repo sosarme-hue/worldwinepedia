@@ -1,0 +1,48 @@
+{
+  "slug": "jadot-chateau-des-jacques-fleurie",
+  "name": "Château des Jacques Fleurie",
+  "winery": "louis-jadot",
+  "region": "beaujolais",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Fleurie",
+    "en": "Fleurie",
+    "fr": "Fleurie",
+    "it": "Fleurie"
+  },
+  "grapes": [
+    "gamay"
+  ],
+  "summary": {
+    "es": "Fleurie del Château des Jacques, la finca de Louis Jadot en el Beaujolais: un Gamay floral y elegante de suelos de granito rosa.",
+    "en": "Fleurie from Château des Jacques, Louis Jadot’s Beaujolais estate: a floral, elegant Gamay from pink granite soils.",
+    "fr": "Fleurie du château des Jacques, la propriété de Louis Jadot en Beaujolais : un gamay floral et élégant issu de sols de granite rose.",
+    "it": "Fleurie dello Château des Jacques, la tenuta di Louis Jadot nel Beaujolais: un Gamay floreale ed elegante da suoli di granito rosa."
+  },
+  "body": {
+    "es": "<p>Desde el <strong>Château des Jacques</strong>, en Romanèche-Thorins, la casa borgoñona Louis Jadot elabora vinos de varios crus del Beaujolais. Este procede de <strong>Fleurie</strong>, cru vecino de Moulin-à-Vent cuyo nombre se asocia tradicionalmente a la delicadeza y al carácter floral de sus vinos.</p><p>Los viñedos de Fleurie se asientan sobre suelos de <strong>granito rosa</strong>, arenosos y bien drenados, que dan a la <strong>Gamay</strong> aromas de violeta, iris y fruta roja y una textura sedosa. Es uno de los crus más apreciados por su elegancia, sin renunciar a cierta estructura.</p><p>Fiel al estilo de la finca, el vino se elabora según los métodos de Borgoña, con uva despalillada y maceraciones más largas que en la vinificación carbónica tradicional del Beaujolais, y se cría en madera. El resultado es un tinto fino y aromático, con más estructura que un Beaujolais ligero, que puede beberse joven o conservarse algunos años.</p>",
+    "en": "<p>From <strong>Château des Jacques</strong> in Romanèche-Thorins, the Burgundy house Louis Jadot makes wines from several Beaujolais crus. This one comes from <strong>Fleurie</strong>, a neighbour of Moulin-à-Vent whose name has traditionally been associated with the delicacy and floral character of its wines.</p><p>Fleurie’s vineyards lie on sandy, free-draining <strong>pink granite</strong> soils, which give <strong>Gamay</strong> aromas of violet, iris and red fruit and a silky texture. It is one of the crus most prized for elegance, while keeping a certain structure.</p><p>True to the estate’s style, the wine is made using Burgundian methods, with destemmed grapes and longer macerations than in the traditional carbonic vinification of Beaujolais, and aged in wood. The result is a fine, aromatic red with more structure than a light Beaujolais, which can be drunk young or kept for a few years.</p>",
+    "fr": "<p>Depuis le <strong>château des Jacques</strong>, à Romanèche-Thorins, la maison bourguignonne Louis Jadot élabore des vins de plusieurs crus du Beaujolais. Celui-ci provient de <strong>Fleurie</strong>, cru voisin de Moulin-à-Vent dont le nom est traditionnellement associé à la délicatesse et au caractère floral de ses vins.</p><p>Les vignes de Fleurie reposent sur des sols de <strong>granite rose</strong>, sableux et drainants, qui donnent au <strong>gamay</strong> des arômes de violette, d’iris et de fruits rouges ainsi qu’une texture soyeuse. C’est l’un des crus les plus appréciés pour son élégance, sans renoncer à une certaine structure.</p><p>Fidèle au style du domaine, le vin est élaboré selon les méthodes bourguignonnes, avec des raisins égrappés et des macérations plus longues que dans la vinification carbonique traditionnelle du Beaujolais, puis élevé sous bois. Il en résulte un rouge fin et aromatique, plus structuré qu’un beaujolais léger, à boire jeune ou à garder quelques années.</p>",
+    "it": "<p>Dallo <strong>Château des Jacques</strong>, a Romanèche-Thorins, la maison borgognona Louis Jadot produce vini di diversi cru del Beaujolais. Questo proviene da <strong>Fleurie</strong>, cru confinante con Moulin-à-Vent il cui nome è tradizionalmente associato alla delicatezza e al carattere floreale dei suoi vini.</p><p>I vigneti di Fleurie poggiano su suoli di <strong>granito rosa</strong>, sabbiosi e ben drenati, che conferiscono al <strong>Gamay</strong> aromi di violetta, iris e frutti rossi e una consistenza setosa. È uno dei cru più apprezzati per l’eleganza, pur conservando una certa struttura.</p><p>Fedele allo stile della tenuta, il vino è prodotto con i metodi di Borgogna, con uve diraspate e macerazioni più lunghe rispetto alla tradizionale vinificazione carbonica del Beaujolais, e affina in legno. Ne risulta un rosso fine e aromatico, più strutturato di un Beaujolais leggero, da bere giovane o da conservare qualche anno.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí brillante. Aromas de violeta, peonía, frambuesa y cereza. Boca sedosa y fresca, de taninos finos.",
+    "en": "Bright ruby. Aromas of violet, peony, raspberry and cherry. Silky, fresh palate with fine tannins.",
+    "fr": "Rubis brillant. Arômes de violette, de pivoine, de framboise et de cerise. Bouche soyeuse et fraîche, aux tanins fins.",
+    "it": "Rubino brillante. Aromi di violetta, peonia, lampone e ciliegia. Bocca setosa e fresca, dai tannini fini."
+  },
+  "pairing": {
+    "es": "Aves asadas, ternera, embutidos, quesos de pasta blanda",
+    "en": "Roast poultry, veal, charcuterie, soft cheeses",
+    "fr": "Volailles rôties, veau, charcuterie, fromages à pâte molle",
+    "it": "Pollame arrosto, vitello, salumi, formaggi a pasta molle"
+  },
+  "serve": {
+    "es": "14-15 °C, copa de tipo Borgoña",
+    "en": "14-15 °C, Burgundy-style glass",
+    "fr": "14-15 °C, verre de type bourguignon",
+    "it": "14-15 °C, calice tipo Borgogna"
+  },
+  "search": "Château des Jacques Fleurie Louis Jadot"
+}

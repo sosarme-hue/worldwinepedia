@@ -1,0 +1,41 @@
+{
+  "slug": "chateau-de-beaucastel-rouge",
+  "name": "Château de Beaucastel Châteauneuf-du-Pape Rouge",
+  "winery": "chateau-de-beaucastel",
+  "region": "chateauneuf-du-pape",
+  "country": "francia",
+  "type": "tinto",
+  "category": {"es": "Châteauneuf-du-Pape", "en": "Châteauneuf-du-Pape", "fr": "Châteauneuf-du-Pape", "it": "Châteauneuf-du-Pape"},
+  "grapes": ["garnacha", "monastrell", "syrah", "cinsault"],
+  "summary": {
+    "es": "El Châteauneuf-du-Pape tinto de Beaucastel, que ensambla las trece variedades de la denominación con un peso destacado de la Mourvèdre.",
+    "en": "Beaucastel’s red Châteauneuf-du-Pape, blending all thirteen of the appellation’s varieties with a prominent share of Mourvèdre.",
+    "fr": "Le châteauneuf-du-pape rouge de Beaucastel, qui assemble les treize cépages de l’appellation avec une place marquée pour le mourvèdre.",
+    "it": "Lo Châteauneuf-du-Pape rosso di Beaucastel, che assembla le tredici varietà della denominazione con un peso rilevante del Mourvèdre."
+  },
+  "body": {
+    "es": "<p>El tinto de Château de Beaucastel es uno de los Châteauneuf-du-Pape más conocidos. Se distingue por emplear las trece variedades históricas de la denominación y, sobre todo, por la proporción de Mourvèdre, que en este vino tiene un peso similar al de la Garnacha, completadas con Syrah, Counoise, Cinsault y otras variedades minoritarias.</p><p>Cada variedad se vinifica por separado. La casa aplica un calentamiento breve de la uva antes de la fermentación, un procedimiento propio que se asocia a la estabilidad del vino sin recurrir a mucho sulfuroso. Tras el ensamblaje, el vino se cría en grandes fudres de roble antes de embotellarse.</p><p>El peso de la Mourvèdre le da un perfil más estructurado y menos inmediato que el de los Châteauneuf dominados por la Garnacha, con notas animales y de especias que se desarrollan con la edad. Es un vino de larga guarda.</p>",
+    "en": "<p>The red of Château de Beaucastel is one of the best-known Châteauneuf-du-Papes. It stands out for using the appellation’s thirteen historic varieties and, above all, for its proportion of Mourvèdre, which in this wine carries a weight similar to that of Grenache, completed with Syrah, Counoise, Cinsault and other minor varieties.</p><p>Each variety is vinified separately. The house applies a brief heating of the grapes before fermentation, a technique of its own associated with the wine’s stability without much use of sulphur. After blending, the wine is aged in large oak casks before bottling.</p><p>The weight of Mourvèdre gives it a more structured and less immediate profile than Grenache-dominated Châteauneufs, with animal and spice notes that develop with age. It is a wine for long ageing.</p>",
+    "fr": "<p>Le rouge du Château de Beaucastel est l’un des châteauneuf-du-pape les plus connus. Il se distingue par l’emploi des treize cépages historiques de l’appellation et surtout par la part du mourvèdre, qui pèse dans ce vin autant que le grenache, complétés par la syrah, la counoise, le cinsault et d’autres cépages minoritaires.</p><p>Chaque cépage est vinifié séparément. La maison pratique un bref chauffage de la vendange avant la fermentation, un procédé qui lui est propre et que l’on associe à la stabilité du vin sans recours important au soufre. Après l’assemblage, le vin est élevé en grands foudres de chêne avant la mise en bouteille.</p><p>La place du mourvèdre lui confère un profil plus structuré et moins immédiat que celui des châteauneuf dominés par le grenache, avec des notes animales et épicées qui se développent avec l’âge. C’est un vin de longue garde.</p>",
+    "it": "<p>Il rosso di Château de Beaucastel è uno degli Châteauneuf-du-Pape più noti. Si distingue per l’impiego delle tredici varietà storiche della denominazione e soprattutto per la quota di Mourvèdre, che in questo vino pesa quanto la Grenache, completati da Syrah, Counoise, Cinsault e altre varietà minori.</p><p>Ogni varietà è vinificata separatamente. La casa applica un breve riscaldamento delle uve prima della fermentazione, un procedimento proprio associato alla stabilità del vino senza ricorrere a molta anidride solforosa. Dopo l’assemblaggio, il vino affina in grandi botti di rovere prima dell’imbottigliamento.</p><p>Il peso del Mourvèdre gli conferisce un profilo più strutturato e meno immediato rispetto agli Châteauneuf dominati dalla Grenache, con note animali e speziate che si sviluppano con l’età. È un vino di lungo invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Granate profundo. Aromas de fruta negra, cereza confitada, especias, cuero, hierbas de garriga y notas terrosas. En boca es potente y estructurado, con tanino firme y final largo.",
+    "en": "Deep garnet. Aromas of black fruit, candied cherry, spice, leather, garrigue herbs and earthy notes. Powerful and structured on the palate, with firm tannins and a long finish.",
+    "fr": "Grenat profond. Arômes de fruits noirs, de cerise confite, d’épices, de cuir, d’herbes de garrigue et notes terreuses. En bouche, puissant et structuré, aux tanins fermes et à la finale longue.",
+    "it": "Granato profondo. Aromi di frutta nera, ciliegia candita, spezie, cuoio, erbe della macchia mediterranea e note terrose. In bocca è potente e strutturato, con tannino deciso e finale lungo."
+  },
+  "pairing": {
+    "es": "Caza mayor, jabalí, cordero asado, estofados de carne, trufa negra",
+    "en": "Large game, wild boar, roast lamb, meat stews, black truffle",
+    "fr": "Grand gibier, sanglier, agneau rôti, ragoûts de viande, truffe noire",
+    "it": "Selvaggina grossa, cinghiale, agnello arrosto, stufati di carne, tartufo nero"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia; conviene decantarlo",
+    "en": "16-18 °C, large glass; decanting recommended",
+    "fr": "16-18 °C, verre ample ; carafage conseillé",
+    "it": "16-18 °C, calice ampio; consigliata la decantazione"
+  },
+  "search": "Château de Beaucastel Châteauneuf-du-Pape Rouge"
+}

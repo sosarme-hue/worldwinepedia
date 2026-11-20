@@ -1,0 +1,42 @@
+{
+  "slug": "pegasus-bay-chardonnay",
+  "name": "Pegasus Bay Chardonnay",
+  "winery": null,
+  "winery_name": "Pegasus Bay",
+  "region": null,
+  "country": "nueva-zelanda",
+  "appellation": "Waipara Valley",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Pegasus Bay Chardonnay es un vino blanco de Pegasus Bay, con la denominación Waipara Valley, en Nueva Zelanda.",
+    "en": "Pegasus Bay Chardonnay is a white wine from Pegasus Bay, made under the Waipara Valley appellation in New Zealand.",
+    "fr": "Pegasus Bay Chardonnay est un vin blanc de Pegasus Bay, élaboré sous l’appellation Waipara Valley (Nouvelle-Zélande).",
+    "it": "Pegasus Bay Chardonnay è un vino bianco di Pegasus Bay, prodotto nella denominazione Waipara Valley (Nuova Zelanda)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Chardonnay. Se cría sobre sus lías. Su graduación es de 13 % vol.</p>",
+    "en": "<p>It is made from Chardonnay. It is aged on its lees. It has 13% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Chardonnay. Il est élevé sur lies. Il titre 13 % vol.</p>",
+    "it": "<p>È prodotto con Chardonnay. Affina sulle fecce fini. Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Pegasus Bay Chardonnay Pegasus Bay",
+  "brief": true,
+  "source": "decantalo"
+}

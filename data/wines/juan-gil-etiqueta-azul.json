@@ -1,0 +1,45 @@
+{
+  "slug": "juan-gil-etiqueta-azul",
+  "name": "Juan Gil Etiqueta Azul",
+  "winery": "juan-gil",
+  "region": "jumilla",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "monastrell",
+    "cabernet-sauvignon",
+    "syrah"
+  ],
+  "summary": {
+    "es": "Tinto de crianza larga de Bodegas Juan Gil que combina monastrell con cabernet sauvignon y syrah, reconocible por su etiqueta azul.",
+    "en": "Long-aged red from Bodegas Juan Gil combining Monastrell with Cabernet Sauvignon and Syrah, recognisable by its blue label.",
+    "fr": "Rouge de long élevage de Bodegas Juan Gil associant monastrell, cabernet sauvignon et syrah, reconnaissable à son étiquette bleue.",
+    "it": "Rosso di lungo affinamento di Bodegas Juan Gil che unisce Monastrell, Cabernet Sauvignon e Syrah, riconoscibile per l'etichetta blu."
+  },
+  "body": {
+    "es": "<p>Juan Gil Etiqueta Azul es el tinto de mayor crianza de la gama clásica de Bodegas Juan Gil, por encima de las versiones de etiqueta amarilla y plateada. A diferencia de estas, que son monovarietales de monastrell, se trata de un <strong>ensamblaje</strong>.</p><p>La base es la <strong>monastrell</strong> de viñas viejas de <strong>Jumilla</strong>, a la que se suman <strong>cabernet sauvignon</strong> y <strong>syrah</strong>; las proporciones varían según la añada. La monastrell aporta carnosidad, fruta negra y carácter mediterráneo; la cabernet, estructura y notas de cassis; y la syrah, color y especias. Las uvas proceden de viñedos del altiplano jumillano, sobre suelos calizos y pedregosos, en un clima semiárido de grandes contrastes térmicos. El vino se cría durante alrededor de año y medio en barricas de roble, lo que le da más notas de madera y una estructura más firme que la de los otros vinos de la gama. Es un tinto potente y concentrado, que admite varios años de guarda.</p>",
+    "en": "<p>Juan Gil Etiqueta Azul is the longest-aged red in Bodegas Juan Gil's classic range, above the yellow and silver label versions. Unlike those, which are single-varietal Monastrells, it is a <strong>blend</strong>.</p><p>Its base is old-vine <strong>Monastrell</strong> from <strong>Jumilla</strong>, joined by <strong>Cabernet Sauvignon</strong> and <strong>Syrah</strong>; the proportions vary with the vintage. Monastrell brings flesh, black fruit and Mediterranean character; Cabernet, structure and blackcurrant notes; and Syrah, colour and spice. The grapes come from vineyards on the Jumilla plateau, on calcareous, stony soils, in a semi-arid climate with large temperature contrasts. The wine is aged for around a year and a half in oak barrels, which gives it more oak notes and a firmer structure than the other wines in the range. It is a powerful, concentrated red that can be kept for several years.</p>",
+    "fr": "<p>Juan Gil Etiqueta Azul est le rouge le plus longuement élevé de la gamme classique de Bodegas Juan Gil, au-dessus des versions à étiquette jaune et argentée. Contrairement à celles-ci, qui sont des monocépages de monastrell, il s'agit d'un <strong>assemblage</strong>.</p><p>La base est le <strong>monastrell</strong> de vieilles vignes de <strong>Jumilla</strong>, auquel s'ajoutent le <strong>cabernet sauvignon</strong> et la <strong>syrah</strong> ; les proportions varient selon le millésime. Le monastrell apporte chair, fruit noir et caractère méditerranéen ; le cabernet, structure et notes de cassis ; la syrah, couleur et épices. Les raisins proviennent de vignes du plateau de Jumilla, sur sols calcaires et caillouteux, sous un climat semi-aride aux grands contrastes thermiques. Le vin est élevé environ un an et demi en barriques de chêne, ce qui lui donne davantage de notes boisées et une structure plus ferme que les autres vins de la gamme. C'est un rouge puissant et concentré, qui supporte plusieurs années de garde.</p>",
+    "it": "<p>Juan Gil Etiqueta Azul è il rosso di più lungo affinamento della gamma classica di Bodegas Juan Gil, al di sopra delle versioni con etichetta gialla e argento. A differenza di queste, che sono monovarietali di Monastrell, si tratta di un <strong>uvaggio</strong>.</p><p>La base è il <strong>Monastrell</strong> di vecchie vigne di <strong>Jumilla</strong>, a cui si aggiungono <strong>Cabernet Sauvignon</strong> e <strong>Syrah</strong>; le proporzioni variano secondo l'annata. Il Monastrell apporta polpa, frutta nera e carattere mediterraneo; il Cabernet, struttura e note di cassis; la Syrah, colore e spezie. Le uve provengono da vigneti dell'altopiano di Jumilla, su suoli calcarei e sassosi, in un clima semiarido con forti escursioni termiche. Il vino affina per circa un anno e mezzo in barrique di rovere, il che gli conferisce più note di legno e una struttura più decisa rispetto agli altri vini della gamma. È un rosso potente e concentrato, che si presta a diversi anni di invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota muy intenso. Aromas de fruta negra madura, cassis, especias, regaliz y tostados. En boca es potente y estructurado, con tanino maduro y final largo.",
+    "en": "Very intense cherry red. Aromas of ripe black fruit, blackcurrant, spice, liquorice and toast. Powerful and structured on the palate, with ripe tannins and a long finish.",
+    "fr": "Rouge cerise très intense. Arômes de fruits noirs mûrs, de cassis, d'épices, de réglisse et de grillé. En bouche, puissant et structuré, aux tanins mûrs et à la longue finale.",
+    "it": "Rosso ciliegia molto intenso. Aromi di frutta nera matura, cassis, spezie, liquirizia e tostature. In bocca è potente e strutturato, con tannino maturo e finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas, caza, guisos contundentes, quesos curados",
+    "en": "Red meats, game, hearty stews, aged cheeses",
+    "fr": "Viandes rouges, gibier, plats mijotés copieux, fromages affinés",
+    "it": "Carni rosse, selvaggina, stufati sostanziosi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, grand verre",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Juan Gil Etiqueta Azul Blue Label Jumilla"
+}

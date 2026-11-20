@@ -1,0 +1,48 @@
+{
+  "slug": "les-bertrand-ptit-bouchon-beaujolais-nouveau",
+  "name": "P’tit Bouchon Beaujolais Nouveau",
+  "winery": "les-bertrand",
+  "region": "beaujolais",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Primeur",
+    "en": "Primeur",
+    "fr": "Primeur",
+    "it": "Primeur"
+  },
+  "grapes": [
+    "gamay"
+  ],
+  "summary": {
+    "es": "Beaujolais Nouveau de Les Bertrand, un tinto primeur de Gamay que sale al mercado pocas semanas después de la vendimia.",
+    "en": "Beaujolais Nouveau from Les Bertrand, a primeur Gamay red released just weeks after the harvest.",
+    "fr": "Beaujolais Nouveau de Les Bertrand, un rouge primeur de gamay commercialisé quelques semaines après les vendanges.",
+    "it": "Beaujolais Nouveau di Les Bertrand, un rosso primeur di Gamay messo in commercio poche settimane dopo la vendemmia."
+  },
+  "body": {
+    "es": "<p>P’tit Bouchon es el Beaujolais Nouveau de Les Bertrand. Los vinos <em>nouveau</em> o <em>primeur</em> se elaboran con <strong>Gamay</strong> mediante fermentaciones cortas, a menudo con maceración de racimos enteros, y la normativa permite ponerlos a la venta a partir del tercer jueves de noviembre del año de la vendimia, una fecha que se celebra en Francia y en muchos otros países.</p><p>La denominación Beaujolais cubre sobre todo la parte meridional de la región, con suelos más arcillosos y calcáreos que los granitos del norte, mientras que la denominación Beaujolais-Villages agrupa una serie de municipios de colinas graníticas situados alrededor de los crus. Ambas dan tintos de <strong>Gamay</strong> ligeros y afrutados, pensados para beberse jóvenes.</p><p>Como el resto de la gama de Les Bertrand, se elabora con una vinificación poco intervencionista y, siguiendo la tradición local, con una parte importante de racimos enteros, para preservar la fruta y la frescura de la variedad. Es un tinto de taninos suaves y acidez viva, que se disfruta sobre todo joven y ligeramente fresco.</p>",
+    "en": "<p>P’tit Bouchon is the Beaujolais Nouveau from Les Bertrand. <em>Nouveau</em> or <em>primeur</em> wines are made from <strong>Gamay</strong> through short fermentations, often with whole-bunch maceration, and the rules allow them to go on sale from the third Thursday of November of the harvest year, a date celebrated in France and in many other countries.</p><p>The Beaujolais appellation mainly covers the southern part of the region, with more clay and limestone soils than the granite of the north, while the Beaujolais-Villages appellation groups a series of communes on granite hills around the crus. Both give light, fruity <strong>Gamay</strong> reds meant for drinking young.</p><p>Like the rest of the Les Bertrand range, it is made with low-intervention winemaking and, following local tradition, a significant share of whole bunches, to preserve the fruit and freshness of the variety. It is a red with soft tannins and lively acidity, best enjoyed young and slightly cool.</p>",
+    "fr": "<p>P’tit Bouchon est le Beaujolais Nouveau de Les Bertrand. Les vins <em>nouveaux</em> ou <em>primeurs</em> sont élaborés à partir de <strong>gamay</strong> par des fermentations courtes, souvent en grappes entières, et la réglementation autorise leur mise en vente à partir du troisième jeudi de novembre de l’année de la récolte, une date fêtée en France et dans de nombreux autres pays.</p><p>L’appellation Beaujolais couvre surtout la partie méridionale de la région, aux sols plus argileux et calcaires que les granites du nord, tandis que l’appellation Beaujolais-Villages regroupe une série de communes aux collines granitiques situées autour des crus. Toutes deux donnent des rouges de <strong>gamay</strong> légers et fruités, destinés à être bus jeunes.</p><p>Comme le reste de la gamme de Les Bertrand, il est élaboré avec une vinification peu interventionniste et, selon la tradition locale, une part importante de grappes entières, afin de préserver le fruit et la fraîcheur du cépage. C’est un rouge aux tanins souples et à l’acidité vive, à apprécier surtout jeune et légèrement rafraîchi.</p>",
+    "it": "<p>P’tit Bouchon è il Beaujolais Nouveau di Les Bertrand. I vini <em>nouveau</em> o <em>primeur</em> si producono con <strong>Gamay</strong> mediante fermentazioni brevi, spesso con macerazione a grappolo intero, e il disciplinare consente di metterli in vendita a partire dal terzo giovedì di novembre dell’anno della vendemmia, una data festeggiata in Francia e in molti altri paesi.</p><p>La denominazione Beaujolais copre soprattutto la parte meridionale della regione, con suoli più argillosi e calcarei rispetto ai graniti del nord, mentre la denominazione Beaujolais-Villages raggruppa una serie di comuni su colline granitiche intorno ai cru. Entrambe danno rossi di <strong>Gamay</strong> leggeri e fruttati, da bere giovani.</p><p>Come il resto della gamma di Les Bertrand, è prodotto con una vinificazione poco interventista e, secondo la tradizione locale, con una quota importante di grappoli interi, per preservare il frutto e la freschezza del vitigno. È un rosso dai tannini morbidi e dall’acidità viva, da gustare soprattutto giovane e leggermente fresco.</p>"
+  },
+  "tasting": {
+    "es": "Rubí brillante. Aromas de fresa, frambuesa y caramelo de frutas. Boca ligera y fresca, muy afrutada.",
+    "en": "Bright ruby. Aromas of strawberry, raspberry and fruit candy. Light, fresh, very fruity palate.",
+    "fr": "Rubis brillant. Arômes de fraise, de framboise et de bonbon fruité. Bouche légère, fraîche et très fruitée.",
+    "it": "Rubino brillante. Aromi di fragola, lampone e caramella alla frutta. Bocca leggera, fresca e molto fruttata."
+  },
+  "pairing": {
+    "es": "Embutidos, terrinas, ensaladas, comidas informales",
+    "en": "Charcuterie, terrines, salads, casual meals",
+    "fr": "Charcuterie, terrines, salades, repas décontractés",
+    "it": "Salumi, terrine, insalate, pasti informali"
+  },
+  "serve": {
+    "es": "12-14 °C, copa de vino tinto mediana",
+    "en": "12-14 °C, medium red wine glass",
+    "fr": "12-14 °C, verre à vin rouge moyen",
+    "it": "12-14 °C, calice medio da vino rosso"
+  },
+  "search": "P’tit Bouchon Beaujolais Nouveau Les Bertrand"
+}

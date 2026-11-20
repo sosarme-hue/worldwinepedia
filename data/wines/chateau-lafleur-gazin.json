@@ -1,0 +1,47 @@
+{
+  "slug": "chateau-lafleur-gazin",
+  "name": "Château Lafleur Gazin",
+  "winery": null,
+  "winery_name": "Jean-Pierre Moueix",
+  "region": "pomerol",
+  "country": "francia",
+  "appellation": "AOC Pomerol",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "merlot",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Tinto de Pomerol de la casa Jean-Pierre Moueix, procedente de una pequeña propiedad situada entre Château Lafleur y Château Gazin.",
+    "en": "A Pomerol red from the house of Jean-Pierre Moueix, from a small estate lying between Château Lafleur and Château Gazin.",
+    "fr": "Rouge de Pomerol de la maison Jean-Pierre Moueix, issu d'une petite propriété située entre Château Lafleur et Château Gazin.",
+    "it": "Rosso di Pomerol della casa Jean-Pierre Moueix, proveniente da una piccola tenuta situata tra Château Lafleur e Château Gazin."
+  },
+  "body": {
+    "es": "<p><strong>Château Lafleur-Gazin</strong> es una pequeña propiedad de <strong>Pomerol</strong> cuyo nombre recuerda su emplazamiento, entre los viñedos de Château Lafleur y Château Gazin, en el sector noreste de la meseta. Está explotada por <strong>Jean-Pierre Moueix</strong>, la casa de Libourne vinculada históricamente a varios de los grandes nombres de la orilla derecha, que se ocupa del cultivo, la elaboración y la comercialización del vino.</p><p>Como es habitual en Pomerol, la <strong>Merlot</strong> es la variedad dominante, completada con una parte de <strong>Cabernet Franc</strong>. Los suelos de gravas y arcillas de esta zona de la denominación aportan a los vinos cuerpo y un tanino firme pero redondo.</p><p>La vendimia es manual y la crianza se realiza en barricas de roble, con una proporción moderada de madera nueva, en la línea clásica de los vinos de la casa. El resultado es un Pomerol de estilo equilibrado, de fruta madura y textura suave, que puede disfrutarse relativamente joven pero que también evoluciona bien durante algunos años en botella.</p>",
+    "en": "<p><strong>Château Lafleur-Gazin</strong> is a small <strong>Pomerol</strong> estate whose name recalls its location, between the vineyards of Château Lafleur and Château Gazin, in the north-eastern sector of the plateau. It is run by <strong>Jean-Pierre Moueix</strong>, the Libourne house historically linked to several of the great names of the Right Bank, which handles the farming, winemaking and sale of the wine.</p><p>As is usual in Pomerol, <strong>Merlot</strong> is the dominant variety, complemented by a share of <strong>Cabernet Franc</strong>. The gravel and clay soils of this part of the appellation give the wines body and a firm but rounded tannin.</p><p>Harvesting is by hand and the wine is aged in oak barrels, with a moderate proportion of new wood, in keeping with the house's classic approach. The result is a balanced Pomerol, with ripe fruit and a smooth texture, which can be enjoyed relatively young but also develops well over several years in bottle.</p>",
+    "fr": "<p><strong>Château Lafleur-Gazin</strong> est une petite propriété de <strong>Pomerol</strong> dont le nom rappelle la situation, entre les vignes de Château Lafleur et de Château Gazin, dans le secteur nord-est du plateau. Elle est exploitée par <strong>Jean-Pierre Moueix</strong>, la maison libournaise historiquement liée à plusieurs grands noms de la rive droite, qui en assure la culture, la vinification et la commercialisation.</p><p>Comme souvent à Pomerol, le <strong>merlot</strong> est le cépage dominant, complété par une part de <strong>cabernet franc</strong>. Les sols de graves et d'argiles de cette partie de l'appellation donnent aux vins du corps et un tanin ferme mais arrondi.</p><p>Les vendanges sont manuelles et l'élevage se fait en barriques de chêne, avec une proportion modérée de bois neuf, dans la ligne classique des vins de la maison. Il en résulte un pomerol équilibré, au fruit mûr et à la texture souple, qui peut s'apprécier assez jeune mais évolue aussi favorablement pendant quelques années en bouteille.</p>",
+    "it": "<p><strong>Château Lafleur-Gazin</strong> è una piccola tenuta di <strong>Pomerol</strong> il cui nome ricorda la posizione, tra i vigneti di Château Lafleur e di Château Gazin, nel settore nord-orientale dell'altopiano. È gestita da <strong>Jean-Pierre Moueix</strong>, la casa di Libourne storicamente legata a diversi grandi nomi della riva destra, che si occupa di coltivazione, vinificazione e commercializzazione del vino.</p><p>Come di consueto a Pomerol, il <strong>Merlot</strong> è il vitigno dominante, completato da una quota di <strong>Cabernet Franc</strong>. I suoli di ghiaie e argille di questa parte della denominazione conferiscono ai vini corpo e un tannino fermo ma rotondo.</p><p>La vendemmia è manuale e l'affinamento avviene in barrique di rovere, con una quota moderata di legno nuovo, secondo lo stile classico della casa. Il risultato è un Pomerol equilibrato, dal frutto maturo e dalla trama morbida, che si può gustare relativamente giovane ma che evolve bene anche per alcuni anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí intenso. Aromas de ciruela, cereza madura, notas de cacao y ligero tostado. Boca redonda y carnosa, con taninos suaves y final agradable.",
+    "en": "Intense ruby red. Aromas of plum, ripe cherry, cocoa notes and light toast. Round, fleshy palate with soft tannins and a pleasant finish.",
+    "fr": "Rouge rubis intense. Arômes de prune, de cerise mûre, notes de cacao et léger toasté. Bouche ronde et charnue, aux tanins souples et à la finale agréable.",
+    "it": "Rosso rubino intenso. Aromi di prugna, ciliegia matura, note di cacao e leggero tostato. Bocca rotonda e polposa, tannini morbidi e finale piacevole."
+  },
+  "pairing": {
+    "es": "Pato, cordero, carnes rojas a la parrilla, setas, quesos de pasta blanda",
+    "en": "Duck, lamb, grilled red meats, mushrooms, soft cheeses",
+    "fr": "Canard, agneau, viandes rouges grillées, champignons, fromages à pâte molle",
+    "it": "Anatra, agnello, carni rosse alla griglia, funghi, formaggi a pasta molle"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia tipo Burdeos",
+    "en": "16-18 °C, large Bordeaux glass",
+    "fr": "16-18 °C, grand verre de type bordeaux",
+    "it": "16-18 °C, calice ampio tipo Bordeaux"
+  },
+  "search": "Château Lafleur Gazin Jean-Pierre Moueix",
+  "source": "decantalo"
+}

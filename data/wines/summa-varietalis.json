@@ -1,0 +1,40 @@
+{
+  "slug": "summa-varietalis",
+  "name": "Summa Varietalis",
+  "winery": null,
+  "winery_name": "Marqués de Griñón",
+  "region": null,
+  "country": "espana",
+  "appellation": "VP Dominio de Valdepusa",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Summa Varietalis es un vino tinto de Marqués de Griñón, con la denominación VP Dominio de Valdepusa, en España.",
+    "en": "Summa Varietalis is a red wine from Marqués de Griñón, made under the VP Dominio de Valdepusa appellation in Spain.",
+    "fr": "Summa Varietalis est un vin rouge de Marqués de Griñón, élaboré sous l’appellation VP Dominio de Valdepusa (Espagne).",
+    "it": "Summa Varietalis è un vino rosso di Marqués de Griñón, prodotto nella denominazione VP Dominio de Valdepusa (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14,5 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 14.5% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14,5 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 14,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Summa Varietalis Marqués de Griñón",
+  "brief": true,
+  "source": "decantalo"
+}

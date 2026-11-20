@@ -1,0 +1,40 @@
+{
+  "slug": "chateau-meyney",
+  "name": "Château Meyney",
+  "winery": null,
+  "winery_name": "Château Meyney",
+  "region": "saint-estephe",
+  "country": "francia",
+  "appellation": "AOC Saint-Estèphe",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Château Meyney es un vino tinto de Château Meyney, con la denominación AOC Saint-Estèphe, en Francia.",
+    "en": "Château Meyney is a red wine from Château Meyney, made under the AOC Saint-Estèphe appellation in France.",
+    "fr": "Château Meyney est un vin rouge de Château Meyney, élaboré sous l’appellation AOC Saint-Estèphe (France).",
+    "it": "Château Meyney è un vino rosso di Château Meyney, prodotto nella denominazione AOC Saint-Estèphe (Francia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13,5 % vol.</p><p>Saint-Estèphe es la más septentrional de las grandes denominaciones comunales del Haut-Médoc. Sus suelos, más arcillosos que los de sus vecinas, dan tintos firmes y frescos, en los que la Merlot tiene a menudo un papel importante.</p>",
+    "en": "<p>It is aged in wood. It has 13.5% ABV.</p><p>Saint-Estèphe is the northernmost of the great communal appellations of the Haut-Médoc. Its soils, richer in clay than those of its neighbours, give firm, fresh reds in which Merlot often plays an important role.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13,5 % vol.</p><p>Saint-Estèphe est la plus septentrionale des grandes appellations communales du Haut-Médoc. Ses sols, plus argileux que ceux de ses voisines, donnent des rouges fermes et frais dans lesquels le merlot joue souvent un rôle important.</p>",
+    "it": "<p>È affinato in legno. Ha 13,5% vol.</p><p>Saint-Estèphe è la più settentrionale delle grandi denominazioni comunali dell'Haut-Médoc. I suoi suoli, più argillosi di quelli delle vicine, danno rossi saldi e freschi in cui il Merlot ha spesso un ruolo importante.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Château Meyney Château Meyney",
+  "brief": true,
+  "source": "decantalo"
+}

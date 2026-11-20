@@ -1,0 +1,50 @@
+{
+  "slug": "san-leonardo",
+  "name": "San Leonardo",
+  "winery": "tenuta-san-leonardo",
+  "region": "trentino-alto-adige",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "IGT Vigneti delle Dolomiti",
+    "en": "IGT Vigneti delle Dolomiti",
+    "fr": "IGT Vigneti delle Dolomiti",
+    "it": "IGT Vigneti delle Dolomiti"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "carmenere",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Tinto emblemático de Tenuta San Leonardo, en el sur del Trentino: un ensamblaje de Cabernet Sauvignon, Carmenère y Merlot de estilo clásico y larga guarda.",
+    "en": "The flagship red of Tenuta San Leonardo in southern Trentino: a classic, long-lived blend of Cabernet Sauvignon, Carmenère and Merlot.",
+    "fr": "Rouge emblématique de la Tenuta San Leonardo, dans le sud du Trentin : un assemblage de cabernet sauvignon, carménère et merlot de style classique et de longue garde.",
+    "it": "Il rosso simbolo della Tenuta San Leonardo, nel sud del Trentino: un taglio di Cabernet Sauvignon, Carmenère e Merlot di stile classico e lungo invecchiamento."
+  },
+  "body": {
+    "es": "<p><strong>San Leonardo</strong> es el vino que ha dado fama a la finca de los marqueses Guerrieri Gonzaga en <strong>Borghetto all'Adige</strong>, en la Vallagarina, en el extremo sur del Trentino. Concebido por Carlo Guerrieri Gonzaga con el consejo de Giacomo Tachis, se ha convertido en una referencia entre los tintos italianos de inspiración bordelesa.</p><p>Ensambla <strong>Cabernet Sauvignon</strong>, que constituye la base, con <strong>Carmenère</strong> y <strong>Merlot</strong>. La Carmenère, presente desde hace mucho tiempo en el Trentino, aporta notas especiadas y herbáceas que contribuyen a la personalidad del vino. El clima alpino templado por el lago de Garda da uvas maduras pero con buena acidez.</p><p>La elaboración es clásica, con fermentación en depósito, crianza larga en barricas y un periodo de reposo en botella antes de la salida al mercado. El resultado es un tinto elegante y fresco, de taninos finos, que evoluciona durante muchos años.</p>",
+    "en": "<p><strong>San Leonardo</strong> is the wine that made the reputation of the Marchesi Guerrieri Gonzaga estate in <strong>Borghetto all'Adige</strong>, in the Vallagarina at the southern tip of Trentino. Conceived by Carlo Guerrieri Gonzaga with advice from Giacomo Tachis, it has become a reference among Italy's Bordeaux-inspired reds.</p><p>It blends <strong>Cabernet Sauvignon</strong>, which forms its base, with <strong>Carmenère</strong> and <strong>Merlot</strong>. Carmenère, long present in Trentino, brings spicy and herbaceous notes that contribute to the wine's personality. The Alpine climate, tempered by Lake Garda, gives ripe grapes with good acidity.</p><p>Winemaking is classic, with fermentation in tank, long ageing in barrels and a period of rest in bottle before release. The result is an elegant, fresh red with fine tannins that develops over many years.</p>",
+    "fr": "<p><strong>San Leonardo</strong> est le vin qui a fait la réputation du domaine des marquis Guerrieri Gonzaga à <strong>Borghetto all'Adige</strong>, dans la Vallagarina, à l'extrémité sud du Trentin. Conçu par Carlo Guerrieri Gonzaga avec les conseils de Giacomo Tachis, il est devenu une référence parmi les rouges italiens d'inspiration bordelaise.</p><p>Il assemble le <strong>cabernet sauvignon</strong>, qui en constitue la base, à la <strong>carménère</strong> et au <strong>merlot</strong>. La carménère, présente depuis longtemps dans le Trentin, apporte des notes épicées et herbacées qui contribuent à la personnalité du vin. Le climat alpin, tempéré par le lac de Garde, donne des raisins mûrs mais dotés d'une bonne acidité.</p><p>La vinification est classique, avec fermentation en cuve, long élevage en barriques et une période de repos en bouteille avant la commercialisation. Il en résulte un rouge élégant et frais, aux tanins fins, qui évolue pendant de nombreuses années.</p>",
+    "it": "<p>Il <strong>San Leonardo</strong> è il vino che ha reso celebre la tenuta dei Marchesi Guerrieri Gonzaga a <strong>Borghetto all'Adige</strong>, in Vallagarina, all'estremità meridionale del Trentino. Concepito da Carlo Guerrieri Gonzaga con la consulenza di Giacomo Tachis, è diventato un riferimento tra i rossi italiani d'ispirazione bordolese.</p><p>Unisce il <strong>Cabernet Sauvignon</strong>, che ne costituisce la base, al <strong>Carmenère</strong> e al <strong>Merlot</strong>. Il Carmenère, presente da lungo tempo in Trentino, apporta note speziate ed erbacee che contribuiscono alla personalità del vino. Il clima alpino, mitigato dal lago di Garda, dà uve mature ma con buona acidità.</p><p>La vinificazione è classica, con fermentazione in vasca, lungo affinamento in barrique e un periodo di riposo in bottiglia prima dell'uscita sul mercato. Il risultato è un rosso elegante e fresco, dai tannini fini, che evolve per molti anni.</p>"
+  },
+  "tasting": {
+    "es": "Rojo granate. Aromas de cassis, pimiento asado, hierbas aromáticas, cedro y especias. Boca elegante y fresca, de taninos finos y final largo.",
+    "en": "Garnet red. Aromas of blackcurrant, roasted pepper, aromatic herbs, cedar and spice. Elegant, fresh palate with fine tannins and a long finish.",
+    "fr": "Rouge grenat. Arômes de cassis, de poivron grillé, d'herbes aromatiques, de cèdre et d'épices. Bouche élégante et fraîche aux tanins fins, finale longue.",
+    "it": "Rosso granato. Aromi di ribes nero, peperone arrostito, erbe aromatiche, cedro e spezie. Bocca elegante e fresca, tannini fini e finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas asadas, caza, risotto con setas, quesos curados",
+    "en": "Roast red meat, game, mushroom risotto, aged cheeses",
+    "fr": "Viandes rouges rôties, gibier, risotto aux champignons, fromages affinés",
+    "it": "Carni rosse arrosto, selvaggina, risotto ai funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de Burdeos; decantar",
+    "en": "16-18 °C, Bordeaux glass; decant",
+    "fr": "16-18 °C, verre à bordeaux ; carafer",
+    "it": "16-18 °C, calice da Bordeaux; decantare"
+  },
+  "search": "San Leonardo Tenuta San Leonardo"
+}

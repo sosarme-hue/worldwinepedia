@@ -1,0 +1,49 @@
+{
+  "slug": "chateau-d-issan",
+  "name": "Château d’Issan",
+  "winery": "chateau-d-issan",
+  "region": "margaux",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "3.er Gran Cru Clasificado 1855",
+    "en": "Third Growth (1855 Classification)",
+    "fr": "3e Grand Cru Classé en 1855",
+    "it": "3° Grand Cru Classé 1855"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Gran vino de Château d’Issan, tercer cru clasificado de Margaux, un tinto elegante de Cabernet Sauvignon y Merlot.",
+    "en": "Grand vin of Château d’Issan, a Margaux third growth, an elegant red from Cabernet Sauvignon and Merlot.",
+    "fr": "Grand vin du Château d’Issan, troisième cru classé de Margaux, un rouge élégant de cabernet sauvignon et de merlot.",
+    "it": "Grand vin di Château d’Issan, terzo cru classé di Margaux, un rosso elegante di Cabernet Sauvignon e Merlot."
+  },
+  "body": {
+    "es": "<p>El gran vino de <strong>Château d’Issan</strong> procede del viñedo amurallado que rodea el castillo, en <strong>Cantenac</strong>, dentro de la denominación <strong>Margaux</strong>. Las gravas de esta terraza próxima a la Gironda, de buen drenaje, se adaptan especialmente al Cabernet Sauvignon.</p><p>El ensamblaje se basa en el <strong>Cabernet Sauvignon</strong>, mayoritario, completado con <strong>Merlot</strong>, en proporciones que varían según la añada. Las parcelas se vendimian a mano y se vinifican por separado, y el vino se cría en barricas de roble francés, una parte de ellas nuevas, antes del ensamblaje y el embotellado.</p><p>Es un tinto representativo del estilo de Margaux: aromático, con notas de fruta negra, violeta y especias, cuerpo medio a amplio y taninos finos y sedosos. Se muestra armonioso desde joven, pero gana complejidad con varios años de guarda, y las buenas añadas pueden conservarse durante mucho tiempo.</p>",
+    "en": "<p>The grand vin of <strong>Château d’Issan</strong> comes from the walled vineyard surrounding the château, in <strong>Cantenac</strong>, within the <strong>Margaux</strong> appellation. The well-drained gravels of this terrace close to the Gironde are particularly suited to Cabernet Sauvignon.</p><p>The blend is based on <strong>Cabernet Sauvignon</strong>, the majority variety, completed with <strong>Merlot</strong>, in proportions that vary with the vintage. The plots are picked by hand and vinified separately, and the wine is aged in French oak barrels, part of them new, before blending and bottling.</p><p>It is a red that is representative of the Margaux style: aromatic, with notes of black fruit, violet and spice, medium to full body and fine, silky tannins. It is harmonious from a young age but gains complexity with several years of cellaring, and good vintages can keep for a long time.</p>",
+    "fr": "<p>Le grand vin du <strong>Château d’Issan</strong> provient du vignoble clos de murs qui entoure le château, à <strong>Cantenac</strong>, dans l’appellation <strong>Margaux</strong>. Les graves bien drainées de cette terrasse proche de la Gironde conviennent particulièrement au cabernet sauvignon.</p><p>L’assemblage repose sur le <strong>cabernet sauvignon</strong>, majoritaire, complété par le <strong>merlot</strong>, dans des proportions variables selon le millésime. Les parcelles sont vendangées à la main et vinifiées séparément, et le vin est élevé en barriques de chêne français, dont une partie neuves, avant l’assemblage et la mise en bouteille.</p><p>C’est un rouge représentatif du style margalais : aromatique, aux notes de fruits noirs, de violette et d’épices, de corps moyen à ample, aux tanins fins et soyeux. Il se montre harmonieux dès sa jeunesse, mais gagne en complexité après plusieurs années de garde, et les bons millésimes peuvent se conserver longtemps.</p>",
+    "it": "<p>Il grand vin di <strong>Château d’Issan</strong> proviene dal vigneto cinto da mura che circonda il castello, a <strong>Cantenac</strong>, nella denominazione <strong>Margaux</strong>. Le ghiaie ben drenate di questa terrazza vicina alla Gironda si adattano particolarmente al Cabernet Sauvignon.</p><p>L’assemblaggio si basa sul <strong>Cabernet Sauvignon</strong>, maggioritario, completato dal <strong>Merlot</strong>, in proporzioni che variano a seconda dell’annata. Le parcelle sono vendemmiate a mano e vinificate separatamente, e il vino affina in barrique di rovere francese, in parte nuove, prima dell’assemblaggio e dell’imbottigliamento.</p><p>È un rosso rappresentativo dello stile di Margaux: aromatico, con note di frutti neri, violetta e spezie, corpo medio-pieno e tannini fini e setosi. È armonioso già da giovane, ma guadagna complessità con diversi anni di affinamento, e le buone annate possono conservarsi a lungo.</p>"
+  },
+  "tasting": {
+    "es": "Rubí oscuro. Aromas de casis, cereza negra, violeta y notas especiadas. Boca elegante y sedosa, de taninos finos y final persistente.",
+    "en": "Dark ruby. Aromas of blackcurrant, black cherry, violet and spicy notes. Elegant, silky palate with fine tannins and a persistent finish.",
+    "fr": "Rubis sombre. Arômes de cassis, de cerise noire, de violette et notes épicées. Bouche élégante et soyeuse, aux tanins fins et finale persistante.",
+    "it": "Rubino scuro. Aromi di ribes nero, ciliegia nera, violetta e note speziate. Bocca elegante e setosa, dai tannini fini e finale persistente."
+  },
+  "pairing": {
+    "es": "Cordero asado, entrecot a la parrilla, caza menor, quesos curados",
+    "en": "Roast lamb, grilled rib-eye, small game, aged cheeses",
+    "fr": "Agneau rôti, entrecôte grillée, petit gibier, fromages affinés",
+    "it": "Agnello arrosto, costata alla griglia, selvaggina minuta, formaggi stagionati"
+  },
+  "serve": {
+    "es": "17-18 °C, copa de Burdeos; decantar en añadas jóvenes",
+    "en": "17-18 °C, Bordeaux glass; decant when young",
+    "fr": "17-18 °C, verre de type bordelais ; carafer dans les millésimes jeunes",
+    "it": "17-18 °C, calice tipo Bordeaux; decantare nelle annate giovani"
+  },
+  "search": "Château d’Issan Margaux"
+}

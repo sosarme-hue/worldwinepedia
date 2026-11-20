@@ -1,0 +1,41 @@
+{
+  "slug": "castillo-ygay-gran-reserva-especial",
+  "name": "Castillo Ygay Gran Reserva Especial",
+  "winery": "marques-de-murrieta",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {"es": "Gran Reserva", "en": "Gran Reserva", "fr": "Gran Reserva", "it": "Gran Reserva"},
+  "grapes": ["tempranillo", "carinena"],
+  "summary": {
+    "es": "El vino más emblemático de Marqués de Murrieta, un gran reserva de Tempranillo y Mazuelo elaborado sólo en añadas excepcionales.",
+    "en": "Marqués de Murrieta’s most emblematic wine, a Tempranillo and Mazuelo gran reserva made only in exceptional vintages.",
+    "fr": "Le vin le plus emblématique de Marqués de Murrieta, un gran reserva de tempranillo et mazuelo élaboré seulement dans les millésimes exceptionnels.",
+    "it": "Il vino più emblematico di Marqués de Murrieta, un gran reserva di Tempranillo e Mazuelo prodotto solo nelle annate eccezionali."
+  },
+  "body": {
+    "es": "<p>Castillo Ygay es la etiqueta de mayor rango de Marqués de Murrieta y toma su nombre del castillo que preside la finca Ygay. Se elabora sólo en las añadas que la bodega considera excepcionales, con Tempranillo y una proporción de Mazuelo (Cariñena) procedentes de parcelas seleccionadas de la finca.</p><p>El vino se somete a una crianza muy prolongada en barricas de roble, seguida de un largo reposo en botella, de modo que sale al mercado bastantes años después de la vendimia. Este largo proceso responde a la tradición de los grandes reservas riojanos de guarda.</p><p>Es un tinto pensado para envejecer, que combina la complejidad aromática de la crianza larga con una estructura y una acidez que le permiten evolucionar durante décadas en buenas condiciones de conservación. La bodega elabora también, en determinadas añadas, un Castillo Ygay blanco.</p>",
+    "en": "<p>Castillo Ygay is Marqués de Murrieta’s top label and takes its name from the castle that presides over the Ygay estate. It is made only in vintages the winery considers exceptional, from Tempranillo and a proportion of Mazuelo (Carignan) from selected plots on the estate.</p><p>The wine undergoes very long ageing in oak barrels, followed by an extended rest in bottle, so it is released quite a few years after the harvest. This lengthy process follows the tradition of Rioja’s great age-worthy gran reservas.</p><p>It is a red built to age, combining the aromatic complexity of long ageing with structure and acidity that allow it to evolve for decades under good storage conditions. In certain vintages the winery also makes a white Castillo Ygay.</p>",
+    "fr": "<p>Castillo Ygay est l’étiquette la plus prestigieuse de Marqués de Murrieta et tire son nom du château qui domine le domaine d’Ygay. Il n’est élaboré que dans les millésimes que la maison juge exceptionnels, avec du tempranillo et une proportion de mazuelo (carignan) issus de parcelles sélectionnées du domaine.</p><p>Le vin bénéficie d’un élevage très prolongé en barriques de chêne, suivi d’un long repos en bouteille, si bien qu’il est commercialisé de nombreuses années après les vendanges. Ce long processus s’inscrit dans la tradition des grands gran reservas de garde de la Rioja.</p><p>C’est un rouge fait pour vieillir, qui associe la complexité aromatique d’un long élevage à une structure et une acidité lui permettant d’évoluer pendant des décennies dans de bonnes conditions de conservation. Certains millésimes, la maison élabore aussi un Castillo Ygay blanc.</p>",
+    "it": "<p>Castillo Ygay è l’etichetta di punta di Marqués de Murrieta e prende il nome dal castello che domina la tenuta Ygay. Viene prodotto solo nelle annate che la cantina considera eccezionali, con Tempranillo e una quota di Mazuelo (Carignano) da parcelle selezionate della tenuta.</p><p>Il vino è sottoposto a un affinamento molto prolungato in botti di rovere, seguito da un lungo riposo in bottiglia, così che esce sul mercato parecchi anni dopo la vendemmia. Questo lungo processo segue la tradizione dei grandi gran reserva riojani da invecchiamento.</p><p>È un rosso pensato per invecchiare, che unisce la complessità aromatica del lungo affinamento a una struttura e un’acidità che gli consentono di evolvere per decenni in buone condizioni di conservazione. In determinate annate la cantina produce anche un Castillo Ygay bianco.</p>"
+  },
+  "tasting": {
+    "es": "Granate con ribete teja. Nariz compleja de fruta madura y confitada, especias, tabaco, cuero, notas balsámicas y de madera noble. En boca es fino y profundo, con tanino pulido, acidez viva y final muy largo.",
+    "en": "Garnet with a brick rim. A complex nose of ripe and candied fruit, spice, tobacco, leather, balsamic notes and fine wood. Fine and deep on the palate, with polished tannins, lively acidity and a very long finish.",
+    "fr": "Grenat aux reflets tuilés. Nez complexe de fruits mûrs et confits, d’épices, de tabac, de cuir, de notes balsamiques et de bois noble. En bouche, fin et profond, aux tanins polis, à l’acidité vive et à la finale très longue.",
+    "it": "Granato con unghia aranciata. Naso complesso di frutta matura e candita, spezie, tabacco, cuoio, note balsamiche e di legno nobile. In bocca è fine e profondo, con tannino levigato, acidità vivace e finale molto lungo."
+  },
+  "pairing": {
+    "es": "Asados de caza, cordero, platos con trufa o setas, quesos de larga curación",
+    "en": "Roast game, lamb, dishes with truffle or mushrooms, long-aged cheeses",
+    "fr": "Gibier rôti, agneau, plats à la truffe ou aux champignons, fromages longuement affinés",
+    "it": "Selvaggina arrosto, agnello, piatti al tartufo o ai funghi, formaggi a lunga stagionatura"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia; decantar si tiene sedimento",
+    "en": "16-18 °C, large glass; decant if there is sediment",
+    "fr": "16-18 °C, verre ample ; carafer en cas de dépôt",
+    "it": "16-18 °C, calice ampio; decantare in presenza di sedimento"
+  },
+  "search": "Castillo Ygay Gran Reserva Especial Marqués de Murrieta"
+}

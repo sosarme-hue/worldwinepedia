@@ -1,0 +1,40 @@
+{
+  "slug": "soalheiro-granit",
+  "name": "Soalheiro Granit",
+  "winery": "soalheiro",
+  "winery_name": null,
+  "region": "vinho-verde",
+  "country": "portugal",
+  "appellation": "Vinho Verde",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Soalheiro Granit es un vino blanco de Soalheiro, con la denominación Vinho Verde, en Portugal.",
+    "en": "Soalheiro Granit is a white wine from Soalheiro, made under the Vinho Verde appellation in Portugal.",
+    "fr": "Soalheiro Granit est un vin blanc de Soalheiro, élaboré sous l’appellation Vinho Verde (Portugal).",
+    "it": "Soalheiro Granit è un vino bianco di Soalheiro, prodotto nella denominazione Vinho Verde (Portogallo)."
+  },
+  "body": {
+    "es": "<p>Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 12,5 % vol.</p><p>Bodega familiar de Melgaço, en la subregión de Monção e Melgaço, pionera en la elaboración de Alvarinho embotellado en la zona y referencia de esta variedad en Portugal.</p><p>La región del Vinho Verde ocupa el verde y lluvioso noroeste de Portugal, en el Minho. Es conocida por sus blancos ligeros, frescos y aromáticos, y por los Alvarinho de Monção e Melgaço.</p>",
+    "en": "<p>It is a young wine, meant to be drunk in its first years. It has 12.5% ABV.</p><p>Family winery in Melgaço, in the Monção e Melgaço subregion, a pioneer of bottled Alvarinho in the area and a benchmark for the variety in Portugal.</p><p>The Vinho Verde region occupies the green, rainy north-west of Portugal, in the Minho. It is known for its light, fresh, aromatic whites and for the Alvarinhos of Monção e Melgaço.</p>",
+    "fr": "<p>C’est un vin jeune, à boire dans ses premières années. Il titre 12,5 % vol.</p><p>Domaine familial de Melgaço, dans la sous-région de Monção e Melgaço, pionnier de l’alvarinho mis en bouteille dans la zone et référence pour ce cépage au Portugal.</p><p>La région du Vinho Verde occupe le nord-ouest vert et pluvieux du Portugal, dans le Minho. Elle est connue pour ses blancs légers, frais et aromatiques, et pour les alvarinhos de Monção e Melgaço.</p>",
+    "it": "<p>È un vino giovane, da bere nei primi anni. Ha 12,5% vol.</p><p>Cantina di famiglia di Melgaço, nella sottoregione di Monção e Melgaço, pioniera dell’Alvarinho imbottigliato nella zona e punto di riferimento per questo vitigno in Portogallo.</p><p>La regione del Vinho Verde occupa il nord-ovest verde e piovoso del Portogallo, nel Minho. È nota per i bianchi leggeri, freschi e aromatici e per gli Alvarinho di Monção e Melgaço.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Soalheiro Granit Quinta de Soalheiro",
+  "brief": true,
+  "source": "decantalo"
+}

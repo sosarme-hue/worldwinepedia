@@ -1,0 +1,42 @@
+{
+  "slug": "dry-river-pinot-noir",
+  "name": "Dry River Pinot Noir",
+  "winery": null,
+  "winery_name": "Dry River",
+  "region": "martinborough",
+  "country": "nueva-zelanda",
+  "appellation": "Martinborough",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Dry River Pinot Noir es un vino tinto de Dry River, con la denominación Martinborough, en Nueva Zelanda.",
+    "en": "Dry River Pinot Noir is a red wine from Dry River, made under the Martinborough appellation in New Zealand.",
+    "fr": "Dry River Pinot Noir est un vin rouge de Dry River, élaboré sous l’appellation Martinborough (Nouvelle-Zélande).",
+    "it": "Dry River Pinot Noir è un vino rosso di Dry River, prodotto nella denominazione Martinborough (Nuova Zelanda)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Pinot Noir. Tiene crianza en madera. Su graduación es de 12,5 % vol.</p><p>Martinborough, en el sur de la región de Wairarapa, en la Isla Norte, es una pequeña zona vitícola que fue pionera del Pinot Noir de calidad en Nueva Zelanda.</p>",
+    "en": "<p>It is made from Pinot Noir. It is aged in wood. It has 12.5% ABV.</p><p>Martinborough, in the south of the Wairarapa region on the North Island, is a small wine area that pioneered quality Pinot Noir in New Zealand.</p>",
+    "fr": "<p>Il est élaboré à partir de Pinot Noir. Il est élevé en bois. Il titre 12,5 % vol.</p><p>Martinborough, dans le sud de la région de Wairarapa, sur l’île du Nord, est une petite zone viticole qui a été pionnière du pinot noir de qualité en Nouvelle-Zélande.</p>",
+    "it": "<p>È prodotto con Pinot Nero. È affinato in legno. Ha 12,5% vol.</p><p>Martinborough, nel sud della regione di Wairarapa, sull’Isola del Nord, è una piccola zona vitivinicola che è stata pioniera del Pinot Nero di qualità in Nuova Zelanda.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Dry River Pinot Noir Dry River",
+  "brief": true,
+  "source": "decantalo"
+}

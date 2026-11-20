@@ -1,0 +1,44 @@
+{
+  "slug": "garzon-balasto",
+  "name": "Balasto",
+  "winery": "bodega-garzon",
+  "region": "maldonado",
+  "country": "uruguay",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tannat",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Tinto de ensamblaje con base de Tannat, el vino de mayor ambición de Bodega Garzón, cuyo nombre alude al suelo de granito descompuesto de sus viñedos.",
+    "en": "Tannat-based red blend, Bodega Garzón’s most ambitious wine, whose name refers to the decomposed granite soil of its vineyards.",
+    "fr": "Rouge d’assemblage à base de tannat, le vin le plus ambitieux de Bodega Garzón, dont le nom évoque le sol de granite décomposé de ses vignes.",
+    "it": "Rosso da uvaggio a base di Tannat, il vino di maggiore ambizione di Bodega Garzón, il cui nome richiama il suolo di granito decomposto dei suoi vigneti."
+  },
+  "body": {
+    "es": "<p>En Uruguay se llama <em>balasto</em> a la mezcla de granito descompuesto y fragmentos de roca que forma el subsuelo de muchas laderas de Maldonado, y Bodega Garzón eligió esta palabra para dar nombre a su vino de mayor prestigio. Balasto es un ensamblaje en el que la Tannat es la variedad principal, acompañada de otras como la Cabernet Franc, en proporciones que cambian según la añada.</p><p>Las uvas proceden de parcelas seleccionadas de los viñedos de la bodega, en colinas próximas al océano Atlántico, donde los suelos pobres y bien drenados limitan el vigor de las cepas y las brisas marinas moderan las temperaturas. Cada parcela se vinifica por separado y el vino se cría en madera antes del ensamblaje y el embotellado. El resultado es un tinto que combina la estructura tánica propia de la Tannat con la frescura del clima marítimo de Maldonado, pensado para evolucionar durante años en botella.</p>",
+    "en": "<p>In Uruguay the mixture of decomposed granite and rock fragments that forms the subsoil of many Maldonado slopes is called <em>balasto</em>, and Bodega Garzón chose this word to name its most prestigious wine. Balasto is a blend in which Tannat is the main variety, accompanied by others such as Cabernet Franc, in proportions that change with the vintage.</p><p>The grapes come from selected plots in the winery’s vineyards, on hills close to the Atlantic Ocean, where poor, well-drained soils limit vine vigour and sea breezes moderate temperatures. Each plot is vinified separately and the wine is aged in wood before blending and bottling. The result is a red that combines the tannic structure typical of Tannat with the freshness of Maldonado’s maritime climate, designed to develop over years in bottle.</p>",
+    "fr": "<p>En Uruguay, on appelle <em>balasto</em> le mélange de granite décomposé et de fragments de roche qui forme le sous-sol de nombreuses pentes de Maldonado, et Bodega Garzón a choisi ce mot pour nommer son vin le plus prestigieux. Balasto est un assemblage dont le tannat est le cépage principal, accompagné d’autres comme le cabernet franc, dans des proportions qui varient selon le millésime.</p><p>Les raisins proviennent de parcelles sélectionnées des vignes du domaine, sur des collines proches de l’océan Atlantique, où les sols pauvres et bien drainés limitent la vigueur des ceps et où les brises marines tempèrent les températures. Chaque parcelle est vinifiée séparément et le vin est élevé sous bois avant l’assemblage et la mise en bouteille. Le résultat est un rouge qui associe la structure tannique propre au tannat à la fraîcheur du climat maritime de Maldonado, conçu pour évoluer pendant des années en bouteille.</p>",
+    "it": "<p>In Uruguay si chiama <em>balasto</em> la miscela di granito decomposto e frammenti di roccia che forma il sottosuolo di molti pendii di Maldonado, e Bodega Garzón ha scelto questa parola per dare il nome al suo vino più prestigioso. Balasto è un uvaggio in cui il Tannat è la varietà principale, accompagnata da altre come il Cabernet Franc, in proporzioni che cambiano secondo l’annata.</p><p>Le uve provengono da parcelle selezionate dei vigneti della cantina, su colline vicine all’oceano Atlantico, dove i suoli poveri e ben drenati limitano il vigore delle viti e le brezze marine mitigano le temperature. Ogni parcella è vinificata separatamente e il vino affina in legno prima dell’assemblaggio e dell’imbottigliamento. Il risultato è un rosso che unisce la struttura tannica tipica del Tannat alla freschezza del clima marittimo di Maldonado, pensato per evolvere per anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rojo violáceo muy profundo. Aromas de mora, ciruela y cereza negra, con notas de especias, grafito y madera fina. Boca firme y tensa, de taninos abundantes y finos y final largo.",
+    "en": "Very deep purplish red. Aromas of blackberry, plum and black cherry, with notes of spice, graphite and fine oak. Firm and taut on the palate, with abundant, fine tannins and a long finish.",
+    "fr": "Rouge violacé très profond. Arômes de mûre, de prune et de cerise noire, avec des notes d’épices, de graphite et de bois fin. Bouche ferme et tendue, aux tanins abondants et fins, avec une finale longue.",
+    "it": "Rosso violaceo molto profondo. Profumi di mora, prugna e ciliegia nera, con note di spezie, grafite e legno fine. Bocca decisa e tesa, dai tannini abbondanti e fini e dal finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, cordero, caza, quesos curados",
+    "en": "Grilled red meat, lamb, game, aged cheeses",
+    "fr": "Viandes rouges à la braise, agneau, gibier, fromages affinés",
+    "it": "Carni rosse alla brace, agnello, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Balasto Bodega Garzón"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "cune-roble-ribera-del-duero",
+  "name": "Cune Roble Ribera del Duero",
+  "winery": "cvne",
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Roble",
+    "en": "Roble (oak-aged)",
+    "fr": "Roble (élevé en fût)",
+    "it": "Roble (affinato in rovere)"
+  },
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Tinto joven con un breve paso por barrica que CVNE elabora en la Ribera del Duero bajo su marca Cune.",
+    "en": "Young red with a short spell in barrel, made by CVNE in Ribera del Duero under its Cune brand.",
+    "fr": "Rouge jeune passé brièvement en barrique, élaboré par CVNE en Ribera del Duero sous sa marque Cune.",
+    "it": "Rosso giovane con un breve passaggio in barrique, prodotto da CVNE in Ribera del Duero con il marchio Cune."
+  },
+  "body": {
+    "es": "<p>Con este vino, CVNE, bodega riojana fundada en Haro en el siglo XIX, lleva su conocida marca Cune a la Ribera del Duero, la denominación castellana situada a orillas del Duero. Se trata de un tinto de tipo <em>roble</em>, una mención habitual en la zona para vinos jóvenes que han pasado unos meses en barrica de roble, menos tiempo del exigido para un crianza.</p><p>La Ribera del Duero se basa en el <strong>Tempranillo</strong>, llamado localmente Tinto Fino o Tinta del País. El clima continental extremo, con inviernos fríos, veranos secos y fuertes diferencias de temperatura entre el día y la noche, da uvas de color intenso y buena acidez, y vinos de fruta concentrada.</p><p>El breve paso por madera aporta notas tostadas y redondea el vino sin ocultar la fruta. Es un tinto para beber en sus primeros años, fácil de combinar con la mesa.</p>",
+    "en": "<p>With this wine, CVNE, a Rioja winery founded in Haro in the 19th century, takes its well-known Cune brand to Ribera del Duero, the Castilian appellation on the banks of the Duero. It is a <em>roble</em>-style red, a common term in the area for young wines that have spent a few months in oak barrels, less time than required for a crianza.</p><p>Ribera del Duero is based on <strong>Tempranillo</strong>, known locally as Tinto Fino or Tinta del País. The extreme continental climate, with cold winters, dry summers and large differences between day and night temperatures, gives deeply coloured grapes with good acidity and wines of concentrated fruit.</p><p>The short time in wood adds toasty notes and rounds out the wine without hiding the fruit. It is a red to drink in its first few years, easy to pair with food.</p>",
+    "fr": "<p>Avec ce vin, CVNE, bodega de la Rioja fondée à Haro au XIXe siècle, porte sa célèbre marque Cune en Ribera del Duero, l'appellation castillane des rives du Douro. Il s'agit d'un rouge de type <em>roble</em>, mention courante dans la région pour les vins jeunes passés quelques mois en barrique de chêne, moins longtemps que ce qu'exige un crianza.</p><p>La Ribera del Duero repose sur le <strong>tempranillo</strong>, appelé localement Tinto Fino ou Tinta del País. Le climat continental extrême, aux hivers froids, aux étés secs et aux forts écarts de température entre le jour et la nuit, donne des raisins très colorés et d'une bonne acidité, et des vins au fruit concentré.</p><p>Le court passage sous bois apporte des notes toastées et arrondit le vin sans masquer le fruit. C'est un rouge à boire dans ses premières années, facile à marier à table.</p>",
+    "it": "<p>Con questo vino CVNE, cantina della Rioja fondata a Haro nell'Ottocento, porta il suo noto marchio Cune in Ribera del Duero, la denominazione castigliana sulle rive del Duero. Si tratta di un rosso di tipo <em>roble</em>, menzione comune nella zona per i vini giovani che hanno trascorso alcuni mesi in barrique di rovere, meno di quanto richiesto per un crianza.</p><p>La Ribera del Duero si basa sul <strong>Tempranillo</strong>, chiamato localmente Tinto Fino o Tinta del País. Il clima continentale estremo, con inverni freddi, estati secche e forti escursioni termiche tra giorno e notte, dà uve di colore intenso e buona acidità, e vini dal frutto concentrato.</p><p>Il breve passaggio in legno aggiunge note tostate e arrotonda il vino senza coprire il frutto. È un rosso da bere nei primi anni, facile da abbinare a tavola.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota con ribete violáceo. Aromas de frutos negros, regaliz y ligeros tostados. Boca afrutada y sabrosa, de taninos suaves.",
+    "en": "Cherry red with a violet rim. Aromas of black fruit, liquorice and light toast. Fruity, flavourful palate with soft tannins.",
+    "fr": "Rouge cerise aux reflets violacés. Arômes de fruits noirs, de réglisse et de léger toasté. Bouche fruitée et savoureuse, aux tanins souples.",
+    "it": "Rosso ciliegia con riflessi violacei. Aromi di frutti neri, liquirizia e leggere tostature. Bocca fruttata e saporita, dai tannini morbidi."
+  },
+  "pairing": {
+    "es": "Carnes a la brasa, hamburguesas, embutidos, quesos semicurados",
+    "en": "Grilled meats, burgers, charcuterie, semi-cured cheeses",
+    "fr": "Viandes grillées, hamburgers, charcuterie, fromages mi-affinés",
+    "it": "Carni alla brace, hamburger, salumi, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "14-16 °C, copa de tinto",
+    "en": "14-16 °C, red wine glass",
+    "fr": "14-16 °C, verre à vin rouge",
+    "it": "14-16 °C, calice da rosso"
+  },
+  "search": "Cune Roble Ribera del Duero CVNE"
+}

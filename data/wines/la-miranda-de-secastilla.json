@@ -1,0 +1,40 @@
+{
+  "slug": "la-miranda-de-secastilla",
+  "name": "La Miranda de Secastilla",
+  "winery": "vinas-del-vero",
+  "winery_name": null,
+  "region": "somontano",
+  "country": "espana",
+  "appellation": "DO Somontano",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "La Miranda de Secastilla es un vino tinto de Viñas del Vero, con la denominación DO Somontano, en España.",
+    "en": "La Miranda de Secastilla is a red wine from Viñas del Vero, made under the DO Somontano appellation in Spain.",
+    "fr": "La Miranda de Secastilla est un vin rouge de Viñas del Vero, élaboré sous l’appellation DO Somontano (Espagne).",
+    "it": "La Miranda de Secastilla è un vino rosso di Viñas del Vero, prodotto nella denominazione DO Somontano (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14 % vol.</p><p>Una de las bodegas fundadoras del Somontano moderno, con sede cerca de Barbastro; pertenece a González Byass y elabora vinos como Secastilla y Blecua.</p><p>Somontano es una denominación de origen de la provincia de Huesca, al pie de los Pirineos, con Barbastro como centro. Combina variedades autóctonas como Moristel y Parraleta con un amplio abanico de uvas internacionales.</p>",
+    "en": "<p>It is aged in wood. It has 14% ABV.</p><p>One of the founding wineries of modern Somontano, based near Barbastro; it belongs to González Byass and makes wines such as Secastilla and Blecua.</p><p>Somontano is a designation of origin in the province of Huesca, at the foot of the Pyrenees, centred on Barbastro. It combines native varieties such as Moristel and Parraleta with a wide range of international grapes.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14 % vol.</p><p>L'un des domaines fondateurs du Somontano moderne, installé près de Barbastro ; il appartient à González Byass et élabore des vins comme Secastilla et Blecua.</p><p>Le Somontano est une dénomination d'origine de la province de Huesca, au pied des Pyrénées, centrée sur Barbastro. Il associe des cépages autochtones comme le moristel et la parraleta à une large palette de cépages internationaux.</p>",
+    "it": "<p>È affinato in legno. Ha 14% vol.</p><p>Una delle cantine fondatrici del Somontano moderno, con sede vicino a Barbastro; appartiene a González Byass e produce vini come Secastilla e Blecua.</p><p>Somontano è una denominazione di origine della provincia di Huesca, ai piedi dei Pirenei, con Barbastro come centro. Unisce vitigni autoctoni come Moristel e Parraleta a un'ampia gamma di uve internazionali.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "La Miranda de Secastilla Viñas del Vero",
+  "brief": true,
+  "source": "decantalo"
+}

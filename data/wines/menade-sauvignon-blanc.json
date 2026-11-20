@@ -1,0 +1,42 @@
+{
+  "slug": "menade-sauvignon-blanc",
+  "name": "Menade Sauvignon Blanc",
+  "winery": null,
+  "winery_name": "Menade",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Castilla y León",
+  "type": "espumoso",
+  "category": null,
+  "grapes": [
+    "sauvignon-blanc"
+  ],
+  "summary": {
+    "es": "Menade Sauvignon Blanc es un vino espumoso de Menade, con la denominación VT Castilla y León, en España.",
+    "en": "Menade Sauvignon Blanc is a sparkling wine from Menade, made under the VT Castilla y León appellation in Spain.",
+    "fr": "Menade Sauvignon Blanc est un vin effervescent de Menade, élaboré sous l’appellation VT Castilla y León (Espagne).",
+    "it": "Menade Sauvignon Blanc è un vino spumante di Menade, prodotto nella denominazione VT Castilla y León (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Sauvignon Blanc. Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 14 % vol.</p>",
+    "en": "<p>It is made from Sauvignon Blanc. It is a young wine, meant to be drunk in its first years. It has 14% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Sauvignon Blanc. C’est un vin jeune, à boire dans ses premières années. Il titre 14 % vol.</p>",
+    "it": "<p>È prodotto con Sauvignon Blanc. È un vino giovane, da bere nei primi anni. Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Menade Sauvignon Blanc Menade",
+  "brief": true,
+  "source": "decantalo"
+}

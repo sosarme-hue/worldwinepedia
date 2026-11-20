@@ -1,0 +1,49 @@
+{
+  "slug": "chateau-rauzan-segla",
+  "name": "Château Rauzan-Ségla",
+  "winery": "chateau-rauzan-segla",
+  "region": "margaux",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "2.º Gran Cru Clasificado 1855",
+    "en": "Second Growth (1855 Classification)",
+    "fr": "Second Grand Cru Classé en 1855",
+    "it": "Secondo Grand Cru Classé 1855"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Grand vin de Château Rauzan-Ségla, segundo gran cru clasificado de Margaux, un tinto elegante basado en Cabernet Sauvignon.",
+    "en": "Grand vin of Château Rauzan-Ségla, a Margaux second growth: an elegant red based on Cabernet Sauvignon.",
+    "fr": "Grand vin du Château Rauzan-Ségla, deuxième grand cru classé de Margaux : un rouge élégant à base de cabernet sauvignon.",
+    "it": "Grand vin di Château Rauzan-Ségla, secondo grand cru classé di Margaux: un rosso elegante a base di Cabernet Sauvignon."
+  },
+  "body": {
+    "es": "<p>Château Rauzan-Ségla es el gran vino de la propiedad homónima, clasificada como segundo gran cru en 1855 y una de las fincas históricas de Margaux. Desde 1994 pertenece a la familia Wertheimer, que ha renovado en profundidad su viñedo y su bodega.</p><p>Las viñas crecen sobre las gravas profundas de la denominación, bien drenadas y pobres, que favorecen la maduración de la <strong>Cabernet Sauvignon</strong>, la variedad mayoritaria del ensamblaje. La completa la <strong>Merlot</strong>, que aporta redondez y fruta, con pequeñas proporciones de Petit Verdot y Cabernet Franc según la añada. La crianza se realiza en barrica de roble francés.</p><p>Es un tinto que expresa la finura característica de Margaux: fruta negra precisa, notas florales de violeta, cedro y especias, y taninos sedosos sobre una estructura firme. Mejora durante muchos años en botella y conviene esperar antes de abrirlo.</p>",
+    "en": "<p>Château Rauzan-Ségla is the grand vin of the estate of the same name, classified as a second growth in 1855 and one of the historic properties of Margaux. Since 1994 it has belonged to the Wertheimer family, who have thoroughly renovated its vineyard and winery.</p><p>The vines grow on the appellation's deep, well-drained, poor gravels, which favour the ripening of <strong>Cabernet Sauvignon</strong>, the majority variety in the blend. It is completed by <strong>Merlot</strong>, which brings roundness and fruit, with small proportions of Petit Verdot and Cabernet Franc depending on the vintage. Ageing takes place in French oak barrels.</p><p>It is a red that expresses the finesse characteristic of Margaux: precise black fruit, floral notes of violet, cedar and spice, and silky tannins over a firm structure. It improves for many years in bottle, and it is worth waiting before opening it.</p>",
+    "fr": "<p>Le Château Rauzan-Ségla est le grand vin de la propriété du même nom, classée deuxième grand cru en 1855 et l'un des domaines historiques de Margaux. Depuis 1994, il appartient à la famille Wertheimer, qui a profondément rénové son vignoble et son chai.</p><p>Les vignes poussent sur les graves profondes de l'appellation, bien drainées et pauvres, qui favorisent la maturité du <strong>cabernet sauvignon</strong>, cépage majoritaire de l'assemblage. Il est complété par le <strong>merlot</strong>, qui apporte rondeur et fruit, et par de petites proportions de petit verdot et de cabernet franc selon les millésimes. L'élevage se fait en barriques de chêne français.</p><p>C'est un rouge qui exprime la finesse caractéristique de Margaux : fruits noirs précis, notes florales de violette, cèdre et épices, et tanins soyeux sur une structure ferme. Il s'améliore pendant de nombreuses années en bouteille, et il vaut la peine d'attendre avant de l'ouvrir.</p>",
+    "it": "<p>Château Rauzan-Ségla è il grand vin dell'omonima proprietà, classificata secondo grand cru nel 1855 e una delle tenute storiche di Margaux. Dal 1994 appartiene alla famiglia Wertheimer, che ne ha rinnovato a fondo vigneto e cantina.</p><p>Le vigne crescono sulle ghiaie profonde della denominazione, ben drenate e povere, che favoriscono la maturazione del <strong>Cabernet Sauvignon</strong>, la varietà maggioritaria dell'assemblaggio. Lo completa il <strong>Merlot</strong>, che apporta rotondità e frutto, con piccole quote di Petit Verdot e Cabernet Franc secondo l'annata. L'affinamento avviene in barrique di rovere francese.</p><p>È un rosso che esprime la finezza caratteristica di Margaux: frutta nera precisa, note floreali di violetta, cedro e spezie, e tannini setosi su una struttura decisa. Migliora per molti anni in bottiglia e vale la pena attendere prima di aprirlo.</p>"
+  },
+  "tasting": {
+    "es": "Rojo púrpura oscuro. Aromas de casis, mora, violeta, cedro y especias. Boca elegante y profunda, de taninos sedosos y final largo.",
+    "en": "Dark purple-red. Aromas of blackcurrant, blackberry, violet, cedar and spice. Elegant, deep palate with silky tannins and a long finish.",
+    "fr": "Rouge pourpre sombre. Arômes de cassis, de mûre, de violette, de cèdre et d'épices. Bouche élégante et profonde, aux tanins soyeux et à la finale longue.",
+    "it": "Rosso porpora scuro. Aromi di ribes nero, mora, violetta, cedro e spezie. Bocca elegante e profonda, dai tannini setosi e dal finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, entrecot, caza, quesos curados",
+    "en": "Roast lamb, rib steak, game, aged cheeses",
+    "fr": "Agneau rôti, entrecôte, gibier, fromages affinés",
+    "it": "Agnello arrosto, entrecôte, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Château Rauzan-Ségla Margaux"
+}

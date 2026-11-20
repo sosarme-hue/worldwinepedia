@@ -1,0 +1,42 @@
+{
+  "slug": "arnaud-lambert-clos-mazurique",
+  "name": "Arnaud Lambert Clos Mazurique",
+  "winery": null,
+  "winery_name": "Arnaud Lambert",
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Saumur-Champigny",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Arnaud Lambert Clos Mazurique es un vino tinto de Arnaud Lambert, con la denominación AOC Saumur-Champigny, en Francia.",
+    "en": "Arnaud Lambert Clos Mazurique is a red wine from Arnaud Lambert, made under the AOC Saumur-Champigny appellation in France.",
+    "fr": "Arnaud Lambert Clos Mazurique est un vin rouge de Arnaud Lambert, élaboré sous l’appellation AOC Saumur-Champigny (France).",
+    "it": "Arnaud Lambert Clos Mazurique è un vino rosso di Arnaud Lambert, prodotto nella denominazione AOC Saumur-Champigny (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Cabernet Franc. Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is made from Cabernet Franc. It is a young wine, meant to be drunk in its first years. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Cabernet Franc. C’est un vin jeune, à boire dans ses premières années. Il titre 13,5 % vol.</p>",
+    "it": "<p>È prodotto con Cabernet Franc. È un vino giovane, da bere nei primi anni. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Arnaud Lambert Clos Mazurique Arnaud Lambert",
+  "brief": true,
+  "source": "decantalo"
+}

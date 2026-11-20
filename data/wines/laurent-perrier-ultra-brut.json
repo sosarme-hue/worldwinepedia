@@ -1,0 +1,49 @@
+{
+  "slug": "laurent-perrier-ultra-brut",
+  "name": "Laurent-Perrier Ultra Brut",
+  "winery": "laurent-perrier",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut Nature",
+    "en": "Brut Nature",
+    "fr": "Brut Nature",
+    "it": "Brut Nature"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Champagne sin azúcar añadido de Laurent-Perrier, pionero de los champagnes sin licor de expedición, de estilo puro, tenso y seco.",
+    "en": "Zero-dosage Champagne from Laurent-Perrier, a pioneer among Champagnes made without added sugar, pure, taut and dry in style.",
+    "fr": "Champagne non dosé de Laurent-Perrier, pionnier des champagnes sans sucre ajouté, au style pur, tendu et sec.",
+    "it": "Champagne non dosato di Laurent-Perrier, pioniere degli champagne senza zucchero aggiunto, dallo stile puro, teso e secco."
+  },
+  "body": {
+    "es": "<p>La mayoría de los champagnes reciben, tras el degüelle, un <em>licor de expedición</em> con una pequeña cantidad de azúcar que equilibra la elevada acidez del vino. <strong>Ultra Brut</strong> prescinde de esa adición: es un champagne sin dosificación, una categoría que Laurent-Perrier contribuyó a dar a conocer cuando lanzó este vino a comienzos de los años ochenta, retomando una idea que la casa ya había explorado en el siglo XIX.</p><p>Elaborar un champagne sin azúcar exige uvas de gran madurez y equilibrio, ya que nada enmascara la acidez ni la estructura del vino. Por ello se elabora con una selección de <strong>Chardonnay</strong> y <strong>Pinot Noir</strong> de años con buena madurez, y se cría sobre lías en las bodegas de Tours-sur-Marne.</p><p>El resultado es un champagne muy seco, de burbuja fina y perfil tenso, en el que dominan los cítricos, las notas minerales y la frescura. Es especialmente adecuado con marisco y cocina yodada.</p>",
+    "en": "<p>Most Champagnes receive, after disgorgement, a <em>dosage</em> liqueur containing a small amount of sugar to balance the wine’s high acidity. <strong>Ultra Brut</strong> does without it: it is a zero-dosage Champagne, a category that Laurent-Perrier helped to popularise when it launched this wine in the early 1980s, reviving an idea the house had already explored in the nineteenth century.</p><p>Making a Champagne without sugar requires very ripe, balanced grapes, since nothing masks the wine’s acidity or structure. It is therefore made from a selection of <strong>Chardonnay</strong> and <strong>Pinot Noir</strong> from years with good ripeness, and aged on its lees in the cellars at Tours-sur-Marne.</p><p>The result is a very dry Champagne with fine bubbles and a taut profile, dominated by citrus, mineral notes and freshness. It is particularly well suited to shellfish and briny cuisine.</p>",
+    "fr": "<p>La plupart des champagnes reçoivent, après le dégorgement, une <em>liqueur d’expédition</em> contenant une petite quantité de sucre qui équilibre la forte acidité du vin. L’<strong>Ultra Brut</strong> s’en passe : c’est un champagne non dosé, une catégorie que Laurent-Perrier a contribué à faire connaître en lançant ce vin au début des années 1980, reprenant une idée que la maison avait déjà explorée au XIXe siècle.</p><p>Élaborer un champagne sans sucre exige des raisins d’une grande maturité et d’un bel équilibre, puisque rien ne masque l’acidité ni la structure du vin. Il est donc élaboré à partir d’une sélection de <strong>chardonnay</strong> et de <strong>pinot noir</strong> d’années bien mûres, et vieilli sur lies dans les caves de Tours-sur-Marne.</p><p>Il en résulte un champagne très sec, à la bulle fine et au profil tendu, dominé par les agrumes, les notes minérales et la fraîcheur. Il convient particulièrement aux fruits de mer et à la cuisine iodée.</p>",
+    "it": "<p>La maggior parte degli champagne riceve, dopo la sboccatura, un <em>liqueur d’expédition</em> con una piccola quantità di zucchero che equilibra l’elevata acidità del vino. <strong>Ultra Brut</strong> ne fa a meno: è uno champagne non dosato, una categoria che Laurent-Perrier ha contribuito a far conoscere lanciando questo vino all’inizio degli anni Ottanta, riprendendo un’idea che la casa aveva già esplorato nell’Ottocento.</p><p>Produrre uno champagne senza zucchero richiede uve di grande maturità ed equilibrio, poiché nulla maschera l’acidità né la struttura del vino. Per questo è prodotto con una selezione di <strong>Chardonnay</strong> e <strong>Pinot Nero</strong> di annate con buona maturazione, e matura sui lieviti nelle cantine di Tours-sur-Marne.</p><p>Il risultato è uno champagne molto secco, dal perlage fine e dal profilo teso, dominato da agrumi, note minerali e freschezza. È particolarmente adatto a frutti di mare e cucina iodata.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido con burbuja fina. Aromas de limón, pomelo, manzana verde y notas minerales. Boca muy seca, tensa y vibrante, de final limpio y salino.",
+    "en": "Pale yellow with fine bubbles. Aromas of lemon, grapefruit, green apple and mineral notes. Very dry, taut, vibrant palate with a clean, saline finish.",
+    "fr": "Jaune pâle à la bulle fine. Arômes de citron, de pamplemousse, de pomme verte et notes minérales. Bouche très sèche, tendue et vibrante, à la finale nette et saline.",
+    "it": "Giallo paglierino con perlage fine. Aromi di limone, pompelmo, mela verde e note minerali. Bocca molto secca, tesa e vibrante, con finale pulito e salino."
+  },
+  "pairing": {
+    "es": "Aperitivo, ostras, marisco, sushi, pescados crudos",
+    "en": "Aperitif, oysters, shellfish, sushi, raw fish",
+    "fr": "Apéritif, huîtres, fruits de mer, sushis, poissons crus",
+    "it": "Aperitivo, ostriche, frutti di mare, sushi, crudi di pesce"
+  },
+  "serve": {
+    "es": "7-9 °C, copa de tulipa",
+    "en": "7-9 °C, tulip glass",
+    "fr": "7-9 °C, verre tulipe",
+    "it": "7-9 °C, calice a tulipano"
+  },
+  "search": "Laurent-Perrier Ultra Brut"
+}

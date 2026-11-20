@@ -1,0 +1,43 @@
+{
+  "slug": "patriarche-volnay",
+  "name": "Volnay",
+  "winery": "maison-patriarche",
+  "region": "cote-de-beaune",
+  "country": "francia",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Volnay de Maison Patriarche, tinto de Pinot Noir de uno de los pueblos más delicados de la Côte de Beaune.",
+    "en": "Volnay from Maison Patriarche, a Pinot Noir red from one of the most delicate villages of the Côte de Beaune.",
+    "fr": "Volnay de Maison Patriarche, rouge de pinot noir de l’un des villages les plus délicats de la Côte de Beaune.",
+    "it": "Volnay di Maison Patriarche, rosso di Pinot Nero di uno dei villaggi più delicati della Côte de Beaune."
+  },
+  "body": {
+    "es": "<p><strong>Volnay</strong> se sitúa en la <strong>Côte de Beaune</strong>, entre Pommard y Meursault, en una ladera de suelos calizos con poca arcilla. La denominación solo produce vino tinto y está considerada una de las más finas de la región: sus vinos de <strong>Pinot Noir</strong> se distinguen por la elegancia, la delicadeza aromática y una textura sedosa, más que por la potencia. Este Volnay de pueblo procede de parcelas de la denominación sin clasificación de premier cru. Suele mostrar fruta roja, notas florales y taninos finos, y puede disfrutarse relativamente joven, aunque mejora con unos años de botella.</p><p>Como el resto de la gama de Maison Patriarche, casa de négoce fundada en Beaune en 1780, este vino se elabora a partir de uvas o vinos seleccionados en la denominación y se cría en las bodegas de la casa, con un estilo clásico que busca reflejar con fidelidad el carácter de su origen.</p>",
+    "en": "<p><strong>Volnay</strong> lies in the <strong>Côte de Beaune</strong>, between Pommard and Meursault, on a slope of limestone soils with little clay. The appellation produces only red wine and is considered one of the finest in the region: its <strong>Pinot Noir</strong> wines stand out for elegance, aromatic delicacy and a silky texture rather than power. This village Volnay comes from plots in the appellation without premier cru status. It usually shows red fruit, floral notes and fine tannins, and can be enjoyed fairly young, although it improves with a few years in bottle.</p><p>Like the rest of the Maison Patriarche range, a négociant house founded in Beaune in 1780, this wine is made from grapes or wines selected within the appellation and aged in the house’s cellars, in a classic style that aims to faithfully reflect the character of its origin.</p>",
+    "fr": "<p><strong>Volnay</strong> se situe dans la <strong>Côte de Beaune</strong>, entre Pommard et Meursault, sur un coteau aux sols calcaires pauvres en argile. L’appellation ne produit que du vin rouge et passe pour l’une des plus fines de la région : ses vins de <strong>pinot noir</strong> se distinguent par l’élégance, la délicatesse aromatique et une texture soyeuse plutôt que par la puissance. Ce Volnay village provient de parcelles de l’appellation non classées en premier cru. Il offre généralement des fruits rouges, des notes florales et des tanins fins ; il se goûte assez jeune mais s’améliore avec quelques années de bouteille.</p><p>Comme le reste de la gamme de Maison Patriarche, maison de négoce fondée à Beaune en 1780, ce vin est élaboré à partir de raisins ou de vins sélectionnés dans l’appellation et élevé dans les caves de la maison, dans un style classique qui cherche à refléter fidèlement le caractère de son origine.</p>",
+    "it": "<p><strong>Volnay</strong> si trova nella <strong>Côte de Beaune</strong>, tra Pommard e Meursault, su un pendio di suoli calcarei poveri di argilla. La denominazione produce solo vino rosso ed è considerata una delle più fini della regione: i suoi vini di <strong>Pinot Nero</strong> si distinguono per eleganza, delicatezza aromatica e tessitura setosa più che per potenza. Questo Volnay village proviene da parcelle della denominazione non classificate premier cru. Offre di solito frutta rossa, note floreali e tannini fini; si può gustare abbastanza giovane, ma migliora con qualche anno di bottiglia.</p><p>Come il resto della gamma di Maison Patriarche, casa di négoce fondata a Beaune nel 1780, questo vino è prodotto con uve o vini selezionati nella denominazione e affinato nelle cantine della casa, in uno stile classico che mira a riflettere fedelmente il carattere della sua origine.</p>"
+  },
+  "tasting": {
+    "es": "Rubí brillante. Aromas de frambuesa, cereza y violeta. Boca ligera y sedosa, de taninos finos y final fresco.",
+    "en": "Bright ruby. Aromas of raspberry, cherry and violet. Light, silky palate with fine tannins and a fresh finish.",
+    "fr": "Rubis brillant. Arômes de framboise, de cerise et de violette. Bouche légère et soyeuse, aux tanins fins et à la finale fraîche.",
+    "it": "Rubino brillante. Aromi di lampone, ciliegia e violetta. Bocca leggera e setosa, con tannini fini e finale fresco."
+  },
+  "pairing": {
+    "es": "Aves asadas, ternera, setas, quesos de pasta blanda",
+    "en": "Roast poultry, veal, mushrooms, soft cheeses",
+    "fr": "Volailles rôties, veau, champignons, fromages à pâte molle",
+    "it": "Pollame arrosto, vitello, funghi, formaggi a pasta molle"
+  },
+  "serve": {
+    "es": "15-17 °C, copa amplia de Borgoña",
+    "en": "15-17 °C, large Burgundy glass",
+    "fr": "15-17 °C, verre ample de type bourguignon",
+    "it": "15-17 °C, calice ampio da Borgogna"
+  },
+  "search": "Volnay Maison Patriarche"
+}

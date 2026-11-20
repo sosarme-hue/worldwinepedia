@@ -1,0 +1,42 @@
+{
+  "slug": "les-tours-de-laroque",
+  "name": "Les Tours de Laroque",
+  "winery": null,
+  "winery_name": "Château Laroque",
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Saint-Émilion Grand Cru",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "merlot"
+  ],
+  "summary": {
+    "es": "Les Tours de Laroque es un vino tinto de Château Laroque, con la denominación AOC Saint-Émilion Grand Cru, en Francia.",
+    "en": "Les Tours de Laroque is a red wine from Château Laroque, made under the AOC Saint-Émilion Grand Cru appellation in France.",
+    "fr": "Les Tours de Laroque est un vin rouge de Château Laroque, élaboré sous l’appellation AOC Saint-Émilion Grand Cru (France).",
+    "it": "Les Tours de Laroque è un vino rosso di Château Laroque, prodotto nella denominazione AOC Saint-Émilion Grand Cru (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Merlot. Tiene crianza en madera. Su graduación es de 14,3 % vol.</p>",
+    "en": "<p>It is made from Merlot. It is aged in wood. It has 14.3% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Merlot. Il est élevé en bois. Il titre 14,3 % vol.</p>",
+    "it": "<p>È prodotto con Merlot. È affinato in legno. Ha 14,3% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Les Tours de Laroque Château Laroque",
+  "brief": true,
+  "source": "decantalo"
+}

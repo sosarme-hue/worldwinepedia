@@ -1,0 +1,49 @@
+{
+  "slug": "chateau-chasse-spleen",
+  "name": "Château Chasse-Spleen",
+  "winery": "chateau-chasse-spleen",
+  "region": "medoc",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Moulis-en-Médoc",
+    "en": "Moulis-en-Médoc",
+    "fr": "Moulis-en-Médoc",
+    "it": "Moulis-en-Médoc"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "El gran vino de Château Chasse-Spleen, uno de los tintos más reputados de Moulis-en-Médoc, ensamblaje de Cabernet Sauvignon y Merlot de buena guarda.",
+    "en": "The grand vin of Château Chasse-Spleen, one of the most highly regarded reds of Moulis-en-Médoc, an age-worthy Cabernet Sauvignon and Merlot blend.",
+    "fr": "Le grand vin du château Chasse-Spleen, l’un des rouges les plus réputés de Moulis-en-Médoc, assemblage de cabernet sauvignon et de merlot de bonne garde.",
+    "it": "Il grand vin di Château Chasse-Spleen, uno dei rossi più apprezzati di Moulis-en-Médoc, assemblaggio di Cabernet Sauvignon e Merlot da invecchiamento."
+  },
+  "body": {
+    "es": "<p>Château Chasse-Spleen es el gran vino de la propiedad homónima de <strong>Moulis-en-Médoc</strong>, la pequeña denominación comunal situada en el interior del Médoc, entre Margaux y Saint-Julien. Está considerado desde hace décadas uno de los mejores vinos de la denominación y se compara a menudo con algunos crus clasificados.</p><p>Se elabora con un ensamblaje de <strong>Cabernet Sauvignon</strong> y <strong>Merlot</strong>, completado con pequeñas proporciones de Petit Verdot y, según la añada, Cabernet Franc. El Cabernet Sauvignon procede sobre todo de las gravas, que aportan estructura y frescura, y el Merlot de los suelos arcillo-calcáreos, que dan redondez.</p><p>La crianza en barricas de roble francés, en parte nuevas, se prolonga durante más de un año. El resultado es un tinto de corte clásico, de color profundo, fruta negra, notas de cedro y taninos firmes, que necesita algunos años de botella para expresarse plenamente y puede envejecer durante mucho tiempo en las buenas añadas.</p>",
+    "en": "<p>Château Chasse-Spleen is the grand vin of the estate of the same name in <strong>Moulis-en-Médoc</strong>, the small communal appellation lying inland in the Médoc, between Margaux and Saint-Julien. For decades it has been regarded as one of the appellation’s best wines and is often compared with some classified growths.</p><p>It is made from a blend of <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong>, completed with small proportions of Petit Verdot and, depending on the vintage, Cabernet Franc. The Cabernet Sauvignon comes mainly from the gravels, which bring structure and freshness, and the Merlot from the clay-limestone soils, which give roundness.</p><p>Ageing in French oak barrels, partly new, lasts more than a year. The result is a classic red with deep colour, black fruit, cedar notes and firm tannins, which needs a few years in bottle to express itself fully and can age for a long time in good vintages.</p>",
+    "fr": "<p>Château Chasse-Spleen est le grand vin de la propriété du même nom à <strong>Moulis-en-Médoc</strong>, la petite appellation communale située à l’intérieur du Médoc, entre Margaux et Saint-Julien. Il est considéré depuis des décennies comme l’un des meilleurs vins de l’appellation et souvent comparé à certains crus classés.</p><p>Il est issu d’un assemblage de <strong>cabernet sauvignon</strong> et de <strong>merlot</strong>, complété par de petites proportions de petit verdot et, selon le millésime, de cabernet franc. Le cabernet sauvignon provient surtout des graves, qui apportent structure et fraîcheur, et le merlot des sols argilo-calcaires, qui donnent de la rondeur.</p><p>L’élevage en barriques de chêne français, en partie neuves, dure plus d’un an. Il en résulte un rouge de facture classique, à la robe profonde, au fruit noir, aux notes de cèdre et aux tanins fermes, qui demande quelques années de bouteille pour s’exprimer pleinement et peut vieillir longtemps dans les bons millésimes.</p>",
+    "it": "<p>Château Chasse-Spleen è il grand vin della proprietà omonima di <strong>Moulis-en-Médoc</strong>, la piccola denominazione comunale situata nell’entroterra del Médoc, tra Margaux e Saint-Julien. Da decenni è considerato uno dei migliori vini della denominazione e viene spesso paragonato ad alcuni cru classé.</p><p>È prodotto con un assemblaggio di <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong>, completato da piccole quote di Petit Verdot e, secondo l’annata, Cabernet Franc. Il Cabernet Sauvignon proviene soprattutto dalle ghiaie, che apportano struttura e freschezza, e il Merlot dai suoli argillo-calcarei, che danno rotondità.</p><p>L’affinamento in barrique di rovere francese, in parte nuove, dura più di un anno. Il risultato è un rosso di taglio classico, dal colore profondo, frutto nero, note di cedro e tannini decisi, che ha bisogno di qualche anno di bottiglia per esprimersi pienamente e può invecchiare a lungo nelle buone annate.</p>"
+  },
+  "tasting": {
+    "es": "Granate profundo. Aromas de casis, mora, cedro, tabaco y notas tostadas. Boca estructurada, de taninos firmes y final largo.",
+    "en": "Deep garnet. Aromas of blackcurrant, blackberry, cedar, tobacco and toasty notes. Structured palate with firm tannins and a long finish.",
+    "fr": "Grenat profond. Arômes de cassis, de mûre, de cèdre, de tabac et notes grillées. Bouche structurée, aux tanins fermes et à la longue finale.",
+    "it": "Granato profondo. Aromi di ribes nero, mora, cedro, tabacco e note tostate. Bocca strutturata, dai tannini decisi e lungo finale."
+  },
+  "pairing": {
+    "es": "Cordero asado, entrecot a la bordelesa, caza, quesos curados",
+    "en": "Roast lamb, entrecôte bordelaise, game, mature cheeses",
+    "fr": "Agneau rôti, entrecôte bordelaise, gibier, fromages affinés",
+    "it": "Agnello arrosto, entrecôte alla bordolese, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "17-18 °C, copa tipo Burdeos; decantar en su juventud",
+    "en": "17-18 °C, Bordeaux glass; decant when young",
+    "fr": "17-18 °C, verre de type bordelais ; carafer dans sa jeunesse",
+    "it": "17-18 °C, calice tipo Bordeaux; decantare da giovane"
+  },
+  "search": "Château Chasse-Spleen Moulis"
+}

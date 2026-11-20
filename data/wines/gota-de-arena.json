@@ -1,0 +1,40 @@
+{
+  "slug": "gota-de-arena",
+  "name": "Gota de Arena",
+  "winery": null,
+  "winery_name": "Bodegas Tridente",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Castilla y León",
+  "type": "espumoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Gota de Arena es un vino espumoso de Bodegas Tridente, con la denominación VT Castilla y León, en España.",
+    "en": "Gota de Arena is a sparkling wine from Bodegas Tridente, made under the VT Castilla y León appellation in Spain.",
+    "fr": "Gota de Arena est un vin effervescent de Bodegas Tridente, élaboré sous l’appellation VT Castilla y León (Espagne).",
+    "it": "Gota de Arena è un vino spumante di Bodegas Tridente, prodotto nella denominazione VT Castilla y León (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14,5 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 14.5% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14,5 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 14,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Gota de Arena Bodegas Tridente",
+  "brief": true,
+  "source": "decantalo"
+}

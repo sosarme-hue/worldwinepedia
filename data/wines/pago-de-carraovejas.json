@@ -1,0 +1,41 @@
+{
+  "slug": "pago-de-carraovejas",
+  "name": "Pago de Carraovejas",
+  "winery": "pago-de-carraovejas",
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": ["tempranillo", "cabernet-sauvignon", "merlot"],
+  "summary": {
+    "es": "Tinto principal de la bodega de Peñafiel, de Tinto Fino con Cabernet Sauvignon y Merlot, con crianza en barrica.",
+    "en": "The Peñafiel winery’s main red, made from Tinto Fino with Cabernet Sauvignon and Merlot, aged in barrel.",
+    "fr": "Le rouge principal de la bodega de Peñafiel, de tinto fino avec cabernet-sauvignon et merlot, élevé en barrique.",
+    "it": "Il rosso principale della cantina di Peñafiel, di Tinto Fino con Cabernet Sauvignon e Merlot, affinato in botte."
+  },
+  "body": {
+    "es": "<p>El vino que lleva el nombre de la bodega es su etiqueta más conocida. Procede de los viñedos propios situados en las laderas de Peñafiel, frente al castillo, y se elabora mayoritariamente con Tinto Fino (Tempranillo), completada con pequeñas proporciones de Cabernet Sauvignon y Merlot.</p><p>La bodega trabaja por parcelas y vinifica por separado las distintas zonas del viñedo, que después se ensamblan. El vino se cría en barricas de roble y reposa en botella antes de salir al mercado.</p><p>Es un tinto de Ribera del Duero de perfil moderno, con fruta madura y estructura, en el que la bodega busca también frescura y equilibrio. Nació con la idea de acompañar la cocina castellana de asados y sigue siendo un vino muy presente en la restauración.</p>",
+    "en": "<p>The wine bearing the winery’s name is its best-known label. It comes from the estate vineyards on the slopes of Peñafiel, facing the castle, and is made mainly from Tinto Fino (Tempranillo), completed with small proportions of Cabernet Sauvignon and Merlot.</p><p>The winery works plot by plot and vinifies the different parts of the vineyard separately before blending them. The wine is aged in oak barrels and rests in bottle before release.</p><p>It is a modern-style Ribera del Duero red, with ripe fruit and structure, in which the winery also seeks freshness and balance. It was created to accompany Castilian roasts and remains a familiar wine on restaurant lists.</p>",
+    "fr": "<p>Le vin qui porte le nom de la bodega est son étiquette la plus connue. Il provient des vignes du domaine sur les coteaux de Peñafiel, face au château, et il est élaboré majoritairement avec du tinto fino (tempranillo), complété par de petites proportions de cabernet-sauvignon et de merlot.</p><p>La maison travaille par parcelles et vinifie séparément les différentes zones du vignoble, qui sont ensuite assemblées. Le vin est élevé en barriques de chêne et repose en bouteille avant sa commercialisation.</p><p>C’est un rouge de Ribera del Duero au profil moderne, au fruit mûr et structuré, dans lequel la maison recherche aussi la fraîcheur et l’équilibre. Il est né pour accompagner la cuisine castillane des rôtis et reste très présent sur les cartes des restaurants.</p>",
+    "it": "<p>Il vino che porta il nome della cantina è la sua etichetta più conosciuta. Proviene dai vigneti di proprietà sui pendii di Peñafiel, di fronte al castello, ed è prodotto in prevalenza con Tinto Fino (Tempranillo), completato da piccole quote di Cabernet Sauvignon e Merlot.</p><p>La cantina lavora per parcelle e vinifica separatamente le diverse zone del vigneto, che vengono poi assemblate. Il vino affina in botti di rovere e riposa in bottiglia prima di uscire sul mercato.</p><p>È un rosso della Ribera del Duero dal profilo moderno, con frutto maturo e struttura, in cui la cantina cerca anche freschezza ed equilibrio. Nacque per accompagnare la cucina castigliana degli arrosti ed è ancora molto presente nella ristorazione.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de fruta negra madura, notas especiadas, tostadas y balsámicas. En boca es estructurado y sabroso, con tanino maduro y buena frescura.",
+    "en": "Deep ruby. Aromas of ripe black fruit with spicy, toasty and balsamic notes. Structured and flavourful on the palate, with ripe tannins and good freshness.",
+    "fr": "Rubis intense. Arômes de fruits noirs mûrs, notes épicées, grillées et balsamiques. En bouche, structuré et savoureux, aux tanins mûrs et à la bonne fraîcheur.",
+    "it": "Rubino intenso. Aromi di frutta nera matura, note speziate, tostate e balsamiche. In bocca è strutturato e saporito, con tannino maturo e buona freschezza."
+  },
+  "pairing": {
+    "es": "Cordero lechal asado, cochinillo, carnes rojas, quesos curados",
+    "en": "Roast suckling lamb, suckling pig, red meat, aged cheeses",
+    "fr": "Agneau de lait rôti, cochon de lait, viandes rouges, fromages affinés",
+    "it": "Agnello da latte arrosto, maialino da latte, carni rosse, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Pago de Carraovejas Ribera del Duero"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "monte-velho-tinto",
+  "name": "Monte Velho Tinto",
+  "winery": "esporao",
+  "region": "alentejo",
+  "country": "portugal",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tempranillo",
+    "touriga-nacional",
+    "syrah"
+  ],
+  "summary": {
+    "es": "Tinto joven de Esporão bajo la indicación Vinho Regional Alentejano, de fruta madura y fácil de beber, uno de los vinos portugueses más difundidos.",
+    "en": "Young red from Esporão under the Vinho Regional Alentejano designation, ripe-fruited and easy to drink, and one of the most widely available Portuguese wines.",
+    "fr": "Rouge jeune d’Esporão sous l’indication Vinho Regional Alentejano, au fruit mûr et facile à boire, l’un des vins portugais les plus diffusés.",
+    "it": "Rosso giovane di Esporão con l’indicazione Vinho Regional Alentejano, di frutto maturo e facile da bere, uno dei vini portoghesi più diffusi."
+  },
+  "body": {
+    "es": "<p>Monte Velho es la marca de mayor difusión de Esporão y un vino habitual en la mesa portuguesa. Se comercializa como <em>Vinho Regional Alentejano</em>, una indicación geográfica que abarca toda la región y permite mayor libertad en la elección de variedades que la DOC.</p><p>Se elabora con uvas de la Herdade do Esporão y de otros viñedos del Alentejo, a partir de variedades como la Aragonez (Tempranillo), la Trincadeira, la Touriga Nacional y la Syrah, en proporciones que pueden variar según la cosecha. La vinificación busca un tinto de fruta madura y taninos suaves, sin crianza prolongada en madera, que exprese el carácter cálido y soleado del Alentejo. Está pensado para beberse joven, en los primeros años después de la vendimia, y para acompañar comidas cotidianas.</p><p>La gama Monte Velho incluye también un blanco y un rosado, elaborados con el mismo planteamiento de vinos frescos y accesibles.</p>",
+    "en": "<p>Monte Velho is Esporão’s most widely distributed brand and a familiar wine on Portuguese tables. It is sold as <em>Vinho Regional Alentejano</em>, a geographical indication that covers the whole region and allows greater freedom in the choice of varieties than the DOC.</p><p>It is made from grapes from the Herdade do Esporão and other Alentejo vineyards, using varieties such as Aragonez (Tempranillo), Trincadeira, Touriga Nacional and Syrah, in proportions that may vary with the vintage. The winemaking aims for a red with ripe fruit and soft tannins, without prolonged ageing in wood, that expresses the warm, sunny character of the Alentejo. It is meant to be drunk young, in the first years after the harvest, and to accompany everyday meals.</p><p>The Monte Velho range also includes a white and a rosé, made with the same approach of fresh, approachable wines.</p>",
+    "fr": "<p>Monte Velho est la marque la plus diffusée d’Esporão et un vin familier des tables portugaises. Il est commercialisé en <em>Vinho Regional Alentejano</em>, une indication géographique qui couvre toute la région et laisse une plus grande liberté dans le choix des cépages que la DOC.</p><p>Il est élaboré avec des raisins de la Herdade do Esporão et d’autres vignobles de l’Alentejo, à partir de cépages comme l’aragonez (tempranillo), la trincadeira, la touriga nacional et la syrah, dans des proportions qui peuvent varier selon le millésime. La vinification recherche un rouge au fruit mûr et aux tanins souples, sans long élevage sous bois, qui exprime le caractère chaud et ensoleillé de l’Alentejo. Il est destiné à être bu jeune, dans les premières années après les vendanges, et à accompagner les repas du quotidien.</p><p>La gamme Monte Velho comprend aussi un blanc et un rosé, élaborés dans le même esprit de vins frais et accessibles.</p>",
+    "it": "<p>Monte Velho è il marchio più diffuso di Esporão e un vino abituale sulle tavole portoghesi. È commercializzato come <em>Vinho Regional Alentejano</em>, un’indicazione geografica che copre tutta la regione e consente maggiore libertà nella scelta dei vitigni rispetto alla DOC.</p><p>È prodotto con uve della Herdade do Esporão e di altri vigneti dell’Alentejo, da varietà come Aragonez (Tempranillo), Trincadeira, Touriga Nacional e Syrah, in proporzioni che possono variare secondo l’annata. La vinificazione cerca un rosso di frutto maturo e tannini morbidi, senza un lungo affinamento in legno, che esprima il carattere caldo e soleggiato dell’Alentejo. È pensato per essere bevuto giovane, nei primi anni dopo la vendemmia, e per accompagnare i pasti quotidiani.</p><p>La linea Monte Velho comprende anche un bianco e un rosato, prodotti con la stessa idea di vini freschi e accessibili.</p>"
+  },
+  "tasting": {
+    "es": "Rubí violáceo. Aromas de fruta roja y negra madura, ciruela y un toque de especias. En boca es suave, afrutado y redondo.",
+    "en": "Purple-tinged ruby. Aromas of ripe red and black fruit, plum and a touch of spice. Smooth, fruity and rounded on the palate.",
+    "fr": "Rubis violacé. Arômes de fruits rouges et noirs mûrs, de prune et une touche d’épices. En bouche, il est souple, fruité et rond.",
+    "it": "Rubino violaceo. Aromi di frutta rossa e nera matura, prugna e un tocco di spezie. In bocca è morbido, fruttato e rotondo."
+  },
+  "pairing": {
+    "es": "Carnes a la parrilla, pasta, pizza, embutidos",
+    "en": "Grilled meat, pasta, pizza, charcuterie",
+    "fr": "Viandes grillées, pâtes, pizza, charcuterie",
+    "it": "Carni alla griglia, pasta, pizza, salumi"
+  },
+  "serve": {
+    "es": "15-16 °C, copa de vino tinto",
+    "en": "15-16 °C, red wine glass",
+    "fr": "15-16 °C, verre à vin rouge",
+    "it": "15-16 °C, calice da vino rosso"
+  },
+  "search": "Monte Velho Tinto Esporão Alentejano"
+}

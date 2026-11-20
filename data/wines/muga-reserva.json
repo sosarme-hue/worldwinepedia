@@ -1,0 +1,41 @@
+{
+  "slug": "muga-reserva",
+  "name": "Muga Reserva",
+  "winery": "muga",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {"es": "Reserva", "en": "Reserva", "fr": "Reserva", "it": "Reserva"},
+  "grapes": ["tempranillo", "garnacha", "carinena", "graciano"],
+  "summary": {
+    "es": "El reserva clásico de Bodegas Muga, un Rioja de Tempranillo con Garnacha, Mazuelo y Graciano, criado en barrica de tonelería propia.",
+    "en": "Bodegas Muga’s classic reserva, a Tempranillo-based Rioja with Grenache, Mazuelo and Graciano, aged in barrels from the winery’s own cooperage.",
+    "fr": "Le reserva classique de Bodegas Muga, un Rioja à base de tempranillo avec grenache, mazuelo et graciano, élevé dans des barriques de sa propre tonnellerie.",
+    "it": "Il reserva classico di Bodegas Muga, un Rioja a base di Tempranillo con Grenache, Mazuelo e Graciano, affinato in botti della bottaia di casa."
+  },
+  "body": {
+    "es": "<p>El Muga Reserva es uno de los vinos más difundidos de la bodega y una buena muestra de su estilo. Se elabora mayoritariamente con Tempranillo, completada con Garnacha y pequeñas proporciones de Mazuelo (Cariñena) y Graciano, de viñedos situados en el entorno de Haro.</p><p>Fermenta en tinos de roble y se cría después en barricas, en su mayoría fabricadas en la tonelería de la propia bodega, antes de pasar un tiempo en botella. Como es tradición en la casa, se clarifica con clara de huevo y se trasiega por gravedad.</p><p>El resultado es un Rioja de corte clásico pero con la fruta bien presente, que combina notas de crianza con una estructura equilibrada. Se puede disfrutar en sus primeros años y también evoluciona bien en botella.</p>",
+    "en": "<p>Muga Reserva is one of the winery’s most widely available wines and a good example of its style. It is made mainly from Tempranillo, completed with Grenache and small proportions of Mazuelo (Carignan) and Graciano, from vineyards around Haro.</p><p>It ferments in oak vats and is then aged in barrels, most of them made in the winery’s own cooperage, before spending some time in bottle. As is traditional at the house, it is fined with egg whites and racked by gravity.</p><p>The result is a classically styled Rioja with fruit still clearly present, combining ageing notes with a balanced structure. It can be enjoyed in its early years and also evolves well in bottle.</p>",
+    "fr": "<p>Le Muga Reserva est l’un des vins les plus diffusés de la maison et un bon exemple de son style. Il est élaboré majoritairement avec du tempranillo, complété par du grenache et de petites proportions de mazuelo (carignan) et de graciano, issus de vignes situées autour de Haro.</p><p>Il fermente en cuves de chêne puis est élevé en barriques, pour la plupart fabriquées dans la tonnellerie de la maison, avant de passer un temps en bouteille. Comme le veut la tradition de la maison, il est collé au blanc d’œuf et soutiré par gravité.</p><p>Il en résulte un Rioja classique mais au fruit bien présent, qui associe notes d’élevage et structure équilibrée. Il se déguste dès ses premières années et évolue aussi bien en bouteille.</p>",
+    "it": "<p>Il Muga Reserva è uno dei vini più diffusi della cantina e un buon esempio del suo stile. È prodotto in prevalenza con Tempranillo, completato da Grenache e da piccole quote di Mazuelo (Carignano) e Graciano, da vigneti nei dintorni di Haro.</p><p>Fermenta in tini di rovere e affina poi in barrique, in gran parte costruite nella bottaia della cantina, prima di trascorrere un periodo in bottiglia. Come da tradizione della casa, viene chiarificato con albume d’uovo e travasato per gravità.</p><p>Il risultato è un Rioja di taglio classico ma con il frutto ben presente, che unisce note di affinamento e struttura equilibrata. Si può gustare nei primi anni e si evolve bene anche in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de fruta roja y negra madura, con notas de vainilla, especias y tostados de la barrica. En boca es de cuerpo medio, con tanino firme pero pulido y buena acidez.",
+    "en": "Deep ruby. Aromas of ripe red and black fruit, with notes of vanilla, spice and toast from the barrel. Medium-bodied on the palate, with firm yet polished tannins and good acidity.",
+    "fr": "Rubis intense. Arômes de fruits rouges et noirs mûrs, avec des notes de vanille, d’épices et de grillé apportées par la barrique. En bouche, corps moyen, tanins fermes mais polis et bonne acidité.",
+    "it": "Rubino intenso. Aromi di frutta rossa e nera matura, con note di vaniglia, spezie e tostatura della botte. In bocca ha corpo medio, tannino deciso ma levigato e buona acidità."
+  },
+  "pairing": {
+    "es": "Cordero, carnes a la parrilla, embutidos, guisos, quesos semicurados",
+    "en": "Lamb, grilled meat, charcuterie, stews, semi-aged cheeses",
+    "fr": "Agneau, viandes grillées, charcuterie, ragoûts, fromages mi-affinés",
+    "it": "Agnello, carni alla griglia, salumi, stufati, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Muga Reserva Rioja"
+}

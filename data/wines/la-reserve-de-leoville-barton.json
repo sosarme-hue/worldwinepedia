@@ -1,0 +1,49 @@
+{
+  "slug": "la-reserve-de-leoville-barton",
+  "name": "La Réserve de Léoville Barton",
+  "winery": "chateau-leoville-barton",
+  "region": "saint-julien",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Segundo vino",
+    "en": "Second wine",
+    "fr": "Second vin",
+    "it": "Secondo vino"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Segundo vino de Château Léoville Barton, un Saint-Julien más accesible en su juventud que el gran vino de la propiedad.",
+    "en": "Second wine of Château Léoville Barton, a Saint-Julien more approachable in its youth than the estate’s grand vin.",
+    "fr": "Second vin de Château Léoville Barton, un Saint-Julien plus accessible dans sa jeunesse que le grand vin de la propriété.",
+    "it": "Secondo vino di Château Léoville Barton, un Saint-Julien più accessibile in gioventù rispetto al grand vin della tenuta."
+  },
+  "body": {
+    "es": "<p><strong>La Réserve de Léoville Barton</strong> es el segundo vino de Château Léoville Barton, segundo cru classé de Saint-Julien propiedad de la familia Barton desde 1826. Se elabora con uvas del mismo viñedo, en particular de viñas más jóvenes y de lotes que no se seleccionan para el gran vino, en las instalaciones de Château Langoa Barton.</p><p>Como el primer vino, se basa en la Cabernet Sauvignon con aporte de Merlot, aunque en proporciones que pueden variar según la añada. La crianza en barrica es más breve y el estilo busca un tinto de fruta más inmediata y taninos más suaves, manteniendo el carácter clásico de la casa.</p><p>El resultado es un Saint-Julien equilibrado, con fruta negra, notas de cedro y especias y una estructura media, que puede disfrutarse unos años después de la cosecha y permite acercarse al estilo de Léoville Barton sin la larga espera que exige el gran vino.</p>",
+    "en": "<p><strong>La Réserve de Léoville Barton</strong> is the second wine of Château Léoville Barton, the Saint-Julien second growth owned by the Barton family since 1826. It is made from grapes from the same vineyard, particularly younger vines and lots not selected for the grand vin, at the facilities of Château Langoa Barton.</p><p>Like the first wine, it is based on Cabernet Sauvignon with a contribution of Merlot, though in proportions that may vary with the vintage. Barrel ageing is shorter and the style aims for a red with more immediate fruit and softer tannins, while keeping the house’s classic character.</p><p>The result is a balanced Saint-Julien with black fruit, cedar and spice notes and medium structure, which can be enjoyed a few years after the harvest and offers an approach to the Léoville Barton style without the long wait the grand vin requires.</p>",
+    "fr": "<p><strong>La Réserve de Léoville Barton</strong> est le second vin de Château Léoville Barton, deuxième cru classé de Saint-Julien appartenant à la famille Barton depuis 1826. Il est élaboré avec des raisins du même vignoble, notamment de vignes plus jeunes et de lots non retenus pour le grand vin, dans les installations de Château Langoa Barton.</p><p>Comme le premier vin, il repose sur le cabernet-sauvignon complété par le merlot, dans des proportions qui peuvent varier selon le millésime. L’élevage en barrique est plus court et le style recherche un rouge au fruit plus immédiat et aux tanins plus souples, tout en gardant le caractère classique de la maison.</p><p>Le résultat est un Saint-Julien équilibré, aux fruits noirs, aux notes de cèdre et d’épices et à la structure moyenne, qui peut s’apprécier quelques années après la récolte et permet d’aborder le style de Léoville Barton sans la longue attente qu’exige le grand vin.</p>",
+    "it": "<p><strong>La Réserve de Léoville Barton</strong> è il secondo vino di Château Léoville Barton, secondo cru classé di Saint-Julien di proprietà della famiglia Barton dal 1826. È prodotto con uve dello stesso vigneto, in particolare di viti più giovani e di partite non selezionate per il grand vin, negli impianti di Château Langoa Barton.</p><p>Come il primo vino, si basa sul Cabernet Sauvignon con un apporto di Merlot, in proporzioni che possono variare secondo l’annata. L’affinamento in barrique è più breve e lo stile cerca un rosso dal frutto più immediato e dai tannini più morbidi, mantenendo il carattere classico della casa.</p><p>Il risultato è un Saint-Julien equilibrato, con frutto nero, note di cedro e spezie e struttura media, che si può gustare qualche anno dopo la vendemmia e permette di avvicinarsi allo stile di Léoville Barton senza la lunga attesa che il grand vin richiede.</p>"
+  },
+  "tasting": {
+    "es": "Grosella negra, cereza, cedro y especias. Boca de cuerpo medio, taninos suaves y final equilibrado.",
+    "en": "Blackcurrant, cherry, cedar and spice. Medium-bodied palate with soft tannins and a balanced finish.",
+    "fr": "Cassis, cerise, cèdre et épices. Bouche de corps moyen, tanins souples et finale équilibrée.",
+    "it": "Ribes nero, ciliegia, cedro e spezie. Bocca di medio corpo, tannini morbidi e finale equilibrato."
+  },
+  "pairing": {
+    "es": "Cordero asado, entrecot, caza, pato, quesos curados",
+    "en": "Roast lamb, rib steak, game, duck, aged cheeses",
+    "fr": "Agneau rôti, entrecôte, gibier, canard, fromages affinés",
+    "it": "Agnello arrosto, entrecôte, selvaggina, anatra, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "La Réserve de Léoville Barton Saint-Julien"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "can-rich-ereso",
+  "name": "Can Rich Ereso",
+  "winery": null,
+  "winery_name": "Can Rich",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Ibiza",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "malvasia"
+  ],
+  "summary": {
+    "es": "Can Rich Ereso es un vino blanco de Can Rich, con la denominación VT Ibiza, en España.",
+    "en": "Can Rich Ereso is a white wine from Can Rich, made under the VT Ibiza appellation in Spain.",
+    "fr": "Can Rich Ereso est un vin blanc de Can Rich, élaboré sous l’appellation VT Ibiza (Espagne).",
+    "it": "Can Rich Ereso è un vino bianco di Can Rich, prodotto nella denominazione VT Ibiza (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Malvasía. Fermenta en barrica. Su graduación es de 11,5 % vol.</p>",
+    "en": "<p>It is made from Malvasia. It is fermented in barrel. It has 11.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Malvoisie. Il est fermenté en barrique. Il titre 11,5 % vol.</p>",
+    "it": "<p>È prodotto con Malvasia. Fermenta in barrique. Ha 11,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Can Rich Ereso Can Rich",
+  "brief": true,
+  "source": "decantalo"
+}

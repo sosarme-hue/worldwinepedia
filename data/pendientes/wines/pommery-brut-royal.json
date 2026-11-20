@@ -1,0 +1,40 @@
+{
+  "slug": "pommery-brut-royal",
+  "name": "Pommery Brut Royal",
+  "winery": "pommery",
+  "winery_name": null,
+  "region": null,
+  "country": "francia",
+  "appellation": null,
+  "type": "espumoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Pommery Brut Royal es un vino espumoso de Champagne Pommery, en Francia.",
+    "en": "Pommery Brut Royal is a sparkling wine from Champagne Pommery in France.",
+    "fr": "Pommery Brut Royal est un vin effervescent de Champagne Pommery (France).",
+    "it": "Pommery Brut Royal è un vino spumante di Champagne Pommery (Francia)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 12,5 % vol.</p><p>Casa de Champagne de Reims fundada en 1858, ligada a la figura de Madame Pommery y considerada pionera del champagne de estilo brut.</p>",
+    "en": "<p>It has 12.5% ABV.</p><p>Champagne house in Reims founded in 1858, linked to the figure of Madame Pommery and regarded as a pioneer of brut-style Champagne.</p>",
+    "fr": "<p>Il titre 12,5 % vol.</p><p>Maison de Champagne de Reims fondée en 1858, liée à la figure de Madame Pommery et considérée comme pionnière du champagne brut.</p>",
+    "it": "<p>Ha 12,5% vol.</p><p>Maison di Champagne di Reims fondata nel 1858, legata alla figura di Madame Pommery e considerata pioniera dello champagne in stile brut.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Pommery Brut Royal Pommery",
+  "brief": true,
+  "source": "decantalo"
+}

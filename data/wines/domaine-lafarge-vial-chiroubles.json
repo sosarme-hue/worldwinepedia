@@ -1,0 +1,40 @@
+{
+  "slug": "domaine-lafarge-vial-chiroubles",
+  "name": "Domaine Lafarge-Vial Chiroubles",
+  "winery": null,
+  "winery_name": "Domaine Lafarge-Vial",
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Chiroubles",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Domaine Lafarge-Vial Chiroubles es un vino tinto de Domaine Lafarge-Vial, con la denominación AOC Chiroubles, en Francia.",
+    "en": "Domaine Lafarge-Vial Chiroubles is a red wine from Domaine Lafarge-Vial, made under the AOC Chiroubles appellation in France.",
+    "fr": "Domaine Lafarge-Vial Chiroubles est un vin rouge de Domaine Lafarge-Vial, élaboré sous l’appellation AOC Chiroubles (France).",
+    "it": "Domaine Lafarge-Vial Chiroubles è un vino rosso di Domaine Lafarge-Vial, prodotto nella denominazione AOC Chiroubles (Francia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 12,5 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Domaine Lafarge-Vial Chiroubles Domaine Lafarge-Vial",
+  "brief": true,
+  "source": "decantalo"
+}

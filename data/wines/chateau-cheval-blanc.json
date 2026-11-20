@@ -1,0 +1,41 @@
+{
+  "slug": "chateau-cheval-blanc",
+  "name": "Château Cheval Blanc",
+  "winery": "chateau-cheval-blanc",
+  "region": "saint-emilion",
+  "country": "francia",
+  "type": "tinto",
+  "category": null,
+  "grapes": ["cabernet-franc", "merlot"],
+  "summary": {
+    "es": "El gran vino de Château Cheval Blanc, un Saint-Émilion en el que el Cabernet Franc tiene un papel protagonista junto al Merlot.",
+    "en": "The grand vin of Château Cheval Blanc, a Saint-Émilion in which Cabernet Franc plays a leading role alongside Merlot.",
+    "fr": "Le grand vin du Château Cheval Blanc, un saint-émilion où le cabernet franc joue un rôle de premier plan aux côtés du merlot.",
+    "it": "Il grand vin di Château Cheval Blanc, un Saint-Émilion in cui il Cabernet Franc ha un ruolo da protagonista accanto al Merlot."
+  },
+  "body": {
+    "es": "<p>El gran vino de Cheval Blanc procede de un viñedo de gravas y arcillas situado en el límite entre Saint-Émilion y Pomerol. A diferencia de la mayoría de los vinos de la orilla derecha de Burdeos, dominados por el Merlot, aquí el Cabernet Franc suele representar alrededor de la mitad del ensamblaje o más.</p><p>Las parcelas se vinifican por separado en la bodega inaugurada en 2011 y el vino se cría en barricas de roble francés nuevas. La selección es estricta: los lotes que no se destinan al gran vino pasan al segundo vino, Le Petit Cheval, o a otros vinos.</p><p>Desde 2022 se comercializa sin mención de clasificación, tras la decisión de la propiedad de no presentarse a la revisión de la clasificación de Saint-Émilion. Es un vino de gran finura, con una fruta expresiva desde joven y una notable capacidad de envejecimiento.</p>",
+    "en": "<p>Cheval Blanc’s grand vin comes from a vineyard of gravel and clay on the border between Saint-Émilion and Pomerol. Unlike most wines from Bordeaux’s Right Bank, which are dominated by Merlot, here Cabernet Franc usually makes up around half of the blend or more.</p><p>The plots are vinified separately in the winery inaugurated in 2011 and the wine is aged in new French oak barrels. Selection is strict: lots not used for the grand vin go into the second wine, Le Petit Cheval, or other wines.</p><p>Since 2022 it has been sold without a classification mention, following the estate’s decision not to apply for the revision of the Saint-Émilion classification. It is a wine of great finesse, with expressive fruit from youth and remarkable ageing potential.</p>",
+    "fr": "<p>Le grand vin de Cheval Blanc provient d’un vignoble de graves et d’argiles situé à la limite de Saint-Émilion et de Pomerol. Contrairement à la plupart des vins de la rive droite bordelaise, dominés par le merlot, le cabernet franc représente ici généralement la moitié de l’assemblage, voire davantage.</p><p>Les parcelles sont vinifiées séparément dans le chai inauguré en 2011 et le vin est élevé en barriques de chêne français neuves. La sélection est stricte : les lots non retenus pour le grand vin vont au second vin, Le Petit Cheval, ou à d’autres vins.</p><p>Depuis 2022, il est commercialisé sans mention de classement, la propriété ayant décidé de ne pas se présenter à la révision du classement de Saint-Émilion. C’est un vin d’une grande finesse, au fruit expressif dès sa jeunesse et au remarquable potentiel de garde.</p>",
+    "it": "<p>Il grand vin di Cheval Blanc proviene da un vigneto di ghiaie e argille al confine tra Saint-Émilion e Pomerol. A differenza della maggior parte dei vini della Rive Droite bordolese, dominati dal Merlot, qui il Cabernet Franc rappresenta di solito circa la metà dell’assemblaggio o più.</p><p>Le parcelle sono vinificate separatamente nella cantina inaugurata nel 2011 e il vino affina in barrique nuove di rovere francese. La selezione è rigorosa: i lotti non destinati al grand vin passano al secondo vino, Le Petit Cheval, o ad altri vini.</p><p>Dal 2022 è commercializzato senza menzione di classificazione, dopo la decisione della tenuta di non candidarsi alla revisione della classificazione di Saint-Émilion. È un vino di grande finezza, con un frutto espressivo già da giovane e una notevole capacità di invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Rubí profundo. Aromas de frutos rojos y negros, violeta, especias, notas de grafito y hierbas finas aportadas por el Cabernet Franc. En boca es sedoso y fresco, con tanino muy fino y final largo.",
+    "en": "Deep ruby. Aromas of red and black fruit, violet, spice, graphite and fine herbal notes from the Cabernet Franc. Silky and fresh on the palate, with very fine tannins and a long finish.",
+    "fr": "Rubis profond. Arômes de fruits rouges et noirs, de violette, d’épices, avec des notes de graphite et d’herbes fines apportées par le cabernet franc. En bouche, soyeux et frais, aux tanins très fins et à la finale longue.",
+    "it": "Rubino profondo. Aromi di frutti rossi e neri, violetta, spezie, note di grafite ed erbe fini date dal Cabernet Franc. In bocca è setoso e fresco, con tannino finissimo e finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero lechal, pichón, solomillo, trufa, quesos curados",
+    "en": "Milk-fed lamb, pigeon, beef fillet, truffle, aged cheeses",
+    "fr": "Agneau de lait, pigeon, filet de bœuf, truffe, fromages affinés",
+    "it": "Agnello da latte, piccione, filetto di manzo, tartufo, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de Burdeos; conviene decantarlo",
+    "en": "16-18 °C, Bordeaux glass; decanting recommended",
+    "fr": "16-18 °C, verre à bordeaux ; carafage conseillé",
+    "it": "16-18 °C, calice da Bordeaux; consigliata la decantazione"
+  },
+  "search": "Château Cheval Blanc Saint-Émilion"
+}

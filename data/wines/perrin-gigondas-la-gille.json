@@ -1,0 +1,49 @@
+{
+  "slug": "perrin-gigondas-la-gille",
+  "name": "Gigondas La Gille",
+  "winery": "famille-perrin",
+  "region": "gigondas",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "AOP Gigondas",
+    "en": "AOP Gigondas",
+    "fr": "AOP Gigondas",
+    "it": "AOP Gigondas"
+  },
+  "grapes": [
+    "garnacha",
+    "syrah"
+  ],
+  "summary": {
+    "es": "Gigondas de la Famille Perrin, un tinto basado en la Garnacha de las laderas al pie de los Dentelles de Montmirail.",
+    "en": "Gigondas from the Perrin family, a Grenache-based red from the slopes at the foot of the Dentelles de Montmirail.",
+    "fr": "Gigondas de la Famille Perrin, un rouge fondé sur le grenache des coteaux situés au pied des Dentelles de Montmirail.",
+    "it": "Gigondas della famiglia Perrin, un rosso basato sul Grenache dei pendii ai piedi delle Dentelles de Montmirail."
+  },
+  "body": {
+    "es": "<p>La <strong>Famille Perrin</strong>, propietaria del Château de Beaucastel en Châteauneuf-du-Pape, elabora también una gama de vinos de los principales crus del Ródano meridional, a partir de viñedos propios y de uvas de viticultores con los que trabaja de forma estable.</p><p><strong>Gigondas</strong> fue el primer pueblo de las Côtes du Rhône en obtener, en 1971, una denominación propia. Sus viñedos ascienden por las laderas que rodean los Dentelles de Montmirail, unas crestas calcáreas que dan a la zona una altitud mayor y noches más frescas que en la llanura. La Garnacha es la variedad dominante, acompañada de Syrah y Mourvèdre.</p><p>La Gille es el Gigondas de la gama de la familia. De forma general, combina la madurez y la generosidad de la Garnacha con la frescura que aportan los suelos calcáreos y la altitud. Es un tinto de buena estructura que se beneficia de unos años en botella.</p>",
+    "en": "<p>The <strong>Perrin family</strong>, owners of Château de Beaucastel in Châteauneuf-du-Pape, also make a range of wines from the main crus of the southern Rhône, from their own vineyards and from grapes supplied by growers they work with on a long-term basis.</p><p><strong>Gigondas</strong> was the first village of the Côtes du Rhône to gain, in 1971, an appellation of its own. Its vineyards climb the slopes around the Dentelles de Montmirail, limestone crests that give the area higher altitude and cooler nights than the plain. Grenache is the dominant variety, accompanied by Syrah and Mourvèdre.</p><p>La Gille is the family's Gigondas. In general terms, it combines the ripeness and generosity of Grenache with the freshness brought by limestone soils and altitude. It is a well-structured red that benefits from a few years in bottle.</p>",
+    "fr": "<p>La <strong>Famille Perrin</strong>, propriétaire du Château de Beaucastel à Châteauneuf-du-Pape, élabore aussi une gamme de vins des principaux crus du Rhône méridional, à partir de ses propres vignes et de raisins de vignerons avec lesquels elle travaille durablement.</p><p><strong>Gigondas</strong> fut le premier village des Côtes du Rhône à obtenir, en 1971, sa propre appellation. Ses vignes grimpent sur les coteaux qui entourent les Dentelles de Montmirail, des crêtes calcaires qui donnent au secteur une altitude plus élevée et des nuits plus fraîches que dans la plaine. Le grenache y domine, accompagné de la syrah et du mourvèdre.</p><p>La Gille est le Gigondas de la gamme familiale. De manière générale, il associe la maturité et la générosité du grenache à la fraîcheur qu'apportent les sols calcaires et l'altitude. C'est un rouge bien structuré qui gagne à passer quelques années en bouteille.</p>",
+    "it": "<p>La <strong>famiglia Perrin</strong>, proprietaria del Château de Beaucastel a Châteauneuf-du-Pape, produce anche una gamma di vini dai principali cru del Rodano meridionale, da vigneti propri e da uve di viticoltori con cui collabora stabilmente.</p><p><strong>Gigondas</strong> fu il primo villaggio delle Côtes du Rhône a ottenere, nel 1971, una denominazione propria. I suoi vigneti salgono lungo i pendii che circondano le Dentelles de Montmirail, creste calcaree che danno alla zona un'altitudine maggiore e notti più fresche rispetto alla pianura. Il Grenache è il vitigno dominante, accompagnato da Syrah e Mourvèdre.</p><p>La Gille è il Gigondas della gamma di famiglia. In linea generale unisce la maturità e la generosità del Grenache alla freschezza data dai suoli calcarei e dall'altitudine. È un rosso ben strutturato che beneficia di qualche anno in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rojo granate intenso. Aromas de cereza negra, frambuesa madura, especias, regaliz y hierbas de garriga. Boca generosa y fresca, de taninos firmes.",
+    "en": "Deep garnet red. Aromas of black cherry, ripe raspberry, spice, liquorice and garrigue herbs. Generous yet fresh palate with firm tannins.",
+    "fr": "Rouge grenat intense. Arômes de cerise noire, de framboise mûre, d'épices, de réglisse et d'herbes de garrigue. Bouche généreuse et fraîche, aux tanins fermes.",
+    "it": "Rosso granato intenso. Aromi di ciliegia nera, lampone maturo, spezie, liquirizia ed erbe di gariga. In bocca è generoso e fresco, con tannini decisi."
+  },
+  "pairing": {
+    "es": "Cordero asado, caza, estofados, setas, quesos curados",
+    "en": "Roast lamb, game, braised meats, mushrooms, aged cheeses",
+    "fr": "Agneau rôti, gibier, viandes braisées, champignons, fromages affinés",
+    "it": "Agnello arrosto, selvaggina, brasati, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Gigondas La Gille Famille Perrin"
+}

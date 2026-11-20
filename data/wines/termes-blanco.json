@@ -1,0 +1,42 @@
+{
+  "slug": "termes-blanco",
+  "name": "Termes Blanco",
+  "winery": "numanthia",
+  "winery_name": null,
+  "region": "toro",
+  "country": "espana",
+  "appellation": "DO Toro",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "malvasia"
+  ],
+  "summary": {
+    "es": "Termes Blanco es un vino blanco de Bodega Numanthia, con la denominación DO Toro, en España.",
+    "en": "Termes Blanco is a white wine from Bodega Numanthia, made under the DO Toro appellation in Spain.",
+    "fr": "Termes Blanco est un vin blanc de Bodega Numanthia, élaboré sous l’appellation DO Toro (Espagne).",
+    "it": "Termes Blanco è un vino bianco di Bodega Numanthia, prodotto nella denominazione DO Toro (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Malvasía. Tiene crianza en madera. Su graduación es de 13 % vol.</p><p>Bodega de la D.O. Toro, en Valdefinjas (Zamora), conocida por tintos concentrados de Tinta de Toro procedentes de viñas viejas.</p><p>Toro es una denominación de origen de Zamora y Valladolid, a orillas del Duero, reconocida en 1987. Sus tintos de Tinta de Toro, variante local de la Tempranillo, destacan por su color intenso, su estructura y su madurez.</p>",
+    "en": "<p>It is made from Malvasia. It is aged in wood. It has 13% ABV.</p><p>Winery in the Toro D.O., in Valdefinjas (Zamora), known for concentrated Tinta de Toro reds from old vines.</p><p>Toro is a designation of origin in Zamora and Valladolid, on the banks of the Duero, recognised in 1987. Its reds from Tinta de Toro, the local form of Tempranillo, are noted for their deep colour, structure and ripeness.</p>",
+    "fr": "<p>Il est élaboré à partir de Malvoisie. Il est élevé en bois. Il titre 13 % vol.</p><p>Bodega de la D.O. Toro, à Valdefinjas (Zamora), connue pour ses rouges concentrés de tinta de toro issus de vieilles vignes.</p><p>Toro est une dénomination d'origine de Zamora et de Valladolid, sur les rives du Douro, reconnue en 1987. Ses rouges de tinta de Toro, forme locale du tempranillo, se distinguent par leur couleur intense, leur structure et leur maturité.</p>",
+    "it": "<p>È prodotto con Malvasia. È affinato in legno. Ha 13% vol.</p><p>Cantina della D.O. Toro, a Valdefinjas (Zamora), nota per rossi concentrati di Tinta de Toro da vigne vecchie.</p><p>Toro è una denominazione di origine di Zamora e Valladolid, sulle rive del Duero, riconosciuta nel 1987. I suoi rossi di Tinta de Toro, forma locale del Tempranillo, si distinguono per colore intenso, struttura e maturità.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Termes Blanco Numanthia",
+  "brief": true,
+  "source": "decantalo"
+}

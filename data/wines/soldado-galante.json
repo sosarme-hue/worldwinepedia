@@ -1,0 +1,40 @@
+{
+  "slug": "soldado-galante",
+  "name": "Soldado Galante",
+  "winery": null,
+  "winery_name": "Malahierba",
+  "region": null,
+  "country": "espana",
+  "appellation": "DO Sierra de Salamanca",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Soldado Galante es un vino tinto de Malahierba, con la denominación DO Sierra de Salamanca, en España.",
+    "en": "Soldado Galante is a red wine from Malahierba, made under the DO Sierra de Salamanca appellation in Spain.",
+    "fr": "Soldado Galante est un vin rouge de Malahierba, élaboré sous l’appellation DO Sierra de Salamanca (Espagne).",
+    "it": "Soldado Galante è un vino rosso di Malahierba, prodotto nella denominazione DO Sierra de Salamanca (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 13% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Soldado Galante Malahierba",
+  "brief": true,
+  "source": "decantalo"
+}

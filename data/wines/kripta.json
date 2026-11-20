@@ -1,0 +1,50 @@
+{
+  "slug": "kripta",
+  "name": "Kripta",
+  "winery": "agusti-torello-mata",
+  "region": "cava",
+  "country": "espana",
+  "type": "espumoso",
+  "category": {
+    "es": "Gran Reserva Brut Nature",
+    "en": "Gran Reserva Brut Nature",
+    "fr": "Gran Reserva Brut Nature",
+    "it": "Gran Reserva Brut Nature"
+  },
+  "grapes": [
+    "macabeo",
+    "xarel-lo",
+    "parellada"
+  ],
+  "summary": {
+    "es": "Cava Gran Reserva Brut Nature de Agustí Torelló Mata, célebre por su botella en forma de ánfora que no se sostiene en pie.",
+    "en": "Gran Reserva Brut Nature Cava from Agustí Torelló Mata, famous for its amphora-shaped bottle that cannot stand upright.",
+    "fr": "Cava Gran Reserva Brut Nature d'Agustí Torelló Mata, célèbre pour sa bouteille en forme d'amphore qui ne tient pas debout.",
+    "it": "Cava Gran Reserva Brut Nature di Agustí Torelló Mata, celebre per la bottiglia a forma di anfora che non si regge in piedi."
+  },
+  "body": {
+    "es": "<p>Kripta es el vino más conocido de Agustí Torelló Mata y uno de los cavas de prestigio más reconocibles por su presentación: una botella con forma de <strong>ánfora</strong>, sin base plana, que debe reposar tumbada o en una cubitera. Su nombre evoca las criptas subterráneas donde se cría el vino.</p><p>Se elabora con <strong>macabeo</strong>, <strong>xarel·lo</strong> y <strong>parellada</strong> de viñedos viejos del Alt Penedès, en proporciones que varían según la añada. Es un cava de añada que sigue el método tradicional y que, como <strong>Gran Reserva</strong>, permanece más de treinta meses sobre lías; en la práctica, la casa prolonga la crianza durante varios años. Es un <strong>brut nature</strong>, sin azúcar añadido en la expedición. La larga crianza le da una textura cremosa y aromas de evolución, mientras que la acidez de las variedades autóctonas mantiene su frescura. Es un espumoso pensado para la mesa y para ocasiones especiales.</p>",
+    "en": "<p>Kripta is Agustí Torelló Mata's best-known wine and one of the most recognisable prestige Cavas thanks to its presentation: an <strong>amphora</strong>-shaped bottle with no flat base, which must lie on its side or rest in an ice bucket. Its name evokes the underground crypts where the wine is aged.</p><p>It is made from <strong>Macabeo</strong>, <strong>Xarel·lo</strong> and <strong>Parellada</strong> from old Alt Penedès vineyards, in proportions that vary with the vintage. It is a vintage Cava made by the traditional method which, as a <strong>Gran Reserva</strong>, spends more than thirty months on its lees; in practice, the house extends the ageing for several years. It is a <strong>Brut Nature</strong>, with no sugar added at dosage. The long ageing gives it a creamy texture and evolved aromas, while the acidity of the native varieties keeps it fresh. It is a sparkling wine designed for the table and for special occasions.</p>",
+    "fr": "<p>Kripta est le vin le plus connu d'Agustí Torelló Mata et l'un des cavas de prestige les plus reconnaissables par sa présentation : une bouteille en forme d'<strong>amphore</strong>, sans fond plat, qui doit reposer couchée ou dans un seau à glace. Son nom évoque les cryptes souterraines où le vin vieillit.</p><p>Il est élaboré avec du <strong>macabeo</strong>, du <strong>xarel·lo</strong> et du <strong>parellada</strong> de vieilles vignes de l'Alt Penedès, dans des proportions qui varient selon le millésime. C'est un cava millésimé, élaboré selon la méthode traditionnelle, qui, en tant que <strong>Gran Reserva</strong>, passe plus de trente mois sur lies ; en pratique, la maison prolonge l'élevage pendant plusieurs années. C'est un <strong>brut nature</strong>, sans sucre ajouté à l'expédition. Le long élevage lui donne une texture crémeuse et des arômes d'évolution, tandis que l'acidité des cépages autochtones préserve sa fraîcheur. C'est un effervescent pensé pour la table et les grandes occasions.</p>",
+    "it": "<p>Kripta è il vino più noto di Agustí Torelló Mata e uno dei Cava di prestigio più riconoscibili per la sua presentazione: una bottiglia a forma di <strong>anfora</strong>, priva di fondo piatto, che deve stare coricata o in un secchiello. Il nome evoca le cripte sotterranee in cui il vino affina.</p><p>È prodotto con <strong>Macabeo</strong>, <strong>Xarel·lo</strong> e <strong>Parellada</strong> di vecchie vigne dell'Alt Penedès, in proporzioni che variano secondo l'annata. È un Cava millesimato prodotto con il metodo classico che, in quanto <strong>Gran Reserva</strong>, resta oltre trenta mesi sui lieviti; in pratica la casa prolunga l'affinamento per diversi anni. È un <strong>Brut Nature</strong>, senza zucchero aggiunto alla sboccatura. Il lungo affinamento gli dona una consistenza cremosa e aromi evoluti, mentre l'acidità delle varietà autoctone ne preserva la freschezza. È uno spumante pensato per la tavola e per le occasioni speciali.</p>"
+  },
+  "tasting": {
+    "es": "Dorado con burbuja muy fina. Aromas de fruta blanca madura, frutos secos, pan tostado y notas de crianza. En boca es cremoso, complejo y seco, con final largo.",
+    "en": "Golden with very fine bubbles. Aromas of ripe white fruit, nuts, toast and ageing notes. Creamy, complex and dry on the palate, with a long finish.",
+    "fr": "Doré à la bulle très fine. Arômes de fruits blancs mûrs, de fruits secs, de pain grillé et notes d'élevage. En bouche, crémeux, complexe et sec, avec une longue finale.",
+    "it": "Dorato con perlage finissimo. Aromi di frutta bianca matura, frutta secca, pane tostato e note di affinamento. In bocca è cremoso, complesso e secco, con finale lungo."
+  },
+  "pairing": {
+    "es": "Marisco, pescados nobles, aves, arroces melosos, quesos curados",
+    "en": "Shellfish, fine fish, poultry, creamy rice dishes, aged cheeses",
+    "fr": "Fruits de mer, poissons nobles, volailles, riz crémeux, fromages affinés",
+    "it": "Frutti di mare, pesci pregiati, pollame, risi cremosi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Kripta Agustí Torelló Mata Gran Reserva Brut Nature"
+}

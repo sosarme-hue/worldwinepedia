@@ -1,0 +1,42 @@
+{
+  "slug": "enate-chardonnay-barrica",
+  "name": "Enate Chardonnay Barrica",
+  "winery": "enate",
+  "winery_name": null,
+  "region": "somontano",
+  "country": "espana",
+  "appellation": "DO Somontano",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Enate Chardonnay Barrica es un vino blanco de Enate, con la denominación DO Somontano, en España.",
+    "en": "Enate Chardonnay Barrica is a white wine from Enate, made under the DO Somontano appellation in Spain.",
+    "fr": "Enate Chardonnay Barrica est un vin blanc de Enate, élaboré sous l’appellation DO Somontano (Espagne).",
+    "it": "Enate Chardonnay Barrica è un vino bianco di Enate, prodotto nella denominazione DO Somontano (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Chardonnay. Tiene crianza en madera. Su graduación es de 14 % vol.</p><p>Bodega de Salas Bajas (Huesca), una de las impulsoras del Somontano moderno, conocida por unir vino y arte contemporáneo en sus etiquetas.</p><p>Somontano es una denominación de origen de la provincia de Huesca, al pie de los Pirineos, con Barbastro como centro. Combina variedades autóctonas como Moristel y Parraleta con un amplio abanico de uvas internacionales.</p>",
+    "en": "<p>It is made from Chardonnay. It is aged in wood. It has 14% ABV.</p><p>Winery in Salas Bajas (Huesca), one of the driving forces of modern Somontano, known for combining wine and contemporary art on its labels.</p><p>Somontano is a designation of origin in the province of Huesca, at the foot of the Pyrenees, centred on Barbastro. It combines native varieties such as Moristel and Parraleta with a wide range of international grapes.</p>",
+    "fr": "<p>Il est élaboré à partir de Chardonnay. Il est élevé en bois. Il titre 14 % vol.</p><p>Bodega de Salas Bajas (Huesca), l’un des moteurs du Somontano moderne, connue pour associer vin et art contemporain sur ses étiquettes.</p><p>Le Somontano est une dénomination d'origine de la province de Huesca, au pied des Pyrénées, centrée sur Barbastro. Il associe des cépages autochtones comme le moristel et la parraleta à une large palette de cépages internationaux.</p>",
+    "it": "<p>È prodotto con Chardonnay. È affinato in legno. Ha 14% vol.</p><p>Cantina di Salas Bajas (Huesca), una delle protagoniste del Somontano moderno, nota per unire vino e arte contemporanea nelle sue etichette.</p><p>Somontano è una denominazione di origine della provincia di Huesca, ai piedi dei Pirenei, con Barbastro come centro. Unisce vitigni autoctoni come Moristel e Parraleta a un'ampia gamma di uve internazionali.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Enate Chardonnay Barrica Enate",
+  "brief": true,
+  "source": "decantalo"
+}

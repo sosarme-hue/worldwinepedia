@@ -1,0 +1,40 @@
+{
+  "slug": "jasci-montepulciano-d-abruzzo",
+  "name": "Jasci Montepulciano d'Abruzzo",
+  "winery": null,
+  "winery_name": "Jasci",
+  "region": null,
+  "country": "italia",
+  "appellation": "DOC Montepulciano d'Abruzzo",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Jasci Montepulciano d'Abruzzo es un vino tinto de Jasci, con la denominación DOC Montepulciano d'Abruzzo, en Italia.",
+    "en": "Jasci Montepulciano d'Abruzzo is a red wine from Jasci, made under the DOC Montepulciano d'Abruzzo appellation in Italy.",
+    "fr": "Jasci Montepulciano d'Abruzzo est un vin rouge de Jasci, élaboré sous l’appellation DOC Montepulciano d'Abruzzo (Italie).",
+    "it": "Jasci Montepulciano d'Abruzzo è un vino rosso di Jasci, prodotto nella denominazione DOC Montepulciano d'Abruzzo (Italia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 14% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Jasci Montepulciano d'Abruzzo Jasci",
+  "brief": true,
+  "source": "decantalo"
+}

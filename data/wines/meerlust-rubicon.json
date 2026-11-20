@@ -1,0 +1,45 @@
+{
+  "slug": "meerlust-rubicon",
+  "name": "Meerlust Rubicon",
+  "winery": "meerlust",
+  "region": "stellenbosch",
+  "country": "sudafrica",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Mezcla de tipo bordelés de Meerlust, en Stellenbosch, cuya primera cosecha fue la de 1980. Se cuenta entre las primeras mezclas de este tipo elaboradas en Sudáfrica.",
+    "en": "Bordeaux-style blend from Meerlust, in Stellenbosch, whose first vintage was 1980. It is among the first blends of this kind made in South Africa.",
+    "fr": "Assemblage de type bordelais de Meerlust, à Stellenbosch, dont le premier millésime fut 1980. Il compte parmi les premiers assemblages de ce genre élaborés en Afrique du Sud.",
+    "it": "Uvaggio di stile bordolese di Meerlust, a Stellenbosch, la cui prima annata fu il 1980. È tra i primi uvaggi di questo tipo prodotti in Sudafrica."
+  },
+  "body": {
+    "es": "<p>Rubicon nació del proyecto de Nico Myburgh, que en los años setenta replantó los viñedos de Meerlust con variedades bordelesas con la idea de elaborar una gran mezcla de guarda. Su nombre alude a la expresión «cruzar el Rubicón», en referencia a una decisión sin vuelta atrás, ya que en aquella época las mezclas de este tipo eran casi desconocidas en Sudáfrica. La primera cosecha comercializada fue la de 1980.</p><p>El vino se elabora con Cabernet Sauvignon, que suele ser mayoritario, Merlot y Cabernet Franc, y en algunas añadas con una pequeña parte de Petit Verdot, todo ello procedente de los viñedos de la finca, cercanos a False Bay. Cada variedad se vinifica por separado y el vino se cría en barricas de roble francés antes de componer la mezcla final. Meerlust suele mantenerlo varios años en botella antes de sacarlo al mercado. Su estilo es clásico y contenido, de fruta madura pero fresca y taninos finos.</p>",
+    "en": "<p>Rubicon was born of the project of Nico Myburgh, who in the 1970s replanted Meerlust’s vineyards with Bordeaux varieties with the aim of making a great age-worthy blend. Its name alludes to the expression “crossing the Rubicon”, referring to a decision with no going back, since at the time blends of this kind were almost unknown in South Africa. The first commercial vintage was 1980.</p><p>The wine is made from Cabernet Sauvignon, usually the majority, Merlot and Cabernet Franc, and in some vintages a small proportion of Petit Verdot, all from the estate’s vineyards near False Bay. Each variety is vinified separately and the wine is aged in French oak barrels before the final blend is assembled. Meerlust usually keeps it several years in bottle before release. Its style is classic and restrained, with ripe but fresh fruit and fine tannins.</p>",
+    "fr": "<p>Rubicon est né du projet de Nico Myburgh qui, dans les années 1970, replanta les vignes de Meerlust en cépages bordelais dans le but d’élaborer un grand assemblage de garde. Son nom fait allusion à l’expression « franchir le Rubicon », c’est-à-dire prendre une décision sans retour, car à l’époque ce type d’assemblage était presque inconnu en Afrique du Sud. Le premier millésime commercialisé fut 1980.</p><p>Le vin est élaboré à partir de cabernet-sauvignon, généralement majoritaire, de merlot et de cabernet franc, et certaines années d’une petite part de petit verdot, le tout issu des vignes du domaine proches de False Bay. Chaque cépage est vinifié séparément et le vin est élevé en barriques de chêne français avant l’assemblage final. Meerlust le garde généralement plusieurs années en bouteille avant de le commercialiser. Son style est classique et retenu, au fruit mûr mais frais et aux tanins fins.</p>",
+    "it": "<p>Rubicon nacque dal progetto di Nico Myburgh, che negli anni Settanta reimpiantò i vigneti di Meerlust con vitigni bordolesi con l’obiettivo di produrre un grande uvaggio da invecchiamento. Il nome allude all’espressione «passare il Rubicone», cioè prendere una decisione senza ritorno, poiché all’epoca uvaggi di questo tipo erano quasi sconosciuti in Sudafrica. La prima annata commercializzata fu il 1980.</p><p>Il vino è prodotto con Cabernet Sauvignon, di solito maggioritario, Merlot e Cabernet Franc, e in alcune annate con una piccola parte di Petit Verdot, tutti provenienti dai vigneti della tenuta vicini a False Bay. Ogni vitigno è vinificato separatamente e il vino affina in barrique di rovere francese prima dell’assemblaggio finale. Meerlust lo conserva di solito diversi anni in bottiglia prima di metterlo in commercio. Il suo stile è classico e misurato, con frutto maturo ma fresco e tannini fini.</p>"
+  },
+  "tasting": {
+    "es": "Cassis, cereza negra y ciruela, con notas de cedro, tabaco, hierbas y especias. Boca elegante, de taninos finos y buena acidez.",
+    "en": "Cassis, black cherry and plum, with notes of cedar, tobacco, herbs and spice. Elegant palate with fine tannins and good acidity.",
+    "fr": "Cassis, cerise noire et prune, avec des notes de cèdre, de tabac, d’herbes et d’épices. Bouche élégante, aux tanins fins et à la bonne acidité.",
+    "it": "Cassis, ciliegia nera e prugna, con note di cedro, tabacco, erbe e spezie. Bocca elegante, con tannini fini e buona acidità."
+  },
+  "pairing": {
+    "es": "Cordero, ternera asada, pato, quesos curados",
+    "en": "Lamb, roast beef, duck, aged cheeses",
+    "fr": "Agneau, rôti de bœuf, canard, fromages affinés",
+    "it": "Agnello, arrosto di manzo, anatra, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Meerlust Rubicon Stellenbosch"
+}

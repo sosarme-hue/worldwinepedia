@@ -1,0 +1,50 @@
+{
+  "slug": "beronia-crianza",
+  "name": "Beronia Crianza",
+  "winery": "beronia",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Crianza",
+    "en": "Crianza",
+    "fr": "Crianza",
+    "it": "Crianza"
+  },
+  "grapes": [
+    "tempranillo",
+    "garnacha",
+    "carinena"
+  ],
+  "summary": {
+    "es": "Crianza de estilo clásico de Bodegas Beronia, en Ollauri, elaborado con Tempranillo, Garnacha y Mazuelo y criado al menos un año en barrica.",
+    "en": "Classic-style Crianza from Bodegas Beronia in Ollauri, made from Tempranillo, Garnacha and Mazuelo and aged for at least a year in barrel.",
+    "fr": "Crianza de style classique de Bodegas Beronia, à Ollauri, élaboré avec du tempranillo, du grenache et du mazuelo et élevé au moins un an en barrique.",
+    "it": "Crianza di stile classico di Bodegas Beronia, a Ollauri, prodotto con Tempranillo, Garnacha e Mazuelo e affinato almeno un anno in barrique."
+  },
+  "body": {
+    "es": "<p>Beronia Crianza es uno de los vinos más conocidos de la bodega de Ollauri, en la Rioja Alta. Se elabora con una mezcla en la que predomina el Tempranillo, acompañado de Garnacha, que aporta fruta y redondez, y de Mazuelo (Cariñena), que suma acidez y estructura. Las proporciones cambian según la añada.</p><p>Tras la fermentación, el vino se cría en barrica de roble durante al menos un año, como exige la categoría Crianza en Rioja, y completa su envejecimiento con un periodo de reposo en botella antes de salir al mercado. La crianza en madera, con barricas en las que interviene el roble americano, aporta las notas de vainilla, coco y especias que caracterizan al Rioja clásico.</p><p>Es un tinto de cuerpo medio, equilibrado y fácil de beber, que puede disfrutarse en sus primeros años y que se adapta a una amplia variedad de platos.</p>",
+    "en": "<p>Beronia Crianza is one of the best-known wines from the Ollauri winery in Rioja Alta. It is made from a blend dominated by Tempranillo, accompanied by Garnacha, which brings fruit and roundness, and Mazuelo (Carignan), which adds acidity and structure. The proportions change with the vintage.</p><p>After fermentation the wine is aged in oak barrels for at least a year, as required for the Crianza category in Rioja, and completes its ageing with a period of bottle rest before release. Ageing in wood, in barrels involving American oak, provides the notes of vanilla, coconut and spice that characterise classic Rioja.</p><p>It is a medium-bodied, balanced and easy-drinking red that can be enjoyed in its first years and suits a wide variety of dishes.</p>",
+    "fr": "<p>Beronia Crianza est l’un des vins les plus connus de la bodega d’Ollauri, dans la Rioja Alta. Il est élaboré à partir d’un assemblage dominé par le tempranillo, accompagné de grenache, qui apporte fruit et rondeur, et de mazuelo (carignan), qui ajoute acidité et structure. Les proportions changent selon le millésime.</p><p>Après la fermentation, le vin est élevé en barrique de chêne pendant au moins un an, comme l’exige la catégorie Crianza dans la Rioja, et achève son vieillissement par une période de repos en bouteille avant la commercialisation. L’élevage sous bois, dans des barriques où intervient le chêne américain, apporte les notes de vanille, de noix de coco et d’épices caractéristiques du Rioja classique.</p><p>C’est un rouge de corps moyen, équilibré et facile à boire, qui peut s’apprécier dans ses premières années et s’accorde avec une grande variété de plats.</p>",
+    "it": "<p>Beronia Crianza è uno dei vini più noti della cantina di Ollauri, nella Rioja Alta. È prodotto con un assemblaggio in cui prevale il Tempranillo, accompagnato dalla Garnacha, che apporta frutto e rotondità, e dal Mazuelo (Carignano), che aggiunge acidità e struttura. Le proporzioni cambiano a seconda dell’annata.</p><p>Dopo la fermentazione il vino affina in barrique di rovere per almeno un anno, come richiede la categoria Crianza in Rioja, e completa l’invecchiamento con un periodo di riposo in bottiglia prima della messa in commercio. L’affinamento in legno, in barrique in cui interviene il rovere americano, apporta le note di vaniglia, cocco e spezie che caratterizzano il Rioja classico.</p><p>È un rosso di medio corpo, equilibrato e facile da bere, che si può gustare nei primi anni e si adatta a un’ampia varietà di piatti.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota de capa media. Fruta roja madura, vainilla, coco y especias. En boca es redondo, con taninos suaves y final afrutado.",
+    "en": "Medium-intensity deep cherry red. Ripe red fruit, vanilla, coconut and spice. Round on the palate, with soft tannins and a fruity finish.",
+    "fr": "Rouge cerise burlat de moyenne intensité. Fruits rouges mûrs, vanille, noix de coco et épices. Rond en bouche, aux tanins souples et à la finale fruitée.",
+    "it": "Rosso ciliegia di media intensità. Frutta rossa matura, vaniglia, cocco e spezie. In bocca è rotondo, con tannini morbidi e finale fruttato."
+  },
+  "pairing": {
+    "es": "Tapas, embutidos, carnes a la plancha, arroces de carne, pasta",
+    "en": "Tapas, charcuterie, grilled meat, meat rice dishes, pasta",
+    "fr": "Tapas, charcuterie, viandes à la plancha, riz à la viande, pâtes",
+    "it": "Tapas, salumi, carni alla piastra, risi con carne, pasta"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Beronia Crianza Rioja"
+}

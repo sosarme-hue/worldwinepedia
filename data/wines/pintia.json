@@ -1,0 +1,41 @@
+{
+  "slug": "pintia",
+  "name": "Pintia",
+  "winery": "vega-sicilia",
+  "region": "toro",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": ["tempranillo"],
+  "summary": {
+    "es": "Tinto de la D.O. Toro elaborado por el grupo Vega Sicilia con Tinta de Toro, potente y con crianza en barrica.",
+    "en": "Toro D.O. red made by the Vega Sicilia group from Tinta de Toro, powerful and barrel-aged.",
+    "fr": "Rouge de la D.O. Toro élaboré par le groupe Vega Sicilia avec de la tinta de toro, puissant et élevé en barrique.",
+    "it": "Rosso della D.O. Toro prodotto dal gruppo Vega Sicilia con Tinta de Toro, potente e affinato in botte."
+  },
+  "body": {
+    "es": "<p>Pintia es el proyecto del grupo Vega Sicilia en la Denominación de Origen Toro, con bodega propia en la zona, y su primera añada comercializada data de comienzos de la década de 2000. El nombre procede de un antiguo asentamiento vacceo situado en la cuenca del Duero.</p><p>Se elabora exclusivamente con Tinta de Toro, la adaptación local de la Tempranillo, de viñedos de la zona, muchos de ellos viejos y plantados en suelos arenosos y pedregosos. El clima continental extremo de Toro, con veranos muy calurosos, da uvas de piel gruesa, mucho color y gran concentración.</p><p>El vino se cría en barricas de roble y reposa después en botella antes de salir al mercado. El trabajo de la bodega busca domar la potencia natural de la Tinta de Toro para lograr un tinto concentrado pero equilibrado, con buena capacidad de guarda.</p>",
+    "en": "<p>Pintia is the Vega Sicilia group’s project in the Toro Designation of Origin, with its own winery in the area, and its first released vintage dates from the early 2000s. The name comes from an ancient Vaccaean settlement in the Duero basin.</p><p>It is made exclusively from Tinta de Toro, the local adaptation of Tempranillo, from vineyards in the area, many of them old and planted on sandy, stony soils. Toro’s extreme continental climate, with very hot summers, produces thick-skinned grapes with deep colour and great concentration.</p><p>The wine is aged in oak barrels and then rests in bottle before release. The winery’s approach seeks to tame Tinta de Toro’s natural power to achieve a concentrated yet balanced red with good ageing potential.</p>",
+    "fr": "<p>Pintia est le projet du groupe Vega Sicilia dans l’appellation d’origine Toro, avec sa propre bodega dans la zone, et son premier millésime commercialisé date du début des années 2000. Le nom vient d’un ancien établissement vaccéen situé dans le bassin du Duero.</p><p>Il est élaboré exclusivement avec de la tinta de toro, l’adaptation locale du tempranillo, issue de vignes de la zone, dont beaucoup sont âgées et plantées sur des sols sableux et caillouteux. Le climat continental extrême de Toro, aux étés très chauds, donne des raisins à peau épaisse, très colorés et très concentrés.</p><p>Le vin est élevé en barriques de chêne puis repose en bouteille avant sa commercialisation. Le travail de la maison cherche à dompter la puissance naturelle de la tinta de toro pour obtenir un rouge concentré mais équilibré, au bon potentiel de garde.</p>",
+    "it": "<p>Pintia è il progetto del gruppo Vega Sicilia nella Denominazione di Origine Toro, con una propria cantina nella zona, e la sua prima annata commercializzata risale all’inizio degli anni Duemila. Il nome deriva da un antico insediamento vacceo situato nel bacino del Duero.</p><p>È prodotto esclusivamente con Tinta de Toro, l’adattamento locale del Tempranillo, da vigneti della zona, molti dei quali vecchi e piantati su suoli sabbiosi e sassosi. Il clima continentale estremo di Toro, con estati molto calde, dà uve dalla buccia spessa, molto colore e grande concentrazione.</p><p>Il vino affina in botti di rovere e riposa poi in bottiglia prima di uscire sul mercato. Il lavoro della cantina cerca di domare la potenza naturale della Tinta de Toro per ottenere un rosso concentrato ma equilibrato, con buona capacità di invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Color picota muy intenso. Aromas de fruta negra madura, regaliz, especias, notas tostadas y minerales. En boca es potente y carnoso, con tanino abundante pero maduro y final largo.",
+    "en": "Very deep cherry-red colour. Aromas of ripe black fruit, liquorice, spice, toasty and mineral notes. Powerful and fleshy on the palate, with abundant but ripe tannins and a long finish.",
+    "fr": "Robe cerise noire très intense. Arômes de fruits noirs mûrs, de réglisse, d’épices, notes grillées et minérales. En bouche, puissant et charnu, aux tanins abondants mais mûrs et à la finale longue.",
+    "it": "Colore rosso ciliegia molto intenso. Aromi di frutta nera matura, liquirizia, spezie, note tostate e minerali. In bocca è potente e carnoso, con tannino abbondante ma maturo e finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, caza, guisos contundentes, quesos curados de oveja",
+    "en": "Chargrilled red meat, game, hearty stews, aged sheep’s cheeses",
+    "fr": "Viandes rouges à la braise, gibier, plats mijotés copieux, fromages de brebis affinés",
+    "it": "Carni rosse alla brace, cacciagione, stufati sostanziosi, pecorini stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia; conviene decantar",
+    "en": "16-18 °C, large glass; decanting is advisable",
+    "fr": "16-18 °C, verre ample ; il est conseillé de carafer",
+    "it": "16-18 °C, calice ampio; è consigliabile decantare"
+  },
+  "search": "Pintia Toro Vega Sicilia"
+}

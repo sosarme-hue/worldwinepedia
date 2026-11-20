@@ -1,0 +1,49 @@
+{
+  "slug": "ridgeview-bloomsbury",
+  "name": "Ridgeview Bloomsbury",
+  "winery": "ridgeview",
+  "region": "sussex",
+  "country": "inglaterra",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut",
+    "en": "Brut",
+    "fr": "Brut",
+    "it": "Brut"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Espumoso de método tradicional con predominio de Chardonnay, el vino más conocido de Ridgeview, que lleva el nombre de un barrio de Londres.",
+    "en": "Chardonnay-led traditional-method sparkling wine, Ridgeview’s best-known wine, named after a London district.",
+    "fr": "Effervescent de méthode traditionnelle à dominante de chardonnay, le vin le plus connu de Ridgeview, qui porte le nom d’un quartier de Londres.",
+    "it": "Spumante metodo classico a prevalenza di Chardonnay, il vino più noto di Ridgeview, che porta il nome di un quartiere di Londra."
+  },
+  "body": {
+    "es": "<p>Bloomsbury es el espumoso emblemático de Ridgeview y, como el resto de los vinos de la casa, toma su nombre de un barrio de Londres. Se elabora con las tres variedades clásicas del espumoso, con predominio de la Chardonnay y aportaciones de Pinot Noir y Pinot Meunier, a partir de la uva del viñedo propio de la bodega en East Sussex y de viticultores asociados del sur de Inglaterra.</p><p>El vino realiza la segunda fermentación en botella por el método tradicional y se cría sobre lías antes del degüelle. El predominio de la Chardonnay le da un perfil fresco, cítrico y elegante, mientras que las variedades tintas aportan cuerpo y fruta. Es un espumoso pensado para mostrar de forma accesible el estilo del sur de Inglaterra, con la acidez viva propia de su clima fresco. Se disfruta en su juventud, aunque admite algún tiempo de guarda.</p>",
+    "en": "<p>Bloomsbury is Ridgeview’s signature sparkling wine and, like the rest of the house’s wines, takes its name from a London district. It is made from the three classic sparkling wine varieties, led by Chardonnay with contributions from Pinot Noir and Pinot Meunier, using grapes from the winery’s own vineyard in East Sussex and from partner growers in southern England.</p><p>The wine undergoes its second fermentation in bottle by the traditional method and is aged on the lees before disgorgement. The predominance of Chardonnay gives it a fresh, citrus, elegant profile, while the red varieties add body and fruit. It is a sparkling wine designed to show the southern English style in an approachable way, with the lively acidity of its cool climate. It is enjoyed young, although it can take some time in bottle.</p>",
+    "fr": "<p>Bloomsbury est l’effervescent emblématique de Ridgeview et, comme les autres vins de la maison, il porte le nom d’un quartier de Londres. Il est élaboré avec les trois cépages classiques de l’effervescent, à dominante de chardonnay, complété par du pinot noir et du pinot meunier, à partir de raisins du vignoble du domaine dans l’East Sussex et de viticulteurs partenaires du sud de l’Angleterre.</p><p>Le vin effectue sa seconde fermentation en bouteille selon la méthode traditionnelle et vieillit sur lies avant le dégorgement. La prédominance du chardonnay lui donne un profil frais, citronné et élégant, tandis que les cépages noirs apportent corps et fruit. C’est un effervescent conçu pour montrer de façon accessible le style du sud de l’Angleterre, avec l’acidité vive propre à son climat frais. Il se savoure jeune, même s’il supporte une certaine garde.</p>",
+    "it": "<p>Bloomsbury è lo spumante simbolo di Ridgeview e, come gli altri vini della casa, prende il nome da un quartiere di Londra. È prodotto con le tre varietà classiche dello spumante, a prevalenza di Chardonnay con apporti di Pinot Nero e Pinot Meunier, con uve del vigneto della cantina nell’East Sussex e di viticoltori associati dell’Inghilterra meridionale.</p><p>Il vino svolge la seconda fermentazione in bottiglia secondo il metodo classico e affina sui lieviti prima della sboccatura. La prevalenza dello Chardonnay gli conferisce un profilo fresco, agrumato ed elegante, mentre le varietà a bacca nera apportano corpo e frutto. È uno spumante pensato per mostrare in modo accessibile lo stile dell’Inghilterra meridionale, con l’acidità vivace propria del suo clima fresco. Si gusta giovane, anche se sopporta un certo periodo di affinamento in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido con burbuja fina. Aromas de limón, manzana y melocotón blanco con un fondo de pan tostado. Boca fresca, equilibrada y de final limpio.",
+    "en": "Pale yellow with fine bubbles. Aromas of lemon, apple and white peach over a background of toast. Fresh and balanced on the palate, with a clean finish.",
+    "fr": "Jaune pâle à la bulle fine. Arômes de citron, de pomme et de pêche blanche sur un fond de pain grillé. Bouche fraîche, équilibrée, à la finale nette.",
+    "it": "Giallo paglierino tenue con perlage fine. Profumi di limone, mela e pesca bianca su un fondo di pane tostato. Bocca fresca, equilibrata e dal finale pulito."
+  },
+  "pairing": {
+    "es": "Aperitivo, canapés, fish and chips, marisco, ensaladas",
+    "en": "Aperitif, canapés, fish and chips, shellfish, salads",
+    "fr": "Apéritif, canapés, fish and chips, fruits de mer, salades",
+    "it": "Aperitivo, tartine, fish and chips, frutti di mare, insalate"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de vino blanco o tulipa",
+    "en": "6-8 °C, white wine glass or tulip",
+    "fr": "6-8 °C, verre à vin blanc ou tulipe",
+    "it": "6-8 °C, calice da vino bianco o tulipano"
+  },
+  "search": "Ridgeview Bloomsbury"
+}

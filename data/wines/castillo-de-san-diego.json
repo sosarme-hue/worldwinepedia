@@ -1,0 +1,43 @@
+{
+  "slug": "castillo-de-san-diego",
+  "name": "Castillo de San Diego",
+  "winery": "barbadillo",
+  "region": null,
+  "country": "espana",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "palomino"
+  ],
+  "summary": {
+    "es": "Vino blanco tranquilo de Barbadillo elaborado con palomino en la zona de Sanlúcar, muy popular en Andalucía.",
+    "en": "Still white wine from Barbadillo made from Palomino in the Sanlúcar area, very popular in Andalusia.",
+    "fr": "Vin blanc tranquille de Barbadillo élaboré avec du palomino dans la région de Sanlúcar, très populaire en Andalousie.",
+    "it": "Vino bianco fermo di Barbadillo prodotto con Palomino nella zona di Sanlúcar, molto popolare in Andalusia."
+  },
+  "body": {
+    "es": "<p>Castillo de San Diego es el vino blanco tranquilo de <strong>Barbadillo</strong>, la casa de Sanlúcar de Barrameda conocida por su manzanilla Solear. Se ha convertido en uno de los blancos más populares de Andalucía, presente en bares y restaurantes de toda la región.</p><p>A diferencia de los vinos de Jerez, no es un vino generoso: no se encabeza ni se cría bajo flor ni en soleras. Es un <strong>blanco joven</strong> elaborado con <strong>palomino</strong>, la misma uva del jerez, procedente de viñedos de albariza del entorno de Sanlúcar, y se ampara en la indicación geográfica de los vinos de la tierra de Cádiz. La uva se vendimia y se fermenta a temperatura controlada para conservar su frescura. La palomino, de acidez moderada y aromas discretos, da aquí un vino ligero, seco y fácil de beber, pensado para tomarse muy frío y en su primer año, a menudo como acompañante de pescados y mariscos de la costa gaditana.</p>",
+    "en": "<p>Castillo de San Diego is the still white wine of <strong>Barbadillo</strong>, the Sanlúcar de Barrameda house known for its Solear manzanilla. It has become one of the most popular whites in Andalusia, found in bars and restaurants throughout the region.</p><p>Unlike the wines of Jerez, it is not a fortified wine: it is neither fortified nor aged under flor or in soleras. It is a <strong>young white</strong> made from <strong>Palomino</strong>, the same grape as sherry, from albariza vineyards around Sanlúcar, and it falls under the geographical indication for Cádiz country wines. The grapes are harvested and fermented at controlled temperatures to preserve their freshness. Palomino, with moderate acidity and discreet aromas, gives a light, dry, easy-drinking wine here, meant to be drunk very cold and in its first year, often with the fish and shellfish of the Cádiz coast.</p>",
+    "fr": "<p>Castillo de San Diego est le vin blanc tranquille de <strong>Barbadillo</strong>, la maison de Sanlúcar de Barrameda connue pour sa manzanilla Solear. Il est devenu l'un des blancs les plus populaires d'Andalousie, présent dans les bars et les restaurants de toute la région.</p><p>Contrairement aux vins de Jerez, ce n'est pas un vin muté : il n'est ni muté ni élevé sous flor ou en soleras. C'est un <strong>blanc jeune</strong> élaboré avec du <strong>palomino</strong>, le même raisin que le xérès, issu de vignes d'albariza des environs de Sanlúcar, et il relève de l'indication géographique des vins de pays de Cadix. Le raisin est vendangé et fermenté à température contrôlée pour préserver sa fraîcheur. Le palomino, à l'acidité modérée et aux arômes discrets, donne ici un vin léger, sec et facile à boire, à servir très frais et dans sa première année, souvent avec les poissons et fruits de mer de la côte de Cadix.</p>",
+    "it": "<p>Castillo de San Diego è il vino bianco fermo di <strong>Barbadillo</strong>, la casa di Sanlúcar de Barrameda nota per la manzanilla Solear. È diventato uno dei bianchi più popolari dell'Andalusia, presente in bar e ristoranti di tutta la regione.</p><p>A differenza dei vini di Jerez, non è un vino liquoroso: non viene fortificato né affinato sotto flor o in soleras. È un <strong>bianco giovane</strong> prodotto con <strong>Palomino</strong>, la stessa uva dello sherry, da vigneti di albariza dei dintorni di Sanlúcar, e rientra nell'indicazione geografica dei vini della terra di Cadice. L'uva viene vendemmiata e fermentata a temperatura controllata per conservarne la freschezza. Il Palomino, di acidità moderata e aromi discreti, dà qui un vino leggero, secco e facile da bere, da servire molto freddo e nel primo anno, spesso con il pesce e i frutti di mare della costa di Cadice.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido con reflejos verdosos. Aromas sutiles de manzana, fruta blanca y notas herbáceas. En boca es ligero, seco y fresco.",
+    "en": "Pale yellow with greenish hints. Subtle aromas of apple, white fruit and herbaceous notes. Light, dry and fresh on the palate.",
+    "fr": "Jaune pâle aux reflets verts. Arômes subtils de pomme, de fruits blancs et notes herbacées. En bouche, léger, sec et frais.",
+    "it": "Giallo pallido con riflessi verdolini. Aromi sottili di mela, frutta bianca e note erbacee. In bocca è leggero, secco e fresco."
+  },
+  "pairing": {
+    "es": "Pescaíto frito, marisco, ensaladas, tapas",
+    "en": "Fried fish, shellfish, salads, tapas",
+    "fr": "Friture de poisson, fruits de mer, salades, tapas",
+    "it": "Frittura di pesce, frutti di mare, insalate, tapas"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de vino blanco",
+    "en": "6-8 °C, white wine glass",
+    "fr": "6-8 °C, verre à vin blanc",
+    "it": "6-8 °C, calice da vino bianco"
+  },
+  "search": "Castillo de San Diego Barbadillo blanco"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "deutz-brut-rose",
+  "name": "Deutz Brut Rosé",
+  "winery": "deutz",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut",
+    "en": "Brut",
+    "fr": "Brut",
+    "it": "Brut"
+  },
+  "grapes": [
+    "pinot-noir",
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Champán rosado brut sin añada de Deutz, basado en el Pinot Noir.",
+    "en": "Non-vintage brut rosé Champagne from Deutz, based on Pinot Noir.",
+    "fr": "Champagne rosé brut non millésimé de Deutz, à base de pinot noir.",
+    "it": "Champagne rosé brut senza annata di Deutz, a base di Pinot Noir."
+  },
+  "body": {
+    "es": "<p><strong>Deutz</strong>, fundada en 1838 en Aÿ, en la Vallée de la Marne, y hoy integrada en el grupo Louis Roederer, es conocida por un estilo de champán fino y equilibrado, que privilegia la elegancia frente a la potencia.</p><p>El <strong>Brut Rosé</strong> de Deutz se basa sobre todo en el <strong>Pinot Noir</strong>, completado con Chardonnay. Como la mayoría de los rosados de Champagne, se elabora por ensamblaje: al vino base blanco se le añade una pequeña proporción de vino tinto tranquilo de Pinot Noir, procedente en gran parte de la zona de Aÿ, que aporta el color y los aromas de frutos rojos. Tras la segunda fermentación en botella y una crianza sobre lías, se obtiene un rosado fresco y afrutado, de burbuja fina, con la elegancia propia de la casa. Se disfruta en su juventud, cuando la fruta está más viva, y acompaña bien tanto el aperitivo como platos de pescado o aves.</p>",
+    "en": "<p><strong>Deutz</strong>, founded in 1838 in Aÿ, in the Vallée de la Marne, and now part of the Louis Roederer group, is known for a fine, balanced style of Champagne that favours elegance over power.</p><p>Deutz <strong>Brut Rosé</strong> is based mainly on <strong>Pinot Noir</strong>, complemented by Chardonnay. Like most rosé Champagnes, it is made by blending: a small proportion of still red Pinot Noir wine, largely from the Aÿ area, is added to the white base wine, bringing colour and red-berry aromas. After the second fermentation in bottle and ageing on the lees, the result is a fresh, fruity rosé with fine bubbles and the elegance typical of the house. It is best enjoyed young, when the fruit is at its liveliest, and suits both aperitifs and fish or poultry dishes.</p>",
+    "fr": "<p><strong>Deutz</strong>, fondée en 1838 à Aÿ, dans la Vallée de la Marne, et aujourd’hui intégrée au groupe Louis Roederer, est connue pour un style de champagne fin et équilibré, qui privilégie l’élégance à la puissance.</p><p>Le <strong>Brut Rosé</strong> de Deutz repose surtout sur le <strong>pinot noir</strong>, complété par du chardonnay. Comme la plupart des rosés de Champagne, il est élaboré par assemblage : on ajoute au vin de base blanc une petite part de vin rouge tranquille de pinot noir, provenant en grande partie du secteur d’Aÿ, qui apporte la couleur et les arômes de fruits rouges. Après la prise de mousse en bouteille et un vieillissement sur lies, on obtient un rosé frais et fruité, à la bulle fine, empreint de l’élégance de la maison. Il se déguste dans sa jeunesse, lorsque le fruit est le plus vif, et convient aussi bien à l’apéritif qu’aux plats de poisson ou de volaille.</p>",
+    "it": "<p><strong>Deutz</strong>, fondata nel 1838 ad Aÿ, nella Vallée de la Marne, e oggi parte del gruppo Louis Roederer, è nota per uno stile di champagne fine ed equilibrato, che privilegia l’eleganza rispetto alla potenza.</p><p>Il <strong>Brut Rosé</strong> di Deutz si basa soprattutto sul <strong>Pinot Noir</strong>, completato dallo Chardonnay. Come la maggior parte dei rosé della Champagne, è prodotto per assemblaggio: al vino base bianco si aggiunge una piccola quota di vino rosso fermo di Pinot Noir, proveniente in gran parte dalla zona di Aÿ, che apporta colore e profumi di frutti rossi. Dopo la seconda fermentazione in bottiglia e la maturazione sui lieviti, si ottiene un rosé fresco e fruttato, dal perlage fine, con l’eleganza tipica della maison. Si gusta da giovane, quando il frutto è più vivace, e si adatta sia all’aperitivo sia a piatti di pesce o pollame.</p>"
+  },
+  "tasting": {
+    "es": "Rosa salmón, burbuja fina. Aromas de fresa, frambuesa, grosella y cítricos. Boca fresca, afrutada y elegante.",
+    "en": "Salmon pink with fine bubbles. Aromas of strawberry, raspberry, redcurrant and citrus. Fresh, fruity, elegant palate.",
+    "fr": "Rose saumoné, bulle fine. Arômes de fraise, de framboise, de groseille et d’agrumes. Bouche fraîche, fruitée et élégante.",
+    "it": "Rosa salmone, perlage fine. Aromi di fragola, lampone, ribes rosso e agrumi. Bocca fresca, fruttata ed elegante."
+  },
+  "pairing": {
+    "es": "Aperitivo, salmón, atún, aves, postres de frutos rojos",
+    "en": "Aperitif, salmon, tuna, poultry, red-berry desserts",
+    "fr": "Apéritif, saumon, thon, volailles, desserts aux fruits rouges",
+    "it": "Aperitivo, salmone, tonno, pollame, dolci ai frutti rossi"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco o tulipa",
+    "en": "8-10 °C, white wine glass or tulip",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da vino bianco o tulipano"
+  },
+  "search": "Champagne Deutz Brut Rosé"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "pio-cesare-barolo",
+  "name": "Pio Cesare Barolo",
+  "winery": "pio-cesare",
+  "region": "barolo",
+  "country": "italia",
+  "type": "tinto",
+  "category": {"es": "Barolo DOCG", "en": "Barolo DOCG", "fr": "Barolo DOCG", "it": "Barolo DOCG"},
+  "grapes": ["nebbiolo"],
+  "summary": {
+    "es": "El Barolo clásico de Pio Cesare, un Nebbiolo que combina uvas de varios municipios de la zona siguiendo la tradición del ensamblaje.",
+    "en": "Pio Cesare’s classic Barolo, a Nebbiolo combining grapes from several municipalities in the area, following the tradition of blending.",
+    "fr": "Le Barolo classique de Pio Cesare, un nebbiolo qui associe des raisins de plusieurs communes de la zone selon la tradition de l’assemblage.",
+    "it": "Il Barolo classico di Pio Cesare, un Nebbiolo che unisce uve di diversi comuni della zona secondo la tradizione dell’assemblaggio."
+  },
+  "body": {
+    "es": "<p>El Barolo de Pio Cesare se elabora desde hace generaciones siguiendo la costumbre histórica de las Langhe: combinar Nebbiolo de viñedos situados en distintos municipios de la denominación. Cada zona aporta rasgos propios —estructura, aroma, finura— y el ensamblaje busca un vino equilibrado y completo.</p><p>Las uvas proceden de viñedos propios de la familia y de viticultores de confianza. Tras la fermentación, el vino se cría durante un periodo largo en madera, sobre todo en toneles de roble de gran tamaño, y después en botella. La denominación exige una crianza mínima de algo más de tres años antes de la salida al mercado.</p><p>Es un Barolo de estilo clásico, estructurado y de tanino firme, con la complejidad aromática propia de la Nebbiolo. Requiere tiempo en botella para mostrarse plenamente y puede envejecer durante muchos años.</p>",
+    "en": "<p>Pio Cesare’s Barolo has been made for generations following the historic Langhe custom of combining Nebbiolo from vineyards in different municipalities of the appellation. Each area contributes its own traits—structure, aroma, finesse—and the blend aims for a balanced, complete wine.</p><p>The grapes come from the family’s own vineyards and from trusted growers. After fermentation the wine is aged for a long period in wood, mainly in large oak casks, and then in bottle. The appellation requires a minimum of just over three years’ ageing before release.</p><p>It is a classically styled Barolo, structured and firmly tannic, with the aromatic complexity typical of Nebbiolo. It needs time in bottle to show fully and can age for many years.</p>",
+    "fr": "<p>Le Barolo de Pio Cesare est élaboré depuis des générations selon la coutume historique des Langhe, qui consiste à associer du nebbiolo de vignes situées dans différentes communes de l’appellation. Chaque zone apporte ses traits propres — structure, arômes, finesse — et l’assemblage vise un vin équilibré et complet.</p><p>Les raisins proviennent des vignes de la famille et de viticulteurs de confiance. Après la fermentation, le vin est élevé longuement sous bois, surtout en grands foudres de chêne, puis en bouteille. L’appellation impose un élevage minimum d’un peu plus de trois ans avant la commercialisation.</p><p>C’est un Barolo de style classique, structuré et aux tanins fermes, doté de la complexité aromatique propre au nebbiolo. Il a besoin de temps en bouteille pour s’exprimer pleinement et peut vieillir de nombreuses années.</p>",
+    "it": "<p>Il Barolo di Pio Cesare è prodotto da generazioni secondo la consuetudine storica delle Langhe di unire Nebbiolo di vigneti situati in diversi comuni della denominazione. Ogni zona apporta caratteristiche proprie — struttura, profumo, finezza — e l’assemblaggio punta a un vino equilibrato e completo.</p><p>Le uve provengono dai vigneti di famiglia e da viticoltori di fiducia. Dopo la fermentazione il vino affina a lungo in legno, soprattutto in grandi botti di rovere, e poi in bottiglia. Il disciplinare richiede un invecchiamento minimo di poco più di tre anni prima dell’immissione in commercio.</p><p>È un Barolo di stile classico, strutturato e dal tannino deciso, con la complessità aromatica tipica del Nebbiolo. Ha bisogno di tempo in bottiglia per esprimersi pienamente e può invecchiare per molti anni.</p>"
+  },
+  "tasting": {
+    "es": "Granate de capa media. Aromas de cereza, rosa, regaliz y especias, con notas de alquitrán, tabaco y tierra con la evolución. En boca es potente y estructurado, con tanino firme, acidez viva y final largo.",
+    "en": "Medium-depth garnet. Aromas of cherry, rose, liquorice and spice, with notes of tar, tobacco and earth as it evolves. Powerful and structured on the palate, with firm tannins, lively acidity and a long finish.",
+    "fr": "Grenat de profondeur moyenne. Arômes de cerise, de rose, de réglisse et d’épices, avec des notes de goudron, de tabac et de terre au fil de l’évolution. En bouche, il est puissant et structuré, aux tanins fermes, à l’acidité vive et à la finale longue.",
+    "it": "Granato di media intensità. Profumi di ciliegia, rosa, liquirizia e spezie, con note di catrame, tabacco e terra con l’evoluzione. In bocca è potente e strutturato, con tannino deciso, acidità vivace e finale lungo."
+  },
+  "pairing": {
+    "es": "Brasato al Barolo, carnes rojas estofadas, caza, platos con trufa blanca, quesos curados",
+    "en": "Brasato al Barolo, braised red meat, game, white truffle dishes, aged cheeses",
+    "fr": "Brasato al Barolo, viandes rouges braisées, gibier, plats à la truffe blanche, fromages affinés",
+    "it": "Brasato al Barolo, carni rosse brasate, selvaggina, piatti al tartufo bianco, formaggi stagionati"
+  },
+  "serve": {
+    "es": "17-18 °C, copa amplia de tipo borgoña; se beneficia de la decantación",
+    "en": "17-18 °C, large Burgundy-style glass; benefits from decanting",
+    "fr": "17-18 °C, grand verre de type bourguignon ; gagne à être carafé",
+    "it": "17-18 °C, ampio calice tipo borgogna; trae beneficio dalla decantazione"
+  },
+  "search": "Pio Cesare Barolo"
+}

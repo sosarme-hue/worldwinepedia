@@ -1,0 +1,49 @@
+{
+  "slug": "matusalem",
+  "name": "Matusalem",
+  "winery": "gonzalez-byass",
+  "region": "jerez-xeres-sherry",
+  "country": "espana",
+  "type": "generoso",
+  "category": {
+    "es": "Oloroso dulce VORS",
+    "en": "Sweet Oloroso VORS",
+    "fr": "Oloroso doux VORS",
+    "it": "Oloroso dolce VORS"
+  },
+  "grapes": [
+    "palomino",
+    "pedro-ximenez"
+  ],
+  "summary": {
+    "es": "Oloroso dulce muy viejo de González Byass, con certificación VORS, que combina vino de palomino y Pedro Ximénez de crianza muy prolongada.",
+    "en": "Very old sweet oloroso from González Byass, certified VORS, combining Palomino wine and Pedro Ximénez aged for a very long time.",
+    "fr": "Oloroso doux très ancien de González Byass, certifié VORS, qui associe du vin de palomino et du pedro ximénez à très long élevage.",
+    "it": "Oloroso dolce molto vecchio di González Byass, certificato VORS, che unisce vino di Palomino e Pedro Ximénez a lunghissimo affinamento."
+  },
+  "body": {
+    "es": "<p>Matusalem pertenece a la colección de vinos muy viejos de González Byass. Lleva la mención <strong>VORS</strong> (<em>Very Old Rare Sherry</em>), que el Consejo Regulador concede a vinos cuya edad media certificada supera los 30 años, tras análisis y cata.</p><p>Es un <strong>oloroso dulce</strong>: se elabora con un oloroso de <strong>palomino</strong>, de crianza oxidativa, al que se une vino de <strong>Pedro Ximénez</strong>, y el conjunto envejece durante décadas en su solera. Con el tiempo, el agua se evapora lentamente a través de la madera y el vino se concentra, ganando intensidad aromática y equilibrio entre dulzor y acidez. Es un vino de meditación, para tomar despacio y en pequeñas cantidades.</p><p>Gracias a su crianza oxidativa y a su alta concentración, se conserva bien durante semanas una vez abierta la botella, siempre que se guarde bien cerrada y en un lugar fresco.</p>",
+    "en": "<p>Matusalem belongs to González Byass's collection of very old wines. It carries the <strong>VORS</strong> designation (<em>Very Old Rare Sherry</em>), which the Regulatory Council grants to wines with a certified average age of over 30 years, after analysis and tasting.</p><p>It is a <strong>sweet oloroso</strong>: an oxidatively aged <strong>Palomino</strong> oloroso is blended with <strong>Pedro Ximénez</strong> wine, and the whole ages for decades in its solera. Over time water slowly evaporates through the wood and the wine concentrates, gaining aromatic intensity and balance between sweetness and acidity. It is a meditation wine, to be sipped slowly and in small amounts.</p><p>Thanks to its oxidative ageing and high concentration, it keeps well for weeks once the bottle is opened, provided it is tightly closed and stored somewhere cool.</p>",
+    "fr": "<p>Matusalem fait partie de la collection de vins très anciens de González Byass. Il porte la mention <strong>VORS</strong> (<em>Very Old Rare Sherry</em>), que le Conseil régulateur accorde aux vins dont l'âge moyen certifié dépasse 30 ans, après analyse et dégustation.</p><p>C'est un <strong>oloroso doux</strong> : un oloroso de <strong>palomino</strong>, à élevage oxydatif, est assemblé à du vin de <strong>pedro ximénez</strong>, et l'ensemble vieillit pendant des décennies dans sa solera. Avec le temps, l'eau s'évapore lentement à travers le bois et le vin se concentre, gagnant en intensité aromatique et en équilibre entre douceur et acidité. C'est un vin de méditation, à déguster lentement et en petite quantité.</p><p>Grâce à son élevage oxydatif et à sa forte concentration, il se conserve bien pendant des semaines une fois la bouteille ouverte, à condition de la garder bien fermée et au frais.</p>",
+    "it": "<p>Matusalem fa parte della collezione di vini molto vecchi di González Byass. Porta la menzione <strong>VORS</strong> (<em>Very Old Rare Sherry</em>), che il Consiglio Regolatore concede ai vini con un'età media certificata superiore ai 30 anni, dopo analisi e degustazione.</p><p>È un <strong>oloroso dolce</strong>: un oloroso di <strong>Palomino</strong>, ad affinamento ossidativo, viene unito a vino di <strong>Pedro Ximénez</strong>, e l'insieme invecchia per decenni nella sua solera. Col tempo l'acqua evapora lentamente attraverso il legno e il vino si concentra, guadagnando intensità aromatica ed equilibrio tra dolcezza e acidità. È un vino da meditazione, da sorseggiare lentamente e in piccole quantità.</p><p>Grazie all'affinamento ossidativo e all'alta concentrazione, si conserva bene per settimane una volta aperta la bottiglia, purché ben chiusa e in un luogo fresco.</p>"
+  },
+  "tasting": {
+    "es": "Frutos secos tostados, pasas, café, cacao, especias y madera noble. Boca densa, dulce pero equilibrada por la acidez, con un final muy largo.",
+    "en": "Toasted nuts, raisins, coffee, cocoa, spice and fine wood. Dense palate, sweet but balanced by acidity, with a very long finish.",
+    "fr": "Fruits secs grillés, raisins secs, café, cacao, épices et bois noble. Bouche dense, douce mais équilibrée par l'acidité, à la finale très longue.",
+    "it": "Frutta secca tostata, uva passa, caffè, cacao, spezie e legno nobile. Bocca densa, dolce ma bilanciata dall'acidità, con finale lunghissimo."
+  },
+  "pairing": {
+    "es": "Quesos curados y azules, postres de frutos secos, chocolate negro, o solo",
+    "en": "Aged and blue cheeses, nut desserts, dark chocolate, or on its own",
+    "fr": "Fromages affinés et persillés, desserts aux fruits secs, chocolat noir, ou seul",
+    "it": "Formaggi stagionati ed erborinati, dolci alla frutta secca, cioccolato fondente, o da solo"
+  },
+  "serve": {
+    "es": "14-16 °C, copa pequeña tipo catavino",
+    "en": "14-16 °C, small copita-style glass",
+    "fr": "14-16 °C, petit verre type copita",
+    "it": "14-16 °C, piccolo calice tipo copita"
+  },
+  "search": "Matusalem Oloroso VORS González Byass"
+}

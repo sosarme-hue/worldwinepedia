@@ -1,0 +1,40 @@
+{
+  "slug": "occhipinti-siccagno",
+  "name": "Occhipinti Siccagno",
+  "winery": null,
+  "winery_name": "Arianna Occhipinti",
+  "region": null,
+  "country": "italia",
+  "appellation": "IGT Terre Siciliane",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Occhipinti Siccagno es un vino tinto de Arianna Occhipinti, con la denominación IGT Terre Siciliane, en Italia.",
+    "en": "Occhipinti Siccagno is a red wine from Arianna Occhipinti, made under the IGT Terre Siciliane appellation in Italy.",
+    "fr": "Occhipinti Siccagno est un vin rouge de Arianna Occhipinti, élaboré sous l’appellation IGT Terre Siciliane (Italie).",
+    "it": "Occhipinti Siccagno è un vino rosso di Arianna Occhipinti, prodotto nella denominazione IGT Terre Siciliane (Italia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 13% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Occhipinti Siccagno Arianna Occhipinti",
+  "brief": true,
+  "source": "decantalo"
+}

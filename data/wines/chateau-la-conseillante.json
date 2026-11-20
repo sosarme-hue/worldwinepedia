@@ -1,0 +1,44 @@
+{
+  "slug": "chateau-la-conseillante",
+  "name": "Château La Conseillante",
+  "winery": "chateau-la-conseillante",
+  "region": "pomerol",
+  "country": "francia",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "merlot",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Grand vin de Château La Conseillante, Pomerol de Merlot y Cabernet Franc de estilo perfumado y sedoso, vecino de Cheval Blanc.",
+    "en": "The grand vin of Château La Conseillante, a Pomerol of Merlot and Cabernet Franc in a perfumed, silky style, neighbouring Cheval Blanc.",
+    "fr": "Grand vin de Château La Conseillante, pomerol de merlot et de cabernet franc au style parfumé et soyeux, voisin de Cheval Blanc.",
+    "it": "Grand vin di Château La Conseillante, Pomerol di Merlot e Cabernet Franc dallo stile profumato e setoso, vicino di Cheval Blanc."
+  },
+  "body": {
+    "es": "<p><strong>Château La Conseillante</strong> es el vino principal de esta propiedad de la familia Nicolas, situada en el extremo oriental de la meseta de <strong>Pomerol</strong>, en el límite con Saint-Émilion y junto a los viñedos de Cheval Blanc y L’Évangile.</p><p>Se elabora con una mayoría de <strong>Merlot</strong> y una proporción significativa de <strong>Cabernet Franc</strong>, procedentes de suelos de arcilla, grava y arena con subsuelo ferruginoso. Cada parcela se vinifica por separado y el vino se cría en barricas de roble antes del ensamblaje. Las uvas que no se seleccionan para el grand vin se destinan al segundo vino, Duo de Conseillante.</p><p>Su estilo se distingue por la elegancia y el perfume más que por la potencia: fruta roja y negra madura, notas de violeta y especias y una textura sedosa, con taninos muy finos. Es agradable relativamente pronto gracias a su equilibrio, pero envejece con gran armonía durante muchos años, ganando matices de trufa y sotobosque.</p>",
+    "en": "<p><strong>Château La Conseillante</strong> is the main wine of this Nicolas family estate, located at the eastern edge of the <strong>Pomerol</strong> plateau, on the border with Saint-Émilion and next to the vineyards of Cheval Blanc and L’Évangile.</p><p>It is made mostly from <strong>Merlot</strong> with a significant proportion of <strong>Cabernet Franc</strong>, from clay, gravel and sand soils with an iron-rich subsoil. Each plot is vinified separately and the wine is aged in oak barrels before blending. Grapes not selected for the grand vin go into the second wine, Duo de Conseillante.</p><p>Its style stands out for elegance and perfume rather than power: ripe red and dark fruit, notes of violet and spice and a silky texture with very fine tannins. Thanks to its balance it is enjoyable relatively early, but it ages with great harmony for many years, gaining nuances of truffle and forest floor.</p>",
+    "fr": "<p><strong>Château La Conseillante</strong> est le vin principal de cette propriété de la famille Nicolas, située à l’extrémité orientale du plateau de <strong>Pomerol</strong>, en limite de Saint-Émilion et à côté des vignes de Cheval Blanc et de L’Évangile.</p><p>Il est issu majoritairement de <strong>merlot</strong>, avec une part significative de <strong>cabernet franc</strong>, provenant de sols d’argile, de graves et de sable au sous-sol ferrugineux. Chaque parcelle est vinifiée séparément et le vin est élevé en barriques de chêne avant l’assemblage. Les raisins non retenus pour le grand vin servent au second vin, Duo de Conseillante.</p><p>Son style se distingue par l’élégance et le parfum plutôt que par la puissance : fruits rouges et noirs mûrs, notes de violette et d’épices, texture soyeuse aux tanins très fins. Grâce à son équilibre, il est agréable assez tôt, mais il vieillit avec une grande harmonie pendant de nombreuses années, en gagnant des nuances de truffe et de sous-bois.</p>",
+    "it": "<p><strong>Château La Conseillante</strong> è il vino principale di questa proprietà della famiglia Nicolas, situata all’estremità orientale dell’altopiano di <strong>Pomerol</strong>, al confine con Saint-Émilion e accanto ai vigneti di Cheval Blanc e de L’Évangile.</p><p>È prodotto in prevalenza con <strong>Merlot</strong> e una quota significativa di <strong>Cabernet Franc</strong>, da suoli di argilla, ghiaia e sabbia con sottosuolo ferroso. Ogni parcella viene vinificata separatamente e il vino affina in barrique di rovere prima dell’assemblaggio. Le uve non selezionate per il grand vin vanno al secondo vino, Duo de Conseillante.</p><p>Il suo stile si distingue per eleganza e profumo più che per potenza: frutta rossa e nera matura, note di violetta e spezie e una tessitura setosa dai tannini finissimi. Grazie al suo equilibrio è piacevole relativamente presto, ma invecchia con grande armonia per molti anni, acquistando sfumature di tartufo e sottobosco.</p>"
+  },
+  "tasting": {
+    "es": "Rubí profundo. Aromas de frambuesa, cereza negra, violeta y especias. Boca sedosa y elegante, de taninos muy finos y final largo.",
+    "en": "Deep ruby. Aromas of raspberry, black cherry, violet and spice. Silky, elegant palate with very fine tannins and a long finish.",
+    "fr": "Rubis profond. Arômes de framboise, de cerise noire, de violette et d’épices. Bouche soyeuse et élégante, aux tanins très fins et à la finale longue.",
+    "it": "Rubino profondo. Aromi di lampone, ciliegia nera, violetta e spezie. Bocca setosa ed elegante, dai tannini finissimi e dal finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes rojas, pato, setas, trufa, quesos curados",
+    "en": "Roast lamb, red meat, duck, mushrooms, truffle, aged cheeses",
+    "fr": "Agneau rôti, viandes rouges, canard, champignons, truffe, fromages affinés",
+    "it": "Agnello arrosto, carni rosse, anatra, funghi, tartufo, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Château La Conseillante Pomerol"
+}

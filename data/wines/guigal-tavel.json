@@ -1,0 +1,49 @@
+{
+  "slug": "guigal-tavel",
+  "name": "Tavel Rosé",
+  "winery": "e-guigal",
+  "region": "tavel",
+  "country": "francia",
+  "type": "rosado",
+  "category": {
+    "es": "Tavel",
+    "en": "Tavel",
+    "fr": "Tavel",
+    "it": "Tavel"
+  },
+  "grapes": [
+    "garnacha",
+    "cinsault"
+  ],
+  "summary": {
+    "es": "Rosado de Tavel de E. Guigal, de la única denominación del Ródano dedicada exclusivamente al rosado, con base de Garnacha y un estilo más estructurado que el de los rosados ligeros.",
+    "en": "Tavel rosé from E. Guigal, from the only Rhône appellation devoted exclusively to rosé, based on Grenache and more structured than light-style rosés.",
+    "fr": "Tavel d’E. Guigal, issu de la seule appellation du Rhône exclusivement consacrée au rosé, à base de grenache et plus structuré que les rosés légers.",
+    "it": "Rosato di Tavel di E. Guigal, dall’unica denominazione del Rodano dedicata esclusivamente al rosato, a base di Grenache e più strutturato dei rosati leggeri."
+  },
+  "body": {
+    "es": "<p><strong>Tavel</strong>, en la orilla derecha del Ródano meridional, cerca de Aviñón, es una denominación que sólo admite vino rosado, con una tradición secular. Sus suelos combinan arenas, cantos rodados y calizas, y el clima mediterráneo favorece una maduración completa de la uva.</p><p>El Tavel de Guigal se elabora principalmente con <strong>Garnacha</strong>, acompañada de <strong>Cinsault</strong> y otras variedades autorizadas. Como es típico en la denominación, el mosto permanece un tiempo en contacto con los hollejos antes del prensado, lo que le da un color más intenso y una estructura mayor que la de los rosados de Provenza.</p><p>Es un rosado de corte gastronómico, con fruta roja madura, notas especiadas y una boca carnosa con buena frescura, más próximo en espíritu a un tinto ligero que a un rosado de aperitivo. Se disfruta en su juventud y acompaña bien platos de cocina mediterránea con cierta intensidad.</p>",
+    "en": "<p><strong>Tavel</strong>, on the right bank of the southern Rhône near Avignon, is an appellation that permits only rosé wine, with a centuries-old tradition. Its soils combine sand, rounded stones and limestone, and the Mediterranean climate favours full ripening of the grapes.</p><p>Guigal’s Tavel is made mainly from <strong>Grenache</strong>, accompanied by <strong>Cinsault</strong> and other permitted varieties. As is typical of the appellation, the juice spends some time in contact with the skins before pressing, giving it a deeper colour and more structure than Provence rosés.</p><p>It is a food-friendly rosé with ripe red fruit, spicy notes and a fleshy palate with good freshness, closer in spirit to a light red than to an aperitif rosé. It is best enjoyed young and pairs well with Mediterranean dishes of some intensity.</p>",
+    "fr": "<p><strong>Tavel</strong>, sur la rive droite du Rhône méridional près d’Avignon, est une appellation qui n’admet que le vin rosé, avec une tradition séculaire. Ses sols associent sables, galets roulés et calcaires, et le climat méditerranéen favorise une maturité complète du raisin.</p><p>Le Tavel de Guigal est élaboré principalement avec du <strong>grenache</strong>, accompagné de <strong>cinsault</strong> et d’autres cépages autorisés. Comme il est d’usage dans l’appellation, le moût reste un certain temps au contact des peaux avant le pressurage, ce qui lui donne une couleur plus soutenue et une structure plus marquée que celles des rosés de Provence.</p><p>C’est un rosé de gastronomie, aux fruits rouges mûrs, aux notes épicées et à la bouche charnue dotée d’une bonne fraîcheur, plus proche dans l’esprit d’un rouge léger que d’un rosé d’apéritif. Il se boit dans sa jeunesse et accompagne bien les plats de cuisine méditerranéenne d’une certaine intensité.</p>",
+    "it": "<p><strong>Tavel</strong>, sulla riva destra del Rodano meridionale vicino ad Avignone, è una denominazione che ammette solo vino rosato, con una tradizione secolare. I suoi suoli uniscono sabbie, ciottoli e calcari, e il clima mediterraneo favorisce una piena maturazione dell’uva.</p><p>Il Tavel di Guigal è prodotto principalmente con <strong>Grenache</strong>, accompagnata da <strong>Cinsault</strong> e da altre varietà ammesse. Come è tipico della denominazione, il mosto resta per un certo tempo a contatto con le bucce prima della pressatura, il che gli conferisce un colore più intenso e una struttura maggiore rispetto ai rosati provenzali.</p><p>È un rosato gastronomico, con frutta rossa matura, note speziate e una bocca carnosa dotata di buona freschezza, più vicino nello spirito a un rosso leggero che a un rosato da aperitivo. Si gusta da giovane e accompagna bene piatti di cucina mediterranea di una certa intensità.</p>"
+  },
+  "tasting": {
+    "es": "Rosa intenso con reflejos frambuesa. Aromas de fresa, frambuesa, grosella y especias suaves. Boca carnosa y fresca, con final ligeramente especiado.",
+    "en": "Deep pink with raspberry hints. Aromas of strawberry, raspberry, redcurrant and gentle spice. Fleshy, fresh palate with a slightly spicy finish.",
+    "fr": "Rose soutenu aux reflets framboise. Arômes de fraise, de framboise, de groseille et d’épices douces. Bouche charnue et fraîche, à la finale légèrement épicée.",
+    "it": "Rosa intenso con riflessi lampone. Aromi di fragola, lampone, ribes e spezie delicate. Bocca carnosa e fresca, con finale leggermente speziato."
+  },
+  "pairing": {
+    "es": "Cocina mediterránea, bullabesa, arroces, embutidos, cocina asiática especiada",
+    "en": "Mediterranean cuisine, bouillabaisse, rice dishes, charcuterie, spiced Asian food",
+    "fr": "Cuisine méditerranéenne, bouillabaisse, plats de riz, charcuterie, cuisine asiatique épicée",
+    "it": "Cucina mediterranea, bouillabaisse, risotti, salumi, cucina asiatica speziata"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de vino blanco",
+    "en": "10-12 °C, white wine glass",
+    "fr": "10-12 °C, verre à vin blanc",
+    "it": "10-12 °C, calice da vino bianco"
+  },
+  "search": "Tavel Rosé E. Guigal"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "encina-del-ingles",
+  "name": "Encina del Inglés",
+  "winery": null,
+  "winery_name": "Finca La Melonera",
+  "region": null,
+  "country": "espana",
+  "appellation": "DO Málaga-Sierras de Málaga",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Encina del Inglés es un vino tinto de Finca La Melonera, con la denominación DO Málaga-Sierras de Málaga, en España.",
+    "en": "Encina del Inglés is a red wine from Finca La Melonera, made under the DO Málaga-Sierras de Málaga appellation in Spain.",
+    "fr": "Encina del Inglés est un vin rouge de Finca La Melonera, élaboré sous l’appellation DO Málaga-Sierras de Málaga (Espagne).",
+    "it": "Encina del Inglés è un vino rosso di Finca La Melonera, prodotto nella denominazione DO Málaga-Sierras de Málaga (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14,5 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 14.5% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14,5 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 14,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Encina del Inglés Finca La Melonera",
+  "brief": true,
+  "source": "decantalo"
+}

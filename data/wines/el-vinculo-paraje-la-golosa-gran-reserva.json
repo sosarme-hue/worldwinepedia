@@ -1,0 +1,45 @@
+{
+  "slug": "el-vinculo-paraje-la-golosa-gran-reserva",
+  "name": "El Vínculo Paraje la Golosa Gran Reserva",
+  "winery": null,
+  "winery_name": "El Vinculo",
+  "region": "la-mancha",
+  "country": "espana",
+  "appellation": "DO La Mancha",
+  "type": "tinto",
+  "category": {
+    "es": "Gran Reserva",
+    "en": "Gran Reserva",
+    "fr": "Gran Reserva",
+    "it": "Gran Reserva"
+  },
+  "grapes": [],
+  "summary": {
+    "es": "El Vínculo Paraje la Golosa Gran Reserva es un vino tinto de El Vinculo, con la denominación DO La Mancha, en España.",
+    "en": "El Vínculo Paraje la Golosa Gran Reserva is a red wine from El Vinculo, made under the DO La Mancha appellation in Spain.",
+    "fr": "El Vínculo Paraje la Golosa Gran Reserva est un vin rouge de El Vinculo, élaboré sous l’appellation DO La Mancha (Espagne).",
+    "it": "El Vínculo Paraje la Golosa Gran Reserva è un vino rosso di El Vinculo, prodotto nella denominazione DO La Mancha (Spagna)."
+  },
+  "body": {
+    "es": "<p>Lleva la mención Gran Reserva. Su graduación es de 14 % vol.</p><p>La Mancha, en Castilla-La Mancha, es la denominación de origen de mayor superficie de España y una de las mayores zonas vitícolas del mundo. Tradicionalmente dominada por la blanca Airén, elabora hoy también una parte creciente de tintos de Tempranillo y variedades internacionales.</p>",
+    "en": "<p>It carries the Gran Reserva designation. It has 14% ABV.</p><p>La Mancha, in Castilla-La Mancha, is Spain's largest designation of origin by area and one of the largest wine regions in the world. Traditionally dominated by the white Airén, it now also produces a growing share of reds from Tempranillo and international varieties.</p>",
+    "fr": "<p>Il porte la mention Gran Reserva. Il titre 14 % vol.</p><p>La Mancha, en Castille-La Manche, est la dénomination d'origine la plus étendue d'Espagne et l'une des plus vastes zones viticoles du monde. Traditionnellement dominée par l'airén blanc, elle produit aujourd'hui une part croissante de rouges de tempranillo et de cépages internationaux.</p>",
+    "it": "<p>Riporta la menzione Gran Reserva. Ha 14% vol.</p><p>La Mancha, in Castiglia-La Mancia, è la denominazione di origine più estesa della Spagna e una delle maggiori zone vitivinicole del mondo. Tradizionalmente dominata dal bianco Airén, oggi produce anche una quota crescente di rossi di Tempranillo e vitigni internazionali.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "El Vínculo Paraje la Golosa Gran Reserva El Vinculo",
+  "brief": true,
+  "source": "decantalo"
+}

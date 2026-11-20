@@ -1,0 +1,49 @@
+{
+  "slug": "garrus-rose",
+  "name": "Garrus",
+  "winery": "chateau-d-esclans",
+  "region": "provence",
+  "country": "francia",
+  "type": "rosado",
+  "category": {
+    "es": "Côtes de Provence",
+    "en": "Côtes de Provence",
+    "fr": "Côtes de Provence",
+    "it": "Côtes de Provence"
+  },
+  "grapes": [
+    "garnacha",
+    "vermentino"
+  ],
+  "summary": {
+    "es": "Rosado de mayor rango de Château d’Esclans, procedente de una parcela de viñas viejas de Garnacha y Rolle y fermentado y criado en barrica.",
+    "en": "Château d’Esclans’ top rosé, from a parcel of old Grenache and Rolle vines, fermented and aged in barrel.",
+    "fr": "Le rosé le plus ambitieux du château d’Esclans, issu d’une parcelle de vieilles vignes de grenache et de rolle, fermenté et élevé en barrique.",
+    "it": "Il rosato di punta di Château d’Esclans, da una parcella di vecchie vigne di Grenache e Rolle, fermentato e affinato in barrique."
+  },
+  "body": {
+    "es": "<p>Garrus es el rosado más ambicioso de Château d’Esclans, la finca de La Motte, en el valle del Argens, que Sacha Lichine adquirió en 2006 y que se dio a conocer internacionalmente con Whispering Angel. Toma su nombre de una parcela de la propiedad plantada con viñas viejas.</p><p>Se elabora principalmente con <strong>Garnacha</strong> de esas viñas viejas y con <strong>Rolle</strong>, el nombre que recibe el Vermentino en Provenza; las proporciones varían según la añada. A diferencia de la mayoría de los rosados provenzales, fermentados en depósito, Garrus fermenta y se cría en barricas de roble, con removido de lías, una elaboración más próxima a la de un gran vino blanco.</p><p>El resultado es un rosado pálido pero de mayor cuerpo, textura y complejidad que los de la gama clásica, concebido para la mesa y capaz de evolucionar durante algunos años en botella.</p>",
+    "en": "<p>Garrus is the most ambitious rosé of Château d’Esclans, the estate in La Motte, in the Argens valley, which Sacha Lichine bought in 2006 and which became internationally known through Whispering Angel. It takes its name from a parcel on the property planted with old vines.</p><p>It is made mainly from <strong>Grenache</strong> from those old vines and from <strong>Rolle</strong>, the name given to Vermentino in Provence; the proportions vary with the vintage. Unlike most Provence rosés, which are fermented in tank, Garrus is fermented and aged in oak barrels with lees stirring, a method closer to that of a great white wine.</p><p>The result is a pale rosé but one of greater body, texture and complexity than those in the classic range, conceived for the table and able to develop for a few years in bottle.</p>",
+    "fr": "<p>Garrus est le rosé le plus ambitieux du château d’Esclans, le domaine de La Motte, dans la vallée de l’Argens, que Sacha Lichine a acheté en 2006 et qui s’est fait connaître dans le monde entier avec Whispering Angel. Il doit son nom à une parcelle de la propriété plantée de vieilles vignes.</p><p>Il est élaboré principalement à partir de <strong>grenache</strong> issu de ces vieilles vignes et de <strong>rolle</strong>, nom que porte le vermentino en Provence ; les proportions varient selon le millésime. Contrairement à la plupart des rosés provençaux, fermentés en cuve, Garrus est fermenté et élevé en barriques de chêne, avec bâtonnage des lies, une élaboration plus proche de celle d’un grand vin blanc.</p><p>Il en résulte un rosé pâle mais d’un corps, d’une texture et d’une complexité supérieurs à ceux de la gamme classique, conçu pour la table et capable d’évoluer quelques années en bouteille.</p>",
+    "it": "<p>Garrus è il rosato più ambizioso di Château d’Esclans, la tenuta di La Motte, nella valle dell’Argens, che Sacha Lichine acquistò nel 2006 e che si fece conoscere a livello internazionale con Whispering Angel. Prende il nome da una parcella della proprietà piantata con vigne vecchie.</p><p>È prodotto principalmente con <strong>Grenache</strong> di quelle vecchie vigne e con <strong>Rolle</strong>, il nome che il Vermentino assume in Provenza; le proporzioni variano secondo l’annata. A differenza della maggior parte dei rosati provenzali, fermentati in vasca, Garrus fermenta e affina in barrique di rovere, con bâtonnage delle fecce, un metodo più vicino a quello di un grande vino bianco.</p><p>Il risultato è un rosato chiaro ma di corpo, consistenza e complessità maggiori rispetto a quelli della gamma classica, concepito per la tavola e capace di evolvere per alcuni anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rosa pálido. Aromas de frutos rojos, melocotón, cítricos, notas florales y un ligero toque de vainilla y tostado. Boca amplia, cremosa y persistente.",
+    "en": "Pale pink. Aromas of red berries, peach, citrus, floral notes and a light touch of vanilla and toast. Broad, creamy and persistent palate.",
+    "fr": "Rose pâle. Arômes de fruits rouges, de pêche, d’agrumes, notes florales et une légère touche vanillée et grillée. Bouche ample, crémeuse et persistante.",
+    "it": "Rosa chiaro. Aromi di frutti rossi, pesca, agrumi, note floreali e un leggero tocco di vaniglia e tostatura. Bocca ampia, cremosa e persistente."
+  },
+  "pairing": {
+    "es": "Langosta, lubina al horno, pollo de corral, cocina provenzal con hierbas",
+    "en": "Lobster, baked sea bass, free-range chicken, Provençal cuisine with herbs",
+    "fr": "Homard, bar au four, poulet fermier, cuisine provençale aux herbes",
+    "it": "Aragosta, branzino al forno, pollo ruspante, cucina provenzale alle erbe"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de blanco amplia",
+    "en": "10-12 °C, large white wine glass",
+    "fr": "10-12 °C, grand verre à vin blanc",
+    "it": "10-12 °C, calice ampio da bianco"
+  },
+  "search": "Garrus Rosé Château d'Esclans"
+}

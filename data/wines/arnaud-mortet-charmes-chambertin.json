@@ -1,0 +1,48 @@
+{
+  "slug": "arnaud-mortet-charmes-chambertin",
+  "name": "Charmes-Chambertin Grand Cru",
+  "winery": "arnaud-mortet",
+  "region": "cote-de-nuits",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Grand Cru",
+    "en": "Grand Cru",
+    "fr": "Grand Cru",
+    "it": "Grand Cru"
+  },
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Grand cru de Gevrey-Chambertin de la etiqueta Arnaud Mortet, procedente del Charmes-Chambertin.",
+    "en": "Gevrey-Chambertin grand cru under the Arnaud Mortet label, from Charmes-Chambertin.",
+    "fr": "Grand cru de Gevrey-Chambertin de l’étiquette Arnaud Mortet, issu du Charmes-Chambertin.",
+    "it": "Grand cru di Gevrey-Chambertin dell’etichetta Arnaud Mortet, proveniente dal Charmes-Chambertin."
+  },
+  "body": {
+    "es": "<p><strong>Charmes-Chambertin</strong> es el más extenso de los grands crus de Gevrey-Chambertin. Se sitúa en la parte baja de la ladera, al sur del pueblo y junto a la Route des Grands Crus, frente al Chambertin y al Latricières-Chambertin. Sus tintos suelen mostrar una fruta generosa y una textura suave, y se abren algo antes que los de los grands crus situados más arriba.</p><p>Arnaud Mortet, al frente también del Domaine Denis Mortet, elabora este vino bajo su propia etiqueta con vendimia seleccionada, vinificación parcelaria y crianza en barricas de roble francés. Su estilo busca un Pinot Noir de fruta precisa y textura fina, con la profundidad de un grand cru de Gevrey pero sin exceso de extracción.</p><p>Es un tinto que se beneficia de varios años de botella y que conviene decantar en su juventud y servir en copa amplia de Borgoña.</p>",
+    "en": "<p><strong>Charmes-Chambertin</strong> is the largest of the Gevrey-Chambertin grands crus. It lies on the lower part of the slope, south of the village beside the Route des Grands Crus, opposite Chambertin and Latricières-Chambertin. Its reds usually show generous fruit and a soft texture, and open up somewhat earlier than the grands crus higher up.</p><p>Arnaud Mortet, who also runs Domaine Denis Mortet, makes this wine under his own label with selective harvesting, plot-by-plot vinification and ageing in French oak barrels. His style seeks a Pinot Noir of precise fruit and fine texture, with the depth of a Gevrey grand cru but without excessive extraction.</p><p>It is a red that benefits from several years in bottle; when young it is best decanted and served in a large Burgundy glass.</p>",
+    "fr": "<p>Le <strong>Charmes-Chambertin</strong> est le plus étendu des grands crus de Gevrey-Chambertin. Il se situe dans le bas du coteau, au sud du village, le long de la route des Grands Crus, face au Chambertin et au Latricières-Chambertin. Ses rouges montrent souvent un fruit généreux et une texture souple, et s’ouvrent un peu plus tôt que ceux des grands crus situés plus haut.</p><p>Arnaud Mortet, qui dirige aussi le Domaine Denis Mortet, élabore ce vin sous sa propre étiquette avec une vendange triée, une vinification parcellaire et un élevage en fûts de chêne français. Son style recherche un pinot noir au fruit précis et à la texture fine, avec la profondeur d’un grand cru de Gevrey mais sans excès d’extraction.</p><p>C’est un rouge qui gagne à passer plusieurs années en bouteille ; jeune, il vaut mieux le carafer et le servir dans un grand verre bourguignon.</p>",
+    "it": "<p>Lo <strong>Charmes-Chambertin</strong> è il più esteso dei grand cru di Gevrey-Chambertin. Si trova nella parte bassa del pendio, a sud del paese lungo la Route des Grands Crus, di fronte a Chambertin e Latricières-Chambertin. I suoi rossi mostrano di solito frutto generoso e trama morbida, e si aprono un po’ prima dei grand cru situati più in alto.</p><p>Arnaud Mortet, che guida anche il Domaine Denis Mortet, produce questo vino con la propria etichetta, con vendemmia selezionata, vinificazione parcellare e affinamento in botti di rovere francese. Il suo stile cerca un Pinot Noir dal frutto preciso e dalla trama fine, con la profondità di un grand cru di Gevrey ma senza eccessiva estrazione.</p><p>È un rosso che trae beneficio da diversi anni di bottiglia; da giovane conviene decantarlo e servirlo in un ampio calice borgognone.</p>"
+  },
+  "tasting": {
+    "es": "Cereza negra, frambuesa, violeta, especias y notas de sotobosque. Boca concentrada, de taninos finos y final largo.",
+    "en": "Black cherry, raspberry, violet, spice and forest-floor notes. Concentrated palate with fine tannins and a long finish.",
+    "fr": "Cerise noire, framboise, violette, épices et notes de sous-bois. Bouche concentrée, tanins fins et finale longue.",
+    "it": "Ciliegia nera, lampone, violetta, spezie e note di sottobosco. Bocca concentrata, tannini fini e finale lungo."
+  },
+  "pairing": {
+    "es": "Caza de pluma, pato, buey asado, setas, quesos de pasta lavada",
+    "en": "Game birds, duck, roast beef, mushrooms, washed-rind cheeses",
+    "fr": "Gibier à plume, canard, bœuf rôti, champignons, fromages à pâte lavée",
+    "it": "Selvaggina da piuma, anatra, manzo arrosto, funghi, formaggi a crosta lavata"
+  },
+  "serve": {
+    "es": "15-17 °C, copa de Borgoña",
+    "en": "15-17 °C, Burgundy glass",
+    "fr": "15-17 °C, verre bourguignon",
+    "it": "15-17 °C, calice borgognone"
+  },
+  "search": "Charmes-Chambertin Grand Cru Arnaud Mortet"
+}

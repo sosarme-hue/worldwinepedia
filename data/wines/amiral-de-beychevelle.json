@@ -1,0 +1,49 @@
+{
+  "slug": "amiral-de-beychevelle",
+  "name": "Amiral de Beychevelle",
+  "winery": "chateau-beychevelle",
+  "region": "saint-julien",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Segundo vino",
+    "en": "Second wine",
+    "fr": "Second vin",
+    "it": "Secondo vino"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "El segundo vino de Château Beychevelle, un Saint-Julien de Cabernet Sauvignon y Merlot más accesible en su juventud que el gran vino.",
+    "en": "The second wine of Château Beychevelle, a Cabernet Sauvignon and Merlot Saint-Julien more approachable in its youth than the grand vin.",
+    "fr": "Le second vin du Château Beychevelle, un saint-julien de cabernet sauvignon et de merlot plus accessible dans sa jeunesse que le grand vin.",
+    "it": "Il secondo vino del Château Beychevelle, un Saint-Julien di Cabernet Sauvignon e Merlot più accessibile da giovane rispetto al grand vin."
+  },
+  "body": {
+    "es": "<p>En las grandes fincas del Médoc, el <strong>segundo vino</strong> se elabora a partir de las uvas o los lotes que no se destinan al gran vino, a menudo procedentes de viñas más jóvenes o de parcelas concretas. Permite mantener la exigencia del primer vino y ofrecer al mismo tiempo un tinto con el carácter de la propiedad, más abierto en su juventud.</p><p><em>Amiral de Beychevelle</em> es el segundo vino de Château Beychevelle, cuarto gran cru clasificado de Saint-Julien. Su nombre recuerda al duque de Épernon, almirante de Francia, a quien la tradición atribuye el origen del nombre de la finca. Se elabora con un ensamblaje de Cabernet Sauvignon y Merlot de los viñedos de gravas de la propiedad y se cría en barrica.</p><p>Es un tinto de cuerpo medio, con fruta negra y roja, notas de cedro y especias y taninos suaves. Puede disfrutarse antes que el gran vino, aunque también mejora con algunos años de guarda.</p>",
+    "en": "<p>At the great Médoc estates, the <strong>second wine</strong> is made from grapes or lots not selected for the grand vin, often from younger vines or particular plots. It allows the estate to maintain the standards of its first wine while offering a red with the property’s character that is more open in its youth.</p><p><em>Amiral de Beychevelle</em> is the second wine of Château Beychevelle, a fourth growth in Saint-Julien. Its name recalls the Duke of Épernon, Admiral of France, to whom tradition attributes the origin of the estate’s name. It is a blend of Cabernet Sauvignon and Merlot from the property’s gravel vineyards, aged in barrel.</p><p>It is a medium-bodied red with black and red fruit, notes of cedar and spice and soft tannins. It can be enjoyed earlier than the grand vin, although it also improves with a few years of cellaring.</p>",
+    "fr": "<p>Dans les grandes propriétés du Médoc, le <strong>second vin</strong> est élaboré à partir des raisins ou des lots non retenus pour le grand vin, souvent issus de jeunes vignes ou de parcelles particulières. Il permet de maintenir l’exigence du premier vin tout en proposant un rouge au caractère de la propriété, plus ouvert dans sa jeunesse.</p><p><em>Amiral de Beychevelle</em> est le second vin du Château Beychevelle, quatrième grand cru classé de Saint-Julien. Son nom rappelle le duc d’Épernon, amiral de France, à qui la tradition attribue l’origine du nom du domaine. Il est issu d’un assemblage de cabernet sauvignon et de merlot provenant des vignes de graves de la propriété et élevé en barrique.</p><p>C’est un rouge de corps moyen, aux fruits noirs et rouges, aux notes de cèdre et d’épices et aux tanins souples. Il peut s’apprécier plus tôt que le grand vin, mais progresse aussi avec quelques années de garde.</p>",
+    "it": "<p>Nelle grandi tenute del Médoc, il <strong>secondo vino</strong> si ottiene dalle uve o dalle partite non destinate al grand vin, spesso provenienti da vigne più giovani o da parcelle particolari. Consente di mantenere il rigore del primo vino offrendo al tempo stesso un rosso con il carattere della proprietà, più aperto da giovane.</p><p><em>Amiral de Beychevelle</em> è il secondo vino del Château Beychevelle, quarto grand cru classé di Saint-Julien. Il nome ricorda il duca d’Épernon, ammiraglio di Francia, a cui la tradizione attribuisce l’origine del nome della tenuta. È un assemblaggio di Cabernet Sauvignon e Merlot dei vigneti su ghiaia della proprietà, affinato in barrique.</p><p>È un rosso di medio corpo, con frutti neri e rossi, note di cedro e spezie e tannini morbidi. Si può gustare prima del grand vin, ma migliora anche con qualche anno di affinamento in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de cassis, cereza, cedro y especias suaves. Boca redonda y elegante, de taninos suaves.",
+    "en": "Deep ruby. Aromas of cassis, cherry, cedar and gentle spice. Round, elegant palate with soft tannins.",
+    "fr": "Rubis profond. Arômes de cassis, de cerise, de cèdre et d’épices douces. Bouche ronde et élégante, aux tanins souples.",
+    "it": "Rubino intenso. Aromi di cassis, ciliegia, cedro e spezie dolci. Bocca rotonda ed elegante, dai tannini morbidi."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la parrilla, pato, cordero asado, quesos de pasta prensada",
+    "en": "Grilled red meat, duck, roast lamb, pressed cheeses",
+    "fr": "Viandes rouges grillées, canard, agneau rôti, fromages à pâte pressée",
+    "it": "Carni rosse alla griglia, anatra, agnello arrosto, formaggi a pasta pressata"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de tipo burdeos",
+    "en": "16-18 °C, Bordeaux-style glass",
+    "fr": "16-18 °C, verre de type bordeaux",
+    "it": "16-18 °C, calice tipo bordolese"
+  },
+  "search": "Amiral de Beychevelle Saint-Julien"
+}

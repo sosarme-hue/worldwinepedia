@@ -1,0 +1,42 @@
+{
+  "slug": "santa-julia-la-oveja-torrontes",
+  "name": "Santa Julia La Oveja Torrontes",
+  "winery": null,
+  "winery_name": "Bodega Santa Julia",
+  "region": null,
+  "country": "argentina",
+  "appellation": "Maipú",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "torrontes"
+  ],
+  "summary": {
+    "es": "Santa Julia La Oveja Torrontes es un vino blanco de Bodega Santa Julia, con la denominación Maipú, en Argentina.",
+    "en": "Santa Julia La Oveja Torrontes is a white wine from Bodega Santa Julia, made under the Maipú appellation in Argentina.",
+    "fr": "Santa Julia La Oveja Torrontes est un vin blanc de Bodega Santa Julia, élaboré sous l’appellation Maipú (Argentine).",
+    "it": "Santa Julia La Oveja Torrontes è un vino bianco di Bodega Santa Julia, prodotto nella denominazione Maipú (Argentina)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Torrontés. Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is made from Torrontés. It is a young wine, meant to be drunk in its first years. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Torrontés. C’est un vin jeune, à boire dans ses premières années. Il titre 13,5 % vol.</p>",
+    "it": "<p>È prodotto con Torrontés. È un vino giovane, da bere nei primi anni. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Santa Julia La Oveja Torrontes Bodega Santa Julia",
+  "brief": true,
+  "source": "decantalo"
+}

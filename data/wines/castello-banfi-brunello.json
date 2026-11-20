@@ -1,0 +1,41 @@
+{
+  "slug": "castello-banfi-brunello",
+  "name": "Castello Banfi Brunello di Montalcino",
+  "winery": "castello-banfi",
+  "region": "brunello-di-montalcino",
+  "country": "italia",
+  "type": "tinto",
+  "category": {"es": "Brunello di Montalcino DOCG", "en": "Brunello di Montalcino DOCG", "fr": "Brunello di Montalcino DOCG", "it": "Brunello di Montalcino DOCG"},
+  "grapes": ["sangiovese"],
+  "summary": {
+    "es": "El Brunello di Montalcino de Castello Banfi, elaborado con Sangiovese de los viñedos de la finca en la parte sur de Montalcino.",
+    "en": "Castello Banfi’s Brunello di Montalcino, made from Sangiovese grown in the estate’s vineyards in southern Montalcino.",
+    "fr": "Le Brunello di Montalcino de Castello Banfi, élaboré avec du sangiovese des vignes du domaine dans le sud de Montalcino.",
+    "it": "Il Brunello di Montalcino di Castello Banfi, prodotto con Sangiovese dei vigneti della tenuta nella parte meridionale di Montalcino."
+  },
+  "body": {
+    "es": "<p>El Brunello de Castello Banfi procede de los viñedos de la finca en la parte sur del municipio de Montalcino, una zona de colinas más baja y cálida que la parte norte, con suelos variados y una notable influencia del clima mediterráneo.</p><p>Se elabora exclusivamente con Sangiovese, como exige la denominación, a partir de los clones seleccionados por la propia finca en sus estudios sobre la variedad. Tras la fermentación, el vino se cría en madera de roble y completa su crianza en botella hasta su salida al mercado, cinco años después de la vendimia.</p><p>Es uno de los Brunello más difundidos internacionalmente. Su estilo combina fruta madura, notas de crianza y una estructura generosa, con capacidad para evolucionar en botella.</p>",
+    "en": "<p>Castello Banfi’s Brunello comes from the estate’s vineyards in the southern part of the Montalcino municipality, a hilly area lower and warmer than the north, with varied soils and a marked Mediterranean influence.</p><p>It is made exclusively from Sangiovese, as the appellation requires, using clones selected by the estate through its own research on the variety. After fermentation the wine is aged in oak and completes its ageing in bottle until release, five years after the harvest.</p><p>It is one of the most widely distributed Brunellos internationally. Its style combines ripe fruit, ageing notes and a generous structure, with the capacity to evolve in bottle.</p>",
+    "fr": "<p>Le Brunello de Castello Banfi provient des vignes du domaine situées dans la partie sud de la commune de Montalcino, une zone de collines plus basse et plus chaude que le nord, aux sols variés et à forte influence méditerranéenne.</p><p>Il est élaboré exclusivement avec du sangiovese, comme l’exige l’appellation, à partir des clones sélectionnés par le domaine dans le cadre de ses recherches sur le cépage. Après la fermentation, le vin est élevé en chêne et termine son élevage en bouteille jusqu’à sa commercialisation, cinq ans après les vendanges.</p><p>C’est l’un des Brunello les plus diffusés à l’international. Son style associe fruit mûr, notes d’élevage et structure généreuse, avec une bonne aptitude à évoluer en bouteille.</p>",
+    "it": "<p>Il Brunello di Castello Banfi proviene dai vigneti della tenuta nella parte meridionale del comune di Montalcino, una zona collinare più bassa e calda del nord, con suoli vari e una spiccata influenza mediterranea.</p><p>È prodotto esclusivamente con Sangiovese, come prevede la denominazione, a partire dai cloni selezionati dalla tenuta nel corso dei suoi studi sulla varietà. Dopo la fermentazione il vino affina in rovere e completa l’affinamento in bottiglia fino all’uscita sul mercato, cinque anni dopo la vendemmia.</p><p>È uno dei Brunello più diffusi a livello internazionale. Il suo stile unisce frutto maturo, note di affinamento e una struttura generosa, con la capacità di evolvere in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Granate intenso. Aromas de cereza madura, ciruela y frutos rojos en confitura, con notas de vainilla, especias y regaliz. En boca es amplio, con tanino firme y final persistente.",
+    "en": "Deep garnet. Aromas of ripe cherry, plum and red-fruit jam, with notes of vanilla, spice and liquorice. Broad on the palate, with firm tannins and a persistent finish.",
+    "fr": "Grenat intense. Arômes de cerise mûre, de prune et de confiture de fruits rouges, avec des notes de vanille, d’épices et de réglisse. En bouche, il est ample, aux tanins fermes et à la finale persistante.",
+    "it": "Granato intenso. Profumi di ciliegia matura, prugna e confettura di frutti rossi, con note di vaniglia, spezie e liquirizia. In bocca è ampio, con tannino deciso e finale persistente."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, estofados, jabalí, quesos curados",
+    "en": "Chargrilled red meat, stews, wild boar, aged cheeses",
+    "fr": "Viandes rouges à la braise, ragoûts, sanglier, fromages affinés",
+    "it": "Carni rosse alla brace, stufati, cinghiale, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia; conviene abrirlo con antelación",
+    "en": "16-18 °C, large glass; best opened in advance",
+    "fr": "16-18 °C, verre ample ; à ouvrir à l’avance",
+    "it": "16-18 °C, calice ampio; meglio aprirlo in anticipo"
+  },
+  "search": "Castello Banfi Brunello di Montalcino"
+}

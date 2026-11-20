@@ -1,0 +1,44 @@
+{
+  "slug": "perpetual",
+  "name": "Perpetual",
+  "winery": "familia-torres",
+  "region": "priorat",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "carinena",
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Tinto de Familia Torres en el Priorat elaborado con cepas viejas de cariñena y garnacha sobre suelos de llicorella.",
+    "en": "Red from Familia Torres in the Priorat made from old Cariñena and Garnacha vines on llicorella soils.",
+    "fr": "Rouge de Familia Torres dans le Priorat élaboré avec de vieilles vignes de carignan et de grenache sur sols de llicorella.",
+    "it": "Rosso di Familia Torres nel Priorat prodotto con vecchie viti di Cariñena e Garnacha su suoli di llicorella."
+  },
+  "body": {
+    "es": "<p>Perpetual es el tinto de mayor ambición de <strong>Familia Torres</strong> en la D.O.Ca. <strong>Priorat</strong>, donde la familia también elabora Salmos. Mientras Salmos ofrece una visión amplia de la comarca, Perpetual se centra en uvas de <strong>cepas viejas</strong>, algunas con muchas décadas de edad, cultivadas en laderas de fuerte pendiente.</p><p>Se elabora con <strong>cariñena</strong> y <strong>garnacha</strong>, las dos variedades tradicionales del Priorat; las proporciones varían según la añada. Las viñas crecen sobre la <strong>llicorella</strong>, la pizarra oscura y descompuesta característica de la zona, que obliga a las raíces a profundizar en busca de agua y da rendimientos muy bajos. Las uvas se vinifican por separado y el vino se cría en barricas de roble francés antes del ensamblaje final. Es un tinto concentrado y profundo, de carácter mineral y especiado, que necesita tiempo en botella para mostrar toda su complejidad.</p>",
+    "en": "<p>Perpetual is <strong>Familia Torres</strong>' most ambitious red in the <strong>Priorat</strong> D.O.Ca., where the family also makes Salmos. While Salmos offers a broad view of the area, Perpetual focuses on grapes from <strong>old vines</strong>, some of them many decades old, grown on steep slopes.</p><p>It is made from <strong>Cariñena</strong> and <strong>Garnacha</strong>, the two traditional Priorat varieties; the proportions vary with the vintage. The vines grow on <strong>llicorella</strong>, the dark, crumbling slate typical of the area, which forces roots to dig deep in search of water and gives very low yields. The grapes are vinified separately and the wine is aged in French oak barrels before the final blend. It is a concentrated, deep red with a mineral, spicy character that needs time in bottle to show its full complexity.</p>",
+    "fr": "<p>Perpetual est le rouge le plus ambitieux de <strong>Familia Torres</strong> dans la D.O.Ca. <strong>Priorat</strong>, où la famille élabore aussi Salmos. Alors que Salmos offre une vision large de la région, Perpetual se concentre sur des raisins de <strong>vieilles vignes</strong>, certaines âgées de nombreuses décennies, cultivées sur des pentes abruptes.</p><p>Il est élaboré avec du <strong>carignan</strong> et du <strong>grenache</strong>, les deux cépages traditionnels du Priorat ; les proportions varient selon le millésime. Les vignes poussent sur la <strong>llicorella</strong>, le schiste sombre et délité caractéristique de la région, qui oblige les racines à plonger en profondeur à la recherche d'eau et donne des rendements très faibles. Les raisins sont vinifiés séparément et le vin est élevé en barriques de chêne français avant l'assemblage final. C'est un rouge concentré et profond, au caractère minéral et épicé, qui a besoin de temps en bouteille pour révéler toute sa complexité.</p>",
+    "it": "<p>Perpetual è il rosso più ambizioso di <strong>Familia Torres</strong> nella D.O.Ca. <strong>Priorat</strong>, dove la famiglia produce anche Salmos. Mentre Salmos offre una visione ampia della comarca, Perpetual si concentra su uve di <strong>vecchie viti</strong>, alcune con molti decenni di età, coltivate su pendii ripidi.</p><p>È prodotto con <strong>Cariñena</strong> e <strong>Garnacha</strong>, le due varietà tradizionali del Priorat; le proporzioni variano secondo l'annata. Le viti crescono sulla <strong>llicorella</strong>, lo scisto scuro e friabile tipico della zona, che costringe le radici a scendere in profondità in cerca d'acqua e dà rese molto basse. Le uve sono vinificate separatamente e il vino affina in barrique di rovere francese prima dell'assemblaggio finale. È un rosso concentrato e profondo, dal carattere minerale e speziato, che ha bisogno di tempo in bottiglia per mostrare tutta la sua complessità.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota casi opaco. Aromas de fruta negra madura, regaliz, grafito, hierbas de monte y especias. En boca es denso, con tanino firme y final largo y mineral.",
+    "en": "Almost opaque deep cherry red. Aromas of ripe black fruit, liquorice, graphite, wild herbs and spice. Dense on the palate, with firm tannins and a long mineral finish.",
+    "fr": "Rouge cerise presque opaque. Arômes de fruits noirs mûrs, de réglisse, de graphite, d'herbes de garrigue et d'épices. En bouche, dense, aux tanins fermes et à la longue finale minérale.",
+    "it": "Rosso ciliegia quasi impenetrabile. Aromi di frutta nera matura, liquirizia, grafite, erbe di macchia e spezie. In bocca è denso, con tannino deciso e finale lungo e minerale."
+  },
+  "pairing": {
+    "es": "Caza mayor, cordero, carnes a la brasa, quesos curados",
+    "en": "Large game, lamb, grilled meats, aged cheeses",
+    "fr": "Gros gibier, agneau, viandes grillées, fromages affinés",
+    "it": "Selvaggina da pelo, agnello, carni alla brace, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, grand verre",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Perpetual Torres Priorat"
+}

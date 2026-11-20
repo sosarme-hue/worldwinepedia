@@ -1,0 +1,42 @@
+{
+  "slug": "la-riva-manzanilla-pasada-balbaina-alta",
+  "name": "La Riva Manzanilla Pasada Balbaína Alta",
+  "winery": null,
+  "winery_name": "De la Riva",
+  "region": null,
+  "country": "espana",
+  "appellation": "DO Manzanilla - Sanlúcar de Barrameda",
+  "type": "generoso",
+  "category": null,
+  "grapes": [
+    "palomino"
+  ],
+  "summary": {
+    "es": "La Riva Manzanilla Pasada Balbaína Alta es un vino generoso de De la Riva, con la denominación DO Manzanilla - Sanlúcar de Barrameda, en España.",
+    "en": "La Riva Manzanilla Pasada Balbaína Alta is a fortified wine from De la Riva, made under the DO Manzanilla - Sanlúcar de Barrameda appellation in Spain.",
+    "fr": "La Riva Manzanilla Pasada Balbaína Alta est un vin fortifié de De la Riva, élaboré sous l’appellation DO Manzanilla - Sanlúcar de Barrameda (Espagne).",
+    "it": "La Riva Manzanilla Pasada Balbaína Alta è un vino liquoroso di De la Riva, prodotto nella denominazione DO Manzanilla - Sanlúcar de Barrameda (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Palomino. Su graduación es de 15 % vol.</p>",
+    "en": "<p>It is made from Palomino. It has 15% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Palomino. Il titre 15 % vol.</p>",
+    "it": "<p>È prodotto con Palomino. Ha 15% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, jamón, frutos secos, quesos curados",
+    "en": "Aperitif, cured ham, nuts, aged cheeses",
+    "fr": "Apéritif, jambon sec, fruits secs, fromages affinés",
+    "it": "Aperitivo, prosciutto crudo, frutta secca, formaggi stagionati"
+  },
+  "serve": {
+    "es": "7-14 °C según el tipo, catavino",
+    "en": "7-14 °C depending on style, copita glass",
+    "fr": "7-14 °C selon le style, verre à xérès",
+    "it": "7-14 °C secondo lo stile, bicchiere da sherry"
+  },
+  "search": "La Riva Manzanilla Pasada Balbaína Alta De la Riva",
+  "brief": true,
+  "source": "decantalo"
+}

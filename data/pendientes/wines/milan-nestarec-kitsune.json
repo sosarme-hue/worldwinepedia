@@ -1,0 +1,42 @@
+{
+  "slug": "milan-nestarec-kitsune",
+  "name": "Milan Nestarec Kitsune",
+  "winery": null,
+  "winery_name": "Milan Nestarec",
+  "region": null,
+  "country": null,
+  "appellation": "Moravia",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "blaufrankisch"
+  ],
+  "summary": {
+    "es": "Milan Nestarec Kitsune es un vino tinto de Milan Nestarec, con la denominación Moravia.",
+    "en": "Milan Nestarec Kitsune is a red wine from Milan Nestarec, made under the Moravia appellation.",
+    "fr": "Milan Nestarec Kitsune est un vin rouge de Milan Nestarec, élaboré sous l’appellation Moravia.",
+    "it": "Milan Nestarec Kitsune è un vino rosso di Milan Nestarec, prodotto nella denominazione Moravia."
+  },
+  "body": {
+    "es": "<p>Se elabora con Blaufränkisch. Tiene crianza en madera. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is made from Blaufränkisch. It is aged in wood. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Blaufränkisch. Il est élevé en bois. Il titre 13,5 % vol.</p>",
+    "it": "<p>È prodotto con Blaufränkisch. È affinato in legno. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Milan Nestarec Kitsune Milan Nestarec",
+  "brief": true,
+  "source": "decantalo"
+}

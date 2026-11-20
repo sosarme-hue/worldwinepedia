@@ -1,0 +1,41 @@
+{
+  "slug": "ca-del-bosco-cuvee-prestige",
+  "name": "Ca' del Bosco Cuvée Prestige",
+  "winery": "ca-del-bosco",
+  "region": "franciacorta",
+  "country": "italia",
+  "type": "espumoso",
+  "category": {"es": "Franciacorta DOCG Extra Brut", "en": "Franciacorta DOCG Extra Brut", "fr": "Franciacorta DOCG Extra Brut", "it": "Franciacorta DOCG Extra Brut"},
+  "grapes": ["chardonnay", "pinot-noir"],
+  "summary": {
+    "es": "El Franciacorta más difundido de Ca’ del Bosco, un espumoso de método tradicional de Chardonnay con Pinot Noir y Pinot Blanc, que combina vinos de varias añadas.",
+    "en": "Ca’ del Bosco’s most widely available Franciacorta, a traditional-method sparkling wine from Chardonnay with Pinot Noir and Pinot Blanc, blending wines from several vintages.",
+    "fr": "Le Franciacorta le plus diffusé de Ca’ del Bosco, un effervescent de méthode traditionnelle de chardonnay avec pinot noir et pinot blanc, qui assemble des vins de plusieurs millésimes.",
+    "it": "Il Franciacorta più diffuso di Ca’ del Bosco, uno spumante metodo classico di Chardonnay con Pinot Nero e Pinot Bianco, che unisce vini di più annate."
+  },
+  "body": {
+    "es": "<p>La Cuvée Prestige es el Franciacorta sin añada de Ca’ del Bosco y su vino de referencia. Se elabora con Chardonnay, mayoritaria, y proporciones menores de Pinot Noir y Pinot Blanc, procedentes de numerosas parcelas de la Franciacorta que se vinifican por separado.</p><p>Como todo Franciacorta, se elabora por el método tradicional: tras la fermentación de los vinos base y el ensamblaje, que incluye vinos de reserva de añadas anteriores, el vino realiza una segunda fermentación en la propia botella y reposa sobre sus lías durante un periodo prolongado antes del degüelle.</p><p>Es un espumoso seco, de burbuja fina, que combina la frescura de la fruta con notas de panadería procedentes de la crianza sobre lías. Su dosificación baja lo hace versátil como aperitivo y en la mesa.</p>",
+    "en": "<p>Cuvée Prestige is Ca’ del Bosco’s non-vintage Franciacorta and its benchmark wine. It is made mostly from Chardonnay, with smaller proportions of Pinot Noir and Pinot Blanc, from numerous Franciacorta plots that are vinified separately.</p><p>Like all Franciacorta, it is made by the traditional method: after the base wines are fermented and blended, including reserve wines from earlier vintages, the wine undergoes a second fermentation in the bottle and rests on its lees for an extended period before disgorgement.</p><p>It is a dry sparkling wine with fine bubbles, combining fresh fruit with bakery notes from lees ageing. Its low dosage makes it versatile as an aperitif and with food.</p>",
+    "fr": "<p>La Cuvée Prestige est le Franciacorta non millésimé de Ca’ del Bosco et son vin de référence. Elle est élaborée majoritairement avec du chardonnay et de plus petites proportions de pinot noir et de pinot blanc, issus de nombreuses parcelles de Franciacorta vinifiées séparément.</p><p>Comme tout Franciacorta, elle est élaborée selon la méthode traditionnelle : après la fermentation des vins de base et l’assemblage, qui inclut des vins de réserve de millésimes antérieurs, le vin effectue une seconde fermentation en bouteille et repose sur lies pendant une période prolongée avant le dégorgement.</p><p>C’est un effervescent sec, à la bulle fine, qui associe la fraîcheur du fruit à des notes de boulangerie dues à l’élevage sur lies. Son faible dosage le rend polyvalent à l’apéritif comme à table.</p>",
+    "it": "<p>La Cuvée Prestige è il Franciacorta senza annata di Ca’ del Bosco e il suo vino di riferimento. È prodotta in prevalenza con Chardonnay e quote minori di Pinot Nero e Pinot Bianco, da numerose parcelle della Franciacorta vinificate separatamente.</p><p>Come ogni Franciacorta, è prodotta con il metodo classico: dopo la fermentazione dei vini base e l’assemblaggio, che comprende vini di riserva di annate precedenti, il vino compie una seconda fermentazione in bottiglia e riposa sui lieviti per un periodo prolungato prima della sboccatura.</p><p>È uno spumante secco, dal perlage fine, che unisce la freschezza del frutto a note di panificazione dovute all’affinamento sui lieviti. Il basso dosaggio lo rende versatile come aperitivo e a tutto pasto.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pajizo con burbuja fina y persistente. Aromas de manzana, cítricos y flores blancas, con notas de pan tostado y bollería. En boca es fresco, cremoso y seco, con buena acidez.",
+    "en": "Straw yellow with fine, persistent bubbles. Aromas of apple, citrus and white flowers, with notes of toast and pastry. Fresh, creamy and dry on the palate, with good acidity.",
+    "fr": "Jaune paille à la bulle fine et persistante. Arômes de pomme, d’agrumes et de fleurs blanches, avec des notes de pain grillé et de viennoiserie. En bouche, il est frais, crémeux et sec, avec une bonne acidité.",
+    "it": "Giallo paglierino con perlage fine e persistente. Profumi di mela, agrumi e fiori bianchi, con note di pane tostato e pasticceria. In bocca è fresco, cremoso e secco, con buona acidità."
+  },
+  "pairing": {
+    "es": "Aperitivo, marisco, crudos de pescado, frituras, risotto",
+    "en": "Aperitif, shellfish, raw fish, fried dishes, risotto",
+    "fr": "Apéritif, fruits de mer, poisson cru, fritures, risotto",
+    "it": "Aperitivo, frutti di mare, crudi di pesce, fritture, risotto"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de vino blanco o tulipa",
+    "en": "6-8 °C, white wine glass or tulip",
+    "fr": "6-8 °C, verre à vin blanc ou tulipe",
+    "it": "6-8 °C, calice da vino bianco o tulipano"
+  },
+  "search": "Ca' del Bosco Cuvée Prestige Franciacorta"
+}

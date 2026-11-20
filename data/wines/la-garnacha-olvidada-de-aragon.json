@@ -1,0 +1,42 @@
+{
+  "slug": "la-garnacha-olvidada-de-aragon",
+  "name": "La Garnacha Olvidada de Aragón",
+  "winery": null,
+  "winery_name": "Proyecto Garnachas de España",
+  "region": "calatayud",
+  "country": "espana",
+  "appellation": "DO Calatayud",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "La Garnacha Olvidada de Aragón es un vino tinto de Proyecto Garnachas de España, con la denominación DO Calatayud, en España.",
+    "en": "La Garnacha Olvidada de Aragón is a red wine from Proyecto Garnachas de España, made under the DO Calatayud appellation in Spain.",
+    "fr": "La Garnacha Olvidada de Aragón est un vin rouge de Proyecto Garnachas de España, élaboré sous l’appellation DO Calatayud (Espagne).",
+    "it": "La Garnacha Olvidada de Aragón è un vino rosso di Proyecto Garnachas de España, prodotto nella denominazione DO Calatayud (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Tiene crianza en madera. Su graduación es de 14,5 % vol.</p><p>Calatayud es una denominación de origen del suroeste de la provincia de Zaragoza, en el Sistema Ibérico, con algunos de los viñedos más altos de Aragón. Es conocida por sus Garnachas de viñas viejas sobre suelos pobres de pizarra y caliza.</p>",
+    "en": "<p>It is made from Grenache. It is aged in wood. It has 14.5% ABV.</p><p>Calatayud is a designation of origin in the south-west of the province of Zaragoza, in the Iberian System, with some of the highest vineyards in Aragón. It is known for old-vine Grenache grown on poor slate and limestone soils.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. Il est élevé en bois. Il titre 14,5 % vol.</p><p>Calatayud est une dénomination d'origine du sud-ouest de la province de Saragosse, dans le Système ibérique, qui compte certains des vignobles les plus élevés d'Aragon. Elle est connue pour ses grenaches de vieilles vignes sur des sols pauvres de schiste et de calcaire.</p>",
+    "it": "<p>È prodotto con Grenache. È affinato in legno. Ha 14,5% vol.</p><p>Calatayud è una denominazione di origine del sud-ovest della provincia di Saragozza, nel Sistema Iberico, con alcuni dei vigneti più alti dell'Aragona. È nota per le Garnacha da vecchie vigne su suoli poveri di scisto e calcare.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "La Garnacha Olvidada de Aragón Proyecto Garnachas de España",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "nyetimber-classic-cuvee",
+  "name": "Nyetimber Classic Cuvée",
+  "winery": "nyetimber",
+  "region": "sussex",
+  "country": "inglaterra",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut",
+    "en": "Brut",
+    "fr": "Brut",
+    "it": "Brut"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Espumoso de método tradicional que constituye la referencia de la gama de Nyetimber, elaborado con Chardonnay, Pinot Noir y Pinot Meunier de sus viñedos del sur de Inglaterra.",
+    "en": "Traditional-method sparkling wine that is the benchmark of Nyetimber’s range, made from Chardonnay, Pinot Noir and Pinot Meunier from its vineyards in southern England.",
+    "fr": "Effervescent de méthode traditionnelle qui constitue la référence de la gamme de Nyetimber, élaboré avec du chardonnay, du pinot noir et du pinot meunier de ses vignes du sud de l’Angleterre.",
+    "it": "Spumante metodo classico che rappresenta il riferimento della gamma di Nyetimber, prodotto con Chardonnay, Pinot Nero e Pinot Meunier dei suoi vigneti dell’Inghilterra meridionale."
+  },
+  "body": {
+    "es": "<p>El Classic Cuvée es el vino que mejor resume el estilo de Nyetimber. Se elabora con las tres variedades clásicas de la Champaña, Chardonnay, Pinot Noir y Pinot Meunier, procedentes exclusivamente de los viñedos propios de la casa en West Sussex, Hampshire y Kent. Las proporciones varían de un año a otro según las condiciones de la cosecha.</p><p>El vino base se ensambla con vinos de reserva de añadas anteriores, lo que permite mantener la regularidad del estilo pese a la gran variabilidad del clima inglés, y después realiza la segunda fermentación en botella según el método tradicional. A continuación permanece un largo periodo en contacto con las lías antes del degüelle. El resultado es un espumoso de acidez viva, propia de un clima fresco, en el que la fruta se combina con las notas de crianza. Es un vino adecuado como aperitivo y a lo largo de una comida ligera.</p>",
+    "en": "<p>Classic Cuvée is the wine that best sums up Nyetimber’s style. It is made from the three classic Champagne varieties, Chardonnay, Pinot Noir and Pinot Meunier, sourced exclusively from the house’s own vineyards in West Sussex, Hampshire and Kent. The proportions vary from year to year according to harvest conditions.</p><p>The base wine is blended with reserve wines from previous vintages, which helps keep the style consistent despite the great variability of the English climate, and then undergoes its second fermentation in bottle by the traditional method. It then spends a long period on the lees before disgorgement. The result is a sparkling wine with the lively acidity of a cool climate, in which fruit combines with notes from ageing. It works well as an aperitif and throughout a light meal.</p>",
+    "fr": "<p>Le Classic Cuvée est le vin qui résume le mieux le style de Nyetimber. Il est élaboré avec les trois cépages classiques de la Champagne, chardonnay, pinot noir et pinot meunier, issus exclusivement des vignes de la maison dans le West Sussex, le Hampshire et le Kent. Les proportions varient d’une année à l’autre selon les conditions de la récolte.</p><p>Le vin de base est assemblé avec des vins de réserve de millésimes antérieurs, ce qui permet de préserver la régularité du style malgré la grande variabilité du climat anglais, puis il effectue sa seconde fermentation en bouteille selon la méthode traditionnelle. Il reste ensuite longtemps au contact des lies avant le dégorgement. Le résultat est un effervescent à l’acidité vive, propre à un climat frais, où le fruit se mêle aux notes d’élevage. Il convient à l’apéritif comme tout au long d’un repas léger.</p>",
+    "it": "<p>Il Classic Cuvée è il vino che meglio riassume lo stile di Nyetimber. È prodotto con le tre varietà classiche della Champagne, Chardonnay, Pinot Nero e Pinot Meunier, provenienti esclusivamente dai vigneti della casa nel West Sussex, nell’Hampshire e nel Kent. Le proporzioni variano di anno in anno secondo le condizioni della vendemmia.</p><p>Il vino base viene assemblato con vini di riserva di annate precedenti, il che consente di mantenere la regolarità dello stile nonostante la grande variabilità del clima inglese, e poi svolge la seconda fermentazione in bottiglia secondo il metodo classico. Rimane quindi a lungo a contatto con i lieviti prima della sboccatura. Il risultato è uno spumante dall’acidità vivace, tipica di un clima fresco, in cui il frutto si unisce alle note di affinamento. È adatto come aperitivo e per accompagnare un pasto leggero.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido con burbuja fina. Aromas de manzana, limón y fruta blanca con notas de pan tostado y bollería. En boca es fresco, de acidez viva y final largo.",
+    "en": "Pale yellow with fine bubbles. Aromas of apple, lemon and white fruit with notes of toast and pastry. Fresh on the palate, with lively acidity and a long finish.",
+    "fr": "Jaune pâle à la bulle fine. Arômes de pomme, de citron et de fruits blancs, avec des notes de pain grillé et de viennoiserie. En bouche, il est frais, d’une acidité vive, avec une finale longue.",
+    "it": "Giallo paglierino tenue con perlage fine. Profumi di mela, limone e frutta bianca con note di pane tostato e pasticceria. In bocca è fresco, di acidità vivace e finale lungo."
+  },
+  "pairing": {
+    "es": "Aperitivo, ostras y marisco, pescado frito, quesos frescos",
+    "en": "Aperitif, oysters and shellfish, fried fish, fresh cheeses",
+    "fr": "Apéritif, huîtres et fruits de mer, poisson frit, fromages frais",
+    "it": "Aperitivo, ostriche e frutti di mare, pesce fritto, formaggi freschi"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de vino blanco o tulipa",
+    "en": "6-8 °C, white wine glass or tulip",
+    "fr": "6-8 °C, verre à vin blanc ou tulipe",
+    "it": "6-8 °C, calice da vino bianco o tulipano"
+  },
+  "search": "Nyetimber Classic Cuvée"
+}

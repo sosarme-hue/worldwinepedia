@@ -1,0 +1,50 @@
+{
+  "slug": "chateau-coutet",
+  "name": "Château Coutet",
+  "winery": "chateau-coutet",
+  "region": "sauternes",
+  "country": "francia",
+  "type": "dulce",
+  "category": {
+    "es": "1er Gran Cru Clasificado",
+    "en": "1er Grand Cru Classé",
+    "fr": "1er Grand Cru Classé",
+    "it": "1er Grand Cru Classé"
+  },
+  "grapes": [
+    "semillon",
+    "sauvignon-blanc",
+    "muscadelle"
+  ],
+  "summary": {
+    "es": "Barsac primer cru clasificado de Château Coutet, un vino dulce de Sémillon botritizada, conocido por su frescura y finura.",
+    "en": "First-growth Barsac from Château Coutet, a sweet wine from botrytised Sémillon, known for its freshness and finesse.",
+    "fr": "Barsac premier cru classé du Château Coutet, un liquoreux de sémillon botrytisé, réputé pour sa fraîcheur et sa finesse.",
+    "it": "Barsac premier cru classé di Château Coutet, un vino dolce da Sémillon botritizzato, noto per freschezza e finezza."
+  },
+  "body": {
+    "es": "<p>El Château Coutet es el vino principal de esta finca de Barsac, clasificada como primer cru en 1855 y propiedad de la familia Baly desde 1977.</p><p>Los vinos dulces de Sauternes y Barsac se elaboran con uvas afectadas por la <em>Botrytis cinerea</em>, la podredumbre noble que, favorecida por las nieblas matinales del Ciron y el Garona, deshidrata los granos y concentra azúcares, acidez y aromas. La vendimia se realiza a mano, en varias pasadas por la viña.</p><p>Se elabora sobre todo con <strong>Sémillon</strong>, completada con Sauvignon Blanc y un pequeño porcentaje de Muscadelle, y fermenta y se cría en barricas. Los suelos calcáreos de la meseta de Barsac le dan un perfil más fresco y fino que el de muchos Sauternes. Joven muestra notas de cítricos, albaricoque y flores; con los años evoluciona hacia aromas de miel, frutas confitadas y especias, y puede guardarse durante décadas.</p>",
+    "en": "<p>Château Coutet is the main wine of this Barsac estate, classified as a first growth in 1855 and owned by the Baly family since 1977.</p><p>The sweet wines of Sauternes and Barsac are made from grapes affected by <em>Botrytis cinerea</em>, the noble rot which, encouraged by morning mists from the Ciron and the Garonne, dehydrates the berries and concentrates sugars, acidity and aromas. Harvesting is done by hand, in several passes through the vineyard.</p><p>It is made mainly from <strong>Sémillon</strong>, completed by Sauvignon Blanc and a small percentage of Muscadelle, and is fermented and aged in barrels. The limestone soils of the Barsac plateau give it a fresher, finer profile than many Sauternes. Young, it shows citrus, apricot and floral notes; with time it evolves towards aromas of honey, candied fruit and spice, and it can be kept for decades.</p>",
+    "fr": "<p>Le Château Coutet est le vin principal de ce domaine de Barsac, classé premier cru en 1855 et propriété de la famille Baly depuis 1977.</p><p>Les liquoreux de Sauternes et de Barsac sont élaborés avec des raisins atteints de <em>Botrytis cinerea</em>, la pourriture noble qui, favorisée par les brumes matinales du Ciron et de la Garonne, déshydrate les baies et concentre sucres, acidité et arômes. Les vendanges se font à la main, en plusieurs tries successives.</p><p>Il est élaboré surtout à partir de <strong>sémillon</strong>, complété par du sauvignon blanc et un petit pourcentage de muscadelle, et fermente et s’élève en barriques. Les sols calcaires du plateau de Barsac lui donnent un profil plus frais et plus fin que celui de nombreux Sauternes. Jeune, il montre des notes d’agrumes, d’abricot et de fleurs ; avec les années, il évolue vers des arômes de miel, de fruits confits et d’épices, et peut se garder des décennies.</p>",
+    "it": "<p>Il Château Coutet è il vino principale di questa tenuta di Barsac, classificata premier cru nel 1855 e di proprietà della famiglia Baly dal 1977.</p><p>I vini dolci di Sauternes e Barsac si producono con uve colpite dalla <em>Botrytis cinerea</em>, la muffa nobile che, favorita dalle nebbie mattutine del Ciron e della Garonna, disidrata gli acini e concentra zuccheri, acidità e aromi. La vendemmia si svolge a mano, con più passaggi in vigna.</p><p>È prodotto soprattutto con <strong>Sémillon</strong>, completato da Sauvignon Blanc e da una piccola percentuale di Muscadelle, e fermenta e matura in barrique. I suoli calcarei dell’altopiano di Barsac gli conferiscono un profilo più fresco e fine di molti Sauternes. Da giovane mostra note di agrumi, albicocca e fiori; con gli anni evolve verso aromi di miele, frutta candita e spezie, e può essere conservato per decenni.</p>"
+  },
+  "tasting": {
+    "es": "Dorado. Aromas de albaricoque, cítricos confitados, miel, flores blancas y vainilla. Boca dulce y fresca, de gran pureza y final largo.",
+    "en": "Gold. Aromas of apricot, candied citrus, honey, white flowers and vanilla. Sweet, fresh palate of great purity with a long finish.",
+    "fr": "Or. Arômes d’abricot, d’agrumes confits, de miel, de fleurs blanches et de vanille. Bouche douce et fraîche, d’une grande pureté, finale longue.",
+    "it": "Oro. Aromi di albicocca, agrumi canditi, miele, fiori bianchi e vaniglia. Bocca dolce e fresca, di grande purezza, finale lungo."
+  },
+  "pairing": {
+    "es": "Foie gras, quesos azules, postres de frutas, cocina asiática especiada",
+    "en": "Foie gras, blue cheeses, fruit desserts, spiced Asian cuisine",
+    "fr": "Foie gras, fromages persillés, desserts aux fruits, cuisine asiatique épicée",
+    "it": "Foie gras, formaggi erborinati, dessert alla frutta, cucina asiatica speziata"
+  },
+  "serve": {
+    "es": "8-10 °C, copa pequeña de vino blanco",
+    "en": "8-10 °C, small white wine glass",
+    "fr": "8-10 °C, petit verre à vin blanc",
+    "it": "8-10 °C, piccolo calice da vino bianco"
+  },
+  "search": "Château Coutet Barsac"
+}

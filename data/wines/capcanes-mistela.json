@@ -1,0 +1,42 @@
+{
+  "slug": "capcanes-mistela",
+  "name": "Capçanes Mistela",
+  "winery": "celler-de-capcanes",
+  "winery_name": null,
+  "region": null,
+  "country": "espana",
+  "appellation": null,
+  "type": "dulce",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Capçanes Mistela es un vino dulce de Celler de Capçanes, en España.",
+    "en": "Capçanes Mistela is a sweet wine from Celler de Capçanes in Spain.",
+    "fr": "Capçanes Mistela est un vin doux de Celler de Capçanes (Espagne).",
+    "it": "Capçanes Mistela è un vino dolce di Celler de Capçanes (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Su graduación es de 15,76 % vol.</p><p>Cooperativa del pueblo de Capçanes, en el Montsant, que pasó de vender a granel a embotellar vinos de garnacha de viñas viejas y es conocida también por sus vinos kosher.</p>",
+    "en": "<p>It is made from Grenache. It has 15.76% ABV.</p><p>Village cooperative of Capçanes, in the Montsant, which moved from selling in bulk to bottling old-vine Garnacha wines and is also known for its kosher wines.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. Il titre 15,76 % vol.</p><p>Coopérative du village de Capçanes, dans le Montsant, passée de la vente en vrac à la mise en bouteille de vins de grenache de vieilles vignes, également connue pour ses vins casher.</p>",
+    "it": "<p>È prodotto con Grenache. Ha 15,76% vol.</p><p>Cooperativa del paese di Capçanes, nel Montsant, passata dalla vendita di sfuso all'imbottigliamento di vini di Garnacha di vecchie vigne, nota anche per i suoi vini kosher.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Postres, foie gras, quesos azules",
+    "en": "Desserts, foie gras, blue cheeses",
+    "fr": "Desserts, foie gras, fromages à pâte persillée",
+    "it": "Dolci, foie gras, formaggi erborinati"
+  },
+  "serve": {
+    "es": "8-12 °C, copa pequeña",
+    "en": "8-12 °C, small glass",
+    "fr": "8-12 °C, petit verre",
+    "it": "8-12 °C, calice piccolo"
+  },
+  "search": "Capçanes Mistela Celler de Capçanes",
+  "brief": true,
+  "source": "decantalo"
+}

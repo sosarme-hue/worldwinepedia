@@ -1,0 +1,40 @@
+{
+  "slug": "patrick-bouju-lulu",
+  "name": "Patrick Bouju Lulu",
+  "winery": null,
+  "winery_name": "Patrick Bouju",
+  "region": null,
+  "country": "francia",
+  "appellation": "Vin de France",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Patrick Bouju Lulu es un vino tinto de Patrick Bouju, con la denominación Vin de France, en Francia.",
+    "en": "Patrick Bouju Lulu is a red wine from Patrick Bouju, made under the Vin de France appellation in France.",
+    "fr": "Patrick Bouju Lulu est un vin rouge de Patrick Bouju, élaboré sous l’appellation Vin de France (France).",
+    "it": "Patrick Bouju Lulu è un vino rosso di Patrick Bouju, prodotto nella denominazione Vin de France (Francia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 13% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Patrick Bouju Lulu Patrick Bouju",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "cave-geisse-brut",
+  "name": "Cave Geisse Brut",
+  "winery": "cave-geisse",
+  "region": "serra-gaucha",
+  "country": "brasil",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut",
+    "en": "Brut",
+    "fr": "Brut",
+    "it": "Brut"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Espumoso de método tradicional de Chardonnay y Pinot Noir de los viñedos propios de Cave Geisse en Pinto Bandeira, en la Serra Gaúcha.",
+    "en": "Traditional-method sparkling wine from Chardonnay and Pinot Noir from Cave Geisse’s own vineyards in Pinto Bandeira, in the Serra Gaúcha.",
+    "fr": "Effervescent de méthode traditionnelle de chardonnay et de pinot noir issu des vignes de Cave Geisse à Pinto Bandeira, dans la Serra Gaúcha.",
+    "it": "Spumante metodo classico di Chardonnay e Pinot Nero dei vigneti di Cave Geisse a Pinto Bandeira, nella Serra Gaúcha."
+  },
+  "body": {
+    "es": "<p>El Brut es el vino que mejor resume el estilo de Cave Geisse, la bodega fundada por el enólogo chileno Mario Geisse en Pinto Bandeira, una zona alta de la Serra Gaúcha centrada en los espumosos. Como todos los vinos de la casa, se elabora exclusivamente con uva de los viñedos propios, principalmente <strong>Chardonnay</strong> y <strong>Pinot Noir</strong>.</p><p>Las temperaturas algo más frescas de Pinto Bandeira, los suelos de origen basáltico y la buena ventilación de las laderas permiten vendimiar uva de acidez elevada y grado moderado, ideal como base de espumoso. El vino realiza la segunda fermentación en botella por el método tradicional y se cría sobre lías antes del degüelle, lo que le aporta complejidad sin restarle frescura. El resultado es un espumoso seco, preciso y de burbuja fina, que muestra el potencial de la Serra Gaúcha para este estilo y que resulta muy versátil en la mesa.</p>",
+    "en": "<p>The Brut is the wine that best sums up the style of Cave Geisse, the winery founded by the Chilean winemaker Mario Geisse in Pinto Bandeira, a high-lying area of the Serra Gaúcha focused on sparkling wine. Like all the house’s wines, it is made exclusively from grapes from its own vineyards, mainly <strong>Chardonnay</strong> and <strong>Pinot Noir</strong>.</p><p>The somewhat cooler temperatures of Pinto Bandeira, the soils of basaltic origin and the good ventilation of the slopes allow grapes to be harvested with high acidity and moderate sugar, ideal as a sparkling base. The wine undergoes its second fermentation in bottle by the traditional method and is aged on the lees before disgorgement, which brings complexity without taking away freshness. The result is a dry, precise sparkling wine with fine bubbles, which shows the potential of the Serra Gaúcha for this style and is very versatile at the table.</p>",
+    "fr": "<p>Le Brut est le vin qui résume le mieux le style de Cave Geisse, la cave fondée par l’œnologue chilien Mario Geisse à Pinto Bandeira, une zone élevée de la Serra Gaúcha tournée vers les effervescents. Comme tous les vins de la maison, il est élaboré exclusivement avec les raisins de ses propres vignes, principalement du <strong>chardonnay</strong> et du <strong>pinot noir</strong>.</p><p>Les températures un peu plus fraîches de Pinto Bandeira, les sols d’origine basaltique et la bonne ventilation des coteaux permettent de vendanger des raisins à l’acidité élevée et au degré modéré, idéaux comme base d’effervescent. Le vin effectue sa seconde fermentation en bouteille selon la méthode traditionnelle et vieillit sur lies avant le dégorgement, ce qui lui apporte de la complexité sans lui ôter sa fraîcheur. Le résultat est un effervescent sec, précis et à la bulle fine, qui montre le potentiel de la Serra Gaúcha pour ce style et se révèle très polyvalent à table.</p>",
+    "it": "<p>Il Brut è il vino che meglio riassume lo stile di Cave Geisse, la cantina fondata dall’enologo cileno Mario Geisse a Pinto Bandeira, una zona elevata della Serra Gaúcha dedicata agli spumanti. Come tutti i vini della casa, è prodotto esclusivamente con uve dei propri vigneti, soprattutto <strong>Chardonnay</strong> e <strong>Pinot Nero</strong>.</p><p>Le temperature un po’ più fresche di Pinto Bandeira, i suoli di origine basaltica e la buona ventilazione dei pendii permettono di vendemmiare uve di acidità elevata e gradazione moderata, ideali come base spumante. Il vino svolge la seconda fermentazione in bottiglia secondo il metodo classico e affina sui lieviti prima della sboccatura, il che gli apporta complessità senza togliergli freschezza. Il risultato è uno spumante secco, preciso e dal perlage fine, che mostra il potenziale della Serra Gaúcha per questo stile ed è molto versatile a tavola.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido con burbuja fina y persistente. Aromas de manzana verde, limón y flores blancas con notas de levadura. Boca seca, tensa y de acidez viva.",
+    "en": "Pale yellow with fine, persistent bubbles. Aromas of green apple, lemon and white flowers with yeasty notes. Dry and taut on the palate, with lively acidity.",
+    "fr": "Jaune pâle à la bulle fine et persistante. Arômes de pomme verte, de citron et de fleurs blanches avec des notes de levure. Bouche sèche et tendue, à l’acidité vive.",
+    "it": "Giallo paglierino tenue con perlage fine e persistente. Profumi di mela verde, limone e fiori bianchi con note di lievito. Bocca secca e tesa, di acidità vivace."
+  },
+  "pairing": {
+    "es": "Aperitivo, ostras, pescado crudo, frituras, quesos frescos",
+    "en": "Aperitif, oysters, raw fish, fried dishes, fresh cheeses",
+    "fr": "Apéritif, huîtres, poisson cru, fritures, fromages frais",
+    "it": "Aperitivo, ostriche, pesce crudo, fritture, formaggi freschi"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de vino blanco o tulipa",
+    "en": "6-8 °C, white wine glass or tulip",
+    "fr": "6-8 °C, verre à vin blanc ou tulipe",
+    "it": "6-8 °C, calice da vino bianco o tulipano"
+  },
+  "search": "Cave Geisse Brut"
+}

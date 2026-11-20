@@ -1,0 +1,42 @@
+{
+  "slug": "vina-pomal-vinos-singulares-garnacha",
+  "name": "Viña Pomal Vinos Singulares Garnacha",
+  "winery": "bodegas-bilbainas",
+  "winery_name": null,
+  "region": "rioja",
+  "country": "espana",
+  "appellation": "DOCa Rioja",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Viña Pomal Vinos Singulares Garnacha es un vino tinto de Bodegas Bilbaínas, con la denominación DOCa Rioja, en España.",
+    "en": "Viña Pomal Vinos Singulares Garnacha is a red wine from Bodegas Bilbaínas, made under the DOCa Rioja appellation in Spain.",
+    "fr": "Viña Pomal Vinos Singulares Garnacha est un vin rouge de Bodegas Bilbaínas, élaboré sous l’appellation DOCa Rioja (Espagne).",
+    "it": "Viña Pomal Vinos Singulares Garnacha è un vino rosso di Bodegas Bilbaínas, prodotto nella denominazione DOCa Rioja (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Tiene crianza en madera. Su graduación es de 14,5 % vol.</p><p>Bodega centenaria del Barrio de la Estación de Haro, fundada en 1901 y perteneciente al grupo Raventós Codorníu, conocida sobre todo por su marca Viña Pomal.</p><p>Rioja, en el valle del Ebro, fue en 1991 la primera Denominación de Origen Calificada de España. Es conocida sobre todo por sus tintos de Tempranillo y por su larga tradición de crianza en barrica de roble.</p>",
+    "en": "<p>It is made from Grenache. It is aged in wood. It has 14.5% ABV.</p><p>Century-old winery in Haro’s Station District, founded in 1901 and part of the Raventós Codorníu group, best known for its Viña Pomal brand.</p><p>Rioja, in the Ebro valley, became Spain's first Qualified Designation of Origin in 1991. It is best known for its Tempranillo-based reds and its long tradition of ageing in oak barrels.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. Il est élevé en bois. Il titre 14,5 % vol.</p><p>Bodega centenaire du Quartier de la Gare de Haro, fondée en 1901 et appartenant au groupe Raventós Codorníu, surtout connue pour sa marque Viña Pomal.</p><p>La Rioja, dans la vallée de l'Èbre, est devenue en 1991 la première dénomination d'origine qualifiée d'Espagne. Elle est surtout connue pour ses rouges à base de tempranillo et sa longue tradition d'élevage en barrique de chêne.</p>",
+    "it": "<p>È prodotto con Grenache. È affinato in legno. Ha 14,5% vol.</p><p>Cantina centenaria del Quartiere della Stazione di Haro, fondata nel 1901 e appartenente al gruppo Raventós Codorníu, nota soprattutto per il marchio Viña Pomal.</p><p>La Rioja, nella valle dell'Ebro, è diventata nel 1991 la prima Denominazione di origine qualificata di Spagna. È nota soprattutto per i rossi a base di Tempranillo e per la lunga tradizione di affinamento in botte di rovere.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Viña Pomal Vinos Singulares Garnacha Bodegas Bilbaínas",
+  "brief": true,
+  "source": "decantalo"
+}

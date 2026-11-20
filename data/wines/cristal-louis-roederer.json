@@ -1,0 +1,41 @@
+{
+  "slug": "cristal-louis-roederer",
+  "name": "Louis Roederer Cristal",
+  "winery": "louis-roederer",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {"es": "Brut de añada, cuvée de prestigio", "en": "Vintage brut, prestige cuvée", "fr": "Brut millésimé, cuvée de prestige", "it": "Brut millesimato, cuvée di prestigio"},
+  "grapes": ["pinot-noir", "chardonnay"],
+  "summary": {
+    "es": "La cuvée de prestigio de Louis Roederer, creada en 1876 para el zar Alejandro II y presentada en una botella de vidrio transparente.",
+    "en": "Louis Roederer’s prestige cuvée, created in 1876 for Tsar Alexander II and presented in a clear glass bottle.",
+    "fr": "La cuvée de prestige de Louis Roederer, créée en 1876 pour le tsar Alexandre II et présentée dans une bouteille en verre transparent.",
+    "it": "La cuvée di prestigio di Louis Roederer, creata nel 1876 per lo zar Alessandro II e presentata in una bottiglia di vetro trasparente."
+  },
+  "body": {
+    "es": "<p>Cristal nació en 1876 como un champagne reservado a la corte del zar Alejandro II, que según la tradición pidió una botella transparente para distinguirla. Desde mediados del siglo XX se comercializa de forma general y es una de las cuvées de prestigio más conocidas de la Champagne.</p><p>Se elabora sólo en añadas consideradas excepcionales, con uvas de viñedos propios de la casa clasificados como grands crus, en la Montagne de Reims, la Vallée de la Marne y la Côte des Blancs. El ensamblaje se basa en Pinot Noir y Chardonnay. Una parte de los vinos se cría en madera y el champagne permanece varios años sobre sus lías antes del degüelle. La botella transparente se protege de la luz con un envoltorio de celofán amarillo.</p><p>Cristal se caracteriza por su finura y precisión, y puede envejecer durante muchos años en botella.</p>",
+    "en": "<p>Cristal was born in 1876 as a champagne reserved for the court of Tsar Alexander II, who, according to tradition, asked for a clear bottle to set it apart. Since the mid-20th century it has been sold generally and is one of the best-known prestige cuvées in Champagne.</p><p>It is made only in vintages considered exceptional, from the house’s own vineyards classified as grands crus, in the Montagne de Reims, the Vallée de la Marne and the Côte des Blancs. The blend is based on Pinot Noir and Chardonnay. Some of the wines are aged in wood and the champagne spends several years on its lees before disgorgement. The clear bottle is protected from light by a yellow cellophane wrapper.</p><p>Cristal is characterised by its finesse and precision, and it can age for many years in bottle.</p>",
+    "fr": "<p>Cristal est né en 1876 comme un champagne réservé à la cour du tsar Alexandre II, qui, selon la tradition, demanda une bouteille transparente pour le distinguer. Depuis le milieu du XXe siècle, il est commercialisé plus largement et compte parmi les cuvées de prestige les plus connues de la Champagne.</p><p>Il n’est élaboré que dans les millésimes jugés exceptionnels, à partir de vignes de la maison classées en grands crus, dans la Montagne de Reims, la Vallée de la Marne et la Côte des Blancs. L’assemblage repose sur le pinot noir et le chardonnay. Une partie des vins est élevée sous bois et le champagne passe plusieurs années sur lies avant le dégorgement. La bouteille transparente est protégée de la lumière par un emballage de cellophane jaune.</p><p>Cristal se distingue par sa finesse et sa précision, et peut vieillir de longues années en bouteille.</p>",
+    "it": "<p>Il Cristal nacque nel 1876 come champagne riservato alla corte dello zar Alessandro II, che secondo la tradizione chiese una bottiglia trasparente per distinguerlo. Dalla metà del Novecento è commercializzato in modo generale ed è una delle cuvée di prestigio più note della Champagne.</p><p>Si produce solo nelle annate ritenute eccezionali, con uve dei vigneti di proprietà classificati grand cru, nella Montagne de Reims, nella Vallée de la Marne e nella Côte des Blancs. L’assemblaggio si basa su Pinot Noir e Chardonnay. Una parte dei vini affina in legno e lo champagne resta diversi anni sui lieviti prima della sboccatura. La bottiglia trasparente è protetta dalla luce da un involucro di cellophane giallo.</p><p>Il Cristal si distingue per finezza e precisione, e può invecchiare per molti anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Dorado brillante con burbuja muy fina. Aromas de cítricos, fruta blanca, flores blancas y notas de avellana tostada. En boca es delicado y preciso, con textura sedosa y final largo y mineral.",
+    "en": "Bright gold with very fine bubbles. Aromas of citrus, white fruit, white flowers and notes of toasted hazelnut. Delicate and precise on the palate, with a silky texture and a long, mineral finish.",
+    "fr": "Or brillant à la bulle très fine. Arômes d’agrumes, de fruits blancs, de fleurs blanches et de noisette grillée. En bouche, délicat et précis, de texture soyeuse, avec une finale longue et minérale.",
+    "it": "Oro brillante con perlage finissimo. Aromi di agrumi, frutta bianca, fiori bianchi e note di nocciola tostata. In bocca è delicato e preciso, di consistenza setosa, con finale lungo e minerale."
+  },
+  "pairing": {
+    "es": "Caviar, langosta, vieiras, pescados nobles, aves en salsa cremosa",
+    "en": "Caviar, lobster, scallops, fine fish, poultry in creamy sauces",
+    "fr": "Caviar, homard, Saint-Jacques, poissons nobles, volailles en sauce crémée",
+    "it": "Caviale, astice, capesante, pesci pregiati, pollame in salsa cremosa"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de vino blanco amplia",
+    "en": "10-12 °C, large white wine glass",
+    "fr": "10-12 °C, grand verre à vin blanc",
+    "it": "10-12 °C, ampio calice da vino bianco"
+  },
+  "search": "Louis Roederer Cristal Champagne"
+}

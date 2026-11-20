@@ -1,0 +1,44 @@
+{
+  "slug": "movia-puro",
+  "name": "Puro",
+  "winery": "movia",
+  "region": "goriska-brda",
+  "country": "eslovenia",
+  "type": "espumoso",
+  "category": null,
+  "grapes": [
+    "chardonnay",
+    "rebula"
+  ],
+  "summary": {
+    "es": "Espumoso de Movia que se comercializa sin degollar, con sus lías en la botella, para que el consumidor lo degüelle al abrirlo.",
+    "en": "A Movia sparkling wine sold undisgorged, with its lees in the bottle, for the consumer to disgorge on opening.",
+    "fr": "Effervescent de Movia commercialisé sans dégorgement, avec ses lies en bouteille, que le consommateur dégorge lui-même à l’ouverture.",
+    "it": "Spumante di Movia commercializzato senza sboccatura, con i lieviti in bottiglia, perché sia il consumatore a sboccarlo all’apertura."
+  },
+  "body": {
+    "es": "<p>Puro es uno de los vinos más originales de Movia, la finca de la familia Kristančič en Goriška Brda. En su versión blanca se elabora a partir de Chardonnay y Rebula; existe también una versión rosada de Pinot Noir. Tras una primera fermentación y crianza del vino base, la segunda fermentación tiene lugar en la botella, y el vino permanece después sobre sus lías durante un largo periodo.</p><p>Lo que lo distingue es que sale al mercado <strong>sin degüelle</strong>: las lías se han acumulado en el cuello de la botella, que se conserva boca abajo, y es el consumidor quien debe abrirla, preferiblemente con la botella invertida y bajo el agua, para expulsar el sedimento antes de servir. Así el vino llega a la copa sin sulfuroso añadido tras la crianza y con el carácter de un espumoso recién degollado. Es un vino seco, de burbuja fina y gran personalidad.</p>",
+    "en": "<p>Puro is one of the most original wines from Movia, the Kristančič family estate in Goriška Brda. In its white version it is made from Chardonnay and Rebula; there is also a rosé version from Pinot Noir. After the first fermentation and ageing of the base wine, the second fermentation takes place in the bottle, and the wine then stays on its lees for a long period.</p><p>What sets it apart is that it is released <strong>undisgorged</strong>: the lees have collected in the neck of the bottle, which is kept upside down, and the consumer must open it, preferably with the bottle inverted and under water, to expel the sediment before serving. The wine thus reaches the glass without sulphur added after ageing and with the character of a freshly disgorged sparkling wine. It is a dry wine with fine bubbles and great personality.</p>",
+    "fr": "<p>Puro est l’un des vins les plus originaux de Movia, le domaine de la famille Kristančič à Goriška Brda. Dans sa version blanche, il est élaboré à partir de chardonnay et de rebula ; il en existe aussi une version rosée de pinot noir. Après une première fermentation et un élevage du vin de base, la seconde fermentation a lieu en bouteille, et le vin reste ensuite longtemps sur ses lies.</p><p>Ce qui le distingue, c’est qu’il est commercialisé <strong>sans dégorgement</strong> : les lies se sont accumulées dans le col de la bouteille, conservée tête en bas, et c’est le consommateur qui doit l’ouvrir, de préférence bouteille renversée et sous l’eau, pour expulser le dépôt avant de servir. Le vin arrive ainsi dans le verre sans soufre ajouté après l’élevage et avec le caractère d’un effervescent fraîchement dégorgé. C’est un vin sec, à la bulle fine et d’une grande personnalité.</p>",
+    "it": "<p>Puro è uno dei vini più originali di Movia, la tenuta della famiglia Kristančič a Goriška Brda. Nella versione bianca è prodotto con Chardonnay e Rebula; esiste anche una versione rosata da Pinot Noir. Dopo la prima fermentazione e l’affinamento del vino base, la seconda fermentazione avviene in bottiglia, e il vino resta poi a lungo sui lieviti.</p><p>Ciò che lo distingue è che esce sul mercato <strong>senza sboccatura</strong>: i lieviti si sono raccolti nel collo della bottiglia, conservata capovolta, ed è il consumatore a doverla aprire, preferibilmente con la bottiglia rovesciata e sott’acqua, per espellere il sedimento prima di servire. Il vino arriva così nel bicchiere senza solforosa aggiunta dopo l’affinamento e con il carattere di uno spumante appena sboccato. È un vino secco, dal perlage fine e di grande personalità.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo dorado, burbuja fina. Notas de pan tostado, levadura, manzana, cítricos y frutos secos. Boca seca, cremosa y vibrante.",
+    "en": "Golden yellow, fine bubbles. Notes of toast, yeast, apple, citrus and nuts. Dry, creamy, vibrant palate.",
+    "fr": "Jaune doré, bulle fine. Notes de pain grillé, de levure, de pomme, d’agrumes et de fruits secs. Bouche sèche, crémeuse et vibrante.",
+    "it": "Giallo dorato, perlage fine. Note di pane tostato, lievito, mela, agrumi e frutta secca. Bocca secca, cremosa e vibrante."
+  },
+  "pairing": {
+    "es": "Ostras, marisco, aperitivos, pescados crudos, quesos curados",
+    "en": "Oysters, shellfish, aperitifs, raw fish, aged cheeses",
+    "fr": "Huîtres, fruits de mer, apéritif, poissons crus, fromages affinés",
+    "it": "Ostriche, crostacei, aperitivi, pesce crudo, formaggi stagionati"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de vino blanco o tulipa; abrir con la botella invertida",
+    "en": "6-8 °C, white-wine or tulip glass; open with the bottle inverted",
+    "fr": "6-8 °C, verre à vin blanc ou tulipe ; ouvrir bouteille renversée",
+    "it": "6-8 °C, calice da bianco o a tulipano; aprire con la bottiglia capovolta"
+  },
+  "search": "Movia Puro"
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "dalmau",
+  "name": "Dalmau",
+  "winery": "marques-de-murrieta",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [
+    "tempranillo",
+    "cabernet-sauvignon",
+    "graciano"
+  ],
+  "summary": {
+    "es": "Tinto de alta gama de Marqués de Murrieta, elaborado con Tempranillo, Cabernet Sauvignon y Graciano de una parcela de la Finca Ygay y criado en roble francés.",
+    "en": "Top red from Marqués de Murrieta, made from Tempranillo, Cabernet Sauvignon and Graciano from a plot on Finca Ygay and aged in French oak.",
+    "fr": "Rouge haut de gamme de Marqués de Murrieta, élaboré avec du tempranillo, du cabernet-sauvignon et du graciano d’une parcelle de la Finca Ygay et élevé en chêne français.",
+    "it": "Rosso di punta di Marqués de Murrieta, prodotto con Tempranillo, Cabernet Sauvignon e Graciano di una parcella della Finca Ygay e affinato in rovere francese."
+  },
+  "body": {
+    "es": "<p>Dalmau es el tinto de estilo más moderno de Marqués de Murrieta. Su nombre rinde homenaje a Vicente Dalmau Cebrián-Sagarriga, propietario de la bodega, cuya familia adquirió la casa a comienzos de los años ochenta. Mientras el Castillo Ygay representa el estilo clásico de larga crianza, Dalmau se concibió como un vino de mayor concentración y crianza en roble francés.</p><p>La uva procede de una parcela concreta de la Finca Ygay, el viñedo que rodea la bodega en las afueras de Logroño. La base es el Tempranillo, completado con Cabernet Sauvignon y Graciano, en proporciones que varían según la añada. El vino se cría en barricas nuevas de roble francés y reposa en botella antes de salir al mercado, con la mención Reserva.</p><p>El resultado es un tinto concentrado, de fruta negra madura y estructura firme, pensado para una larga guarda y que se beneficia de la decantación.</p>",
+    "en": "<p>Dalmau is Marqués de Murrieta’s most modern-style red. Its name pays tribute to Vicente Dalmau Cebrián-Sagarriga, owner of the winery, whose family acquired the house in the early 1980s. While Castillo Ygay represents the classic long-aged style, Dalmau was conceived as a more concentrated wine aged in French oak.</p><p>The grapes come from a specific plot of Finca Ygay, the vineyard surrounding the winery on the outskirts of Logroño. Its basis is Tempranillo, completed by Cabernet Sauvignon and Graciano in proportions that vary with the vintage. The wine is aged in new French oak barrels and rests in bottle before release, with the Reserva designation.</p><p>The result is a concentrated red with ripe black fruit and firm structure, designed for long ageing and benefiting from decanting.</p>",
+    "fr": "<p>Dalmau est le rouge au style le plus moderne de Marqués de Murrieta. Son nom rend hommage à Vicente Dalmau Cebrián-Sagarriga, propriétaire de la bodega, dont la famille acquit la maison au début des années 1980. Alors que le Castillo Ygay représente le style classique de long élevage, Dalmau fut conçu comme un vin plus concentré, élevé en chêne français.</p><p>Le raisin provient d’une parcelle précise de la Finca Ygay, le vignoble qui entoure la bodega aux portes de Logroño. Sa base est le tempranillo, complété par le cabernet-sauvignon et le graciano dans des proportions qui varient selon le millésime. Le vin est élevé en barriques neuves de chêne français et repose en bouteille avant sa commercialisation, avec la mention Reserva.</p><p>Il en résulte un rouge concentré, aux fruits noirs mûrs et à la structure ferme, conçu pour une longue garde et qui gagne à être carafé.</p>",
+    "it": "<p>Dalmau è il rosso di stile più moderno di Marqués de Murrieta. Il nome rende omaggio a Vicente Dalmau Cebrián-Sagarriga, proprietario della cantina, la cui famiglia acquistò la casa all’inizio degli anni Ottanta. Mentre il Castillo Ygay rappresenta lo stile classico di lungo affinamento, Dalmau fu concepito come un vino più concentrato e affinato in rovere francese.</p><p>Le uve provengono da una parcella precisa della Finca Ygay, il vigneto che circonda la cantina alle porte di Logroño. La base è il Tempranillo, completato da Cabernet Sauvignon e Graciano in proporzioni che variano secondo l’annata. Il vino affina in barrique nuove di rovere francese e riposa in bottiglia prima della messa in commercio, con la menzione Reserva.</p><p>Il risultato è un rosso concentrato, con frutto nero maturo e struttura salda, pensato per un lungo invecchiamento e che beneficia della decantazione.</p>"
+  },
+  "tasting": {
+    "es": "Color picota intenso. Fruta negra madura, notas de cassis, especias, cacao y tostados. En boca es denso y estructurado, con taninos firmes y un final largo.",
+    "en": "Intense deep cherry colour. Ripe black fruit, notes of blackcurrant, spice, cocoa and toast. Dense and structured on the palate, with firm tannins and a long finish.",
+    "fr": "Couleur cerise burlat intense. Fruits noirs mûrs, notes de cassis, épices, cacao et toasté. Dense et structuré en bouche, aux tanins fermes et à la finale longue.",
+    "it": "Colore ciliegia intenso. Frutta nera matura, note di ribes nero, spezie, cacao e tostatura. In bocca è denso e strutturato, con tannini decisi e un finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, lechazo asado, caza mayor, quesos curados de oveja",
+    "en": "Chargrilled red meat, roast milk-fed lamb, large game, aged sheep’s cheeses",
+    "fr": "Viandes rouges à la braise, agneau de lait rôti, gros gibier, fromages de brebis affinés",
+    "it": "Carni rosse alla brace, agnello da latte arrosto, selvaggina di grossa taglia, pecorini stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Dalmau Reserva Marqués de Murrieta"
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "chateau-saint-pierre",
+  "name": "Château Saint-Pierre",
+  "winery": "chateau-saint-pierre",
+  "region": "saint-julien",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "4º Gran Cru Clasificado (1855)",
+    "en": "4th Grand Cru Classé (1855)",
+    "fr": "4e Grand Cru Classé (1855)",
+    "it": "4° Grand Cru Classé (1855)"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Gran vino de Château Saint-Pierre, cuarto cru clasificado de Saint-Julien, un tinto de Cabernet Sauvignon y Merlot clásico y de guarda.",
+    "en": "The grand vin of Château Saint-Pierre, a Saint-Julien fourth growth, a classic, age-worthy Cabernet Sauvignon and Merlot red.",
+    "fr": "Grand vin du Château Saint-Pierre, quatrième cru classé de Saint-Julien, un rouge de cabernet sauvignon et de merlot classique et de garde.",
+    "it": "Grand vin di Château Saint-Pierre, quarto cru classé di Saint-Julien, un rosso di Cabernet Sauvignon e Merlot classico e da invecchiamento."
+  },
+  "body": {
+    "es": "<p>El vino de <strong>Château Saint-Pierre</strong> procede de una de las propiedades clasificadas más pequeñas del Médoc, situada en <strong>Saint-Julien-Beychevelle</strong>. Es un cuarto gran cru clasificado de 1855, gestionado por la familia Triaud, que dirige también Château Gloria.</p><p>Se elabora con un ensamblaje dominado por el <strong>Cabernet Sauvignon</strong>, acompañado de <strong>Merlot</strong> y algo de <strong>Cabernet Franc</strong>, en proporciones que varían según la añada. Las uvas crecen sobre las gravas profundas de Saint-Julien, que aseguran un buen drenaje y favorecen la madurez del Cabernet.</p><p>La crianza se realiza en barricas de roble, con una parte de madera nueva. El resultado es un tinto clásico de Saint-Julien: fruta negra densa, notas de cedro y especias, taninos firmes pero pulidos y una estructura equilibrada. En su juventud conviene decantarlo; con los años gana armonía y complejidad, y las buenas añadas envejecen durante mucho tiempo.</p>",
+    "en": "<p>The wine of <strong>Château Saint-Pierre</strong> comes from one of the smallest classified estates in the Médoc, located in <strong>Saint-Julien-Beychevelle</strong>. It is a fourth growth of the 1855 classification, managed by the Triaud family, who also run Château Gloria.</p><p>It is made from a blend dominated by <strong>Cabernet Sauvignon</strong>, accompanied by <strong>Merlot</strong> and some <strong>Cabernet Franc</strong>, in proportions that vary with the vintage. The grapes grow on the deep gravels of Saint-Julien, which ensure good drainage and favour the ripening of Cabernet.</p><p>Ageing takes place in oak barrels, part of them new. The result is a classic Saint-Julien red: dense black fruit, notes of cedar and spice, firm but polished tannins and a balanced structure. It is best decanted when young; with time it gains harmony and complexity, and good vintages age for a long time.</p>",
+    "fr": "<p>Le vin du <strong>Château Saint-Pierre</strong> provient de l'une des plus petites propriétés classées du Médoc, située à <strong>Saint-Julien-Beychevelle</strong>. C'est un quatrième grand cru classé en 1855, géré par la famille Triaud, qui dirige aussi le Château Gloria.</p><p>Il est issu d'un assemblage dominé par le <strong>cabernet sauvignon</strong>, accompagné de <strong>merlot</strong> et d'un peu de <strong>cabernet franc</strong>, dans des proportions variables selon le millésime. Les raisins poussent sur les graves profondes de Saint-Julien, qui assurent un bon drainage et favorisent la maturité du cabernet.</p><p>L'élevage se fait en barriques de chêne, dont une part de bois neuf. Il en résulte un rouge classique de Saint-Julien : fruits noirs denses, notes de cèdre et d'épices, tanins fermes mais polis et structure équilibrée. Il gagne à être carafé dans sa jeunesse ; avec les années, il gagne en harmonie et en complexité, et les bons millésimes vieillissent longtemps.</p>",
+    "it": "<p>Il vino di <strong>Château Saint-Pierre</strong> proviene da una delle più piccole tenute classificate del Médoc, situata a <strong>Saint-Julien-Beychevelle</strong>. È un quarto grand cru classé del 1855, gestito dalla famiglia Triaud, che guida anche Château Gloria.</p><p>È prodotto con un taglio dominato dal <strong>Cabernet Sauvignon</strong>, accompagnato da <strong>Merlot</strong> e un po' di <strong>Cabernet Franc</strong>, in proporzioni che variano secondo l'annata. Le uve crescono sulle ghiaie profonde di Saint-Julien, che assicurano un buon drenaggio e favoriscono la maturazione del Cabernet.</p><p>L'affinamento avviene in barrique di rovere, in parte nuove. Il risultato è un rosso classico di Saint-Julien: frutta nera densa, note di cedro e spezie, tannini decisi ma levigati e struttura equilibrata. In gioventù conviene decantarlo; con gli anni guadagna armonia e complessità, e le buone annate invecchiano a lungo.</p>"
+  },
+  "tasting": {
+    "es": "Rojo oscuro. Aromas de cassis, mora, cedro, especias y notas tostadas. Boca densa, de taninos firmes y pulidos y final largo.",
+    "en": "Deep red. Aromas of blackcurrant, blackberry, cedar, spice and toasty notes. Dense palate with firm, polished tannins and a long finish.",
+    "fr": "Rouge sombre. Arômes de cassis, de mûre, de cèdre, d'épices et notes toastées. Bouche dense aux tanins fermes et polis, finale longue.",
+    "it": "Rosso scuro. Aromi di ribes nero, mora, cedro, spezie e note tostate. Bocca densa, tannini decisi e levigati, finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, entrecot a la bordelesa, caza, quesos curados",
+    "en": "Roast lamb, entrecôte bordelaise, game, aged cheeses",
+    "fr": "Agneau rôti, entrecôte bordelaise, gibier, fromages affinés",
+    "it": "Agnello arrosto, entrecôte alla bordolese, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de Burdeos; decantar en su juventud",
+    "en": "16-18 °C, Bordeaux glass; decant when young",
+    "fr": "16-18 °C, verre à bordeaux ; carafer dans sa jeunesse",
+    "it": "16-18 °C, calice da Bordeaux; decantare in gioventù"
+  },
+  "search": "Château Saint-Pierre Saint-Julien"
+}

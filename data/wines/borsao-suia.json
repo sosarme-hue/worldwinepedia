@@ -1,0 +1,40 @@
+{
+  "slug": "borsao-suia",
+  "name": "Borsao Suia",
+  "winery": "borsao",
+  "winery_name": null,
+  "region": "campo-de-borja",
+  "country": "espana",
+  "appellation": "DO Campo de Borja",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Borsao Suia es un vino blanco de Bodegas Borsao, con la denominación DO Campo de Borja, en España.",
+    "en": "Borsao Suia is a white wine from Bodegas Borsao, made under the DO Campo de Borja appellation in Spain.",
+    "fr": "Borsao Suia est un vin blanc de Bodegas Borsao, élaboré sous l’appellation DO Campo de Borja (Espagne).",
+    "it": "Borsao Suia è un vino bianco di Bodegas Borsao, prodotto nella denominazione DO Campo de Borja (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se cría sobre sus lías. Su graduación es de 14 % vol.</p><p>Bodega cooperativa de la D.O. Campo de Borja, al pie del Moncayo, conocida por sus garnachas de buena relación calidad-precio y de amplia distribución internacional.</p><p>Campo de Borja es una denominación de origen de la provincia de Zaragoza, situada entre el valle del Ebro y las faldas del Moncayo. Se ha especializado en la Garnacha, con numerosas viñas viejas, y se presenta como «el Imperio de la Garnacha».</p>",
+    "en": "<p>It is aged on its lees. It has 14% ABV.</p><p>Cooperative winery in the Campo de Borja D.O., at the foot of the Moncayo, known for good-value Garnachas with wide international distribution.</p><p>Campo de Borja is a designation of origin in the province of Zaragoza, between the Ebro valley and the slopes of the Moncayo. It specialises in Grenache, with many old vineyards, and promotes itself as the Empire of Grenache.</p>",
+    "fr": "<p>Il est élevé sur lies. Il titre 14 % vol.</p><p>Cave coopérative de la D.O. Campo de Borja, au pied du Moncayo, connue pour ses grenaches au bon rapport qualité-prix et largement distribués à l'international.</p><p>Campo de Borja est une dénomination d'origine de la province de Saragosse, située entre la vallée de l'Èbre et les contreforts du Moncayo. Elle s'est spécialisée dans le grenache, avec de nombreuses vieilles vignes, et se présente comme « l'Empire du grenache ».</p>",
+    "it": "<p>Affina sulle fecce fini. Ha 14% vol.</p><p>Cantina cooperativa della D.O. Campo de Borja, ai piedi del Moncayo, nota per Grenache dal buon rapporto qualità-prezzo e di ampia distribuzione internazionale.</p><p>Campo de Borja è una denominazione di origine della provincia di Saragozza, situata tra la valle dell'Ebro e le pendici del Moncayo. Si è specializzata nella Garnacha, con numerose vecchie vigne, e si presenta come «l'Impero della Garnacha».</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Borsao Suia Borsao",
+  "brief": true,
+  "source": "decantalo"
+}

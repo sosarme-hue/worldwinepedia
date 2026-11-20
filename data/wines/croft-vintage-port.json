@@ -1,0 +1,50 @@
+{
+  "slug": "croft-vintage-port",
+  "name": "Croft Vintage Port",
+  "winery": "croft",
+  "region": "porto",
+  "country": "portugal",
+  "type": "generoso",
+  "category": {
+    "es": "Vintage",
+    "en": "Vintage Port",
+    "fr": "Vintage",
+    "it": "Vintage"
+  },
+  "grapes": [
+    "touriga-nacional",
+    "touriga-franca",
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Oporto Vintage de Croft, basado en la uva de Quinta da Roêda, en Pinhão, de estilo tradicionalmente aromático y elegante.",
+    "en": "Croft’s Vintage Port, based on fruit from Quinta da Roêda in Pinhão, traditionally aromatic and elegant in style.",
+    "fr": "Porto Vintage de Croft, fondé sur les raisins de la Quinta da Roêda, à Pinhão, au style traditionnellement aromatique et élégant.",
+    "it": "Porto Vintage di Croft, basato sulle uve della Quinta da Roêda, a Pinhão, di stile tradizionalmente aromatico ed elegante."
+  },
+  "body": {
+    "es": "<p>Croft tiene una larga historia como casa de Oporto Vintage, la categoría de los vinos de una sola cosecha que se embotellan sin filtrar tras unos dos años en madera y que pueden evolucionar durante décadas en botella. La casa declara su Vintage solo en los años que considera excepcionales.</p><p>El corazón del vino procede de <strong>Quinta da Roêda</strong>, junto a Pinhão, en el Cima Corgo, completada con uva de otras fincas de la región. Se elabora con variedades tradicionales como la Touriga Nacional, la Touriga Franca y la Tinta Roriz (Tempranillo), entre otras, en proporciones que varían según el año. En Roêda la uva se pisa todavía en <em>lagares</em> de granito, y la fermentación se detiene con aguardiente vínica cuando el vino conserva la dulzura deseada.</p><p>El Vintage de Croft se asocia a un perfil aromático y elegante, con fruta expresiva y una estructura que permite una larga guarda. Forma sedimento en botella y debe decantarse antes de servirse.</p>",
+    "en": "<p>Croft has a long history as a Vintage Port house, the category of single-harvest wines bottled unfiltered after about two years in wood, which can evolve for decades in bottle. The house declares its Vintage only in years it considers exceptional.</p><p>The heart of the wine comes from <strong>Quinta da Roêda</strong>, beside Pinhão in the Cima Corgo, completed with fruit from other estates in the region. It is made from traditional varieties such as Touriga Nacional, Touriga Franca and Tinta Roriz (Tempranillo), among others, in proportions that vary with the year. At Roêda the grapes are still trodden in granite <em>lagares</em>, and fermentation is stopped with grape spirit when the wine retains the desired sweetness.</p><p>Croft Vintage is associated with an aromatic, elegant profile, with expressive fruit and a structure that allows long cellaring. It throws a sediment in bottle and should be decanted before serving.</p>",
+    "fr": "<p>Croft possède une longue histoire de maison de porto Vintage, la catégorie des vins d’une seule récolte mis en bouteille sans filtration après environ deux ans sous bois, qui peuvent évoluer pendant des décennies en bouteille. La maison ne déclare son Vintage que les années qu’elle juge exceptionnelles.</p><p>Le cœur du vin provient de la <strong>Quinta da Roêda</strong>, près de Pinhão, dans le Cima Corgo, complétée par des raisins d’autres domaines de la région. Il est élaboré avec des cépages traditionnels comme la touriga nacional, la touriga franca et la tinta roriz (tempranillo), entre autres, dans des proportions qui varient selon l’année. À Roêda, le raisin est encore foulé au pied dans des <em>lagares</em> de granit, et la fermentation est arrêtée par l’ajout d’eau-de-vie de vin lorsque le vin conserve la douceur recherchée.</p><p>Le Vintage de Croft est associé à un profil aromatique et élégant, au fruit expressif et à la structure permettant une longue garde. Il forme un dépôt en bouteille et doit être carafé avant le service.</p>",
+    "it": "<p>Croft ha una lunga storia come casa di Porto Vintage, la categoria dei vini di una sola vendemmia imbottigliati senza filtrazione dopo circa due anni in legno, che possono evolvere per decenni in bottiglia. La casa dichiara il suo Vintage solo nelle annate che considera eccezionali.</p><p>Il cuore del vino proviene dalla <strong>Quinta da Roêda</strong>, accanto a Pinhão, nel Cima Corgo, completata da uve di altre tenute della regione. È prodotto con varietà tradizionali come Touriga Nacional, Touriga Franca e Tinta Roriz (Tempranillo), tra le altre, in proporzioni che variano secondo l’annata. A Roêda l’uva viene ancora pigiata con i piedi nei <em>lagares</em> di granito e la fermentazione è interrotta con acquavite di vino quando il vino conserva la dolcezza desiderata.</p><p>Il Vintage di Croft è associato a un profilo aromatico ed elegante, con frutto espressivo e una struttura che consente un lungo invecchiamento. Forma un sedimento in bottiglia e va decantato prima di servirlo.</p>"
+  },
+  "tasting": {
+    "es": "De joven, color púrpura profundo, aromas de fruta roja y negra, violeta y especias, y una boca dulce y estructurada. Con los años evoluciona hacia notas de frutos secos, cacao y especias dulces.",
+    "en": "When young, deep purple, with aromas of red and black fruit, violet and spice, and a sweet, structured palate. Over the years it evolves towards notes of nuts, cocoa and sweet spice.",
+    "fr": "Jeune, robe pourpre profond, arômes de fruits rouges et noirs, de violette et d’épices, et une bouche douce et structurée. Avec les années, il évolue vers des notes de fruits secs, de cacao et d’épices douces.",
+    "it": "Da giovane, porpora profondo, aromi di frutta rossa e nera, viola e spezie, e un sorso dolce e strutturato. Con gli anni evolve verso note di frutta secca, cacao e spezie dolci."
+  },
+  "pairing": {
+    "es": "Quesos azules como el Stilton, chocolate negro, frutos secos, sola tras la comida",
+    "en": "Blue cheeses such as Stilton, dark chocolate, nuts, on its own after a meal",
+    "fr": "Fromages à pâte persillée comme le stilton, chocolat noir, fruits secs, seul en fin de repas",
+    "it": "Formaggi erborinati come lo Stilton, cioccolato fondente, frutta secca, da solo a fine pasto"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado para separar el sedimento, copa de vino de Oporto o de vino tinto",
+    "en": "16-18 °C, decanted off its sediment, Port or red wine glass",
+    "fr": "16-18 °C, carafé pour séparer le dépôt, verre à porto ou à vin rouge",
+    "it": "16-18 °C, decantato per separare il sedimento, calice da Porto o da vino rosso"
+  },
+  "search": "Croft Vintage Port"
+}

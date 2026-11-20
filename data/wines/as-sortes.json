@@ -1,0 +1,41 @@
+{
+  "slug": "as-sortes",
+  "name": "As Sortes",
+  "winery": "rafael-palacios",
+  "region": "valdeorras",
+  "country": "espana",
+  "type": "blanco",
+  "category": null,
+  "grapes": ["godello"],
+  "summary": {
+    "es": "Godello de pequeñas parcelas de Rafael Palacios, fermentado y criado en barrica, una de las referencias de los blancos gallegos de guarda.",
+    "en": "Godello from small plots by Rafael Palacios, fermented and aged in barrel, one of the benchmarks among age-worthy Galician whites.",
+    "fr": "Godello de petites parcelles de Rafael Palacios, fermenté et élevé en barrique, l’une des références des blancs galiciens de garde.",
+    "it": "Godello da piccole parcelle di Rafael Palacios, fermentato e affinato in barrique, uno dei riferimenti tra i bianchi galiziani da invecchiamento."
+  },
+  "body": {
+    "es": "<p>As Sortes toma su nombre de las «sortes», término gallego con el que se designan las pequeñas parcelas de viña que tradicionalmente se repartían entre familias. Rafael Palacios lo elabora exclusivamente con Godello procedente de una selección de parcelas de O Bolo, en el valle del Bibei, situadas en laderas de altitud sobre suelos de granito descompuesto.</p><p>El vino fermenta en barricas y fudres de roble y permanece después en ellos sobre sus lías durante varios meses, antes de completar su evolución en botella. La producción es limitada.</p><p>Es un blanco de gran concentración y precisión, en el que la madera aporta textura y complejidad sin ocultar el carácter de la uva y el suelo. Tiene una notable capacidad de guarda y suele ganar complejidad con algunos años en botella.</p>",
+    "en": "<p>As Sortes takes its name from “sortes”, the Galician term for the small vineyard plots that were traditionally shared out among families. Rafael Palacios makes it exclusively from Godello sourced from a selection of plots in O Bolo, in the Bibei valley, on high-altitude slopes with decomposed granite soils.</p><p>The wine ferments in oak barrels and large casks and then stays in them on its lees for several months, before completing its development in bottle. Production is limited.</p><p>It is a white of great concentration and precision, in which the oak adds texture and complexity without hiding the character of the grape and the soil. It has remarkable ageing potential and tends to gain complexity with a few years in bottle.</p>",
+    "fr": "<p>As Sortes tire son nom des « sortes », terme galicien désignant les petites parcelles de vigne traditionnellement réparties entre les familles. Rafael Palacios l’élabore exclusivement avec du godello provenant d’une sélection de parcelles d’O Bolo, dans la vallée du Bibei, sur des coteaux d’altitude aux sols de granite décomposé.</p><p>Le vin fermente en barriques et en foudres de chêne puis y reste plusieurs mois sur ses lies, avant d’achever son évolution en bouteille. La production est limitée.</p><p>C’est un blanc d’une grande concentration et d’une grande précision, où le bois apporte texture et complexité sans masquer le caractère du raisin et du sol. Il possède un remarquable potentiel de garde et gagne généralement en complexité après quelques années en bouteille.</p>",
+    "it": "<p>As Sortes prende il nome dalle «sortes», termine galiziano che designa le piccole parcelle di vigna tradizionalmente spartite tra le famiglie. Rafael Palacios lo produce esclusivamente con Godello proveniente da una selezione di parcelle di O Bolo, nella valle del Bibei, su pendii d’altura con suoli di granito decomposto.</p><p>Il vino fermenta in barrique e botti grandi di rovere e vi resta poi sulle fecce per diversi mesi, prima di completare la sua evoluzione in bottiglia. La produzione è limitata.</p><p>È un bianco di grande concentrazione e precisione, in cui il legno apporta consistenza e complessità senza nascondere il carattere dell’uva e del suolo. Ha una notevole capacità di invecchiamento e di solito acquista complessità con qualche anno di bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo dorado pálido. Aromas de fruta blanca madura, cítricos, hierbas de monte, notas de frutos secos y un fondo mineral. En boca es amplio y concentrado, con acidez viva y final muy largo.",
+    "en": "Pale golden yellow. Aromas of ripe white fruit, citrus, wild herbs, nutty notes and a mineral background. Broad and concentrated on the palate, with lively acidity and a very long finish.",
+    "fr": "Jaune doré pâle. Arômes de fruits blancs mûrs, d’agrumes, d’herbes sauvages, notes de fruits secs et un fond minéral. En bouche, ample et concentré, à l’acidité vive et à la finale très longue.",
+    "it": "Giallo dorato tenue. Aromi di frutta bianca matura, agrumi, erbe di montagna, note di frutta secca e un fondo minerale. In bocca è ampio e concentrato, con acidità vivace e finale molto lungo."
+  },
+  "pairing": {
+    "es": "Pescados nobles, marisco a la plancha, aves, setas, quesos curados",
+    "en": "Fine fish, grilled shellfish, poultry, mushrooms, aged cheeses",
+    "fr": "Poissons nobles, fruits de mer grillés, volailles, champignons, fromages affinés",
+    "it": "Pesci pregiati, frutti di mare alla piastra, pollame, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "11-13 °C, copa amplia de blanco",
+    "en": "11-13 °C, large white wine glass",
+    "fr": "11-13 °C, grand verre à vin blanc",
+    "it": "11-13 °C, calice ampio da bianco"
+  },
+  "search": "As Sortes Rafael Palacios Godello"
+}

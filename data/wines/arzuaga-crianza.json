@@ -1,0 +1,50 @@
+{
+  "slug": "arzuaga-crianza",
+  "name": "Arzuaga Crianza",
+  "winery": "arzuaga",
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Crianza",
+    "en": "Crianza",
+    "fr": "Crianza",
+    "it": "Crianza"
+  },
+  "grapes": [
+    "tempranillo",
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Crianza de Bodegas Arzuaga Navarro, en Quintanilla de Onésimo, elaborado sobre todo con Tinto Fino de la finca La Planta y criado en barrica.",
+    "en": "Crianza from Bodegas Arzuaga Navarro in Quintanilla de Onésimo, made mainly from Tinto Fino from the La Planta estate and aged in barrel.",
+    "fr": "Crianza de Bodegas Arzuaga Navarro, à Quintanilla de Onésimo, élaboré surtout avec du tinto fino du domaine de La Planta et élevé en barrique.",
+    "it": "Crianza di Bodegas Arzuaga Navarro, a Quintanilla de Onésimo, prodotto soprattutto con Tinto Fino della tenuta La Planta e affinato in barrique."
+  },
+  "body": {
+    "es": "<p>Arzuaga Crianza es el vino más difundido de Bodegas Arzuaga Navarro, la bodega familiar de Quintanilla de Onésimo, en el tramo vallisoletano de la Ribera del Duero. Se elabora principalmente con Tinto Fino, la variante local del Tempranillo, procedente de los viñedos de la finca La Planta y de otras parcelas de la familia, y en algunas añadas incorpora pequeñas proporciones de Cabernet Sauvignon y Merlot.</p><p>Tras la fermentación, el vino se cría en barricas de roble francés y americano durante el tiempo que exige la categoría Crianza en la Denominación de Origen Ribera del Duero, como mínimo doce meses, y completa su envejecimiento en botella antes de salir al mercado.</p><p>El resultado es un tinto de la Ribera de corte clásico, con color intenso, fruta negra madura y notas tostadas y especiadas de la madera, de cuerpo medio a pleno. Es un vino versátil, adecuado para la cocina castellana de asados y para carnes en general.</p>",
+    "en": "<p>Arzuaga Crianza is the most widely distributed wine from Bodegas Arzuaga Navarro, the family winery in Quintanilla de Onésimo, on the Valladolid stretch of Ribera del Duero. It is made mainly from Tinto Fino, the local variant of Tempranillo, from the vineyards of the La Planta estate and other family plots, and in some vintages includes small proportions of Cabernet Sauvignon and Merlot.</p><p>After fermentation the wine is aged in French and American oak barrels for the time required by the Crianza category in the Ribera del Duero Denominación de Origen, at least twelve months, and completes its ageing in bottle before release.</p><p>The result is a classic-style Ribera red, with deep colour, ripe black fruit and toasty, spicy notes from the oak, medium- to full-bodied. It is a versatile wine, well suited to Castilian roasts and to meat in general.</p>",
+    "fr": "<p>Arzuaga Crianza est le vin le plus diffusé de Bodegas Arzuaga Navarro, la bodega familiale de Quintanilla de Onésimo, sur le tronçon de Valladolid de la Ribera del Duero. Il est élaboré principalement avec du tinto fino, variante locale du tempranillo, provenant des vignes du domaine de La Planta et d’autres parcelles de la famille ; certains millésimes intègrent de petites proportions de cabernet-sauvignon et de merlot.</p><p>Après la fermentation, le vin est élevé en barriques de chêne français et américain pendant la durée exigée par la catégorie Crianza dans la Denominación de Origen Ribera del Duero, soit au moins douze mois, et achève son vieillissement en bouteille avant sa commercialisation.</p><p>Il en résulte un rouge de la Ribera de facture classique, à la couleur intense, aux fruits noirs mûrs et aux notes toastées et épicées du bois, de corps moyen à ample. C’est un vin polyvalent, adapté aux rôtis de la cuisine castillane et aux viandes en général.</p>",
+    "it": "<p>Arzuaga Crianza è il vino più diffuso di Bodegas Arzuaga Navarro, la cantina di famiglia di Quintanilla de Onésimo, nel tratto di Valladolid della Ribera del Duero. È prodotto principalmente con Tinto Fino, la variante locale del Tempranillo, proveniente dai vigneti della tenuta La Planta e da altre parcelle di famiglia, e in alcune annate include piccole percentuali di Cabernet Sauvignon e Merlot.</p><p>Dopo la fermentazione il vino affina in barrique di rovere francese e americano per il tempo richiesto dalla categoria Crianza nella Denominación de Origen Ribera del Duero, almeno dodici mesi, e completa l’invecchiamento in bottiglia prima della messa in commercio.</p><p>Il risultato è un rosso della Ribera di taglio classico, dal colore intenso, con frutto nero maturo e note tostate e speziate del legno, di corpo medio-pieno. È un vino versatile, adatto agli arrosti della cucina castigliana e alle carni in generale.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de fruta negra madura, regaliz, especias y tostados de la barrica. En boca es carnoso y estructurado, con taninos firmes y final persistente.",
+    "en": "Intense deep cherry red. Aromas of ripe black fruit, liquorice, spice and toasty oak. Fleshy and structured on the palate, with firm tannins and a persistent finish.",
+    "fr": "Rouge cerise burlat intense. Arômes de fruits noirs mûrs, réglisse, épices et toasté de la barrique. En bouche, il est charnu et structuré, aux tanins fermes et à la finale persistante.",
+    "it": "Rosso ciliegia intenso. Aromi di frutta nera matura, liquirizia, spezie e tostatura della barrique. In bocca è carnoso e strutturato, con tannini decisi e finale persistente."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, lechazo asado, caza mayor, quesos curados de oveja",
+    "en": "Chargrilled red meat, roast milk-fed lamb, large game, aged sheep’s cheeses",
+    "fr": "Viandes rouges à la braise, agneau de lait rôti, gros gibier, fromages de brebis affinés",
+    "it": "Carni rosse alla brace, agnello da latte arrosto, selvaggina di grossa taglia, pecorini stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Arzuaga Crianza Ribera del Duero"
+}

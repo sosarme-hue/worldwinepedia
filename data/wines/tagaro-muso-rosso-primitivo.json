@@ -1,0 +1,40 @@
+{
+  "slug": "tagaro-muso-rosso-primitivo",
+  "name": "Tagaro Muso Rosso Primitivo",
+  "winery": null,
+  "winery_name": "Tagaro",
+  "region": null,
+  "country": "italia",
+  "appellation": "DOC Primitivo di Manduria",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Tagaro Muso Rosso Primitivo es un vino tinto de Tagaro, con la denominación DOC Primitivo di Manduria, en Italia.",
+    "en": "Tagaro Muso Rosso Primitivo is a red wine from Tagaro, made under the DOC Primitivo di Manduria appellation in Italy.",
+    "fr": "Tagaro Muso Rosso Primitivo est un vin rouge de Tagaro, élaboré sous l’appellation DOC Primitivo di Manduria (Italie).",
+    "it": "Tagaro Muso Rosso Primitivo è un vino rosso di Tagaro, prodotto nella denominazione DOC Primitivo di Manduria (Italia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 15 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 15% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 15 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 15% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Tagaro Muso Rosso Primitivo Tagaro",
+  "brief": true,
+  "source": "decantalo"
+}

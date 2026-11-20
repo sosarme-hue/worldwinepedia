@@ -1,0 +1,48 @@
+{
+  "slug": "anthonij-rupert-riebeeksrivier-syrah",
+  "name": "Riebeeksrivier Syrah",
+  "winery": "anthonij-rupert",
+  "region": "swartland",
+  "country": "sudafrica",
+  "type": "tinto",
+  "category": {
+    "es": "Swartland",
+    "en": "Swartland",
+    "fr": "Swartland",
+    "it": "Swartland"
+  },
+  "grapes": [
+    "syrah"
+  ],
+  "summary": {
+    "es": "Syrah de Anthonij Rupert Wyne procedente de la finca Riebeeksrivier, en el Swartland, una de las zonas sudafricanas de referencia para esta variedad.",
+    "en": "Syrah from Anthonij Rupert Wyne sourced from the Riebeeksrivier farm in the Swartland, one of South Africa’s benchmark areas for the variety.",
+    "fr": "Syrah d’Anthonij Rupert Wyne issue de la ferme de Riebeeksrivier, dans le Swartland, l’un des secteurs sud-africains de référence pour ce cépage.",
+    "it": "Syrah di Anthonij Rupert Wyne dalla tenuta Riebeeksrivier, nello Swartland, una delle zone sudafricane di riferimento per questo vitigno."
+  },
+  "body": {
+    "es": "<p>Este Syrah procede de <strong>Riebeeksrivier</strong>, la finca que Anthonij Rupert Wyne posee en el Swartland, en las laderas cercanas a Riebeek-Kasteel. Es uno de los vinos con los que el grupo, con sede en L'Ormarins (Franschhoek), muestra el carácter de sus distintas propiedades repartidas por el Cabo.</p><p>El <strong>Swartland</strong>, al norte de Ciudad del Cabo, es una región cálida y seca de suelos pobres de esquisto y granito, donde muchos viñedos se cultivan en secano. Se ha convertido en una de las zonas más dinámicas de Sudáfrica, sobre todo para variedades mediterráneas como la <strong>Syrah</strong>, que allí produce vinos de fruta madura y especiada, a menudo con una frescura sorprendente.</p><p>La elaboración busca un equilibrio entre concentración y finura, con una crianza en barrica que aporta estructura sin enmascarar la fruta. El resultado es un tinto con cuerpo y notas de pimienta, capaz de mejorar en botella durante algunos años.</p>",
+    "en": "<p>This Syrah comes from <strong>Riebeeksrivier</strong>, the farm Anthonij Rupert Wyne owns in the Swartland, on the slopes near Riebeek-Kasteel. It is one of the wines through which the group, based at L'Ormarins in Franschhoek, shows the character of its various properties across the Cape.</p><p>The <strong>Swartland</strong>, north of Cape Town, is a warm, dry region with poor schist and granite soils, where many vineyards are dry-farmed. It has become one of South Africa’s most dynamic areas, especially for Mediterranean varieties such as <strong>Syrah</strong>, which there produces wines with ripe, spicy fruit, often with surprising freshness.</p><p>Winemaking seeks a balance between concentration and finesse, with barrel ageing that adds structure without masking the fruit. The result is a full-bodied red with peppery notes, able to improve in bottle for a few years.</p>",
+    "fr": "<p>Cette syrah provient de <strong>Riebeeksrivier</strong>, la ferme qu’Anthonij Rupert Wyne possède dans le Swartland, sur les coteaux proches de Riebeek-Kasteel. C’est l’un des vins par lesquels le groupe, installé à L'Ormarins (Franschhoek), montre le caractère de ses différentes propriétés réparties dans le Cap.</p><p>Le <strong>Swartland</strong>, au nord du Cap, est une région chaude et sèche aux sols pauvres de schiste et de granite, où de nombreuses vignes sont cultivées sans irrigation. Il est devenu l’un des secteurs les plus dynamiques d’Afrique du Sud, surtout pour des cépages méditerranéens comme la <strong>syrah</strong>, qui y donne des vins au fruit mûr et épicé, souvent d’une fraîcheur surprenante.</p><p>La vinification recherche l’équilibre entre concentration et finesse, avec un élevage en fût qui apporte de la structure sans masquer le fruit. Il en résulte un rouge corsé aux notes poivrées, capable de s’améliorer en bouteille pendant quelques années.</p>",
+    "it": "<p>Questo Syrah proviene da <strong>Riebeeksrivier</strong>, la tenuta che Anthonij Rupert Wyne possiede nello Swartland, sui pendii vicino a Riebeek-Kasteel. È uno dei vini con cui il gruppo, con sede a L'Ormarins (Franschhoek), mostra il carattere delle sue diverse proprietà sparse nel Capo.</p><p>Lo <strong>Swartland</strong>, a nord di Città del Capo, è una regione calda e secca con suoli poveri di scisto e granito, dove molti vigneti sono coltivati senza irrigazione. È diventata una delle zone più dinamiche del Sudafrica, soprattutto per varietà mediterranee come la <strong>Syrah</strong>, che qui dà vini dal frutto maturo e speziato, spesso con una freschezza sorprendente.</p><p>La vinificazione cerca un equilibrio tra concentrazione e finezza, con un affinamento in barrique che apporta struttura senza mascherare il frutto. Il risultato è un rosso corposo con note pepate, capace di migliorare in bottiglia per alcuni anni.</p>"
+  },
+  "tasting": {
+    "es": "Púrpura oscuro. Aromas de mora, ciruela, pimienta negra y notas ahumadas. Boca carnosa y especiada, con taninos firmes.",
+    "en": "Dark purple. Aromas of blackberry, plum, black pepper and smoky notes. Fleshy, spicy palate with firm tannins.",
+    "fr": "Pourpre sombre. Arômes de mûre, de prune, de poivre noir et notes fumées. Bouche charnue et épicée, aux tanins fermes.",
+    "it": "Porpora scuro. Aromi di mora, prugna, pepe nero e note affumicate. Bocca carnosa e speziata, con tannini decisi."
+  },
+  "pairing": {
+    "es": "Cordero a la brasa, costillas, caza, guisos especiados",
+    "en": "Chargrilled lamb, ribs, game, spiced stews",
+    "fr": "Agneau à la braise, travers, gibier, ragoûts épicés",
+    "it": "Agnello alla brace, costine, selvaggina, stufati speziati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, grand verre",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Riebeeksrivier Syrah Anthonij Rupert"
+}

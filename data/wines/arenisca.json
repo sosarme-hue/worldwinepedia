@@ -1,0 +1,42 @@
+{
+  "slug": "arenisca",
+  "name": "Arenisca",
+  "winery": null,
+  "winery_name": "Isaac Cantalapiedra",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Castilla y León",
+  "type": "espumoso",
+  "category": null,
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Arenisca es un vino espumoso de Isaac Cantalapiedra, con la denominación VT Castilla y León, en España.",
+    "en": "Arenisca is a sparkling wine from Isaac Cantalapiedra, made under the VT Castilla y León appellation in Spain.",
+    "fr": "Arenisca est un vin effervescent de Isaac Cantalapiedra, élaboré sous l’appellation VT Castilla y León (Espagne).",
+    "it": "Arenisca è un vino spumante di Isaac Cantalapiedra, prodotto nella denominazione VT Castilla y León (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Tempranillo. Tiene crianza en madera. Su graduación es de 14,5 % vol.</p>",
+    "en": "<p>It is made from Tempranillo. It is aged in wood. It has 14.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Tempranillo. Il est élevé en bois. Il titre 14,5 % vol.</p>",
+    "it": "<p>È prodotto con Tempranillo. È affinato in legno. Ha 14,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Arenisca Isaac Cantalapiedra",
+  "brief": true,
+  "source": "decantalo"
+}

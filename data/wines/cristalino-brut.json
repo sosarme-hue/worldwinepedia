@@ -1,0 +1,50 @@
+{
+  "slug": "cristalino-brut",
+  "name": "Cristalino Brut",
+  "winery": "jaume-serra",
+  "region": "cava",
+  "country": "espana",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut",
+    "en": "Brut",
+    "fr": "Brut",
+    "it": "Brut"
+  },
+  "grapes": [
+    "macabeo",
+    "parellada",
+    "xarel-lo"
+  ],
+  "summary": {
+    "es": "Cava brut de Jaume Serra pensado para el consumo cotidiano, uno de los espumosos españoles más vendidos en Estados Unidos.",
+    "en": "Brut Cava from Jaume Serra intended for everyday drinking, one of the best-selling Spanish sparkling wines in the United States.",
+    "fr": "Cava brut de Jaume Serra destiné à la consommation quotidienne, l'un des effervescents espagnols les plus vendus aux États-Unis.",
+    "it": "Cava Brut di Jaume Serra pensato per il consumo quotidiano, uno degli spumanti spagnoli più venduti negli Stati Uniti."
+  },
+  "body": {
+    "es": "<p>Cristalino es la marca de cava de Jaume Serra, bodega catalana del grupo J. García Carrión, y su versión <strong>Brut</strong> es la más difundida. Se ha convertido en uno de los espumosos españoles más presentes en supermercados y tiendas de <strong>Estados Unidos</strong>, donde se aprecia por su precio contenido y su uso frecuente en cócteles como la mimosa.</p><p>Se elabora con las variedades tradicionales del cava —<strong>macabeo</strong>, <strong>parellada</strong> y <strong>xarel·lo</strong>—, cuyas proporciones pueden variar. Como exige la denominación, sigue el <strong>método tradicional</strong>: el vino base realiza una segunda fermentación dentro de la botella y permanece sobre sus lías un mínimo de nueve meses antes del degüelle. No es un vino de larga crianza, sino un espumoso joven, sin añada, que busca ofrecer frescura, fruta y una burbuja viva. La gama Cristalino incluye también versiones extra dry, más dulces, y rosadas.</p>",
+    "en": "<p>Cristalino is the Cava brand of Jaume Serra, a Catalan winery of the J. García Carrión group, and its <strong>Brut</strong> version is the most widely distributed. It has become one of the Spanish sparkling wines most often found in supermarkets and shops in the <strong>United States</strong>, where it is appreciated for its modest price and its frequent use in cocktails such as the mimosa.</p><p>It is made from the traditional Cava varieties —<strong>Macabeo</strong>, <strong>Parellada</strong> and <strong>Xarel·lo</strong>— in proportions that may vary. As the appellation requires, it follows the <strong>traditional method</strong>: the base wine undergoes a second fermentation inside the bottle and rests on its lees for at least nine months before disgorgement. It is not a long-aged wine but a young, non-vintage sparkling wine that aims to offer freshness, fruit and lively bubbles. The Cristalino range also includes sweeter Extra Dry and rosé versions.</p>",
+    "fr": "<p>Cristalino est la marque de cava de Jaume Serra, domaine catalan du groupe J. García Carrión, et sa version <strong>Brut</strong> est la plus diffusée. Il est devenu l'un des effervescents espagnols les plus présents dans les supermarchés et magasins des <strong>États-Unis</strong>, où il est apprécié pour son prix modéré et son usage fréquent dans des cocktails comme le mimosa.</p><p>Il est élaboré avec les cépages traditionnels du cava —<strong>macabeo</strong>, <strong>parellada</strong> et <strong>xarel·lo</strong>— dans des proportions qui peuvent varier. Comme l'exige l'appellation, il suit la <strong>méthode traditionnelle</strong> : le vin de base effectue une seconde fermentation dans la bouteille et repose sur ses lies au moins neuf mois avant le dégorgement. Ce n'est pas un vin de long vieillissement, mais un effervescent jeune, non millésimé, qui cherche à offrir fraîcheur, fruit et bulle vive. La gamme Cristalino comprend aussi des versions extra dry, plus douces, et rosées.</p>",
+    "it": "<p>Cristalino è il marchio di Cava di Jaume Serra, cantina catalana del gruppo J. García Carrión, e la sua versione <strong>Brut</strong> è la più diffusa. È diventato uno degli spumanti spagnoli più presenti nei supermercati e nei negozi degli <strong>Stati Uniti</strong>, dove è apprezzato per il prezzo contenuto e per l'uso frequente in cocktail come la mimosa.</p><p>È prodotto con le varietà tradizionali del Cava —<strong>Macabeo</strong>, <strong>Parellada</strong> e <strong>Xarel·lo</strong>— in proporzioni che possono variare. Come richiede la denominazione, segue il <strong>metodo classico</strong>: il vino base compie una seconda fermentazione in bottiglia e riposa sui lieviti per almeno nove mesi prima della sboccatura. Non è un vino di lungo affinamento, ma uno spumante giovane, senza annata, che punta a offrire freschezza, frutto e una bollicina vivace. La gamma Cristalino comprende anche versioni Extra Dry, più dolci, e rosate.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido y burbuja viva. Aromas sencillos de manzana verde, pera y cítricos. En boca es ligero, fresco y seco.",
+    "en": "Pale yellow with lively bubbles. Simple aromas of green apple, pear and citrus. Light, fresh and dry on the palate.",
+    "fr": "Jaune pâle à la bulle vive. Arômes simples de pomme verte, de poire et d'agrumes. En bouche, léger, frais et sec.",
+    "it": "Giallo pallido e bollicina vivace. Aromi semplici di mela verde, pera e agrumi. In bocca è leggero, fresco e secco."
+  },
+  "pairing": {
+    "es": "Aperitivos, brunch, cócteles con espumoso, frituras",
+    "en": "Appetisers, brunch, sparkling wine cocktails, fried foods",
+    "fr": "Amuse-bouches, brunch, cocktails à base d'effervescent, fritures",
+    "it": "Stuzzichini, brunch, cocktail con spumante, fritture"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de vino blanco o flauta",
+    "en": "6-8 °C, white wine glass or flute",
+    "fr": "6-8 °C, verre à vin blanc ou flûte",
+    "it": "6-8 °C, calice da bianco o flûte"
+  },
+  "search": "Cristalino Brut Cava Jaume Serra"
+}

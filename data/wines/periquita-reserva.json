@@ -1,0 +1,50 @@
+{
+  "slug": "periquita-reserva",
+  "name": "Periquita Reserva",
+  "winery": "jose-maria-da-fonseca",
+  "region": "setubal",
+  "country": "portugal",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Riserva"
+  },
+  "grapes": [
+    "castelao",
+    "touriga-nacional",
+    "touriga-franca"
+  ],
+  "summary": {
+    "es": "Versión Reserva del histórico Periquita de José Maria da Fonseca, que añade Touriga Nacional y Touriga Franca a la Castelão y pasa por barrica.",
+    "en": "Reserva version of José Maria da Fonseca’s historic Periquita, adding Touriga Nacional and Touriga Franca to Castelão and spending time in barrel.",
+    "fr": "Version Reserva du Periquita historique de José Maria da Fonseca, qui ajoute la touriga nacional et la touriga franca au castelão et passe en barrique.",
+    "it": "Versione Reserva dello storico Periquita di José Maria da Fonseca, che aggiunge Touriga Nacional e Touriga Franca al Castelão e passa in barrique."
+  },
+  "body": {
+    "es": "<p>Periquita es una de las marcas de vino tinto más antiguas de Portugal. José Maria da Fonseca la creó en el siglo XIX a partir de una finca llamada Cova da Periquita, en la península de Setúbal, y el nombre llegó a usarse en la zona para designar a la propia variedad <strong>Castelão</strong>. La gama se ha ampliado con el tiempo, y el Reserva ocupa un escalón por encima del Periquita Original.</p><p>Se elabora con Castelão, la variedad tradicional de la península, junto con <strong>Touriga Nacional</strong> y <strong>Touriga Franca</strong>, que aportan estructura, color y aromas florales; las proporciones varían según la cosecha. Tras la fermentación con control de temperatura, el vino se cría durante unos meses en barricas de roble, que redondean los taninos y añaden notas especiadas y tostadas, y completa su evolución en botella antes de salir al mercado.</p><p>Es un tinto de cuerpo medio, más estructurado que la versión básica, que puede beberse en sus primeros años o guardarse algún tiempo.</p>",
+    "en": "<p>Periquita is one of Portugal’s oldest red wine brands. José Maria da Fonseca created it in the nineteenth century from an estate called Cova da Periquita, on the Setúbal peninsula, and the name came to be used locally for the <strong>Castelão</strong> variety itself. The range has grown over time, and the Reserva sits a step above Periquita Original.</p><p>It is made from Castelão, the traditional variety of the peninsula, together with <strong>Touriga Nacional</strong> and <strong>Touriga Franca</strong>, which bring structure, colour and floral aromas; the proportions vary with the vintage. After temperature-controlled fermentation, the wine is aged for some months in oak barrels, which round out the tannins and add spicy, toasty notes, and completes its development in bottle before release.</p><p>It is a medium-bodied red, more structured than the basic version, which can be drunk in its first years or kept for a while.</p>",
+    "fr": "<p>Periquita est l’une des plus anciennes marques de vin rouge du Portugal. José Maria da Fonseca l’a créée au XIXe siècle à partir d’un domaine appelé Cova da Periquita, dans la péninsule de Setúbal, et le nom a fini par désigner localement le cépage <strong>castelão</strong> lui-même. La gamme s’est élargie avec le temps, et le Reserva se situe un échelon au-dessus du Periquita Original.</p><p>Il est élaboré avec le castelão, cépage traditionnel de la péninsule, associé à la <strong>touriga nacional</strong> et à la <strong>touriga franca</strong>, qui apportent structure, couleur et arômes floraux ; les proportions varient selon le millésime. Après une fermentation à température contrôlée, le vin est élevé quelques mois en barriques de chêne, qui arrondissent les tanins et ajoutent des notes épicées et grillées, puis achève son évolution en bouteille avant sa commercialisation.</p><p>C’est un rouge de corps moyen, plus structuré que la version de base, qui peut se boire dans ses premières années ou se garder quelque temps.</p>",
+    "it": "<p>Periquita è uno dei marchi di vino rosso più antichi del Portogallo. José Maria da Fonseca lo creò nell’Ottocento a partire da una tenuta chiamata Cova da Periquita, nella penisola di Setúbal, e il nome finì per indicare localmente la stessa varietà <strong>Castelão</strong>. La gamma si è ampliata nel tempo, e il Reserva si colloca un gradino sopra il Periquita Original.</p><p>È prodotto con Castelão, la varietà tradizionale della penisola, insieme a <strong>Touriga Nacional</strong> e <strong>Touriga Franca</strong>, che apportano struttura, colore e aromi floreali; le proporzioni variano secondo l’annata. Dopo la fermentazione a temperatura controllata, il vino affina per alcuni mesi in barrique di rovere, che arrotondano i tannini e aggiungono note speziate e tostate, e completa la sua evoluzione in bottiglia prima di essere messo in commercio.</p><p>È un rosso di medio corpo, più strutturato della versione base, che si può bere nei primi anni o conservare per qualche tempo.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de fruta roja y negra madura, ciruela, notas florales y un toque de especias y vainilla. Boca de cuerpo medio, equilibrada, con taninos redondos.",
+    "en": "Intense ruby. Aromas of ripe red and black fruit, plum, floral notes and a touch of spice and vanilla. Medium-bodied, balanced palate with rounded tannins.",
+    "fr": "Rubis intense. Arômes de fruits rouges et noirs mûrs, de prune, de notes florales et une touche d’épices et de vanille. Bouche de corps moyen, équilibrée, aux tanins ronds.",
+    "it": "Rubino intenso. Aromi di frutta rossa e nera matura, prugna, note floreali e un tocco di spezie e vaniglia. Sorso di medio corpo, equilibrato, con tannini rotondi."
+  },
+  "pairing": {
+    "es": "Carnes asadas, cerdo, cabrito, bacalao, quesos semicurados",
+    "en": "Roast meat, pork, kid, salt cod, semi-hard cheeses",
+    "fr": "Viandes rôties, porc, chevreau, morue, fromages mi-affinés",
+    "it": "Carni arrosto, maiale, capretto, baccalà, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Periquita Reserva José Maria da Fonseca"
+}

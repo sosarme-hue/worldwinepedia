@@ -1,0 +1,40 @@
+{
+  "slug": "alvear-fino-en-rama",
+  "name": "Alvear Fino en Rama",
+  "winery": "alvear",
+  "winery_name": null,
+  "region": null,
+  "country": "espana",
+  "appellation": "Rama elaborado por la bodega Alvear en DO Montilla-Moriles",
+  "type": "generoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Alvear Fino en Rama es un vino generoso de Alvear, con la denominación Rama elaborado por la bodega Alvear en DO Montilla-Moriles, en España.",
+    "en": "Alvear Fino en Rama is a fortified wine from Alvear, made under the Rama elaborado por la bodega Alvear en DO Montilla-Moriles appellation in Spain.",
+    "fr": "Alvear Fino en Rama est un vin fortifié de Alvear, élaboré sous l’appellation Rama elaborado por la bodega Alvear en DO Montilla-Moriles (Espagne).",
+    "it": "Alvear Fino en Rama è un vino liquoroso di Alvear, prodotto nella denominazione Rama elaborado por la bodega Alvear en DO Montilla-Moriles (Spagna)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 14,5 % vol.</p><p>Bodega de Montilla fundada en 1729, una de las más antiguas de España, especializada en vinos de la D.O. Montilla-Moriles elaborados con Pedro Ximénez, desde finos hasta dulces de solera.</p>",
+    "en": "<p>It has 14.5% ABV.</p><p>Montilla winery founded in 1729, one of Spain's oldest, specialising in Montilla-Moriles D.O. wines made from Pedro Ximénez, from finos to sweet solera wines.</p>",
+    "fr": "<p>Il titre 14,5 % vol.</p><p>Maison de Montilla fondée en 1729, l'une des plus anciennes d'Espagne, spécialisée dans les vins de la D.O. Montilla-Moriles élaborés avec le pedro ximénez, des finos aux vins doux de solera.</p>",
+    "it": "<p>Ha 14,5% vol.</p><p>Cantina di Montilla fondata nel 1729, una delle più antiche di Spagna, specializzata in vini della D.O. Montilla-Moriles prodotti con Pedro Ximénez, dai fino ai dolci di solera.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, jamón, frutos secos, quesos curados",
+    "en": "Aperitif, cured ham, nuts, aged cheeses",
+    "fr": "Apéritif, jambon sec, fruits secs, fromages affinés",
+    "it": "Aperitivo, prosciutto crudo, frutta secca, formaggi stagionati"
+  },
+  "serve": {
+    "es": "7-14 °C según el tipo, catavino",
+    "en": "7-14 °C depending on style, copita glass",
+    "fr": "7-14 °C selon le style, verre à xérès",
+    "it": "7-14 °C secondo lo stile, bicchiere da sherry"
+  },
+  "search": "Alvear Fino en Rama Alvear",
+  "brief": true,
+  "source": "decantalo"
+}

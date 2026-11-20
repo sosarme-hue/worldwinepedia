@@ -1,0 +1,48 @@
+{
+  "slug": "anne-gros-richebourg",
+  "name": "Richebourg Grand Cru",
+  "winery": "anne-gros",
+  "region": "cote-de-nuits",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Grand Cru",
+    "en": "Grand Cru",
+    "fr": "Grand Cru",
+    "it": "Grand Cru"
+  },
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Pinot Noir del gran cru Richebourg, en Vosne-Romanée, elaborado por el Domaine Anne Gros.",
+    "en": "Pinot Noir from the Richebourg grand cru in Vosne-Romanée, made by Domaine Anne Gros.",
+    "fr": "Pinot noir du grand cru Richebourg, à Vosne-Romanée, élaboré par le Domaine Anne Gros.",
+    "it": "Pinot Noir del grand cru Richebourg, a Vosne-Romanée, prodotto dal Domaine Anne Gros."
+  },
+  "body": {
+    "es": "<p>El <strong>Domaine Anne Gros</strong>, en Vosne-Romanée, es conocido por sus Pinot Noir de gran pureza aromática y textura sedosa, criados en barrica con una madera que acompaña sin dominar.</p><p><strong>Richebourg</strong> es uno de los grands crus más reputados de Vosne-Romanée. Situado en la parte norte del conjunto de grands crus del pueblo, por encima de la carretera y junto a Romanée-Saint-Vivant, se asienta sobre suelos arcillo-calcáreos que dan vinos de especial riqueza y profundidad. El Pinot Noir de Anne Gros procedente de este climat se cría en barrica y combina concentración y elegancia: fruta oscura, notas especiadas y florales y taninos finos pero firmes. Es un vino de larga guarda, que necesita muchos años para mostrar toda su complejidad.</p><p>Como en el resto de la gama de la casa, la vendimia es manual y la uva se selecciona cuidadosamente antes de la vinificación.</p>",
+    "en": "<p><strong>Domaine Anne Gros</strong>, in Vosne-Romanée, is known for Pinot Noirs of great aromatic purity and silky texture, aged in barrel with oak that supports without dominating.</p><p><strong>Richebourg</strong> is one of the most highly regarded grands crus of Vosne-Romanée. Located in the northern part of the village’s group of grands crus, above the road and next to Romanée-Saint-Vivant, it lies on clay-limestone soils that give wines of particular richness and depth. Anne Gros’s Pinot Noir from this climat is aged in barrel and combines concentration and elegance: dark fruit, spicy and floral notes and fine but firm tannins. It is a wine for long ageing, which needs many years to show its full complexity.</p><p>As with the rest of the estate’s range, the grapes are hand-harvested and carefully sorted before vinification.</p>",
+    "fr": "<p>Le <strong>Domaine Anne Gros</strong>, à Vosne-Romanée, est connu pour ses pinots noirs d’une grande pureté aromatique et à la texture soyeuse, élevés en fût avec un bois qui accompagne sans dominer.</p><p>Le <strong>Richebourg</strong> est l’un des grands crus les plus réputés de Vosne-Romanée. Situé dans la partie nord de l’ensemble des grands crus du village, au-dessus de la route et à côté de la Romanée-Saint-Vivant, il repose sur des sols argilo-calcaires qui donnent des vins d’une richesse et d’une profondeur particulières. Le pinot noir d’Anne Gros issu de ce climat est élevé en fût et allie concentration et élégance : fruits sombres, notes épicées et florales, tanins fins mais fermes. C’est un vin de longue garde, qui demande de nombreuses années pour montrer toute sa complexité.</p><p>Comme pour le reste de la gamme du domaine, les vendanges sont manuelles et les raisins soigneusement triés avant la vinification.</p>",
+    "it": "<p>Il <strong>Domaine Anne Gros</strong>, a Vosne-Romanée, è noto per i suoi Pinot Noir di grande purezza aromatica e trama setosa, affinati in barrique con un legno che accompagna senza dominare.</p><p>Il <strong>Richebourg</strong> è uno dei grand cru più rinomati di Vosne-Romanée. Situato nella parte nord dell’insieme dei grand cru del villaggio, sopra la strada e accanto a Romanée-Saint-Vivant, poggia su suoli argilloso-calcarei che danno vini di particolare ricchezza e profondità. Il Pinot Noir di Anne Gros proveniente da questo climat affina in barrique e unisce concentrazione ed eleganza: frutto scuro, note speziate e floreali, tannini fini ma fermi. È un vino da lungo invecchiamento, che ha bisogno di molti anni per mostrare tutta la sua complessità.</p><p>Come per il resto della gamma della casa, la vendemmia è manuale e le uve sono selezionate con cura prima della vinificazione.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí profundo. Aromas de cereza negra, frambuesa, violeta, especias y notas de sotobosque. Boca rica y sedosa, de taninos finos y final muy largo.",
+    "en": "Deep ruby. Aromas of black cherry, raspberry, violet, spice and undergrowth. Rich, silky palate with fine tannins and a very long finish.",
+    "fr": "Rubis profond. Arômes de cerise noire, de framboise, de violette, d’épices et de sous-bois. Bouche riche et soyeuse, aux tanins fins et à la finale très longue.",
+    "it": "Rubino profondo. Aromi di ciliegia nera, lampone, violetta, spezie e sottobosco. Bocca ricca e setosa, dai tannini fini e dal finale lunghissimo."
+  },
+  "pairing": {
+    "es": "Caza de pluma, pato, ternera asada, setas, quesos de pasta lavada",
+    "en": "Game birds, duck, roast veal, mushrooms, washed-rind cheeses",
+    "fr": "Gibier à plume, canard, veau rôti, champignons, fromages à pâte lavée",
+    "it": "Selvaggina da piuma, anatra, vitello arrosto, funghi, formaggi a pasta lavata"
+  },
+  "serve": {
+    "es": "16-17 °C, copa de Borgoña",
+    "en": "16-17 °C, Burgundy glass",
+    "fr": "16-17 °C, verre de Bourgogne",
+    "it": "16-17 °C, calice da Borgogna"
+  },
+  "search": "Richebourg Grand Cru Anne Gros"
+}

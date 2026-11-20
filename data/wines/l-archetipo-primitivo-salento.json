@@ -1,0 +1,40 @@
+{
+  "slug": "l-archetipo-primitivo-salento",
+  "name": "L'Archetipo Primitivo Salento",
+  "winery": null,
+  "winery_name": "Azienda L'Archetipo",
+  "region": null,
+  "country": "italia",
+  "appellation": "IGT Salento",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "L'Archetipo Primitivo Salento es un vino tinto de Azienda L'Archetipo, con la denominación IGT Salento, en Italia.",
+    "en": "L'Archetipo Primitivo Salento is a red wine from Azienda L'Archetipo, made under the IGT Salento appellation in Italy.",
+    "fr": "L'Archetipo Primitivo Salento est un vin rouge de Azienda L'Archetipo, élaboré sous l’appellation IGT Salento (Italie).",
+    "it": "L'Archetipo Primitivo Salento è un vino rosso di Azienda L'Archetipo, prodotto nella denominazione IGT Salento (Italia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 14% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "L'Archetipo Primitivo Salento Azienda L'Archetipo",
+  "brief": true,
+  "source": "decantalo"
+}

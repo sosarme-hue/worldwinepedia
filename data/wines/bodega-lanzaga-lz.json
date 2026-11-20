@@ -1,0 +1,40 @@
+{
+  "slug": "bodega-lanzaga-lz",
+  "name": "Bodega Lanzaga LZ",
+  "winery": "telmo-rodriguez",
+  "winery_name": null,
+  "region": "rioja",
+  "country": "espana",
+  "appellation": "DOCa Rioja",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Bodega Lanzaga LZ es un vino tinto de Compañía de Vinos Telmo Rodríguez, con la denominación DOCa Rioja, en España.",
+    "en": "Bodega Lanzaga LZ is a red wine from Compañía de Vinos Telmo Rodríguez, made under the DOCa Rioja appellation in Spain.",
+    "fr": "Bodega Lanzaga LZ est un vin rouge de Compañía de Vinos Telmo Rodríguez, élaboré sous l’appellation DOCa Rioja (Espagne).",
+    "it": "Bodega Lanzaga LZ è un vino rosso di Compañía de Vinos Telmo Rodríguez, prodotto nella denominazione DOCa Rioja (Spagna)."
+  },
+  "body": {
+    "es": "<p>Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 13,5 % vol.</p><p>Empresa fundada en 1994 por el enólogo Telmo Rodríguez y Pablo Eguzkiza para elaborar vinos en distintas regiones españolas, con la recuperación de viñedos y variedades tradicionales como eje.</p><p>Rioja, en el valle del Ebro, fue en 1991 la primera Denominación de Origen Calificada de España. Es conocida sobre todo por sus tintos de Tempranillo y por su larga tradición de crianza en barrica de roble.</p>",
+    "en": "<p>It is a young wine, meant to be drunk in its first years. It has 13.5% ABV.</p><p>Company founded in 1994 by winemaker Telmo Rodríguez and Pablo Eguzkiza to make wines in various Spanish regions, centred on reviving traditional vineyards and varieties.</p><p>Rioja, in the Ebro valley, became Spain's first Qualified Designation of Origin in 1991. It is best known for its Tempranillo-based reds and its long tradition of ageing in oak barrels.</p>",
+    "fr": "<p>C’est un vin jeune, à boire dans ses premières années. Il titre 13,5 % vol.</p><p>Entreprise fondée en 1994 par l’œnologue Telmo Rodríguez et Pablo Eguzkiza pour élaborer des vins dans plusieurs régions d’Espagne, avec pour fil conducteur la sauvegarde de vignobles et de cépages traditionnels.</p><p>La Rioja, dans la vallée de l'Èbre, est devenue en 1991 la première dénomination d'origine qualifiée d'Espagne. Elle est surtout connue pour ses rouges à base de tempranillo et sa longue tradition d'élevage en barrique de chêne.</p>",
+    "it": "<p>È un vino giovane, da bere nei primi anni. Ha 13,5% vol.</p><p>Azienda fondata nel 1994 dall’enologo Telmo Rodríguez e da Pablo Eguzkiza per produrre vini in diverse regioni spagnole, con al centro il recupero di vigneti e varietà tradizionali.</p><p>La Rioja, nella valle dell'Ebro, è diventata nel 1991 la prima Denominazione di origine qualificata di Spagna. È nota soprattutto per i rossi a base di Tempranillo e per la lunga tradizione di affinamento in botte di rovere.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Bodega Lanzaga LZ Telmo Rodríguez",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "geoffroy-expression-brut-premier-cru",
+  "name": "Geoffroy Expression Brut Premier Cru",
+  "winery": null,
+  "winery_name": "Geoffroy",
+  "region": null,
+  "country": "francia",
+  "appellation": null,
+  "type": "espumoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Geoffroy Expression Brut Premier Cru es un vino espumoso de Geoffroy, en Francia.",
+    "en": "Geoffroy Expression Brut Premier Cru is a sparkling wine from Geoffroy in France.",
+    "fr": "Geoffroy Expression Brut Premier Cru est un vin effervescent de Geoffroy (France).",
+    "it": "Geoffroy Expression Brut Premier Cru è un vino spumante di Geoffroy (Francia)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 12 % vol.</p>",
+    "en": "<p>It has 12% ABV.</p>",
+    "fr": "<p>Il titre 12 % vol.</p>",
+    "it": "<p>Ha 12% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Geoffroy Expression Brut Premier Cru Geoffroy",
+  "brief": true,
+  "source": "decantalo"
+}

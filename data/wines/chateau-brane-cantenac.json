@@ -1,0 +1,48 @@
+{
+  "slug": "chateau-brane-cantenac",
+  "name": "Château Brane-Cantenac",
+  "winery": "chateau-brane-cantenac",
+  "winery_name": null,
+  "region": "margaux",
+  "country": "francia",
+  "appellation": "AOC Margaux",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Segundo gran cru clasificado de Margaux en 1855, situado en la meseta de gravas de Cantenac y propiedad de la familia Lurton.",
+    "en": "Margaux second growth classified in 1855, located on the Cantenac gravel plateau and owned by the Lurton family.",
+    "fr": "Deuxième grand cru classé de Margaux en 1855, situé sur le plateau de graves de Cantenac et propriété de la famille Lurton.",
+    "it": "Secondo grand cru classé di Margaux nel 1855, situato sull'altopiano di ghiaie di Cantenac e di proprietà della famiglia Lurton."
+  },
+  "body": {
+    "es": "<p><strong>Château Brane-Cantenac</strong> es uno de los deuxièmes grands crus de la clasificación de 1855 dentro de la denominación <strong>Margaux</strong>, en el Médoc. Debe su nombre al barón Hector de Brane, que lo adquirió a comienzos del siglo XIX, y pertenece desde mediados del siglo XX a la familia Lurton; desde los años noventa lo dirige Henri Lurton. La finca elabora también un segundo vino, Baron de Brane.</p><p>Su viñedo principal ocupa la <strong>meseta de Cantenac</strong>, una loma de gravas profundas depositadas por el Garona, frente al château. Estos suelos pobres y bien drenados son especialmente favorables a la <strong>Cabernet Sauvignon</strong>, que domina el ensamblaje junto a la <strong>Merlot</strong> y una parte de <strong>Cabernet Franc</strong>.</p><p>Criado en barricas de roble francés, es un tinto que responde a la reputación de Margaux por la finura y el perfume: fruta negra, notas florales y de cedro, taninos sedosos y una estructura que le permite evolucionar durante muchos años. Conviene decantarlo cuando se bebe joven.</p>",
+    "en": "<p><strong>Château Brane-Cantenac</strong> is one of the deuxièmes grands crus of the 1855 classification within the <strong>Margaux</strong> appellation, in the Médoc. It owes its name to Baron Hector de Brane, who acquired it in the early nineteenth century, and it has belonged to the Lurton family since the mid-twentieth century; Henri Lurton has run it since the 1990s. The estate also makes a second wine, Baron de Brane.</p><p>Its main vineyard covers the <strong>Cantenac plateau</strong>, a rise of deep gravel deposited by the Garonne, opposite the château. These poor, well-drained soils are especially favourable to <strong>Cabernet Sauvignon</strong>, which dominates the blend alongside <strong>Merlot</strong> and a proportion of <strong>Cabernet Franc</strong>.</p><p>Aged in French oak barrels, it is a red that lives up to Margaux's reputation for finesse and perfume: black fruit, floral and cedar notes, silky tannins and a structure that allows it to develop over many years. It is best decanted when drunk young.</p>",
+    "fr": "<p>Le <strong>Château Brane-Cantenac</strong> est l'un des deuxièmes grands crus du classement de 1855 au sein de l'appellation <strong>Margaux</strong>, dans le Médoc. Il doit son nom au baron Hector de Brane, qui l'acquit au début du XIXe siècle, et appartient depuis le milieu du XXe siècle à la famille Lurton ; Henri Lurton le dirige depuis les années 1990. Le domaine produit aussi un second vin, Baron de Brane.</p><p>Son vignoble principal occupe le <strong>plateau de Cantenac</strong>, une croupe de graves profondes déposées par la Garonne, face au château. Ces sols pauvres et bien drainés sont particulièrement favorables au <strong>cabernet-sauvignon</strong>, qui domine l'assemblage aux côtés du <strong>merlot</strong> et d'une part de <strong>cabernet franc</strong>.</p><p>Élevé en barriques de chêne français, c'est un rouge fidèle à la réputation de finesse et de parfum de Margaux : fruits noirs, notes florales et de cèdre, tanins soyeux et une structure qui lui permet d'évoluer pendant de nombreuses années. Il gagne à être carafé lorsqu'il est bu jeune.</p>",
+    "it": "<p><strong>Château Brane-Cantenac</strong> è uno dei deuxièmes grands crus della classificazione del 1855 all'interno della denominazione <strong>Margaux</strong>, nel Médoc. Deve il nome al barone Hector de Brane, che lo acquistò all'inizio del XIX secolo, e appartiene dalla metà del Novecento alla famiglia Lurton; dagli anni Novanta lo dirige Henri Lurton. La tenuta produce anche un secondo vino, Baron de Brane.</p><p>Il suo vigneto principale occupa l'<strong>altopiano di Cantenac</strong>, un rilievo di ghiaie profonde depositate dalla Garonna, di fronte allo château. Questi suoli poveri e ben drenati sono particolarmente favorevoli al <strong>Cabernet Sauvignon</strong>, che domina l'assemblaggio insieme al <strong>Merlot</strong> e a una parte di <strong>Cabernet Franc</strong>.</p><p>Affinato in barrique di rovere francese, è un rosso all'altezza della reputazione di finezza e profumo di Margaux: frutto nero, note floreali e di cedro, tannini setosi e una struttura che gli consente di evolvere per molti anni. Conviene decantarlo se bevuto giovane.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota profundo. Aromas de grosella negra, mora, violeta, cedro y tostados finos. Boca elegante y sedosa, con taninos finos, frescura y final persistente.",
+    "en": "Deep cherry red. Aromas of blackcurrant, blackberry, violet, cedar and fine toast. Elegant and silky on the palate, with fine tannins, freshness and a persistent finish.",
+    "fr": "Rouge cerise profond. Arômes de cassis, mûre, violette, cèdre et toasté fin. Bouche élégante et soyeuse, aux tanins fins, fraîche, à la finale persistante.",
+    "it": "Rosso ciliegia profondo. Aromi di ribes nero, mora, violetta, cedro e tostature fini. Bocca elegante e setosa, con tannini fini, freschezza e finale persistente."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes rojas a la parrilla, caza, quesos curados",
+    "en": "Roast lamb, grilled red meat, game, aged cheeses",
+    "fr": "Agneau rôti, viandes rouges grillées, gibier, fromages affinés",
+    "it": "Agnello arrosto, carni rosse alla griglia, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa tipo Burdeos",
+    "en": "16-18 °C, decanted, Bordeaux glass",
+    "fr": "16-18 °C, carafé, verre de type bordeaux",
+    "it": "16-18 °C, decantato, calice tipo Bordeaux"
+  },
+  "search": "Château Brane-Cantenac Château Brane-Cantenac",
+  "source": "decantalo"
+}

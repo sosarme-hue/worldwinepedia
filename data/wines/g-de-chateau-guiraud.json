@@ -1,0 +1,49 @@
+{
+  "slug": "g-de-chateau-guiraud",
+  "name": "G de Château Guiraud",
+  "winery": "chateau-guiraud",
+  "region": "bordeaux",
+  "country": "francia",
+  "type": "blanco",
+  "category": {
+    "es": "Seco",
+    "en": "Dry",
+    "fr": "Sec",
+    "it": "Secco"
+  },
+  "grapes": [
+    "sauvignon-blanc",
+    "semillon"
+  ],
+  "summary": {
+    "es": "Blanco seco de Château Guiraud, de Sauvignon Blanc y Sémillon, elaborado bajo la denominación Bordeaux.",
+    "en": "Dry white from Château Guiraud, made from Sauvignon Blanc and Sémillon under the Bordeaux appellation.",
+    "fr": "Blanc sec du Château Guiraud, de sauvignon blanc et sémillon, élaboré sous l’appellation Bordeaux.",
+    "it": "Bianco secco di Château Guiraud, da Sauvignon Blanc e Sémillon, prodotto con la denominazione Bordeaux."
+  },
+  "body": {
+    "es": "<p>G de Château Guiraud es el vino blanco seco de esta finca de Sauternes, primer cru clasificado en 1855. Como la denominación Sauternes está reservada a los vinos dulces, los blancos secos elaborados en la zona se comercializan bajo la denominación regional <strong>Bordeaux</strong>.</p><p>Se elabora con <strong>Sauvignon Blanc</strong> y <strong>Sémillon</strong> de los viñedos de la finca, cultivados en ecológico, pero con uvas vendimiadas antes de que aparezca la podredumbre noble, para conservar la frescura y la acidez. Una parte del vino se cría en barricas, lo que le aporta textura sin ocultar la fruta.</p><p>El resultado es un blanco seco aromático y fresco, en el que la Sauvignon Blanc aporta notas cítricas y herbáceas y la Sémillon da cuerpo y redondez. Se disfruta en sus primeros años y ofrece otra lectura del terruño de Sauternes, distinta de la de sus célebres vinos dulces.</p>",
+    "en": "<p>G de Château Guiraud is the dry white wine of this Sauternes estate, a first growth in 1855. Because the Sauternes appellation is reserved for sweet wines, dry whites made in the area are sold under the regional <strong>Bordeaux</strong> appellation.</p><p>It is made from <strong>Sauvignon Blanc</strong> and <strong>Sémillon</strong> from the estate’s organically farmed vineyards, but with grapes picked before noble rot appears, to retain freshness and acidity. Part of the wine is aged in barrels, which adds texture without masking the fruit.</p><p>The result is an aromatic, fresh dry white, in which Sauvignon Blanc brings citrus and herbaceous notes and Sémillon adds body and roundness. It is enjoyed in its first years and offers another reading of the Sauternes terroir, different from that of its famous sweet wines.</p>",
+    "fr": "<p>G de Château Guiraud est le vin blanc sec de ce domaine de Sauternes, premier cru classé en 1855. L’appellation Sauternes étant réservée aux liquoreux, les blancs secs élaborés dans le secteur sont commercialisés sous l’appellation régionale <strong>Bordeaux</strong>.</p><p>Il est élaboré à partir de <strong>sauvignon blanc</strong> et de <strong>sémillon</strong> issus des vignes du domaine, conduites en bio, mais avec des raisins vendangés avant l’apparition de la pourriture noble, afin de conserver fraîcheur et acidité. Une partie du vin est élevée en barriques, ce qui lui apporte de la texture sans masquer le fruit.</p><p>Le résultat est un blanc sec aromatique et frais, où le sauvignon blanc apporte des notes d’agrumes et herbacées et le sémillon du corps et de la rondeur. Il se déguste dans ses premières années et offre une autre lecture du terroir de Sauternes, différente de celle de ses célèbres liquoreux.</p>",
+    "it": "<p>G de Château Guiraud è il vino bianco secco di questa tenuta di Sauternes, premier cru classé nel 1855. Poiché la denominazione Sauternes è riservata ai vini dolci, i bianchi secchi prodotti nella zona sono commercializzati con la denominazione regionale <strong>Bordeaux</strong>.</p><p>È prodotto con <strong>Sauvignon Blanc</strong> e <strong>Sémillon</strong> dei vigneti della tenuta, coltivati in biologico, ma con uve raccolte prima della comparsa della muffa nobile, per conservare freschezza e acidità. Una parte del vino è affinata in barrique, il che gli dona struttura senza coprire il frutto.</p><p>Il risultato è un bianco secco aromatico e fresco, in cui il Sauvignon Blanc apporta note agrumate ed erbacee e il Sémillon corpo e rotondità. Si gusta nei primi anni e offre un’altra lettura del terroir di Sauternes, diversa da quella dei suoi celebri vini dolci.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido. Aromas de pomelo, limón, melocotón blanco y notas florales. Boca fresca y redonda, de final limpio.",
+    "en": "Pale yellow. Aromas of grapefruit, lemon, white peach and floral notes. Fresh, round palate with a clean finish.",
+    "fr": "Jaune pâle. Arômes de pamplemousse, de citron, de pêche blanche et notes florales. Bouche fraîche et ronde, finale nette.",
+    "it": "Giallo pallido. Aromi di pompelmo, limone, pesca bianca e note floreali. Bocca fresca e rotonda, finale pulito."
+  },
+  "pairing": {
+    "es": "Pescados a la plancha, marisco, ensaladas, quesos de cabra",
+    "en": "Grilled fish, shellfish, salads, goat’s cheeses",
+    "fr": "Poissons à la plancha, fruits de mer, salades, fromages de chèvre",
+    "it": "Pesce alla piastra, frutti di mare, insalate, formaggi di capra"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de vino blanco",
+    "en": "10-12 °C, white wine glass",
+    "fr": "10-12 °C, verre à vin blanc",
+    "it": "10-12 °C, calice da vino bianco"
+  },
+  "search": "G de Château Guiraud Bordeaux Blanc"
+}

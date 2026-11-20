@@ -1,0 +1,42 @@
+{
+  "slug": "habla-de-ti",
+  "name": "Habla de Ti",
+  "winery": null,
+  "winery_name": "Habla",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Extremadura",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "sauvignon-blanc"
+  ],
+  "summary": {
+    "es": "Habla de Ti es un vino blanco de Habla, con la denominación VT Extremadura, en España.",
+    "en": "Habla de Ti is a white wine from Habla, made under the VT Extremadura appellation in Spain.",
+    "fr": "Habla de Ti est un vin blanc de Habla, élaboré sous l’appellation VT Extremadura (Espagne).",
+    "it": "Habla de Ti è un vino bianco di Habla, prodotto nella denominazione VT Extremadura (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Sauvignon Blanc. Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is made from Sauvignon Blanc. It is a young wine, meant to be drunk in its first years. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Sauvignon Blanc. C’est un vin jeune, à boire dans ses premières années. Il titre 12,5 % vol.</p>",
+    "it": "<p>È prodotto con Sauvignon Blanc. È un vino giovane, da bere nei primi anni. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Habla de Ti Habla",
+  "brief": true,
+  "source": "decantalo"
+}

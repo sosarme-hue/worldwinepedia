@@ -1,0 +1,48 @@
+{
+  "slug": "roda-i",
+  "name": "Roda I",
+  "winery": "roda",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Reserva de Bodegas Roda elaborado con los lotes más profundos y de fruta negra de sus viñas viejas de Tempranillo, de perfil más concentrado que Roda.",
+    "en": "Reserva from Bodegas Roda made from the deepest, black-fruited lots from its old Tempranillo vines, more concentrated in profile than Roda.",
+    "fr": "Reserva de Bodegas Roda élaboré avec les lots les plus profonds et aux fruits noirs de ses vieilles vignes de tempranillo, au profil plus concentré que Roda.",
+    "it": "Reserva di Bodegas Roda prodotto con i lotti più profondi e di frutto nero delle sue vecchie vigne di Tempranillo, dal profilo più concentrato di Roda."
+  },
+  "body": {
+    "es": "<p>Roda I es el segundo de los dos reservas de Bodegas Roda y procede, como su hermano Roda, de viñas viejas situadas en el entorno de Haro, en la Rioja Alta. Se elabora casi exclusivamente con Tempranillo, a veces con una pequeña proporción de otras variedades, según la añada.</p><p>La diferencia entre ambos vinos no depende tanto del viñedo como de la selección posterior: tras vinificar y criar por separado los lotes de cada parcela, el equipo técnico agrupa los de perfil más profundo, con fruta negra, mayor concentración y taninos más firmes, para componer Roda I. El vino se cría en barricas de roble francés y reposa en botella en los calados de la bodega antes de salir al mercado.</p><p>Es un tinto de mayor estructura y potencial de guarda que Roda, que muestra con los años una evolución hacia aromas de especias, cacao y monte bajo. Conviene decantarlo si se bebe joven.</p>",
+    "en": "<p>Roda I is the second of Bodegas Roda’s two Reservas and, like its sibling Roda, comes from old vines around Haro, in Rioja Alta. It is made almost exclusively from Tempranillo, sometimes with a small proportion of other varieties, depending on the vintage.</p><p>The difference between the two wines depends less on the vineyard than on the subsequent selection: after vinifying and ageing the lots from each plot separately, the technical team groups those of deeper profile, with black fruit, greater concentration and firmer tannins, to make up Roda I. The wine is aged in French oak barrels and rests in bottle in the winery’s cellars before release.</p><p>It is a red with more structure and ageing potential than Roda, which over the years develops towards aromas of spice, cocoa and scrubland. It is best decanted if drunk young.</p>",
+    "fr": "<p>Roda I est le second des deux Reserva de Bodegas Roda et provient, comme son frère Roda, de vieilles vignes situées autour de Haro, dans la Rioja Alta. Il est élaboré presque exclusivement avec du tempranillo, parfois avec une petite proportion d’autres cépages, selon le millésime.</p><p>La différence entre les deux vins tient moins au vignoble qu’à la sélection ultérieure : après avoir vinifié et élevé séparément les lots de chaque parcelle, l’équipe technique regroupe ceux au profil le plus profond, aux fruits noirs, plus concentrés et aux tanins plus fermes, pour composer Roda I. Le vin est élevé en barriques de chêne français et repose en bouteille dans les caves de la bodega avant sa commercialisation.</p><p>C’est un rouge plus structuré et de plus grand potentiel de garde que Roda, qui évolue avec les années vers des arômes d’épices, de cacao et de garrigue. Mieux vaut le carafer s’il est bu jeune.</p>",
+    "it": "<p>Roda I è il secondo dei due Reserva di Bodegas Roda e proviene, come il fratello Roda, da vecchie vigne nei dintorni di Haro, nella Rioja Alta. È prodotto quasi esclusivamente con Tempranillo, talvolta con una piccola percentuale di altre varietà, a seconda dell’annata.</p><p>La differenza tra i due vini dipende meno dal vigneto che dalla selezione successiva: dopo aver vinificato e affinato separatamente i lotti di ciascuna parcella, l’équipe tecnica raggruppa quelli dal profilo più profondo, con frutto nero, maggiore concentrazione e tannini più decisi, per comporre Roda I. Il vino affina in barrique di rovere francese e riposa in bottiglia nelle gallerie della cantina prima della messa in commercio.</p><p>È un rosso di maggiore struttura e potenziale d’invecchiamento rispetto a Roda, che con gli anni evolve verso aromi di spezie, cacao e macchia. Conviene decantarlo se lo si beve giovane.</p>"
+  },
+  "tasting": {
+    "es": "Color picota intenso. Fruta negra madura, regaliz, cacao, especias y notas balsámicas. En boca es profundo y estructurado, con taninos firmes y un final largo.",
+    "en": "Intense deep cherry colour. Ripe black fruit, liquorice, cocoa, spice and balsamic notes. Deep and structured on the palate, with firm tannins and a long finish.",
+    "fr": "Couleur cerise burlat intense. Fruits noirs mûrs, réglisse, cacao, épices et notes balsamiques. Profond et structuré en bouche, aux tanins fermes et à la finale longue.",
+    "it": "Colore ciliegia intenso. Frutta nera matura, liquirizia, cacao, spezie e note balsamiche. In bocca è profondo e strutturato, con tannini decisi e un finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, lechazo asado, caza mayor, quesos curados de oveja",
+    "en": "Chargrilled red meat, roast milk-fed lamb, large game, aged sheep’s cheeses",
+    "fr": "Viandes rouges à la braise, agneau de lait rôti, gros gibier, fromages de brebis affinés",
+    "it": "Carni rosse alla brace, agnello da latte arrosto, selvaggina di grossa taglia, pecorini stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Roda I Reserva Bodegas Roda Rioja"
+}

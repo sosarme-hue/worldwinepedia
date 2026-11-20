@@ -1,0 +1,48 @@
+{
+  "slug": "la-gitana",
+  "name": "Manzanilla La Gitana",
+  "winery": "hidalgo-la-gitana",
+  "region": "jerez-xeres-sherry",
+  "country": "espana",
+  "type": "generoso",
+  "category": {
+    "es": "Manzanilla",
+    "en": "Manzanilla",
+    "fr": "Manzanilla",
+    "it": "Manzanilla"
+  },
+  "grapes": [
+    "palomino"
+  ],
+  "summary": {
+    "es": "Manzanilla de Bodegas Hidalgo-La Gitana, criada bajo velo de flor en Sanlúcar de Barrameda, una de las más conocidas y difundidas.",
+    "en": "Manzanilla from Bodegas Hidalgo-La Gitana, aged under flor in Sanlúcar de Barrameda, one of the best-known and most widely available.",
+    "fr": "Manzanilla de Bodegas Hidalgo-La Gitana, élevée sous voile de flor à Sanlúcar de Barrameda, l'une des plus connues et des plus diffusées.",
+    "it": "Manzanilla di Bodegas Hidalgo-La Gitana, affinata sotto il velo di flor a Sanlúcar de Barrameda, una delle più note e diffuse."
+  },
+  "body": {
+    "es": "<p>La Gitana es una de las manzanillas más conocidas y el vino que da nombre a Bodegas Hidalgo-La Gitana. Su etiqueta reproduce el retrato de una mujer gitana, una imagen que se ha mantenido durante generaciones y que la hace muy reconocible en las tiendas.</p><p>Se elabora con <strong>palomino</strong> de viñedos de albariza del entorno de Sanlúcar, en parte propios de la familia. Tras la fermentación, el vino se encabeza hasta una graduación que permite el desarrollo de la <strong>flor</strong> y se cría en el sistema de <strong>criaderas y solera</strong> en las bodegas del casco histórico de <strong>Sanlúcar de Barrameda</strong>. La humedad y las temperaturas suaves de la ciudad, junto a la desembocadura del Guadalquivir, mantienen el velo de levaduras vivo durante todo el año, lo que da a la manzanilla su palidez, su ligereza y su característica nota salina. Es un vino seco que debe beberse fresco y en poco tiempo una vez abierta la botella.</p>",
+    "en": "<p>La Gitana is one of the best-known manzanillas and the wine that gives its name to Bodegas Hidalgo-La Gitana. Its label reproduces the portrait of a Gypsy woman, an image kept for generations that makes it very recognisable on shop shelves.</p><p>It is made from <strong>Palomino</strong> from albariza vineyards around Sanlúcar, some of them owned by the family. After fermentation the wine is fortified to a strength that allows the <strong>flor</strong> to develop and is aged in the <strong>criaderas and solera</strong> system in the bodegas of the historic centre of <strong>Sanlúcar de Barrameda</strong>. The town's humidity and mild temperatures, by the mouth of the Guadalquivir, keep the layer of yeast alive all year round, giving manzanilla its paleness, lightness and characteristic saline note. It is a dry wine that should be served chilled and drunk soon after the bottle is opened.</p>",
+    "fr": "<p>La Gitana est l'une des manzanillas les plus connues et le vin qui donne son nom à Bodegas Hidalgo-La Gitana. Son étiquette reproduit le portrait d'une femme gitane, une image conservée depuis des générations qui la rend très reconnaissable en magasin.</p><p>Elle est élaborée avec du <strong>palomino</strong> de vignes d'albariza des environs de Sanlúcar, en partie propriété de la famille. Après la fermentation, le vin est muté jusqu'à un degré qui permet le développement de la <strong>flor</strong> et il est élevé selon le système des <strong>criaderas et solera</strong> dans les bodegas du centre historique de <strong>Sanlúcar de Barrameda</strong>. L'humidité et les températures douces de la ville, à l'embouchure du Guadalquivir, maintiennent le voile de levures vivant toute l'année, ce qui donne à la manzanilla sa pâleur, sa légèreté et sa note saline caractéristique. C'est un vin sec à servir frais et à boire rapidement une fois la bouteille ouverte.</p>",
+    "it": "<p>La Gitana è una delle manzanilla più note e il vino che dà il nome a Bodegas Hidalgo-La Gitana. La sua etichetta riproduce il ritratto di una donna gitana, un'immagine mantenuta per generazioni che la rende molto riconoscibile nei negozi.</p><p>È prodotta con <strong>Palomino</strong> di vigneti di albariza dei dintorni di Sanlúcar, in parte di proprietà della famiglia. Dopo la fermentazione il vino viene fortificato fino a una gradazione che consente lo sviluppo della <strong>flor</strong> e affina nel sistema di <strong>criaderas e solera</strong> nelle bodegas del centro storico di <strong>Sanlúcar de Barrameda</strong>. L'umidità e le temperature miti della città, alla foce del Guadalquivir, mantengono vivo il velo di lieviti tutto l'anno, conferendo alla manzanilla il suo colore pallido, la leggerezza e la caratteristica nota salina. È un vino secco da servire fresco e da bere poco dopo l'apertura della bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pajizo muy pálido. Aromas de levadura, manzanilla (la flor), almendra fresca y brisa marina. En boca es seco, ligero, fresco y salino.",
+    "en": "Very pale straw yellow. Aromas of yeast, chamomile, fresh almond and sea breeze. Dry, light, fresh and saline on the palate.",
+    "fr": "Jaune paille très pâle. Arômes de levure, de camomille, d'amande fraîche et de brise marine. En bouche, sec, léger, frais et salin.",
+    "it": "Giallo paglierino molto pallido. Aromi di lievito, camomilla, mandorla fresca e brezza marina. In bocca è secco, leggero, fresco e sapido."
+  },
+  "pairing": {
+    "es": "Langostinos de Sanlúcar, pescaíto frito, jamón, aceitunas, sushi",
+    "en": "Sanlúcar prawns, fried fish, ham, olives, sushi",
+    "fr": "Crevettes de Sanlúcar, friture de poisson, jambon, olives, sushis",
+    "it": "Gamberi di Sanlúcar, frittura di pesce, prosciutto, olive, sushi"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de vino blanco",
+    "en": "6-8 °C, white wine glass",
+    "fr": "6-8 °C, verre à vin blanc",
+    "it": "6-8 °C, calice da vino bianco"
+  },
+  "search": "Manzanilla La Gitana Hidalgo"
+}

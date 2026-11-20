@@ -1,0 +1,43 @@
+{
+  "slug": "veraton",
+  "name": "Veratón",
+  "winery": "alto-moncayo",
+  "region": "campo-de-borja",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Garnacha de viñas viejas de Bodegas Alto Moncayo, la más accesible de la gama, con crianza en barrica.",
+    "en": "Old-vine Garnacha from Bodegas Alto Moncayo, the most approachable in the range, aged in barrel.",
+    "fr": "Grenache de vieilles vignes de Bodegas Alto Moncayo, le plus accessible de la gamme, élevé en barrique.",
+    "it": "Garnacha di vecchie vigne di Bodegas Alto Moncayo, la più accessibile della gamma, affinata in barrique."
+  },
+  "body": {
+    "es": "<p>Veratón es la garnacha de entrada de Bodegas Alto Moncayo, aunque sigue siendo un vino de cierta ambición dentro del Campo de Borja. Su nombre procede de un paraje de la comarca, y representa la puerta de acceso al estilo de la bodega, que se ha especializado en garnachas concentradas de viñas viejas.</p><p>Se elabora con <strong>garnacha</strong> de cepas viejas plantadas en vaso en las laderas que ascienden hacia el Moncayo, sobre suelos pobres y pedregosos, en un clima continental seco marcado por el <strong>cierzo</strong>. Los rendimientos son bajos y la vendimia es manual. Tras la fermentación, el vino se cría durante algo más de un año en barricas de roble francés y americano, que aportan notas tostadas y especiadas. Es un tinto de fruta muy madura, cuerpo amplio y graduación elevada, algo más directo y menos concentrado que Alto Moncayo y Aquilón, pero en la misma línea opulenta. Puede beberse desde su salida al mercado o guardarse algunos años.</p>",
+    "en": "<p>Veratón is the entry-level Garnacha from Bodegas Alto Moncayo, although it remains a fairly ambitious wine within Campo de Borja. Its name comes from a site in the area, and it is the gateway to the style of the winery, which specialises in concentrated old-vine Garnachas.</p><p>It is made from old bush-trained <strong>Garnacha</strong> vines on the slopes rising towards the Moncayo, on poor, stony soils, in a dry continental climate marked by the <strong>cierzo</strong> wind. Yields are low and harvesting is done by hand. After fermentation the wine is aged for a little over a year in French and American oak barrels, which add toasty and spicy notes. It is a red with very ripe fruit, a full body and high alcohol, somewhat more direct and less concentrated than Alto Moncayo and Aquilón, but in the same opulent vein. It can be drunk on release or kept for a few years.</p>",
+    "fr": "<p>Veratón est le grenache d'entrée de gamme de Bodegas Alto Moncayo, même s'il reste un vin d'une certaine ambition au sein du Campo de Borja. Son nom vient d'un lieu-dit de la région, et il constitue la porte d'entrée vers le style du domaine, spécialisé dans les grenaches concentrés de vieilles vignes.</p><p>Il est élaboré avec du <strong>grenache</strong> de vieux ceps en gobelet sur les pentes qui montent vers le Moncayo, sur des sols pauvres et caillouteux, sous un climat continental sec marqué par le <strong>cierzo</strong>. Les rendements sont faibles et la vendange est manuelle. Après la fermentation, le vin est élevé un peu plus d'un an en barriques de chêne français et américain, qui apportent des notes grillées et épicées. C'est un rouge au fruit très mûr, au corps ample et au degré élevé, un peu plus direct et moins concentré qu'Alto Moncayo et Aquilón, mais dans la même veine opulente. Il peut se boire dès sa commercialisation ou se garder quelques années.</p>",
+    "it": "<p>Veratón è la Garnacha d'ingresso di Bodegas Alto Moncayo, pur restando un vino di una certa ambizione nel Campo de Borja. Il nome deriva da una località della zona e rappresenta la porta d'accesso allo stile della cantina, specializzata in Garnacha concentrate di vecchie vigne.</p><p>È prodotto con <strong>Garnacha</strong> di vecchie viti ad alberello sui pendii che salgono verso il Moncayo, su suoli poveri e sassosi, in un clima continentale secco segnato dal <strong>cierzo</strong>. Le rese sono basse e la vendemmia è manuale. Dopo la fermentazione il vino affina per poco più di un anno in barrique di rovere francese e americano, che apportano note tostate e speziate. È un rosso dal frutto molto maturo, corpo ampio e gradazione elevata, un po' più diretto e meno concentrato di Alto Moncayo e Aquilón, ma sulla stessa linea opulenta. Si può bere dall'uscita sul mercato o conservare qualche anno.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de fruta negra madura, frambuesa confitada, especias, regaliz y vainilla. En boca es amplio y goloso, con tanino maduro.",
+    "en": "Intense cherry red. Aromas of ripe black fruit, candied raspberry, spice, liquorice and vanilla. Broad and generous on the palate, with ripe tannins.",
+    "fr": "Rouge cerise intense. Arômes de fruits noirs mûrs, de framboise confite, d'épices, de réglisse et de vanille. En bouche, ample et gourmand, aux tanins mûrs.",
+    "it": "Rosso ciliegia intenso. Aromi di frutta nera matura, lampone candito, spezie, liquirizia e vaniglia. In bocca è ampio e goloso, con tannino maturo."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes a la brasa, embutidos, migas, quesos curados",
+    "en": "Roast lamb, grilled meats, charcuterie, migas, aged cheeses",
+    "fr": "Agneau rôti, viandes grillées, charcuterie, migas, fromages affinés",
+    "it": "Agnello arrosto, carni alla brace, salumi, migas, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, grand verre",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Veratón Alto Moncayo Garnacha"
+}

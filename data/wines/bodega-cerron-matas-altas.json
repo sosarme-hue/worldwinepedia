@@ -1,0 +1,40 @@
+{
+  "slug": "bodega-cerron-matas-altas",
+  "name": "Bodega Cerrón Matas Altas",
+  "winery": null,
+  "winery_name": "Bodega Cerrón",
+  "region": "jumilla",
+  "country": "espana",
+  "appellation": "DO Jumilla",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Bodega Cerrón Matas Altas es un vino tinto de Bodega Cerrón, con la denominación DO Jumilla, en España.",
+    "en": "Bodega Cerrón Matas Altas is a red wine from Bodega Cerrón, made under the DO Jumilla appellation in Spain.",
+    "fr": "Bodega Cerrón Matas Altas est un vin rouge de Bodega Cerrón, élaboré sous l’appellation DO Jumilla (Espagne).",
+    "it": "Bodega Cerrón Matas Altas è un vino rosso di Bodega Cerrón, prodotto nella denominazione DO Jumilla (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14 % vol.</p><p>Jumilla es una denominación de origen del sureste de España, entre el norte de la Región de Murcia y el sureste de Albacete. Su variedad emblemática es la Monastrell, cultivada en un clima continental seco y, en parte, sobre pie franco.</p>",
+    "en": "<p>It is aged in wood. It has 14% ABV.</p><p>Jumilla is a designation of origin in south-eastern Spain, between the north of the Region of Murcia and the south-east of Albacete. Its emblematic variety is Monastrell, grown in a dry continental climate and partly on its own roots.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14 % vol.</p><p>Jumilla est une dénomination d'origine du sud-est de l'Espagne, entre le nord de la Région de Murcie et le sud-est de la province d'Albacete. Son cépage emblématique est le monastrell, cultivé sous un climat continental sec et en partie franc de pied.</p>",
+    "it": "<p>È affinato in legno. Ha 14% vol.</p><p>Jumilla è una denominazione di origine del sud-est della Spagna, tra il nord della Regione di Murcia e il sud-est della provincia di Albacete. Il suo vitigno simbolo è il Monastrell, coltivato in un clima continentale secco e in parte a piede franco.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Bodega Cerrón Matas Altas Bodega Cerrón",
+  "brief": true,
+  "source": "decantalo"
+}

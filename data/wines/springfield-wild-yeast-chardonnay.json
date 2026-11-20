@@ -1,0 +1,42 @@
+{
+  "slug": "springfield-wild-yeast-chardonnay",
+  "name": "Springfield Wild Yeast Chardonnay",
+  "winery": null,
+  "winery_name": "Springfield Estate",
+  "region": null,
+  "country": "sudafrica",
+  "appellation": "Robertson",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Springfield Wild Yeast Chardonnay es un vino blanco de Springfield Estate, con la denominación Robertson, en Sudáfrica.",
+    "en": "Springfield Wild Yeast Chardonnay is a white wine from Springfield Estate, made under the Robertson appellation in South Africa.",
+    "fr": "Springfield Wild Yeast Chardonnay est un vin blanc de Springfield Estate, élaboré sous l’appellation Robertson (Afrique du Sud).",
+    "it": "Springfield Wild Yeast Chardonnay è un vino bianco di Springfield Estate, prodotto nella denominazione Robertson (Sudafrica)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Chardonnay. Se cría sobre sus lías. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is made from Chardonnay. It is aged on its lees. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Chardonnay. Il est élevé sur lies. Il titre 13,5 % vol.</p>",
+    "it": "<p>È prodotto con Chardonnay. Affina sulle fecce fini. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Springfield Wild Yeast Chardonnay Springfield Estate",
+  "brief": true,
+  "source": "decantalo"
+}

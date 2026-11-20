@@ -1,0 +1,51 @@
+{
+  "slug": "chateau-lafon-rochet",
+  "name": "Château Lafon-Rochet",
+  "winery": "chateau-lafon-rochet",
+  "region": "saint-estephe",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "4º Gran Cru Clasificado (1855)",
+    "en": "4th Grand Cru Classé (1855)",
+    "fr": "4e Grand Cru Classé (1855)",
+    "it": "4° Grand Cru Classé (1855)"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "cabernet-franc",
+    "petit-verdot"
+  ],
+  "summary": {
+    "es": "Gran vino de Château Lafon-Rochet, cuarto cru clasificado de Saint-Estèphe, un tinto estructurado de larga guarda.",
+    "en": "The grand vin of Château Lafon-Rochet, a Saint-Estèphe fourth growth, a structured red for long ageing.",
+    "fr": "Grand vin du Château Lafon-Rochet, quatrième cru classé de Saint-Estèphe, un rouge structuré de longue garde.",
+    "it": "Grand vin di Château Lafon-Rochet, quarto cru classé di Saint-Estèphe, un rosso strutturato da lungo invecchiamento."
+  },
+  "body": {
+    "es": "<p>El gran vino de <strong>Château Lafon-Rochet</strong> procede de los viñedos de la propiedad en el sur de <strong>Saint-Estèphe</strong>, junto al límite con Pauillac. Es un cuarto gran cru clasificado de 1855.</p><p>Se elabora con un ensamblaje dominado por el <strong>Cabernet Sauvignon</strong>, acompañado de <strong>Merlot</strong> y de pequeñas proporciones de Cabernet Franc y Petit Verdot, que varían según la añada. Los suelos de gravas sobre arcillas y calizas dan a los vinos de la zona una estructura firme y un frescor característico.</p><p>La crianza se realiza en barricas de roble, con una parte de madera nueva. En su juventud es un tinto denso, de taninos marcados, con fruta negra y notas de cedro; con los años se vuelve más armonioso y desarrolla matices de tabaco, grafito y sotobosque. Es un vino que se beneficia claramente de la guarda y de una decantación cuando se abre joven.</p>",
+    "en": "<p>The grand vin of <strong>Château Lafon-Rochet</strong> comes from the estate's vineyards in the south of <strong>Saint-Estèphe</strong>, next to the border with Pauillac. It is a fourth growth of the 1855 classification.</p><p>It is made from a blend dominated by <strong>Cabernet Sauvignon</strong>, accompanied by <strong>Merlot</strong> and small proportions of Cabernet Franc and Petit Verdot, which vary with the vintage. The gravel soils over clay and limestone give the area's wines a firm structure and a characteristic freshness.</p><p>Ageing takes place in oak barrels, part of them new. In its youth it is a dense red with pronounced tannins, black fruit and cedar notes; over the years it becomes more harmonious and develops hints of tobacco, graphite and forest floor. It clearly benefits from cellaring and from decanting when opened young.</p>",
+    "fr": "<p>Le grand vin du <strong>Château Lafon-Rochet</strong> provient des vignes de la propriété au sud de <strong>Saint-Estèphe</strong>, à la limite de Pauillac. C'est un quatrième grand cru classé en 1855.</p><p>Il est issu d'un assemblage dominé par le <strong>cabernet sauvignon</strong>, accompagné de <strong>merlot</strong> et de petites proportions de cabernet franc et de petit verdot, variables selon le millésime. Les sols de graves sur argiles et calcaires donnent aux vins du secteur une structure ferme et une fraîcheur caractéristique.</p><p>L'élevage se fait en barriques de chêne, dont une part de bois neuf. Dans sa jeunesse, c'est un rouge dense aux tanins marqués, aux fruits noirs et aux notes de cèdre ; avec les années, il gagne en harmonie et développe des nuances de tabac, de graphite et de sous-bois. Il bénéficie nettement de la garde et d'un passage en carafe s'il est ouvert jeune.</p>",
+    "it": "<p>Il grand vin di <strong>Château Lafon-Rochet</strong> proviene dai vigneti della proprietà nel sud di <strong>Saint-Estèphe</strong>, accanto al confine con Pauillac. È un quarto grand cru classé del 1855.</p><p>È prodotto con un taglio dominato dal <strong>Cabernet Sauvignon</strong>, accompagnato da <strong>Merlot</strong> e da piccole quote di Cabernet Franc e Petit Verdot, che variano secondo l'annata. I suoli di ghiaie su argille e calcari danno ai vini della zona una struttura decisa e una freschezza caratteristica.</p><p>L'affinamento avviene in barrique di rovere, in parte nuove. In gioventù è un rosso denso, dai tannini marcati, con frutta nera e note di cedro; con gli anni diventa più armonioso e sviluppa sfumature di tabacco, grafite e sottobosco. Beneficia chiaramente dell'invecchiamento e di una decantazione se aperto giovane.</p>"
+  },
+  "tasting": {
+    "es": "Rojo oscuro. Aromas de cassis, mora, cedro y grafito. Boca firme, de taninos marcados y final largo y fresco.",
+    "en": "Deep red. Aromas of blackcurrant, blackberry, cedar and graphite. Firm palate with pronounced tannins and a long, fresh finish.",
+    "fr": "Rouge sombre. Arômes de cassis, de mûre, de cèdre et de graphite. Bouche ferme aux tanins marqués, finale longue et fraîche.",
+    "it": "Rosso scuro. Aromi di ribes nero, mora, cedro e grafite. Bocca decisa, tannini marcati e finale lungo e fresco."
+  },
+  "pairing": {
+    "es": "Cordero asado, entrecot, caza, quesos curados",
+    "en": "Roast lamb, rib-eye steak, game, aged cheeses",
+    "fr": "Agneau rôti, entrecôte, gibier, fromages affinés",
+    "it": "Agnello arrosto, costata, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de Burdeos; decantar en su juventud",
+    "en": "16-18 °C, Bordeaux glass; decant when young",
+    "fr": "16-18 °C, verre à bordeaux ; carafer dans sa jeunesse",
+    "it": "16-18 °C, calice da Bordeaux; decantare in gioventù"
+  },
+  "search": "Château Lafon-Rochet Saint-Estèphe"
+}

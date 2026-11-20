@@ -1,0 +1,40 @@
+{
+  "slug": "siflogo-keropatis",
+  "name": "Siflogo Keropatis",
+  "winery": null,
+  "winery_name": "Siflogo Winery",
+  "region": null,
+  "country": "grecia",
+  "appellation": "PGI Lefkada",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Siflogo Keropatis es un vino tinto de Siflogo Winery, con la denominación PGI Lefkada, en Grecia.",
+    "en": "Siflogo Keropatis is a red wine from Siflogo Winery, made under the PGI Lefkada appellation in Greece.",
+    "fr": "Siflogo Keropatis est un vin rouge de Siflogo Winery, élaboré sous l’appellation PGI Lefkada (Grèce).",
+    "it": "Siflogo Keropatis è un vino rosso di Siflogo Winery, prodotto nella denominazione PGI Lefkada (Grecia)."
+  },
+  "body": {
+    "es": "<p>Se cría en depósitos de acero inoxidable. Su graduación es de 12,3 % vol.</p>",
+    "en": "<p>It is aged in stainless steel tanks. It has 12.3% ABV.</p>",
+    "fr": "<p>Il est élevé en cuves inox. Il titre 12,3 % vol.</p>",
+    "it": "<p>Affina in acciaio inox. Ha 12,3% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Siflogo Keropatis Siflogo Winery",
+  "brief": true,
+  "source": "decantalo"
+}

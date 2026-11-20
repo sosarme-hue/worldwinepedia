@@ -1,0 +1,46 @@
+{
+  "slug": "arbossar",
+  "name": "Arbossar",
+  "winery": null,
+  "winery_name": "Terroir al Límit",
+  "region": "priorat",
+  "country": "espana",
+  "appellation": "DOQ Priorat",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "carinena"
+  ],
+  "summary": {
+    "es": "Tinto de Cariñena de Terroir al Límit procedente del paraje de Arbossar, en Torroja del Priorat, elaborado en un estilo de extracción suave y criado en hormigón.",
+    "en": "Carignan red from Terroir al Límit sourced from the Arbossar site in Torroja del Priorat, made in a gently extracted style and aged in concrete.",
+    "fr": "Rouge de carignan de Terroir al Límit issu du lieu-dit Arbossar, à Torroja del Priorat, élaboré dans un style d’extraction douce et élevé en béton.",
+    "it": "Rosso di Carignano di Terroir al Límit proveniente dalla località Arbossar, a Torroja del Priorat, prodotto con estrazione delicata e affinato in cemento."
+  },
+  "body": {
+    "es": "<p><strong>Terroir al Límit</strong> es una bodega de <strong>Torroja del Priorat</strong> fundada a comienzos de los años 2000 por Dominik Huber, que ha defendido un Priorat menos concentrado y más fresco que el que dio fama a la denominación. Sus vinos proceden de parajes concretos del municipio, cultivados en ecológico, y se elaboran con mínima intervención.</p><p><strong>Arbossar</strong> es el nombre de una de esas zonas, con viñas viejas de <strong>Cariñena</strong> plantadas en laderas de llicorella, la pizarra característica del Priorat. La Cariñena, variedad de ciclo largo y acidez alta, encuentra aquí condiciones para madurar sin perder frescura.</p><p>La bodega vendimia relativamente pronto y elabora con racimos enteros, con extracciones suaves, más próximas a una infusión que a un remontado intenso. La crianza se hace en depósitos de hormigón, sin aporte aromático de la madera, para dejar en primer plano la fruta y el carácter del suelo. El resultado es un tinto de color medio, tenso y especiado, con taninos finos y una marcada sensación mineral.</p>",
+    "en": "<p><strong>Terroir al Límit</strong> is a winery in <strong>Torroja del Priorat</strong> founded in the early 2000s by Dominik Huber, which has championed a less concentrated, fresher Priorat than the one that made the appellation famous. Its wines come from specific sites in the village, farmed organically, and are made with minimal intervention.</p><p><strong>Arbossar</strong> is the name of one of those areas, with old <strong>Carignan</strong> vines planted on slopes of llicorella, the slate typical of Priorat. Carignan, a late-ripening, high-acid variety, finds the conditions here to ripen without losing freshness.</p><p>The winery picks relatively early and vinifies with whole bunches, with gentle extraction closer to an infusion than to vigorous pumping over. Ageing takes place in concrete vats, with no aromatic contribution from oak, so that fruit and soil character come to the fore. The result is a medium-coloured red, taut and spicy, with fine tannins and a marked mineral feel.</p>",
+    "fr": "<p><strong>Terroir al Límit</strong> est une bodega de <strong>Torroja del Priorat</strong> fondée au début des années 2000 par Dominik Huber, qui défend un Priorat moins concentré et plus frais que celui qui a fait la renommée de l’appellation. Ses vins proviennent de lieux-dits précis de la commune, cultivés en bio, et sont élaborés avec un minimum d’intervention.</p><p><strong>Arbossar</strong> est le nom de l’un de ces secteurs, planté de vieilles vignes de <strong>carignan</strong> sur des coteaux de llicorella, le schiste caractéristique du Priorat. Le carignan, cépage tardif à l’acidité élevée, y trouve les conditions pour mûrir sans perdre en fraîcheur.</p><p>La bodega vendange relativement tôt et vinifie en grappes entières, avec des extractions douces, plus proches d’une infusion que de remontages intenses. L’élevage se fait en cuves béton, sans apport aromatique du bois, afin de mettre au premier plan le fruit et le caractère du sol. Il en résulte un rouge de couleur moyenne, tendu et épicé, aux tanins fins et à la nette sensation minérale.</p>",
+    "it": "<p><strong>Terroir al Límit</strong> è una cantina di <strong>Torroja del Priorat</strong> fondata all’inizio degli anni Duemila da Dominik Huber, che ha difeso un Priorat meno concentrato e più fresco di quello che ha reso celebre la denominazione. I suoi vini provengono da località precise del comune, coltivate in biologico, e sono prodotti con un intervento minimo.</p><p><strong>Arbossar</strong> è il nome di una di queste zone, con vecchie viti di <strong>Carignano</strong> piantate su pendii di llicorella, lo scisto tipico del Priorat. Il Carignano, vitigno a ciclo lungo e di acidità elevata, trova qui le condizioni per maturare senza perdere freschezza.</p><p>La cantina vendemmia relativamente presto e vinifica a grappolo intero, con estrazioni delicate, più vicine a un’infusione che a rimontaggi intensi. L’affinamento avviene in vasche di cemento, senza apporto aromatico del legno, per lasciare in primo piano il frutto e il carattere del suolo. Il risultato è un rosso di colore medio, teso e speziato, con tannini fini e una marcata sensazione minerale.</p>"
+  },
+  "tasting": {
+    "es": "Rojo cereza de capa media. Aromas de fruta roja y negra fresca, hierbas de monte, flores secas y notas de pizarra. En boca es tenso y jugoso, con acidez marcada, taninos finos y final mineral.",
+    "en": "Medium-deep cherry red. Aromas of fresh red and black fruit, wild herbs, dried flowers and slate notes. Taut and juicy on the palate, with marked acidity, fine tannins and a mineral finish.",
+    "fr": "Rouge cerise de robe moyenne. Arômes de fruits rouges et noirs frais, herbes de garrigue, fleurs séchées et notes d’ardoise. En bouche, il est tendu et juteux, à l’acidité marquée, aux tanins fins et à la finale minérale.",
+    "it": "Rosso ciliegia di media intensità. Aromi di frutta rossa e nera fresca, erbe di macchia, fiori secchi e note di ardesia. In bocca è teso e succoso, con acidità marcata, tannini fini e finale minerale."
+  },
+  "pairing": {
+    "es": "Caza menor, cordero, setas, carnes a la brasa, quesos de media curación",
+    "en": "Small game, lamb, mushrooms, chargrilled meat, semi-aged cheeses",
+    "fr": "Petit gibier, agneau, champignons, viandes à la braise, fromages mi-affinés",
+    "it": "Selvaggina di piccola taglia, agnello, funghi, carni alla brace, formaggi di media stagionatura"
+  },
+  "serve": {
+    "es": "15-17 °C, copa amplia",
+    "en": "15-17 °C, large glass",
+    "fr": "15-17 °C, verre ample",
+    "it": "15-17 °C, calice ampio"
+  },
+  "search": "Arbossar Terroir al Límit",
+  "source": "decantalo"
+}

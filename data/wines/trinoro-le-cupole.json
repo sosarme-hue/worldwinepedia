@@ -1,0 +1,49 @@
+{
+  "slug": "trinoro-le-cupole",
+  "name": "Le Cupole",
+  "winery": "tenuta-di-trinoro",
+  "region": "toscana",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "Toscana IGT",
+    "en": "Toscana IGT",
+    "fr": "Toscana IGT",
+    "it": "Toscana IGT"
+  },
+  "grapes": [
+    "cabernet-franc",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Segundo vino de la Tenuta di Trinoro, un ensamblaje de variedades bordelesas del valle del Orcia, más accesible que el vino principal de la finca.",
+    "en": "Second wine of Tenuta di Trinoro, a blend of Bordeaux varieties from the Val d’Orcia, more approachable than the estate’s main wine.",
+    "fr": "Second vin de la Tenuta di Trinoro, un assemblage de cépages bordelais du Val d’Orcia, plus accessible que le vin principal du domaine.",
+    "it": "Secondo vino della Tenuta di Trinoro, un uvaggio di varietà bordolesi della Val d’Orcia, più accessibile del vino principale della tenuta."
+  },
+  "body": {
+    "es": "<p>La Tenuta di Trinoro, creada por Andrea Franchetti cerca de Sarteano, en el valle del Orcia, se dedica a las variedades bordelesas, plantadas con alta densidad y vendimiadas tarde en busca de una madurez plena. Sus vinos se acogen a la indicación Toscana IGT.</p><p><strong>Le Cupole</strong> es el segundo vino de la finca. Se elabora con un ensamblaje de las variedades bordelesas de la casa, sobre todo Cabernet Franc y Merlot, junto a Cabernet Sauvignon y Petit Verdot, cuyas proporciones cambian según la añada. Procede tanto de viñas más jóvenes como de lotes que no se destinan al vino principal.</p><p>Comparte con el resto de la gama la búsqueda de madurez y concentración, pero con una crianza más corta y un perfil más directo. Es un tinto generoso y afrutado, de taninos suaves, que puede disfrutarse en sus primeros años y que ofrece una introducción al estilo singular de Trinoro.</p>",
+    "en": "<p>Tenuta di Trinoro, created by Andrea Franchetti near Sarteano in the Val d’Orcia, is devoted to Bordeaux varieties, planted at high density and harvested late in search of full ripeness. Its wines are made under the Toscana IGT designation.</p><p><strong>Le Cupole</strong> is the estate’s second wine. It is made from a blend of the house’s Bordeaux varieties, mainly Cabernet Franc and Merlot, together with Cabernet Sauvignon and Petit Verdot, in proportions that change with the vintage. It comes both from younger vines and from lots not used for the main wine.</p><p>It shares the rest of the range’s pursuit of ripeness and concentration, but with shorter ageing and a more direct profile. It is a generous, fruity red with soft tannins, which can be enjoyed in its first few years and offers an introduction to Trinoro’s distinctive style.</p>",
+    "fr": "<p>La Tenuta di Trinoro, créée par Andrea Franchetti près de Sarteano, dans le Val d’Orcia, se consacre aux cépages bordelais, plantés à haute densité et vendangés tard à la recherche d’une pleine maturité. Ses vins relèvent de l’indication Toscana IGT.</p><p><strong>Le Cupole</strong> est le second vin du domaine. Il est élaboré à partir d’un assemblage des cépages bordelais de la maison, surtout cabernet franc et merlot, avec du cabernet-sauvignon et du petit verdot, dans des proportions qui varient selon le millésime. Il provient à la fois de vignes plus jeunes et de lots non retenus pour le grand vin.</p><p>Il partage avec le reste de la gamme la recherche de maturité et de concentration, mais avec un élevage plus court et un profil plus direct. C’est un rouge généreux et fruité, aux tanins souples, qui peut s’apprécier dans ses premières années et offre une introduction au style singulier de Trinoro.</p>",
+    "it": "<p>La Tenuta di Trinoro, creata da Andrea Franchetti vicino a Sarteano, in Val d’Orcia, si dedica alle varietà bordolesi, piantate ad alta densità e vendemmiate tardi alla ricerca di una piena maturazione. I suoi vini rientrano nell’indicazione Toscana IGT.</p><p><strong>Le Cupole</strong> è il secondo vino della tenuta. È prodotto con un uvaggio delle varietà bordolesi della casa, soprattutto Cabernet Franc e Merlot, insieme a Cabernet Sauvignon e Petit Verdot, in proporzioni che cambiano secondo l’annata. Proviene sia da vigne più giovani sia da partite non destinate al vino principale.</p><p>Condivide con il resto della gamma la ricerca di maturità e concentrazione, ma con un affinamento più breve e un profilo più diretto. È un rosso generoso e fruttato, dai tannini morbidi, che si può gustare nei primi anni e offre un’introduzione allo stile singolare di Trinoro.</p>"
+  },
+  "tasting": {
+    "es": "Fruta negra madura, ciruela, hierbas y especias suaves. Boca generosa y redonda, de taninos amables.",
+    "en": "Ripe black fruit, plum, herbs and gentle spice. Generous, rounded palate with friendly tannins.",
+    "fr": "Fruits noirs mûrs, prune, herbes et épices douces. Bouche généreuse et ronde, aux tanins aimables.",
+    "it": "Frutta nera matura, prugna, erbe e spezie delicate. Bocca generosa e rotonda, dai tannini gentili."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, caza, cordero, quesos curados",
+    "en": "Grilled red meat, game, lamb, aged cheeses",
+    "fr": "Viandes rouges grillées, gibier, agneau, fromages affinés",
+    "it": "Carni rosse alla brace, selvaggina, agnello, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Le Cupole Tenuta di Trinoro"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "sclavos-alchymiste-red",
+  "name": "Sclavos Alchymiste Red",
+  "winery": null,
+  "winery_name": "Sclavos",
+  "region": null,
+  "country": "grecia",
+  "appellation": "Cefalonia",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Sclavos Alchymiste Red es un vino tinto de Sclavos, con la denominación Cefalonia, en Grecia.",
+    "en": "Sclavos Alchymiste Red is a red wine from Sclavos, made under the Cefalonia appellation in Greece.",
+    "fr": "Sclavos Alchymiste Red est un vin rouge de Sclavos, élaboré sous l’appellation Cefalonia (Grèce).",
+    "it": "Sclavos Alchymiste Red è un vino rosso di Sclavos, prodotto nella denominazione Cefalonia (Grecia)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 13 % vol.</p>",
+    "en": "<p>It has 13% ABV.</p>",
+    "fr": "<p>Il titre 13 % vol.</p>",
+    "it": "<p>Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Sclavos Alchymiste Red Sclavos",
+  "brief": true,
+  "source": "decantalo"
+}

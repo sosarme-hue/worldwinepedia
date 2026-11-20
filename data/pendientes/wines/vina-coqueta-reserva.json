@@ -1,0 +1,45 @@
+{
+  "slug": "vina-coqueta-reserva",
+  "name": "Viña Coqueta Reserva",
+  "winery": "remirez-de-ganuza",
+  "winery_name": null,
+  "region": "rioja",
+  "country": "espana",
+  "appellation": "DOCa Rioja",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [],
+  "summary": {
+    "es": "Viña Coqueta Reserva es un vino tinto de Bodegas Remírez de Ganuza, con la denominación DOCa Rioja, en España.",
+    "en": "Viña Coqueta Reserva is a red wine from Bodegas Remírez de Ganuza, made under the DOCa Rioja appellation in Spain.",
+    "fr": "Viña Coqueta Reserva est un vin rouge de Bodegas Remírez de Ganuza, élaboré sous l’appellation DOCa Rioja (Espagne).",
+    "it": "Viña Coqueta Reserva è un vino rosso di Bodegas Remírez de Ganuza, prodotto nella denominazione DOCa Rioja (Spagna)."
+  },
+  "body": {
+    "es": "<p>Lleva la mención Reserva. Su graduación es de 14,5 % vol.</p><p>Bodega de Samaniego, en la Rioja Alavesa, fundada en 1989 por Fernando Remírez de Ganuza, conocida por su minuciosa selección de la uva, que separa las distintas partes del racimo.</p><p>Rioja, en el valle del Ebro, fue en 1991 la primera Denominación de Origen Calificada de España. Es conocida sobre todo por sus tintos de Tempranillo y por su larga tradición de crianza en barrica de roble.</p>",
+    "en": "<p>It carries the Reserva designation. It has 14.5% ABV.</p><p>Winery in Samaniego, Rioja Alavesa, founded in 1989 by Fernando Remírez de Ganuza and known for its meticulous grape selection, which separates the different parts of the bunch.</p><p>Rioja, in the Ebro valley, became Spain's first Qualified Designation of Origin in 1991. It is best known for its Tempranillo-based reds and its long tradition of ageing in oak barrels.</p>",
+    "fr": "<p>Il porte la mention Reserva. Il titre 14,5 % vol.</p><p>Bodega de Samaniego, dans la Rioja Alavesa, fondée en 1989 par Fernando Remírez de Ganuza et connue pour sa sélection minutieuse du raisin, qui sépare les différentes parties de la grappe.</p><p>La Rioja, dans la vallée de l'Èbre, est devenue en 1991 la première dénomination d'origine qualifiée d'Espagne. Elle est surtout connue pour ses rouges à base de tempranillo et sa longue tradition d'élevage en barrique de chêne.</p>",
+    "it": "<p>Riporta la menzione Reserva. Ha 14,5% vol.</p><p>Cantina di Samaniego, nella Rioja Alavesa, fondata nel 1989 da Fernando Remírez de Ganuza, nota per la minuziosa selezione delle uve, che separa le diverse parti del grappolo.</p><p>La Rioja, nella valle dell'Ebro, è diventata nel 1991 la prima Denominazione di origine qualificata di Spagna. È nota soprattutto per i rossi a base di Tempranillo e per la lunga tradizione di affinamento in botte di rovere.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Viña Coqueta Reserva Remírez de Ganuza",
+  "brief": true,
+  "source": "decantalo"
+}

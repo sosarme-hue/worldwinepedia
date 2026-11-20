@@ -1,0 +1,50 @@
+{
+  "slug": "castello-banfi-centine",
+  "name": "Banfi Centine Rosso",
+  "winery": "castello-banfi",
+  "region": "toscana",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "Toscana IGT",
+    "en": "Toscana IGT",
+    "fr": "Toscana IGT",
+    "it": "Toscana IGT"
+  },
+  "grapes": [
+    "sangiovese",
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Tinto toscano de Castello Banfi elaborado en Montalcino con Sangiovese, Cabernet Sauvignon y Merlot, una de las etiquetas más asequibles de la casa.",
+    "en": "Tuscan red from Castello Banfi made in Montalcino from Sangiovese, Cabernet Sauvignon and Merlot, one of the house’s most affordable labels.",
+    "fr": "Rouge toscan de Castello Banfi élaboré à Montalcino avec du sangiovese, du cabernet sauvignon et du merlot, l’une des étiquettes les plus abordables de la maison.",
+    "it": "Rosso toscano di Castello Banfi prodotto a Montalcino con Sangiovese, Cabernet Sauvignon e Merlot, una delle etichette più accessibili della casa."
+  },
+  "body": {
+    "es": "<p><strong>Centine</strong> es una de las líneas más difundidas de Castello Banfi, la gran finca de la vertiente sur de Montalcino. A diferencia del Brunello, que debe elaborarse solo con Sangiovese y tener una crianza larga, este vino se comercializa como Toscana IGT, lo que permite combinar variedades y salir al mercado mucho antes.</p><p>Se elabora con <strong>Sangiovese</strong>, <strong>Cabernet Sauvignon</strong> y <strong>Merlot</strong> de los viñedos de la finca; las proporciones varían según la añada. Las variedades se vinifican por separado y el vino pasa un periodo breve en roble, suficiente para redondearlo sin restar protagonismo a la fruta.</p><p>Es un tinto joven, de cuerpo medio y estilo afrutado, pensado para el consumo cotidiano. Ofrece una forma sencilla de acercarse a los vinos de Montalcino, aunque su perfil es muy distinto al de los Brunello de la casa.</p>",
+    "en": "<p><strong>Centine</strong> is one of the most widely available lines from Castello Banfi, the large estate on the southern side of Montalcino. Unlike Brunello, which must be made solely from Sangiovese and aged for a long time, this wine is sold as Toscana IGT, which allows varieties to be blended and the wine to be released much sooner.</p><p>It is made from <strong>Sangiovese</strong>, <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong> from the estate’s vineyards; the proportions vary with the vintage. The varieties are vinified separately and the wine spends a short period in oak, enough to round it out without overshadowing the fruit.</p><p>It is a young, medium-bodied red in a fruity style, intended for everyday drinking. It offers a simple way into the wines of Montalcino, although its profile is very different from that of the house’s Brunellos.</p>",
+    "fr": "<p><strong>Centine</strong> est l’une des lignes les plus diffusées de Castello Banfi, le grand domaine du versant sud de Montalcino. Contrairement au brunello, qui doit être élaboré uniquement avec du sangiovese et longuement élevé, ce vin est commercialisé en Toscana IGT, ce qui permet d’assembler les cépages et de le mettre en vente bien plus tôt.</p><p>Il est élaboré avec du <strong>sangiovese</strong>, du <strong>cabernet sauvignon</strong> et du <strong>merlot</strong> des vignes du domaine ; les proportions varient selon le millésime. Les cépages sont vinifiés séparément et le vin passe une courte période sous bois, suffisante pour l’arrondir sans éclipser le fruit.</p><p>C’est un rouge jeune, de corps moyen et de style fruité, destiné à la consommation quotidienne. Il offre une façon simple d’aborder les vins de Montalcino, même si son profil est très différent de celui des brunellos de la maison.</p>",
+    "it": "<p><strong>Centine</strong> è una delle linee più diffuse di Castello Banfi, la grande tenuta del versante sud di Montalcino. A differenza del Brunello, che deve essere prodotto solo con Sangiovese e affinato a lungo, questo vino è commercializzato come Toscana IGT, il che consente di unire più vitigni e di uscire sul mercato molto prima.</p><p>Si produce con <strong>Sangiovese</strong>, <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong> dei vigneti della tenuta; le proporzioni variano a seconda dell’annata. I vitigni sono vinificati separatamente e il vino sosta brevemente in rovere, quanto basta per arrotondarlo senza togliere protagonismo al frutto.</p><p>È un rosso giovane, di medio corpo e stile fruttato, pensato per il consumo quotidiano. Offre un modo semplice per avvicinarsi ai vini di Montalcino, anche se il suo profilo è molto diverso da quello dei Brunello della casa.</p>"
+  },
+  "tasting": {
+    "es": "Rubí violáceo. Aromas de cereza, ciruela, frutos rojos y un toque de vainilla. Boca suave, afrutada y de taninos amables.",
+    "en": "Purple-tinged ruby. Aromas of cherry, plum, red berries and a touch of vanilla. Smooth, fruity palate with gentle tannins.",
+    "fr": "Rubis violacé. Arômes de cerise, de prune, de fruits rouges et une touche de vanille. Bouche souple et fruitée, aux tanins aimables.",
+    "it": "Rubino violaceo. Profumi di ciliegia, prugna, frutti rossi e un tocco di vaniglia. Bocca morbida e fruttata, con tannini gentili."
+  },
+  "pairing": {
+    "es": "Pizza, pasta con tomate, carnes a la parrilla, hamburguesas, quesos semicurados",
+    "en": "Pizza, pasta with tomato, grilled meat, burgers, semi-aged cheeses",
+    "fr": "Pizza, pâtes à la tomate, viandes grillées, burgers, fromages mi-affinés",
+    "it": "Pizza, pasta al pomodoro, carni alla griglia, hamburger, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Banfi Centine Rosso Toscana"
+}

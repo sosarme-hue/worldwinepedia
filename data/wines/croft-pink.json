@@ -1,0 +1,50 @@
+{
+  "slug": "croft-pink",
+  "name": "Croft Pink",
+  "winery": "croft",
+  "region": "porto",
+  "country": "portugal",
+  "type": "generoso",
+  "category": {
+    "es": "Rosé",
+    "en": "Rosé",
+    "fr": "Rosé",
+    "it": "Rosé"
+  },
+  "grapes": [
+    "touriga-nacional",
+    "touriga-franca",
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Oporto rosado de Croft, presentado como el primero de su categoría, de fruta roja fresca y pensado para servirse frío, solo, con hielo o en combinados.",
+    "en": "Croft’s rosé Port, presented as the first of its category, with fresh red fruit and designed to be served chilled, on its own, over ice or in mixed drinks.",
+    "fr": "Porto rosé de Croft, présenté comme le premier de sa catégorie, au fruit rouge frais et conçu pour être servi frais, seul, sur glace ou en cocktail.",
+    "it": "Porto rosato di Croft, presentato come il primo della sua categoria, dal frutto rosso fresco e pensato per essere servito freddo, da solo, con ghiaccio o in miscelazione."
+  },
+  "body": {
+    "es": "<p>Croft Pink abrió en la década de 2000 una nueva categoría, la del <strong>Oporto rosado</strong>, aprobada por el organismo regulador. El objetivo era ofrecer un Oporto joven y desenfadado, que se tomara frío como aperitivo o en combinados, y atraer a nuevos consumidores hacia el vino de Oporto.</p><p>Se elabora con uvas tintas tradicionales del Douro, como la Touriga Nacional, la Touriga Franca y la Tinta Roriz (Tempranillo), en proporciones variables. La técnica se inspira en la de los vinos rosados: el mosto permanece en contacto con las pieles solo durante un tiempo breve, lo suficiente para extraer un color rosado y aromas frutales, y fermenta a temperatura controlada. Como en cualquier Oporto, la fermentación se detiene con aguardiente vínica, de modo que el vino conserva dulzor natural y una graduación elevada.</p><p>No tiene crianza prolongada y se embotella joven para preservar su frescura. Se suele servir muy frío, con hielo o mezclado con tónica, y es uno de los Oportos más utilizados en coctelería.</p>",
+    "en": "<p>In the 2000s Croft Pink opened a new category, that of <strong>rosé Port</strong>, approved by the regulatory body. The aim was to offer a young, informal Port to be drunk chilled as an aperitif or in mixed drinks, and to attract new drinkers to Port.</p><p>It is made from traditional red Douro grapes such as Touriga Nacional, Touriga Franca and Tinta Roriz (Tempranillo), in variable proportions. The technique is inspired by that of rosé wines: the must stays in contact with the skins only for a short time, just long enough to extract a pink colour and fruity aromas, and ferments at a controlled temperature. As with any Port, fermentation is stopped with grape spirit, so the wine keeps natural sweetness and a high alcohol level.</p><p>It has no extended ageing and is bottled young to preserve its freshness. It is usually served well chilled, over ice or mixed with tonic, and is one of the Ports most often used in cocktails.</p>",
+    "fr": "<p>Dans les années 2000, le Croft Pink a ouvert une nouvelle catégorie, celle du <strong>porto rosé</strong>, approuvée par l’organisme de régulation. L’objectif était de proposer un porto jeune et décontracté, à boire frais en apéritif ou en cocktail, et d’attirer de nouveaux consommateurs vers le porto.</p><p>Il est élaboré avec des raisins rouges traditionnels du Douro, comme la touriga nacional, la touriga franca et la tinta roriz (tempranillo), en proportions variables. La technique s’inspire de celle des vins rosés : le moût ne reste en contact avec les peaux que peu de temps, juste assez pour extraire une couleur rose et des arômes fruités, et fermente à température contrôlée. Comme pour tout porto, la fermentation est arrêtée par l’ajout d’eau-de-vie de vin, de sorte que le vin conserve une douceur naturelle et un degré élevé.</p><p>Il ne connaît pas d’élevage prolongé et il est mis en bouteille jeune pour préserver sa fraîcheur. On le sert généralement bien frais, sur glace ou allongé de tonic, et c’est l’un des portos les plus utilisés en mixologie.</p>",
+    "it": "<p>Negli anni Duemila il Croft Pink ha aperto una nuova categoria, quella del <strong>Porto rosato</strong>, approvata dall’ente regolatore. L’obiettivo era offrire un Porto giovane e informale, da bere fresco come aperitivo o in miscelazione, e avvicinare nuovi consumatori al Porto.</p><p>È prodotto con uve rosse tradizionali del Douro, come Touriga Nacional, Touriga Franca e Tinta Roriz (Tempranillo), in proporzioni variabili. La tecnica si ispira a quella dei vini rosati: il mosto resta a contatto con le bucce solo per poco tempo, quanto basta per estrarre un colore rosa e aromi fruttati, e fermenta a temperatura controllata. Come per ogni Porto, la fermentazione è interrotta con acquavite di vino, così che il vino conserva dolcezza naturale e una gradazione elevata.</p><p>Non ha un affinamento prolungato e viene imbottigliato giovane per preservarne la freschezza. Di solito si serve ben freddo, con ghiaccio o allungato con acqua tonica, ed è uno dei Porto più usati nella mixology.</p>"
+  },
+  "tasting": {
+    "es": "Color rosa intenso. Aromas de frambuesa, fresa, cereza y un toque floral. En boca es dulce, fresco y frutal, con una textura ligera.",
+    "en": "Intense pink colour. Aromas of raspberry, strawberry, cherry and a floral touch. Sweet, fresh and fruity on the palate, with a light texture.",
+    "fr": "Robe rose intense. Arômes de framboise, de fraise, de cerise et une touche florale. En bouche, il est doux, frais et fruité, avec une texture légère.",
+    "it": "Colore rosa intenso. Aromi di lampone, fragola, ciliegia e un tocco floreale. In bocca è dolce, fresco e fruttato, con una trama leggera."
+  },
+  "pairing": {
+    "es": "Aperitivo con hielo o tónica, macedonia de frutos rojos, postres de fresa, quesos frescos",
+    "en": "Aperitif over ice or with tonic, red fruit salad, strawberry desserts, fresh cheeses",
+    "fr": "Apéritif sur glace ou avec du tonic, salade de fruits rouges, desserts à la fraise, fromages frais",
+    "it": "Aperitivo con ghiaccio o acqua tonica, macedonia di frutti rossi, dolci alla fragola, formaggi freschi"
+  },
+  "serve": {
+    "es": "4-6 °C, solo o con hielo, copa de vino o vaso ancho",
+    "en": "4-6 °C, neat or over ice, wine glass or tumbler",
+    "fr": "4-6 °C, nature ou sur glace, verre à vin ou gobelet",
+    "it": "4-6 °C, liscio o con ghiaccio, calice da vino o tumbler"
+  },
+  "search": "Croft Pink Rosé Port"
+}

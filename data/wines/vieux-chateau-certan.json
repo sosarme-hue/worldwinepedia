@@ -1,0 +1,45 @@
+{
+  "slug": "vieux-chateau-certan",
+  "name": "Vieux Château Certan",
+  "winery": "vieux-chateau-certan",
+  "region": "pomerol",
+  "country": "francia",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "merlot",
+    "cabernet-franc",
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "Gran vino de Vieux Château Certan, un Pomerol de Merlot con una parte notable de Cabernet Franc, fresco, aromático y de larga guarda.",
+    "en": "Grand vin of Vieux Château Certan, a Pomerol of Merlot with a notable share of Cabernet Franc, fresh, aromatic and long-lived.",
+    "fr": "Grand vin de Vieux Château Certan, un pomerol de merlot avec une part notable de cabernet franc, frais, aromatique et de longue garde.",
+    "it": "Grand vin di Vieux Château Certan, un Pomerol di Merlot con una quota notevole di Cabernet Franc, fresco, aromatico e longevo."
+  },
+  "body": {
+    "es": "<p>El gran vino de <strong>Vieux Château Certan</strong> procede del viñedo de la finca en la meseta de <strong>Pomerol</strong>, sobre suelos de arcillas y gravas. Se elabora mayoritariamente con <strong>Merlot</strong>, pero con una proporción de <strong>Cabernet Franc</strong> claramente superior a la habitual en la denominación y, en algunas añadas, un pequeño aporte de Cabernet Sauvignon.</p><p>Las parcelas se vendimian a mano y se vinifican por separado; la selección para el gran vino es estricta y el resto se destina al segundo vino. La crianza se realiza en barricas de roble francés.</p><p>El resultado es un Pomerol de estilo propio, que combina la textura sedosa y la fruta madura del Merlot con el frescor, las notas florales y la tensión que aporta el Cabernet Franc. Joven puede resultar reservado; con la guarda desarrolla una gran complejidad aromática. Es uno de los vinos de referencia de la orilla derecha.</p>",
+    "en": "<p>The grand vin of <strong>Vieux Château Certan</strong> comes from the estate’s vineyard on the <strong>Pomerol</strong> plateau, on clay and gravel soils. It is made mostly from <strong>Merlot</strong>, but with a proportion of <strong>Cabernet Franc</strong> clearly higher than is usual in the appellation and, in some vintages, a small contribution of Cabernet Sauvignon.</p><p>The plots are harvested by hand and vinified separately; selection for the grand vin is strict and the rest goes into the second wine. Ageing takes place in French oak barrels.</p><p>The result is a Pomerol with a style of its own, combining the silky texture and ripe fruit of Merlot with the freshness, floral notes and tension contributed by Cabernet Franc. When young it can be reserved; with cellaring it develops great aromatic complexity. It is one of the benchmark wines of the Right Bank and a classic reference for lovers of Pomerol.</p>",
+    "fr": "<p>Le grand vin de <strong>Vieux Château Certan</strong> provient du vignoble du domaine sur le plateau de <strong>Pomerol</strong>, sur des sols d’argiles et de graves. Il est élaboré majoritairement à partir de <strong>merlot</strong>, mais avec une proportion de <strong>cabernet franc</strong> nettement supérieure à la moyenne de l’appellation et, certaines années, un petit apport de cabernet sauvignon.</p><p>Les parcelles sont vendangées à la main et vinifiées séparément ; la sélection pour le grand vin est stricte et le reste est destiné au second vin. L’élevage se fait en barriques de chêne français.</p><p>Le résultat est un pomerol au style singulier, qui associe la texture soyeuse et le fruit mûr du merlot à la fraîcheur, aux notes florales et à la tension qu’apporte le cabernet franc. Jeune, il peut se montrer réservé ; avec la garde, il développe une grande complexité aromatique. C’est l’un des vins de référence de la rive droite.</p>",
+    "it": "<p>Il grand vin di <strong>Vieux Château Certan</strong> proviene dal vigneto della tenuta sull’altopiano di <strong>Pomerol</strong>, su suoli di argille e ghiaie. Si produce in prevalenza con <strong>Merlot</strong>, ma con una quota di <strong>Cabernet Franc</strong> nettamente superiore a quella abituale nella denominazione e, in alcune annate, un piccolo apporto di Cabernet Sauvignon.</p><p>Le parcelle sono vendemmiate a mano e vinificate separatamente; la selezione per il grand vin è rigorosa e il resto è destinato al secondo vino. L’affinamento avviene in barrique di rovere francese.</p><p>Il risultato è un Pomerol dallo stile proprio, che unisce la trama setosa e il frutto maturo del Merlot alla freschezza, alle note floreali e alla tensione apportate dal Cabernet Franc. Da giovane può risultare chiuso; con l’invecchiamento sviluppa una grande complessità aromatica. È uno dei vini di riferimento della riva destra.</p>"
+  },
+  "tasting": {
+    "es": "Granate profundo. Aromas de cereza negra, ciruela, violeta, especias y notas de trufa con la edad. Boca sedosa y fresca, de taninos finos y final muy largo.",
+    "en": "Deep garnet. Aromas of black cherry, plum, violet, spices and truffle notes with age. Silky, fresh palate with fine tannins and a very long finish.",
+    "fr": "Grenat profond. Arômes de cerise noire, de prune, de violette, d’épices et notes de truffe avec l’âge. Bouche soyeuse et fraîche, aux tanins fins, finale très longue.",
+    "it": "Granato profondo. Aromi di ciliegia nera, prugna, violetta, spezie e note di tartufo con l’età. Bocca setosa e fresca, dai tannini fini e finale molto lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, entrecot a la parrilla, caza menor, quesos curados",
+    "en": "Roast lamb, grilled rib-eye, small game, aged cheeses",
+    "fr": "Agneau rôti, entrecôte grillée, petit gibier, fromages affinés",
+    "it": "Agnello arrosto, costata alla griglia, selvaggina minuta, formaggi stagionati"
+  },
+  "serve": {
+    "es": "17-18 °C, copa de Burdeos; decantar en añadas jóvenes",
+    "en": "17-18 °C, Bordeaux glass; decant when young",
+    "fr": "17-18 °C, verre de type bordelais ; carafer dans les millésimes jeunes",
+    "it": "17-18 °C, calice tipo Bordeaux; decantare nelle annate giovani"
+  },
+  "search": "Vieux Château Certan Pomerol"
+}

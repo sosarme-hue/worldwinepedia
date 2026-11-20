@@ -1,0 +1,40 @@
+{
+  "slug": "maruxa-godello",
+  "name": "Maruxa Godello",
+  "winery": null,
+  "winery_name": "Virgen del Galir",
+  "region": "valdeorras",
+  "country": "espana",
+  "appellation": "DO Valdeorras",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Maruxa Godello es un vino blanco de Virgen del Galir, con la denominación DO Valdeorras, en España.",
+    "en": "Maruxa Godello is a white wine from Virgen del Galir, made under the DO Valdeorras appellation in Spain.",
+    "fr": "Maruxa Godello est un vin blanc de Virgen del Galir, élaboré sous l’appellation DO Valdeorras (Espagne).",
+    "it": "Maruxa Godello è un vino bianco di Virgen del Galir, prodotto nella denominazione DO Valdeorras (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se cría sobre sus lías. Su graduación es de 13,4 % vol.</p><p>Valdeorras, en el valle del Sil, al este de la provincia de Ourense, es una de las denominaciones de origen más antiguas de Galicia. Es la gran referencia de la uva Godello, recuperada aquí a partir de la década de 1970.</p>",
+    "en": "<p>It is aged on its lees. It has 13.4% ABV.</p><p>Valdeorras, in the Sil valley in the east of the province of Ourense, is one of the oldest designations of origin in Galicia. It is the leading reference for the Godello grape, which was revived here from the 1970s onwards.</p>",
+    "fr": "<p>Il est élevé sur lies. Il titre 13,4 % vol.</p><p>Valdeorras, dans la vallée du Sil, à l'est de la province d'Ourense, est l'une des plus anciennes dénominations d'origine de Galice. C'est la grande référence du cépage godello, remis en valeur ici à partir des années 1970.</p>",
+    "it": "<p>Affina sulle fecce fini. Ha 13,4% vol.</p><p>Valdeorras, nella valle del Sil, a est della provincia di Ourense, è una delle denominazioni di origine più antiche della Galizia. È il grande riferimento per il Godello, recuperato qui a partire dagli anni Settanta.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Maruxa Godello Virgen del Galir",
+  "brief": true,
+  "source": "decantalo"
+}

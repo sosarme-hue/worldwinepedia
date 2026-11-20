@@ -1,0 +1,41 @@
+{
+  "slug": "le-difese",
+  "name": "Le Difese",
+  "winery": "tenuta-san-guido",
+  "region": "toscana",
+  "country": "italia",
+  "type": "tinto",
+  "category": {"es": "Toscana IGT", "en": "Toscana IGT", "fr": "Toscana IGT", "it": "Toscana IGT"},
+  "grapes": ["cabernet-sauvignon", "sangiovese"],
+  "summary": {
+    "es": "El tinto más sencillo de Tenuta San Guido, que combina Cabernet Sauvignon y Sangiovese en un estilo afrutado y fácil de beber.",
+    "en": "Tenuta San Guido’s simplest red, combining Cabernet Sauvignon and Sangiovese in a fruity, easy-drinking style.",
+    "fr": "Le rouge le plus simple de la Tenuta San Guido, qui associe cabernet-sauvignon et sangiovese dans un style fruité et facile à boire.",
+    "it": "Il rosso più semplice della Tenuta San Guido, che unisce Cabernet Sauvignon e Sangiovese in uno stile fruttato e di facile beva."
+  },
+  "body": {
+    "es": "<p>Le Difese es el tercer vino de Tenuta San Guido y el de precio más asequible. Lanzado a comienzos de la década de 2000, está pensado como un tinto para el día a día que transmita el estilo de la finca sin la ambición de guarda de sus hermanos mayores.</p><p>Se elabora con Cabernet Sauvignon y Sangiovese de los viñedos de la finca en Bolgheri. La Cabernet aporta estructura y notas de fruta negra, mientras que la Sangiovese contribuye con fruta roja, frescura y la acidez característica de la variedad toscana. Tras la fermentación, el vino pasa algunos meses en barrica.</p><p>Se ampara en la IGT Toscana. Es un tinto afrutado y equilibrado, que se disfruta en sus primeros años.</p>",
+    "en": "<p>Le Difese is Tenuta San Guido’s third wine and its most affordable. Launched in the early 2000s, it is conceived as an everyday red that conveys the estate’s style without the ageing ambitions of its older siblings.</p><p>It is made from Cabernet Sauvignon and Sangiovese from the estate’s vineyards in Bolgheri. The Cabernet brings structure and black-fruit notes, while the Sangiovese contributes red fruit, freshness and the characteristic acidity of the Tuscan variety. After fermentation the wine spends a few months in barriques.</p><p>It is labelled as Toscana IGT. It is a fruity, balanced red, best enjoyed in its first few years.</p>",
+    "fr": "<p>Le Difese est le troisième vin de la Tenuta San Guido et le plus abordable. Lancé au début des années 2000, il est conçu comme un rouge de tous les jours qui transmet le style du domaine sans l’ambition de garde de ses aînés.</p><p>Il est élaboré avec du cabernet-sauvignon et du sangiovese des vignes du domaine à Bolgheri. Le cabernet apporte structure et notes de fruits noirs, tandis que le sangiovese contribue par ses fruits rouges, sa fraîcheur et l’acidité caractéristique du cépage toscan. Après la fermentation, le vin passe quelques mois en barriques.</p><p>Il relève de l’IGT Toscana. C’est un rouge fruité et équilibré, à apprécier dans ses premières années.</p>",
+    "it": "<p>Le Difese è il terzo vino della Tenuta San Guido e il più accessibile nel prezzo. Lanciato all’inizio degli anni Duemila, è pensato come un rosso quotidiano che trasmetta lo stile della tenuta senza l’ambizione d’invecchiamento dei fratelli maggiori.</p><p>È prodotto con Cabernet Sauvignon e Sangiovese dei vigneti della tenuta a Bolgheri. Il Cabernet apporta struttura e note di frutta nera, mentre il Sangiovese contribuisce con frutto rosso, freschezza e l’acidità caratteristica del vitigno toscano. Dopo la fermentazione il vino trascorre alcuni mesi in barrique.</p><p>È un IGT Toscana. È un rosso fruttato ed equilibrato, da gustare nei primi anni.</p>"
+  },
+  "tasting": {
+    "es": "Rubí brillante. Aromas de cereza, mora y ciruela, con un toque herbáceo y especiado. En boca es fresco y de cuerpo medio, con tanino suave y final afrutado.",
+    "en": "Bright ruby. Aromas of cherry, blackberry and plum, with a herbal, spicy touch. Fresh and medium-bodied on the palate, with soft tannins and a fruity finish.",
+    "fr": "Rubis brillant. Arômes de cerise, de mûre et de prune, avec une touche herbacée et épicée. En bouche, il est frais et de corps moyen, aux tanins souples et à la finale fruitée.",
+    "it": "Rubino brillante. Profumi di ciliegia, mora e prugna, con un tocco erbaceo e speziato. In bocca è fresco e di medio corpo, con tannino morbido e finale fruttato."
+  },
+  "pairing": {
+    "es": "Pasta, pizza, embutidos, carnes blancas y rojas a la parrilla",
+    "en": "Pasta, pizza, cured meats, grilled white and red meat",
+    "fr": "Pâtes, pizza, charcuterie, viandes blanches et rouges grillées",
+    "it": "Pasta, pizza, salumi, carni bianche e rosse alla griglia"
+  },
+  "serve": {
+    "es": "15-17 °C, copa mediana",
+    "en": "15-17 °C, medium-sized glass",
+    "fr": "15-17 °C, verre moyen",
+    "it": "15-17 °C, calice medio"
+  },
+  "search": "Le Difese Tenuta San Guido"
+}

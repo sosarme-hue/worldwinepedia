@@ -1,0 +1,41 @@
+{
+  "slug": "grahams-vintage-port",
+  "name": "Graham’s Vintage Port",
+  "winery": "grahams",
+  "region": "porto",
+  "country": "portugal",
+  "type": "generoso",
+  "category": {"es": "Vintage", "en": "Vintage", "fr": "Vintage", "it": "Vintage"},
+  "grapes": ["touriga-nacional", "touriga-franca"],
+  "summary": {
+    "es": "El Vintage de Graham’s, elaborado solo en años declarados a partir de quintas como Malvedos, conocido por su estilo rico y de dulzor generoso y por su gran capacidad de guarda.",
+    "en": "Graham’s Vintage Port, made only in declared years from quintas such as Malvedos, known for its rich style, generous sweetness and great ageing potential.",
+    "fr": "Le Vintage de Graham’s, élaboré seulement les années déclarées à partir de quintas comme Malvedos, connu pour son style riche, sa douceur généreuse et sa grande aptitude à la garde.",
+    "it": "Il Vintage di Graham’s, prodotto solo nelle annate dichiarate da quintas come Malvedos, noto per il suo stile ricco, la dolcezza generosa e la grande capacità di invecchiamento."
+  },
+  "body": {
+    "es": "<p>Graham’s solo declara un Vintage en los años en que considera que la cosecha tiene la calidad necesaria, con la aprobación del organismo regulador. La base del vino procede de Quinta dos Malvedos, en el Cima Corgo, junto con otras quintas propias y de viticultores asociados de la casa, y de variedades como la Touriga Nacional y la Touriga Franca.</p><p>La fermentación, a menudo en lagares, se interrumpe con aguardiente vínica para conservar parte del azúcar natural de la uva. El vino se embotella sin filtrar tras unos dos años en madera, de modo que su evolución continúa en la botella durante décadas y forma un sedimento que obliga a decantarlo. Se asocia con un estilo de fruta madura y dulzor generoso, sostenido por taninos firmes. En los años no declarados la casa puede elaborar un Vintage de Quinta dos Malvedos.</p>",
+    "en": "<p>Graham’s declares a Vintage only in years when it considers that the harvest has the necessary quality, with the approval of the regulatory body. The core of the wine comes from Quinta dos Malvedos, in the Cima Corgo, together with other quintas owned by the house or belonging to its partner growers, and from varieties such as Touriga Nacional and Touriga Franca.</p><p>Fermentation, often in lagares, is stopped with grape spirit to retain some of the grapes’ natural sugar. The wine is bottled unfiltered after about two years in wood, so its development continues in bottle for decades and it throws a sediment that makes decanting necessary. It is associated with a style of ripe fruit and generous sweetness, supported by firm tannins. In undeclared years the house may produce a Quinta dos Malvedos Vintage.</p>",
+    "fr": "<p>Graham’s ne déclare un Vintage que les années où elle estime que la récolte a la qualité requise, avec l’approbation de l’organisme de régulation. Le cœur du vin provient de la Quinta dos Malvedos, dans le Cima Corgo, ainsi que d’autres quintas de la maison ou de viticulteurs partenaires, et de cépages comme la touriga nacional et la touriga franca.</p><p>La fermentation, souvent en lagares, est arrêtée par l’ajout d’eau-de-vie de vin afin de conserver une partie du sucre naturel du raisin. Le vin est mis en bouteille sans filtration après environ deux ans sous bois, si bien qu’il continue d’évoluer en bouteille pendant des décennies et forme un dépôt qui impose le carafage. Il est associé à un style au fruit mûr et à la douceur généreuse, soutenu par des tanins fermes. Les années non déclarées, la maison peut élaborer un Vintage de la Quinta dos Malvedos.</p>",
+    "it": "<p>Graham’s dichiara un Vintage soltanto negli anni in cui ritiene che la vendemmia abbia la qualità necessaria, con l’approvazione dell’ente regolatore. Il cuore del vino proviene dalla Quinta dos Malvedos, nel Cima Corgo, insieme ad altre quintas della casa o di viticoltori associati, e da varietà come Touriga Nacional e Touriga Franca.</p><p>La fermentazione, spesso nei lagares, viene interrotta con acquavite di vino per conservare parte dello zucchero naturale dell’uva. Il vino viene imbottigliato senza filtrazione dopo circa due anni in legno, così che la sua evoluzione prosegue in bottiglia per decenni e forma un deposito che rende necessaria la decantazione. È associato a uno stile di frutto maturo e dolcezza generosa, sostenuto da tannini decisi. Negli anni non dichiarati la casa può produrre un Vintage di Quinta dos Malvedos.</p>"
+  },
+  "tasting": {
+    "es": "De joven, color casi opaco y aromas de moras, cassis, violeta y especias. En boca es rico, dulce y concentrado, con taninos firmes; con la edad gana complejidad y notas de fruta confitada.",
+    "en": "When young, almost opaque colour and aromas of blackberry, blackcurrant, violet and spice. Rich, sweet and concentrated on the palate, with firm tannins; with age it gains complexity and candied-fruit notes.",
+    "fr": "Jeune, couleur presque opaque et arômes de mûre, de cassis, de violette et d’épices. En bouche, il est riche, doux et concentré, avec des tanins fermes ; avec l’âge, il gagne en complexité et en notes de fruits confits.",
+    "it": "Da giovane, colore quasi impenetrabile e aromi di mora, cassis, violetta e spezie. In bocca è ricco, dolce e concentrato, con tannini decisi; con l’età acquista complessità e note di frutta candita."
+  },
+  "pairing": {
+    "es": "Stilton y otros quesos azules, chocolate negro, nueces",
+    "en": "Stilton and other blue cheeses, dark chocolate, walnuts",
+    "fr": "Stilton et autres fromages persillés, chocolat noir, noix",
+    "it": "Stilton e altri formaggi erborinati, cioccolato fondente, noci"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa de vino generoso",
+    "en": "16-18 °C, decanted, Port glass",
+    "fr": "16-18 °C, carafé, verre à porto",
+    "it": "16-18 °C, decantato, calice da Porto"
+  },
+  "search": "Graham's Vintage Port"
+}

@@ -1,0 +1,1 @@
+Fichas de Decantalo de más de 40 € aún sin texto completo. No se publican: build.py solo lee data/wines. Cuando estén completas, muévelas a data/wines y devuelve su entrada de decantalo-pendientes.json a data/decantalo.json.

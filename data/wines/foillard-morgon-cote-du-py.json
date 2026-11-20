@@ -1,0 +1,48 @@
+{
+  "slug": "foillard-morgon-cote-du-py",
+  "name": "Morgon Côte du Py",
+  "winery": "jean-foillard",
+  "region": "beaujolais",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Morgon",
+    "en": "Morgon",
+    "fr": "Morgon",
+    "it": "Morgon"
+  },
+  "grapes": [
+    "gamay"
+  ],
+  "summary": {
+    "es": "Morgon de Jean Foillard procedente de la Côte du Py, una colina de esquistos y rocas volcánicas alteradas, uno de los sectores más reputados del cru.",
+    "en": "Morgon by Jean Foillard from the Côte du Py, a hill of schist and weathered volcanic rock, one of the cru’s most highly regarded sectors.",
+    "fr": "Morgon de Jean Foillard issu de la Côte du Py, une colline de schistes et de roches volcaniques altérées, l’un des secteurs les plus réputés du cru.",
+    "it": "Morgon di Jean Foillard proveniente dalla Côte du Py, una collina di scisti e rocce vulcaniche alterate, uno dei settori più rinomati del cru."
+  },
+  "body": {
+    "es": "<p>La Côte du Py es una colina situada al este del pueblo de Villié-Morgon y uno de los <em>climats</em> más reputados del cru Morgon. Sus suelos, de esquistos y rocas de origen volcánico muy descompuestas, conocidas localmente como <em>roches pourries</em>, dan vinos más estructurados y profundos que los de otras zonas del Beaujolais. A este carácter se refiere el verbo local <em>morgonner</em>, que describe la evolución de los grandes Morgon hacia notas que recuerdan al Pinot Noir.</p><p>Jean Foillard elabora este vino con <strong>Gamay</strong> de viñas viejas de la colina, vendimiadas a mano y tarde para obtener una buena madurez. Los racimos enteros fermentan con levaduras autóctonas en una maceración semicarbónica, y el vino se cría en fudres y barricas usados durante varios meses. El uso del azufre es mínimo.</p><p>Es un tinto profundo y de buena estructura, que en su juventud muestra fruta negra y roja y que puede envejecer durante muchos años, ganando en complejidad.</p>",
+    "en": "<p>The Côte du Py is a hill east of the village of Villié-Morgon and one of the most highly regarded <em>climats</em> of the Morgon cru. Its soils of schist and heavily decomposed volcanic rock, known locally as <em>roches pourries</em>, produce wines that are more structured and deeper than those of other parts of Beaujolais. This character is what the local verb <em>morgonner</em> refers to, describing the way great Morgons evolve towards notes reminiscent of Pinot Noir.</p><p>Jean Foillard makes this wine from old-vine <strong>Gamay</strong> on the hill, hand-picked and late to achieve good ripeness. Whole bunches ferment with indigenous yeasts in a semi-carbonic maceration, and the wine is aged in used casks and barrels for several months. Sulphur use is minimal.</p><p>It is a deep, well-structured red which in its youth shows black and red fruit and can age for many years, gaining complexity.</p>",
+    "fr": "<p>La Côte du Py est une colline située à l’est du village de Villié-Morgon et l’un des <em>climats</em> les plus réputés du cru Morgon. Ses sols de schistes et de roches volcaniques très décomposées, appelées localement <em>roches pourries</em>, donnent des vins plus structurés et plus profonds que ceux d’autres secteurs du Beaujolais. C’est à ce caractère que renvoie le verbe local <em>morgonner</em>, qui décrit l’évolution des grands morgons vers des notes rappelant le pinot noir.</p><p>Jean Foillard élabore ce vin à partir de vieux <strong>gamays</strong> de la colline, vendangés à la main et tardivement pour obtenir une bonne maturité. Les grappes entières fermentent avec des levures indigènes en macération semi-carbonique, et le vin est élevé plusieurs mois en foudres et fûts usagés. L’usage du soufre est minimal.</p><p>C’est un rouge profond et bien structuré, qui montre dans sa jeunesse des fruits noirs et rouges et peut vieillir de nombreuses années en gagnant en complexité.</p>",
+    "it": "<p>La Côte du Py è una collina a est del paese di Villié-Morgon e uno dei <em>climats</em> più rinomati del cru Morgon. I suoi suoli di scisti e rocce vulcaniche molto decomposte, note localmente come <em>roches pourries</em>, danno vini più strutturati e profondi di quelli di altre zone del Beaujolais. A questo carattere si riferisce il verbo locale <em>morgonner</em>, che descrive l’evoluzione dei grandi Morgon verso note che ricordano il Pinot Noir.</p><p>Jean Foillard produce questo vino con <strong>Gamay</strong> di vecchie vigne della collina, vendemmiato a mano e tardi per ottenere una buona maturità. I grappoli interi fermentano con lieviti indigeni in macerazione semicarbonica, e il vino affina per diversi mesi in botti e barrique usate. L’uso dello zolfo è minimo.</p><p>È un rosso profondo e ben strutturato, che in gioventù mostra frutta nera e rossa e può invecchiare per molti anni, guadagnando complessità.</p>"
+  },
+  "tasting": {
+    "es": "Rojo granate. Aromas de cereza negra, frambuesa, violeta, especias y notas minerales. Boca profunda y jugosa, de taninos firmes y finos, con final largo.",
+    "en": "Garnet red. Aromas of black cherry, raspberry, violet, spice and mineral notes. Deep, juicy palate with firm, fine tannins and a long finish.",
+    "fr": "Rouge grenat. Arômes de cerise noire, de framboise, de violette, d’épices et notes minérales. Bouche profonde et juteuse, aux tanins fermes et fins, à la finale longue.",
+    "it": "Rosso granato. Aromi di ciliegia nera, lampone, violetta, spezie e note minerali. Bocca profonda e succosa, dai tannini decisi e fini, con finale lungo."
+  },
+  "pairing": {
+    "es": "Coq au vin, pato, caza de pluma, quesos de pasta prensada",
+    "en": "Coq au vin, duck, feathered game, pressed cheeses",
+    "fr": "Coq au vin, canard, gibier à plume, fromages à pâte pressée",
+    "it": "Coq au vin, anatra, selvaggina da piuma, formaggi a pasta pressata"
+  },
+  "serve": {
+    "es": "14-15 °C, copa de tipo Borgoña",
+    "en": "14-15 °C, Burgundy-style glass",
+    "fr": "14-15 °C, verre de type bourguignon",
+    "it": "14-15 °C, calice tipo Borgogna"
+  },
+  "search": "Jean Foillard Morgon Côte du Py"
+}

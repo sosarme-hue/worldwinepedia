@@ -1,0 +1,41 @@
+{
+  "slug": "veuve-clicquot-la-grande-dame",
+  "name": "Veuve Clicquot La Grande Dame",
+  "winery": "veuve-clicquot",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {"es": "Brut de añada, cuvée de prestigio", "en": "Vintage brut, prestige cuvée", "fr": "Brut millésimé, cuvée de prestige", "it": "Brut millesimato, cuvée di prestigio"},
+  "grapes": ["pinot-noir", "chardonnay"],
+  "summary": {
+    "es": "La cuvée de prestigio de Veuve Clicquot, un champagne de añada dedicado a Madame Clicquot y basado en Pinot Noir de grands crus.",
+    "en": "Veuve Clicquot’s prestige cuvée, a vintage champagne dedicated to Madame Clicquot and based on Grand Cru Pinot Noir.",
+    "fr": "La cuvée de prestige de Veuve Clicquot, un champagne millésimé dédié à Madame Clicquot et fondé sur le pinot noir de grands crus.",
+    "it": "La cuvée di prestigio di Veuve Clicquot, uno champagne millesimato dedicato a Madame Clicquot e basato sul Pinot Noir dei grand cru."
+  },
+  "body": {
+    "es": "<p>La Grande Dame es el champagne más ambicioso de Veuve Clicquot y rinde homenaje a Barbe-Nicole Ponsardin, la viuda que dio nombre a la casa. Se elabora sólo en las añadas que la casa considera excepcionales, con uvas de viñedos clasificados como grands crus, y el Pinot Noir es su variedad dominante, acompañado de Chardonnay.</p><p>A diferencia del brut sin añada, no incorpora vinos de reserva: expresa el carácter de un único año. Tras la segunda fermentación en botella, permanece varios años sobre sus lías en las bodegas de Reims antes del degüelle, lo que le aporta complejidad y una textura más cremosa.</p><p>Es un champagne pensado para la mesa y para la guarda, que puede seguir evolucionando en botella durante años.</p>",
+    "en": "<p>La Grande Dame is Veuve Clicquot’s most ambitious champagne and pays tribute to Barbe-Nicole Ponsardin, the widow who gave the house its name. It is made only in vintages the house considers exceptional, from vineyards classified as grands crus, and Pinot Noir is its dominant variety, accompanied by Chardonnay.</p><p>Unlike the non-vintage brut, it contains no reserve wines: it expresses the character of a single year. After the second fermentation in bottle, it spends several years on its lees in the Reims cellars before disgorgement, which gives it complexity and a creamier texture.</p><p>It is a champagne designed for the table and for cellaring, and it can continue to evolve in bottle for years.</p>",
+    "fr": "<p>La Grande Dame est le champagne le plus ambitieux de Veuve Clicquot et rend hommage à Barbe-Nicole Ponsardin, la veuve qui a donné son nom à la maison. Il n’est élaboré que dans les années que la maison juge exceptionnelles, à partir de vignes classées en grands crus, et le pinot noir en est le cépage dominant, accompagné de chardonnay.</p><p>Contrairement au brut sans année, il ne comprend pas de vins de réserve : il exprime le caractère d’une seule année. Après la seconde fermentation en bouteille, il repose plusieurs années sur lies dans les caves de Reims avant le dégorgement, ce qui lui apporte complexité et texture plus crémeuse.</p><p>C’est un champagne pensé pour la table et pour la garde, qui peut continuer à évoluer en bouteille pendant des années.</p>",
+    "it": "<p>La Grande Dame è lo champagne più ambizioso di Veuve Clicquot e rende omaggio a Barbe-Nicole Ponsardin, la vedova che diede il nome alla casa. Si produce solo nelle annate che la maison ritiene eccezionali, con uve di vigneti classificati grand cru, e il Pinot Noir è la varietà dominante, affiancato dallo Chardonnay.</p><p>A differenza del brut senza annata, non contiene vini di riserva: esprime il carattere di un solo anno. Dopo la seconda fermentazione in bottiglia, resta diversi anni sui lieviti nelle cantine di Reims prima della sboccatura, il che gli conferisce complessità e una consistenza più cremosa.</p><p>È uno champagne pensato per la tavola e per l’invecchiamento, che può continuare a evolversi in bottiglia per anni.</p>"
+  },
+  "tasting": {
+    "es": "Dorado con burbuja muy fina. Aromas de fruta blanca madura, cítricos, flores y notas de tostado y almendra. En boca es amplio y preciso, con acidez fresca y final largo.",
+    "en": "Golden with very fine bubbles. Aromas of ripe white fruit, citrus, flowers and notes of toast and almond. Broad and precise on the palate, with fresh acidity and a long finish.",
+    "fr": "Doré à la bulle très fine. Arômes de fruits blancs mûrs, d’agrumes, de fleurs, avec des notes de grillé et d’amande. En bouche, ample et précis, à l’acidité fraîche et à la finale longue.",
+    "it": "Dorato con perlage finissimo. Aromi di frutta bianca matura, agrumi, fiori e note di tostatura e mandorla. In bocca è ampio e preciso, con acidità fresca e finale lungo."
+  },
+  "pairing": {
+    "es": "Langosta, vieiras, pescados nobles en salsa, aves de corral, quesos curados de pasta dura",
+    "en": "Lobster, scallops, fine fish in sauce, poultry, aged hard cheeses",
+    "fr": "Homard, Saint-Jacques, poissons nobles en sauce, volailles, fromages à pâte dure affinés",
+    "it": "Astice, capesante, pesci pregiati in salsa, pollame, formaggi stagionati a pasta dura"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de vino blanco amplia",
+    "en": "10-12 °C, large white wine glass",
+    "fr": "10-12 °C, grand verre à vin blanc",
+    "it": "10-12 °C, ampio calice da vino bianco"
+  },
+  "search": "Veuve Clicquot La Grande Dame Champagne"
+}

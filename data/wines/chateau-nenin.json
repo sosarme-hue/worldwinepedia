@@ -1,0 +1,47 @@
+{
+  "slug": "chateau-nenin",
+  "name": "Château Nénin",
+  "winery": null,
+  "winery_name": "Château Nénin",
+  "region": "pomerol",
+  "country": "francia",
+  "appellation": "AOC Pomerol",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "merlot",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Tinto de Pomerol de una de las propiedades históricas de la denominación, propiedad de la familia Delon, también dueña de Château Léoville Las Cases.",
+    "en": "A Pomerol red from one of the appellation's historic estates, owned by the Delon family, who also own Château Léoville Las Cases.",
+    "fr": "Rouge de Pomerol issu de l'une des propriétés historiques de l'appellation, appartenant à la famille Delon, également propriétaire de Château Léoville Las Cases.",
+    "it": "Rosso di Pomerol prodotto da una delle tenute storiche della denominazione, di proprietà della famiglia Delon, titolare anche di Château Léoville Las Cases."
+  },
+  "body": {
+    "es": "<p><strong>Château Nénin</strong> es una de las propiedades tradicionales de <strong>Pomerol</strong>, situada en la parte oeste de la denominación, cerca de Libourne. En 1997 fue adquirida por la familia <strong>Delon</strong>, propietaria de Château Léoville Las Cases en Saint-Julien, que emprendió un largo trabajo de reestructuración del viñedo y de modernización de la bodega.</p><p>El viñedo, sobre suelos de gravas, arenas y arcillas, está plantado mayoritariamente con <strong>Merlot</strong>, con una proporción significativa de <strong>Cabernet Franc</strong> que aporta frescura y estructura. La propiedad elabora también un segundo vino, Fugue de Nénin.</p><p>La vendimia es manual y la crianza se realiza en barricas de roble francés. El estilo que ha buscado la familia Delon en Nénin es el de un Pomerol más clásico y estructurado que opulento: un tinto de fruta precisa, tanino firme y buena acidez, que necesita algunos años en botella para mostrar toda su complejidad.</p>",
+    "en": "<p><strong>Château Nénin</strong> is one of the traditional estates of <strong>Pomerol</strong>, in the western part of the appellation, near Libourne. In 1997 it was acquired by the <strong>Delon</strong> family, owners of Château Léoville Las Cases in Saint-Julien, who undertook a long programme of vineyard restructuring and cellar modernisation.</p><p>The vineyard, on soils of gravel, sand and clay, is planted mainly with <strong>Merlot</strong>, with a significant share of <strong>Cabernet Franc</strong> bringing freshness and structure. The estate also produces a second wine, Fugue de Nénin.</p><p>Harvesting is by hand and the wine is aged in French oak barrels. The style the Delon family has pursued at Nénin is that of a more classic, structured Pomerol rather than an opulent one: a red with precise fruit, firm tannin and good acidity, which needs a few years in bottle to show its full complexity.</p>",
+    "fr": "<p><strong>Château Nénin</strong> est l'une des propriétés traditionnelles de <strong>Pomerol</strong>, située dans la partie ouest de l'appellation, près de Libourne. En 1997, elle a été acquise par la famille <strong>Delon</strong>, propriétaire de Château Léoville Las Cases à Saint-Julien, qui a entrepris un long travail de restructuration du vignoble et de modernisation du chai.</p><p>Le vignoble, sur des sols de graves, de sables et d'argiles, est planté majoritairement de <strong>merlot</strong>, avec une part significative de <strong>cabernet franc</strong> qui apporte fraîcheur et structure. La propriété produit aussi un second vin, Fugue de Nénin.</p><p>Les vendanges sont manuelles et l'élevage se fait en barriques de chêne français. Le style recherché par la famille Delon à Nénin est celui d'un pomerol plus classique et structuré qu'opulent : un rouge au fruit précis, au tanin ferme et à la bonne acidité, qui demande quelques années de bouteille pour révéler toute sa complexité.</p>",
+    "it": "<p><strong>Château Nénin</strong> è una delle tenute tradizionali di <strong>Pomerol</strong>, situata nella parte occidentale della denominazione, vicino a Libourne. Nel 1997 è stata acquistata dalla famiglia <strong>Delon</strong>, proprietaria di Château Léoville Las Cases a Saint-Julien, che ha avviato un lungo lavoro di ristrutturazione del vigneto e di ammodernamento della cantina.</p><p>Il vigneto, su suoli di ghiaie, sabbie e argille, è piantato in prevalenza a <strong>Merlot</strong>, con una quota significativa di <strong>Cabernet Franc</strong> che apporta freschezza e struttura. La tenuta produce anche un secondo vino, Fugue de Nénin.</p><p>La vendemmia è manuale e l'affinamento avviene in barrique di rovere francese. Lo stile ricercato dalla famiglia Delon a Nénin è quello di un Pomerol più classico e strutturato che opulento: un rosso dal frutto preciso, dal tannino fermo e dalla buona acidità, che richiede qualche anno di bottiglia per esprimere tutta la sua complessità.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de ciruela, cereza negra, notas de trufa y especias. Boca estructurada y fresca, con taninos firmes y final persistente.",
+    "en": "Intense cherry red. Aromas of plum, black cherry, truffle notes and spice. Structured, fresh palate with firm tannins and a persistent finish.",
+    "fr": "Rouge cerise intense. Arômes de prune, de cerise noire, notes de truffe et d'épices. Bouche structurée et fraîche, aux tanins fermes et à la finale persistante.",
+    "it": "Rosso ciliegia intenso. Aromi di prugna, ciliegia nera, note di tartufo e spezie. Bocca strutturata e fresca, tannini fermi e finale persistente."
+  },
+  "pairing": {
+    "es": "Pato, cordero, ternera asada, setas, quesos curados",
+    "en": "Duck, lamb, roast veal, mushrooms, aged cheeses",
+    "fr": "Canard, agneau, veau rôti, champignons, fromages affinés",
+    "it": "Anatra, agnello, vitello arrosto, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia tipo Burdeos; conviene decantar",
+    "en": "16-18 °C, large Bordeaux glass; decanting recommended",
+    "fr": "16-18 °C, grand verre de type bordeaux ; carafage conseillé",
+    "it": "16-18 °C, calice ampio tipo Bordeaux; consigliata la decantazione"
+  },
+  "search": "Château Nénin Château Nénin",
+  "source": "decantalo"
+}

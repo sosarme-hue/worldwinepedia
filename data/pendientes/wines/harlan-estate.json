@@ -1,0 +1,42 @@
+{
+  "slug": "harlan-estate",
+  "name": "Harlan Estate",
+  "winery": "harlan-estate",
+  "winery_name": null,
+  "region": "napa-valley",
+  "country": "estados-unidos",
+  "appellation": "AVA Napa Valley",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "Harlan Estate es un vino tinto de Harlan Estate, con la denominación AVA Napa Valley, en Estados Unidos.",
+    "en": "Harlan Estate is a red wine from Harlan Estate, made under the AVA Napa Valley appellation in United States.",
+    "fr": "Harlan Estate est un vin rouge de Harlan Estate, élaboré sous l’appellation AVA Napa Valley (États-Unis).",
+    "it": "Harlan Estate è un vino rosso di Harlan Estate, prodotto nella denominazione AVA Napa Valley (Stati Uniti)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Cabernet Sauvignon. Tiene crianza en madera. Su graduación es de 14,5 % vol.</p><p>Finca fundada en 1984 por H. William Harlan en las colinas al oeste de Oakville, en el valle de Napa, conocida por sus tintos de inspiración bordelesa a base de Cabernet Sauvignon.</p><p>Valle situado al norte de la bahía de San Francisco y la región vitícola más célebre de Estados Unidos, conocida sobre todo por sus Cabernet Sauvignon. Fue la primera AVA reconocida en California.</p>",
+    "en": "<p>It is made from Cabernet Sauvignon. It is aged in wood. It has 14.5% ABV.</p><p>Estate founded in 1984 by H. William Harlan in the hills west of Oakville in the Napa Valley, known for Bordeaux-inspired, Cabernet Sauvignon-based reds.</p><p>A valley north of San Francisco Bay and the most famous wine region in the United States, known above all for its Cabernet Sauvignon. It was the first AVA recognised in California.</p>",
+    "fr": "<p>Il est élaboré à partir de Cabernet Sauvignon. Il est élevé en bois. Il titre 14,5 % vol.</p><p>Domaine fondé en 1984 par H. William Harlan dans les collines à l’ouest d’Oakville, dans la Napa Valley, connu pour ses rouges d’inspiration bordelaise à base de cabernet-sauvignon.</p><p>Vallée située au nord de la baie de San Francisco et région viticole la plus célèbre des États-Unis, connue surtout pour ses cabernets-sauvignons. Ce fut la première AVA reconnue en Californie.</p>",
+    "it": "<p>È prodotto con Cabernet Sauvignon. È affinato in legno. Ha 14,5% vol.</p><p>Tenuta fondata nel 1984 da H. William Harlan sulle colline a ovest di Oakville, nella Napa Valley, nota per i rossi di ispirazione bordolese a base di Cabernet Sauvignon.</p><p>Valle a nord della baia di San Francisco e la regione vinicola più celebre degli Stati Uniti, nota soprattutto per i suoi Cabernet Sauvignon. Fu la prima AVA riconosciuta in California.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Harlan Estate Harlan Estate",
+  "brief": true,
+  "source": "decantalo"
+}

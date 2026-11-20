@@ -1,0 +1,41 @@
+{
+  "slug": "grahams-10-year-old-tawny",
+  "name": "Graham’s 10 Year Old Tawny Port",
+  "winery": "grahams",
+  "region": "porto",
+  "country": "portugal",
+  "type": "generoso",
+  "category": {"es": "Tawny 10 años", "en": "10 Year Old Tawny", "fr": "Tawny 10 ans", "it": "Tawny 10 anni"},
+  "grapes": ["touriga-nacional", "touriga-franca", "tempranillo"],
+  "summary": {
+    "es": "Tawny con indicación de edad de 10 años de Graham’s, criado en barricas de roble en Vila Nova de Gaia, que combina fruta madura con notas de frutos secos.",
+    "en": "Graham’s 10-year-old age-dated tawny, aged in oak casks in Vila Nova de Gaia, combining ripe fruit with nutty notes.",
+    "fr": "Tawny avec indication d’âge de 10 ans de Graham’s, élevé en fûts de chêne à Vila Nova de Gaia, qui associe fruit mûr et notes de fruits secs.",
+    "it": "Tawny con indicazione d’età di 10 anni di Graham’s, affinato in botti di rovere a Vila Nova de Gaia, che unisce frutto maturo e note di frutta secca."
+  },
+  "body": {
+    "es": "<p>Los tawnies con indicación de edad son mezclas de vinos de distintas cosechas cuya edad media corresponde al estilo indicado en la etiqueta, en este caso diez años, y cuya calidad aprueba el organismo regulador. El de Graham’s se elabora con uvas del Douro de variedades como la Touriga Nacional, la Touriga Franca y la Tinta Roriz (Tempranillo).</p><p>Tras la fermentación, interrumpida con aguardiente vínica, los vinos envejecen en barricas de roble de unos 600 litros, las tradicionales <em>pipas</em>, en la bodega de la casa en Vila Nova de Gaia. Esta crianza, con una oxidación lenta, transforma el color del vino hacia tonos teja y ámbar y desarrolla aromas de frutos secos y especias. El maestro de bodega ensambla vinos de diferentes edades para mantener un estilo constante. Se embotella listo para beber y, una vez abierto, se conserva bien durante varias semanas.</p>",
+    "en": "<p>Age-dated tawnies are blends of wines from different harvests whose average age corresponds to the style shown on the label, in this case ten years, and whose quality is approved by the regulatory body. Graham’s is made from Douro grapes of varieties such as Touriga Nacional, Touriga Franca and Tinta Roriz (Tempranillo).</p><p>After fermentation, stopped with grape spirit, the wines age in oak casks of around 600 litres, the traditional <em>pipes</em>, in the house’s lodge in Vila Nova de Gaia. This ageing, with slow oxidation, turns the wine’s colour towards tawny and amber hues and develops aromas of nuts and spice. The master blender combines wines of different ages to maintain a consistent style. It is bottled ready to drink and, once opened, keeps well for several weeks.</p>",
+    "fr": "<p>Les tawnies avec indication d’âge sont des assemblages de vins de différentes récoltes dont l’âge moyen correspond au style indiqué sur l’étiquette, ici dix ans, et dont la qualité est approuvée par l’organisme de régulation. Celui de Graham’s est élaboré avec des raisins du Douro de cépages comme la touriga nacional, la touriga franca et la tinta roriz (tempranillo).</p><p>Après la fermentation, arrêtée par l’ajout d’eau-de-vie de vin, les vins vieillissent dans des fûts de chêne d’environ 600 litres, les <em>pipas</em> traditionnelles, dans le chai de la maison à Vila Nova de Gaia. Cet élevage, avec une oxydation lente, fait évoluer la couleur du vin vers des teintes tuilées et ambrées et développe des arômes de fruits secs et d’épices. Le maître de chai assemble des vins de différents âges pour maintenir un style constant. Il est mis en bouteille prêt à boire et, une fois ouvert, se conserve bien plusieurs semaines.</p>",
+    "it": "<p>I tawny con indicazione d’età sono uvaggi di vini di diverse vendemmie la cui età media corrisponde allo stile indicato in etichetta, in questo caso dieci anni, e la cui qualità è approvata dall’ente regolatore. Quello di Graham’s è prodotto con uve del Douro di varietà come Touriga Nacional, Touriga Franca e Tinta Roriz (Tempranillo).</p><p>Dopo la fermentazione, interrotta con acquavite di vino, i vini invecchiano in botti di rovere da circa 600 litri, le tradizionali <em>pipas</em>, nella cantina della casa a Vila Nova de Gaia. Questo affinamento, con un’ossidazione lenta, fa evolvere il colore del vino verso tonalità aranciate e ambrate e sviluppa aromi di frutta secca e spezie. Il mastro cantiniere assembla vini di età diverse per mantenere uno stile costante. Viene imbottigliato pronto da bere e, una volta aperto, si conserva bene per diverse settimane.</p>"
+  },
+  "tasting": {
+    "es": "Color teja con reflejos ambarinos. Aromas de fruta madura, higo, almendra, nuez y un toque de vainilla y caramelo. En boca es dulce, suave y equilibrado por una acidez fresca.",
+    "en": "Tawny colour with amber glints. Aromas of ripe fruit, fig, almond, walnut and a touch of vanilla and caramel. Sweet and smooth on the palate, balanced by fresh acidity.",
+    "fr": "Couleur tuilée aux reflets ambrés. Arômes de fruits mûrs, de figue, d’amande, de noix et une touche de vanille et de caramel. En bouche, il est doux, souple et équilibré par une acidité fraîche.",
+    "it": "Colore aranciato con riflessi ambrati. Aromi di frutta matura, fico, mandorla, noce e un tocco di vaniglia e caramello. In bocca è dolce, morbido ed equilibrato da un’acidità fresca."
+  },
+  "pairing": {
+    "es": "Postres de frutos secos, crema catalana, foie gras, quesos curados",
+    "en": "Nut-based desserts, crème brûlée, foie gras, aged cheeses",
+    "fr": "Desserts aux fruits secs, crème brûlée, foie gras, fromages affinés",
+    "it": "Dolci alla frutta secca, crème brûlée, foie gras, formaggi stagionati"
+  },
+  "serve": {
+    "es": "10-14 °C, ligeramente fresco, copa de vino generoso",
+    "en": "10-14 °C, lightly chilled, Port glass",
+    "fr": "10-14 °C, légèrement frais, verre à porto",
+    "it": "10-14 °C, leggermente fresco, calice da Porto"
+  },
+  "search": "Graham's 10 Year Old Tawny Port"
+}

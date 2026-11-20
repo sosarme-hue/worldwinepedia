@@ -1,0 +1,46 @@
+{
+  "slug": "ausas-interpretacion",
+  "name": "Ausàs Interpretación",
+  "winery": null,
+  "winery_name": "Ausás Bodegas y Viñedos",
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "appellation": "DO Ribera del Duero",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Tinto de Ribera del Duero de Ausàs, el proyecto personal del enólogo Xavier Ausàs, durante muchos años responsable técnico de Vega Sicilia.",
+    "en": "Ribera del Duero red from Ausàs, the personal project of winemaker Xavier Ausàs, for many years technical director at Vega Sicilia.",
+    "fr": "Rouge de Ribera del Duero d’Ausàs, le projet personnel de l’œnologue Xavier Ausàs, longtemps directeur technique de Vega Sicilia.",
+    "it": "Rosso di Ribera del Duero di Ausàs, il progetto personale dell’enologo Xavier Ausàs, per molti anni direttore tecnico di Vega Sicilia."
+  },
+  "body": {
+    "es": "<p><strong>Ausàs Bodegas y Viñedos</strong> es el proyecto propio de <strong>Xavier Ausàs</strong>, enólogo de origen catalán que durante décadas dirigió la parte técnica de Vega Sicilia. Tras su salida de esta casa, puso en marcha en la Ribera del Duero una bodega con su nombre para elaborar vinos a partir de viñedos seleccionados de la denominación.</p><p>La base de los vinos es el <strong>Tinto Fino</strong>, la variante local del Tempranillo, adaptada a los veranos cortos y calurosos y a los inviernos fríos de la meseta, y cultivada en suelos de arcilla, caliza y cantos a gran altitud. Interpretación es uno de los tintos de la gama; su nombre alude a la idea de leer y expresar cada añada y cada parcela.</p><p>El vino se cría en barricas de roble antes de un reposo en botella. Es un tinto de buena concentración y fruta negra madura, con notas especiadas de la crianza y una estructura firme, en el que se busca el equilibrio entre la potencia propia de la Ribera y la frescura. Gana con algunos años de botella y con la decantación.</p>",
+    "en": "<p><strong>Ausàs Bodegas y Viñedos</strong> is the own project of <strong>Xavier Ausàs</strong>, a Catalan-born winemaker who for decades ran the technical side of Vega Sicilia. After leaving that house, he set up a winery bearing his name in Ribera del Duero to make wines from selected vineyards in the appellation.</p><p>The basis of the wines is <strong>Tinto Fino</strong>, the local variant of Tempranillo, adapted to the short, hot summers and cold winters of the plateau and grown on clay, limestone and stony soils at high elevation. Interpretación is one of the reds in the range; its name alludes to the idea of reading and expressing each vintage and each plot.</p><p>The wine is aged in oak barrels before a period in bottle. It is a red of good concentration and ripe black fruit, with spicy notes from ageing and a firm structure, seeking a balance between the power typical of Ribera and freshness. It improves with a few years in bottle and with decanting.</p>",
+    "fr": "<p><strong>Ausàs Bodegas y Viñedos</strong> est le projet personnel de <strong>Xavier Ausàs</strong>, œnologue d’origine catalane qui a dirigé pendant des décennies la partie technique de Vega Sicilia. Après avoir quitté cette maison, il a lancé en Ribera del Duero une bodega à son nom pour élaborer des vins à partir de vignobles sélectionnés de l’appellation.</p><p>La base des vins est le <strong>tinto fino</strong>, variante locale du tempranillo, adaptée aux étés courts et chauds et aux hivers froids du plateau, cultivée sur des sols d’argile, de calcaire et de galets à haute altitude. Interpretación est l’un des rouges de la gamme ; son nom évoque l’idée de lire et d’exprimer chaque millésime et chaque parcelle.</p><p>Le vin est élevé en barriques de chêne avant un repos en bouteille. C’est un rouge de bonne concentration, aux fruits noirs mûrs, aux notes épicées de l’élevage et à la structure ferme, qui cherche l’équilibre entre la puissance propre à la Ribera et la fraîcheur. Il gagne à quelques années de bouteille et à un passage en carafe.</p>",
+    "it": "<p><strong>Ausàs Bodegas y Viñedos</strong> è il progetto personale di <strong>Xavier Ausàs</strong>, enologo di origine catalana che per decenni ha diretto la parte tecnica di Vega Sicilia. Dopo aver lasciato quella casa, ha avviato in Ribera del Duero una cantina con il suo nome per produrre vini da vigneti selezionati della denominazione.</p><p>La base dei vini è il <strong>Tinto Fino</strong>, la variante locale del Tempranillo, adattata alle estati brevi e calde e agli inverni freddi dell’altopiano, coltivata su suoli di argilla, calcare e ciottoli ad alta quota. Interpretación è uno dei rossi della gamma; il nome allude all’idea di leggere ed esprimere ogni annata e ogni parcella.</p><p>Il vino affina in barrique di rovere prima di un riposo in bottiglia. È un rosso di buona concentrazione e frutto nero maturo, con note speziate dell’affinamento e una struttura salda, che cerca l’equilibrio tra la potenza tipica della Ribera e la freschezza. Guadagna con qualche anno di bottiglia e con la decantazione.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de fruta negra madura, especias, regaliz y tostados suaves. En boca es amplio y estructurado, con taninos firmes y buena acidez.",
+    "en": "Intense deep cherry red. Aromas of ripe black fruit, spice, liquorice and gentle toast. Broad and structured on the palate, with firm tannins and good acidity.",
+    "fr": "Rouge cerise intense. Arômes de fruits noirs mûrs, épices, réglisse et toasté discret. En bouche, il est ample et structuré, aux tanins fermes et à la bonne acidité.",
+    "it": "Rosso ciliegia intenso. Aromi di frutta nera matura, spezie, liquirizia e leggera tostatura. In bocca è ampio e strutturato, con tannini decisi e buona acidità."
+  },
+  "pairing": {
+    "es": "Lechazo asado, carnes rojas a la brasa, caza, quesos curados de oveja",
+    "en": "Roast milk-fed lamb, chargrilled red meat, game, aged sheep’s cheeses",
+    "fr": "Agneau de lait rôti, viandes rouges à la braise, gibier, fromages de brebis affinés",
+    "it": "Agnello da latte arrosto, carni rosse alla brace, selvaggina, pecorini stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Ausàs Interpretación Ausás Bodegas y Viñedos",
+  "source": "decantalo"
+}

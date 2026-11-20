@@ -1,0 +1,50 @@
+{
+  "slug": "chateau-lascombes",
+  "name": "Château Lascombes",
+  "winery": "chateau-lascombes",
+  "region": "margaux",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Segundo Gran Cru Classé de 1855",
+    "en": "Second Growth (1855 classification)",
+    "fr": "Deuxième grand cru classé en 1855",
+    "it": "Secondo Grand Cru Classé del 1855"
+  },
+  "grapes": [
+    "merlot",
+    "cabernet-sauvignon",
+    "petit-verdot"
+  ],
+  "summary": {
+    "es": "Grand vin de Château Lascombes, segundo gran cru clasificado de Margaux, con una proporción de Merlot poco habitual en el Médoc.",
+    "en": "The grand vin of Château Lascombes, a Margaux second growth with an unusually high share of Merlot for the Médoc.",
+    "fr": "Grand vin de Château Lascombes, deuxième grand cru classé de Margaux, à la part de merlot inhabituelle dans le Médoc.",
+    "it": "Grand vin di Château Lascombes, secondo grand cru classificato di Margaux, con una quota di Merlot insolita per il Médoc."
+  },
+  "body": {
+    "es": "<p><strong>Château Lascombes</strong> es el vino principal de esta propiedad de <strong>Margaux</strong>, clasificada como segundo gran cru en 1855. Procede de un viñedo extenso y fragmentado en numerosas parcelas repartidas por la denominación, con suelos de grava y también de arcilla y caliza.</p><p>A diferencia de la mayoría de los grandes Margaux, dominados por el Cabernet Sauvignon, su ensamblaje concede un papel muy importante al <strong>Merlot</strong>, plantado en los suelos más frescos y arcillosos, junto al <strong>Cabernet Sauvignon</strong> de las gravas y una pequeña proporción de <strong>Petit Verdot</strong>. Cada parcela se vinifica por separado y el vino se cría en barricas de roble, en buena parte nuevas.</p><p>El resultado es un Margaux de color profundo y textura carnosa, con fruta negra madura, notas de especias, cacao y violeta, y taninos redondos. Su riqueza lo hace accesible relativamente pronto, aunque tiene una buena capacidad de guarda y gana complejidad con los años.</p>",
+    "en": "<p><strong>Château Lascombes</strong> is the main wine of this <strong>Margaux</strong> estate, classified as a second growth in 1855. It comes from a large vineyard fragmented into numerous plots across the appellation, with gravel soils as well as clay and limestone.</p><p>Unlike most great Margaux wines, which are dominated by Cabernet Sauvignon, its blend gives a very important role to <strong>Merlot</strong>, planted on the cooler, clay-rich soils, alongside <strong>Cabernet Sauvignon</strong> from the gravel and a small proportion of <strong>Petit Verdot</strong>. Each plot is vinified separately and the wine is aged in oak barrels, largely new.</p><p>The result is a deeply coloured Margaux with a fleshy texture, ripe dark fruit, notes of spice, cocoa and violet, and rounded tannins. Its richness makes it approachable relatively early, although it has good ageing potential and gains complexity over the years.</p>",
+    "fr": "<p><strong>Château Lascombes</strong> est le vin principal de cette propriété de <strong>Margaux</strong>, classée deuxième grand cru en 1855. Il provient d’un vignoble étendu et morcelé en nombreuses parcelles réparties dans l’appellation, sur des sols de graves mais aussi d’argile et de calcaire.</p><p>Contrairement à la plupart des grands Margaux, dominés par le cabernet-sauvignon, son assemblage accorde un rôle très important au <strong>merlot</strong>, planté sur les sols les plus frais et argileux, aux côtés du <strong>cabernet-sauvignon</strong> des graves et d’un peu de <strong>petit verdot</strong>. Chaque parcelle est vinifiée séparément et le vin est élevé en barriques de chêne, en grande partie neuves.</p><p>Il en résulte un Margaux à la couleur profonde et à la texture charnue, aux fruits noirs mûrs, aux notes d’épices, de cacao et de violette, et aux tanins ronds. Sa richesse le rend accessible assez tôt, même s’il possède un bon potentiel de garde et gagne en complexité avec les années.</p>",
+    "it": "<p><strong>Château Lascombes</strong> è il vino principale di questa proprietà di <strong>Margaux</strong>, classificata secondo grand cru nel 1855. Proviene da un vigneto esteso e frammentato in numerose parcelle distribuite nella denominazione, su suoli di ghiaia ma anche di argilla e calcare.</p><p>A differenza della maggior parte dei grandi Margaux, dominati dal Cabernet Sauvignon, il suo uvaggio attribuisce un ruolo molto importante al <strong>Merlot</strong>, piantato sui suoli più freschi e argillosi, accanto al <strong>Cabernet Sauvignon</strong> delle ghiaie e a una piccola quota di <strong>Petit Verdot</strong>. Ogni parcella viene vinificata separatamente e il vino affina in barrique di rovere, in gran parte nuove.</p><p>Il risultato è un Margaux di colore profondo e tessitura polposa, con frutta nera matura, note di spezie, cacao e violetta e tannini rotondi. La sua ricchezza lo rende accessibile relativamente presto, pur avendo una buona capacità di invecchiamento e acquistando complessità con gli anni.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota muy oscuro. Aromas de mora, ciruela, violeta, cacao y especias. Boca carnosa y amplia, de taninos redondos.",
+    "en": "Very dark crimson. Aromas of blackberry, plum, violet, cocoa and spice. Fleshy, broad palate with rounded tannins.",
+    "fr": "Rouge très sombre. Arômes de mûre, de prune, de violette, de cacao et d’épices. Bouche charnue et ample, aux tanins ronds.",
+    "it": "Rosso molto scuro. Aromi di mora, prugna, violetta, cacao e spezie. Bocca polposa e ampia, dai tannini rotondi."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes rojas a la parrilla, caza, quesos curados",
+    "en": "Roast lamb, grilled red meat, game, aged cheeses",
+    "fr": "Agneau rôti, viandes rouges grillées, gibier, fromages affinés",
+    "it": "Agnello arrosto, carni rosse alla griglia, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Château Lascombes Margaux"
+}

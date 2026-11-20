@@ -1,0 +1,118 @@
+{
+  "_nota": "Configuración de tiendas. tag vacío = enlace sin comisión hasta que Alex se dé de alta en ese Amazon. Las tiendas de Awin se añaden en 'shops' cuando aprueben la solicitud.",
+  "amazon": {
+    "ES": {
+      "name": "Amazon.es",
+      "domain": "www.amazon.es",
+      "tag": "partenopides-21"
+    },
+    "FR": {
+      "name": "Amazon.fr",
+      "domain": "www.amazon.fr",
+      "tag": ""
+    },
+    "IT": {
+      "name": "Amazon.it",
+      "domain": "www.amazon.it",
+      "tag": ""
+    },
+    "DE": {
+      "name": "Amazon.de",
+      "domain": "www.amazon.de",
+      "tag": ""
+    },
+    "UK": {
+      "name": "Amazon.co.uk",
+      "domain": "www.amazon.co.uk",
+      "tag": "partenopide04-21"
+    }
+  },
+  "shops": [
+    {
+      "name": "Vinatis",
+      "countries": [
+        "ES"
+      ],
+      "network": "Tradedoubler",
+      "active": true,
+      "tracking": "https://clk.tradedoubler.com/click?p=353874&a=3507316&url=",
+      "target": "https://www.vinatis.es/buscar?search_query={q}",
+      "direct_attr": "data-vinatis"
+    },
+    {
+      "name": "Decantalo",
+      "countries": [
+        "ES"
+      ],
+      "network": "Daisycon",
+      "active": true,
+      "tracking": "https://bdt9.net/c/?si=18645&li=1802463&wi=447859&ws=&dl=",
+      "target": "es/",
+      "direct_attr": "data-decantalo"
+    }
+  ],
+  "_ejemplo_shop": {
+    "name": "Tienda",
+    "countries": [
+      "ES",
+      "FR"
+    ],
+    "url": "https://www.awin1.com/cread.php?awinmid=MERCHANT&awinaffid=PUBLISHER&ued=https%3A%2F%2Ftienda.com%2Fbuscar%3Fq%3D{q}"
+  },
+  "comparator": {
+    "name": "Wine-Searcher",
+    "url": "https://www.wine-searcher.com/find/{q}"
+  },
+  "awin_publisher_id": "3148618",
+  "awin_note": "Enlace profundo: https://www.awin1.com/cread.php?awinmid={mid}&awinaffid=3148618&ued={url codificada}",
+  "_nota_tradedoubler": "Vinatis: solo aparece en los vinos que están en data/vinatis.json (enlace directo a su ficha, generado desde el feed de Tradedoubler). 'tracking'+'target' quedan como reserva para búsquedas, sin usar.",
+  "_nota_daisycon": "Decantalo (Daisycon, campaña 18645, medio 447859): solo aparece en los vinos de data/decantalo.json (enlace directo a su ficha, generado desde el feed de productos de Daisycon con tools/decantalo.py).",
+  "coravin": {
+    "_nota": "Afiliación Coravin US (Awin, anunciante 130511). Solo páginas en inglés, vinos caros y artículos de conservación, y solo si el visitante elige Estados Unidos como país de envío.",
+    "url": "https://www.awin1.com/cread.php?awinmid=130511&awinaffid=3148618&ued=https%3A%2F%2Fwww.coravin.com%2F",
+    "langs": [
+      "en"
+    ],
+    "ship": [
+      "US"
+    ],
+    "articles": [
+      "como-conservar-el-vino-en-casa",
+      "como-montar-una-pequena-bodega-en-casa",
+      "como-servir-el-vino",
+      "potencial-de-guarda-cuando-beber-un-vino",
+      "temperatura-copas-y-decantacion",
+      "la-botella-y-el-corcho-una-historia"
+    ],
+    "regions": [
+      "cote-de-nuits",
+      "cote-de-beaune",
+      "pessac-leognan",
+      "margaux",
+      "saint-julien",
+      "pauillac",
+      "saint-estephe",
+      "pomerol",
+      "saint-emilion",
+      "sauternes",
+      "napa-valley",
+      "barolo",
+      "barbaresco",
+      "brunello-di-montalcino",
+      "bolgheri",
+      "priorat",
+      "hermitage",
+      "cote-rotie",
+      "condrieu",
+      "chateauneuf-du-pape",
+      "tokaj"
+    ],
+    "wineries": [
+      "vega-sicilia",
+      "dominio-de-pingus"
+    ],
+    "wines": [
+      "tignanello"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "taittinger-prelude-grands-crus",
+  "name": "Taittinger Prélude Grands Crus",
+  "winery": "taittinger",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut",
+    "en": "Brut",
+    "fr": "Brut",
+    "it": "Brut"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Champán de Taittinger elaborado únicamente con Chardonnay y Pinot Noir de municipios clasificados como grand cru, con una larga crianza sobre lías.",
+    "en": "Taittinger champagne made solely from Chardonnay and Pinot Noir from villages classified as grand cru, with long ageing on the lees.",
+    "fr": "Champagne de Taittinger élaboré uniquement avec du chardonnay et du pinot noir de communes classées grand cru, avec un long vieillissement sur lies.",
+    "it": "Champagne di Taittinger prodotto esclusivamente con Chardonnay e Pinot Noir di comuni classificati grand cru, con un lungo affinamento sui lieviti."
+  },
+  "body": {
+    "es": "<p>Prélude Grands Crus es un champán sin añada de Taittinger que se distingue por proceder exclusivamente de municipios clasificados como <strong>grand cru</strong>, la categoría más alta de la escala tradicional de Champagne. Para su elaboración, la casa selecciona uvas de la Côte des Blancs, para la Chardonnay, y de la Montagne de Reims, para la Pinot Noir.</p><p>El ensamblaje combina <strong>Chardonnay</strong> y <strong>Pinot Noir</strong> en proporciones equilibradas y solo utiliza el mosto de la primera prensada, la cuvée. Tras la segunda fermentación en botella, el vino envejece durante un periodo prolongado sobre sus lías en las bodegas de creta de Reims, bastante más allá del mínimo legal.</p><p>Es un champán de gran finura, que une la elegancia y la frescura de la Chardonnay a la estructura de la Pinot Noir. Resulta adecuado como aperitivo, pero también tiene cuerpo suficiente para acompañar una comida.</p>",
+    "en": "<p>Prélude Grands Crus is a non-vintage champagne from Taittinger distinguished by coming exclusively from villages classified as <strong>grand cru</strong>, the highest category of the traditional Champagne scale. To make it, the house selects grapes from the Côte des Blancs for the Chardonnay and from the Montagne de Reims for the Pinot Noir.</p><p>The blend combines <strong>Chardonnay</strong> and <strong>Pinot Noir</strong> in balanced proportions and uses only the juice from the first pressing, the cuvée. After the second fermentation in bottle, the wine ages for an extended period on its lees in the chalk cellars of Reims, well beyond the legal minimum.</p><p>It is a champagne of great finesse, combining the elegance and freshness of Chardonnay with the structure of Pinot Noir. It suits an aperitif, but also has enough body to accompany a meal.</p>",
+    "fr": "<p>Prélude Grands Crus est un champagne sans année de Taittinger qui se distingue par sa provenance exclusive de communes classées <strong>grand cru</strong>, la catégorie la plus élevée de l’échelle traditionnelle champenoise. Pour l’élaborer, la maison sélectionne des raisins de la Côte des Blancs pour le chardonnay et de la Montagne de Reims pour le pinot noir.</p><p>L’assemblage associe <strong>chardonnay</strong> et <strong>pinot noir</strong> en proportions équilibrées et n’utilise que le jus de première presse, la cuvée. Après la seconde fermentation en bouteille, le vin vieillit longuement sur lies dans les crayères de Reims, bien au-delà du minimum légal.</p><p>C’est un champagne d’une grande finesse, qui allie l’élégance et la fraîcheur du chardonnay à la structure du pinot noir. Il convient à l’apéritif, mais il a aussi assez de corps pour accompagner un repas.</p>",
+    "it": "<p>Prélude Grands Crus è uno champagne senza annata di Taittinger che si distingue per provenire esclusivamente da comuni classificati <strong>grand cru</strong>, la categoria più alta della scala tradizionale della Champagne. Per produrlo, la maison seleziona uve della Côte des Blancs per lo Chardonnay e della Montagne de Reims per il Pinot Noir.</p><p>L’assemblaggio unisce <strong>Chardonnay</strong> e <strong>Pinot Noir</strong> in proporzioni equilibrate e utilizza solo il mosto della prima pressatura, la cuvée. Dopo la seconda fermentazione in bottiglia, il vino invecchia a lungo sui lieviti nelle cantine di gesso di Reims, ben oltre il minimo legale.</p><p>È uno champagne di grande finezza, che unisce l’eleganza e la freschezza dello Chardonnay alla struttura del Pinot Noir. È adatto all’aperitivo, ma ha anche corpo sufficiente per accompagnare un pasto.</p>"
+  },
+  "tasting": {
+    "es": "Oro pálido, burbuja muy fina. Aromas de cítricos, fruta blanca, flores y notas de brioche y almendra. Boca fresca, precisa y persistente.",
+    "en": "Pale gold with very fine bubbles. Aromas of citrus, white fruit, flowers and notes of brioche and almond. Fresh, precise, persistent palate.",
+    "fr": "Or pâle, bulles très fines. Arômes d’agrumes, de fruits blancs, de fleurs et notes de brioche et d’amande. Bouche fraîche, précise et persistante.",
+    "it": "Oro tenue, perlage finissimo. Aromi di agrumi, frutta bianca, fiori e note di brioche e mandorla. Bocca fresca, precisa e persistente."
+  },
+  "pairing": {
+    "es": "Aperitivo, ostras, caviar, vieiras, pescados finos, aves de corral",
+    "en": "Aperitif, oysters, caviar, scallops, delicate fish, farmyard poultry",
+    "fr": "Apéritif, huîtres, caviar, Saint-Jacques, poissons fins, volailles fermières",
+    "it": "Aperitivo, ostriche, caviale, capesante, pesci delicati, pollame ruspante"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco o de tulipa",
+    "en": "8-10 °C, white wine or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da vino bianco o a tulipano"
+  },
+  "search": "Prélude Grands Crus Taittinger"
+}

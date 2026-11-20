@@ -1,0 +1,40 @@
+{
+  "slug": "forlong-terracota",
+  "name": "Forlong Terracota",
+  "winery": null,
+  "winery_name": "Bodega Forlong",
+  "region": null,
+  "country": "espana",
+  "appellation": "IGP Cádiz",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Forlong Terracota es un vino tinto de Bodega Forlong, con la denominación IGP Cádiz, en España.",
+    "en": "Forlong Terracota is a red wine from Bodega Forlong, made under the IGP Cádiz appellation in Spain.",
+    "fr": "Forlong Terracota est un vin rouge de Bodega Forlong, élaboré sous l’appellation IGP Cádiz (Espagne).",
+    "it": "Forlong Terracota è un vino rosso di Bodega Forlong, prodotto nella denominazione IGP Cádiz (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se cría en recipientes de barro, como ánforas o tinajas. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is aged in clay vessels such as amphorae. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élevé en jarres de terre cuite, comme des amphores. Il titre 13,5 % vol.</p>",
+    "it": "<p>Affina in contenitori di terracotta, come anfore. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Forlong Terracota Bodega Forlong",
+  "brief": true,
+  "source": "decantalo"
+}

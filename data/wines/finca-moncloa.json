@@ -1,0 +1,40 @@
+{
+  "slug": "finca-moncloa",
+  "name": "Finca Moncloa",
+  "winery": null,
+  "winery_name": "Finca Moncloa",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Cádiz",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Finca Moncloa es un vino tinto de Finca Moncloa, con la denominación VT Cádiz, en España.",
+    "en": "Finca Moncloa is a red wine from Finca Moncloa, made under the VT Cádiz appellation in Spain.",
+    "fr": "Finca Moncloa est un vin rouge de Finca Moncloa, élaboré sous l’appellation VT Cádiz (Espagne).",
+    "it": "Finca Moncloa è un vino rosso di Finca Moncloa, prodotto nella denominazione VT Cádiz (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 14% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Finca Moncloa Finca Moncloa",
+  "brief": true,
+  "source": "decantalo"
+}

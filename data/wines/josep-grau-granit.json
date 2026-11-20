@@ -1,0 +1,40 @@
+{
+  "slug": "josep-grau-granit",
+  "name": "Josep Grau Granit",
+  "winery": null,
+  "winery_name": "Josep Grau Viticultor",
+  "region": "montsant",
+  "country": "espana",
+  "appellation": "DO Montsant",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Josep Grau Granit es un vino blanco de Josep Grau Viticultor, con la denominación DO Montsant, en España.",
+    "en": "Josep Grau Granit is a white wine from Josep Grau Viticultor, made under the DO Montsant appellation in Spain.",
+    "fr": "Josep Grau Granit est un vin blanc de Josep Grau Viticultor, élaboré sous l’appellation DO Montsant (Espagne).",
+    "it": "Josep Grau Granit è un vino bianco di Josep Grau Viticultor, prodotto nella denominazione DO Montsant (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 12 % vol.</p><p>Montsant es una denominación de origen de la provincia de Tarragona creada en 2001, que rodea casi por completo al Priorat. Elabora sobre todo tintos de Garnacha y Cariñena sobre suelos más variados que los de su vecino.</p>",
+    "en": "<p>It is aged in wood. It has 12% ABV.</p><p>Montsant is a designation of origin in the province of Tarragona created in 2001, which almost completely surrounds Priorat. It mainly produces Grenache and Carignan reds on soils more varied than those of its neighbour.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 12 % vol.</p><p>Le Montsant est une dénomination d'origine de la province de Tarragone créée en 2001, qui entoure presque entièrement le Priorat. Il produit surtout des rouges de grenache et de carignan sur des sols plus variés que ceux de son voisin.</p>",
+    "it": "<p>È affinato in legno. Ha 12% vol.</p><p>Montsant è una denominazione di origine della provincia di Tarragona istituita nel 2001, che circonda quasi completamente il Priorat. Produce soprattutto rossi di Garnacha e Carignano su suoli più vari di quelli del vicino.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Josep Grau Granit Josep Grau Viticultor",
+  "brief": true,
+  "source": "decantalo"
+}

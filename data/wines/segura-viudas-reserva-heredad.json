@@ -1,0 +1,49 @@
+{
+  "slug": "segura-viudas-reserva-heredad",
+  "name": "Segura Viudas Reserva Heredad",
+  "winery": "segura-viudas",
+  "region": "cava",
+  "country": "espana",
+  "type": "espumoso",
+  "category": {
+    "es": "Reserva Brut",
+    "en": "Reserva Brut",
+    "fr": "Reserva Brut",
+    "it": "Reserva Brut"
+  },
+  "grapes": [
+    "macabeo",
+    "parellada"
+  ],
+  "summary": {
+    "es": "Cava de alta gama de Segura Viudas, presentado en una botella decorada con piezas metálicas, que procede de una selección de uvas de la finca y de una crianza prolongada.",
+    "en": "Top-of-the-range Cava from Segura Viudas, presented in a bottle decorated with metal pieces, made from a selection of estate grapes with extended ageing.",
+    "fr": "Cava haut de gamme de Segura Viudas, présenté dans une bouteille ornée de pièces métalliques, issu d'une sélection de raisins du domaine et d'un élevage prolongé.",
+    "it": "Cava di alta gamma di Segura Viudas, presentato in una bottiglia ornata da elementi metallici, frutto di una selezione di uve della tenuta e di un affinamento prolungato."
+  },
+  "body": {
+    "es": "<p>Reserva Heredad es el cava más representativo de Segura Viudas y toma su nombre de la <strong>Heredad</strong>, la antigua finca de Torrelavit donde tiene su sede la bodega. Es fácilmente reconocible por su botella oscura adornada con un escudo y una base de metal, una presentación pensada para ocasiones especiales.</p><p>Se elabora principalmente con <strong>macabeo</strong> y <strong>parellada</strong>, a partir de una selección de uvas del Alt Penedès; las proporciones pueden variar según la añada. Tras la segunda fermentación en botella por el método tradicional, permanece sobre sus lías durante un periodo más largo que el de los cavas jóvenes de la casa, lo que le aporta mayor complejidad y una burbuja más integrada. Su dosificación es <strong>brut</strong>. El macabeo da cuerpo y notas de fruta madura, mientras que la parellada aporta finura y frescura. Es un cava de perfil elegante y algo más cremoso, adecuado tanto para el aperitivo como para acompañar una comida completa.</p>",
+    "en": "<p>Reserva Heredad is Segura Viudas' most representative Cava and takes its name from the <strong>Heredad</strong>, the old estate in Torrelavit where the winery is based. It is easily recognised by its dark bottle adorned with a crest and a metal base, a presentation intended for special occasions.</p><p>It is made mainly from <strong>Macabeo</strong> and <strong>Parellada</strong>, from a selection of Alt Penedès grapes; the proportions may vary with the vintage. After the second fermentation in bottle by the traditional method, it rests on its lees for longer than the house's young Cavas, which gives it greater complexity and a more integrated mousse. Its dosage is <strong>Brut</strong>. Macabeo provides body and ripe fruit notes, while Parellada brings finesse and freshness. It is an elegant, somewhat creamier Cava, suitable both as an aperitif and to accompany a full meal.</p>",
+    "fr": "<p>Reserva Heredad est le cava le plus représentatif de Segura Viudas et tient son nom de l'<strong>Heredad</strong>, l'ancien domaine de Torrelavit où la maison a son siège. Il est facilement reconnaissable à sa bouteille sombre ornée d'un blason et d'une base métallique, une présentation pensée pour les grandes occasions.</p><p>Il est élaboré principalement avec du <strong>macabeo</strong> et du <strong>parellada</strong>, à partir d'une sélection de raisins de l'Alt Penedès ; les proportions peuvent varier selon le millésime. Après la seconde fermentation en bouteille selon la méthode traditionnelle, il repose sur ses lies plus longtemps que les cavas jeunes de la maison, ce qui lui apporte davantage de complexité et une bulle mieux intégrée. Son dosage est <strong>brut</strong>. Le macabeo donne du corps et des notes de fruits mûrs, tandis que le parellada apporte finesse et fraîcheur. C'est un cava au profil élégant et un peu plus crémeux, adapté à l'apéritif comme à l'accompagnement d'un repas complet.</p>",
+    "it": "<p>Reserva Heredad è il Cava più rappresentativo di Segura Viudas e prende il nome dalla <strong>Heredad</strong>, l'antica tenuta di Torrelavit dove ha sede la cantina. È facilmente riconoscibile per la bottiglia scura ornata da uno stemma e da una base in metallo, una presentazione pensata per le occasioni speciali.</p><p>È prodotto principalmente con <strong>Macabeo</strong> e <strong>Parellada</strong>, da una selezione di uve dell'Alt Penedès; le proporzioni possono variare secondo l'annata. Dopo la seconda fermentazione in bottiglia con il metodo classico, riposa sui lieviti più a lungo dei Cava giovani della casa, il che gli conferisce maggiore complessità e un perlage più integrato. Il dosaggio è <strong>Brut</strong>. Il Macabeo dà corpo e note di frutta matura, mentre il Parellada apporta finezza e freschezza. È un Cava dal profilo elegante e un po' più cremoso, adatto sia all'aperitivo sia ad accompagnare un pasto completo.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo dorado pálido con burbuja fina. Aromas de fruta blanca madura, flores, frutos secos y notas tostadas de crianza. En boca es cremoso, equilibrado y persistente.",
+    "en": "Pale golden yellow with fine bubbles. Aromas of ripe white fruit, flowers, nuts and toasty ageing notes. Creamy, balanced and persistent on the palate.",
+    "fr": "Jaune doré pâle à la bulle fine. Arômes de fruits blancs mûrs, de fleurs, de fruits secs et notes grillées d'élevage. En bouche, crémeux, équilibré et persistant.",
+    "it": "Giallo dorato tenue con perlage fine. Aromi di frutta bianca matura, fiori, frutta secca e note tostate di affinamento. In bocca è cremoso, equilibrato e persistente."
+  },
+  "pairing": {
+    "es": "Marisco, pescados en salsa, aves, arroces, quesos semicurados",
+    "en": "Shellfish, fish in sauce, poultry, rice dishes, semi-cured cheeses",
+    "fr": "Fruits de mer, poissons en sauce, volailles, riz, fromages mi-affinés",
+    "it": "Frutti di mare, pesce in salsa, pollame, risi, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Segura Viudas Reserva Heredad Cava"
+}

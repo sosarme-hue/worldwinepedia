@@ -1,0 +1,49 @@
+{
+  "slug": "lustau-east-india-solera",
+  "name": "Lustau East India Solera",
+  "winery": "lustau",
+  "region": "jerez-xeres-sherry",
+  "country": "espana",
+  "type": "generoso",
+  "category": {
+    "es": "Cream",
+    "en": "Cream",
+    "fr": "Cream",
+    "it": "Cream"
+  },
+  "grapes": [
+    "palomino",
+    "pedro-ximenez"
+  ],
+  "summary": {
+    "es": "Vino dulce de Lustau que ensambla oloroso y Pedro Ximénez, inspirado en los vinos de Jerez que viajaban en barco a las Indias.",
+    "en": "Sweet wine from Lustau blending oloroso and Pedro Ximénez, inspired by the sherries that once travelled by ship to the Indies.",
+    "fr": "Vin doux de Lustau assemblant oloroso et pedro ximénez, inspiré des vins de Xérès qui voyageaient autrefois par bateau vers les Indes.",
+    "it": "Vino dolce di Lustau che unisce oloroso e Pedro Ximénez, ispirato ai vini di Jerez che un tempo viaggiavano in nave verso le Indie."
+  },
+  "body": {
+    "es": "<p>East India Solera evoca una práctica histórica: en los siglos pasados, algunas botas de vino de Jerez viajaban en barco hasta las Indias y regresaban, y se observó que el calor y el movimiento de la travesía aceleraban su envejecimiento y les daban un carácter particular.</p><p>Para recrear ese efecto, Lustau ensambla un oloroso de <strong>palomino</strong> con vino de <strong>Pedro Ximénez</strong> y cría el conjunto en una solera situada en la zona más cálida y menos ventilada de sus bodegas. El resultado es un vino dulce del estilo <strong>cream</strong>, oscuro y concentrado, en el que la riqueza del PX se equilibra con la complejidad y los matices de frutos secos del oloroso.</p><p>Gracias a su crianza oxidativa y a su alta concentración, se conserva bien durante semanas una vez abierta la botella, siempre que se guarde bien cerrada y en un lugar fresco.</p>",
+    "en": "<p>East India Solera recalls a historic practice: in past centuries some casks of sherry travelled by ship to the Indies and back, and it was noticed that the heat and motion of the voyage hastened their ageing and gave them a particular character.</p><p>To recreate that effect, Lustau blends a <strong>Palomino</strong> oloroso with <strong>Pedro Ximénez</strong> wine and ages the blend in a solera located in the warmest, least ventilated part of its bodegas. The result is a sweet wine in the <strong>cream</strong> style, dark and concentrated, in which the richness of PX is balanced by the complexity and nutty nuances of oloroso.</p><p>Thanks to its oxidative ageing and high concentration, it keeps well for weeks once the bottle is opened, provided it is tightly closed and stored somewhere cool.</p>",
+    "fr": "<p>East India Solera évoque une pratique historique : au cours des siècles passés, certains fûts de Xérès faisaient l'aller-retour en bateau jusqu'aux Indes, et l'on remarqua que la chaleur et le mouvement de la traversée accéléraient leur vieillissement et leur donnaient un caractère particulier.</p><p>Pour recréer cet effet, Lustau assemble un oloroso de <strong>palomino</strong> avec du vin de <strong>pedro ximénez</strong> et élève l'ensemble dans une solera située dans la partie la plus chaude et la moins aérée de ses chais. Il en résulte un vin doux de style <strong>cream</strong>, sombre et concentré, où la richesse du PX est équilibrée par la complexité et les nuances de fruits secs de l'oloroso.</p><p>Grâce à son élevage oxydatif et à sa forte concentration, il se conserve bien pendant des semaines une fois la bouteille ouverte, à condition de la garder bien fermée et au frais.</p>",
+    "it": "<p>East India Solera richiama una pratica storica: nei secoli passati alcune botti di vino di Jerez viaggiavano in nave fino alle Indie e ritorno, e si notò che il caldo e il movimento della traversata ne acceleravano l'invecchiamento conferendo un carattere particolare.</p><p>Per ricreare quell'effetto, Lustau unisce un oloroso di <strong>Palomino</strong> con vino di <strong>Pedro Ximénez</strong> e affina l'insieme in una solera collocata nella parte più calda e meno ventilata delle sue bodegas. Il risultato è un vino dolce di stile <strong>cream</strong>, scuro e concentrato, in cui la ricchezza del PX è bilanciata dalla complessità e dalle note di frutta secca dell'oloroso.</p><p>Grazie all'affinamento ossidativo e all'alta concentrazione, si conserva bene per settimane una volta aperta la bottiglia, purché ben chiusa e in un luogo fresco.</p>"
+  },
+  "tasting": {
+    "es": "Pasas, higos, nuez, caramelo tostado, café y especias. Boca dulce y amplia, con un contrapunto seco de frutos secos en el final.",
+    "en": "Raisins, figs, walnut, toffee, coffee and spice. Sweet, broad palate with a dry, nutty counterpoint on the finish.",
+    "fr": "Raisins secs, figues, noix, caramel brûlé, café et épices. Bouche douce et ample, avec un contrepoint sec de fruits secs en finale.",
+    "it": "Uva passa, fichi, noce, caramello tostato, caffè e spezie. Bocca dolce e ampia, con un contrappunto secco di frutta secca nel finale."
+  },
+  "pairing": {
+    "es": "Postres de frutos secos, chocolate, quesos curados y azules",
+    "en": "Nut desserts, chocolate, aged and blue cheeses",
+    "fr": "Desserts aux fruits secs, chocolat, fromages affinés et persillés",
+    "it": "Dolci alla frutta secca, cioccolato, formaggi stagionati ed erborinati"
+  },
+  "serve": {
+    "es": "12-14 °C, copa pequeña de vino dulce",
+    "en": "12-14 °C, small dessert wine glass",
+    "fr": "12-14 °C, petit verre à vin doux",
+    "it": "12-14 °C, piccolo calice da vino dolce"
+  },
+  "search": "Lustau East India Solera"
+}

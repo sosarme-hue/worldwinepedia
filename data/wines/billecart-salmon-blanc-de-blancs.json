@@ -1,0 +1,48 @@
+{
+  "slug": "billecart-salmon-blanc-de-blancs",
+  "name": "Billecart-Salmon Blanc de Blancs Grand Cru",
+  "winery": "billecart-salmon",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Champagne Brut Blanc de Blancs",
+    "en": "Brut Blanc de Blancs Champagne",
+    "fr": "Champagne brut blanc de blancs",
+    "it": "Champagne Brut Blanc de Blancs"
+  },
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "El blanc de blancs de Billecart-Salmon, un champagne de Chardonnay de la Côte des Blancs, fino, fresco y de burbuja delicada.",
+    "en": "Billecart-Salmon’s blanc de blancs, a Chardonnay champagne from the Côte des Blancs, fine, fresh and delicately sparkling.",
+    "fr": "Le blanc de blancs de Billecart-Salmon, un champagne de chardonnay de la Côte des Blancs, fin, frais et à la bulle délicate.",
+    "it": "Il blanc de blancs di Billecart-Salmon, uno champagne di Chardonnay della Côte des Blancs, fine, fresco e dal perlage delicato."
+  },
+  "body": {
+    "es": "<p>Un champagne <strong>blanc de blancs</strong> se elabora exclusivamente con uvas blancas, que en la práctica significa casi siempre <strong>Chardonnay</strong>. Su gran territorio es la Côte des Blancs, al sur de Épernay, donde los suelos de tiza dan vinos de base tensos, minerales y con buena capacidad de envejecimiento.</p><p>La casa Billecart-Salmon, fundada en 1818 en Mareuil-sur-Aÿ, es conocida por un estilo de champagne fino y elegante, apoyado en fermentaciones a baja temperatura que preservan la frescura y la pureza de la fruta. Su Blanc de Blancs procede de Chardonnay de viñedos grands crus de la Côte des Blancs y se beneficia de una crianza prolongada sobre lías antes del degüelle.</p><p>Es un champagne de cuerpo ligero a medio, con burbuja fina, notas de cítricos, flores blancas y brioche y un final largo y mineral. Funciona muy bien como aperitivo y con mariscos y pescados.</p>",
+    "en": "<p>A <strong>blanc de blancs</strong> champagne is made exclusively from white grapes, which in practice almost always means <strong>Chardonnay</strong>. Its great territory is the Côte des Blancs, south of Épernay, where chalk soils give taut, mineral base wines with good ageing capacity.</p><p>The Billecart-Salmon house, founded in 1818 in Mareuil-sur-Aÿ, is known for a fine and elegant champagne style, based on low-temperature fermentations that preserve the freshness and purity of the fruit. Its Blanc de Blancs comes from grand cru Chardonnay vineyards in the Côte des Blancs and benefits from extended ageing on the lees before disgorgement.</p><p>It is a light- to medium-bodied champagne with a fine bead, notes of citrus, white flowers and brioche, and a long, mineral finish. It works very well as an aperitif and with shellfish and fish.</p>",
+    "fr": "<p>Un champagne <strong>blanc de blancs</strong> est élaboré exclusivement à partir de raisins blancs, ce qui signifie en pratique presque toujours le <strong>chardonnay</strong>. Son grand territoire est la Côte des Blancs, au sud d’Épernay, où les sols de craie donnent des vins de base tendus, minéraux et aptes au vieillissement.</p><p>La maison Billecart-Salmon, fondée en 1818 à Mareuil-sur-Aÿ, est connue pour un style de champagne fin et élégant, fondé sur des fermentations à basse température qui préservent la fraîcheur et la pureté du fruit. Son Blanc de Blancs provient de chardonnays de grands crus de la Côte des Blancs et profite d’un long vieillissement sur lies avant le dégorgement.</p><p>C’est un champagne de corps léger à moyen, à la bulle fine, aux notes d’agrumes, de fleurs blanches et de brioche, et à la finale longue et minérale. Il convient très bien à l’apéritif ainsi qu’aux fruits de mer et aux poissons.</p>",
+    "it": "<p>Uno champagne <strong>blanc de blancs</strong> si ottiene esclusivamente da uve bianche, il che in pratica significa quasi sempre <strong>Chardonnay</strong>. Il suo grande territorio è la Côte des Blancs, a sud di Épernay, dove i suoli gessosi danno vini base tesi, minerali e adatti all’invecchiamento.</p><p>La maison Billecart-Salmon, fondata nel 1818 a Mareuil-sur-Aÿ, è nota per uno stile di champagne fine ed elegante, basato su fermentazioni a bassa temperatura che preservano la freschezza e la purezza del frutto. Il suo Blanc de Blancs proviene da Chardonnay di vigneti grand cru della Côte des Blancs e beneficia di un lungo affinamento sui lieviti prima della sboccatura.</p><p>È uno champagne di corpo leggero-medio, dal perlage fine, con note di agrumi, fiori bianchi e brioche e un finale lungo e minerale. È ottimo come aperitivo e con crostacei e pesce.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido, burbuja fina. Aromas de limón, manzana verde, flores blancas y brioche. Boca fresca y precisa, con final mineral.",
+    "en": "Pale yellow, fine bead. Aromas of lemon, green apple, white flowers and brioche. Fresh, precise palate with a mineral finish.",
+    "fr": "Jaune pâle, bulle fine. Arômes de citron, de pomme verte, de fleurs blanches et de brioche. Bouche fraîche et précise, à la finale minérale.",
+    "it": "Giallo paglierino, perlage fine. Aromi di limone, mela verde, fiori bianchi e brioche. Bocca fresca e precisa, con finale minerale."
+  },
+  "pairing": {
+    "es": "Ostras, sushi, vieiras, pescados a la plancha",
+    "en": "Oysters, sushi, scallops, grilled fish",
+    "fr": "Huîtres, sushis, Saint-Jacques, poissons grillés",
+    "it": "Ostriche, sushi, capesante, pesce alla griglia"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco o de tulipa",
+    "en": "8-10 °C, white wine or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da vino bianco o a tulipano"
+  },
+  "search": "Billecart-Salmon Blanc de Blancs Grand Cru"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "la-vieille-ferme-rose",
+  "name": "La Vieille Ferme Rosé",
+  "winery": "famille-perrin",
+  "region": null,
+  "country": "francia",
+  "type": "rosado",
+  "category": null,
+  "grapes": [
+    "cinsault",
+    "garnacha",
+    "syrah"
+  ],
+  "summary": {
+    "es": "Rosado de La Vieille Ferme, la marca de la familia Perrin: un rosado mediterráneo pálido, fresco y afrutado.",
+    "en": "Rosé from La Vieille Ferme, the Perrin family brand: a pale, fresh and fruity Mediterranean rosé.",
+    "fr": "Rosé de La Vieille Ferme, la marque de la famille Perrin : un rosé méditerranéen pâle, frais et fruité.",
+    "it": "Rosato di La Vieille Ferme, il marchio della famiglia Perrin: un rosato mediterraneo tenue, fresco e fruttato."
+  },
+  "body": {
+    "es": "<p>El rosado de <strong>La Vieille Ferme</strong> completa la gama de la marca creada en 1970 por Jean-Pierre Perrin, de la familia propietaria de Château de Beaucastel, con la idea de ofrecer vinos del sudeste de Francia sencillos, afrutados y asequibles, reconocibles por las gallinas de sus etiquetas.</p><p>Procede de viñedos del sudeste de Francia y se presenta hoy como Vin de France. Se elabora con variedades mediterráneas tintas, principalmente <strong>Cinsault</strong>, <strong>Garnacha</strong> y <strong>Syrah</strong>, en proporciones que varían según la añada. La Cinsault aporta ligereza y frescor, la Garnacha fruta y redondez, y la Syrah algo de color y estructura.</p><p>Las uvas se prensan con un contacto breve con los hollejos para obtener un color pálido, en el estilo de los rosados del sur de Francia, y se vinifican en depósito para conservar la fruta. Es un rosado ligero, seco y refrescante, pensado para beberse en el año.</p>",
+    "en": "<p>The rosé of <strong>La Vieille Ferme</strong> completes the range of the brand created in 1970 by Jean-Pierre Perrin, of the family that owns Château de Beaucastel, with the idea of offering simple, fruity and affordable wines from south-eastern France, recognisable by the hens on their labels.</p><p>It comes from vineyards in south-eastern France and is now presented as Vin de France. It is made from red Mediterranean varieties, mainly <strong>Cinsault</strong>, <strong>Grenache</strong> and <strong>Syrah</strong>, in proportions that vary with the vintage. Cinsault brings lightness and freshness, Grenache fruit and roundness, and Syrah some colour and structure.</p><p>The grapes are pressed with brief skin contact to obtain a pale colour, in the style of southern French rosés, and vinified in tank to preserve the fruit. It is a light, dry, refreshing rosé, intended to be drunk within the year.</p>",
+    "fr": "<p>Le rosé de <strong>La Vieille Ferme</strong> complète la gamme de la marque créée en 1970 par Jean-Pierre Perrin, de la famille propriétaire du château de Beaucastel, avec l'idée de proposer des vins du sud-est de la France simples, fruités et abordables, reconnaissables aux poules de leurs étiquettes.</p><p>Il provient de vignobles du sud-est de la France et est aujourd'hui présenté en Vin de France. Il est élaboré à partir de cépages rouges méditerranéens, principalement le <strong>cinsault</strong>, le <strong>grenache</strong> et la <strong>syrah</strong>, dans des proportions variables selon le millésime. Le cinsault apporte légèreté et fraîcheur, le grenache fruit et rondeur, et la syrah un peu de couleur et de structure.</p><p>Les raisins sont pressés avec une courte macération pour obtenir une couleur pâle, dans le style des rosés du sud de la France, puis vinifiés en cuve pour préserver le fruit. C'est un rosé léger, sec et rafraîchissant, à boire dans l'année.</p>",
+    "it": "<p>Il rosato di <strong>La Vieille Ferme</strong> completa la gamma del marchio creato nel 1970 da Jean-Pierre Perrin, della famiglia proprietaria di Château de Beaucastel, con l'idea di offrire vini del sud-est della Francia semplici, fruttati e accessibili, riconoscibili dalle galline in etichetta.</p><p>Proviene da vigneti del sud-est della Francia ed è oggi presentato come Vin de France. È prodotto con varietà rosse mediterranee, principalmente <strong>Cinsault</strong>, <strong>Grenache</strong> e <strong>Syrah</strong>, in proporzioni che variano secondo l'annata. Il Cinsault apporta leggerezza e freschezza, il Grenache frutto e rotondità, la Syrah un po' di colore e struttura.</p><p>Le uve sono pressate con un breve contatto con le bucce per ottenere un colore tenue, nello stile dei rosati del sud della Francia, e vinificate in vasca per preservare il frutto. È un rosato leggero, secco e rinfrescante, da bere entro l'anno.</p>"
+  },
+  "tasting": {
+    "es": "Rosa pálido. Aromas de fresa, frambuesa, cítricos y un toque floral. Boca ligera, seca y refrescante.",
+    "en": "Pale pink. Aromas of strawberry, raspberry, citrus and a floral touch. Light, dry, refreshing palate.",
+    "fr": "Rose pâle. Arômes de fraise, de framboise, d'agrumes et une touche florale. Bouche légère, sèche et rafraîchissante.",
+    "it": "Rosa tenue. Aromi di fragola, lampone, agrumi e un tocco floreale. Bocca leggera, secca e rinfrescante."
+  },
+  "pairing": {
+    "es": "Aperitivo, ensaladas, cocina mediterránea, barbacoa, pizza",
+    "en": "Aperitif, salads, Mediterranean cooking, barbecue, pizza",
+    "fr": "Apéritif, salades, cuisine méditerranéenne, barbecue, pizza",
+    "it": "Aperitivo, insalate, cucina mediterranea, barbecue, pizza"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da bianco"
+  },
+  "search": "La Vieille Ferme Rosé Famille Perrin"
+}

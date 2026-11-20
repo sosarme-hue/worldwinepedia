@@ -1,0 +1,49 @@
+{
+  "slug": "culmen",
+  "name": "Culmen",
+  "winery": "bodegas-lan",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [
+    "tempranillo",
+    "graciano"
+  ],
+  "summary": {
+    "es": "Tinto de alta gama de Bodegas LAN, elaborado solo en añadas seleccionadas con uva de su finca Viña Lanciano, sobre todo Tempranillo con algo de Graciano.",
+    "en": "Top red from Bodegas LAN, made only in selected vintages from its Viña Lanciano estate, mainly Tempranillo with some Graciano.",
+    "fr": "Rouge haut de gamme de Bodegas LAN, élaboré seulement les millésimes sélectionnés avec le raisin de son domaine Viña Lanciano, surtout du tempranillo avec un peu de graciano.",
+    "it": "Rosso di punta di Bodegas LAN, prodotto solo nelle annate selezionate con uve della tenuta Viña Lanciano, soprattutto Tempranillo con un po’ di Graciano."
+  },
+  "body": {
+    "es": "<p>Culmen, cuyo nombre en latín significa «cumbre», es el vino más ambicioso de Bodegas LAN. Solo se elabora en las añadas que la bodega considera excepcionales y procede de las mejores parcelas de <strong>Viña Lanciano</strong>, la finca que la casa posee en un meandro del Ebro, cerca de Fuenmayor, con suelos de cantos rodados y arcilla.</p><p>Se elabora principalmente con Tempranillo, completado con una pequeña proporción de Graciano que aporta frescura, color y aromas; las proporciones varían según la cosecha. La uva se selecciona en el viñedo y en la bodega, y el vino se cría en barrica de roble durante un periodo prolongado antes de pasar a botella, donde reposa hasta su salida al mercado.</p><p>Frente al perfil clásico del Crianza o del Reserva, Culmen busca mayor concentración y profundidad, con una estructura pensada para la guarda. Conviene decantarlo si se bebe en sus primeros años.</p>",
+    "en": "<p>Culmen, whose Latin name means ‘summit’, is Bodegas LAN’s most ambitious wine. It is made only in vintages the winery considers exceptional and comes from the best plots of <strong>Viña Lanciano</strong>, the estate the house owns in a meander of the Ebro near Fuenmayor, with soils of rounded pebbles and clay.</p><p>It is made mainly from Tempranillo, completed by a small proportion of Graciano that brings freshness, colour and aroma; the proportions vary with the harvest. The grapes are selected in the vineyard and in the winery, and the wine is aged in oak barrels for an extended period before bottling, after which it rests until release.</p><p>In contrast to the classic profile of the Crianza or the Reserva, Culmen seeks greater concentration and depth, with a structure designed for ageing. It is best decanted if drunk in its early years.</p>",
+    "fr": "<p>Culmen, dont le nom latin signifie « sommet », est le vin le plus ambitieux de Bodegas LAN. Il n’est élaboré que les millésimes jugés exceptionnels et provient des meilleures parcelles de <strong>Viña Lanciano</strong>, le domaine que possède la maison dans un méandre de l’Èbre, près de Fuenmayor, aux sols de galets roulés et d’argile.</p><p>Il est élaboré principalement avec du tempranillo, complété par une petite proportion de graciano qui apporte fraîcheur, couleur et arômes ; les proportions varient selon la récolte. Le raisin est sélectionné à la vigne et à la cave, et le vin est élevé en barrique de chêne pendant une longue période avant la mise en bouteille, où il repose jusqu’à sa commercialisation.</p><p>Face au profil classique du Crianza ou du Reserva, Culmen recherche davantage de concentration et de profondeur, avec une structure pensée pour la garde. Mieux vaut le carafer s’il est bu dans ses premières années.</p>",
+    "it": "<p>Culmen, il cui nome latino significa «vetta», è il vino più ambizioso di Bodegas LAN. Si produce solo nelle annate che la cantina considera eccezionali e proviene dalle migliori parcelle di <strong>Viña Lanciano</strong>, la tenuta che la casa possiede in un’ansa dell’Ebro vicino a Fuenmayor, con suoli di ciottoli e argilla.</p><p>È prodotto principalmente con Tempranillo, completato da una piccola percentuale di Graciano che apporta freschezza, colore e aromi; le proporzioni variano secondo la vendemmia. Le uve sono selezionate in vigna e in cantina, e il vino affina in barrique di rovere per un periodo prolungato prima dell’imbottigliamento, dopo il quale riposa fino alla messa in commercio.</p><p>Rispetto al profilo classico del Crianza o del Reserva, Culmen cerca maggiore concentrazione e profondità, con una struttura pensata per l’invecchiamento. Conviene decantarlo se lo si beve nei primi anni.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota intenso. Fruta negra madura, regaliz, especias y notas tostadas y minerales. En boca es denso, con taninos firmes y maduros y un final largo.",
+    "en": "Intense deep cherry red. Ripe black fruit, liquorice, spice and toasty, mineral notes. Dense on the palate, with firm, ripe tannins and a long finish.",
+    "fr": "Rouge cerise burlat intense. Fruits noirs mûrs, réglisse, épices et notes toastées et minérales. Dense en bouche, aux tanins fermes et mûrs, avec une longue finale.",
+    "it": "Rosso ciliegia intenso. Frutta nera matura, liquirizia, spezie e note tostate e minerali. In bocca è denso, con tannini decisi e maturi e un finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, lechazo asado, caza mayor, quesos curados de oveja",
+    "en": "Chargrilled red meat, roast milk-fed lamb, large game, aged sheep’s cheeses",
+    "fr": "Viandes rouges à la braise, agneau de lait rôti, gros gibier, fromages de brebis affinés",
+    "it": "Carni rosse alla brace, agnello da latte arrosto, selvaggina di grossa taglia, pecorini stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Culmen Reserva Bodegas LAN Rioja"
+}

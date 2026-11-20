@@ -1,0 +1,40 @@
+{
+  "slug": "ridge-pagani-ranch",
+  "name": "Ridge Pagani Ranch",
+  "winery": "ridge",
+  "winery_name": null,
+  "region": null,
+  "country": "estados-unidos",
+  "appellation": "AVA Sonoma Valley",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Ridge Pagani Ranch es un vino tinto de Ridge Vineyards, con la denominación AVA Sonoma Valley, en Estados Unidos.",
+    "en": "Ridge Pagani Ranch is a red wine from Ridge Vineyards, made under the AVA Sonoma Valley appellation in United States.",
+    "fr": "Ridge Pagani Ranch est un vin rouge de Ridge Vineyards, élaboré sous l’appellation AVA Sonoma Valley (États-Unis).",
+    "it": "Ridge Pagani Ranch è un vino rosso di Ridge Vineyards, prodotto nella denominazione AVA Sonoma Valley (Stati Uniti)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14,9 % vol.</p><p>Bodega californiana fundada en 1962, célebre por el Cabernet Sauvignon de Monte Bello, en las montañas de Santa Cruz, y por sus Zinfandel de viñas viejas de Sonoma, como Lytton Springs y Geyserville.</p>",
+    "en": "<p>It is aged in wood. It has 14.9% ABV.</p><p>Californian winery founded in 1962, famous for its Monte Bello Cabernet Sauvignon from the Santa Cruz Mountains and for its old-vine Zinfandels from Sonoma, such as Lytton Springs and Geyserville.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14,9 % vol.</p><p>Cave californienne fondée en 1962, célèbre pour le cabernet-sauvignon de Monte Bello, dans les montagnes de Santa Cruz, et pour ses zinfandels de vieilles vignes de Sonoma, comme Lytton Springs et Geyserville.</p>",
+    "it": "<p>È affinato in legno. Ha 14,9% vol.</p><p>Cantina californiana fondata nel 1962, celebre per il Cabernet Sauvignon di Monte Bello, sulle montagne di Santa Cruz, e per gli Zinfandel di vecchie vigne di Sonoma, come Lytton Springs e Geyserville.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Ridge Pagani Ranch Ridge Vineyards",
+  "brief": true,
+  "source": "decantalo"
+}

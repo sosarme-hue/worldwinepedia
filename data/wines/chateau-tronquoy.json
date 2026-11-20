@@ -1,0 +1,45 @@
+{
+  "slug": "chateau-tronquoy",
+  "name": "Château Tronquoy",
+  "winery": "chateau-tronquoy",
+  "region": "saint-estephe",
+  "country": "francia",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "merlot",
+    "cabernet-sauvignon",
+    "petit-verdot"
+  ],
+  "summary": {
+    "es": "Tinto de Saint-Estèphe, antes llamado Château Tronquoy-Lalande, con un ensamblaje en el que Merlot y Petit Verdot tienen un papel destacado.",
+    "en": "Saint-Estèphe red, formerly called Château Tronquoy-Lalande, with a blend in which Merlot and Petit Verdot play a prominent role.",
+    "fr": "Rouge de Saint-Estèphe, autrefois appelé Château Tronquoy-Lalande, dont l'assemblage fait une large place au merlot et au petit verdot.",
+    "it": "Rosso di Saint-Estèphe, un tempo chiamato Château Tronquoy-Lalande, con un taglio in cui Merlot e Petit Verdot hanno un ruolo di rilievo."
+  },
+  "body": {
+    "es": "<p>El vino de <strong>Château Tronquoy</strong> se comercializó durante décadas como <strong>Château Tronquoy-Lalande</strong>; las añadas recientes llevan el nombre abreviado, pero se trata del mismo vino de la misma propiedad de <strong>Saint-Estèphe</strong>, perteneciente a los dueños de Château Montrose.</p><p>Su ensamblaje se aparta del modelo dominante en el Médoc: el <strong>Merlot</strong> ocupa un lugar muy importante, acompañado de <strong>Cabernet Sauvignon</strong> y de una proporción de <strong>Petit Verdot</strong> superior a la habitual, que aporta color, especias y frescor. Las proporciones varían según la añada. Los suelos de gravas y arcillas dan al conjunto la estructura propia de Saint-Estèphe.</p><p>La crianza se realiza en barricas de roble. El resultado es un tinto de fruta generosa y taninos redondos, sostenido por la frescura de la denominación, que resulta accesible bastante pronto y gana complejidad durante una guarda de varios años.</p>",
+    "en": "<p>The wine of <strong>Château Tronquoy</strong> was sold for decades as <strong>Château Tronquoy-Lalande</strong>; recent vintages carry the shorter name, but it is the same wine from the same <strong>Saint-Estèphe</strong> estate, owned by the proprietors of Château Montrose.</p><p>Its blend departs from the dominant Médoc model: <strong>Merlot</strong> plays a very important role, accompanied by <strong>Cabernet Sauvignon</strong> and a higher-than-usual proportion of <strong>Petit Verdot</strong>, which brings colour, spice and freshness. The proportions vary with the vintage. The gravel and clay soils give the wine the structure typical of Saint-Estèphe.</p><p>Ageing takes place in oak barrels. The result is a red with generous fruit and rounded tannins, supported by the freshness of the appellation, which is approachable fairly early and gains complexity over several years of cellaring.</p>",
+    "fr": "<p>Le vin du <strong>Château Tronquoy</strong> a été commercialisé pendant des décennies sous le nom de <strong>Château Tronquoy-Lalande</strong> ; les millésimes récents portent le nom abrégé, mais il s'agit du même vin de la même propriété de <strong>Saint-Estèphe</strong>, appartenant aux propriétaires du Château Montrose.</p><p>Son assemblage s'écarte du modèle dominant en Médoc : le <strong>merlot</strong> y occupe une place très importante, accompagné de <strong>cabernet sauvignon</strong> et d'une proportion de <strong>petit verdot</strong> supérieure à la moyenne, qui apporte couleur, épices et fraîcheur. Les proportions varient selon le millésime. Les sols de graves et d'argiles donnent à l'ensemble la structure propre au saint-estèphe.</p><p>L'élevage se fait en barriques de chêne. Il en résulte un rouge au fruit généreux et aux tanins ronds, porté par la fraîcheur de l'appellation, accessible assez tôt et qui gagne en complexité au fil de plusieurs années de garde.</p>",
+    "it": "<p>Il vino di <strong>Château Tronquoy</strong> è stato commercializzato per decenni come <strong>Château Tronquoy-Lalande</strong>; le annate recenti portano il nome abbreviato, ma si tratta dello stesso vino della stessa tenuta di <strong>Saint-Estèphe</strong>, di proprietà dei titolari di Château Montrose.</p><p>Il suo taglio si discosta dal modello dominante nel Médoc: il <strong>Merlot</strong> occupa un posto molto importante, accompagnato dal <strong>Cabernet Sauvignon</strong> e da una quota di <strong>Petit Verdot</strong> superiore al consueto, che apporta colore, spezie e freschezza. Le proporzioni variano secondo l'annata. I suoli di ghiaie e argille danno all'insieme la struttura propria di Saint-Estèphe.</p><p>L'affinamento avviene in barrique di rovere. Il risultato è un rosso dal frutto generoso e dai tannini rotondi, sostenuto dalla freschezza della denominazione, accessibile abbastanza presto e che acquista complessità nel corso di diversi anni di invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Rojo oscuro. Aromas de ciruela, mora, violeta y especias. Boca carnosa, de taninos redondos y final fresco.",
+    "en": "Deep red. Aromas of plum, blackberry, violet and spice. Fleshy palate with rounded tannins and a fresh finish.",
+    "fr": "Rouge sombre. Arômes de prune, de mûre, de violette et d'épices. Bouche charnue aux tanins ronds et finale fraîche.",
+    "it": "Rosso scuro. Aromi di prugna, mora, viola e spezie. Bocca polposa, tannini rotondi e finale fresco."
+  },
+  "pairing": {
+    "es": "Carnes rojas, cordero, pato, quesos curados",
+    "en": "Red meat, lamb, duck, aged cheeses",
+    "fr": "Viandes rouges, agneau, canard, fromages affinés",
+    "it": "Carni rosse, agnello, anatra, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de Burdeos",
+    "en": "16-18 °C, Bordeaux glass",
+    "fr": "16-18 °C, verre à bordeaux",
+    "it": "16-18 °C, calice da Bordeaux"
+  },
+  "search": "Château Tronquoy Saint-Estèphe"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "caillou-blanc-du-chateau-talbot",
+  "name": "Caillou Blanc du Château Talbot",
+  "winery": "chateau-talbot",
+  "region": "bordeaux",
+  "country": "francia",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "sauvignon-blanc",
+    "semillon"
+  ],
+  "summary": {
+    "es": "Blanco de Château Talbot, elaborado con Sauvignon Blanc y Sémillon de una pequeña parte de su viñedo de Saint-Julien y comercializado como AOC Bordeaux.",
+    "en": "White wine from Château Talbot, made from Sauvignon Blanc and Sémillon grown on a small part of its Saint-Julien vineyard and sold as AOC Bordeaux.",
+    "fr": "Blanc de Château Talbot, élaboré avec du sauvignon blanc et du sémillon issus d’une petite partie de son vignoble de Saint-Julien et commercialisé en AOC Bordeaux.",
+    "it": "Bianco di Château Talbot, prodotto con Sauvignon Blanc e Sémillon di una piccola parte del suo vigneto di Saint-Julien e commercializzato come AOC Bordeaux."
+  },
+  "body": {
+    "es": "<p>El Caillou Blanc es una rareza en el Médoc, una zona dedicada casi exclusivamente a los vinos tintos. Château Talbot reserva una pequeña parte de su viñedo a las variedades blancas, y como las denominaciones comunales del Médoc, como Saint-Julien, solo amparan tintos, el vino se comercializa bajo la denominación genérica <strong>Bordeaux</strong>. Su nombre, «guijarro blanco», alude a los cantos rodados de las gravas de la zona.</p><p>Se elabora con <strong>Sauvignon Blanc</strong>, que suele ser mayoritaria y aporta frescura aromática, y <strong>Sémillon</strong>, que da cuerpo y textura; las proporciones varían según la añada. La fermentación y una crianza parcial en barrica, a menudo con trabajo sobre lías, le confieren una textura más amplia que la de un blanco joven sin madera.</p><p>Es un blanco seco de perfil fresco y aromático, con notas de cítricos y frutas blancas y un ligero toque tostado. Puede disfrutarse joven, aunque las buenas añadas evolucionan favorablemente durante algunos años.</p>",
+    "en": "<p>Caillou Blanc is a rarity in the Médoc, an area devoted almost exclusively to red wines. Château Talbot sets aside a small part of its vineyard for white varieties, and since the Médoc communal appellations, such as Saint-Julien, cover only reds, the wine is sold under the generic <strong>Bordeaux</strong> appellation. Its name, “white pebble”, refers to the rounded stones in the local gravels.</p><p>It is made from <strong>Sauvignon Blanc</strong>, usually the majority, which brings aromatic freshness, and <strong>Sémillon</strong>, which adds body and texture; the proportions vary with the vintage. Fermentation and partial barrel ageing, often with lees work, give it a broader texture than that of a young unoaked white.</p><p>It is a dry white with a fresh, aromatic profile, notes of citrus and white fruit and a light toasty touch. It can be enjoyed young, although good vintages develop well for a few years.</p>",
+    "fr": "<p>Le Caillou Blanc est une rareté dans le Médoc, une région presque exclusivement consacrée aux vins rouges. Château Talbot réserve une petite partie de son vignoble aux cépages blancs et, comme les appellations communales du Médoc telles que Saint-Julien ne couvrent que des rouges, le vin est commercialisé sous l’appellation générique <strong>Bordeaux</strong>. Son nom fait allusion aux galets roulés des graves de la zone.</p><p>Il est élaboré avec du <strong>sauvignon blanc</strong>, généralement majoritaire, qui apporte la fraîcheur aromatique, et du <strong>sémillon</strong>, qui donne corps et texture ; les proportions varient selon le millésime. La fermentation et un élevage partiel en barrique, souvent avec un travail sur lies, lui confèrent une texture plus ample que celle d’un blanc jeune sans bois.</p><p>C’est un blanc sec au profil frais et aromatique, avec des notes d’agrumes et de fruits blancs et une légère touche toastée. Il peut être apprécié jeune, mais les bons millésimes évoluent favorablement pendant quelques années.</p>",
+    "it": "<p>Il Caillou Blanc è una rarità nel Médoc, una zona dedicata quasi esclusivamente ai vini rossi. Château Talbot riserva una piccola parte del suo vigneto alle varietà bianche e, poiché le denominazioni comunali del Médoc come Saint-Julien comprendono solo rossi, il vino è commercializzato con la denominazione generica <strong>Bordeaux</strong>. Il nome, «ciottolo bianco», allude ai ciottoli arrotondati delle ghiaie della zona.</p><p>È prodotto con <strong>Sauvignon Blanc</strong>, di solito maggioritario, che apporta freschezza aromatica, e <strong>Sémillon</strong>, che dà corpo e tessitura; le proporzioni variano secondo l’annata. La fermentazione e un affinamento parziale in barrique, spesso con lavoro sulle fecce, gli conferiscono una tessitura più ampia di quella di un bianco giovane senza legno.</p><p>È un bianco secco dal profilo fresco e aromatico, con note di agrumi e frutta bianca e un leggero tocco tostato. Si può gustare giovane, ma le buone annate evolvono favorevolmente per qualche anno.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido brillante. Aromas de pomelo, limón, melocotón blanco y un ligero toque tostado. Boca fresca y untuosa a la vez, con buena acidez y final limpio.",
+    "en": "Bright pale yellow. Aromas of grapefruit, lemon, white peach and a light toasty touch. Palate both fresh and creamy, with good acidity and a clean finish.",
+    "fr": "Robe jaune pâle brillante. Arômes de pamplemousse, de citron, de pêche blanche et une légère touche toastée. Bouche à la fois fraîche et onctueuse, avec une bonne acidité et une finale nette.",
+    "it": "Giallo paglierino brillante. Aromi di pompelmo, limone, pesca bianca e un leggero tocco tostato. Bocca al tempo stesso fresca e cremosa, con buona acidità e finale pulito."
+  },
+  "pairing": {
+    "es": "Pescados a la plancha, marisco, pollo asado, quesos de cabra",
+    "en": "Grilled fish, shellfish, roast chicken, goat’s cheeses",
+    "fr": "Poissons grillés, fruits de mer, poulet rôti, fromages de chèvre",
+    "it": "Pesce alla piastra, frutti di mare, pollo arrosto, formaggi di capra"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de vino blanco",
+    "en": "10-12 °C, white wine glass",
+    "fr": "10-12 °C, verre à vin blanc",
+    "it": "10-12 °C, calice da vino bianco"
+  },
+  "search": "Caillou Blanc du Château Talbot Bordeaux Blanc"
+}

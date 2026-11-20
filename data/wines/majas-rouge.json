@@ -1,0 +1,40 @@
+{
+  "slug": "majas-rouge",
+  "name": "Majas Rouge",
+  "winery": null,
+  "winery_name": "Domaine Majas",
+  "region": null,
+  "country": "francia",
+  "appellation": "IGP des Côtes Catalanes",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Majas Rouge es un vino tinto de Domaine Majas, con la denominación IGP des Côtes Catalanes, en Francia.",
+    "en": "Majas Rouge is a red wine from Domaine Majas, made under the IGP des Côtes Catalanes appellation in France.",
+    "fr": "Majas Rouge est un vin rouge de Domaine Majas, élaboré sous l’appellation IGP des Côtes Catalanes (France).",
+    "it": "Majas Rouge è un vino rosso di Domaine Majas, prodotto nella denominazione IGP des Côtes Catalanes (Francia)."
+  },
+  "body": {
+    "es": "<p>Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 13,2 % vol.</p>",
+    "en": "<p>It is a young wine, meant to be drunk in its first years. It has 13.2% ABV.</p>",
+    "fr": "<p>C’est un vin jeune, à boire dans ses premières années. Il titre 13,2 % vol.</p>",
+    "it": "<p>È un vino giovane, da bere nei primi anni. Ha 13,2% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Majas Rouge Domaine Majas",
+  "brief": true,
+  "source": "decantalo"
+}

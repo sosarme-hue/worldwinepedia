@@ -1,0 +1,42 @@
+{
+  "slug": "finca-l-argata",
+  "name": "Finca l'Argatà",
+  "winery": null,
+  "winery_name": "Joan d'Anguera",
+  "region": null,
+  "country": "espana",
+  "appellation": "Vino de Mesa",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Finca l'Argatà es un vino tinto de Joan d'Anguera, con la denominación Vino de Mesa, en España.",
+    "en": "Finca l'Argatà is a red wine from Joan d'Anguera, made under the Vino de Mesa appellation in Spain.",
+    "fr": "Finca l'Argatà est un vin rouge de Joan d'Anguera, élaboré sous l’appellation Vino de Mesa (Espagne).",
+    "it": "Finca l'Argatà è un vino rosso di Joan d'Anguera, prodotto nella denominazione Vino de Mesa (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Tiene crianza en madera. Su graduación es de 14 % vol.</p>",
+    "en": "<p>It is made from Grenache. It is aged in wood. It has 14% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. Il est élevé en bois. Il titre 14 % vol.</p>",
+    "it": "<p>È prodotto con Grenache. È affinato in legno. Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Finca l'Argatà Joan d'Anguera",
+  "brief": true,
+  "source": "decantalo"
+}

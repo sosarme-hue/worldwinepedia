@@ -1,0 +1,40 @@
+{
+  "slug": "corimbo",
+  "name": "Corimbo",
+  "winery": null,
+  "winery_name": "La Horra",
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "appellation": "DO Ribera del Duero",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Corimbo es un vino tinto de La Horra, con la denominación DO Ribera del Duero, en España.",
+    "en": "Corimbo is a red wine from La Horra, made under the DO Ribera del Duero appellation in Spain.",
+    "fr": "Corimbo est un vin rouge de La Horra, élaboré sous l’appellation DO Ribera del Duero (Espagne).",
+    "it": "Corimbo è un vino rosso di La Horra, prodotto nella denominazione DO Ribera del Duero (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14,5 % vol.</p><p>Ribera del Duero es una denominación de origen de Castilla y León, creada en 1982, que se extiende a lo largo del río Duero en una meseta de gran altitud. Es conocida por sus tintos de Tempranillo, llamada aquí Tinto Fino o Tinta del País.</p>",
+    "en": "<p>It is aged in wood. It has 14.5% ABV.</p><p>Ribera del Duero is a designation of origin in Castilla y León, created in 1982, that runs along the Duero river on a high plateau. It is known for its reds made from Tempranillo, called Tinto Fino or Tinta del País locally.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14,5 % vol.</p><p>La Ribera del Duero est une dénomination d'origine de Castille-et-León, créée en 1982, qui s'étend le long du Douro sur un haut plateau. Elle est connue pour ses rouges de tempranillo, appelé ici tinto fino ou tinta del país.</p>",
+    "it": "<p>È affinato in legno. Ha 14,5% vol.</p><p>Ribera del Duero è una denominazione di origine della Castiglia e León, istituita nel 1982, che si estende lungo il fiume Duero su un altopiano elevato. È nota per i rossi di Tempranillo, chiamato qui Tinto Fino o Tinta del País.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Corimbo La Horra",
+  "brief": true,
+  "source": "decantalo"
+}

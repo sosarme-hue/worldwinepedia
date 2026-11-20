@@ -1,0 +1,40 @@
+{
+  "slug": "petrelli-salento",
+  "name": "Petrelli Salento",
+  "winery": null,
+  "winery_name": "Petrilli",
+  "region": null,
+  "country": "italia",
+  "appellation": "IGT Salento",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Petrelli Salento es un vino tinto de Petrilli, con la denominación IGT Salento, en Italia.",
+    "en": "Petrelli Salento is a red wine from Petrilli, made under the IGT Salento appellation in Italy.",
+    "fr": "Petrelli Salento est un vin rouge de Petrilli, élaboré sous l’appellation IGT Salento (Italie).",
+    "it": "Petrelli Salento è un vino rosso di Petrilli, prodotto nella denominazione IGT Salento (Italia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 14% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Petrelli Salento Petrilli",
+  "brief": true,
+  "source": "decantalo"
+}

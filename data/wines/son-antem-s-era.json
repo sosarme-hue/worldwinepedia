@@ -1,0 +1,40 @@
+{
+  "slug": "son-antem-s-era",
+  "name": "Son Antem S'Era",
+  "winery": null,
+  "winery_name": "Son Antem Alaró",
+  "region": null,
+  "country": "espana",
+  "appellation": "IGP Mallorca",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Son Antem S'Era es un vino tinto de Son Antem Alaró, con la denominación IGP Mallorca, en España.",
+    "en": "Son Antem S'Era is a red wine from Son Antem Alaró, made under the IGP Mallorca appellation in Spain.",
+    "fr": "Son Antem S'Era est un vin rouge de Son Antem Alaró, élaboré sous l’appellation IGP Mallorca (Espagne).",
+    "it": "Son Antem S'Era è un vino rosso di Son Antem Alaró, prodotto nella denominazione IGP Mallorca (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 12,5 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Son Antem S'Era Son Antem Alaró",
+  "brief": true,
+  "source": "decantalo"
+}

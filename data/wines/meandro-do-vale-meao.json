@@ -1,0 +1,45 @@
+{
+  "slug": "meandro-do-vale-meao",
+  "name": "Meandro do Vale Meão",
+  "winery": "quinta-do-vale-meao",
+  "region": "douro",
+  "country": "portugal",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "touriga-nacional",
+    "touriga-franca",
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Segundo tinto de Quinta do Vale Meão, elaborado con uvas de la misma finca del Douro Superior, más accesible en su juventud que el vino principal.",
+    "en": "Second red of Quinta do Vale Meão, made from the same Douro Superior estate, more approachable in youth than the main wine.",
+    "fr": "Second rouge de la Quinta do Vale Meão, élaboré avec les raisins du même domaine du Douro Superior, plus accessible dans sa jeunesse que le vin principal.",
+    "it": "Secondo rosso della Quinta do Vale Meão, prodotto con uve della stessa tenuta del Douro Superior, più accessibile in gioventù del vino principale."
+  },
+  "body": {
+    "es": "<p>Meandro toma su nombre del gran meandro que forma el río Douro en torno a Quinta do Vale Meão, la finca creada por Dona Antónia Ferreira en el Douro Superior. Es el segundo tinto de la casa y se elabora con uvas de la propia quinta que no se destinan al vino principal, ya sea por la edad de las cepas o por la selección de cada cosecha.</p><p>Las variedades son las mismas que en el Quinta do Vale Meão: Touriga Nacional, Touriga Franca y Tinta Roriz (Tempranillo), además de Tinta Barroca y Sousão, en proporciones que varían según el año. La vinificación sigue un planteamiento similar, con fermentación en <em>lagares</em> y depósitos, pero la crianza en barrica es más corta y se emplea una mayor proporción de madera usada, para preservar la fruta y obtener un vino más abierto desde su salida al mercado.</p><p>El resultado es un tinto del Douro de fruta expresiva y taninos más suaves, que permite conocer el carácter de la finca sin necesidad de una larga guarda, aunque puede evolucionar bien algunos años.</p>",
+    "en": "<p>Meandro takes its name from the great bend that the river Douro forms around Quinta do Vale Meão, the estate created by Dona Antónia Ferreira in the Douro Superior. It is the house’s second red and is made from estate grapes not used for the main wine, whether because of the age of the vines or the selection made each vintage.</p><p>The varieties are the same as in Quinta do Vale Meão: Touriga Nacional, Touriga Franca and Tinta Roriz (Tempranillo), plus Tinta Barroca and Sousão, in proportions that vary with the year. Winemaking follows a similar approach, with fermentation in <em>lagares</em> and tanks, but barrel ageing is shorter and a larger share of used wood is employed, to preserve fruit and obtain a wine that is more open on release.</p><p>The result is a Douro red with expressive fruit and softer tannins, which reveals the character of the estate without the need for long cellaring, although it can develop well for a few years.</p>",
+    "fr": "<p>Meandro tire son nom du grand méandre que forme le Douro autour de la Quinta do Vale Meão, le domaine créé par Dona Antónia Ferreira dans le Douro Superior. C’est le second rouge de la maison, élaboré avec des raisins du domaine qui ne sont pas destinés au vin principal, en raison de l’âge des vignes ou de la sélection opérée à chaque récolte.</p><p>Les cépages sont les mêmes que pour le Quinta do Vale Meão : touriga nacional, touriga franca et tinta roriz (tempranillo), ainsi que tinta barroca et sousão, dans des proportions qui varient selon l’année. La vinification suit une approche similaire, avec fermentation en <em>lagares</em> et en cuves, mais l’élevage en barrique est plus court et fait appel à une plus grande part de bois usagé, afin de préserver le fruit et d’obtenir un vin plus ouvert dès sa commercialisation.</p><p>Le résultat est un rouge du Douro au fruit expressif et aux tanins plus souples, qui permet de découvrir le caractère du domaine sans longue garde, même s’il peut bien évoluer quelques années.</p>",
+    "it": "<p>Meandro prende il nome dalla grande ansa che il fiume Douro forma intorno alla Quinta do Vale Meão, la tenuta creata da Dona Antónia Ferreira nel Douro Superior. È il secondo rosso della casa ed è prodotto con uve della quinta non destinate al vino principale, per l’età delle viti o per la selezione fatta a ogni vendemmia.</p><p>Le varietà sono le stesse del Quinta do Vale Meão: Touriga Nacional, Touriga Franca e Tinta Roriz (Tempranillo), oltre a Tinta Barroca e Sousão, in proporzioni che variano secondo l’annata. La vinificazione segue un approccio simile, con fermentazione in <em>lagares</em> e vasche, ma l’affinamento in barrique è più breve e si usa una quota maggiore di legno usato, per preservare il frutto e ottenere un vino più aperto fin dall’uscita.</p><p>Il risultato è un rosso del Douro dal frutto espressivo e dai tannini più morbidi, che permette di conoscere il carattere della tenuta senza un lungo invecchiamento, anche se può evolvere bene per alcuni anni.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso con ribete violáceo. Aromas de frutos negros y rojos maduros, flores y un toque especiado. Boca de cuerpo medio a alto, jugosa, con taninos pulidos y buena frescura.",
+    "en": "Intense ruby with a violet rim. Aromas of ripe black and red fruit, flowers and a spicy touch. Medium to full-bodied, juicy palate with polished tannins and good freshness.",
+    "fr": "Rubis intense au disque violacé. Arômes de fruits noirs et rouges mûrs, de fleurs et une touche épicée. Bouche de corps moyen à ample, juteuse, aux tanins polis et à la bonne fraîcheur.",
+    "it": "Rubino intenso con unghia violacea. Aromi di frutti neri e rossi maturi, fiori e un tocco speziato. Sorso di corpo medio-pieno, succoso, con tannini levigati e buona freschezza."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la parrilla, arroz de pato, cordero, quesos semicurados",
+    "en": "Grilled red meat, duck rice, lamb, semi-hard cheeses",
+    "fr": "Viandes rouges grillées, riz au canard, agneau, fromages mi-affinés",
+    "it": "Carni rosse alla griglia, riso all’anatra, agnello, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Meandro do Vale Meão Douro tinto"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "gramona-iii-lustros",
+  "name": "Gramona III Lustros",
+  "winery": "gramona",
+  "region": "penedes",
+  "country": "espana",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut Nature",
+    "en": "Brut Nature",
+    "fr": "Brut Nature",
+    "it": "Brut Nature"
+  },
+  "grapes": ["xarel-lo", "macabeo"],
+  "summary": {
+    "es": "Espumoso Brut Nature de crianza muy prolongada de Gramona, basado en xarel·lo, uno de los vinos que mejor ilustran el potencial de envejecimiento de los espumosos del Penedès.",
+    "en": "Very long-aged Brut Nature sparkling wine from Gramona, based on Xarel·lo, one of the wines that best show the ageing potential of Penedès sparkling wines.",
+    "fr": "Effervescent Brut Nature à très long vieillissement de Gramona, fondé sur le xarel·lo, l'un des vins qui illustrent le mieux le potentiel de garde des effervescents du Penedès.",
+    "it": "Spumante Brut Nature a lunghissimo affinamento di Gramona, a base di Xarel·lo, uno dei vini che meglio illustrano il potenziale di invecchiamento degli spumanti del Penedès."
+  },
+  "body": {
+    "es": "<p>III Lustros es uno de los espumosos más reconocidos de Gramona. Su nombre alude a los «lustros», periodos de cinco años, y remite a la idea de tiempo que define a este vino. Se elabora con uvas de viñedos de la familia, principalmente <strong>xarel·lo</strong>, junto a <strong>macabeo</strong>, de una sola añada.</p><p>Tras la segunda fermentación en botella, que se realiza con tapón de corcho en lugar de chapa, el vino permanece durante muchos años en contacto con sus lías antes del degüelle, que se hace a mano. Es un <strong>Brut Nature</strong>, sin azúcar añadido, por lo que la acidez del xarel·lo sostiene una crianza tan larga. El resultado es un espumoso de gran complejidad, más vinoso que la mayoría, que se comercializa bajo la marca <strong>Corpinnat</strong>.</p>",
+    "en": "<p>III Lustros is one of Gramona's most acclaimed sparkling wines. Its name refers to «lustra», periods of five years, and to the idea of time that defines this wine. It is made from grapes from the family's vineyards, mainly <strong>Xarel·lo</strong> together with <strong>Macabeo</strong>, from a single vintage.</p><p>After the second fermentation in bottle, carried out under a cork stopper rather than a crown cap, the wine spends many years in contact with its lees before disgorgement, which is done by hand. It is a <strong>Brut Nature</strong>, with no added sugar, so it is the acidity of Xarel·lo that sustains such long ageing. The result is a sparkling wine of great complexity, more vinous than most, released under the <strong>Corpinnat</strong> brand.</p>",
+    "fr": "<p>III Lustros est l'un des effervescents les plus réputés de Gramona. Son nom fait allusion aux « lustres », périodes de cinq ans, et renvoie à l'idée de temps qui définit ce vin. Il est élaboré avec des raisins des vignes de la famille, principalement du <strong>xarel·lo</strong> avec du <strong>macabeu</strong>, d'un seul millésime.</p><p>Après la seconde fermentation en bouteille, réalisée sous bouchon de liège plutôt que sous capsule, le vin reste de longues années au contact de ses lies avant le dégorgement, effectué à la main. C'est un <strong>Brut Nature</strong>, sans sucre ajouté : c'est l'acidité du xarel·lo qui soutient un élevage aussi long. Il en résulte un effervescent d'une grande complexité, plus vineux que la plupart, commercialisé sous la marque <strong>Corpinnat</strong>.</p>",
+    "it": "<p>III Lustros è uno degli spumanti più apprezzati di Gramona. Il nome allude ai «lustri», periodi di cinque anni, e richiama l'idea di tempo che definisce questo vino. È prodotto con uve dei vigneti di famiglia, principalmente <strong>Xarel·lo</strong> insieme a <strong>Macabeo</strong>, di una sola annata.</p><p>Dopo la seconda fermentazione in bottiglia, realizzata con tappo di sughero anziché a corona, il vino resta per molti anni a contatto con i lieviti prima della sboccatura, eseguita a mano. È un <strong>Brut Nature</strong>, senza zucchero aggiunto: è l'acidità dello Xarel·lo a sostenere un affinamento così lungo. Il risultato è uno spumante di grande complessità, più vinoso della maggior parte, commercializzato con il marchio <strong>Corpinnat</strong>.</p>"
+  },
+  "tasting": {
+    "es": "Notas de fruta blanca madura, cítricos confitados, frutos secos tostados, pan y un fondo salino. Boca seca y vinosa, burbuja muy fina y final largo.",
+    "en": "Notes of ripe white fruit, candied citrus, toasted nuts, bread and a saline background. Dry, vinous palate, very fine bubbles and a long finish.",
+    "fr": "Notes de fruits blancs mûrs, d'agrumes confits, de fruits secs grillés, de pain et fond salin. Bouche sèche et vineuse, bulles très fines, finale longue.",
+    "it": "Note di frutta bianca matura, agrumi canditi, frutta secca tostata, pane e un fondo salino. Bocca secca e vinosa, perlage finissimo e finale lungo."
+  },
+  "pairing": {
+    "es": "Marisco, pescados nobles, arroces, aves, quesos curados",
+    "en": "Shellfish, fine fish, rice dishes, poultry, aged cheeses",
+    "fr": "Fruits de mer, poissons nobles, plats de riz, volailles, fromages affinés",
+    "it": "Frutti di mare, pesci pregiati, risi, pollame, formaggi stagionati"
+  },
+  "serve": {
+    "es": "9-11 °C, copa de vino blanco",
+    "en": "9-11 °C, white wine glass",
+    "fr": "9-11 °C, verre à vin blanc",
+    "it": "9-11 °C, calice da vino bianco"
+  },
+  "search": "Gramona III Lustros Brut Nature"
+}

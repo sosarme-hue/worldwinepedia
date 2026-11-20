@@ -1,0 +1,50 @@
+{
+  "slug": "chateau-figeac",
+  "name": "Château Figeac",
+  "winery": "chateau-figeac",
+  "region": "saint-emilion",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Premier Grand Cru Classé",
+    "en": "Premier Grand Cru Classé",
+    "fr": "Premier Grand Cru Classé",
+    "it": "Premier Grand Cru Classé"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "cabernet-franc",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Gran vino de Château Figeac, premier grand cru classé de Saint-Émilion, un tinto singular que ensambla Cabernet Sauvignon, Cabernet Franc y Merlot sobre suelos de grava.",
+    "en": "Grand vin of Château Figeac, Saint-Émilion premier grand cru classé, a distinctive red blending Cabernet Sauvignon, Cabernet Franc and Merlot from gravel soils.",
+    "fr": "Grand vin de Château Figeac, premier grand cru classé de Saint-Émilion, un rouge singulier assemblant cabernet-sauvignon, cabernet franc et merlot sur des sols de graves.",
+    "it": "Grand vin di Château Figeac, premier grand cru classé di Saint-Émilion, un rosso singolare che unisce Cabernet Sauvignon, Cabernet Franc e Merlot su suoli ghiaiosi."
+  },
+  "body": {
+    "es": "<p>El gran vino de <strong>Château Figeac</strong> procede de las lomas de grava que la propiedad ocupa en el oeste de Saint-Émilion, junto a Pomerol. Estos suelos, poco habituales en la denominación, explican su encepado: la <strong>Cabernet Sauvignon</strong>, la Cabernet Franc y la Merlot se reparten el viñedo en proporciones similares, lo que distingue a Figeac de la mayoría de los grandes vinos de la orilla derecha, dominados por la Merlot.</p><p>Cada parcela se vinifica por separado y el vino se cría en barricas de roble francés durante un periodo prolongado. Clasificado como premier grand cru classé, fue promovido a la categoría A en la clasificación de 2022.</p><p>El resultado es un tinto de gran frescura y complejidad aromática, con fruta roja y negra, notas de cedro, tabaco y hierbas, taninos finos y una estructura que le permite envejecer durante décadas. En su juventud conviene decantarlo con antelación.</p>",
+    "en": "<p>The grand vin of <strong>Château Figeac</strong> comes from the gravel knolls the estate occupies in western Saint-Émilion, next to Pomerol. These soils, unusual in the appellation, explain its plantings: <strong>Cabernet Sauvignon</strong>, Cabernet Franc and Merlot share the vineyard in similar proportions, which sets Figeac apart from most of the great Right Bank wines, dominated by Merlot.</p><p>Each plot is vinified separately and the wine is aged in French oak barrels for an extended period. Classified as premier grand cru classé, it was promoted to category A in the 2022 classification.</p><p>The result is a red of great freshness and aromatic complexity, with red and black fruit, notes of cedar, tobacco and herbs, fine tannins and a structure that allows it to age for decades. In its youth it is best decanted well in advance.</p>",
+    "fr": "<p>Le grand vin de <strong>Château Figeac</strong> provient des croupes de graves que la propriété occupe à l’ouest de Saint-Émilion, près de Pomerol. Ces sols, rares dans l’appellation, expliquent son encépagement : le <strong>cabernet-sauvignon</strong>, le cabernet franc et le merlot se partagent le vignoble dans des proportions voisines, ce qui distingue Figeac de la plupart des grands vins de la rive droite, dominés par le merlot.</p><p>Chaque parcelle est vinifiée séparément et le vin est élevé en barriques de chêne français pendant une période prolongée. Classé premier grand cru classé, il a été promu en catégorie A lors du classement de 2022.</p><p>Le résultat est un rouge d’une grande fraîcheur et d’une grande complexité aromatique, aux fruits rouges et noirs, aux notes de cèdre, de tabac et d’herbes, aux tanins fins et à la structure qui lui permet de vieillir pendant des décennies. Dans sa jeunesse, il gagne à être carafé longtemps à l’avance.</p>",
+    "it": "<p>Il grand vin di <strong>Château Figeac</strong> proviene dalle colline ghiaiose che la tenuta occupa nell’ovest di Saint-Émilion, accanto a Pomerol. Questi suoli, insoliti nella denominazione, spiegano la composizione del vigneto: <strong>Cabernet Sauvignon</strong>, Cabernet Franc e Merlot vi si dividono lo spazio in proporzioni simili, il che distingue Figeac dalla maggior parte dei grandi vini della riva destra, dominati dal Merlot.</p><p>Ogni parcella è vinificata separatamente e il vino è affinato in barrique di rovere francese per un periodo prolungato. Classificato premier grand cru classé, è stato promosso alla categoria A nella classificazione del 2022.</p><p>Il risultato è un rosso di grande freschezza e complessità aromatica, con frutto rosso e nero, note di cedro, tabacco ed erbe, tannini fini e una struttura che gli consente di invecchiare per decenni. Da giovane conviene decantarlo con largo anticipo.</p>"
+  },
+  "tasting": {
+    "es": "Grosella negra, cereza, frambuesa, cedro, tabaco, hierbas y especias. Boca fresca y elegante, de taninos finos y final muy largo.",
+    "en": "Blackcurrant, cherry, raspberry, cedar, tobacco, herbs and spice. Fresh, elegant palate with fine tannins and a very long finish.",
+    "fr": "Cassis, cerise, framboise, cèdre, tabac, herbes et épices. Bouche fraîche et élégante, tanins fins et finale très longue.",
+    "it": "Ribes nero, ciliegia, lampone, cedro, tabacco, erbe e spezie. Bocca fresca ed elegante, tannini fini e finale molto lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, entrecot, caza, pato, quesos curados",
+    "en": "Roast lamb, rib steak, game, duck, aged cheeses",
+    "fr": "Agneau rôti, entrecôte, gibier, canard, fromages affinés",
+    "it": "Agnello arrosto, entrecôte, selvaggina, anatra, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Château Figeac Saint-Émilion Grand Cru"
+}

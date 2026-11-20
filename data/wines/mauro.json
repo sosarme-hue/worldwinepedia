@@ -1,0 +1,44 @@
+{
+  "slug": "mauro",
+  "name": "Mauro",
+  "winery": "bodegas-mauro",
+  "region": null,
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tempranillo",
+    "syrah"
+  ],
+  "summary": {
+    "es": "Tinto principal de Bodegas Mauro, en Tudela de Duero, elaborado con Tempranillo y una pequeña proporción de Syrah, y amparado en la indicación Vino de la Tierra de Castilla y León.",
+    "en": "The main red of Bodegas Mauro in Tudela de Duero, made from Tempranillo with a small proportion of Syrah and sold under the Vino de la Tierra de Castilla y León designation.",
+    "fr": "Rouge principal de Bodegas Mauro, à Tudela de Duero, élaboré avec du tempranillo et une petite proportion de syrah, et relevant de l’indication Vino de la Tierra de Castilla y León.",
+    "it": "Rosso principale di Bodegas Mauro, a Tudela de Duero, prodotto con Tempranillo e una piccola percentuale di Syrah, e commercializzato come Vino de la Tierra de Castilla y León."
+  },
+  "body": {
+    "es": "<p>Mauro es el vino con el que Mariano García y su familia iniciaron su bodega en Tudela de Duero, con la añada de 1980, y sigue siendo el tinto principal de la casa. Tudela se encuentra en el valle del Duero, aguas abajo de la zona amparada por la Denominación de Origen Ribera del Duero y fuera de sus límites, por lo que el vino se comercializa como Vino de la Tierra de Castilla y León.</p><p>Se elabora principalmente con Tempranillo, completado con una pequeña proporción de Syrah, que la bodega puede utilizar con libertad al no estar sujeta a las normas de la denominación vecina; las proporciones varían según la añada. La uva procede de viñedos propios y de viticultores de la zona, en terrazas del Duero y en páramos calizos. El vino se cría en barricas de roble y reposa en botella antes de su salida al mercado.</p><p>El resultado es un tinto de fruta madura, estructura equilibrada y crianza bien integrada, con capacidad para evolucionar varios años.</p>",
+    "en": "<p>Mauro is the wine with which Mariano García and his family started their winery in Tudela de Duero, with the 1980 vintage, and it remains the house’s main red. Tudela lies in the Duero valley, downstream of the area covered by the Ribera del Duero Denominación de Origen and outside its boundaries, so the wine is sold as Vino de la Tierra de Castilla y León.</p><p>It is made mainly from Tempranillo, completed by a small proportion of Syrah, which the winery can use freely as it is not bound by the rules of the neighbouring appellation; the proportions vary with the vintage. The grapes come from its own vineyards and from local growers, on Duero terraces and limestone uplands. The wine is aged in oak barrels and rests in bottle before release.</p><p>The result is a red with ripe fruit, balanced structure and well-integrated oak, able to develop for several years.</p>",
+    "fr": "<p>Mauro est le vin avec lequel Mariano García et sa famille ont lancé leur bodega à Tudela de Duero, avec le millésime 1980, et il reste le rouge principal de la maison. Tudela se situe dans la vallée du Duero, en aval de la zone couverte par la Denominación de Origen Ribera del Duero et hors de ses limites ; le vin est donc commercialisé comme Vino de la Tierra de Castilla y León.</p><p>Il est élaboré principalement avec du tempranillo, complété par une petite proportion de syrah, que la bodega peut utiliser librement puisqu’elle n’est pas soumise aux règles de l’appellation voisine ; les proportions varient selon le millésime. Le raisin provient de ses propres vignes et de viticulteurs du secteur, sur des terrasses du Duero et des plateaux calcaires. Le vin est élevé en barriques de chêne et repose en bouteille avant sa commercialisation.</p><p>Il en résulte un rouge au fruit mûr, à la structure équilibrée et à l’élevage bien intégré, capable d’évoluer plusieurs années.</p>",
+    "it": "<p>Mauro è il vino con cui Mariano García e la sua famiglia avviarono la loro cantina a Tudela de Duero, con l’annata 1980, ed è ancora il rosso principale della casa. Tudela si trova nella valle del Duero, a valle della zona tutelata dalla Denominación de Origen Ribera del Duero e fuori dai suoi confini, per cui il vino è commercializzato come Vino de la Tierra de Castilla y León.</p><p>È prodotto principalmente con Tempranillo, completato da una piccola percentuale di Syrah, che la cantina può utilizzare liberamente non essendo soggetta alle norme della denominazione vicina; le proporzioni variano secondo l’annata. Le uve provengono da vigneti propri e da viticoltori della zona, su terrazze del Duero e altopiani calcarei. Il vino affina in barrique di rovere e riposa in bottiglia prima della messa in commercio.</p><p>Il risultato è un rosso dal frutto maturo, dalla struttura equilibrata e dall’affinamento ben integrato, capace di evolvere per diversi anni.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de fruta negra madura, regaliz, especias y tostados de la barrica. En boca es carnoso y estructurado, con taninos firmes y final persistente.",
+    "en": "Intense deep cherry red. Aromas of ripe black fruit, liquorice, spice and toasty oak. Fleshy and structured on the palate, with firm tannins and a persistent finish.",
+    "fr": "Rouge cerise burlat intense. Arômes de fruits noirs mûrs, réglisse, épices et toasté de la barrique. En bouche, il est charnu et structuré, aux tanins fermes et à la finale persistante.",
+    "it": "Rosso ciliegia intenso. Aromi di frutta nera matura, liquirizia, spezie e tostatura della barrique. In bocca è carnoso e strutturato, con tannini decisi e finale persistente."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, lechazo asado, caza mayor, quesos curados de oveja",
+    "en": "Chargrilled red meat, roast milk-fed lamb, large game, aged sheep’s cheeses",
+    "fr": "Viandes rouges à la braise, agneau de lait rôti, gros gibier, fromages de brebis affinés",
+    "it": "Carni rosse alla brace, agnello da latte arrosto, selvaggina di grossa taglia, pecorini stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Mauro Bodegas Mauro Tudela de Duero"
+}

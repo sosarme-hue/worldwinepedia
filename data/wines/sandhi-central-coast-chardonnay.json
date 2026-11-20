@@ -1,0 +1,42 @@
+{
+  "slug": "sandhi-central-coast-chardonnay",
+  "name": "Sandhi Central Coast Chardonnay",
+  "winery": null,
+  "winery_name": "Sandhi Wines",
+  "region": null,
+  "country": "estados-unidos",
+  "appellation": "Central Coast",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Sandhi Central Coast Chardonnay es un vino blanco de Sandhi Wines, con la denominación Central Coast, en Estados Unidos.",
+    "en": "Sandhi Central Coast Chardonnay is a white wine from Sandhi Wines, made under the Central Coast appellation in United States.",
+    "fr": "Sandhi Central Coast Chardonnay est un vin blanc de Sandhi Wines, élaboré sous l’appellation Central Coast (États-Unis).",
+    "it": "Sandhi Central Coast Chardonnay è un vino bianco di Sandhi Wines, prodotto nella denominazione Central Coast (Stati Uniti)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Chardonnay. Tiene crianza en madera. Su graduación es de 13 % vol.</p>",
+    "en": "<p>It is made from Chardonnay. It is aged in wood. It has 13% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Chardonnay. Il est élevé en bois. Il titre 13 % vol.</p>",
+    "it": "<p>È prodotto con Chardonnay. È affinato in legno. Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Sandhi Central Coast Chardonnay Sandhi Wines",
+  "brief": true,
+  "source": "decantalo"
+}

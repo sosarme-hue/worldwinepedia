@@ -1,0 +1,50 @@
+{
+  "slug": "mumm-cordon-rouge",
+  "name": "Mumm Cordon Rouge",
+  "winery": "mumm",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut",
+    "en": "Brut",
+    "fr": "Brut",
+    "it": "Brut"
+  },
+  "grapes": [
+    "pinot-noir",
+    "chardonnay",
+    "pinot-meunier"
+  ],
+  "summary": {
+    "es": "Brut sin añada de G.H. Mumm, el champagne emblemático de la casa, con predominio de Pinot Noir y reconocible por su banda roja.",
+    "en": "G.H. Mumm’s non-vintage brut, the house’s flagship champagne, led by Pinot Noir and recognisable by its red sash.",
+    "fr": "Brut sans année de G.H. Mumm, le champagne emblématique de la maison, à dominante de pinot noir et reconnaissable à son écharpe rouge.",
+    "it": "Brut senza annata di G.H. Mumm, lo champagne emblematico della casa, a prevalenza di Pinot Noir e riconoscibile per la fascia rossa."
+  },
+  "body": {
+    "es": "<p>El <strong>Cordon Rouge</strong> es el champagne más conocido de la casa Mumm, fundada en Reims en 1827, y uno de los más difundidos del mundo. Su nombre procede de la banda roja que cruza la etiqueta desde finales del siglo XIX, inspirada en la cinta de la Legión de Honor.</p><p>Es un ensamblaje sin añada de las tres variedades principales de Champagne, con predominio de la <strong>Pinot Noir</strong>, que aporta estructura y fruta, completada por la <strong>Chardonnay</strong> y la <strong>Pinot Meunier</strong>. Como en todos los bruts sin añada, se incorporan vinos de reserva de cosechas anteriores para mantener la regularidad del estilo. Tras la segunda fermentación en botella, el vino envejece sobre lías en las bodegas de creta de Reims antes del degüelle.</p><p>Es un champagne fresco y afrutado, de burbuja fina, con notas de fruta blanca, cítricos y un ligero fondo de bollería, adecuado como aperitivo y para acompañar la mesa.</p>",
+    "en": "<p><strong>Cordon Rouge</strong> is the best-known champagne from the Mumm house, founded in Reims in 1827, and one of the most widely distributed in the world. Its name comes from the red sash that has crossed the label since the late 19th century, inspired by the ribbon of the Legion of Honour.</p><p>It is a non-vintage blend of Champagne’s three main varieties, led by <strong>Pinot Noir</strong>, which brings structure and fruit, complemented by <strong>Chardonnay</strong> and <strong>Pinot Meunier</strong>. As with all non-vintage bruts, reserve wines from earlier harvests are added to keep the style consistent. After the second fermentation in bottle, the wine ages on its lees in the chalk cellars of Reims before disgorgement.</p><p>It is a fresh, fruity champagne with fine bubbles, notes of white fruit and citrus and a light brioche background, suitable as an aperitif and with food.</p>",
+    "fr": "<p>Le <strong>Cordon Rouge</strong> est le champagne le plus connu de la maison Mumm, fondée à Reims en 1827, et l’un des plus diffusés au monde. Son nom vient de l’écharpe rouge qui barre l’étiquette depuis la fin du XIXe siècle, inspirée du ruban de la Légion d’honneur.</p><p>C’est un assemblage sans année des trois principaux cépages champenois, à dominante de <strong>pinot noir</strong>, qui apporte structure et fruit, complété par le <strong>chardonnay</strong> et le <strong>pinot meunier</strong>. Comme pour tous les bruts sans année, des vins de réserve des récoltes précédentes sont ajoutés pour garantir la régularité du style. Après la seconde fermentation en bouteille, le vin vieillit sur lies dans les caves de craie de Reims avant le dégorgement.</p><p>C’est un champagne frais et fruité, à la bulle fine, aux notes de fruits blancs, d’agrumes et d’un léger fond brioché, idéal à l’apéritif et à table.</p>",
+    "it": "<p>Il <strong>Cordon Rouge</strong> è lo champagne più noto della maison Mumm, fondata a Reims nel 1827, e uno dei più diffusi al mondo. Il nome deriva dalla fascia rossa che attraversa l’etichetta dalla fine dell’Ottocento, ispirata al nastro della Legion d’onore.</p><p>È un assemblaggio senza annata dei tre principali vitigni della Champagne, a prevalenza di <strong>Pinot Noir</strong>, che apporta struttura e frutto, completato da <strong>Chardonnay</strong> e <strong>Pinot Meunier</strong>. Come in tutti i brut senza annata, si aggiungono vini di riserva di vendemmie precedenti per mantenere costante lo stile. Dopo la seconda fermentazione in bottiglia, il vino invecchia sui lieviti nelle cantine di gesso di Reims prima della sboccatura.</p><p>È uno champagne fresco e fruttato, dal perlage fine, con note di frutta bianca, agrumi e un leggero fondo di brioche, adatto come aperitivo e a tutto pasto.</p>"
+  },
+  "tasting": {
+    "es": "Manzana, pera, cítricos y un toque de brioche. Burbuja fina, boca fresca y final limpio.",
+    "en": "Apple, pear, citrus and a touch of brioche. Fine bubbles, fresh palate and a clean finish.",
+    "fr": "Pomme, poire, agrumes et touche de brioche. Bulle fine, bouche fraîche et finale nette.",
+    "it": "Mela, pera, agrumi e un tocco di brioche. Perlage fine, bocca fresca e finale pulito."
+  },
+  "pairing": {
+    "es": "Aperitivo, marisco, sushi, frituras, quesos suaves",
+    "en": "Aperitif, shellfish, sushi, fried snacks, mild cheeses",
+    "fr": "Apéritif, fruits de mer, sushis, fritures, fromages doux",
+    "it": "Aperitivo, frutti di mare, sushi, fritture, formaggi delicati"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco o tulipa",
+    "en": "8-10 °C, white wine glass or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da vino bianco o a tulipano"
+  },
+  "search": "Champagne Mumm Cordon Rouge"
+}

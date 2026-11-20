@@ -1,0 +1,45 @@
+{
+  "slug": "blau-can-blau",
+  "name": "Blau",
+  "winery": "can-blau",
+  "region": "montsant",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "carinena",
+    "syrah",
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Tinto joven de Bodegas Can Blau, ensamblaje de cariñena, syrah y garnacha del Montsant de perfil frutal.",
+    "en": "Young red from Bodegas Can Blau, a fruity blend of Cariñena, Syrah and Garnacha from the Montsant.",
+    "fr": "Rouge jeune de Bodegas Can Blau, assemblage fruité de carignan, de syrah et de grenache du Montsant.",
+    "it": "Rosso giovane di Bodegas Can Blau, uvaggio fruttato di Cariñena, Syrah e Garnacha del Montsant."
+  },
+  "body": {
+    "es": "<p>Blau, «azul» en catalán, es el vino de entrada de Bodegas Can Blau, la bodega de Gil Family Estates en la D.O. <strong>Montsant</strong>. Es una versión más joven y directa del estilo de la casa, pensada para el consumo cotidiano.</p><p>Comparte la base varietal del vino principal: <strong>cariñena</strong>, <strong>syrah</strong> y <strong>garnacha</strong>, en proporciones que varían según la añada. Las uvas proceden de viñedos de distintos pueblos de la denominación y se vinifican por separado para conservar la fruta de cada variedad. A diferencia de Can Blau, su paso por barrica es breve, de unos pocos meses, de modo que la madera apenas matiza la fruta. La cariñena aporta frescura y color, la syrah notas de fruta negra y especias, y la garnacha una textura amable. El resultado es un tinto mediterráneo jugoso y aromático, de buena relación entre calidad y precio, que se disfruta en sus primeros años.</p>",
+    "en": "<p>Blau, Catalan for “blue”, is the entry wine of Bodegas Can Blau, Gil Family Estates' winery in the <strong>Montsant</strong> D.O. It is a younger, more direct version of the house style, designed for everyday drinking.</p><p>It shares the varietal base of the main wine: <strong>Cariñena</strong>, <strong>Syrah</strong> and <strong>Garnacha</strong>, in proportions that vary with the vintage. The grapes come from vineyards in various villages of the appellation and are vinified separately to preserve the fruit of each variety. Unlike Can Blau, it spends only a short time in barrel, a few months, so that the oak barely shades the fruit. Cariñena brings freshness and colour, Syrah black fruit and spice, and Garnacha a smooth texture. The result is a juicy, aromatic Mediterranean red offering good value, best enjoyed in its first few years.</p>",
+    "fr": "<p>Blau, « bleu » en catalan, est le vin d'entrée de Bodegas Can Blau, le domaine de Gil Family Estates dans la D.O. <strong>Montsant</strong>. C'est une version plus jeune et plus directe du style de la maison, conçue pour la consommation quotidienne.</p><p>Il partage la base variétale du vin principal : <strong>carignan</strong>, <strong>syrah</strong> et <strong>grenache</strong>, dans des proportions qui varient selon le millésime. Les raisins proviennent de vignes de différents villages de l'appellation et sont vinifiés séparément pour préserver le fruit de chaque cépage. Contrairement à Can Blau, son passage en barrique est bref, de quelques mois, de sorte que le bois nuance à peine le fruit. Le carignan apporte fraîcheur et couleur, la syrah des notes de fruits noirs et d'épices, et le grenache une texture aimable. Le résultat est un rouge méditerranéen juteux et aromatique, au bon rapport qualité-prix, à apprécier dans ses premières années.</p>",
+    "it": "<p>Blau, «blu» in catalano, è il vino d'ingresso di Bodegas Can Blau, la cantina di Gil Family Estates nella D.O. <strong>Montsant</strong>. È una versione più giovane e diretta dello stile della casa, pensata per il consumo quotidiano.</p><p>Condivide la base varietale del vino principale: <strong>Cariñena</strong>, <strong>Syrah</strong> e <strong>Garnacha</strong>, in proporzioni che variano secondo l'annata. Le uve provengono da vigneti di diversi paesi della denominazione e sono vinificate separatamente per preservare il frutto di ogni varietà. A differenza di Can Blau, il passaggio in barrique è breve, di pochi mesi, così che il legno sfuma appena il frutto. La Cariñena apporta freschezza e colore, la Syrah note di frutta nera e spezie, la Garnacha una consistenza morbida. Il risultato è un rosso mediterraneo succoso e aromatico, dal buon rapporto qualità-prezzo, da godere nei primi anni.</p>"
+  },
+  "tasting": {
+    "es": "Rojo cereza con reflejos violáceos. Aromas de fruta roja y negra fresca, regaliz y especias suaves. En boca es jugoso, ligero y de tanino amable.",
+    "en": "Cherry red with violet hints. Aromas of fresh red and black fruit, liquorice and gentle spice. Juicy and light on the palate, with smooth tannins.",
+    "fr": "Rouge cerise aux reflets violacés. Arômes de fruits rouges et noirs frais, de réglisse et d'épices douces. En bouche, juteux, léger, aux tanins aimables.",
+    "it": "Rosso ciliegia con riflessi violacei. Aromi di frutta rossa e nera fresca, liquirizia e spezie dolci. In bocca è succoso, leggero e dal tannino morbido."
+  },
+  "pairing": {
+    "es": "Tapas, embutidos, pasta, hamburguesas, carnes a la brasa",
+    "en": "Tapas, charcuterie, pasta, burgers, grilled meats",
+    "fr": "Tapas, charcuterie, pâtes, hamburgers, viandes grillées",
+    "it": "Tapas, salumi, pasta, hamburger, carni alla brace"
+  },
+  "serve": {
+    "es": "14-16 °C, copa de vino tinto",
+    "en": "14-16 °C, red wine glass",
+    "fr": "14-16 °C, verre à vin rouge",
+    "it": "14-16 °C, calice da vino rosso"
+  },
+  "search": "Blau Can Blau Montsant"
+}

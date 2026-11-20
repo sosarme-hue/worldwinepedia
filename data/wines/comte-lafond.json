@@ -1,0 +1,42 @@
+{
+  "slug": "comte-lafond",
+  "name": "Comte Lafond",
+  "winery": "de-ladoucette",
+  "winery_name": null,
+  "region": "sancerre",
+  "country": "francia",
+  "appellation": "AOC Sancerre",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "sauvignon-blanc"
+  ],
+  "summary": {
+    "es": "Comte Lafond es un vino blanco de de Ladoucette, con la denominación AOC Sancerre, en Francia.",
+    "en": "Comte Lafond is a white wine from de Ladoucette, made under the AOC Sancerre appellation in France.",
+    "fr": "Comte Lafond est un vin blanc de de Ladoucette, élaboré sous l’appellation AOC Sancerre (France).",
+    "it": "Comte Lafond è un vino bianco di de Ladoucette, prodotto nella denominazione AOC Sancerre (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Sauvignon Blanc. Se cría sobre sus lías. Su graduación es de 12,5 % vol.</p><p>Casa de Pouilly-Fumé con sede en el Château du Nozet, en Pouilly-sur-Loire, uno de los nombres más conocidos de la denominación, dirigida por la familia de Ladoucette.</p><p>Sancerre, en la orilla izquierda del Loira, en el departamento del Cher, es una de las denominaciones de referencia de la Sauvignon Blanc. Produce también tintos y rosados de Pinot Noir.</p>",
+    "en": "<p>It is made from Sauvignon Blanc. It is aged on its lees. It has 12.5% ABV.</p><p>Pouilly-Fumé house based at the Château du Nozet in Pouilly-sur-Loire, one of the best-known names in the appellation, run by the de Ladoucette family.</p><p>Sancerre, on the left bank of the Loire in the Cher département, is one of the benchmark appellations for Sauvignon Blanc. It also produces reds and rosés from Pinot Noir.</p>",
+    "fr": "<p>Il est élaboré à partir de Sauvignon Blanc. Il est élevé sur lies. Il titre 12,5 % vol.</p><p>Maison de Pouilly-Fumé installée au château du Nozet, à Pouilly-sur-Loire, l’un des noms les plus connus de l’appellation, dirigée par la famille de Ladoucette.</p><p>Sancerre, sur la rive gauche de la Loire, dans le département du Cher, est l'une des appellations de référence du sauvignon blanc. Elle produit aussi des rouges et des rosés de pinot noir.</p>",
+    "it": "<p>È prodotto con Sauvignon Blanc. Affina sulle fecce fini. Ha 12,5% vol.</p><p>Casa di Pouilly-Fumé con sede allo Château du Nozet, a Pouilly-sur-Loire, uno dei nomi più conosciuti della denominazione, guidata dalla famiglia de Ladoucette.</p><p>Sancerre, sulla riva sinistra della Loira, nel dipartimento del Cher, è una delle denominazioni di riferimento per il Sauvignon Blanc. Produce anche rossi e rosati da Pinot Nero.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Comte Lafond De Ladoucette",
+  "brief": true,
+  "source": "decantalo"
+}

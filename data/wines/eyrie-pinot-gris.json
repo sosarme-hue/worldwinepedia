@@ -1,0 +1,43 @@
+{
+  "slug": "eyrie-pinot-gris",
+  "name": "Pinot Gris",
+  "winery": "eyrie-vineyards",
+  "region": "willamette-valley",
+  "country": "estados-unidos",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "pinot-gris"
+  ],
+  "summary": {
+    "es": "Pinot Gris de The Eyrie Vineyards, la bodega que plantó el primer viñedo de esta variedad en Estados Unidos.",
+    "en": "Pinot Gris from The Eyrie Vineyards, the winery that planted the first vineyard of this variety in the United States.",
+    "fr": "Pinot gris de The Eyrie Vineyards, la cave qui planta le premier vignoble de ce cépage aux États-Unis.",
+    "it": "Pinot Grigio di The Eyrie Vineyards, la cantina che piantò il primo vigneto di questo vitigno negli Stati Uniti."
+  },
+  "body": {
+    "es": "<p>Cuando David Lett plantó Pinot Gris en las Dundee Hills en los años sesenta, la variedad era prácticamente desconocida en Estados Unidos. Su apuesta resultó decisiva: con el tiempo el Pinot Gris se convirtió en el blanco más cultivado de Oregón, y The Eyrie Vineyards sigue elaborando uno de los ejemplos de referencia.</p><p>El vino se elabora con uvas de los viñedos propios de la bodega en el valle del Willamette, algunas de cepas viejas. En línea con el estilo de la casa, la elaboración busca la transparencia: fermentación con levaduras autóctonas, sin madera nueva y con un contacto prolongado con las lías, que aporta textura. El resultado es un blanco seco, de cuerpo medio, más próximo a los Pinot Gris de Alsacia por su textura que a los Pinot Grigio ligeros del norte de Italia, con una acidez fresca que le permite evolucionar algunos años en botella.</p>",
+    "en": "<p>When David Lett planted Pinot Gris in the Dundee Hills in the 1960s, the variety was practically unknown in the United States. His gamble proved decisive: in time Pinot Gris became Oregon’s most widely planted white, and The Eyrie Vineyards still makes one of the benchmark examples.</p><p>The wine is made from grapes from the winery’s own vineyards in the Willamette Valley, some of them old vines. In line with the house style, the winemaking seeks transparency: fermentation with native yeasts, no new oak and extended lees contact, which adds texture. The result is a dry, medium-bodied white, closer in texture to Alsace Pinot Gris than to the light Pinot Grigio of northern Italy, with fresh acidity that allows it to evolve for some years in bottle.</p>",
+    "fr": "<p>Lorsque David Lett planta du pinot gris dans les Dundee Hills dans les années 1960, le cépage était pratiquement inconnu aux États-Unis. Son pari s’est révélé décisif : avec le temps, le pinot gris est devenu le blanc le plus planté de l’Oregon, et The Eyrie Vineyards en produit toujours l’un des exemples de référence.</p><p>Le vin est issu des vignes de la cave dans la vallée de la Willamette, dont certaines sont âgées. Conformément au style de la maison, la vinification recherche la transparence : fermentation en levures indigènes, pas de bois neuf et contact prolongé avec les lies, qui apporte de la texture. Il en résulte un blanc sec, de corps moyen, plus proche par sa texture des pinots gris d’Alsace que des pinots grigios légers du nord de l’Italie, avec une acidité fraîche qui lui permet d’évoluer quelques années en bouteille.</p>",
+    "it": "<p>Quando David Lett piantò il Pinot Grigio sulle Dundee Hills negli anni Sessanta, il vitigno era praticamente sconosciuto negli Stati Uniti. La sua scommessa si rivelò decisiva: col tempo il Pinot Grigio divenne il bianco più coltivato dell’Oregon, e The Eyrie Vineyards ne produce ancora uno degli esempi di riferimento.</p><p>Il vino è prodotto con uve dei vigneti della cantina nella valle del Willamette, alcuni di vecchie viti. In linea con lo stile della casa, la vinificazione cerca la trasparenza: fermentazione con lieviti indigeni, niente legno nuovo e contatto prolungato con le fecce, che apporta consistenza. Il risultato è un bianco secco, di corpo medio, più vicino per consistenza ai Pinot Gris alsaziani che ai Pinot Grigio leggeri del nord Italia, con un’acidità fresca che gli consente di evolvere alcuni anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido. Aromas de pera, manzana, melón y flores blancas con un toque especiado. Boca seca y de textura suave, con acidez fresca.",
+    "en": "Pale yellow. Aromas of pear, apple, melon and white flowers with a spicy touch. Dry and smooth-textured on the palate, with fresh acidity.",
+    "fr": "Jaune pâle. Arômes de poire, de pomme, de melon et de fleurs blanches avec une touche épicée. Bouche sèche à la texture souple, à l’acidité fraîche.",
+    "it": "Giallo tenue. Aromi di pera, mela, melone e fiori bianchi con un tocco speziato. Bocca secca e dalla consistenza morbida, con acidità fresca."
+  },
+  "pairing": {
+    "es": "Pescados blancos, marisco, cerdo, cocina asiática suave, quesos frescos",
+    "en": "White fish, shellfish, pork, mild Asian dishes, fresh cheeses",
+    "fr": "Poissons blancs, fruits de mer, porc, cuisine asiatique douce, fromages frais",
+    "it": "Pesce bianco, frutti di mare, maiale, cucina asiatica delicata, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "The Eyrie Vineyards Pinot Gris"
+}

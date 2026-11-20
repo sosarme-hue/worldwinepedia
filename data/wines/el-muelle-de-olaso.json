@@ -1,0 +1,42 @@
+{
+  "slug": "el-muelle-de-olaso",
+  "name": "El Muelle de Olaso",
+  "winery": null,
+  "winery_name": "Bodegas Luis Pérez",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Cádiz",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "palomino"
+  ],
+  "summary": {
+    "es": "El Muelle de Olaso es un vino blanco de Bodegas Luis Pérez, con la denominación VT Cádiz, en España.",
+    "en": "El Muelle de Olaso is a white wine from Bodegas Luis Pérez, made under the VT Cádiz appellation in Spain.",
+    "fr": "El Muelle de Olaso est un vin blanc de Bodegas Luis Pérez, élaboré sous l’appellation VT Cádiz (Espagne).",
+    "it": "El Muelle de Olaso è un vino bianco di Bodegas Luis Pérez, prodotto nella denominazione VT Cádiz (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Palomino. Se cría sobre sus lías. Su graduación es de 13,6 % vol.</p>",
+    "en": "<p>It is made from Palomino. It is aged on its lees. It has 13.6% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Palomino. Il est élevé sur lies. Il titre 13,6 % vol.</p>",
+    "it": "<p>È prodotto con Palomino. Affina sulle fecce fini. Ha 13,6% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "El Muelle de Olaso Bodegas Luis Pérez",
+  "brief": true,
+  "source": "decantalo"
+}

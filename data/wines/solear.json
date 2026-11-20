@@ -1,0 +1,48 @@
+{
+  "slug": "solear",
+  "name": "Solear",
+  "winery": "barbadillo",
+  "region": "jerez-xeres-sherry",
+  "country": "espana",
+  "type": "generoso",
+  "category": {
+    "es": "Manzanilla",
+    "en": "Manzanilla",
+    "fr": "Manzanilla",
+    "it": "Manzanilla"
+  },
+  "grapes": [
+    "palomino"
+  ],
+  "summary": {
+    "es": "La manzanilla más conocida de Barbadillo, criada en Sanlúcar de Barrameda bajo velo de flor, seca, ligera y salina.",
+    "en": "Barbadillo's best-known manzanilla, aged in Sanlúcar de Barrameda under flor: dry, light and saline.",
+    "fr": "La manzanilla la plus connue de Barbadillo, élevée à Sanlúcar de Barrameda sous voile de flor : sèche, légère et saline.",
+    "it": "La manzanilla più nota di Barbadillo, affinata a Sanlúcar de Barrameda sotto velo di flor: secca, leggera e salina."
+  },
+  "body": {
+    "es": "<p>Solear es la manzanilla emblemática de Bodegas Barbadillo y una de las más difundidas del mercado. Se elabora con uva <strong>palomino</strong> y se cría en las bodegas de la casa en el barrio alto de Sanlúcar de Barrameda, donde las brisas húmedas del Atlántico y del Guadalquivir mantienen vivo el <strong>velo de flor</strong> durante todo el año.</p><p>La crianza sigue el sistema de <strong>criaderas y solera</strong>, con sacas y rocíos periódicos que mantienen la flor alimentada y el estilo constante. El resultado es un vino pálido, muy seco y ligero, con la característica salinidad de la manzanilla. Barbadillo comercializa además ediciones <em>en rama</em> de Solear, embotelladas directamente de la bota en distintas estaciones del año.</p><p>Como todos los vinos de crianza biológica, es delicado: conviene comprarlo con rotación reciente, guardarlo en posición vertical y en frío, y consumirlo en pocos días tras abrirlo.</p>",
+    "en": "<p>Solear is Bodegas Barbadillo's emblematic manzanilla and one of the most widely available. It is made from <strong>Palomino</strong> grapes and aged in the house's bodegas in Sanlúcar de Barrameda's upper town, where humid breezes from the Atlantic and the Guadalquivir keep the <strong>flor</strong> alive all year round.</p><p>Ageing follows the <strong>criaderas and solera</strong> system, with regular withdrawals and top-ups that keep the flor nourished and the style consistent. The result is a pale, very dry and light wine with manzanilla's characteristic salinity. Barbadillo also releases <em>en rama</em> editions of Solear, bottled straight from the cask at different seasons of the year.</p><p>Like all biologically aged wines it is delicate: it is best bought from recent stock, stored upright and cool, and drunk within a few days of opening.</p>",
+    "fr": "<p>Solear est la manzanilla emblématique de Bodegas Barbadillo et l'une des plus diffusées. Elle est élaborée avec du raisin <strong>palomino</strong> et élevée dans les chais de la maison, dans le quartier haut de Sanlúcar de Barrameda, où les brises humides de l'Atlantique et du Guadalquivir maintiennent le <strong>voile de flor</strong> vivant toute l'année.</p><p>L'élevage suit le système des <strong>criaderas et solera</strong>, avec des soutirages et des rafraîchissements réguliers qui nourrissent la flor et maintiennent un style constant. Il en résulte un vin pâle, très sec et léger, doté de la salinité caractéristique de la manzanilla. Barbadillo commercialise aussi des éditions <em>en rama</em> de Solear, mises en bouteille directement depuis le fût à différentes saisons.</p><p>Comme tous les vins à élevage biologique, il est délicat : mieux vaut l'acheter dans un stock récent, le conserver debout et au frais, et le boire dans les jours qui suivent l'ouverture.</p>",
+    "it": "<p>Solear è la manzanilla simbolo di Bodegas Barbadillo e una delle più diffuse. È prodotta con uve <strong>Palomino</strong> e affina nelle bodegas della casa nel quartiere alto di Sanlúcar de Barrameda, dove le brezze umide dell'Atlantico e del Guadalquivir mantengono vivo il <strong>velo di flor</strong> tutto l'anno.</p><p>L'affinamento segue il sistema di <strong>criaderas e solera</strong>, con prelievi e rabbocchi periodici che nutrono la flor e mantengono costante lo stile. Il risultato è un vino pallido, molto secco e leggero, con la tipica salinità della manzanilla. Barbadillo commercializza inoltre edizioni <em>en rama</em> di Solear, imbottigliate direttamente dalla botte in diverse stagioni dell'anno.</p><p>Come tutti i vini ad affinamento biologico è delicato: conviene acquistarlo da scorte recenti, conservarlo in verticale e al fresco, e berlo entro pochi giorni dall'apertura.</p>"
+  },
+  "tasting": {
+    "es": "Notas de camomila, almendra cruda, levadura y salinidad marina. Boca ligera, seca y fresca, con final punzante.",
+    "en": "Notes of chamomile, raw almond, yeast and sea-salt salinity. Light, dry, fresh palate with a pungent finish.",
+    "fr": "Notes de camomille, d'amande fraîche, de levure et de salinité marine. Bouche légère, sèche et fraîche, finale piquante.",
+    "it": "Note di camomilla, mandorla fresca, lievito e salinità marina. Bocca leggera, secca e fresca, con finale pungente."
+  },
+  "pairing": {
+    "es": "Langostinos de Sanlúcar, frituras de pescado, tortillitas de camarones, aceitunas",
+    "en": "Sanlúcar prawns, fried fish, shrimp fritters, olives",
+    "fr": "Crevettes de Sanlúcar, fritures de poisson, beignets de crevettes, olives",
+    "it": "Gamberi di Sanlúcar, fritture di pesce, frittelle di gamberetti, olive"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de vino blanco",
+    "en": "6-8 °C, white wine glass",
+    "fr": "6-8 °C, verre à vin blanc",
+    "it": "6-8 °C, calice da vino bianco"
+  },
+  "search": "Solear Manzanilla Barbadillo"
+}

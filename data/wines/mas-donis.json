@@ -1,0 +1,44 @@
+{
+  "slug": "mas-donis",
+  "name": "Mas Donís",
+  "winery": "celler-de-capcanes",
+  "region": "montsant",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha",
+    "syrah"
+  ],
+  "summary": {
+    "es": "Tinto joven de Celler de Capçanes elaborado con garnacha y syrah, uno de los vinos más difundidos del Montsant.",
+    "en": "Young red from Celler de Capçanes made from Garnacha and Syrah, one of the most widely distributed wines of the Montsant.",
+    "fr": "Rouge jeune de Celler de Capçanes élaboré avec du grenache et de la syrah, l'un des vins les plus diffusés du Montsant.",
+    "it": "Rosso giovane di Celler de Capçanes prodotto con Garnacha e Syrah, uno dei vini più diffusi del Montsant."
+  },
+  "body": {
+    "es": "<p>Mas Donís es uno de los vinos más conocidos de Celler de Capçanes, la cooperativa del pueblo de Capçanes, y una de las etiquetas que más han contribuido a dar a conocer la D.O. <strong>Montsant</strong> fuera de Cataluña.</p><p>Se elabora con <strong>garnacha</strong>, en buena parte de cepas viejas, y <strong>syrah</strong>, en proporciones que varían según la añada. Las uvas proceden de viñedos de los socios de la cooperativa, cultivados en pequeñas parcelas de montaña sobre suelos variados, de granito descompuesto, arcillas y pizarra. La garnacha aporta fruta roja madura y carácter mediterráneo, mientras que la syrah suma color, notas de fruta negra y especias. El vino se elabora para conservar la fruta, con un paso breve por barrica o sin crianza prolongada según la versión. Es un tinto jugoso y fácil de beber, de muy buena relación entre calidad y precio, pensado para disfrutarse joven.</p>",
+    "en": "<p>Mas Donís is one of the best-known wines of Celler de Capçanes, the cooperative of the village of Capçanes, and one of the labels that has done most to make the <strong>Montsant</strong> D.O. known beyond Catalonia.</p><p>It is made from <strong>Garnacha</strong>, much of it from old vines, and <strong>Syrah</strong>, in proportions that vary with the vintage. The grapes come from the cooperative members' vineyards, farmed in small mountain plots on varied soils of decomposed granite, clay and slate. Garnacha brings ripe red fruit and Mediterranean character, while Syrah adds colour, black fruit notes and spice. The wine is made to preserve its fruit, with a short spell in barrel or no extended ageing, depending on the version. It is a juicy, easy-drinking red offering very good value, intended to be enjoyed young.</p>",
+    "fr": "<p>Mas Donís est l'un des vins les plus connus de Celler de Capçanes, la coopérative du village de Capçanes, et l'une des étiquettes qui ont le plus contribué à faire connaître la D.O. <strong>Montsant</strong> hors de Catalogne.</p><p>Il est élaboré avec du <strong>grenache</strong>, en bonne partie de vieilles vignes, et de la <strong>syrah</strong>, dans des proportions qui varient selon le millésime. Les raisins proviennent des vignes des sociétaires de la coopérative, cultivées en petites parcelles de montagne sur des sols variés, de granite décomposé, d'argiles et de schiste. Le grenache apporte des fruits rouges mûrs et un caractère méditerranéen, tandis que la syrah ajoute couleur, notes de fruits noirs et d'épices. Le vin est élaboré pour préserver le fruit, avec un bref passage en barrique ou sans élevage prolongé selon la version. C'est un rouge juteux et facile à boire, au très bon rapport qualité-prix, conçu pour être apprécié jeune.</p>",
+    "it": "<p>Mas Donís è uno dei vini più noti di Celler de Capçanes, la cooperativa del paese di Capçanes, e una delle etichette che più hanno contribuito a far conoscere la D.O. <strong>Montsant</strong> fuori dalla Catalogna.</p><p>È prodotto con <strong>Garnacha</strong>, in buona parte di vecchie viti, e <strong>Syrah</strong>, in proporzioni che variano secondo l'annata. Le uve provengono dai vigneti dei soci della cooperativa, coltivati in piccole parcelle di montagna su suoli vari, di granito decomposto, argille e scisto. La Garnacha apporta frutta rossa matura e carattere mediterraneo, mentre la Syrah aggiunge colore, note di frutta nera e spezie. Il vino è prodotto per preservare il frutto, con un breve passaggio in barrique o senza affinamento prolungato a seconda della versione. È un rosso succoso e facile da bere, dall'ottimo rapporto qualità-prezzo, pensato per essere goduto giovane.</p>"
+  },
+  "tasting": {
+    "es": "Rojo cereza con ribete violáceo. Aromas de fruta roja y negra madura, especias y hierbas mediterráneas. En boca es jugoso, amable y de tanino suave.",
+    "en": "Cherry red with a violet rim. Aromas of ripe red and black fruit, spice and Mediterranean herbs. Juicy and smooth on the palate, with soft tannins.",
+    "fr": "Rouge cerise au disque violacé. Arômes de fruits rouges et noirs mûrs, d'épices et d'herbes méditerranéennes. En bouche, juteux, aimable, aux tanins souples.",
+    "it": "Rosso ciliegia con unghia violacea. Aromi di frutta rossa e nera matura, spezie ed erbe mediterranee. In bocca è succoso, morbido e dal tannino soave."
+  },
+  "pairing": {
+    "es": "Embutidos, pizza, carnes a la brasa, arroces de carne",
+    "en": "Charcuterie, pizza, grilled meats, meat rice dishes",
+    "fr": "Charcuterie, pizza, viandes grillées, riz à la viande",
+    "it": "Salumi, pizza, carni alla brace, risi di carne"
+  },
+  "serve": {
+    "es": "14-16 °C, copa de vino tinto",
+    "en": "14-16 °C, red wine glass",
+    "fr": "14-16 °C, verre à vin rouge",
+    "it": "14-16 °C, calice da vino rosso"
+  },
+  "search": "Mas Donís Capçanes Montsant"
+}

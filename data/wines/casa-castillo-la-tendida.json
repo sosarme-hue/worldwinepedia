@@ -1,0 +1,40 @@
+{
+  "slug": "casa-castillo-la-tendida",
+  "name": "Casa Castillo La Tendida",
+  "winery": null,
+  "winery_name": "Finca Casa Castillo",
+  "region": "jumilla",
+  "country": "espana",
+  "appellation": "DO Jumilla",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Casa Castillo La Tendida es un vino tinto de Finca Casa Castillo, con la denominación DO Jumilla, en España.",
+    "en": "Casa Castillo La Tendida is a red wine from Finca Casa Castillo, made under the DO Jumilla appellation in Spain.",
+    "fr": "Casa Castillo La Tendida est un vin rouge de Finca Casa Castillo, élaboré sous l’appellation DO Jumilla (Espagne).",
+    "it": "Casa Castillo La Tendida è un vino rosso di Finca Casa Castillo, prodotto nella denominazione DO Jumilla (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14,5 % vol.</p><p>Jumilla es una denominación de origen del sureste de España, entre el norte de la Región de Murcia y el sureste de Albacete. Su variedad emblemática es la Monastrell, cultivada en un clima continental seco y, en parte, sobre pie franco.</p>",
+    "en": "<p>It is aged in wood. It has 14.5% ABV.</p><p>Jumilla is a designation of origin in south-eastern Spain, between the north of the Region of Murcia and the south-east of Albacete. Its emblematic variety is Monastrell, grown in a dry continental climate and partly on its own roots.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14,5 % vol.</p><p>Jumilla est une dénomination d'origine du sud-est de l'Espagne, entre le nord de la Région de Murcie et le sud-est de la province d'Albacete. Son cépage emblématique est le monastrell, cultivé sous un climat continental sec et en partie franc de pied.</p>",
+    "it": "<p>È affinato in legno. Ha 14,5% vol.</p><p>Jumilla è una denominazione di origine del sud-est della Spagna, tra il nord della Regione di Murcia e il sud-est della provincia di Albacete. Il suo vitigno simbolo è il Monastrell, coltivato in un clima continentale secco e in parte a piede franco.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Casa Castillo La Tendida Finca Casa Castillo",
+  "brief": true,
+  "source": "decantalo"
+}

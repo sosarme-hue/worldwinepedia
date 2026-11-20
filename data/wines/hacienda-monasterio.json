@@ -1,0 +1,46 @@
+{
+  "slug": "hacienda-monasterio",
+  "name": "Hacienda Monasterio",
+  "winery": "hacienda-monasterio",
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tempranillo",
+    "cabernet-sauvignon",
+    "merlot",
+    "malbec"
+  ],
+  "summary": {
+    "es": "Tinto de finca de Hacienda Monasterio, en Pesquera de Duero, elaborado con Tinto Fino y pequeñas proporciones de Cabernet Sauvignon, Merlot y Malbec.",
+    "en": "Estate red from Hacienda Monasterio in Pesquera de Duero, made from Tinto Fino with small proportions of Cabernet Sauvignon, Merlot and Malbec.",
+    "fr": "Rouge de domaine d’Hacienda Monasterio, à Pesquera de Duero, élaboré avec du tinto fino et de petites proportions de cabernet-sauvignon, de merlot et de malbec.",
+    "it": "Rosso di tenuta di Hacienda Monasterio, a Pesquera de Duero, prodotto con Tinto Fino e piccole percentuali di Cabernet Sauvignon, Merlot e Malbec."
+  },
+  "body": {
+    "es": "<p>El tinto Hacienda Monasterio es el vino principal de la finca del mismo nombre en Pesquera de Duero, en el tramo vallisoletano de la Ribera del Duero, donde el enólogo danés Peter Sisseck ha trabajado desde la puesta en marcha del proyecto a comienzos de los años noventa. Se elabora con uva del viñedo que rodea la bodega, situado en una ladera orientada al sur sobre el valle del Duero.</p><p>La base es el Tinto Fino, la variante local del Tempranillo, completado con pequeñas proporciones de Cabernet Sauvignon, Merlot y Malbec, variedades plantadas en la finca desde su origen. Las proporciones varían según la añada. Tras la fermentación, el vino se cría en barricas de roble francés y reposa en botella antes de su comercialización.</p><p>El resultado es un tinto de fruta madura y estructura firme, en el que las variedades bordelesas aportan matices herbáceos y especiados al carácter del Tinto Fino. Es un vino con capacidad de guarda, que gana con la decantación en sus primeros años.</p>",
+    "en": "<p>Hacienda Monasterio red is the main wine of the estate of the same name in Pesquera de Duero, on the Valladolid stretch of Ribera del Duero, where Danish winemaker Peter Sisseck has worked since the project was launched in the early 1990s. It is made from the vineyard surrounding the winery, on a south-facing slope above the Duero valley.</p><p>Its basis is Tinto Fino, the local variant of Tempranillo, completed by small proportions of Cabernet Sauvignon, Merlot and Malbec, varieties planted on the estate from the beginning. The proportions vary with the vintage. After fermentation the wine is aged in French oak barrels and rests in bottle before release.</p><p>The result is a red with ripe fruit and firm structure, in which the Bordeaux varieties add herbal and spicy nuances to the character of Tinto Fino. It is a wine with ageing potential, which gains from decanting in its early years.</p>",
+    "fr": "<p>Le rouge Hacienda Monasterio est le vin principal du domaine du même nom à Pesquera de Duero, sur le tronçon de Valladolid de la Ribera del Duero, où l’œnologue danois Peter Sisseck travaille depuis le lancement du projet au début des années 1990. Il est élaboré avec le raisin du vignoble qui entoure la bodega, sur un coteau exposé au sud au-dessus de la vallée du Duero.</p><p>Sa base est le tinto fino, variante locale du tempranillo, complété par de petites proportions de cabernet-sauvignon, de merlot et de malbec, cépages plantés sur le domaine dès l’origine. Les proportions varient selon le millésime. Après la fermentation, le vin est élevé en barriques de chêne français et repose en bouteille avant sa commercialisation.</p><p>Il en résulte un rouge au fruit mûr et à la structure ferme, où les cépages bordelais apportent des nuances herbacées et épicées au caractère du tinto fino. C’est un vin de garde, qui gagne à être carafé dans ses premières années.</p>",
+    "it": "<p>Il rosso Hacienda Monasterio è il vino principale della tenuta omonima a Pesquera de Duero, nel tratto di Valladolid della Ribera del Duero, dove l’enologo danese Peter Sisseck lavora dall’avvio del progetto all’inizio degli anni Novanta. È prodotto con le uve del vigneto che circonda la cantina, su un pendio esposto a sud sopra la valle del Duero.</p><p>La base è il Tinto Fino, la variante locale del Tempranillo, completato da piccole percentuali di Cabernet Sauvignon, Merlot e Malbec, varietà piantate nella tenuta fin dall’inizio. Le proporzioni variano secondo l’annata. Dopo la fermentazione il vino affina in barrique di rovere francese e riposa in bottiglia prima della messa in commercio.</p><p>Il risultato è un rosso dal frutto maturo e dalla struttura salda, in cui le varietà bordolesi aggiungono sfumature erbacee e speziate al carattere del Tinto Fino. È un vino con capacità d’invecchiamento, che guadagna dalla decantazione nei primi anni.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de fruta negra madura, regaliz, especias y tostados de la barrica. En boca es carnoso y estructurado, con taninos firmes y final persistente.",
+    "en": "Intense deep cherry red. Aromas of ripe black fruit, liquorice, spice and toasty oak. Fleshy and structured on the palate, with firm tannins and a persistent finish.",
+    "fr": "Rouge cerise burlat intense. Arômes de fruits noirs mûrs, réglisse, épices et toasté de la barrique. En bouche, il est charnu et structuré, aux tanins fermes et à la finale persistante.",
+    "it": "Rosso ciliegia intenso. Aromi di frutta nera matura, liquirizia, spezie e tostatura della barrique. In bocca è carnoso e strutturato, con tannini decisi e finale persistente."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, lechazo asado, caza mayor, quesos curados de oveja",
+    "en": "Chargrilled red meat, roast milk-fed lamb, large game, aged sheep’s cheeses",
+    "fr": "Viandes rouges à la braise, agneau de lait rôti, gros gibier, fromages de brebis affinés",
+    "it": "Carni rosse alla brace, agnello da latte arrosto, selvaggina di grossa taglia, pecorini stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Hacienda Monasterio Ribera del Duero"
+}

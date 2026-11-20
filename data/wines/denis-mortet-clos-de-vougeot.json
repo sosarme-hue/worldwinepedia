@@ -1,0 +1,48 @@
+{
+  "slug": "denis-mortet-clos-de-vougeot",
+  "name": "Clos de Vougeot Grand Cru",
+  "winery": "denis-mortet",
+  "region": "cote-de-nuits",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Grand Cru",
+    "en": "Grand Cru",
+    "fr": "Grand Cru",
+    "it": "Grand Cru"
+  },
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Grand cru del Clos de Vougeot elaborado por el Domaine Denis Mortet, uno de los pocos vinos de la casa fuera de Gevrey-Chambertin.",
+    "en": "Clos de Vougeot grand cru from Domaine Denis Mortet, one of the house’s few wines from outside Gevrey-Chambertin.",
+    "fr": "Grand cru du Clos de Vougeot élaboré par le Domaine Denis Mortet, l’un des rares vins de la maison hors de Gevrey-Chambertin.",
+    "it": "Grand cru del Clos de Vougeot prodotto dal Domaine Denis Mortet, uno dei pochi vini della casa al di fuori di Gevrey-Chambertin."
+  },
+  "body": {
+    "es": "<p>El <strong>Clos de Vougeot</strong> es un gran viñedo cercado de la Côte de Nuits, creado por los monjes cistercienses en la Edad Media y clasificado hoy como grand cru. Su superficie está repartida entre numerosos propietarios, y sus suelos varían desde la parte alta, junto a Musigny y Grands Échezeaux, hasta la parte baja, cerca de la carretera nacional, lo que hace que el estilo dependa mucho de la ubicación de cada parcela.</p><p>El Domaine Denis Mortet, con sede en Gevrey-Chambertin, elabora este vino a partir de su parcela en el clos con el mismo método que el resto de su gama: trabajo minucioso en la viña, rendimientos moderados, vinificación cuidadosa y crianza en barricas de roble francés. El resultado es un Pinot Noir de color profundo, fruta intensa y estructura firme.</p><p>Es un tinto que se beneficia de varios años de botella y que conviene decantar en su juventud y servir en copa amplia de Borgoña.</p>",
+    "en": "<p>The <strong>Clos de Vougeot</strong> is a large walled vineyard in the Côte de Nuits, created by Cistercian monks in the Middle Ages and now classified as grand cru. Its area is divided among many owners, and its soils vary from the upper part, next to Musigny and Grands Échezeaux, to the lower part near the main road, so the style depends heavily on the location of each plot.</p><p>Domaine Denis Mortet, based in Gevrey-Chambertin, makes this wine from its plot in the clos using the same approach as the rest of its range: meticulous vineyard work, moderate yields, careful winemaking and ageing in French oak barrels. The result is a deeply coloured Pinot Noir with intense fruit and firm structure.</p><p>It is a red that benefits from several years in bottle; when young it is best decanted and served in a large Burgundy glass.</p>",
+    "fr": "<p>Le <strong>Clos de Vougeot</strong> est un grand vignoble clos de murs de la Côte de Nuits, créé par les moines cisterciens au Moyen Âge et classé aujourd’hui en grand cru. Sa surface est partagée entre de nombreux propriétaires, et ses sols varient du haut, contre le Musigny et les Grands Échezeaux, jusqu’au bas, près de la route nationale, si bien que le style dépend beaucoup de l’emplacement de chaque parcelle.</p><p>Le Domaine Denis Mortet, installé à Gevrey-Chambertin, élabore ce vin à partir de sa parcelle dans le clos selon la même approche que le reste de sa gamme : travail minutieux de la vigne, rendements modérés, vinification soignée et élevage en fûts de chêne français. Le résultat est un pinot noir à la couleur profonde, au fruit intense et à la structure ferme.</p><p>C’est un rouge qui gagne à passer plusieurs années en bouteille ; jeune, il vaut mieux le carafer et le servir dans un grand verre bourguignon.</p>",
+    "it": "<p>Il <strong>Clos de Vougeot</strong> è un grande vigneto cintato della Côte de Nuits, creato dai monaci cistercensi nel Medioevo e oggi classificato grand cru. La sua superficie è suddivisa tra numerosi proprietari, e i suoli variano dalla parte alta, accanto a Musigny e Grands Échezeaux, alla parte bassa vicino alla strada nazionale, per cui lo stile dipende molto dalla posizione di ogni parcella.</p><p>Il Domaine Denis Mortet, con sede a Gevrey-Chambertin, produce questo vino dalla sua parcella nel clos con lo stesso approccio del resto della gamma: lavoro minuzioso in vigna, rese moderate, vinificazione accurata e affinamento in botti di rovere francese. Il risultato è un Pinot Noir dal colore profondo, frutto intenso e struttura decisa.</p><p>È un rosso che trae beneficio da diversi anni di bottiglia; da giovane conviene decantarlo e servirlo in un ampio calice borgognone.</p>"
+  },
+  "tasting": {
+    "es": "Cereza negra, frambuesa, violeta, especias y notas de sotobosque. Boca concentrada, de taninos finos y final largo.",
+    "en": "Black cherry, raspberry, violet, spice and forest-floor notes. Concentrated palate with fine tannins and a long finish.",
+    "fr": "Cerise noire, framboise, violette, épices et notes de sous-bois. Bouche concentrée, tanins fins et finale longue.",
+    "it": "Ciliegia nera, lampone, violetta, spezie e note di sottobosco. Bocca concentrata, tannini fini e finale lungo."
+  },
+  "pairing": {
+    "es": "Caza de pluma, pato, buey asado, setas, quesos de pasta lavada",
+    "en": "Game birds, duck, roast beef, mushrooms, washed-rind cheeses",
+    "fr": "Gibier à plume, canard, bœuf rôti, champignons, fromages à pâte lavée",
+    "it": "Selvaggina da piuma, anatra, manzo arrosto, funghi, formaggi a crosta lavata"
+  },
+  "serve": {
+    "es": "15-17 °C, copa de Borgoña",
+    "en": "15-17 °C, Burgundy glass",
+    "fr": "15-17 °C, verre bourguignon",
+    "it": "15-17 °C, calice borgognone"
+  },
+  "search": "Clos de Vougeot Grand Cru Domaine Denis Mortet"
+}

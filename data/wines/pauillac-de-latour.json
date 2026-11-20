@@ -1,0 +1,44 @@
+{
+  "slug": "pauillac-de-latour",
+  "name": "Pauillac de Latour",
+  "winery": "chateau-latour",
+  "region": "medoc",
+  "country": "francia",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Tercer vino de Château Latour, elaborado con las cuvées que no entran en el gran vino ni en Les Forts de Latour, de perfil más ligero y pensado para beberse antes.",
+    "en": "The third wine of Château Latour, made from the cuvées that go into neither the grand vin nor Les Forts de Latour, lighter in profile and meant to be drunk earlier.",
+    "fr": "Troisième vin de Château Latour, élaboré avec les cuvées qui n’entrent ni dans le grand vin ni dans Les Forts de Latour, au profil plus léger et destiné à être bu plus tôt.",
+    "it": "Terzo vino di Château Latour, ottenuto dalle cuvée che non entrano né nel grand vin né in Les Forts de Latour, di profilo più leggero e pensato per essere bevuto prima."
+  },
+  "body": {
+    "es": "<p>El Pauillac de Latour es el tercer vino de Château Latour. Nace de la selección que la propiedad hace cada año: las cuvées que no se consideran adecuadas para el gran vino ni para Les Forts de Latour, a menudo procedentes de viñas jóvenes o de parcelas secundarias de la finca en la denominación Pauillac, se reúnen en este ensamblaje.</p><p>Como los otros vinos de la casa, se basa en la <strong>Cabernet Sauvignon</strong> y la <strong>Merlot</strong>, en proporciones que cambian según la añada, y se cría en barrica, aunque con menos madera nueva. Su existencia permite que la selección para los dos primeros vinos sea más estricta.</p><p>Es un tinto de Pauillac clásico en su perfil, con fruta negra y estructura, pero más ligero y flexible que sus hermanos mayores, de modo que suele poder disfrutarse tras unos años de botella, aunque no sea su vocación una guarda tan larga.</p>",
+    "en": "<p>Pauillac de Latour is the third wine of Château Latour. It results from the selection the estate makes every year: the cuvées not considered suitable for the grand vin or for Les Forts de Latour, often from young vines or secondary plots of the property within the Pauillac appellation, are brought together in this blend.</p><p>Like the house’s other wines, it is based on <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong>, in proportions that change with the vintage, and is aged in barrel, though with less new oak. Its existence allows the selection for the first two wines to be stricter.</p><p>It is a classic Pauillac red in profile, with black fruit and structure, but lighter and more supple than its older siblings, so it can usually be enjoyed after a few years in bottle, even though it is not meant for such long ageing.</p>",
+    "fr": "<p>Le Pauillac de Latour est le troisième vin de Château Latour. Il naît de la sélection opérée chaque année par la propriété : les cuvées qui ne sont jugées adaptées ni au grand vin ni aux Forts de Latour, souvent issues de jeunes vignes ou de parcelles secondaires du domaine dans l’appellation Pauillac, sont réunies dans cet assemblage.</p><p>Comme les autres vins de la maison, il repose sur le <strong>cabernet-sauvignon</strong> et le <strong>merlot</strong>, dans des proportions qui changent selon le millésime, et il est élevé en barrique, avec toutefois moins de bois neuf. Son existence permet une sélection plus stricte pour les deux premiers vins.</p><p>C’est un pauillac classique dans son profil, avec des fruits noirs et de la structure, mais plus léger et plus souple que ses aînés, si bien qu’il peut généralement être apprécié après quelques années de bouteille, sans être destiné à une garde aussi longue.</p>",
+    "it": "<p>Il Pauillac de Latour è il terzo vino di Château Latour. Nasce dalla selezione che la proprietà effettua ogni anno: le cuvée non ritenute adatte né al grand vin né a Les Forts de Latour, spesso provenienti da viti giovani o da parcelle secondarie della tenuta nella denominazione Pauillac, vengono riunite in questo assemblaggio.</p><p>Come gli altri vini della casa, si basa su <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong>, in proporzioni che cambiano secondo l’annata, e affina in barrique, sebbene con meno legno nuovo. La sua esistenza permette una selezione più rigorosa per i primi due vini.</p><p>È un rosso di Pauillac classico nel profilo, con frutta nera e struttura, ma più leggero e flessibile dei fratelli maggiori, tanto che di solito si può apprezzare dopo qualche anno di bottiglia, anche se non è destinato a un invecchiamento così lungo.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de fruta negra, cedro y un toque ahumado. Boca de cuerpo medio, con taninos firmes pero ya integrados y final fresco.",
+    "en": "Intense ruby. Aromas of black fruit, cedar and a hint of smoke. Medium-bodied palate with firm but already integrated tannins and a fresh finish.",
+    "fr": "Rubis intense. Arômes de fruits noirs, de cèdre et une touche fumée. Bouche de corps moyen, aux tanins fermes mais déjà intégrés, finale fraîche.",
+    "it": "Rubino intenso. Aromi di frutta nera, cedro e un tocco affumicato. Bocca di medio corpo, con tannini decisi ma già integrati e finale fresco."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, pato asado, guisos de carne, quesos semicurados",
+    "en": "Grilled red meat, roast duck, meat stews, semi-hard cheeses",
+    "fr": "Viandes rouges grillées, canard rôti, ragoûts de viande, fromages à pâte pressée",
+    "it": "Carni rosse alla brace, anatra arrosto, stufati di carne, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-17 °C, copa de tipo Burdeos",
+    "en": "16-17 °C, Bordeaux glass",
+    "fr": "16-17 °C, verre de type bordeaux",
+    "it": "16-17 °C, calice tipo Bordeaux"
+  },
+  "search": "Pauillac de Latour Château Latour"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "pieropan-soave-classico",
+  "name": "Pieropan Soave Classico",
+  "winery": "pieropan",
+  "region": "soave",
+  "country": "italia",
+  "type": "blanco",
+  "category": {"es": "Soave Classico DOC", "en": "Soave Classico DOC", "fr": "Soave Classico DOC", "it": "Soave Classico DOC"},
+  "grapes": ["garganega"],
+  "summary": {
+    "es": "El Soave Classico de base de Pieropan, un blanco fresco de Garganega de las colinas de la zona clásica de Soave.",
+    "en": "Pieropan’s core Soave Classico, a fresh Garganega white from the hills of the classic Soave zone.",
+    "fr": "Le Soave Classico de base de Pieropan, un blanc frais de garganega des collines de la zone classique de Soave.",
+    "it": "Il Soave Classico di base di Pieropan, un bianco fresco di Garganega dalle colline della zona classica del Soave."
+  },
+  "body": {
+    "es": "<p>El Soave Classico procede de la zona histórica de la denominación, las colinas que rodean los pueblos de Soave y Monteforte d’Alpone, al este de Verona. Sus suelos combinan rocas volcánicas basálticas y calizas, y dan blancos de buena acidez y carácter mineral.</p><p>El de Pieropan se elabora mayoritariamente con Garganega, la variedad principal del Soave, completada con una pequeña proporción de Trebbiano di Soave. Las uvas proceden de viñedos de ladera cultivados en ecológico. La vinificación se realiza en depósitos de acero inoxidable, sin madera, para preservar la fruta y la frescura.</p><p>Es un blanco seco, delicado y fácil de beber, que muestra el perfil clásico del Soave: notas florales, de almendra y de fruta blanca, con una acidez equilibrada. Se disfruta joven, aunque puede ganar matices con uno o dos años de botella.</p>",
+    "en": "<p>Soave Classico comes from the appellation’s historic zone, the hills around the villages of Soave and Monteforte d’Alpone, east of Verona. Its soils combine volcanic basalt and limestone, giving whites with good acidity and mineral character.</p><p>Pieropan’s is made mostly from Garganega, Soave’s main variety, completed with a small proportion of Trebbiano di Soave. The grapes come from organically farmed hillside vineyards. Vinification takes place in stainless-steel tanks, without oak, to preserve fruit and freshness.</p><p>It is a dry, delicate, easy-drinking white that shows the classic Soave profile: floral, almond and white-fruit notes, with balanced acidity. It is best enjoyed young, although it can gain nuance with a year or two in bottle.</p>",
+    "fr": "<p>Le Soave Classico provient de la zone historique de l’appellation, les collines qui entourent les villages de Soave et de Monteforte d’Alpone, à l’est de Vérone. Ses sols associent roches volcaniques basaltiques et calcaires, et donnent des blancs de bonne acidité au caractère minéral.</p><p>Celui de Pieropan est élaboré majoritairement avec de la garganega, le cépage principal du Soave, complétée par une faible proportion de trebbiano di Soave. Les raisins proviennent de vignes de coteau cultivées en bio. La vinification se fait en cuves d’acier inoxydable, sans bois, pour préserver le fruit et la fraîcheur.</p><p>C’est un blanc sec, délicat et facile à boire, qui montre le profil classique du Soave : notes florales, d’amande et de fruits blancs, avec une acidité équilibrée. Il s’apprécie jeune, mais peut gagner en nuances après un ou deux ans de bouteille.</p>",
+    "it": "<p>Il Soave Classico proviene dalla zona storica della denominazione, le colline attorno ai paesi di Soave e Monteforte d’Alpone, a est di Verona. I suoli uniscono rocce vulcaniche basaltiche e calcari, e danno bianchi di buona acidità e carattere minerale.</p><p>Quello di Pieropan è prodotto in prevalenza con Garganega, la varietà principale del Soave, completata da una piccola quota di Trebbiano di Soave. Le uve provengono da vigneti collinari coltivati in biologico. La vinificazione avviene in acciaio inox, senza legno, per preservare frutto e freschezza.</p><p>È un bianco secco, delicato e di facile beva, che mostra il profilo classico del Soave: note floreali, di mandorla e di frutta bianca, con un’acidità equilibrata. Si gusta giovane, anche se può acquistare sfumature con uno o due anni di bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pajizo con reflejos verdosos. Aromas de flores blancas, pera, manzana y almendra. En boca es seco, ligero y fresco, con un final ligeramente almendrado.",
+    "en": "Straw yellow with greenish glints. Aromas of white flowers, pear, apple and almond. Dry, light and fresh on the palate, with a lightly almondy finish.",
+    "fr": "Jaune paille aux reflets verts. Arômes de fleurs blanches, de poire, de pomme et d’amande. En bouche, il est sec, léger et frais, avec une finale légèrement amandée.",
+    "it": "Giallo paglierino con riflessi verdolini. Profumi di fiori bianchi, pera, mela e mandorla. In bocca è secco, leggero e fresco, con un finale leggermente ammandorlato."
+  },
+  "pairing": {
+    "es": "Aperitivos, pescado a la plancha, marisco, risotto de verduras, pasta con pesto",
+    "en": "Aperitifs, grilled fish, shellfish, vegetable risotto, pasta with pesto",
+    "fr": "Apéritifs, poisson grillé, fruits de mer, risotto aux légumes, pâtes au pesto",
+    "it": "Aperitivi, pesce alla griglia, frutti di mare, risotto alle verdure, pasta al pesto"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Pieropan Soave Classico"
+}

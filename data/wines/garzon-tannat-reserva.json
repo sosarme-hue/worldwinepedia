@@ -1,0 +1,48 @@
+{
+  "slug": "garzon-tannat-reserva",
+  "name": "Garzón Tannat Reserva",
+  "winery": "bodega-garzon",
+  "region": "maldonado",
+  "country": "uruguay",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [
+    "tannat"
+  ],
+  "summary": {
+    "es": "Tannat de los viñedos de ladera de Bodega Garzón en Maldonado, que muestra el perfil más fresco y tenso de la variedad en la costa atlántica uruguaya.",
+    "en": "Tannat from Bodega Garzón’s hillside vineyards in Maldonado, showing the fresher, tauter profile of the variety on Uruguay’s Atlantic coast.",
+    "fr": "Tannat des vignes en coteau de Bodega Garzón à Maldonado, qui montre le profil plus frais et plus tendu du cépage sur la côte atlantique uruguayenne.",
+    "it": "Tannat dei vigneti in collina di Bodega Garzón a Maldonado, che mostra il profilo più fresco e teso della varietà sulla costa atlantica uruguaiana."
+  },
+  "body": {
+    "es": "<p>La Tannat es la variedad emblemática de Uruguay, y en Maldonado, lejos de las arcillas del sur del país, adquiere un carácter distinto. Este Tannat Reserva de Bodega Garzón se elabora con uva de varias parcelas de ladera cercanas al pueblo de Garzón, sobre suelos poco profundos de granito descompuesto, en un clima moderado por las brisas del océano Atlántico.</p><p>La elaboración busca suavizar la potente estructura tánica de la variedad mediante una extracción cuidadosa, y el vino realiza una parte de su crianza en madera, sin que esta domine la fruta. Las condiciones de la zona, con temperaturas moderadas durante la maduración, contribuyen a conservar la acidez y la frescura. El resultado es un tinto de color profundo, con la estructura propia de la Tannat pero de perfil más fresco y jugoso que el de muchos Tannat del sur del país. Puede beberse en sus primeros años o guardarse algún tiempo.</p>",
+    "en": "<p>Tannat is Uruguay’s signature variety, and in Maldonado, far from the clays of the country’s south, it takes on a different character. This Bodega Garzón Tannat Reserva is made from grapes from several hillside plots near the village of Garzón, on shallow decomposed granite soils, in a climate moderated by breezes from the Atlantic Ocean.</p><p>Winemaking seeks to soften the variety’s powerful tannic structure through careful extraction, and part of the wine’s ageing takes place in wood, without the oak dominating the fruit. The area’s conditions, with moderate temperatures during ripening, help preserve acidity and freshness. The result is a deeply coloured red with the structure typical of Tannat but a fresher, juicier profile than many Tannats from the south of the country. It can be drunk in its first years or kept for some time.</p>",
+    "fr": "<p>Le tannat est le cépage emblématique de l’Uruguay et, à Maldonado, loin des argiles du sud du pays, il prend un caractère différent. Ce Tannat Reserva de Bodega Garzón est élaboré avec des raisins de plusieurs parcelles en coteau proches du village de Garzón, sur des sols peu profonds de granite décomposé, sous un climat tempéré par les brises de l’océan Atlantique.</p><p>L’élaboration cherche à assouplir la puissante structure tannique du cépage par une extraction soignée, et une partie de l’élevage se fait sous bois, sans que celui-ci domine le fruit. Les conditions de la zone, avec des températures modérées pendant la maturation, contribuent à préserver l’acidité et la fraîcheur. Le résultat est un rouge à la couleur profonde, doté de la structure propre au tannat mais d’un profil plus frais et plus juteux que celui de nombreux tannats du sud du pays. Il peut se boire dans ses premières années ou se garder quelque temps.</p>",
+    "it": "<p>Il Tannat è la varietà simbolo dell’Uruguay e a Maldonado, lontano dalle argille del sud del paese, assume un carattere diverso. Questo Tannat Reserva di Bodega Garzón è prodotto con uve di diverse parcelle in collina vicino al paese di Garzón, su suoli poco profondi di granito decomposto, in un clima mitigato dalle brezze dell’oceano Atlantico.</p><p>La vinificazione cerca di ammorbidire la potente struttura tannica della varietà con un’estrazione attenta, e parte dell’affinamento avviene in legno, senza che questo domini il frutto. Le condizioni della zona, con temperature moderate durante la maturazione, contribuiscono a conservare acidità e freschezza. Il risultato è un rosso di colore profondo, con la struttura tipica del Tannat ma un profilo più fresco e succoso di quello di molti Tannat del sud del paese. Si può bere nei primi anni o conservare per qualche tempo.</p>"
+  },
+  "tasting": {
+    "es": "Rojo violáceo intenso. Aromas de mora, frambuesa y ciruela con notas de especias y violeta. Boca jugosa, de taninos firmes pero pulidos y buena acidez.",
+    "en": "Intense purplish red. Aromas of blackberry, raspberry and plum with notes of spice and violet. Juicy on the palate, with firm but polished tannins and good acidity.",
+    "fr": "Rouge violacé intense. Arômes de mûre, de framboise et de prune avec des notes d’épices et de violette. Bouche juteuse, aux tanins fermes mais polis et à la bonne acidité.",
+    "it": "Rosso violaceo intenso. Profumi di mora, lampone e prugna con note di spezie e violetta. Bocca succosa, dai tannini decisi ma levigati e di buona acidità."
+  },
+  "pairing": {
+    "es": "Asado a la parrilla, cordero, embutidos, guisos de carne, quesos curados",
+    "en": "Barbecued meats, lamb, cured meats, meat stews, aged cheeses",
+    "fr": "Grillades, agneau, charcuterie, ragoûts de viande, fromages affinés",
+    "it": "Grigliate di carne, agnello, salumi, stufati di carne, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Garzón Tannat Reserva Bodega Garzón"
+}

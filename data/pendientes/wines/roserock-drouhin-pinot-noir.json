@@ -1,0 +1,42 @@
+{
+  "slug": "roserock-drouhin-pinot-noir",
+  "name": "Roserock Drouhin Pinot Noir",
+  "winery": null,
+  "winery_name": "Roserock",
+  "region": null,
+  "country": "estados-unidos",
+  "appellation": "Red Hills",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Roserock Drouhin Pinot Noir es un vino tinto de Roserock, con la denominación Red Hills, en Estados Unidos.",
+    "en": "Roserock Drouhin Pinot Noir is a red wine from Roserock, made under the Red Hills appellation in United States.",
+    "fr": "Roserock Drouhin Pinot Noir est un vin rouge de Roserock, élaboré sous l’appellation Red Hills (États-Unis).",
+    "it": "Roserock Drouhin Pinot Noir è un vino rosso di Roserock, prodotto nella denominazione Red Hills (Stati Uniti)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Pinot Noir. Tiene crianza en madera. Su graduación es de 14 % vol.</p>",
+    "en": "<p>It is made from Pinot Noir. It is aged in wood. It has 14% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Pinot Noir. Il est élevé en bois. Il titre 14 % vol.</p>",
+    "it": "<p>È prodotto con Pinot Nero. È affinato in legno. Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Roserock Drouhin Pinot Noir Roserock",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "inocente",
+  "name": "Fino Inocente",
+  "winery": "valdespino",
+  "region": "jerez-xeres-sherry",
+  "country": "espana",
+  "type": "generoso",
+  "category": {
+    "es": "Fino",
+    "en": "Fino",
+    "fr": "Fino",
+    "it": "Fino"
+  },
+  "grapes": [
+    "palomino"
+  ],
+  "summary": {
+    "es": "Fino de Valdespino procedente del pago de Macharnudo, fermentado en parte en bota y criado durante largo tiempo bajo velo de flor.",
+    "en": "Fino from Valdespino from the Macharnudo vineyard, partly fermented in cask and aged for a long time under flor.",
+    "fr": "Fino de Valdespino issu du pago de Macharnudo, fermenté en partie en fût et élevé longuement sous voile de flor.",
+    "it": "Fino di Valdespino dal pago di Macharnudo, fermentato in parte in botte e affinato a lungo sotto il velo di flor."
+  },
+  "body": {
+    "es": "<p>Inocente es uno de los finos más apreciados de Jerez y el vino emblemático de Valdespino. Es uno de los pocos finos que proceden de un único pago, <strong>Macharnudo</strong>, al norte de Jerez, cuyas colinas de <strong>albariza</strong> se consideran entre las mejores del Marco para la <strong>palomino</strong>.</p><p>Una particularidad de su elaboración es que parte del mosto <strong>fermenta en botas</strong> de roble, una práctica antes común en Jerez y hoy poco frecuente. Después, el vino se encabeza ligeramente y entra en un sistema de <strong>criaderas y solera</strong> con numerosas escalas, en el que permanece varios años bajo el velo de flor, la capa de levaduras que lo protege del oxígeno y le da su carácter. Esta crianza biológica más larga de lo habitual aporta complejidad y una mayor intensidad que la de los finos jóvenes. Es un fino seco, pálido y punzante, con notas de levadura y frutos secos, que conviene beber poco después de abrir la botella.</p>",
+    "en": "<p>Inocente is one of the most highly regarded finos in Jerez and Valdespino's emblematic wine. It is one of the few finos to come from a single vineyard district, <strong>Macharnudo</strong>, north of Jerez, whose <strong>albariza</strong> hills are considered among the finest in the area for <strong>Palomino</strong>.</p><p>One distinctive feature of its production is that part of the must <strong>ferments in oak casks</strong>, a practice once common in Jerez and now rare. The wine is then lightly fortified and enters a <strong>criaderas and solera</strong> system with many tiers, in which it spends several years under flor, the layer of yeast that protects it from oxygen and gives it its character. This longer-than-usual biological ageing brings complexity and greater intensity than young finos. It is a dry, pale, pungent fino with yeasty and nutty notes, best drunk soon after the bottle is opened.</p>",
+    "fr": "<p>Inocente est l'un des finos les plus appréciés de Jerez et le vin emblématique de Valdespino. C'est l'un des rares finos issus d'un seul pago, <strong>Macharnudo</strong>, au nord de Jerez, dont les collines d'<strong>albariza</strong> sont considérées comme parmi les meilleures du Marco pour le <strong>palomino</strong>.</p><p>Une particularité de son élaboration est qu'une partie du moût <strong>fermente en fûts</strong> de chêne, une pratique autrefois courante à Jerez et aujourd'hui rare. Le vin est ensuite légèrement muté et entre dans un système de <strong>criaderas et solera</strong> à nombreux niveaux, où il passe plusieurs années sous le voile de flor, la couche de levures qui le protège de l'oxygène et lui donne son caractère. Cet élevage biologique plus long que d'habitude apporte complexité et une intensité supérieure à celle des finos jeunes. C'est un fino sec, pâle et piquant, aux notes de levure et de fruits secs, à boire peu après l'ouverture de la bouteille.</p>",
+    "it": "<p>Inocente è uno dei fino più apprezzati di Jerez e il vino simbolo di Valdespino. È uno dei pochi fino provenienti da un unico pago, <strong>Macharnudo</strong>, a nord di Jerez, le cui colline di <strong>albariza</strong> sono considerate tra le migliori del Marco per il <strong>Palomino</strong>.</p><p>Una particolarità della sua produzione è che parte del mosto <strong>fermenta in botti</strong> di rovere, una pratica un tempo comune a Jerez e oggi rara. Il vino viene poi leggermente fortificato ed entra in un sistema di <strong>criaderas e solera</strong> con numerosi livelli, in cui resta diversi anni sotto il velo di flor, lo strato di lieviti che lo protegge dall'ossigeno e gli conferisce il suo carattere. Questo affinamento biologico più lungo del consueto apporta complessità e un'intensità maggiore rispetto ai fino giovani. È un fino secco, pallido e pungente, con note di lievito e frutta secca, da bere poco dopo l'apertura della bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pajizo pálido. Aromas punzantes de levadura, almendra, masa de pan y notas salinas. En boca es seco, fino y persistente, con un final amargo característico.",
+    "en": "Pale straw yellow. Pungent aromas of yeast, almond, bread dough and saline notes. Dry, fine and persistent on the palate, with a characteristic bitter finish.",
+    "fr": "Jaune paille pâle. Arômes piquants de levure, d'amande, de pâte à pain et notes salines. En bouche, sec, fin et persistant, avec une finale amère caractéristique.",
+    "it": "Giallo paglierino pallido. Aromi pungenti di lievito, mandorla, pasta di pane e note saline. In bocca è secco, fine e persistente, con il caratteristico finale amarognolo."
+  },
+  "pairing": {
+    "es": "Jamón ibérico, aceitunas, almendras, marisco, pescado frito",
+    "en": "Iberian ham, olives, almonds, shellfish, fried fish",
+    "fr": "Jambon ibérique, olives, amandes, fruits de mer, friture de poisson",
+    "it": "Prosciutto iberico, olive, mandorle, frutti di mare, frittura di pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de vino blanco",
+    "en": "6-8 °C, white wine glass",
+    "fr": "6-8 °C, verre à vin blanc",
+    "it": "6-8 °C, calice da vino bianco"
+  },
+  "search": "Fino Inocente Valdespino Macharnudo"
+}

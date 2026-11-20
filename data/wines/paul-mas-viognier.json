@@ -1,0 +1,48 @@
+{
+  "slug": "paul-mas-viognier",
+  "name": "Paul Mas Viognier",
+  "winery": "paul-mas",
+  "region": "languedoc-roussillon",
+  "country": "francia",
+  "type": "blanco",
+  "category": {
+    "es": "IGP Pays d’Oc",
+    "en": "IGP Pays d’Oc",
+    "fr": "IGP Pays d’Oc",
+    "it": "IGP Pays d’Oc"
+  },
+  "grapes": [
+    "viognier"
+  ],
+  "summary": {
+    "es": "Viognier monovarietal de IGP Pays d’Oc elaborado por Domaines Paul Mas, un blanco aromático y afrutado del Languedoc.",
+    "en": "Single-varietal Viognier from IGP Pays d’Oc made by Domaines Paul Mas, an aromatic, fruity Languedoc white.",
+    "fr": "Viognier monocépage en IGP Pays d’Oc élaboré par les Domaines Paul Mas, un blanc aromatique et fruité du Languedoc.",
+    "it": "Viognier in purezza IGP Pays d’Oc prodotto da Domaines Paul Mas, un bianco aromatico e fruttato della Linguadoca."
+  },
+  "body": {
+    "es": "<p>El <strong>Viognier</strong> es una variedad blanca originaria del norte del valle del Ródano, donde da los vinos de Condrieu. Desde finales del siglo XX se ha difundido por el Languedoc, donde el clima soleado le permite madurar bien y expresar sus aromas característicos de fruta de hueso y flores.</p><p>Domaines Paul Mas elabora este vino exclusivamente con Viognier, bajo la indicación geográfica <strong>IGP Pays d’Oc</strong>, que abarca buena parte del Languedoc-Rosellón y permite indicar la variedad en la etiqueta. Las uvas proceden de viñedos de la zona, y la elaboración busca preservar la fruta y la frescura, con una crianza breve antes del embotellado.</p><p>Es un blanco seco, aromático y de cuerpo medio, con notas de albaricoque, melocotón y flores blancas y una textura algo untuosa, propia de la variedad. Está pensado para beberse joven, cuando conserva toda su expresión aromática, como aperitivo o con platos ligeros.</p>",
+    "en": "<p><strong>Viognier</strong> is a white variety originating in the northern Rhône Valley, where it produces the wines of Condrieu. Since the late twentieth century it has spread through the Languedoc, where the sunny climate allows it to ripen well and express its characteristic aromas of stone fruit and flowers.</p><p>Domaines Paul Mas makes this wine exclusively from Viognier, under the <strong>IGP Pays d’Oc</strong> geographical indication, which covers much of Languedoc-Roussillon and allows the variety to be shown on the label. The grapes come from vineyards in the area, and winemaking aims to preserve fruit and freshness, with a short period of ageing before bottling.</p><p>It is a dry, aromatic, medium-bodied white with notes of apricot, peach and white flowers and a slightly unctuous texture typical of the variety. It is meant to be drunk young, while it retains all its aromatic expression, as an aperitif or with light dishes and Mediterranean cuisine.</p>",
+    "fr": "<p>Le <strong>viognier</strong> est un cépage blanc originaire du nord de la vallée du Rhône, où il donne les vins de Condrieu. Depuis la fin du XXe siècle, il s’est répandu dans le Languedoc, où le climat ensoleillé lui permet de bien mûrir et d’exprimer ses arômes caractéristiques de fruits à noyau et de fleurs.</p><p>Les Domaines Paul Mas élaborent ce vin exclusivement à partir de viognier, sous l’indication géographique <strong>IGP Pays d’Oc</strong>, qui couvre une grande partie du Languedoc-Roussillon et permet de mentionner le cépage sur l’étiquette. Les raisins proviennent de vignobles du secteur, et la vinification vise à préserver le fruit et la fraîcheur, avec un court élevage avant la mise en bouteille.</p><p>C’est un blanc sec, aromatique et de corps moyen, aux notes d’abricot, de pêche et de fleurs blanches, à la texture un peu onctueuse propre au cépage. Il est conçu pour être bu jeune, lorsqu’il conserve toute son expression aromatique, à l’apéritif ou avec des plats légers.</p>",
+    "it": "<p>Il <strong>Viognier</strong> è una varietà bianca originaria della valle del Rodano settentrionale, dove dà i vini di Condrieu. Dalla fine del Novecento si è diffuso in Linguadoca, dove il clima soleggiato gli consente di maturare bene e di esprimere i suoi aromi tipici di frutta a nocciolo e fiori.</p><p>Domaines Paul Mas produce questo vino esclusivamente con Viognier, con l’indicazione geografica <strong>IGP Pays d’Oc</strong>, che copre gran parte della Linguadoca-Rossiglione e consente di indicare la varietà in etichetta. Le uve provengono da vigneti della zona, e la vinificazione mira a preservare frutto e freschezza, con un breve affinamento prima dell’imbottigliamento.</p><p>È un bianco secco, aromatico e di medio corpo, con note di albicocca, pesca e fiori bianchi e una consistenza un po’ untuosa tipica della varietà. È pensato per essere bevuto giovane, quando conserva tutta la sua espressione aromatica, come aperitivo o con piatti leggeri.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo dorado pálido. Aromas de albaricoque, melocotón, flores blancas y un toque de miel. Boca seca, redonda y fresca.",
+    "en": "Pale golden yellow. Aromas of apricot, peach, white flowers and a hint of honey. Dry, round, fresh palate.",
+    "fr": "Jaune doré pâle. Arômes d’abricot, de pêche, de fleurs blanches et une touche de miel. Bouche sèche, ronde et fraîche.",
+    "it": "Giallo dorato pallido. Aromi di albicocca, pesca, fiori bianchi e un tocco di miele. Bocca secca, rotonda e fresca."
+  },
+  "pairing": {
+    "es": "Aperitivo, cocina asiática suave, pollo al curry, pescados con salsas cremosas, quesos frescos",
+    "en": "Aperitif, mild Asian cuisine, chicken curry, fish in creamy sauces, fresh cheeses",
+    "fr": "Apéritif, cuisine asiatique douce, poulet au curry, poissons en sauce crémeuse, fromages frais",
+    "it": "Aperitivo, cucina asiatica delicata, pollo al curry, pesce in salse cremose, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Paul Mas Viognier Pays d’Oc"
+}

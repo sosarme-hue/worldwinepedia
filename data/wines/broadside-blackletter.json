@@ -1,0 +1,46 @@
+{
+  "slug": "broadside-blackletter",
+  "name": "Broadside Blackletter",
+  "winery": null,
+  "winery_name": "Broadside",
+  "region": "paso-robles",
+  "country": "estados-unidos",
+  "appellation": "Paso Robles",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "Tinto de base Cabernet Sauvignon de Broadside, bodega de Paso Robles, en la costa central de California, con crianza en madera.",
+    "en": "Cabernet Sauvignon-based red from Broadside, a Paso Robles winery on California’s Central Coast, aged in wood.",
+    "fr": "Rouge à base de cabernet sauvignon de Broadside, domaine de Paso Robles, sur la côte centrale de Californie, élevé sous bois.",
+    "it": "Rosso a base di Cabernet Sauvignon di Broadside, cantina di Paso Robles, sulla costa centrale della California, affinato in legno."
+  },
+  "body": {
+    "es": "<p><strong>Broadside</strong> es una bodega de <strong>Paso Robles</strong> que elabora tintos a partir de uva de viñedos de la costa central de California. Su enfoque se aparta del estilo más maduro y opulento que a menudo se asocia con la zona, y busca vinos de extracción moderada y uso contenido de la madera nueva, más centrados en la fruta y el equilibrio.</p><p>La AVA Paso Robles se encuentra en el condado de San Luis Obispo, a medio camino entre San Francisco y Los Ángeles. Es una zona extensa, de clima cálido y soleado durante el día, con noches frescas gracias a la influencia del Pacífico que penetra por los pasos de la cordillera costera; la diferencia de temperatura entre el día y la noche es de las más acusadas de California. Los suelos son variados, con abundancia de calizas en el sector occidental. Junto a las variedades del Ródano, la <strong>Cabernet Sauvignon</strong> es una de las uvas más plantadas.</p><p><strong>Blackletter</strong> es uno de los tintos de la casa, elaborado con Cabernet Sauvignon y criado en madera. Su graduación elevada refleja la madurez que alcanza la uva en Paso Robles, mientras que la elaboración busca conservar la frescura y un tanino pulido.</p>",
+    "en": "<p><strong>Broadside</strong> is a <strong>Paso Robles</strong> winery making reds from grapes grown in vineyards on California’s Central Coast. Its approach departs from the riper, more opulent style often associated with the area, aiming for wines of moderate extraction and restrained use of new oak, focused on fruit and balance.</p><p>The Paso Robles AVA lies in San Luis Obispo County, halfway between San Francisco and Los Angeles. It is a large area, warm and sunny by day, with cool nights thanks to Pacific influence funnelling through gaps in the coastal range; the day-night temperature swing is among the widest in California. The soils are varied, with plenty of limestone in the western part. Alongside Rhône varieties, <strong>Cabernet Sauvignon</strong> is one of the most widely planted grapes.</p><p><strong>Blackletter</strong> is one of the house’s reds, made from Cabernet Sauvignon and aged in wood. Its high alcohol reflects the ripeness grapes reach in Paso Robles, while the winemaking seeks to preserve freshness and polished tannins.</p>",
+    "fr": "<p><strong>Broadside</strong> est un domaine de <strong>Paso Robles</strong> qui élabore des rouges à partir de raisins de vignobles de la côte centrale de Californie. Sa démarche s’écarte du style plus mûr et opulent souvent associé au secteur, et vise des vins à l’extraction modérée et à l’usage mesuré du bois neuf, centrés sur le fruit et l’équilibre.</p><p>L’AVA Paso Robles se trouve dans le comté de San Luis Obispo, à mi-chemin entre San Francisco et Los Angeles. C’est une zone étendue, chaude et ensoleillée le jour, aux nuits fraîches grâce à l’influence du Pacifique qui s’engouffre par les cols de la chaîne côtière ; l’écart de température entre le jour et la nuit y est l’un des plus marqués de Californie. Les sols sont variés, avec beaucoup de calcaire dans la partie ouest. Aux côtés des cépages rhodaniens, le <strong>cabernet sauvignon</strong> est l’un des plus plantés.</p><p><strong>Blackletter</strong> est l’un des rouges de la maison, élaboré avec du cabernet sauvignon et élevé sous bois. Son degré élevé reflète la maturité qu’atteint le raisin à Paso Robles, tandis que la vinification cherche à préserver la fraîcheur et un tanin poli.</p>",
+    "it": "<p><strong>Broadside</strong> è una cantina di <strong>Paso Robles</strong> che produce rossi con uve di vigneti della costa centrale della California. Il suo approccio si discosta dallo stile più maturo e opulento spesso associato alla zona, puntando su vini di estrazione moderata e uso contenuto del legno nuovo, incentrati sul frutto e sull’equilibrio.</p><p>L’AVA Paso Robles si trova nella contea di San Luis Obispo, a metà strada tra San Francisco e Los Angeles. È una zona ampia, calda e soleggiata di giorno, con notti fresche grazie all’influenza del Pacifico che penetra attraverso i valichi della catena costiera; l’escursione termica tra giorno e notte è tra le più marcate della California. I suoli sono vari, con abbondanza di calcare nel settore occidentale. Accanto ai vitigni del Rodano, il <strong>Cabernet Sauvignon</strong> è una delle uve più coltivate.</p><p><strong>Blackletter</strong> è uno dei rossi della casa, prodotto con Cabernet Sauvignon e affinato in legno. La gradazione elevata riflette la maturità che l’uva raggiunge a Paso Robles, mentre la vinificazione cerca di preservare freschezza e un tannino levigato.</p>"
+  },
+  "tasting": {
+    "es": "Grosella negra, mora, ciruela, hierbas secas y notas de cedro. En boca es amplio y jugoso, con taninos maduros y final especiado.",
+    "en": "Blackcurrant, blackberry, plum, dried herbs and cedar notes. Broad and juicy on the palate, with ripe tannins and a spicy finish.",
+    "fr": "Cassis, mûre, prune, herbes sèches et notes de cèdre. Bouche ample et juteuse, aux tanins mûrs et à la finale épicée.",
+    "it": "Ribes nero, mora, prugna, erbe secche e note di cedro. In bocca è ampio e succoso, con tannini maturi e finale speziato."
+  },
+  "pairing": {
+    "es": "Hamburguesa de buey, costillas a la barbacoa, carnes rojas a la parrilla, quesos curados",
+    "en": "Beef burgers, barbecued ribs, grilled red meat, aged cheeses",
+    "fr": "Burger de bœuf, travers au barbecue, viandes rouges grillées, fromages affinés",
+    "it": "Hamburger di manzo, costine al barbecue, carni rosse alla griglia, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Broadside Blackletter Broadside",
+  "source": "decantalo"
+}

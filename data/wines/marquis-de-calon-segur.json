@@ -1,0 +1,49 @@
+{
+  "slug": "marquis-de-calon-segur",
+  "name": "Le Marquis de Calon Ségur",
+  "winery": "chateau-calon-segur",
+  "region": "saint-estephe",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Segundo vino",
+    "en": "Second wine",
+    "fr": "Second vin",
+    "it": "Secondo vino"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Segundo vino de Château Calon-Ségur, tercer gran cru clasificado de Saint-Estèphe, más accesible en su juventud que el grand vin.",
+    "en": "The second wine of Château Calon-Ségur, a Saint-Estèphe third growth, more approachable in youth than the grand vin.",
+    "fr": "Second vin de Château Calon-Ségur, troisième grand cru classé de Saint-Estèphe, plus accessible jeune que le grand vin.",
+    "it": "Secondo vino di Château Calon-Ségur, terzo grand cru classificato di Saint-Estèphe, più accessibile in gioventù del grand vin."
+  },
+  "body": {
+    "es": "<p><strong>Le Marquis de Calon Ségur</strong>, conocido durante años simplemente como Marquis de Calon, es el segundo vino de <strong>Château Calon-Ségur</strong>, tercer gran cru clasificado de <strong>Saint-Estèphe</strong> en 1855. Su nombre rinde homenaje al marqués de Ségur, el propietario del siglo XVIII al que se atribuye el célebre corazón de la etiqueta.</p><p>Se elabora con uvas de los viñedos de la propiedad que no se seleccionan para el grand vin, plantados sobre gravas con arcilla y caliza. Se basa en el <strong>Cabernet Sauvignon</strong> y el <strong>Merlot</strong>, este último generalmente con más peso que en el vino principal, lo que le aporta redondez. La crianza en barrica es más corta y con menos madera nueva.</p><p>Es un Saint-Estèphe de fruta negra generosa, textura más suave y taninos menos austeros que los del grand vin, que conserva la frescura y la estructura de la denominación y puede disfrutarse tras pocos años de botella.</p>",
+    "en": "<p><strong>Le Marquis de Calon Ségur</strong>, known for years simply as Marquis de Calon, is the second wine of <strong>Château Calon-Ségur</strong>, a <strong>Saint-Estèphe</strong> third growth classified in 1855. Its name pays tribute to the Marquis de Ségur, the 18th-century owner to whom the famous heart on the label is attributed.</p><p>It is made from grapes from the estate’s vineyards not selected for the grand vin, planted on gravel with clay and limestone. It is based on <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong>, the latter generally playing a larger role than in the main wine, which gives it roundness. Barrel ageing is shorter and uses less new oak.</p><p>It is a Saint-Estèphe of generous dark fruit, softer texture and less austere tannins than the grand vin, which keeps the freshness and structure of the appellation and can be enjoyed after only a few years in bottle.</p>",
+    "fr": "<p><strong>Le Marquis de Calon Ségur</strong>, longtemps appelé simplement Marquis de Calon, est le second vin de <strong>Château Calon-Ségur</strong>, troisième grand cru classé de <strong>Saint-Estèphe</strong> en 1855. Son nom rend hommage au marquis de Ségur, le propriétaire du XVIIIe siècle à qui l’on attribue le célèbre cœur de l’étiquette.</p><p>Il est élaboré avec les raisins des vignes de la propriété non retenus pour le grand vin, plantées sur des graves argilo-calcaires. Il repose sur le <strong>cabernet-sauvignon</strong> et le <strong>merlot</strong>, ce dernier ayant généralement plus de poids que dans le vin principal, ce qui lui donne de la rondeur. L’élevage en barrique est plus court, avec moins de bois neuf.</p><p>C’est un Saint-Estèphe au fruit noir généreux, à la texture plus souple et aux tanins moins austères que ceux du grand vin, qui garde la fraîcheur et la structure de l’appellation et s’apprécie après quelques années de bouteille seulement.</p>",
+    "it": "<p><strong>Le Marquis de Calon Ségur</strong>, noto per anni semplicemente come Marquis de Calon, è il secondo vino di <strong>Château Calon-Ségur</strong>, terzo grand cru classificato di <strong>Saint-Estèphe</strong> nel 1855. Il nome rende omaggio al marchese di Ségur, il proprietario settecentesco a cui si attribuisce il celebre cuore dell’etichetta.</p><p>È prodotto con le uve dei vigneti della proprietà non selezionate per il grand vin, piantati su ghiaie con argilla e calcare. Si basa su <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong>, quest’ultimo di solito con un peso maggiore che nel vino principale, il che gli conferisce rotondità. L’affinamento in barrique è più breve e con meno legno nuovo.</p><p>È un Saint-Estèphe dal frutto nero generoso, dalla tessitura più morbida e dai tannini meno austeri rispetto al grand vin, che conserva la freschezza e la struttura della denominazione e si può gustare dopo pochi anni di bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota. Aromas de grosella negra, cereza, cedro y especias. Boca fresca y estructurada, de taninos suaves.",
+    "en": "Deep red. Aromas of blackcurrant, cherry, cedar and spice. Fresh, structured palate with soft tannins.",
+    "fr": "Rouge profond. Arômes de cassis, de cerise, de cèdre et d’épices. Bouche fraîche et structurée, aux tanins souples.",
+    "it": "Rosso intenso. Aromi di ribes nero, ciliegia, cedro e spezie. Bocca fresca e strutturata, dai tannini morbidi."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la parrilla, cordero, pato, quesos curados",
+    "en": "Grilled red meat, lamb, duck, aged cheeses",
+    "fr": "Viandes rouges grillées, agneau, canard, fromages affinés",
+    "it": "Carni rosse alla griglia, agnello, anatra, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Marquis de Calon Ségur Saint-Estèphe"
+}

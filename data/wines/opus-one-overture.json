@@ -1,0 +1,47 @@
+{
+  "slug": "opus-one-overture",
+  "name": "Overture",
+  "winery": "opus-one",
+  "region": "napa-valley",
+  "country": "estados-unidos",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "cabernet-franc",
+    "petit-verdot",
+    "malbec"
+  ],
+  "summary": {
+    "es": "Segundo vino de Opus One, elaborado con lotes de la finca no seleccionados para el gran vino.",
+    "en": "Opus One’s second wine, made from estate lots not selected for the grand vin.",
+    "fr": "Second vin d’Opus One, élaboré à partir de lots du domaine non retenus pour le grand vin.",
+    "it": "Secondo vino di Opus One, prodotto con lotti della tenuta non selezionati per il grande vino."
+  },
+  "body": {
+    "es": "<p>Como muchos châteaux de Burdeos, Opus One elabora un segundo vino, <strong>Overture</strong>, que permite aprovechar lotes de calidad que no se incorporan a la mezcla final del gran vino. La práctica tiene un doble objetivo: mantener la exigencia de la selección de Opus One y ofrecer un tinto con el mismo origen y la misma filosofía de elaboración, aunque de carácter más accesible.</p><p>Overture se basa, como su hermano mayor, en las variedades bordelesas cultivadas en Oakville, con predominio del Cabernet Sauvignon y presencia de Merlot, Cabernet Franc, Petit Verdot y Malbec en proporciones variables. Se cría en barricas de roble francés. Durante mucho tiempo se vendió casi exclusivamente en la propia bodega, aunque hoy se encuentra también en algunos mercados. Suele mostrarse más abierto y afrutado en su juventud que Opus One.</p>",
+    "en": "<p>Like many Bordeaux châteaux, Opus One makes a second wine, <strong>Overture</strong>, which makes use of quality lots not included in the final blend of the grand vin. The practice has a twofold aim: to keep Opus One’s selection rigorous and to offer a red of the same origin and the same winemaking philosophy, though more approachable in character.</p><p>Like its elder sibling, Overture is based on the Bordeaux varieties grown in Oakville, with Cabernet Sauvignon predominant and Merlot, Cabernet Franc, Petit Verdot and Malbec present in varying proportions. It is aged in French oak barrels. For a long time it was sold almost exclusively at the winery itself, although today it can also be found in some markets. It usually shows more open and fruity in its youth than Opus One.</p>",
+    "fr": "<p>Comme bien des châteaux bordelais, Opus One produit un second vin, <strong>Overture</strong>, qui permet de valoriser des lots de qualité non retenus dans l’assemblage final du grand vin. La pratique a un double objectif : maintenir l’exigence de la sélection d’Opus One et proposer un rouge de même origine et de même philosophie de vinification, mais d’un caractère plus accessible.</p><p>Comme son aîné, Overture repose sur les cépages bordelais cultivés à Oakville, avec une prédominance de cabernet-sauvignon et la présence de merlot, de cabernet franc, de petit verdot et de malbec en proportions variables. Il est élevé en barriques de chêne français. Longtemps vendu presque exclusivement à la cave même, on le trouve aujourd’hui aussi sur certains marchés. Il se montre en général plus ouvert et fruité dans sa jeunesse qu’Opus One.</p>",
+    "it": "<p>Come molti château di Bordeaux, Opus One produce un secondo vino, <strong>Overture</strong>, che permette di valorizzare lotti di qualità non inclusi nell’uvaggio finale del grande vino. La pratica ha un duplice obiettivo: mantenere rigorosa la selezione di Opus One e offrire un rosso della stessa origine e con la stessa filosofia di vinificazione, ma di carattere più accessibile.</p><p>Come il fratello maggiore, Overture si basa sui vitigni bordolesi coltivati a Oakville, con predominanza di Cabernet Sauvignon e presenza di Merlot, Cabernet Franc, Petit Verdot e Malbec in proporzioni variabili. Affina in barrique di rovere francese. Per molto tempo è stato venduto quasi esclusivamente in cantina, anche se oggi si trova pure in alcuni mercati. Di solito si mostra più aperto e fruttato in gioventù rispetto a Opus One.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí intenso. Aromas de fruta negra y roja madura, con toques de especias y roble. Boca redonda, de taninos suaves y final afrutado.",
+    "en": "Deep ruby red. Aromas of ripe black and red fruit, with touches of spice and oak. Rounded on the palate, with soft tannins and a fruity finish.",
+    "fr": "Rouge rubis intense. Arômes de fruits noirs et rouges mûrs, avec des touches d’épices et de chêne. Bouche ronde, aux tanins souples et à la finale fruitée.",
+    "it": "Rosso rubino intenso. Aromi di frutta nera e rossa matura, con tocchi di spezie e rovere. Bocca rotonda, dai tannini morbidi e dal finale fruttato."
+  },
+  "pairing": {
+    "es": "Carnes a la brasa, hamburguesa gourmet, pato, setas salteadas",
+    "en": "Chargrilled meat, gourmet burgers, duck, sautéed mushrooms",
+    "fr": "Viandes à la braise, burger gastronomique, canard, champignons sautés",
+    "it": "Carni alla brace, hamburger gourmet, anatra, funghi saltati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia; puede decantarse",
+    "en": "16-18 °C, large glass; may be decanted",
+    "fr": "16-18 °C, verre ample ; peut être carafé",
+    "it": "16-18 °C, calice ampio; può essere decantato"
+  },
+  "search": "Overture Opus One Napa Valley"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "atlantis-txakoli",
+  "name": "Atlantis Txakolí",
+  "winery": null,
+  "winery_name": "Maetierra",
+  "region": "arabako-txakolina",
+  "country": "espana",
+  "appellation": "DO Arabako-Txakolina",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "hondarrabi-zuri"
+  ],
+  "summary": {
+    "es": "Atlantis Txakolí es un vino blanco de Maetierra, con la denominación DO Arabako-Txakolina, en España.",
+    "en": "Atlantis Txakolí is a white wine from Maetierra, made under the DO Arabako-Txakolina appellation in Spain.",
+    "fr": "Atlantis Txakolí est un vin blanc de Maetierra, élaboré sous l’appellation DO Arabako-Txakolina (Espagne).",
+    "it": "Atlantis Txakolí è un vino bianco di Maetierra, prodotto nella denominazione DO Arabako-Txakolina (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Hondarrabi Zuri. Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 12,5 % vol.</p><p>Arabako Txakolina es la denominación de origen del txakoli de Álava, concentrada en el valle de Ayala, en el noroeste de la provincia. Es la más pequeña y reciente de las tres denominaciones de txakoli y elabora sobre todo blancos frescos de Hondarrabi Zuri.</p>",
+    "en": "<p>It is made from Hondarrabi Zuri. It is a young wine, meant to be drunk in its first years. It has 12.5% ABV.</p><p>Arabako Txakolina is the designation of origin for the txakoli of Álava, concentrated in the Ayala valley, in the north-west of the province. It is the smallest and most recent of the three txakoli designations and mainly produces fresh whites from Hondarrabi Zuri.</p>",
+    "fr": "<p>Il est élaboré à partir de Hondarrabi Zuri. C’est un vin jeune, à boire dans ses premières années. Il titre 12,5 % vol.</p><p>Arabako Txakolina est la dénomination d'origine du txakoli d'Alava, concentrée dans la vallée d'Ayala, au nord-ouest de la province. C'est la plus petite et la plus récente des trois appellations de txakoli ; elle produit surtout des blancs frais de hondarrabi zuri.</p>",
+    "it": "<p>È prodotto con Hondarrabi Zuri. È un vino giovane, da bere nei primi anni. Ha 12,5% vol.</p><p>Arabako Txakolina è la denominazione di origine del txakoli di Álava, concentrata nella valle di Ayala, nel nord-ovest della provincia. È la più piccola e la più recente delle tre denominazioni del txakoli e produce soprattutto bianchi freschi di Hondarrabi Zuri.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Atlantis Txakolí Maetierra",
+  "brief": true,
+  "source": "decantalo"
+}

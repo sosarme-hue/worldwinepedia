@@ -1,0 +1,48 @@
+{
+  "slug": "protos-reserva",
+  "name": "Protos Reserva",
+  "winery": "protos",
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Reserva de Bodegas Protos, en Peñafiel, elaborado con Tinto Fino y envejecido al menos tres años entre barrica y botella.",
+    "en": "Reserva from Bodegas Protos in Peñafiel, made from Tinto Fino and aged for at least three years between barrel and bottle.",
+    "fr": "Reserva de Bodegas Protos, à Peñafiel, élaboré avec du tinto fino et vieilli au moins trois ans entre barrique et bouteille.",
+    "it": "Reserva di Bodegas Protos, a Peñafiel, prodotto con Tinto Fino e invecchiato almeno tre anni tra barrique e bottiglia."
+  },
+  "body": {
+    "es": "<p>Protos Reserva es uno de los vinos de crianza más larga de Bodegas Protos, la histórica bodega de Peñafiel fundada en 1927, cuyo nombre procede del griego y significa «primero». Se elabora con Tinto Fino, la variante local del Tempranillo, procedente de viñedos de los socios y de la propia bodega en el entorno de Peñafiel, en el tramo vallisoletano de la Ribera del Duero.</p><p>Solo se elabora en añadas que la bodega considera adecuadas para una crianza prolongada. Según la normativa de la Denominación de Origen Ribera del Duero, un Reserva debe envejecer un mínimo de treinta y seis meses, con al menos doce en barrica. Protos cría sus vinos en barricas de roble y los conserva después en botella, en parte en las galerías excavadas bajo el cerro del castillo de Peñafiel.</p><p>El resultado es un tinto de estilo clásico, con fruta negra madura, notas especiadas y tostadas y una estructura que se suaviza con los años en botella.</p>",
+    "en": "<p>Protos Reserva is one of the longest-aged wines from Bodegas Protos, the historic Peñafiel winery founded in 1927, whose name comes from the Greek word for ‘first’. It is made from Tinto Fino, the local variant of Tempranillo, from the vineyards of its members and of the winery itself around Peñafiel, on the Valladolid stretch of Ribera del Duero.</p><p>It is made only in vintages the winery considers suitable for extended ageing. Under the rules of the Ribera del Duero Denominación de Origen, a Reserva must age for at least thirty-six months, with at least twelve in barrel. Protos ages its wines in oak barrels and then keeps them in bottle, partly in the galleries dug beneath the hill of Peñafiel castle.</p><p>The result is a classic-style red, with ripe black fruit, spicy and toasty notes and a structure that softens with years in bottle.</p>",
+    "fr": "<p>Protos Reserva est l’un des vins aux élevages les plus longs de Bodegas Protos, la bodega historique de Peñafiel fondée en 1927, dont le nom vient du grec et signifie « premier ». Il est élaboré avec du tinto fino, variante locale du tempranillo, provenant des vignes des associés et de la bodega elle-même autour de Peñafiel, sur le tronçon de Valladolid de la Ribera del Duero.</p><p>Il n’est élaboré que les millésimes jugés propices à un long élevage. Selon la réglementation de la Denominación de Origen Ribera del Duero, un Reserva doit vieillir au moins trente-six mois, dont douze au minimum en barrique. Protos élève ses vins en barriques de chêne puis les conserve en bouteille, en partie dans les galeries creusées sous la colline du château de Peñafiel.</p><p>Il en résulte un rouge de style classique, aux fruits noirs mûrs, aux notes épicées et toastées, et à la structure qui s’assouplit avec les années en bouteille.</p>",
+    "it": "<p>Protos Reserva è uno dei vini di più lungo affinamento di Bodegas Protos, la storica cantina di Peñafiel fondata nel 1927, il cui nome deriva dal greco e significa «primo». È prodotto con Tinto Fino, la variante locale del Tempranillo, proveniente dai vigneti dei soci e della cantina stessa nei dintorni di Peñafiel, nel tratto di Valladolid della Ribera del Duero.</p><p>Si produce solo nelle annate che la cantina ritiene adatte a un affinamento prolungato. Secondo la normativa della Denominación de Origen Ribera del Duero, un Reserva deve invecchiare almeno trentasei mesi, di cui almeno dodici in barrique. Protos affina i suoi vini in barrique di rovere e li conserva poi in bottiglia, in parte nelle gallerie scavate sotto il colle del castello di Peñafiel.</p><p>Il risultato è un rosso di stile classico, con frutto nero maturo, note speziate e tostate e una struttura che si ammorbidisce con gli anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí con ribete teja. Fruta roja y negra madura, especias dulces, cuero suave y notas tostadas. En boca es amplio, de taninos pulidos y final largo.",
+    "en": "Ruby red with a brick rim. Ripe red and black fruit, sweet spice, soft leather and toasty notes. Broad on the palate, with polished tannins and a long finish.",
+    "fr": "Rouge rubis à reflets tuilés. Fruits rouges et noirs mûrs, épices douces, cuir léger et notes toastées. Ample en bouche, aux tanins polis et à la finale longue.",
+    "it": "Rosso rubino con unghia mattone. Frutta rossa e nera matura, spezie dolci, cuoio leggero e note tostate. In bocca è ampio, con tannini levigati e finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, lechazo asado, caza mayor, quesos curados de oveja",
+    "en": "Chargrilled red meat, roast milk-fed lamb, large game, aged sheep’s cheeses",
+    "fr": "Viandes rouges à la braise, agneau de lait rôti, gros gibier, fromages de brebis affinés",
+    "it": "Carni rosse alla brace, agnello da latte arrosto, selvaggina di grossa taglia, pecorini stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Protos Reserva Ribera del Duero"
+}

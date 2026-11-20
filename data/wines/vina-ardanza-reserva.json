@@ -1,0 +1,49 @@
+{
+  "slug": "vina-ardanza-reserva",
+  "name": "Viña Ardanza Reserva",
+  "winery": "la-rioja-alta",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [
+    "tempranillo",
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Reserva clásico de La Rioja Alta, de Tempranillo con Garnacha, criado en roble americano y elaborado sólo en añadas seleccionadas.",
+    "en": "Classic reserva from La Rioja Alta, made from Tempranillo with Grenache, aged in American oak and produced only in selected vintages.",
+    "fr": "Reserva classique de La Rioja Alta, de tempranillo et grenache, élevé en chêne américain et produit seulement dans des millésimes sélectionnés.",
+    "it": "Reserva classico de La Rioja Alta, di Tempranillo con Grenache, affinato in rovere americano e prodotto solo in annate selezionate."
+  },
+  "body": {
+    "es": "<p>Viña Ardanza es uno de los vinos históricos de La Rioja Alta y una de las etiquetas más reconocidas del Rioja clásico. Se elabora con una mezcla mayoritaria de Tempranillo y una proporción de Garnacha, procedente en buena parte de viñedos propios en la zona oriental de la denominación.</p><p>Las variedades se crían por separado en barricas de roble americano, fabricadas en la tonelería de la bodega, y se trasiegan a mano siguiendo el método tradicional. Tras el ensamblaje, el vino reposa en botella antes de salir al mercado. La bodega no lo elabora todos los años, sino sólo en las añadas que considera adecuadas.</p><p>Su estilo combina la fruta madura de la Garnacha con la estructura de la Tempranillo y las notas especiadas de la crianza en roble americano, en un conjunto equilibrado y con buena capacidad de guarda.</p>",
+    "en": "<p>Viña Ardanza is one of La Rioja Alta’s historic wines and one of the most recognised labels of classic Rioja. It is made from a blend that is mostly Tempranillo with a proportion of Grenache, largely sourced from the winery’s own vineyards in the eastern part of the appellation.</p><p>The varieties are aged separately in American oak barrels made in the winery’s cooperage, and racked by hand following the traditional method. After blending, the wine rests in bottle before release. The winery does not make it every year, only in vintages it considers suitable.</p><p>Its style combines the ripe fruit of Grenache with the structure of Tempranillo and the spicy notes of American oak ageing, in a balanced whole with good cellaring potential.</p>",
+    "fr": "<p>Viña Ardanza est l’un des vins historiques de La Rioja Alta et l’une des étiquettes les plus reconnues du Rioja classique. Il est élaboré à partir d’un assemblage majoritairement de tempranillo, avec une proportion de grenache provenant en bonne partie des vignes de la maison dans la zone orientale de l’appellation.</p><p>Les cépages sont élevés séparément en barriques de chêne américain fabriquées dans la tonnellerie de la maison, et soutirés à la main selon la méthode traditionnelle. Après l’assemblage, le vin repose en bouteille avant sa commercialisation. La maison ne l’élabore pas tous les ans, seulement dans les millésimes qu’elle juge adaptés.</p><p>Son style associe le fruit mûr du grenache à la structure du tempranillo et aux notes épicées de l’élevage en chêne américain, dans un ensemble équilibré au bon potentiel de garde.</p>",
+    "it": "<p>Viña Ardanza è uno dei vini storici de La Rioja Alta e una delle etichette più riconosciute del Rioja classico. È prodotto con un uvaggio in prevalenza di Tempranillo e una quota di Grenache, proveniente in buona parte dai vigneti di proprietà nella zona orientale della denominazione.</p><p>Le varietà vengono affinate separatamente in botti di rovere americano costruite nella bottaia della cantina, e travasate a mano secondo il metodo tradizionale. Dopo l’assemblaggio, il vino riposa in bottiglia prima di essere commercializzato. La cantina non lo produce ogni anno, ma solo nelle annate che ritiene adatte.</p><p>Il suo stile unisce il frutto maturo della Grenache alla struttura del Tempranillo e alle note speziate dell’affinamento in rovere americano, in un insieme equilibrato e con buona capacità di invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Rubí con ribete granate. Aromas de fruta roja madura, vainilla, coco, especias dulces y notas balsámicas. En boca es sedoso y equilibrado, con acidez fresca y final largo.",
+    "en": "Ruby with a garnet rim. Aromas of ripe red fruit, vanilla, coconut, sweet spice and balsamic notes. Silky and balanced on the palate, with fresh acidity and a long finish.",
+    "fr": "Rubis aux reflets grenat. Arômes de fruits rouges mûrs, de vanille, de noix de coco, d’épices douces et notes balsamiques. En bouche, soyeux et équilibré, avec une acidité fraîche et une finale longue.",
+    "it": "Rubino con unghia granata. Aromi di frutta rossa matura, vaniglia, cocco, spezie dolci e note balsamiche. In bocca è setoso ed equilibrato, con acidità fresca e finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes rojas, guisos de carne, setas, quesos curados",
+    "en": "Roast lamb, red meat, meat stews, mushrooms, aged cheeses",
+    "fr": "Agneau rôti, viandes rouges, ragoûts de viande, champignons, fromages affinés",
+    "it": "Agnello arrosto, carni rosse, stufati di carne, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Viña Ardanza Reserva La Rioja Alta"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "domus-aurea",
+  "name": "Domus Aurea",
+  "winery": null,
+  "winery_name": "Clos Quebrada de Macul",
+  "region": null,
+  "country": "chile",
+  "appellation": "Valle de Maipo",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Domus Aurea es un vino tinto de Clos Quebrada de Macul, con la denominación Valle de Maipo, en Chile.",
+    "en": "Domus Aurea is a red wine from Clos Quebrada de Macul, made under the Valle de Maipo appellation in Chile.",
+    "fr": "Domus Aurea est un vin rouge de Clos Quebrada de Macul, élaboré sous l’appellation Valle de Maipo (Chili).",
+    "it": "Domus Aurea è un vino rosso di Clos Quebrada de Macul, prodotto nella denominazione Valle de Maipo (Cile)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14,9 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 14.9% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14,9 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 14,9% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Domus Aurea Clos Quebrada de Macul",
+  "brief": true,
+  "source": "decantalo"
+}

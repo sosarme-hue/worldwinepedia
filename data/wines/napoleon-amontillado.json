@@ -1,0 +1,48 @@
+{
+  "slug": "napoleon-amontillado",
+  "name": "Napoleón Amontillado",
+  "winery": "hidalgo-la-gitana",
+  "region": "jerez-xeres-sherry",
+  "country": "espana",
+  "type": "generoso",
+  "category": {
+    "es": "Amontillado",
+    "en": "Amontillado",
+    "fr": "Amontillado",
+    "it": "Amontillado"
+  },
+  "grapes": [
+    "palomino"
+  ],
+  "summary": {
+    "es": "Amontillado seco de Hidalgo-La Gitana, criado en Sanlúcar primero bajo velo de flor y después de forma oxidativa.",
+    "en": "Dry amontillado from Hidalgo-La Gitana, aged in Sanlúcar first under flor and then oxidatively.",
+    "fr": "Amontillado sec d'Hidalgo-La Gitana, élevé à Sanlúcar d'abord sous voile de flor puis de façon oxydative.",
+    "it": "Amontillado secco di Hidalgo-La Gitana, affinato a Sanlúcar prima sotto il velo di flor e poi in modo ossidativo."
+  },
+  "body": {
+    "es": "<p>Napoleón es el amontillado de Bodegas Hidalgo-La Gitana y una marca histórica de la casa de Sanlúcar. Como todo amontillado, es un vino de <strong>doble crianza</strong>, que une las características de la crianza biológica y de la oxidativa.</p><p>Se elabora con <strong>palomino</strong> de viñedos de albariza. En una primera etapa, el vino se cría como una manzanilla, bajo el velo de <strong>flor</strong>, en las bodegas húmedas de Sanlúcar de Barrameda. Cuando el velo se agota, el vino se encabeza y continúa su envejecimiento en contacto con el aire, en un sistema de <strong>criaderas y solera</strong> propio, durante varios años. En esta segunda fase, el vino gana color ámbar, concentración y aromas de frutos secos y madera, mientras conserva la finura y la nota salina heredadas de su origen sanluqueño. El resultado es un amontillado seco y elegante, quizá algo más ligero que los de Jerez, muy adecuado para acompañar la comida.</p>",
+    "en": "<p>Napoleón is the amontillado of Bodegas Hidalgo-La Gitana and a historic brand of the Sanlúcar house. Like every amontillado, it is a wine of <strong>dual ageing</strong>, combining the characteristics of biological and oxidative ageing.</p><p>It is made from <strong>Palomino</strong> from albariza vineyards. In a first stage the wine is aged like a manzanilla, under <strong>flor</strong>, in the humid bodegas of Sanlúcar de Barrameda. When the flor is exhausted, the wine is fortified and continues ageing in contact with the air, in a dedicated <strong>criaderas and solera</strong> system, for several years. In this second phase the wine gains its amber colour, concentration and aromas of nuts and wood, while keeping the finesse and saline note inherited from its Sanlúcar origin. The result is a dry, elegant amontillado, perhaps somewhat lighter than those of Jerez, very well suited to accompanying food.</p>",
+    "fr": "<p>Napoleón est l'amontillado de Bodegas Hidalgo-La Gitana et une marque historique de la maison de Sanlúcar. Comme tout amontillado, c'est un vin à <strong>double élevage</strong>, qui réunit les caractéristiques de l'élevage biologique et de l'élevage oxydatif.</p><p>Il est élaboré avec du <strong>palomino</strong> de vignes d'albariza. Dans un premier temps, le vin est élevé comme une manzanilla, sous voile de <strong>flor</strong>, dans les bodegas humides de Sanlúcar de Barrameda. Lorsque le voile s'épuise, le vin est muté et poursuit son vieillissement au contact de l'air, dans un système de <strong>criaderas et solera</strong> propre, pendant plusieurs années. Au cours de cette seconde phase, le vin gagne sa couleur ambrée, de la concentration et des arômes de fruits secs et de bois, tout en conservant la finesse et la note saline héritées de son origine sanluqueña. Le résultat est un amontillado sec et élégant, peut-être un peu plus léger que ceux de Jerez, très adapté au repas.</p>",
+    "it": "<p>Napoleón è l'amontillado di Bodegas Hidalgo-La Gitana e un marchio storico della casa di Sanlúcar. Come ogni amontillado, è un vino a <strong>doppio affinamento</strong>, che unisce le caratteristiche dell'affinamento biologico e di quello ossidativo.</p><p>È prodotto con <strong>Palomino</strong> di vigneti di albariza. In una prima fase il vino affina come una manzanilla, sotto il velo di <strong>flor</strong>, nelle umide bodegas di Sanlúcar de Barrameda. Quando il velo si esaurisce, il vino viene fortificato e prosegue l'invecchiamento a contatto con l'aria, in un sistema di <strong>criaderas e solera</strong> dedicato, per diversi anni. In questa seconda fase il vino acquista colore ambrato, concentrazione e aromi di frutta secca e legno, conservando la finezza e la nota salina ereditate dalla sua origine sanluqueña. Il risultato è un amontillado secco ed elegante, forse un po' più leggero di quelli di Jerez, molto adatto ad accompagnare il pasto.</p>"
+  },
+  "tasting": {
+    "es": "Ámbar dorado. Aromas de avellana, almendra tostada, madera, notas salinas y un fondo especiado. En boca es seco, sabroso y de final largo.",
+    "en": "Golden amber. Aromas of hazelnut, toasted almond, wood, saline notes and a spicy background. Dry and savoury on the palate, with a long finish.",
+    "fr": "Ambre doré. Arômes de noisette, d'amande grillée, de bois, notes salines et fond épicé. En bouche, sec, savoureux et à la longue finale.",
+    "it": "Ambra dorata. Aromi di nocciola, mandorla tostata, legno, note saline e un fondo speziato. In bocca è secco, sapido e dal finale lungo."
+  },
+  "pairing": {
+    "es": "Consomés, alcachofas, setas, carnes blancas, quesos curados",
+    "en": "Consommés, artichokes, mushrooms, white meats, aged cheeses",
+    "fr": "Consommés, artichauts, champignons, viandes blanches, fromages affinés",
+    "it": "Consommé, carciofi, funghi, carni bianche, formaggi stagionati"
+  },
+  "serve": {
+    "es": "12-14 °C, copa de vino blanco",
+    "en": "12-14 °C, white wine glass",
+    "fr": "12-14 °C, verre à vin blanc",
+    "it": "12-14 °C, calice da vino bianco"
+  },
+  "search": "Napoleón Amontillado Hidalgo La Gitana"
+}

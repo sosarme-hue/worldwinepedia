@@ -1,0 +1,42 @@
+{
+  "slug": "iturregi",
+  "name": "Iturregi",
+  "winery": null,
+  "winery_name": "Iturregi",
+  "region": "getariako-txakolina",
+  "country": "espana",
+  "appellation": "DO Getariako-Txakolina",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "hondarrabi-zuri"
+  ],
+  "summary": {
+    "es": "Iturregi es un vino blanco de Iturregi, con la denominación DO Getariako-Txakolina, en España.",
+    "en": "Iturregi is a white wine from Iturregi, made under the DO Getariako-Txakolina appellation in Spain.",
+    "fr": "Iturregi est un vin blanc de Iturregi, élaboré sous l’appellation DO Getariako-Txakolina (Espagne).",
+    "it": "Iturregi è un vino bianco di Iturregi, prodotto nella denominazione DO Getariako-Txakolina (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Hondarrabi Zuri. Tiene crianza en madera. Su graduación es de 12 % vol.</p><p>Getariako Txakolina es la denominación de origen del txakoli de Gipuzkoa, en la costa vasca, y fue la primera dedicada a este vino. Elabora sobre todo blancos ligeros, frescos y con un leve carbónico a partir de la uva Hondarrabi Zuri.</p>",
+    "en": "<p>It is made from Hondarrabi Zuri. It is aged in wood. It has 12% ABV.</p><p>Getariako Txakolina is the designation of origin for the txakoli of Gipuzkoa, on the Basque coast, and was the first devoted to this wine. It mainly produces light, fresh whites with a slight spritz from the Hondarrabi Zuri grape.</p>",
+    "fr": "<p>Il est élaboré à partir de Hondarrabi Zuri. Il est élevé en bois. Il titre 12 % vol.</p><p>Getariako Txakolina est la dénomination d'origine du txakoli du Guipuscoa, sur la côte basque, et fut la première consacrée à ce vin. Elle produit surtout des blancs légers, frais et légèrement perlants à partir du cépage hondarrabi zuri.</p>",
+    "it": "<p>È prodotto con Hondarrabi Zuri. È affinato in legno. Ha 12% vol.</p><p>Getariako Txakolina è la denominazione di origine del txakoli di Gipuzkoa, sulla costa basca, ed è stata la prima dedicata a questo vino. Produce soprattutto bianchi leggeri, freschi e leggermente frizzanti dal vitigno Hondarrabi Zuri.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Iturregi Iturregi",
+  "brief": true,
+  "source": "decantalo"
+}

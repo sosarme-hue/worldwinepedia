@@ -1,0 +1,40 @@
+{
+  "slug": "guilera-brut-nature-reserva",
+  "name": "Guilera Brut Nature Reserva",
+  "winery": null,
+  "winery_name": "Cava Guilera",
+  "region": null,
+  "country": "espana",
+  "appellation": null,
+  "type": "espumoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Guilera Brut Nature Reserva es un vino espumoso de Cava Guilera, en España.",
+    "en": "Guilera Brut Nature Reserva is a sparkling wine from Cava Guilera in Spain.",
+    "fr": "Guilera Brut Nature Reserva est un vin effervescent de Cava Guilera (Espagne).",
+    "it": "Guilera Brut Nature Reserva è un vino spumante di Cava Guilera (Spagna)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 12 % vol.</p>",
+    "en": "<p>It has 12% ABV.</p>",
+    "fr": "<p>Il titre 12 % vol.</p>",
+    "it": "<p>Ha 12% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Guilera Brut Nature Reserva Cava Guilera",
+  "brief": true,
+  "source": "decantalo"
+}

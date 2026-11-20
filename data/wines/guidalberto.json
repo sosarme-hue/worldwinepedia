@@ -1,0 +1,41 @@
+{
+  "slug": "guidalberto",
+  "name": "Guidalberto",
+  "winery": "tenuta-san-guido",
+  "region": "toscana",
+  "country": "italia",
+  "type": "tinto",
+  "category": {"es": "Toscana IGT", "en": "Toscana IGT", "fr": "Toscana IGT", "it": "Toscana IGT"},
+  "grapes": ["cabernet-sauvignon", "merlot"],
+  "summary": {
+    "es": "El segundo tinto de Tenuta San Guido, de Cabernet Sauvignon y Merlot de Bolgheri, más accesible y pensado para beberse antes que el Sassicaia.",
+    "en": "Tenuta San Guido’s second red, from Bolgheri Cabernet Sauvignon and Merlot, more approachable and meant to be drunk earlier than Sassicaia.",
+    "fr": "Le deuxième rouge de la Tenuta San Guido, de cabernet-sauvignon et de merlot de Bolgheri, plus accessible et destiné à être bu plus tôt que le Sassicaia.",
+    "it": "Il secondo rosso della Tenuta San Guido, da Cabernet Sauvignon e Merlot di Bolgheri, più accessibile e pensato per essere bevuto prima del Sassicaia."
+  },
+  "body": {
+    "es": "<p>Guidalberto se creó a comienzos de la década de 2000 para ofrecer un tinto de la finca más accesible que el Sassicaia, tanto por estilo como por precio.</p><p>Se elabora con Cabernet Sauvignon y Merlot de viñedos de Tenuta San Guido en Bolgheri, en proporciones que varían según la añada. La presencia de Merlot aporta redondez y fruta, y lo diferencia del Sassicaia, en el que sólo intervienen las dos Cabernet. Tras la fermentación, el vino se cría durante unos meses en barrica.</p><p>Aunque se produce en Bolgheri, se ampara en la IGT Toscana. Es un tinto de fruta generosa y tanino amable, agradable desde joven, que también puede guardarse algunos años.</p>",
+    "en": "<p>Guidalberto was created in the early 2000s to offer a red from the estate that would be more approachable than Sassicaia, in both style and price.</p><p>It is made from Cabernet Sauvignon and Merlot from Tenuta San Guido’s vineyards in Bolgheri, in proportions that vary with the vintage. The Merlot brings roundness and fruit and sets it apart from Sassicaia, which uses only the two Cabernets. After fermentation the wine is aged for some months in barriques.</p><p>Although it is produced in Bolgheri, it is labelled as Toscana IGT. It is a red with generous fruit and gentle tannins, pleasant when young, that can also be cellared for a few years.</p>",
+    "fr": "<p>Le Guidalberto a été créé au début des années 2000 pour proposer un rouge du domaine plus accessible que le Sassicaia, par son style comme par son prix.</p><p>Il est élaboré avec du cabernet-sauvignon et du merlot des vignes de la Tenuta San Guido à Bolgheri, dans des proportions qui varient selon le millésime. Le merlot apporte rondeur et fruit et le distingue du Sassicaia, où n’interviennent que les deux cabernets. Après la fermentation, le vin est élevé plusieurs mois en barriques.</p><p>Bien que produit à Bolgheri, il relève de l’IGT Toscana. C’est un rouge au fruit généreux et aux tanins aimables, agréable dès sa jeunesse, qui peut aussi se garder quelques années.</p>",
+    "it": "<p>Il Guidalberto è nato all’inizio degli anni Duemila per offrire un rosso della tenuta più accessibile del Sassicaia, sia nello stile sia nel prezzo.</p><p>È prodotto con Cabernet Sauvignon e Merlot dei vigneti della Tenuta San Guido a Bolgheri, in proporzioni che variano secondo l’annata. Il Merlot apporta rotondità e frutto e lo distingue dal Sassicaia, in cui intervengono solo i due Cabernet. Dopo la fermentazione il vino affina per alcuni mesi in barrique.</p><p>Pur essendo prodotto a Bolgheri, è un IGT Toscana. È un rosso dal frutto generoso e dal tannino gentile, piacevole già da giovane, che può anche essere conservato per qualche anno.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de fruta negra y roja madura, con notas de hierbas aromáticas, especias y un ligero toque de vainilla. En boca es redondo y equilibrado, con tanino suave.",
+    "en": "Deep ruby. Aromas of ripe black and red fruit, with notes of aromatic herbs, spice and a light touch of vanilla. Round and balanced on the palate, with soft tannins.",
+    "fr": "Rubis intense. Arômes de fruits noirs et rouges mûrs, avec des notes d’herbes aromatiques, d’épices et une légère touche de vanille. En bouche, il est rond et équilibré, aux tanins souples.",
+    "it": "Rubino intenso. Profumi di frutta nera e rossa matura, con note di erbe aromatiche, spezie e un leggero tocco di vaniglia. In bocca è rotondo ed equilibrato, con tannino morbido."
+  },
+  "pairing": {
+    "es": "Carnes a la parrilla, cordero, pasta con ragú, quesos semicurados",
+    "en": "Grilled meat, lamb, pasta with ragù, semi-aged cheeses",
+    "fr": "Viandes grillées, agneau, pâtes au ragù, fromages mi-affinés",
+    "it": "Carni alla griglia, agnello, pasta al ragù, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Guidalberto Tenuta San Guido"
+}

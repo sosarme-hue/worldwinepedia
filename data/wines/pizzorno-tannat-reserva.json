@@ -1,0 +1,48 @@
+{
+  "slug": "pizzorno-tannat-reserva",
+  "name": "Pizzorno Tannat Reserva",
+  "winery": "pizzorno",
+  "region": "canelones",
+  "country": "uruguay",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [
+    "tannat"
+  ],
+  "summary": {
+    "es": "Tannat criado en barrica de la bodega familiar Pizzorno, elaborado con uva de sus viñedos de Canelón Chico, en Canelones.",
+    "en": "Barrel-aged Tannat from the Pizzorno family winery, made from grapes from its vineyards in Canelón Chico, Canelones.",
+    "fr": "Tannat élevé en barrique de la cave familiale Pizzorno, élaboré avec des raisins de ses vignes de Canelón Chico, à Canelones.",
+    "it": "Tannat affinato in barrique della cantina di famiglia Pizzorno, prodotto con uve dei suoi vigneti di Canelón Chico, a Canelones."
+  },
+  "body": {
+    "es": "<p>El Tannat Reserva es uno de los vinos que mejor representan el estilo de Pizzorno, una de las bodegas familiares históricas de Canelones. Se elabora con uva de los viñedos propios de la familia en Canelón Chico, al norte de Montevideo, donde los suelos arcillosos y profundos y el clima templado y húmedo, influido por el Río de la Plata, dan Tannat de color intenso y taninos firmes.</p><p>Tras una vinificación orientada a extraer color y fruta sin endurecer en exceso los taninos, el vino se cría durante un tiempo en barricas de roble, que aportan notas especiadas y contribuyen a redondear su estructura. Es un tinto representativo del Tannat del sur de Uruguay: potente pero equilibrado por la acidez, con fruta negra madura y un final de buena persistencia. Puede disfrutarse a los pocos años de la cosecha, aunque su estructura le permite evolucionar en botella durante algún tiempo más.</p>",
+    "en": "<p>The Tannat Reserva is one of the wines that best represents the style of Pizzorno, one of the historic family wineries of Canelones. It is made from grapes from the family’s own vineyards in Canelón Chico, north of Montevideo, where deep clay soils and a temperate, humid climate influenced by the Río de la Plata give Tannat of intense colour and firm tannins.</p><p>After winemaking aimed at extracting colour and fruit without making the tannins too hard, the wine is aged for a time in oak barrels, which add spicy notes and help round out its structure. It is a red representative of southern Uruguayan Tannat: powerful but balanced by acidity, with ripe black fruit and a finish of good length. It can be enjoyed a few years after the harvest, although its structure allows it to develop in bottle for some time longer.</p>",
+    "fr": "<p>Le Tannat Reserva est l’un des vins qui représentent le mieux le style de Pizzorno, l’une des caves familiales historiques de Canelones. Il est élaboré avec les raisins des vignes de la famille à Canelón Chico, au nord de Montevideo, où les sols argileux et profonds et le climat tempéré et humide, influencé par le Río de la Plata, donnent des tannats à la couleur intense et aux tanins fermes.</p><p>Après une vinification visant à extraire couleur et fruit sans durcir excessivement les tanins, le vin est élevé un certain temps en barriques de chêne, qui apportent des notes épicées et contribuent à arrondir sa structure. C’est un rouge représentatif du tannat du sud de l’Uruguay : puissant mais équilibré par l’acidité, avec des fruits noirs mûrs et une finale d’une bonne persistance. Il peut s’apprécier quelques années après la récolte, même si sa structure lui permet d’évoluer en bouteille plus longtemps.</p>",
+    "it": "<p>Il Tannat Reserva è uno dei vini che meglio rappresentano lo stile di Pizzorno, una delle cantine familiari storiche di Canelones. È prodotto con uve dei vigneti di proprietà della famiglia a Canelón Chico, a nord di Montevideo, dove i suoli argillosi e profondi e il clima temperato e umido, influenzato dal Río de la Plata, danno Tannat di colore intenso e tannini decisi.</p><p>Dopo una vinificazione volta a estrarre colore e frutto senza indurire troppo i tannini, il vino affina per un periodo in barrique di rovere, che apportano note speziate e contribuiscono ad arrotondarne la struttura. È un rosso rappresentativo del Tannat dell’Uruguay meridionale: potente ma bilanciato dall’acidità, con frutto nero maturo e un finale di buona persistenza. Si può gustare a pochi anni dalla vendemmia, anche se la sua struttura gli consente di evolvere in bottiglia ancora per qualche tempo.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota muy intenso. Aromas de ciruela, mora y cassis con notas de vainilla, especias y regaliz. Boca con cuerpo, taninos firmes y final persistente.",
+    "en": "Very intense cherry red. Aromas of plum, blackberry and blackcurrant with notes of vanilla, spice and liquorice. Full-bodied on the palate, with firm tannins and a persistent finish.",
+    "fr": "Rouge cerise très intense. Arômes de prune, de mûre et de cassis avec des notes de vanille, d’épices et de réglisse. Bouche corsée, aux tanins fermes, avec une finale persistante.",
+    "it": "Rosso ciliegia molto intenso. Profumi di prugna, mora e ribes nero con note di vaniglia, spezie e liquirizia. Bocca di corpo, dai tannini decisi e dal finale persistente."
+  },
+  "pairing": {
+    "es": "Asado a la parrilla, cordero, embutidos, guisos de carne, quesos curados",
+    "en": "Barbecued meats, lamb, cured meats, meat stews, aged cheeses",
+    "fr": "Grillades, agneau, charcuterie, ragoûts de viande, fromages affinés",
+    "it": "Grigliate di carne, agnello, salumi, stufati di carne, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Pizzorno Tannat Reserva"
+}

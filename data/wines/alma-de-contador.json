@@ -1,0 +1,44 @@
+{
+  "slug": "alma-de-contador",
+  "name": "Alma de Contador",
+  "winery": null,
+  "winery_name": "Bodega Contador",
+  "region": "rioja",
+  "country": "espana",
+  "appellation": "DOCa Rioja",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Tinto de Bodega Contador, el proyecto de Benjamín Romeo en San Vicente de la Sonsierra, en la Rioja Alta.",
+    "en": "Red from Bodega Contador, Benjamín Romeo's project in San Vicente de la Sonsierra, in Rioja Alta.",
+    "fr": "Rouge de Bodega Contador, le projet de Benjamín Romeo à San Vicente de la Sonsierra, dans la Rioja Alta.",
+    "it": "Rosso di Bodega Contador, il progetto di Benjamín Romeo a San Vicente de la Sonsierra, nella Rioja Alta."
+  },
+  "body": {
+    "es": "<p><strong>Bodega Contador</strong> es la bodega que el enólogo <strong>Benjamín Romeo</strong>, de una familia de viticultores de San Vicente de la Sonsierra, creó en su pueblo natal tras años de trabajo en otras casas riojanas. Comenzó elaborando en una antigua cueva excavada bajo el castillo de la localidad y se convirtió en uno de los nombres asociados a la nueva generación de tintos riojanos de alta expresión, basados en viñedos viejos y pequeñas parcelas.</p><p>Sus viñedos se reparten por la Sonsierra, al norte del Ebro, en suelos arcillo-calcáreos con buena exposición, donde el <strong>Tempranillo</strong> convive con algo de Garnacha y otras variedades tradicionales. El estilo de la casa se caracteriza por la madurez de la fruta, la concentración y el uso de roble francés en la crianza.</p><p><strong>Alma de Contador</strong> sigue esta línea: con unos 15 % vol., es un tinto potente y de gran madurez, pensado para la guarda. Conviene decantarlo con antelación y servirlo en copa amplia.</p>",
+    "en": "<p><strong>Bodega Contador</strong> is the winery that winemaker <strong>Benjamín Romeo</strong>, from a family of growers in San Vicente de la Sonsierra, created in his home village after years of working for other Rioja houses. He began making wine in an old cellar dug beneath the village castle and became one of the names associated with the new generation of high-expression Rioja reds based on old vines and small plots.</p><p>Its vineyards are spread across the Sonsierra, north of the Ebro, on well-exposed clay-limestone soils, where <strong>Tempranillo</strong> grows alongside some Garnacha and other traditional varieties. The house style is marked by ripe fruit, concentration and the use of French oak for ageing.</p><p><strong>Alma de Contador</strong> follows this line: at around 15% ABV, it is a powerful, very ripe red intended for cellaring. It is best decanted in advance and served in a large glass.</p>",
+    "fr": "<p><strong>Bodega Contador</strong> est la bodega que l'œnologue <strong>Benjamín Romeo</strong>, issu d'une famille de viticulteurs de San Vicente de la Sonsierra, a créée dans son village natal après des années passées dans d'autres maisons de la Rioja. Il a commencé à vinifier dans une ancienne cave creusée sous le château du village et est devenu l'un des noms associés à la nouvelle génération de rouges riojanos d'expression, fondés sur de vieilles vignes et de petites parcelles.</p><p>Ses vignes se répartissent dans la Sonsierra, au nord de l'Èbre, sur des sols argilo-calcaires bien exposés, où le <strong>tempranillo</strong> côtoie un peu de grenache et d'autres cépages traditionnels. Le style de la maison se caractérise par la maturité du fruit, la concentration et l'usage du chêne français pour l'élevage.</p><p><strong>Alma de Contador</strong> suit cette ligne : d'environ 15 % vol., c'est un rouge puissant et très mûr, pensé pour la garde. Il gagne à être carafé à l'avance et servi dans un verre ample.</p>",
+    "it": "<p><strong>Bodega Contador</strong> è la cantina che l'enologo <strong>Benjamín Romeo</strong>, di una famiglia di viticoltori di San Vicente de la Sonsierra, ha creato nel paese natale dopo anni di lavoro in altre case riojane. Iniziò a vinificare in un'antica grotta scavata sotto il castello del paese e divenne uno dei nomi legati alla nuova generazione di rossi riojani di grande espressione, basati su vigne vecchie e piccole parcelle.</p><p>I suoi vigneti si distribuiscono nella Sonsierra, a nord dell'Ebro, su suoli argillo-calcarei ben esposti, dove il <strong>Tempranillo</strong> convive con un po' di Garnacha e altri vitigni tradizionali. Lo stile della casa è segnato da frutto maturo, concentrazione e uso del rovere francese per l'affinamento.</p><p><strong>Alma de Contador</strong> segue questa linea: con circa 15% vol., è un rosso potente e di grande maturità, pensato per l'invecchiamento. Conviene decantarlo in anticipo e servirlo in un calice ampio.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota muy intenso. Aromas de fruta negra madura, regaliz, especias y tostados del roble. Boca potente y concentrada, de taninos maduros y final largo.",
+    "en": "Very deep cherry red. Aromas of ripe black fruit, liquorice, spice and toasty oak. Powerful, concentrated palate with ripe tannins and a long finish.",
+    "fr": "Rouge cerise très intense. Arômes de fruits noirs mûrs, de réglisse, d'épices et de toasté du chêne. Bouche puissante et concentrée, aux tanins mûrs et à la finale longue.",
+    "it": "Rosso ciliegia molto intenso. Aromi di frutta nera matura, liquirizia, spezie e tostatura del rovere. Bocca potente e concentrata, tannini maturi e finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, caza mayor, guisos de carne, quesos curados",
+    "en": "Chargrilled red meat, large game, meat stews, aged cheeses",
+    "fr": "Viandes rouges à la braise, gros gibier, viandes mijotées, fromages affinés",
+    "it": "Carni rosse alla brace, selvaggina di grossa taglia, stufati di carne, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Alma de Contador Bodega Contador",
+  "source": "decantalo"
+}

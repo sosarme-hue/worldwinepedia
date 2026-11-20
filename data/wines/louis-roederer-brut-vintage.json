@@ -1,0 +1,49 @@
+{
+  "slug": "louis-roederer-brut-vintage",
+  "name": "Louis Roederer Brut Vintage",
+  "winery": "louis-roederer",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut Millésimé",
+    "en": "Brut Millésimé",
+    "fr": "Brut Millésimé",
+    "it": "Brut Millésimé"
+  },
+  "grapes": [
+    "pinot-noir",
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Champagne de añada de Louis Roederer, dominado por la Pinot Noir de los viñedos propios de la casa y elaborado solo en los años que lo merecen.",
+    "en": "Vintage Champagne from Louis Roederer, dominated by Pinot Noir from the house's own vineyards and made only in years that warrant it.",
+    "fr": "Champagne millésimé de Louis Roederer, dominé par le pinot noir des vignes de la maison et élaboré seulement les années qui le méritent.",
+    "it": "Champagne millesimato di Louis Roederer, dominato dal Pinot Nero dei vigneti di proprietà e prodotto solo nelle annate che lo meritano."
+  },
+  "body": {
+    "es": "<p>Louis Roederer es una de las grandes casas familiares de Champagne y se distingue por disponer de un amplio patrimonio de viñedos propios, que cubre buena parte de sus necesidades. Su <strong>Brut Vintage</strong> se elabora únicamente en las añadas que la casa considera de calidad suficiente y refleja las condiciones de un solo año, a diferencia de los champagnes sin añada, que ensamblan vinos de varias cosechas.</p><p>La <strong>Pinot Noir</strong> es la variedad dominante, procedente sobre todo de la Montagne de Reims, y se completa con <strong>Chardonnay</strong>. Una parte de los vinos base se vinifica en fudres de roble, práctica característica de la casa que aporta textura sin marcar el vino con notas de madera. Tras la segunda fermentación en botella, el vino reposa largo tiempo sobre sus lías antes del degüelle.</p><p>El resultado es un champagne de estructura y vinosidad, con una frescura que le permite evolucionar varios años en bodega.</p>",
+    "en": "<p>Louis Roederer is one of the great family houses of Champagne and stands out for its extensive holdings of its own vineyards, which cover much of its needs. Its <strong>Brut Vintage</strong> is made only in years the house considers of sufficient quality and reflects the conditions of a single year, unlike non-vintage Champagnes, which blend wines from several harvests.</p><p><strong>Pinot Noir</strong> is the dominant variety, chiefly from the Montagne de Reims, completed with <strong>Chardonnay</strong>. Part of the base wines is vinified in large oak casks, a hallmark of the house that adds texture without marking the wine with woody notes. After the second fermentation in bottle, the wine rests for a long time on its lees before disgorgement.</p><p>The result is a Champagne of structure and vinosity, with a freshness that allows it to develop for several years in the cellar.</p>",
+    "fr": "<p>Louis Roederer est l'une des grandes maisons familiales de Champagne et se distingue par un vaste patrimoine de vignes en propre, qui couvre une bonne part de ses besoins. Son <strong>Brut Vintage</strong> n'est élaboré que les années que la maison juge d'une qualité suffisante et reflète les conditions d'une seule année, à la différence des champagnes sans année, qui assemblent des vins de plusieurs récoltes.</p><p>Le <strong>pinot noir</strong> en est le cépage dominant, issu surtout de la Montagne de Reims, et il est complété par le <strong>chardonnay</strong>. Une partie des vins de base est vinifiée en foudres de chêne, pratique caractéristique de la maison qui apporte de la texture sans marquer le vin de notes boisées. Après la seconde fermentation en bouteille, le vin repose longuement sur lies avant le dégorgement.</p><p>Le résultat est un champagne de structure et de vinosité, doté d'une fraîcheur qui lui permet d'évoluer plusieurs années en cave.</p>",
+    "it": "<p>Louis Roederer è una delle grandi maison familiari della Champagne e si distingue per un ampio patrimonio di vigneti di proprietà, che copre buona parte del suo fabbisogno. Il suo <strong>Brut Vintage</strong> viene prodotto solo nelle annate che la casa ritiene di qualità sufficiente e riflette le condizioni di un solo anno, a differenza degli champagne senza annata, che assemblano vini di più vendemmie.</p><p>Il <strong>Pinot Nero</strong> è il vitigno dominante, proveniente soprattutto dalla Montagne de Reims, completato dallo <strong>Chardonnay</strong>. Una parte dei vini base viene vinificata in grandi botti di rovere, pratica caratteristica della casa che apporta consistenza senza segnare il vino con note legnose. Dopo la seconda fermentazione in bottiglia, il vino riposa a lungo sui lieviti prima della sboccatura.</p><p>Il risultato è uno champagne di struttura e vinosità, con una freschezza che gli consente di evolvere per diversi anni in cantina.</p>"
+  },
+  "tasting": {
+    "es": "Dorado brillante, burbuja fina. Aromas de fruta madura, cítricos, frutos secos, brioche y notas tostadas. Boca vinosa y amplia, con acidez fresca y final largo.",
+    "en": "Bright gold with fine bubbles. Aromas of ripe fruit, citrus, nuts, brioche and toasty notes. Vinous, broad palate with fresh acidity and a long finish.",
+    "fr": "Or brillant, bulles fines. Arômes de fruits mûrs, d'agrumes, de fruits secs, de brioche et notes grillées. Bouche vineuse et ample, à l'acidité fraîche et à la finale longue.",
+    "it": "Oro brillante, perlage fine. Aromi di frutta matura, agrumi, frutta secca, brioche e note tostate. In bocca è vinoso e ampio, con acidità fresca e finale lungo."
+  },
+  "pairing": {
+    "es": "Marisco, pescados nobles, aves de corral, ternera, quesos curados de pasta dura",
+    "en": "Shellfish, fine fish, poultry, veal, hard aged cheeses",
+    "fr": "Fruits de mer, poissons nobles, volailles, veau, fromages à pâte dure affinés",
+    "it": "Frutti di mare, pesci nobili, pollame, vitello, formaggi stagionati a pasta dura"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco o tulipa",
+    "en": "8-10 °C, white wine or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da vino bianco o tulipano"
+  },
+  "search": "Louis Roederer Brut Vintage Champagne"
+}

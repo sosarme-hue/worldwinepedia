@@ -1,0 +1,40 @@
+{
+  "slug": "el-grifo-reserva-de-familia",
+  "name": "El Grifo Reserva de Familia",
+  "winery": "el-grifo",
+  "winery_name": null,
+  "region": "lanzarote",
+  "country": "espana",
+  "appellation": "DO Lanzarote",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "El Grifo Reserva de Familia es un vino tinto de Bodegas El Grifo, con la denominación DO Lanzarote, en España.",
+    "en": "El Grifo Reserva de Familia is a red wine from Bodegas El Grifo, made under the DO Lanzarote appellation in Spain.",
+    "fr": "El Grifo Reserva de Familia est un vin rouge de Bodegas El Grifo, élaboré sous l’appellation DO Lanzarote (Espagne).",
+    "it": "El Grifo Reserva de Familia è un vino rosso di Bodegas El Grifo, prodotto nella denominazione DO Lanzarote (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14 % vol.</p><p>Bodega de Lanzarote fundada en 1775, una de las más antiguas de Canarias, conocida por sus vinos de malvasía volcánica cultivada en hoyos sobre ceniza volcánica.</p><p>Lanzarote es la denominación de origen de la isla canaria del mismo nombre, donde la vid se cultiva en hoyos excavados en la ceniza volcánica y protegidos por muros de piedra. Su variedad emblemática es la Malvasía Volcánica.</p>",
+    "en": "<p>It is aged in wood. It has 14% ABV.</p><p>Lanzarote winery founded in 1775, one of the oldest in the Canary Islands, known for its wines from Malvasía Volcánica grown in pits dug into volcanic ash.</p><p>Lanzarote is the designation of origin of the Canary island of the same name, where vines are grown in pits dug into volcanic ash and protected by stone walls. Its emblematic variety is Malvasía Volcánica.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14 % vol.</p><p>Maison de Lanzarote fondée en 1775, l'une des plus anciennes des Canaries, connue pour ses vins de malvasía volcánica cultivée dans des fosses creusées dans la cendre volcanique.</p><p>Lanzarote est la dénomination d'origine de l'île canarienne du même nom, où la vigne est cultivée dans des fosses creusées dans la cendre volcanique et protégées par des murets de pierre. Son cépage emblématique est la malvasía volcánica.</p>",
+    "it": "<p>È affinato in legno. Ha 14% vol.</p><p>Cantina di Lanzarote fondata nel 1775, una delle più antiche delle Canarie, nota per i vini di Malvasía Volcánica coltivata in buche scavate nella cenere vulcanica.</p><p>Lanzarote è la denominazione di origine dell'omonima isola delle Canarie, dove la vite è coltivata in buche scavate nella cenere vulcanica e protette da muretti di pietra. Il suo vitigno simbolo è la Malvasía Volcánica.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "El Grifo Reserva de Familia El Grifo",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "chateau-senejac",
+  "name": "Château Sénéjac",
+  "winery": null,
+  "winery_name": "Château Sénéjac",
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Haut-Medoc",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Château Sénéjac es un vino tinto de Château Sénéjac, con la denominación AOC Haut-Medoc, en Francia.",
+    "en": "Château Sénéjac is a red wine from Château Sénéjac, made under the AOC Haut-Medoc appellation in France.",
+    "fr": "Château Sénéjac est un vin rouge de Château Sénéjac, élaboré sous l’appellation AOC Haut-Medoc (France).",
+    "it": "Château Sénéjac è un vino rosso di Château Sénéjac, prodotto nella denominazione AOC Haut-Medoc (Francia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13,5 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Château Sénéjac Château Sénéjac",
+  "brief": true,
+  "source": "decantalo"
+}

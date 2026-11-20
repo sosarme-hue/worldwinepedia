@@ -1,0 +1,42 @@
+{
+  "slug": "gran-caus-rosado",
+  "name": "Gran Caus Rosado",
+  "winery": null,
+  "winery_name": "Can Ràfols dels Caus",
+  "region": "penedes",
+  "country": "espana",
+  "appellation": "DO Penedès",
+  "type": "rosado",
+  "category": null,
+  "grapes": [
+    "merlot"
+  ],
+  "summary": {
+    "es": "Gran Caus Rosado es un vino rosado de Can Ràfols dels Caus, con la denominación DO Penedès, en España.",
+    "en": "Gran Caus Rosado is a rosé wine from Can Ràfols dels Caus, made under the DO Penedès appellation in Spain.",
+    "fr": "Gran Caus Rosado est un vin rosé de Can Ràfols dels Caus, élaboré sous l’appellation DO Penedès (Espagne).",
+    "it": "Gran Caus Rosado è un vino rosato di Can Ràfols dels Caus, prodotto nella denominazione DO Penedès (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Merlot. Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 13 % vol.</p><p>Penedès es una denominación de origen de Cataluña, entre Barcelona y Tarragona, conocida por sus blancos de Xarel·lo, Macabeo y Parellada y por una amplia gama de tintos, rosados y espumosos. Su territorio coincide en buena parte con el corazón de la producción de Cava.</p>",
+    "en": "<p>It is made from Merlot. It is a young wine, meant to be drunk in its first years. It has 13% ABV.</p><p>Penedès is a designation of origin in Catalonia, between Barcelona and Tarragona, known for its whites from Xarel·lo, Macabeo and Parellada and for a wide range of reds, rosés and sparkling wines. Its territory largely overlaps with the heartland of Cava production.</p>",
+    "fr": "<p>Il est élaboré à partir de Merlot. C’est un vin jeune, à boire dans ses premières années. Il titre 13 % vol.</p><p>Le Penedès est une dénomination d'origine de Catalogne, entre Barcelone et Tarragone, connue pour ses blancs de xarel·lo, de macabeo et de parellada et pour une large gamme de rouges, de rosés et d'effervescents. Son territoire coïncide en grande partie avec le cœur de la production du Cava.</p>",
+    "it": "<p>È prodotto con Merlot. È un vino giovane, da bere nei primi anni. Ha 13% vol.</p><p>Il Penedès è una denominazione di origine della Catalogna, tra Barcellona e Tarragona, nota per i bianchi di Xarel·lo, Macabeo e Parellada e per un'ampia gamma di rossi, rosati e spumanti. Il suo territorio coincide in gran parte con il cuore della produzione del Cava.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, ensaladas, arroces, pescados",
+    "en": "Aperitif, salads, rice dishes, fish",
+    "fr": "Apéritif, salades, plats de riz, poissons",
+    "it": "Aperitivo, insalate, risotti, pesce"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Gran Caus Rosado Can Ràfols dels Caus",
+  "brief": true,
+  "source": "decantalo"
+}

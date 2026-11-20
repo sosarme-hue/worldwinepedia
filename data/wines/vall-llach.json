@@ -1,0 +1,44 @@
+{
+  "slug": "vall-llach",
+  "name": "Vall Llach",
+  "winery": "celler-vall-llach",
+  "region": "priorat",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "carinena",
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Tinto principal de Celler Vall Llach, procedente de las viñas más viejas de cariñena de Porrera.",
+    "en": "The flagship red of Celler Vall Llach, from the oldest Cariñena vines in Porrera.",
+    "fr": "Rouge principal de Celler Vall Llach, issu des plus vieux carignans de Porrera.",
+    "it": "Il rosso principale di Celler Vall Llach, proveniente dalle viti di Cariñena più vecchie di Porrera."
+  },
+  "body": {
+    "es": "<p>El vino que lleva el nombre de la bodega es la expresión más ambiciosa de Celler Vall Llach y una de las referencias de la <strong>cariñena</strong> en el Priorat. Procede de viñas muy viejas del término de <strong>Porrera</strong>, algunas de ellas recuperadas por la bodega cuando estaban a punto de abandonarse.</p><p>La cariñena es la variedad protagonista, acompañada de <strong>garnacha</strong> y, según la añada, de pequeñas cantidades de otras variedades; las proporciones cambian de un año a otro. Las cepas crecen en laderas muy pronunciadas de <strong>llicorella</strong>, en un valle algo más fresco que otras zonas de la comarca, lo que favorece la conservación de la acidez. Los rendimientos son muy bajos y la vendimia es manual. El vino se cría en barricas de roble francés durante un periodo prolongado. Es un tinto de color profundo y gran concentración, con fruta negra, notas minerales y balsámicas, y una acidez que le da longevidad.</p>",
+    "en": "<p>The wine that bears the winery's name is the most ambitious expression of Celler Vall Llach and one of the benchmarks for <strong>Cariñena</strong> in the Priorat. It comes from very old vines in the municipality of <strong>Porrera</strong>, some of them recovered by the winery when they were on the point of being abandoned.</p><p>Cariñena is the leading variety, accompanied by <strong>Garnacha</strong> and, depending on the vintage, small amounts of other varieties; the proportions change from year to year. The vines grow on very steep slopes of <strong>llicorella</strong>, in a valley somewhat cooler than other parts of the area, which helps preserve acidity. Yields are very low and harvesting is done by hand. The wine is aged in French oak barrels for an extended period. It is a deeply coloured, highly concentrated red with black fruit, mineral and balsamic notes, and an acidity that gives it longevity.</p>",
+    "fr": "<p>Le vin qui porte le nom du domaine est l'expression la plus ambitieuse de Celler Vall Llach et l'une des références du <strong>carignan</strong> dans le Priorat. Il provient de très vieilles vignes de la commune de <strong>Porrera</strong>, dont certaines furent récupérées par le domaine alors qu'elles étaient sur le point d'être abandonnées.</p><p>Le carignan est le cépage vedette, accompagné de <strong>grenache</strong> et, selon le millésime, de petites quantités d'autres cépages ; les proportions changent d'une année à l'autre. Les ceps poussent sur des pentes très prononcées de <strong>llicorella</strong>, dans une vallée un peu plus fraîche que d'autres zones de la région, ce qui favorise la préservation de l'acidité. Les rendements sont très faibles et la vendange est manuelle. Le vin est élevé en barriques de chêne français pendant une période prolongée. C'est un rouge à la couleur profonde et d'une grande concentration, au fruit noir, aux notes minérales et balsamiques, avec une acidité qui lui assure sa longévité.</p>",
+    "it": "<p>Il vino che porta il nome della cantina è l'espressione più ambiziosa di Celler Vall Llach e uno dei riferimenti della <strong>Cariñena</strong> nel Priorat. Proviene da vigne molto vecchie del comune di <strong>Porrera</strong>, alcune delle quali recuperate dalla cantina quando stavano per essere abbandonate.</p><p>La Cariñena è la varietà protagonista, accompagnata dalla <strong>Garnacha</strong> e, secondo l'annata, da piccole quantità di altre varietà; le proporzioni cambiano di anno in anno. Le viti crescono su pendii molto ripidi di <strong>llicorella</strong>, in una valle un po' più fresca di altre zone della comarca, il che favorisce la conservazione dell'acidità. Le rese sono bassissime e la vendemmia è manuale. Il vino affina in barrique di rovere francese per un periodo prolungato. È un rosso di colore profondo e grande concentrazione, con frutta nera, note minerali e balsamiche e un'acidità che gli conferisce longevità.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota casi opaco. Aromas de mora, ciruela negra, regaliz, hierbas balsámicas y grafito. En boca es potente y tenso, con tanino firme y final largo.",
+    "en": "Almost opaque deep cherry red. Aromas of blackberry, black plum, liquorice, balsamic herbs and graphite. Powerful and taut on the palate, with firm tannins and a long finish.",
+    "fr": "Rouge cerise presque opaque. Arômes de mûre, de prune noire, de réglisse, d'herbes balsamiques et de graphite. En bouche, puissant et tendu, aux tanins fermes et à la longue finale.",
+    "it": "Rosso ciliegia quasi impenetrabile. Aromi di mora, prugna nera, liquirizia, erbe balsamiche e grafite. In bocca è potente e teso, con tannino deciso e finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, caza, carnes a la brasa, quesos curados",
+    "en": "Roast lamb, game, grilled meats, aged cheeses",
+    "fr": "Agneau rôti, gibier, viandes grillées, fromages affinés",
+    "it": "Agnello arrosto, selvaggina, carni alla brace, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, grand verre",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Vall Llach Porrera Priorat"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "castello-banfi-rosso-di-montalcino",
+  "name": "Castello Banfi Rosso di Montalcino",
+  "winery": "castello-banfi",
+  "region": "toscana",
+  "country": "italia",
+  "type": "tinto",
+  "category": {"es": "Rosso di Montalcino DOC", "en": "Rosso di Montalcino DOC", "fr": "Rosso di Montalcino DOC", "it": "Rosso di Montalcino DOC"},
+  "grapes": ["sangiovese"],
+  "summary": {
+    "es": "El Rosso di Montalcino de Castello Banfi, un Sangiovese de la misma zona que el Brunello pero con una crianza más corta y un estilo más joven.",
+    "en": "Castello Banfi’s Rosso di Montalcino, a Sangiovese from the same area as Brunello but with shorter ageing and a younger style.",
+    "fr": "Le Rosso di Montalcino de Castello Banfi, un sangiovese de la même zone que le Brunello mais à l’élevage plus court et au style plus jeune.",
+    "it": "Il Rosso di Montalcino di Castello Banfi, un Sangiovese della stessa zona del Brunello ma con un affinamento più breve e uno stile più giovane."
+  },
+  "body": {
+    "es": "<p>El Rosso di Montalcino es la denominación que permite a los productores de Montalcino elaborar un tinto de Sangiovese de la misma zona que el Brunello, pero con una crianza mucho más breve, de modo que puede salir al mercado poco después de la vendimia. A menudo se le describe como el «hermano menor» del Brunello.</p><p>El de Castello Banfi se elabora exclusivamente con Sangiovese de los viñedos de la finca, en la parte sur de Montalcino. Tras la fermentación, el vino pasa algunos meses en madera de roble antes del embotellado, lo justo para redondearlo sin restar protagonismo a la fruta.</p><p>Es un tinto más accesible y económico que el Brunello, que conserva el carácter de la Sangiovese de Montalcino: fruta roja, acidez viva y tanino presente pero amable. Está pensado para beberse en sus primeros años.</p>",
+    "en": "<p>Rosso di Montalcino is the appellation that lets Montalcino producers make a Sangiovese red from the same area as Brunello but with much shorter ageing, so that it can be released soon after the harvest. It is often described as Brunello’s “little brother”.</p><p>Castello Banfi’s version is made exclusively from Sangiovese from the estate’s vineyards in southern Montalcino. After fermentation the wine spends a few months in oak before bottling, just enough to round it out without overshadowing the fruit.</p><p>It is a more approachable and affordable red than Brunello that keeps the character of Montalcino Sangiovese: red fruit, lively acidity and tannins that are present but gentle. It is meant to be drunk in its first few years.</p>",
+    "fr": "<p>Le Rosso di Montalcino est l’appellation qui permet aux producteurs de Montalcino d’élaborer un rouge de sangiovese de la même zone que le Brunello, mais avec un élevage bien plus court, de sorte qu’il peut être commercialisé peu après les vendanges. On le présente souvent comme le « petit frère » du Brunello.</p><p>Celui de Castello Banfi est élaboré exclusivement avec du sangiovese des vignes du domaine, dans le sud de Montalcino. Après la fermentation, le vin passe quelques mois en chêne avant la mise en bouteille, juste assez pour l’arrondir sans éclipser le fruit.</p><p>C’est un rouge plus accessible et plus abordable que le Brunello, qui garde le caractère du sangiovese de Montalcino : fruits rouges, acidité vive et tanins présents mais aimables. Il est fait pour être bu dans ses premières années.</p>",
+    "it": "<p>Il Rosso di Montalcino è la denominazione che consente ai produttori di Montalcino di ottenere un rosso di Sangiovese della stessa zona del Brunello ma con un affinamento molto più breve, così da poter uscire sul mercato poco dopo la vendemmia. Viene spesso definito il “fratello minore” del Brunello.</p><p>Quello di Castello Banfi è prodotto esclusivamente con Sangiovese dei vigneti della tenuta, nella parte meridionale di Montalcino. Dopo la fermentazione il vino trascorre alcuni mesi in rovere prima dell’imbottigliamento, quanto basta per arrotondarlo senza togliere spazio al frutto.</p><p>È un rosso più accessibile ed economico del Brunello, che conserva il carattere del Sangiovese di Montalcino: frutto rosso, acidità vivace e tannino presente ma gentile. È pensato per essere bevuto nei primi anni.</p>"
+  },
+  "tasting": {
+    "es": "Rubí brillante. Aromas de cereza, frambuesa y un toque floral y especiado. En boca es de cuerpo medio, fresco y equilibrado, con tanino suave.",
+    "en": "Bright ruby. Aromas of cherry, raspberry and a floral, spicy touch. Medium-bodied on the palate, fresh and balanced, with soft tannins.",
+    "fr": "Rubis brillant. Arômes de cerise, de framboise et une touche florale et épicée. En bouche, corps moyen, frais et équilibré, aux tanins souples.",
+    "it": "Rubino brillante. Profumi di ciliegia, lampone e un tocco floreale e speziato. In bocca ha corpo medio, è fresco ed equilibrato, con tannino morbido."
+  },
+  "pairing": {
+    "es": "Pasta con salsa de tomate o de carne, pizza, aves asadas, embutidos",
+    "en": "Pasta with tomato or meat sauce, pizza, roast poultry, cured meats",
+    "fr": "Pâtes à la sauce tomate ou à la viande, pizza, volailles rôties, charcuterie",
+    "it": "Pasta al pomodoro o al ragù, pizza, pollame arrosto, salumi"
+  },
+  "serve": {
+    "es": "15-17 °C, copa mediana",
+    "en": "15-17 °C, medium-sized glass",
+    "fr": "15-17 °C, verre moyen",
+    "it": "15-17 °C, calice medio"
+  },
+  "search": "Castello Banfi Rosso di Montalcino"
+}

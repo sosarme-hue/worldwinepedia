@@ -1,0 +1,42 @@
+{
+  "slug": "alamos-malbec-rose",
+  "name": "Alamos Malbec Rosé",
+  "winery": null,
+  "winery_name": "Alamos",
+  "region": "mendoza",
+  "country": "argentina",
+  "appellation": "Mendoza",
+  "type": "rosado",
+  "category": null,
+  "grapes": [
+    "malbec"
+  ],
+  "summary": {
+    "es": "Alamos Malbec Rosé es un vino rosado de Alamos, con la denominación Mendoza, en Argentina.",
+    "en": "Alamos Malbec Rosé is a rosé wine from Alamos, made under the Mendoza appellation in Argentina.",
+    "fr": "Alamos Malbec Rosé est un vin rosé de Alamos, élaboré sous l’appellation Mendoza (Argentine).",
+    "it": "Alamos Malbec Rosé è un vino rosato di Alamos, prodotto nella denominazione Mendoza (Argentina)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Malbec. Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 13,4 % vol.</p><p>Mendoza es la principal provincia vitícola de Argentina y concentra la mayor parte del viñedo del país. Sus oasis regados al pie de los Andes son la tierra de la Malbec por excelencia.</p>",
+    "en": "<p>It is made from Malbec. It is a young wine, meant to be drunk in its first years. It has 13.4% ABV.</p><p>Mendoza is Argentina’s leading wine province and accounts for most of the country’s vineyard area. Its irrigated oases at the foot of the Andes are the heartland of Malbec.</p>",
+    "fr": "<p>Il est élaboré à partir de Malbec (Côt). C’est un vin jeune, à boire dans ses premières années. Il titre 13,4 % vol.</p><p>Mendoza est la principale province viticole d’Argentine et concentre la majeure partie du vignoble du pays. Ses oasis irriguées au pied des Andes sont la terre du malbec par excellence.</p>",
+    "it": "<p>È prodotto con Malbec. È un vino giovane, da bere nei primi anni. Ha 13,4% vol.</p><p>Mendoza è la principale provincia vitivinicola dell’Argentina e concentra la maggior parte dei vigneti del paese. Le sue oasi irrigate ai piedi delle Ande sono la terra del Malbec per eccellenza.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, ensaladas, arroces, pescados",
+    "en": "Aperitif, salads, rice dishes, fish",
+    "fr": "Apéritif, salades, plats de riz, poissons",
+    "it": "Aperitivo, insalate, risotti, pesce"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Alamos Malbec Rosé Alamos",
+  "brief": true,
+  "source": "decantalo"
+}

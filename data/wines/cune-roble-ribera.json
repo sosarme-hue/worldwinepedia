@@ -1,0 +1,47 @@
+{
+  "slug": "cune-roble-ribera",
+  "name": "Cune Roble Ribera",
+  "winery": "cvne",
+  "winery_name": null,
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "appellation": "DO Ribera del Duero",
+  "type": "tinto",
+  "category": {
+    "es": "Roble",
+    "en": "Roble",
+    "fr": "Roble",
+    "it": "Roble"
+  },
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Cune Roble Ribera es un vino tinto de CVNE (Compañía Vinícola del Norte de España), con la denominación DO Ribera del Duero, en España.",
+    "en": "Cune Roble Ribera is a red wine from CVNE (Compañía Vinícola del Norte de España), made under the DO Ribera del Duero appellation in Spain.",
+    "fr": "Cune Roble Ribera est un vin rouge de CVNE (Compañía Vinícola del Norte de España), élaboré sous l’appellation DO Ribera del Duero (Espagne).",
+    "it": "Cune Roble Ribera è un vino rosso di CVNE (Compañía Vinícola del Norte de España), prodotto nella denominazione DO Ribera del Duero (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Tempranillo. Lleva la mención Roble. Su graduación es de 14 % vol.</p><p>Casa fundada en Haro en 1879 por los hermanos Real de Asúa, responsable de marcas clásicas de Rioja como Cune, Imperial, Viña Real y Monopole.</p><p>Ribera del Duero es una denominación de origen de Castilla y León, creada en 1982, que se extiende a lo largo del río Duero en una meseta de gran altitud. Es conocida por sus tintos de Tempranillo, llamada aquí Tinto Fino o Tinta del País.</p>",
+    "en": "<p>It is made from Tempranillo. It carries the Roble designation. It has 14% ABV.</p><p>House founded in Haro in 1879 by the Real de Asúa brothers, behind classic Rioja brands such as Cune, Imperial, Viña Real and Monopole.</p><p>Ribera del Duero is a designation of origin in Castilla y León, created in 1982, that runs along the Duero river on a high plateau. It is known for its reds made from Tempranillo, called Tinto Fino or Tinta del País locally.</p>",
+    "fr": "<p>Il est élaboré à partir de Tempranillo. Il porte la mention Roble. Il titre 14 % vol.</p><p>Maison fondée à Haro en 1879 par les frères Real de Asúa, à l’origine de marques classiques de la Rioja comme Cune, Imperial, Viña Real et Monopole.</p><p>La Ribera del Duero est une dénomination d'origine de Castille-et-León, créée en 1982, qui s'étend le long du Douro sur un haut plateau. Elle est connue pour ses rouges de tempranillo, appelé ici tinto fino ou tinta del país.</p>",
+    "it": "<p>È prodotto con Tempranillo. Riporta la menzione Roble. Ha 14% vol.</p><p>Casa fondata a Haro nel 1879 dai fratelli Real de Asúa, titolare di marchi classici del Rioja come Cune, Imperial, Viña Real e Monopole.</p><p>Ribera del Duero è una denominazione di origine della Castiglia e León, istituita nel 1982, che si estende lungo il fiume Duero su un altopiano elevato. È nota per i rossi di Tempranillo, chiamato qui Tinto Fino o Tinta del País.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Cune Roble Ribera CVNE",
+  "brief": true,
+  "source": "decantalo"
+}

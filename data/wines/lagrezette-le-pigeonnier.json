@@ -1,0 +1,48 @@
+{
+  "slug": "lagrezette-le-pigeonnier",
+  "name": "Le Pigeonnier",
+  "winery": "chateau-lagrezette",
+  "region": "cahors",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "AOC Cahors",
+    "en": "AOC Cahors",
+    "fr": "AOC Cahors",
+    "it": "AOC Cahors"
+  },
+  "grapes": [
+    "malbec"
+  ],
+  "summary": {
+    "es": "Cuvée de parcela del Château Lagrezette, un Malbec de Cahors concentrado y de larga guarda.",
+    "en": "Single-plot cuvée from Château Lagrezette, a concentrated, long-lived Cahors Malbec.",
+    "fr": "Cuvée parcellaire du Château Lagrezette, un malbec de Cahors concentré et de longue garde.",
+    "it": "Cuvée di singola parcella del Château Lagrezette, un Malbec di Cahors concentrato e longevo."
+  },
+  "body": {
+    "es": "<p>El <strong>Château Lagrezette</strong>, en Caillac, junto a Cahors, es una de las propiedades más conocidas del valle del Lot. La denominación <strong>Cahors</strong> es la cuna del <strong>Malbec</strong>, llamado aquí Côt, que debe representar al menos el 70 % de sus tintos y da vinos de color profundo, fruta negra y taninos firmes. Los viñedos se reparten entre las terrazas del río y las mesetas calizas que lo dominan.</p><p><strong>Le Pigeonnier</strong> es el vino más ambicioso de la casa. Procede de una parcela concreta de la finca, cuyo nombre alude al palomar que se alza en ella, y se elabora únicamente con <strong>Malbec</strong> de rendimientos muy bajos. Tras una vinificación cuidadosa, se cría largo tiempo en barricas de roble francés. Es un tinto de gran concentración y estructura, pensado para la guarda, que suele necesitar bastantes años de botella para mostrar toda su complejidad.</p>",
+    "en": "<p><strong>Château Lagrezette</strong>, in Caillac near Cahors, is one of the best-known properties of the Lot Valley. The <strong>Cahors</strong> appellation is the cradle of <strong>Malbec</strong>, known here as Côt, which must make up at least 70% of its reds and gives deeply coloured wines with black fruit and firm tannins. The vineyards are spread between the river terraces and the limestone plateaux above them.</p><p><strong>Le Pigeonnier</strong> is the estate’s most ambitious wine. It comes from a specific plot on the property, named after the dovecote that stands on it, and is made solely from very low-yielding <strong>Malbec</strong>. After careful vinification, it is aged for a long time in French oak barrels. It is a red of great concentration and structure, intended for keeping, which usually needs many years in bottle to show its full complexity.</p>",
+    "fr": "<p>Le <strong>Château Lagrezette</strong>, à Caillac, près de Cahors, est l’une des propriétés les plus connues de la vallée du Lot. L’appellation <strong>Cahors</strong> est le berceau du <strong>malbec</strong>, appelé ici côt, qui doit représenter au moins 70 % de ses rouges et donne des vins à la robe profonde, aux fruits noirs et aux tanins fermes. Les vignes se répartissent entre les terrasses de la rivière et les causses calcaires qui la dominent.</p><p><strong>Le Pigeonnier</strong> est le vin le plus ambitieux de la maison. Il provient d’une parcelle précise du domaine, qui doit son nom au pigeonnier qui s’y dresse, et il est élaboré uniquement à partir de <strong>malbec</strong> à très faibles rendements. Après une vinification soignée, il est longuement élevé en fûts de chêne français. C’est un rouge d’une grande concentration et d’une belle structure, conçu pour la garde, qui demande souvent de nombreuses années de bouteille pour révéler toute sa complexité.</p>",
+    "it": "<p>Il <strong>Château Lagrezette</strong>, a Caillac vicino a Cahors, è una delle proprietà più note della valle del Lot. La denominazione <strong>Cahors</strong> è la culla del <strong>Malbec</strong>, chiamato qui Côt, che deve rappresentare almeno il 70% dei suoi rossi e dà vini dal colore profondo, dal frutto nero e dai tannini fermi. I vigneti si distribuiscono tra le terrazze del fiume e gli altopiani calcarei che lo sovrastano.</p><p><strong>Le Pigeonnier</strong> è il vino più ambizioso della casa. Proviene da una parcella precisa della tenuta, che prende il nome dalla colombaia che vi sorge, ed è prodotto esclusivamente con <strong>Malbec</strong> a rese molto basse. Dopo una vinificazione accurata, affina a lungo in barrique di rovere francese. È un rosso di grande concentrazione e struttura, pensato per l’invecchiamento, che di solito ha bisogno di molti anni di bottiglia per mostrare tutta la sua complessità.</p>"
+  },
+  "tasting": {
+    "es": "Rojo muy oscuro. Aromas de ciruela, mora, violeta y notas tostadas. Boca concentrada, de taninos firmes y final largo.",
+    "en": "Very dark red. Aromas of plum, blackberry, violet and toasty notes. Concentrated palate with firm tannins and a long finish.",
+    "fr": "Rouge très sombre. Arômes de prune, de mûre, de violette et notes grillées. Bouche concentrée, aux tanins fermes et à la finale longue.",
+    "it": "Rosso molto scuro. Aromi di prugna, mora, violetta e note tostate. Bocca concentrata, dai tannini fermi e dal finale lungo."
+  },
+  "pairing": {
+    "es": "Confit de pato, cordero, carnes a la brasa, cassoulet, quesos curados",
+    "en": "Duck confit, lamb, grilled meats, cassoulet, aged cheeses",
+    "fr": "Confit de canard, agneau, viandes grillées, cassoulet, fromages affinés",
+    "it": "Confit d’anatra, agnello, carni alla brace, cassoulet, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Le Pigeonnier Château Lagrezette Cahors"
+}

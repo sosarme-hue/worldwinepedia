@@ -1,0 +1,41 @@
+{
+  "slug": "termes",
+  "name": "Termes",
+  "winery": "numanthia",
+  "region": "toro",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": ["tempranillo"],
+  "summary": {
+    "es": "El tinto más accesible de Numanthia, de Tinta de Toro, con fruta madura y una crianza en barrica más breve.",
+    "en": "Numanthia’s most accessible red, made from Tinta de Toro, with ripe fruit and shorter barrel ageing.",
+    "fr": "Le rouge le plus accessible de Numanthia, de tinta de toro, au fruit mûr et à l’élevage en barrique plus court.",
+    "it": "Il rosso più accessibile di Numanthia, di Tinta de Toro, con frutto maturo e un affinamento in botte più breve."
+  },
+  "body": {
+    "es": "<p>Termes es el vino de entrada de la gama de Numanthia y el más fácil de encontrar. Se elabora con Tinta de Toro, la variante local de la Tempranillo, procedente de viñedos de la D.O. Toro en la provincia de Zamora.</p><p>Aunque comparte el carácter concentrado propio de la zona, su crianza en barrica es más corta que la del Numanthia, de modo que la fruta tiene mayor protagonismo y el vino resulta más accesible en su juventud.</p><p>Es una buena introducción al estilo de Toro: un tinto de color intenso, fruta negra madura y tanino presente, con más cuerpo que muchos tintos de otras zonas del Duero. Puede beberse desde su salida al mercado o guardarse algunos años.</p>",
+    "en": "<p>Termes is the entry-level wine in Numanthia’s range and the easiest to find. It is made from Tinta de Toro, the local variant of Tempranillo, from vineyards in the Toro D.O. in the province of Zamora.</p><p>Although it shares the concentrated character typical of the area, its barrel ageing is shorter than Numanthia’s, so the fruit plays a greater role and the wine is more approachable in its youth.</p><p>It is a good introduction to the Toro style: a deeply coloured red with ripe black fruit and noticeable tannins, fuller-bodied than many reds from other parts of the Duero. It can be drunk on release or kept for a few years.</p>",
+    "fr": "<p>Termes est le vin d’entrée de gamme de Numanthia et le plus facile à trouver. Il est élaboré avec de la tinta de toro, la variante locale du tempranillo, issue de vignes de la D.O. Toro dans la province de Zamora.</p><p>Bien qu’il partage le caractère concentré propre à la zone, son élevage en barrique est plus court que celui du Numanthia, si bien que le fruit y joue un rôle plus important et que le vin est plus accessible dans sa jeunesse.</p><p>C’est une bonne introduction au style de Toro : un rouge à la robe intense, aux fruits noirs mûrs et aux tanins présents, plus corsé que bien des rouges d’autres zones du Duero. Il peut se boire dès sa sortie ou se garder quelques années.</p>",
+    "it": "<p>Termes è il vino d’ingresso della gamma di Numanthia e il più facile da trovare. È prodotto con Tinta de Toro, la variante locale del Tempranillo, da vigneti della D.O. Toro in provincia di Zamora.</p><p>Pur condividendo il carattere concentrato tipico della zona, il suo affinamento in botte è più breve di quello del Numanthia, per cui il frutto ha maggiore protagonismo e il vino risulta più accessibile in gioventù.</p><p>È una buona introduzione allo stile di Toro: un rosso dal colore intenso, frutto nero maturo e tannino presente, più corposo di molti rossi di altre zone del Duero. Si può bere appena uscito o conservare per qualche anno.</p>"
+  },
+  "tasting": {
+    "es": "Picota intenso. Aromas de mora, ciruela, regaliz y notas especiadas y tostadas. En boca es carnoso y amplio, con tanino maduro.",
+    "en": "Deep cherry-red. Aromas of blackberry, plum, liquorice and spicy, toasty notes. Fleshy and broad on the palate, with ripe tannins.",
+    "fr": "Rouge cerise intense. Arômes de mûre, de prune, de réglisse et notes épicées et grillées. En bouche, charnu et ample, aux tanins mûrs.",
+    "it": "Rosso ciliegia intenso. Aromi di mora, prugna, liquirizia e note speziate e tostate. In bocca è carnoso e ampio, con tannino maturo."
+  },
+  "pairing": {
+    "es": "Carnes a la brasa, embutidos, guisos de legumbres con carne, quesos zamoranos",
+    "en": "Chargrilled meat, charcuterie, bean and meat stews, Zamorano cheese",
+    "fr": "Viandes à la braise, charcuterie, ragoûts de légumineuses à la viande, fromage zamorano",
+    "it": "Carni alla brace, salumi, stufati di legumi e carne, formaggio zamorano"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Termes Numanthia Toro"
+}

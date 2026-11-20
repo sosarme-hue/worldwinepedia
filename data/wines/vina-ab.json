@@ -1,0 +1,46 @@
+{
+  "slug": "vina-ab",
+  "name": "Viña AB",
+  "winery": "gonzalez-byass",
+  "region": "jerez-xeres-sherry",
+  "country": "espana",
+  "type": "generoso",
+  "category": {
+    "es": "Amontillado",
+    "en": "Amontillado",
+    "fr": "Amontillado",
+    "it": "Amontillado"
+  },
+  "grapes": ["palomino"],
+  "summary": {
+    "es": "Amontillado seco de González Byass, que une la crianza biológica bajo velo de flor y una posterior crianza oxidativa.",
+    "en": "Dry amontillado from González Byass, combining biological ageing under flor with subsequent oxidative ageing.",
+    "fr": "Amontillado sec de González Byass, qui associe un élevage biologique sous voile de flor et un élevage oxydatif ultérieur.",
+    "it": "Amontillado secco di González Byass, che unisce l'affinamento biologico sotto velo di flor a un successivo affinamento ossidativo."
+  },
+  "body": {
+    "es": "<p>Viña AB es el amontillado de referencia de González Byass. El <strong>amontillado</strong> es un estilo de Jerez que combina dos tipos de crianza: comienza su vida como un fino, protegido por el velo de flor, y cuando la flor desaparece de forma natural o tras un encabezamiento adicional, continúa envejeciendo en contacto con el oxígeno.</p><p>Elaborado con <strong>palomino</strong>, Viña AB parte de vinos de la línea de finos de la casa que prosiguen su crianza en un sistema de criaderas y solera propio. Esa doble crianza le da un color ámbar claro y un perfil que reúne la finura punzante del fino con los aromas de frutos secos y madera de la crianza oxidativa. Es un vino seco, muy gastronómico, que se mantiene mejor que un fino una vez abierto.</p>",
+    "en": "<p>Viña AB is González Byass's benchmark amontillado. <strong>Amontillado</strong> is a sherry style that combines two kinds of ageing: it begins life as a fino, protected by the flor, and when the flor fades naturally or after further fortification, it continues ageing in contact with oxygen.</p><p>Made from <strong>Palomino</strong>, Viña AB starts from wines of the house's fino line that continue their ageing in a solera system of their own. This double ageing gives it a pale amber colour and a profile that brings together the pungent finesse of fino with the nutty, woody aromas of oxidative ageing. It is a dry, very food-friendly wine that keeps better than a fino once opened.</p>",
+    "fr": "<p>Viña AB est l'amontillado de référence de González Byass. L'<strong>amontillado</strong> est un style de Xérès qui associe deux types d'élevage : il commence sa vie comme un fino, protégé par le voile de flor, puis, lorsque la flor disparaît naturellement ou après un mutage supplémentaire, poursuit son vieillissement au contact de l'oxygène.</p><p>Élaboré avec du <strong>palomino</strong>, Viña AB part de vins de la lignée des finos de la maison qui poursuivent leur élevage dans un système de solera qui leur est propre. Ce double élevage lui donne une couleur ambre clair et un profil qui réunit la finesse piquante du fino et les arômes de fruits secs et de bois de l'élevage oxydatif. C'est un vin sec, très gastronomique, qui se conserve mieux qu'un fino une fois ouvert.</p>",
+    "it": "<p>Viña AB è l'amontillado di riferimento di González Byass. L'<strong>amontillado</strong> è uno stile di Jerez che unisce due tipi di affinamento: nasce come fino, protetto dal velo di flor, e quando la flor scompare naturalmente o dopo un'ulteriore fortificazione, prosegue l'invecchiamento a contatto con l'ossigeno.</p><p>Prodotto con <strong>Palomino</strong>, Viña AB parte da vini della linea dei fino della casa che proseguono l'affinamento in un proprio sistema di solera. Questo doppio affinamento gli conferisce un colore ambrato chiaro e un profilo che unisce la finezza pungente del fino agli aromi di frutta secca e legno dell'affinamento ossidativo. È un vino secco, molto gastronomico, che si conserva meglio di un fino una volta aperto.</p>"
+  },
+  "tasting": {
+    "es": "Avellana, almendra tostada, notas de madera noble y un fondo salino. Boca seca, de cuerpo medio y final largo.",
+    "en": "Hazelnut, toasted almond, notes of fine wood and a saline background. Dry, medium-bodied palate with a long finish.",
+    "fr": "Noisette, amande grillée, notes de bois noble et fond salin. Bouche sèche, de corps moyen, à la finale longue.",
+    "it": "Nocciola, mandorla tostata, note di legno nobile e un fondo salino. Bocca secca, di medio corpo e finale lungo."
+  },
+  "pairing": {
+    "es": "Consomés, alcachofas, setas, carnes blancas, quesos curados",
+    "en": "Consommés, artichokes, mushrooms, white meats, aged cheeses",
+    "fr": "Consommés, artichauts, champignons, viandes blanches, fromages affinés",
+    "it": "Consommé, carciofi, funghi, carni bianche, formaggi stagionati"
+  },
+  "serve": {
+    "es": "12-14 °C, copa de vino blanco",
+    "en": "12-14 °C, white wine glass",
+    "fr": "12-14 °C, verre à vin blanc",
+    "it": "12-14 °C, calice da vino bianco"
+  },
+  "search": "Viña AB Amontillado González Byass"
+}

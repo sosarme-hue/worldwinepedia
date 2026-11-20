@@ -1,0 +1,40 @@
+{
+  "slug": "pedro-parra-y-familia-monk",
+  "name": "Pedro Parra y Familia Monk",
+  "winery": null,
+  "winery_name": "Pedro Parra y Familia",
+  "region": null,
+  "country": "chile",
+  "appellation": "Valle de Itata",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Pedro Parra y Familia Monk es un vino tinto de Pedro Parra y Familia, con la denominación Valle de Itata, en Chile.",
+    "en": "Pedro Parra y Familia Monk is a red wine from Pedro Parra y Familia, made under the Valle de Itata appellation in Chile.",
+    "fr": "Pedro Parra y Familia Monk est un vin rouge de Pedro Parra y Familia, élaboré sous l’appellation Valle de Itata (Chili).",
+    "it": "Pedro Parra y Familia Monk è un vino rosso di Pedro Parra y Familia, prodotto nella denominazione Valle de Itata (Cile)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13,5 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Pedro Parra y Familia Monk Pedro Parra y Familia",
+  "brief": true,
+  "source": "decantalo"
+}

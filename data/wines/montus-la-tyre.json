@@ -1,0 +1,48 @@
+{
+  "slug": "montus-la-tyre",
+  "name": "Montus La Tyre",
+  "winery": "chateau-montus",
+  "region": "madiran",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Madiran",
+    "en": "Madiran",
+    "fr": "Madiran",
+    "it": "Madiran"
+  },
+  "grapes": [
+    "tannat"
+  ],
+  "summary": {
+    "es": "La cuvée de prestigio de Château Montus, un Madiran de Tannat procedente de la parcela de La Tyre, concebido para una larga guarda.",
+    "en": "Château Montus’ prestige cuvée, a Tannat Madiran from the La Tyre plot, built for long ageing.",
+    "fr": "La cuvée de prestige du château Montus, un madiran de tannat issu de la parcelle de La Tyre, conçu pour une longue garde.",
+    "it": "La cuvée di prestigio di Château Montus, un Madiran di Tannat dalla parcella di La Tyre, pensato per un lungo invecchiamento."
+  },
+  "body": {
+    "es": "<p>La Tyre es la cuvée más ambiciosa de Château Montus, la propiedad de Alain Brumont en <strong>Madiran</strong>. Procede de una parcela concreta, La Tyre, situada en una de las colinas más altas y mejor expuestas de la finca, que Brumont plantó con el objetivo de obtener la máxima expresión del Tannat.</p><p>Se elabora exclusivamente con <strong>Tannat</strong>, la variedad emblemática de Madiran, famosa por su color profundo, su riqueza en taninos y su gran capacidad de envejecimiento. Los suelos pedregosos y arcillosos, el buen drenaje y la exposición permiten vendimiar uvas muy maduras, con rendimientos muy bajos.</p><p>La crianza en barricas nuevas de roble se prolonga durante un periodo largo, que ayuda a pulir los taninos de la variedad. El resultado es un tinto de gran concentración y estructura, muy cerrado en su juventud, que necesita muchos años de botella para abrirse y que puede evolucionar durante décadas en las buenas añadas.</p>",
+    "en": "<p>La Tyre is the most ambitious cuvée of Château Montus, Alain Brumont’s estate in <strong>Madiran</strong>. It comes from a specific plot, La Tyre, on one of the highest and best-exposed hills of the property, which Brumont planted with the aim of achieving the fullest expression of Tannat.</p><p>It is made exclusively from <strong>Tannat</strong>, Madiran’s emblematic variety, famous for its deep colour, high tannin content and great ageing capacity. The stony, clay soils, good drainage and exposure make it possible to pick very ripe grapes at very low yields.</p><p>Ageing in new oak barrels lasts a long time, helping to polish the variety’s tannins. The result is a red of great concentration and structure, very closed when young, which needs many years in bottle to open up and can develop for decades in good vintages.</p>",
+    "fr": "<p>La Tyre est la cuvée la plus ambitieuse du château Montus, la propriété d’Alain Brumont à <strong>Madiran</strong>. Elle provient d’une parcelle précise, La Tyre, située sur l’une des collines les plus hautes et les mieux exposées du domaine, que Brumont a plantée dans le but d’obtenir la plus grande expression du tannat.</p><p>Elle est élaborée exclusivement à partir de <strong>tannat</strong>, le cépage emblématique de Madiran, célèbre pour sa couleur profonde, sa richesse en tanins et sa grande aptitude au vieillissement. Les sols caillouteux et argileux, le bon drainage et l’exposition permettent de vendanger des raisins très mûrs, à des rendements très faibles.</p><p>L’élevage en barriques de chêne neuves se prolonge longtemps et aide à polir les tanins du cépage. Il en résulte un rouge d’une grande concentration et d’une grande structure, très fermé dans sa jeunesse, qui demande de nombreuses années de bouteille pour s’ouvrir et peut évoluer pendant des décennies dans les bons millésimes.</p>",
+    "it": "<p>La Tyre è la cuvée più ambiziosa di Château Montus, la proprietà di Alain Brumont a <strong>Madiran</strong>. Proviene da una parcella precisa, La Tyre, situata su una delle colline più alte e meglio esposte della tenuta, che Brumont piantò con l’obiettivo di ottenere la massima espressione del Tannat.</p><p>È prodotta esclusivamente con <strong>Tannat</strong>, il vitigno simbolo di Madiran, famoso per il colore profondo, la ricchezza di tannini e la grande capacità di invecchiamento. I suoli sassosi e argillosi, il buon drenaggio e l’esposizione consentono di vendemmiare uve molto mature, con rese bassissime.</p><p>L’affinamento in barrique nuove di rovere si protrae a lungo e aiuta a levigare i tannini del vitigno. Il risultato è un rosso di grande concentrazione e struttura, molto chiuso da giovane, che ha bisogno di molti anni di bottiglia per aprirsi e può evolvere per decenni nelle buone annate.</p>"
+  },
+  "tasting": {
+    "es": "Color casi negro. Aromas de frutos negros maduros, regaliz, cacao, especias y notas tostadas. Boca muy concentrada, de taninos densos y final muy largo.",
+    "en": "Almost black colour. Aromas of ripe black fruit, liquorice, cocoa, spice and toasty notes. Very concentrated palate with dense tannins and a very long finish.",
+    "fr": "Robe presque noire. Arômes de fruits noirs mûrs, de réglisse, de cacao, d’épices et notes grillées. Bouche très concentrée, aux tanins denses et à la finale très longue.",
+    "it": "Colore quasi nero. Aromi di frutti neri maturi, liquirizia, cacao, spezie e note tostate. Bocca molto concentrata, dai tannini densi e dal finale lunghissimo."
+  },
+  "pairing": {
+    "es": "Magret y confit de pato, caza mayor, buey, quesos de oveja curados",
+    "en": "Duck breast and confit, large game, beef, aged sheep’s cheeses",
+    "fr": "Magret et confit de canard, gros gibier, bœuf, fromages de brebis affinés",
+    "it": "Petto e confit d’anatra, selvaggina di grossa taglia, manzo, pecorini stagionati"
+  },
+  "serve": {
+    "es": "17-18 °C, copa amplia; decantar con antelación",
+    "en": "17-18 °C, large glass; decant well ahead",
+    "fr": "17-18 °C, grand verre ; carafer longtemps à l’avance",
+    "it": "17-18 °C, calice ampio; decantare con largo anticipo"
+  },
+  "search": "La Tyre Château Montus Madiran Brumont"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "brocard-petit-chablis",
+  "name": "Petit Chablis",
+  "winery": "jean-marc-brocard",
+  "region": "chablis",
+  "country": "francia",
+  "type": "blanco",
+  "category": {
+    "es": "Petit Chablis",
+    "en": "Petit Chablis",
+    "fr": "Petit Chablis",
+    "it": "Petit Chablis"
+  },
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Petit Chablis del Domaine Jean-Marc Brocard, un Chardonnay ligero y fresco pensado para beberse joven.",
+    "en": "Petit Chablis from Domaine Jean-Marc Brocard, a light, fresh Chardonnay intended to be drunk young.",
+    "fr": "Petit chablis du Domaine Jean-Marc Brocard, un chardonnay léger et frais à boire jeune.",
+    "it": "Petit Chablis del Domaine Jean-Marc Brocard, uno Chardonnay leggero e fresco pensato per essere bevuto giovane."
+  },
+  "body": {
+    "es": "<p>El <strong>Petit Chablis</strong> es la denominación de entrada del viñedo de Chablis. Sus parcelas se sitúan por lo general en las mesetas y en las zonas periféricas, a menudo sobre suelos calcáreos del <strong>Portlandiense</strong>, más recientes que las margas kimmeridgienses que caracterizan a Chablis y a sus crus.</p><p>El Domaine Jean-Marc Brocard, establecido en Préhy, en el sur de la zona, elabora esta versión con <strong>Chardonnay</strong>, fermentado y criado en depósito de acero inoxidable para preservar la fruta y la frescura. No busca la complejidad de los premiers crus, sino un blanco directo, vivo y fácil de entender.</p><p>Es un vino ligero, de acidez marcada y aromas frutales, pensado para el aperitivo y la mesa cotidiana, y para beberse en los dos o tres años siguientes a la vendimia. Ofrece una primera aproximación accesible al estilo seco y tenso de los blancos de Chablis.</p>",
+    "en": "<p><strong>Petit Chablis</strong> is the entry-level appellation of the Chablis vineyard. Its plots are generally on the plateaux and in outlying areas, often on <strong>Portlandian</strong> limestone soils, more recent than the Kimmeridgian marls that characterise Chablis and its crus.</p><p>Domaine Jean-Marc Brocard, based in Préhy in the south of the area, makes this version from <strong>Chardonnay</strong>, fermented and aged in stainless steel tanks to preserve fruit and freshness. It does not seek the complexity of the premiers crus, but rather a direct, lively white that is easy to understand.</p><p>It is a light wine with marked acidity and fruity aromas, designed for aperitifs and everyday meals, and to be drunk within two or three years of the harvest. It offers an accessible first approach to the dry, taut style of Chablis whites.</p>",
+    "fr": "<p>Le <strong>petit chablis</strong> est l'appellation d'entrée du vignoble de Chablis. Ses parcelles se situent généralement sur les plateaux et en périphérie, souvent sur des sols calcaires du <strong>Portlandien</strong>, plus récents que les marnes kimméridgiennes qui caractérisent le chablis et ses crus.</p><p>Le Domaine Jean-Marc Brocard, installé à Préhy, au sud du vignoble, élabore cette version à partir de <strong>chardonnay</strong>, fermenté et élevé en cuve inox pour préserver le fruit et la fraîcheur. Il ne recherche pas la complexité des premiers crus, mais un blanc direct, vif et facile à comprendre.</p><p>C'est un vin léger, à l'acidité marquée et aux arômes fruités, pensé pour l'apéritif et la table de tous les jours, et à boire dans les deux ou trois ans suivant la vendange. Il offre une première approche accessible du style sec et tendu des blancs de Chablis.</p>",
+    "it": "<p>Il <strong>Petit Chablis</strong> è la denominazione d'ingresso del vigneto di Chablis. Le sue parcelle si trovano in genere sugli altopiani e nelle zone periferiche, spesso su suoli calcarei del <strong>Portlandiano</strong>, più recenti delle marne kimmeridgiane che caratterizzano lo Chablis e i suoi cru.</p><p>Il Domaine Jean-Marc Brocard, con sede a Préhy, nel sud della zona, produce questa versione con <strong>Chardonnay</strong>, fermentato e affinato in vasche d'acciaio inox per preservare frutto e freschezza. Non cerca la complessità dei premiers crus, ma un bianco diretto, vivace e facile da capire.</p><p>È un vino leggero, di acidità spiccata e aromi fruttati, pensato per l'aperitivo e la tavola di tutti i giorni, e da bere entro due o tre anni dalla vendemmia. Offre un primo approccio accessibile allo stile secco e teso dei bianchi di Chablis.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido. Aromas de limón, manzana verde y flores blancas. Boca ligera, viva y refrescante.",
+    "en": "Pale yellow. Aromas of lemon, green apple and white flowers. Light, lively, refreshing palate.",
+    "fr": "Jaune pâle. Arômes de citron, de pomme verte et de fleurs blanches. Bouche légère, vive et rafraîchissante.",
+    "it": "Giallo paglierino tenue. Aromi di limone, mela verde e fiori bianchi. Bocca leggera, vivace e rinfrescante."
+  },
+  "pairing": {
+    "es": "Aperitivo, ostras, marisco, ensaladas, quesos frescos",
+    "en": "Aperitif, oysters, shellfish, salads, fresh cheeses",
+    "fr": "Apéritif, huîtres, fruits de mer, salades, fromages frais",
+    "it": "Aperitivo, ostriche, frutti di mare, insalate, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da bianco"
+  },
+  "search": "Petit Chablis Jean-Marc Brocard"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "springfield-the-work-of-time",
+  "name": "Springfield The Work Of Time",
+  "winery": null,
+  "winery_name": "Springfield Estate",
+  "region": null,
+  "country": "sudafrica",
+  "appellation": "Robertson",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Springfield The Work Of Time es un vino tinto de Springfield Estate, con la denominación Robertson, en Sudáfrica.",
+    "en": "Springfield The Work Of Time is a red wine from Springfield Estate, made under the Robertson appellation in South Africa.",
+    "fr": "Springfield The Work Of Time est un vin rouge de Springfield Estate, élaboré sous l’appellation Robertson (Afrique du Sud).",
+    "it": "Springfield The Work Of Time è un vino rosso di Springfield Estate, prodotto nella denominazione Robertson (Sudafrica)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14,5 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 14.5% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14,5 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 14,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Springfield The Work Of Time Springfield Estate",
+  "brief": true,
+  "source": "decantalo"
+}

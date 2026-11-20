@@ -1,0 +1,42 @@
+{
+  "slug": "domaine-rolet-arbois-trousseau",
+  "name": "Domaine Rolet Arbois Trousseau",
+  "winery": null,
+  "winery_name": "Domaine Rolet",
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Arbois",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "trousseau"
+  ],
+  "summary": {
+    "es": "Domaine Rolet Arbois Trousseau es un vino tinto de Domaine Rolet, con la denominación AOC Arbois, en Francia.",
+    "en": "Domaine Rolet Arbois Trousseau is a red wine from Domaine Rolet, made under the AOC Arbois appellation in France.",
+    "fr": "Domaine Rolet Arbois Trousseau est un vin rouge de Domaine Rolet, élaboré sous l’appellation AOC Arbois (France).",
+    "it": "Domaine Rolet Arbois Trousseau è un vino rosso di Domaine Rolet, prodotto nella denominazione AOC Arbois (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Trousseau (Merenzao, Bastardo). Su graduación es de 13 % vol.</p>",
+    "en": "<p>It is made from Trousseau (Merenzao, Bastardo). It has 13% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Trousseau (merenzao, bastardo). Il titre 13 % vol.</p>",
+    "it": "<p>È prodotto con Trousseau (Merenzao, Bastardo). Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Domaine Rolet Arbois Trousseau Domaine Rolet",
+  "brief": true,
+  "source": "decantalo"
+}

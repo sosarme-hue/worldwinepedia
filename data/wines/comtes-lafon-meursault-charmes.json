@@ -1,0 +1,48 @@
+{
+  "slug": "comtes-lafon-meursault-charmes",
+  "name": "Meursault 1er Cru Charmes",
+  "winery": "comtes-lafon",
+  "region": "cote-de-beaune",
+  "country": "francia",
+  "type": "blanco",
+  "category": {
+    "es": "Meursault Premier Cru",
+    "en": "Meursault Premier Cru",
+    "fr": "Meursault Premier Cru",
+    "it": "Meursault Premier Cru"
+  },
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Meursault Premier Cru del Domaine des Comtes Lafon procedente del climat Les Charmes, elaborado con Chardonnay.",
+    "en": "Meursault Premier Cru from Domaine des Comtes Lafon from the Les Charmes climat, made from Chardonnay.",
+    "fr": "Meursault Premier Cru du Domaine des Comtes Lafon issu du climat Les Charmes, élaboré à partir de chardonnay.",
+    "it": "Meursault Premier Cru del Domaine des Comtes Lafon proveniente dal climat Les Charmes, prodotto con Chardonnay."
+  },
+  "body": {
+    "es": "<p>Les Charmes es uno de los premiers crus más extensos y conocidos de Meursault, situado en la parte sur del pueblo, en dirección a Puligny-Montrachet. Sus suelos, algo más profundos que los de otros premiers crus vecinos, suelen dar blancos amplios, redondos y generosos.</p><p>El Domaine des Comtes Lafon, una de las propiedades de referencia de Meursault, elabora este vino con <strong>Chardonnay</strong> de viñas cultivadas con criterios biodinámicos. Fermenta y se cría en barrica durante un periodo prolongado, siguiendo el estilo de la casa.</p><p>Es un blanco rico y de gran textura, con aromas de fruta madura, flores, avellana y especias, sostenido por una acidez que le da equilibrio y longitud. Como los grandes blancos del domaine, necesita algunos años de botella para mostrar toda su complejidad y puede guardarse durante bastante tiempo.</p>",
+    "en": "<p>Les Charmes is one of the largest and best-known premiers crus of Meursault, located in the southern part of the village towards Puligny-Montrachet. Its soils, somewhat deeper than those of some neighbouring premiers crus, usually give broad, round, generous whites.</p><p>Domaine des Comtes Lafon, one of Meursault's benchmark properties, makes this wine from <strong>Chardonnay</strong> from biodynamically farmed vines. It is fermented and aged in barrel for an extended period, in keeping with the house style.</p><p>It is a rich white of great texture, with aromas of ripe fruit, flowers, hazelnut and spice, supported by an acidity that gives it balance and length. Like the estate's great whites, it needs a few years in bottle to show its full complexity and can be kept for a long time.</p>",
+    "fr": "<p>Les Charmes est l'un des premiers crus les plus étendus et les plus connus de Meursault, situé dans la partie sud du village, en direction de Puligny-Montrachet. Ses sols, un peu plus profonds que ceux de certains premiers crus voisins, donnent en général des blancs amples, ronds et généreux.</p><p>Le Domaine des Comtes Lafon, l'une des propriétés de référence de Meursault, élabore ce vin à partir de <strong>chardonnay</strong> issu de vignes conduites en biodynamie. Il fermente et s'élève en barrique pendant une période prolongée, selon le style de la maison.</p><p>C'est un blanc riche et d'une grande texture, aux arômes de fruits mûrs, de fleurs, de noisette et d'épices, soutenu par une acidité qui lui apporte équilibre et longueur. Comme les grands blancs du domaine, il demande quelques années de bouteille pour livrer toute sa complexité et peut se garder longtemps.</p>",
+    "it": "<p>Les Charmes è uno dei premiers crus più estesi e conosciuti di Meursault, situato nella parte meridionale del villaggio, verso Puligny-Montrachet. I suoi suoli, un po' più profondi di quelli di alcuni premiers crus vicini, danno di solito bianchi ampi, rotondi e generosi.</p><p>Il Domaine des Comtes Lafon, una delle proprietà di riferimento di Meursault, produce questo vino con <strong>Chardonnay</strong> da vigne coltivate in biodinamica. Fermenta e matura in barrique per un periodo prolungato, secondo lo stile della casa.</p><p>È un bianco ricco e di grande tessitura, con aromi di frutta matura, fiori, nocciola e spezie, sostenuto da un'acidità che gli dà equilibrio e lunghezza. Come i grandi bianchi del domaine, ha bisogno di alcuni anni di bottiglia per mostrare tutta la sua complessità e può essere conservato a lungo.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo dorado intenso. Aromas de melocotón, pera madura, flores blancas, avellana tostada y especias. Boca amplia y rica, de final muy largo.",
+    "en": "Deep golden yellow. Aromas of peach, ripe pear, white flowers, toasted hazelnut and spice. Broad, rich palate with a very long finish.",
+    "fr": "Jaune doré intense. Arômes de pêche, de poire mûre, de fleurs blanches, de noisette grillée et d'épices. Bouche ample et riche, finale très longue.",
+    "it": "Giallo dorato intenso. Aromi di pesca, pera matura, fiori bianchi, nocciola tostata e spezie. Bocca ampia e ricca, dal finale molto lungo."
+  },
+  "pairing": {
+    "es": "Bogavante, pescados en salsa, ave con crema, quesos de pasta blanda",
+    "en": "Lobster, fish in sauce, poultry in cream, soft cheeses",
+    "fr": "Homard, poissons en sauce, volaille à la crème, fromages à pâte molle",
+    "it": "Astice, pesce in salsa, pollame alla crema, formaggi a pasta molle"
+  },
+  "serve": {
+    "es": "12-14 °C, copa amplia",
+    "en": "12-14 °C, large glass",
+    "fr": "12-14 °C, verre ample",
+    "it": "12-14 °C, calice ampio"
+  },
+  "search": "Meursault 1er Cru Charmes Domaine des Comtes Lafon"
+}

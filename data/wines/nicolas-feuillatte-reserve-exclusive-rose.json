@@ -1,0 +1,49 @@
+{
+  "slug": "nicolas-feuillatte-reserve-exclusive-rose",
+  "name": "Nicolas Feuillatte Réserve Exclusive Rosé",
+  "winery": "nicolas-feuillatte",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut Rosé",
+    "en": "Brut Rosé",
+    "fr": "Brut Rosé",
+    "it": "Brut Rosé"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Champagne rosado sin añada de Nicolas Feuillatte, elaborado mediante la adición de vino tinto a un ensamblaje de las tres variedades champañesas.",
+    "en": "Nicolas Feuillatte’s non-vintage rosé champagne, made by adding red wine to a blend of the three Champagne varieties.",
+    "fr": "Champagne rosé non millésimé de Nicolas Feuillatte, élaboré par ajout de vin rouge à un assemblage des trois cépages champenois.",
+    "it": "Champagne rosé senza annata di Nicolas Feuillatte, prodotto aggiungendo vino rosso a un assemblaggio delle tre varietà della Champagne."
+  },
+  "body": {
+    "es": "<p>El Réserve Exclusive Rosé es el champán rosado sin añada de Nicolas Feuillatte. Como la mayoría de los rosados de Champagne, se elabora mediante el método de ensamblaje: a una base de vinos de <strong>Pinot Noir</strong>, Pinot Meunier y <strong>Chardonnay</strong> se añade una proporción de vino tinto tranquilo, elaborado con uvas tintas de parcelas seleccionadas, que aporta el color y los aromas de frutos rojos.</p><p>Las uvas proceden de los viñedos de los viticultores asociados a las cooperativas de la marca, en distintos sectores de la región, y las proporciones varían según el ensamblaje. El vino incluye vinos de reserva y se cría varios años sobre lías en las bodegas de Chouilly antes del degüelle.</p><p>Es un rosado de color vivo, con aromas de fresa, frambuesa y grosella, y una boca fresca, afrutada y redonda. Es una opción habitual para celebraciones y aperitivos, y combina bien con platos ligeros.</p>",
+    "en": "<p>Réserve Exclusive Rosé is Nicolas Feuillatte’s non-vintage rosé champagne. Like most Champagne rosés, it is made by the blending method: a proportion of still red wine, made from black grapes from selected plots, is added to a base of <strong>Pinot Noir</strong>, Pinot Meunier and <strong>Chardonnay</strong> wines, bringing colour and red fruit aromas.</p><p>The grapes come from the vineyards of the growers belonging to the brand’s cooperatives, in different sectors of the region, and the proportions vary from blend to blend. The wine includes reserve wines and is aged for several years on its lees in the Chouilly cellars before disgorgement.</p><p>It is a brightly coloured rosé, with aromas of strawberry, raspberry and redcurrant, and a fresh, fruity, rounded palate. It is a popular choice for celebrations and aperitifs and goes well with light dishes.</p>",
+    "fr": "<p>Le Réserve Exclusive Rosé est le champagne rosé non millésimé de Nicolas Feuillatte. Comme la plupart des rosés de Champagne, il est élaboré par assemblage : à une base de vins de <strong>pinot noir</strong>, de pinot meunier et de <strong>chardonnay</strong>, on ajoute une proportion de vin rouge tranquille, élaboré avec des raisins noirs de parcelles sélectionnées, qui apporte la couleur et les arômes de fruits rouges.</p><p>Les raisins proviennent des vignes des vignerons adhérents des coopératives de la marque, dans différents secteurs de la région, et les proportions varient selon l’assemblage. Le vin comprend des vins de réserve et il est élevé plusieurs années sur lies dans les caves de Chouilly avant le dégorgement.</p><p>C’est un rosé à la couleur vive, aux arômes de fraise, de framboise et de groseille, à la bouche fraîche, fruitée et ronde. C’est un choix courant pour les fêtes et l’apéritif, et il s’accorde bien avec des plats légers.</p>",
+    "it": "<p>Il Réserve Exclusive Rosé è lo champagne rosé senza annata di Nicolas Feuillatte. Come la maggior parte dei rosé della Champagne, è prodotto con il metodo dell’assemblaggio: a una base di vini di <strong>Pinot Nero</strong>, Pinot Meunier e <strong>Chardonnay</strong> si aggiunge una quota di vino rosso fermo, prodotto con uve a bacca nera di parcelle selezionate, che apporta il colore e gli aromi di frutti rossi.</p><p>Le uve provengono dai vigneti dei viticoltori associati alle cooperative del marchio, in diverse zone della regione, e le proporzioni variano secondo l’assemblaggio. Il vino comprende vini di riserva e affina per diversi anni sui lieviti nelle cantine di Chouilly prima della sboccatura.</p><p>È un rosé dal colore vivace, con aromi di fragola, lampone e ribes, e una bocca fresca, fruttata e rotonda. È una scelta frequente per feste e aperitivi e si abbina bene a piatti leggeri.</p>"
+  },
+  "tasting": {
+    "es": "Rosa vivo con burbuja fina. Aromas de fresa, frambuesa y grosella roja. Boca fresca, afrutada y redonda, con final agradable.",
+    "en": "Bright pink with fine bubbles. Aromas of strawberry, raspberry and redcurrant. Fresh, fruity, round palate with a pleasant finish.",
+    "fr": "Rose vif à la bulle fine. Arômes de fraise, de framboise et de groseille. Bouche fraîche, fruitée et ronde, finale agréable.",
+    "it": "Rosa vivace dal perlage fine. Aromi di fragola, lampone e ribes rosso. Bocca fresca, fruttata e rotonda, dal finale piacevole."
+  },
+  "pairing": {
+    "es": "Salmón, atún en tataki, pato, cocina asiática, postres de frutos rojos poco dulces",
+    "en": "Salmon, tuna tataki, duck, Asian cuisine, not-too-sweet red fruit desserts",
+    "fr": "Saumon, tataki de thon, canard, cuisine asiatique, desserts aux fruits rouges peu sucrés",
+    "it": "Salmone, tataki di tonno, anatra, cucina asiatica, dolci ai frutti rossi poco zuccherati"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco o de tulipa",
+    "en": "8-10 °C, white wine or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da vino bianco o a tulipano"
+  },
+  "search": "Nicolas Feuillatte Réserve Exclusive Rosé Champagne"
+}

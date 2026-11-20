@@ -1,0 +1,40 @@
+{
+  "slug": "vigneti-massa-l-avvelenata",
+  "name": "Vigneti Massa L'Avvelenata",
+  "winery": null,
+  "winery_name": "Vigneti Massa",
+  "region": null,
+  "country": "italia",
+  "appellation": "Vino da Tavola",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Vigneti Massa L'Avvelenata es un vino tinto de Vigneti Massa, con la denominación Vino da Tavola, en Italia.",
+    "en": "Vigneti Massa L'Avvelenata is a red wine from Vigneti Massa, made under the Vino da Tavola appellation in Italy.",
+    "fr": "Vigneti Massa L'Avvelenata est un vin rouge de Vigneti Massa, élaboré sous l’appellation Vino da Tavola (Italie).",
+    "it": "Vigneti Massa L'Avvelenata è un vino rosso di Vigneti Massa, prodotto nella denominazione Vino da Tavola (Italia)."
+  },
+  "body": {
+    "es": "<p>Se cría en depósitos de acero inoxidable. Su graduación es de 14 % vol.</p>",
+    "en": "<p>It is aged in stainless steel tanks. It has 14% ABV.</p>",
+    "fr": "<p>Il est élevé en cuves inox. Il titre 14 % vol.</p>",
+    "it": "<p>Affina in acciaio inox. Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Vigneti Massa L'Avvelenata Vigneti Massa",
+  "brief": true,
+  "source": "decantalo"
+}

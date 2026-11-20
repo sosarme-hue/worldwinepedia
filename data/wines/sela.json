@@ -1,0 +1,45 @@
+{
+  "slug": "sela",
+  "name": "Sela",
+  "winery": "roda",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tempranillo",
+    "graciano",
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Tinto de Bodegas Roda pensado para beberse antes que sus reservas, elaborado con Tempranillo, Graciano y Garnacha de viñedos de la Rioja Alta.",
+    "en": "Red from Bodegas Roda designed to be drunk earlier than its Reservas, made from Tempranillo, Graciano and Garnacha from Rioja Alta vineyards.",
+    "fr": "Rouge de Bodegas Roda conçu pour être bu plus tôt que ses Reserva, élaboré avec du tempranillo, du graciano et du grenache de vignes de la Rioja Alta.",
+    "it": "Rosso di Bodegas Roda pensato per essere bevuto prima dei suoi Reserva, prodotto con Tempranillo, Graciano e Garnacha di vigneti della Rioja Alta."
+  },
+  "body": {
+    "es": "<p>Sela es el tinto de entrada a la gama de Bodegas Roda y se concibió como un vino que mostrara el estilo de la casa de forma más inmediata, para disfrutarse en sus primeros años. Procede de viñedos de la Rioja Alta, en el entorno de Haro, incluidas viñas más jóvenes que las que se destinan a Roda y Roda I.</p><p>Se elabora principalmente con Tempranillo, completado con Graciano y Garnacha en proporciones que cambian según la añada. La vinificación sigue los mismos criterios de selección y cuidado que el resto de los vinos de la bodega, y el vino se cría en barrica de roble francés durante un periodo más corto que el de los reservas, lo que preserva la expresión de la fruta.</p><p>El resultado es un rioja moderno, de cuerpo medio, jugoso y equilibrado, con la fruta roja y la frescura que caracterizan a Roda, accesible desde su salida al mercado y adecuado para una cocina variada.</p>",
+    "en": "<p>Sela is the entry-level red in the Bodegas Roda range and was conceived as a wine that would show the house style more immediately, to be enjoyed in its first years. It comes from vineyards in Rioja Alta, around Haro, including vines younger than those used for Roda and Roda I.</p><p>It is made mainly from Tempranillo, completed with Graciano and Garnacha in proportions that change with the vintage. Winemaking follows the same criteria of selection and care as the winery’s other wines, and the wine is aged in French oak barrels for a shorter period than the Reservas, which preserves the expression of the fruit.</p><p>The result is a modern, medium-bodied Rioja, juicy and balanced, with the red fruit and freshness that characterise Roda, approachable on release and suitable for a varied cuisine.</p>",
+    "fr": "<p>Sela est le rouge d’entrée de la gamme de Bodegas Roda et fut conçu comme un vin qui montre le style de la maison de façon plus immédiate, à apprécier dans ses premières années. Il provient de vignes de la Rioja Alta, autour de Haro, y compris de vignes plus jeunes que celles destinées à Roda et Roda I.</p><p>Il est élaboré principalement avec du tempranillo, complété par le graciano et le grenache dans des proportions qui changent selon le millésime. La vinification suit les mêmes critères de sélection et de soin que les autres vins de la bodega, et le vin est élevé en barrique de chêne français pendant une période plus courte que les Reserva, ce qui préserve l’expression du fruit.</p><p>Il en résulte un rioja moderne, de corps moyen, juteux et équilibré, avec le fruit rouge et la fraîcheur caractéristiques de Roda, accessible dès sa commercialisation et adapté à une cuisine variée.</p>",
+    "it": "<p>Sela è il rosso d’ingresso della gamma di Bodegas Roda ed è stato concepito come un vino che mostrasse lo stile della casa in modo più immediato, da gustare nei primi anni. Proviene da vigneti della Rioja Alta, nei dintorni di Haro, comprese vigne più giovani di quelle destinate a Roda e Roda I.</p><p>È prodotto principalmente con Tempranillo, completato da Graciano e Garnacha in proporzioni che cambiano secondo l’annata. La vinificazione segue gli stessi criteri di selezione e cura degli altri vini della cantina, e il vino affina in barrique di rovere francese per un periodo più breve rispetto ai Reserva, preservando l’espressione del frutto.</p><p>Il risultato è un Rioja moderno, di medio corpo, succoso ed equilibrato, con il frutto rosso e la freschezza che caratterizzano Roda, accessibile fin dall’uscita e adatto a una cucina varia.</p>"
+  },
+  "tasting": {
+    "es": "Rojo cereza brillante. Fruta roja fresca, notas florales y un ligero toque especiado. En boca es jugoso, fresco y de taninos suaves.",
+    "en": "Bright cherry red. Fresh red fruit, floral notes and a light spicy touch. Juicy, fresh and soft-tannined on the palate.",
+    "fr": "Rouge cerise brillant. Fruits rouges frais, notes florales et légère touche épicée. En bouche, il est juteux, frais et aux tanins souples.",
+    "it": "Rosso ciliegia brillante. Frutta rossa fresca, note floreali e un leggero tocco speziato. In bocca è succoso, fresco e dai tannini morbidi."
+  },
+  "pairing": {
+    "es": "Tapas, embutidos, carnes a la plancha, arroces de carne, pasta",
+    "en": "Tapas, charcuterie, grilled meat, meat rice dishes, pasta",
+    "fr": "Tapas, charcuterie, viandes à la plancha, riz à la viande, pâtes",
+    "it": "Tapas, salumi, carni alla piastra, risi con carne, pasta"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Sela Bodegas Roda Rioja"
+}

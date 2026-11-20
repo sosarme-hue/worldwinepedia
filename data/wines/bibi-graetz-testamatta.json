@@ -1,0 +1,48 @@
+{
+  "slug": "bibi-graetz-testamatta",
+  "name": "Bibi Graetz Testamatta",
+  "winery": "bibi-graetz",
+  "region": "toscana",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "IGT Toscana",
+    "en": "IGT Toscana",
+    "fr": "IGT Toscana",
+    "it": "IGT Toscana"
+  },
+  "grapes": [
+    "sangiovese"
+  ],
+  "summary": {
+    "es": "El vino emblemático de Bibi Graetz, un Sangiovese de viñas viejas de la Toscana, fresco, elegante y de buena guarda.",
+    "en": "Bibi Graetz’s signature wine, an old-vine Tuscan Sangiovese, fresh, elegant and age-worthy.",
+    "fr": "Le vin emblématique de Bibi Graetz, un sangiovese toscan de vieilles vignes, frais, élégant et de bonne garde.",
+    "it": "Il vino simbolo di Bibi Graetz, un Sangiovese toscano da vecchie vigne, fresco, elegante e longevo."
+  },
+  "body": {
+    "es": "<p>La <strong>Sangiovese</strong> es la variedad tinta más plantada de Italia y la base de los grandes tintos toscanos, del Chianti Classico al Brunello di Montalcino. Da vinos de acidez marcada, taninos firmes y aromas de cereza, violeta y hierbas, que ganan complejidad con la edad.</p><p><em>Testamatta</em>, que en italiano significa algo así como «cabeza loca», es el vino con el que Bibi Graetz se dio a conocer y el que da identidad a su proyecto. Se elabora con Sangiovese de viñas viejas de distintas parcelas de la Toscana, con la indicación IGT Toscana, que le da libertad respecto a las normas de las denominaciones. La vinificación busca extraer con suavidad y la crianza se orienta a preservar la fruta y la frescura.</p><p>Es un tinto de cuerpo medio, más centrado en la elegancia que en la potencia, con cereza, frutos rojos, notas florales y especiadas y taninos finos. Puede disfrutarse joven tras airearlo, pero mejora con varios años de guarda.</p>",
+    "en": "<p><strong>Sangiovese</strong> is Italy’s most widely planted red variety and the basis of the great Tuscan reds, from Chianti Classico to Brunello di Montalcino. It gives wines with marked acidity, firm tannins and aromas of cherry, violet and herbs, which gain complexity with age.</p><p><em>Testamatta</em>, which in Italian means something like “crazy head”, is the wine with which Bibi Graetz made his name and which gives his project its identity. It is made from old-vine Sangiovese from various plots across Tuscany, under the IGT Toscana indication, which frees it from the rules of the appellations. Winemaking aims for gentle extraction, and ageing is geared towards preserving fruit and freshness.</p><p>It is a medium-bodied red, focused more on elegance than power, with cherry, red berries, floral and spicy notes and fine tannins. It can be enjoyed young after aeration but improves with several years of ageing.</p>",
+    "fr": "<p>Le <strong>sangiovese</strong> est le cépage rouge le plus planté d’Italie et la base des grands rouges toscans, du Chianti Classico au Brunello di Montalcino. Il donne des vins à l’acidité marquée, aux tanins fermes et aux arômes de cerise, de violette et d’herbes, qui gagnent en complexité avec l’âge.</p><p><em>Testamatta</em>, qui signifie en italien quelque chose comme « tête folle », est le vin qui a fait connaître Bibi Graetz et qui donne son identité à son projet. Il est élaboré à partir de sangiovese de vieilles vignes provenant de diverses parcelles de Toscane, sous l’indication IGT Toscana, qui l’affranchit des règles des appellations. La vinification recherche une extraction douce et l’élevage vise à préserver le fruit et la fraîcheur.</p><p>C’est un rouge de corps moyen, davantage axé sur l’élégance que sur la puissance, à la cerise, aux fruits rouges, aux notes florales et épicées et aux tanins fins. Il peut s’apprécier jeune après aération, mais progresse avec plusieurs années de garde.</p>",
+    "it": "<p>Il <strong>Sangiovese</strong> è il vitigno a bacca rossa più coltivato d’Italia e la base dei grandi rossi toscani, dal Chianti Classico al Brunello di Montalcino. Dà vini di acidità marcata, tannini decisi e profumi di ciliegia, violetta ed erbe, che acquistano complessità con l’età.</p><p><em>Testamatta</em> è il vino con cui Bibi Graetz si è fatto conoscere e che dà identità al suo progetto; il nome stesso richiama lo spirito anticonformista del produttore. Si ottiene da Sangiovese di vecchie vigne provenienti da diverse parcelle della Toscana, con l’indicazione IGT Toscana, che lo svincola dalle regole delle denominazioni. La vinificazione cerca un’estrazione delicata e l’affinamento è orientato a preservare frutto e freschezza.</p><p>È un rosso di medio corpo, incentrato più sull’eleganza che sulla potenza, con ciliegia, frutti rossi, note floreali e speziate e tannini fini. Si può gustare giovane dopo un’ossigenazione, ma migliora con diversi anni di affinamento.</p>"
+  },
+  "tasting": {
+    "es": "Rubí brillante. Aromas de cereza, frambuesa, violeta, hierbas y especias. Boca fresca y elegante, de taninos finos y final largo.",
+    "en": "Bright ruby. Aromas of cherry, raspberry, violet, herbs and spice. Fresh, elegant palate with fine tannins and a long finish.",
+    "fr": "Rubis brillant. Arômes de cerise, de framboise, de violette, d’herbes et d’épices. Bouche fraîche et élégante, aux tanins fins et à la finale longue.",
+    "it": "Rubino brillante. Aromi di ciliegia, lampone, violetta, erbe e spezie. Bocca fresca ed elegante, dai tannini fini e finale lungo."
+  },
+  "pairing": {
+    "es": "Bistecca a la florentina, pappardelle con jabalí, aves de caza, pecorino",
+    "en": "Bistecca alla fiorentina, pappardelle with wild boar, game birds, pecorino",
+    "fr": "Bistecca alla fiorentina, pappardelle au sanglier, gibier à plume, pecorino",
+    "it": "Bistecca alla fiorentina, pappardelle al cinghiale, selvaggina da piuma, pecorino"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, grand verre",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Testamatta Bibi Graetz"
+}

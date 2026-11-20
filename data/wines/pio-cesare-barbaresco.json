@@ -1,0 +1,41 @@
+{
+  "slug": "pio-cesare-barbaresco",
+  "name": "Pio Cesare Barbaresco",
+  "winery": "pio-cesare",
+  "region": "barbaresco",
+  "country": "italia",
+  "type": "tinto",
+  "category": {"es": "Barbaresco DOCG", "en": "Barbaresco DOCG", "fr": "Barbaresco DOCG", "it": "Barbaresco DOCG"},
+  "grapes": ["nebbiolo"],
+  "summary": {
+    "es": "El Barbaresco de Pio Cesare, un Nebbiolo de la zona de Barbaresco elaborado con el estilo clásico de la casa de Alba.",
+    "en": "Pio Cesare’s Barbaresco, a Nebbiolo from the Barbaresco area made in the classic style of the Alba house.",
+    "fr": "Le Barbaresco de Pio Cesare, un nebbiolo de la zone de Barbaresco élaboré dans le style classique de la maison d’Alba.",
+    "it": "Il Barbaresco di Pio Cesare, un Nebbiolo della zona di Barbaresco prodotto nello stile classico della casa albese."
+  },
+  "body": {
+    "es": "<p>Junto a su Barolo, Pio Cesare elabora desde hace generaciones un Barbaresco con Nebbiolo de la zona de Barbaresco, al noreste de Alba. La familia posee allí viñedos propios, que completa con uvas de viticultores de la zona.</p><p>Barbaresco es una denominación más pequeña que la de Barolo y sus vinos suelen describirse como algo más finos y accesibles a una edad más temprana, aunque comparten la misma variedad y una gran capacidad de guarda. La normativa exige una crianza mínima algo más corta que la del Barolo.</p><p>Tras la fermentación, el vino se cría en toneles de roble y después en botella. El resultado es un Nebbiolo aromático y elegante, de tanino firme pero pulido, que gana complejidad con los años.</p>",
+    "en": "<p>Alongside its Barolo, Pio Cesare has for generations made a Barbaresco from Nebbiolo grown in the Barbaresco area, north-east of Alba. The family owns vineyards there, which it supplements with grapes from local growers.</p><p>Barbaresco is a smaller appellation than Barolo, and its wines are often described as somewhat finer and approachable at a younger age, although they share the same variety and a great capacity for ageing. The regulations require a slightly shorter minimum ageing period than for Barolo.</p><p>After fermentation the wine is aged in oak casks and then in bottle. The result is an aromatic, elegant Nebbiolo with firm yet polished tannins that gains complexity over the years.</p>",
+    "fr": "<p>Aux côtés de son Barolo, Pio Cesare élabore depuis des générations un Barbaresco avec du nebbiolo de la zone de Barbaresco, au nord-est d’Alba. La famille y possède ses propres vignes, qu’elle complète par des raisins de viticulteurs locaux.</p><p>Le Barbaresco est une appellation plus petite que le Barolo et ses vins sont souvent décrits comme un peu plus fins et accessibles plus jeunes, bien qu’ils partagent le même cépage et une grande aptitude à la garde. Le règlement impose un élevage minimum un peu plus court que celui du Barolo.</p><p>Après la fermentation, le vin est élevé en fûts de chêne puis en bouteille. Il en résulte un nebbiolo aromatique et élégant, aux tanins fermes mais polis, qui gagne en complexité avec les années.</p>",
+    "it": "<p>Accanto al suo Barolo, Pio Cesare produce da generazioni un Barbaresco con Nebbiolo della zona di Barbaresco, a nord-est di Alba. La famiglia vi possiede vigneti propri, integrati con uve di viticoltori della zona.</p><p>Il Barbaresco è una denominazione più piccola del Barolo e i suoi vini sono spesso descritti come un po’ più fini e accessibili già da giovani, pur condividendo lo stesso vitigno e una grande attitudine all’invecchiamento. Il disciplinare prevede un affinamento minimo leggermente più breve di quello del Barolo.</p><p>Dopo la fermentazione il vino affina in botti di rovere e poi in bottiglia. Il risultato è un Nebbiolo aromatico ed elegante, dal tannino deciso ma levigato, che acquista complessità con gli anni.</p>"
+  },
+  "tasting": {
+    "es": "Granate de capa media. Aromas de frutos rojos, rosa, violeta y especias dulces, con un fondo de regaliz. En boca es elegante y firme, con buena acidez y final persistente.",
+    "en": "Medium-depth garnet. Aromas of red berries, rose, violet and sweet spice, with a liquorice background. Elegant and firm on the palate, with good acidity and a persistent finish.",
+    "fr": "Grenat de profondeur moyenne. Arômes de fruits rouges, de rose, de violette et d’épices douces, sur un fond de réglisse. En bouche, il est élégant et ferme, avec une bonne acidité et une finale persistante.",
+    "it": "Granato di media intensità. Profumi di frutti rossi, rosa, violetta e spezie dolci, con un fondo di liquirizia. In bocca è elegante e deciso, con buona acidità e finale persistente."
+  },
+  "pairing": {
+    "es": "Risotto con trufa, carnes rojas asadas, caza de pluma, quesos curados",
+    "en": "Truffle risotto, roast red meat, game birds, aged cheeses",
+    "fr": "Risotto à la truffe, viandes rouges rôties, gibier à plumes, fromages affinés",
+    "it": "Risotto al tartufo, carni rosse arrosto, selvaggina da piuma, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia de tipo borgoña",
+    "en": "16-18 °C, large Burgundy-style glass",
+    "fr": "16-18 °C, grand verre de type bourguignon",
+    "it": "16-18 °C, ampio calice tipo borgogna"
+  },
+  "search": "Pio Cesare Barbaresco"
+}

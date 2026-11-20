@@ -1,0 +1,49 @@
+{
+  "slug": "chateau-suduiraut",
+  "name": "Château Suduiraut",
+  "winery": "chateau-suduiraut",
+  "region": "sauternes",
+  "country": "francia",
+  "type": "dulce",
+  "category": {
+    "es": "Premier Cru Classé 1855",
+    "en": "Premier Cru Classé 1855",
+    "fr": "Premier Cru Classé 1855",
+    "it": "Premier Cru Classé 1855"
+  },
+  "grapes": [
+    "semillon",
+    "sauvignon-blanc"
+  ],
+  "summary": {
+    "es": "Gran vino de Château Suduiraut, premier cru classé de Sauternes, un vino dulce de podredumbre noble a base de Sémillon de gran longevidad.",
+    "en": "Grand vin of Château Suduiraut, a Sauternes first growth: a nobly sweet wine based on Sémillon with great longevity.",
+    "fr": "Grand vin de Château Suduiraut, premier cru classé de Sauternes : un liquoreux de pourriture noble à base de sémillon, de grande longévité.",
+    "it": "Grand vin di Château Suduiraut, premier cru classé di Sauternes: un vino dolce da muffa nobile a base di Sémillon, di grande longevità."
+  },
+  "body": {
+    "es": "<p>El gran vino de <strong>Château Suduiraut</strong> procede del viñedo que la propiedad tiene en Preignac, junto a Château d’Yquem, y está clasificado como premier cru classé desde 1855. Se elabora sobre todo con <strong>Sémillon</strong>, que aporta cuerpo y untuosidad, completada con una pequeña proporción de Sauvignon Blanc, que añade frescura y aromas.</p><p>La clave es la <em>Botrytis cinerea</em>, la podredumbre noble que se desarrolla gracias a las nieblas de otoño y que concentra el azúcar y la acidez de las uvas. La vendimia se hace a mano en varias pasadas por el viñedo, recogiendo sólo los granos en el punto adecuado. El vino fermenta y se cría en barricas de roble durante un periodo prolongado.</p><p>Es un Sauternes de estilo opulento, de gran riqueza aromática y dulzor equilibrado por la acidez, que puede beberse joven por su fruta pero que evoluciona durante décadas en botella, ganando notas de miel, especias y fruta confitada.</p>",
+    "en": "<p>The grand vin of <strong>Château Suduiraut</strong> comes from the estate’s vineyard in Preignac, next to Château d’Yquem, and has been classified as a premier cru classé since 1855. It is made mainly from <strong>Sémillon</strong>, which brings body and richness, completed by a small proportion of Sauvignon Blanc, which adds freshness and aroma.</p><p>The key is <em>Botrytis cinerea</em>, the noble rot that develops thanks to autumn mists and concentrates the sugar and acidity of the grapes. Harvesting is done by hand in several passes through the vineyard, picking only the berries at the right point. The wine is fermented and aged in oak barrels for an extended period.</p><p>It is a Sauternes in an opulent style, with great aromatic richness and sweetness balanced by acidity, which can be drunk young for its fruit but develops for decades in bottle, gaining notes of honey, spice and candied fruit.</p>",
+    "fr": "<p>Le grand vin de <strong>Château Suduiraut</strong> provient du vignoble de la propriété à Preignac, voisin de Château d’Yquem, classé premier cru classé depuis 1855. Il est élaboré surtout avec du <strong>sémillon</strong>, qui apporte corps et onctuosité, complété par une petite proportion de sauvignon blanc, qui ajoute fraîcheur et arômes.</p><p>La clé en est le <em>Botrytis cinerea</em>, la pourriture noble qui se développe grâce aux brumes d’automne et concentre le sucre et l’acidité des raisins. La vendange se fait à la main en plusieurs tries dans le vignoble, en ne cueillant que les grains arrivés au bon stade. Le vin fermente et s’élève en barriques de chêne pendant une période prolongée.</p><p>C’est un Sauternes de style opulent, d’une grande richesse aromatique et à la douceur équilibrée par l’acidité, qui peut se boire jeune pour son fruit mais évolue pendant des décennies en bouteille, gagnant des notes de miel, d’épices et de fruits confits.</p>",
+    "it": "<p>Il grand vin di <strong>Château Suduiraut</strong> proviene dal vigneto della tenuta a Preignac, accanto a Château d’Yquem, ed è classificato premier cru classé dal 1855. È prodotto soprattutto con <strong>Sémillon</strong>, che apporta corpo e untuosità, completato da una piccola quota di Sauvignon Blanc, che aggiunge freschezza e aromi.</p><p>La chiave è la <em>Botrytis cinerea</em>, la muffa nobile che si sviluppa grazie alle nebbie autunnali e concentra zuccheri e acidità delle uve. La vendemmia si svolge a mano in più passaggi nel vigneto, raccogliendo solo gli acini al punto giusto. Il vino fermenta e matura in barrique di rovere per un periodo prolungato.</p><p>È un Sauternes di stile opulento, di grande ricchezza aromatica e con una dolcezza bilanciata dall’acidità, che si può bere giovane per il frutto ma evolve per decenni in bottiglia, acquisendo note di miele, spezie e frutta candita.</p>"
+  },
+  "tasting": {
+    "es": "Albaricoque, piña, cítricos confitados, miel, azafrán y notas de vainilla. Boca untuosa y rica, sostenida por una acidez fresca y con final muy largo.",
+    "en": "Apricot, pineapple, candied citrus, honey, saffron and vanilla notes. Unctuous, rich palate supported by fresh acidity, with a very long finish.",
+    "fr": "Abricot, ananas, agrumes confits, miel, safran et notes vanillées. Bouche onctueuse et riche, soutenue par une acidité fraîche, finale très longue.",
+    "it": "Albicocca, ananas, agrumi canditi, miele, zafferano e note di vaniglia. Bocca untuosa e ricca, sostenuta da un’acidità fresca, con finale molto lungo."
+  },
+  "pairing": {
+    "es": "Foie gras, quesos azules como el Roquefort, pato a la naranja, postres de fruta",
+    "en": "Foie gras, blue cheeses such as Roquefort, duck with orange, fruit desserts",
+    "fr": "Foie gras, fromages persillés comme le roquefort, canard à l’orange, desserts aux fruits",
+    "it": "Foie gras, formaggi erborinati come il Roquefort, anatra all’arancia, dessert alla frutta"
+  },
+  "serve": {
+    "es": "8-10 °C, copa pequeña de vino blanco",
+    "en": "8-10 °C, small white wine glass",
+    "fr": "8-10 °C, petit verre à vin blanc",
+    "it": "8-10 °C, piccolo calice da vino bianco"
+  },
+  "search": "Château Suduiraut Sauternes"
+}

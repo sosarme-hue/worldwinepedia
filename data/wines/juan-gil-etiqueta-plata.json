@@ -1,0 +1,41 @@
+{
+  "slug": "juan-gil-etiqueta-plata",
+  "name": "Juan Gil Etiqueta Plata",
+  "winery": "juan-gil",
+  "region": "jumilla",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": ["monastrell"],
+  "summary": {
+    "es": "Monastrell con crianza en barrica de Bodegas Juan Gil, el vino más conocido de la casa y una referencia de la D.O. Jumilla.",
+    "en": "Barrel-aged Monastrell from Bodegas Juan Gil, the house's best-known wine and a benchmark for the Jumilla D.O.",
+    "fr": "Monastrell élevé en barrique de Bodegas Juan Gil, le vin le plus connu de la maison et une référence de la D.O. Jumilla.",
+    "it": "Monastrell affinato in barrique di Bodegas Juan Gil, il vino più noto della casa e un riferimento della D.O. Jumilla."
+  },
+  "body": {
+    "es": "<p>Juan Gil Etiqueta Plata —conocido en los mercados internacionales como <em>Silver Label</em>— es el tinto más difundido de Bodegas Juan Gil. Es un monovarietal de <strong>monastrell</strong>, la uva tradicional de Jumilla, procedente de viñedos viejos en vaso sobre suelos calizos y pedregosos del altiplano.</p><p>La monastrell, de maduración tardía, soporta bien el calor y la sequía de la zona y da vinos de color intenso, fruta negra madura y tanino abundante. En este vino, la uva se vinifica para obtener concentración y después se cría durante alrededor de un año en barricas de roble, que redondean el tanino y añaden notas especiadas y tostadas. Es un tinto potente y generoso, que ha contribuido a la imagen moderna de Jumilla en el exterior.</p>",
+    "en": "<p>Juan Gil Etiqueta Plata —known on international markets as <em>Silver Label</em>— is Bodegas Juan Gil's most widely distributed red. It is a single-variety <strong>Monastrell</strong>, Jumilla's traditional grape, from old bush vines on the limestone, stony soils of the high plateau.</p><p>Late-ripening Monastrell copes well with the area's heat and drought and gives deeply coloured wines with ripe black fruit and plenty of tannin. In this wine the grapes are vinified for concentration and then aged for around a year in oak barrels, which round out the tannins and add spicy, toasty notes. It is a powerful, generous red that has helped shape Jumilla's modern image abroad.</p>",
+    "fr": "<p>Juan Gil Etiqueta Plata —connu sur les marchés internationaux sous le nom de <em>Silver Label</em>— est le rouge le plus diffusé de Bodegas Juan Gil. C'est un monocépage de <strong>monastrell</strong> (mourvèdre), le cépage traditionnel de Jumilla, issu de vieilles vignes en gobelet sur les sols calcaires et caillouteux du haut plateau.</p><p>Le monastrell, à maturation tardive, supporte bien la chaleur et la sécheresse de la région et donne des vins à la couleur intense, au fruit noir mûr et aux tanins abondants. Ici, le raisin est vinifié pour obtenir de la concentration, puis le vin est élevé environ un an en barriques de chêne, qui arrondissent les tanins et ajoutent des notes épicées et grillées. C'est un rouge puissant et généreux, qui a contribué à l'image moderne de Jumilla à l'étranger.</p>",
+    "it": "<p>Juan Gil Etiqueta Plata —noto sui mercati internazionali come <em>Silver Label</em>— è il rosso più diffuso di Bodegas Juan Gil. È un monovarietale di <strong>Monastrell</strong>, l'uva tradizionale di Jumilla, da vecchie viti ad alberello su suoli calcarei e sassosi dell'altopiano.</p><p>Il Monastrell, a maturazione tardiva, sopporta bene il caldo e la siccità della zona e dà vini di colore intenso, frutta nera matura e tannino abbondante. In questo vino l'uva è vinificata per ottenere concentrazione e poi affina per circa un anno in barrique di rovere, che arrotondano il tannino e aggiungono note speziate e tostate. È un rosso potente e generoso, che ha contribuito all'immagine moderna di Jumilla all'estero.</p>"
+  },
+  "tasting": {
+    "es": "Mora, ciruela negra madura, regaliz, especias y tostados de barrica. Boca carnosa, con cuerpo, tanino maduro y final cálido.",
+    "en": "Blackberry, ripe black plum, liquorice, spice and toasty oak. Fleshy, full-bodied palate with ripe tannins and a warm finish.",
+    "fr": "Mûre, prune noire mûre, réglisse, épices et boisé grillé. Bouche charnue et ample, aux tanins mûrs et à la finale chaleureuse.",
+    "it": "Mora, prugna nera matura, liquirizia, spezie e tostature del legno. Bocca carnosa e di corpo, con tannino maturo e finale caldo."
+  },
+  "pairing": {
+    "es": "Carnes a la brasa, cordero segureño, guisos, arroz con conejo, quesos curados",
+    "en": "Chargrilled meats, lamb, stews, rice with rabbit, aged cheeses",
+    "fr": "Viandes à la braise, agneau, ragoûts, riz au lapin, fromages affinés",
+    "it": "Carni alla brace, agnello, stufati, riso con coniglio, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, grand verre",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Juan Gil Etiqueta Plata Monastrell 12 meses"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "la-nina-de-mis-ojos",
+  "name": "La Niña de Mis Ojos",
+  "winery": null,
+  "winery_name": "Altanza",
+  "region": null,
+  "country": "espana",
+  "appellation": null,
+  "type": "dulce",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "La Niña de Mis Ojos es un vino dulce de Altanza, en España.",
+    "en": "La Niña de Mis Ojos is a sweet wine from Altanza in Spain.",
+    "fr": "La Niña de Mis Ojos est un vin doux de Altanza (Espagne).",
+    "it": "La Niña de Mis Ojos è un vino dolce di Altanza (Spagna)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 12 % vol.</p>",
+    "en": "<p>It has 12% ABV.</p>",
+    "fr": "<p>Il titre 12 % vol.</p>",
+    "it": "<p>Ha 12% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Postres, foie gras, quesos azules",
+    "en": "Desserts, foie gras, blue cheeses",
+    "fr": "Desserts, foie gras, fromages à pâte persillée",
+    "it": "Dolci, foie gras, formaggi erborinati"
+  },
+  "serve": {
+    "es": "8-12 °C, copa pequeña",
+    "en": "8-12 °C, small glass",
+    "fr": "8-12 °C, petit verre",
+    "it": "8-12 °C, calice piccolo"
+  },
+  "search": "La Niña de Mis Ojos Altanza",
+  "brief": true,
+  "source": "decantalo"
+}

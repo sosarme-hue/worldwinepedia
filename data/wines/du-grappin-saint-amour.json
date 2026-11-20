@@ -1,0 +1,40 @@
+{
+  "slug": "du-grappin-saint-amour",
+  "name": "Du Grappin Saint-Amour",
+  "winery": null,
+  "winery_name": "Le Grappin",
+  "region": "beaujolais",
+  "country": "francia",
+  "appellation": "AOC Beaujolais",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Du Grappin Saint-Amour es un vino tinto de Le Grappin, con la denominación AOC Beaujolais, en Francia.",
+    "en": "Du Grappin Saint-Amour is a red wine from Le Grappin, made under the AOC Beaujolais appellation in France.",
+    "fr": "Du Grappin Saint-Amour est un vin rouge de Le Grappin, élaboré sous l’appellation AOC Beaujolais (France).",
+    "it": "Du Grappin Saint-Amour è un vino rosso di Le Grappin, prodotto nella denominazione AOC Beaujolais (Francia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13 % vol.</p><p>El Beaujolais, entre el Mâconnais y Lyon, es la tierra de la Gamay. Sus vinos van desde el Beaujolais Nouveau, que sale al mercado pocas semanas después de la vendimia, hasta los diez crus del norte, sobre suelos graníticos.</p>",
+    "en": "<p>It is aged in wood. It has 13% ABV.</p><p>Beaujolais, between the Mâconnais and Lyon, is the home of Gamay. Its wines range from Beaujolais Nouveau, released just weeks after the harvest, to the ten crus of the north, grown on granite soils.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13 % vol.</p><p>Le Beaujolais, entre le Mâconnais et Lyon, est le pays du gamay. Ses vins vont du beaujolais nouveau, commercialisé quelques semaines après les vendanges, aux dix crus du nord, sur sols granitiques.</p>",
+    "it": "<p>È affinato in legno. Ha 13% vol.</p><p>Il Beaujolais, tra il Mâconnais e Lione, è la terra del Gamay. I suoi vini vanno dal Beaujolais Nouveau, messo in commercio poche settimane dopo la vendemmia, ai dieci crus del nord, su suoli granitici.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Du Grappin Saint-Amour Le Grappin",
+  "brief": true,
+  "source": "decantalo"
+}

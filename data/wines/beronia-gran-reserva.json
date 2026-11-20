@@ -1,0 +1,50 @@
+{
+  "slug": "beronia-gran-reserva",
+  "name": "Beronia Gran Reserva",
+  "winery": "beronia",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Gran Reserva",
+    "en": "Gran Reserva",
+    "fr": "Gran Reserva",
+    "it": "Gran Reserva"
+  },
+  "grapes": [
+    "tempranillo",
+    "graciano",
+    "carinena"
+  ],
+  "summary": {
+    "es": "Gran Reserva de Bodegas Beronia, elaborado solo en añadas seleccionadas y envejecido al menos cinco años, dos de ellos como mínimo en barrica.",
+    "en": "Gran Reserva from Bodegas Beronia, made only in selected vintages and aged for at least five years, at least two of them in barrel.",
+    "fr": "Gran Reserva de Bodegas Beronia, élaboré seulement les millésimes sélectionnés et vieilli au moins cinq ans, dont deux au minimum en barrique.",
+    "it": "Gran Reserva di Bodegas Beronia, prodotto solo nelle annate selezionate e invecchiato almeno cinque anni, di cui almeno due in barrique."
+  },
+  "body": {
+    "es": "<p>El Gran Reserva es el vino de crianza más larga de la gama clásica de Beronia y solo se elabora en las cosechas que la bodega considera adecuadas para un envejecimiento prolongado. Procede de viñedos de la Rioja Alta, con el Tempranillo como variedad principal y pequeñas aportaciones de Graciano y Mazuelo (Cariñena), cuyas proporciones dependen de la añada.</p><p>Según la normativa de la Denominación de Origen Calificada Rioja, un Gran Reserva debe envejecer al menos cinco años, con un mínimo de dos en barrica de roble y el resto en botella. Durante ese largo periodo, los aromas de fruta evolucionan hacia notas de cuero, tabaco, especias y frutos secos, y los taninos se suavizan.</p><p>El resultado es un tinto elegante y de perfil tradicional, que muestra el estilo de larga crianza que ha dado fama a la Rioja Alta y que puede seguir evolucionando en botella.</p>",
+    "en": "<p>The Gran Reserva is the longest-aged wine in Beronia’s classic range and is made only in harvests the winery considers suitable for extended ageing. It comes from vineyards in Rioja Alta, with Tempranillo as the main variety and small contributions of Graciano and Mazuelo (Carignan), whose proportions depend on the vintage.</p><p>Under the rules of the Rioja Denominación de Origen Calificada, a Gran Reserva must age for at least five years, with a minimum of two in oak barrels and the rest in bottle. Over that long period the fruit aromas evolve towards notes of leather, tobacco, spice and nuts, and the tannins soften.</p><p>The result is an elegant red of traditional profile, showing the long-aged style that has made Rioja Alta famous and able to continue developing in bottle.</p>",
+    "fr": "<p>Le Gran Reserva est le vin au plus long élevage de la gamme classique de Beronia ; il n’est élaboré que les récoltes jugées propices à un vieillissement prolongé. Il provient de vignes de la Rioja Alta, avec le tempranillo comme cépage principal et de petits apports de graciano et de mazuelo (carignan), dont les proportions dépendent du millésime.</p><p>Selon la réglementation de la Denominación de Origen Calificada Rioja, un Gran Reserva doit vieillir au moins cinq ans, dont deux au minimum en barrique de chêne et le reste en bouteille. Pendant cette longue période, les arômes de fruit évoluent vers des notes de cuir, de tabac, d’épices et de fruits secs, et les tanins s’assouplissent.</p><p>Il en résulte un rouge élégant au profil traditionnel, qui illustre le style de long élevage qui a fait la réputation de la Rioja Alta et qui peut continuer à évoluer en bouteille.</p>",
+    "it": "<p>Il Gran Reserva è il vino dall’affinamento più lungo della gamma classica di Beronia e si produce solo nelle vendemmie che la cantina ritiene adatte a un invecchiamento prolungato. Proviene da vigneti della Rioja Alta, con il Tempranillo come varietà principale e piccoli apporti di Graciano e Mazuelo (Carignano), le cui proporzioni dipendono dall’annata.</p><p>Secondo la normativa della Denominación de Origen Calificada Rioja, un Gran Reserva deve invecchiare almeno cinque anni, di cui almeno due in barrique di rovere e il resto in bottiglia. In questo lungo periodo gli aromi di frutta evolvono verso note di cuoio, tabacco, spezie e frutta secca, e i tannini si ammorbidiscono.</p><p>Il risultato è un rosso elegante dal profilo tradizionale, che mostra lo stile di lungo affinamento che ha reso celebre la Rioja Alta e che può continuare a evolvere in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Granate con ribete anaranjado. Aromas de fruta confitada, cuero, tabaco y especias. En boca es sedoso y elegante, con un final largo.",
+    "en": "Garnet with an orange rim. Aromas of preserved fruit, leather, tobacco and spice. Silky and elegant on the palate, with a long finish.",
+    "fr": "Grenat à reflets orangés. Arômes de fruits confits, cuir, tabac et épices. Soyeux et élégant en bouche, avec une longue finale.",
+    "it": "Granato con unghia aranciata. Aromi di frutta candita, cuoio, tabacco e spezie. In bocca è setoso ed elegante, con un finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes guisadas, caza, quesos curados",
+    "en": "Roast lamb, braised meats, game, aged cheeses",
+    "fr": "Agneau rôti, viandes braisées, gibier, fromages affinés",
+    "it": "Agnello arrosto, carni brasate, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Beronia Gran Reserva Rioja"
+}

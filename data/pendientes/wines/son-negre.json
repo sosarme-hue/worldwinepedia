@@ -1,0 +1,40 @@
+{
+  "slug": "son-negre",
+  "name": "Son Negre",
+  "winery": null,
+  "winery_name": "AN Negra",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Mallorca",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Son Negre es un vino tinto de AN Negra, con la denominación VT Mallorca, en España.",
+    "en": "Son Negre is a red wine from AN Negra, made under the VT Mallorca appellation in Spain.",
+    "fr": "Son Negre est un vin rouge de AN Negra, élaboré sous l’appellation VT Mallorca (Espagne).",
+    "it": "Son Negre è un vino rosso di AN Negra, prodotto nella denominazione VT Mallorca (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13,6 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 13.6% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13,6 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 13,6% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Son Negre AN Negra",
+  "brief": true,
+  "source": "decantalo"
+}

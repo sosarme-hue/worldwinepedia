@@ -1,0 +1,50 @@
+{
+  "slug": "perrier-jouet-belle-epoque",
+  "name": "Perrier-Jouët Belle Époque",
+  "winery": "perrier-jouet",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut de añada, cuvée de prestigio",
+    "en": "Vintage brut, prestige cuvée",
+    "fr": "Brut millésimé, cuvée de prestige",
+    "it": "Brut millesimato, cuvée di prestigio"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir",
+    "pinot-meunier"
+  ],
+  "summary": {
+    "es": "La cuvée de prestigio de Perrier-Jouët, un champagne de añada de estilo floral y elegante, presentado en la célebre botella de anémonas.",
+    "en": "Perrier-Jouët’s prestige cuvée, a floral, elegant vintage champagne presented in the famous anemone bottle.",
+    "fr": "La cuvée de prestige de Perrier-Jouët, un champagne millésimé au style floral et élégant, présenté dans la célèbre bouteille aux anémones.",
+    "it": "La cuvée di prestigio di Perrier-Jouët, uno champagne millesimato dallo stile floreale ed elegante, presentato nella celebre bottiglia con gli anemoni."
+  },
+  "body": {
+    "es": "<p>Belle Époque es la cuvée de prestigio de <strong>Perrier-Jouët</strong>, la casa de Épernay fundada en 1811. Se presenta en la botella decorada con anémonas que el artista Émile Gallé, figura del Art Nouveau, diseñó para la casa a comienzos del siglo XX, y que se utiliza para esta cuvée desde los años sesenta.</p><p>Se elabora solo en añadas seleccionadas, a partir de un ensamblaje en el que el <strong>Chardonnay</strong>, en buena parte de grands crus de la Côte des Blancs como Cramant y Avize, desempeña un papel destacado, junto al <strong>Pinot Noir</strong> y una pequeña proporción de <strong>Pinot Meunier</strong>. Las proporciones varían según la añada.</p><p>Tras una larga crianza sobre lías en las bodegas de la casa, el vino muestra la combinación de frescura y complejidad característica de los champagnes de añada. El resultado es un champagne de gran finura, con aromas florales, de fruta blanca y de bollería, burbuja muy fina y un final largo; puede seguir evolucionando en botella durante años.</p>",
+    "en": "<p>Belle Époque is the prestige cuvée of <strong>Perrier-Jouët</strong>, the Épernay house founded in 1811. It is presented in the anemone-decorated bottle that the artist Émile Gallé, a leading figure of Art Nouveau, designed for the house in the early 20th century, and which has been used for this cuvée since the 1960s.</p><p>It is made only in selected vintages, from a blend in which <strong>Chardonnay</strong>, largely from Côte des Blancs grands crus such as Cramant and Avize, plays a prominent role, alongside <strong>Pinot Noir</strong> and a small proportion of <strong>Pinot Meunier</strong>. The proportions vary with the vintage.</p><p>After long ageing on the lees in the house’s cellars, the wine shows the combination of freshness and complexity typical of vintage champagne. The result is a champagne of great finesse, with floral, white-fruit and pastry aromas, very fine bubbles and a long finish; it can continue to develop in bottle for years.</p>",
+    "fr": "<p>Belle Époque est la cuvée de prestige de <strong>Perrier-Jouët</strong>, la maison d’Épernay fondée en 1811. Elle est présentée dans la bouteille ornée d’anémones que l’artiste Émile Gallé, figure de l’Art nouveau, dessina pour la maison au début du XXe siècle, et qui habille cette cuvée depuis les années 1960.</p><p>Elle n’est élaborée que dans des millésimes choisis, à partir d’un assemblage où le <strong>chardonnay</strong>, issu en bonne partie de grands crus de la Côte des Blancs comme Cramant et Avize, joue un rôle de premier plan, aux côtés du <strong>pinot noir</strong> et d’une petite proportion de <strong>pinot meunier</strong>. Les proportions varient selon le millésime.</p><p>Après un long vieillissement sur lies dans les caves de la maison, le vin montre l’alliance de fraîcheur et de complexité propre aux champagnes millésimés. Il en résulte un champagne d’une grande finesse, aux arômes floraux, de fruits blancs et de viennoiserie, à la bulle très fine et à la longue finale ; il peut continuer d’évoluer en bouteille pendant des années.</p>",
+    "it": "<p>Belle Époque è la cuvée di prestigio di <strong>Perrier-Jouët</strong>, la maison di Épernay fondata nel 1811. È presentata nella bottiglia decorata con anemoni che l’artista Émile Gallé, figura dell’Art Nouveau, disegnò per la maison all’inizio del Novecento, e che veste questa cuvée dagli anni Sessanta.</p><p>È prodotta solo in annate selezionate, da un assemblaggio in cui lo <strong>Chardonnay</strong>, in buona parte da grand cru della Côte des Blancs come Cramant e Avize, svolge un ruolo di primo piano, accanto al <strong>Pinot Noir</strong> e a una piccola quota di <strong>Pinot Meunier</strong>. Le proporzioni variano secondo l’annata.</p><p>Dopo un lungo affinamento sui lieviti nelle cantine della maison, il vino mostra l’unione di freschezza e complessità tipica degli champagne millesimati. Il risultato è uno champagne di grande finezza, con aromi floreali, di frutta bianca e di pasticceria, perlage finissimo e lungo finale; può continuare a evolvere in bottiglia per anni.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo dorado pálido, burbuja muy fina. Aromas de flores blancas, pera, cítricos, almendra y brioche. Boca fresca, cremosa y elegante, de final largo.",
+    "en": "Pale golden yellow, very fine bubbles. Aromas of white flowers, pear, citrus, almond and brioche. Fresh, creamy, elegant palate with a long finish.",
+    "fr": "Jaune doré pâle, bulle très fine. Arômes de fleurs blanches, de poire, d’agrumes, d’amande et de brioche. Bouche fraîche, crémeuse et élégante, à la longue finale.",
+    "it": "Giallo dorato chiaro, perlage finissimo. Aromi di fiori bianchi, pera, agrumi, mandorla e brioche. Bocca fresca, cremosa ed elegante, con lungo finale."
+  },
+  "pairing": {
+    "es": "Marisco, vieiras, pescados nobles, aves en salsa delicada",
+    "en": "Shellfish, scallops, fine fish, poultry in delicate sauce",
+    "fr": "Fruits de mer, Saint-Jacques, poissons nobles, volailles en sauce délicate",
+    "it": "Frutti di mare, capesante, pesce pregiato, pollame in salsa delicata"
+  },
+  "serve": {
+    "es": "9-11 °C, copa de vino blanco o de champagne amplia",
+    "en": "9-11 °C, white wine glass or wide champagne glass",
+    "fr": "9-11 °C, verre à vin blanc ou grand verre à champagne",
+    "it": "9-11 °C, calice da bianco o calice ampio da champagne"
+  },
+  "search": "Perrier-Jouët Belle Époque Champagne"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "altanza-sauvignon-blanc",
+  "name": "Altanza Sauvignon Blanc",
+  "winery": null,
+  "winery_name": "Altanza",
+  "region": "rioja",
+  "country": "espana",
+  "appellation": "DOCa Rioja",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "sauvignon-blanc"
+  ],
+  "summary": {
+    "es": "Altanza Sauvignon Blanc es un vino blanco de Altanza, con la denominación DOCa Rioja, en España.",
+    "en": "Altanza Sauvignon Blanc is a white wine from Altanza, made under the DOCa Rioja appellation in Spain.",
+    "fr": "Altanza Sauvignon Blanc est un vin blanc de Altanza, élaboré sous l’appellation DOCa Rioja (Espagne).",
+    "it": "Altanza Sauvignon Blanc è un vino bianco di Altanza, prodotto nella denominazione DOCa Rioja (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Sauvignon Blanc. Se cría en depósitos de acero inoxidable. Su graduación es de 13 % vol.</p><p>Rioja, en el valle del Ebro, fue en 1991 la primera Denominación de Origen Calificada de España. Es conocida sobre todo por sus tintos de Tempranillo y por su larga tradición de crianza en barrica de roble.</p>",
+    "en": "<p>It is made from Sauvignon Blanc. It is aged in stainless steel tanks. It has 13% ABV.</p><p>Rioja, in the Ebro valley, became Spain's first Qualified Designation of Origin in 1991. It is best known for its Tempranillo-based reds and its long tradition of ageing in oak barrels.</p>",
+    "fr": "<p>Il est élaboré à partir de Sauvignon Blanc. Il est élevé en cuves inox. Il titre 13 % vol.</p><p>La Rioja, dans la vallée de l'Èbre, est devenue en 1991 la première dénomination d'origine qualifiée d'Espagne. Elle est surtout connue pour ses rouges à base de tempranillo et sa longue tradition d'élevage en barrique de chêne.</p>",
+    "it": "<p>È prodotto con Sauvignon Blanc. Affina in acciaio inox. Ha 13% vol.</p><p>La Rioja, nella valle dell'Ebro, è diventata nel 1991 la prima Denominazione di origine qualificata di Spagna. È nota soprattutto per i rossi a base di Tempranillo e per la lunga tradizione di affinamento in botte di rovere.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Altanza Sauvignon Blanc Altanza",
+  "brief": true,
+  "source": "decantalo"
+}

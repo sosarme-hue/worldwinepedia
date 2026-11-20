@@ -1,0 +1,40 @@
+{
+  "slug": "arpepe-rosso-di-valtellina",
+  "name": "ARPEPE Rosso di Valtellina",
+  "winery": null,
+  "winery_name": "Ar.Pe.Pe.",
+  "region": null,
+  "country": "italia",
+  "appellation": "DOC Rosso di Valtellina",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "ARPEPE Rosso di Valtellina es un vino tinto de Ar.Pe.Pe., con la denominación DOC Rosso di Valtellina, en Italia.",
+    "en": "ARPEPE Rosso di Valtellina is a red wine from Ar.Pe.Pe., made under the DOC Rosso di Valtellina appellation in Italy.",
+    "fr": "ARPEPE Rosso di Valtellina est un vin rouge de Ar.Pe.Pe., élaboré sous l’appellation DOC Rosso di Valtellina (Italie).",
+    "it": "ARPEPE Rosso di Valtellina è un vino rosso di Ar.Pe.Pe., prodotto nella denominazione DOC Rosso di Valtellina (Italia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 13% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "ARPEPE Rosso di Valtellina Ar.Pe.Pe.",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "echo-de-lynch-bages",
+  "name": "Echo de Lynch-Bages",
+  "winery": "chateau-lynch-bages",
+  "region": "medoc",
+  "country": "francia",
+  "type": "tinto",
+  "category": {"es": "Segundo vino", "en": "Second wine", "fr": "Second vin", "it": "Secondo vino"},
+  "grapes": ["cabernet-sauvignon", "merlot", "cabernet-franc", "petit-verdot"],
+  "summary": {
+    "es": "El segundo vino de Château Lynch-Bages, un Pauillac más accesible y de evolución más rápida que el gran vino.",
+    "en": "The second wine of Château Lynch-Bages, a more approachable Pauillac that develops more quickly than the grand vin.",
+    "fr": "Le second vin du Château Lynch-Bages, un pauillac plus accessible et d’évolution plus rapide que le grand vin.",
+    "it": "Il secondo vino di Château Lynch-Bages, un Pauillac più accessibile e di evoluzione più rapida rispetto al grand vin."
+  },
+  "body": {
+    "es": "<p>Echo de Lynch-Bages es el segundo vino de la propiedad y lleva la denominación Pauillac. Hasta la añada 2007 se comercializaba con el nombre de Château Haut-Bages Averous. Se elabora con uvas de los viñedos de Lynch-Bages, en particular de viñas más jóvenes y de lotes que no se seleccionan para el gran vino.</p><p>El ensamblaje combina Cabernet Sauvignon y Merlot, a veces con algo de Cabernet Franc y Petit Verdot, y la crianza se realiza en barricas de roble con una proporción de madera nueva inferior a la del gran vino.</p><p>Es un tinto que ofrece el carácter de Pauillac —fruta negra, notas de cedro y tanino firme— con un perfil más afrutado y una textura más suave, lo que permite disfrutarlo desde pocos años después de la cosecha.</p>",
+    "en": "<p>Echo de Lynch-Bages is the estate’s second wine and carries the Pauillac appellation. Until the 2007 vintage it was sold under the name Château Haut-Bages Averous. It is made from grapes from the Lynch-Bages vineyards, in particular younger vines and lots not selected for the grand vin.</p><p>The blend combines Cabernet Sauvignon and Merlot, sometimes with a little Cabernet Franc and Petit Verdot, and ageing takes place in oak barrels with a lower proportion of new wood than the grand vin.</p><p>It is a red that offers the character of Pauillac — black fruit, cedar notes and firm tannins — with a fruitier profile and softer texture, so it can be enjoyed within a few years of the harvest.</p>",
+    "fr": "<p>Echo de Lynch-Bages est le second vin de la propriété et porte l’appellation Pauillac. Jusqu’au millésime 2007, il était commercialisé sous le nom de Château Haut-Bages Averous. Il est élaboré à partir des vignes de Lynch-Bages, en particulier des jeunes vignes et des lots non retenus pour le grand vin.</p><p>L’assemblage associe cabernet sauvignon et merlot, parfois avec un peu de cabernet franc et de petit verdot, et l’élevage se fait en barriques de chêne avec une part de bois neuf inférieure à celle du grand vin.</p><p>C’est un rouge qui offre le caractère de Pauillac — fruits noirs, notes de cèdre et tanins fermes — avec un profil plus fruité et une texture plus souple, ce qui permet de l’apprécier quelques années seulement après la récolte.</p>",
+    "it": "<p>Echo de Lynch-Bages è il secondo vino della tenuta e porta la denominazione Pauillac. Fino all’annata 2007 era commercializzato con il nome di Château Haut-Bages Averous. Si produce con uve dei vigneti di Lynch-Bages, in particolare da vigne più giovani e da lotti non selezionati per il grand vin.</p><p>L’assemblaggio unisce Cabernet Sauvignon e Merlot, a volte con un po’ di Cabernet Franc e Petit Verdot, e l’affinamento avviene in barrique di rovere con una quota di legno nuovo inferiore a quella del grand vin.</p><p>È un rosso che offre il carattere di Pauillac — frutta nera, note di cedro e tannino deciso — con un profilo più fruttato e una consistenza più morbida, che permette di gustarlo già pochi anni dopo la vendemmia.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de grosella negra, ciruela, cedro y notas tostadas. En boca es de cuerpo medio, afrutado y con tanino bien integrado.",
+    "en": "Deep ruby. Aromas of blackcurrant, plum, cedar and toasty notes. Medium-bodied and fruity on the palate, with well-integrated tannins.",
+    "fr": "Rubis intense. Arômes de cassis, de prune, de cèdre et notes grillées. En bouche, corps moyen, fruité, aux tanins bien intégrés.",
+    "it": "Rubino intenso. Aromi di ribes nero, prugna, cedro e note tostate. In bocca ha corpo medio, è fruttato e con tannino ben integrato."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la parrilla, cordero, hamburguesa gourmet, quesos semicurados",
+    "en": "Grilled red meat, lamb, gourmet burgers, semi-aged cheeses",
+    "fr": "Viandes rouges grillées, agneau, burger gastronomique, fromages mi-affinés",
+    "it": "Carni rosse alla griglia, agnello, hamburger gourmet, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de Burdeos",
+    "en": "16-18 °C, Bordeaux glass",
+    "fr": "16-18 °C, verre à bordeaux",
+    "it": "16-18 °C, calice da Bordeaux"
+  },
+  "search": "Echo de Lynch-Bages Pauillac"
+}

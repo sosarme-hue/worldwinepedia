@@ -1,0 +1,42 @@
+{
+  "slug": "veramonte-pinot-noir-reserva",
+  "name": "Veramonte Pinot Noir Reserva",
+  "winery": "veramonte",
+  "winery_name": null,
+  "region": "casablanca",
+  "country": "chile",
+  "appellation": "Valle de Casablanca",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Veramonte Pinot Noir Reserva es un vino tinto de Veramonte, con la denominación Valle de Casablanca, en Chile.",
+    "en": "Veramonte Pinot Noir Reserva is a red wine from Veramonte, made under the Valle de Casablanca appellation in Chile.",
+    "fr": "Veramonte Pinot Noir Reserva est un vin rouge de Veramonte, élaboré sous l’appellation Valle de Casablanca (Chili).",
+    "it": "Veramonte Pinot Noir Reserva è un vino rosso di Veramonte, prodotto nella denominazione Valle de Casablanca (Cile)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Pinot Noir. Tiene crianza en madera. Su graduación es de 13 % vol.</p><p>Viña del valle de Casablanca creada en los años noventa por Agustín Huneeus. Conocida por sus blancos y Pinot Noir de clima fresco, forma parte del grupo español González Byass.</p><p>El valle de Casablanca, entre Santiago y Valparaíso, fue la primera gran zona costera fría de la viticultura chilena. Es conocido por sus Sauvignon Blanc, Chardonnay y Pinot Noir.</p>",
+    "en": "<p>It is made from Pinot Noir. It is aged in wood. It has 13% ABV.</p><p>Casablanca Valley winery created in the 1990s by Agustín Huneeus. Known for its cool-climate whites and Pinot Noir, it is part of the Spanish group González Byass.</p><p>The Casablanca Valley, between Santiago and Valparaíso, was the first major cool coastal area in Chilean viticulture. It is known for its Sauvignon Blanc, Chardonnay and Pinot Noir.</p>",
+    "fr": "<p>Il est élaboré à partir de Pinot Noir. Il est élevé en bois. Il titre 13 % vol.</p><p>Domaine de la vallée de Casablanca créé dans les années 1990 par Agustín Huneeus. Connu pour ses blancs et ses pinots noirs de climat frais, il fait partie du groupe espagnol González Byass.</p><p>La vallée de Casablanca, entre Santiago et Valparaíso, fut la première grande zone côtière fraîche de la viticulture chilienne. Elle est réputée pour ses sauvignons blancs, chardonnays et pinots noirs.</p>",
+    "it": "<p>È prodotto con Pinot Nero. È affinato in legno. Ha 13% vol.</p><p>Azienda della valle di Casablanca creata negli anni Novanta da Agustín Huneeus. Nota per i suoi bianchi e Pinot Nero da clima fresco, fa parte del gruppo spagnolo González Byass.</p><p>La valle di Casablanca, tra Santiago e Valparaíso, è stata la prima grande zona costiera fresca della viticoltura cilena. È nota per i suoi Sauvignon Blanc, Chardonnay e Pinot Nero.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Veramonte Pinot Noir Reserva Veramonte",
+  "brief": true,
+  "source": "decantalo"
+}

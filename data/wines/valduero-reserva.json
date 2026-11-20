@@ -1,0 +1,48 @@
+{
+  "slug": "valduero-reserva",
+  "name": "Valduero Reserva",
+  "winery": "valduero",
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Reserva de Bodegas Valduero elaborado con Tinto Fino de viñedos propios en Gumiel del Mercado y envejecido al menos tres años entre barrica y botella.",
+    "en": "Reserva from Bodegas Valduero made from Tinto Fino from its own vineyards in Gumiel del Mercado and aged for at least three years between barrel and bottle.",
+    "fr": "Reserva de Bodegas Valduero élaboré avec du tinto fino de ses propres vignes de Gumiel del Mercado et vieilli au moins trois ans entre barrique et bouteille.",
+    "it": "Reserva di Bodegas Valduero prodotto con Tinto Fino di vigneti propri a Gumiel del Mercado e invecchiato almeno tre anni tra barrique e bottiglia."
+  },
+  "body": {
+    "es": "<p>Valduero Reserva representa el estilo de crianza larga por el que es conocida la bodega familiar de Gumiel del Mercado. Se elabora con Tinto Fino seleccionado de los viñedos propios de la familia en la Ribera del Duero burgalesa, en añadas consideradas adecuadas para un envejecimiento prolongado.</p><p>De acuerdo con la normativa de la Denominación de Origen Ribera del Duero, un Reserva debe envejecer al menos treinta y seis meses, con un mínimo de doce en barrica. Valduero cría el vino en barricas de roble dentro de sus galerías subterráneas y le concede después un largo reposo en botella, ya que la casa da especial importancia a que sus vinos salgan al mercado con una evolución apreciable.</p><p>El resultado es un tinto de perfil clásico, con fruta negra madura, notas especiadas, tostadas y de cuero, y una estructura que se suaviza con el tiempo. Tiene buena capacidad de guarda y se beneficia de la decantación.</p>",
+    "en": "<p>Valduero Reserva represents the long-aged style for which the family winery in Gumiel del Mercado is known. It is made from selected Tinto Fino from the family’s own vineyards on the Burgos side of Ribera del Duero, in vintages considered suitable for extended ageing.</p><p>In accordance with the rules of the Ribera del Duero Denominación de Origen, a Reserva must age for at least thirty-six months, with a minimum of twelve in barrel. Valduero ages the wine in oak barrels within its underground galleries and then gives it a long rest in bottle, as the house places particular importance on its wines reaching the market with noticeable development.</p><p>The result is a red of classic profile, with ripe black fruit, notes of spice, toast and leather, and a structure that softens over time. It has good ageing potential and benefits from decanting.</p>",
+    "fr": "<p>Valduero Reserva représente le style de long élevage qui a fait la réputation de la bodega familiale de Gumiel del Mercado. Il est élaboré avec du tinto fino sélectionné des vignes de la famille dans la Ribera del Duero de Burgos, les millésimes jugés propices à un vieillissement prolongé.</p><p>Conformément à la réglementation de la Denominación de Origen Ribera del Duero, un Reserva doit vieillir au moins trente-six mois, dont douze au minimum en barrique. Valduero élève le vin en barriques de chêne dans ses galeries souterraines, puis lui accorde un long repos en bouteille, la maison tenant particulièrement à ce que ses vins arrivent sur le marché avec une évolution appréciable.</p><p>Il en résulte un rouge au profil classique, aux fruits noirs mûrs, aux notes d’épices, de toasté et de cuir, et à la structure qui s’assouplit avec le temps. Il possède un bon potentiel de garde et gagne à être carafé.</p>",
+    "it": "<p>Valduero Reserva rappresenta lo stile di lungo affinamento per cui è nota la cantina di famiglia di Gumiel del Mercado. È prodotto con Tinto Fino selezionato dai vigneti di famiglia nella Ribera del Duero di Burgos, nelle annate considerate adatte a un invecchiamento prolungato.</p><p>Secondo la normativa della Denominación de Origen Ribera del Duero, un Reserva deve invecchiare almeno trentasei mesi, di cui almeno dodici in barrique. Valduero affina il vino in barrique di rovere nelle sue gallerie sotterranee e gli concede poi un lungo riposo in bottiglia, perché la casa tiene particolarmente a che i suoi vini arrivino sul mercato con un’evoluzione apprezzabile.</p><p>Il risultato è un rosso dal profilo classico, con frutto nero maturo, note di spezie, tostatura e cuoio, e una struttura che si ammorbidisce con il tempo. Ha una buona capacità d’invecchiamento e beneficia della decantazione.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí con ribete teja. Fruta roja y negra madura, especias dulces, cuero suave y notas tostadas. En boca es amplio, de taninos pulidos y final largo.",
+    "en": "Ruby red with a brick rim. Ripe red and black fruit, sweet spice, soft leather and toasty notes. Broad on the palate, with polished tannins and a long finish.",
+    "fr": "Rouge rubis à reflets tuilés. Fruits rouges et noirs mûrs, épices douces, cuir léger et notes toastées. Ample en bouche, aux tanins polis et à la finale longue.",
+    "it": "Rosso rubino con unghia mattone. Frutta rossa e nera matura, spezie dolci, cuoio leggero e note tostate. In bocca è ampio, con tannini levigati e finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, lechazo asado, caza mayor, quesos curados de oveja",
+    "en": "Chargrilled red meat, roast milk-fed lamb, large game, aged sheep’s cheeses",
+    "fr": "Viandes rouges à la braise, agneau de lait rôti, gros gibier, fromages de brebis affinés",
+    "it": "Carni rosse alla brace, agnello da latte arrosto, selvaggina di grossa taglia, pecorini stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Valduero Reserva Ribera del Duero"
+}

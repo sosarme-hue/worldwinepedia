@@ -1,0 +1,42 @@
+{
+  "slug": "zuccardi-valles-malbec",
+  "name": "Zuccardi Valles Malbec",
+  "winery": "zuccardi",
+  "winery_name": null,
+  "region": "valle-de-uco",
+  "country": "argentina",
+  "appellation": "Valle de Uco",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "malbec"
+  ],
+  "summary": {
+    "es": "Zuccardi Valles Malbec es un vino tinto de Familia Zuccardi, con la denominación Valle de Uco, en Argentina.",
+    "en": "Zuccardi Valles Malbec is a red wine from Familia Zuccardi, made under the Valle de Uco appellation in Argentina.",
+    "fr": "Zuccardi Valles Malbec est un vin rouge de Familia Zuccardi, élaboré sous l’appellation Valle de Uco (Argentine).",
+    "it": "Zuccardi Valles Malbec è un vino rosso di Familia Zuccardi, prodotto nella denominazione Valle de Uco (Argentina)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Malbec. Su graduación es de 14 % vol.</p><p>Empresa familiar mendocina iniciada en 1963 por Alberto Zuccardi en Maipú. Hoy es una de las bodegas de referencia del Valle de Uco, con su sede de Piedra Infinita en Paraje Altamira.</p><p>El Valle de Uco, en el centro-oeste de Mendoza, reúne algunos de los viñedos más altos y frescos de la provincia. Desde los años noventa se ha convertido en la zona de referencia para la Malbec de altura.</p>",
+    "en": "<p>It is made from Malbec. It has 14% ABV.</p><p>Mendoza family business started in 1963 by Alberto Zuccardi in Maipú. Today it is one of the benchmark wineries of the Uco Valley, with its Piedra Infinita winery in Paraje Altamira.</p><p>The Uco Valley, in west-central Mendoza, brings together some of the province’s highest and coolest vineyards. Since the 1990s it has become the benchmark area for high-altitude Malbec.</p>",
+    "fr": "<p>Il est élaboré à partir de Malbec (Côt). Il titre 14 % vol.</p><p>Entreprise familiale de Mendoza lancée en 1963 par Alberto Zuccardi à Maipú. C’est aujourd’hui l’une des caves de référence de la vallée de Uco, avec son siège de Piedra Infinita à Paraje Altamira.</p><p>La vallée de Uco, dans le centre-ouest de Mendoza, réunit certains des vignobles les plus hauts et les plus frais de la province. Depuis les années 1990, elle est devenue la zone de référence pour le malbec d’altitude.</p>",
+    "it": "<p>È prodotto con Malbec. Ha 14% vol.</p><p>Azienda familiare di Mendoza avviata nel 1963 da Alberto Zuccardi a Maipú. Oggi è una delle cantine di riferimento della Valle de Uco, con la sede di Piedra Infinita a Paraje Altamira.</p><p>La Valle de Uco, nel centro-ovest di Mendoza, riunisce alcuni dei vigneti più alti e freschi della provincia. Dagli anni Novanta è diventata la zona di riferimento per il Malbec d’altura.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Zuccardi Valles Malbec Zuccardi",
+  "brief": true,
+  "source": "decantalo"
+}

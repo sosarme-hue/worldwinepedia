@@ -1,0 +1,48 @@
+{
+  "slug": "ruffino-prosecco",
+  "name": "Ruffino Prosecco",
+  "winery": "ruffino",
+  "region": "prosecco",
+  "country": "italia",
+  "type": "espumoso",
+  "category": {
+    "es": "Prosecco DOC",
+    "en": "Prosecco DOC",
+    "fr": "Prosecco DOC",
+    "it": "Prosecco DOC"
+  },
+  "grapes": [
+    "glera"
+  ],
+  "summary": {
+    "es": "Prosecco DOC de Ruffino, un espumoso de Glera ligero y afrutado que se ha convertido en uno de los productos más vendidos de la casa.",
+    "en": "Ruffino Prosecco DOC, a light, fruity Glera sparkling wine that has become one of the house’s best-selling products.",
+    "fr": "Prosecco DOC de Ruffino, un effervescent de glera léger et fruité devenu l’un des produits les plus vendus de la maison.",
+    "it": "Prosecco DOC di Ruffino, uno spumante da Glera leggero e fruttato diventato uno dei prodotti più venduti della casa."
+  },
+  "body": {
+    "es": "<p>Aunque Ruffino es una casa toscana, su gama incluye un <strong>Prosecco</strong> elaborado en la zona de producción de esta denominación, en el noreste de Italia, entre el Véneto y Friuli-Venecia Julia. Es uno de los Prosecco con mayor presencia en tiendas y supermercados de muchos países.</p><p>Se elabora con <strong>Glera</strong>, la variedad principal del Prosecco. Como es habitual en esta denominación, la segunda fermentación tiene lugar en grandes depósitos de acero inoxidable cerrados, según el método conocido como Charmat o Martinotti. Este sistema preserva los aromas frutales y florales de la uva y produce una burbuja fina y ligera.</p><p>Es un espumoso joven y fresco, de estilo brut o extra dry según el mercado, pensado para beberse pronto. Se toma sobre todo como aperitivo y es una base habitual para cócteles como el spritz.</p>",
+    "en": "<p>Although Ruffino is a Tuscan house, its range includes a <strong>Prosecco</strong> made within the production area of this appellation, in north-eastern Italy, between Veneto and Friuli Venezia Giulia. It is one of the Proseccos most widely found in shops and supermarkets in many countries.</p><p>It is made from <strong>Glera</strong>, the main Prosecco variety. As is usual in this appellation, the second fermentation takes place in large closed stainless steel tanks, using the method known as Charmat or Martinotti. This system preserves the grapes’ fruity and floral aromas and produces fine, light bubbles.</p><p>It is a young, fresh sparkling wine, in a brut or extra dry style depending on the market, intended to be drunk early. It is enjoyed above all as an aperitif and is a common base for cocktails such as the spritz.</p>",
+    "fr": "<p>Bien que Ruffino soit une maison toscane, sa gamme comprend un <strong>prosecco</strong> élaboré dans la zone de production de cette appellation, dans le nord-est de l’Italie, entre la Vénétie et le Frioul-Vénétie Julienne. C’est l’un des proseccos les plus présents chez les cavistes et en grande distribution dans de nombreux pays.</p><p>Il est élaboré avec la <strong>glera</strong>, le cépage principal du prosecco. Comme il est d’usage dans cette appellation, la seconde fermentation se déroule dans de grandes cuves closes en inox, selon la méthode dite Charmat ou Martinotti. Ce procédé préserve les arômes fruités et floraux du raisin et donne une bulle fine et légère.</p><p>C’est un effervescent jeune et frais, de style brut ou extra dry selon les marchés, conçu pour être bu rapidement. On le sert surtout à l’apéritif et c’est une base courante de cocktails comme le spritz.</p>",
+    "it": "<p>Sebbene Ruffino sia una casa toscana, la sua gamma comprende un <strong>Prosecco</strong> prodotto nell’area di questa denominazione, nell’Italia nord-orientale, tra Veneto e Friuli Venezia Giulia. È uno dei Prosecco più presenti in negozi e supermercati di molti paesi.</p><p>Si produce con <strong>Glera</strong>, il vitigno principale del Prosecco. Come d’abitudine in questa denominazione, la seconda fermentazione avviene in grandi autoclavi chiuse d’acciaio inox, secondo il metodo noto come Charmat o Martinotti. Questo sistema preserva gli aromi fruttati e floreali dell’uva e dà una bollicina fine e leggera.</p><p>È uno spumante giovane e fresco, in versione brut o extra dry a seconda del mercato, pensato per essere bevuto presto. Si serve soprattutto come aperitivo ed è una base comune per cocktail come lo spritz.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pajizo pálido, burbuja fina. Aromas de manzana verde, pera, cítricos y flores blancas. Boca ligera y fresca, con un final limpio.",
+    "en": "Pale straw, fine bubbles. Aromas of green apple, pear, citrus and white flowers. Light, fresh palate with a clean finish.",
+    "fr": "Jaune paille pâle, bulle fine. Arômes de pomme verte, de poire, d’agrumes et de fleurs blanches. Bouche légère et fraîche, à la finale nette.",
+    "it": "Giallo paglierino tenue, perlage fine. Profumi di mela verde, pera, agrumi e fiori bianchi. Bocca leggera e fresca, con finale pulito."
+  },
+  "pairing": {
+    "es": "Aperitivo, spritz, embutidos suaves, frituras, sushi",
+    "en": "Aperitif, spritz, mild cured meats, fried food, sushi",
+    "fr": "Apéritif, spritz, charcuterie douce, fritures, sushis",
+    "it": "Aperitivo, spritz, salumi delicati, fritture, sushi"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de vino blanco o flauta",
+    "en": "6-8 °C, white wine glass or flute",
+    "fr": "6-8 °C, verre à vin blanc ou flûte",
+    "it": "6-8 °C, calice da vino bianco o flûte"
+  },
+  "search": "Ruffino Prosecco DOC"
+}

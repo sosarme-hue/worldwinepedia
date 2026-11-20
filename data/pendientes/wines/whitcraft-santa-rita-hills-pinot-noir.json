@@ -1,0 +1,42 @@
+{
+  "slug": "whitcraft-santa-rita-hills-pinot-noir",
+  "name": "Whitcraft Santa Rita Hills Pinot Noir",
+  "winery": null,
+  "winery_name": "Whitcraft Winery",
+  "region": null,
+  "country": "estados-unidos",
+  "appellation": "Santa Barbara County",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Whitcraft Santa Rita Hills Pinot Noir es un vino tinto de Whitcraft Winery, con la denominación Santa Barbara County, en Estados Unidos.",
+    "en": "Whitcraft Santa Rita Hills Pinot Noir is a red wine from Whitcraft Winery, made under the Santa Barbara County appellation in United States.",
+    "fr": "Whitcraft Santa Rita Hills Pinot Noir est un vin rouge de Whitcraft Winery, élaboré sous l’appellation Santa Barbara County (États-Unis).",
+    "it": "Whitcraft Santa Rita Hills Pinot Noir è un vino rosso di Whitcraft Winery, prodotto nella denominazione Santa Barbara County (Stati Uniti)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Pinot Noir. Su graduación es de 13 % vol.</p>",
+    "en": "<p>It is made from Pinot Noir. It has 13% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Pinot Noir. Il titre 13 % vol.</p>",
+    "it": "<p>È prodotto con Pinot Nero. Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Whitcraft Santa Rita Hills Pinot Noir Whitcraft Winery",
+  "brief": true,
+  "source": "decantalo"
+}

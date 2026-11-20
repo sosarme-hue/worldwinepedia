@@ -1,0 +1,40 @@
+{
+  "slug": "il-bianco-di-marilina-riserva",
+  "name": "Il Bianco di Marilina Riserva",
+  "winery": null,
+  "winery_name": "Cantina Marilina",
+  "region": null,
+  "country": "italia",
+  "appellation": "IGT Terre Siciliane",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Il Bianco di Marilina Riserva es un vino blanco de Cantina Marilina, con la denominación IGT Terre Siciliane, en Italia.",
+    "en": "Il Bianco di Marilina Riserva is a white wine from Cantina Marilina, made under the IGT Terre Siciliane appellation in Italy.",
+    "fr": "Il Bianco di Marilina Riserva est un vin blanc de Cantina Marilina, élaboré sous l’appellation IGT Terre Siciliane (Italie).",
+    "it": "Il Bianco di Marilina Riserva è un vino bianco di Cantina Marilina, prodotto nella denominazione IGT Terre Siciliane (Italia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 14% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Il Bianco di Marilina Riserva Cantina Marilina",
+  "brief": true,
+  "source": "decantalo"
+}

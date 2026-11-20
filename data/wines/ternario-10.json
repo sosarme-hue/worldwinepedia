@@ -1,0 +1,40 @@
+{
+  "slug": "ternario-10",
+  "name": "Ternario 10",
+  "winery": null,
+  "winery_name": "Venta la Vega",
+  "region": "almansa",
+  "country": "espana",
+  "appellation": "DO Almansa",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Ternario 10 es un vino tinto de Venta la Vega, con la denominación DO Almansa, en España.",
+    "en": "Ternario 10 is a red wine from Venta la Vega, made under the DO Almansa appellation in Spain.",
+    "fr": "Ternario 10 est un vin rouge de Venta la Vega, élaboré sous l’appellation DO Almansa (Espagne).",
+    "it": "Ternario 10 è un vino rosso di Venta la Vega, prodotto nella denominazione DO Almansa (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13,5 % vol.</p><p>Almansa es una denominación de origen del sureste de la provincia de Albacete, en Castilla-La Mancha, en el límite con la Comunidad Valenciana y la Región de Murcia. Su uva más característica es la Garnacha Tintorera, una de las pocas variedades tintas de pulpa coloreada, junto a la Monastrell.</p>",
+    "en": "<p>It is aged in wood. It has 13.5% ABV.</p><p>Almansa is a designation of origin in the south-east of the province of Albacete, in Castilla-La Mancha, on the border with the Valencian Community and the Region of Murcia. Its most characteristic grape is Garnacha Tintorera, one of the few red varieties with coloured flesh, together with Monastrell.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13,5 % vol.</p><p>Almansa est une dénomination d'origine du sud-est de la province d'Albacete, en Castille-La Manche, à la limite de la Communauté valencienne et de la Région de Murcie. Son cépage le plus caractéristique est la garnacha tintorera (alicante bouschet), l'un des rares cépages noirs à pulpe colorée, aux côtés du monastrell.</p>",
+    "it": "<p>È affinato in legno. Ha 13,5% vol.</p><p>Almansa è una denominazione di origine del sud-est della provincia di Albacete, in Castiglia-La Mancia, al confine con la Comunità Valenciana e la Regione di Murcia. La sua uva più caratteristica è la Garnacha Tintorera, uno dei pochi vitigni rossi a polpa colorata, insieme al Monastrell.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Ternario 10 Venta la Vega",
+  "brief": true,
+  "source": "decantalo"
+}

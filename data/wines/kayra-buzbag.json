@@ -1,0 +1,43 @@
+{
+  "slug": "kayra-buzbag",
+  "name": "Kayra Buzbağ",
+  "winery": "kayra",
+  "region": null,
+  "country": "turquia",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "okuzgozu"
+  ],
+  "summary": {
+    "es": "Tinto histórico de Anatolia oriental elaborado con Öküzgözü y Boğazkere. Buzbağ es una de las marcas de vino más antiguas de Turquía, hoy en manos de Kayra.",
+    "en": "A historic Eastern Anatolian red made from Öküzgözü and Boğazkere. Buzbağ is one of Turkey’s oldest wine brands, now owned by Kayra.",
+    "fr": "Rouge historique d’Anatolie orientale élaboré à partir d’öküzgözü et de boğazkere. Buzbağ est l’une des plus anciennes marques de vin de Turquie, aujourd’hui propriété de Kayra.",
+    "it": "Rosso storico dell’Anatolia orientale ottenuto da Öküzgözü e Boğazkere. Buzbağ è uno dei più antichi marchi di vino della Turchia, oggi di proprietà di Kayra."
+  },
+  "body": {
+    "es": "<p>Buzbağ es un tinto con larga tradición en Turquía, vinculado a la región de Elazığ, en Anatolia oriental, cuna de la variedad <strong>Öküzgözü</strong>. Nació en la época del monopolio estatal Tekel y, tras la privatización del sector, pasó a formar parte de la gama de Kayra, que mantiene su elaboración con uvas de la zona.</p><p>El vino se elabora con el ensamblaje clásico del este de Anatolia: la Öküzgözü aporta fruta, acidez y suavidad, y la Boğazkere, originaria de Diyarbakır y mucho más tánica, añade color, estructura y notas especiadas. Las uvas proceden de viñedos de altitud, en un clima continental de inviernos muy fríos y veranos secos. Existen distintas versiones del vino, entre ellas algunas con crianza en barrica. Es un tinto de cuerpo medio, frutal y especiado, que se ha convertido en un clásico de la mesa turca y en un ejemplo del ensamblaje tradicional de estas dos variedades.</p>",
+    "en": "<p>Buzbağ is a red with a long tradition in Turkey, linked to the Elazığ region of Eastern Anatolia, the home of the <strong>Öküzgözü</strong> variety. It was born in the era of the Tekel state monopoly and, after the privatisation of the sector, became part of the Kayra range, which continues to make it with grapes from the area.</p><p>The wine is made from the classic Eastern Anatolian blend: Öküzgözü brings fruit, acidity and softness, while Boğazkere, from Diyarbakır and far more tannic, adds colour, structure and spicy notes. The grapes come from high-altitude vineyards, in a continental climate with very cold winters and dry summers. There are several versions of the wine, some of them barrel-aged. It is a medium-bodied, fruity and spicy red that has become a classic on Turkish tables and an example of the traditional blend of these two varieties.</p>",
+    "fr": "<p>Buzbağ est un rouge de longue tradition en Turquie, lié à la région d’Elazığ, en Anatolie orientale, berceau du cépage <strong>öküzgözü</strong>. Né à l’époque du monopole d’État Tekel, il est entré après la privatisation du secteur dans la gamme de Kayra, qui continue de l’élaborer avec des raisins de la zone.</p><p>Le vin est issu de l’assemblage classique de l’est de l’Anatolie : l’öküzgözü apporte fruit, acidité et souplesse, et le boğazkere, originaire de Diyarbakır et bien plus tannique, ajoute couleur, structure et notes épicées. Les raisins proviennent de vignes d’altitude, sous un climat continental aux hivers très froids et aux étés secs. Il en existe plusieurs versions, dont certaines élevées en barrique. C’est un rouge de corps moyen, fruité et épicé, devenu un classique des tables turques et un exemple de l’assemblage traditionnel de ces deux cépages.</p>",
+    "it": "<p>Buzbağ è un rosso di lunga tradizione in Turchia, legato alla regione di Elazığ, nell’Anatolia orientale, culla del vitigno <strong>Öküzgözü</strong>. Nacque all’epoca del monopolio statale Tekel e, dopo la privatizzazione del settore, è entrato nella gamma di Kayra, che continua a produrlo con uve della zona.</p><p>Il vino si ottiene dall’uvaggio classico dell’Anatolia orientale: l’Öküzgözü apporta frutto, acidità e morbidezza, mentre il Boğazkere, originario di Diyarbakır e molto più tannico, aggiunge colore, struttura e note speziate. Le uve provengono da vigneti d’altura, in un clima continentale con inverni molto freddi ed estati secche. Ne esistono diverse versioni, alcune affinate in barrique. È un rosso di medio corpo, fruttato e speziato, diventato un classico della tavola turca e un esempio dell’uvaggio tradizionale di questi due vitigni.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí intenso. Aromas de cereza, ciruela, mora y granada, con notas de especias y hierbas secas. En boca es de cuerpo medio, fresco y especiado, con taninos firmes.",
+    "en": "Intense ruby red. Aromas of cherry, plum, blackberry and pomegranate, with notes of spice and dried herbs. Medium-bodied, fresh and spicy on the palate, with firm tannins.",
+    "fr": "Rouge rubis intense. Arômes de cerise, de prune, de mûre et de grenade, avec des notes d’épices et d’herbes sèches. En bouche, il est de corps moyen, frais et épicé, aux tanins fermes.",
+    "it": "Rosso rubino intenso. Profumi di ciliegia, prugna, mora e melagrana, con note di spezie ed erbe secche. In bocca è di medio corpo, fresco e speziato, con tannini decisi."
+  },
+  "pairing": {
+    "es": "kebabs y carnes a la parrilla, köfte, berenjenas asadas, guisos de cordero",
+    "en": "kebabs and grilled meat, köfte, roast aubergines, lamb stews",
+    "fr": "kebabs et viandes grillées, köfte, aubergines rôties, ragoûts d’agneau",
+    "it": "kebab e carni alla griglia, köfte, melanzane arrosto, stufati d’agnello"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Kayra Buzbağ Öküzgözü Boğazkere"
+}

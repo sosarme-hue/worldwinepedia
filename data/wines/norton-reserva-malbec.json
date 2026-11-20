@@ -1,0 +1,48 @@
+{
+  "slug": "norton-reserva-malbec",
+  "name": "Norton Reserva Malbec",
+  "winery": "bodega-norton",
+  "region": "mendoza",
+  "country": "argentina",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [
+    "malbec"
+  ],
+  "summary": {
+    "es": "Malbec de la línea Reserva de Bodega Norton, elaborado con uvas de viñedos propios en Mendoza y criado en barrica.",
+    "en": "Malbec from Bodega Norton’s Reserva line, made from grapes from the winery’s own vineyards in Mendoza and aged in barrel.",
+    "fr": "Malbec de la ligne Reserva de Bodega Norton, élaboré avec des raisins de vignobles propres à Mendoza et élevé en barrique.",
+    "it": "Malbec della linea Reserva di Bodega Norton, prodotto con uve di vigneti propri a Mendoza e affinato in barrique."
+  },
+  "body": {
+    "es": "<p>La línea Reserva es una de las más conocidas de Bodega Norton y su Malbec es uno de los vinos más representativos de la casa. Las uvas proceden de viñedos propios de la bodega, principalmente en Luján de Cuyo, donde la Malbec madura de forma regular y da vinos de fruta generosa.</p><p>Tras la vendimia, las uvas se fermentan en depósitos y el vino se cría durante varios meses en barricas de roble, que le aportan notas tostadas y especiadas y redondean sus taninos. En Argentina, la mención <em>Reserva</em> no responde a una normativa tan estricta como en España, y cada bodega la utiliza para indicar vinos de mayor selección y con paso por madera. El Norton Reserva Malbec es un tinto de estilo clásico mendocino, de cuerpo medio a pleno, que puede disfrutarse joven o guardarse algunos años. Es un vino muy versátil en la mesa.</p>",
+    "en": "<p>The Reserva line is one of Bodega Norton’s best known, and its Malbec is one of the most representative wines of the house. The grapes come from the winery’s own vineyards, mainly in Luján de Cuyo, where Malbec ripens consistently and gives wines with generous fruit.</p><p>After the harvest, the grapes are fermented in tanks and the wine is aged for several months in oak barrels, which give it toasty, spicy notes and round out its tannins. In Argentina the term <em>Reserva</em> is not governed by rules as strict as in Spain, and each winery uses it to indicate more selective, oak-aged wines. Norton Reserva Malbec is a red in the classic Mendoza style, medium- to full-bodied, which can be enjoyed young or kept for a few years. It is a very versatile wine at the table.</p>",
+    "fr": "<p>La ligne Reserva est l’une des plus connues de Bodega Norton, et son malbec compte parmi les vins les plus représentatifs de la maison. Les raisins proviennent des vignobles propres de la cave, principalement à Luján de Cuyo, où le malbec mûrit de façon régulière et donne des vins au fruit généreux.</p><p>Après les vendanges, les raisins fermentent en cuve et le vin est élevé plusieurs mois en barriques de chêne, qui lui apportent des notes grillées et épicées et arrondissent ses tanins. En Argentine, la mention <em>Reserva</em> ne répond pas à une réglementation aussi stricte qu’en Espagne, et chaque cave l’utilise pour désigner des vins plus sélectionnés et passés en bois. Le Norton Reserva Malbec est un rouge de style mendocin classique, de corps moyen à plein, qui peut se boire jeune ou se garder quelques années. C’est un vin très polyvalent à table.</p>",
+    "it": "<p>La linea Reserva è una delle più note di Bodega Norton e il suo Malbec è uno dei vini più rappresentativi della casa. Le uve provengono da vigneti propri della cantina, soprattutto a Luján de Cuyo, dove il Malbec matura con regolarità e dà vini dal frutto generoso.</p><p>Dopo la vendemmia, le uve fermentano in vasca e il vino affina per alcuni mesi in barrique di rovere, che gli conferiscono note tostate e speziate e ne arrotondano i tannini. In Argentina la menzione <em>Reserva</em> non è regolata in modo rigoroso come in Spagna, e ogni cantina la usa per indicare vini più selezionati e passati in legno. Il Norton Reserva Malbec è un rosso di stile classico mendocino, di corpo da medio a pieno, che si può gustare giovane o conservare qualche anno. È un vino molto versatile a tavola.</p>"
+  },
+  "tasting": {
+    "es": "Rojo violáceo intenso. Ciruela, cereza negra, violeta y notas de vainilla y especias. Boca redonda, de taninos suaves y final frutal.",
+    "en": "Intense violet-red. Plum, black cherry, violet and notes of vanilla and spice. Round palate with soft tannins and a fruity finish.",
+    "fr": "Rouge violacé intense. Prune, cerise noire, violette et notes de vanille et d’épices. Bouche ronde, tanins souples et finale fruitée.",
+    "it": "Rosso violaceo intenso. Prugna, ciliegia nera, violetta e note di vaniglia e spezie. Bocca rotonda, tannini morbidi e finale fruttato."
+  },
+  "pairing": {
+    "es": "Asado argentino, carnes rojas a la parrilla, empanadas de carne, quesos semicurados",
+    "en": "Argentine asado, grilled red meat, beef empanadas, semi-hard cheeses",
+    "fr": "Asado argentin, viandes rouges grillées, empanadas à la viande, fromages mi-affinés",
+    "it": "Asado argentino, carni rosse alla griglia, empanadas di carne, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Norton Reserva Malbec Mendoza"
+}

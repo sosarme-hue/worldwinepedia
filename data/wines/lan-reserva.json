@@ -1,0 +1,50 @@
+{
+  "slug": "lan-reserva",
+  "name": "LAN Reserva",
+  "winery": "bodegas-lan",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [
+    "tempranillo",
+    "carinena",
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Reserva de Bodegas LAN elaborado con Tempranillo y pequeñas proporciones de otras variedades riojanas, envejecido al menos tres años entre barrica y botella.",
+    "en": "Reserva from Bodegas LAN made from Tempranillo with small proportions of other Rioja varieties, aged for at least three years between barrel and bottle.",
+    "fr": "Reserva de Bodegas LAN élaboré avec du tempranillo et de petites proportions d’autres cépages de la Rioja, vieilli au moins trois ans entre barrique et bouteille.",
+    "it": "Reserva di Bodegas LAN prodotto con Tempranillo e piccole percentuali di altre varietà riojane, invecchiato almeno tre anni tra barrique e bottiglia."
+  },
+  "body": {
+    "es": "<p>LAN Reserva ocupa un lugar intermedio en la gama de Bodegas LAN, entre el Crianza y el Gran Reserva. Se elabora con uva seleccionada de viñedos de la Rioja Alta y de otras zonas de la denominación, con el Tempranillo como variedad principal y pequeñas aportaciones de Mazuelo (Cariñena) y Garnacha, cuyas proporciones varían según la añada.</p><p>Conforme a las normas de la categoría Reserva en Rioja, el vino envejece al menos tres años antes de salir al mercado, con un mínimo de un año en barrica de roble. La bodega emplea una combinación de roble americano y francés y ha incorporado también barricas de roble ruso en su programa de crianza, con el objetivo de aportar matices distintos a sus vinos.</p><p>Tras el periodo en madera, el vino reposa en botella en Fuenmayor hasta su comercialización. Es un tinto de estilo clásico, con más estructura y complejidad que el Crianza y buena capacidad para evolucionar unos años.</p>",
+    "en": "<p>LAN Reserva occupies an intermediate place in the Bodegas LAN range, between the Crianza and the Gran Reserva. It is made from selected grapes from vineyards in Rioja Alta and other parts of the appellation, with Tempranillo as the main variety and small contributions of Mazuelo (Carignan) and Garnacha, whose proportions vary with the vintage.</p><p>In accordance with the rules of the Reserva category in Rioja, the wine ages for at least three years before release, with a minimum of one year in oak barrels. The winery uses a combination of American and French oak and has also included Russian oak barrels in its ageing programme, with the aim of bringing different nuances to its wines.</p><p>After the time in wood, the wine rests in bottle in Fuenmayor until release. It is a classic-style red, with more structure and complexity than the Crianza and good capacity to develop for a few years.</p>",
+    "fr": "<p>LAN Reserva occupe une place intermédiaire dans la gamme de Bodegas LAN, entre le Crianza et le Gran Reserva. Il est élaboré avec du raisin sélectionné de vignes de la Rioja Alta et d’autres secteurs de l’appellation, avec le tempranillo comme cépage principal et de petits apports de mazuelo (carignan) et de grenache, dont les proportions varient selon le millésime.</p><p>Conformément aux règles de la catégorie Reserva dans la Rioja, le vin vieillit au moins trois ans avant sa commercialisation, dont un an minimum en barrique de chêne. La bodega utilise une combinaison de chêne américain et français et a aussi intégré des barriques de chêne russe à son programme d’élevage, afin d’apporter des nuances différentes à ses vins.</p><p>Après son passage sous bois, le vin repose en bouteille à Fuenmayor jusqu’à sa commercialisation. C’est un rouge de style classique, plus structuré et plus complexe que le Crianza, doté d’une bonne capacité d’évolution pendant quelques années.</p>",
+    "it": "<p>LAN Reserva occupa un posto intermedio nella gamma di Bodegas LAN, tra il Crianza e il Gran Reserva. È prodotto con uve selezionate da vigneti della Rioja Alta e di altre zone della denominazione, con il Tempranillo come varietà principale e piccoli apporti di Mazuelo (Carignano) e Garnacha, le cui proporzioni variano secondo l’annata.</p><p>Secondo le norme della categoria Reserva in Rioja, il vino invecchia almeno tre anni prima della commercializzazione, di cui almeno uno in barrique di rovere. La cantina utilizza una combinazione di rovere americano e francese e ha inserito nel suo programma di affinamento anche barrique di rovere russo, con l’obiettivo di conferire sfumature diverse ai suoi vini.</p><p>Dopo il periodo in legno, il vino riposa in bottiglia a Fuenmayor fino alla messa in commercio. È un rosso di stile classico, più strutturato e complesso del Crianza e con buona capacità di evolvere per alcuni anni.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí con ribete teja. Fruta roja y negra madura, especias dulces, cuero suave y notas tostadas. En boca es amplio, de taninos pulidos y final largo.",
+    "en": "Ruby red with a brick rim. Ripe red and black fruit, sweet spice, soft leather and toasty notes. Broad on the palate, with polished tannins and a long finish.",
+    "fr": "Rouge rubis à reflets tuilés. Fruits rouges et noirs mûrs, épices douces, cuir léger et notes toastées. Ample en bouche, aux tanins polis et à la finale longue.",
+    "it": "Rosso rubino con unghia mattone. Frutta rossa e nera matura, spezie dolci, cuoio leggero e note tostate. In bocca è ampio, con tannini levigati e finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, chuletillas a la brasa, embutidos ibéricos, quesos semicurados",
+    "en": "Roast lamb, grilled lamb chops, Iberian cured meats, semi-cured cheeses",
+    "fr": "Agneau rôti, côtelettes grillées, charcuterie ibérique, fromages mi-affinés",
+    "it": "Agnello arrosto, costolette alla brace, salumi iberici, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "LAN Reserva Rioja Bodegas LAN"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "mission-hill-oculus",
+  "name": "Oculus",
+  "winery": "mission-hill",
+  "region": "okanagan-valley",
+  "country": "canada",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "merlot",
+    "cabernet-sauvignon",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Tinto de estilo bordelés de Mission Hill, el vino de mayor prestigio de la bodega, elaborado con uva del sur del valle del Okanagan.",
+    "en": "Bordeaux-style red from Mission Hill, the winery’s most prestigious wine, made from grapes from the southern Okanagan Valley.",
+    "fr": "Rouge de style bordelais de Mission Hill, le vin le plus prestigieux du domaine, élaboré avec des raisins du sud de la vallée de l’Okanagan.",
+    "it": "Rosso di stile bordolese di Mission Hill, il vino più prestigioso della cantina, prodotto con uve del sud della valle dell’Okanagan."
+  },
+  "body": {
+    "es": "<p>Oculus es el vino emblemático de Mission Hill Family Estate y encabeza su colección de vinos de prestigio. Se trata de un ensamblaje de estilo bordelés en el que predominan la Merlot y la Cabernet Sauvignon, con aportaciones de Cabernet Franc y, según la añada, de otras variedades bordelesas.</p><p>Las uvas proceden de los viñedos de la bodega en el sur del valle del Okanagan, en la zona de Osoyoos y Oliver, donde los veranos cálidos, secos y luminosos permiten una buena maduración, mientras que las noches frescas ayudan a conservar la acidez. Cada parcela y variedad se vinifica por separado antes del ensamblaje final, y el vino se cría en barricas de roble francés. Es un tinto estructurado y de larga guarda, que se beneficia de varios años en botella y de una decantación previa. Representa la ambición de la bodega de demostrar que el sur del Okanagan puede dar tintos de corte bordelés con capacidad de envejecimiento.</p>",
+    "en": "<p>Oculus is the signature wine of Mission Hill Family Estate and heads its collection of prestige wines. It is a Bordeaux-style blend dominated by Merlot and Cabernet Sauvignon, with contributions from Cabernet Franc and, depending on the vintage, other Bordeaux varieties.</p><p>The grapes come from the winery’s vineyards in the southern Okanagan Valley, around Osoyoos and Oliver, where hot, dry and sunny summers allow good ripening while cool nights help retain acidity. Each plot and variety is vinified separately before the final blend, and the wine is aged in French oak barrels. It is a structured red for long ageing that benefits from several years in bottle and from decanting. It represents the winery’s ambition to show that the southern Okanagan can produce Bordeaux-style reds capable of ageing.</p>",
+    "fr": "<p>Oculus est le vin emblématique de Mission Hill Family Estate et tête de sa collection de vins de prestige. Il s’agit d’un assemblage de style bordelais dominé par le merlot et le cabernet-sauvignon, complété par du cabernet franc et, selon le millésime, par d’autres cépages bordelais.</p><p>Les raisins proviennent des vignes du domaine dans le sud de la vallée de l’Okanagan, autour d’Osoyoos et d’Oliver, où les étés chauds, secs et lumineux permettent une bonne maturation, tandis que les nuits fraîches aident à préserver l’acidité. Chaque parcelle et chaque cépage sont vinifiés séparément avant l’assemblage final, et le vin est élevé en barriques de chêne français. C’est un rouge structuré et de longue garde, qui gagne à passer plusieurs années en bouteille et à être carafé. Il incarne l’ambition du domaine de montrer que le sud de l’Okanagan peut donner des rouges de style bordelais aptes au vieillissement.</p>",
+    "it": "<p>Oculus è il vino simbolo di Mission Hill Family Estate e guida la sua collezione di vini di prestigio. Si tratta di un uvaggio di stile bordolese a prevalenza di Merlot e Cabernet Sauvignon, con apporti di Cabernet Franc e, a seconda dell’annata, di altre varietà bordolesi.</p><p>Le uve provengono dai vigneti della cantina nel sud della valle dell’Okanagan, nella zona di Osoyoos e Oliver, dove le estati calde, secche e luminose consentono una buona maturazione, mentre le notti fresche aiutano a conservare l’acidità. Ogni parcella e ogni varietà vengono vinificate separatamente prima dell’assemblaggio finale, e il vino affina in barrique di rovere francese. È un rosso strutturato e di lungo invecchiamento, che trae beneficio da diversi anni in bottiglia e da una decantazione. Rappresenta l’ambizione della cantina di dimostrare che il sud dell’Okanagan può dare rossi di taglio bordolese capaci di invecchiare.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota profundo. Aromas de cassis, ciruela y cereza negra, con notas de cedro, especias y tabaco. Boca amplia, de taninos firmes y finos y final persistente.",
+    "en": "Deep cherry red. Aromas of blackcurrant, plum and black cherry, with notes of cedar, spice and tobacco. Broad on the palate, with firm, fine tannins and a persistent finish.",
+    "fr": "Rouge cerise profond. Arômes de cassis, de prune et de cerise noire, avec des notes de cèdre, d’épices et de tabac. Bouche ample, aux tanins fermes et fins, avec une finale persistante.",
+    "it": "Rosso ciliegia profondo. Profumi di ribes nero, prugna e ciliegia nera, con note di cedro, spezie e tabacco. Bocca ampia, dai tannini decisi e fini e dal finale persistente."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la parrilla, cordero asado, caza, quesos curados",
+    "en": "Grilled red meat, roast lamb, game, aged cheeses",
+    "fr": "Viandes rouges grillées, agneau rôti, gibier, fromages affinés",
+    "it": "Carni rosse alla griglia, agnello arrosto, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Oculus Mission Hill Family Estate"
+}

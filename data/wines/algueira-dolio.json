@@ -1,0 +1,44 @@
+{
+  "slug": "algueira-dolio",
+  "name": "Algueira Dolio",
+  "winery": null,
+  "winery_name": "Algueira",
+  "region": "ribeira-sacra",
+  "country": "espana",
+  "appellation": "DO Ribeira Sacra",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Tinto de Algueira, bodega familiar de Doade en la subzona de Amandi, elaborado con uva de los bancales del cañón del Sil en la DO Ribeira Sacra.",
+    "en": "Red from Algueira, a family winery in Doade in the Amandi subzone, made from grapes grown on the terraces of the Sil canyon in DO Ribeira Sacra.",
+    "fr": "Rouge d'Algueira, bodega familiale de Doade dans la sous-zone d'Amandi, élaboré avec des raisins des terrasses du canyon du Sil dans la DO Ribeira Sacra.",
+    "it": "Rosso di Algueira, cantina familiare di Doade nella sottozona di Amandi, prodotto con uve delle terrazze del canyon del Sil nella DO Ribeira Sacra."
+  },
+  "body": {
+    "es": "<p><strong>Algueira</strong> es la bodega familiar de Fernando González y Ana Pérez en Doade (Sober), en la subzona de Amandi de la DO Ribeira Sacra. Sus viñedos ocupan bancales de piedra (los socalcos) en las laderas casi verticales del cañón del Sil, donde todo el trabajo se hace a mano. La casa se ha distinguido por recuperar variedades autóctonas gallegas minoritarias y por elaborar vinos de parcela que reflejan la diversidad de suelos y orientaciones del cañón.</p><p>La Ribeira Sacra combina influencia atlántica con veranos cálidos en el fondo de los valles, y suelos pobres de pizarra y granito; es la llamada viticultura heroica, por la dificultad de trabajar en pendientes tan pronunciadas.</p><p><strong>Dolio</strong> forma parte de los tintos de la casa, elaborados con variedades tintas gallegas como la Mencía, dominante en la zona, y otras autóctonas que Algueira ha contribuido a recuperar. Con unos 14 % vol., es un tinto de fruta madura y frescura atlántica, con los matices minerales propios de las laderas del Sil.</p>",
+    "en": "<p><strong>Algueira</strong> is the family winery of Fernando González and Ana Pérez in Doade (Sober), in the Amandi subzone of DO Ribeira Sacra. Its vineyards occupy stone terraces (socalcos) on the almost vertical slopes of the Sil canyon, where all the work is done by hand. The house has stood out for reviving minority native Galician varieties and for making single-plot wines that reflect the diversity of soils and aspects in the canyon.</p><p>Ribeira Sacra combines Atlantic influence with warm summers in the valley bottoms, and poor slate and granite soils; it is known as 'heroic viticulture' because of the difficulty of working on such steep slopes.</p><p><strong>Dolio</strong> is one of the house's reds, made from Galician red varieties such as Mencía, dominant in the area, and other native grapes that Algueira has helped to revive. At around 14% ABV, it is a red with ripe fruit and Atlantic freshness, with the mineral nuances typical of the Sil slopes.</p>",
+    "fr": "<p><strong>Algueira</strong> est la bodega familiale de Fernando González et Ana Pérez à Doade (Sober), dans la sous-zone d'Amandi de la DO Ribeira Sacra. Ses vignes occupent des terrasses de pierre (socalcos) sur les pentes presque verticales du canyon du Sil, où tout le travail se fait à la main. La maison s'est distinguée en relançant des cépages autochtones galiciens minoritaires et en élaborant des vins parcellaires qui reflètent la diversité des sols et des expositions du canyon.</p><p>La Ribeira Sacra associe influence atlantique et étés chauds au fond des vallées, avec des sols pauvres de schiste et de granit ; on parle de viticulture héroïque en raison de la difficulté de travailler sur des pentes aussi raides.</p><p><strong>Dolio</strong> fait partie des rouges de la maison, élaborés avec des cépages rouges galiciens comme la mencía, dominante dans la zone, et d'autres autochtones qu'Algueira a contribué à relancer. D'environ 14 % vol., c'est un rouge au fruit mûr et à la fraîcheur atlantique, avec les nuances minérales propres aux pentes du Sil.</p>",
+    "it": "<p><strong>Algueira</strong> è la cantina familiare di Fernando González e Ana Pérez a Doade (Sober), nella sottozona di Amandi della DO Ribeira Sacra. I suoi vigneti occupano terrazze in pietra (socalcos) sui pendii quasi verticali del canyon del Sil, dove tutto il lavoro si fa a mano. La casa si è distinta per il recupero di vitigni autoctoni galiziani minoritari e per la produzione di vini di parcella che riflettono la diversità di suoli ed esposizioni del canyon.</p><p>La Ribeira Sacra unisce influenza atlantica ed estati calde sul fondo delle valli, con suoli poveri di ardesia e granito; si parla di viticoltura eroica per la difficoltà di lavorare su pendii così ripidi.</p><p><strong>Dolio</strong> fa parte dei rossi della casa, prodotti con vitigni rossi galiziani come la Mencía, dominante nella zona, e altri autoctoni che Algueira ha contribuito a recuperare. Con circa 14% vol., è un rosso di frutto maturo e freschezza atlantica, con le sfumature minerali tipiche dei pendii del Sil.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota. Aromas de fruta roja y negra, notas florales, hierbas de monte y matices minerales. Boca jugosa y fresca, de taninos finos y final persistente.",
+    "en": "Deep cherry red. Aromas of red and black fruit, floral notes, wild herbs and mineral hints. Juicy, fresh palate with fine tannins and a persistent finish.",
+    "fr": "Rouge cerise. Arômes de fruits rouges et noirs, notes florales, herbes sauvages et nuances minérales. Bouche juteuse et fraîche, aux tanins fins et à la finale persistante.",
+    "it": "Rosso ciliegia. Aromi di frutta rossa e nera, note floreali, erbe selvatiche e sfumature minerali. Bocca succosa e fresca, tannini fini e finale persistente."
+  },
+  "pairing": {
+    "es": "Carnes asadas, caza menor, setas, empanada gallega, quesos de media curación",
+    "en": "Roast meat, small game, mushrooms, Galician empanada, medium-aged cheeses",
+    "fr": "Viandes rôties, petit gibier, champignons, empanada galicienne, fromages mi-affinés",
+    "it": "Carni arrosto, piccola selvaggina, funghi, empanada galiziana, formaggi di media stagionatura"
+  },
+  "serve": {
+    "es": "14-16 °C, copa amplia",
+    "en": "14-16 °C, large glass",
+    "fr": "14-16 °C, verre ample",
+    "it": "14-16 °C, calice ampio"
+  },
+  "search": "Algueira Dolio Algueira",
+  "source": "decantalo"
+}

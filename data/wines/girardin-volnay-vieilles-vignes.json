@@ -1,0 +1,48 @@
+{
+  "slug": "girardin-volnay-vieilles-vignes",
+  "name": "Volnay Vieilles Vignes",
+  "winery": "vincent-girardin",
+  "region": "cote-de-beaune",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Vieilles Vignes",
+    "en": "Vieilles Vignes",
+    "fr": "Vieilles Vignes",
+    "it": "Vieilles Vignes"
+  },
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Volnay municipal de cepas viejas de Vincent Girardin, un Pinot Noir de perfil fino y aromático.",
+    "en": "Vincent Girardin’s old-vine village Volnay, a Pinot Noir with a fine, aromatic profile.",
+    "fr": "Volnay village de vieilles vignes de Vincent Girardin, un pinot noir au profil fin et aromatique.",
+    "it": "Volnay comunale di vecchie viti di Vincent Girardin, un Pinot Noir dal profilo fine e aromatico."
+  },
+  "body": {
+    "es": "<p><strong>Volnay</strong>, en la Côte de Beaune, es conocido por dar algunos de los tintos más delicados y perfumados de Borgoña. El pueblo se asienta en una ladera de suelos calizos, más ligeros en la parte alta, que favorecen un Pinot Noir de taninos finos y aromas florales.</p><p>Vincent Girardin elabora esta cuvée con uvas de <strong>cepas viejas</strong> de varias parcelas con denominación municipal. La edad de las viñas aporta concentración sin restar finura. En bodega se buscan extracciones suaves y una crianza en barrica en la que la madera queda en segundo plano, para que dominen la fruta y la textura sedosa propias de la denominación.</p><p>Es un tinto elegante, de cuerpo medio, agradable en su juventud por su fruta y capaz de ganar complejidad durante algunos años de guarda.</p>",
+    "en": "<p><strong>Volnay</strong>, in the Côte de Beaune, is known for producing some of Burgundy’s most delicate and perfumed reds. The village sits on a slope of limestone soils, lighter on the upper part, which favour Pinot Noir with fine tannins and floral aromas.</p><p>Vincent Girardin makes this cuvée from <strong>old-vine</strong> grapes from several village-appellation plots. The age of the vines brings concentration without detracting from finesse. In the cellar the aim is gentle extraction and barrel ageing in which the oak stays in the background, so that the fruit and silky texture typical of the appellation take the lead.</p><p>It is an elegant, medium-bodied red, pleasant in its youth for its fruit and able to gain complexity over a few years of cellaring.</p>",
+    "fr": "<p><strong>Volnay</strong>, en Côte de Beaune, est réputé pour donner certains des rouges les plus délicats et parfumés de Bourgogne. Le village s’adosse à un coteau aux sols calcaires, plus légers dans le haut, qui favorisent un pinot noir aux tanins fins et aux arômes floraux.</p><p>Vincent Girardin élabore cette cuvée avec des raisins de <strong>vieilles vignes</strong> issus de plusieurs parcelles en appellation village. L’âge des vignes apporte de la concentration sans nuire à la finesse. En cave, on recherche des extractions douces et un élevage en barrique où le bois reste en retrait, afin que dominent le fruit et la texture soyeuse propres à l’appellation.</p><p>C’est un rouge élégant, de corps moyen, agréable dans sa jeunesse pour son fruit et capable de gagner en complexité pendant quelques années de garde.</p>",
+    "it": "<p><strong>Volnay</strong>, nella Côte de Beaune, è noto per dare alcuni dei rossi più delicati e profumati della Borgogna. Il paese sorge su un pendio di suoli calcarei, più leggeri nella parte alta, che favoriscono un Pinot Noir dai tannini fini e dagli aromi floreali.</p><p>Vincent Girardin produce questa cuvée con uve di <strong>vecchie viti</strong> provenienti da diverse parcelle a denominazione comunale. L’età delle viti dona concentrazione senza togliere finezza. In cantina si cercano estrazioni delicate e un affinamento in barrique in cui il legno resta in secondo piano, perché dominino il frutto e la trama setosa tipici della denominazione.</p><p>È un rosso elegante, di medio corpo, piacevole da giovane per il suo frutto e capace di guadagnare complessità in alcuni anni di affinamento.</p>"
+  },
+  "tasting": {
+    "es": "Aromas de frambuesa, cereza, violeta y especias suaves. Boca sedosa y fresca, de taninos finos.",
+    "en": "Aromas of raspberry, cherry, violet and gentle spice. Silky, fresh palate with fine tannins.",
+    "fr": "Arômes de framboise, de cerise, de violette et d’épices douces. Bouche soyeuse et fraîche, aux tanins fins.",
+    "it": "Aromi di lampone, ciliegia, violetta e spezie delicate. Bocca setosa e fresca, con tannini fini."
+  },
+  "pairing": {
+    "es": "Aves asadas, conejo, ternera, quesos suaves",
+    "en": "Roast poultry, rabbit, veal, mild cheeses",
+    "fr": "Volailles rôties, lapin, veau, fromages doux",
+    "it": "Pollame arrosto, coniglio, vitello, formaggi delicati"
+  },
+  "serve": {
+    "es": "15-17 °C, copa de Borgoña",
+    "en": "15-17 °C, Burgundy glass",
+    "fr": "15-17 °C, verre de type bourguignon",
+    "it": "15-17 °C, calice tipo Borgogna"
+  },
+  "search": "Volnay Vieilles Vignes Vincent Girardin"
+}

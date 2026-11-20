@@ -1,0 +1,40 @@
+{
+  "slug": "enate-uno-tinto",
+  "name": "Enate Uno Tinto",
+  "winery": "enate",
+  "winery_name": null,
+  "region": "somontano",
+  "country": "espana",
+  "appellation": "DO Somontano",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Enate Uno Tinto es un vino tinto de Enate, con la denominación DO Somontano, en España.",
+    "en": "Enate Uno Tinto is a red wine from Enate, made under the DO Somontano appellation in Spain.",
+    "fr": "Enate Uno Tinto est un vin rouge de Enate, élaboré sous l’appellation DO Somontano (Espagne).",
+    "it": "Enate Uno Tinto è un vino rosso di Enate, prodotto nella denominazione DO Somontano (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 15,5 % vol.</p><p>Bodega de Salas Bajas (Huesca), una de las impulsoras del Somontano moderno, conocida por unir vino y arte contemporáneo en sus etiquetas.</p><p>Somontano es una denominación de origen de la provincia de Huesca, al pie de los Pirineos, con Barbastro como centro. Combina variedades autóctonas como Moristel y Parraleta con un amplio abanico de uvas internacionales.</p>",
+    "en": "<p>It is aged in wood. It has 15.5% ABV.</p><p>Winery in Salas Bajas (Huesca), one of the driving forces of modern Somontano, known for combining wine and contemporary art on its labels.</p><p>Somontano is a designation of origin in the province of Huesca, at the foot of the Pyrenees, centred on Barbastro. It combines native varieties such as Moristel and Parraleta with a wide range of international grapes.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 15,5 % vol.</p><p>Bodega de Salas Bajas (Huesca), l’un des moteurs du Somontano moderne, connue pour associer vin et art contemporain sur ses étiquettes.</p><p>Le Somontano est une dénomination d'origine de la province de Huesca, au pied des Pyrénées, centrée sur Barbastro. Il associe des cépages autochtones comme le moristel et la parraleta à une large palette de cépages internationaux.</p>",
+    "it": "<p>È affinato in legno. Ha 15,5% vol.</p><p>Cantina di Salas Bajas (Huesca), una delle protagoniste del Somontano moderno, nota per unire vino e arte contemporanea nelle sue etichette.</p><p>Somontano è una denominazione di origine della provincia di Huesca, ai piedi dei Pirenei, con Barbastro come centro. Unisce vitigni autoctoni come Moristel e Parraleta a un'ampia gamma di uve internazionali.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Enate Uno Tinto Enate",
+  "brief": true,
+  "source": "decantalo"
+}

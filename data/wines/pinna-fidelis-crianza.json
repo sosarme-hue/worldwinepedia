@@ -1,0 +1,47 @@
+{
+  "slug": "pinna-fidelis-crianza",
+  "name": "Pinna Fidelis Crianza",
+  "winery": null,
+  "winery_name": "Pinna Fidelis",
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "appellation": "DO Ribera del Duero",
+  "type": "tinto",
+  "category": {
+    "es": "Crianza",
+    "en": "Crianza",
+    "fr": "Crianza",
+    "it": "Crianza"
+  },
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Pinna Fidelis Crianza es un vino tinto de Pinna Fidelis, con la denominación DO Ribera del Duero, en España.",
+    "en": "Pinna Fidelis Crianza is a red wine from Pinna Fidelis, made under the DO Ribera del Duero appellation in Spain.",
+    "fr": "Pinna Fidelis Crianza est un vin rouge de Pinna Fidelis, élaboré sous l’appellation DO Ribera del Duero (Espagne).",
+    "it": "Pinna Fidelis Crianza è un vino rosso di Pinna Fidelis, prodotto nella denominazione DO Ribera del Duero (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Tempranillo. Lleva la mención Crianza. Su graduación es de 14,5 % vol.</p><p>Ribera del Duero es una denominación de origen de Castilla y León, creada en 1982, que se extiende a lo largo del río Duero en una meseta de gran altitud. Es conocida por sus tintos de Tempranillo, llamada aquí Tinto Fino o Tinta del País.</p>",
+    "en": "<p>It is made from Tempranillo. It carries the Crianza designation. It has 14.5% ABV.</p><p>Ribera del Duero is a designation of origin in Castilla y León, created in 1982, that runs along the Duero river on a high plateau. It is known for its reds made from Tempranillo, called Tinto Fino or Tinta del País locally.</p>",
+    "fr": "<p>Il est élaboré à partir de Tempranillo. Il porte la mention Crianza. Il titre 14,5 % vol.</p><p>La Ribera del Duero est une dénomination d'origine de Castille-et-León, créée en 1982, qui s'étend le long du Douro sur un haut plateau. Elle est connue pour ses rouges de tempranillo, appelé ici tinto fino ou tinta del país.</p>",
+    "it": "<p>È prodotto con Tempranillo. Riporta la menzione Crianza. Ha 14,5% vol.</p><p>Ribera del Duero è una denominazione di origine della Castiglia e León, istituita nel 1982, che si estende lungo il fiume Duero su un altopiano elevato. È nota per i rossi di Tempranillo, chiamato qui Tinto Fino o Tinta del País.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Pinna Fidelis Crianza Pinna Fidelis",
+  "brief": true,
+  "source": "decantalo"
+}

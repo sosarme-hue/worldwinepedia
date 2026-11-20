@@ -1,0 +1,41 @@
+{
+  "slug": "duboeuf-beaujolais-nouveau",
+  "name": "Georges Duboeuf Beaujolais Nouveau",
+  "winery": "georges-duboeuf",
+  "region": "beaujolais",
+  "country": "francia",
+  "type": "tinto",
+  "category": {"es": "Vino primeur (nouveau)", "en": "Primeur wine (nouveau)", "fr": "Vin primeur (nouveau)", "it": "Vino primeur (novello)"},
+  "grapes": ["gamay"],
+  "summary": {
+    "es": "El Beaujolais Nouveau de Georges Duboeuf, el vino del año que sale al mercado el tercer jueves de noviembre, pocas semanas después de la vendimia.",
+    "en": "Georges Duboeuf’s Beaujolais Nouveau, the new-vintage wine released on the third Thursday of November, just weeks after the harvest.",
+    "fr": "Le beaujolais nouveau de Georges Duboeuf, vin primeur commercialisé le troisième jeudi de novembre, quelques semaines après les vendanges.",
+    "it": "Il Beaujolais Nouveau di Georges Duboeuf, il vino novello che esce sul mercato il terzo giovedì di novembre, poche settimane dopo la vendemmia."
+  },
+  "body": {
+    "es": "<p>El Beaujolais Nouveau es un vino primeur: se elabora y se pone a la venta en un plazo muy breve tras la vendimia, y la normativa fija su salida al mercado el tercer jueves de noviembre. Georges Duboeuf fue uno de los grandes impulsores de esta tradición fuera de Francia, y su Nouveau, con una etiqueta que cambia cada año, es uno de los más difundidos.</p><p>Se elabora con Gamay, generalmente mediante maceración carbónica o semicarbónica: los racimos enteros se depositan en el depósito y una parte de la fermentación se produce dentro de los granos, lo que da vinos de color vivo, muy afrutados y con poco tanino.</p><p>Es un tinto ligero y alegre, pensado para beberse en los meses siguientes a su lanzamiento, ligeramente fresco y sin necesidad de ocasión especial.</p>",
+    "en": "<p>Beaujolais Nouveau is a primeur wine: it is made and put on sale very shortly after the harvest, and regulations set its release on the third Thursday of November. Georges Duboeuf was one of the great promoters of this tradition outside France, and his Nouveau, with a label that changes every year, is one of the most widely available.</p><p>It is made from Gamay, generally by carbonic or semi-carbonic maceration: whole bunches are placed in the tank and part of the fermentation takes place inside the berries, producing brightly coloured, very fruity wines with little tannin.</p><p>It is a light, cheerful red, designed to be drunk in the months following its release, slightly chilled and without needing a special occasion.</p>",
+    "fr": "<p>Le beaujolais nouveau est un vin primeur : il est élaboré et mis en vente très peu de temps après les vendanges, et la réglementation fixe sa sortie au troisième jeudi de novembre. Georges Duboeuf fut l’un des grands promoteurs de cette tradition hors de France, et son nouveau, dont l’étiquette change chaque année, est l’un des plus diffusés.</p><p>Il est élaboré à partir de gamay, généralement par macération carbonique ou semi-carbonique : les grappes entières sont placées en cuve et une partie de la fermentation se déroule à l’intérieur des baies, ce qui donne des vins à la couleur vive, très fruités et peu tanniques.</p><p>C’est un rouge léger et joyeux, à boire dans les mois qui suivent sa sortie, légèrement rafraîchi et sans attendre une occasion particulière.</p>",
+    "it": "<p>Il Beaujolais Nouveau è un vino primeur: si produce e si mette in vendita pochissimo tempo dopo la vendemmia, e la normativa ne fissa l’uscita al terzo giovedì di novembre. Georges Duboeuf fu uno dei grandi promotori di questa tradizione fuori dalla Francia, e il suo Nouveau, con un’etichetta che cambia ogni anno, è uno dei più diffusi.</p><p>Si ottiene da Gamay, di solito per macerazione carbonica o semicarbonica: i grappoli interi vengono messi in vasca e una parte della fermentazione avviene all’interno degli acini, dando vini dal colore vivace, molto fruttati e poco tannici.</p><p>È un rosso leggero e allegro, pensato per essere bevuto nei mesi successivi all’uscita, leggermente fresco e senza bisogno di un’occasione speciale.</p>"
+  },
+  "tasting": {
+    "es": "Violáceo brillante. Aromas intensos de fresa, frambuesa, cereza y plátano, típicos de la maceración carbónica. En boca es ligero, jugoso y con tanino muy suave.",
+    "en": "Bright purple. Intense aromas of strawberry, raspberry, cherry and banana, typical of carbonic maceration. Light and juicy on the palate, with very soft tannins.",
+    "fr": "Violacé brillant. Arômes intenses de fraise, de framboise, de cerise et de banane, typiques de la macération carbonique. En bouche, léger, juteux, aux tanins très souples.",
+    "it": "Violaceo brillante. Aromi intensi di fragola, lampone, ciliegia e banana, tipici della macerazione carbonica. In bocca è leggero, succoso e con tannino molto morbido."
+  },
+  "pairing": {
+    "es": "Embutidos, paté, quesos tiernos, cocina lionesa, tapas",
+    "en": "Charcuterie, pâté, young cheeses, Lyonnaise cooking, tapas",
+    "fr": "Charcuterie, pâté, fromages jeunes, cuisine lyonnaise, tapas",
+    "it": "Salumi, paté, formaggi freschi, cucina lionese, stuzzichini"
+  },
+  "serve": {
+    "es": "12-14 °C, copa de vino tinto mediana",
+    "en": "12-14 °C, medium red wine glass",
+    "fr": "12-14 °C, verre à vin rouge moyen",
+    "it": "12-14 °C, calice medio da vino rosso"
+  },
+  "search": "Georges Duboeuf Beaujolais Nouveau"
+}

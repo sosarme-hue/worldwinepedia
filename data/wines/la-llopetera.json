@@ -1,0 +1,42 @@
+{
+  "slug": "la-llopetera",
+  "name": "La Llopetera",
+  "winery": null,
+  "winery_name": "Escoda Sanahuja",
+  "region": "conca-de-barbera",
+  "country": "espana",
+  "appellation": "DO Conca de Barberà",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "La Llopetera es un vino tinto de Escoda Sanahuja, con la denominación DO Conca de Barberà, en España.",
+    "en": "La Llopetera is a red wine from Escoda Sanahuja, made under the DO Conca de Barberà appellation in Spain.",
+    "fr": "La Llopetera est un vin rouge de Escoda Sanahuja, élaboré sous l’appellation DO Conca de Barberà (Espagne).",
+    "it": "La Llopetera è un vino rosso di Escoda Sanahuja, prodotto nella denominazione DO Conca de Barberà (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Pinot Noir. Tiene crianza en madera. Su graduación es de 13,5 % vol.</p><p>Conca de Barberà es una denominación de origen catalana situada en el interior de la provincia de Tarragona, en torno a Montblanc y al monasterio de Poblet. Es conocida por su variedad autóctona Trepat, con la que se elaboran rosados y tintos ligeros, y por sus uvas blancas destinadas en buena parte al cava.</p>",
+    "en": "<p>It is made from Pinot Noir. It is aged in wood. It has 13.5% ABV.</p><p>Conca de Barberà is a Catalan designation of origin in the interior of the province of Tarragona, around Montblanc and the monastery of Poblet. It is known for its native Trepat grape, used for rosés and light reds, and for its white grapes, a large share of which go into cava.</p>",
+    "fr": "<p>Il est élaboré à partir de Pinot Noir. Il est élevé en bois. Il titre 13,5 % vol.</p><p>Conca de Barberà est une dénomination d'origine catalane située à l'intérieur de la province de Tarragone, autour de Montblanc et du monastère de Poblet. Elle est connue pour son cépage autochtone, le trepat, dont on tire des rosés et des rouges légers, et pour ses raisins blancs, destinés en bonne partie au cava.</p>",
+    "it": "<p>È prodotto con Pinot Nero. È affinato in legno. Ha 13,5% vol.</p><p>Conca de Barberà è una denominazione di origine catalana situata nell'interno della provincia di Tarragona, intorno a Montblanc e al monastero di Poblet. È nota per il suo vitigno autoctono Trepat, da cui si ottengono rosati e rossi leggeri, e per le sue uve bianche, destinate in buona parte al cava.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "La Llopetera Escoda Sanahuja",
+  "brief": true,
+  "source": "decantalo"
+}

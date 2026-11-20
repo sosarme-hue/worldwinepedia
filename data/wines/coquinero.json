@@ -1,0 +1,48 @@
+{
+  "slug": "coquinero",
+  "name": "Amontillado Coquinero",
+  "winery": "osborne",
+  "region": "jerez-xeres-sherry",
+  "country": "espana",
+  "type": "generoso",
+  "category": {
+    "es": "Amontillado",
+    "en": "Amontillado",
+    "fr": "Amontillado",
+    "it": "Amontillado"
+  },
+  "grapes": [
+    "palomino"
+  ],
+  "summary": {
+    "es": "Amontillado seco de Osborne, de crianza biológica y oxidativa en El Puerto de Santa María.",
+    "en": "Dry amontillado from Osborne, with biological and oxidative ageing in El Puerto de Santa María.",
+    "fr": "Amontillado sec d'Osborne, à élevage biologique puis oxydatif à El Puerto de Santa María.",
+    "it": "Amontillado secco di Osborne, ad affinamento biologico e ossidativo a El Puerto de Santa María."
+  },
+  "body": {
+    "es": "<p>Coquinero es el amontillado clásico de Osborne y uno de los jereces secos más tradicionales de la casa de <strong>El Puerto de Santa María</strong>. Su estilo refleja la doble crianza que define a los amontillados, a medio camino entre el fino y el oloroso.</p><p>Se elabora con <strong>palomino</strong> de viñedos de albariza. El vino comienza su crianza como un fino, bajo el velo de <strong>flor</strong>, en las bodegas de Osborne en El Puerto, donde la humedad del mar favorece la vida de las levaduras. Tras varios años, cuando el velo desaparece, el vino se encabeza y continúa envejeciendo de forma <strong>oxidativa</strong> en el sistema de criaderas y solera. Esta segunda etapa le da color ámbar, más cuerpo y aromas de frutos secos y madera, mientras conserva el carácter punzante y la sequedad que heredó de su fase biológica. Es un vino seco y complejo que se mantiene bien varias semanas después de abierto y acompaña con acierto muchos platos.</p>",
+    "en": "<p>Coquinero is Osborne's classic amontillado and one of the most traditional dry sherries of the <strong>El Puerto de Santa María</strong> house. Its style reflects the dual ageing that defines amontillados, halfway between fino and oloroso.</p><p>It is made from <strong>Palomino</strong> from albariza vineyards. The wine begins its ageing as a fino, under <strong>flor</strong>, in Osborne's bodegas in El Puerto, where the sea's humidity favours the life of the yeast. After several years, when the flor disappears, the wine is fortified and continues ageing <strong>oxidatively</strong> in the criaderas and solera system. This second stage gives it its amber colour, more body and aromas of nuts and wood, while it keeps the pungent character and dryness inherited from its biological phase. It is a dry, complex wine that keeps well for several weeks after opening and pairs successfully with many dishes.</p>",
+    "fr": "<p>Coquinero est l'amontillado classique d'Osborne et l'un des xérès secs les plus traditionnels de la maison d'<strong>El Puerto de Santa María</strong>. Son style reflète le double élevage qui définit les amontillados, à mi-chemin entre le fino et l'oloroso.</p><p>Il est élaboré avec du <strong>palomino</strong> de vignes d'albariza. Le vin commence son élevage comme un fino, sous voile de <strong>flor</strong>, dans les bodegas d'Osborne à El Puerto, où l'humidité marine favorise la vie des levures. Après plusieurs années, lorsque le voile disparaît, le vin est muté et poursuit son vieillissement de façon <strong>oxydative</strong> dans le système des criaderas et solera. Cette seconde étape lui donne sa couleur ambrée, plus de corps et des arômes de fruits secs et de bois, tout en conservant le caractère piquant et la sécheresse hérités de sa phase biologique. C'est un vin sec et complexe qui se garde bien plusieurs semaines après ouverture et accompagne avec bonheur de nombreux plats.</p>",
+    "it": "<p>Coquinero è l'amontillado classico di Osborne e uno degli sherry secchi più tradizionali della casa di <strong>El Puerto de Santa María</strong>. Il suo stile riflette il doppio affinamento che definisce gli amontillado, a metà strada tra fino e oloroso.</p><p>È prodotto con <strong>Palomino</strong> di vigneti di albariza. Il vino inizia l'affinamento come un fino, sotto il velo di <strong>flor</strong>, nelle bodegas di Osborne a El Puerto, dove l'umidità del mare favorisce la vita dei lieviti. Dopo diversi anni, quando il velo scompare, il vino viene fortificato e prosegue l'invecchiamento in modo <strong>ossidativo</strong> nel sistema di criaderas e solera. Questa seconda fase gli conferisce colore ambrato, più corpo e aromi di frutta secca e legno, mentre conserva il carattere pungente e la secchezza ereditati dalla fase biologica. È un vino secco e complesso che si conserva bene per diverse settimane dopo l'apertura e accompagna con successo molti piatti.</p>"
+  },
+  "tasting": {
+    "es": "Ámbar. Aromas de avellana, almendra tostada, madera y notas punzantes. En boca es seco, sabroso y largo.",
+    "en": "Amber. Aromas of hazelnut, toasted almond, wood and pungent notes. Dry, savoury and long on the palate.",
+    "fr": "Ambre. Arômes de noisette, d'amande grillée, de bois et notes piquantes. En bouche, sec, savoureux et long.",
+    "it": "Ambra. Aromi di nocciola, mandorla tostata, legno e note pungenti. In bocca è secco, sapido e lungo."
+  },
+  "pairing": {
+    "es": "Consomés, alcachofas, setas, carnes blancas, quesos curados",
+    "en": "Consommés, artichokes, mushrooms, white meats, aged cheeses",
+    "fr": "Consommés, artichauts, champignons, viandes blanches, fromages affinés",
+    "it": "Consommé, carciofi, funghi, carni bianche, formaggi stagionati"
+  },
+  "serve": {
+    "es": "12-14 °C, copa de vino blanco",
+    "en": "12-14 °C, white wine glass",
+    "fr": "12-14 °C, verre à vin blanc",
+    "it": "12-14 °C, calice da vino bianco"
+  },
+  "search": "Amontillado Coquinero Osborne"
+}

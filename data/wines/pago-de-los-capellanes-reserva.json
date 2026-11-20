@@ -1,0 +1,48 @@
+{
+  "slug": "pago-de-los-capellanes-reserva",
+  "name": "Pago de los Capellanes Reserva",
+  "winery": "pago-de-los-capellanes",
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Reserva de Pago de los Capellanes elaborado con Tinto Fino seleccionado de viñedos propios y envejecido al menos tres años entre barrica y botella.",
+    "en": "Reserva from Pago de los Capellanes made from selected Tinto Fino from its own vineyards and aged for at least three years between barrel and bottle.",
+    "fr": "Reserva de Pago de los Capellanes élaboré avec du tinto fino sélectionné de ses propres vignes et vieilli au moins trois ans entre barrique et bouteille.",
+    "it": "Reserva di Pago de los Capellanes prodotto con Tinto Fino selezionato da vigneti propri e invecchiato almeno tre anni tra barrique e bottiglia."
+  },
+  "body": {
+    "es": "<p>El Reserva de Pago de los Capellanes procede de una selección de las mejores parcelas de la bodega en Pedrosa de Duero, en la Ribera del Duero burgalesa, y se elabora con Tinto Fino, la variante local del Tempranillo. Solo se produce en añadas que la familia Rodero-Villa considera adecuadas para una crianza larga.</p><p>Según la normativa de la Denominación de Origen Ribera del Duero, un Reserva debe envejecer un mínimo de treinta y seis meses, con al menos doce en barrica. La bodega cría el vino en barricas de roble francés durante un periodo prolongado y lo deja reposar después en botella, de modo que llega al mercado con la madera bien integrada y una evolución ya perceptible.</p><p>El resultado es un tinto profundo y estructurado, con fruta negra madura, notas especiadas, tostadas y balsámicas, y taninos firmes pero pulidos. Tiene buena capacidad de guarda y se beneficia de la decantación en sus primeros años.</p>",
+    "en": "<p>The Pago de los Capellanes Reserva comes from a selection of the winery’s best plots in Pedrosa de Duero, on the Burgos side of Ribera del Duero, and is made from Tinto Fino, the local variant of Tempranillo. It is produced only in vintages the Rodero-Villa family considers suitable for long ageing.</p><p>Under the rules of the Ribera del Duero Denominación de Origen, a Reserva must age for at least thirty-six months, with at least twelve in barrel. The winery ages the wine in French oak barrels for an extended period and then leaves it to rest in bottle, so that it reaches the market with well-integrated oak and some development already noticeable.</p><p>The result is a deep, structured red with ripe black fruit, spicy, toasty and balsamic notes, and firm but polished tannins. It has good ageing potential and benefits from decanting in its early years.</p>",
+    "fr": "<p>Le Reserva de Pago de los Capellanes provient d’une sélection des meilleures parcelles de la bodega à Pedrosa de Duero, dans la Ribera del Duero de Burgos, et il est élaboré avec du tinto fino, variante locale du tempranillo. Il n’est produit que les millésimes que la famille Rodero-Villa juge propices à un long élevage.</p><p>Selon la réglementation de la Denominación de Origen Ribera del Duero, un Reserva doit vieillir au moins trente-six mois, dont douze au minimum en barrique. La bodega élève le vin en barriques de chêne français pendant une longue période, puis le laisse reposer en bouteille, de sorte qu’il arrive sur le marché avec un bois bien intégré et une évolution déjà perceptible.</p><p>Il en résulte un rouge profond et structuré, aux fruits noirs mûrs, aux notes épicées, toastées et balsamiques, et aux tanins fermes mais polis. Il possède un bon potentiel de garde et gagne à être carafé dans ses premières années.</p>",
+    "it": "<p>Il Reserva di Pago de los Capellanes proviene da una selezione delle migliori parcelle della cantina a Pedrosa de Duero, nella Ribera del Duero di Burgos, ed è prodotto con Tinto Fino, la variante locale del Tempranillo. Si produce solo nelle annate che la famiglia Rodero-Villa ritiene adatte a un lungo affinamento.</p><p>Secondo la normativa della Denominación de Origen Ribera del Duero, un Reserva deve invecchiare almeno trentasei mesi, di cui almeno dodici in barrique. La cantina affina il vino in barrique di rovere francese per un periodo prolungato e lo lascia poi riposare in bottiglia, così che arrivi sul mercato con il legno ben integrato e un’evoluzione già percepibile.</p><p>Il risultato è un rosso profondo e strutturato, con frutto nero maturo, note speziate, tostate e balsamiche, e tannini decisi ma levigati. Ha una buona capacità d’invecchiamento e beneficia della decantazione nei primi anni.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de fruta negra madura, regaliz, especias y tostados de la barrica. En boca es carnoso y estructurado, con taninos firmes y final persistente.",
+    "en": "Intense deep cherry red. Aromas of ripe black fruit, liquorice, spice and toasty oak. Fleshy and structured on the palate, with firm tannins and a persistent finish.",
+    "fr": "Rouge cerise burlat intense. Arômes de fruits noirs mûrs, réglisse, épices et toasté de la barrique. En bouche, il est charnu et structuré, aux tanins fermes et à la finale persistante.",
+    "it": "Rosso ciliegia intenso. Aromi di frutta nera matura, liquirizia, spezie e tostatura della barrique. In bocca è carnoso e strutturato, con tannini decisi e finale persistente."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, lechazo asado, caza mayor, quesos curados de oveja",
+    "en": "Chargrilled red meat, roast milk-fed lamb, large game, aged sheep’s cheeses",
+    "fr": "Viandes rouges à la braise, agneau de lait rôti, gros gibier, fromages de brebis affinés",
+    "it": "Carni rosse alla brace, agnello da latte arrosto, selvaggina di grossa taglia, pecorini stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Pago de los Capellanes Reserva Ribera del Duero"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "majas-blanc",
+  "name": "Majas Blanc",
+  "winery": null,
+  "winery_name": "Domaine Majas",
+  "region": null,
+  "country": "francia",
+  "appellation": "IGP des Côtes Catalanes",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Majas Blanc es un vino blanco de Domaine Majas, con la denominación IGP des Côtes Catalanes, en Francia.",
+    "en": "Majas Blanc is a white wine from Domaine Majas, made under the IGP des Côtes Catalanes appellation in France.",
+    "fr": "Majas Blanc est un vin blanc de Domaine Majas, élaboré sous l’appellation IGP des Côtes Catalanes (France).",
+    "it": "Majas Blanc è un vino bianco di Domaine Majas, prodotto nella denominazione IGP des Côtes Catalanes (Francia)."
+  },
+  "body": {
+    "es": "<p>Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 13,8 % vol.</p>",
+    "en": "<p>It is a young wine, meant to be drunk in its first years. It has 13.8% ABV.</p>",
+    "fr": "<p>C’est un vin jeune, à boire dans ses premières années. Il titre 13,8 % vol.</p>",
+    "it": "<p>È un vino giovane, da bere nei primi anni. Ha 13,8% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Majas Blanc Domaine Majas",
+  "brief": true,
+  "source": "decantalo"
+}

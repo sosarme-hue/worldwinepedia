@@ -1,0 +1,42 @@
+{
+  "slug": "valdespino-deliciosa-manzanilla",
+  "name": "Valdespino Deliciosa Manzanilla",
+  "winery": "valdespino",
+  "winery_name": null,
+  "region": null,
+  "country": "espana",
+  "appellation": "DO Manzanilla - Sanlúcar de Barrameda",
+  "type": "generoso",
+  "category": null,
+  "grapes": [
+    "palomino"
+  ],
+  "summary": {
+    "es": "Valdespino Deliciosa Manzanilla es un vino generoso de Bodegas Valdespino, con la denominación DO Manzanilla - Sanlúcar de Barrameda, en España.",
+    "en": "Valdespino Deliciosa Manzanilla is a fortified wine from Bodegas Valdespino, made under the DO Manzanilla - Sanlúcar de Barrameda appellation in Spain.",
+    "fr": "Valdespino Deliciosa Manzanilla est un vin fortifié de Bodegas Valdespino, élaboré sous l’appellation DO Manzanilla - Sanlúcar de Barrameda (Espagne).",
+    "it": "Valdespino Deliciosa Manzanilla è un vino liquoroso di Bodegas Valdespino, prodotto nella denominazione DO Manzanilla - Sanlúcar de Barrameda (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Palomino. Su graduación es de 15 % vol.</p><p>Una de las casas más antiguas de Jerez, ligada al pago de Macharnudo, conocida por el fino Inocente y el amontillado Tío Diego; pertenece al Grupo Estévez.</p>",
+    "en": "<p>It is made from Palomino. It has 15% ABV.</p><p>One of the oldest houses in Jerez, linked to the Macharnudo vineyard district, known for the Inocente fino and the Tío Diego amontillado; it belongs to Grupo Estévez.</p>",
+    "fr": "<p>Il est élaboré à partir de Palomino. Il titre 15 % vol.</p><p>L'une des plus anciennes maisons de Jerez, liée au pago de Macharnudo, connue pour le fino Inocente et l'amontillado Tío Diego ; elle appartient au Grupo Estévez.</p>",
+    "it": "<p>È prodotto con Palomino. Ha 15% vol.</p><p>Una delle case più antiche di Jerez, legata al pago di Macharnudo, nota per il fino Inocente e l'amontillado Tío Diego; appartiene al Grupo Estévez.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, jamón, frutos secos, quesos curados",
+    "en": "Aperitif, cured ham, nuts, aged cheeses",
+    "fr": "Apéritif, jambon sec, fruits secs, fromages affinés",
+    "it": "Aperitivo, prosciutto crudo, frutta secca, formaggi stagionati"
+  },
+  "serve": {
+    "es": "7-14 °C según el tipo, catavino",
+    "en": "7-14 °C depending on style, copita glass",
+    "fr": "7-14 °C selon le style, verre à xérès",
+    "it": "7-14 °C secondo lo stile, bicchiere da sherry"
+  },
+  "search": "Valdespino Deliciosa Manzanilla Valdespino",
+  "brief": true,
+  "source": "decantalo"
+}

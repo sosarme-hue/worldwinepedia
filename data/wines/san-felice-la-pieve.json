@@ -1,0 +1,48 @@
+{
+  "slug": "san-felice-la-pieve",
+  "name": "San Felice Chianti Classico Gran Selezione La Pieve",
+  "winery": "san-felice",
+  "region": "chianti-classico",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "Chianti Classico Gran Selezione",
+    "en": "Chianti Classico Gran Selezione",
+    "fr": "Chianti Classico Gran Selezione",
+    "it": "Chianti Classico Gran Selezione"
+  },
+  "grapes": [
+    "sangiovese"
+  ],
+  "summary": {
+    "es": "Una Gran Selezione de San Felice, la categoría superior del Chianti Classico, Sangiovese de Castelnuovo Berardenga pensado para la guarda.",
+    "en": "A Gran Selezione from San Felice, the top category of Chianti Classico, a Sangiovese from Castelnuovo Berardenga built for ageing.",
+    "fr": "Une Gran Selezione de San Felice, la catégorie supérieure du Chianti Classico, un sangiovese de Castelnuovo Berardenga conçu pour la garde.",
+    "it": "Una Gran Selezione di San Felice, la categoria superiore del Chianti Classico, un Sangiovese di Castelnuovo Berardenga pensato per l’invecchiamento."
+  },
+  "body": {
+    "es": "<p>La <strong>Gran Selezione</strong> es la categoría más alta de la pirámide del Chianti Classico, por encima de la Riserva. Introducida en la década de 2010, exige que las uvas procedan exclusivamente de viñedos de la propia bodega y un periodo de crianza mínimo más largo, y sus normas han evolucionado para reforzar el peso de la <strong>Sangiovese</strong> y de las variedades autóctonas.</p><p><em>La Pieve</em> es una Gran Selezione de San Felice, bodega situada en Castelnuovo Berardenga, en el sur de la denominación; su nombre alude a la <em>pieve</em>, término que designa en Toscana las antiguas iglesias rurales. Se elabora con Sangiovese de viñedos seleccionados de la finca y se cría en madera durante un periodo prolongado, con el objetivo de combinar concentración, estructura y elegancia.</p><p>Es un tinto de cuerpo pleno, con cereza negra, ciruela, especias y notas de tabaco, taninos firmes y buena acidez. Requiere varios años de botella para expresar toda su complejidad.</p>",
+    "en": "<p><strong>Gran Selezione</strong> is the highest category of the Chianti Classico pyramid, above Riserva. Introduced in the 2010s, it requires the grapes to come exclusively from the winery’s own vineyards and a longer minimum ageing period, and its rules have evolved to strengthen the role of <strong>Sangiovese</strong> and native varieties.</p><p><em>La Pieve</em> is a Gran Selezione from San Felice, a winery in Castelnuovo Berardenga in the south of the appellation; its name refers to the <em>pieve</em>, the Tuscan term for old rural parish churches. It is made from Sangiovese from selected estate vineyards and aged in wood for an extended period, aiming to combine concentration, structure and elegance.</p><p>It is a full-bodied red with black cherry, plum, spice and tobacco notes, firm tannins and good acidity. It needs several years in bottle to express its full complexity.</p>",
+    "fr": "<p>La <strong>Gran Selezione</strong> est la catégorie la plus élevée de la pyramide du Chianti Classico, au-dessus de la Riserva. Introduite dans les années 2010, elle exige que les raisins proviennent exclusivement des vignes du domaine et un élevage minimal plus long, et ses règles ont évolué pour renforcer la place du <strong>sangiovese</strong> et des cépages autochtones.</p><p><em>La Pieve</em> est une Gran Selezione de San Felice, domaine situé à Castelnuovo Berardenga, au sud de l’appellation ; son nom fait référence à la <em>pieve</em>, terme toscan désignant les anciennes églises paroissiales rurales. Il est élaboré à partir de sangiovese de vignes sélectionnées du domaine et élevé longuement sous bois, afin d’allier concentration, structure et élégance.</p><p>C’est un rouge ample, à la cerise noire, à la prune, aux épices et aux notes de tabac, aux tanins fermes et à la belle acidité. Il demande plusieurs années de bouteille pour exprimer toute sa complexité.</p>",
+    "it": "<p>La <strong>Gran Selezione</strong> è la categoria più alta della piramide del Chianti Classico, al di sopra della Riserva. Introdotta negli anni Dieci di questo secolo, richiede che le uve provengano esclusivamente dai vigneti dell’azienda e un periodo minimo di affinamento più lungo, e le sue regole si sono evolute per rafforzare il peso del <strong>Sangiovese</strong> e dei vitigni autoctoni.</p><p><em>La Pieve</em> è una Gran Selezione di San Felice, azienda situata a Castelnuovo Berardenga, nel sud della denominazione; il nome richiama la pieve, l’antica chiesa rurale tipica della Toscana. Si ottiene da Sangiovese di vigneti selezionati della tenuta ed è affinato a lungo in legno, con l’obiettivo di unire concentrazione, struttura ed eleganza.</p><p>È un rosso di corpo pieno, con ciliegia nera, prugna, spezie e note di tabacco, tannini decisi e buona acidità. Richiede diversi anni di bottiglia per esprimere tutta la sua complessità.</p>"
+  },
+  "tasting": {
+    "es": "Rubí granate profundo. Aromas de cereza negra, ciruela, especias, tabaco y tierra. Boca amplia y estructurada, con final largo.",
+    "en": "Deep ruby-garnet. Aromas of black cherry, plum, spice, tobacco and earth. Broad, structured palate with a long finish.",
+    "fr": "Rubis grenat profond. Arômes de cerise noire, de prune, d’épices, de tabac et de terre. Bouche ample et structurée, à la finale longue.",
+    "it": "Rubino granato profondo. Aromi di ciliegia nera, prugna, spezie, tabacco e terra. Bocca ampia e strutturata, con finale lungo."
+  },
+  "pairing": {
+    "es": "Caza, estofados de jabalí, carnes rojas asadas, quesos curados",
+    "en": "Game, wild boar stew, roast red meat, aged cheeses",
+    "fr": "Gibier, civet de sanglier, viandes rouges rôties, fromages affinés",
+    "it": "Selvaggina, cinghiale in umido, carni rosse arrosto, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia; decantar",
+    "en": "16-18 °C, large glass; decant",
+    "fr": "16-18 °C, grand verre ; carafer",
+    "it": "16-18 °C, calice ampio; decantare"
+  },
+  "search": "La Pieve Chianti Classico Gran Selezione San Felice"
+}

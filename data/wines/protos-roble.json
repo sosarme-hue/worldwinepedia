@@ -1,0 +1,41 @@
+{
+  "slug": "protos-roble",
+  "name": "Protos Roble",
+  "winery": "protos",
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "type": "tinto",
+  "category": {"es": "Roble", "en": "Roble (oaked)", "fr": "Roble (passé en fût)", "it": "Roble (passato in legno)"},
+  "grapes": ["tempranillo"],
+  "summary": {
+    "es": "Tinto joven con un breve paso por barrica de Bodegas Protos, de perfil frutal y precio asequible.",
+    "en": "Young red with a short spell in barrel from Bodegas Protos, fruity and affordably priced.",
+    "fr": "Rouge jeune brièvement passé en barrique de Bodegas Protos, fruité et à prix abordable.",
+    "it": "Rosso giovane con un breve passaggio in botte di Bodegas Protos, fruttato e dal prezzo accessibile."
+  },
+  "body": {
+    "es": "<p>El término «Roble» se utiliza en la Ribera del Duero y otras zonas para designar tintos con una crianza en barrica más corta que la exigida para la categoría Crianza. El Protos Roble responde a ese estilo: un tinto de Tinto Fino (Tempranillo) que pasa unos meses en barrica de roble antes de embotellarse.</p><p>La uva procede de viñedos propios y de viticultores de la zona de Peñafiel y alrededores. La breve estancia en madera busca aportar redondez y algunas notas especiadas sin restar protagonismo a la fruta.</p><p>Es un vino de consumo habitual, fácil de beber, que permite conocer el carácter de la Tempranillo de la Ribera del Duero a un precio moderado. Está pensado para beberse joven.</p>",
+    "en": "<p>The term “Roble” (oak) is used in Ribera del Duero and other areas for reds with shorter barrel ageing than is required for the Crianza category. Protos Roble follows that style: a Tinto Fino (Tempranillo) red that spends a few months in oak barrels before bottling.</p><p>The grapes come from the winery’s own vineyards and from growers in and around Peñafiel. The brief time in wood aims to add roundness and some spicy notes without overshadowing the fruit.</p><p>It is an easy-drinking everyday wine that offers a taste of Ribera del Duero Tempranillo at a moderate price. It is meant to be drunk young.</p>",
+    "fr": "<p>Le terme « Roble » (chêne) est utilisé en Ribera del Duero et dans d’autres zones pour désigner des rouges dont l’élevage en barrique est plus court que celui exigé pour la catégorie Crianza. Le Protos Roble répond à ce style : un rouge de tinto fino (tempranillo) qui passe quelques mois en barrique de chêne avant la mise en bouteille.</p><p>Les raisins proviennent des vignes de la maison et de viticulteurs de Peñafiel et de ses environs. Le bref passage sous bois vise à apporter de la rondeur et quelques notes épicées sans voler la vedette au fruit.</p><p>C’est un vin de consommation courante, facile à boire, qui permet de découvrir le caractère du tempranillo de la Ribera del Duero à un prix modéré. Il est destiné à être bu jeune.</p>",
+    "it": "<p>Il termine «Roble» (rovere) si usa nella Ribera del Duero e in altre zone per indicare rossi con un affinamento in botte più breve di quello richiesto per la categoria Crianza. Il Protos Roble segue questo stile: un rosso di Tinto Fino (Tempranillo) che trascorre alcuni mesi in botte di rovere prima dell’imbottigliamento.</p><p>Le uve provengono da vigneti propri e da viticoltori di Peñafiel e dintorni. Il breve passaggio in legno mira ad apportare rotondità e qualche nota speziata senza togliere protagonismo al frutto.</p><p>È un vino da consumo quotidiano, facile da bere, che permette di conoscere il carattere del Tempranillo della Ribera del Duero a un prezzo moderato. È pensato per essere bevuto giovane.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota con reflejos violáceos. Aromas de fruta roja y negra fresca, con ligeras notas tostadas. En boca es fresco, frutal y de tanino suave.",
+    "en": "Cherry red with violet highlights. Aromas of fresh red and black fruit, with light toasty notes. Fresh and fruity on the palate, with soft tannins.",
+    "fr": "Rouge cerise aux reflets violacés. Arômes de fruits rouges et noirs frais, avec de légères notes grillées. En bouche, frais, fruité et aux tanins souples.",
+    "it": "Rosso ciliegia con riflessi violacei. Aromi di frutta rossa e nera fresca, con lievi note tostate. In bocca è fresco, fruttato e con tannino morbido."
+  },
+  "pairing": {
+    "es": "Tapas, embutidos, hamburguesas, pasta, arroces con carne",
+    "en": "Tapas, charcuterie, burgers, pasta, rice dishes with meat",
+    "fr": "Tapas, charcuterie, burgers, pâtes, plats de riz à la viande",
+    "it": "Tapas, salumi, hamburger, pasta, risotti con carne"
+  },
+  "serve": {
+    "es": "14-16 °C, copa de vino tinto",
+    "en": "14-16 °C, red wine glass",
+    "fr": "14-16 °C, verre à vin rouge",
+    "it": "14-16 °C, calice da vino rosso"
+  },
+  "search": "Protos Roble Ribera del Duero"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "planeta-cerasuolo-di-vittoria",
+  "name": "Planeta Cerasuolo di Vittoria",
+  "winery": "planeta",
+  "region": "sicilia",
+  "country": "italia",
+  "type": "tinto",
+  "category": {"es": "Cerasuolo di Vittoria DOCG", "en": "Cerasuolo di Vittoria DOCG", "fr": "Cerasuolo di Vittoria DOCG", "it": "Cerasuolo di Vittoria DOCG"},
+  "grapes": ["nero-davola"],
+  "summary": {
+    "es": "Tinto del sudeste de Sicilia que combina Nero d’Avola y Frappato, un vino afrutado y fresco de la única DOCG de la isla.",
+    "en": "A red from south-eastern Sicily blending Nero d’Avola and Frappato, a fruity, fresh wine from the island’s only DOCG.",
+    "fr": "Rouge du sud-est de la Sicile qui associe nero d’avola et frappato, un vin fruité et frais de l’unique DOCG de l’île.",
+    "it": "Rosso della Sicilia sud-orientale che unisce Nero d’Avola e Frappato, un vino fruttato e fresco dell’unica DOCG dell’isola."
+  },
+  "body": {
+    "es": "<p>El Cerasuolo di Vittoria se produce en el sudeste de Sicilia, en torno a la ciudad de Vittoria, en la provincia de Ragusa, y es la única DOCG de la isla. Su nombre alude al color cereza («cerasa») del vino. La normativa exige combinar dos variedades autóctonas: el Nero d’Avola, que aporta color, cuerpo y fruta oscura, y el Frappato, que aporta aromas florales, fruta roja y frescura.</p><p>Planeta elabora este vino en su bodega Dorilli, en la zona de Vittoria, con viñedos sobre suelos arenosos de color rojizo, característicos de la zona. La elaboración busca preservar el carácter afrutado de las uvas, sin una crianza prolongada.</p><p>El resultado es un tinto de cuerpo medio, aromático y fácil de beber, menos potente que muchos Nero d’Avola en solitario. Se disfruta joven y admite servirse algo fresco.</p>",
+    "en": "<p>Cerasuolo di Vittoria is produced in south-eastern Sicily, around the town of Vittoria in the province of Ragusa, and is the island’s only DOCG. Its name refers to the wine’s cherry colour (“cerasa”). The regulations require a blend of two native varieties: Nero d’Avola, which brings colour, body and dark fruit, and Frappato, which brings floral aromas, red fruit and freshness.</p><p>Planeta makes this wine at its Dorilli winery, in the Vittoria area, from vineyards on the reddish sandy soils typical of the area. Winemaking aims to preserve the grapes’ fruity character, without lengthy ageing.</p><p>The result is a medium-bodied, aromatic, easy-drinking red, less powerful than many varietal Nero d’Avolas. It is enjoyed young and can be served slightly chilled.</p>",
+    "fr": "<p>Le Cerasuolo di Vittoria est produit dans le sud-est de la Sicile, autour de la ville de Vittoria, dans la province de Raguse, et c’est l’unique DOCG de l’île. Son nom évoque la couleur cerise (« cerasa ») du vin. Le règlement impose l’assemblage de deux cépages autochtones : le nero d’avola, qui apporte couleur, corps et fruits noirs, et le frappato, qui apporte arômes floraux, fruits rouges et fraîcheur.</p><p>Planeta élabore ce vin dans sa cave Dorilli, dans la zone de Vittoria, à partir de vignes plantées sur les sols sableux rougeâtres caractéristiques de la zone. La vinification cherche à préserver le caractère fruité des raisins, sans élevage prolongé.</p><p>Il en résulte un rouge de corps moyen, aromatique et facile à boire, moins puissant que bien des nero d’avola purs. Il se boit jeune et peut être servi légèrement rafraîchi.</p>",
+    "it": "<p>Il Cerasuolo di Vittoria si produce nella Sicilia sud-orientale, attorno alla città di Vittoria, in provincia di Ragusa, ed è l’unica DOCG dell’isola. Il nome richiama il colore ciliegia (“cerasa”) del vino. Il disciplinare richiede l’unione di due vitigni autoctoni: il Nero d’Avola, che apporta colore, corpo e frutto scuro, e il Frappato, che apporta profumi floreali, frutto rosso e freschezza.</p><p>Planeta produce questo vino nella sua cantina Dorilli, nella zona di Vittoria, da vigneti su suoli sabbiosi rossastri tipici della zona. La vinificazione punta a preservare il carattere fruttato delle uve, senza un lungo affinamento.</p><p>Il risultato è un rosso di medio corpo, aromatico e di facile beva, meno potente di molti Nero d’Avola in purezza. Si gusta giovane e può essere servito leggermente fresco.</p>"
+  },
+  "tasting": {
+    "es": "Rubí brillante de capa media. Aromas de cereza, fresa, granada y flores, con un toque especiado. En boca es fresco y jugoso, con tanino suave y final afrutado.",
+    "en": "Bright, medium-depth ruby. Aromas of cherry, strawberry, pomegranate and flowers, with a spicy touch. Fresh and juicy on the palate, with soft tannins and a fruity finish.",
+    "fr": "Rubis brillant de profondeur moyenne. Arômes de cerise, de fraise, de grenade et de fleurs, avec une touche épicée. En bouche, il est frais et gourmand, aux tanins souples et à la finale fruitée.",
+    "it": "Rubino brillante di media intensità. Profumi di ciliegia, fragola, melograno e fiori, con un tocco speziato. In bocca è fresco e succoso, con tannino morbido e finale fruttato."
+  },
+  "pairing": {
+    "es": "Pasta con tomate, pizza, atún a la plancha, cuscús de pescado, embutidos",
+    "en": "Pasta with tomato, pizza, grilled tuna, fish couscous, cured meats",
+    "fr": "Pâtes à la tomate, pizza, thon grillé, couscous de poisson, charcuterie",
+    "it": "Pasta al pomodoro, pizza, tonno alla griglia, cuscus di pesce, salumi"
+  },
+  "serve": {
+    "es": "14-16 °C, copa mediana",
+    "en": "14-16 °C, medium-sized glass",
+    "fr": "14-16 °C, verre moyen",
+    "it": "14-16 °C, calice medio"
+  },
+  "search": "Planeta Cerasuolo di Vittoria"
+}

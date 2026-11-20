@@ -1,0 +1,42 @@
+{
+  "slug": "bruno-rochard-petit-clou",
+  "name": "Bruno Rochard Petit Clou",
+  "winery": null,
+  "winery_name": "Domaine de Mirebeau",
+  "region": null,
+  "country": "francia",
+  "appellation": "Vin de France",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Bruno Rochard Petit Clou es un vino tinto de Domaine de Mirebeau, con la denominación Vin de France, en Francia.",
+    "en": "Bruno Rochard Petit Clou is a red wine from Domaine de Mirebeau, made under the Vin de France appellation in France.",
+    "fr": "Bruno Rochard Petit Clou est un vin rouge de Domaine de Mirebeau, élaboré sous l’appellation Vin de France (France).",
+    "it": "Bruno Rochard Petit Clou è un vino rosso di Domaine de Mirebeau, prodotto nella denominazione Vin de France (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Cabernet Franc. Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is made from Cabernet Franc. It is a young wine, meant to be drunk in its first years. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Cabernet Franc. C’est un vin jeune, à boire dans ses premières années. Il titre 12,5 % vol.</p>",
+    "it": "<p>È prodotto con Cabernet Franc. È un vino giovane, da bere nei primi anni. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Bruno Rochard Petit Clou Domaine de Mirebeau",
+  "brief": true,
+  "source": "decantalo"
+}

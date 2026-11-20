@@ -1,0 +1,48 @@
+{
+  "slug": "donnafugata-sherazade",
+  "name": "Sherazade Nero d’Avola",
+  "winery": "donnafugata",
+  "region": "sicilia",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "Sicilia DOC",
+    "en": "Sicilia DOC",
+    "fr": "Sicilia DOC",
+    "it": "Sicilia DOC"
+  },
+  "grapes": [
+    "nero-davola"
+  ],
+  "summary": {
+    "es": "Nero d’Avola de la DOC Sicilia elaborado por Donnafugata en un estilo joven y afrutado, sin crianza en madera; su nombre evoca a la narradora de Las mil y una noches.",
+    "en": "Nero d’Avola from the Sicilia DOC made by Donnafugata in a young, fruity, unoaked style; its name recalls the storyteller of the Thousand and One Nights.",
+    "fr": "Nero d’avola de la DOC Sicilia élaboré par Donnafugata dans un style jeune et fruité, sans élevage sous bois ; son nom évoque la conteuse des Mille et Une Nuits.",
+    "it": "Nero d’Avola della DOC Sicilia prodotto da Donnafugata in stile giovane e fruttato, senza legno; il nome evoca la narratrice delle Mille e una notte."
+  },
+  "body": {
+    "es": "<p>La <strong>Nero d’Avola</strong> es la variedad tinta más extendida de Sicilia y la más representativa de la isla. Debe su nombre a la localidad de Avola, en el sudeste, y se adapta bien al calor, dando vinos de color intenso, fruta generosa y acidez notable para un clima tan cálido.</p><p>Donnafugata elabora <strong>Sherazade</strong> como un Nero d’Avola de expresión directa, concebido para mostrar la fruta de la variedad. Tras la fermentación, el vino madura en depósito y en botella, sin paso por barrica, lo que mantiene su frescura y su carácter afrutado. El nombre, como el de otros vinos de la casa, remite a la literatura: en este caso a Sherezade, la narradora de <em>Las mil y una noches</em>, que también da nombre al vino dulce Mille e una Notte de la bodega.</p><p>Es un tinto de cuerpo medio, jugoso y fácil de beber, que admite servirse ligeramente fresco.</p>",
+    "en": "<p><strong>Nero d’Avola</strong> is Sicily’s most widely planted red variety and the most representative of the island. It takes its name from the town of Avola in the south-east and is well suited to heat, giving wines of deep colour, generous fruit and notable acidity for such a warm climate.</p><p>Donnafugata makes <strong>Sherazade</strong> as a Nero d’Avola of direct expression, designed to show the variety’s fruit. After fermentation the wine matures in tank and in bottle, without time in barrel, which preserves its freshness and fruity character. The name, like those of other house wines, comes from literature: in this case Scheherazade, the storyteller of the <em>Thousand and One Nights</em>, who also gives her name to the winery’s Mille e una Notte.</p><p>It is a medium-bodied, juicy, easy-drinking red that can be served slightly chilled.</p>",
+    "fr": "<p>Le <strong>nero d’avola</strong> est le cépage rouge le plus répandu de Sicile et le plus représentatif de l’île. Il doit son nom à la ville d’Avola, dans le sud-est, et s’adapte bien à la chaleur, donnant des vins de couleur intense, au fruit généreux et à l’acidité notable pour un climat aussi chaud.</p><p>Donnafugata élabore <strong>Sherazade</strong> comme un nero d’avola d’expression directe, conçu pour montrer le fruit du cépage. Après la fermentation, le vin mûrit en cuve et en bouteille, sans passage en fût, ce qui préserve sa fraîcheur et son caractère fruité. Son nom, comme celui d’autres vins de la maison, vient de la littérature : ici Shéhérazade, la conteuse des <em>Mille et Une Nuits</em>, qui donne aussi son nom au Mille e una Notte du domaine.</p><p>C’est un rouge de corps moyen, juteux et facile à boire, qui peut se servir légèrement frais.</p>",
+    "it": "<p>Il <strong>Nero d’Avola</strong> è il vitigno rosso più diffuso della Sicilia e il più rappresentativo dell’isola. Deve il nome alla cittadina di Avola, nel sud-est, e si adatta bene al caldo, dando vini di colore intenso, frutto generoso e acidità notevole per un clima così caldo.</p><p>Donnafugata produce <strong>Sherazade</strong> come un Nero d’Avola di espressione diretta, pensato per mostrare il frutto del vitigno. Dopo la fermentazione il vino matura in vasca e in bottiglia, senza passaggio in legno, il che ne preserva la freschezza e il carattere fruttato. Il nome, come quello di altri vini della casa, viene dalla letteratura: in questo caso Sherazade, la narratrice delle <em>Mille e una notte</em>, che dà il nome anche al Mille e una Notte della cantina.</p><p>È un rosso di medio corpo, succoso e di facile beva, che si può servire leggermente fresco.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí con reflejos violáceos. Aromas de cereza, ciruela, mora y un toque especiado. Boca jugosa y suave, de taninos ligeros.",
+    "en": "Ruby red with violet glints. Aromas of cherry, plum, blackberry and a hint of spice. Juicy, smooth palate with light tannins.",
+    "fr": "Rouge rubis aux reflets violacés. Arômes de cerise, de prune, de mûre et touche épicée. Bouche juteuse et souple, aux tanins légers.",
+    "it": "Rosso rubino con riflessi violacei. Aromi di ciliegia, prugna, mora e un tocco speziato. Bocca succosa e morbida, con tannini leggeri."
+  },
+  "pairing": {
+    "es": "Pizza, pasta con tomate, embutidos, carnes blancas, pescados azules",
+    "en": "Pizza, pasta with tomato, charcuterie, white meat, oily fish",
+    "fr": "Pizza, pâtes à la tomate, charcuterie, viandes blanches, poissons gras",
+    "it": "Pizza, pasta al pomodoro, salumi, carni bianche, pesce azzurro"
+  },
+  "serve": {
+    "es": "14-16 °C, copa de tamaño medio",
+    "en": "14-16 °C, medium-sized glass",
+    "fr": "14-16 °C, verre de taille moyenne",
+    "it": "14-16 °C, calice di media grandezza"
+  },
+  "search": "Sherazade Nero d’Avola Donnafugata"
+}

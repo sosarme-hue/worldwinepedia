@@ -1,0 +1,40 @@
+{
+  "slug": "vigneti-massa-bigolla",
+  "name": "Vigneti Massa Bigolla",
+  "winery": null,
+  "winery_name": "Vigneti Massa",
+  "region": null,
+  "country": "italia",
+  "appellation": "DOC Colli Tortonesi",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Vigneti Massa Bigolla es un vino tinto de Vigneti Massa, con la denominación DOC Colli Tortonesi, en Italia.",
+    "en": "Vigneti Massa Bigolla is a red wine from Vigneti Massa, made under the DOC Colli Tortonesi appellation in Italy.",
+    "fr": "Vigneti Massa Bigolla est un vin rouge de Vigneti Massa, élaboré sous l’appellation DOC Colli Tortonesi (Italie).",
+    "it": "Vigneti Massa Bigolla è un vino rosso di Vigneti Massa, prodotto nella denominazione DOC Colli Tortonesi (Italia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14,5 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 14.5% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14,5 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 14,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Vigneti Massa Bigolla Vigneti Massa",
+  "brief": true,
+  "source": "decantalo"
+}

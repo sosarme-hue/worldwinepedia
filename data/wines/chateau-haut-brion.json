@@ -1,0 +1,41 @@
+{
+  "slug": "chateau-haut-brion",
+  "name": "Château Haut-Brion",
+  "winery": "chateau-haut-brion",
+  "region": "pessac-leognan",
+  "country": "francia",
+  "type": "tinto",
+  "category": {"es": "Premier Grand Cru Classé (1855)", "en": "Premier Grand Cru Classé (1855)", "fr": "Premier grand cru classé (1855)", "it": "Premier Grand Cru Classé (1855)"},
+  "grapes": ["merlot", "cabernet-sauvignon", "cabernet-franc"],
+  "summary": {
+    "es": "El gran vino tinto de Château Haut-Brion, Premier Grand Cru Classé de Pessac-Léognan, con un ensamblaje de Merlot y Cabernet.",
+    "en": "The red grand vin of Château Haut-Brion, a Premier Grand Cru Classé in Pessac-Léognan, blending Merlot and Cabernet.",
+    "fr": "Le grand vin rouge du Château Haut-Brion, premier grand cru classé de Pessac-Léognan, assemblant merlot et cabernets.",
+    "it": "Il grand vin rosso di Château Haut-Brion, Premier Grand Cru Classé di Pessac-Léognan, con un assemblaggio di Merlot e Cabernet."
+  },
+  "body": {
+    "es": "<p>El tinto de Château Haut-Brion procede de un viñedo de gravas profundas situado en Pessac, hoy rodeado por la ciudad de Burdeos, lo que le proporciona un microclima algo más cálido que el del campo circundante. A diferencia de muchos grandes vinos del Médoc, el Merlot tiene un peso importante en el ensamblaje, a menudo comparable al del Cabernet Sauvignon, completados con Cabernet Franc.</p><p>Cada parcela se vinifica por separado y el ensamblaje final reúne sólo los mejores lotes; el resto se destina al segundo vino, Le Clarence de Haut-Brion. El vino se cría en barricas de roble francés nuevas.</p><p>Haut-Brion es conocido por su complejidad aromática, con las notas terrosas, ahumadas y de tabaco que se asocian a los Graves, y por una textura fina. Es un vino de muy larga guarda.</p>",
+    "en": "<p>The red of Château Haut-Brion comes from a vineyard of deep gravel in Pessac, now surrounded by the city of Bordeaux, which gives it a microclimate slightly warmer than the surrounding countryside. Unlike many great Médoc wines, Merlot carries significant weight in the blend, often comparable to Cabernet Sauvignon, completed with Cabernet Franc.</p><p>Each plot is vinified separately and the final blend brings together only the best lots; the rest goes into the second wine, Le Clarence de Haut-Brion. The wine is aged in new French oak barrels.</p><p>Haut-Brion is known for its aromatic complexity, with the earthy, smoky and tobacco notes associated with Graves, and for its fine texture. It is a wine for very long ageing.</p>",
+    "fr": "<p>Le rouge du Château Haut-Brion provient d’un vignoble de graves profondes situé à Pessac, aujourd’hui entouré par la ville de Bordeaux, ce qui lui vaut un microclimat un peu plus chaud que celui de la campagne environnante. Contrairement à bien des grands vins du Médoc, le merlot y pèse lourd dans l’assemblage, souvent autant que le cabernet sauvignon, complétés par le cabernet franc.</p><p>Chaque parcelle est vinifiée séparément et l’assemblage final ne retient que les meilleurs lots ; le reste est destiné au second vin, Le Clarence de Haut-Brion. Le vin est élevé en barriques de chêne français neuves.</p><p>Haut-Brion est connu pour sa complexité aromatique, avec les notes terreuses, fumées et de tabac associées aux Graves, et pour sa texture fine. C’est un vin de très longue garde.</p>",
+    "it": "<p>Il rosso di Château Haut-Brion proviene da un vigneto di ghiaie profonde a Pessac, oggi circondato dalla città di Bordeaux, il che gli conferisce un microclima leggermente più caldo rispetto alla campagna circostante. A differenza di molti grandi vini del Médoc, il Merlot ha un peso importante nell’assemblaggio, spesso paragonabile a quello del Cabernet Sauvignon, completati dal Cabernet Franc.</p><p>Ogni parcella è vinificata separatamente e l’assemblaggio finale riunisce solo i lotti migliori; il resto va al secondo vino, Le Clarence de Haut-Brion. Il vino affina in barrique nuove di rovere francese.</p><p>Haut-Brion è noto per la sua complessità aromatica, con le note terrose, affumicate e di tabacco associate alle Graves, e per la sua trama fine. È un vino di lunghissimo invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Rubí granate profundo. Aromas de fruta negra, ciruela, tabaco, cuero, notas ahumadas y terrosas. En boca es complejo y sedoso, con tanino fino y gran persistencia.",
+    "en": "Deep garnet-ruby. Aromas of black fruit, plum, tobacco, leather, smoky and earthy notes. Complex and silky on the palate, with fine tannins and great persistence.",
+    "fr": "Rubis grenat profond. Arômes de fruits noirs, de prune, de tabac, de cuir, avec des notes fumées et terreuses. En bouche, complexe et soyeux, aux tanins fins et d’une grande persistance.",
+    "it": "Rubino granato profondo. Aromi di frutta nera, prugna, tabacco, cuoio, note affumicate e terrose. In bocca è complesso e setoso, con tannino fine e grande persistenza."
+  },
+  "pairing": {
+    "es": "Caza, solomillo con trufa, cordero asado, setas silvestres",
+    "en": "Game, beef fillet with truffle, roast lamb, wild mushrooms",
+    "fr": "Gibier, filet de bœuf truffé, agneau rôti, champignons des bois",
+    "it": "Selvaggina, filetto di manzo al tartufo, agnello arrosto, funghi di bosco"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de Burdeos; conviene decantarlo",
+    "en": "16-18 °C, Bordeaux glass; decanting recommended",
+    "fr": "16-18 °C, verre à bordeaux ; carafage conseillé",
+    "it": "16-18 °C, calice da Bordeaux; consigliata la decantazione"
+  },
+  "search": "Château Haut-Brion Pessac-Léognan rouge"
+}

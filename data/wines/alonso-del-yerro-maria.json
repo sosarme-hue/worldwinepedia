@@ -1,0 +1,46 @@
+{
+  "slug": "alonso-del-yerro-maria",
+  "name": "Alonso del Yerro Maria",
+  "winery": null,
+  "winery_name": "Alonso del Yerro",
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "appellation": "DO Ribera del Duero",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Tinto de Tinto Fino de Alonso del Yerro, finca familiar de Roa en la Ribera del Duero, elaborado con la uva de sus mejores parcelas.",
+    "en": "Tinto Fino red from Alonso del Yerro, a family estate in Roa in Ribera del Duero, made from the grapes of its best plots.",
+    "fr": "Rouge de tinto fino d'Alonso del Yerro, domaine familial de Roa dans la Ribera del Duero, élaboré avec les raisins de ses meilleures parcelles.",
+    "it": "Rosso di Tinto Fino di Alonso del Yerro, tenuta familiare di Roa nella Ribera del Duero, prodotto con le uve delle sue parcelle migliori."
+  },
+  "body": {
+    "es": "<p><strong>Alonso del Yerro</strong> es el proyecto del matrimonio formado por Javier Alonso y María del Yerro, que a comienzos de los años 2000 adquirieron una finca en Roa de Duero (Burgos), en la Ribera del Duero. Con el asesoramiento de enólogos bordeleses, organizaron el viñedo por parcelas según sus suelos y orientaciones, con un enfoque de château: pocos vinos, procedentes exclusivamente de uva propia.</p><p><strong>María</strong> es el vino de mayor ambición de la casa. Se elabora con <strong>Tinto Fino</strong>, la variante local del Tempranillo, procedente de las parcelas más destacadas de la finca, y se cría en barricas de roble francés. El clima continental de la Ribera, con grandes diferencias de temperatura entre el día y la noche, y los suelos de arcilla y caliza dan un tinto concentrado, de unos 14 % vol., con fruta negra, frescura y taninos finos, concebido para una larga guarda. Conviene decantarlo cuando es joven.</p>",
+    "en": "<p><strong>Alonso del Yerro</strong> is the project of the couple Javier Alonso and María del Yerro, who in the early 2000s acquired an estate in Roa de Duero (Burgos), in Ribera del Duero. With advice from Bordeaux winemakers, they organised the vineyard into plots according to soil and aspect, with a château approach: few wines, made exclusively from estate-grown grapes.</p><p><strong>María</strong> is the house's most ambitious wine. It is made from <strong>Tinto Fino</strong>, the local variant of Tempranillo, from the estate's finest plots, and aged in French oak barrels. The continental climate of the Ribera, with large differences between day and night temperatures, and the clay and limestone soils give a concentrated red of around 14% ABV, with black fruit, freshness and fine tannins, designed for long ageing. It is best decanted when young.</p>",
+    "fr": "<p><strong>Alonso del Yerro</strong> est le projet du couple formé par Javier Alonso et María del Yerro, qui ont acquis au début des années 2000 un domaine à Roa de Duero (Burgos), dans la Ribera del Duero. Avec le conseil d'œnologues bordelais, ils ont organisé le vignoble en parcelles selon les sols et les expositions, dans une logique de château : peu de vins, issus exclusivement des raisins du domaine.</p><p><strong>María</strong> est le vin le plus ambitieux de la maison. Il est élaboré avec le <strong>tinto fino</strong>, variante locale du tempranillo, issu des meilleures parcelles du domaine, et élevé en barriques de chêne français. Le climat continental de la Ribera, aux forts écarts de température entre le jour et la nuit, et les sols d'argile et de calcaire donnent un rouge concentré, d'environ 14 % vol., aux fruits noirs, à la fraîcheur et aux tanins fins, conçu pour une longue garde. Il gagne à être carafé lorsqu'il est jeune.</p>",
+    "it": "<p><strong>Alonso del Yerro</strong> è il progetto dei coniugi Javier Alonso e María del Yerro, che all'inizio degli anni Duemila acquistarono una tenuta a Roa de Duero (Burgos), nella Ribera del Duero. Con la consulenza di enologi bordolesi, hanno organizzato il vigneto per parcelle secondo suoli ed esposizioni, con un approccio da château: pochi vini, prodotti esclusivamente con uve proprie.</p><p><strong>María</strong> è il vino più ambizioso della casa. È prodotto con <strong>Tinto Fino</strong>, la variante locale del Tempranillo, proveniente dalle parcelle migliori della tenuta, e affina in barrique di rovere francese. Il clima continentale della Ribera, con forti escursioni termiche tra giorno e notte, e i suoli di argilla e calcare danno un rosso concentrato, di circa 14% vol., con frutto nero, freschezza e tannini fini, concepito per un lungo invecchiamento. Conviene decantarlo quando è giovane.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota muy intenso. Aromas de mora, ciruela, violeta, grafito, especias y tostados finos. Boca concentrada y fresca, de taninos finos y final largo.",
+    "en": "Very deep cherry red. Aromas of blackberry, plum, violet, graphite, spice and fine toast. Concentrated, fresh palate with fine tannins and a long finish.",
+    "fr": "Rouge cerise très intense. Arômes de mûre, de prune, de violette, de graphite, d'épices et de toasté fin. Bouche concentrée et fraîche, aux tanins fins et à la finale longue.",
+    "it": "Rosso ciliegia molto intenso. Aromi di mora, prugna, violetta, grafite, spezie e tostatura fine. Bocca concentrata e fresca, tannini fini e finale lungo."
+  },
+  "pairing": {
+    "es": "Lechazo asado, carnes rojas a la brasa, caza mayor, quesos curados de oveja",
+    "en": "Roast milk-fed lamb, chargrilled red meat, large game, aged sheep's cheeses",
+    "fr": "Agneau de lait rôti, viandes rouges à la braise, gros gibier, fromages de brebis affinés",
+    "it": "Agnello da latte arrosto, carni rosse alla brace, selvaggina di grossa taglia, pecorini stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Alonso del Yerro Maria Alonso del Yerro",
+  "source": "decantalo"
+}

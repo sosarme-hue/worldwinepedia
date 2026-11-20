@@ -1,0 +1,40 @@
+{
+  "slug": "raimat-el-moli",
+  "name": "Raimat El Molí",
+  "winery": "raimat",
+  "winery_name": null,
+  "region": "costers-del-segre",
+  "country": "espana",
+  "appellation": "DO Costers del Segre",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Raimat El Molí es un vino tinto de Raimat, con la denominación DO Costers del Segre, en España.",
+    "en": "Raimat El Molí is a red wine from Raimat, made under the DO Costers del Segre appellation in Spain.",
+    "fr": "Raimat El Molí est un vin rouge de Raimat, élaboré sous l’appellation DO Costers del Segre (Espagne).",
+    "it": "Raimat El Molí è un vino rosso di Raimat, prodotto nella denominazione DO Costers del Segre (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14 % vol.</p><p>Gran finca vitícola junto a Lleida, adquirida en 1914 por Manuel Raventós, de la familia de Codorníu, y pionera de la D.O. Costers del Segre.</p><p>Costers del Segre es una denominación de origen del interior de Cataluña, principalmente en la provincia de Lleida, formada por varias subzonas dispersas a lo largo del río Segre y sus afluentes. Su clima continental y seco da lugar a una amplia variedad de tintos, blancos y rosados.</p>",
+    "en": "<p>It is aged in wood. It has 14% ABV.</p><p>Large wine estate near Lleida, acquired in 1914 by Manuel Raventós of the Codorníu family, and a pioneer of the Costers del Segre D.O.</p><p>Costers del Segre is a designation of origin in inland Catalonia, mainly in the province of Lleida, made up of several scattered subzones along the Segre river and its tributaries. Its dry continental climate gives rise to a wide variety of reds, whites and rosés.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14 % vol.</p><p>Grand domaine viticole près de Lleida, acquis en 1914 par Manuel Raventós, de la famille Codorníu, et pionnier de la D.O. Costers del Segre.</p><p>Costers del Segre est une dénomination d'origine de l'intérieur de la Catalogne, principalement dans la province de Lleida, formée de plusieurs sous-zones dispersées le long du Segre et de ses affluents. Son climat continental et sec donne une grande variété de rouges, de blancs et de rosés.</p>",
+    "it": "<p>È affinato in legno. Ha 14% vol.</p><p>Grande tenuta vitivinicola vicino a Lleida, acquistata nel 1914 da Manuel Raventós, della famiglia di Codorníu, e pioniera della D.O. Costers del Segre.</p><p>Costers del Segre è una denominazione di origine della Catalogna interna, principalmente nella provincia di Lleida, formata da diverse sottozone sparse lungo il fiume Segre e i suoi affluenti. Il clima continentale e secco dà origine a un'ampia varietà di rossi, bianchi e rosati.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Raimat El Molí Raimat",
+  "brief": true,
+  "source": "decantalo"
+}

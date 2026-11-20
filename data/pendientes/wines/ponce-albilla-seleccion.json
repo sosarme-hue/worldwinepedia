@@ -1,0 +1,40 @@
+{
+  "slug": "ponce-albilla-seleccion",
+  "name": "Ponce Albilla Selección",
+  "winery": null,
+  "winery_name": "Ponce",
+  "region": "manchuela",
+  "country": "espana",
+  "appellation": "DO Manchuela",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Ponce Albilla Selección es un vino blanco de Ponce, con la denominación DO Manchuela, en España.",
+    "en": "Ponce Albilla Selección is a white wine from Ponce, made under the DO Manchuela appellation in Spain.",
+    "fr": "Ponce Albilla Selección est un vin blanc de Ponce, élaboré sous l’appellation DO Manchuela (Espagne).",
+    "it": "Ponce Albilla Selección è un vino bianco di Ponce, prodotto nella denominazione DO Manchuela (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13 % vol.</p><p>Manchuela es una denominación de origen de Castilla-La Mancha que se extiende por el este de las provincias de Cuenca y Albacete, entre los ríos Júcar y Cabriel. Su variedad principal es la Bobal, con la que se elaboran rosados y tintos, junto a la recuperada Moravia Agria.</p>",
+    "en": "<p>It is aged in wood. It has 13% ABV.</p><p>Manchuela is a designation of origin in Castilla-La Mancha that stretches across the east of the provinces of Cuenca and Albacete, between the rivers Júcar and Cabriel. Its main variety is Bobal, used for rosés and reds, alongside the revived Moravia Agria.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13 % vol.</p><p>Manchuela est une dénomination d'origine de Castille-La Manche qui s'étend sur l'est des provinces de Cuenca et d'Albacete, entre le Júcar et le Cabriel. Son cépage principal est le bobal, dont on tire des rosés et des rouges, aux côtés de la moravia agria, remise à l'honneur.</p>",
+    "it": "<p>È affinato in legno. Ha 13% vol.</p><p>Manchuela è una denominazione di origine della Castiglia-La Mancia che si estende nell'est delle province di Cuenca e Albacete, tra i fiumi Júcar e Cabriel. Il suo vitigno principale è il Bobal, da cui si ottengono rosati e rossi, accanto alla recuperata Moravia Agria.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Ponce Albilla Selección Ponce",
+  "brief": true,
+  "source": "decantalo"
+}

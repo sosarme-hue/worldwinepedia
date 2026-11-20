@@ -1,0 +1,50 @@
+{
+  "slug": "reserve-de-la-comtesse",
+  "name": "Réserve de la Comtesse",
+  "winery": "chateau-pichon-comtesse",
+  "region": "medoc",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Segundo vino",
+    "en": "Second wine",
+    "fr": "Second vin",
+    "it": "Secondo vino"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Segundo vino de Château Pichon Longueville Comtesse de Lalande, de estilo suave y aromático, en el que la Merlot suele tener un papel destacado junto a la Cabernet Sauvignon.",
+    "en": "The second wine of Château Pichon Longueville Comtesse de Lalande, soft and aromatic in style, in which Merlot usually plays a prominent role alongside Cabernet Sauvignon.",
+    "fr": "Second vin de Château Pichon Longueville Comtesse de Lalande, au style souple et aromatique, où le merlot joue généralement un rôle important aux côtés du cabernet-sauvignon.",
+    "it": "Secondo vino di Château Pichon Longueville Comtesse de Lalande, di stile morbido e aromatico, in cui il Merlot ha di solito un ruolo importante accanto al Cabernet Sauvignon."
+  },
+  "body": {
+    "es": "<p>La Réserve de la Comtesse es el segundo vino de Pichon Comtesse. Se elabora con uvas de la finca en Pauillac procedentes, en general, de viñas más jóvenes o de lotes que, durante la cata de selección de cada año, no se destinan al gran vino.</p><p>El ensamblaje combina <strong>Cabernet Sauvignon</strong> y <strong>Merlot</strong>, con una posible aportación de Cabernet Franc; las proporciones varían según la añada, y la Merlot suele estar más presente que en el gran vino, lo que contribuye a una textura redonda. La vinificación se realiza en las mismas instalaciones que el gran vino y la crianza tiene lugar en barricas de roble francés, con menos madera nueva.</p><p>Comparte con el gran vino la elegancia característica de la casa, con fruta madura, notas de cedro y taninos suaves. Es una forma relativamente asequible de acercarse al estilo de la propiedad y puede disfrutarse joven, aunque admite unos años de guarda.</p>",
+    "en": "<p>Réserve de la Comtesse is the second wine of Pichon Comtesse. It is made from the estate’s grapes in Pauillac, generally from younger vines or from lots that, during each year’s selection tasting, are not used for the grand vin.</p><p>The blend combines <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong>, with a possible contribution from Cabernet Franc; the proportions vary with the vintage, and Merlot is usually more present than in the grand vin, which contributes to a rounded texture. It is vinified in the same facilities as the grand vin and aged in French oak barrels, with less new wood.</p><p>It shares the house’s characteristic elegance with the grand vin, showing ripe fruit, cedar notes and supple tannins. It is a relatively affordable way to approach the property’s style and can be enjoyed young, although it can also be cellared for a few years.</p>",
+    "fr": "<p>La Réserve de la Comtesse est le second vin de Pichon Comtesse. Elle est élaborée avec des raisins du domaine à Pauillac, provenant en général de vignes plus jeunes ou de lots qui, lors de la dégustation de sélection de chaque année, ne sont pas retenus pour le grand vin.</p><p>L’assemblage associe <strong>cabernet-sauvignon</strong> et <strong>merlot</strong>, avec un éventuel apport de cabernet franc ; les proportions varient selon le millésime et le merlot y est généralement plus présent que dans le grand vin, ce qui contribue à une texture ronde. Elle est vinifiée dans les mêmes installations que le grand vin et élevée en barriques de chêne français, avec moins de bois neuf.</p><p>Elle partage avec le grand vin l’élégance caractéristique de la maison, avec un fruit mûr, des notes de cèdre et des tanins souples. C’est une manière relativement abordable d’approcher le style de la propriété ; elle peut être appréciée jeune, tout en supportant quelques années de garde.</p>",
+    "it": "<p>La Réserve de la Comtesse è il secondo vino di Pichon Comtesse. È prodotta con uve della tenuta a Pauillac provenienti, in genere, da viti più giovani o da lotti che, durante la degustazione di selezione di ogni anno, non sono destinati al grand vin.</p><p>L’uvaggio unisce <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong>, con un possibile contributo di Cabernet Franc; le proporzioni variano secondo l’annata e il Merlot è di solito più presente che nel grand vin, il che contribuisce a una tessitura rotonda. È vinificata nelle stesse strutture del grand vin e affina in barrique di rovere francese, con meno legno nuovo.</p><p>Condivide con il grand vin l’eleganza caratteristica della casa, con frutto maturo, note di cedro e tannini morbidi. È un modo relativamente accessibile per avvicinarsi allo stile della proprietà e si può apprezzare giovane, pur reggendo qualche anno di affinamento.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de cereza madura, grosella negra y especias dulces. Boca redonda y sedosa, de taninos suaves y final afrutado.",
+    "en": "Intense ruby. Aromas of ripe cherry, blackcurrant and sweet spice. Round, silky palate with soft tannins and a fruity finish.",
+    "fr": "Rubis intense. Arômes de cerise mûre, de cassis et d’épices douces. Bouche ronde et soyeuse, aux tanins souples, finale fruitée.",
+    "it": "Rubino intenso. Aromi di ciliegia matura, ribes nero e spezie dolci. Bocca rotonda e setosa, dai tannini morbidi e dal finale fruttato."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, pato asado, guisos de carne, quesos semicurados",
+    "en": "Grilled red meat, roast duck, meat stews, semi-hard cheeses",
+    "fr": "Viandes rouges grillées, canard rôti, ragoûts de viande, fromages à pâte pressée",
+    "it": "Carni rosse alla brace, anatra arrosto, stufati di carne, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-17 °C, copa de tipo Burdeos",
+    "en": "16-17 °C, Bordeaux glass",
+    "fr": "16-17 °C, verre de type bordeaux",
+    "it": "16-17 °C, calice tipo Bordeaux"
+  },
+  "search": "Réserve de la Comtesse Pichon Comtesse Pauillac"
+}

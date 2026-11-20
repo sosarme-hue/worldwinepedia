@@ -1,0 +1,40 @@
+{
+  "slug": "taberner",
+  "name": "Taberner",
+  "winery": null,
+  "winery_name": "Huerta de Albalá",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Cádiz",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Taberner es un vino tinto de Huerta de Albalá, con la denominación VT Cádiz, en España.",
+    "en": "Taberner is a red wine from Huerta de Albalá, made under the VT Cádiz appellation in Spain.",
+    "fr": "Taberner est un vin rouge de Huerta de Albalá, élaboré sous l’appellation VT Cádiz (Espagne).",
+    "it": "Taberner è un vino rosso di Huerta de Albalá, prodotto nella denominazione VT Cádiz (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 15,5 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 15.5% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 15,5 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 15,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Taberner Huerta de Albalá",
+  "brief": true,
+  "source": "decantalo"
+}

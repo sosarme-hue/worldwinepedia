@@ -1,0 +1,41 @@
+{
+  "slug": "ferrari-brut",
+  "name": "Ferrari Brut",
+  "winery": "ferrari",
+  "region": "trentino-alto-adige",
+  "country": "italia",
+  "type": "espumoso",
+  "category": {"es": "Trento DOC Brut", "en": "Trento DOC Brut", "fr": "Trento DOC Brut", "it": "Trento DOC Brut"},
+  "grapes": ["chardonnay"],
+  "summary": {
+    "es": "El espumoso más difundido de Ferrari, un Trento DOC de método tradicional elaborado con Chardonnay de viñedos de montaña.",
+    "en": "Ferrari’s most widely available sparkling wine, a traditional-method Trento DOC made from mountain-grown Chardonnay.",
+    "fr": "L’effervescent le plus diffusé de Ferrari, un Trento DOC de méthode traditionnelle élaboré avec du chardonnay de vignes de montagne.",
+    "it": "Lo spumante più diffuso di Ferrari, un Trento DOC metodo classico prodotto con Chardonnay di vigneti di montagna."
+  },
+  "body": {
+    "es": "<p>El Ferrari Brut es el vino emblemático de la casa de Trento y uno de los espumosos italianos de método tradicional más conocidos. Se elabora únicamente con Chardonnay, procedente de viñedos situados en las laderas montañosas del Trentino.</p><p>La altitud y las diferencias de temperatura entre el día y la noche permiten conservar en la uva una acidez elevada y aromas frescos, cualidades muy apreciadas para los espumosos. Tras la fermentación del vino base, la segunda fermentación se produce en la botella, donde el vino permanece sobre sus lías durante un periodo prolongado antes del degüelle.</p><p>Es un espumoso seco, fresco y elegante, de burbuja fina, en el que la fruta de la Chardonnay se combina con notas suaves de levadura. Es versátil y se presta tanto al aperitivo como a la mesa.</p>",
+    "en": "<p>Ferrari Brut is the Trento house’s emblematic wine and one of Italy’s best-known traditional-method sparkling wines. It is made solely from Chardonnay, from vineyards on the mountain slopes of Trentino.</p><p>The altitude and the differences between day and night temperatures help the grapes retain high acidity and fresh aromas, qualities highly prized for sparkling wine. After the base wine is fermented, the second fermentation takes place in the bottle, where the wine rests on its lees for an extended period before disgorgement.</p><p>It is a dry, fresh, elegant sparkling wine with fine bubbles, in which Chardonnay fruit combines with gentle yeasty notes. It is versatile, suited both to aperitifs and to the table.</p>",
+    "fr": "<p>Le Ferrari Brut est le vin emblématique de la maison de Trente et l’un des effervescents italiens de méthode traditionnelle les plus connus. Il est élaboré uniquement avec du chardonnay, issu de vignes situées sur les pentes montagneuses du Trentin.</p><p>L’altitude et les écarts de température entre le jour et la nuit permettent de conserver dans le raisin une acidité élevée et des arômes frais, qualités très recherchées pour les effervescents. Après la fermentation du vin de base, la seconde fermentation a lieu en bouteille, où le vin repose sur lies pendant une période prolongée avant le dégorgement.</p><p>C’est un effervescent sec, frais et élégant, à la bulle fine, où le fruit du chardonnay s’associe à de douces notes de levure. Il est polyvalent, aussi bien à l’apéritif qu’à table.</p>",
+    "it": "<p>Il Ferrari Brut è il vino simbolo della casa trentina e uno degli spumanti metodo classico italiani più conosciuti. È prodotto solo con Chardonnay, da vigneti situati sui pendii montani del Trentino.</p><p>L’altitudine e l’escursione termica tra giorno e notte consentono di conservare nell’uva un’acidità elevata e aromi freschi, qualità molto apprezzate per gli spumanti. Dopo la fermentazione del vino base, la seconda fermentazione avviene in bottiglia, dove il vino riposa sui lieviti per un periodo prolungato prima della sboccatura.</p><p>È uno spumante secco, fresco ed elegante, dal perlage fine, in cui il frutto dello Chardonnay si unisce a delicate note di lievito. È versatile e si presta sia all’aperitivo sia alla tavola.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pajizo brillante, con burbuja fina y persistente. Aromas de manzana golden, cítricos, flores blancas y un toque de pan. En boca es seco, fresco y equilibrado, con buena acidez.",
+    "en": "Bright straw yellow, with fine, persistent bubbles. Aromas of golden apple, citrus, white flowers and a touch of bread. Dry, fresh and balanced on the palate, with good acidity.",
+    "fr": "Jaune paille brillant, à la bulle fine et persistante. Arômes de pomme golden, d’agrumes, de fleurs blanches et une touche de pain. En bouche, il est sec, frais et équilibré, avec une bonne acidité.",
+    "it": "Giallo paglierino brillante, con perlage fine e persistente. Profumi di mela golden, agrumi, fiori bianchi e un tocco di crosta di pane. In bocca è secco, fresco ed equilibrato, con buona acidità."
+  },
+  "pairing": {
+    "es": "Aperitivo, pescados y mariscos, risotto, frituras, quesos frescos",
+    "en": "Aperitif, fish and shellfish, risotto, fried food, fresh cheeses",
+    "fr": "Apéritif, poissons et fruits de mer, risotto, fritures, fromages frais",
+    "it": "Aperitivo, pesce e frutti di mare, risotto, fritture, formaggi freschi"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de vino blanco o tulipa",
+    "en": "6-8 °C, white wine glass or tulip",
+    "fr": "6-8 °C, verre à vin blanc ou tulipe",
+    "it": "6-8 °C, calice da vino bianco o tulipano"
+  },
+  "search": "Ferrari Brut Trento DOC"
+}

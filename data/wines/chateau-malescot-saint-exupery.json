@@ -1,0 +1,51 @@
+{
+  "slug": "chateau-malescot-saint-exupery",
+  "name": "Château Malescot Saint-Exupéry",
+  "winery": "chateau-malescot-saint-exupery",
+  "region": "margaux",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "3er Gran Cru Clasificado",
+    "en": "Third Growth (3ème Cru Classé)",
+    "fr": "3e Grand Cru Classé",
+    "it": "3° Grand Cru Classé"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "cabernet-franc",
+    "petit-verdot"
+  ],
+  "summary": {
+    "es": "El gran vino de Château Malescot Saint-Exupéry, tercer gran cru clasificado de Margaux: un tinto de Cabernet Sauvignon y Merlot perfumado, intenso y elegante.",
+    "en": "The grand vin of Château Malescot Saint-Exupéry, a Margaux third growth: a perfumed, intense and elegant Cabernet Sauvignon and Merlot red.",
+    "fr": "Le grand vin du château Malescot Saint-Exupéry, troisième grand cru classé de Margaux : un rouge de cabernet sauvignon et de merlot parfumé, intense et élégant.",
+    "it": "Il grand vin di Château Malescot Saint-Exupéry, terzo grand cru classé di Margaux: un rosso di Cabernet Sauvignon e Merlot profumato, intenso ed elegante."
+  },
+  "body": {
+    "es": "<p><strong>Château Malescot Saint-Exupéry</strong> es el gran vino de la propiedad homónima del pueblo de <strong>Margaux</strong>, clasificada como tercer gran cru en 1855 y dirigida por la familia Zuger desde 1955.</p><p>Procede de parcelas de gravas profundas repartidas por la denominación y se elabora con <strong>Cabernet Sauvignon</strong> como variedad principal, junto con <strong>Merlot</strong> y pequeñas proporciones de <strong>Cabernet Franc</strong> y <strong>Petit Verdot</strong>, en porcentajes que varían según la añada. Las uvas se vendimian a mano y el vino se cría en barricas de roble francés, con una parte importante de madera nueva.</p><p>Bajo la dirección de Jean-Luc Zuger, el estilo de la casa ha ganado en concentración y precisión, sin perder el perfume característico de Margaux. Es un tinto de fruta intensa, notas florales y especiadas y taninos finos y firmes, que pide varios años de botella para expresarse plenamente y tiene una larga capacidad de guarda.</p>",
+    "en": "<p><strong>Château Malescot Saint-Exupéry</strong> is the grand vin of the estate of the same name in the village of <strong>Margaux</strong>, classified as a third growth in 1855 and run by the Zuger family since 1955.</p><p>It comes from parcels of deep gravel spread across the appellation and is made from <strong>Cabernet Sauvignon</strong> as the main variety, along with <strong>Merlot</strong> and small proportions of <strong>Cabernet Franc</strong> and <strong>Petit Verdot</strong>, in percentages that vary with the vintage. The grapes are hand-picked and the wine is aged in French oak barrels, a significant share of them new.</p><p>Under Jean-Luc Zuger, the house style has gained concentration and precision without losing the characteristic perfume of Margaux. It is a red with intense fruit, floral and spicy notes and fine, firm tannins, which needs several years in bottle to express itself fully and has long ageing potential.</p>",
+    "fr": "<p><strong>Château Malescot Saint-Exupéry</strong> est le grand vin de la propriété homonyme du village de <strong>Margaux</strong>, classée troisième grand cru en 1855 et dirigée par la famille Zuger depuis 1955.</p><p>Il provient de parcelles de graves profondes réparties dans l’appellation et il est élaboré à partir de <strong>cabernet sauvignon</strong> comme cépage principal, avec du <strong>merlot</strong> et de petites proportions de <strong>cabernet franc</strong> et de <strong>petit verdot</strong>, dans des pourcentages variables selon le millésime. Les raisins sont vendangés à la main et le vin est élevé en barriques de chêne français, dont une part importante de bois neuf.</p><p>Sous la direction de Jean-Luc Zuger, le style de la maison a gagné en concentration et en précision sans perdre le parfum caractéristique de Margaux. C’est un rouge au fruit intense, aux notes florales et épicées et aux tanins fins et fermes, qui demande plusieurs années de bouteille pour s’exprimer pleinement et possède un long potentiel de garde.</p>",
+    "it": "<p><strong>Château Malescot Saint-Exupéry</strong> è il grand vin della tenuta omonima del villaggio di <strong>Margaux</strong>, classificata terzo grand cru nel 1855 e diretta dalla famiglia Zuger dal 1955.</p><p>Proviene da parcelle di ghiaie profonde distribuite nella denominazione ed è prodotto con <strong>Cabernet Sauvignon</strong> come varietà principale, insieme a <strong>Merlot</strong> e piccole quote di <strong>Cabernet Franc</strong> e <strong>Petit Verdot</strong>, in percentuali variabili secondo l’annata. Le uve sono vendemmiate a mano e il vino affina in barrique di rovere francese, con una quota importante di legno nuovo.</p><p>Sotto la guida di Jean-Luc Zuger, lo stile della casa ha guadagnato concentrazione e precisione senza perdere il profumo caratteristico di Margaux. È un rosso dal frutto intenso, con note floreali e speziate e tannini fini e decisi, che richiede diversi anni di bottiglia per esprimersi pienamente e ha una lunga capacità di invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Rojo granate oscuro. Aromas de casis, cereza negra, violeta, regaliz y notas tostadas. Boca intensa y elegante, de taninos finos y final largo.",
+    "en": "Dark garnet. Aromas of blackcurrant, black cherry, violet, liquorice and toasty notes. Intense, elegant palate with fine tannins and a long finish.",
+    "fr": "Grenat sombre. Arômes de cassis, de cerise noire, de violette, de réglisse et notes grillées. Bouche intense et élégante, aux tanins fins et à la finale longue.",
+    "it": "Granato scuro. Aromi di ribes nero, ciliegia nera, violetta, liquirizia e note tostate. Bocca intensa ed elegante, dai tannini fini e dal finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, solomillo, pato, caza de pluma, quesos curados",
+    "en": "Roast lamb, beef fillet, duck, game birds, aged cheeses",
+    "fr": "Agneau rôti, filet de bœuf, canard, gibier à plume, fromages affinés",
+    "it": "Agnello arrosto, filetto di manzo, anatra, selvaggina da piuma, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de tipo Burdeos; decantar en su juventud",
+    "en": "16-18 °C, Bordeaux-style glass; decant when young",
+    "fr": "16-18 °C, verre de type bordelais ; carafer dans sa jeunesse",
+    "it": "16-18 °C, calice tipo Bordeaux; decantare da giovane"
+  },
+  "search": "Château Malescot Saint-Exupéry Margaux"
+}

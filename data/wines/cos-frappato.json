@@ -1,0 +1,40 @@
+{
+  "slug": "cos-frappato",
+  "name": "COS Frappato",
+  "winery": null,
+  "winery_name": "Azienda Agricola Cos",
+  "region": null,
+  "country": "italia",
+  "appellation": "IGT Terre Siciliane",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "COS Frappato es un vino tinto de Azienda Agricola Cos, con la denominación IGT Terre Siciliane, en Italia.",
+    "en": "COS Frappato is a red wine from Azienda Agricola Cos, made under the IGT Terre Siciliane appellation in Italy.",
+    "fr": "COS Frappato est un vin rouge de Azienda Agricola Cos, élaboré sous l’appellation IGT Terre Siciliane (Italie).",
+    "it": "COS Frappato è un vino rosso di Azienda Agricola Cos, prodotto nella denominazione IGT Terre Siciliane (Italia)."
+  },
+  "body": {
+    "es": "<p>Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 12 % vol.</p>",
+    "en": "<p>It is a young wine, meant to be drunk in its first years. It has 12% ABV.</p>",
+    "fr": "<p>C’est un vin jeune, à boire dans ses premières années. Il titre 12 % vol.</p>",
+    "it": "<p>È un vino giovane, da bere nei primi anni. Ha 12% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "COS Frappato Azienda Agricola Cos",
+  "brief": true,
+  "source": "decantalo"
+}

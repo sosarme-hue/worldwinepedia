@@ -1,0 +1,42 @@
+{
+  "slug": "lustau-fino-jarana",
+  "name": "Lustau Fino Jarana",
+  "winery": "lustau",
+  "winery_name": null,
+  "region": "jerez-xeres-sherry",
+  "country": "espana",
+  "appellation": "DO Jerez-Xérès-Sherry",
+  "type": "generoso",
+  "category": null,
+  "grapes": [
+    "palomino"
+  ],
+  "summary": {
+    "es": "Lustau Fino Jarana es un vino generoso de Bodegas Lustau, con la denominación DO Jerez-Xérès-Sherry, en España.",
+    "en": "Lustau Fino Jarana is a fortified wine from Bodegas Lustau, made under the DO Jerez-Xérès-Sherry appellation in Spain.",
+    "fr": "Lustau Fino Jarana est un vin fortifié de Bodegas Lustau, élaboré sous l’appellation DO Jerez-Xérès-Sherry (Espagne).",
+    "it": "Lustau Fino Jarana è un vino liquoroso di Bodegas Lustau, prodotto nella denominazione DO Jerez-Xérès-Sherry (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Palomino. Su graduación es de 15 % vol.</p><p>Casa de Jerez fundada en 1896, conocida por su amplia gama de estilos, por su colección de vinos de almacenista y por criar vinos en las tres ciudades del Marco: Jerez, El Puerto de Santa María y Sanlúcar.</p><p>Jerez-Xérès-Sherry, en la provincia de Cádiz, es la denominación de origen de los vinos de Jerez, elaborados sobre todo con Palomino y criados en el sistema de criaderas y soleras. Su gama abarca desde los finos de crianza biológica hasta los olorosos y los dulces de Pedro Ximénez.</p>",
+    "en": "<p>It is made from Palomino. It has 15% ABV.</p><p>Jerez house founded in 1896, known for its broad range of styles, its collection of almacenista wines and for ageing wines in all three towns of the Sherry Triangle: Jerez, El Puerto de Santa María and Sanlúcar.</p><p>Jerez-Xérès-Sherry, in the province of Cádiz, is the designation of origin for sherry, made mainly from Palomino and aged in the criaderas and solera system. Its range runs from biologically aged finos to olorosos and sweet Pedro Ximénez.</p>",
+    "fr": "<p>Il est élaboré à partir de Palomino. Il titre 15 % vol.</p><p>Maison de Jerez fondée en 1896, connue pour sa vaste gamme de styles, sa collection de vins d'almacenista et l'élevage de vins dans les trois villes du Marco : Jerez, El Puerto de Santa María et Sanlúcar.</p><p>Jerez-Xérès-Sherry, dans la province de Cadix, est la dénomination d'origine des vins de Jerez, élaborés surtout avec le palomino et élevés selon le système des criaderas et soleras. Sa gamme va des finos à élevage biologique aux olorosos et aux vins doux de pedro ximénez.</p>",
+    "it": "<p>È prodotto con Palomino. Ha 15% vol.</p><p>Casa di Jerez fondata nel 1896, nota per l'ampia gamma di stili, per la collezione di vini almacenista e per l'affinamento dei vini nelle tre città del Marco: Jerez, El Puerto de Santa María e Sanlúcar.</p><p>Jerez-Xérès-Sherry, nella provincia di Cadice, è la denominazione di origine dei vini di Jerez, prodotti soprattutto con il Palomino e affinati con il sistema di criaderas e soleras. La gamma va dai fino ad affinamento biologico agli oloroso e ai dolci di Pedro Ximénez.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, jamón, frutos secos, quesos curados",
+    "en": "Aperitif, cured ham, nuts, aged cheeses",
+    "fr": "Apéritif, jambon sec, fruits secs, fromages affinés",
+    "it": "Aperitivo, prosciutto crudo, frutta secca, formaggi stagionati"
+  },
+  "serve": {
+    "es": "7-14 °C según el tipo, catavino",
+    "en": "7-14 °C depending on style, copita glass",
+    "fr": "7-14 °C selon le style, verre à xérès",
+    "it": "7-14 °C secondo lo stile, bicchiere da sherry"
+  },
+  "search": "Lustau Fino Jarana Lustau",
+  "brief": true,
+  "source": "decantalo"
+}

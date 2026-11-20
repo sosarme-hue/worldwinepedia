@@ -1,0 +1,42 @@
+{
+  "slug": "tetramythos-agiorgitiko-natur",
+  "name": "Tetramythos Agiorgitiko Natur",
+  "winery": null,
+  "winery_name": "Tetramythos Winery",
+  "region": null,
+  "country": "grecia",
+  "appellation": "PGI Peloponnese",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "agiorgitiko"
+  ],
+  "summary": {
+    "es": "Tetramythos Agiorgitiko Natur es un vino tinto de Tetramythos Winery, con la denominación PGI Peloponnese, en Grecia.",
+    "en": "Tetramythos Agiorgitiko Natur is a red wine from Tetramythos Winery, made under the PGI Peloponnese appellation in Greece.",
+    "fr": "Tetramythos Agiorgitiko Natur est un vin rouge de Tetramythos Winery, élaboré sous l’appellation PGI Peloponnese (Grèce).",
+    "it": "Tetramythos Agiorgitiko Natur è un vino rosso di Tetramythos Winery, prodotto nella denominazione PGI Peloponnese (Grecia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Agiorgitiko. Se cría en depósitos de acero inoxidable. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is made from Agiorgitiko. It is aged in stainless steel tanks. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Agiorgitiko. Il est élevé en cuves inox. Il titre 13,5 % vol.</p>",
+    "it": "<p>È prodotto con Agiorgitiko. Affina in acciaio inox. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Tetramythos Agiorgitiko Natur Tetramythos Winery",
+  "brief": true,
+  "source": "decantalo"
+}

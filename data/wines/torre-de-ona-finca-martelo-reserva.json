@@ -1,0 +1,48 @@
+{
+  "slug": "torre-de-ona-finca-martelo-reserva",
+  "name": "Finca Martelo Reserva",
+  "winery": "la-rioja-alta",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Reserva de Rioja Alavesa de la bodega Torre de Oña, del grupo La Rioja Alta, procedente de la Finca Martelo.",
+    "en": "Rioja Alavesa reserva from the Torre de Oña winery, part of the La Rioja Alta group, sourced from Finca Martelo.",
+    "fr": "Reserva de Rioja Alavesa de la propriété Torre de Oña, du groupe La Rioja Alta, issu de la Finca Martelo.",
+    "it": "Reserva della Rioja Alavesa della cantina Torre de Oña, del gruppo La Rioja Alta, proveniente dalla Finca Martelo."
+  },
+  "body": {
+    "es": "<p>Torre de Oña es la bodega que el grupo La Rioja Alta posee en Rioja Alavesa, en el término de Páganos, junto a Laguardia, rodeada de sus propios viñedos al pie de la Sierra de Cantabria. Sus vinos proceden de fincas concretas y buscan expresar la frescura y la finura de esta subzona.</p><p>Finca Martelo es un vino de viñedo concreto, elaborado sobre todo con Tempranillo, que en Rioja Alavesa madura en un clima fresco por la altitud y la protección de la sierra. Tras la fermentación, se cría en barrica durante el tiempo que exige la categoría de reserva y reposa después en botella. El resultado es un tinto que combina la fruta y la frescura de la subzona con la complejidad de la crianza, con un perfil más moderno que el de los reservas clásicos de Haro.</p>",
+    "en": "<p>Torre de Oña is the winery the La Rioja Alta group owns in Rioja Alavesa, at Páganos near Laguardia, surrounded by its own vineyards at the foot of the Sierra de Cantabria. Its wines come from specific estates and seek to express the freshness and finesse of this subzone.</p><p>Finca Martelo is a single-vineyard wine made mainly from Tempranillo, which in Rioja Alavesa ripens in a climate kept cool by altitude and the shelter of the sierra. After fermentation it is aged in barrel for the time required by the reserva category and then rests in bottle. The result is a red that combines the fruit and freshness of the subzone with the complexity of ageing, in a more modern profile than the classic reservas of Haro.</p>",
+    "fr": "<p>Torre de Oña est la propriété que le groupe La Rioja Alta possède en Rioja Alavesa, à Páganos, près de Laguardia, entourée de ses propres vignes au pied de la Sierra de Cantabria. Ses vins proviennent de domaines précis et cherchent à exprimer la fraîcheur et la finesse de cette sous-zone.</p><p>Finca Martelo est un vin de vignoble précis, élaboré surtout à partir de tempranillo, qui mûrit en Rioja Alavesa sous un climat rafraîchi par l’altitude et la protection de la sierra. Après la fermentation, il est élevé en barrique pendant la durée exigée pour la catégorie reserva, puis repose en bouteille. Il en résulte un rouge qui associe le fruit et la fraîcheur de la sous-zone à la complexité de l’élevage, dans un profil plus moderne que celui des reservas classiques de Haro.</p>",
+    "it": "<p>Torre de Oña è la cantina che il gruppo La Rioja Alta possiede nella Rioja Alavesa, a Páganos, vicino a Laguardia, circondata dai propri vigneti ai piedi della Sierra de Cantabria. I suoi vini provengono da tenute specifiche e cercano di esprimere la freschezza e la finezza di questa sottozona.</p><p>Finca Martelo è un vino di singolo vigneto, prodotto soprattutto con Tempranillo, che nella Rioja Alavesa matura in un clima rinfrescato dall’altitudine e dalla protezione della sierra. Dopo la fermentazione viene affinato in barrique per il tempo richiesto dalla categoria reserva e poi riposa in bottiglia. Il risultato è un rosso che unisce il frutto e la freschezza della sottozona alla complessità dell’affinamento, con un profilo più moderno rispetto ai reserva classici di Haro.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de fruta roja y negra madura, especias, vainilla y notas balsámicas. En boca es fresco y estructurado, con taninos pulidos y final largo.",
+    "en": "Deep ruby. Aromas of ripe red and black fruit, spice, vanilla and balsamic notes. Fresh and structured on the palate, with polished tannins and a long finish.",
+    "fr": "Rubis profond. Arômes de fruits rouges et noirs mûrs, d’épices, de vanille et notes balsamiques. En bouche, frais et structuré, aux tanins polis et à la finale longue.",
+    "it": "Rubino intenso. Aromi di frutta rossa e nera matura, spezie, vaniglia e note balsamiche. In bocca è fresco e strutturato, con tannini levigati e finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes rojas, guisos de carne, setas, quesos curados",
+    "en": "Roast lamb, red meat, meat stews, mushrooms, aged cheeses",
+    "fr": "Agneau rôti, viandes rouges, ragoûts de viande, champignons, fromages affinés",
+    "it": "Agnello arrosto, carni rosse, stufati di carne, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Finca Martelo Reserva Torre de Oña La Rioja Alta"
+}

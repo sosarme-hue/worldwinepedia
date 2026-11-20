@@ -1,0 +1,48 @@
+{
+  "slug": "bouchard-pommard-premier-cru",
+  "name": "Pommard 1er Cru",
+  "winery": "bouchard-pere-et-fils",
+  "region": "cote-de-beaune",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Premier Cru",
+    "en": "Premier Cru",
+    "fr": "Premier Cru",
+    "it": "Premier Cru"
+  },
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Pommard premier cru de Bouchard Père & Fils, un Pinot Noir de estructura firme de la Côte de Beaune.",
+    "en": "Pommard premier cru from Bouchard Père & Fils, a firmly structured Pinot Noir from the Côte de Beaune.",
+    "fr": "Pommard premier cru de Bouchard Père & Fils, un pinot noir à la structure ferme de la Côte de Beaune.",
+    "it": "Pommard premier cru di Bouchard Père & Fils, un Pinot Nero di struttura salda della Côte de Beaune."
+  },
+  "body": {
+    "es": "<p>Pommard, entre Beaune y Volnay, es una denominación exclusivamente de tintos, conocida por producir algunos de los Pinot Noir más firmes y tánicos de la Côte de Beaune, gracias a suelos con una proporción notable de arcilla. Este vino procede de uno o varios climas clasificados como premier cru, sin mención de parcela concreta. Suele mostrar color intenso, fruta oscura y una estructura que pide algunos años de botella para expresarse plenamente.</p><p>Bouchard Père & Fils, casa fundada en Beaune en 1731, cría sus vinos en las bodegas del Château de Beaune. Su estilo busca expresar el carácter de cada clima con una extracción medida y un uso del roble que acompaña a la fruta sin dominarla. La casa posee un amplio patrimonio de viñedos en la Côte d’Or, con numerosas parcelas de premier cru y grand cru, y completa su gama con vinos de uva comprada.</p>",
+    "en": "<p>Pommard, between Beaune and Volnay, is an appellation exclusively for reds, known for producing some of the firmest and most tannic Pinot Noirs of the Côte de Beaune, thanks to soils with a significant share of clay. This wine comes from one or more climats classified as premier cru, with no specific plot named. It usually shows deep colour, dark fruit and a structure that calls for a few years in bottle to express itself fully.</p><p>Bouchard Père & Fils, a house founded in Beaune in 1731, ages its wines in the cellars of the Château de Beaune. Its style seeks to express the character of each climat through measured extraction and oak that supports the fruit without dominating it. The house owns an extensive vineyard estate in the Côte d’Or, with many premier cru and grand cru plots, and completes its range with wines made from purchased grapes.</p>",
+    "fr": "<p>Pommard, entre Beaune et Volnay, est une appellation exclusivement de rouges, connue pour produire certains des pinots noirs les plus fermes et tanniques de la Côte de Beaune, grâce à des sols à la proportion notable d’argile. Ce vin provient d’un ou de plusieurs climats classés en premier cru, sans mention de parcelle. Il montre en général une couleur soutenue, un fruit sombre et une structure qui demande quelques années de bouteille pour s’exprimer pleinement.</p><p>Bouchard Père & Fils, maison fondée à Beaune en 1731, élève ses vins dans les caves du Château de Beaune. Son style cherche à exprimer le caractère de chaque climat par une extraction mesurée et un boisé qui accompagne le fruit sans le dominer. La maison possède un vaste patrimoine de vignes en Côte-d’Or, avec de nombreuses parcelles de premier cru et de grand cru, et complète sa gamme par des vins de négoce.</p>",
+    "it": "<p>Pommard, tra Beaune e Volnay, è una denominazione esclusivamente di rossi, nota per produrre alcuni dei Pinot Nero più saldi e tannici della Côte de Beaune, grazie a suoli con una quota rilevante di argilla. Questo vino proviene da uno o più climat classificati premier cru, senza menzione di una parcella specifica. Mostra di solito colore intenso, frutto scuro e una struttura che richiede qualche anno di bottiglia per esprimersi pienamente.</p><p>Bouchard Père & Fils, maison fondata a Beaune nel 1731, affina i suoi vini nelle cantine dello Château de Beaune. Il suo stile mira a esprimere il carattere di ogni climat con un’estrazione misurata e un uso del rovere che accompagna il frutto senza sovrastarlo. La maison possiede un ampio patrimonio di vigneti nella Côte d’Or, con numerose parcelle di premier cru e grand cru, e completa la gamma con vini prodotti da uve acquistate.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de fruta negra y roja, especias y matices de sotobosque. En boca muestra estructura firme, taninos finos y un final largo.",
+    "en": "Deep ruby. Aromas of black and red fruit, spice and hints of undergrowth. Firm structure on the palate, fine tannins and a long finish.",
+    "fr": "Rubis profond. Arômes de fruits noirs et rouges, d’épices et nuances de sous-bois. En bouche, structure ferme, tanins fins et finale longue.",
+    "it": "Rubino intenso. Aromi di frutta nera e rossa, spezie e sfumature di sottobosco. In bocca mostra struttura salda, tannini fini e finale lungo."
+  },
+  "pairing": {
+    "es": "Caza de pluma, ternera asada, carnes en salsa, setas, quesos afinados",
+    "en": "Game birds, roast veal, braised meat, mushrooms, mature cheeses",
+    "fr": "Gibier à plume, veau rôti, viandes en sauce, champignons, fromages affinés",
+    "it": "Selvaggina da piuma, vitello arrosto, carni in umido, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-17 °C, copa de Borgoña",
+    "en": "15-17 °C, Burgundy glass",
+    "fr": "15-17 °C, verre de type bourguignon",
+    "it": "15-17 °C, calice da Borgogna"
+  },
+  "search": "Pommard 1er Cru Bouchard Père & Fils"
+}

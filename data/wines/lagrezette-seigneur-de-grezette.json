@@ -1,0 +1,48 @@
+{
+  "slug": "lagrezette-seigneur-de-grezette",
+  "name": "Seigneur de Grezette",
+  "winery": "chateau-lagrezette",
+  "region": "cahors",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "AOC Cahors",
+    "en": "AOC Cahors",
+    "fr": "AOC Cahors",
+    "it": "AOC Cahors"
+  },
+  "grapes": [
+    "malbec"
+  ],
+  "summary": {
+    "es": "Cahors afrutado del Château Lagrezette, basado en el Malbec y pensado para beberse joven.",
+    "en": "Fruity Cahors from Château Lagrezette, based on Malbec and intended for drinking young.",
+    "fr": "Cahors fruité du Château Lagrezette, à base de malbec et pensé pour être bu jeune.",
+    "it": "Cahors fruttato del Château Lagrezette, a base di Malbec e pensato per essere bevuto giovane."
+  },
+  "body": {
+    "es": "<p>El <strong>Château Lagrezette</strong>, en Caillac, junto a Cahors, es una de las propiedades más conocidas del valle del Lot. La denominación <strong>Cahors</strong> es la cuna del <strong>Malbec</strong>, llamado aquí Côt, que debe representar al menos el 70 % de sus tintos y da vinos de color profundo, fruta negra y taninos firmes. Los viñedos se reparten entre las terrazas del río y las mesetas calizas que lo dominan.</p><p><strong>Seigneur de Grezette</strong> es uno de los tintos más accesibles de la gama del castillo. Elaborado con <strong>Malbec</strong> como variedad principal, privilegia la fruta y la suavidad frente a la crianza larga. Muestra la fruta negra y el color profundo del Cahors en un estilo jugoso, apto para beberse en sus primeros años con la cocina cotidiana. No necesita decantación.</p>",
+    "en": "<p><strong>Château Lagrezette</strong>, in Caillac near Cahors, is one of the best-known properties of the Lot Valley. The <strong>Cahors</strong> appellation is the cradle of <strong>Malbec</strong>, known here as Côt, which must make up at least 70% of its reds and gives deeply coloured wines with black fruit and firm tannins. The vineyards are spread between the river terraces and the limestone plateaux above them.</p><p><strong>Seigneur de Grezette</strong> is one of the most approachable reds in the château’s range. Made with <strong>Malbec</strong> as the main variety, it favours fruit and suppleness over long ageing. It shows the black fruit and deep colour of Cahors in a juicy style, suited to drinking in its first few years with everyday food. It needs no decanting.</p>",
+    "fr": "<p>Le <strong>Château Lagrezette</strong>, à Caillac, près de Cahors, est l’une des propriétés les plus connues de la vallée du Lot. L’appellation <strong>Cahors</strong> est le berceau du <strong>malbec</strong>, appelé ici côt, qui doit représenter au moins 70 % de ses rouges et donne des vins à la robe profonde, aux fruits noirs et aux tanins fermes. Les vignes se répartissent entre les terrasses de la rivière et les causses calcaires qui la dominent.</p><p><strong>Seigneur de Grezette</strong> est l’un des rouges les plus accessibles de la gamme du château. Élaboré avec le <strong>malbec</strong> comme cépage principal, il privilégie le fruit et la souplesse plutôt qu’un long élevage. Il montre les fruits noirs et la robe profonde du cahors dans un style juteux, à boire dans ses premières années avec la cuisine de tous les jours. Il ne nécessite pas de carafage.</p>",
+    "it": "<p>Il <strong>Château Lagrezette</strong>, a Caillac vicino a Cahors, è una delle proprietà più note della valle del Lot. La denominazione <strong>Cahors</strong> è la culla del <strong>Malbec</strong>, chiamato qui Côt, che deve rappresentare almeno il 70% dei suoi rossi e dà vini dal colore profondo, dal frutto nero e dai tannini fermi. I vigneti si distribuiscono tra le terrazze del fiume e gli altopiani calcarei che lo sovrastano.</p><p><strong>Seigneur de Grezette</strong> è uno dei rossi più accessibili della gamma del castello. Prodotto con il <strong>Malbec</strong> come vitigno principale, privilegia frutto e morbidezza rispetto a un lungo affinamento. Mostra il frutto nero e il colore profondo del Cahors in uno stile succoso, adatto a essere bevuto nei primi anni con la cucina di tutti i giorni. Non necessita di decantazione.</p>"
+  },
+  "tasting": {
+    "es": "Rojo violáceo. Aromas de mora, ciruela y violeta. Boca jugosa y afrutada, de taninos suaves.",
+    "en": "Purple-red. Aromas of blackberry, plum and violet. Juicy, fruity palate with soft tannins.",
+    "fr": "Rouge violacé. Arômes de mûre, de prune et de violette. Bouche juteuse et fruitée, aux tanins souples.",
+    "it": "Rosso violaceo. Aromi di mora, prugna e violetta. Bocca succosa e fruttata, dai tannini morbidi."
+  },
+  "pairing": {
+    "es": "Carnes a la parrilla, embutidos, hamburguesas, quesos semicurados",
+    "en": "Grilled meats, charcuterie, burgers, semi-hard cheeses",
+    "fr": "Viandes grillées, charcuterie, burgers, fromages mi-affinés",
+    "it": "Carni alla griglia, salumi, hamburger, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "15-17 °C, copa de vino tinto",
+    "en": "15-17 °C, red wine glass",
+    "fr": "15-17 °C, verre à vin rouge",
+    "it": "15-17 °C, calice da vino rosso"
+  },
+  "search": "Seigneur de Grezette Château Lagrezette Cahors"
+}

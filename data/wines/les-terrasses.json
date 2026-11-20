@@ -1,0 +1,41 @@
+{
+  "slug": "les-terrasses",
+  "name": "Les Terrasses",
+  "winery": "alvaro-palacios",
+  "region": "priorat",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": ["garnacha", "carinena"],
+  "summary": {
+    "es": "Tinto de viñas viejas de Álvaro Palacios, procedente de viñedos en terrazas sobre llicorella, que sintetiza el estilo de la casa a un nivel intermedio de la gama.",
+    "en": "Old-vine red from Álvaro Palacios, sourced from terraced vineyards on llicorella slate, summing up the house style at the middle of the range.",
+    "fr": "Rouge de vieilles vignes d'Álvaro Palacios, issu de vignobles en terrasses sur la llicorella, qui résume le style de la maison au milieu de la gamme.",
+    "it": "Rosso di vecchie vigne di Álvaro Palacios, da vigneti terrazzati sulla llicorella, che sintetizza lo stile della casa a un livello intermedio della gamma."
+  },
+  "body": {
+    "es": "<p>Les Terrasses toma su nombre de los bancales que caracterizan el paisaje del Priorat, construidos para poder cultivar laderas de pendiente muy pronunciada. Fue uno de los primeros vinos del proyecto de Álvaro Palacios en la comarca y se elabora con uvas de cepas viejas, sobre todo de <strong>garnacha</strong> y <strong>cariñena</strong>, cultivadas sobre suelos de <strong>llicorella</strong>.</p><p>La fermentación se realiza por parcelas y el vino se cría en barricas y fudres de roble durante un periodo moderado, buscando que la madera acompañe sin dominar. El resultado es un tinto con la concentración propia de los rendimientos bajos de la zona, pero con una lectura más fresca y precisa que la de los Priorat de estilo más maduro de décadas anteriores. Suele beneficiarse de algunos años de botella.</p>",
+    "en": "<p>Les Terrasses is named after the terraces that characterise the Priorat landscape, built to farm very steep slopes. It was one of the first wines of Álvaro Palacios's project in the district and is made from old-vine grapes, mainly <strong>Garnacha</strong> and <strong>Carignan</strong>, grown on <strong>llicorella</strong> soils.</p><p>Fermentation is carried out plot by plot and the wine is aged in oak barrels and large casks for a moderate period, so that the wood supports without dominating. The result is a red with the concentration typical of the area's low yields, but with a fresher, more precise reading than the riper-style Priorats of earlier decades. It usually benefits from a few years in bottle.</p>",
+    "fr": "<p>Les Terrasses doit son nom aux banquettes qui caractérisent le paysage du Priorat, construites pour cultiver des pentes très raides. Ce fut l'un des premiers vins du projet d'Álvaro Palacios dans la région ; il est élaboré avec des raisins de vieilles vignes, surtout de <strong>grenache</strong> et de <strong>carignan</strong>, plantées sur des sols de <strong>llicorella</strong>.</p><p>La fermentation se fait par parcelle et le vin est élevé en barriques et en foudres de chêne pendant une durée modérée, afin que le bois accompagne sans dominer. Il en résulte un rouge doté de la concentration propre aux faibles rendements de la zone, mais avec une lecture plus fraîche et plus précise que celle des Priorat de style plus mûr des décennies précédentes. Il gagne généralement à passer quelques années en bouteille.</p>",
+    "it": "<p>Les Terrasses prende il nome dai terrazzamenti che caratterizzano il paesaggio del Priorat, costruiti per coltivare pendii molto ripidi. Fu uno dei primi vini del progetto di Álvaro Palacios nella zona ed è prodotto con uve di vecchie viti, soprattutto <strong>Grenache</strong> e <strong>Carignano</strong>, coltivate su suoli di <strong>llicorella</strong>.</p><p>La fermentazione avviene per parcelle e il vino affina in barrique e botti grandi di rovere per un periodo moderato, affinché il legno accompagni senza dominare. Il risultato è un rosso con la concentrazione propria delle basse rese della zona, ma con una lettura più fresca e precisa rispetto ai Priorat di stile più maturo dei decenni passati. Di solito trae beneficio da qualche anno di bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Fruta negra y roja madura, notas de grafito, hierbas secas y especias suaves. Boca con cuerpo, tanino firme pero pulido y final largo y mineral.",
+    "en": "Ripe black and red fruit, notes of graphite, dried herbs and gentle spice. Full-bodied palate with firm but polished tannins and a long, mineral finish.",
+    "fr": "Fruits noirs et rouges mûrs, notes de graphite, d'herbes sèches et d'épices douces. Bouche ample, aux tanins fermes mais polis, finale longue et minérale.",
+    "it": "Frutta nera e rossa matura, note di grafite, erbe secche e spezie delicate. Bocca di corpo, tannino deciso ma levigato e finale lungo e minerale."
+  },
+  "pairing": {
+    "es": "Cordero asado, caza menor, guisos de carne, setas",
+    "en": "Roast lamb, small game, meat stews, mushrooms",
+    "fr": "Agneau rôti, petit gibier, ragoûts de viande, champignons",
+    "it": "Agnello arrosto, selvaggina minuta, stufati di carne, funghi"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia; conviene airearlo",
+    "en": "16-18 °C, large glass; benefits from airing",
+    "fr": "16-18 °C, grand verre ; gagne à être aéré",
+    "it": "16-18 °C, calice ampio; meglio arieggiarlo"
+  },
+  "search": "Les Terrasses Álvaro Palacios Priorat"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "donovan-rall-syrah",
+  "name": "Donovan Rall Syrah",
+  "winery": null,
+  "winery_name": "Rall Winery",
+  "region": null,
+  "country": "sudafrica",
+  "appellation": "Wine of Origin Swartland",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Donovan Rall Syrah es un vino tinto de Rall Winery, con la denominación Wine of Origin Swartland, en Sudáfrica.",
+    "en": "Donovan Rall Syrah is a red wine from Rall Winery, made under the Wine of Origin Swartland appellation in South Africa.",
+    "fr": "Donovan Rall Syrah est un vin rouge de Rall Winery, élaboré sous l’appellation Wine of Origin Swartland (Afrique du Sud).",
+    "it": "Donovan Rall Syrah è un vino rosso di Rall Winery, prodotto nella denominazione Wine of Origin Swartland (Sudafrica)."
+  },
+  "body": {
+    "es": "<p>Se cría en depósitos de hormigón. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is aged in concrete vats. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élevé en cuves béton. Il titre 12,5 % vol.</p>",
+    "it": "<p>Affina in vasche di cemento. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Donovan Rall Syrah Rall Winery",
+  "brief": true,
+  "source": "decantalo"
+}

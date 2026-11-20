@@ -1,0 +1,40 @@
+{
+  "slug": "guelbenzu-azul",
+  "name": "Guelbenzu Azul",
+  "winery": null,
+  "winery_name": "Guelbenzu",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Ribera del Queiles",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Guelbenzu Azul es un vino tinto de Guelbenzu, con la denominación VT Ribera del Queiles, en España.",
+    "en": "Guelbenzu Azul is a red wine from Guelbenzu, made under the VT Ribera del Queiles appellation in Spain.",
+    "fr": "Guelbenzu Azul est un vin rouge de Guelbenzu, élaboré sous l’appellation VT Ribera del Queiles (Espagne).",
+    "it": "Guelbenzu Azul è un vino rosso di Guelbenzu, prodotto nella denominazione VT Ribera del Queiles (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14,5 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 14.5% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14,5 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 14,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Guelbenzu Azul Guelbenzu",
+  "brief": true,
+  "source": "decantalo"
+}

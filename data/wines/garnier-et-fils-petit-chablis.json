@@ -1,0 +1,42 @@
+{
+  "slug": "garnier-et-fils-petit-chablis",
+  "name": "Garnier et Fils Petit Chablis",
+  "winery": null,
+  "winery_name": "Domaine Garnier et Fils",
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Petit Chablis",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Garnier et Fils Petit Chablis es un vino blanco de Domaine Garnier et Fils, con la denominación AOC Petit Chablis, en Francia.",
+    "en": "Garnier et Fils Petit Chablis is a white wine from Domaine Garnier et Fils, made under the AOC Petit Chablis appellation in France.",
+    "fr": "Garnier et Fils Petit Chablis est un vin blanc de Domaine Garnier et Fils, élaboré sous l’appellation AOC Petit Chablis (France).",
+    "it": "Garnier et Fils Petit Chablis è un vino bianco di Domaine Garnier et Fils, prodotto nella denominazione AOC Petit Chablis (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Chardonnay. Se cría en depósitos de acero inoxidable. Su graduación es de 13 % vol.</p>",
+    "en": "<p>It is made from Chardonnay. It is aged in stainless steel tanks. It has 13% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Chardonnay. Il est élevé en cuves inox. Il titre 13 % vol.</p>",
+    "it": "<p>È prodotto con Chardonnay. Affina in acciaio inox. Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Garnier et Fils Petit Chablis Domaine Garnier et Fils",
+  "brief": true,
+  "source": "decantalo"
+}

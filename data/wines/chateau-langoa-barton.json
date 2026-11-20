@@ -1,0 +1,50 @@
+{
+  "slug": "chateau-langoa-barton",
+  "name": "Château Langoa Barton",
+  "winery": "chateau-leoville-barton",
+  "region": "saint-julien",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Tercer Gran Cru Classé de 1855",
+    "en": "Third Growth (1855 classification)",
+    "fr": "Troisième grand cru classé en 1855",
+    "it": "Terzo Grand Cru Classé del 1855"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Tercer gran cru clasificado de Saint-Julien, propiedad de la familia Barton desde 1821 y elaborado en el mismo château que Léoville Barton.",
+    "en": "Saint-Julien third growth, owned by the Barton family since 1821 and made at the same château as Léoville Barton.",
+    "fr": "Troisième grand cru classé de Saint-Julien, propriété de la famille Barton depuis 1821 et élaboré au même château que Léoville Barton.",
+    "it": "Terzo grand cru classificato di Saint-Julien, di proprietà della famiglia Barton dal 1821 e prodotto nello stesso château di Léoville Barton."
+  },
+  "body": {
+    "es": "<p><strong>Château Langoa Barton</strong> es un <strong>tercer gran cru clasificado</strong> de <strong>Saint-Julien</strong> en la clasificación de 1855. La familia Barton, de origen irlandés y establecida en el comercio de vinos de Burdeos desde el siglo XVIII, lo adquirió en 1821, unos años antes de comprar parte del vecino Léoville. El elegante edificio del siglo XVIII de Langoa sirve de residencia a la familia y alberga la bodega donde se elaboran ambos vinos, aunque cada viñedo se vinifica por separado.</p><p>Las viñas se asientan sobre las gravas características de Saint-Julien. El vino se elabora con una mayoría de <strong>Cabernet Sauvignon</strong>, completada con <strong>Merlot</strong> y una pequeña proporción de <strong>Cabernet Franc</strong>, y se cría en barricas de roble.</p><p>Comparte el estilo clásico de la casa, alejado de modas: fruta negra, notas de cedro y tabaco, buena estructura y taninos firmes. Suele mostrarse algo más accesible que el Léoville Barton, pero tiene también una notable capacidad de guarda.</p>",
+    "en": "<p><strong>Château Langoa Barton</strong> is a <strong>third growth</strong> of <strong>Saint-Julien</strong> in the 1855 classification. The Barton family, of Irish origin and established in the Bordeaux wine trade since the 18th century, bought it in 1821, a few years before acquiring part of neighbouring Léoville. Langoa’s elegant 18th-century building is the family residence and houses the winery where both wines are made, although each vineyard is vinified separately.</p><p>The vines grow on the gravel typical of Saint-Julien. The wine is made mostly from <strong>Cabernet Sauvignon</strong>, completed by <strong>Merlot</strong> and a small proportion of <strong>Cabernet Franc</strong>, and is aged in oak barrels.</p><p>It shares the house’s classic style, untouched by fashion: dark fruit, notes of cedar and tobacco, good structure and firm tannins. It is usually somewhat more approachable than Léoville Barton, but also has notable ageing potential.</p>",
+    "fr": "<p><strong>Château Langoa Barton</strong> est un <strong>troisième grand cru classé</strong> de <strong>Saint-Julien</strong> au classement de 1855. La famille Barton, d’origine irlandaise et établie dans le négoce bordelais depuis le XVIIIe siècle, l’acquit en 1821, quelques années avant d’acheter une partie du voisin Léoville. L’élégant bâtiment XVIIIe de Langoa sert de résidence à la famille et abrite le chai où sont élaborés les deux vins, chaque vignoble étant vinifié séparément.</p><p>Les vignes reposent sur les graves caractéristiques de Saint-Julien. Le vin est issu majoritairement de <strong>cabernet-sauvignon</strong>, complété par le <strong>merlot</strong> et un peu de <strong>cabernet franc</strong>, et il est élevé en barriques de chêne.</p><p>Il partage le style classique de la maison, loin des modes : fruits noirs, notes de cèdre et de tabac, belle structure et tanins fermes. Il se montre généralement un peu plus accessible que le Léoville Barton, tout en possédant un remarquable potentiel de garde.</p>",
+    "it": "<p><strong>Château Langoa Barton</strong> è un <strong>terzo grand cru classificato</strong> di <strong>Saint-Julien</strong> nella classificazione del 1855. La famiglia Barton, di origine irlandese e attiva nel commercio dei vini di Bordeaux dal Settecento, lo acquistò nel 1821, alcuni anni prima di comprare parte della vicina Léoville. L’elegante edificio settecentesco di Langoa è la residenza della famiglia e ospita la cantina in cui si producono entrambi i vini, anche se ogni vigneto viene vinificato separatamente.</p><p>Le vigne crescono sulle ghiaie tipiche di Saint-Julien. Il vino è prodotto in prevalenza con <strong>Cabernet Sauvignon</strong>, completato da <strong>Merlot</strong> e da una piccola quota di <strong>Cabernet Franc</strong>, e affina in barrique di rovere.</p><p>Condivide lo stile classico della casa, lontano dalle mode: frutta nera, note di cedro e tabacco, buona struttura e tannini decisi. Di solito si mostra un po’ più accessibile del Léoville Barton, ma ha anch’esso una notevole capacità di invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota. Aromas de grosella negra, cedro, tabaco y especias. Boca clásica y estructurada, de taninos firmes.",
+    "en": "Deep red. Aromas of blackcurrant, cedar, tobacco and spice. Classic, structured palate with firm tannins.",
+    "fr": "Rouge profond. Arômes de cassis, de cèdre, de tabac et d’épices. Bouche classique et structurée, aux tanins fermes.",
+    "it": "Rosso intenso. Aromi di ribes nero, cedro, tabacco e spezie. Bocca classica e strutturata, dai tannini decisi."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes rojas a la parrilla, caza, quesos curados",
+    "en": "Roast lamb, grilled red meat, game, aged cheeses",
+    "fr": "Agneau rôti, viandes rouges grillées, gibier, fromages affinés",
+    "it": "Agnello arrosto, carni rosse alla griglia, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Château Langoa Barton Saint-Julien"
+}

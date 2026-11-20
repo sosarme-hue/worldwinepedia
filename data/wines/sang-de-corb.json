@@ -1,0 +1,40 @@
+{
+  "slug": "sang-de-corb",
+  "name": "Sang de Corb",
+  "winery": null,
+  "winery_name": "Celler Frisach",
+  "region": "terra-alta",
+  "country": "espana",
+  "appellation": "DO Terra Alta",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Sang de Corb es un vino tinto de Celler Frisach, con la denominación DO Terra Alta, en España.",
+    "en": "Sang de Corb is a red wine from Celler Frisach, made under the DO Terra Alta appellation in Spain.",
+    "fr": "Sang de Corb est un vin rouge de Celler Frisach, élaboré sous l’appellation DO Terra Alta (Espagne).",
+    "it": "Sang de Corb è un vino rosso di Celler Frisach, prodotto nella denominazione DO Terra Alta (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14 % vol.</p><p>Terra Alta es una denominación de origen del extremo occidental de la provincia de Tarragona, en torno a Gandesa. Es especialmente conocida por sus blancos de Garnacha Blanca, aunque elabora también tintos de Garnacha y Cariñena y vinos rancios y dulces tradicionales.</p>",
+    "en": "<p>It is aged in wood. It has 14% ABV.</p><p>Terra Alta is a designation of origin in the far west of the province of Tarragona, around Gandesa. It is particularly known for its White Grenache whites, although it also makes Grenache and Carignan reds and traditional rancio and sweet wines.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14 % vol.</p><p>Terra Alta est une dénomination d'origine de l'extrémité occidentale de la province de Tarragone, autour de Gandesa. Elle est surtout connue pour ses blancs de grenache blanc, mais produit aussi des rouges de grenache et de carignan ainsi que des vins rancios et doux traditionnels.</p>",
+    "it": "<p>È affinato in legno. Ha 14% vol.</p><p>Terra Alta è una denominazione di origine dell'estremo ovest della provincia di Tarragona, attorno a Gandesa. È nota soprattutto per i bianchi di Garnacha Blanca, ma produce anche rossi di Garnacha e Carignano e vini rancio e dolci tradizionali.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Sang de Corb Celler Frisach",
+  "brief": true,
+  "source": "decantalo"
+}

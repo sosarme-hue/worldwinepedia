@@ -1,0 +1,43 @@
+{
+  "slug": "macan",
+  "name": "Macán",
+  "winery": "vega-sicilia",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Tinto de Rioja fruto de la colaboración entre Vega Sicilia y Benjamin de Rothschild, elaborado con Tempranillo y de estilo moderno y profundo.",
+    "en": "Rioja red born of the partnership between Vega Sicilia and Benjamin de Rothschild, made from Tempranillo in a modern, deep style.",
+    "fr": "Rouge de Rioja né de la collaboration entre Vega Sicilia et Benjamin de Rothschild, élaboré à partir de tempranillo dans un style moderne et profond.",
+    "it": "Rosso di Rioja nato dalla collaborazione tra Vega Sicilia e Benjamin de Rothschild, prodotto con Tempranillo in uno stile moderno e profondo."
+  },
+  "body": {
+    "es": "<p>Macán es el proyecto que Vega Sicilia y la familia Rothschild, a través de Benjamin de Rothschild, pusieron en marcha conjuntamente en la <strong>D.O.Ca. Rioja</strong> a comienzos del siglo XXI. La bodega trabaja con viñedos propios y seleccionados en la denominación, y elabora sus vinos con <strong>Tempranillo</strong>, la variedad principal de Rioja.</p><p>Macán es el vino principal de la bodega, elaborado con una selección de las mejores parcelas y criado en barricas de roble, en su mayor parte francés. Busca una interpretación del Tempranillo riojano que combine la concentración de la fruta con la frescura y la finura, alejándose de las crianzas muy largas del Rioja más clásico.</p><p>Es un tinto de cuerpo pleno, con fruta negra, notas especiadas y de roble bien integradas y una estructura de taninos que le permite evolucionar durante muchos años en botella.</p>",
+    "en": "<p>Macán is the project that Vega Sicilia and the Rothschild family, through Benjamin de Rothschild, jointly launched in the <strong>Rioja D.O.Ca.</strong> at the beginning of the twenty-first century. The winery works with its own and selected vineyards within the appellation and makes its wines from <strong>Tempranillo</strong>, Rioja’s main grape variety.</p><p>Macán is the winery’s flagship wine, made from a selection of the best plots and aged in oak barrels, mostly French. It seeks an interpretation of Rioja Tempranillo that combines concentrated fruit with freshness and finesse, moving away from the very long ageing of the most classic Rioja.</p><p>It is a full-bodied red, with black fruit, well-integrated spice and oak notes and a tannic structure that allows it to develop for many years in bottle.</p>",
+    "fr": "<p>Macán est le projet que Vega Sicilia et la famille Rothschild, à travers Benjamin de Rothschild, ont lancé ensemble dans la <strong>D.O.Ca. Rioja</strong> au début du XXIe siècle. La bodega travaille avec des vignes en propre et sélectionnées dans l’appellation, et élabore ses vins à partir de <strong>tempranillo</strong>, le principal cépage de la Rioja.</p><p>Macán est le grand vin de la bodega, élaboré à partir d’une sélection des meilleures parcelles et élevé en barriques de chêne, majoritairement français. Il propose une interprétation du tempranillo de Rioja qui associe la concentration du fruit à la fraîcheur et à la finesse, en s’éloignant des élevages très longs du Rioja le plus classique.</p><p>C’est un rouge corsé, aux fruits noirs, aux notes épicées et boisées bien intégrées, doté d’une structure tannique qui lui permet d’évoluer de nombreuses années en bouteille.</p>",
+    "it": "<p>Macán è il progetto che Vega Sicilia e la famiglia Rothschild, attraverso Benjamin de Rothschild, hanno avviato insieme nella <strong>D.O.Ca. Rioja</strong> all’inizio del XXI secolo. La cantina lavora con vigneti di proprietà e selezionati nella denominazione e produce i suoi vini con <strong>Tempranillo</strong>, la principale varietà della Rioja.</p><p>Macán è il vino principale della cantina, prodotto con una selezione delle migliori parcelle e affinato in barrique di rovere, in gran parte francese. Propone un’interpretazione del Tempranillo riojano che unisce la concentrazione del frutto alla freschezza e alla finezza, allontanandosi dagli affinamenti molto lunghi del Rioja più classico.</p><p>È un rosso di corpo pieno, con frutto nero, note speziate e di rovere ben integrate e una struttura tannica che gli consente di evolvere per molti anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Picota intenso. Aromas de mora, ciruela, regaliz, especias y tostados finos. Boca amplia y profunda, de taninos pulidos y final largo.",
+    "en": "Deep cherry red. Aromas of blackberry, plum, liquorice, spice and fine toast. Broad, deep palate with polished tannins and a long finish.",
+    "fr": "Rouge cerise intense. Arômes de mûre, de prune, de réglisse, d’épices et de grillé fin. Bouche ample et profonde, aux tanins polis, finale longue.",
+    "it": "Rosso ciliegia intenso. Aromi di mora, prugna, liquirizia, spezie e tostature fini. Bocca ampia e profonda, tannini levigati e finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, chuletón, caza, guisos de carne, quesos curados",
+    "en": "Roast lamb, rib steak, game, meat stews, aged cheeses",
+    "fr": "Agneau rôti, côte de bœuf, gibier, ragoûts de viande, fromages affinés",
+    "it": "Agnello arrosto, costata, selvaggina, stufati di carne, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Macán Benjamin de Rothschild Vega Sicilia"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "cvne-real-de-asua-cvne",
+  "name": "CVNE Real de Asúa",
+  "winery": "cvne",
+  "winery_name": null,
+  "region": "rioja",
+  "country": "espana",
+  "appellation": "DOCa Rioja",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Tinto de alta gama de CVNE, elaborado con Tempranillo y bautizado con el apellido de los hermanos que fundaron la bodega en Haro.",
+    "en": "High-end red from CVNE, made from Tempranillo and named after the brothers who founded the winery in Haro.",
+    "fr": "Rouge haut de gamme de CVNE, élaboré avec du tempranillo et baptisé du nom des frères qui fondèrent la bodega à Haro.",
+    "it": "Rosso di alta gamma di CVNE, prodotto con Tempranillo e intitolato ai fratelli che fondarono la cantina a Haro."
+  },
+  "body": {
+    "es": "<p>La <strong>Compañía Vinícola del Norte de España</strong> (CVNE) fue fundada en 1879 en el Barrio de la Estación de <strong>Haro</strong> por los hermanos Real de Asúa. Es una de las casas históricas de la Rioja Alta y responsable de marcas clásicas como Cune, Viña Real, Imperial y Monopole.</p><p><strong>Real de Asúa</strong> lleva el apellido de los fundadores y es uno de los tintos más ambiciosos de la casa, situado por encima de sus marcas clásicas. Se elabora con <strong>Tempranillo</strong> procedente de viñedos seleccionados de la Rioja Alta, con una vinificación cuidada y una crianza en barrica de roble que busca integrar la madera sin restar protagonismo a la fruta.</p><p>A diferencia de los grandes reservas tradicionales de la bodega, su estilo es más moderno, con mayor concentración y una extracción más marcada. Con 14 % vol., es un tinto profundo y estructurado, con capacidad de guarda, que mejora tras unos años en botella y se beneficia de un decantado cuando se abre joven.</p>",
+    "en": "<p>The <strong>Compañía Vinícola del Norte de España</strong> (CVNE) was founded in 1879 in the Barrio de la Estación of <strong>Haro</strong> by the Real de Asúa brothers. It is one of the historic houses of Rioja Alta and the producer of classic brands such as Cune, Viña Real, Imperial and Monopole.</p><p><strong>Real de Asúa</strong> bears the founders’ surname and is one of the house’s most ambitious reds, positioned above its classic brands. It is made from <strong>Tempranillo</strong> from selected vineyards in Rioja Alta, with careful vinification and ageing in oak barrels intended to integrate the wood without overshadowing the fruit.</p><p>Unlike the winery’s great traditional reservas, its style is more modern, with greater concentration and more pronounced extraction. At 14% ABV, it is a deep, structured red with ageing potential, which improves after a few years in bottle and benefits from decanting when opened young.</p>",
+    "fr": "<p>La <strong>Compañía Vinícola del Norte de España</strong> (CVNE) a été fondée en 1879 dans le Barrio de la Estación de <strong>Haro</strong> par les frères Real de Asúa. C’est l’une des maisons historiques de la Rioja Alta, à l’origine de marques classiques comme Cune, Viña Real, Imperial et Monopole.</p><p><strong>Real de Asúa</strong> porte le nom des fondateurs et compte parmi les rouges les plus ambitieux de la maison, placé au-dessus de ses marques classiques. Il est élaboré avec du <strong>tempranillo</strong> issu de vignobles sélectionnés de la Rioja Alta, avec une vinification soignée et un élevage en barrique de chêne qui cherche à intégrer le bois sans éclipser le fruit.</p><p>Contrairement aux grands reservas traditionnels de la maison, son style est plus moderne, avec davantage de concentration et une extraction plus marquée. Avec 14 % vol., c’est un rouge profond et structuré, de garde, qui gagne à passer quelques années en bouteille et à être carafé lorsqu’il est ouvert jeune.</p>",
+    "it": "<p>La <strong>Compañía Vinícola del Norte de España</strong> (CVNE) fu fondata nel 1879 nel Barrio de la Estación di <strong>Haro</strong> dai fratelli Real de Asúa. È una delle case storiche della Rioja Alta, produttrice di marchi classici come Cune, Viña Real, Imperial e Monopole.</p><p><strong>Real de Asúa</strong> porta il cognome dei fondatori ed è uno dei rossi più ambiziosi della casa, posizionato al di sopra dei suoi marchi classici. È prodotto con <strong>Tempranillo</strong> proveniente da vigneti selezionati della Rioja Alta, con una vinificazione accurata e un affinamento in barrique di rovere che mira a integrare il legno senza togliere protagonismo al frutto.</p><p>A differenza delle grandi riserve tradizionali della cantina, il suo stile è più moderno, con maggiore concentrazione ed estrazione più marcata. Con 14% vol., è un rosso profondo e strutturato, da invecchiamento, che migliora dopo alcuni anni in bottiglia e beneficia della decantazione quando viene aperto giovane.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de fruta negra madura, regaliz, especias y tostados finos. En boca es concentrado, de taninos firmes y final largo.",
+    "en": "Deep cherry red. Aromas of ripe black fruit, liquorice, spice and fine toast. Concentrated on the palate, with firm tannins and a long finish.",
+    "fr": "Rouge cerise intense. Arômes de fruits noirs mûrs, de réglisse, d’épices et de toasté fin. Bouche concentrée, aux tanins fermes et à la finale longue.",
+    "it": "Rosso ciliegia intenso. Aromi di frutta nera matura, liquirizia, spezie e tostature fini. Bocca concentrata, dai tannini decisi e dal finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes rojas, caza menor, quesos curados",
+    "en": "Roast lamb, red meats, small game, aged cheeses",
+    "fr": "Agneau rôti, viandes rouges, petit gibier, fromages affinés",
+    "it": "Agnello arrosto, carni rosse, selvaggina di piccola taglia, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "CVNE Real de Asúa CVNE",
+  "source": "decantalo"
+}

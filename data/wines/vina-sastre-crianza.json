@@ -1,0 +1,48 @@
+{
+  "slug": "vina-sastre-crianza",
+  "name": "Viña Sastre Crianza",
+  "winery": "hermanos-sastre",
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Crianza",
+    "en": "Crianza",
+    "fr": "Crianza",
+    "it": "Crianza"
+  },
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Crianza de Bodegas Hermanos Sastre elaborado con Tinto Fino de viñedos propios en La Horra y criado al menos un año en barrica.",
+    "en": "Crianza from Bodegas Hermanos Sastre made from Tinto Fino from its own vineyards in La Horra and aged for at least a year in barrel.",
+    "fr": "Crianza de Bodegas Hermanos Sastre élaboré avec du tinto fino de ses propres vignes de La Horra et élevé au moins un an en barrique.",
+    "it": "Crianza di Bodegas Hermanos Sastre prodotto con Tinto Fino di vigneti propri a La Horra e affinato almeno un anno in barrique."
+  },
+  "body": {
+    "es": "<p>Viña Sastre Crianza es uno de los vinos más conocidos de Bodegas Hermanos Sastre y una buena representación del estilo de la Ribera burgalesa. Se elabora con Tinto Fino procedente de los viñedos de la familia en La Horra, algunos de ellos de cepas viejas plantadas en vaso, sobre suelos de arcilla, caliza y arena.</p><p>Tras la fermentación, el vino se cría en barrica de roble durante al menos doce meses, como exige la categoría Crianza en la Denominación de Origen Ribera del Duero, y completa el envejecimiento con un periodo en botella. La crianza en madera se plantea como complemento de una fruta madura y concentrada, sin que el roble domine el conjunto.</p><p>El resultado es un tinto de color intenso, con fruta negra, notas especiadas y una estructura firme pero equilibrada, gracias a la acidez que aportan las noches frescas de la zona. Puede beberse en sus primeros años o guardarse algún tiempo en buenas condiciones.</p>",
+    "en": "<p>Viña Sastre Crianza is one of the best-known wines from Bodegas Hermanos Sastre and a good representative of the Burgos Ribera style. It is made from Tinto Fino from the family’s vineyards in La Horra, some of them old bush vines, on clay, limestone and sandy soils.</p><p>After fermentation the wine is aged in oak barrels for at least twelve months, as the Crianza category requires in the Ribera del Duero Denominación de Origen, and completes its ageing with a period in bottle. Oak ageing is conceived as a complement to ripe, concentrated fruit, without the wood dominating the whole.</p><p>The result is a deeply coloured red with black fruit, spicy notes and a firm but balanced structure, thanks to the acidity brought by the area’s cool nights. It can be drunk in its first years or kept for a while in good conditions.</p>",
+    "fr": "<p>Viña Sastre Crianza est l’un des vins les plus connus de Bodegas Hermanos Sastre et une bonne illustration du style de la Ribera de Burgos. Il est élaboré avec du tinto fino des vignes de la famille à La Horra, dont certaines de vieux ceps conduits en gobelet, sur des sols d’argile, de calcaire et de sable.</p><p>Après la fermentation, le vin est élevé en barrique de chêne pendant au moins douze mois, comme l’exige la catégorie Crianza dans la Denominación de Origen Ribera del Duero, et achève son vieillissement par une période en bouteille. L’élevage sous bois est conçu comme un complément d’un fruit mûr et concentré, sans que le chêne domine l’ensemble.</p><p>Il en résulte un rouge à la couleur intense, aux fruits noirs, aux notes épicées et à la structure ferme mais équilibrée, grâce à l’acidité qu’apportent les nuits fraîches du secteur. Il peut se boire dans ses premières années ou se garder un certain temps dans de bonnes conditions.</p>",
+    "it": "<p>Viña Sastre Crianza è uno dei vini più noti di Bodegas Hermanos Sastre e una buona rappresentazione dello stile della Ribera di Burgos. È prodotto con Tinto Fino dei vigneti di famiglia a La Horra, alcuni di vecchie viti ad alberello, su suoli di argilla, calcare e sabbia.</p><p>Dopo la fermentazione il vino affina in barrique di rovere per almeno dodici mesi, come richiede la categoria Crianza nella Denominación de Origen Ribera del Duero, e completa l’invecchiamento con un periodo in bottiglia. L’affinamento in legno è concepito come complemento di un frutto maturo e concentrato, senza che il rovere domini l’insieme.</p><p>Il risultato è un rosso dal colore intenso, con frutto nero, note speziate e una struttura salda ma equilibrata, grazie all’acidità data dalle notti fresche della zona. Si può bere nei primi anni o conservare per qualche tempo in buone condizioni.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de fruta negra madura, regaliz, especias y tostados de la barrica. En boca es carnoso y estructurado, con taninos firmes y final persistente.",
+    "en": "Intense deep cherry red. Aromas of ripe black fruit, liquorice, spice and toasty oak. Fleshy and structured on the palate, with firm tannins and a persistent finish.",
+    "fr": "Rouge cerise burlat intense. Arômes de fruits noirs mûrs, réglisse, épices et toasté de la barrique. En bouche, il est charnu et structuré, aux tanins fermes et à la finale persistante.",
+    "it": "Rosso ciliegia intenso. Aromi di frutta nera matura, liquirizia, spezie e tostatura della barrique. In bocca è carnoso e strutturato, con tannini decisi e finale persistente."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, lechazo asado, caza mayor, quesos curados de oveja",
+    "en": "Chargrilled red meat, roast milk-fed lamb, large game, aged sheep’s cheeses",
+    "fr": "Viandes rouges à la braise, agneau de lait rôti, gros gibier, fromages de brebis affinés",
+    "it": "Carni rosse alla brace, agnello da latte arrosto, selvaggina di grossa taglia, pecorini stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Viña Sastre Crianza Ribera del Duero"
+}

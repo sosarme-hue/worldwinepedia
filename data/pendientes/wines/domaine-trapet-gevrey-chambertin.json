@@ -1,0 +1,42 @@
+{
+  "slug": "domaine-trapet-gevrey-chambertin",
+  "name": "Domaine Trapet Gevrey-Chambertin",
+  "winery": null,
+  "winery_name": "Domaine Trapet",
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Gevrey-Chambertin / Côte-d'Or",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Domaine Trapet Gevrey-Chambertin es un vino tinto de Domaine Trapet, con la denominación AOC Gevrey-Chambertin / Côte-d'Or, en Francia.",
+    "en": "Domaine Trapet Gevrey-Chambertin is a red wine from Domaine Trapet, made under the AOC Gevrey-Chambertin / Côte-d'Or appellation in France.",
+    "fr": "Domaine Trapet Gevrey-Chambertin est un vin rouge de Domaine Trapet, élaboré sous l’appellation AOC Gevrey-Chambertin / Côte-d'Or (France).",
+    "it": "Domaine Trapet Gevrey-Chambertin è un vino rosso di Domaine Trapet, prodotto nella denominazione AOC Gevrey-Chambertin / Côte-d'Or (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Pinot Noir. Tiene crianza en madera. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is made from Pinot Noir. It is aged in wood. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Pinot Noir. Il est élevé en bois. Il titre 12,5 % vol.</p>",
+    "it": "<p>È prodotto con Pinot Nero. È affinato in legno. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Domaine Trapet Gevrey-Chambertin Domaine Trapet",
+  "brief": true,
+  "source": "decantalo"
+}

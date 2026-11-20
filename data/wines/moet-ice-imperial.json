@@ -1,0 +1,44 @@
+{
+  "slug": "moet-ice-imperial",
+  "name": "Moët & Chandon Ice Impérial",
+  "winery": "moet-chandon",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": null,
+  "grapes": [
+    "chardonnay",
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Champagne de Moët & Chandon concebido para servirse con hielo, con una dosificación más alta que la de un brut y un perfil afrutado e intenso.",
+    "en": "Moët & Chandon champagne designed to be served over ice, with a higher dosage than a brut and an intense, fruity profile.",
+    "fr": "Champagne de Moët & Chandon conçu pour être servi sur glace, avec un dosage plus élevé que celui d’un brut et un profil fruité et intense.",
+    "it": "Champagne di Moët & Chandon pensato per essere servito con ghiaccio, con un dosaggio più alto di un brut e un profilo fruttato e intenso."
+  },
+  "body": {
+    "es": "<p>Ice Impérial fue lanzado por Moët &amp; Chandon a comienzos de la década de 2010 como un champán pensado específicamente para servirse <strong>con cubitos de hielo</strong> en una copa amplia, una forma de consumo asociada a terrazas y climas cálidos. Se reconoce por su botella blanca.</p><p>Se elabora con las tres variedades de Champagne, con predominio de <strong>Pinot Noir</strong> y Pinot Meunier, que aportan fruta y cuerpo, y una parte de <strong>Chardonnay</strong>; las proporciones varían según el ensamblaje. Su característica principal es una <strong>dosificación</strong> más elevada que la de un brut, en la categoría de los champanes semisecos. Ese azúcar adicional compensa la dilución que produce el hielo al fundirse y mantiene el equilibrio del vino.</p><p>Es un champán de aromas intensos de frutas tropicales y de hueso, con una boca redonda y golosa. La casa sugiere servirlo con tres cubitos de hielo y, si se desea, con una rodaja de fruta o unas hojas de menta.</p>",
+    "en": "<p>Ice Impérial was launched by Moët &amp; Chandon in the early 2010s as a champagne designed specifically to be served <strong>over ice cubes</strong> in a large glass, a way of drinking associated with terraces and warm climates. It is recognisable by its white bottle.</p><p>It is made from the three Champagne varieties, with <strong>Pinot Noir</strong> and Pinot Meunier predominating, bringing fruit and body, and a share of <strong>Chardonnay</strong>; the proportions vary from blend to blend. Its main feature is a higher <strong>dosage</strong> than that of a brut, in the category of medium-dry champagnes. The extra sugar offsets the dilution caused by the melting ice and keeps the wine in balance.</p><p>It is a champagne with intense aromas of tropical and stone fruit and a round, rich palate. The house suggests serving it with three ice cubes and, if desired, a slice of fruit or a few mint leaves.</p>",
+    "fr": "<p>Ice Impérial a été lancé par Moët &amp; Chandon au début des années 2010 comme un champagne spécialement conçu pour être servi <strong>sur glaçons</strong> dans un grand verre, une manière de boire associée aux terrasses et aux climats chauds. On le reconnaît à sa bouteille blanche.</p><p>Il est élaboré avec les trois cépages de la Champagne, à dominante de <strong>pinot noir</strong> et de pinot meunier, qui apportent fruit et corps, avec une part de <strong>chardonnay</strong> ; les proportions varient selon l’assemblage. Sa principale caractéristique est un <strong>dosage</strong> plus élevé que celui d’un brut, dans la catégorie des champagnes demi-secs. Ce supplément de sucre compense la dilution provoquée par la fonte des glaçons et maintient l’équilibre du vin.</p><p>C’est un champagne aux arômes intenses de fruits exotiques et de fruits à noyau, à la bouche ronde et gourmande. La maison suggère de le servir avec trois glaçons et, si on le souhaite, une tranche de fruit ou quelques feuilles de menthe.</p>",
+    "it": "<p>Ice Impérial è stato lanciato da Moët &amp; Chandon all’inizio degli anni Dieci come champagne pensato specificamente per essere servito <strong>con cubetti di ghiaccio</strong> in un calice ampio, un modo di bere associato alle terrazze e ai climi caldi. Si riconosce dalla bottiglia bianca.</p><p>È prodotto con le tre varietà della Champagne, con prevalenza di <strong>Pinot Nero</strong> e Pinot Meunier, che apportano frutto e corpo, e una quota di <strong>Chardonnay</strong>; le proporzioni variano secondo l’assemblaggio. La sua caratteristica principale è un <strong>dosaggio</strong> più alto di quello di un brut, nella categoria degli champagne demi-sec. Lo zucchero aggiuntivo compensa la diluizione causata dal ghiaccio che si scioglie e mantiene l’equilibrio del vino.</p><p>È uno champagne dagli aromi intensi di frutta tropicale e a nocciolo, con una bocca rotonda e golosa. La casa suggerisce di servirlo con tre cubetti di ghiaccio e, se si desidera, una fetta di frutta o qualche foglia di menta.</p>"
+  },
+  "tasting": {
+    "es": "Dorado intenso con burbuja viva. Aromas de mango, piña, melocotón y frambuesa. Boca redonda y golosa, con un dulzor perceptible equilibrado por la frescura.",
+    "en": "Deep gold with lively bubbles. Aromas of mango, pineapple, peach and raspberry. Round, rich palate with noticeable sweetness balanced by freshness.",
+    "fr": "Or soutenu à la bulle vive. Arômes de mangue, d’ananas, de pêche et de framboise. Bouche ronde et gourmande, à la douceur perceptible équilibrée par la fraîcheur.",
+    "it": "Oro intenso dal perlage vivace. Aromi di mango, ananas, pesca e lampone. Bocca rotonda e golosa, con una dolcezza percettibile bilanciata dalla freschezza."
+  },
+  "pairing": {
+    "es": "Aperitivo de verano, frutas frescas, ensaladas de frutas, cocina tropical",
+    "en": "Summer aperitif, fresh fruit, fruit salads, tropical cuisine",
+    "fr": "Apéritif d’été, fruits frais, salades de fruits, cuisine exotique",
+    "it": "Aperitivo estivo, frutta fresca, macedonie, cucina tropicale"
+  },
+  "serve": {
+    "es": "Con tres cubitos de hielo en copa grande",
+    "en": "With three ice cubes in a large glass",
+    "fr": "Avec trois glaçons dans un grand verre",
+    "it": "Con tre cubetti di ghiaccio in un calice ampio"
+  },
+  "search": "Moët & Chandon Ice Impérial Champagne"
+}

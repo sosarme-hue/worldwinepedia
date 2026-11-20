@@ -1,0 +1,46 @@
+{
+  "slug": "don-px-gran-reserva",
+  "name": "Don PX Gran Reserva",
+  "winery": "toro-albala",
+  "region": "montilla-moriles",
+  "country": "espana",
+  "type": "generoso",
+  "category": {
+    "es": "Pedro Ximénez Gran Reserva",
+    "en": "Pedro Ximénez Gran Reserva",
+    "fr": "Pedro Ximénez Gran Reserva",
+    "it": "Pedro Ximénez Gran Reserva"
+  },
+  "grapes": ["pedro-ximenez"],
+  "summary": {
+    "es": "Pedro Ximénez de añada de Toro Albalá, criado durante décadas en barrica antes de embotellarse, uno de los grandes vinos dulces de Montilla-Moriles.",
+    "en": "Vintage-dated Pedro Ximénez from Toro Albalá, aged for decades in cask before bottling, one of the great sweet wines of Montilla-Moriles.",
+    "fr": "Pedro ximénez millésimé de Toro Albalá, élevé pendant des décennies en fût avant sa mise en bouteille, l'un des grands vins doux de Montilla-Moriles.",
+    "it": "Pedro Ximénez d'annata di Toro Albalá, affinato per decenni in botte prima dell'imbottigliamento, uno dei grandi vini dolci di Montilla-Moriles."
+  },
+  "body": {
+    "es": "<p>Don PX Gran Reserva es el vino más representativo de Toro Albalá. A diferencia de la mayoría de los vinos de la zona, que se crían en criaderas y solera y no indican añada, este PX procede de una sola cosecha, que figura en la etiqueta, y permanece en barrica durante un periodo muy largo —habitualmente varias décadas— antes de embotellarse.</p><p>Se elabora con <strong>Pedro Ximénez</strong> de la D.O. Montilla-Moriles. Las uvas se pasifican al sol después de la vendimia y el mosto, de enorme concentración de azúcar, se encabeza y se cría en botas de roble. Durante la larga crianza oxidativa el vino se concentra, oscurece y gana complejidad, de modo que el dulzor convive con notas tostadas y una acidez que aporta viveza. Es un vino de meditación y de larga vida en botella.</p>",
+    "en": "<p>Don PX Gran Reserva is Toro Albalá's most representative wine. Unlike most wines from the area, which are aged in criaderas and solera and carry no vintage, this PX comes from a single harvest, stated on the label, and stays in cask for a very long period —usually several decades— before bottling.</p><p>It is made from <strong>Pedro Ximénez</strong> from the Montilla-Moriles D.O. The grapes are raisined in the sun after harvest and the must, with an enormous concentration of sugar, is fortified and aged in oak casks. During the long oxidative ageing the wine concentrates, darkens and gains complexity, so that its sweetness is joined by toasty notes and an acidity that brings liveliness. It is a meditation wine with a long life in bottle.</p>",
+    "fr": "<p>Don PX Gran Reserva est le vin le plus représentatif de Toro Albalá. Contrairement à la plupart des vins de la région, élevés en criaderas et solera et sans millésime, ce PX provient d'une seule récolte, indiquée sur l'étiquette, et reste en fût pendant une très longue période —généralement plusieurs décennies— avant sa mise en bouteille.</p><p>Il est élaboré avec du <strong>pedro ximénez</strong> de la D.O. Montilla-Moriles. Les raisins sont passerillés au soleil après la vendange et le moût, d'une énorme concentration en sucre, est muté et élevé en fûts de chêne. Au cours du long élevage oxydatif, le vin se concentre, fonce et gagne en complexité : la douceur s'accompagne de notes grillées et d'une acidité qui lui donne de la vivacité. C'est un vin de méditation, d'une grande longévité en bouteille.</p>",
+    "it": "<p>Don PX Gran Reserva è il vino più rappresentativo di Toro Albalá. A differenza della maggior parte dei vini della zona, affinati in criaderas e solera e senza annata, questo PX proviene da una sola vendemmia, indicata in etichetta, e resta in botte per un periodo molto lungo —di solito diversi decenni— prima dell'imbottigliamento.</p><p>È prodotto con <strong>Pedro Ximénez</strong> della D.O. Montilla-Moriles. Le uve vengono appassite al sole dopo la vendemmia e il mosto, con un'enorme concentrazione di zuccheri, viene fortificato e affinato in botti di rovere. Durante il lungo affinamento ossidativo il vino si concentra, si scurisce e guadagna complessità, così che la dolcezza si accompagna a note tostate e a un'acidità che dà vivacità. È un vino da meditazione e di lunga vita in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Pasas, higos, dátiles, café, cacao, regaliz y especias. Boca densa y muy dulce, con acidez viva y final larguísimo.",
+    "en": "Raisins, figs, dates, coffee, cocoa, liquorice and spice. Dense, very sweet palate with lively acidity and an extremely long finish.",
+    "fr": "Raisins secs, figues, dattes, café, cacao, réglisse et épices. Bouche dense et très douce, à l'acidité vive et à la finale interminable.",
+    "it": "Uva passa, fichi, datteri, caffè, cacao, liquirizia e spezie. Bocca densa e molto dolce, con acidità vivace e finale lunghissimo."
+  },
+  "pairing": {
+    "es": "Quesos azules, chocolate negro, helado de vainilla, o solo como vino de meditación",
+    "en": "Blue cheeses, dark chocolate, vanilla ice cream, or on its own as a meditation wine",
+    "fr": "Fromages persillés, chocolat noir, glace à la vanille, ou seul comme vin de méditation",
+    "it": "Formaggi erborinati, cioccolato fondente, gelato alla vaniglia, o da solo come vino da meditazione"
+  },
+  "serve": {
+    "es": "13-15 °C, copa pequeña de vino dulce",
+    "en": "13-15 °C, small dessert wine glass",
+    "fr": "13-15 °C, petit verre à vin doux",
+    "it": "13-15 °C, piccolo calice da vino dolce"
+  },
+  "search": "Toro Albalá Don PX Gran Reserva"
+}

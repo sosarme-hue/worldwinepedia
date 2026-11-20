@@ -1,0 +1,40 @@
+{
+  "slug": "cos-nero-di-lupo",
+  "name": "COS Nero di Lupo",
+  "winery": null,
+  "winery_name": "Azienda Agricola Cos",
+  "region": null,
+  "country": "italia",
+  "appellation": "IGT Terre Siciliane",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "COS Nero di Lupo es un vino tinto de Azienda Agricola Cos, con la denominación IGT Terre Siciliane, en Italia.",
+    "en": "COS Nero di Lupo is a red wine from Azienda Agricola Cos, made under the IGT Terre Siciliane appellation in Italy.",
+    "fr": "COS Nero di Lupo est un vin rouge de Azienda Agricola Cos, élaboré sous l’appellation IGT Terre Siciliane (Italie).",
+    "it": "COS Nero di Lupo è un vino rosso di Azienda Agricola Cos, prodotto nella denominazione IGT Terre Siciliane (Italia)."
+  },
+  "body": {
+    "es": "<p>Se cría en recipientes de barro, como ánforas o tinajas. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is aged in clay vessels such as amphorae. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élevé en jarres de terre cuite, comme des amphores. Il titre 12,5 % vol.</p>",
+    "it": "<p>Affina in contenitori di terracotta, come anfore. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "COS Nero di Lupo Azienda Agricola Cos",
+  "brief": true,
+  "source": "decantalo"
+}

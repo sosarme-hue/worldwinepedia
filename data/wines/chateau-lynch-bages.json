@@ -1,0 +1,41 @@
+{
+  "slug": "chateau-lynch-bages",
+  "name": "Château Lynch-Bages",
+  "winery": "chateau-lynch-bages",
+  "region": "medoc",
+  "country": "francia",
+  "type": "tinto",
+  "category": {"es": "Cinquième Grand Cru Classé (1855)", "en": "Cinquième Grand Cru Classé (1855)", "fr": "Cinquième grand cru classé (1855)", "it": "Cinquième Grand Cru Classé (1855)"},
+  "grapes": ["cabernet-sauvignon", "merlot", "cabernet-franc", "petit-verdot"],
+  "summary": {
+    "es": "El gran vino de Château Lynch-Bages, un Pauillac de predominio de Cabernet Sauvignon conocido por su estilo generoso.",
+    "en": "The grand vin of Château Lynch-Bages, a Cabernet Sauvignon-led Pauillac known for its generous style.",
+    "fr": "Le grand vin du Château Lynch-Bages, un pauillac dominé par le cabernet sauvignon et connu pour son style généreux.",
+    "it": "Il grand vin di Château Lynch-Bages, un Pauillac a prevalenza di Cabernet Sauvignon noto per il suo stile generoso."
+  },
+  "body": {
+    "es": "<p>El gran vino de Lynch-Bages procede de los viñedos de la meseta de Bages, sobre las gravas profundas típicas de Pauillac. El Cabernet Sauvignon es la variedad mayoritaria del ensamblaje, completada con Merlot y pequeñas proporciones de Cabernet Franc y Petit Verdot según la añada.</p><p>Tras la fermentación, el vino se cría en barricas de roble francés, con una parte importante de madera nueva, durante un periodo que suele rondar los dieciocho meses. Las parcelas se vinifican por separado y la selección determina qué lotes se destinan al gran vino y cuáles al segundo vino, Echo de Lynch-Bages.</p><p>Lynch-Bages es un Pauillac de perfil clásico, con fruta negra concentrada y tanino firme, que se beneficia de varios años de botella y puede envejecer durante décadas.</p>",
+    "en": "<p>Lynch-Bages’ grand vin comes from the vineyards of the Bages plateau, on the deep gravels typical of Pauillac. Cabernet Sauvignon is the majority variety in the blend, completed with Merlot and small proportions of Cabernet Franc and Petit Verdot depending on the vintage.</p><p>After fermentation, the wine is aged in French oak barrels, with a significant proportion of new wood, for a period that usually runs to about eighteen months. The plots are vinified separately and selection determines which lots go into the grand vin and which into the second wine, Echo de Lynch-Bages.</p><p>Lynch-Bages is a classic-profile Pauillac, with concentrated black fruit and firm tannins, which benefits from several years in bottle and can age for decades.</p>",
+    "fr": "<p>Le grand vin de Lynch-Bages provient des vignes du plateau de Bages, sur les graves profondes typiques de Pauillac. Le cabernet sauvignon est majoritaire dans l’assemblage, complété par le merlot et de faibles proportions de cabernet franc et de petit verdot selon le millésime.</p><p>Après la fermentation, le vin est élevé en barriques de chêne français, avec une part importante de bois neuf, pendant une durée généralement proche de dix-huit mois. Les parcelles sont vinifiées séparément et la sélection détermine les lots destinés au grand vin et ceux réservés au second vin, Echo de Lynch-Bages.</p><p>Lynch-Bages est un pauillac de facture classique, au fruit noir concentré et aux tanins fermes, qui gagne à passer plusieurs années en bouteille et peut vieillir des décennies.</p>",
+    "it": "<p>Il grand vin di Lynch-Bages proviene dai vigneti dell’altopiano di Bages, sulle ghiaie profonde tipiche di Pauillac. Il Cabernet Sauvignon è la varietà maggioritaria dell’assemblaggio, completato da Merlot e da piccole quote di Cabernet Franc e Petit Verdot a seconda dell’annata.</p><p>Dopo la fermentazione, il vino affina in barrique di rovere francese, con una quota importante di legno nuovo, per un periodo che di solito si aggira sui diciotto mesi. Le parcelle sono vinificate separatamente e la selezione stabilisce quali lotti vanno al grand vin e quali al secondo vino, Echo de Lynch-Bages.</p><p>Lynch-Bages è un Pauillac di profilo classico, con frutta nera concentrata e tannino deciso, che trae beneficio da diversi anni di bottiglia e può invecchiare per decenni.</p>"
+  },
+  "tasting": {
+    "es": "Rubí oscuro. Aromas de cassis, mora, cedro, grafito y especias, con notas de tostado. En boca es amplio y estructurado, con tanino firme y final largo.",
+    "en": "Dark ruby. Aromas of blackcurrant, blackberry, cedar, graphite and spice, with toasty notes. Broad and structured on the palate, with firm tannins and a long finish.",
+    "fr": "Rubis sombre. Arômes de cassis, de mûre, de cèdre, de graphite et d’épices, avec des notes grillées. En bouche, ample et structuré, aux tanins fermes et à la finale longue.",
+    "it": "Rubino scuro. Aromi di ribes nero, mora, cedro, grafite e spezie, con note tostate. In bocca è ampio e strutturato, con tannino deciso e finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero de Pauillac, chuletón, entrecot a la bordelesa, quesos curados",
+    "en": "Pauillac lamb, rib steak, entrecôte bordelaise, aged cheeses",
+    "fr": "Agneau de Pauillac, côte de bœuf, entrecôte à la bordelaise, fromages affinés",
+    "it": "Agnello di Pauillac, costata di manzo, entrecôte alla bordolese, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de Burdeos; conviene decantarlo",
+    "en": "16-18 °C, Bordeaux glass; decanting recommended",
+    "fr": "16-18 °C, verre à bordeaux ; carafage conseillé",
+    "it": "16-18 °C, calice da Bordeaux; consigliata la decantazione"
+  },
+  "search": "Château Lynch-Bages Pauillac"
+}

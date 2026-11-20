@@ -1,0 +1,49 @@
+{
+  "slug": "les-allees-de-cantemerle",
+  "name": "Les Allées de Cantemerle",
+  "winery": "chateau-cantemerle",
+  "region": "medoc",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Segundo vino",
+    "en": "Second wine",
+    "fr": "Second vin",
+    "it": "Secondo vino"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Segundo vino de Château Cantemerle, un Haut-Médoc afrutado y accesible pensado para beberse antes que el gran vino.",
+    "en": "Second wine of Château Cantemerle, a fruity, approachable Haut-Médoc intended to be drunk earlier than the grand vin.",
+    "fr": "Second vin du Château Cantemerle, un haut-médoc fruité et accessible destiné à être bu plus tôt que le grand vin.",
+    "it": "Secondo vino di Château Cantemerle, un Haut-Médoc fruttato e accessibile pensato per essere bevuto prima del grand vin."
+  },
+  "body": {
+    "es": "<p><strong>Les Allées de Cantemerle</strong> es el segundo vino de Château Cantemerle, quinto gran cru clasificado situado en Macau, en el sur del <strong>Haut-Médoc</strong>. Su nombre evoca las avenidas arboladas del parque que rodea el château.</p><p>Procede de los mismos viñedos de gravas y arenas que el gran vino, con una selección en la que suelen entrar viñas más jóvenes y lotes que no se destinan al primer vino. Se basa en el ensamblaje bordelés clásico de <strong>Cabernet Sauvignon</strong> y <strong>Merlot</strong>, este último a menudo con un papel importante que aporta redondez y fruta.</p><p>La crianza es más corta y menos marcada por la madera que la del gran vino. El resultado es un tinto de fruta franca, taninos suaves y estilo elegante, que comparte el carácter de la casa y puede disfrutarse en sus primeros años sin necesidad de larga guarda.</p>",
+    "en": "<p><strong>Les Allées de Cantemerle</strong> is the second wine of Château Cantemerle, a fifth growth located in Macau, in the southern <strong>Haut-Médoc</strong>. Its name evokes the tree-lined avenues of the park surrounding the château.</p><p>It comes from the same gravel and sandy vineyards as the grand vin, with a selection that usually includes younger vines and lots not destined for the first wine. It is based on the classic Bordeaux blend of <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong>, the latter often playing a significant role and bringing roundness and fruit.</p><p>Ageing is shorter and less marked by oak than for the grand vin. The result is a red with frank fruit, soft tannins and an elegant style, sharing the house character and enjoyable in its first few years without the need for long cellaring.</p>",
+    "fr": "<p><strong>Les Allées de Cantemerle</strong> est le second vin du Château Cantemerle, cinquième grand cru classé situé à Macau, dans le sud du <strong>Haut-Médoc</strong>. Son nom évoque les allées arborées du parc qui entoure le château.</p><p>Il provient des mêmes vignes de graves et de sables que le grand vin, avec une sélection qui comprend généralement des vignes plus jeunes et des lots non retenus pour le premier vin. Il repose sur l'assemblage bordelais classique de <strong>cabernet sauvignon</strong> et de <strong>merlot</strong>, ce dernier jouant souvent un rôle important en apportant rondeur et fruit.</p><p>L'élevage est plus court et moins marqué par le bois que celui du grand vin. Il en résulte un rouge au fruit franc, aux tanins souples et au style élégant, qui partage le caractère de la maison et peut s'apprécier dans ses premières années sans longue garde.</p>",
+    "it": "<p><strong>Les Allées de Cantemerle</strong> è il secondo vino di Château Cantemerle, quinto grand cru classé situato a Macau, nel sud dell'<strong>Haut-Médoc</strong>. Il nome evoca i viali alberati del parco che circonda lo château.</p><p>Proviene dagli stessi vigneti di ghiaie e sabbie del grand vin, con una selezione che di solito comprende viti più giovani e partite non destinate al primo vino. Si basa sul classico taglio bordolese di <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong>, quest'ultimo spesso con un ruolo importante che apporta rotondità e frutto.</p><p>L'affinamento è più breve e meno segnato dal legno rispetto al grand vin. Il risultato è un rosso dal frutto schietto, tannini morbidi e stile elegante, che condivide il carattere della casa e si può gustare nei primi anni senza bisogno di lungo invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí. Aromas de cereza, frutos negros y un toque de vainilla. Boca suave y afrutada, de taninos redondos.",
+    "en": "Ruby red. Aromas of cherry, black fruit and a hint of vanilla. Smooth, fruity palate with round tannins.",
+    "fr": "Rouge rubis. Arômes de cerise, de fruits noirs et une touche de vanille. Bouche souple et fruitée aux tanins ronds.",
+    "it": "Rosso rubino. Aromi di ciliegia, frutti neri e un tocco di vaniglia. Bocca morbida e fruttata, tannini rotondi."
+  },
+  "pairing": {
+    "es": "Carnes a la parrilla, aves asadas, pasta con ragú, quesos semicurados",
+    "en": "Grilled meats, roast poultry, pasta with ragù, semi-hard cheeses",
+    "fr": "Viandes grillées, volailles rôties, pâtes à la bolognaise, fromages mi-affinés",
+    "it": "Carni alla griglia, pollame arrosto, pasta al ragù, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-17 °C, copa de Burdeos",
+    "en": "16-17 °C, Bordeaux glass",
+    "fr": "16-17 °C, verre à bordeaux",
+    "it": "16-17 °C, calice da Bordeaux"
+  },
+  "search": "Les Allées de Cantemerle Haut-Médoc"
+}

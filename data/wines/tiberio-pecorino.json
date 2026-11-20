@@ -1,0 +1,40 @@
+{
+  "slug": "tiberio-pecorino",
+  "name": "Tiberio Pecorino",
+  "winery": null,
+  "winery_name": "Azienda Vitivinicola Tiberio",
+  "region": null,
+  "country": "italia",
+  "appellation": "IGP Colline Pescaresi",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Tiberio Pecorino es un vino blanco de Azienda Vitivinicola Tiberio, con la denominación IGP Colline Pescaresi, en Italia.",
+    "en": "Tiberio Pecorino is a white wine from Azienda Vitivinicola Tiberio, made under the IGP Colline Pescaresi appellation in Italy.",
+    "fr": "Tiberio Pecorino est un vin blanc de Azienda Vitivinicola Tiberio, élaboré sous l’appellation IGP Colline Pescaresi (Italie).",
+    "it": "Tiberio Pecorino è un vino bianco di Azienda Vitivinicola Tiberio, prodotto nella denominazione IGP Colline Pescaresi (Italia)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It has 13.5% ABV.</p>",
+    "fr": "<p>Il titre 13,5 % vol.</p>",
+    "it": "<p>Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Tiberio Pecorino Azienda Vitivinicola Tiberio",
+  "brief": true,
+  "source": "decantalo"
+}

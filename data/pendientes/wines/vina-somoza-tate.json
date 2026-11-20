@@ -1,0 +1,40 @@
+{
+  "slug": "vina-somoza-tate",
+  "name": "Viña Somoza Taté",
+  "winery": null,
+  "winery_name": "Viñedos Somoza",
+  "region": "valdeorras",
+  "country": "espana",
+  "appellation": "DO Valdeorras",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Viña Somoza Taté es un vino tinto de Viñedos Somoza, con la denominación DO Valdeorras, en España.",
+    "en": "Viña Somoza Taté is a red wine from Viñedos Somoza, made under the DO Valdeorras appellation in Spain.",
+    "fr": "Viña Somoza Taté est un vin rouge de Viñedos Somoza, élaboré sous l’appellation DO Valdeorras (Espagne).",
+    "it": "Viña Somoza Taté è un vino rosso di Viñedos Somoza, prodotto nella denominazione DO Valdeorras (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 12 % vol.</p><p>Valdeorras, en el valle del Sil, al este de la provincia de Ourense, es una de las denominaciones de origen más antiguas de Galicia. Es la gran referencia de la uva Godello, recuperada aquí a partir de la década de 1970.</p>",
+    "en": "<p>It is aged in wood. It has 12% ABV.</p><p>Valdeorras, in the Sil valley in the east of the province of Ourense, is one of the oldest designations of origin in Galicia. It is the leading reference for the Godello grape, which was revived here from the 1970s onwards.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 12 % vol.</p><p>Valdeorras, dans la vallée du Sil, à l'est de la province d'Ourense, est l'une des plus anciennes dénominations d'origine de Galice. C'est la grande référence du cépage godello, remis en valeur ici à partir des années 1970.</p>",
+    "it": "<p>È affinato in legno. Ha 12% vol.</p><p>Valdeorras, nella valle del Sil, a est della provincia di Ourense, è una delle denominazioni di origine più antiche della Galizia. È il grande riferimento per il Godello, recuperato qui a partire dagli anni Settanta.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Viña Somoza Taté Viñedos Somoza",
+  "brief": true,
+  "source": "decantalo"
+}

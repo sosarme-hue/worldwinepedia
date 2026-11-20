@@ -1,0 +1,40 @@
+{
+  "slug": "sincronia-negre",
+  "name": "Sincronia Negre",
+  "winery": null,
+  "winery_name": "Mesquida Mora",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Mallorca",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Sincronia Negre es un vino tinto de Mesquida Mora, con la denominación VT Mallorca, en España.",
+    "en": "Sincronia Negre is a red wine from Mesquida Mora, made under the VT Mallorca appellation in Spain.",
+    "fr": "Sincronia Negre est un vin rouge de Mesquida Mora, élaboré sous l’appellation VT Mallorca (Espagne).",
+    "it": "Sincronia Negre è un vino rosso di Mesquida Mora, prodotto nella denominazione VT Mallorca (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 14% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Sincronia Negre Mesquida Mora",
+  "brief": true,
+  "source": "decantalo"
+}

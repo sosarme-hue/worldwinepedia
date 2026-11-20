@@ -1,0 +1,40 @@
+{
+  "slug": "borgogno-rivata-barolo",
+  "name": "Borgogno Rivata Barolo",
+  "winery": null,
+  "winery_name": "Borgogno Rivata",
+  "region": "barolo",
+  "country": "italia",
+  "appellation": "DOCG Barolo",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Borgogno Rivata Barolo es un vino tinto de Borgogno Rivata, con la denominación DOCG Barolo, en Italia.",
+    "en": "Borgogno Rivata Barolo is a red wine from Borgogno Rivata, made under the DOCG Barolo appellation in Italy.",
+    "fr": "Borgogno Rivata Barolo est un vin rouge de Borgogno Rivata, élaboré sous l’appellation DOCG Barolo (Italie).",
+    "it": "Borgogno Rivata Barolo è un vino rosso di Borgogno Rivata, prodotto nella denominazione DOCG Barolo (Italia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14,5 % vol.</p><p>El Barolo, elaborado exclusivamente con Nebbiolo en las Langhe piamontesas, es uno de los grandes tintos de guarda de Italia. Fue una de las primeras DOCG del país, reconocida en 1980.</p>",
+    "en": "<p>It is aged in wood. It has 14.5% ABV.</p><p>Barolo, made exclusively from Nebbiolo in the Langhe hills of Piedmont, is one of Italy's great age-worthy reds. It was one of the country's first DOCGs, recognised in 1980.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14,5 % vol.</p><p>Le Barolo, élaboré exclusivement à partir de nebbiolo dans les Langhe piémontaises, est l'un des grands rouges de garde d'Italie. Il fut l'une des premières DOCG du pays, reconnue en 1980.</p>",
+    "it": "<p>È affinato in legno. Ha 14,5% vol.</p><p>Il Barolo, prodotto esclusivamente con Nebbiolo nelle Langhe piemontesi, è uno dei grandi rossi da invecchiamento d'Italia. È stato tra le prime DOCG del paese, riconosciuta nel 1980.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Borgogno Rivata Barolo Borgogno Rivata",
+  "brief": true,
+  "source": "decantalo"
+}

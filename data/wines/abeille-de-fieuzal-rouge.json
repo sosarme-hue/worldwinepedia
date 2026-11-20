@@ -1,0 +1,44 @@
+{
+  "slug": "abeille-de-fieuzal-rouge",
+  "name": "L'Abeille de Fieuzal Rouge",
+  "winery": "chateau-de-fieuzal",
+  "region": "pessac-leognan",
+  "country": "francia",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Segundo vino tinto de Château de Fieuzal, de estilo más accesible, en la denominación Pessac-Léognan.",
+    "en": "Red second wine of Château de Fieuzal, in a more approachable style, from the Pessac-Léognan appellation.",
+    "fr": "Second vin rouge du Château de Fieuzal, au style plus accessible, en appellation Pessac-Léognan.",
+    "it": "Secondo vino rosso di Château de Fieuzal, di stile più accessibile, nella denominazione Pessac-Léognan."
+  },
+  "body": {
+    "es": "<p>L'Abeille de Fieuzal es el segundo vino de Château de Fieuzal, Cru Classé de Graves situado en Léognan. Como es habitual en Burdeos, se elabora con la uva y los lotes que no se destinan al gran vino, a menudo procedentes de viñas más jóvenes, y busca un perfil más inmediato.</p><p>El ensamblaje se basa en <strong>Cabernet Sauvignon</strong> y <strong>Merlot</strong>, las dos grandes variedades tintas de la zona, cultivadas sobre los suelos de grava, arcilla y arena de Pessac-Léognan. La crianza en barrica es más corta o con menos madera nueva que la del gran vino.</p><p>Es un tinto afrutado y equilibrado, de taninos suaves, que conserva el carácter fresco y ligeramente ahumado de los vinos de Graves. Está pensado para beberse en sus primeros años, aunque admite algo de guarda.</p>",
+    "en": "<p>L'Abeille de Fieuzal is the second wine of Château de Fieuzal, a Cru Classé de Graves located in Léognan. As is customary in Bordeaux, it is made from the grapes and lots not used for the grand vin, often from younger vines, and aims for a more immediate profile.</p><p>The blend is based on <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong>, the area's two great red varieties, grown on the gravel, clay and sand soils of Pessac-Léognan. Barrel ageing is shorter or uses less new oak than for the grand vin.</p><p>It is a fruity, balanced red with soft tannins that retains the fresh, slightly smoky character of Graves wines. It is meant to be drunk in its first few years, although it can take some ageing.</p>",
+    "fr": "<p>L'Abeille de Fieuzal est le second vin du Château de Fieuzal, Cru Classé de Graves situé à Léognan. Comme il est d'usage à Bordeaux, il est élaboré à partir des raisins et des lots non retenus pour le grand vin, souvent issus de vignes plus jeunes, et recherche un profil plus immédiat.</p><p>L'assemblage repose sur le <strong>cabernet sauvignon</strong> et le <strong>merlot</strong>, les deux grands cépages rouges du secteur, cultivés sur les sols de graves, d'argile et de sable de Pessac-Léognan. L'élevage en barrique est plus court ou fait appel à moins de bois neuf que celui du grand vin.</p><p>C'est un rouge fruité et équilibré, aux tanins souples, qui conserve le caractère frais et légèrement fumé des vins des Graves. Il est destiné à être bu dans ses premières années, même s'il supporte une certaine garde.</p>",
+    "it": "<p>L'Abeille de Fieuzal è il secondo vino di Château de Fieuzal, Cru Classé de Graves situato a Léognan. Come d'abitudine a Bordeaux, è prodotto con le uve e i lotti non destinati al grand vin, spesso provenienti da vigne più giovani, e cerca un profilo più immediato.</p><p>L'assemblaggio si basa su <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong>, le due grandi varietà rosse della zona, coltivate sui suoli di ghiaia, argilla e sabbia di Pessac-Léognan. L'affinamento in barrique è più breve o con meno legno nuovo rispetto al grand vin.</p><p>È un rosso fruttato ed equilibrato, dai tannini morbidi, che conserva il carattere fresco e leggermente affumicato dei vini delle Graves. È pensato per essere bevuto nei primi anni, anche se sopporta un certo invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí. Aromas de frutos rojos y negros, cedro y un toque ahumado. Boca fluida y equilibrada, de taninos suaves.",
+    "en": "Ruby red. Aromas of red and black fruit, cedar and a smoky touch. Fluid, balanced palate with soft tannins.",
+    "fr": "Rouge rubis. Arômes de fruits rouges et noirs, de cèdre et une touche fumée. Bouche fluide et équilibrée, aux tanins souples.",
+    "it": "Rosso rubino. Aromi di frutti rossi e neri, cedro e un tocco affumicato. Bocca scorrevole ed equilibrata, dai tannini morbidi."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes rojas, pato, quesos de pasta prensada",
+    "en": "Roast lamb, red meats, duck, pressed cheeses",
+    "fr": "Agneau rôti, viandes rouges, canard, fromages à pâte pressée",
+    "it": "Agnello arrosto, carni rosse, anatra, formaggi a pasta pressata"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "L'Abeille de Fieuzal Rouge Pessac-Léognan"
+}

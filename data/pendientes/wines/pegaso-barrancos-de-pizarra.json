@@ -1,0 +1,42 @@
+{
+  "slug": "pegaso-barrancos-de-pizarra",
+  "name": "Pegaso Barrancos de Pizarra",
+  "winery": "telmo-rodriguez",
+  "winery_name": null,
+  "region": null,
+  "country": "espana",
+  "appellation": "DO Cebreros",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Pegaso Barrancos de Pizarra es un vino tinto de Compañía de Vinos Telmo Rodríguez, con la denominación DO Cebreros, en España.",
+    "en": "Pegaso Barrancos de Pizarra is a red wine from Compañía de Vinos Telmo Rodríguez, made under the DO Cebreros appellation in Spain.",
+    "fr": "Pegaso Barrancos de Pizarra est un vin rouge de Compañía de Vinos Telmo Rodríguez, élaboré sous l’appellation DO Cebreros (Espagne).",
+    "it": "Pegaso Barrancos de Pizarra è un vino rosso di Compañía de Vinos Telmo Rodríguez, prodotto nella denominazione DO Cebreros (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Tiene crianza en madera. Su graduación es de 14,5 % vol.</p><p>Empresa fundada en 1994 por el enólogo Telmo Rodríguez y Pablo Eguzkiza para elaborar vinos en distintas regiones españolas, con la recuperación de viñedos y variedades tradicionales como eje.</p>",
+    "en": "<p>It is made from Grenache. It is aged in wood. It has 14.5% ABV.</p><p>Company founded in 1994 by winemaker Telmo Rodríguez and Pablo Eguzkiza to make wines in various Spanish regions, centred on reviving traditional vineyards and varieties.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. Il est élevé en bois. Il titre 14,5 % vol.</p><p>Entreprise fondée en 1994 par l’œnologue Telmo Rodríguez et Pablo Eguzkiza pour élaborer des vins dans plusieurs régions d’Espagne, avec pour fil conducteur la sauvegarde de vignobles et de cépages traditionnels.</p>",
+    "it": "<p>È prodotto con Grenache. È affinato in legno. Ha 14,5% vol.</p><p>Azienda fondata nel 1994 dall’enologo Telmo Rodríguez e da Pablo Eguzkiza per produrre vini in diverse regioni spagnole, con al centro il recupero di vigneti e varietà tradizionali.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Pegaso Barrancos de Pizarra Telmo Rodríguez",
+  "brief": true,
+  "source": "decantalo"
+}

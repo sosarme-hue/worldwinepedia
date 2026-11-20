@@ -1,0 +1,49 @@
+{
+  "slug": "billecart-salmon-brut-rose",
+  "name": "Billecart-Salmon Brut Rosé",
+  "winery": "billecart-salmon",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut Rosé",
+    "en": "Brut Rosé",
+    "fr": "Brut Rosé",
+    "it": "Brut Rosé"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Champagne rosado sin añada de Billecart-Salmon, de color pálido y estilo delicado, considerado uno de los rosados de referencia de Champagne.",
+    "en": "Billecart-Salmon’s non-vintage rosé champagne, pale in colour and delicate in style, regarded as one of Champagne’s benchmark rosés.",
+    "fr": "Champagne rosé non millésimé de Billecart-Salmon, à la couleur pâle et au style délicat, considéré comme l’un des rosés de référence de la Champagne.",
+    "it": "Champagne rosé senza annata di Billecart-Salmon, dal colore tenue e dallo stile delicato, considerato uno dei rosé di riferimento della Champagne."
+  },
+  "body": {
+    "es": "<p>El Brut Rosé de Billecart-Salmon se lanzó en los años setenta y es hoy el vino más conocido de la casa. Se elabora mediante el método de ensamblaje: a una base de vinos blancos en la que la <strong>Chardonnay</strong> tiene un peso importante, junto con Pinot Meunier y <strong>Pinot Noir</strong>, se añade una pequeña proporción de vino tinto de Pinot Noir. Las proporciones varían según el ensamblaje.</p><p>Como los demás vinos de la casa, se beneficia del desfangado en frío y de fermentaciones a baja temperatura, que preservan la delicadeza aromática. El ensamblaje incluye vinos de reserva y el champán se cría varios años sobre lías antes del degüelle.</p><p>Es un rosado de color salmón pálido, con aromas finos de frutos rojos, como fresa y frambuesa, y cítricos, y una boca fresca, ligera y elegante. Es especialmente apreciado como aperitivo y con platos delicados.</p>",
+    "en": "<p>Billecart-Salmon’s Brut Rosé was launched in the 1970s and is now the house’s best-known wine. It is made by the blending method: to a base of white wines in which <strong>Chardonnay</strong> carries significant weight, together with Pinot Meunier and <strong>Pinot Noir</strong>, a small proportion of Pinot Noir red wine is added. The proportions vary from blend to blend.</p><p>Like the house’s other wines, it benefits from cold settling and low-temperature fermentations, which preserve its aromatic delicacy. The blend includes reserve wines and the champagne is aged for several years on its lees before disgorgement.</p><p>It is a pale salmon rosé, with delicate aromas of red fruit such as strawberry and raspberry, and of citrus, and a fresh, light, elegant palate. It is particularly appreciated as an aperitif and with delicate dishes.</p>",
+    "fr": "<p>Le Brut Rosé de Billecart-Salmon a été lancé dans les années 1970 et il est aujourd’hui le vin le plus connu de la maison. Il est élaboré par assemblage : à une base de vins blancs où le <strong>chardonnay</strong> tient une place importante, aux côtés du pinot meunier et du <strong>pinot noir</strong>, on ajoute une petite proportion de vin rouge de pinot noir. Les proportions varient selon l’assemblage.</p><p>Comme les autres vins de la maison, il bénéficie du débourbage à froid et de fermentations à basse température, qui préservent sa délicatesse aromatique. L’assemblage comprend des vins de réserve et le champagne est élevé plusieurs années sur lies avant le dégorgement.</p><p>C’est un rosé à la couleur saumon pâle, aux arômes délicats de fruits rouges comme la fraise et la framboise, et d’agrumes, et à la bouche fraîche, légère et élégante. Il est particulièrement apprécié à l’apéritif et avec des plats délicats.</p>",
+    "it": "<p>Il Brut Rosé di Billecart-Salmon è stato lanciato negli anni Settanta ed è oggi il vino più noto della casa. È prodotto con il metodo dell’assemblaggio: a una base di vini bianchi in cui lo <strong>Chardonnay</strong> ha un peso importante, insieme a Pinot Meunier e <strong>Pinot Nero</strong>, si aggiunge una piccola quota di vino rosso di Pinot Nero. Le proporzioni variano secondo l’assemblaggio.</p><p>Come gli altri vini della casa, beneficia della decantazione a freddo e di fermentazioni a bassa temperatura, che ne preservano la delicatezza aromatica. L’assemblaggio comprende vini di riserva e lo champagne affina diversi anni sui lieviti prima della sboccatura.</p><p>È un rosé di colore salmone tenue, con aromi delicati di frutti rossi come fragola e lampone e di agrumi, e una bocca fresca, leggera ed elegante. È particolarmente apprezzato come aperitivo e con piatti delicati.</p>"
+  },
+  "tasting": {
+    "es": "Rosa salmón pálido con burbuja muy fina. Aromas de fresa, frambuesa, piel de naranja y flores. Boca fresca, ligera y elegante, con final delicado y limpio.",
+    "en": "Pale salmon pink with very fine bubbles. Aromas of strawberry, raspberry, orange peel and flowers. Fresh, light, elegant palate with a delicate, clean finish.",
+    "fr": "Rose saumon pâle à la bulle très fine. Arômes de fraise, de framboise, d’écorce d’orange et de fleurs. Bouche fraîche, légère et élégante, finale délicate et nette.",
+    "it": "Rosa salmone tenue dal perlage finissimo. Aromi di fragola, lampone, scorza d’arancia e fiori. Bocca fresca, leggera ed elegante, dal finale delicato e pulito."
+  },
+  "pairing": {
+    "es": "Salmón, atún en tataki, pato, cocina asiática, postres de frutos rojos poco dulces",
+    "en": "Salmon, tuna tataki, duck, Asian cuisine, not-too-sweet red fruit desserts",
+    "fr": "Saumon, tataki de thon, canard, cuisine asiatique, desserts aux fruits rouges peu sucrés",
+    "it": "Salmone, tataki di tonno, anatra, cucina asiatica, dolci ai frutti rossi poco zuccherati"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco o de tulipa",
+    "en": "8-10 °C, white wine or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da vino bianco o a tulipano"
+  },
+  "search": "Billecart-Salmon Brut Rosé Champagne"
+}

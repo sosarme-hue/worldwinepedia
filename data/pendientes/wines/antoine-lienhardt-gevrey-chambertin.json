@@ -1,0 +1,42 @@
+{
+  "slug": "antoine-lienhardt-gevrey-chambertin",
+  "name": "Antoine Lienhardt Gevrey-Chambertin",
+  "winery": null,
+  "winery_name": "Domaine  Antoine Lienhardt",
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Gevrey-Chambertin / Côte-d'Or",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Antoine Lienhardt Gevrey-Chambertin es un vino tinto de Domaine  Antoine Lienhardt, con la denominación AOC Gevrey-Chambertin / Côte-d'Or, en Francia.",
+    "en": "Antoine Lienhardt Gevrey-Chambertin is a red wine from Domaine  Antoine Lienhardt, made under the AOC Gevrey-Chambertin / Côte-d'Or appellation in France.",
+    "fr": "Antoine Lienhardt Gevrey-Chambertin est un vin rouge de Domaine  Antoine Lienhardt, élaboré sous l’appellation AOC Gevrey-Chambertin / Côte-d'Or (France).",
+    "it": "Antoine Lienhardt Gevrey-Chambertin è un vino rosso di Domaine  Antoine Lienhardt, prodotto nella denominazione AOC Gevrey-Chambertin / Côte-d'Or (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Pinot Noir. Tiene crianza en madera. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is made from Pinot Noir. It is aged in wood. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Pinot Noir. Il est élevé en bois. Il titre 13,5 % vol.</p>",
+    "it": "<p>È prodotto con Pinot Nero. È affinato in legno. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Antoine Lienhardt Gevrey-Chambertin Domaine  Antoine Lienhardt",
+  "brief": true,
+  "source": "decantalo"
+}

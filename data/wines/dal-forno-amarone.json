@@ -1,0 +1,48 @@
+{
+  "slug": "dal-forno-amarone",
+  "name": "Dal Forno Romano Amarone della Valpolicella",
+  "winery": "dal-forno-romano",
+  "region": "valpolicella",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "Amarone della Valpolicella DOCG",
+    "en": "Amarone della Valpolicella DOCG",
+    "fr": "Amarone della Valpolicella DOCG",
+    "it": "Amarone della Valpolicella DOCG"
+  },
+  "grapes": [
+    "corvina"
+  ],
+  "summary": {
+    "es": "Amarone de la Val d’Illasi elaborado por Romano Dal Forno con rendimientos muy bajos, un largo secado de la uva y crianza en barricas nuevas.",
+    "en": "Amarone from the Val d’Illasi made by Romano Dal Forno with very low yields, long grape drying and ageing in new barriques.",
+    "fr": "Amarone du Val d’Illasi élaboré par Romano Dal Forno avec des rendements très faibles, un long séchage des raisins et un élevage en barriques neuves.",
+    "it": "Amarone della Val d’Illasi prodotto da Romano Dal Forno con rese molto basse, un lungo appassimento delle uve e affinamento in barrique nuove."
+  },
+  "body": {
+    "es": "<p>El <strong>Amarone</strong> de Dal Forno procede de los viñedos de la familia en <strong>Cellore d’Illasi</strong>, en la zona oriental de la Valpolicella. Al encontrarse fuera de la zona Classica, se comercializa simplemente como Amarone della Valpolicella.</p><p>Se elabora con las variedades tradicionales, sobre todo <strong>Corvina</strong> y Rondinella, junto a otras autóctonas. Los viñedos se plantan con densidades elevadas y se cultivan para obtener rendimientos muy bajos. Tras la vendimia, la uva se seca durante varios meses en locales ventilados y controlados, y después fermenta lentamente. La crianza tiene lugar en barricas de roble nuevo durante un periodo largo, seguido de un reposo en botella antes de la comercialización.</p><p>El resultado es uno de los Amarone más concentrados y potentes, de color casi opaco, con una gran densidad de fruta y taninos. Necesita muchos años para mostrar toda su complejidad y se produce en cantidades limitadas.</p>",
+    "en": "<p>Dal Forno’s <strong>Amarone</strong> comes from the family’s vineyards in <strong>Cellore d’Illasi</strong>, in the eastern part of Valpolicella. Because it lies outside the Classica zone, it is sold simply as Amarone della Valpolicella.</p><p>It is made from the traditional varieties, mainly <strong>Corvina</strong> and Rondinella, together with other native grapes. The vineyards are planted at high densities and farmed for very low yields. After harvest the grapes are dried for several months in ventilated, controlled rooms and then ferment slowly. Ageing takes place in new oak barriques for a long period, followed by a rest in bottle before release.</p><p>The result is one of the most concentrated and powerful Amarones, almost opaque in colour, with great density of fruit and tannin. It needs many years to show its full complexity and is produced in limited quantities.</p>",
+    "fr": "<p>L’<strong>amarone</strong> de Dal Forno provient des vignes de la famille à <strong>Cellore d’Illasi</strong>, dans la partie orientale de la Valpolicella. Comme il se trouve hors de la zone Classica, il est commercialisé simplement sous le nom d’Amarone della Valpolicella.</p><p>Il est élaboré avec les cépages traditionnels, surtout la <strong>corvina</strong> et la rondinella, aux côtés d’autres variétés autochtones. Les vignes sont plantées à haute densité et conduites pour des rendements très faibles. Après la vendange, les raisins sèchent plusieurs mois dans des locaux ventilés et contrôlés, puis fermentent lentement. L’élevage se fait en barriques de chêne neuf pendant une longue période, suivi d’un repos en bouteille avant la commercialisation.</p><p>Le résultat est l’un des amarones les plus concentrés et les plus puissants, à la couleur presque opaque, d’une grande densité de fruit et de tanins. Il lui faut de nombreuses années pour montrer toute sa complexité, et il est produit en quantités limitées.</p>",
+    "it": "<p>L’<strong>Amarone</strong> di Dal Forno proviene dai vigneti di famiglia a <strong>Cellore d’Illasi</strong>, nella parte orientale della Valpolicella. Trovandosi fuori dalla zona Classica, è commercializzato semplicemente come Amarone della Valpolicella.</p><p>Si produce con i vitigni tradizionali, soprattutto <strong>Corvina</strong> e Rondinella, insieme ad altri autoctoni. I vigneti sono impiantati ad alta densità e coltivati per rese molto basse. Dopo la vendemmia le uve appassiscono per diversi mesi in locali ventilati e controllati, poi fermentano lentamente. L’affinamento avviene in barrique di rovere nuovo per un lungo periodo, seguito da una sosta in bottiglia prima della commercializzazione.</p><p>Il risultato è uno degli Amarone più concentrati e potenti, dal colore quasi impenetrabile, con grande densità di frutto e tannino. Ha bisogno di molti anni per mostrare tutta la sua complessità ed è prodotto in quantità limitate.</p>"
+  },
+  "tasting": {
+    "es": "Rubí casi opaco. Aromas intensos de cereza negra, ciruela pasa, moras, cacao, especias y regaliz. Boca densa y potente, de taninos abundantes y final muy largo.",
+    "en": "Almost opaque ruby. Intense aromas of black cherry, prune, blackberry, cocoa, spice and liquorice. Dense, powerful palate with abundant tannins and a very long finish.",
+    "fr": "Rubis presque opaque. Arômes intenses de cerise noire, de pruneau, de mûre, de cacao, d’épices et de réglisse. Bouche dense et puissante, aux tanins abondants et à la finale très longue.",
+    "it": "Rubino quasi impenetrabile. Profumi intensi di ciliegia nera, prugna secca, mora, cacao, spezie e liquirizia. Bocca densa e potente, con tannini abbondanti e finale lunghissimo."
+  },
+  "pairing": {
+    "es": "Carnes rojas estofadas, caza, risotto all’Amarone, quesos curados como el Monte Veronese o el Parmigiano",
+    "en": "Braised red meat, game, risotto all’Amarone, aged cheeses such as Monte Veronese or Parmigiano",
+    "fr": "Viandes rouges braisées, gibier, risotto à l’amarone, fromages affinés comme le Monte Veronese ou le parmigiano",
+    "it": "Carni rosse brasate, selvaggina, risotto all’Amarone, formaggi stagionati come Monte Veronese o Parmigiano"
+  },
+  "serve": {
+    "es": "17-18 °C, decantado, copa amplia",
+    "en": "17-18 °C, decanted, large glass",
+    "fr": "17-18 °C, carafé, verre ample",
+    "it": "17-18 °C, decantato, calice ampio"
+  },
+  "search": "Dal Forno Romano Amarone della Valpolicella"
+}

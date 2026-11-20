@@ -1,0 +1,43 @@
+{
+  "slug": "cabrida",
+  "name": "Cabrida",
+  "winery": "celler-de-capcanes",
+  "region": "montsant",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Garnacha de cepas muy viejas de Celler de Capçanes, el vino de mayor ambición de la cooperativa del Montsant.",
+    "en": "Very old-vine Garnacha from Celler de Capçanes, the most ambitious wine of this Montsant cooperative.",
+    "fr": "Grenache de très vieilles vignes de Celler de Capçanes, le vin le plus ambitieux de la coopérative du Montsant.",
+    "it": "Garnacha di viti molto vecchie di Celler de Capçanes, il vino più ambizioso della cooperativa del Montsant."
+  },
+  "body": {
+    "es": "<p>Cabrida es uno de los vinos de mayor ambición de Celler de Capçanes y una de las garnachas de referencia de la D.O. <strong>Montsant</strong>. Su existencia ilustra el cambio de la cooperativa de Capçanes, que pasó de vender vino a granel a seleccionar sus mejores parcelas para elaborar vinos de origen.</p><p>Es un monovarietal de <strong>garnacha</strong> procedente de cepas muy viejas, plantadas en vaso en pequeñas parcelas de montaña del término de Capçanes, sobre suelos pobres en los que predominan los granitos descompuestos y las arenas. Estas viñas dan rendimientos muy bajos y uvas de gran concentración. El vino se cría durante más de un año en barricas de roble francés. La garnacha de viñas viejas da aquí un tinto de gran intensidad aromática, con fruta roja y negra madura, notas de hierbas mediterráneas y una textura amplia, equilibrada por la frescura que aportan la altitud y los suelos. Es un vino con capacidad de guarda.</p>",
+    "en": "<p>Cabrida is one of the most ambitious wines of Celler de Capçanes and one of the benchmark Garnachas of the <strong>Montsant</strong> D.O. Its existence illustrates the transformation of the Capçanes cooperative, which moved from selling bulk wine to selecting its best plots to make wines of origin.</p><p>It is a single-varietal <strong>Garnacha</strong> from very old bush vines planted in small mountain plots in the municipality of Capçanes, on poor soils dominated by decomposed granite and sand. These vines give very low yields and highly concentrated grapes. The wine is aged for more than a year in French oak barrels. Old-vine Garnacha gives a red of great aromatic intensity here, with ripe red and black fruit, notes of Mediterranean herbs and a broad texture, balanced by the freshness brought by altitude and soil. It is a wine with ageing potential.</p>",
+    "fr": "<p>Cabrida est l'un des vins les plus ambitieux de Celler de Capçanes et l'un des grenaches de référence de la D.O. <strong>Montsant</strong>. Son existence illustre la transformation de la coopérative de Capçanes, passée de la vente de vin en vrac à la sélection de ses meilleures parcelles pour élaborer des vins d'origine.</p><p>C'est un monocépage de <strong>grenache</strong> issu de très vieux ceps conduits en gobelet dans de petites parcelles de montagne de la commune de Capçanes, sur des sols pauvres où dominent les granites décomposés et les sables. Ces vignes donnent des rendements très faibles et des raisins d'une grande concentration. Le vin est élevé plus d'un an en barriques de chêne français. Le grenache de vieilles vignes donne ici un rouge d'une grande intensité aromatique, aux fruits rouges et noirs mûrs, aux notes d'herbes méditerranéennes et à la texture ample, équilibrée par la fraîcheur qu'apportent l'altitude et les sols. C'est un vin de garde.</p>",
+    "it": "<p>Cabrida è uno dei vini più ambiziosi di Celler de Capçanes e una delle Garnacha di riferimento della D.O. <strong>Montsant</strong>. La sua esistenza illustra la trasformazione della cooperativa di Capçanes, passata dalla vendita di vino sfuso alla selezione delle migliori parcelle per produrre vini d'origine.</p><p>È un monovarietale di <strong>Garnacha</strong> proveniente da viti molto vecchie allevate ad alberello in piccole parcelle di montagna del comune di Capçanes, su suoli poveri in cui predominano graniti decomposti e sabbie. Queste vigne danno rese bassissime e uve di grande concentrazione. Il vino affina per oltre un anno in barrique di rovere francese. La Garnacha di vecchie vigne dà qui un rosso di grande intensità aromatica, con frutta rossa e nera matura, note di erbe mediterranee e una consistenza ampia, bilanciata dalla freschezza data da altitudine e suoli. È un vino adatto all'invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de fruta roja y negra muy madura, hierbas de monte, especias y notas tostadas. En boca es amplio y sedoso, con tanino maduro y final persistente.",
+    "en": "Intense cherry red. Aromas of very ripe red and black fruit, wild herbs, spice and toasty notes. Broad and silky on the palate, with ripe tannins and a persistent finish.",
+    "fr": "Rouge cerise intense. Arômes de fruits rouges et noirs très mûrs, d'herbes de garrigue, d'épices et notes grillées. En bouche, ample et soyeux, aux tanins mûrs et à la finale persistante.",
+    "it": "Rosso ciliegia intenso. Aromi di frutta rossa e nera molto matura, erbe di macchia, spezie e note tostate. In bocca è ampio e setoso, con tannino maturo e finale persistente."
+  },
+  "pairing": {
+    "es": "Cordero asado, caza, carnes a la brasa, quesos curados",
+    "en": "Roast lamb, game, grilled meats, aged cheeses",
+    "fr": "Agneau rôti, gibier, viandes grillées, fromages affinés",
+    "it": "Agnello arrosto, selvaggina, carni alla brace, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, grand verre",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Cabrida Capçanes Garnatxa Montsant"
+}

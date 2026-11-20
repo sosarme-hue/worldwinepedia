@@ -1,0 +1,51 @@
+{
+  "slug": "contino-reserva",
+  "name": "Contino Reserva",
+  "winery": "contino",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [
+    "tempranillo",
+    "graciano",
+    "carinena",
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Reserva de finca de Viñedos del Contino, en Laserna, elaborado exclusivamente con uva del viñedo que rodea la bodega, en un meandro del Ebro.",
+    "en": "Estate Reserva from Viñedos del Contino at Laserna, made exclusively from the vineyard surrounding the winery, in a meander of the Ebro.",
+    "fr": "Reserva de domaine de Viñedos del Contino, à Laserna, élaboré exclusivement avec le raisin du vignoble qui entoure la bodega, dans un méandre de l’Èbre.",
+    "it": "Reserva di tenuta di Viñedos del Contino, a Laserna, prodotto esclusivamente con le uve del vigneto che circonda la cantina, in un’ansa dell’Ebro."
+  },
+  "body": {
+    "es": "<p>Contino Reserva es el vino con el que Viñedos del Contino se dio a conocer y uno de los primeros riojas elaborados con uva de un único viñedo propio, a la manera de un <em>château</em>. Procede de la finca que rodea la bodega en Laserna, en la Rioja Alavesa, situada en un meandro del Ebro orientado al sur, con suelos de cantos rodados, arcilla y caliza.</p><p>El Tempranillo es la variedad principal, acompañado de Graciano, Mazuelo (Cariñena) y Garnacha, en proporciones que varían según la añada. Las distintas parcelas se vendimian y vinifican por separado antes del ensamblaje. El vino se cría en barricas de roble y completa el envejecimiento en botella, cumpliendo y a menudo superando los tiempos mínimos que la Denominación de Origen Calificada Rioja exige a un Reserva.</p><p>El estilo combina la fruta madura que da la exposición soleada de la finca con la frescura que aporta el Graciano, en un tinto con capacidad para evolucionar durante años.</p>",
+    "en": "<p>Contino Reserva is the wine with which Viñedos del Contino made its name and one of the first Riojas made from a single estate vineyard, in the manner of a <em>château</em>. It comes from the estate surrounding the winery at Laserna, in Rioja Alavesa, set in a south-facing meander of the Ebro, with soils of rounded pebbles, clay and limestone.</p><p>Tempranillo is the main variety, accompanied by Graciano, Mazuelo (Carignan) and Garnacha in proportions that vary with the vintage. The different plots are harvested and vinified separately before blending. The wine is aged in oak barrels and completes its ageing in bottle, meeting and often exceeding the minimum times the Rioja Denominación de Origen Calificada requires of a Reserva.</p><p>The style combines the ripe fruit given by the estate’s sunny exposure with the freshness brought by Graciano, in a red able to develop for years.</p>",
+    "fr": "<p>Contino Reserva est le vin qui a fait connaître Viñedos del Contino et l’un des premiers riojas élaborés à partir d’un seul vignoble en propre, à la manière d’un <em>château</em>. Il provient du domaine qui entoure la bodega à Laserna, dans la Rioja Alavesa, situé dans un méandre de l’Èbre exposé au sud, aux sols de galets roulés, d’argile et de calcaire.</p><p>Le tempranillo est le cépage principal, accompagné de graciano, de mazuelo (carignan) et de grenache, dans des proportions qui varient selon le millésime. Les différentes parcelles sont vendangées et vinifiées séparément avant l’assemblage. Le vin est élevé en barriques de chêne et achève son vieillissement en bouteille, respectant et dépassant souvent les durées minimales que la Denominación de Origen Calificada Rioja impose à un Reserva.</p><p>Le style associe le fruit mûr que procure l’exposition ensoleillée du domaine à la fraîcheur apportée par le graciano, dans un rouge capable d’évoluer pendant des années.</p>",
+    "it": "<p>Contino Reserva è il vino con cui Viñedos del Contino si è fatto conoscere e uno dei primi Rioja prodotti con uve di un unico vigneto di proprietà, alla maniera di uno <em>château</em>. Proviene dalla tenuta che circonda la cantina a Laserna, nella Rioja Alavesa, situata in un’ansa dell’Ebro esposta a sud, con suoli di ciottoli, argilla e calcare.</p><p>Il Tempranillo è la varietà principale, accompagnato da Graciano, Mazuelo (Carignano) e Garnacha in proporzioni che variano secondo l’annata. Le diverse parcelle sono vendemmiate e vinificate separatamente prima dell’assemblaggio. Il vino affina in barrique di rovere e completa l’invecchiamento in bottiglia, rispettando e spesso superando i tempi minimi che la Denominación de Origen Calificada Rioja impone a un Reserva.</p><p>Lo stile unisce il frutto maturo dovuto all’esposizione soleggiata della tenuta alla freschezza apportata dal Graciano, in un rosso capace di evolvere per anni.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí con ribete teja. Fruta roja y negra madura, especias dulces, cuero suave y notas tostadas. En boca es amplio, de taninos pulidos y final largo.",
+    "en": "Ruby red with a brick rim. Ripe red and black fruit, sweet spice, soft leather and toasty notes. Broad on the palate, with polished tannins and a long finish.",
+    "fr": "Rouge rubis à reflets tuilés. Fruits rouges et noirs mûrs, épices douces, cuir léger et notes toastées. Ample en bouche, aux tanins polis et à la finale longue.",
+    "it": "Rosso rubino con unghia mattone. Frutta rossa e nera matura, spezie dolci, cuoio leggero e note tostate. In bocca è ampio, con tannini levigati e finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes guisadas, caza, quesos curados",
+    "en": "Roast lamb, braised meats, game, aged cheeses",
+    "fr": "Agneau rôti, viandes braisées, gibier, fromages affinés",
+    "it": "Agnello arrosto, carni brasate, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Contino Reserva Rioja"
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "chateau-lafite-rothschild",
+  "name": "Château Lafite Rothschild",
+  "winery": "chateau-lafite-rothschild",
+  "region": "medoc",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Premier Grand Cru Classé (1855)",
+    "en": "Premier Grand Cru Classé (1855)",
+    "fr": "Premier Grand Cru Classé (1855)",
+    "it": "Premier Grand Cru Classé (1855)"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "cabernet-franc",
+    "petit-verdot"
+  ],
+  "summary": {
+    "es": "Gran vino de Château Lafite Rothschild, primer gran cru clasificado de Pauillac, basado en la Cabernet Sauvignon y reputado por su elegancia aromática y su longevidad.",
+    "en": "The grand vin of Château Lafite Rothschild, a Pauillac first growth based on Cabernet Sauvignon and renowned for its aromatic elegance and longevity.",
+    "fr": "Grand vin de Château Lafite Rothschild, premier grand cru classé de Pauillac, fondé sur le cabernet-sauvignon et réputé pour son élégance aromatique et sa longévité.",
+    "it": "Grand vin di Château Lafite Rothschild, primo grand cru classé di Pauillac, basato sul Cabernet Sauvignon e rinomato per la sua eleganza aromatica e la sua longevità."
+  },
+  "body": {
+    "es": "<p>El gran vino de Lafite procede de las mejores parcelas de la finca, sobre las colinas de gravas del norte de Pauillac. La <strong>Cabernet Sauvignon</strong> constituye la mayor parte del ensamblaje, completada con <strong>Merlot</strong> y, según los años, con pequeñas cantidades de Cabernet Franc y Petit Verdot. Las proporciones varían según la añada, y en las cosechas más frescas o más cálidas el equipo ajusta la composición en función de la calidad de cada parcela.</p><p>Tras la fermentación, el vino se cría en barricas nuevas de roble francés, parte de ellas fabricadas en la tonelería propia del grupo, y se embotella en el château. La selección es estricta: los lotes que no alcanzan el nivel buscado se destinan al segundo vino, Carruades de Lafite.</p><p>Lafite es conocido por un perfil más aromático y delicado que potente. En su juventud muestra fruta y taninos finos, y con los años desarrolla una complejidad notable; es uno de los grandes vinos de guarda de Burdeos.</p>",
+    "en": "<p>Lafite’s grand vin comes from the estate’s best plots, on the gravel hills of northern Pauillac. <strong>Cabernet Sauvignon</strong> makes up most of the blend, completed with <strong>Merlot</strong> and, depending on the year, small amounts of Cabernet Franc and Petit Verdot. The proportions vary with the vintage, and in cooler or warmer years the team adjusts the composition according to the quality of each plot.</p><p>After fermentation the wine is aged in new French oak barrels, some of them made in the group’s own cooperage, and bottled at the château. Selection is strict: lots that do not reach the desired level go into the second wine, Carruades de Lafite.</p><p>Lafite is known for a profile that is more aromatic and delicate than powerful. In its youth it shows fruit and fine tannins, and over the years it develops remarkable complexity; it is one of Bordeaux’s great wines for ageing.</p>",
+    "fr": "<p>Le grand vin de Lafite provient des meilleures parcelles du domaine, sur les croupes de graves du nord de Pauillac. Le <strong>cabernet-sauvignon</strong> constitue l’essentiel de l’assemblage, complété par le <strong>merlot</strong> et, selon les années, par de petites quantités de cabernet franc et de petit verdot. Les proportions varient selon le millésime et, dans les années plus fraîches ou plus chaudes, l’équipe ajuste la composition en fonction de la qualité de chaque parcelle.</p><p>Après la fermentation, le vin est élevé en barriques neuves de chêne français, dont une partie est fabriquée dans la tonnellerie du groupe, puis mis en bouteille au château. La sélection est stricte : les lots qui n’atteignent pas le niveau recherché sont destinés au second vin, Carruades de Lafite.</p><p>Lafite est connu pour un profil plus aromatique et délicat que puissant. Dans sa jeunesse, il montre du fruit et des tanins fins, et il développe avec les années une complexité remarquable ; c’est l’un des grands vins de garde de Bordeaux.</p>",
+    "it": "<p>Il grand vin di Lafite proviene dalle migliori parcelle della tenuta, sulle colline ghiaiose del nord di Pauillac. Il <strong>Cabernet Sauvignon</strong> costituisce la maggior parte dell’uvaggio, completato dal <strong>Merlot</strong> e, secondo l’anno, da piccole quantità di Cabernet Franc e Petit Verdot. Le proporzioni variano secondo l’annata e, nelle vendemmie più fresche o più calde, la squadra adatta la composizione in base alla qualità di ogni parcella.</p><p>Dopo la fermentazione il vino affina in barrique nuove di rovere francese, in parte prodotte nella tonnelleria del gruppo, e viene imbottigliato allo château. La selezione è rigorosa: i lotti che non raggiungono il livello desiderato sono destinati al secondo vino, Carruades de Lafite.</p><p>Lafite è noto per un profilo più aromatico e delicato che potente. In gioventù mostra frutto e tannini fini, e con gli anni sviluppa una complessità notevole; è uno dei grandi vini da invecchiamento di Bordeaux.</p>"
+  },
+  "tasting": {
+    "es": "Granate profundo. Nariz fina de casis, frambuesa, cedro y lápiz de grafito, con notas de tabaco y trufa con la edad. Boca elegante, de taninos sedosos, frescura y gran persistencia.",
+    "en": "Deep garnet. A refined nose of blackcurrant, raspberry, cedar and pencil lead, with notes of tobacco and truffle with age. Elegant palate with silky tannins, freshness and great length.",
+    "fr": "Robe grenat profond. Nez fin de cassis, de framboise, de cèdre et de mine de crayon, avec des notes de tabac et de truffe avec l’âge. Bouche élégante, aux tanins soyeux, fraîche et très persistante.",
+    "it": "Granato profondo. Naso fine di ribes nero, lampone, cedro e mina di matita, con note di tabacco e tartufo con l’età. Bocca elegante, dai tannini setosi, fresca e di grande persistenza."
+  },
+  "pairing": {
+    "es": "Cordero asado, entrecot a la parrilla, caza, quesos curados de pasta dura",
+    "en": "Roast lamb, grilled rib steak, game, hard aged cheeses",
+    "fr": "Agneau rôti, entrecôte grillée, gibier, fromages affinés à pâte dure",
+    "it": "Agnello arrosto, costata alla griglia, selvaggina, formaggi stagionati a pasta dura"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia de tipo Burdeos",
+    "en": "16-18 °C, decanted, large Bordeaux glass",
+    "fr": "16-18 °C, carafé, grand verre de type bordeaux",
+    "it": "16-18 °C, decantato, calice ampio tipo Bordeaux"
+  },
+  "search": "Château Lafite Rothschild Pauillac Premier Grand Cru Classé"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "barbazul",
+  "name": "Barbazul",
+  "winery": null,
+  "winery_name": "Huerta de Albalá",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Cádiz",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Barbazul es un vino tinto de Huerta de Albalá, con la denominación VT Cádiz, en España.",
+    "en": "Barbazul is a red wine from Huerta de Albalá, made under the VT Cádiz appellation in Spain.",
+    "fr": "Barbazul est un vin rouge de Huerta de Albalá, élaboré sous l’appellation VT Cádiz (Espagne).",
+    "it": "Barbazul è un vino rosso di Huerta de Albalá, prodotto nella denominazione VT Cádiz (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 15 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 15% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 15 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 15% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Barbazul Huerta de Albalá",
+  "brief": true,
+  "source": "decantalo"
+}

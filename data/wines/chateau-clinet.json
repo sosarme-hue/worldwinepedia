@@ -1,0 +1,45 @@
+{
+  "slug": "chateau-clinet",
+  "name": "Château Clinet",
+  "winery": "chateau-clinet",
+  "region": "pomerol",
+  "country": "francia",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "merlot",
+    "cabernet-sauvignon",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "El gran vino de Château Clinet, un Pomerol de Merlot con una parte de Cabernet Sauvignon, rico, aterciopelado y de larga guarda.",
+    "en": "The grand vin of Château Clinet, a Merlot-based Pomerol with a share of Cabernet Sauvignon, rich, velvety and long-lived.",
+    "fr": "Le grand vin du château Clinet, un pomerol de merlot complété de cabernet sauvignon, riche, velouté et de longue garde.",
+    "it": "Il grand vin di Château Clinet, un Pomerol di Merlot con una quota di Cabernet Sauvignon, ricco, vellutato e longevo."
+  },
+  "body": {
+    "es": "<p><strong>Château Clinet</strong> es el gran vino de la propiedad homónima de <strong>Pomerol</strong>, situada en la meseta central de la denominación y dirigida por la familia Laborde.</p><p>Procede de un viñedo de suelos de gravas y arcillas plantado mayoritariamente con <strong>Merlot</strong>, la variedad que domina en Pomerol y que en estas arcillas da vinos de textura aterciopelada y fruta generosa. La particularidad de Clinet es la proporción de <strong>Cabernet Sauvignon</strong> en el ensamblaje, más alta de lo habitual en la zona, que aporta estructura, frescura y notas de casis. Según la añada se añade también algo de Cabernet Franc.</p><p>El vino se vinifica por parcelas y se cría en barricas de roble francés. Es un Pomerol concentrado, de fruta oscura y taninos densos pero redondos, que necesita algunos años de botella para abrirse y puede evolucionar durante mucho tiempo, desarrollando notas de trufa, cuero y especias.</p>",
+    "en": "<p><strong>Château Clinet</strong> is the grand vin of the estate of the same name in <strong>Pomerol</strong>, located on the appellation’s central plateau and run by the Laborde family.</p><p>It comes from a vineyard of gravel and clay soils planted mostly with <strong>Merlot</strong>, the dominant variety in Pomerol, which on these clays gives wines with velvety texture and generous fruit. Clinet’s distinctive feature is the proportion of <strong>Cabernet Sauvignon</strong> in the blend, higher than usual in the area, which brings structure, freshness and blackcurrant notes. Depending on the vintage, some Cabernet Franc is also added.</p><p>The wine is vinified by parcel and aged in French oak barrels. It is a concentrated Pomerol with dark fruit and dense but rounded tannins, which needs a few years in bottle to open up and can develop for a long time, gaining notes of truffle, leather and spice.</p>",
+    "fr": "<p><strong>Château Clinet</strong> est le grand vin de la propriété homonyme de <strong>Pomerol</strong>, située sur le plateau central de l’appellation et dirigée par la famille Laborde.</p><p>Il provient d’un vignoble de graves et d’argiles planté majoritairement de <strong>merlot</strong>, le cépage dominant à Pomerol, qui donne sur ces argiles des vins à la texture veloutée et au fruit généreux. La particularité de Clinet est la proportion de <strong>cabernet sauvignon</strong> dans l’assemblage, plus élevée que d’ordinaire dans le secteur, qui apporte structure, fraîcheur et notes de cassis. Selon le millésime, un peu de cabernet franc vient compléter l’ensemble.</p><p>Le vin est vinifié par parcelle et élevé en barriques de chêne français. C’est un pomerol concentré, au fruit sombre et aux tanins denses mais arrondis, qui demande quelques années de bouteille pour s’ouvrir et peut évoluer longtemps, en développant des notes de truffe, de cuir et d’épices.</p>",
+    "it": "<p><strong>Château Clinet</strong> è il grand vin della tenuta omonima di <strong>Pomerol</strong>, situata sull’altopiano centrale della denominazione e diretta dalla famiglia Laborde.</p><p>Proviene da un vigneto di ghiaie e argille piantato in prevalenza a <strong>Merlot</strong>, la varietà dominante a Pomerol, che su queste argille dà vini dalla consistenza vellutata e dal frutto generoso. La particolarità di Clinet è la quota di <strong>Cabernet Sauvignon</strong> nell’uvaggio, più alta del consueto nella zona, che apporta struttura, freschezza e note di ribes nero. A seconda dell’annata si aggiunge anche un po’ di Cabernet Franc.</p><p>Il vino è vinificato per parcelle e affina in barrique di rovere francese. È un Pomerol concentrato, dal frutto scuro e dai tannini densi ma rotondi, che richiede qualche anno di bottiglia per aprirsi e può evolvere a lungo, sviluppando note di tartufo, cuoio e spezie.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota muy oscuro. Aromas de ciruela, mora, casis, regaliz y notas tostadas. Boca rica y aterciopelada, de taninos densos y final largo.",
+    "en": "Very dark cherry-red. Aromas of plum, blackberry, blackcurrant, liquorice and toasty notes. Rich, velvety palate with dense tannins and a long finish.",
+    "fr": "Rouge cerise très sombre. Arômes de prune, de mûre, de cassis, de réglisse et notes grillées. Bouche riche et veloutée, aux tanins denses et à la finale longue.",
+    "it": "Rosso ciliegia molto scuro. Aromi di prugna, mora, ribes nero, liquirizia e note tostate. Bocca ricca e vellutata, dai tannini densi e dal finale lungo."
+  },
+  "pairing": {
+    "es": "Solomillo, pato, caza de pluma, platos con trufa, quesos curados",
+    "en": "Beef fillet, duck, game birds, truffle dishes, aged cheeses",
+    "fr": "Filet de bœuf, canard, gibier à plume, plats truffés, fromages affinés",
+    "it": "Filetto di manzo, anatra, selvaggina da piuma, piatti al tartufo, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de tipo Burdeos; decantar en su juventud",
+    "en": "16-18 °C, Bordeaux-style glass; decant when young",
+    "fr": "16-18 °C, verre de type bordelais ; carafer dans sa jeunesse",
+    "it": "16-18 °C, calice tipo Bordeaux; decantare da giovane"
+  },
+  "search": "Château Clinet Pomerol"
+}

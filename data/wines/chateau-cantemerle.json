@@ -1,0 +1,51 @@
+{
+  "slug": "chateau-cantemerle",
+  "name": "Château Cantemerle",
+  "winery": "chateau-cantemerle",
+  "region": "medoc",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "5º Gran Cru Clasificado (1855)",
+    "en": "5th Grand Cru Classé (1855)",
+    "fr": "5e Grand Cru Classé (1855)",
+    "it": "5° Grand Cru Classé (1855)"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "cabernet-franc",
+    "petit-verdot"
+  ],
+  "summary": {
+    "es": "Gran vino de Château Cantemerle, quinto cru clasificado del Haut-Médoc, un tinto bordelés de estilo elegante y fino.",
+    "en": "The grand vin of Château Cantemerle, a Haut-Médoc fifth growth, an elegant, refined Bordeaux red.",
+    "fr": "Grand vin du Château Cantemerle, cinquième cru classé du Haut-Médoc, un rouge bordelais élégant et fin.",
+    "it": "Grand vin di Château Cantemerle, quinto cru classé dell'Haut-Médoc, un rosso bordolese elegante e fine."
+  },
+  "body": {
+    "es": "<p>El gran vino de <strong>Château Cantemerle</strong> procede de los viñedos de la propiedad en Macau, en el sur del <strong>Haut-Médoc</strong>, a pocos kilómetros de Margaux. Es un quinto gran cru clasificado de 1855.</p><p>Se elabora con las variedades bordelesas clásicas: <strong>Cabernet Sauvignon</strong> y <strong>Merlot</strong> como base, completadas con Cabernet Franc y Petit Verdot en proporciones que varían según la añada. Las uvas crecen sobre suelos de gravas y arenas que favorecen la finura más que la potencia.</p><p>La crianza se realiza en barricas de roble, con una parte de madera nueva. El estilo de Cantemerle se reconoce por su elegancia: fruta roja y negra precisa, taninos sedosos y una estructura equilibrada. Puede disfrutarse relativamente pronto, aunque las buenas añadas evolucionan durante muchos años y desarrollan notas de cedro, tabaco y sotobosque.</p>",
+    "en": "<p>The grand vin of <strong>Château Cantemerle</strong> comes from the estate's vineyards in Macau, in the southern <strong>Haut-Médoc</strong>, a few kilometres from Margaux. It is a fifth growth of the 1855 classification.</p><p>It is made from the classic Bordeaux varieties: <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong> as its base, complemented by Cabernet Franc and Petit Verdot in proportions that vary with the vintage. The grapes grow on gravel and sandy soils that favour finesse rather than power.</p><p>Ageing takes place in oak barrels, part of them new. The Cantemerle style is recognisable by its elegance: precise red and black fruit, silky tannins and a balanced structure. It can be enjoyed relatively early, although good vintages develop for many years, gaining notes of cedar, tobacco and forest floor.</p>",
+    "fr": "<p>Le grand vin du <strong>Château Cantemerle</strong> provient des vignes de la propriété à Macau, dans le sud du <strong>Haut-Médoc</strong>, à quelques kilomètres de Margaux. C'est un cinquième grand cru classé en 1855.</p><p>Il est élaboré à partir des cépages bordelais classiques : <strong>cabernet sauvignon</strong> et <strong>merlot</strong> en base, complétés par du cabernet franc et du petit verdot dans des proportions variables selon le millésime. Les raisins poussent sur des sols de graves et de sables qui favorisent la finesse plutôt que la puissance.</p><p>L'élevage se fait en barriques de chêne, dont une part de bois neuf. Le style de Cantemerle se reconnaît à son élégance : fruit rouge et noir précis, tanins soyeux et structure équilibrée. Il peut s'apprécier assez tôt, même si les bons millésimes évoluent pendant de longues années, en développant des notes de cèdre, de tabac et de sous-bois.</p>",
+    "it": "<p>Il grand vin di <strong>Château Cantemerle</strong> proviene dai vigneti della proprietà a Macau, nel sud dell'<strong>Haut-Médoc</strong>, a pochi chilometri da Margaux. È un quinto grand cru classé del 1855.</p><p>È prodotto con i vitigni bordolesi classici: <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong> come base, completati da Cabernet Franc e Petit Verdot in proporzioni che variano secondo l'annata. Le uve crescono su suoli di ghiaie e sabbie che favoriscono la finezza più che la potenza.</p><p>L'affinamento avviene in barrique di rovere, in parte nuove. Lo stile di Cantemerle si riconosce per l'eleganza: frutto rosso e nero preciso, tannini setosi e struttura equilibrata. Si può gustare relativamente presto, anche se le buone annate evolvono per molti anni, sviluppando note di cedro, tabacco e sottobosco.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí profundo. Aromas de cassis, cereza negra, cedro y notas especiadas. Boca elegante, de taninos sedosos y final fresco.",
+    "en": "Deep ruby. Aromas of blackcurrant, black cherry, cedar and spicy notes. Elegant palate with silky tannins and a fresh finish.",
+    "fr": "Rubis profond. Arômes de cassis, de cerise noire, de cèdre et notes épicées. Bouche élégante aux tanins soyeux et finale fraîche.",
+    "it": "Rubino profondo. Aromi di ribes nero, ciliegia nera, cedro e note speziate. Bocca elegante, tannini setosi e finale fresco."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes rojas, aves de caza, quesos curados",
+    "en": "Roast lamb, red meat, game birds, aged cheeses",
+    "fr": "Agneau rôti, viandes rouges, gibier à plume, fromages affinés",
+    "it": "Agnello arrosto, carni rosse, selvaggina da piuma, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de Burdeos",
+    "en": "16-18 °C, Bordeaux glass",
+    "fr": "16-18 °C, verre à bordeaux",
+    "it": "16-18 °C, calice da Bordeaux"
+  },
+  "search": "Château Cantemerle Haut-Médoc"
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "bardos-suprema",
+  "name": "Bardos Suprema",
+  "winery": null,
+  "winery_name": "Bardos",
+  "region": "ribera-del-duero",
+  "country": "espana",
+  "appellation": "DO Ribera del Duero",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Ribera del Duero Reserva de Tempranillo de la marca Bardos, con una crianza prolongada en barrica y botella.",
+    "en": "Ribera del Duero Reserva from Tempranillo under the Bardos label, with extended ageing in barrel and bottle.",
+    "fr": "Ribera del Duero Reserva de tempranillo de la marque Bardos, avec un long élevage en barrique et en bouteille.",
+    "it": "Ribera del Duero Reserva di Tempranillo del marchio Bardos, con un lungo affinamento in barrique e in bottiglia."
+  },
+  "body": {
+    "es": "<p><strong>Bardos</strong> es la marca de Ribera del Duero del grupo Vintae, una empresa vinícola con proyectos en distintas denominaciones españolas. Sus vinos proceden de la Ribera del Duero, una meseta de gran altitud a orillas del Duero, con inviernos largos y fríos, veranos cálidos y una fuerte diferencia de temperatura entre el día y la noche que favorece la acidez y el color de la uva.</p><p><strong>Suprema</strong> se elabora con Tempranillo, llamada aquí Tinto Fino o Tinta del País, la variedad emblemática de la denominación, que en este clima extremo desarrolla hollejos gruesos, color intenso y taninos abundantes. Lleva la mención Reserva, que en Ribera del Duero exige al menos tres años de crianza, con un mínimo de doce meses en barrica de roble, antes de salir al mercado.</p><p>Su graduación es de 14,8 % vol. Es un tinto potente y de fruta madura, con el carácter especiado y tostado de una crianza larga y una estructura tánica firme. Se beneficia de un tiempo de aireación antes de servirse.</p>",
+    "en": "<p><strong>Bardos</strong> is the Ribera del Duero label of the Vintae group, a wine company with projects in various Spanish appellations. Its wines come from Ribera del Duero, a high plateau along the Duero with long, cold winters, hot summers and a wide difference between day and night temperatures that favours acidity and colour in the grapes.</p><p><strong>Suprema</strong> is made from Tempranillo, known here as Tinto Fino or Tinta del País, the appellation’s emblematic variety, which in this extreme climate develops thick skins, deep colour and abundant tannins. It carries the Reserva designation, which in Ribera del Duero requires at least three years’ ageing, with a minimum of twelve months in oak barrels, before release.</p><p>It has 14.8% ABV. It is a powerful red with ripe fruit, the spicy, toasty character of long ageing and a firm tannic structure. It benefits from some aeration before serving.</p>",
+    "fr": "<p><strong>Bardos</strong> est la marque de Ribera del Duero du groupe Vintae, une entreprise viticole possédant des projets dans différentes appellations espagnoles. Ses vins proviennent de la Ribera del Duero, un haut plateau au bord du Duero aux hivers longs et froids, aux étés chauds et aux fortes différences de température entre le jour et la nuit, qui favorisent l’acidité et la couleur du raisin.</p><p><strong>Suprema</strong> est élaboré avec du tempranillo, appelé ici tinto fino ou tinta del país, le cépage emblématique de l’appellation, qui développe sous ce climat extrême des pellicules épaisses, une couleur intense et des tanins abondants. Il porte la mention Reserva, qui impose en Ribera del Duero au moins trois ans d’élevage, dont un minimum de douze mois en barrique de chêne, avant la mise sur le marché.</p><p>Il titre 14,8 % vol. C’est un rouge puissant au fruit mûr, avec le caractère épicé et toasté d’un long élevage et une structure tannique ferme. Il gagne à être aéré avant le service.</p>",
+    "it": "<p><strong>Bardos</strong> è il marchio di Ribera del Duero del gruppo Vintae, un’azienda vinicola con progetti in diverse denominazioni spagnole. I suoi vini provengono dalla Ribera del Duero, un altopiano elevato lungo il Duero, con inverni lunghi e freddi, estati calde e forti escursioni termiche tra giorno e notte che favoriscono l’acidità e il colore dell’uva.</p><p><strong>Suprema</strong> si produce con Tempranillo, qui chiamato Tinto Fino o Tinta del País, la varietà simbolo della denominazione, che in questo clima estremo sviluppa bucce spesse, colore intenso e tannini abbondanti. Porta la menzione Reserva, che in Ribera del Duero richiede almeno tre anni di affinamento, di cui un minimo di dodici mesi in barrique di rovere, prima della commercializzazione.</p><p>Ha una gradazione di 14,8% vol. È un rosso potente e di frutto maturo, con il carattere speziato e tostato di un lungo affinamento e una struttura tannica salda. Beneficia di una certa ossigenazione prima del servizio.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota con borde teja. Aromas de fruta negra madura, especias, cacao y tostados. En boca es potente y estructurado, con taninos firmes y final largo.",
+    "en": "Deep cherry red with a brick rim. Aromas of ripe black fruit, spice, cocoa and toast. Powerful and structured on the palate, with firm tannins and a long finish.",
+    "fr": "Rouge cerise burlat au disque tuilé. Arômes de fruits noirs mûrs, épices, cacao et toasté. En bouche, il est puissant et structuré, aux tanins fermes et à la finale longue.",
+    "it": "Rosso ciliegia con unghia aranciata. Aromi di frutta nera matura, spezie, cacao e tostature. In bocca è potente e strutturato, con tannini decisi e finale lungo."
+  },
+  "pairing": {
+    "es": "Lechazo asado, chuletón, caza mayor, quesos curados de oveja",
+    "en": "Roast milk-fed lamb, T-bone steak, large game, aged sheep’s cheeses",
+    "fr": "Agneau de lait rôti, côte de bœuf, gros gibier, fromages de brebis affinés",
+    "it": "Agnello da latte arrosto, costata di manzo, selvaggina di grossa taglia, pecorini stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Bardos Suprema Bardos",
+  "source": "decantalo"
+}

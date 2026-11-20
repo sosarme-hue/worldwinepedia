@@ -1,0 +1,48 @@
+{
+  "slug": "guigal-saint-joseph-rouge",
+  "name": "Saint-Joseph Rouge",
+  "winery": "e-guigal",
+  "region": "saint-joseph",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Saint-Joseph",
+    "en": "Saint-Joseph",
+    "fr": "Saint-Joseph",
+    "it": "Saint-Joseph"
+  },
+  "grapes": [
+    "syrah"
+  ],
+  "summary": {
+    "es": "Saint-Joseph tinto clásico de E. Guigal, un Syrah de la orilla derecha del Ródano de estilo afrutado y especiado, accesible en su juventud.",
+    "en": "E. Guigal’s classic red Saint-Joseph, a Syrah from the right bank of the Rhône with a fruity, spicy style that is approachable when young.",
+    "fr": "Saint-Joseph rouge classique d’E. Guigal, une syrah de la rive droite du Rhône au style fruité et épicé, accessible dès sa jeunesse.",
+    "it": "Saint-Joseph rosso classico di E. Guigal, una Syrah della riva destra del Rodano dallo stile fruttato e speziato, accessibile da giovane."
+  },
+  "body": {
+    "es": "<p>Los tintos de <strong>Saint-Joseph</strong> se elaboran con <strong>Syrah</strong> cultivada en las laderas graníticas de la orilla derecha del Ródano, frente a Hermitage y a lo largo del río entre Condrieu y Cornas. La denominación permite añadir una pequeña proporción de uvas blancas, aunque muchos productores trabajan sólo con Syrah.</p><p>El Saint-Joseph tinto de Guigal es la versión clásica de la casa, por debajo del Lieu-dit. Se elabora a partir de uvas de varias parcelas y se cría en roble durante un periodo que suaviza el tanino y aporta notas especiadas, sin restar protagonismo a la fruta.</p><p>Es un tinto de cuerpo medio, con fruta negra y roja, pimienta y notas florales, típicas de la Syrah del norte del Ródano. Ofrece un buen equilibrio entre frescura y estructura y puede disfrutarse joven o tras algunos años de botella.</p>",
+    "en": "<p>The reds of <strong>Saint-Joseph</strong> are made from <strong>Syrah</strong> grown on the granite slopes of the right bank of the Rhône, opposite Hermitage and along the river between Condrieu and Cornas. The appellation allows a small proportion of white grapes to be added, though many producers work with Syrah alone.</p><p>Guigal’s red Saint-Joseph is the house’s classic version, positioned below the Lieu-dit. It is made from grapes from several plots and aged in oak for a period that softens the tannins and adds spicy notes without overshadowing the fruit.</p><p>It is a medium-bodied red with dark and red fruit, pepper and floral notes typical of northern Rhône Syrah. It offers a good balance between freshness and structure and can be enjoyed young or after a few years in bottle.</p>",
+    "fr": "<p>Les rouges de <strong>Saint-Joseph</strong> sont élaborés avec de la <strong>syrah</strong> cultivée sur les coteaux granitiques de la rive droite du Rhône, face à l’Hermitage et le long du fleuve entre Condrieu et Cornas. L’appellation autorise l’ajout d’une petite proportion de raisins blancs, même si de nombreux producteurs travaillent uniquement la syrah.</p><p>Le Saint-Joseph rouge de Guigal est la version classique de la maison, placée sous le Lieu-dit. Il est élaboré à partir de raisins de plusieurs parcelles et élevé en chêne pendant une durée qui assouplit les tanins et apporte des notes épicées, sans éclipser le fruit.</p><p>C’est un rouge de corps moyen, aux fruits noirs et rouges, au poivre et aux notes florales typiques de la syrah du Rhône septentrional. Il offre un bon équilibre entre fraîcheur et structure et peut se boire jeune ou après quelques années de bouteille.</p>",
+    "it": "<p>I rossi di <strong>Saint-Joseph</strong> sono prodotti con <strong>Syrah</strong> coltivata sui pendii granitici della riva destra del Rodano, di fronte a Hermitage e lungo il fiume tra Condrieu e Cornas. La denominazione consente di aggiungere una piccola proporzione di uve bianche, anche se molti produttori lavorano solo con la Syrah.</p><p>Il Saint-Joseph rosso di Guigal è la versione classica della casa, collocata al di sotto del Lieu-dit. È prodotto con uve di diverse parcelle e matura in rovere per un periodo che ammorbidisce il tannino e apporta note speziate, senza togliere protagonismo al frutto.</p><p>È un rosso di medio corpo, con frutta nera e rossa, pepe e note floreali tipiche della Syrah del Rodano settentrionale. Offre un buon equilibrio tra freschezza e struttura e si può gustare giovane o dopo alcuni anni di bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rojo púrpura. Aromas de mora, frambuesa, pimienta negra y violeta. Boca fresca y jugosa, de taninos finos y final especiado.",
+    "en": "Purple red. Aromas of blackberry, raspberry, black pepper and violet. Fresh, juicy palate with fine tannins and a spicy finish.",
+    "fr": "Rouge pourpre. Arômes de mûre, de framboise, de poivre noir et de violette. Bouche fraîche et juteuse, aux tanins fins et à la finale épicée.",
+    "it": "Rosso porpora. Aromi di mora, lampone, pepe nero e viola. Bocca fresca e succosa, con tannini fini e finale speziato."
+  },
+  "pairing": {
+    "es": "Carnes a la parrilla, embutidos, aves de caza, cerdo, quesos semicurados",
+    "en": "Grilled meat, charcuterie, game birds, pork, semi-hard cheeses",
+    "fr": "Viandes grillées, charcuterie, gibier à plume, porc, fromages mi-affinés",
+    "it": "Carni alla griglia, salumi, selvaggina da piuma, maiale, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Saint-Joseph Rouge E. Guigal"
+}

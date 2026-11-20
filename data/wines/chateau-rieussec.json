@@ -1,0 +1,50 @@
+{
+  "slug": "chateau-rieussec",
+  "name": "Château Rieussec",
+  "winery": "chateau-rieussec",
+  "region": "sauternes",
+  "country": "francia",
+  "type": "dulce",
+  "category": {
+    "es": "Premier Cru Classé (1855)",
+    "en": "Premier Cru Classé (1855)",
+    "fr": "Premier cru classé (1855)",
+    "it": "Premier Cru Classé (1855)"
+  },
+  "grapes": [
+    "semillon",
+    "sauvignon-blanc",
+    "muscadelle"
+  ],
+  "summary": {
+    "es": "Gran vino dulce de Château Rieussec, primer cru clasificado de Sauternes, elaborado sobre todo con Sémillon botritizado.",
+    "en": "Grand vin of Château Rieussec, a Sauternes first growth, made mainly from botrytised Sémillon.",
+    "fr": "Grand vin liquoreux du Château Rieussec, premier cru classé de Sauternes, issu surtout de sémillon botrytisé.",
+    "it": "Grand vin dolce di Château Rieussec, premier cru classé di Sauternes, prodotto soprattutto da Sémillon botritizzato."
+  },
+  "body": {
+    "es": "<p>El gran vino de <strong>Château Rieussec</strong> procede del viñedo de la finca en <strong>Fargues</strong>, vecino al de Château d’Yquem, en la denominación <strong>Sauternes</strong>. Se elabora mayoritariamente con <strong>Sémillon</strong>, completado con Sauvignon Blanc y, a veces, una pequeña parte de Muscadelle.</p><p>Las uvas se vendimian a mano en varias pasadas sucesivas, para recoger sólo las afectadas por la <em>Botrytis cinerea</em> o podredumbre noble, que deshidrata los granos y concentra azúcares, acidez y aromas. El mosto fermenta y se cría en barricas de roble durante un periodo prolongado antes del embotellado.</p><p>Es un vino dulce de gran riqueza, con un dulzor generoso equilibrado por la acidez. Joven muestra fruta confitada y notas de roble; con los años el color evoluciona hacia el ámbar y aparecen matices de miel, azafrán y frutos secos. Su capacidad de guarda es muy larga.</p>",
+    "en": "<p>The grand vin of <strong>Château Rieussec</strong> comes from the estate’s vineyard in <strong>Fargues</strong>, neighbouring that of Château d’Yquem, in the <strong>Sauternes</strong> appellation. It is made mostly from <strong>Sémillon</strong>, completed with Sauvignon Blanc and sometimes a small share of Muscadelle.</p><p>The grapes are picked by hand in several successive passes, in order to gather only those affected by <em>Botrytis cinerea</em>, or noble rot, which dehydrates the berries and concentrates sugars, acidity and aromas. The must ferments and is aged in oak barrels for an extended period before bottling.</p><p>It is a sweet wine of great richness, with generous sweetness balanced by acidity. When young it shows candied fruit and oak notes; with age the colour moves towards amber and hints of honey, saffron and dried fruit appear. Its ageing potential is very long, and the finest vintages can develop over several decades.</p>",
+    "fr": "<p>Le grand vin du <strong>Château Rieussec</strong> provient du vignoble du domaine à <strong>Fargues</strong>, voisin de celui du Château d’Yquem, dans l’appellation <strong>Sauternes</strong>. Il est élaboré majoritairement à partir de <strong>sémillon</strong>, complété par du sauvignon blanc et parfois une petite part de muscadelle.</p><p>Les raisins sont vendangés à la main par tries successives, afin de ne cueillir que ceux atteints par le <em>Botrytis cinerea</em>, ou pourriture noble, qui déshydrate les baies et concentre sucres, acidité et arômes. Le moût fermente et s’élève en barriques de chêne pendant une longue période avant la mise en bouteille.</p><p>C’est un liquoreux d’une grande richesse, à la douceur généreuse équilibrée par l’acidité. Jeune, il montre des fruits confits et des notes boisées ; avec l’âge, la couleur évolue vers l’ambre et apparaissent des nuances de miel, de safran et de fruits secs. Son potentiel de garde est très long.</p>",
+    "it": "<p>Il grand vin di <strong>Château Rieussec</strong> proviene dal vigneto della tenuta a <strong>Fargues</strong>, confinante con quello di Château d’Yquem, nella denominazione <strong>Sauternes</strong>. Si produce in prevalenza con <strong>Sémillon</strong>, completato dal Sauvignon Blanc e talvolta da una piccola parte di Muscadelle.</p><p>Le uve sono vendemmiate a mano in più passaggi successivi, per raccogliere solo quelle colpite dalla <em>Botrytis cinerea</em>, o muffa nobile, che disidrata gli acini e concentra zuccheri, acidità e aromi. Il mosto fermenta e affina in barrique di rovere per un periodo prolungato prima dell’imbottigliamento.</p><p>È un vino dolce di grande ricchezza, con una dolcezza generosa bilanciata dall’acidità. Da giovane mostra frutta candita e note di rovere; con gli anni il colore evolve verso l’ambra e compaiono sfumature di miele, zafferano e frutta secca. La sua capacità di invecchiamento è molto lunga.</p>"
+  },
+  "tasting": {
+    "es": "Dorado intenso. Aromas de albaricoque, piel de naranja confitada, miel, piña y vainilla. Boca untuosa y larga, con una acidez que equilibra el dulzor.",
+    "en": "Deep gold. Aromas of apricot, candied orange peel, honey, pineapple and vanilla. Unctuous, long palate with acidity balancing the sweetness.",
+    "fr": "Or soutenu. Arômes d’abricot, d’écorce d’orange confite, de miel, d’ananas et de vanille. Bouche onctueuse et longue, l’acidité équilibrant la douceur.",
+    "it": "Oro intenso. Aromi di albicocca, scorza d’arancia candita, miele, ananas e vaniglia. Bocca untuosa e lunga, con un’acidità che bilancia la dolcezza."
+  },
+  "pairing": {
+    "es": "Foie gras, quesos azules, tartas de frutas, postres con albaricoque",
+    "en": "Foie gras, blue cheeses, fruit tarts, apricot desserts",
+    "fr": "Foie gras, fromages à pâte persillée, tartes aux fruits, desserts à l’abricot",
+    "it": "Foie gras, formaggi erborinati, crostate di frutta, dolci all’albicocca"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Château Rieussec Sauternes"
+}

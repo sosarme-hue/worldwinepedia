@@ -1,0 +1,42 @@
+{
+  "slug": "pierre-morey-meursault",
+  "name": "Pierre Morey Meursault",
+  "winery": null,
+  "winery_name": "Pierre Morey",
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Meursault / Côte-d'Or",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Pierre Morey Meursault es un vino blanco de Pierre Morey, con la denominación AOC Meursault / Côte-d'Or, en Francia.",
+    "en": "Pierre Morey Meursault is a white wine from Pierre Morey, made under the AOC Meursault / Côte-d'Or appellation in France.",
+    "fr": "Pierre Morey Meursault est un vin blanc de Pierre Morey, élaboré sous l’appellation AOC Meursault / Côte-d'Or (France).",
+    "it": "Pierre Morey Meursault è un vino bianco di Pierre Morey, prodotto nella denominazione AOC Meursault / Côte-d'Or (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Chardonnay. Fermenta en barrica. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is made from Chardonnay. It is fermented in barrel. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Chardonnay. Il est fermenté en barrique. Il titre 12,5 % vol.</p>",
+    "it": "<p>È prodotto con Chardonnay. Fermenta in barrique. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Pierre Morey Meursault Pierre Morey",
+  "brief": true,
+  "source": "decantalo"
+}

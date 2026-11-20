@@ -1,0 +1,40 @@
+{
+  "slug": "nelin",
+  "name": "Nelín",
+  "winery": "clos-mogador",
+  "winery_name": null,
+  "region": "priorat",
+  "country": "espana",
+  "appellation": "DOQ Priorat",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Nelín es un vino blanco de Clos Mogador, con la denominación DOQ Priorat, en España.",
+    "en": "Nelín is a white wine from Clos Mogador, made under the DOQ Priorat appellation in Spain.",
+    "fr": "Nelín est un vin blanc de Clos Mogador, élaboré sous l’appellation DOQ Priorat (Espagne).",
+    "it": "Nelín è un vino bianco di Clos Mogador, prodotto nella denominazione DOQ Priorat (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14,5 % vol.</p><p>Bodega familiar de René Barbier en Gratallops, uno de los proyectos fundacionales del Priorat moderno, conocida por su tinto homónimo de garnacha, cariñena y otras variedades.</p><p>Priorat, en la provincia de Tarragona, es una de las dos Denominaciones de Origen Calificadas de España, junto a Rioja. Sus tintos de Garnacha y Cariñena, cultivadas en laderas de pizarra llamada llicorella, se caracterizan por su concentración y su carácter mineral.</p>",
+    "en": "<p>It is aged in wood. It has 14.5% ABV.</p><p>René Barbier's family estate in Gratallops, one of the founding projects of modern Priorat, known for its eponymous red made from Garnacha, Carignan and other varieties.</p><p>Priorat, in the province of Tarragona, is one of Spain's two Qualified Designations of Origin, alongside Rioja. Its reds from Grenache and Carignan, grown on slopes of slate known as llicorella, are noted for their concentration and mineral character.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14,5 % vol.</p><p>Domaine familial de René Barbier à Gratallops, l'un des projets fondateurs du Priorat moderne, connu pour son rouge éponyme de grenache, de carignan et d'autres cépages.</p><p>Le Priorat, dans la province de Tarragone, est l'une des deux dénominations d'origine qualifiées d'Espagne, avec la Rioja. Ses rouges de grenache et de carignan, cultivés sur des coteaux de schiste appelé llicorella, se distinguent par leur concentration et leur caractère minéral.</p>",
+    "it": "<p>È affinato in legno. Ha 14,5% vol.</p><p>Azienda di famiglia di René Barbier a Gratallops, uno dei progetti fondativi del Priorat moderno, nota per il rosso omonimo di Grenache, Carignano e altre varietà.</p><p>Il Priorat, nella provincia di Tarragona, è una delle due Denominazioni di origine qualificate della Spagna, insieme alla Rioja. I suoi rossi di Garnacha e Carignano, coltivati su pendii di scisto detto llicorella, si distinguono per concentrazione e carattere minerale.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Nelín Clos Mogador",
+  "brief": true,
+  "source": "decantalo"
+}

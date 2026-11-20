@@ -1,0 +1,43 @@
+{
+  "slug": "alamos-malbec",
+  "name": "Alamos Malbec",
+  "winery": "catena-zapata",
+  "region": "mendoza",
+  "country": "argentina",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "malbec"
+  ],
+  "summary": {
+    "es": "Malbec de Mendoza de la marca Alamos, de la familia Catena, un tinto afrutado y asequible muy difundido en el mercado internacional.",
+    "en": "Mendoza Malbec from the Alamos brand of the Catena family, a fruity, affordable red widely available on the international market.",
+    "fr": "Malbec de Mendoza de la marque Alamos, de la famille Catena, un rouge fruité et abordable très diffusé sur le marché international.",
+    "it": "Malbec di Mendoza del marchio Alamos, della famiglia Catena, un rosso fruttato e accessibile molto diffuso sul mercato internazionale."
+  },
+  "body": {
+    "es": "<p><strong>Alamos</strong> es una marca de vinos de precio accesible creada por la familia Catena, propietaria de Catena Zapata, y uno de los nombres que más contribuyeron a dar a conocer el Malbec argentino fuera del país. Su nombre hace referencia a los álamos que se plantan en Mendoza como cortavientos para proteger los viñedos.</p><p>El Malbec de Alamos se elabora con uvas de distintas zonas de <strong>Mendoza</strong>, que combinan viñedos de altitud media y alta al pie de los Andes. El clima seco y soleado de la provincia, con noches frescas, favorece uvas sanas, de color intenso y buena madurez. Parte del vino se cría en roble, lo que añade notas especiadas y de vainilla sin ocultar la fruta. El resultado es un tinto jugoso y de taninos suaves, representativo del estilo afrutado del Malbec mendocino, pensado para beberse joven.</p>",
+    "en": "<p><strong>Alamos</strong> is a brand of affordable wines created by the Catena family, owners of Catena Zapata, and one of the names that did most to make Argentine Malbec known outside the country. Its name refers to the poplars that are planted in Mendoza as windbreaks to protect the vineyards.</p><p>Alamos Malbec is made from grapes grown in different parts of <strong>Mendoza</strong>, combining vineyards at medium and high altitude at the foot of the Andes. The province’s dry, sunny climate, with cool nights, favours healthy grapes with deep colour and good ripeness. Part of the wine is aged in oak, which adds spicy and vanilla notes without masking the fruit. The result is a juicy red with soft tannins, representative of the fruity style of Mendoza Malbec and intended to be drunk young.</p>",
+    "fr": "<p><strong>Alamos</strong> est une marque de vins au prix accessible créée par la famille Catena, propriétaire de Catena Zapata, et l’un des noms qui ont le plus contribué à faire connaître le malbec argentin hors du pays. Son nom fait référence aux peupliers que l’on plante à Mendoza comme brise-vent pour protéger les vignes.</p><p>Le malbec d’Alamos est élaboré avec des raisins de différentes zones de <strong>Mendoza</strong>, associant des vignobles de moyenne et de haute altitude au pied des Andes. Le climat sec et ensoleillé de la province, aux nuits fraîches, favorise des raisins sains, à la couleur intense et à la bonne maturité. Une partie du vin est élevée en chêne, ce qui ajoute des notes épicées et vanillées sans masquer le fruit. Il en résulte un rouge juteux aux tanins souples, représentatif du style fruité du malbec mendocin, à boire jeune.</p>",
+    "it": "<p><strong>Alamos</strong> è un marchio di vini dal prezzo accessibile creato dalla famiglia Catena, proprietaria di Catena Zapata, e uno dei nomi che più hanno contribuito a far conoscere il Malbec argentino fuori dal paese. Il nome si riferisce ai pioppi che a Mendoza si piantano come frangivento per proteggere i vigneti.</p><p>Il Malbec di Alamos si produce con uve di diverse zone di <strong>Mendoza</strong>, che combinano vigneti di media e alta quota ai piedi delle Ande. Il clima secco e soleggiato della provincia, con notti fresche, favorisce uve sane, dal colore intenso e di buona maturità. Parte del vino affina in rovere, che aggiunge note speziate e di vaniglia senza coprire il frutto. Il risultato è un rosso succoso e dai tannini morbidi, rappresentativo dello stile fruttato del Malbec mendocino, da bere giovane.</p>"
+  },
+  "tasting": {
+    "es": "Rojo violáceo. Aromas de ciruela, cereza negra, mora y un toque de vainilla. Boca jugosa, de cuerpo medio y taninos suaves.",
+    "en": "Purplish red. Aromas of plum, black cherry, blackberry and a touch of vanilla. Juicy, medium-bodied palate with soft tannins.",
+    "fr": "Rouge violacé. Arômes de prune, de cerise noire, de mûre et une touche de vanille. Bouche juteuse, de corps moyen, aux tanins souples.",
+    "it": "Rosso violaceo. Aromi di prugna, ciliegia nera, mora e un tocco di vaniglia. Bocca succosa, di medio corpo e dai tannini morbidi."
+  },
+  "pairing": {
+    "es": "Asado argentino, carnes a la parrilla, empanadas, quesos semicurados",
+    "en": "Argentine asado, grilled meats, empanadas, semi-hard cheeses",
+    "fr": "Asado argentin, viandes grillées, empanadas, fromages mi-affinés",
+    "it": "Asado argentino, carni alla griglia, empanadas, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Alamos Malbec Mendoza Catena"
+}

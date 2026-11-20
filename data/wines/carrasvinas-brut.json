@@ -1,0 +1,40 @@
+{
+  "slug": "carrasvinas-brut",
+  "name": "Carrasviñas Brut",
+  "winery": null,
+  "winery_name": "Felix Lorenzo Cachazo",
+  "region": null,
+  "country": "espana",
+  "appellation": null,
+  "type": "espumoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Carrasviñas Brut es un vino espumoso de Felix Lorenzo Cachazo, en España.",
+    "en": "Carrasviñas Brut is a sparkling wine from Felix Lorenzo Cachazo in Spain.",
+    "fr": "Carrasviñas Brut est un vin effervescent de Felix Lorenzo Cachazo (Espagne).",
+    "it": "Carrasviñas Brut è un vino spumante di Felix Lorenzo Cachazo (Spagna)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It has 13.5% ABV.</p>",
+    "fr": "<p>Il titre 13,5 % vol.</p>",
+    "it": "<p>Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Carrasviñas Brut Felix Lorenzo Cachazo",
+  "brief": true,
+  "source": "decantalo"
+}

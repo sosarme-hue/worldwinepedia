@@ -1,0 +1,41 @@
+{
+  "slug": "quinta-do-vallado-douro-tinto",
+  "name": "Quinta do Vallado Douro Tinto",
+  "winery": "quinta-do-vallado",
+  "region": "douro",
+  "country": "portugal",
+  "type": "tinto",
+  "category": null,
+  "grapes": ["touriga-franca", "touriga-nacional", "tempranillo"],
+  "summary": {
+    "es": "El tinto principal de Quinta do Vallado, un Douro de las variedades tradicionales de la región, con fruta madura y frescura del Baixo Corgo.",
+    "en": "Quinta do Vallado’s main red, a Douro from the region’s traditional varieties, with ripe fruit and the freshness of the Baixo Corgo.",
+    "fr": "Le rouge principal de la Quinta do Vallado, un Douro issu des cépages traditionnels de la région, au fruit mûr et à la fraîcheur du Baixo Corgo.",
+    "it": "Il rosso principale di Quinta do Vallado, un Douro dai vitigni tradizionali della regione, con frutto maturo e la freschezza del Baixo Corgo."
+  },
+  "body": {
+    "es": "<p>Este tinto es el vino más conocido de Quinta do Vallado y resume el estilo de la casa. Se elabora con uvas de la quinta, situada junto al río Corgo, cerca de Peso da Régua, y procede de variedades tradicionales del Douro como la Touriga Franca, la Touriga Nacional y la Tinta Roriz (Tempranillo), a las que pueden sumarse otras como la Sousão o la Tinto Cão.</p><p>La subregión del Baixo Corgo, la más occidental y lluviosa del Douro, tiende a dar vinos algo más frescos que las zonas del interior. Las variedades se vinifican en la moderna bodega de la quinta y una parte del vino se cría en barricas de roble antes del ensamblaje final. El resultado es un tinto de fruta madura y estructura media, con la madera bien integrada, que puede beberse joven y también guardarse unos años.</p>",
+    "en": "<p>This red is Quinta do Vallado’s best-known wine and sums up the house style. It is made from grapes from the quinta, beside the Corgo river near Peso da Régua, from traditional Douro varieties such as Touriga Franca, Touriga Nacional and Tinta Roriz (Tempranillo), which may be joined by others such as Sousão or Tinto Cão.</p><p>The Baixo Corgo subregion, the westernmost and rainiest part of the Douro, tends to give somewhat fresher wines than the inland areas. The varieties are vinified in the quinta’s modern winery, and part of the wine is aged in oak barrels before final blending. The result is a red with ripe fruit and medium structure, with well-integrated oak, which can be drunk young and also kept for a few years.</p>",
+    "fr": "<p>Ce rouge est le vin le plus connu de la Quinta do Vallado et résume le style de la maison. Il est élaboré avec des raisins de la quinta, située au bord du Corgo près de Peso da Régua, issus de cépages traditionnels du Douro comme la touriga franca, la touriga nacional et la tinta roriz (tempranillo), auxquels peuvent s’ajouter d’autres comme le sousão ou le tinto cão.</p><p>La sous-région du Baixo Corgo, la plus occidentale et la plus pluvieuse du Douro, tend à donner des vins un peu plus frais que les zones de l’intérieur. Les cépages sont vinifiés dans le chai moderne de la quinta, et une partie du vin est élevée en barriques de chêne avant l’assemblage final. Il en résulte un rouge au fruit mûr et à la structure moyenne, avec un bois bien intégré, qui peut se boire jeune mais aussi se garder quelques années.</p>",
+    "it": "<p>Questo rosso è il vino più noto di Quinta do Vallado e riassume lo stile della casa. È prodotto con uve della quinta, situata lungo il fiume Corgo vicino a Peso da Régua, da varietà tradizionali del Douro come Touriga Franca, Touriga Nacional e Tinta Roriz (Tempranillo), alle quali possono aggiungersi altre come Sousão o Tinto Cão.</p><p>La sottoregione del Baixo Corgo, la più occidentale e piovosa del Douro, tende a dare vini un po’ più freschi rispetto alle zone interne. Le varietà vengono vinificate nella moderna cantina della quinta e una parte del vino affina in barrique di rovere prima dell’assemblaggio finale. Il risultato è un rosso di frutto maturo e struttura media, con il legno ben integrato, che si può bere giovane ma anche conservare per qualche anno.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de frutos rojos y negros maduros, notas florales y un ligero toque especiado. En boca es equilibrado, con taninos pulidos y final fresco.",
+    "en": "Deep ruby. Aromas of ripe red and black berries, floral notes and a light touch of spice. Balanced on the palate, with polished tannins and a fresh finish.",
+    "fr": "Rubis intense. Arômes de fruits rouges et noirs mûrs, notes florales et légère touche épicée. En bouche, il est équilibré, avec des tanins polis et une finale fraîche.",
+    "it": "Rubino intenso. Aromi di frutti rossi e neri maturi, note floreali e un leggero tocco speziato. In bocca è equilibrato, con tannini levigati e finale fresco."
+  },
+  "pairing": {
+    "es": "Carnes asadas, arroz de pato, embutidos, quesos semicurados",
+    "en": "Roast meat, duck rice, charcuterie, semi-aged cheeses",
+    "fr": "Viandes rôties, riz au canard, charcuterie, fromages mi-affinés",
+    "it": "Carni arrosto, riso con l’anatra, salumi, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Quinta do Vallado Douro Tinto"
+}

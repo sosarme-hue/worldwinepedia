@@ -1,0 +1,51 @@
+{
+  "slug": "chateau-pedesclaux",
+  "name": "Château Pedesclaux",
+  "winery": "chateau-pedesclaux",
+  "region": "pauillac",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "5.º Gran Cru Clasificado 1855",
+    "en": "Fifth Growth (1855 Classification)",
+    "fr": "5e Grand Cru Classé en 1855",
+    "it": "5° Grand Cru Classé 1855"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "cabernet-franc",
+    "petit-verdot"
+  ],
+  "summary": {
+    "es": "Gran vino de Château Pedesclaux, quinto cru clasificado de Pauillac, dominado por el Cabernet Sauvignon y de estilo preciso y fresco.",
+    "en": "Grand vin of Château Pedesclaux, a Pauillac fifth growth, dominated by Cabernet Sauvignon and precise and fresh in style.",
+    "fr": "Grand vin du Château Pedesclaux, cinquième cru classé de Pauillac, dominé par le cabernet sauvignon, au style précis et frais.",
+    "it": "Grand vin di Château Pedesclaux, quinto cru classé di Pauillac, dominato dal Cabernet Sauvignon e dallo stile preciso e fresco."
+  },
+  "body": {
+    "es": "<p>El gran vino de <strong>Château Pedesclaux</strong> procede de las parcelas de la finca en la denominación <strong>Pauillac</strong>, sobre las gravas profundas que caracterizan a esta comuna del Médoc. El ensamblaje se basa en el <strong>Cabernet Sauvignon</strong>, completado con Merlot y pequeñas cantidades de Cabernet Franc y Petit Verdot según la añada.</p><p>Desde la renovación emprendida a partir de 2009, las uvas se vinifican por parcelas en una bodega diseñada para mover la vendimia por gravedad, con el fin de tratarla con suavidad. El vino se cría después en barricas de roble francés, una parte de ellas nuevas.</p><p>Es un Pauillac de estilo moderno y preciso, con fruta negra nítida, notas de cedro y grafito y taninos firmes pero finos. Gana complejidad con la guarda y expresa bien la estructura clásica de la denominación, con una frescura que lo hace también agradable en su juventud.</p>",
+    "en": "<p>The grand vin of <strong>Château Pedesclaux</strong> comes from the estate’s plots in the <strong>Pauillac</strong> appellation, on the deep gravels that characterise this Médoc commune. The blend is based on <strong>Cabernet Sauvignon</strong>, completed with Merlot and small amounts of Cabernet Franc and Petit Verdot depending on the vintage.</p><p>Since the renovation undertaken from 2009 onwards, the grapes have been vinified plot by plot in a winery designed to move the harvest by gravity, so as to handle it gently. The wine is then aged in French oak barrels, part of them new.</p><p>It is a Pauillac of modern, precise style, with clear-cut black fruit, notes of cedar and graphite and firm yet fine tannins. It gains complexity with cellaring and expresses the classic structure of the appellation well, with a freshness that also makes it pleasant in its youth.</p>",
+    "fr": "<p>Le grand vin du <strong>Château Pedesclaux</strong> provient des parcelles du domaine dans l’appellation <strong>Pauillac</strong>, sur les graves profondes qui caractérisent cette commune du Médoc. L’assemblage repose sur le <strong>cabernet sauvignon</strong>, complété par du merlot et de petites proportions de cabernet franc et de petit verdot selon le millésime.</p><p>Depuis la rénovation engagée à partir de 2009, les raisins sont vinifiés par parcelle dans un cuvier conçu pour déplacer la vendange par gravité, afin de la traiter avec douceur. Le vin est ensuite élevé en barriques de chêne français, dont une partie neuves.</p><p>C’est un pauillac au style moderne et précis, au fruit noir net, aux notes de cèdre et de graphite et aux tanins fermes mais fins. Il gagne en complexité avec la garde et exprime bien la structure classique de l’appellation, avec une fraîcheur qui le rend aussi agréable dans sa jeunesse.</p>",
+    "it": "<p>Il grand vin di <strong>Château Pedesclaux</strong> proviene dalle parcelle della tenuta nella denominazione <strong>Pauillac</strong>, sulle ghiaie profonde che caratterizzano questo comune del Médoc. L’assemblaggio si basa sul <strong>Cabernet Sauvignon</strong>, completato da Merlot e da piccole quantità di Cabernet Franc e Petit Verdot a seconda dell’annata.</p><p>Dalla ristrutturazione avviata dal 2009, le uve sono vinificate per parcella in una cantina progettata per muovere la vendemmia per gravità, così da trattarla con delicatezza. Il vino affina poi in barrique di rovere francese, in parte nuove.</p><p>È un Pauillac dallo stile moderno e preciso, con frutto nero nitido, note di cedro e grafite e tannini decisi ma fini. Guadagna complessità con l’invecchiamento ed esprime bene la struttura classica della denominazione, con una freschezza che lo rende piacevole anche da giovane.</p>"
+  },
+  "tasting": {
+    "es": "Granate profundo. Aromas de casis, mora, cedro y grafito, con notas tostadas. Boca estructurada, de taninos finos y final largo y fresco.",
+    "en": "Deep garnet. Aromas of blackcurrant, blackberry, cedar and graphite, with toasty notes. Structured palate with fine tannins and a long, fresh finish.",
+    "fr": "Grenat profond. Arômes de cassis, de mûre, de cèdre et de graphite, avec des notes toastées. Bouche structurée, aux tanins fins, finale longue et fraîche.",
+    "it": "Granato profondo. Aromi di ribes nero, mora, cedro e grafite, con note tostate. Bocca strutturata, dai tannini fini e finale lungo e fresco."
+  },
+  "pairing": {
+    "es": "Cordero asado, entrecot a la parrilla, caza menor, quesos curados",
+    "en": "Roast lamb, grilled rib-eye, small game, aged cheeses",
+    "fr": "Agneau rôti, entrecôte grillée, petit gibier, fromages affinés",
+    "it": "Agnello arrosto, costata alla griglia, selvaggina minuta, formaggi stagionati"
+  },
+  "serve": {
+    "es": "17-18 °C, copa de Burdeos; decantar en añadas jóvenes",
+    "en": "17-18 °C, Bordeaux glass; decant when young",
+    "fr": "17-18 °C, verre de type bordelais ; carafer dans les millésimes jeunes",
+    "it": "17-18 °C, calice tipo Bordeaux; decantare nelle annate giovani"
+  },
+  "search": "Château Pedesclaux Pauillac"
+}

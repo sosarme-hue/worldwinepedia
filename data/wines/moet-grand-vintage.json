@@ -1,0 +1,49 @@
+{
+  "slug": "moet-grand-vintage",
+  "name": "Moët & Chandon Grand Vintage",
+  "winery": "moet-chandon",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut Millésimé",
+    "en": "Vintage Brut",
+    "fr": "Brut Millésimé",
+    "it": "Brut Millesimato"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Champagne de añada de Moët & Chandon, elaborado con uvas de una sola cosecha que la casa considera digna de un vino propio.",
+    "en": "Moët & Chandon’s vintage champagne, made from grapes from a single harvest that the house considers worthy of its own wine.",
+    "fr": "Champagne millésimé de Moët & Chandon, élaboré avec des raisins d’une seule récolte que la maison juge digne d’un vin à part entière.",
+    "it": "Champagne millesimato di Moët & Chandon, prodotto con uve di un’unica vendemmia che la casa ritiene degna di un vino proprio."
+  },
+  "body": {
+    "es": "<p>El Grand Vintage es el champán de añada de Moët &amp; Chandon. A diferencia del Moët Impérial, que busca un estilo constante de un año a otro gracias a los vinos de reserva, cada Grand Vintage se elabora con uvas de una <strong>única cosecha</strong> y pretende expresar el carácter de ese año. Solo se produce en las añadas que la casa considera adecuadas.</p><p>Se elabora con las tres variedades de Champagne, <strong>Chardonnay</strong>, <strong>Pinot Noir</strong> y Pinot Meunier, en proporciones que cambian notablemente de una añada a otra según la calidad de cada variedad en ese año. Tras la segunda fermentación en botella, el vino se cría durante varios años sobre lías en las bodegas de Épernay, bastante más que el mínimo exigido para los champanes de añada.</p><p>Su perfil varía según la cosecha, pero suele mostrar más complejidad y notas de crianza que el Impérial, con aromas de fruta madura, frutos secos y brioche, y una boca amplia y fresca.</p>",
+    "en": "<p>Grand Vintage is Moët &amp; Chandon’s vintage champagne. Unlike Moët Impérial, which seeks a consistent style from year to year thanks to reserve wines, each Grand Vintage is made from grapes from a <strong>single harvest</strong> and aims to express the character of that year. It is produced only in vintages the house considers suitable.</p><p>It is made from the three Champagne varieties, <strong>Chardonnay</strong>, <strong>Pinot Noir</strong> and Pinot Meunier, in proportions that change considerably from one vintage to another according to the quality of each variety that year. After the second fermentation in bottle, the wine is aged for several years on its lees in the Épernay cellars, well beyond the minimum required for vintage champagnes.</p><p>Its profile varies with the harvest, but it usually shows more complexity and ageing notes than Impérial, with aromas of ripe fruit, nuts and brioche and a broad, fresh palate.</p>",
+    "fr": "<p>Le Grand Vintage est le champagne millésimé de Moët &amp; Chandon. Contrairement au Moët Impérial, qui recherche un style constant d’une année à l’autre grâce aux vins de réserve, chaque Grand Vintage est élaboré avec des raisins d’une <strong>seule récolte</strong> et vise à exprimer le caractère de cette année. Il n’est produit que les années que la maison juge adaptées.</p><p>Il est élaboré avec les trois cépages de la Champagne, <strong>chardonnay</strong>, <strong>pinot noir</strong> et pinot meunier, dans des proportions qui changent nettement d’un millésime à l’autre selon la qualité de chaque cépage cette année-là. Après la prise de mousse en bouteille, le vin est élevé plusieurs années sur lies dans les caves d’Épernay, bien au-delà du minimum exigé pour les champagnes millésimés.</p><p>Son profil varie selon la récolte, mais il montre généralement plus de complexité et de notes d’évolution que l’Impérial, avec des arômes de fruits mûrs, de fruits secs et de brioche, et une bouche ample et fraîche.</p>",
+    "it": "<p>Il Grand Vintage è lo champagne millesimato di Moët &amp; Chandon. A differenza del Moët Impérial, che cerca uno stile costante da un anno all’altro grazie ai vini di riserva, ogni Grand Vintage è prodotto con uve di un’<strong>unica vendemmia</strong> e mira a esprimere il carattere di quell’anno. Viene prodotto solo nelle annate che la casa ritiene adatte.</p><p>È prodotto con le tre varietà della Champagne, <strong>Chardonnay</strong>, <strong>Pinot Nero</strong> e Pinot Meunier, in proporzioni che cambiano notevolmente da un’annata all’altra secondo la qualità di ciascuna varietà in quell’anno. Dopo la seconda fermentazione in bottiglia, il vino affina per diversi anni sui lieviti nelle cantine di Épernay, ben oltre il minimo richiesto per gli champagne millesimati.</p><p>Il suo profilo varia secondo la vendemmia, ma di solito mostra più complessità e note evolutive dell’Impérial, con aromi di frutta matura, frutta secca e brioche e una bocca ampia e fresca.</p>"
+  },
+  "tasting": {
+    "es": "Dorado con burbuja fina. Aromas de fruta madura, cítricos, almendra tostada y brioche. Boca amplia y fresca, con buena complejidad y final persistente.",
+    "en": "Gold with fine bubbles. Aromas of ripe fruit, citrus, toasted almond and brioche. Broad, fresh palate with good complexity and a persistent finish.",
+    "fr": "Robe dorée à la bulle fine. Arômes de fruits mûrs, d’agrumes, d’amande grillée et de brioche. Bouche ample et fraîche, d’une bonne complexité, finale persistante.",
+    "it": "Oro dal perlage fine. Aromi di frutta matura, agrumi, mandorla tostata e brioche. Bocca ampia e fresca, di buona complessità e dal finale persistente."
+  },
+  "pairing": {
+    "es": "Langosta, caviar, rodaballo, aves con trufa, quesos curados como el comté",
+    "en": "Lobster, caviar, turbot, poultry with truffle, aged cheeses such as Comté",
+    "fr": "Homard, caviar, turbot, volaille truffée, fromages affinés comme le comté",
+    "it": "Aragosta, caviale, rombo, pollame al tartufo, formaggi stagionati come il Comté"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de vino blanco amplia, no flauta",
+    "en": "10-12 °C, large white wine glass rather than a flute",
+    "fr": "10-12 °C, grand verre à vin blanc plutôt qu’une flûte",
+    "it": "10-12 °C, calice ampio da vino bianco anziché flûte"
+  },
+  "search": "Moët & Chandon Grand Vintage Champagne"
+}

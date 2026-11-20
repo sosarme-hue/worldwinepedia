@@ -1,0 +1,41 @@
+{
+  "slug": "ornellaia",
+  "name": "Ornellaia",
+  "winery": "ornellaia",
+  "region": "bolgheri",
+  "country": "italia",
+  "type": "tinto",
+  "category": {"es": "Bolgheri DOC Superiore", "en": "Bolgheri DOC Superiore", "fr": "Bolgheri DOC Superiore", "it": "Bolgheri DOC Superiore"},
+  "grapes": ["cabernet-sauvignon", "merlot", "cabernet-franc", "petit-verdot"],
+  "summary": {
+    "es": "El vino principal de la Tenuta dell’Ornellaia, un ensamblaje de variedades bordelesas de Bolgheri con larga capacidad de guarda.",
+    "en": "Tenuta dell’Ornellaia’s flagship wine, a blend of Bordeaux varieties from Bolgheri with long ageing potential.",
+    "fr": "Le vin phare de la Tenuta dell’Ornellaia, un assemblage de cépages bordelais de Bolgheri à fort potentiel de garde.",
+    "it": "Il vino principale della Tenuta dell’Ornellaia, un uvaggio di varietà bordolesi di Bolgheri con grande potenziale d’invecchiamento."
+  },
+  "body": {
+    "es": "<p>Ornellaia se elaboró por primera vez con la añada 1985, pocos años después de que Lodovico Antinori fundara la finca en Bolgheri. Es el vino que da nombre a la propiedad y su etiqueta más ambiciosa, junto al Masseto, hoy gestionado de forma independiente.</p><p>Se elabora con Cabernet Sauvignon, Merlot, Cabernet Franc y Petit Verdot, cuyas proporciones cambian según la añada. Las uvas proceden de parcelas con suelos muy diversos —arenosos, arcillosos y pedregosos— que se vinifican por separado. Tras la fermentación, el vino se cría en barricas de roble francés durante un periodo prolongado; después se ensambla y reposa en botella antes de salir al mercado.</p><p>Es un tinto de estilo mediterráneo, con fruta madura, estructura amplia y tanino pulido, que combina potencia y elegancia y puede envejecer durante muchos años.</p>",
+    "en": "<p>Ornellaia was first made with the 1985 vintage, a few years after Lodovico Antinori founded the estate in Bolgheri. It is the wine that gives the property its name and its most ambitious label, along with Masseto, now run independently.</p><p>It is made from Cabernet Sauvignon, Merlot, Cabernet Franc and Petit Verdot, in proportions that change with the vintage. The grapes come from plots with very diverse soils—sandy, clay and stony—which are vinified separately. After fermentation the wine is aged in French oak barrels for an extended period; it is then blended and rests in bottle before release.</p><p>It is a Mediterranean-style red with ripe fruit, broad structure and polished tannins, combining power and elegance, and it can age for many years.</p>",
+    "fr": "<p>L’Ornellaia a été élaboré pour la première fois avec le millésime 1985, quelques années après la fondation du domaine de Bolgheri par Lodovico Antinori. C’est le vin qui donne son nom à la propriété et son étiquette la plus ambitieuse, avec le Masseto, aujourd’hui géré de façon indépendante.</p><p>Il est élaboré avec du cabernet-sauvignon, du merlot, du cabernet franc et du petit verdot, dans des proportions qui changent selon le millésime. Les raisins proviennent de parcelles aux sols très divers — sableux, argileux et caillouteux — vinifiées séparément. Après la fermentation, le vin est élevé longuement en barriques de chêne français, puis il est assemblé et repose en bouteille avant sa commercialisation.</p><p>C’est un rouge de style méditerranéen, au fruit mûr, à la structure ample et aux tanins polis, qui allie puissance et élégance et peut vieillir de nombreuses années.</p>",
+    "it": "<p>L’Ornellaia è stato prodotto per la prima volta con l’annata 1985, pochi anni dopo la fondazione della tenuta di Bolgheri da parte di Lodovico Antinori. È il vino che dà il nome alla proprietà e la sua etichetta più ambiziosa, insieme al Masseto, oggi gestito in modo autonomo.</p><p>È prodotto con Cabernet Sauvignon, Merlot, Cabernet Franc e Petit Verdot, in proporzioni che cambiano secondo l’annata. Le uve provengono da parcelle con suoli molto diversi — sabbiosi, argillosi e sassosi — vinificate separatamente. Dopo la fermentazione il vino affina a lungo in barrique di rovere francese; viene poi assemblato e riposa in bottiglia prima dell’uscita sul mercato.</p><p>È un rosso di stile mediterraneo, con frutto maturo, struttura ampia e tannino levigato, che unisce potenza ed eleganza e può invecchiare per molti anni.</p>"
+  },
+  "tasting": {
+    "es": "Rubí profundo. Aromas de fruta negra madura, casis y ciruela, con notas de hierbas mediterráneas, especias, cacao y tostados. En boca es amplio y estructurado, con tanino pulido y final largo.",
+    "en": "Deep ruby. Aromas of ripe black fruit, blackcurrant and plum, with notes of Mediterranean herbs, spice, cocoa and toast. Broad and structured on the palate, with polished tannins and a long finish.",
+    "fr": "Rubis profond. Arômes de fruits noirs mûrs, de cassis et de prune, avec des notes d’herbes méditerranéennes, d’épices, de cacao et de grillé. En bouche, il est ample et structuré, aux tanins polis et à la finale longue.",
+    "it": "Rubino profondo. Profumi di frutta nera matura, ribes nero e prugna, con note di erbe mediterranee, spezie, cacao e tostatura. In bocca è ampio e strutturato, con tannino levigato e finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas asadas, cordero, caza, platos con trufa, quesos curados",
+    "en": "Roast red meat, lamb, game, truffle dishes, aged cheeses",
+    "fr": "Viandes rouges rôties, agneau, gibier, plats à la truffe, fromages affinés",
+    "it": "Carni rosse arrosto, agnello, selvaggina, piatti al tartufo, formaggi stagionati"
+  },
+  "serve": {
+    "es": "17-18 °C, copa amplia; se beneficia de la decantación",
+    "en": "17-18 °C, large glass; benefits from decanting",
+    "fr": "17-18 °C, verre ample ; gagne à être carafé",
+    "it": "17-18 °C, calice ampio; trae beneficio dalla decantazione"
+  },
+  "search": "Ornellaia Bolgheri Superiore"
+}

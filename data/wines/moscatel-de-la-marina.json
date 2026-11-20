@@ -1,0 +1,41 @@
+{
+  "slug": "moscatel-de-la-marina",
+  "name": "Moscatel de la Marina",
+  "winery": "enrique-mendoza",
+  "region": "alicante",
+  "country": "espana",
+  "type": "dulce",
+  "category": null,
+  "grapes": ["moscatel"],
+  "summary": {
+    "es": "Vino dulce de moscatel de Alejandría de Enrique Mendoza, procedente de la subzona costera de La Marina, en la D.O. Alicante.",
+    "en": "Sweet Muscat of Alexandria wine from Enrique Mendoza, from the coastal La Marina sub-zone of the Alicante D.O.",
+    "fr": "Vin doux de muscat d'Alexandrie d'Enrique Mendoza, issu de la sous-zone côtière de La Marina, dans la D.O. Alicante.",
+    "it": "Vino dolce di Moscato d'Alessandria di Enrique Mendoza, dalla sottozona costiera de La Marina, nella D.O. Alicante."
+  },
+  "body": {
+    "es": "<p>La comarca de La Marina, en la costa norte de Alicante, tiene una larga tradición de cultivo de <strong>moscatel de Alejandría</strong>, tanto para uva de mesa y pasas como para vinos dulces. Este Moscatel de la Marina de Enrique Mendoza recoge esa tradición en un estilo fresco y aromático.</p><p>Las uvas proceden de viñedos cercanos al mar, en un clima mediterráneo templado y húmedo. Se vendimian maduras y el vino se elabora para conservar una parte importante del azúcar natural de la uva y la intensidad aromática de la variedad, sin crianza en madera. Es un dulce de estilo ligero, más fresco que denso, que se bebe joven y resulta muy agradable con postres de fruta o simplemente como vino de sobremesa.</p>",
+    "en": "<p>The La Marina district, on Alicante's northern coast, has a long tradition of growing <strong>Muscat of Alexandria</strong>, both for table grapes and raisins and for sweet wines. Enrique Mendoza's Moscatel de la Marina captures that tradition in a fresh, aromatic style.</p><p>The grapes come from vineyards near the sea, in a mild, humid Mediterranean climate. They are harvested ripe and the wine is made to retain a significant share of the grapes' natural sugar and the variety's aromatic intensity, without oak ageing. It is a light-style sweet wine, fresh rather than dense, drunk young and very pleasant with fruit desserts or simply after a meal.</p>",
+    "fr": "<p>La comarque de La Marina, sur la côte nord d'Alicante, a une longue tradition de culture du <strong>muscat d'Alexandrie</strong>, aussi bien pour le raisin de table et les raisins secs que pour les vins doux. Ce Moscatel de la Marina d'Enrique Mendoza perpétue cette tradition dans un style frais et aromatique.</p><p>Les raisins proviennent de vignes proches de la mer, sous un climat méditerranéen doux et humide. Ils sont vendangés mûrs et le vin est élaboré pour conserver une part importante du sucre naturel du raisin et l'intensité aromatique du cépage, sans élevage sous bois. C'est un vin doux de style léger, plus frais que dense, qui se boit jeune et se révèle très agréable avec des desserts aux fruits ou simplement en fin de repas.</p>",
+    "it": "<p>La comarca de La Marina, sulla costa settentrionale di Alicante, ha una lunga tradizione di coltivazione del <strong>Moscato d'Alessandria</strong>, sia per uva da tavola e uva passa sia per vini dolci. Questo Moscatel de la Marina di Enrique Mendoza raccoglie quella tradizione in uno stile fresco e aromatico.</p><p>Le uve provengono da vigneti vicini al mare, in un clima mediterraneo mite e umido. Si vendemmiano mature e il vino è prodotto per conservare una parte importante dello zucchero naturale dell'uva e l'intensità aromatica della varietà, senza affinamento in legno. È un dolce di stile leggero, più fresco che denso, da bere giovane e molto piacevole con dolci alla frutta o semplicemente a fine pasto.</p>"
+  },
+  "tasting": {
+    "es": "Uva moscatel fresca, azahar, melocotón, albaricoque y miel. Boca dulce, ligera y fresca.",
+    "en": "Fresh Muscat grape, orange blossom, peach, apricot and honey. Sweet, light and fresh on the palate.",
+    "fr": "Raisin muscat frais, fleur d'oranger, pêche, abricot et miel. Bouche douce, légère et fraîche.",
+    "it": "Uva moscato fresca, zagara, pesca, albicocca e miele. Bocca dolce, leggera e fresca."
+  },
+  "pairing": {
+    "es": "Postres de fruta, turrón, pastas de almendra, quesos azules suaves",
+    "en": "Fruit desserts, turrón, almond pastries, mild blue cheeses",
+    "fr": "Desserts aux fruits, touron, gâteaux aux amandes, fromages persillés doux",
+    "it": "Dolci alla frutta, torrone, pasticcini di mandorle, erborinati delicati"
+  },
+  "serve": {
+    "es": "6-8 °C, copa pequeña de vino dulce",
+    "en": "6-8 °C, small dessert wine glass",
+    "fr": "6-8 °C, petit verre à vin doux",
+    "it": "6-8 °C, piccolo calice da vino dolce"
+  },
+  "search": "Moscatel de la Marina Enrique Mendoza"
+}

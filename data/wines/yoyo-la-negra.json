@@ -1,0 +1,40 @@
+{
+  "slug": "yoyo-la-negra",
+  "name": "Yoyo La Negra",
+  "winery": null,
+  "winery_name": "Yoyo",
+  "region": null,
+  "country": "francia",
+  "appellation": "Vin de France",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Yoyo La Negra es un vino tinto de Yoyo, con la denominación Vin de France, en Francia.",
+    "en": "Yoyo La Negra is a red wine from Yoyo, made under the Vin de France appellation in France.",
+    "fr": "Yoyo La Negra est un vin rouge de Yoyo, élaboré sous l’appellation Vin de France (France).",
+    "it": "Yoyo La Negra è un vino rosso di Yoyo, prodotto nella denominazione Vin de France (Francia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13,5 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Yoyo La Negra Yoyo",
+  "brief": true,
+  "source": "decantalo"
+}

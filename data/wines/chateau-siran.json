@@ -1,0 +1,49 @@
+{
+  "slug": "chateau-siran",
+  "name": "Château Siran",
+  "winery": null,
+  "winery_name": "Château Siran",
+  "region": "margaux",
+  "country": "francia",
+  "appellation": "AOC Margaux",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "petit-verdot",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Tinto de la denominación Margaux procedente de una propiedad de Labarde que pertenece a la misma familia desde el siglo XIX.",
+    "en": "A red from the Margaux appellation, from an estate in Labarde that has belonged to the same family since the 19th century.",
+    "fr": "Rouge de l'appellation Margaux issu d'une propriété de Labarde appartenant à la même famille depuis le XIXe siècle.",
+    "it": "Rosso della denominazione Margaux proveniente da una tenuta di Labarde che appartiene alla stessa famiglia dal XIX secolo."
+  },
+  "body": {
+    "es": "<p><strong>Château Siran</strong> es una propiedad situada en Labarde, uno de los municipios incluidos en la denominación <strong>Margaux</strong>, en el sur del Haut-Médoc. Pertenece desde el siglo XIX a la familia <strong>Miailhe</strong> y es una de las fincas conocidas de la denominación que no figuran en la clasificación de 1855.</p><p>El viñedo, próximo al estuario de la Gironda, se asienta sobre gravas y arenas con sectores más arcillosos. Está plantado con <strong>Cabernet Sauvignon</strong> y <strong>Merlot</strong>, esta última con un peso considerable, completadas con <strong>Petit Verdot</strong> y <strong>Cabernet Franc</strong>. La proporción varía según la añada.</p><p>La vendimia es manual y el vino se cría en barricas de roble francés. Siran responde al estilo de Margaux, más inclinado a la finura y el perfume que a la potencia: un tinto de fruta negra y roja, notas florales y especiadas y taninos bien integrados, que gana complejidad con algunos años de guarda.</p>",
+    "en": "<p><strong>Château Siran</strong> is an estate in Labarde, one of the communes included in the <strong>Margaux</strong> appellation, in the southern Haut-Médoc. It has belonged to the <strong>Miailhe</strong> family since the 19th century and is one of the appellation's well-known estates that are not part of the 1855 classification.</p><p>The vineyard, close to the Gironde estuary, lies on gravel and sand with clayier sectors. It is planted with <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong>, the latter carrying considerable weight, complemented by <strong>Petit Verdot</strong> and <strong>Cabernet Franc</strong>. The proportions vary with the vintage.</p><p>Harvesting is by hand and the wine is aged in French oak barrels. Siran reflects the Margaux style, leaning towards finesse and perfume rather than power: a red with black and red fruit, floral and spicy notes and well-integrated tannins, which gains complexity with a few years of ageing.</p>",
+    "fr": "<p><strong>Château Siran</strong> est une propriété située à Labarde, l'une des communes de l'appellation <strong>Margaux</strong>, dans le sud du Haut-Médoc. Elle appartient depuis le XIXe siècle à la famille <strong>Miailhe</strong> et compte parmi les propriétés connues de l'appellation qui ne figurent pas au classement de 1855.</p><p>Le vignoble, proche de l'estuaire de la Gironde, repose sur des graves et des sables avec des secteurs plus argileux. Il est planté de <strong>cabernet sauvignon</strong> et de <strong>merlot</strong>, ce dernier occupant une place importante, complétés par le <strong>petit verdot</strong> et le <strong>cabernet franc</strong>. Les proportions varient selon le millésime.</p><p>Les vendanges sont manuelles et le vin est élevé en barriques de chêne français. Siran répond au style de Margaux, plus porté vers la finesse et le parfum que vers la puissance : un rouge aux fruits noirs et rouges, aux notes florales et épicées et aux tanins bien intégrés, qui gagne en complexité après quelques années de garde.</p>",
+    "it": "<p><strong>Château Siran</strong> è una tenuta situata a Labarde, uno dei comuni compresi nella denominazione <strong>Margaux</strong>, nel sud dell'Haut-Médoc. Appartiene dal XIX secolo alla famiglia <strong>Miailhe</strong> ed è una delle tenute conosciute della denominazione che non figurano nella classificazione del 1855.</p><p>Il vigneto, vicino all'estuario della Gironda, poggia su ghiaie e sabbie con settori più argillosi. È piantato a <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong>, quest'ultimo con un peso considerevole, completati da <strong>Petit Verdot</strong> e <strong>Cabernet Franc</strong>. Le proporzioni variano secondo l'annata.</p><p>La vendemmia è manuale e il vino matura in barrique di rovere francese. Siran rispecchia lo stile di Margaux, più incline alla finezza e al profumo che alla potenza: un rosso di frutti neri e rossi, note floreali e speziate e tannini ben integrati, che guadagna complessità con qualche anno di affinamento.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de grosella negra, cereza, violeta, especias y notas de roble. Boca elegante, de cuerpo medio, con taninos finos y final fresco.",
+    "en": "Intense cherry red. Aromas of blackcurrant, cherry, violet, spice and oak notes. Elegant, medium-bodied palate with fine tannins and a fresh finish.",
+    "fr": "Rouge cerise intense. Arômes de cassis, de cerise, de violette, d'épices et notes boisées. Bouche élégante, de corps moyen, aux tanins fins et à la finale fraîche.",
+    "it": "Rosso ciliegia intenso. Aromi di ribes nero, ciliegia, viola, spezie e note di rovere. Bocca elegante, di medio corpo, tannini fini e finale fresco."
+  },
+  "pairing": {
+    "es": "Cordero, ternera asada, pato, setas, quesos semicurados",
+    "en": "Lamb, roast veal, duck, mushrooms, semi-hard cheeses",
+    "fr": "Agneau, veau rôti, canard, champignons, fromages mi-affinés",
+    "it": "Agnello, vitello arrosto, anatra, funghi, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia tipo Burdeos",
+    "en": "16-18 °C, large Bordeaux glass",
+    "fr": "16-18 °C, grand verre de type bordeaux",
+    "it": "16-18 °C, calice ampio tipo Bordeaux"
+  },
+  "search": "Château Siran Château Siran",
+  "source": "decantalo"
+}

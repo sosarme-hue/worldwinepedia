@@ -1,0 +1,42 @@
+{
+  "slug": "livio-felluga-friulano",
+  "name": "Livio Felluga Friulano",
+  "winery": null,
+  "winery_name": "Livio Felluga",
+  "region": null,
+  "country": "italia",
+  "appellation": "DOP Colli Orientali del Friuli",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "friulano"
+  ],
+  "summary": {
+    "es": "Livio Felluga Friulano es un vino blanco de Livio Felluga, con la denominación DOP Colli Orientali del Friuli, en Italia.",
+    "en": "Livio Felluga Friulano is a white wine from Livio Felluga, made under the DOP Colli Orientali del Friuli appellation in Italy.",
+    "fr": "Livio Felluga Friulano est un vin blanc de Livio Felluga, élaboré sous l’appellation DOP Colli Orientali del Friuli (Italie).",
+    "it": "Livio Felluga Friulano è un vino bianco di Livio Felluga, prodotto nella denominazione DOP Colli Orientali del Friuli (Italia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Friulano. Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 13 % vol.</p>",
+    "en": "<p>It is made from Friulano. It is a young wine, meant to be drunk in its first years. It has 13% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Friulano. C’est un vin jeune, à boire dans ses premières années. Il titre 13 % vol.</p>",
+    "it": "<p>È prodotto con Friulano. È un vino giovane, da bere nei primi anni. Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Livio Felluga Friulano Livio Felluga",
+  "brief": true,
+  "source": "decantalo"
+}

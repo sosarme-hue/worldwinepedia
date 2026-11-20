@@ -1,0 +1,41 @@
+{
+  "slug": "pio-cesare-barbera-d-alba",
+  "name": "Pio Cesare Barbera d'Alba",
+  "winery": "pio-cesare",
+  "region": "piemonte",
+  "country": "italia",
+  "type": "tinto",
+  "category": {"es": "Barbera d’Alba DOC", "en": "Barbera d’Alba DOC", "fr": "Barbera d’Alba DOC", "it": "Barbera d’Alba DOC"},
+  "grapes": ["barbera"],
+  "summary": {
+    "es": "La Barbera d’Alba de Pio Cesare, un tinto de color intenso y acidez viva de las colinas de las Langhe, más accesible que los Barolo de la casa.",
+    "en": "Pio Cesare’s Barbera d’Alba, a deeply coloured red with lively acidity from the Langhe hills, more approachable than the house’s Barolos.",
+    "fr": "La Barbera d’Alba de Pio Cesare, un rouge à la couleur intense et à l’acidité vive des collines des Langhe, plus accessible que les Barolo de la maison.",
+    "it": "La Barbera d’Alba di Pio Cesare, un rosso dal colore intenso e dall’acidità vivace delle colline delle Langhe, più accessibile dei Barolo della casa."
+  },
+  "body": {
+    "es": "<p>La Barbera d’Alba se cultiva en las colinas que rodean Alba, en la misma zona de las Langhe donde se producen el Barolo y el Barbaresco. A menudo ocupa parcelas en las que la Nebbiolo madura con más dificultad, y da vinos de color intenso, acidez marcada y tanino suave.</p><p>La de Pio Cesare se elabora con uvas de viñedos propios y de viticultores de la zona. Tras la fermentación, el vino se cría durante algunos meses en madera, combinando distintos tamaños de recipiente, de modo que la madera redondea el vino sin ocultar la fruta.</p><p>Es un tinto jugoso y versátil, que se disfruta joven pero que tiene estructura suficiente para algunos años de botella. Ofrece una aproximación más asequible al estilo de la casa.</p>",
+    "en": "<p>Barbera d’Alba is grown on the hills around Alba, in the same Langhe area where Barolo and Barbaresco are produced. It often occupies plots where Nebbiolo ripens with more difficulty, and gives wines of deep colour, marked acidity and soft tannins.</p><p>Pio Cesare’s version is made from grapes from its own vineyards and from local growers. After fermentation the wine is aged for a few months in wood, in vessels of different sizes, so that the oak rounds out the wine without masking the fruit.</p><p>It is a juicy, versatile red that can be enjoyed young but has enough structure for a few years in bottle. It offers a more affordable approach to the house style.</p>",
+    "fr": "<p>La Barbera d’Alba est cultivée sur les collines qui entourent Alba, dans la même zone des Langhe où sont produits le Barolo et le Barbaresco. Elle occupe souvent des parcelles où le nebbiolo mûrit plus difficilement et donne des vins à la couleur intense, à l’acidité marquée et aux tanins souples.</p><p>Celle de Pio Cesare est élaborée avec des raisins de ses propres vignes et de viticulteurs locaux. Après la fermentation, le vin est élevé quelques mois sous bois, dans des contenants de différentes tailles, afin que le bois arrondisse le vin sans masquer le fruit.</p><p>C’est un rouge gourmand et polyvalent, qui s’apprécie jeune mais possède assez de structure pour quelques années de bouteille. Il offre une approche plus abordable du style de la maison.</p>",
+    "it": "<p>La Barbera d’Alba si coltiva sulle colline attorno ad Alba, nella stessa zona delle Langhe in cui si producono Barolo e Barbaresco. Spesso occupa parcelle in cui il Nebbiolo matura con più difficoltà e dà vini dal colore intenso, dall’acidità spiccata e dal tannino morbido.</p><p>Quella di Pio Cesare è prodotta con uve di vigneti di proprietà e di viticoltori della zona. Dopo la fermentazione il vino affina alcuni mesi in legno, in contenitori di diverse dimensioni, così che il legno arrotondi il vino senza coprirne il frutto.</p><p>È un rosso succoso e versatile, che si gusta giovane ma ha struttura sufficiente per qualche anno di bottiglia. Offre un approccio più accessibile allo stile della casa.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso con reflejos violáceos. Aromas de cereza negra, ciruela y frutos del bosque, con notas especiadas. En boca es jugoso, con acidez viva, tanino suave y final afrutado.",
+    "en": "Deep ruby with purple glints. Aromas of black cherry, plum and forest berries, with spicy notes. Juicy on the palate, with lively acidity, soft tannins and a fruity finish.",
+    "fr": "Rubis intense aux reflets violacés. Arômes de cerise noire, de prune et de fruits des bois, avec des notes épicées. En bouche, il est gourmand, à l’acidité vive, aux tanins souples et à la finale fruitée.",
+    "it": "Rubino intenso con riflessi violacei. Profumi di ciliegia nera, prugna e frutti di bosco, con note speziate. In bocca è succoso, con acidità vivace, tannino morbido e finale fruttato."
+  },
+  "pairing": {
+    "es": "Pasta con ragú, pizza, embutidos, carnes a la parrilla, quesos semicurados",
+    "en": "Pasta with ragù, pizza, cured meats, grilled meat, semi-aged cheeses",
+    "fr": "Pâtes au ragù, pizza, charcuterie, viandes grillées, fromages mi-affinés",
+    "it": "Pasta al ragù, pizza, salumi, carni alla griglia, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "15-17 °C, copa mediana",
+    "en": "15-17 °C, medium-sized glass",
+    "fr": "15-17 °C, verre moyen",
+    "it": "15-17 °C, calice medio"
+  },
+  "search": "Pio Cesare Barbera d'Alba"
+}

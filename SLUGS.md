@@ -1,0 +1,86 @@
+# Slugs maestros (fase 1: España). Usa SOLO estos slugs para referencias cruzadas.
+
+country: espana   (también existen para referencias: francia, italia, portugal, alemania, austria, estados-unidos, argentina, chile, australia, nueva-zelanda, sudafrica)
+
+regions (España, 32):
+rioja, ribera-del-duero, rueda, toro, cigales, bierzo, arribes, rias-baixas, ribeira-sacra, valdeorras, ribeiro, monterrei,
+getariako-txakolina, navarra, somontano, campo-de-borja, calatayud, carinena,
+priorat, montsant, penedes, cava, terra-alta, emporda, costers-del-segre,
+jerez-xeres-sherry, montilla-moriles, malaga,
+jumilla, alicante, utiel-requena, la-mancha, valdepenas, lanzarote
+
+grapes (36):
+tempranillo, garnacha, garnacha-blanca, monastrell, mencia, bobal, carinena, graciano, cabernet-sauvignon, merlot, syrah,
+pinot-noir, cabernet-franc, malbec, prieto-picudo, juan-garcia, listan-negro,
+albarino, verdejo, godello, treixadura, loureira, macabeo, xarel-lo, parellada, palomino, pedro-ximenez, moscatel,
+hondarrabi-zuri, malvasia, chardonnay, sauvignon-blanc, riesling, sangiovese, nebbiolo, airen
+
+# Tanda 2: Francia, Italia, Portugal (además de todo lo anterior)
+countries: francia, italia, portugal
+
+regions francia: bordeaux, medoc, saint-emilion, pomerol, pessac-leognan, sauternes, bourgogne, chablis, cote-de-nuits, cote-de-beaune, beaujolais, champagne, loire, sancerre, rhone-nord, chateauneuf-du-pape, alsace, provence, languedoc-roussillon
+regions italia: piemonte, barolo, barbaresco, toscana, chianti-classico, brunello-di-montalcino, bolgheri, veneto, valpolicella, prosecco, soave, trentino-alto-adige, franciacorta, sicilia, etna, campania, puglia, abruzzo
+regions portugal: douro, porto, vinho-verde, dao, alentejo, bairrada, madeira, lisboa, setubal
+
+grapes nuevas (tanda 2): gamay, chenin-blanc, viognier, semillon, cinsault, pinot-gris, gewurztraminer, melon-de-bourgogne, petit-verdot, aligote,
+ barbera, dolcetto, corvina, glera, garganega, montepulciano, aglianico, nero-davola, primitivo, nerello-mascalese, vermentino, trebbiano, fiano, lambrusco,
+ touriga-nacional, touriga-franca, baga, arinto, encruzado, castelao, alicante-bouschet, sercial, verdelho
+(Equivalencias: Grenache = garnacha, Mourvèdre = monastrell, Carignan = carinena, Tinta Roriz/Aragonez = tempranillo, Alvarinho = albarino, Pinot Grigio = pinot-gris, Malvasia/Malmsey = malvasia, Moscato = moscatel)
+
+# Tanda 3: Alemania, Austria, EE. UU., Argentina, Chile, Australia, Nueva Zelanda, Sudáfrica
+countries: alemania, austria, estados-unidos, argentina, chile, australia, nueva-zelanda, sudafrica
+
+regions alemania: mosel, rheingau, pfalz, rheinhessen, nahe, baden, franken
+regions austria: wachau, kamptal, kremstal, burgenland, weinviertel
+regions estados-unidos: napa-valley, sonoma, paso-robles, santa-barbara, willamette-valley, columbia-valley, finger-lakes
+regions argentina: mendoza, valle-de-uco, lujan-de-cuyo, salta, patagonia
+regions chile: valle-del-maipo, colchagua, casablanca, aconcagua, maule, itata
+regions australia: barossa-valley, mclaren-vale, clare-valley, eden-valley, coonawarra, hunter-valley, yarra-valley, margaret-river, tasmania
+regions nueva-zelanda: marlborough, central-otago, hawkes-bay, martinborough
+regions sudafrica: stellenbosch, swartland, constantia, franschhoek, paarl
+
+grapes nuevas (tanda 3): gruner-veltliner, blaufrankisch, zweigelt, silvaner, muller-thurgau, torrontes, carmenere, pinotage, pais, bonarda, petite-sirah
+(Equivalencias: Zinfandel = primitivo, Spätburgunder = pinot-noir, Shiraz = syrah, Grauburgunder = pinot-gris, Weissburgunder/Pinot Blanc: sólo en texto, Lemberger = blaufrankisch, Steen = chenin-blanc, Cot = malbec)
+
+# Tanda 4: 18 países más (Europa del Este y Mediterráneo, América, Oriente Medio y Asia)
+countries: hungria, grecia, georgia, turquia, bulgaria, suiza, eslovenia, croacia, rumania, moldavia, inglaterra, canada, uruguay, brasil, mexico, libano, israel, china
+
+regions hungria: tokaj, eger, villany
+regions grecia: santorini, naoussa, nemea
+regions georgia: kakheti
+regions turquia: capadocia
+regions bulgaria: valle-de-tracia
+regions suiza: valais, vaud
+regions eslovenia: goriska-brda
+regions croacia: dalmacia
+regions rumania: dealu-mare, cotnari
+regions moldavia: codru
+regions inglaterra: sussex, kent
+regions canada: niagara-peninsula, okanagan-valley
+regions uruguay: canelones, maldonado
+regions brasil: serra-gaucha
+regions mexico: valle-de-guadalupe
+regions libano: valle-de-la-bekaa
+regions israel: altos-del-golan
+regions china: ningxia
+
+grapes nuevas (tanda 4): furmint, harslevelu, assyrtiko, xinomavro, agiorgitiko, moschofilero, saperavi, rkatsiteli, chasselas, petite-arvine, tannat, feteasca-neagra, feteasca-alba, mavrud, plavac-mali, grasevina, rebula, kalecik-karasi, okuzgozu, vidal
+(Equivalencias: Kékfrankos = blaufrankisch, Welschriesling/Olaszrizling = grasevina, Ribolla Gialla = rebula, Fendant = chasselas, Crljenak = primitivo, Muscat/Muskat = moscatel, Tămâioasă/Grasă: sólo en texto)
+
+# Tanda 5 (fase 3): más regiones y uvas
+regions españa: tierra-de-leon, arlanza, tierra-del-vino-de-zamora, bizkaiko-txakolina, arabako-txakolina, conca-de-barbera, alella, pla-de-bages, tarragona, catalunya, binissalem, pla-i-llevant, valencia, manchuela, almansa, yecla, bullas, ribera-del-guadiana, vinos-de-madrid, mentrida, ucles, condado-de-huelva, sierras-de-malaga, tacoronte-acentejo, valle-de-la-orotava, ycoden-daute-isora, la-palma, gran-canaria, ribera-del-jucar, cangas
+regions francia: margaux, pauillac, saint-julien, saint-estephe, graves, entre-deux-mers, cotes-de-bordeaux, cote-chalonnaise, maconnais, pouilly-fuisse, cote-rotie, hermitage, condrieu, cornas, saint-joseph, gigondas, vacqueyras, cotes-du-rhone, tavel, vouvray, savennieres, muscadet, chinon, anjou, pouilly-fume, jura, savoie, cahors, madiran, jurancon, bandol, corse, limoux, banyuls
+regions italia: langhe, roero, asti, gavi, lugana, bardolino, collio, friuli-colli-orientali, vino-nobile-di-montepulciano, montefalco, maremma, verdicchio-dei-castelli-di-jesi, taurasi, fiano-di-avellino, greco-di-tufo, aglianico-del-vulture, ciro, sardegna, valtellina, lambrusco-emilia, oltrepo-pavese, friuli
+regions portugal: tejo, beira-interior, algarve, colares, bucelas
+regions alemania y austria: ahr, wurttemberg, mittelrhein, wien, thermenregion, steiermark, carnuntum
+regions estados-unidos: russian-river-valley, los-carneros, santa-cruz-mountains, lodi, sta-rita-hills, walla-walla-valley
+regions chile y argentina: valle-de-leyda, valle-de-curico, valle-central, valle-del-limari, valle-del-bio-bio, san-juan
+regions oceania y sudafrica: adelaide-hills, riverina, mudgee, wairarapa, hemel-en-aarde, elgin, walker-bay
+regions israel y otros: judea, galilea, shandong
+
+grapes nuevas (tanda 5):
+ francia: pinot-meunier, pinot-blanc, roussanne, marsanne, colombard, muscadelle, petit-manseng, gros-manseng, savagnin, trousseau, poulsard, clairette, counoise, marselan, mondeuse-noire, folle-blanche
+ italia: negroamaro, sagrantino, lagrein, arneis, cortese, verdicchio, falanghina, greco, teroldego, grillo, frappato, canaiolo, rondinella, nero-di-troia, pecorino, vernaccia, carricante, catarratto, friulano, refosco
+ iberia: caino, brancellao, souson, maturana-tinta, hondarrabi-beltza, moristel, listan-blanco, trincadeira, antao-vaz, tinta-barroca, tinto-cao, fernao-pires, alfrocheiro, avesso, boal, tinta-negra
+ otras: malagousia, roditis, kadarka, posip
+(Equivalencias nuevas: Merenzao/Bastardo = trousseau; Pinot Bianco/Weissburgunder = pinot-blanc; Meunier/Schwarzriesling = pinot-meunier; Sauvignonasse/Tocai = friulano; Ribolla = rebula; Trajadura = treixadura; Uva di Troia = nero-di-troia; Garnacha Tintorera = alicante-bouschet)

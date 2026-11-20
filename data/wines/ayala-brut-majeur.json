@@ -1,0 +1,53 @@
+{
+  "slug": "ayala-brut-majeur",
+  "name": "Ayala Brut Majeur",
+  "winery": "ayala",
+  "winery_name": null,
+  "region": null,
+  "country": "francia",
+  "appellation": null,
+  "type": "espumoso",
+  "category": {
+    "es": "Brut",
+    "en": "Brut",
+    "fr": "Brut",
+    "it": "Brut"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir",
+    "pinot-meunier"
+  ],
+  "summary": {
+    "es": "Champagne brut sin añada de la casa Ayala, de Aÿ, elaborado con las tres grandes variedades de la región y conocido por su estilo fresco y de dosificación moderada.",
+    "en": "Non-vintage brut Champagne from the house of Ayala in Aÿ, made from the region’s three main grapes and known for its fresh style and moderate dosage.",
+    "fr": "Champagne brut sans année de la maison Ayala, à Aÿ, élaboré avec les trois grands cépages de la région et connu pour son style frais et son dosage modéré.",
+    "it": "Champagne brut senza annata della maison Ayala, di Aÿ, prodotto con le tre grandi varietà della regione e noto per lo stile fresco e il dosaggio moderato."
+  },
+  "body": {
+    "es": "<p><strong>Ayala</strong> es una casa de Champagne fundada en el siglo XIX en Aÿ, uno de los pueblos clasificados como grand cru de la Vallée de la Marne. Desde 2005 forma parte del grupo de Bollinger, su vecina en el mismo pueblo, aunque mantiene una identidad propia: un estilo luminoso y preciso, con protagonismo del Chardonnay y dosificaciones bajas.</p><p>El <strong>Brut Majeur</strong> es el champagne de referencia de la casa. Se trata de un ensamblaje sin añada de Chardonnay, Pinot Noir y Pinot Meunier procedentes de distintos crus de la región, completado con vinos de reserva para mantener la regularidad de un año a otro. Como todo champagne, realiza la segunda fermentación en botella y reposa sobre sus lías en las bodegas de la casa antes del degüelle.</p><p>Su perfil prioriza la frescura y la finura frente a la potencia: una burbuja fina, fruta blanca y cítrica y una boca tensa, en la que la baja dosificación deja expresarse la acidez y el carácter de los vinos base. Es un champagne pensado tanto para el aperitivo como para la mesa.</p>",
+    "en": "<p><strong>Ayala</strong> is a Champagne house founded in the 19th century in Aÿ, one of the villages classified as grand cru in the Vallée de la Marne. Since 2005 it has belonged to the Bollinger group, its neighbour in the same village, while keeping an identity of its own: a bright, precise style led by Chardonnay and with low dosages.</p><p><strong>Brut Majeur</strong> is the house’s benchmark Champagne. It is a non-vintage blend of Chardonnay, Pinot Noir and Pinot Meunier from various crus in the region, completed with reserve wines to keep it consistent from year to year. Like all Champagne, it undergoes its second fermentation in bottle and rests on its lees in the house’s cellars before disgorgement.</p><p>Its profile puts freshness and finesse ahead of power: fine bubbles, white and citrus fruit and a taut palate, in which the low dosage allows the acidity and character of the base wines to come through. It is a Champagne suited both to the aperitif and to the table.</p>",
+    "fr": "<p><strong>Ayala</strong> est une maison de Champagne fondée au XIXe siècle à Aÿ, l’un des villages classés grand cru de la Vallée de la Marne. Depuis 2005, elle appartient au groupe Bollinger, son voisin dans le même village, tout en conservant une identité propre : un style lumineux et précis, mené par le chardonnay et aux dosages faibles.</p><p>Le <strong>Brut Majeur</strong> est le champagne de référence de la maison. Il s’agit d’un assemblage sans année de chardonnay, pinot noir et pinot meunier issus de différents crus de la région, complété par des vins de réserve pour garantir sa régularité d’une année sur l’autre. Comme tout champagne, il effectue sa seconde fermentation en bouteille et repose sur lies dans les caves de la maison avant le dégorgement.</p><p>Son profil privilégie la fraîcheur et la finesse plutôt que la puissance : une bulle fine, des fruits blancs et des agrumes et une bouche tendue, où le faible dosage laisse s’exprimer l’acidité et le caractère des vins de base. C’est un champagne aussi bien d’apéritif que de table.</p>",
+    "it": "<p><strong>Ayala</strong> è una maison di Champagne fondata nel XIX secolo ad Aÿ, uno dei villaggi classificati grand cru della Vallée de la Marne. Dal 2005 fa parte del gruppo Bollinger, sua vicina nello stesso villaggio, pur mantenendo un’identità propria: uno stile luminoso e preciso, guidato dallo Chardonnay e con dosaggi bassi.</p><p>Il <strong>Brut Majeur</strong> è lo Champagne di riferimento della casa. Si tratta di un assemblaggio senza annata di Chardonnay, Pinot Noir e Pinot Meunier provenienti da diversi cru della regione, completato con vini di riserva per mantenerne la costanza da un anno all’altro. Come ogni Champagne, compie la seconda fermentazione in bottiglia e riposa sui lieviti nelle cantine della casa prima della sboccatura.</p><p>Il suo profilo privilegia freschezza e finezza rispetto alla potenza: bollicina fine, frutta bianca e agrumi e un palato teso, in cui il basso dosaggio lascia emergere l’acidità e il carattere dei vini base. È uno Champagne adatto tanto all’aperitivo quanto alla tavola.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido con burbuja fina. Aromas de cítricos, manzana, flores blancas y un fondo ligero de bollería. En boca es fresco, tenso y elegante, con final limpio.",
+    "en": "Pale yellow with fine bubbles. Aromas of citrus, apple, white flowers and a light hint of pastry. Fresh, taut and elegant on the palate, with a clean finish.",
+    "fr": "Jaune pâle à la bulle fine. Arômes d’agrumes, de pomme, de fleurs blanches et une légère touche de viennoiserie. En bouche, il est frais, tendu et élégant, à la finale nette.",
+    "it": "Giallo paglierino tenue con perlage fine. Aromi di agrumi, mela, fiori bianchi e un leggero fondo di pasticceria. In bocca è fresco, teso ed elegante, con finale pulito."
+  },
+  "pairing": {
+    "es": "Aperitivo, ostras y marisco, pescado blanco, sushi, quesos de pasta blanda",
+    "en": "Aperitif, oysters and shellfish, white fish, sushi, soft cheeses",
+    "fr": "Apéritif, huîtres et fruits de mer, poisson blanc, sushis, fromages à pâte molle",
+    "it": "Aperitivo, ostriche e frutti di mare, pesce bianco, sushi, formaggi a pasta molle"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco o tulipa",
+    "en": "8-10 °C, white wine or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da vino bianco o a tulipano"
+  },
+  "search": "Ayala Brut Majeur Ayala",
+  "source": "decantalo"
+}

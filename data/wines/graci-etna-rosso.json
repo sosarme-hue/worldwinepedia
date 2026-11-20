@@ -1,0 +1,40 @@
+{
+  "slug": "graci-etna-rosso",
+  "name": "Graci Etna Rosso",
+  "winery": null,
+  "winery_name": "Graci",
+  "region": null,
+  "country": "italia",
+  "appellation": "DOC Etna Rosso",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Graci Etna Rosso es un vino tinto de Graci, con la denominación DOC Etna Rosso, en Italia.",
+    "en": "Graci Etna Rosso is a red wine from Graci, made under the DOC Etna Rosso appellation in Italy.",
+    "fr": "Graci Etna Rosso est un vin rouge de Graci, élaboré sous l’appellation DOC Etna Rosso (Italie).",
+    "it": "Graci Etna Rosso è un vino rosso di Graci, prodotto nella denominazione DOC Etna Rosso (Italia)."
+  },
+  "body": {
+    "es": "<p>Se cría en depósitos de hormigón. Su graduación es de 14 % vol.</p>",
+    "en": "<p>It is aged in concrete vats. It has 14% ABV.</p>",
+    "fr": "<p>Il est élevé en cuves béton. Il titre 14 % vol.</p>",
+    "it": "<p>Affina in vasche di cemento. Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Graci Etna Rosso Graci",
+  "brief": true,
+  "source": "decantalo"
+}

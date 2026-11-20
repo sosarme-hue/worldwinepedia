@@ -1,0 +1,48 @@
+{
+  "slug": "bouchard-clos-de-vougeot",
+  "name": "Clos de Vougeot Grand Cru",
+  "winery": "bouchard-pere-et-fils",
+  "region": "cote-de-nuits",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Grand Cru",
+    "en": "Grand Cru",
+    "fr": "Grand Cru",
+    "it": "Grand Cru"
+  },
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Grand cru de la Côte de Nuits elaborado por Bouchard Père & Fils en el histórico viñedo amurallado del Clos de Vougeot.",
+    "en": "Côte de Nuits grand cru made by Bouchard Père & Fils from the historic walled vineyard of Clos de Vougeot.",
+    "fr": "Grand cru de la Côte de Nuits élaboré par Bouchard Père & Fils dans le vignoble historique clos de murs du Clos de Vougeot.",
+    "it": "Grand cru della Côte de Nuits prodotto da Bouchard Père & Fils nello storico vigneto cintato del Clos de Vougeot."
+  },
+  "body": {
+    "es": "<p>El Clos de Vougeot es un grand cru de la Côte de Nuits cuyo viñedo, rodeado por un muro, fue creado por los monjes cistercienses de la abadía de Cîteaux en la Edad Media. Con unas cincuenta hectáreas, es el mayor grand cru de la Côte de Nuits y está repartido entre muchos propietarios, por lo que la calidad y el estilo varían según la parcela y el productor. Sus tintos de Pinot Noir suelen ser amplios, con fruta oscura y buena estructura.</p><p>Bouchard Père & Fils, casa fundada en Beaune en 1731, cría sus vinos en las bodegas del Château de Beaune. Su estilo busca expresar el carácter de cada clima con una extracción medida y un uso del roble que acompaña a la fruta sin dominarla. La casa posee un amplio patrimonio de viñedos en la Côte d’Or, con numerosas parcelas de premier cru y grand cru, y completa su gama con vinos de uva comprada.</p>",
+    "en": "<p>Clos de Vougeot is a walled grand cru in the Côte de Nuits, created by the Cistercian monks of Cîteaux Abbey in the Middle Ages. At around fifty hectares it is the largest grand cru of the Côte de Nuits and is divided among many owners, so quality and style vary with plot and producer. Its Pinot Noir reds are usually broad, with dark fruit and good structure.</p><p>Bouchard Père & Fils, a house founded in Beaune in 1731, ages its wines in the cellars of the Château de Beaune. Its style seeks to express the character of each climat through measured extraction and oak that supports the fruit without dominating it. The house owns an extensive vineyard estate in the Côte d’Or, with many premier cru and grand cru plots, and completes its range with wines made from purchased grapes.</p>",
+    "fr": "<p>Le Clos de Vougeot est un grand cru clos de murs de la Côte de Nuits, créé au Moyen Âge par les moines cisterciens de l’abbaye de Cîteaux. Avec une cinquantaine d’hectares, c’est le plus vaste grand cru de la Côte de Nuits, partagé entre de nombreux propriétaires, si bien que la qualité et le style varient selon la parcelle et le producteur. Ses rouges de pinot noir sont en général amples, au fruit sombre et à la bonne structure.</p><p>Bouchard Père & Fils, maison fondée à Beaune en 1731, élève ses vins dans les caves du Château de Beaune. Son style cherche à exprimer le caractère de chaque climat par une extraction mesurée et un boisé qui accompagne le fruit sans le dominer. La maison possède un vaste patrimoine de vignes en Côte-d’Or, avec de nombreuses parcelles de premier cru et de grand cru, et complète sa gamme par des vins de négoce.</p>",
+    "it": "<p>Il Clos de Vougeot è un grand cru cinto da mura della Côte de Nuits, creato nel Medioevo dai monaci cistercensi dell’abbazia di Cîteaux. Con circa cinquanta ettari è il più grande grand cru della Côte de Nuits ed è suddiviso tra molti proprietari, per cui qualità e stile variano secondo la parcella e il produttore. I suoi rossi di Pinot Nero sono di solito ampi, con frutto scuro e buona struttura.</p><p>Bouchard Père & Fils, maison fondata a Beaune nel 1731, affina i suoi vini nelle cantine dello Château de Beaune. Il suo stile mira a esprimere il carattere di ogni climat con un’estrazione misurata e un uso del rovere che accompagna il frutto senza sovrastarlo. La maison possiede un ampio patrimonio di vigneti nella Côte d’Or, con numerose parcelle di premier cru e grand cru, e completa la gamma con vini prodotti da uve acquistate.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de fruta negra y roja, especias y matices de sotobosque. En boca muestra estructura firme, taninos finos y un final largo.",
+    "en": "Deep ruby. Aromas of black and red fruit, spice and hints of undergrowth. Firm structure on the palate, fine tannins and a long finish.",
+    "fr": "Rubis profond. Arômes de fruits noirs et rouges, d’épices et nuances de sous-bois. En bouche, structure ferme, tanins fins et finale longue.",
+    "it": "Rubino intenso. Aromi di frutta nera e rossa, spezie e sfumature di sottobosco. In bocca mostra struttura salda, tannini fini e finale lungo."
+  },
+  "pairing": {
+    "es": "Caza de pluma, ternera asada, carnes en salsa, setas, quesos afinados",
+    "en": "Game birds, roast veal, braised meat, mushrooms, mature cheeses",
+    "fr": "Gibier à plume, veau rôti, viandes en sauce, champignons, fromages affinés",
+    "it": "Selvaggina da piuma, vitello arrosto, carni in umido, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-17 °C, copa de Borgoña",
+    "en": "15-17 °C, Burgundy glass",
+    "fr": "15-17 °C, verre de type bourguignon",
+    "it": "15-17 °C, calice da Borgogna"
+  },
+  "search": "Clos de Vougeot Grand Cru Bouchard Père & Fils"
+}

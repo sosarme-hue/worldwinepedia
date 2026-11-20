@@ -1,0 +1,50 @@
+{
+  "slug": "vina-tondonia-gran-reserva-rosado",
+  "name": "Viña Tondonia Gran Reserva Rosado",
+  "winery": "lopez-de-heredia",
+  "region": "rioja",
+  "country": "espana",
+  "type": "rosado",
+  "category": {
+    "es": "Gran Reserva",
+    "en": "Gran Reserva",
+    "fr": "Gran Reserva",
+    "it": "Gran Reserva"
+  },
+  "grapes": [
+    "garnacha",
+    "tempranillo",
+    "macabeo"
+  ],
+  "summary": {
+    "es": "Rosado de larguísima crianza de López de Heredia, procedente de la finca Tondonia y elaborado sólo en añadas excepcionales.",
+    "en": "Rosé with exceptionally long ageing from López de Heredia, sourced from the Tondonia estate and made only in exceptional vintages.",
+    "fr": "Rosé à l’élevage exceptionnellement long de López de Heredia, issu du domaine de Tondonia et produit seulement lors des grands millésimes.",
+    "it": "Rosato dal lunghissimo affinamento di López de Heredia, proveniente dalla tenuta Tondonia e prodotto solo nelle annate eccezionali."
+  },
+  "body": {
+    "es": "<p>El Viña Tondonia Gran Reserva Rosado es uno de los vinos más singulares de Rioja y probablemente uno de los pocos rosados del mundo concebidos para una crianza tan prolongada. López de Heredia lo elabora únicamente en las añadas que considera excepcionales, con uvas de su finca Tondonia, junto al Ebro en las cercanías de Haro.</p><p>La mezcla se basa sobre todo en <strong>Garnacha</strong>, con una parte de Tempranillo y una pequeña proporción de Viura. El vino pasa varios años en barricas de roble usadas, con trasiegos manuales según el método tradicional de la casa, y después reposa largo tiempo en botella en los calados de la bodega antes de salir al mercado.</p><p>El resultado se aleja por completo del rosado joven y afrutado: es un vino de color cobrizo o asalmonado, con notas oxidativas suaves, una acidez todavía viva y una complejidad que recuerda a la de los grandes blancos de crianza de la casa. Puede seguir evolucionando en botella durante muchos años.</p>",
+    "en": "<p>Viña Tondonia Gran Reserva Rosado is one of the most singular wines in Rioja and probably one of the few rosés in the world conceived for such long ageing. López de Heredia makes it only in vintages it considers exceptional, using grapes from its Tondonia estate beside the Ebro near Haro.</p><p>The blend is based mainly on <strong>Grenache</strong>, with some Tempranillo and a small proportion of Viura. The wine spends several years in used oak barrels, racked by hand following the house’s traditional method, and then rests for a long time in bottle in the winery’s underground cellars before release.</p><p>The result is a world away from young, fruity rosé: a copper or salmon-coloured wine with gentle oxidative notes, still lively acidity and a complexity reminiscent of the house’s great aged whites. It can continue to evolve in bottle for many years.</p>",
+    "fr": "<p>Le Viña Tondonia Gran Reserva Rosado est l’un des vins les plus singuliers de la Rioja et sans doute l’un des rares rosés au monde conçus pour un élevage aussi long. López de Heredia ne l’élabore que dans les millésimes qu’il juge exceptionnels, avec des raisins de son domaine de Tondonia, au bord de l’Èbre, près de Haro.</p><p>L’assemblage repose surtout sur le <strong>grenache</strong>, avec une part de tempranillo et une petite proportion de viura. Le vin passe plusieurs années en barriques de chêne usagées, soutiré à la main selon la méthode traditionnelle de la maison, puis repose longuement en bouteille dans les caves souterraines avant sa commercialisation.</p><p>Le résultat n’a rien d’un rosé jeune et fruité : c’est un vin à la robe cuivrée ou saumonée, aux notes oxydatives discrètes, à l’acidité encore vive et d’une complexité qui rappelle celle des grands blancs élevés de la maison. Il peut continuer à évoluer en bouteille pendant de nombreuses années.</p>",
+    "it": "<p>Il Viña Tondonia Gran Reserva Rosado è uno dei vini più singolari della Rioja e probabilmente uno dei pochi rosati al mondo pensati per un affinamento così lungo. López de Heredia lo produce soltanto nelle annate che ritiene eccezionali, con uve della tenuta Tondonia, sulle rive dell’Ebro vicino a Haro.</p><p>L’uvaggio si basa soprattutto sulla <strong>Grenache</strong>, con una parte di Tempranillo e una piccola quota di Viura. Il vino trascorre diversi anni in botti di rovere usate, con travasi manuali secondo il metodo tradizionale della casa, e poi riposa a lungo in bottiglia nelle cantine sotterranee prima di essere commercializzato.</p><p>Il risultato è lontanissimo dal rosato giovane e fruttato: un vino dal colore ramato o salmone, con delicate note ossidative, un’acidità ancora viva e una complessità che ricorda quella dei grandi bianchi affinati della casa. Può continuare a evolvere in bottiglia per molti anni.</p>"
+  },
+  "tasting": {
+    "es": "Color salmón o cobrizo. Aromas de frutos secos, piel de naranja, especias suaves y notas de fruta roja evolucionada. Boca seca, de acidez viva, con textura y final largo.",
+    "en": "Salmon or copper colour. Aromas of nuts, orange peel, gentle spice and notes of evolved red fruit. Dry on the palate, with lively acidity, texture and a long finish.",
+    "fr": "Robe saumon ou cuivrée. Arômes de fruits secs, d’écorce d’orange, d’épices douces et de fruits rouges évolués. Bouche sèche, à l’acidité vive, texturée, avec une finale longue.",
+    "it": "Colore salmone o ramato. Aromi di frutta secca, scorza d’arancia, spezie delicate e note di frutta rossa evoluta. Bocca secca, di acidità viva, con struttura e finale lungo."
+  },
+  "pairing": {
+    "es": "Jamón ibérico, pescados a la brasa, arroces, cocina japonesa, quesos curados",
+    "en": "Ibérico ham, grilled fish, rice dishes, Japanese cuisine, aged cheeses",
+    "fr": "Jambon ibérique, poissons grillés, plats de riz, cuisine japonaise, fromages affinés",
+    "it": "Prosciutto iberico, pesce alla brace, piatti di riso, cucina giapponese, formaggi stagionati"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de vino blanco amplia",
+    "en": "10-12 °C, large white wine glass",
+    "fr": "10-12 °C, grand verre à vin blanc",
+    "it": "10-12 °C, ampio calice da vino bianco"
+  },
+  "search": "Viña Tondonia Gran Reserva Rosado López de Heredia"
+}

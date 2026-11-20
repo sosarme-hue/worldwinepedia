@@ -1,0 +1,49 @@
+{
+  "slug": "billecart-salmon-brut-reserve",
+  "name": "Billecart-Salmon Brut Réserve",
+  "winery": "billecart-salmon",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut",
+    "en": "Brut",
+    "fr": "Brut",
+    "it": "Brut"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Champagne brut sin añada de Billecart-Salmon, con una parte importante de Pinot Meunier y un estilo fresco y afrutado.",
+    "en": "Billecart-Salmon’s non-vintage brut champagne, with a significant share of Pinot Meunier and a fresh, fruity style.",
+    "fr": "Champagne brut non millésimé de Billecart-Salmon, avec une part importante de pinot meunier et un style frais et fruité.",
+    "it": "Champagne brut senza annata di Billecart-Salmon, con una quota importante di Pinot Meunier e uno stile fresco e fruttato."
+  },
+  "body": {
+    "es": "<p>El Brut Réserve es el champán sin añada de Billecart-Salmon y el vino que mejor representa el estilo cotidiano de la casa. Se elabora con las tres variedades de Champagne, con una proporción importante de Pinot Meunier, que aporta fruta y redondez, junto a <strong>Pinot Noir</strong> y <strong>Chardonnay</strong>. Las uvas proceden de numerosos municipios y las proporciones varían según el ensamblaje.</p><p>Fiel a los métodos de la casa, los mostos se someten a un desfangado en frío y fermentan a baja temperatura, sobre todo en depósitos, para preservar la frescura y la pureza de los aromas. Una parte significativa del ensamblaje está formada por vinos de reserva. El champán se cría varios años sobre lías antes del degüelle.</p><p>Es un champán fresco y aromático, con notas de pera, manzana, cítricos y flores, una burbuja fina y un final limpio. Su ligereza lo hace muy adecuado como aperitivo.</p>",
+    "en": "<p>Brut Réserve is Billecart-Salmon’s non-vintage champagne and the wine that best represents the house’s everyday style. It is made from the three Champagne varieties, with a significant proportion of Pinot Meunier, which brings fruit and roundness, alongside <strong>Pinot Noir</strong> and <strong>Chardonnay</strong>. The grapes come from many villages and the proportions vary from blend to blend.</p><p>In keeping with the house methods, the musts undergo cold settling and ferment at low temperature, mainly in tanks, to preserve freshness and purity of aroma. A significant part of the blend consists of reserve wines. The champagne is aged for several years on its lees before disgorgement.</p><p>It is a fresh, aromatic champagne, with notes of pear, apple, citrus and flowers, a fine mousse and a clean finish. Its lightness makes it very suitable as an aperitif.</p>",
+    "fr": "<p>Le Brut Réserve est le champagne non millésimé de Billecart-Salmon et le vin qui représente le mieux le style quotidien de la maison. Il est élaboré avec les trois cépages de la Champagne, avec une part importante de pinot meunier, qui apporte fruit et rondeur, aux côtés du <strong>pinot noir</strong> et du <strong>chardonnay</strong>. Les raisins proviennent de nombreux villages et les proportions varient selon l’assemblage.</p><p>Fidèle aux méthodes de la maison, les moûts font l’objet d’un débourbage à froid et fermentent à basse température, surtout en cuves, pour préserver la fraîcheur et la pureté des arômes. Une part significative de l’assemblage est constituée de vins de réserve. Le champagne est élevé plusieurs années sur lies avant le dégorgement.</p><p>C’est un champagne frais et aromatique, aux notes de poire, de pomme, d’agrumes et de fleurs, à la bulle fine et à la finale nette. Sa légèreté le rend très adapté à l’apéritif.</p>",
+    "it": "<p>Il Brut Réserve è lo champagne senza annata di Billecart-Salmon e il vino che meglio rappresenta lo stile quotidiano della casa. È prodotto con le tre varietà della Champagne, con una quota importante di Pinot Meunier, che apporta frutto e rotondità, accanto a <strong>Pinot Nero</strong> e <strong>Chardonnay</strong>. Le uve provengono da numerosi villaggi e le proporzioni variano secondo l’assemblaggio.</p><p>Fedeli ai metodi della casa, i mosti vengono sottoposti a decantazione a freddo e fermentano a bassa temperatura, soprattutto in vasca, per preservare freschezza e purezza aromatica. Una parte significativa dell’assemblaggio è costituita da vini di riserva. Lo champagne affina diversi anni sui lieviti prima della sboccatura.</p><p>È uno champagne fresco e aromatico, con note di pera, mela, agrumi e fiori, un perlage fine e un finale pulito. La sua leggerezza lo rende molto adatto come aperitivo.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido con burbuja fina. Aromas de pera, manzana verde, cítricos, flores blancas y un toque de brioche. Boca fresca y ligera, afrutada, con final limpio.",
+    "en": "Pale yellow with fine bubbles. Aromas of pear, green apple, citrus, white flowers and a touch of brioche. Fresh, light, fruity palate with a clean finish.",
+    "fr": "Robe jaune pâle à la bulle fine. Arômes de poire, de pomme verte, d’agrumes, de fleurs blanches et une touche de brioche. Bouche fraîche, légère et fruitée, finale nette.",
+    "it": "Giallo paglierino dal perlage fine. Aromi di pera, mela verde, agrumi, fiori bianchi e un tocco di brioche. Bocca fresca, leggera e fruttata, dal finale pulito."
+  },
+  "pairing": {
+    "es": "Aperitivo, marisco, ostras, sushi, frituras ligeras, quesos de pasta blanda",
+    "en": "Aperitif, shellfish, oysters, sushi, light fried food, soft cheeses",
+    "fr": "Apéritif, fruits de mer, huîtres, sushis, fritures légères, fromages à pâte molle",
+    "it": "Aperitivo, frutti di mare, ostriche, sushi, fritture leggere, formaggi a pasta molle"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco o de tulipa",
+    "en": "8-10 °C, white wine or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da vino bianco o a tulipano"
+  },
+  "search": "Billecart-Salmon Brut Réserve Champagne"
+}

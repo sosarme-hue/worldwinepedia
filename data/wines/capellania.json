@@ -1,0 +1,48 @@
+{
+  "slug": "capellania",
+  "name": "Capellanía",
+  "winery": "marques-de-murrieta",
+  "region": "rioja",
+  "country": "espana",
+  "type": "blanco",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [
+    "macabeo"
+  ],
+  "summary": {
+    "es": "Blanco de guarda de Marqués de Murrieta elaborado con Viura de la parcela Capellanía, en la Finca Ygay, y criado en barrica.",
+    "en": "Age-worthy white from Marqués de Murrieta made from Viura from the Capellanía plot on the Finca Ygay estate and aged in barrel.",
+    "fr": "Blanc de garde de Marqués de Murrieta élaboré avec du viura de la parcelle Capellanía, sur le domaine de Finca Ygay, et élevé en barrique.",
+    "it": "Bianco da invecchiamento di Marqués de Murrieta prodotto con Viura della parcella Capellanía, nella tenuta Finca Ygay, e affinato in barrique."
+  },
+  "body": {
+    "es": "<p>Capellanía es el blanco de Marqués de Murrieta, la bodega fundada en 1852 en las afueras de Logroño, y uno de los ejemplos más conocidos del blanco riojano de crianza, un estilo histórico de la región. Su nombre procede de la parcela de la que se obtiene la uva, Capellanía, situada en una de las zonas más altas de la Finca Ygay, el viñedo que rodea la bodega.</p><p>Se elabora con Viura (Macabeo), la variedad blanca tradicional de Rioja, que en esta parcela se cultiva sobre suelos pobres y pedregosos. El vino fermenta y se cría en barricas de roble durante un periodo prolongado y reposa después en botella antes de salir al mercado, con la mención Reserva.</p><p>El resultado es un blanco complejo y estructurado, muy distinto de los blancos jóvenes: combina la fruta madura y la acidez de la Viura con notas de frutos secos, especias y crianza. Tiene una notable capacidad de guarda y se aprecia mejor servido no demasiado frío.</p>",
+    "en": "<p>Capellanía is the white wine of Marqués de Murrieta, the winery founded in 1852 on the outskirts of Logroño, and one of the best-known examples of aged white Rioja, a historic style of the region. Its name comes from the plot from which the grapes are obtained, Capellanía, located in one of the highest parts of Finca Ygay, the vineyard surrounding the winery.</p><p>It is made from Viura (Macabeo), Rioja’s traditional white variety, which in this plot grows on poor, stony soils. The wine ferments and ages in oak barrels for an extended period and then rests in bottle before release, with the Reserva designation.</p><p>The result is a complex, structured white, very different from young whites: it combines the ripe fruit and acidity of Viura with notes of nuts, spice and ageing. It has notable ageing potential and is best appreciated served not too cold.</p>",
+    "fr": "<p>Capellanía est le blanc de Marqués de Murrieta, la bodega fondée en 1852 aux portes de Logroño, et l’un des exemples les plus connus de rioja blanc élevé, un style historique de la région. Son nom vient de la parcelle dont provient le raisin, Capellanía, située dans l’une des parties les plus hautes de la Finca Ygay, le vignoble qui entoure la bodega.</p><p>Il est élaboré avec du viura (macabeu), cépage blanc traditionnel de la Rioja, qui pousse sur cette parcelle dans des sols pauvres et caillouteux. Le vin fermente et s’élève en barriques de chêne pendant une longue période, puis repose en bouteille avant sa commercialisation, avec la mention Reserva.</p><p>Il en résulte un blanc complexe et structuré, très différent des blancs jeunes : il associe le fruit mûr et l’acidité du viura à des notes de fruits secs, d’épices et d’élevage. Il possède un remarquable potentiel de garde et s’apprécie mieux servi pas trop froid.</p>",
+    "it": "<p>Capellanía è il bianco di Marqués de Murrieta, la cantina fondata nel 1852 alle porte di Logroño, e uno degli esempi più noti di Rioja bianco affinato, uno stile storico della regione. Il nome deriva dalla parcella da cui si ottengono le uve, Capellanía, situata in una delle zone più alte della Finca Ygay, il vigneto che circonda la cantina.</p><p>È prodotto con Viura (Macabeo), il vitigno bianco tradizionale della Rioja, che in questa parcella cresce su suoli poveri e sassosi. Il vino fermenta e affina in barrique di rovere per un periodo prolungato e riposa poi in bottiglia prima della messa in commercio, con la menzione Reserva.</p><p>Il risultato è un bianco complesso e strutturato, molto diverso dai bianchi giovani: unisce il frutto maturo e l’acidità della Viura a note di frutta secca, spezie e affinamento. Ha una notevole capacità d’invecchiamento e si apprezza meglio servito non troppo freddo.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo dorado. Aromas de fruta madura, frutos secos, especias, miel y notas de crianza. En boca es amplio y untuoso, con una acidez viva y un final largo.",
+    "en": "Golden yellow. Aromas of ripe fruit, nuts, spice, honey and ageing notes. Broad and unctuous on the palate, with lively acidity and a long finish.",
+    "fr": "Jaune doré. Arômes de fruits mûrs, de fruits secs, d’épices, de miel et notes d’élevage. Ample et onctueux en bouche, avec une acidité vive et une longue finale.",
+    "it": "Giallo dorato. Aromi di frutta matura, frutta secca, spezie, miele e note di affinamento. In bocca è ampio e untuoso, con un’acidità vivace e un finale lungo."
+  },
+  "pairing": {
+    "es": "Pescados en salsa, bacalao, aves asadas, setas, quesos curados",
+    "en": "Fish in sauce, salt cod, roast poultry, mushrooms, aged cheeses",
+    "fr": "Poissons en sauce, morue, volailles rôties, champignons, fromages affinés",
+    "it": "Pesce in salsa, baccalà, pollame arrosto, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "10-12 °C, copa amplia",
+    "en": "10-12 °C, large glass",
+    "fr": "10-12 °C, verre ample",
+    "it": "10-12 °C, calice ampio"
+  },
+  "search": "Capellanía Marqués de Murrieta Rioja blanco"
+}

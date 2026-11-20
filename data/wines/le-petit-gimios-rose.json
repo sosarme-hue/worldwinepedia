@@ -1,0 +1,40 @@
+{
+  "slug": "le-petit-gimios-rose",
+  "name": "Le Petit Gimios Rosé",
+  "winery": null,
+  "winery_name": "Le Petit Domaine de Gimios",
+  "region": null,
+  "country": "francia",
+  "appellation": "Vin de France",
+  "type": "rosado",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Le Petit Gimios Rosé es un vino rosado de Le Petit Domaine de Gimios, con la denominación Vin de France, en Francia.",
+    "en": "Le Petit Gimios Rosé is a rosé wine from Le Petit Domaine de Gimios, made under the Vin de France appellation in France.",
+    "fr": "Le Petit Gimios Rosé est un vin rosé de Le Petit Domaine de Gimios, élaboré sous l’appellation Vin de France (France).",
+    "it": "Le Petit Gimios Rosé è un vino rosato di Le Petit Domaine de Gimios, prodotto nella denominazione Vin de France (Francia)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 14 % vol.</p>",
+    "en": "<p>It has 14% ABV.</p>",
+    "fr": "<p>Il titre 14 % vol.</p>",
+    "it": "<p>Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, ensaladas, arroces, pescados",
+    "en": "Aperitif, salads, rice dishes, fish",
+    "fr": "Apéritif, salades, plats de riz, poissons",
+    "it": "Aperitivo, insalate, risotti, pesce"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Le Petit Gimios Rosé Le Petit Domaine de Gimios",
+  "brief": true,
+  "source": "decantalo"
+}

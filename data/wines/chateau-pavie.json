@@ -1,0 +1,50 @@
+{
+  "slug": "chateau-pavie",
+  "name": "Château Pavie",
+  "winery": "chateau-pavie",
+  "region": "saint-emilion",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Premier Grand Cru Classé A",
+    "en": "Premier Grand Cru Classé A",
+    "fr": "Premier Grand Cru Classé A",
+    "it": "Premier Grand Cru Classé A"
+  },
+  "grapes": [
+    "merlot",
+    "cabernet-franc",
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "Gran vino de Château Pavie, Premier Grand Cru Classé A de Saint-Émilion, ensamblaje de Merlot y Cabernet de gran concentración y capacidad de guarda.",
+    "en": "The grand vin of Château Pavie, a Saint-Émilion Premier Grand Cru Classé A, a concentrated, age-worthy blend of Merlot and Cabernet.",
+    "fr": "Le grand vin de Château Pavie, premier grand cru classé A de Saint-Émilion, assemblage de merlot et de cabernets concentré et de grande garde.",
+    "it": "Il grand vin di Château Pavie, Premier Grand Cru Classé A di Saint-Émilion, uvaggio di Merlot e Cabernet concentrato e longevo."
+  },
+  "body": {
+    "es": "<p><strong>Château Pavie</strong> es el gran vino de la finca del mismo nombre, en las laderas al sudeste de Saint-Émilion, ascendida en 2012 a <strong>Premier Grand Cru Classé A</strong>. Procede de un viñedo que se extiende desde la meseta caliza hasta el pie de la cuesta, con suelos de caliza, arcilla y arena que aportan distintos matices al ensamblaje.</p><p>La <strong>Merlot</strong> es la variedad mayoritaria, acompañada de una proporción importante de <strong>Cabernet Franc</strong> y algo de <strong>Cabernet Sauvignon</strong>. Desde la llegada de Gérard Perse en 1998, el vino se elabora con vendimias de gran madurez, selección rigurosa y una crianza prolongada en barricas de roble francés, con un peso notable de la madera nueva.</p><p>Es un tinto de gran concentración, color profundo y estructura firme, con fruta negra madura, notas de especias, cacao y tostados, y taninos abundantes que necesitan tiempo para integrarse. Está pensado para una larga guarda.</p>",
+    "en": "<p><strong>Château Pavie</strong> is the grand vin of the estate of the same name, on the slopes south-east of Saint-Émilion, promoted in 2012 to <strong>Premier Grand Cru Classé A</strong>. It comes from a vineyard that stretches from the limestone plateau to the foot of the slope, with limestone, clay and sand soils that bring different nuances to the blend.</p><p><strong>Merlot</strong> is the majority variety, accompanied by a significant share of <strong>Cabernet Franc</strong> and some <strong>Cabernet Sauvignon</strong>. Since Gérard Perse’s arrival in 1998, the wine has been made from very ripe harvests, with rigorous selection and extended ageing in French oak barrels, with a notable proportion of new wood.</p><p>It is a red of great concentration, deep colour and firm structure, with ripe black fruit, notes of spice, cocoa and toast, and abundant tannins that need time to integrate. It is intended for long cellaring.</p>",
+    "fr": "<p><strong>Château Pavie</strong> est le grand vin du domaine du même nom, sur les coteaux au sud-est de Saint-Émilion, promu en 2012 <strong>premier grand cru classé A</strong>. Il provient d’un vignoble qui s’étend du plateau calcaire au pied de côte, aux sols de calcaire, d’argile et de sable qui apportent différentes nuances à l’assemblage.</p><p>Le <strong>merlot</strong> est le cépage majoritaire, accompagné d’une part importante de <strong>cabernet franc</strong> et d’un peu de <strong>cabernet-sauvignon</strong>. Depuis l’arrivée de Gérard Perse en 1998, le vin est élaboré à partir de vendanges très mûres, avec une sélection rigoureuse et un long élevage en barriques de chêne français, avec une part notable de bois neuf.</p><p>C’est un rouge d’une grande concentration, à la couleur profonde et à la structure ferme, aux fruits noirs mûrs, aux notes d’épices, de cacao et de grillé, et aux tanins abondants qui demandent du temps pour se fondre. Il est conçu pour une longue garde.</p>",
+    "it": "<p><strong>Château Pavie</strong> è il grand vin dell’omonima tenuta, sui pendii a sud-est di Saint-Émilion, promossa nel 2012 a <strong>Premier Grand Cru Classé A</strong>. Proviene da un vigneto che si estende dall’altopiano calcareo al piede del pendio, con suoli di calcare, argilla e sabbia che apportano sfumature diverse all’uvaggio.</p><p>Il <strong>Merlot</strong> è la varietà maggioritaria, accompagnato da una quota importante di <strong>Cabernet Franc</strong> e da un po’ di <strong>Cabernet Sauvignon</strong>. Dall’arrivo di Gérard Perse nel 1998, il vino è prodotto con vendemmie molto mature, una selezione rigorosa e un lungo affinamento in barrique di rovere francese, con una quota notevole di legno nuovo.</p><p>È un rosso di grande concentrazione, colore profondo e struttura salda, con frutto nero maturo, note di spezie, cacao e tostatura e tannini abbondanti che richiedono tempo per integrarsi. È pensato per un lungo invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Mora, ciruela, cacao, especias y tostados. Boca concentrada, taninos abundantes y final muy largo.",
+    "en": "Blackberry, plum, cocoa, spice and toast. Concentrated palate, abundant tannins and a very long finish.",
+    "fr": "Mûre, prune, cacao, épices et grillé. Bouche concentrée, tanins abondants et finale très longue.",
+    "it": "Mora, prugna, cacao, spezie e tostatura. Bocca concentrata, tannini abbondanti e finale lunghissimo."
+  },
+  "pairing": {
+    "es": "Cordero asado, solomillo, caza, setas, quesos curados",
+    "en": "Roast lamb, beef fillet, game, mushrooms, aged cheeses",
+    "fr": "Agneau rôti, filet de bœuf, gibier, champignons, fromages affinés",
+    "it": "Agnello arrosto, filetto di manzo, selvaggina, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Château Pavie Saint-Émilion"
+}

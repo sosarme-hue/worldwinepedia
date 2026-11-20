@@ -1,0 +1,49 @@
+{
+  "slug": "lagrave-martillac-rouge",
+  "name": "Lagrave-Martillac Rouge",
+  "winery": "chateau-latour-martillac",
+  "region": "pessac-leognan",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Segundo vino",
+    "en": "Second wine",
+    "fr": "Second vin",
+    "it": "Secondo vino"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Segundo vino tinto de Château Latour-Martillac, un Pessac-Léognan de Merlot y Cabernet Sauvignon de estilo más frutal y accesible.",
+    "en": "The red second wine of Château Latour-Martillac, a Pessac-Léognan of Merlot and Cabernet Sauvignon in a fruitier, more approachable style.",
+    "fr": "Second vin rouge de Château Latour-Martillac, un Pessac-Léognan de merlot et de cabernet-sauvignon au style plus fruité et accessible.",
+    "it": "Secondo vino rosso di Château Latour-Martillac, un Pessac-Léognan di Merlot e Cabernet Sauvignon dallo stile più fruttato e accessibile."
+  },
+  "body": {
+    "es": "<p><strong>Lagrave-Martillac</strong> es el segundo vino de <strong>Château Latour-Martillac</strong>, Cru Classé de Graves situado en Martillac, en el sur de la denominación <strong>Pessac-Léognan</strong>. Se elabora con uvas de los viñedos de la propiedad que no se destinan al grand vin, a menudo parcelas de viñas más jóvenes.</p><p>Como el vino principal, procede de suelos de gravas y arcilla y se basa en el <strong>Merlot</strong> y el <strong>Cabernet Sauvignon</strong>. La crianza en barrica es más corta y menos marcada por la madera nueva, con el fin de preservar la fruta.</p><p>El resultado es un tinto de perfil más frutal y redondo, que conserva rasgos típicos de Graves, como las notas ligeramente ahumadas, pero que puede disfrutarse mucho antes que el grand vin. Es una buena introducción al estilo de la casa y a los tintos de Pessac-Léognan.</p>",
+    "en": "<p><strong>Lagrave-Martillac</strong> is the second wine of <strong>Château Latour-Martillac</strong>, a Cru Classé de Graves located in Martillac, in the south of the <strong>Pessac-Léognan</strong> appellation. It is made from grapes from the estate’s vineyards not used for the grand vin, often plots of younger vines.</p><p>Like the main wine, it comes from gravel and clay soils and is based on <strong>Merlot</strong> and <strong>Cabernet Sauvignon</strong>. Barrel ageing is shorter and less marked by new oak, in order to preserve the fruit.</p><p>The result is a red with a fruitier, rounder profile that keeps typical Graves traits, such as slightly smoky notes, but can be enjoyed much earlier than the grand vin. It is a good introduction to the house style and to the reds of Pessac-Léognan.</p>",
+    "fr": "<p><strong>Lagrave-Martillac</strong> est le second vin de <strong>Château Latour-Martillac</strong>, cru classé de Graves situé à Martillac, au sud de l’appellation <strong>Pessac-Léognan</strong>. Il est élaboré avec les raisins des vignes de la propriété qui ne sont pas retenus pour le grand vin, souvent des parcelles de vignes plus jeunes.</p><p>Comme le vin principal, il est issu de sols de graves et d’argile et repose sur le <strong>merlot</strong> et le <strong>cabernet-sauvignon</strong>. L’élevage en barrique est plus court et moins marqué par le bois neuf, afin de préserver le fruit.</p><p>Il en résulte un rouge au profil plus fruité et plus rond, qui garde des traits typiques des Graves, comme des notes légèrement fumées, mais qui se goûte bien plus tôt que le grand vin. C’est une bonne introduction au style de la maison et aux rouges de Pessac-Léognan.</p>",
+    "it": "<p><strong>Lagrave-Martillac</strong> è il secondo vino di <strong>Château Latour-Martillac</strong>, Cru Classé de Graves situato a Martillac, nel sud della denominazione <strong>Pessac-Léognan</strong>. È prodotto con le uve dei vigneti della proprietà non destinate al grand vin, spesso parcelle di vigne più giovani.</p><p>Come il vino principale, proviene da suoli di ghiaia e argilla e si basa su <strong>Merlot</strong> e <strong>Cabernet Sauvignon</strong>. L’affinamento in barrique è più breve e meno segnato dal legno nuovo, per preservare il frutto.</p><p>Il risultato è un rosso dal profilo più fruttato e rotondo, che conserva tratti tipici delle Graves, come le note leggermente affumicate, ma che si può gustare molto prima del grand vin. È una buona introduzione allo stile della casa e ai rossi di Pessac-Léognan.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de cereza negra, ciruela y un toque ahumado. Boca redonda y frutal, de taninos suaves.",
+    "en": "Deep ruby. Aromas of black cherry, plum and a smoky touch. Round, fruity palate with soft tannins.",
+    "fr": "Rubis intense. Arômes de cerise noire, de prune et une touche fumée. Bouche ronde et fruitée, aux tanins souples.",
+    "it": "Rubino intenso. Aromi di ciliegia nera, prugna e un tocco affumicato. Bocca rotonda e fruttata, dai tannini morbidi."
+  },
+  "pairing": {
+    "es": "Carnes a la parrilla, aves asadas, embutidos, quesos semicurados",
+    "en": "Grilled meat, roast poultry, charcuterie, semi-hard cheeses",
+    "fr": "Viandes grillées, volailles rôties, charcuterie, fromages mi-affinés",
+    "it": "Carni alla griglia, pollame arrosto, salumi, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Lagrave-Martillac Rouge Château Latour-Martillac"
+}

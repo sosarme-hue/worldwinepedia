@@ -1,0 +1,40 @@
+{
+  "slug": "tintilla-nude",
+  "name": "Tintilla Nude",
+  "winery": "barbadillo",
+  "winery_name": null,
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Cádiz",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Tintilla Nude es un vino tinto de Bodegas Barbadillo, con la denominación VT Cádiz, en España.",
+    "en": "Tintilla Nude is a red wine from Bodegas Barbadillo, made under the VT Cádiz appellation in Spain.",
+    "fr": "Tintilla Nude est un vin rouge de Bodegas Barbadillo, élaboré sous l’appellation VT Cádiz (Espagne).",
+    "it": "Tintilla Nude è un vino rosso di Bodegas Barbadillo, prodotto nella denominazione VT Cádiz (Spagna)."
+  },
+  "body": {
+    "es": "<p>Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 15,5 % vol.</p><p>Casa familiar de Sanlúcar de Barrameda fundada en 1821, estrechamente asociada a la manzanilla y conocida por Solear y por sus sacas de manzanilla en rama.</p>",
+    "en": "<p>It is a young wine, meant to be drunk in its first years. It has 15.5% ABV.</p><p>Family house in Sanlúcar de Barrameda founded in 1821, closely associated with manzanilla and known for Solear and its seasonal en rama manzanilla releases.</p>",
+    "fr": "<p>C’est un vin jeune, à boire dans ses premières années. Il titre 15,5 % vol.</p><p>Maison familiale de Sanlúcar de Barrameda fondée en 1821, étroitement associée à la manzanilla et connue pour Solear et ses tirages saisonniers de manzanilla en rama.</p>",
+    "it": "<p>È un vino giovane, da bere nei primi anni. Ha 15,5% vol.</p><p>Casa di famiglia di Sanlúcar de Barrameda fondata nel 1821, strettamente legata alla manzanilla e nota per Solear e per i suoi imbottigliamenti stagionali di manzanilla en rama.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Tintilla Nude Barbadillo",
+  "brief": true,
+  "source": "decantalo"
+}

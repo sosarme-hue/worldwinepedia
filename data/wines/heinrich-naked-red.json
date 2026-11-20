@@ -1,0 +1,40 @@
+{
+  "slug": "heinrich-naked-red",
+  "name": "Heinrich Naked Red",
+  "winery": null,
+  "winery_name": "Weingut Heinrich",
+  "region": null,
+  "country": "austria",
+  "appellation": "Weinland Österreich",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Heinrich Naked Red es un vino tinto de Weingut Heinrich, con la denominación Weinland Österreich, en Austria.",
+    "en": "Heinrich Naked Red is a red wine from Weingut Heinrich, made under the Weinland Österreich appellation in Austria.",
+    "fr": "Heinrich Naked Red est un vin rouge de Weingut Heinrich, élaboré sous l’appellation Weinland Österreich (Autriche).",
+    "it": "Heinrich Naked Red è un vino rosso di Weingut Heinrich, prodotto nella denominazione Weinland Österreich (Austria)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 12,8 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 12.8% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 12,8 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 12,8% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Heinrich Naked Red Weingut Heinrich",
+  "brief": true,
+  "source": "decantalo"
+}

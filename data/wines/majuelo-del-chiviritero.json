@@ -1,0 +1,40 @@
+{
+  "slug": "majuelo-del-chiviritero",
+  "name": "Majuelo del Chiviritero",
+  "winery": null,
+  "winery_name": "Isaac Cantalapiedra",
+  "region": null,
+  "country": null,
+  "appellation": "VT Castilla y León",
+  "type": "espumoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Majuelo del Chiviritero es un vino espumoso de Isaac Cantalapiedra, con la denominación VT Castilla y León.",
+    "en": "Majuelo del Chiviritero is a sparkling wine from Isaac Cantalapiedra, made under the VT Castilla y León appellation.",
+    "fr": "Majuelo del Chiviritero est un vin effervescent de Isaac Cantalapiedra, élaboré sous l’appellation VT Castilla y León.",
+    "it": "Majuelo del Chiviritero è un vino spumante di Isaac Cantalapiedra, prodotto nella denominazione VT Castilla y León."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera.</p>",
+    "en": "<p>It is aged in wood.</p>",
+    "fr": "<p>Il est élevé en bois.</p>",
+    "it": "<p>È affinato in legno.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Majuelo del Chiviritero Isaac Cantalapiedra",
+  "brief": true,
+  "source": "decantalo"
+}

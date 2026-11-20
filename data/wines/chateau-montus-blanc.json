@@ -1,0 +1,48 @@
+{
+  "slug": "chateau-montus-blanc",
+  "name": "Château Montus Blanc",
+  "winery": "chateau-montus",
+  "region": "madiran",
+  "country": "francia",
+  "type": "blanco",
+  "category": {
+    "es": "Pacherenc du Vic-Bilh Sec",
+    "en": "Pacherenc du Vic-Bilh Sec",
+    "fr": "Pacherenc du Vic-Bilh Sec",
+    "it": "Pacherenc du Vic-Bilh Sec"
+  },
+  "grapes": [
+    "petit-manseng"
+  ],
+  "summary": {
+    "es": "Blanco seco de Château Montus en la denominación Pacherenc du Vic-Bilh, elaborado con variedades locales como el Petit Courbu y el Petit Manseng.",
+    "en": "Dry white from Château Montus in the Pacherenc du Vic-Bilh appellation, made from local varieties such as Petit Courbu and Petit Manseng.",
+    "fr": "Blanc sec du château Montus en appellation Pacherenc du Vic-Bilh, élaboré à partir de cépages locaux comme le petit courbu et le petit manseng.",
+    "it": "Bianco secco di Château Montus nella denominazione Pacherenc du Vic-Bilh, prodotto con varietà locali come Petit Courbu e Petit Manseng."
+  },
+  "body": {
+    "es": "<p>El Château Montus Blanc es el blanco seco de la propiedad de Alain Brumont en Madiran. Como los tintos de la zona se acogen a la denominación Madiran, los blancos del mismo territorio se elaboran bajo la denominación <strong>Pacherenc du Vic-Bilh</strong>, que puede ser seca o dulce; este vino corresponde a la versión seca.</p><p>Se elabora con variedades tradicionales del suroeste de Francia, en particular el <strong>Petit Courbu</strong>, una uva local casi desaparecida que Brumont contribuyó a recuperar, y el <strong>Petit Manseng</strong>, conocido por su acidez elevada y sus aromas intensos. Estas uvas maduran bien en las laderas de la propiedad conservando frescura.</p><p>La fermentación y la crianza en barrica, con trabajo de lías, dan al vino amplitud y textura. El resultado es un blanco seco de cuerpo pleno, con aromas de fruta exótica, cítricos y notas tostadas, sostenido por una acidez viva, que puede evolucionar favorablemente durante varios años en botella.</p>",
+    "en": "<p>Château Montus Blanc is the dry white of Alain Brumont’s estate in Madiran. While the area’s reds fall under the Madiran appellation, whites from the same territory are made under the <strong>Pacherenc du Vic-Bilh</strong> appellation, which may be dry or sweet; this wine is the dry version.</p><p>It is made from traditional varieties of south-west France, in particular <strong>Petit Courbu</strong>, a nearly vanished local grape that Brumont helped to revive, and <strong>Petit Manseng</strong>, known for its high acidity and intense aromas. These grapes ripen well on the estate’s slopes while keeping their freshness.</p><p>Fermentation and ageing in barrel, with lees stirring, give the wine breadth and texture. The result is a full-bodied dry white with aromas of exotic fruit, citrus and toasty notes, supported by lively acidity, which can develop well for several years in bottle.</p>",
+    "fr": "<p>Le château Montus blanc est le blanc sec de la propriété d’Alain Brumont à Madiran. Alors que les rouges du secteur relèvent de l’appellation Madiran, les blancs du même territoire sont élaborés en appellation <strong>Pacherenc du Vic-Bilh</strong>, qui peut être sèche ou moelleuse ; ce vin en est la version sèche.</p><p>Il est issu de cépages traditionnels du Sud-Ouest, en particulier le <strong>petit courbu</strong>, un cépage local presque disparu que Brumont a contribué à relancer, et le <strong>petit manseng</strong>, connu pour son acidité élevée et ses arômes intenses. Ces raisins mûrissent bien sur les coteaux de la propriété tout en conservant leur fraîcheur.</p><p>La fermentation et l’élevage en barrique, avec bâtonnage des lies, apportent ampleur et texture. Il en résulte un blanc sec corsé, aux arômes de fruits exotiques, d’agrumes et aux notes grillées, porté par une acidité vive, qui peut bien évoluer pendant plusieurs années en bouteille.</p>",
+    "it": "<p>Il Château Montus Blanc è il bianco secco della proprietà di Alain Brumont a Madiran. Mentre i rossi della zona rientrano nella denominazione Madiran, i bianchi dello stesso territorio si producono nella denominazione <strong>Pacherenc du Vic-Bilh</strong>, che può essere secca o dolce; questo vino ne è la versione secca.</p><p>È prodotto con varietà tradizionali del sud-ovest della Francia, in particolare il <strong>Petit Courbu</strong>, un’uva locale quasi scomparsa che Brumont ha contribuito a recuperare, e il <strong>Petit Manseng</strong>, noto per l’acidità elevata e gli aromi intensi. Queste uve maturano bene sui pendii della proprietà conservando freschezza.</p><p>La fermentazione e l’affinamento in barrique, con bâtonnage delle fecce, danno al vino ampiezza e struttura. Il risultato è un bianco secco di corpo pieno, con aromi di frutta esotica, agrumi e note tostate, sostenuto da un’acidità vivace, che può evolvere bene per diversi anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo dorado. Aromas de piña, mango, cítricos, especias y notas tostadas. Boca amplia, untuosa y tensa, con final largo.",
+    "en": "Golden yellow. Aromas of pineapple, mango, citrus, spice and toasty notes. Broad, rich yet taut palate with a long finish.",
+    "fr": "Jaune doré. Arômes d’ananas, de mangue, d’agrumes, d’épices et notes grillées. Bouche ample, onctueuse et tendue, à la longue finale.",
+    "it": "Giallo dorato. Aromi di ananas, mango, agrumi, spezie e note tostate. Bocca ampia, morbida e tesa, con lungo finale."
+  },
+  "pairing": {
+    "es": "Foie gras, pescados en salsa, aves, quesos de oveja",
+    "en": "Foie gras, fish in sauce, poultry, sheep’s cheeses",
+    "fr": "Foie gras, poissons en sauce, volailles, fromages de brebis",
+    "it": "Foie gras, pesce in salsa, pollame, formaggi di pecora"
+  },
+  "serve": {
+    "es": "11-13 °C, copa amplia de blanco",
+    "en": "11-13 °C, large white wine glass",
+    "fr": "11-13 °C, grand verre à vin blanc",
+    "it": "11-13 °C, calice ampio da bianco"
+  },
+  "search": "Château Montus blanc Pacherenc du Vic-Bilh sec Brumont"
+}

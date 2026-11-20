@@ -1,0 +1,50 @@
+{
+  "slug": "fonseca-bin-27",
+  "name": "Fonseca Bin 27",
+  "winery": "fonseca",
+  "region": "porto",
+  "country": "portugal",
+  "type": "generoso",
+  "category": {
+    "es": "Reserve Ruby",
+    "en": "Reserve Ruby",
+    "fr": "Reserve Ruby",
+    "it": "Reserve Ruby"
+  },
+  "grapes": [
+    "touriga-nacional",
+    "touriga-franca",
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Reserve Ruby de Fonseca, uno de los Oportos de esta categoría más difundidos, de fruta negra intensa y estilo generoso, pensado para beberse sin necesidad de guarda.",
+    "en": "Fonseca’s Reserve Ruby, one of the most widely sold Ports in its category, with intense black fruit and a generous style, made to be drunk without cellaring.",
+    "fr": "Reserve Ruby de Fonseca, l’un des portos les plus diffusés de sa catégorie, au fruit noir intense et au style généreux, conçu pour être bu sans garde.",
+    "it": "Reserve Ruby di Fonseca, uno dei Porto più diffusi della sua categoria, dal frutto nero intenso e dallo stile generoso, pensato per essere bevuto senza invecchiamento."
+  },
+  "body": {
+    "es": "<p>El Bin 27 nació como un vino reservado al consumo de la familia Guimaraens y de sus amigos, y con el tiempo se convirtió en una de las etiquetas más conocidas de Fonseca. Pertenece a la categoría <strong>Reserve</strong>, la de los rubies de mayor calidad, que deben ser aprobados por la cámara de cata del organismo regulador.</p><p>Es un ensamblaje de vinos de varias cosechas procedentes de las quintas de la casa y de viticultores del Douro, elaborados con variedades tradicionales como la Touriga Nacional, la Touriga Franca y la Tinta Roriz (Tempranillo), junto con otras como la Tinta Barroca y el Tinto Cão; las proporciones varían de un lote a otro. Tras la fermentación, interrumpida con aguardiente vínica, los vinos se crían durante algunos años en grandes toneles de madera, donde conservan su color y su fruta. Se embotella filtrado y listo para beber, por lo que no deja sedimento, y una vez abierto se mantiene bien durante varias semanas.</p>",
+    "en": "<p>Bin 27 began as a wine reserved for the Guimaraens family and their friends, and over time it became one of Fonseca’s best-known labels. It belongs to the <strong>Reserve</strong> category, the top tier of ruby Port, whose wines must be approved by the tasting panel of the regulatory body.</p><p>It is a blend of wines from several harvests from the house’s quintas and from Douro growers, made with traditional varieties such as Touriga Nacional, Touriga Franca and Tinta Roriz (Tempranillo), along with others such as Tinta Barroca and Tinto Cão; the proportions vary from lot to lot. After fermentation, stopped with grape spirit, the wines are aged for a few years in large wooden vats, where they keep their colour and fruit. It is bottled filtered and ready to drink, so it throws no sediment, and once opened it keeps well for several weeks.</p>",
+    "fr": "<p>Le Bin 27 est né comme un vin réservé à la famille Guimaraens et à ses amis, et il est devenu avec le temps l’une des étiquettes les plus connues de Fonseca. Il appartient à la catégorie <strong>Reserve</strong>, la plus haute des portos ruby, dont les vins doivent être approuvés par le comité de dégustation de l’organisme de régulation.</p><p>C’est un assemblage de vins de plusieurs récoltes provenant des quintas de la maison et de viticulteurs du Douro, élaborés avec des cépages traditionnels comme la touriga nacional, la touriga franca et la tinta roriz (tempranillo), ainsi que d’autres comme la tinta barroca et le tinto cão ; les proportions varient d’un lot à l’autre. Après la fermentation, interrompue par l’ajout d’eau-de-vie de vin, les vins sont élevés quelques années en grands foudres de bois, où ils conservent leur couleur et leur fruit. Il est mis en bouteille filtré et prêt à boire, ne forme donc pas de dépôt, et une fois ouvert il se conserve bien plusieurs semaines.</p>",
+    "it": "<p>Il Bin 27 nacque come vino riservato alla famiglia Guimaraens e ai suoi amici, e con il tempo è diventato una delle etichette più note di Fonseca. Appartiene alla categoria <strong>Reserve</strong>, il livello più alto dei Porto ruby, i cui vini devono essere approvati dalla commissione di degustazione dell’ente regolatore.</p><p>È un assemblaggio di vini di diverse vendemmie provenienti dalle quintas della casa e da viticoltori del Douro, prodotti con varietà tradizionali come Touriga Nacional, Touriga Franca e Tinta Roriz (Tempranillo), insieme ad altre come Tinta Barroca e Tinto Cão; le proporzioni variano da un lotto all’altro. Dopo la fermentazione, interrotta con acquavite di vino, i vini affinano per alcuni anni in grandi botti di legno, dove conservano colore e frutto. Viene imbottigliato filtrato e pronto da bere, quindi non forma sedimento, e una volta aperto si mantiene bene per diverse settimane.</p>"
+  },
+  "tasting": {
+    "es": "Color rubí oscuro. Aromas de mora, cereza negra y ciruela, con notas de chocolate y especias. En boca es dulce, carnoso y redondo, con taninos suaves y un final afrutado.",
+    "en": "Dark ruby colour. Aromas of blackberry, black cherry and plum, with notes of chocolate and spice. Sweet, fleshy and round on the palate, with soft tannins and a fruity finish.",
+    "fr": "Robe rubis sombre. Arômes de mûre, de cerise noire et de prune, avec des notes de chocolat et d’épices. En bouche, il est doux, charnu et rond, avec des tanins souples et une finale fruitée.",
+    "it": "Colore rubino scuro. Aromi di mora, ciliegia nera e prugna, con note di cioccolato e spezie. In bocca è dolce, carnoso e rotondo, con tannini morbidi e un finale fruttato."
+  },
+  "pairing": {
+    "es": "Postres de chocolate negro, frutos rojos, quesos azules, quesos curados",
+    "en": "Dark chocolate desserts, red berries, blue cheeses, aged cheeses",
+    "fr": "Desserts au chocolat noir, fruits rouges, fromages à pâte persillée, fromages affinés",
+    "it": "Dolci al cioccolato fondente, frutti rossi, formaggi erborinati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "14-16 °C, copa de vino de Oporto o de vino blanco",
+    "en": "14-16 °C, Port or white wine glass",
+    "fr": "14-16 °C, verre à porto ou à vin blanc",
+    "it": "14-16 °C, calice da Porto o da vino bianco"
+  },
+  "search": "Fonseca Bin 27 Reserve Port"
+}

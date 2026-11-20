@@ -1,0 +1,48 @@
+{
+  "slug": "chateau-de-meursault-volnay-clos-des-chenes",
+  "name": "Volnay 1er Cru Clos des Chênes",
+  "winery": "chateau-de-meursault",
+  "region": "cote-de-beaune",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Premier Cru",
+    "en": "Premier Cru",
+    "fr": "Premier Cru",
+    "it": "Premier Cru"
+  },
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Tinto del premier cru Clos des Chênes, uno de los climats más conocidos de Volnay, elaborado por el Château de Meursault.",
+    "en": "Red from the Clos des Chênes premier cru, one of the best-known climats of Volnay, made by Château de Meursault.",
+    "fr": "Rouge du premier cru Clos des Chênes, l’un des climats les plus connus de Volnay, élaboré par le Château de Meursault.",
+    "it": "Rosso del premier cru Clos des Chênes, uno dei climats più noti di Volnay, prodotto dal Château de Meursault."
+  },
+  "body": {
+    "es": "<p><strong>Volnay</strong> tiene fama de producir los tintos más delicados de la Côte de Beaune: Pinot Noir de aromas florales, textura sedosa y gran finura. El <em>Clos des Chênes</em> es uno de sus premiers crus más reputados; se sitúa en la parte alta de la ladera, hacia Monthelie, en suelos calcáreos poco profundos y bien expuestos, que suelen dar vinos algo más firmes y estructurados que la media del pueblo.</p><p>El Château de Meursault elabora este vino a partir de su parcela en el clos, con vendimia seleccionada y crianza en barrica de roble francés. Se busca un equilibrio entre la fruta roja característica de Volnay y la estructura que aporta el terruño. Es un tinto que gana complejidad con algunos años de guarda, cuando aparecen matices de sotobosque y especias.</p>",
+    "en": "<p><strong>Volnay</strong> is known for producing the most delicate reds of the Côte de Beaune: Pinot Noir with floral aromas, a silky texture and great finesse. The <em>Clos des Chênes</em> is one of its most highly regarded premiers crus; it lies high on the slope towards Monthelie, on shallow, well-exposed limestone soils that tend to give wines somewhat firmer and more structured than the village average.</p><p>Château de Meursault makes this wine from its plot in the clos, with selected grapes and ageing in French oak barrels. The aim is a balance between the red fruit typical of Volnay and the structure contributed by the terroir. It is a red that gains complexity with a few years of cellaring, when nuances of undergrowth and spice emerge alongside the fruit.</p>",
+    "fr": "<p><strong>Volnay</strong> a la réputation de produire les rouges les plus délicats de la Côte de Beaune : des pinots noirs aux arômes floraux, à la texture soyeuse et d’une grande finesse. Le <em>Clos des Chênes</em> compte parmi ses premiers crus les plus réputés ; il se trouve en haut du coteau, vers Monthelie, sur des sols calcaires peu profonds et bien exposés qui donnent souvent des vins un peu plus fermes et structurés que la moyenne du village.</p><p>Le Château de Meursault élabore ce vin à partir de sa parcelle dans le clos, avec une vendange triée et un élevage en fûts de chêne français. On recherche l’équilibre entre le fruit rouge caractéristique de Volnay et la structure apportée par le terroir. C’est un rouge qui gagne en complexité après quelques années de garde, lorsque apparaissent des nuances de sous-bois et d’épices.</p>",
+    "it": "<p><strong>Volnay</strong> è nota per produrre i rossi più delicati della Côte de Beaune: Pinot Noir dai profumi floreali, dalla trama setosa e di grande finezza. Il <em>Clos des Chênes</em> è uno dei suoi premier cru più apprezzati; si trova nella parte alta del pendio, verso Monthelie, su suoli calcarei poco profondi e ben esposti, che tendono a dare vini un po’ più fermi e strutturati della media del villaggio.</p><p>Il Château de Meursault produce questo vino dalla sua parcella nel clos, con uve selezionate e affinamento in barrique di rovere francese. Si cerca un equilibrio tra il frutto rosso tipico di Volnay e la struttura data dal terroir. È un rosso che acquista complessità con qualche anno di bottiglia, quando emergono sfumature di sottobosco e spezie.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí brillante. Aromas de cereza, grosella, violeta y especias suaves. Boca sedosa, con taninos finos y buena tensión.",
+    "en": "Bright ruby. Aromas of cherry, redcurrant, violet and gentle spice. Silky palate with fine tannins and good tension.",
+    "fr": "Rubis brillant. Arômes de cerise, de groseille, de violette et d’épices douces. Bouche soyeuse, aux tanins fins et bien tendue.",
+    "it": "Rubino brillante. Aromi di ciliegia, ribes rosso, violetta e spezie dolci. Bocca setosa, dai tannini fini e di buona tensione."
+  },
+  "pairing": {
+    "es": "Aves asadas, pato, ternera, setas, quesos de pasta blanda",
+    "en": "Roast poultry, duck, veal, mushrooms, soft cheeses",
+    "fr": "Volailles rôties, canard, veau, champignons, fromages à pâte molle",
+    "it": "Pollame arrosto, anatra, vitello, funghi, formaggi a pasta molle"
+  },
+  "serve": {
+    "es": "15-17 °C, copa de Borgoña",
+    "en": "15-17 °C, Burgundy glass",
+    "fr": "15-17 °C, verre de Bourgogne",
+    "it": "15-17 °C, calice da Borgogna"
+  },
+  "search": "Volnay 1er Cru Clos des Chênes Château de Meursault"
+}

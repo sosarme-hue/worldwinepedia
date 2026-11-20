@@ -1,0 +1,48 @@
+{
+  "slug": "pheasants-tears-rkatsiteli",
+  "name": "Pheasant's Tears Rkatsiteli",
+  "winery": "pheasants-tears",
+  "region": "kakheti",
+  "country": "georgia",
+  "type": "blanco",
+  "category": {
+    "es": "Vino ámbar de qvevri",
+    "en": "Amber qvevri wine",
+    "fr": "Vin ambré de qvevri",
+    "it": "Vino ambrato da qvevri"
+  },
+  "grapes": [
+    "rkatsiteli"
+  ],
+  "summary": {
+    "es": "Vino ámbar de Rkatsiteli elaborado en qvevri por Pheasant's Tears, en Kakheti, con larga maceración de los hollejos. Es un ejemplo representativo del estilo tradicional kakhetiano.",
+    "en": "An amber Rkatsiteli made in qvevri by Pheasant's Tears in Kakheti, with long skin maceration. It is a representative example of the traditional Kakhetian style.",
+    "fr": "Vin ambré de rkatsiteli élaboré en qvevri par Pheasant's Tears, en Kakhétie, avec une longue macération pelliculaire. C’est un exemple représentatif du style traditionnel kakhétien.",
+    "it": "Vino ambrato di Rkatsiteli prodotto in qvevri da Pheasant's Tears, nel Kakheti, con lunga macerazione sulle bucce. È un esempio rappresentativo dello stile tradizionale kakhetiano."
+  },
+  "body": {
+    "es": "<p>Este vino se elabora con <strong>Rkatsiteli</strong> de viñedos de Kakheti siguiendo el método tradicional de la región. La uva se estruja y el mosto fermenta en <em>qvevri</em>, grandes tinajas de barro enterradas en el suelo de la bodega, junto con los hollejos, las pepitas y, en parte, los raspones, con levaduras autóctonas. Terminada la fermentación, las tinajas se sellan y el vino permanece en contacto con las partes sólidas durante varios meses antes de ser trasegado.</p><p>Esta larga maceración, poco habitual en los vinos blancos, extrae color, taninos y compuestos aromáticos de los hollejos. El resultado es un vino de color ámbar, seco, con una textura tánica que lo acerca a un tinto ligero y una acidez marcada propia de la Rkatsiteli. Es un vino gastronómico, que gana con la aireación y que se sirve algo menos frío que un blanco convencional.</p>",
+    "en": "<p>This wine is made from <strong>Rkatsiteli</strong> from Kakheti vineyards following the region’s traditional method. The grapes are crushed and the must ferments in <em>qvevri</em>, large clay vessels buried in the cellar floor, together with the skins, seeds and some of the stems, with native yeasts. Once fermentation is over, the vessels are sealed and the wine stays in contact with the solids for several months before being racked.</p><p>This long maceration, unusual for white wines, extracts colour, tannins and aromatic compounds from the skins. The result is a dry, amber-coloured wine with a tannic texture that brings it closer to a light red and the marked acidity typical of Rkatsiteli. It is a food-friendly wine that benefits from aeration and is served a little less cold than a conventional white.</p>",
+    "fr": "<p>Ce vin est élaboré à partir de <strong>rkatsiteli</strong> de vignes de Kakhétie selon la méthode traditionnelle de la région. Le raisin est foulé et le moût fermente en <em>qvevri</em>, grandes jarres d’argile enterrées dans le sol de la cave, avec les peaux, les pépins et une partie des rafles, grâce aux levures indigènes. La fermentation achevée, les jarres sont scellées et le vin reste au contact des parties solides pendant plusieurs mois avant d’être soutiré.</p><p>Cette longue macération, peu courante pour un vin blanc, extrait des peaux couleur, tanins et composés aromatiques. Il en résulte un vin sec à la couleur ambrée, d’une texture tannique qui le rapproche d’un rouge léger et de l’acidité marquée propre au rkatsiteli. C’est un vin de gastronomie, qui gagne à l’aération et se sert un peu moins frais qu’un blanc classique.</p>",
+    "it": "<p>Questo vino si ottiene da <strong>Rkatsiteli</strong> di vigneti del Kakheti secondo il metodo tradizionale della regione. L’uva viene pigiata e il mosto fermenta in <em>qvevri</em>, grandi giare di terracotta interrate nel pavimento della cantina, insieme a bucce, vinaccioli e in parte raspi, con lieviti indigeni. Terminata la fermentazione, le giare vengono sigillate e il vino resta a contatto con le parti solide per diversi mesi prima del travaso.</p><p>Questa lunga macerazione, insolita per un vino bianco, estrae dalle bucce colore, tannini e composti aromatici. Il risultato è un vino secco di colore ambrato, con una consistenza tannica che lo avvicina a un rosso leggero e l’acidità marcata tipica del Rkatsiteli. È un vino gastronomico, che guadagna con l’ossigenazione e si serve un po’ meno freddo di un bianco convenzionale.</p>"
+  },
+  "tasting": {
+    "es": "Ámbar anaranjado. Aromas de albaricoque seco, piel de naranja, nueces, té negro, miel y especias. En boca es seco, con taninos perceptibles, acidez viva y un final largo y ligeramente amargo.",
+    "en": "Orange amber. Aromas of dried apricot, orange peel, walnuts, black tea, honey and spice. Dry on the palate, with perceptible tannins, lively acidity and a long, slightly bitter finish.",
+    "fr": "Ambre orangé. Arômes d’abricot sec, d’écorce d’orange, de noix, de thé noir, de miel et d’épices. En bouche, il est sec, aux tanins perceptibles, à l’acidité vive et à la finale longue et légèrement amère.",
+    "it": "Ambra aranciato. Profumi di albicocca secca, scorza d’arancia, noci, tè nero, miele e spezie. In bocca è secco, con tannini percepibili, acidità vivace e un finale lungo e leggermente amaro."
+  },
+  "pairing": {
+    "es": "cocina georgiana con nueces y especias, khachapuri, verduras asadas, aves, quesos curados",
+    "en": "Georgian dishes with walnuts and spices, khachapuri, roast vegetables, poultry, aged cheeses",
+    "fr": "cuisine géorgienne aux noix et aux épices, khatchapouri, légumes rôtis, volailles, fromages affinés",
+    "it": "cucina georgiana con noci e spezie, khachapuri, verdure arrosto, pollame, formaggi stagionati"
+  },
+  "serve": {
+    "es": "12-14 °C, copa amplia",
+    "en": "12-14 °C, large glass",
+    "fr": "12-14 °C, verre ample",
+    "it": "12-14 °C, calice ampio"
+  },
+  "search": "Pheasant's Tears Rkatsiteli"
+}

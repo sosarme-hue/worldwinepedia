@@ -1,0 +1,40 @@
+{
+  "slug": "amor-per-la-terra-cal-ros",
+  "name": "Amor per la Terra Cal Ros",
+  "winery": null,
+  "winery_name": "Amor Per La Terra",
+  "region": null,
+  "country": "espana",
+  "appellation": "Vino de España",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Amor per la Terra Cal Ros es un vino blanco de Amor Per La Terra, con la denominación Vino de España, en España.",
+    "en": "Amor per la Terra Cal Ros is a white wine from Amor Per La Terra, made under the Vino de España appellation in Spain.",
+    "fr": "Amor per la Terra Cal Ros est un vin blanc de Amor Per La Terra, élaboré sous l’appellation Vino de España (Espagne).",
+    "it": "Amor per la Terra Cal Ros è un vino bianco di Amor Per La Terra, prodotto nella denominazione Vino de España (Spagna)."
+  },
+  "body": {
+    "es": "<p>Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 12 % vol.</p>",
+    "en": "<p>It is a young wine, meant to be drunk in its first years. It has 12% ABV.</p>",
+    "fr": "<p>C’est un vin jeune, à boire dans ses premières années. Il titre 12 % vol.</p>",
+    "it": "<p>È un vino giovane, da bere nei primi anni. Ha 12% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Amor per la Terra Cal Ros Amor Per La Terra",
+  "brief": true,
+  "source": "decantalo"
+}

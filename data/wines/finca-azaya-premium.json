@@ -1,0 +1,45 @@
+{
+  "slug": "finca-azaya-premium",
+  "name": "Finca Azaya Premium",
+  "winery": "valduero",
+  "winery_name": null,
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Castilla y León",
+  "type": "espumoso",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [],
+  "summary": {
+    "es": "Finca Azaya Premium es un vino espumoso de Bodegas Valduero, con la denominación VT Castilla y León, en España.",
+    "en": "Finca Azaya Premium is a sparkling wine from Bodegas Valduero, made under the VT Castilla y León appellation in Spain.",
+    "fr": "Finca Azaya Premium est un vin effervescent de Bodegas Valduero, élaboré sous l’appellation VT Castilla y León (Espagne).",
+    "it": "Finca Azaya Premium è un vino spumante di Bodegas Valduero, prodotto nella denominazione VT Castilla y León (Spagna)."
+  },
+  "body": {
+    "es": "<p>Lleva la mención Reserva. Su graduación es de 14 % vol.</p><p>Bodega familiar de Gumiel del Mercado, en la Ribera del Duero burgalesa, conocida por sus galerías de crianza excavadas en la ladera y por sus tintos de larga guarda.</p>",
+    "en": "<p>It carries the Reserva designation. It has 14% ABV.</p><p>Family winery in Gumiel del Mercado, in the Burgos part of Ribera del Duero, known for its ageing galleries dug into the hillside and its long-lived reds.</p>",
+    "fr": "<p>Il porte la mention Reserva. Il titre 14 % vol.</p><p>Bodega familiale de Gumiel del Mercado, dans la Ribera del Duero de Burgos, connue pour ses galeries d’élevage creusées dans le coteau et pour ses rouges de longue garde.</p>",
+    "it": "<p>Riporta la menzione Reserva. Ha 14% vol.</p><p>Cantina di famiglia di Gumiel del Mercado, nella Ribera del Duero di Burgos, nota per le gallerie di affinamento scavate nel pendio e per i suoi rossi di lunga conservazione.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Finca Azaya Premium Valduero",
+  "brief": true,
+  "source": "decantalo"
+}

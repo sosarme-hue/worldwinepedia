@@ -1,0 +1,47 @@
+{
+  "slug": "chateau-le-pin",
+  "name": "Château Le Pin",
+  "winery": null,
+  "winery_name": "Château Le Pin",
+  "region": "pomerol",
+  "country": "francia",
+  "appellation": "AOC Pomerol",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "merlot",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Tinto de Pomerol de una diminuta propiedad de la familia Thienpont, elaborado casi exclusivamente con Merlot y considerado uno de los vinos más buscados de Burdeos.",
+    "en": "A Pomerol red from a tiny estate owned by the Thienpont family, made almost entirely from Merlot and regarded as one of the most sought-after wines of Bordeaux.",
+    "fr": "Rouge de Pomerol issu d'une minuscule propriété de la famille Thienpont, élaboré presque exclusivement à partir de merlot et considéré comme l'un des vins les plus recherchés de Bordeaux.",
+    "it": "Rosso di Pomerol prodotto da una minuscola tenuta della famiglia Thienpont, quasi esclusivamente da Merlot, considerato uno dei vini più ricercati di Bordeaux."
+  },
+  "body": {
+    "es": "<p><strong>Château Le Pin</strong> es una de las propiedades más pequeñas y célebres de <strong>Pomerol</strong>. La familia belga <strong>Thienpont</strong>, ya presente en la orilla derecha con Vieux Château Certan, adquirió a finales de los años setenta una parcela de apenas un par de hectáreas que debe su nombre a un pino que se alzaba junto a la casa. Su producción muy limitada y su estilo sedoso lo convirtieron en un precursor de los vinos de pequeño volumen y alta demanda que más tarde se asociaron a la orilla derecha.</p><p>El viñedo, situado en la meseta de Pomerol, sobre suelos de gravas, arena y arcilla, está plantado casi en su totalidad con <strong>Merlot</strong>, con una presencia testimonial de <strong>Cabernet Franc</strong>. La vendimia es manual y muy selectiva.</p><p>El vino se cría en barricas de roble francés y busca expresar la madurez y la textura que la Merlot alcanza en este suelo. Es un Pomerol de gran riqueza aromática y tacto aterciopelado, accesible relativamente pronto pero con capacidad para evolucionar durante muchos años en botella.</p>",
+    "en": "<p><strong>Château Le Pin</strong> is one of the smallest and most celebrated estates in <strong>Pomerol</strong>. The Belgian <strong>Thienpont</strong> family, already present on the Right Bank with Vieux Château Certan, acquired at the end of the 1970s a plot of barely a couple of hectares that owes its name to a pine tree standing beside the house. Its very limited output and silky style made it a forerunner of the small-volume, high-demand wines later associated with the Right Bank.</p><p>The vineyard, on the Pomerol plateau over soils of gravel, sand and clay, is planted almost entirely with <strong>Merlot</strong>, with a token presence of <strong>Cabernet Franc</strong>. Harvesting is by hand and highly selective.</p><p>The wine is aged in French oak barrels and aims to express the ripeness and texture that Merlot achieves on this soil. It is a Pomerol of great aromatic richness and velvety feel, approachable relatively early yet able to develop in bottle for many years.</p>",
+    "fr": "<p><strong>Château Le Pin</strong> est l'une des propriétés les plus petites et les plus célèbres de <strong>Pomerol</strong>. La famille belge <strong>Thienpont</strong>, déjà présente sur la rive droite avec Vieux Château Certan, a acquis à la fin des années 1970 une parcelle d'à peine deux hectares, qui doit son nom à un pin dressé près de la maison. Sa production très limitée et son style soyeux en ont fait un précurseur des vins de petit volume et de forte demande associés plus tard à la rive droite.</p><p>Le vignoble, situé sur le plateau de Pomerol, sur des sols de graves, de sable et d'argile, est planté presque entièrement de <strong>merlot</strong>, avec une présence symbolique de <strong>cabernet franc</strong>. Les vendanges sont manuelles et très sélectives.</p><p>Le vin est élevé en barriques de chêne français et cherche à exprimer la maturité et la texture que le merlot atteint sur ce sol. C'est un pomerol d'une grande richesse aromatique et au toucher velouté, accessible assez tôt mais capable d'évoluer de nombreuses années en bouteille.</p>",
+    "it": "<p><strong>Château Le Pin</strong> è una delle tenute più piccole e celebri di <strong>Pomerol</strong>. La famiglia belga <strong>Thienpont</strong>, già presente sulla riva destra con Vieux Château Certan, acquistò alla fine degli anni Settanta un appezzamento di appena un paio di ettari, che deve il nome a un pino che sorgeva accanto alla casa. La produzione molto limitata e lo stile setoso ne hanno fatto un precursore dei vini di piccolo volume e grande richiesta associati in seguito alla riva destra.</p><p>Il vigneto, sull'altopiano di Pomerol, su suoli di ghiaia, sabbia e argilla, è piantato quasi interamente a <strong>Merlot</strong>, con una presenza simbolica di <strong>Cabernet Franc</strong>. La vendemmia è manuale e molto selettiva.</p><p>Il vino matura in barrique di rovere francese e mira a esprimere la maturità e la trama che il Merlot raggiunge su questo suolo. È un Pomerol di grande ricchezza aromatica e tatto vellutato, accessibile abbastanza presto ma capace di evolvere per molti anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota oscuro. Aromas de ciruela, mora, trufa, especias dulces y notas de roble tostado. Boca opulenta y sedosa, con taninos muy finos y final largo.",
+    "en": "Dark cherry red. Aromas of plum, blackberry, truffle, sweet spices and toasted oak notes. Opulent, silky palate with very fine tannins and a long finish.",
+    "fr": "Rouge cerise sombre. Arômes de prune, de mûre, de truffe, d'épices douces et notes de chêne toasté. Bouche opulente et soyeuse, aux tanins très fins et à la finale longue.",
+    "it": "Rosso ciliegia scuro. Aromi di prugna, mora, tartufo, spezie dolci e note di rovere tostato. Bocca opulenta e setosa, tannini finissimi e finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, solomillo, pato, platos con trufa, quesos curados",
+    "en": "Roast lamb, beef tenderloin, duck, truffle dishes, aged cheeses",
+    "fr": "Agneau rôti, filet de bœuf, canard, plats truffés, fromages affinés",
+    "it": "Agnello arrosto, filetto di manzo, anatra, piatti al tartufo, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia tipo Burdeos; conviene decantar",
+    "en": "16-18 °C, large Bordeaux glass; decanting recommended",
+    "fr": "16-18 °C, grand verre de type bordeaux ; carafage conseillé",
+    "it": "16-18 °C, calice ampio tipo Bordeaux; consigliata la decantazione"
+  },
+  "search": "Château Le Pin Château Le Pin",
+  "source": "decantalo"
+}

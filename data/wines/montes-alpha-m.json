@@ -1,0 +1,46 @@
+{
+  "slug": "montes-alpha-m",
+  "name": "Montes Alpha M",
+  "winery": "montes",
+  "region": "colchagua",
+  "country": "chile",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon",
+    "cabernet-franc",
+    "merlot",
+    "petit-verdot"
+  ],
+  "summary": {
+    "es": "Ensamblaje de estilo bordelés de Viña Montes elaborado con uvas de sus viñedos de Apalta, en el valle de Colchagua.",
+    "en": "Bordeaux-style blend from Viña Montes made from grapes from its Apalta vineyards in the Colchagua Valley.",
+    "fr": "Assemblage de style bordelais de Viña Montes élaboré avec des raisins de ses vignes d’Apalta, dans la vallée de Colchagua.",
+    "it": "Uvaggio di stile bordolese di Viña Montes prodotto con uve dei suoi vigneti di Apalta, nella valle di Colchagua."
+  },
+  "body": {
+    "es": "<p>Montes Alpha M es el ensamblaje de inspiración bordelesa con el que Viña Montes se propuso elaborar un tinto chileno capaz de compararse con los grandes vinos de Burdeos. El vino se sitúa en lo más alto de la gama de la casa junto a Purple Angel y Folly.</p><p>Las uvas proceden de las laderas de <strong>Apalta</strong>, en el valle de Colchagua, un anfiteatro de cerros orientados al norte con suelos graníticos pobres. El ensamblaje se basa en la <strong>Cabernet Sauvignon</strong>, completada con Cabernet Franc, Merlot y Petit Verdot, en proporciones que varían con la añada. Cada variedad y cada parcela se vinifican por separado, y el vino se cría en barricas de roble francés durante un periodo prolongado, en la bodega de Apalta, antes del ensamblaje y el embotellado. El resultado es un tinto concentrado y complejo, de estructura firme y taninos finos, pensado para una larga guarda. En sus primeros años se beneficia de una decantación previa.</p>",
+    "en": "<p>Montes Alpha M is the Bordeaux-inspired blend with which Viña Montes set out to make a Chilean red able to stand comparison with the great wines of Bordeaux. The wine stands at the top of the house’s range alongside Purple Angel and Folly.</p><p>The grapes come from the slopes of <strong>Apalta</strong>, in the Colchagua Valley, an amphitheatre of north-facing hills with poor granitic soils. The blend is based on <strong>Cabernet Sauvignon</strong>, complemented by Cabernet Franc, Merlot and Petit Verdot, in proportions that vary with the vintage. Each variety and plot is vinified separately, and the wine is aged for an extended period in French oak barrels at the Apalta winery before blending and bottling. The result is a concentrated, complex red with a firm structure and fine tannins, made for long ageing. In its early years it benefits from decanting.</p>",
+    "fr": "<p>Montes Alpha M est l’assemblage d’inspiration bordelaise avec lequel Viña Montes a voulu élaborer un rouge chilien capable de se mesurer aux grands vins de Bordeaux. Le vin figure au sommet de la gamme de la maison aux côtés de Purple Angel et de Folly.</p><p>Les raisins proviennent des coteaux d’<strong>Apalta</strong>, dans la vallée de Colchagua, un amphithéâtre de collines exposées au nord aux sols granitiques pauvres. L’assemblage repose sur le <strong>cabernet-sauvignon</strong>, complété par du cabernet franc, du merlot et du petit verdot, dans des proportions qui varient selon le millésime. Chaque cépage et chaque parcelle sont vinifiés séparément, et le vin est élevé longuement en barriques de chêne français dans la cave d’Apalta avant l’assemblage et la mise en bouteille. Il en résulte un rouge concentré et complexe, à la structure ferme et aux tanins fins, conçu pour une longue garde. Dans ses premières années, il gagne à être carafé.</p>",
+    "it": "<p>Montes Alpha M è l’uvaggio di ispirazione bordolese con cui Viña Montes si propose di produrre un rosso cileno capace di confrontarsi con i grandi vini di Bordeaux. Il vino si colloca al vertice della gamma della casa insieme a Purple Angel e Folly.</p><p>Le uve provengono dai pendii di <strong>Apalta</strong>, nella valle di Colchagua, un anfiteatro di colline esposte a nord con suoli granitici poveri. L’uvaggio si basa sul <strong>Cabernet Sauvignon</strong>, completato da Cabernet Franc, Merlot e Petit Verdot, in proporzioni che variano con l’annata. Ogni varietà e ogni parcella sono vinificate separatamente, e il vino affina a lungo in barrique di rovere francese nella cantina di Apalta prima dell’assemblaggio e dell’imbottigliamento. Il risultato è un rosso concentrato e complesso, di struttura salda e tannini fini, pensato per un lungo invecchiamento. Nei primi anni trae beneficio da una decantazione.</p>"
+  },
+  "tasting": {
+    "es": "Rojo muy profundo. Cassis, mora, cedro, tabaco, grafito y especias. Boca concentrada y elegante, con taninos finos y final largo.",
+    "en": "Very deep red. Cassis, blackberry, cedar, tobacco, graphite and spice. Concentrated, elegant palate with fine tannins and a long finish.",
+    "fr": "Rouge très profond. Cassis, mûre, cèdre, tabac, graphite et épices. Bouche concentrée et élégante, tanins fins et finale longue.",
+    "it": "Rosso molto profondo. Cassis, mora, cedro, tabacco, grafite e spezie. Bocca concentrata ed elegante, con tannini fini e finale lungo."
+  },
+  "pairing": {
+    "es": "Solomillo, cordero asado, caza mayor, quesos de pasta dura",
+    "en": "Beef tenderloin, roast lamb, large game, hard cheeses",
+    "fr": "Filet de bœuf, agneau rôti, gros gibier, fromages à pâte dure",
+    "it": "Filetto di manzo, agnello arrosto, selvaggina di grossa taglia, formaggi a pasta dura"
+  },
+  "serve": {
+    "es": "17-18 °C, decantado, copa amplia",
+    "en": "17-18 °C, decanted, large glass",
+    "fr": "17-18 °C, carafé, verre ample",
+    "it": "17-18 °C, decantato, calice ampio"
+  },
+  "search": "Montes Alpha M Apalta Colchagua"
+}

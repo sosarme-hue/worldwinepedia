@@ -1,0 +1,41 @@
+{
+  "slug": "chateau-d-yquem",
+  "name": "Château d’Yquem",
+  "winery": "chateau-d-yquem",
+  "region": "sauternes",
+  "country": "francia",
+  "type": "dulce",
+  "category": {"es": "Premier Cru Supérieur (1855)", "en": "Premier Cru Supérieur (1855)", "fr": "Premier cru supérieur (1855)", "it": "Premier Cru Supérieur (1855)"},
+  "grapes": ["semillon", "sauvignon-blanc"],
+  "summary": {
+    "es": "El vino dulce más célebre de Sauternes, elaborado con Sémillon y Sauvignon Blanc afectados por la podredumbre noble.",
+    "en": "The most famous sweet wine of Sauternes, made from Sémillon and Sauvignon Blanc affected by noble rot.",
+    "fr": "Le plus célèbre des liquoreux de Sauternes, élaboré à partir de sémillon et de sauvignon blanc atteints de pourriture noble.",
+    "it": "Il vino dolce più celebre di Sauternes, prodotto con Sémillon e Sauvignon Blanc colpiti dalla muffa nobile."
+  },
+  "body": {
+    "es": "<p>El vino de Château d’Yquem se elabora con Sémillon, que constituye la mayor parte del ensamblaje, y Sauvignon Blanc. Las uvas se vendimian a mano en varias pasadas sucesivas por el viñedo, a lo largo de semanas, recogiendo sólo los racimos o granos que han alcanzado el grado adecuado de concentración por efecto de la <em>Botrytis cinerea</em>.</p><p>El mosto, muy rico en azúcar, fermenta en barricas de roble nuevas y el vino se cría en barrica durante un periodo prolongado antes del embotellado. El rendimiento por cepa es muy bajo, y en las añadas en las que la calidad no se considera suficiente la propiedad renuncia a comercializar el vino.</p><p>Yquem combina una gran riqueza en azúcar con una acidez que le da equilibrio. Es célebre por su longevidad: puede envejecer durante muchas décadas, ganando complejidad y tonos más oscuros.</p>",
+    "en": "<p>The wine of Château d’Yquem is made from Sémillon, which makes up most of the blend, and Sauvignon Blanc. The grapes are picked by hand in several successive passes through the vineyard over a period of weeks, gathering only the bunches or berries that have reached the right degree of concentration through the action of <em>Botrytis cinerea</em>.</p><p>The very sugar-rich must ferments in new oak barrels and the wine is aged in barrel for a long period before bottling. Yields per vine are very low, and in vintages where quality is not judged sufficient the estate forgoes releasing the wine.</p><p>Yquem combines great sugar richness with acidity that gives it balance. It is famous for its longevity: it can age for many decades, gaining complexity and darker hues.</p>",
+    "fr": "<p>Le vin du Château d’Yquem est élaboré à partir de sémillon, qui représente la majeure partie de l’assemblage, et de sauvignon blanc. Les raisins sont récoltés à la main en plusieurs tries successives sur plusieurs semaines, en ne cueillant que les grappes ou les baies parvenues au bon degré de concentration sous l’action du <em>Botrytis cinerea</em>.</p><p>Le moût, très riche en sucre, fermente en barriques de chêne neuves et le vin est élevé longuement en fût avant la mise en bouteille. Les rendements par pied sont très faibles, et les années où la qualité n’est pas jugée suffisante, la propriété renonce à commercialiser le vin.</p><p>Yquem allie une grande richesse en sucre à une acidité qui lui donne son équilibre. Il est célèbre pour sa longévité : il peut vieillir de nombreuses décennies, en gagnant en complexité et en prenant des teintes plus sombres.</p>",
+    "it": "<p>Il vino di Château d’Yquem si ottiene da Sémillon, che costituisce la maggior parte dell’assemblaggio, e Sauvignon Blanc. Le uve si raccolgono a mano in più passaggi successivi nel vigneto, nell’arco di settimane, cogliendo solo i grappoli o gli acini che hanno raggiunto il giusto grado di concentrazione per effetto della <em>Botrytis cinerea</em>.</p><p>Il mosto, ricchissimo di zuccheri, fermenta in barrique nuove di rovere e il vino affina a lungo in botte prima dell’imbottigliamento. La resa per pianta è molto bassa, e nelle annate in cui la qualità non è ritenuta sufficiente la tenuta rinuncia a mettere in commercio il vino.</p><p>Yquem unisce una grande ricchezza zuccherina a un’acidità che gli dà equilibrio. È celebre per la sua longevità: può invecchiare per molti decenni, guadagnando complessità e tonalità più scure.</p>"
+  },
+  "tasting": {
+    "es": "Dorado intenso, que se vuelve ámbar con los años. Aromas de albaricoque, piel de naranja confitada, miel, piña, azafrán y vainilla. En boca es untuoso y muy largo, con una acidez que equilibra el dulzor.",
+    "en": "Deep gold, turning amber with age. Aromas of apricot, candied orange peel, honey, pineapple, saffron and vanilla. Unctuous and very long on the palate, with acidity balancing the sweetness.",
+    "fr": "Or intense, qui tend vers l’ambre avec l’âge. Arômes d’abricot, d’écorce d’orange confite, de miel, d’ananas, de safran et de vanille. En bouche, onctueux et très long, avec une acidité qui équilibre la douceur.",
+    "it": "Oro intenso, che con gli anni vira all’ambra. Aromi di albicocca, scorza d’arancia candita, miele, ananas, zafferano e vaniglia. In bocca è untuoso e lunghissimo, con un’acidità che equilibra la dolcezza."
+  },
+  "pairing": {
+    "es": "Foie gras, quesos azules como el Roquefort, postres de frutas amarillas, cocina especiada",
+    "en": "Foie gras, blue cheeses such as Roquefort, yellow-fruit desserts, spiced dishes",
+    "fr": "Foie gras, fromages bleus comme le roquefort, desserts aux fruits jaunes, cuisine épicée",
+    "it": "Foie gras, formaggi erborinati come il Roquefort, dessert alla frutta gialla, cucina speziata"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de vino blanco",
+    "en": "10-12 °C, white wine glass",
+    "fr": "10-12 °C, verre à vin blanc",
+    "it": "10-12 °C, calice da vino bianco"
+  },
+  "search": "Château d'Yquem Sauternes"
+}

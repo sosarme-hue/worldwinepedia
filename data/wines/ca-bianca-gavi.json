@@ -1,0 +1,42 @@
+{
+  "slug": "ca-bianca-gavi",
+  "name": "Ca' Bianca Gavi",
+  "winery": null,
+  "winery_name": "Ca' Bianca",
+  "region": null,
+  "country": "italia",
+  "appellation": "DOCG Moscato d'Asti",
+  "type": "espumoso",
+  "category": null,
+  "grapes": [
+    "cortese"
+  ],
+  "summary": {
+    "es": "Ca' Bianca Gavi es un vino espumoso de Ca' Bianca, con la denominación DOCG Moscato d'Asti, en Italia.",
+    "en": "Ca' Bianca Gavi is a sparkling wine from Ca' Bianca, made under the DOCG Moscato d'Asti appellation in Italy.",
+    "fr": "Ca' Bianca Gavi est un vin effervescent de Ca' Bianca, élaboré sous l’appellation DOCG Moscato d'Asti (Italie).",
+    "it": "Ca' Bianca Gavi è un vino spumante di Ca' Bianca, prodotto nella denominazione DOCG Moscato d'Asti (Italia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Cortese. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is made from Cortese. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Cortese. Il titre 12,5 % vol.</p>",
+    "it": "<p>È prodotto con Cortese. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Ca' Bianca Gavi Ca' Bianca",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "scala-dei-prior",
+  "name": "Scala Dei Prior",
+  "winery": "cellers-de-scala-dei",
+  "region": "priorat",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha",
+    "carinena"
+  ],
+  "summary": {
+    "es": "Tinto de Cellers de Scala Dei que ofrece una visión de los viñedos de la bodega en el entorno de Escaladei, con la garnacha como variedad principal.",
+    "en": "Red from Cellers de Scala Dei offering an overview of the winery's vineyards around Escaladei, with Garnacha as the main variety.",
+    "fr": "Rouge de Cellers de Scala Dei qui offre une vision des vignes du domaine autour d'Escaladei, avec le grenache comme cépage principal.",
+    "it": "Rosso di Cellers de Scala Dei che offre una visione dei vigneti della cantina nei dintorni di Escaladei, con la Garnacha come varietà principale."
+  },
+  "body": {
+    "es": "<p>Prior debe su nombre al prior de la cartuja de Scala Dei, la figura que dio nombre a toda la comarca del <strong>Priorat</strong>. Es uno de los vinos centrales de Cellers de Scala Dei y la mejor introducción a su estilo.</p><p>Se elabora principalmente con <strong>garnacha</strong>, la variedad en la que la bodega ha concentrado su trabajo, acompañada de <strong>cariñena</strong> y, según la añada, de pequeñas cantidades de otras variedades; las proporciones cambian de un año a otro. Las uvas proceden de viñedos situados al pie de la sierra del Montsant, en el entorno de Escaladei, una de las zonas más elevadas y frescas de la denominación, con suelos de llicorella y de arcillas. La vinificación busca una extracción moderada, y el vino se cría durante unos meses en barricas y depósitos de mayor tamaño. El resultado es un Priorat de fruta fresca y carácter mediterráneo, menos concentrado que los vinos de parcela de la casa.</p>",
+    "en": "<p>Prior takes its name from the prior of the Carthusian monastery of Scala Dei, the figure who gave his name to the whole <strong>Priorat</strong> area. It is one of the core wines of Cellers de Scala Dei and the best introduction to its style.</p><p>It is made mainly from <strong>Garnacha</strong>, the variety on which the winery has focused its work, together with <strong>Cariñena</strong> and, depending on the vintage, small amounts of other varieties; the proportions change from year to year. The grapes come from vineyards at the foot of the Montsant range, around Escaladei, one of the highest and coolest parts of the appellation, with llicorella and clay soils. Winemaking aims for moderate extraction, and the wine is aged for a few months in barrels and larger vats. The result is a Priorat with fresh fruit and Mediterranean character, less concentrated than the house's single-plot wines.</p>",
+    "fr": "<p>Prior doit son nom au prieur de la chartreuse de Scala Dei, la figure qui a donné son nom à toute la région du <strong>Priorat</strong>. C'est l'un des vins centraux de Cellers de Scala Dei et la meilleure introduction à son style.</p><p>Il est élaboré principalement avec du <strong>grenache</strong>, le cépage sur lequel le domaine a concentré son travail, accompagné de <strong>carignan</strong> et, selon le millésime, de petites quantités d'autres cépages ; les proportions changent d'une année à l'autre. Les raisins proviennent de vignes situées au pied de la sierra du Montsant, autour d'Escaladei, l'une des zones les plus élevées et les plus fraîches de l'appellation, aux sols de llicorella et d'argiles. La vinification recherche une extraction modérée, et le vin est élevé quelques mois en barriques et en cuves de plus grande taille. Le résultat est un Priorat au fruit frais et au caractère méditerranéen, moins concentré que les vins parcellaires de la maison.</p>",
+    "it": "<p>Prior deve il nome al priore della certosa di Scala Dei, la figura che ha dato il nome all'intera comarca del <strong>Priorat</strong>. È uno dei vini centrali di Cellers de Scala Dei e la migliore introduzione al suo stile.</p><p>È prodotto principalmente con <strong>Garnacha</strong>, la varietà su cui la cantina ha concentrato il proprio lavoro, accompagnata da <strong>Cariñena</strong> e, secondo l'annata, da piccole quantità di altre varietà; le proporzioni cambiano di anno in anno. Le uve provengono da vigneti situati ai piedi della sierra del Montsant, nei dintorni di Escaladei, una delle zone più alte e fresche della denominazione, con suoli di llicorella e argille. La vinificazione cerca un'estrazione moderata e il vino affina per alcuni mesi in barrique e in vasche di maggiori dimensioni. Il risultato è un Priorat di frutto fresco e carattere mediterraneo, meno concentrato dei vini di parcella della casa.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí. Aromas de fruta roja madura, hierbas mediterráneas, especias suaves y notas minerales. En boca es jugoso, de tanino fino y buena frescura.",
+    "en": "Ruby red. Aromas of ripe red fruit, Mediterranean herbs, gentle spice and mineral notes. Juicy on the palate, with fine tannins and good freshness.",
+    "fr": "Rubis. Arômes de fruits rouges mûrs, d'herbes méditerranéennes, d'épices douces et notes minérales. En bouche, juteux, aux tanins fins et d'une bonne fraîcheur.",
+    "it": "Rosso rubino. Aromi di frutta rossa matura, erbe mediterranee, spezie dolci e note minerali. In bocca è succoso, con tannino fine e buona freschezza."
+  },
+  "pairing": {
+    "es": "Carnes a la brasa, embutidos, arroces de montaña, guisos",
+    "en": "Grilled meats, charcuterie, mountain rice dishes, stews",
+    "fr": "Viandes grillées, charcuterie, riz de montagne, ragoûts",
+    "it": "Carni alla brace, salumi, risi di montagna, stufati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, grand verre",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Scala Dei Prior Priorat"
+}

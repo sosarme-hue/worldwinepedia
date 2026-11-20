@@ -1,0 +1,48 @@
+{
+  "slug": "clos-des-lambrays",
+  "name": "Clos des Lambrays Grand Cru",
+  "winery": "domaine-des-lambrays",
+  "region": "cote-de-nuits",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Grand Cru",
+    "en": "Grand Cru",
+    "fr": "Grand Cru",
+    "it": "Grand Cru"
+  },
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Grand Cru de Morey-Saint-Denis elaborado por el Domaine des Lambrays, propietario de casi todo el clos: un Pinot Noir fino, aromático y de larga guarda.",
+    "en": "Morey-Saint-Denis Grand Cru made by Domaine des Lambrays, which owns almost all of the clos: a fine, aromatic, long-lived Pinot Noir.",
+    "fr": "Grand cru de Morey-Saint-Denis élaboré par le Domaine des Lambrays, propriétaire de la quasi-totalité du clos : un pinot noir fin, aromatique et de longue garde.",
+    "it": "Grand Cru di Morey-Saint-Denis prodotto dal Domaine des Lambrays, proprietario di quasi tutto il clos: un Pinot Noir fine, aromatico e longevo."
+  },
+  "body": {
+    "es": "<p>El <strong>Clos des Lambrays</strong> es uno de los cinco Grands Crus de <strong>Morey-Saint-Denis</strong>, en la Côte de Nuits, reconocido como tal en 1981. Es un viñedo cercado situado en la ladera por encima del pueblo, con exposiciones variadas, del que el <strong>Domaine des Lambrays</strong> posee la casi totalidad.</p><p>El vino se elabora con <strong>Pinot Noir</strong>. La diversidad de exposiciones y de suelos arcillocalcáreos dentro del clos permite a la finca vendimiar y vinificar por separado distintos sectores antes de ensamblarlos, lo que contribuye a la complejidad del vino. La casa ha recurrido tradicionalmente a una proporción importante de racimos enteros en la fermentación, que aporta notas especiadas y florales y una estructura fina. El vino se cría en barricas de roble.</p><p>El Clos des Lambrays es conocido por su elegancia y su perfume más que por su potencia: un Grand Cru de taninos sedosos y gran persistencia, que necesita años de botella para mostrar toda su complejidad.</p>",
+    "en": "<p>The <strong>Clos des Lambrays</strong> is one of the five Grands Crus of <strong>Morey-Saint-Denis</strong> in the Côte de Nuits, recognised as such in 1981. It is a walled vineyard on the slope above the village, with varied exposures, almost all of which is owned by <strong>Domaine des Lambrays</strong>.</p><p>The wine is made from <strong>Pinot Noir</strong>. The diversity of exposures and clay-limestone soils within the clos allows the estate to pick and vinify different sectors separately before blending them, which adds to the wine’s complexity. The house has traditionally used a significant proportion of whole bunches in fermentation, bringing spicy and floral notes and a fine structure. The wine is aged in oak barrels.</p><p>The Clos des Lambrays is known for elegance and perfume rather than power: a Grand Cru with silky tannins and great length that needs years in bottle to show its full complexity.</p>",
+    "fr": "<p>Le <strong>Clos des Lambrays</strong> est l’un des cinq grands crus de <strong>Morey-Saint-Denis</strong>, en Côte de Nuits, reconnu comme tel en 1981. C’est une vigne close située sur le coteau au-dessus du village, aux expositions variées, dont le <strong>Domaine des Lambrays</strong> possède la quasi-totalité.</p><p>Le vin est élaboré à partir de <strong>pinot noir</strong>. La diversité des expositions et des sols argilo-calcaires au sein du clos permet au domaine de vendanger et de vinifier séparément différents secteurs avant de les assembler, ce qui contribue à la complexité du vin. La maison a traditionnellement recours à une part importante de vendange entière, qui apporte des notes épicées et florales et une structure fine. Le vin est élevé en fûts de chêne.</p><p>Le Clos des Lambrays est réputé pour son élégance et son parfum plus que pour sa puissance : un grand cru aux tanins soyeux et d’une grande persistance, qui demande des années de bouteille pour révéler toute sa complexité.</p>",
+    "it": "<p>Il <strong>Clos des Lambrays</strong> è uno dei cinque Grands Crus di <strong>Morey-Saint-Denis</strong>, nella Côte de Nuits, riconosciuto come tale nel 1981. È un vigneto cintato situato sul pendio sopra il villaggio, con esposizioni varie, di cui il <strong>Domaine des Lambrays</strong> possiede la quasi totalità.</p><p>Il vino è prodotto con <strong>Pinot Noir</strong>. La diversità di esposizioni e di suoli argilloso-calcarei all’interno del clos permette alla tenuta di vendemmiare e vinificare separatamente diversi settori prima di assemblarli, il che contribuisce alla complessità del vino. La casa ricorre tradizionalmente a una quota importante di grappoli interi in fermentazione, che apporta note speziate e floreali e una struttura fine. Il vino affina in botti di rovere.</p><p>Il Clos des Lambrays è noto per eleganza e profumo più che per potenza: un Grand Cru dai tannini setosi e di grande persistenza, che richiede anni di bottiglia per esprimere tutta la sua complessità.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí luminoso. Aromas de cereza, frambuesa, rosa, especias y notas de sotobosque. Boca elegante y sedosa, de gran persistencia.",
+    "en": "Luminous ruby. Aromas of cherry, raspberry, rose, spice and undergrowth notes. Elegant, silky palate of great length.",
+    "fr": "Rubis lumineux. Arômes de cerise, de framboise, de rose, d’épices et notes de sous-bois. Bouche élégante et soyeuse, d’une grande persistance.",
+    "it": "Rubino luminoso. Aromi di ciliegia, lampone, rosa, spezie e note di sottobosco. Bocca elegante e setosa, di grande persistenza."
+  },
+  "pairing": {
+    "es": "Aves de caza, pichón, ternera asada, setas, quesos de pasta blanda",
+    "en": "Game birds, squab, roast veal, mushrooms, soft cheeses",
+    "fr": "Gibier à plume, pigeon, veau rôti, champignons, fromages à pâte molle",
+    "it": "Selvaggina da piuma, piccione, vitello arrosto, funghi, formaggi a pasta molle"
+  },
+  "serve": {
+    "es": "15-17 °C, copa de tipo Borgoña",
+    "en": "15-17 °C, Burgundy-style glass",
+    "fr": "15-17 °C, verre de type bourguignon",
+    "it": "15-17 °C, calice tipo Borgogna"
+  },
+  "search": "Clos des Lambrays Grand Cru Domaine des Lambrays"
+}

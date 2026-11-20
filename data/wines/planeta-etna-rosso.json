@@ -1,0 +1,48 @@
+{
+  "slug": "planeta-etna-rosso",
+  "name": "Planeta Etna Rosso",
+  "winery": "planeta",
+  "region": "etna",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "Etna DOC",
+    "en": "Etna DOC",
+    "fr": "Etna DOC",
+    "it": "Etna DOC"
+  },
+  "grapes": [
+    "nerello-mascalese"
+  ],
+  "summary": {
+    "es": "Etna Rosso de Planeta elaborado con Nerello Mascalese de la vertiente norte del volcán, un tinto fresco, aromático y de taninos finos.",
+    "en": "Etna Rosso from Planeta made from Nerello Mascalese grown on the northern slope of the volcano, a fresh, aromatic red with fine tannins.",
+    "fr": "Etna Rosso de Planeta élaboré avec du nerello mascalese du versant nord du volcan, un rouge frais, aromatique et aux tanins fins.",
+    "it": "Etna Rosso di Planeta prodotto con Nerello Mascalese del versante nord del vulcano, un rosso fresco, aromatico e dai tannini fini."
+  },
+  "body": {
+    "es": "<p>Planeta, la familia que a partir de los años noventa construyó una red de bodegas en distintas zonas de Sicilia, se instaló también en el <strong>Etna</strong>, en la <strong>vertiente norte</strong> del volcán, la más reputada para los tintos. Allí los viñedos crecen en altitud sobre suelos de arena y roca volcánica, con fuertes diferencias de temperatura entre el día y la noche.</p><p>Su Etna Rosso se elabora con <strong>Nerello Mascalese</strong>, la variedad tinta histórica del volcán. Es una uva de maduración tardía y piel relativamente fina, que da vinos de color moderado, acidez marcada y taninos finos pero presentes. La elaboración busca respetar esa delicadeza, con una crianza que no enmascara la fruta.</p><p>El resultado es un tinto de cuerpo medio, aromático y sápido, con fruta roja, notas florales, especias y un fondo mineral y ahumado característico del Etna. Puede disfrutarse joven o tras algunos años de botella.</p>",
+    "en": "<p>Planeta, the family that from the 1990s onwards built a network of wineries in different parts of Sicily, also set up on <strong>Etna</strong>, on the <strong>northern slope</strong> of the volcano, the most highly regarded for reds. There the vineyards grow at altitude on soils of sand and volcanic rock, with marked temperature differences between day and night.</p><p>Its Etna Rosso is made from <strong>Nerello Mascalese</strong>, the volcano’s historic red variety. It is a late-ripening grape with relatively thin skins, giving wines of moderate colour, marked acidity and fine but noticeable tannins. Winemaking seeks to respect that delicacy, with ageing that does not mask the fruit.</p><p>The result is a medium-bodied, aromatic and savoury red with red fruit, floral notes, spice and the mineral, smoky background characteristic of Etna. It can be enjoyed young or after a few years in bottle.</p>",
+    "fr": "<p>Planeta, la famille qui a bâti à partir des années 1990 un réseau de domaines dans différentes zones de Sicile, s’est aussi installée sur l’<strong>Etna</strong>, sur le <strong>versant nord</strong> du volcan, le plus réputé pour les rouges. Les vignes y poussent en altitude sur des sols de sable et de roche volcanique, avec de forts écarts de température entre le jour et la nuit.</p><p>Son Etna Rosso est élaboré avec du <strong>nerello mascalese</strong>, le cépage rouge historique du volcan. C’est un raisin à maturité tardive et à la peau relativement fine, qui donne des vins à la couleur modérée, à l’acidité marquée et aux tanins fins mais présents. La vinification cherche à respecter cette délicatesse, avec un élevage qui ne masque pas le fruit.</p><p>Il en résulte un rouge de corps moyen, aromatique et sapide, aux fruits rouges, aux notes florales, aux épices et au fond minéral et fumé caractéristique de l’Etna. Il peut se boire jeune ou après quelques années de bouteille.</p>",
+    "it": "<p>Planeta, la famiglia che dagli anni Novanta ha costruito una rete di cantine in diverse zone della Sicilia, si è insediata anche sull’<strong>Etna</strong>, sul <strong>versante nord</strong> del vulcano, il più rinomato per i rossi. Qui i vigneti crescono in altitudine su suoli di sabbia e roccia vulcanica, con forti escursioni termiche tra giorno e notte.</p><p>Il suo Etna Rosso è prodotto con <strong>Nerello Mascalese</strong>, il vitigno rosso storico del vulcano. È un’uva a maturazione tardiva e dalla buccia relativamente sottile, che dà vini di colore moderato, acidità marcata e tannini fini ma presenti. La vinificazione cerca di rispettarne la delicatezza, con un affinamento che non copre il frutto.</p><p>Il risultato è un rosso di medio corpo, aromatico e sapido, con frutta rossa, note floreali, spezie e il fondo minerale e affumicato caratteristico dell’Etna. Si può gustare giovane o dopo alcuni anni di bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí claro. Aromas de cereza, frambuesa, flores secas, pimienta y notas ahumadas. Boca fresca y sápida, de taninos finos y final mineral.",
+    "en": "Light ruby red. Aromas of cherry, raspberry, dried flowers, pepper and smoky notes. Fresh, savoury palate with fine tannins and a mineral finish.",
+    "fr": "Rouge rubis clair. Arômes de cerise, de framboise, de fleurs séchées, de poivre et notes fumées. Bouche fraîche et sapide, aux tanins fins et à la finale minérale.",
+    "it": "Rosso rubino chiaro. Aromi di ciliegia, lampone, fiori secchi, pepe e note affumicate. Bocca fresca e sapida, con tannini fini e finale minerale."
+  },
+  "pairing": {
+    "es": "Pasta con ragú, setas, carnes blancas asadas, atún, quesos semicurados",
+    "en": "Pasta with ragù, mushrooms, roast white meat, tuna, semi-hard cheeses",
+    "fr": "Pâtes à la bolognaise, champignons, viandes blanches rôties, thon, fromages mi-affinés",
+    "it": "Pasta al ragù, funghi, carni bianche arrosto, tonno, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "14-16 °C, copa de tamaño medio",
+    "en": "14-16 °C, medium-sized glass",
+    "fr": "14-16 °C, verre de taille moyenne",
+    "it": "14-16 °C, calice di media grandezza"
+  },
+  "search": "Etna Rosso Planeta"
+}

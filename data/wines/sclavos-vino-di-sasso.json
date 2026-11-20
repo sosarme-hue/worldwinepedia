@@ -1,0 +1,40 @@
+{
+  "slug": "sclavos-vino-di-sasso",
+  "name": "Sclavos Vino di Sasso",
+  "winery": null,
+  "winery_name": "Sclavos",
+  "region": null,
+  "country": "grecia",
+  "appellation": "DOP Robola Cefalonia",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Sclavos Vino di Sasso es un vino blanco de Sclavos, con la denominación DOP Robola Cefalonia, en Grecia.",
+    "en": "Sclavos Vino di Sasso is a white wine from Sclavos, made under the DOP Robola Cefalonia appellation in Greece.",
+    "fr": "Sclavos Vino di Sasso est un vin blanc de Sclavos, élaboré sous l’appellation DOP Robola Cefalonia (Grèce).",
+    "it": "Sclavos Vino di Sasso è un vino bianco di Sclavos, prodotto nella denominazione DOP Robola Cefalonia (Grecia)."
+  },
+  "body": {
+    "es": "<p>Se cría sobre sus lías. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is aged on its lees. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élevé sur lies. Il titre 12,5 % vol.</p>",
+    "it": "<p>Affina sulle fecce fini. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Sclavos Vino di Sasso Sclavos",
+  "brief": true,
+  "source": "decantalo"
+}

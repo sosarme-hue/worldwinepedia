@@ -1,0 +1,40 @@
+{
+  "slug": "trenel-coteaux-bourguignons",
+  "name": "Trénel Coteaux Bourguignons",
+  "winery": null,
+  "winery_name": "Trénel",
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Coteaux-Bourguignons",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Trénel Coteaux Bourguignons es un vino tinto de Trénel, con la denominación AOC Coteaux-Bourguignons, en Francia.",
+    "en": "Trénel Coteaux Bourguignons is a red wine from Trénel, made under the AOC Coteaux-Bourguignons appellation in France.",
+    "fr": "Trénel Coteaux Bourguignons est un vin rouge de Trénel, élaboré sous l’appellation AOC Coteaux-Bourguignons (France).",
+    "it": "Trénel Coteaux Bourguignons è un vino rosso di Trénel, prodotto nella denominazione AOC Coteaux-Bourguignons (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora por maceración carbónica. Su graduación es de 13 % vol.</p>",
+    "en": "<p>It is made by carbonic maceration. It has 13% ABV.</p>",
+    "fr": "<p>Il est élaboré par macération carbonique. Il titre 13 % vol.</p>",
+    "it": "<p>È prodotto con macerazione carbonica. Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Trénel Coteaux Bourguignons Trénel",
+  "brief": true,
+  "source": "decantalo"
+}

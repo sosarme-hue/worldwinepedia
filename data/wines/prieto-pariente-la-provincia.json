@@ -1,0 +1,40 @@
+{
+  "slug": "prieto-pariente-la-provincia",
+  "name": "Prieto Pariente La Provincia",
+  "winery": null,
+  "winery_name": "Prieto Pariente",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Castilla y León",
+  "type": "espumoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Prieto Pariente La Provincia es un vino espumoso de Prieto Pariente, con la denominación VT Castilla y León, en España.",
+    "en": "Prieto Pariente La Provincia is a sparkling wine from Prieto Pariente, made under the VT Castilla y León appellation in Spain.",
+    "fr": "Prieto Pariente La Provincia est un vin effervescent de Prieto Pariente, élaboré sous l’appellation VT Castilla y León (Espagne).",
+    "it": "Prieto Pariente La Provincia è un vino spumante di Prieto Pariente, prodotto nella denominazione VT Castilla y León (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14,5 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 14.5% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14,5 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 14,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Prieto Pariente La Provincia Prieto Pariente",
+  "brief": true,
+  "source": "decantalo"
+}

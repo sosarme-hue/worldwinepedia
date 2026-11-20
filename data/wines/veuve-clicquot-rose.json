@@ -1,0 +1,49 @@
+{
+  "slug": "veuve-clicquot-rose",
+  "name": "Veuve Clicquot Rosé",
+  "winery": "veuve-clicquot",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut Rosé",
+    "en": "Brut Rosé",
+    "fr": "Brut Rosé",
+    "it": "Brut Rosé"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Champagne rosado sin añada de Veuve Clicquot, elaborado por ensamblaje con vino tinto de Pinot Noir, siguiendo un método que Madame Clicquot practicó a comienzos del siglo XIX.",
+    "en": "Veuve Clicquot’s non-vintage rosé champagne, made by blending with Pinot Noir red wine, following a method Madame Clicquot practised in the early 19th century.",
+    "fr": "Champagne rosé non millésimé de Veuve Clicquot, élaboré par assemblage avec du vin rouge de pinot noir, selon une méthode que Madame Clicquot pratiqua au début du XIXe siècle.",
+    "it": "Champagne rosé senza annata di Veuve Clicquot, prodotto per assemblaggio con vino rosso di Pinot Nero, secondo un metodo che Madame Clicquot praticò all’inizio dell’Ottocento."
+  },
+  "body": {
+    "es": "<p>A Barbe-Nicole Ponsardin, la viuda Clicquot, se le atribuye haber elaborado en 1818 uno de los primeros champanes rosados <strong>por ensamblaje</strong>, añadiendo vino tinto a un vino blanco en lugar de colorearlo con otros procedimientos. Ese método es hoy el más utilizado en Champagne, y el Rosé de la casa se inscribe en esa tradición.</p><p>Su base es el ensamblaje del brut de la casa, con predominio de <strong>Pinot Noir</strong>, completado con Pinot Meunier y <strong>Chardonnay</strong>, al que se añade una proporción de vino tinto tranquilo de Pinot Noir procedente de parcelas seleccionadas de la casa en la Montaña de Reims. Las proporciones varían según el ensamblaje. Incluye vinos de reserva y se cría varios años sobre lías.</p><p>Es un rosado de color vivo, con aromas de frutos rojos frescos, como fresa y frambuesa, y notas de bollería, y una boca afrutada y estructurada, con la potencia característica del estilo Clicquot.</p>",
+    "en": "<p>Barbe-Nicole Ponsardin, the widow Clicquot, is credited with making in 1818 one of the first rosé champagnes <strong>by blending</strong>, adding red wine to a white wine instead of colouring it by other means. This method is now the most widely used in Champagne, and the house’s Rosé belongs to that tradition.</p><p>Its base is the blend of the house brut, dominated by <strong>Pinot Noir</strong> and completed with Pinot Meunier and <strong>Chardonnay</strong>, to which a proportion of still red Pinot Noir wine from selected house plots in the Montagne de Reims is added. The proportions vary from blend to blend. It includes reserve wines and is aged for several years on its lees.</p><p>It is a brightly coloured rosé, with aromas of fresh red fruit such as strawberry and raspberry and notes of pastry, and a fruity, structured palate with the power characteristic of the Clicquot style.</p>",
+    "fr": "<p>On attribue à Barbe-Nicole Ponsardin, la veuve Clicquot, l’élaboration en 1818 de l’un des premiers champagnes rosés <strong>d’assemblage</strong>, obtenu en ajoutant du vin rouge à un vin blanc plutôt qu’en le colorant par d’autres procédés. Cette méthode est aujourd’hui la plus utilisée en Champagne, et le Rosé de la maison s’inscrit dans cette tradition.</p><p>Sa base est l’assemblage du brut de la maison, à dominante de <strong>pinot noir</strong>, complété par le pinot meunier et le <strong>chardonnay</strong>, auquel s’ajoute une proportion de vin rouge tranquille de pinot noir issu de parcelles sélectionnées de la maison dans la Montagne de Reims. Les proportions varient selon l’assemblage. Il comprend des vins de réserve et il est élevé plusieurs années sur lies.</p><p>C’est un rosé à la couleur vive, aux arômes de fruits rouges frais comme la fraise et la framboise et aux notes de viennoiserie, à la bouche fruitée et structurée, avec la puissance caractéristique du style Clicquot.</p>",
+    "it": "<p>A Barbe-Nicole Ponsardin, la vedova Clicquot, si attribuisce l’elaborazione nel 1818 di uno dei primi champagne rosé <strong>per assemblaggio</strong>, aggiungendo vino rosso a un vino bianco invece di colorarlo con altri procedimenti. Questo metodo è oggi il più usato in Champagne, e il Rosé della casa si inserisce in questa tradizione.</p><p>La sua base è l’assemblaggio del brut della casa, con prevalenza di <strong>Pinot Nero</strong>, completato da Pinot Meunier e <strong>Chardonnay</strong>, a cui si aggiunge una quota di vino rosso fermo di Pinot Nero proveniente da parcelle selezionate della casa nella Montagne de Reims. Le proporzioni variano secondo l’assemblaggio. Comprende vini di riserva e affina per diversi anni sui lieviti.</p><p>È un rosé dal colore vivace, con aromi di frutti rossi freschi come fragola e lampone e note di pasticceria, e una bocca fruttata e strutturata, con la potenza caratteristica dello stile Clicquot.</p>"
+  },
+  "tasting": {
+    "es": "Rosa vivo con burbuja fina. Aromas de fresa, frambuesa, cereza y brioche. Boca afrutada y estructurada, fresca, con final persistente.",
+    "en": "Bright pink with fine bubbles. Aromas of strawberry, raspberry, cherry and brioche. Fruity, structured, fresh palate with a persistent finish.",
+    "fr": "Rose vif à la bulle fine. Arômes de fraise, de framboise, de cerise et de brioche. Bouche fruitée et structurée, fraîche, finale persistante.",
+    "it": "Rosa vivace dal perlage fine. Aromi di fragola, lampone, ciliegia e brioche. Bocca fruttata e strutturata, fresca, dal finale persistente."
+  },
+  "pairing": {
+    "es": "Salmón, atún en tataki, pato, cocina asiática, postres de frutos rojos poco dulces",
+    "en": "Salmon, tuna tataki, duck, Asian cuisine, not-too-sweet red fruit desserts",
+    "fr": "Saumon, tataki de thon, canard, cuisine asiatique, desserts aux fruits rouges peu sucrés",
+    "it": "Salmone, tataki di tonno, anatra, cucina asiatica, dolci ai frutti rossi poco zuccherati"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco o de tulipa",
+    "en": "8-10 °C, white wine or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da vino bianco o a tulipano"
+  },
+  "search": "Veuve Clicquot Rosé Champagne Brut"
+}

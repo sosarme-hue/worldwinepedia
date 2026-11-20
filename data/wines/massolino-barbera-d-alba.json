@@ -1,0 +1,40 @@
+{
+  "slug": "massolino-barbera-d-alba",
+  "name": "Massolino Barbera d'Alba",
+  "winery": null,
+  "winery_name": "Massolino",
+  "region": null,
+  "country": "italia",
+  "appellation": "DOC Barbera d'Alba",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Massolino Barbera d'Alba es un vino tinto de Massolino, con la denominación DOC Barbera d'Alba, en Italia.",
+    "en": "Massolino Barbera d'Alba is a red wine from Massolino, made under the DOC Barbera d'Alba appellation in Italy.",
+    "fr": "Massolino Barbera d'Alba est un vin rouge de Massolino, élaboré sous l’appellation DOC Barbera d'Alba (Italie).",
+    "it": "Massolino Barbera d'Alba è un vino rosso di Massolino, prodotto nella denominazione DOC Barbera d'Alba (Italia)."
+  },
+  "body": {
+    "es": "<p>Se cría en depósitos de acero inoxidable. Su graduación es de 14 % vol.</p>",
+    "en": "<p>It is aged in stainless steel tanks. It has 14% ABV.</p>",
+    "fr": "<p>Il est élevé en cuves inox. Il titre 14 % vol.</p>",
+    "it": "<p>Affina in acciaio inox. Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Massolino Barbera d'Alba Massolino",
+  "brief": true,
+  "source": "decantalo"
+}

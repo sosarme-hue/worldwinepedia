@@ -1,0 +1,50 @@
+{
+  "slug": "ayala-brut-nature",
+  "name": "Ayala Brut Nature",
+  "winery": "ayala",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut Nature",
+    "en": "Brut Nature",
+    "fr": "Brut Nature",
+    "it": "Brut Nature"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir",
+    "pinot-meunier"
+  ],
+  "summary": {
+    "es": "Champagne sin dosificación de la casa Ayala, de Aÿ, que ensambla las tres variedades principales de la región.",
+    "en": "Zero-dosage Champagne from the Aÿ house of Ayala, blending the region’s three main varieties.",
+    "fr": "Champagne non dosé de la maison Ayala, à Aÿ, assemblant les trois principaux cépages de la région.",
+    "it": "Champagne senza dosaggio della maison Ayala, di Aÿ, che assembla i tre principali vitigni della regione."
+  },
+  "body": {
+    "es": "<p>Un champagne <strong>Brut Nature</strong> es aquel al que no se añade azúcar en el licor de expedición tras el degüelle, o solo una cantidad mínima, de modo que el vino muestra sin filtros el carácter de los vinos base y de la crianza. Ayala fue una de las primeras casas de Champagne en apostar por este estilo, coherente con su búsqueda de frescura y precisión.</p><p>Este Brut Nature ensambla <strong>Chardonnay</strong>, <strong>Pinot Noir</strong> y <strong>Meunier</strong> de distintos pueblos de la región, con vinos de reserva que aportan complejidad. Tras la segunda fermentación en botella, reposa sobre sus lías durante un periodo prolongado, lo que redondea la textura y compensa la ausencia de dosificación.</p><p>Es un champagne seco, tenso y muy fresco, de burbuja fina, con notas de cítricos, fruta blanca y brioche suave. Resulta especialmente adecuado como aperitivo y con marisco crudo.</p>",
+    "en": "<p>A <strong>Brut Nature</strong> champagne is one to which no sugar, or only a minimal amount, is added in the liqueur d’expédition after disgorgement, so that the wine shows the character of the base wines and of the ageing without any filter. Ayala was one of the first Champagne houses to embrace this style, in keeping with its pursuit of freshness and precision.</p><p>This Brut Nature blends <strong>Chardonnay</strong>, <strong>Pinot Noir</strong> and <strong>Meunier</strong> from various villages of the region, with reserve wines that add complexity. After the second fermentation in bottle, it rests on its lees for an extended period, which rounds out the texture and offsets the absence of dosage.</p><p>It is a dry, taut and very fresh champagne with fine bubbles and notes of citrus, white fruit and gentle brioche. It is particularly suited as an aperitif and with raw shellfish.</p>",
+    "fr": "<p>Un champagne <strong>Brut Nature</strong> est un champagne auquel on n’ajoute pas de sucre dans la liqueur d’expédition après le dégorgement, ou seulement une quantité infime, de sorte que le vin montre sans fard le caractère des vins de base et de l’élevage. Ayala a été l’une des premières maisons de Champagne à miser sur ce style, cohérent avec sa recherche de fraîcheur et de précision.</p><p>Ce Brut Nature assemble <strong>chardonnay</strong>, <strong>pinot noir</strong> et <strong>meunier</strong> de différents villages de la région, avec des vins de réserve qui apportent de la complexité. Après la seconde fermentation en bouteille, il repose sur lies pendant une période prolongée, ce qui arrondit la texture et compense l’absence de dosage.</p><p>C’est un champagne sec, tendu et très frais, à la bulle fine, aux notes d’agrumes, de fruits blancs et de brioche légère. Il convient particulièrement à l’apéritif et aux fruits de mer crus.</p>",
+    "it": "<p>Uno champagne <strong>Brut Nature</strong> è quello a cui non si aggiunge zucchero nella liqueur d’expédition dopo la sboccatura, o solo una quantità minima, così che il vino mostra senza filtri il carattere dei vini base e dell’affinamento. Ayala è stata una delle prime maison di Champagne a puntare su questo stile, coerente con la sua ricerca di freschezza e precisione.</p><p>Questo Brut Nature assembla <strong>Chardonnay</strong>, <strong>Pinot Noir</strong> e <strong>Meunier</strong> di diversi villaggi della regione, con vini di riserva che apportano complessità. Dopo la seconda fermentazione in bottiglia, riposa sui lieviti per un periodo prolungato, il che arrotonda la consistenza e compensa l’assenza di dosaggio.</p><p>È uno champagne secco, teso e freschissimo, dalla bollicina fine, con note di agrumi, frutta bianca e brioche leggera. È particolarmente adatto come aperitivo e con crudi di mare.</p>"
+  },
+  "tasting": {
+    "es": "Aromas de limón, manzana verde, flores blancas y brioche. Boca seca y tensa, de burbuja fina y final mineral.",
+    "en": "Aromas of lemon, green apple, white flowers and brioche. Dry, taut palate with fine bubbles and a mineral finish.",
+    "fr": "Arômes de citron, de pomme verte, de fleurs blanches et de brioche. Bouche sèche et tendue, à la bulle fine et à la finale minérale.",
+    "it": "Aromi di limone, mela verde, fiori bianchi e brioche. Bocca secca e tesa, dalla bollicina fine e finale minerale."
+  },
+  "pairing": {
+    "es": "Ostras, sushi, ceviche, aperitivo",
+    "en": "Oysters, sushi, ceviche, aperitif",
+    "fr": "Huîtres, sushis, ceviche, apéritif",
+    "it": "Ostriche, sushi, ceviche, aperitivo"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco o tulipa",
+    "en": "8-10 °C, white wine glass or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da vino bianco o a tulipano"
+  },
+  "search": "Champagne Ayala Brut Nature"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "trenel-beaujolais-nouveau",
+  "name": "Trenel Beaujolais Nouveau",
+  "winery": "m-chapoutier",
+  "region": "beaujolais",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Beaujolais Nouveau",
+    "en": "Beaujolais Nouveau",
+    "fr": "Beaujolais Nouveau",
+    "it": "Beaujolais Nouveau"
+  },
+  "grapes": [
+    "gamay"
+  ],
+  "summary": {
+    "es": "Beaujolais Nouveau de Maison Trenel, del grupo M. Chapoutier: un Gamay joven y afrutado que sale al mercado pocas semanas después de la vendimia.",
+    "en": "Beaujolais Nouveau from Maison Trenel, part of the M. Chapoutier group: a young, fruity Gamay released a few weeks after the harvest.",
+    "fr": "Beaujolais nouveau de la Maison Trenel, du groupe M. Chapoutier : un gamay jeune et fruité commercialisé quelques semaines après la vendange.",
+    "it": "Beaujolais Nouveau di Maison Trenel, del gruppo M. Chapoutier: un Gamay giovane e fruttato messo in commercio poche settimane dopo la vendemmia."
+  },
+  "body": {
+    "es": "<p>El <strong>Beaujolais Nouveau</strong> es un vino primeur: la normativa permite su venta a partir del tercer jueves de noviembre, apenas unas semanas después de la vendimia, una fecha que se ha convertido en una celebración popular en Francia y en muchos otros países. Se elabora con <strong>Gamay</strong> de la zona del Beaujolais y está pensado para beberse en los meses siguientes a su salida.</p><p>Maison Trenel, casa del Mâconnais especializada en vinos del Beaujolais y del sur de Borgoña, integrada en el grupo de M. Chapoutier, elabora su versión con uvas vendimiadas a mano. Como es tradicional, se utiliza la <strong>maceración carbónica</strong> o semicarbónica, con racimos enteros, que favorece los aromas de fruta fresca y limita la extracción de taninos.</p><p>Es un tinto ligero y muy afrutado, de color violáceo, con aromas de fresa, frambuesa y plátano, boca jugosa y fresca. Conviene servirlo algo fresco.</p>",
+    "en": "<p><strong>Beaujolais Nouveau</strong> is a primeur wine: the rules allow it to be sold from the third Thursday of November, just a few weeks after the harvest, a date that has become a popular celebration in France and many other countries. It is made from <strong>Gamay</strong> from the Beaujolais area and is intended to be drunk in the months following its release.</p><p>Maison Trenel, a Mâconnais house specialising in wines from Beaujolais and southern Burgundy and part of the M. Chapoutier group, makes its version from hand-picked grapes. As is traditional, <strong>carbonic</strong> or semi-carbonic maceration of whole bunches is used, which favours fresh-fruit aromas and limits the extraction of tannins.</p><p>It is a light, very fruity red with a purplish colour, aromas of strawberry, raspberry and banana, and a juicy, fresh palate. It is best served slightly cool.</p>",
+    "fr": "<p>Le <strong>beaujolais nouveau</strong> est un vin primeur : la réglementation autorise sa vente à partir du troisième jeudi de novembre, quelques semaines seulement après la vendange, une date devenue une fête populaire en France et dans de nombreux autres pays. Il est élaboré à partir de <strong>gamay</strong> du Beaujolais et se destine à être bu dans les mois qui suivent sa sortie.</p><p>La Maison Trenel, maison du Mâconnais spécialisée dans les vins du Beaujolais et du sud de la Bourgogne, intégrée au groupe M. Chapoutier, en élabore sa version à partir de raisins vendangés à la main. Selon la tradition, on recourt à la <strong>macération carbonique</strong> ou semi-carbonique en grappes entières, qui favorise les arômes de fruits frais et limite l’extraction des tanins.</p><p>C’est un rouge léger et très fruité, à la couleur violacée, aux arômes de fraise, de framboise et de banane, à la bouche juteuse et fraîche. Il est préférable de le servir un peu frais.</p>",
+    "it": "<p>Il <strong>Beaujolais Nouveau</strong> è un vino primeur: il disciplinare ne consente la vendita a partire dal terzo giovedì di novembre, appena poche settimane dopo la vendemmia, una data diventata una festa popolare in Francia e in molti altri paesi. È prodotto con <strong>Gamay</strong> della zona del Beaujolais ed è pensato per essere bevuto nei mesi successivi all’uscita.</p><p>Maison Trenel, casa del Mâconnais specializzata in vini del Beaujolais e della Borgogna meridionale, parte del gruppo M. Chapoutier, ne produce la propria versione con uve vendemmiate a mano. Come da tradizione, si ricorre alla <strong>macerazione carbonica</strong> o semicarbonica a grappolo intero, che favorisce gli aromi di frutta fresca e limita l’estrazione dei tannini.</p><p>È un rosso leggero e molto fruttato, di colore violaceo, con profumi di fragola, lampone e banana, bocca succosa e fresca. Conviene servirlo leggermente fresco.</p>"
+  },
+  "tasting": {
+    "es": "Fresa, frambuesa, cereza y plátano. Boca ligera, jugosa y con taninos muy suaves.",
+    "en": "Strawberry, raspberry, cherry and banana. Light, juicy palate with very soft tannins.",
+    "fr": "Fraise, framboise, cerise et banane. Bouche légère, juteuse, aux tanins très souples.",
+    "it": "Fragola, lampone, ciliegia e banana. Bocca leggera, succosa e dai tannini molto morbidi."
+  },
+  "pairing": {
+    "es": "Embutidos, quesos suaves, pizza, tablas de aperitivo, cocina informal",
+    "en": "Charcuterie, mild cheeses, pizza, sharing boards, casual dishes",
+    "fr": "Charcuterie, fromages doux, pizza, planches apéritives, cuisine décontractée",
+    "it": "Salumi, formaggi delicati, pizza, taglieri, cucina informale"
+  },
+  "serve": {
+    "es": "12-14 °C, copa de tamaño medio",
+    "en": "12-14 °C, medium-sized glass",
+    "fr": "12-14 °C, verre de taille moyenne",
+    "it": "12-14 °C, calice di medie dimensioni"
+  },
+  "search": "Beaujolais Nouveau Trenel"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "juliusspital-silvaner-trocken",
+  "name": "Juliusspital Silvaner Trocken",
+  "winery": "juliusspital",
+  "region": "franken",
+  "country": "alemania",
+  "type": "blanco",
+  "category": {
+    "es": "Qualitätswein seco",
+    "en": "Dry Qualitätswein",
+    "fr": "Qualitätswein sec",
+    "it": "Qualitätswein secco"
+  },
+  "grapes": [
+    "silvaner"
+  ],
+  "summary": {
+    "es": "Silvaner seco de Franken del Juliusspital, en la tradicional botella Bocksbeutel, un ejemplo clásico del estilo regional.",
+    "en": "Dry Franconian Silvaner from the Juliusspital, in the traditional Bocksbeutel bottle, a classic example of the regional style.",
+    "fr": "Silvaner sec de Franconie du Juliusspital, dans la traditionnelle bouteille Bocksbeutel, un exemple classique du style régional.",
+    "it": "Silvaner secco della Franconia del Juliusspital, nella tradizionale bottiglia Bocksbeutel, un esempio classico dello stile regionale."
+  },
+  "body": {
+    "es": "<p>El Silvaner es la variedad emblemática de Franken y la principal de la bodega del <strong>Juliusspital</strong>, la fundación hospitalaria creada en Wurzburgo en 1576. Este Silvaner seco es uno de los vinos de base de la casa y se elabora con uvas de sus viñedos en el valle del Meno y sus alrededores, sobre suelos de caliza conchífera y marga.</p><p>La elaboración busca conservar la frescura y la sobriedad aromática típicas del Silvaner franco, con notas de fruta blanca y hierbas y un perfil ligeramente terroso. Es un vino seco, de cuerpo ligero a medio y acidez moderada, que se embotella en la característica <strong>Bocksbeutel</strong>, la botella redondeada y aplanada reservada por ley a los vinos de calidad de Franken y de algunas zonas vecinas.</p><p>Es un vino pensado para disfrutarse en su juventud, cuando conserva toda su frescura, y resulta muy versátil en la mesa, tanto con platos sencillos como con cocina de verduras y pescados.</p>",
+    "en": "<p>Silvaner is Franken’s emblematic variety and the main grape of the <strong>Juliusspital</strong> winery, part of the hospital foundation established in Würzburg in 1576. This dry Silvaner is one of the house’s core wines and is made from grapes from its vineyards in and around the Main valley, on shell limestone and marl soils.</p><p>Winemaking aims to preserve the freshness and aromatic restraint typical of Franconian Silvaner, with notes of white fruit and herbs and a slightly earthy profile. It is a dry wine, light to medium in body with moderate acidity, bottled in the characteristic <strong>Bocksbeutel</strong>, the rounded, flattened bottle reserved by law for quality wines from Franken and a few neighbouring areas.</p><p>It is a wine designed to be enjoyed young, while it keeps all its freshness, and it is very versatile at the table, with simple dishes as well as vegetable and fish cookery.</p>",
+    "fr": "<p>Le silvaner est le cépage emblématique de la Franconie et le principal du domaine du <strong>Juliusspital</strong>, la fondation hospitalière créée à Wurtzbourg en 1576. Ce silvaner sec est l’un des vins de base de la maison et il est élaboré avec des raisins de ses vignes de la vallée du Main et des environs, sur des sols de calcaire coquillier et de marne.</p><p>La vinification cherche à préserver la fraîcheur et la sobriété aromatique propres au silvaner franconien, avec des notes de fruits blancs et d’herbes et un profil légèrement terreux. C’est un vin sec, de corps léger à moyen et d’acidité modérée, mis dans le caractéristique <strong>Bocksbeutel</strong>, la bouteille arrondie et aplatie réservée par la loi aux vins de qualité de Franconie et de quelques zones voisines.</p><p>C’est un vin conçu pour être apprécié dans sa jeunesse, lorsqu’il conserve toute sa fraîcheur, et il se montre très polyvalent à table, avec des plats simples comme avec une cuisine de légumes et de poissons.</p>",
+    "it": "<p>Il Silvaner è il vitigno emblematico della Franconia e il principale della cantina del <strong>Juliusspital</strong>, la fondazione ospedaliera creata a Würzburg nel 1576. Questo Silvaner secco è uno dei vini di base della casa e si produce con uve dei suoi vigneti nella valle del Meno e dintorni, su suoli di calcare conchilifero e marna.</p><p>La vinificazione mira a preservare la freschezza e la sobrietà aromatica tipiche del Silvaner della Franconia, con note di frutta bianca ed erbe e un profilo leggermente terroso. È un vino secco, di corpo leggero o medio e acidità moderata, imbottigliato nella caratteristica <strong>Bocksbeutel</strong>, la bottiglia arrotondata e appiattita riservata per legge ai vini di qualità della Franconia e di alcune zone vicine.</p><p>È un vino pensato per essere gustato giovane, quando conserva tutta la sua freschezza, e si rivela molto versatile a tavola, sia con piatti semplici sia con cucina di verdure e pesce.</p>"
+  },
+  "tasting": {
+    "es": "Aromas discretos de pera, manzana verde, hierba fresca y notas terrosas. En boca es seco, ligero y equilibrado, con un final limpio.",
+    "en": "Discreet aromas of pear, green apple, fresh grass and earthy notes. Dry, light and balanced on the palate, with a clean finish.",
+    "fr": "Arômes discrets de poire, de pomme verte, d’herbe fraîche et notes terreuses. En bouche, il est sec, léger et équilibré, avec une finale nette.",
+    "it": "Aromi discreti di pera, mela verde, erba fresca e note terrose. In bocca è secco, leggero ed equilibrato, con un finale pulito."
+  },
+  "pairing": {
+    "es": "Espárragos, pescados de río, ensaladas, embutidos y salchichas de Franken",
+    "en": "Asparagus, freshwater fish, salads, Franconian cold cuts and sausages",
+    "fr": "Asperges, poissons de rivière, salades, charcuteries et saucisses de Franconie",
+    "it": "Asparagi, pesce d’acqua dolce, insalate, salumi e salsicce della Franconia"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Juliusspital Silvaner Trocken Franken Bocksbeutel"
+}

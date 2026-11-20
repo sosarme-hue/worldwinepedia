@@ -1,0 +1,41 @@
+{
+  "slug": "ferrari-perle",
+  "name": "Ferrari Perlé",
+  "winery": "ferrari",
+  "region": "trentino-alto-adige",
+  "country": "italia",
+  "type": "espumoso",
+  "category": {"es": "Trento DOC Brut millesimato", "en": "Trento DOC Brut vintage", "fr": "Trento DOC Brut millésimé", "it": "Trento DOC Brut millesimato"},
+  "grapes": ["chardonnay"],
+  "summary": {
+    "es": "Espumoso de añada de Ferrari, un Trento DOC de Chardonnay de viñedos propios con una crianza sobre lías más larga que la del Brut.",
+    "en": "Ferrari’s vintage sparkling wine, a Trento DOC from estate-grown Chardonnay with longer lees ageing than the Brut.",
+    "fr": "Effervescent millésimé de Ferrari, un Trento DOC de chardonnay des vignes de la maison, au vieillissement sur lies plus long que celui du Brut.",
+    "it": "Spumante millesimato di Ferrari, un Trento DOC di Chardonnay da vigneti di proprietà con un affinamento sui lieviti più lungo di quello del Brut."
+  },
+  "body": {
+    "es": "<p>Perlé es la línea de espumosos de añada de Ferrari. El Perlé blanco se elabora con Chardonnay de viñedos propios de la familia Lunelli en las colinas que rodean Trento, procedente de una sola cosecha.</p><p>Como los demás vinos de la casa, se elabora por el método tradicional, con segunda fermentación en botella. Su crianza sobre lías es claramente más larga que la del Ferrari Brut, lo que aporta mayor complejidad, una burbuja muy fina y notas más marcadas de pastelería y frutos secos.</p><p>Es un espumoso seco y elegante, de estilo puro, que expresa bien el carácter de la Chardonnay de montaña. Se presta a acompañar una comida completa, no sólo el aperitivo.</p>",
+    "en": "<p>Perlé is Ferrari’s line of vintage sparkling wines. The white Perlé is made from Chardonnay grown in the Lunelli family’s own vineyards on the hills around Trento, from a single harvest.</p><p>Like the house’s other wines, it is made by the traditional method, with second fermentation in bottle. Its lees ageing is markedly longer than that of Ferrari Brut, giving greater complexity, very fine bubbles and more pronounced notes of pastry and nuts.</p><p>It is a dry, elegant, pure-styled sparkling wine that expresses the character of mountain Chardonnay well. It can accompany a whole meal, not just the aperitif.</p>",
+    "fr": "<p>Perlé est la ligne d’effervescents millésimés de Ferrari. Le Perlé blanc est élaboré avec du chardonnay des vignes de la famille Lunelli sur les collines qui entourent Trente, issu d’une seule récolte.</p><p>Comme les autres vins de la maison, il est élaboré selon la méthode traditionnelle, avec seconde fermentation en bouteille. Son vieillissement sur lies est nettement plus long que celui du Ferrari Brut, ce qui lui donne plus de complexité, une bulle très fine et des notes plus marquées de pâtisserie et de fruits secs.</p><p>C’est un effervescent sec et élégant, au style pur, qui exprime bien le caractère du chardonnay de montagne. Il peut accompagner tout un repas, et pas seulement l’apéritif.</p>",
+    "it": "<p>Perlé è la linea di spumanti millesimati di Ferrari. Il Perlé bianco è prodotto con Chardonnay dei vigneti di proprietà della famiglia Lunelli sulle colline attorno a Trento, da una sola vendemmia.</p><p>Come gli altri vini della casa, è prodotto con il metodo classico, con seconda fermentazione in bottiglia. L’affinamento sui lieviti è decisamente più lungo di quello del Ferrari Brut, il che gli conferisce maggiore complessità, un perlage finissimo e note più marcate di pasticceria e frutta secca.</p><p>È uno spumante secco ed elegante, di stile puro, che esprime bene il carattere dello Chardonnay di montagna. Si presta ad accompagnare un intero pasto, non solo l’aperitivo.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pajizo con reflejos dorados y burbuja muy fina. Aromas de manzana madura, flores, almendra y bollería. En boca es seco, cremoso y elegante, con una acidez fresca y final largo.",
+    "en": "Straw yellow with golden glints and very fine bubbles. Aromas of ripe apple, flowers, almond and pastry. Dry, creamy and elegant on the palate, with fresh acidity and a long finish.",
+    "fr": "Jaune paille aux reflets dorés et à la bulle très fine. Arômes de pomme mûre, de fleurs, d’amande et de viennoiserie. En bouche, il est sec, crémeux et élégant, avec une acidité fraîche et une finale longue.",
+    "it": "Giallo paglierino con riflessi dorati e perlage finissimo. Profumi di mela matura, fiori, mandorla e pasticceria. In bocca è secco, cremoso ed elegante, con acidità fresca e finale lungo."
+  },
+  "pairing": {
+    "es": "Pescados al horno, marisco, risotto, carnes blancas, quesos de media curación",
+    "en": "Baked fish, shellfish, risotto, white meat, medium-aged cheeses",
+    "fr": "Poissons au four, fruits de mer, risotto, viandes blanches, fromages mi-affinés",
+    "it": "Pesce al forno, frutti di mare, risotto, carni bianche, formaggi di media stagionatura"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Ferrari Perlé Trento DOC"
+}

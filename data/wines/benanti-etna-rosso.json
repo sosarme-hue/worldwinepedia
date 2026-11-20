@@ -1,0 +1,41 @@
+{
+  "slug": "benanti-etna-rosso",
+  "name": "Benanti Etna Rosso",
+  "winery": "benanti",
+  "region": "etna",
+  "country": "italia",
+  "type": "tinto",
+  "category": {"es": "Etna Rosso DOC", "en": "Etna Rosso DOC", "fr": "Etna Rosso DOC", "it": "Etna Rosso DOC"},
+  "grapes": ["nerello-mascalese"],
+  "summary": {
+    "es": "Etna Rosso de Benanti a base de Nerello Mascalese con Nerello Cappuccio, un tinto volcánico de cuerpo medio, fresco y aromático.",
+    "en": "Benanti’s Etna Rosso based on Nerello Mascalese with Nerello Cappuccio, a fresh, aromatic, medium-bodied volcanic red.",
+    "fr": "Etna Rosso de Benanti à base de nerello mascalese avec du nerello cappuccio, un rouge volcanique de corps moyen, frais et aromatique.",
+    "it": "Etna Rosso di Benanti a base di Nerello Mascalese con Nerello Cappuccio, un rosso vulcanico di medio corpo, fresco e aromatico."
+  },
+  "body": {
+    "es": "<p>La DOC Etna Rosso se extiende por las laderas norte, este y sur del volcán, con viñedos que en muchos casos superan los 500 metros de altitud y que se asientan sobre suelos de origen volcánico, arenosos y ricos en minerales. El clima, de montaña mediterránea, combina sol intenso con noches frescas y lluvias más abundantes que en el resto de Sicilia.</p><p>El Etna Rosso de Benanti se elabora con Nerello Mascalese, la gran uva tinta del volcán, completada con una pequeña parte de Nerello Cappuccio, que aporta color y suavidad. Las uvas proceden de viñedos de distintas vertientes del Etna. Tras la fermentación, el vino se cría en madera y después en botella.</p><p>Es un tinto de color relativamente claro, con un perfil que a menudo se compara con el de la Pinot Noir o la Nebbiolo: fruta roja, notas florales y especiadas, acidez viva y tanino fino. Es una buena introducción a los vinos del Etna.</p>",
+    "en": "<p>The Etna Rosso DOC covers the northern, eastern and southern slopes of the volcano, with vineyards that often lie above 500 metres on sandy, mineral-rich volcanic soils. The climate, Mediterranean but mountainous, combines intense sunshine with cool nights and more rainfall than the rest of Sicily.</p><p>Benanti’s Etna Rosso is made from Nerello Mascalese, the volcano’s great red grape, completed with a small share of Nerello Cappuccio, which adds colour and softness. The grapes come from vineyards on different sides of Etna. After fermentation the wine is aged in wood and then in bottle.</p><p>It is a relatively pale red whose profile is often compared to Pinot Noir or Nebbiolo: red fruit, floral and spicy notes, lively acidity and fine tannins. It is a good introduction to the wines of Etna.</p>",
+    "fr": "<p>La DOC Etna Rosso s’étend sur les versants nord, est et sud du volcan, avec des vignes qui dépassent souvent 500 mètres d’altitude et poussent sur des sols volcaniques sableux et riches en minéraux. Le climat, méditerranéen mais montagnard, associe un ensoleillement intense à des nuits fraîches et à des pluies plus abondantes que dans le reste de la Sicile.</p><p>L’Etna Rosso de Benanti est élaboré avec du nerello mascalese, le grand cépage rouge du volcan, complété par une petite part de nerello cappuccio, qui apporte couleur et souplesse. Les raisins proviennent de vignes situées sur différents versants de l’Etna. Après la fermentation, le vin est élevé sous bois puis en bouteille.</p><p>C’est un rouge à la couleur relativement claire, dont le profil est souvent comparé à celui du pinot noir ou du nebbiolo : fruits rouges, notes florales et épicées, acidité vive et tanins fins. C’est une bonne introduction aux vins de l’Etna.</p>",
+    "it": "<p>La DOC Etna Rosso si estende sui versanti nord, est e sud del vulcano, con vigneti che spesso superano i 500 metri di altitudine e crescono su suoli vulcanici sabbiosi e ricchi di minerali. Il clima, mediterraneo ma di montagna, unisce un sole intenso a notti fresche e piogge più abbondanti che nel resto della Sicilia.</p><p>L’Etna Rosso di Benanti è prodotto con Nerello Mascalese, la grande uva rossa del vulcano, completato da una piccola quota di Nerello Cappuccio, che apporta colore e morbidezza. Le uve provengono da vigneti su diversi versanti dell’Etna. Dopo la fermentazione il vino affina in legno e poi in bottiglia.</p><p>È un rosso dal colore relativamente scarico, il cui profilo viene spesso paragonato a quello del Pinot Nero o del Nebbiolo: frutto rosso, note floreali e speziate, acidità vivace e tannino fine. È una buona introduzione ai vini dell’Etna.</p>"
+  },
+  "tasting": {
+    "es": "Rubí claro y brillante. Aromas de cereza, frambuesa, pétalos de rosa y especias, con un toque ahumado y mineral. En boca es de cuerpo medio, con acidez viva, tanino fino y final fresco.",
+    "en": "Bright, light ruby. Aromas of cherry, raspberry, rose petals and spice, with a smoky, mineral touch. Medium-bodied on the palate, with lively acidity, fine tannins and a fresh finish.",
+    "fr": "Rubis clair et brillant. Arômes de cerise, de framboise, de pétales de rose et d’épices, avec une touche fumée et minérale. En bouche, corps moyen, acidité vive, tanins fins et finale fraîche.",
+    "it": "Rubino chiaro e brillante. Profumi di ciliegia, lampone, petali di rosa e spezie, con un tocco affumicato e minerale. In bocca ha medio corpo, acidità vivace, tannino fine e finale fresco."
+  },
+  "pairing": {
+    "es": "Atún o pez espada a la plancha, pasta con setas, carnes blancas, embutidos, quesos semicurados",
+    "en": "Grilled tuna or swordfish, pasta with mushrooms, white meat, cured meats, semi-aged cheeses",
+    "fr": "Thon ou espadon grillé, pâtes aux champignons, viandes blanches, charcuterie, fromages mi-affinés",
+    "it": "Tonno o pesce spada alla griglia, pasta ai funghi, carni bianche, salumi, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "15-17 °C, copa amplia de tipo borgoña",
+    "en": "15-17 °C, large Burgundy-style glass",
+    "fr": "15-17 °C, grand verre de type bourguignon",
+    "it": "15-17 °C, ampio calice tipo borgogna"
+  },
+  "search": "Benanti Etna Rosso"
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "chateau-kirwan",
+  "name": "Château Kirwan",
+  "winery": "chateau-kirwan",
+  "region": "margaux",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "3er Gran Cru Clasificado (1855)",
+    "en": "3rd Grand Cru Classé (1855)",
+    "fr": "3e Grand Cru Classé (1855)",
+    "it": "3° Grand Cru Classé (1855)"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "cabernet-franc",
+    "petit-verdot"
+  ],
+  "summary": {
+    "es": "Gran vino de Château Kirwan, tercer cru clasificado de Margaux, un tinto elegante y de estructura generosa.",
+    "en": "The grand vin of Château Kirwan, a Margaux third growth, an elegant red with a generous structure.",
+    "fr": "Grand vin du Château Kirwan, troisième cru classé de Margaux, un rouge élégant à la structure généreuse.",
+    "it": "Grand vin di Château Kirwan, terzo cru classé di Margaux, un rosso elegante dalla struttura generosa."
+  },
+  "body": {
+    "es": "<p>El gran vino de <strong>Château Kirwan</strong> procede de los viñedos de la propiedad en Cantenac, dentro de la denominación <strong>Margaux</strong>. Es un tercer gran cru clasificado de 1855, propiedad de la familia Schÿler.</p><p>Se elabora con un ensamblaje de <strong>Cabernet Sauvignon</strong> y <strong>Merlot</strong>, completado con <strong>Cabernet Franc</strong> y <strong>Petit Verdot</strong>, en proporciones que varían según la añada. Los suelos de gravas, con sectores más arenosos o arcillosos, permiten combinar la estructura del Cabernet con la redondez del Merlot, mientras que el Petit Verdot aporta color y especias.</p><p>La crianza se realiza en barricas de roble, con una parte de madera nueva. El resultado es un Margaux de perfil elegante y perfumado, con fruta negra y roja, notas florales y especiadas, y taninos firmes pero finos. Es un vino de guarda, que se expresa mejor tras algunos años de botella y que evoluciona hacia matices de cedro y sotobosque.</p>",
+    "en": "<p>The grand vin of <strong>Château Kirwan</strong> comes from the estate's vineyards in Cantenac, within the <strong>Margaux</strong> appellation. It is a third growth of the 1855 classification, owned by the Schÿler family.</p><p>It is made from a blend of <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong>, completed with <strong>Cabernet Franc</strong> and <strong>Petit Verdot</strong>, in proportions that vary with the vintage. The gravel soils, with sandier or more clayey sectors, make it possible to combine the structure of Cabernet with the roundness of Merlot, while Petit Verdot adds colour and spice.</p><p>Ageing takes place in oak barrels, part of them new. The result is an elegant, perfumed Margaux, with black and red fruit, floral and spicy notes and firm but fine tannins. It is a wine for cellaring that shows best after a few years in bottle and develops towards hints of cedar and forest floor.</p>",
+    "fr": "<p>Le grand vin du <strong>Château Kirwan</strong> provient des vignes de la propriété à Cantenac, dans l'appellation <strong>margaux</strong>. C'est un troisième grand cru classé en 1855, propriété de la famille Schÿler.</p><p>Il est issu d'un assemblage de <strong>cabernet sauvignon</strong> et de <strong>merlot</strong>, complété de <strong>cabernet franc</strong> et de <strong>petit verdot</strong>, dans des proportions variables selon le millésime. Les sols de graves, avec des secteurs plus sableux ou plus argileux, permettent d'associer la structure du cabernet à la rondeur du merlot, tandis que le petit verdot apporte couleur et épices.</p><p>L'élevage se fait en barriques de chêne, dont une part de bois neuf. Il en résulte un margaux élégant et parfumé, aux fruits noirs et rouges, aux notes florales et épicées, aux tanins fermes mais fins. C'est un vin de garde, qui s'exprime mieux après quelques années de bouteille et évolue vers des nuances de cèdre et de sous-bois.</p>",
+    "it": "<p>Il grand vin di <strong>Château Kirwan</strong> proviene dai vigneti della tenuta a Cantenac, nella denominazione <strong>Margaux</strong>. È un terzo grand cru classé del 1855, di proprietà della famiglia Schÿler.</p><p>È prodotto con un taglio di <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong>, completato da <strong>Cabernet Franc</strong> e <strong>Petit Verdot</strong>, in proporzioni che variano secondo l'annata. I suoli di ghiaie, con settori più sabbiosi o argillosi, permettono di unire la struttura del Cabernet alla rotondità del Merlot, mentre il Petit Verdot apporta colore e spezie.</p><p>L'affinamento avviene in barrique di rovere, in parte nuove. Il risultato è un Margaux elegante e profumato, con frutta nera e rossa, note floreali e speziate e tannini decisi ma fini. È un vino da invecchiamento, che si esprime al meglio dopo qualche anno di bottiglia ed evolve verso sfumature di cedro e sottobosco.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí profundo. Aromas de cassis, cereza negra, violeta, especias y cedro. Boca elegante, de taninos firmes y finos y final largo.",
+    "en": "Deep ruby. Aromas of blackcurrant, black cherry, violet, spice and cedar. Elegant palate with firm, fine tannins and a long finish.",
+    "fr": "Rubis profond. Arômes de cassis, de cerise noire, de violette, d'épices et de cèdre. Bouche élégante aux tanins fermes et fins, finale longue.",
+    "it": "Rubino profondo. Aromi di ribes nero, ciliegia nera, viola, spezie e cedro. Bocca elegante, tannini decisi e fini, finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, solomillo, pato, quesos curados",
+    "en": "Roast lamb, beef fillet, duck, aged cheeses",
+    "fr": "Agneau rôti, filet de bœuf, canard, fromages affinés",
+    "it": "Agnello arrosto, filetto di manzo, anatra, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de Burdeos",
+    "en": "16-18 °C, Bordeaux glass",
+    "fr": "16-18 °C, verre à bordeaux",
+    "it": "16-18 °C, calice da Bordeaux"
+  },
+  "search": "Château Kirwan Margaux"
+}

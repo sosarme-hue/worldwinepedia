@@ -1,0 +1,48 @@
+{
+  "slug": "el-coto-crianza",
+  "name": "El Coto Crianza",
+  "winery": "el-coto",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Crianza",
+    "en": "Crianza",
+    "fr": "Crianza",
+    "it": "Crianza"
+  },
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Crianza de Tempranillo de El Coto de Rioja, criado en barrica de roble americano, y uno de los riojas más presentes en bares y supermercados de España.",
+    "en": "Tempranillo Crianza from El Coto de Rioja, aged in American oak barrels, and one of the most common Riojas in Spanish bars and supermarkets.",
+    "fr": "Crianza de tempranillo d’El Coto de Rioja, élevé en barriques de chêne américain, et l’un des riojas les plus présents dans les bars et les supermarchés d’Espagne.",
+    "it": "Crianza di Tempranillo di El Coto de Rioja, affinato in barrique di rovere americano, e uno dei Rioja più presenti nei bar e nei supermercati spagnoli."
+  },
+  "body": {
+    "es": "<p>El Coto Crianza es el vino más conocido de El Coto de Rioja, la bodega fundada en 1970 en Oyón, en la Rioja Alavesa. Se ha convertido en una de las etiquetas de Rioja más habituales en la hostelería española y en las tiendas de alimentación, y es para muchos consumidores un referente del rioja de crianza cotidiano.</p><p>Se elabora con Tempranillo procedente de viñedos de la Denominación de Origen Calificada Rioja. Tras la fermentación, el vino se cría en barricas de roble americano durante al menos un año, como exige la categoría Crianza, y completa su envejecimiento con un periodo de reposo en botella antes de salir al mercado.</p><p>El roble americano imprime al vino los aromas de vainilla y coco característicos del Rioja tradicional, que se suman a la fruta roja madura del Tempranillo. Es un tinto de cuerpo medio, suave y fácil de beber, pensado para disfrutarse en sus primeros años y para acompañar una cocina sencilla.</p>",
+    "en": "<p>El Coto Crianza is the best-known wine from El Coto de Rioja, the winery founded in 1970 in Oyón, in Rioja Alavesa. It has become one of the most familiar Rioja labels in Spanish hospitality and food shops, and for many consumers it is a benchmark for everyday aged Rioja.</p><p>It is made from Tempranillo from vineyards in the Rioja Denominación de Origen Calificada. After fermentation the wine is aged in American oak barrels for at least a year, as the Crianza category requires, and completes its ageing with a period of bottle rest before release.</p><p>American oak gives the wine the vanilla and coconut aromas characteristic of traditional Rioja, which join the ripe red fruit of Tempranillo. It is a medium-bodied, smooth and easy-drinking red, designed to be enjoyed in its first years and to accompany simple cooking.</p>",
+    "fr": "<p>El Coto Crianza est le vin le plus connu d’El Coto de Rioja, la bodega fondée en 1970 à Oyón, dans la Rioja Alavesa. Il est devenu l’une des étiquettes de Rioja les plus courantes dans la restauration espagnole et dans les commerces d’alimentation, et constitue pour beaucoup de consommateurs une référence du rioja élevé de tous les jours.</p><p>Il est élaboré avec du tempranillo provenant de vignes de la Denominación de Origen Calificada Rioja. Après la fermentation, le vin est élevé en barriques de chêne américain pendant au moins un an, comme l’exige la catégorie Crianza, et complète son vieillissement par une période de repos en bouteille avant sa commercialisation.</p><p>Le chêne américain confère au vin les arômes de vanille et de noix de coco caractéristiques du Rioja traditionnel, qui s’ajoutent aux fruits rouges mûrs du tempranillo. C’est un rouge de corps moyen, souple et facile à boire, conçu pour être apprécié dans ses premières années et pour accompagner une cuisine simple.</p>",
+    "it": "<p>El Coto Crianza è il vino più noto di El Coto de Rioja, la cantina fondata nel 1970 a Oyón, nella Rioja Alavesa. È diventato una delle etichette di Rioja più comuni nella ristorazione spagnola e nei negozi di alimentari, e per molti consumatori è un riferimento del Rioja affinato di tutti i giorni.</p><p>È prodotto con Tempranillo proveniente da vigneti della Denominación de Origen Calificada Rioja. Dopo la fermentazione il vino affina in barrique di rovere americano per almeno un anno, come richiede la categoria Crianza, e completa l’invecchiamento con un periodo di riposo in bottiglia prima della messa in commercio.</p><p>Il rovere americano conferisce al vino gli aromi di vaniglia e cocco caratteristici del Rioja tradizionale, che si aggiungono al frutto rosso maturo del Tempranillo. È un rosso di medio corpo, morbido e facile da bere, pensato per essere gustato nei primi anni e per accompagnare una cucina semplice.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota de capa media. Aromas de fruta roja madura con notas de vainilla, coco y especias. En boca es suave y equilibrado, de taninos amables y final afrutado.",
+    "en": "Medium-intensity deep cherry red. Aromas of ripe red fruit with notes of vanilla, coconut and spice. Smooth and balanced on the palate, with gentle tannins and a fruity finish.",
+    "fr": "Rouge cerise burlat de moyenne intensité. Arômes de fruits rouges mûrs avec des notes de vanille, de noix de coco et d’épices. Souple et équilibré en bouche, aux tanins aimables et à la finale fruitée.",
+    "it": "Rosso ciliegia di media intensità. Aromi di frutta rossa matura con note di vaniglia, cocco e spezie. In bocca è morbido ed equilibrato, con tannini gentili e finale fruttato."
+  },
+  "pairing": {
+    "es": "Tapas, embutidos, carnes a la plancha, arroces de carne, pasta",
+    "en": "Tapas, charcuterie, grilled meat, meat rice dishes, pasta",
+    "fr": "Tapas, charcuterie, viandes à la plancha, riz à la viande, pâtes",
+    "it": "Tapas, salumi, carni alla piastra, risi con carne, pasta"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "El Coto Crianza Rioja"
+}

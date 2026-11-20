@@ -1,0 +1,51 @@
+{
+  "slug": "le-serre-nuove-dell-ornellaia",
+  "name": "Le Serre Nuove dell’Ornellaia",
+  "winery": "ornellaia",
+  "region": "bolgheri",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "Bolgheri DOC Rosso",
+    "en": "Bolgheri DOC Rosso",
+    "fr": "Bolgheri DOC Rosso",
+    "it": "Bolgheri DOC Rosso"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "cabernet-franc",
+    "petit-verdot"
+  ],
+  "summary": {
+    "es": "Segundo vino de Tenuta dell’Ornellaia, un Bolgheri Rosso de variedades bordelesas elaborado con el mismo cuidado que el vino principal de la finca.",
+    "en": "Second wine of Tenuta dell’Ornellaia, a Bolgheri Rosso from Bordeaux varieties made with the same care as the estate’s grand vin.",
+    "fr": "Second vin de la Tenuta dell’Ornellaia, un Bolgheri Rosso de cépages bordelais élaboré avec le même soin que le grand vin du domaine.",
+    "it": "Secondo vino della Tenuta dell’Ornellaia, un Bolgheri Rosso da vitigni bordolesi prodotto con la stessa cura del vino principale della tenuta."
+  },
+  "body": {
+    "es": "<p><strong>Le Serre Nuove dell’Ornellaia</strong> se creó a finales de los años noventa como segundo vino de la finca, siguiendo una práctica habitual en los grandes châteaux de Burdeos. Procede de los viñedos de Ornellaia en <strong>Bolgheri</strong>, en la costa toscana, y en particular de parcelas más jóvenes o de lotes que no se destinan al Ornellaia.</p><p>Se elabora con <strong>Cabernet Sauvignon</strong>, <strong>Merlot</strong>, <strong>Cabernet Franc</strong> y <strong>Petit Verdot</strong>, en proporciones que varían según la añada. Las variedades y parcelas se vinifican por separado y el vino se cría en barricas de roble antes del ensamblaje y de un periodo de reposo en botella.</p><p>Es un tinto de perfil mediterráneo, con fruta madura y taninos redondos, más accesible en su juventud que el Ornellaia pero con capacidad para evolucionar varios años. Ofrece una aproximación al estilo de la finca.</p>",
+    "en": "<p><strong>Le Serre Nuove dell’Ornellaia</strong> was created in the late 1990s as the estate’s second wine, following a common practice at the great Bordeaux châteaux. It comes from Ornellaia’s vineyards in <strong>Bolgheri</strong>, on the Tuscan coast, particularly from younger plots or from lots not destined for Ornellaia.</p><p>It is made from <strong>Cabernet Sauvignon</strong>, <strong>Merlot</strong>, <strong>Cabernet Franc</strong> and <strong>Petit Verdot</strong>, in proportions that vary with the vintage. Varieties and plots are vinified separately, and the wine is aged in oak barriques before blending and a period of rest in bottle.</p><p>It is a red of Mediterranean profile, with ripe fruit and rounded tannins, more approachable in its youth than Ornellaia but able to evolve for several years. It offers an introduction to the estate’s style.</p>",
+    "fr": "<p><strong>Le Serre Nuove dell’Ornellaia</strong> a été créé à la fin des années 1990 comme second vin du domaine, selon une pratique courante dans les grands châteaux bordelais. Il provient des vignes d’Ornellaia à <strong>Bolgheri</strong>, sur la côte toscane, en particulier de parcelles plus jeunes ou de lots qui ne sont pas destinés à l’Ornellaia.</p><p>Il est élaboré avec du <strong>cabernet sauvignon</strong>, du <strong>merlot</strong>, du <strong>cabernet franc</strong> et du <strong>petit verdot</strong>, dans des proportions qui varient selon le millésime. Les cépages et les parcelles sont vinifiés séparément, et le vin est élevé en barriques de chêne avant l’assemblage et une période de repos en bouteille.</p><p>C’est un rouge de profil méditerranéen, au fruit mûr et aux tanins ronds, plus accessible dans sa jeunesse que l’Ornellaia mais capable d’évoluer plusieurs années. Il offre une introduction au style du domaine.</p>",
+    "it": "<p><strong>Le Serre Nuove dell’Ornellaia</strong> è nato alla fine degli anni Novanta come secondo vino della tenuta, secondo una pratica diffusa nei grandi château di Bordeaux. Proviene dai vigneti di Ornellaia a <strong>Bolgheri</strong>, sulla costa toscana, in particolare da parcelle più giovani o da partite non destinate all’Ornellaia.</p><p>Si produce con <strong>Cabernet Sauvignon</strong>, <strong>Merlot</strong>, <strong>Cabernet Franc</strong> e <strong>Petit Verdot</strong>, in proporzioni che variano a seconda dell’annata. Vitigni e parcelle sono vinificati separatamente e il vino affina in barrique di rovere prima dell’assemblaggio e di un periodo di riposo in bottiglia.</p><p>È un rosso di profilo mediterraneo, con frutto maturo e tannini rotondi, più accessibile in gioventù rispetto all’Ornellaia ma capace di evolvere per diversi anni. Offre un’introduzione allo stile della tenuta.</p>"
+  },
+  "tasting": {
+    "es": "Rubí profundo. Aromas de grosella negra, cereza, ciruela, hierbas mediterráneas y especias. Boca redonda y equilibrada, con taninos suaves y final persistente.",
+    "en": "Deep ruby. Aromas of blackcurrant, cherry, plum, Mediterranean herbs and spice. Rounded, balanced palate with soft tannins and a persistent finish.",
+    "fr": "Rubis profond. Arômes de cassis, de cerise, de prune, d’herbes méditerranéennes et d’épices. Bouche ronde et équilibrée, aux tanins souples et à la finale persistante.",
+    "it": "Rubino profondo. Profumi di ribes nero, ciliegia, prugna, erbe mediterranee e spezie. Bocca rotonda ed equilibrata, con tannini morbidi e finale persistente."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, cordero asado, caza, quesos curados",
+    "en": "Chargrilled red meat, roast lamb, game, aged cheeses",
+    "fr": "Viandes rouges à la braise, agneau rôti, gibier, fromages affinés",
+    "it": "Carni rosse alla brace, agnello arrosto, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Le Serre Nuove dell'Ornellaia Bolgheri"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "celsus",
+  "name": "Celsus",
+  "winery": null,
+  "winery_name": "Vetus",
+  "region": "toro",
+  "country": "espana",
+  "appellation": "DO Toro",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Tinto de la DO Toro elaborado por Bodegas Vetus con Tinta de Toro de viñas viejas y criado en barrica.",
+    "en": "Toro DO red made by Bodegas Vetus from old-vine Tinta de Toro and aged in barrel.",
+    "fr": "Rouge de la DO Toro élaboré par Bodegas Vetus avec de la tinta de Toro de vieilles vignes et élevé en barrique.",
+    "it": "Rosso della DO Toro prodotto da Bodegas Vetus con Tinta de Toro da vecchie vigne e affinato in barrique."
+  },
+  "body": {
+    "es": "<p><strong>Bodegas Vetus</strong> es una bodega de la <strong>DO Toro</strong>, la denominación de las provincias de Zamora y Valladolid situada a orillas del Duero. Toro es conocida por la <strong>Tinta de Toro</strong>, la forma local del Tempranillo, adaptada durante siglos a un clima continental extremo, con veranos muy calurosos, inviernos fríos y escasas lluvias. Los suelos son pobres, a menudo arenosos y cubiertos de cantos, y conservan numerosas viñas viejas en vaso, algunas de ellas plantadas sin injertar, porque la filoxera tuvo dificultades para prosperar en la arena.</p><p><strong>Celsus</strong> es el tinto de gama alta de la casa. Procede de una selección de viñas viejas de <strong>Tinta de Toro</strong> de baja producción, cuyas uvas pequeñas y concentradas dan vinos de gran color y estructura.</p><p>Tiene <strong>crianza en barrica</strong> y una graduación de 14,5 % vol., propia de la zona. Es un tinto potente y de fruta madura, en el que la madera aporta notas especiadas y tostadas, con capacidad para evolucionar en botella durante años. Agradece la decantación cuando se bebe joven.</p>",
+    "en": "<p><strong>Bodegas Vetus</strong> is a winery in the <strong>Toro DO</strong>, the appellation in the provinces of Zamora and Valladolid on the banks of the Duero. Toro is known for <strong>Tinta de Toro</strong>, the local form of Tempranillo, adapted over centuries to an extreme continental climate, with very hot summers, cold winters and little rain. The soils are poor, often sandy and covered with stones, and preserve many old bush vines, some of them ungrafted, because phylloxera struggled to thrive in the sand.</p><p><strong>Celsus</strong> is the house’s top red. It comes from a selection of low-yielding old <strong>Tinta de Toro</strong> vines, whose small, concentrated berries give wines of deep colour and structure.</p><p>It is <strong>aged in barrel</strong> and has 14.5% ABV, typical of the area. It is a powerful red with ripe fruit, in which the oak adds spicy, toasty notes, and it is able to develop in bottle for years. It benefits from decanting when drunk young.</p>",
+    "fr": "<p><strong>Bodegas Vetus</strong> est une bodega de la <strong>DO Toro</strong>, l’appellation des provinces de Zamora et de Valladolid située au bord du Duero. Toro est connue pour la <strong>tinta de Toro</strong>, forme locale du tempranillo, adaptée au fil des siècles à un climat continental extrême, avec des étés très chauds, des hivers froids et de faibles pluies. Les sols sont pauvres, souvent sableux et couverts de galets, et conservent de nombreuses vieilles vignes en gobelet, dont certaines franches de pied, le phylloxéra ayant eu du mal à prospérer dans le sable.</p><p><strong>Celsus</strong> est le rouge haut de gamme de la maison. Il provient d’une sélection de vieilles vignes de <strong>tinta de Toro</strong> à faible rendement, dont les petites baies concentrées donnent des vins très colorés et structurés.</p><p>Il connaît un <strong>élevage en barrique</strong> et titre 14,5 % vol., degré propre à la région. C’est un rouge puissant, au fruit mûr, dans lequel le bois apporte des notes épicées et toastées, capable d’évoluer en bouteille pendant des années. Il gagne à être carafé lorsqu’il est bu jeune.</p>",
+    "it": "<p><strong>Bodegas Vetus</strong> è una cantina della <strong>DO Toro</strong>, la denominazione delle province di Zamora e Valladolid situata sulle rive del Duero. Toro è nota per la <strong>Tinta de Toro</strong>, la forma locale del Tempranillo, adattatasi nei secoli a un clima continentale estremo, con estati caldissime, inverni freddi e scarse piogge. I suoli sono poveri, spesso sabbiosi e coperti di ciottoli, e conservano numerose vecchie viti ad alberello, alcune a piede franco, perché la fillossera ebbe difficoltà a diffondersi nella sabbia.</p><p><strong>Celsus</strong> è il rosso di alta gamma della casa. Proviene da una selezione di vecchie viti di <strong>Tinta de Toro</strong> a bassa resa, i cui acini piccoli e concentrati danno vini di grande colore e struttura.</p><p>Compie un <strong>affinamento in barrique</strong> e ha 14,5% vol., gradazione tipica della zona. È un rosso potente e di frutto maturo, in cui il legno apporta note speziate e tostate, in grado di evolvere in bottiglia per anni. Beneficia della decantazione se bevuto giovane.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota muy cubierto. Aromas de fruta negra madura, regaliz, especias, cacao y notas minerales. En boca es potente y concentrado, con taninos firmes pero maduros y un final largo y cálido.",
+    "en": "Opaque deep cherry red. Aromas of ripe black fruit, liquorice, spice, cocoa and mineral notes. Powerful and concentrated on the palate, with firm but ripe tannins and a long, warm finish.",
+    "fr": "Rouge cerise burlat très soutenu. Arômes de fruits noirs mûrs, de réglisse, d’épices, de cacao et notes minérales. En bouche, il est puissant et concentré, aux tanins fermes mais mûrs, avec une finale longue et chaleureuse.",
+    "it": "Rosso ciliegia molto intenso. Aromi di frutta nera matura, liquirizia, spezie, cacao e note minerali. In bocca è potente e concentrato, con tannini decisi ma maturi e finale lungo e caldo."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, lechazo, caza mayor, quesos zamoranos curados",
+    "en": "Chargrilled red meat, milk-fed lamb, large game, aged Zamorano cheeses",
+    "fr": "Viandes rouges à la braise, agneau de lait, gros gibier, fromages zamoranos affinés",
+    "it": "Carni rosse alla brace, agnello da latte, selvaggina di grossa taglia, formaggi zamorani stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Celsus Vetus",
+  "source": "decantalo"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "tetramythos-roditis-nature",
+  "name": "Tetramythos Roditis Nature",
+  "winery": null,
+  "winery_name": "Tetramythos Winery",
+  "region": null,
+  "country": "grecia",
+  "appellation": "PGI Peloponnese",
+  "type": "espumoso",
+  "category": null,
+  "grapes": [
+    "roditis"
+  ],
+  "summary": {
+    "es": "Tetramythos Roditis Nature es un vino espumoso de Tetramythos Winery, con la denominación PGI Peloponnese, en Grecia.",
+    "en": "Tetramythos Roditis Nature is a sparkling wine from Tetramythos Winery, made under the PGI Peloponnese appellation in Greece.",
+    "fr": "Tetramythos Roditis Nature est un vin effervescent de Tetramythos Winery, élaboré sous l’appellation PGI Peloponnese (Grèce).",
+    "it": "Tetramythos Roditis Nature è un vino spumante di Tetramythos Winery, prodotto nella denominazione PGI Peloponnese (Grecia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Roditis. Se cría en depósitos de acero inoxidable. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is made from Roditis. It is aged in stainless steel tanks. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Roditis. Il est élevé en cuves inox. Il titre 12,5 % vol.</p>",
+    "it": "<p>È prodotto con Roditis. Affina in acciaio inox. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Tetramythos Roditis Nature Tetramythos Winery",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "zind-humbrecht-zind",
+  "name": "Zind",
+  "winery": "domaine-zind-humbrecht",
+  "region": "alsace",
+  "country": "francia",
+  "type": "blanco",
+  "category": {
+    "es": "Vin de France",
+    "en": "Vin de France",
+    "fr": "Vin de France",
+    "it": "Vin de France"
+  },
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Blanco del Domaine Zind-Humbrecht que ensambla Chardonnay con Auxerrois y se comercializa como Vin de France al no admitir la AOC Alsace la Chardonnay en vinos tranquilos.",
+    "en": "White from Domaine Zind-Humbrecht blending Chardonnay with Auxerrois, sold as Vin de France because the Alsace AOC does not permit Chardonnay in still wines.",
+    "fr": "Blanc du Domaine Zind-Humbrecht assemblant chardonnay et auxerrois, commercialisé en Vin de France car l’AOC Alsace n’admet pas le chardonnay en vin tranquille.",
+    "it": "Bianco del Domaine Zind-Humbrecht che unisce Chardonnay e Auxerrois, commercializzato come Vin de France perché l’AOC Alsace non ammette lo Chardonnay nei vini fermi."
+  },
+  "body": {
+    "es": "<p>El Domaine Zind-Humbrecht, con sede en Turckheim, es una de las fincas de referencia de Alsacia, conocida por sus vinos de parcela y grand cru y por su viticultura biodinámica. <em>Zind</em>, cuyo nombre recuerda a una de las familias fundadoras del dominio, es un vino singular dentro de su gama.</p><p>Se elabora con un ensamblaje de <strong>Chardonnay</strong> y Auxerrois. Como la normativa de la AOC Alsace no autoriza la Chardonnay en los vinos tranquilos, el vino no puede llevar la denominación y se comercializa como <strong>Vin de France</strong>, sin que ello indique una categoría de calidad inferior.</p><p>La casa trabaja con levaduras autóctonas y fermentaciones largas, y cría sus vinos en grandes fudres de roble antiguos, que no aportan aromas de madera. El resultado es un blanco seco o casi seco, de textura amplia y buena frescura, con fruta madura y un fondo mineral. Puede beberse joven o guardarse algunos años.</p>",
+    "en": "<p>Domaine Zind-Humbrecht, based in Turckheim, is one of the benchmark estates of Alsace, known for its single-vineyard and grand cru wines and for its biodynamic viticulture. <em>Zind</em>, whose name recalls one of the families behind the domaine, is a singular wine within its range.</p><p>It is made from a blend of <strong>Chardonnay</strong> and Auxerrois. Because the Alsace AOC rules do not allow Chardonnay in still wines, the wine cannot bear the appellation and is sold as <strong>Vin de France</strong>, which does not indicate a lower quality category.</p><p>The house works with indigenous yeasts and long fermentations, and ages its wines in large old oak casks that add no wood aromas. The result is a dry or nearly dry white with a broad texture and good freshness, ripe fruit and a mineral background. It can be drunk young or kept for a few years.</p>",
+    "fr": "<p>Le Domaine Zind-Humbrecht, installé à Turckheim, est l’une des propriétés de référence d’Alsace, connue pour ses vins de lieux-dits et de grands crus et pour sa viticulture biodynamique. <em>Zind</em>, dont le nom rappelle l’une des familles à l’origine du domaine, est un vin singulier dans sa gamme.</p><p>Il est élaboré à partir d’un assemblage de <strong>chardonnay</strong> et d’auxerrois. Le cahier des charges de l’AOC Alsace n’autorisant pas le chardonnay en vin tranquille, le vin ne peut pas revendiquer l’appellation et il est commercialisé en <strong>Vin de France</strong>, ce qui ne signifie pas une catégorie de qualité inférieure.</p><p>La maison travaille avec des levures indigènes et des fermentations longues, et élève ses vins dans de grands foudres de chêne anciens qui n’apportent pas d’arômes boisés. Il en résulte un blanc sec ou presque sec, à la texture ample et d’une belle fraîcheur, au fruit mûr et au fond minéral. Il peut se boire jeune ou se garder quelques années.</p>",
+    "it": "<p>Il Domaine Zind-Humbrecht, con sede a Turckheim, è una delle tenute di riferimento dell’Alsazia, nota per i suoi vini di singolo vigneto e grand cru e per la viticoltura biodinamica. <em>Zind</em>, il cui nome ricorda una delle famiglie all’origine del domaine, è un vino particolare all’interno della sua gamma.</p><p>È prodotto con un uvaggio di <strong>Chardonnay</strong> e Auxerrois. Poiché il disciplinare dell’AOC Alsace non autorizza lo Chardonnay nei vini fermi, il vino non può riportare la denominazione ed è commercializzato come <strong>Vin de France</strong>, il che non indica una categoria qualitativa inferiore.</p><p>La casa lavora con lieviti indigeni e fermentazioni lunghe, e affina i suoi vini in grandi botti di rovere antiche che non apportano aromi di legno. Ne risulta un bianco secco o quasi secco, di struttura ampia e buona freschezza, con frutto maturo e un fondo minerale. Si può bere giovane o conservare per qualche anno.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo dorado pálido. Aromas de pera, manzana madura, cítricos y notas ahumadas. Boca amplia y sabrosa, con buena acidez y final mineral.",
+    "en": "Pale golden yellow. Aromas of pear, ripe apple, citrus and smoky notes. Broad, savoury palate with good acidity and a mineral finish.",
+    "fr": "Jaune doré pâle. Arômes de poire, de pomme mûre, d’agrumes et notes fumées. Bouche ample et savoureuse, à la bonne acidité et à la finale minérale.",
+    "it": "Giallo dorato tenue. Aromi di pera, mela matura, agrumi e note affumicate. Bocca ampia e sapida, con buona acidità e finale minerale."
+  },
+  "pairing": {
+    "es": "Aves asadas, pescados en salsa, quiche lorraine, cocina asiática suave, quesos de pasta prensada",
+    "en": "Roast poultry, fish in sauce, quiche lorraine, mild Asian cuisine, pressed cheeses",
+    "fr": "Volailles rôties, poissons en sauce, quiche lorraine, cuisine asiatique douce, fromages à pâte pressée",
+    "it": "Pollame arrosto, pesce in salsa, quiche lorraine, cucina asiatica delicata, formaggi a pasta pressata"
+  },
+  "serve": {
+    "es": "12-14 °C, copa amplia",
+    "en": "12-14 °C, large glass",
+    "fr": "12-14 °C, verre ample",
+    "it": "12-14 °C, calice ampio"
+  },
+  "search": "Zind Zind-Humbrecht"
+}

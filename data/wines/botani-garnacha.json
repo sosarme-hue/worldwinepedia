@@ -1,0 +1,42 @@
+{
+  "slug": "botani-garnacha",
+  "name": "Botani Garnacha",
+  "winery": "jorge-ordonez",
+  "winery_name": null,
+  "region": null,
+  "country": "espana",
+  "appellation": "DO Málaga-Sierras de Málaga",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Botani Garnacha es un vino tinto de Bodegas Jorge Ordóñez & Co., con la denominación DO Málaga-Sierras de Málaga, en España.",
+    "en": "Botani Garnacha is a red wine from Bodegas Jorge Ordóñez & Co., made under the DO Málaga-Sierras de Málaga appellation in Spain.",
+    "fr": "Botani Garnacha est un vin rouge de Bodegas Jorge Ordóñez & Co., élaboré sous l’appellation DO Málaga-Sierras de Málaga (Espagne).",
+    "it": "Botani Garnacha è un vino rosso di Bodegas Jorge Ordóñez & Co., prodotto nella denominazione DO Málaga-Sierras de Málaga (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Tiene crianza en madera. Su graduación es de 14 % vol.</p><p>Bodega malagueña impulsada por el importador Jorge Ordóñez para recuperar los vinos de moscatel de la Axarquía, tanto secos como dulces.</p>",
+    "en": "<p>It is made from Grenache. It is aged in wood. It has 14% ABV.</p><p>Málaga winery founded by the importer Jorge Ordóñez to revive the Moscatel wines of the Axarquía, both dry and sweet.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. Il est élevé en bois. Il titre 14 % vol.</p><p>Domaine de Málaga créé par l'importateur Jorge Ordóñez pour faire renaître les vins de muscat de l'Axarquía, secs comme doux.</p>",
+    "it": "<p>È prodotto con Grenache. È affinato in legno. Ha 14% vol.</p><p>Cantina di Málaga fondata dall'importatore Jorge Ordóñez per rilanciare i vini di Moscato dell'Axarquía, sia secchi sia dolci.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Botani Garnacha Jorge Ordoñez",
+  "brief": true,
+  "source": "decantalo"
+}

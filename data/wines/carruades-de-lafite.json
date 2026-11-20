@@ -1,0 +1,51 @@
+{
+  "slug": "carruades-de-lafite",
+  "name": "Carruades de Lafite",
+  "winery": "chateau-lafite-rothschild",
+  "region": "medoc",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Segundo vino",
+    "en": "Second wine",
+    "fr": "Second vin",
+    "it": "Secondo vino"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "cabernet-franc",
+    "petit-verdot"
+  ],
+  "summary": {
+    "es": "Segundo vino de Château Lafite Rothschild, que toma su nombre de las parcelas de Carruades, con una proporción de Merlot generalmente mayor que la del gran vino.",
+    "en": "The second wine of Château Lafite Rothschild, named after the Carruades plots, with a share of Merlot generally higher than in the grand vin.",
+    "fr": "Second vin de Château Lafite Rothschild, qui tire son nom des parcelles des Carruades, avec une part de merlot généralement plus importante que dans le grand vin.",
+    "it": "Secondo vino di Château Lafite Rothschild, che prende il nome dalle parcelle di Carruades, con una quota di Merlot in genere più alta rispetto al grand vin."
+  },
+  "body": {
+    "es": "<p>Carruades de Lafite es el segundo vino de Château Lafite Rothschild. Su nombre procede de las <strong>Carruades</strong>, un conjunto de parcelas situadas en una meseta junto al château que la finca incorporó en el siglo XIX. Hoy el vino se elabora con uvas de distintas zonas del viñedo, a menudo de viñas más jóvenes, seleccionadas cada año durante el ensamblaje.</p><p>Como el gran vino, se basa en la <strong>Cabernet Sauvignon</strong>, pero suele incluir una proporción mayor de <strong>Merlot</strong>, y puede completarse con Cabernet Franc y Petit Verdot; las proporciones varían según la añada. Se cría en barrica, con una parte menor de roble nuevo que el gran vino.</p><p>Muestra el estilo de la casa, aromático y elegante, con una textura algo más suave y una evolución más rápida. Aunque puede apreciarse antes que Lafite, también se beneficia de varios años de guarda.</p>",
+    "en": "<p>Carruades de Lafite is the second wine of Château Lafite Rothschild. Its name comes from the <strong>Carruades</strong>, a group of plots on a plateau next to the château that the estate acquired in the 19th century. Today the wine is made from grapes grown in different parts of the vineyard, often from younger vines, selected each year during blending.</p><p>Like the grand vin, it is based on <strong>Cabernet Sauvignon</strong>, but it usually includes a larger share of <strong>Merlot</strong> and may be completed with Cabernet Franc and Petit Verdot; the proportions vary with the vintage. It is aged in barrel, with a smaller share of new oak than the grand vin.</p><p>It shows the house style, aromatic and elegant, with a somewhat softer texture and faster development. Although it can be enjoyed earlier than Lafite, it also benefits from several years of cellaring.</p>",
+    "fr": "<p>Carruades de Lafite est le second vin de Château Lafite Rothschild. Son nom vient des <strong>Carruades</strong>, un ensemble de parcelles situées sur un plateau voisin du château, que le domaine a intégrées au XIXe siècle. Aujourd’hui, le vin est élaboré avec des raisins de différentes parties du vignoble, souvent issus de vignes plus jeunes, sélectionnés chaque année lors de l’assemblage.</p><p>Comme le grand vin, il repose sur le <strong>cabernet-sauvignon</strong>, mais il comprend généralement une part plus importante de <strong>merlot</strong> et peut être complété par du cabernet franc et du petit verdot ; les proportions varient selon le millésime. Il est élevé en barrique, avec une part de bois neuf inférieure à celle du grand vin.</p><p>Il exprime le style de la maison, aromatique et élégant, avec une texture un peu plus souple et une évolution plus rapide. S’il peut être apprécié plus tôt que Lafite, il profite aussi de plusieurs années de garde.</p>",
+    "it": "<p>Carruades de Lafite è il secondo vino di Château Lafite Rothschild. Il nome deriva dalle <strong>Carruades</strong>, un insieme di parcelle situate su un altopiano accanto allo château, che la tenuta acquisì nel XIX secolo. Oggi il vino è prodotto con uve di diverse zone del vigneto, spesso da viti più giovani, selezionate ogni anno durante l’assemblaggio.</p><p>Come il grand vin, si basa sul <strong>Cabernet Sauvignon</strong>, ma di solito include una quota maggiore di <strong>Merlot</strong> e può essere completato da Cabernet Franc e Petit Verdot; le proporzioni variano secondo l’annata. Affina in barrique, con una quota di legno nuovo inferiore a quella del grand vin.</p><p>Esprime lo stile della casa, aromatico ed elegante, con una tessitura un po’ più morbida e un’evoluzione più rapida. Pur potendo essere apprezzato prima di Lafite, beneficia anch’esso di diversi anni di affinamento in cantina.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de grosella negra, cereza oscura y cedro, con un fondo de especias dulces. Boca equilibrada y sedosa, de taninos finos y final fresco.",
+    "en": "Intense ruby. Aromas of blackcurrant, dark cherry and cedar over a background of sweet spice. Balanced, silky palate with fine tannins and a fresh finish.",
+    "fr": "Rubis intense. Arômes de cassis, de cerise noire et de cèdre, sur un fond d’épices douces. Bouche équilibrée et soyeuse, aux tanins fins, finale fraîche.",
+    "it": "Rubino intenso. Aromi di ribes nero, ciliegia scura e cedro, su un fondo di spezie dolci. Bocca equilibrata e setosa, dai tannini fini e dal finale fresco."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la brasa, pato asado, guisos de carne, quesos semicurados",
+    "en": "Grilled red meat, roast duck, meat stews, semi-hard cheeses",
+    "fr": "Viandes rouges grillées, canard rôti, ragoûts de viande, fromages à pâte pressée",
+    "it": "Carni rosse alla brace, anatra arrosto, stufati di carne, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia de tipo Burdeos",
+    "en": "16-18 °C, decanted, large Bordeaux glass",
+    "fr": "16-18 °C, carafé, grand verre de type bordeaux",
+    "it": "16-18 °C, decantato, calice ampio tipo Bordeaux"
+  },
+  "search": "Carruades de Lafite Pauillac"
+}

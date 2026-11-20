@@ -1,0 +1,41 @@
+{
+  "slug": "silver-heights-the-summit",
+  "name": "The Summit",
+  "winery": "silver-heights",
+  "region": "ningxia",
+  "country": "china",
+  "type": "tinto",
+  "category": null,
+  "grapes": ["cabernet-sauvignon", "merlot"],
+  "summary": {
+    "es": "Tinto de referencia de Silver Heights, ensamblaje de variedades bordelesas de las laderas orientales de los montes Helan, en Ningxia, criado en barrica. Es uno de los vinos que dieron a conocer la región fuera de China.",
+    "en": "Silver Heights’ benchmark red, a barrel-aged blend of Bordeaux varieties from the eastern foothills of the Helan Mountains in Ningxia. It is one of the wines that made the region known outside China.",
+    "fr": "Rouge de référence de Silver Heights, assemblage de cépages bordelais des contreforts orientaux des monts Helan, au Ningxia, élevé en barrique. C’est l’un des vins qui ont fait connaître la région hors de Chine.",
+    "it": "Rosso di riferimento di Silver Heights, assemblaggio di vitigni bordolesi delle pendici orientali dei monti Helan, nel Ningxia, affinato in barrique. È uno dei vini che hanno fatto conoscere la regione fuori dalla Cina."
+  },
+  "body": {
+    "es": "<p>The Summit es el tinto más conocido de Silver Heights, la bodega familiar de Ningxia dirigida por la enóloga Emma Gao. Es un ensamblaje de variedades bordelesas en el que predominan la <strong>Cabernet Sauvignon</strong> y la <strong>Merlot</strong>, con proporciones que varían según la añada, procedentes de viñedos situados en las laderas orientales de los montes Helan.</p><p>Las cepas crecen en suelos pedregosos y arenosos, bajo un clima seco y muy soleado, con noches frescas e inviernos tan fríos que deben enterrarse cada otoño. Tras la fermentación, el vino se cría en barricas de roble francés. Fiel a la formación bordelesa de su enóloga, el estilo busca el equilibrio entre la madurez de la fruta y la frescura, con taninos pulidos y un uso medido de la madera. Puede disfrutarse tras unos años de botella y admite cierta guarda.</p>",
+    "en": "<p>The Summit is the best-known red from Silver Heights, the family winery in Ningxia run by the winemaker Emma Gao. It is a blend of Bordeaux varieties dominated by <strong>Cabernet Sauvignon</strong> and <strong>Merlot</strong>, in proportions that vary with the vintage, from vineyards on the eastern foothills of the Helan Mountains.</p><p>The vines grow on stony and sandy soils, in a dry, very sunny climate with cool nights and winters so cold that they must be buried every autumn. After fermentation, the wine is aged in French oak barrels. True to its winemaker’s Bordeaux training, the style seeks a balance between ripe fruit and freshness, with polished tannins and a measured use of oak. It can be enjoyed after a few years in bottle and will also keep for a while.</p>",
+    "fr": "<p>The Summit est le rouge le plus connu de Silver Heights, la cave familiale du Ningxia dirigée par l’œnologue Emma Gao. C’est un assemblage de cépages bordelais dominé par le <strong>cabernet-sauvignon</strong> et le <strong>merlot</strong>, dans des proportions qui varient selon le millésime, issu de vignes situées sur les contreforts orientaux des monts Helan.</p><p>Les ceps poussent sur des sols caillouteux et sableux, sous un climat sec et très ensoleillé, aux nuits fraîches et aux hivers si froids qu’il faut les enterrer chaque automne. Après la fermentation, le vin est élevé en barriques de chêne français. Fidèle à la formation bordelaise de son œnologue, le style recherche l’équilibre entre maturité du fruit et fraîcheur, avec des tanins polis et un usage mesuré du bois. Il peut s’apprécier après quelques années de bouteille et supporte une certaine garde.</p>",
+    "it": "<p>The Summit è il rosso più noto di Silver Heights, la cantina di famiglia del Ningxia guidata dall’enologa Emma Gao. È un assemblaggio di vitigni bordolesi in cui predominano <strong>Cabernet Sauvignon</strong> e <strong>Merlot</strong>, in proporzioni che variano secondo l’annata, da vigneti situati sulle pendici orientali dei monti Helan.</p><p>Le viti crescono su suoli sassosi e sabbiosi, in un clima secco e molto soleggiato, con notti fresche e inverni così freddi che devono essere interrate ogni autunno. Dopo la fermentazione il vino affina in barrique di rovere francese. Fedele alla formazione bordolese della sua enologa, lo stile ricerca l’equilibrio tra maturità del frutto e freschezza, con tannini levigati e un uso misurato del legno. Si può apprezzare dopo qualche anno di bottiglia e regge un certo invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota. Aromas de grosella negra, cereza madura, notas especiadas y un ligero tostado. En boca es equilibrado, de cuerpo medio, con taninos pulidos y final fresco.",
+    "en": "Cherry red. Aromas of blackcurrant, ripe cherry, spicy notes and light toast. Balanced and medium-bodied on the palate, with polished tannins and a fresh finish.",
+    "fr": "Rouge cerise. Arômes de cassis, de cerise mûre, notes épicées et léger grillé. En bouche, il est équilibré, de corps moyen, avec des tanins polis et une finale fraîche.",
+    "it": "Rosso ciliegia. Aromi di ribes nero, ciliegia matura, note speziate e un leggero tostato. In bocca è equilibrato, di corpo medio, con tannini levigati e finale fresco."
+  },
+  "pairing": {
+    "es": "Cordero, carnes rojas a la parrilla, pato, platos de carne salteados",
+    "en": "Lamb, grilled red meat, duck, stir-fried meat dishes",
+    "fr": "Agneau, viandes rouges grillées, canard, plats de viande sautés",
+    "it": "Agnello, carni rosse alla griglia, anatra, piatti di carne saltati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "The Summit Silver Heights Ningxia"
+}

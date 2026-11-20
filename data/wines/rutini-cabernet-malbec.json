@@ -1,0 +1,44 @@
+{
+  "slug": "rutini-cabernet-malbec",
+  "name": "Rutini Cabernet-Malbec",
+  "winery": "rutini",
+  "region": "mendoza",
+  "country": "argentina",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon",
+    "malbec"
+  ],
+  "summary": {
+    "es": "Tinto clásico de Rutini Wines que combina Cabernet Sauvignon y Malbec de Mendoza, una mezcla muy ligada a la historia de la casa.",
+    "en": "Classic red from Rutini Wines combining Mendoza Cabernet Sauvignon and Malbec, a blend closely tied to the history of the house.",
+    "fr": "Rouge classique de Rutini Wines associant cabernet-sauvignon et malbec de Mendoza, un assemblage très lié à l’histoire de la maison.",
+    "it": "Rosso classico di Rutini Wines che unisce Cabernet Sauvignon e Malbec di Mendoza, un uvaggio molto legato alla storia della casa."
+  },
+  "body": {
+    "es": "<p>El <strong>Cabernet-Malbec</strong> es uno de los vinos más tradicionales de Rutini Wines y uno de los tintos de mezcla clásicos de Argentina. La unión de estas dos variedades responde a una idea sencilla: el Cabernet Sauvignon aporta estructura, taninos firmes y notas especiadas, y el Malbec, fruta madura, color y suavidad. Durante décadas, esta combinación fue una de las formas habituales de presentar los tintos de calidad de Mendoza.</p><p>Las uvas proceden de viñedos de altura de Mendoza, con un peso importante del <strong>Valle de Uco</strong>, donde la casa tiene su bodega moderna en Tupungato. Las variedades se vinifican por separado y el vino se cría en barricas de roble antes de la mezcla final, cuyas proporciones varían según la añada. Es un tinto de cuerpo medio a pleno, equilibrado y pensado para la mesa, que puede beberse en sus primeros años o guardarse un tiempo en botella.</p>",
+    "en": "<p><strong>Cabernet-Malbec</strong> is one of Rutini Wines’ most traditional wines and one of the classic red blends of Argentina. The pairing of these two varieties reflects a simple idea: Cabernet Sauvignon contributes structure, firm tannins and spicy notes, and Malbec ripe fruit, colour and softness. For decades this combination was one of the usual ways of presenting Mendoza’s quality reds.</p><p>The grapes come from high-altitude vineyards in Mendoza, with a significant share from the <strong>Uco Valley</strong>, where the house has its modern winery in Tupungato. The varieties are vinified separately and the wine is aged in oak barrels before the final blend, whose proportions vary with the vintage. It is a medium- to full-bodied red, balanced and intended for the table, which can be drunk in its first few years or kept for some time in bottle.</p>",
+    "fr": "<p>Le <strong>Cabernet-Malbec</strong> est l’un des vins les plus traditionnels de Rutini Wines et l’un des assemblages rouges classiques d’Argentine. L’union de ces deux cépages répond à une idée simple : le cabernet-sauvignon apporte la structure, des tanins fermes et des notes épicées, et le malbec le fruit mûr, la couleur et la souplesse. Pendant des décennies, cette combinaison fut l’une des manières habituelles de présenter les rouges de qualité de Mendoza.</p><p>Les raisins proviennent de vignobles d’altitude de Mendoza, avec une part importante de la <strong>vallée d’Uco</strong>, où la maison possède sa cave moderne à Tupungato. Les cépages sont vinifiés séparément et le vin est élevé en fûts de chêne avant l’assemblage final, dont les proportions varient selon le millésime. C’est un rouge de corps moyen à plein, équilibré et pensé pour la table, que l’on peut boire dans ses premières années ou garder un certain temps en bouteille.</p>",
+    "it": "<p>Il <strong>Cabernet-Malbec</strong> è uno dei vini più tradizionali di Rutini Wines e uno dei rossi da uvaggio classici dell’Argentina. L’unione di queste due varietà risponde a un’idea semplice: il Cabernet Sauvignon apporta struttura, tannini fermi e note speziate, il Malbec frutto maturo, colore e morbidezza. Per decenni questa combinazione è stata uno dei modi abituali di presentare i rossi di qualità di Mendoza.</p><p>Le uve provengono da vigneti d’altura di Mendoza, con un peso importante della <strong>Valle de Uco</strong>, dove la casa ha la sua cantina moderna a Tupungato. Le varietà vengono vinificate separatamente e il vino affina in botti di rovere prima dell’assemblaggio finale, le cui proporzioni variano secondo l’annata. È un rosso di corpo da medio a pieno, equilibrato e pensato per la tavola, che si può bere nei primi anni o conservare per qualche tempo in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí intenso. Aromas de cassis, ciruela, pimiento, especias y notas de roble. Boca equilibrada, de taninos firmes y final especiado.",
+    "en": "Deep ruby red. Aromas of blackcurrant, plum, bell pepper, spice and oak. Balanced palate with firm tannins and a spicy finish.",
+    "fr": "Rouge rubis intense. Arômes de cassis, de prune, de poivron, d’épices et notes boisées. Bouche équilibrée, aux tanins fermes et à la finale épicée.",
+    "it": "Rosso rubino intenso. Aromi di cassis, prugna, peperone, spezie e note di rovere. Bocca equilibrata, dai tannini fermi e dal finale speziato."
+  },
+  "pairing": {
+    "es": "Asado argentino, carnes a la parrilla, empanadas, quesos semicurados",
+    "en": "Argentine asado, grilled meats, empanadas, semi-hard cheeses",
+    "fr": "Asado argentin, viandes grillées, empanadas, fromages mi-affinés",
+    "it": "Asado argentino, carni alla griglia, empanadas, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Rutini Cabernet Malbec"
+}

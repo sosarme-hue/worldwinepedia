@@ -1,0 +1,40 @@
+{
+  "slug": "la-gerla-rosso-di-montalcino",
+  "name": "La Gerla Rosso di Montalcino",
+  "winery": null,
+  "winery_name": "La Gerla",
+  "region": null,
+  "country": "italia",
+  "appellation": "DOC Rosso di Montalcino",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "La Gerla Rosso di Montalcino es un vino tinto de La Gerla, con la denominación DOC Rosso di Montalcino, en Italia.",
+    "en": "La Gerla Rosso di Montalcino is a red wine from La Gerla, made under the DOC Rosso di Montalcino appellation in Italy.",
+    "fr": "La Gerla Rosso di Montalcino est un vin rouge de La Gerla, élaboré sous l’appellation DOC Rosso di Montalcino (Italie).",
+    "it": "La Gerla Rosso di Montalcino è un vino rosso di La Gerla, prodotto nella denominazione DOC Rosso di Montalcino (Italia)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 14 % vol.</p>",
+    "en": "<p>It has 14% ABV.</p>",
+    "fr": "<p>Il titre 14 % vol.</p>",
+    "it": "<p>Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "La Gerla Rosso di Montalcino La Gerla",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "gaia-estate",
+  "name": "Gaia Estate",
+  "winery": "gaia-wines",
+  "region": "nemea",
+  "country": "grecia",
+  "type": "tinto",
+  "category": {
+    "es": "Nemea DOP",
+    "en": "Nemea PDO",
+    "fr": "Némée AOP",
+    "it": "Nemea DOP"
+  },
+  "grapes": [
+    "agiorgitiko"
+  ],
+  "summary": {
+    "es": "Tinto de Agiorgitiko de la bodega Gaia, procedente de viñedos de altitud en Koutsi, dentro de la DOP Nemea. Es el vino tinto de referencia de la casa.",
+    "en": "An Agiorgitiko red from Gaia, from high-altitude vineyards in Koutsi, within the Nemea PDO. It is the house’s benchmark red.",
+    "fr": "Rouge d’agiorgitiko du domaine Gaia, issu de vignes d’altitude à Koutsi, dans l’AOP Némée. C’est le rouge de référence de la maison.",
+    "it": "Rosso di Agiorgitiko della cantina Gaia, da vigneti d’altura a Koutsi, nella DOP Nemea. È il rosso di riferimento della casa."
+  },
+  "body": {
+    "es": "<p>Gaia Estate se elabora exclusivamente con <strong>Agiorgitiko</strong>, como exige la DOP Nemea, con uvas de viñedos situados en las laderas altas de Koutsi, uno de los pueblos de mayor altitud de la denominación. En estas cotas, la variedad madura más despacio que en el fondo del valle y conserva una acidez más viva, lo que permite elaborar un tinto con estructura y capacidad de guarda.</p><p>Tras la fermentación, el vino se cría en barricas de roble durante un periodo prolongado y reposa en botella antes de su salida al mercado. Busca mostrar el lado más serio de la Agiorgitiko, una variedad conocida a menudo por sus tintos jóvenes y suaves: un vino de color intenso, fruta concentrada y taninos más firmes, que gana complejidad con algunos años de botella. Es uno de los tintos que contribuyeron, desde los años noventa, a la nueva reputación de Nemea.</p>",
+    "en": "<p>Gaia Estate is made exclusively from <strong>Agiorgitiko</strong>, as the Nemea PDO requires, from vineyards on the high slopes of Koutsi, one of the appellation’s highest villages. At these elevations the variety ripens more slowly than on the valley floor and keeps livelier acidity, which makes it possible to produce a structured red with ageing potential.</p><p>After fermentation, the wine is aged in oak barrels for an extended period and rests in bottle before release. It aims to show the more serious side of Agiorgitiko, a variety often known for soft, young reds: a deeply coloured wine with concentrated fruit and firmer tannins, which gains complexity with a few years in bottle. It is one of the reds that, since the 1990s, have contributed to Nemea’s new reputation.</p>",
+    "fr": "<p>Gaia Estate est élaboré exclusivement à partir d’<strong>agiorgitiko</strong>, comme l’exige l’AOP Némée, avec des raisins de vignes situées sur les coteaux élevés de Koutsi, l’un des villages les plus hauts de l’appellation. À ces altitudes, le cépage mûrit plus lentement qu’en fond de vallée et conserve une acidité plus vive, ce qui permet d’élaborer un rouge structuré et apte à la garde.</p><p>Après la fermentation, le vin est élevé longuement en barriques de chêne et repose en bouteille avant sa commercialisation. Il cherche à montrer le visage le plus sérieux de l’agiorgitiko, cépage souvent connu pour ses rouges jeunes et souples : un vin à la couleur intense, au fruit concentré et aux tanins plus fermes, qui gagne en complexité après quelques années de bouteille. C’est l’un des rouges qui ont contribué, depuis les années 1990, à la nouvelle réputation de Némée.</p>",
+    "it": "<p>Gaia Estate si ottiene esclusivamente da <strong>Agiorgitiko</strong>, come richiede la DOP Nemea, con uve di vigneti situati sui pendii alti di Koutsi, uno dei villaggi più elevati della denominazione. A queste quote il vitigno matura più lentamente che nel fondovalle e conserva un’acidità più vivace, il che consente di produrre un rosso strutturato e longevo.</p><p>Dopo la fermentazione il vino affina a lungo in barrique di rovere e riposa in bottiglia prima della messa in commercio. Cerca di mostrare il lato più serio dell’Agiorgitiko, vitigno spesso noto per rossi giovani e morbidi: un vino di colore intenso, frutto concentrato e tannini più decisi, che acquista complessità con qualche anno di bottiglia. È uno dei rossi che hanno contribuito, dagli anni Novanta, alla nuova reputazione di Nemea.</p>"
+  },
+  "tasting": {
+    "es": "Rojo granate intenso. Aromas de cereza negra, ciruela y mora, con especias dulces, vainilla y notas de cacao. En boca es amplio, de taninos maduros pero firmes y una acidez que lo mantiene fresco.",
+    "en": "Intense garnet red. Aromas of black cherry, plum and blackberry, with sweet spice, vanilla and cocoa notes. Broad on the palate, with ripe but firm tannins and acidity that keeps it fresh.",
+    "fr": "Rouge grenat intense. Arômes de cerise noire, de prune et de mûre, avec des épices douces, de la vanille et des notes de cacao. Ample en bouche, aux tanins mûrs mais fermes et à l’acidité qui le garde frais.",
+    "it": "Rosso granato intenso. Profumi di ciliegia nera, prugna e mora, con spezie dolci, vaniglia e note di cacao. In bocca è ampio, con tannini maturi ma decisi e un’acidità che lo mantiene fresco."
+  },
+  "pairing": {
+    "es": "cordero asado, moussaka, carnes rojas a la parrilla, quesos curados de oveja",
+    "en": "roast lamb, moussaka, grilled red meat, aged sheep’s cheeses",
+    "fr": "agneau rôti, moussaka, viandes rouges grillées, fromages de brebis affinés",
+    "it": "agnello arrosto, moussaka, carni rosse alla griglia, formaggi di pecora stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Gaia Estate Agiorgitiko Nemea"
+}

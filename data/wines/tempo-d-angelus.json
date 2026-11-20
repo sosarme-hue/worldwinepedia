@@ -1,0 +1,48 @@
+{
+  "slug": "tempo-d-angelus",
+  "name": "Tempo d’Angélus",
+  "winery": "chateau-angelus",
+  "region": "bordeaux",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Bordeaux",
+    "en": "Bordeaux",
+    "fr": "Bordeaux",
+    "it": "Bordeaux"
+  },
+  "grapes": [
+    "merlot"
+  ],
+  "summary": {
+    "es": "Tinto de AOC Bordeaux de la familia propietaria de Château Angélus, con predominio de Merlot y un estilo afrutado, flexible y pensado para beberse joven.",
+    "en": "AOC Bordeaux red from the family that owns Château Angélus, Merlot-dominated and fruity, supple in style and meant to be drunk young.",
+    "fr": "Rouge AOC Bordeaux de la famille propriétaire du Château Angélus, à dominante de merlot, au style fruité et souple, conçu pour être bu jeune.",
+    "it": "Rosso AOC Bordeaux della famiglia proprietaria di Château Angélus, a prevalenza di Merlot, dallo stile fruttato e morbido, pensato per essere bevuto giovane."
+  },
+  "body": {
+    "es": "<p>La familia de Boüard de Laforest, propietaria de <strong>Château Angélus</strong> en Saint-Émilion, completa la gama del gran vino y de su segundo vino, Carillon d’Angélus, con <strong>Tempo d’Angélus</strong>, una etiqueta más accesible amparada por la denominación genérica <strong>Bordeaux</strong>. Como sugiere su nombre, comparte el universo de la casa, cuyo nombre alude a las campanas del ángelus que se oían desde los viñedos.</p><p>Al tratarse de un AOC Bordeaux, las uvas pueden proceder de distintas zonas de la región, fuera de la propia finca de Saint-Émilion. El vino se basa en la <strong>Merlot</strong>, variedad dominante en la orilla derecha, y se elabora buscando fruta, suavidad y equilibrio, con una crianza moderada.</p><p>El resultado es un tinto de cuerpo medio, con aromas de ciruela, cereza y notas especiadas suaves, taninos redondos y frescura. Es un vino para disfrutar en sus primeros años, que ofrece una aproximación sencilla al estilo de la casa.</p>",
+    "en": "<p>The de Boüard de Laforest family, owners of <strong>Château Angélus</strong> in Saint-Émilion, complements the grand vin and its second wine, Carillon d’Angélus, with <strong>Tempo d’Angélus</strong>, a more accessible label under the generic <strong>Bordeaux</strong> appellation. As its name suggests, it shares the world of the house, whose name refers to the Angelus bells that could be heard from the vineyards.</p><p>Being an AOC Bordeaux, the grapes may come from different parts of the region, outside the Saint-Émilion estate itself. The wine is based on <strong>Merlot</strong>, the dominant variety on the Right Bank, and is made with fruit, softness and balance in mind, with moderate ageing.</p><p>The result is a medium-bodied red with aromas of plum, cherry and gentle spicy notes, rounded tannins and freshness. It is a wine to enjoy in its first few years, offering a simple introduction to the house style.</p>",
+    "fr": "<p>La famille de Boüard de Laforest, propriétaire du <strong>Château Angélus</strong> à Saint-Émilion, complète la gamme du grand vin et de son second vin, Carillon d’Angélus, avec <strong>Tempo d’Angélus</strong>, une étiquette plus accessible relevant de l’appellation générique <strong>Bordeaux</strong>. Comme son nom l’indique, il partage l’univers de la maison, dont le nom évoque les cloches de l’angélus que l’on entendait depuis les vignes.</p><p>S’agissant d’un AOC Bordeaux, les raisins peuvent provenir de différentes zones de la région, en dehors du domaine de Saint-Émilion lui-même. Le vin repose sur le <strong>merlot</strong>, cépage dominant de la rive droite, et est élaboré en recherchant le fruit, la souplesse et l’équilibre, avec un élevage modéré.</p><p>Il en résulte un rouge de corps moyen, aux arômes de prune, de cerise et aux notes épicées douces, aux tanins ronds et à la belle fraîcheur. C’est un vin à apprécier dans ses premières années, qui offre une approche simple du style de la maison.</p>",
+    "it": "<p>La famiglia de Boüard de Laforest, proprietaria di <strong>Château Angélus</strong> a Saint-Émilion, completa la gamma del grand vin e del suo secondo vino, Carillon d’Angélus, con <strong>Tempo d’Angélus</strong>, un’etichetta più accessibile della denominazione generica <strong>Bordeaux</strong>. Come suggerisce il nome, condivide l’universo della casa, il cui nome richiama le campane dell’angelus che si sentivano dai vigneti.</p><p>Trattandosi di un AOC Bordeaux, le uve possono provenire da diverse zone della regione, al di fuori della tenuta di Saint-Émilion. Il vino si basa sul <strong>Merlot</strong>, vitigno dominante sulla Riva Destra, ed è prodotto puntando su frutto, morbidezza ed equilibrio, con un affinamento moderato.</p><p>Il risultato è un rosso di medio corpo, con aromi di prugna, ciliegia e delicate note speziate, tannini rotondi e freschezza. È un vino da gustare nei primi anni, che offre un approccio semplice allo stile della casa.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí intenso. Aromas de ciruela, cereza, mora y especias suaves. Boca redonda y fresca, de taninos suaves.",
+    "en": "Deep ruby red. Aromas of plum, cherry, blackberry and gentle spice. Round, fresh palate with soft tannins.",
+    "fr": "Rouge rubis intense. Arômes de prune, de cerise, de mûre et d’épices douces. Bouche ronde et fraîche, aux tanins souples.",
+    "it": "Rosso rubino intenso. Aromi di prugna, ciliegia, mora e spezie delicate. Bocca rotonda e fresca, con tannini morbidi."
+  },
+  "pairing": {
+    "es": "Carnes a la parrilla, pato, embutidos, pasta con carne, quesos semicurados",
+    "en": "Grilled meat, duck, charcuterie, pasta with meat sauce, semi-hard cheeses",
+    "fr": "Viandes grillées, canard, charcuterie, pâtes à la viande, fromages mi-affinés",
+    "it": "Carni alla griglia, anatra, salumi, pasta al ragù, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "14-16 °C, copa de tamaño medio",
+    "en": "14-16 °C, medium-sized glass",
+    "fr": "14-16 °C, verre de taille moyenne",
+    "it": "14-16 °C, calice di media grandezza"
+  },
+  "search": "Tempo d’Angélus"
+}

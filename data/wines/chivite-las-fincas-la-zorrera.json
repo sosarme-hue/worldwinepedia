@@ -1,0 +1,42 @@
+{
+  "slug": "chivite-las-fincas-la-zorrera",
+  "name": "Chivite Las Fincas La Zorrera",
+  "winery": "chivite",
+  "winery_name": null,
+  "region": null,
+  "country": "espana",
+  "appellation": "IGP Tres Riberas",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Chivite Las Fincas La Zorrera es un vino tinto de J. Chivite Family Estates, con la denominación IGP Tres Riberas, en España.",
+    "en": "Chivite Las Fincas La Zorrera is a red wine from J. Chivite Family Estates, made under the IGP Tres Riberas appellation in Spain.",
+    "fr": "Chivite Las Fincas La Zorrera est un vin rouge de J. Chivite Family Estates, élaboré sous l’appellation IGP Tres Riberas (Espagne).",
+    "it": "Chivite Las Fincas La Zorrera è un vino rosso di J. Chivite Family Estates, prodotto nella denominazione IGP Tres Riberas (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Tiene crianza en madera. Su graduación es de 14,5 % vol.</p><p>Casa navarra de larga tradición familiar, con raíces documentadas en el siglo XVII, conocida por su gama Colección 125 y por sus rosados.</p>",
+    "en": "<p>It is made from Grenache. It is aged in wood. It has 14.5% ABV.</p><p>Navarra house with a long family tradition and roots documented in the seventeenth century, known for its Colección 125 range and its rosés.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. Il est élevé en bois. Il titre 14,5 % vol.</p><p>Maison navarraise de longue tradition familiale, aux racines attestées au XVIIe siècle, connue pour sa gamme Colección 125 et ses rosés.</p>",
+    "it": "<p>È prodotto con Grenache. È affinato in legno. Ha 14,5% vol.</p><p>Casa navarrese di lunga tradizione familiare, con radici documentate nel XVII secolo, nota per la linea Colección 125 e per i suoi rosati.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Chivite Las Fincas La Zorrera Chivite",
+  "brief": true,
+  "source": "decantalo"
+}

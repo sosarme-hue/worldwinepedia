@@ -1,0 +1,43 @@
+{
+  "slug": "al-muvedre",
+  "name": "Al-Muvedre",
+  "winery": "telmo-rodriguez",
+  "region": "alicante",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "monastrell"
+  ],
+  "summary": {
+    "es": "Tinto joven de monastrell de Alicante elaborado por Telmo Rodríguez, cuyo nombre evoca el origen histórico de la variedad.",
+    "en": "Young Monastrell red from Alicante made by Telmo Rodríguez, whose name evokes the historic origin of the variety.",
+    "fr": "Rouge jeune de monastrell d'Alicante élaboré par Telmo Rodríguez, dont le nom évoque l'origine historique du cépage.",
+    "it": "Rosso giovane di Monastrell di Alicante prodotto da Telmo Rodríguez, il cui nome evoca l'origine storica della varietà."
+  },
+  "body": {
+    "es": "<p>Al-Muvedre es el vino de Telmo Rodríguez en la D.O. <strong>Alicante</strong>. Su nombre hace referencia a Murviedro, la antigua denominación de la ciudad valenciana de Sagunto, que según una de las hipótesis más difundidas está en el origen del nombre de la variedad: la <strong>monastrell</strong> es conocida en Francia como <em>mourvèdre</em>, término que se ha relacionado con aquel topónimo.</p><p>Se elabora exclusivamente con monastrell, procedente de viñedos de secano del interior de Alicante, a menudo de cepas viejas en vaso, sobre suelos calizos y pobres, en un clima seco y soleado. La monastrell, de maduración tardía, soporta bien el calor y la escasez de agua y da vinos de color intenso y fruta negra. En este caso, la elaboración busca un tinto <strong>joven y fresco</strong>, que muestre la fruta de la variedad, con un paso por madera breve o inexistente. Es un vino directo y frutal, de buena relación entre calidad y precio, pensado para beberse en sus primeros años.</p>",
+    "en": "<p>Al-Muvedre is Telmo Rodríguez's wine in the <strong>Alicante</strong> D.O. Its name refers to Murviedro, the old name of the Valencian town of Sagunto, which according to one of the most widely held hypotheses lies at the origin of the variety's name: <strong>Monastrell</strong> is known in France as <em>Mourvèdre</em>, a term that has been linked to that place name.</p><p>It is made exclusively from Monastrell, from dry-farmed vineyards in inland Alicante, often old bush vines, on poor calcareous soils, in a dry, sunny climate. Late-ripening Monastrell copes well with heat and water shortage and gives deeply coloured wines with black fruit. Here, winemaking aims for a <strong>young, fresh</strong> red that shows the fruit of the variety, with a brief spell in oak or none at all. It is a direct, fruity wine offering good value, intended for drinking in its first few years.</p>",
+    "fr": "<p>Al-Muvedre est le vin de Telmo Rodríguez dans la D.O. <strong>Alicante</strong>. Son nom fait référence à Murviedro, ancien nom de la ville valencienne de Sagonte, qui selon l'une des hypothèses les plus répandues serait à l'origine du nom du cépage : le <strong>monastrell</strong> est connu en France sous le nom de <em>mourvèdre</em>, terme que l'on a rapproché de ce toponyme.</p><p>Il est élaboré exclusivement avec du monastrell, issu de vignes non irriguées de l'intérieur d'Alicante, souvent de vieux ceps en gobelet, sur des sols calcaires et pauvres, sous un climat sec et ensoleillé. Tardif, le monastrell supporte bien la chaleur et le manque d'eau et donne des vins à la couleur intense et au fruit noir. Ici, l'élaboration recherche un rouge <strong>jeune et frais</strong>, qui montre le fruit du cépage, avec un passage en bois bref ou inexistant. C'est un vin direct et fruité, au bon rapport qualité-prix, à boire dans ses premières années.</p>",
+    "it": "<p>Al-Muvedre è il vino di Telmo Rodríguez nella D.O. <strong>Alicante</strong>. Il nome fa riferimento a Murviedro, antico nome della città valenciana di Sagunto, che secondo una delle ipotesi più diffuse sarebbe all'origine del nome della varietà: il <strong>Monastrell</strong> è conosciuto in Francia come <em>Mourvèdre</em>, termine che è stato collegato a quel toponimo.</p><p>È prodotto esclusivamente con Monastrell, proveniente da vigneti non irrigui dell'interno di Alicante, spesso di vecchie viti ad alberello, su suoli calcarei e poveri, in un clima secco e soleggiato. Il Monastrell, a maturazione tardiva, sopporta bene il caldo e la scarsità d'acqua e dà vini di colore intenso e frutta nera. In questo caso la vinificazione mira a un rosso <strong>giovane e fresco</strong>, che mostri il frutto della varietà, con un passaggio in legno breve o assente. È un vino diretto e fruttato, dal buon rapporto qualità-prezzo, pensato per essere bevuto nei primi anni.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota con ribete violáceo. Aromas de mora, ciruela, hierbas mediterráneas y un toque especiado. En boca es jugoso, fresco y de tanino amable.",
+    "en": "Deep cherry red with a violet rim. Aromas of blackberry, plum, Mediterranean herbs and a spicy touch. Juicy and fresh on the palate, with smooth tannins.",
+    "fr": "Rouge cerise au disque violacé. Arômes de mûre, de prune, d'herbes méditerranéennes et une touche épicée. En bouche, juteux, frais, aux tanins aimables.",
+    "it": "Rosso ciliegia con unghia violacea. Aromi di mora, prugna, erbe mediterranee e un tocco speziato. In bocca è succoso, fresco e dal tannino morbido."
+  },
+  "pairing": {
+    "es": "Cordero, carnes a la brasa, arroz con conejo, embutidos, quesos curados",
+    "en": "Lamb, grilled meats, rice with rabbit, charcuterie, aged cheeses",
+    "fr": "Agneau, viandes grillées, riz au lapin, charcuterie, fromages affinés",
+    "it": "Agnello, carni alla brace, riso con coniglio, salumi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "14-16 °C, copa de vino tinto",
+    "en": "14-16 °C, red wine glass",
+    "fr": "14-16 °C, verre à vin rouge",
+    "it": "14-16 °C, calice da vino rosso"
+  },
+  "search": "Al-Muvedre Telmo Rodríguez Monastrell Alicante"
+}

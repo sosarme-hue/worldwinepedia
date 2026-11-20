@@ -1,0 +1,47 @@
+{
+  "slug": "quintessa",
+  "name": "Quintessa",
+  "winery": "quintessa",
+  "region": "napa-valley",
+  "country": "estados-unidos",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot",
+    "cabernet-franc",
+    "petit-verdot",
+    "carmenere"
+  ],
+  "summary": {
+    "es": "El gran tinto de la finca Quintessa, en Rutherford (Napa Valley), un ensamblaje de variedades bordelesas dominado por el Cabernet Sauvignon y procedente de viñedo propio cultivado en biodinámica.",
+    "en": "The great red of the Quintessa estate in Rutherford (Napa Valley), a Cabernet Sauvignon-dominated blend of Bordeaux varieties from a biodynamically farmed estate vineyard.",
+    "fr": "Le grand rouge du domaine Quintessa, à Rutherford (Napa Valley), un assemblage de cépages bordelais dominé par le cabernet sauvignon, issu d’un vignoble en propre conduit en biodynamie.",
+    "it": "Il grande rosso della tenuta Quintessa, a Rutherford (Napa Valley), un uvaggio di varietà bordolesi dominato dal Cabernet Sauvignon, da vigneto di proprietà coltivato in biodinamica."
+  },
+  "body": {
+    "es": "<p><strong>Quintessa</strong> es el vino principal de la finca del mismo nombre, en <strong>Rutherford</strong>, una de las zonas más reputadas de Napa Valley para el Cabernet Sauvignon. Procede únicamente del viñedo de la propiedad, una finca de colinas y valles con suelos muy diversos, cultivada según los principios de la biodinámica.</p><p>El vino es un ensamblaje dominado por el <strong>Cabernet Sauvignon</strong>, completado según la añada con otras variedades bordelesas como Merlot, Cabernet Franc, Petit Verdot y Carmenère. Los numerosos bloques del viñedo se vendimian y vinifican por separado, y el ensamblaje final se decide cada año en función de lo que ha dado cada parcela, por lo que las proporciones cambian de una cosecha a otra.</p><p>Se cría en barricas de roble francés. El estilo busca combinar la madurez y la generosidad de la fruta de Napa con el equilibrio, la frescura y unos taninos finos. Es un tinto de gran capacidad de guarda que gana complejidad durante muchos años en botella.</p>",
+    "en": "<p><strong>Quintessa</strong> is the main wine of the estate of the same name in <strong>Rutherford</strong>, one of Napa Valley’s most renowned areas for Cabernet Sauvignon. It comes solely from the estate vineyard, a property of hills and valleys with very varied soils, farmed according to biodynamic principles.</p><p>The wine is a blend dominated by <strong>Cabernet Sauvignon</strong>, complemented depending on the vintage by other Bordeaux varieties such as Merlot, Cabernet Franc, Petit Verdot and Carmenère. The vineyard’s many blocks are picked and vinified separately, and the final blend is decided each year according to what each parcel has given, so the proportions change from one harvest to the next.</p><p>It is aged in French oak barrels. The style seeks to combine the ripeness and generosity of Napa fruit with balance, freshness and fine tannins. It is a red of great ageing potential that gains complexity over many years in bottle.</p>",
+    "fr": "<p><strong>Quintessa</strong> est le vin principal du domaine du même nom, à <strong>Rutherford</strong>, l’un des secteurs les plus réputés de la Napa Valley pour le cabernet sauvignon. Il provient uniquement du vignoble de la propriété, un domaine de collines et de vallons aux sols très divers, conduit selon les principes de la biodynamie.</p><p>Le vin est un assemblage dominé par le <strong>cabernet sauvignon</strong>, complété selon le millésime par d’autres cépages bordelais comme le merlot, le cabernet franc, le petit verdot et le carmenère. Les nombreux blocs du vignoble sont vendangés et vinifiés séparément, et l’assemblage final est décidé chaque année selon ce qu’a donné chaque parcelle, si bien que les proportions changent d’une récolte à l’autre.</p><p>Il est élevé en barriques de chêne français. Le style cherche à associer la maturité et la générosité du fruit de la Napa à l’équilibre, à la fraîcheur et à des tanins fins. C’est un rouge de grande garde, qui gagne en complexité pendant de nombreuses années en bouteille.</p>",
+    "it": "<p><strong>Quintessa</strong> è il vino principale della tenuta omonima, a <strong>Rutherford</strong>, una delle zone più rinomate della Napa Valley per il Cabernet Sauvignon. Proviene esclusivamente dal vigneto della proprietà, una tenuta di colline e valli con suoli molto diversi, coltivata secondo i principi della biodinamica.</p><p>Il vino è un uvaggio dominato dal <strong>Cabernet Sauvignon</strong>, completato a seconda dell’annata da altre varietà bordolesi come Merlot, Cabernet Franc, Petit Verdot e Carmenère. I numerosi blocchi del vigneto sono vendemmiati e vinificati separatamente e l’uvaggio finale viene deciso ogni anno in base a ciò che ha dato ciascuna parcella, per cui le proporzioni cambiano da un raccolto all’altro.</p><p>Affina in barrique di rovere francese. Lo stile cerca di unire la maturità e la generosità del frutto di Napa a equilibrio, freschezza e tannini fini. È un rosso di grande longevità, che acquista complessità per molti anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota muy oscuro. Aromas de casis, mora, cereza negra, hierbas secas, cacao y especias. Boca amplia y equilibrada, de taninos finos y final largo.",
+    "en": "Very dark cherry-red. Aromas of blackcurrant, blackberry, black cherry, dried herbs, cocoa and spice. Broad, balanced palate with fine tannins and a long finish.",
+    "fr": "Rouge cerise très sombre. Arômes de cassis, de mûre, de cerise noire, d’herbes sèches, de cacao et d’épices. Bouche ample et équilibrée, aux tanins fins et à la finale longue.",
+    "it": "Rosso ciliegia molto scuro. Aromi di ribes nero, mora, ciliegia nera, erbe secche, cacao e spezie. Bocca ampia ed equilibrata, dai tannini fini e dal finale lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la parrilla, cordero asado, caza mayor, quesos curados",
+    "en": "Grilled red meats, roast lamb, large game, aged cheeses",
+    "fr": "Viandes rouges grillées, agneau rôti, gros gibier, fromages affinés",
+    "it": "Carni rosse alla griglia, agnello arrosto, selvaggina di grossa taglia, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de tipo Burdeos; decantar en su juventud",
+    "en": "16-18 °C, Bordeaux-style glass; decant when young",
+    "fr": "16-18 °C, verre de type bordelais ; carafer dans sa jeunesse",
+    "it": "16-18 °C, calice tipo Bordeaux; decantare da giovane"
+  },
+  "search": "Quintessa Rutherford Napa Valley"
+}

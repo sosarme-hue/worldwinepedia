@@ -1,0 +1,40 @@
+{
+  "slug": "finca-calvestra",
+  "name": "Finca Calvestra",
+  "winery": "mustiguillo",
+  "winery_name": null,
+  "region": null,
+  "country": "espana",
+  "appellation": "VP El Terrerazo",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Finca Calvestra es un vino blanco de Bodega Mustiguillo, con la denominación VP El Terrerazo, en España.",
+    "en": "Finca Calvestra is a white wine from Bodega Mustiguillo, made under the VP El Terrerazo appellation in Spain.",
+    "fr": "Finca Calvestra est un vin blanc de Bodega Mustiguillo, élaboré sous l’appellation VP El Terrerazo (Espagne).",
+    "it": "Finca Calvestra è un vino bianco di Bodega Mustiguillo, prodotto nella denominazione VP El Terrerazo (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13,5 % vol.</p><p>Bodega de Toni Sarrión en la meseta de Utiel-Requena, pionera en la reivindicación de la bobal como variedad de calidad y titular del Vino de Pago El Terrerazo.</p>",
+    "en": "<p>It is aged in wood. It has 13.5% ABV.</p><p>Toni Sarrión's winery on the Utiel-Requena plateau, a pioneer in championing Bobal as a quality variety and holder of the El Terrerazo Vino de Pago.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13,5 % vol.</p><p>Domaine de Toni Sarrión sur le plateau d'Utiel-Requena, pionnier de la reconnaissance du bobal comme cépage de qualité et titulaire du Vino de Pago El Terrerazo.</p>",
+    "it": "<p>È affinato in legno. Ha 13,5% vol.</p><p>Cantina di Toni Sarrión sull'altopiano di Utiel-Requena, pioniera nella valorizzazione del Bobal come varietà di qualità e titolare del Vino de Pago El Terrerazo.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Finca Calvestra Mustiguillo",
+  "brief": true,
+  "source": "decantalo"
+}

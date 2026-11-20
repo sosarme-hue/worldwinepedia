@@ -1,0 +1,40 @@
+{
+  "slug": "mon-p-tit-pithon-rouge",
+  "name": "Mon P'tit Pithon Rouge",
+  "winery": null,
+  "winery_name": "Domaine Olivier Pithon",
+  "region": null,
+  "country": "francia",
+  "appellation": "IGP des Côtes Catalanes",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Mon P'tit Pithon Rouge es un vino tinto de Domaine Olivier Pithon, con la denominación IGP des Côtes Catalanes, en Francia.",
+    "en": "Mon P'tit Pithon Rouge is a red wine from Domaine Olivier Pithon, made under the IGP des Côtes Catalanes appellation in France.",
+    "fr": "Mon P'tit Pithon Rouge est un vin rouge de Domaine Olivier Pithon, élaboré sous l’appellation IGP des Côtes Catalanes (France).",
+    "it": "Mon P'tit Pithon Rouge è un vino rosso di Domaine Olivier Pithon, prodotto nella denominazione IGP des Côtes Catalanes (Francia)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 13 % vol.</p>",
+    "en": "<p>It has 13% ABV.</p>",
+    "fr": "<p>Il titre 13 % vol.</p>",
+    "it": "<p>Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Mon P'tit Pithon Rouge Domaine Olivier Pithon",
+  "brief": true,
+  "source": "decantalo"
+}

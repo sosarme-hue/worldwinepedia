@@ -1,0 +1,48 @@
+{
+  "slug": "vina-gravonia-crianza",
+  "name": "Viña Gravonia Crianza",
+  "winery": "lopez-de-heredia",
+  "region": "rioja",
+  "country": "espana",
+  "type": "blanco",
+  "category": {
+    "es": "Crianza",
+    "en": "Crianza",
+    "fr": "Crianza",
+    "it": "Crianza"
+  },
+  "grapes": [
+    "macabeo"
+  ],
+  "summary": {
+    "es": "Blanco de crianza de López de Heredia Viña Tondonia, elaborado con Viura y criado varios años en barrica, en el estilo tradicional de los blancos riojanos.",
+    "en": "Aged white from López de Heredia Viña Tondonia, made from Viura and aged for several years in barrel, in the traditional style of Rioja whites.",
+    "fr": "Blanc élevé de López de Heredia Viña Tondonia, élaboré avec du viura et élevé plusieurs années en barrique, dans le style traditionnel des blancs de la Rioja.",
+    "it": "Bianco affinato di López de Heredia Viña Tondonia, prodotto con Viura e affinato per diversi anni in barrique, nello stile tradizionale dei bianchi riojani."
+  },
+  "body": {
+    "es": "<p>Viña Gravonia es uno de los blancos de López de Heredia Viña Tondonia, la bodega de Haro fundada en 1877, conocida por mantener un estilo tradicional de crianzas muy largas, también en sus vinos blancos. Se comercializa con la mención Crianza, aunque su envejecimiento supera con creces los mínimos de esa categoría.</p><p>Se elabora exclusivamente con Viura (Macabeo), la variedad blanca tradicional de Rioja, procedente de viñedos propios de la bodega en la Rioja Alta. El vino fermenta en grandes tinos de roble y se cría durante varios años en barricas usadas de roble americano, con trasiegos manuales periódicos, antes de pasar un tiempo en botella. Esta crianza larga en madera, en contacto controlado con el oxígeno, da lugar a un blanco de perfil evolucionado.</p><p>El resultado es un vino complejo y singular, con notas de frutos secos, miel y cera unidas a una acidez muy viva. Puede evolucionar durante muchos años y se disfruta mejor servido algo menos frío que un blanco joven.</p>",
+    "en": "<p>Viña Gravonia is one of the whites from López de Heredia Viña Tondonia, the Haro winery founded in 1877, known for maintaining a traditional style of very long ageing, also in its white wines. It is sold with the Crianza designation, although its ageing far exceeds the minimums for that category.</p><p>It is made exclusively from Viura (Macabeo), Rioja’s traditional white variety, from the winery’s own vineyards in Rioja Alta. The wine ferments in large oak vats and is aged for several years in used American oak barrels, with periodic manual racking, before spending time in bottle. This long ageing in wood, in controlled contact with oxygen, produces a white of evolved profile.</p><p>The result is a complex and singular wine, with notes of nuts, honey and wax combined with very lively acidity. It can develop for many years and is best enjoyed served somewhat less cold than a young white.</p>",
+    "fr": "<p>Viña Gravonia est l’un des blancs de López de Heredia Viña Tondonia, la bodega de Haro fondée en 1877, connue pour maintenir un style traditionnel aux élevages très longs, y compris pour ses vins blancs. Il est commercialisé avec la mention Crianza, bien que son vieillissement dépasse largement les minimums de cette catégorie.</p><p>Il est élaboré exclusivement avec du viura (macabeu), cépage blanc traditionnel de la Rioja, provenant des vignes de la bodega dans la Rioja Alta. Le vin fermente dans de grandes cuves en chêne et s’élève pendant plusieurs années dans des barriques usagées de chêne américain, avec des soutirages manuels périodiques, avant de passer un temps en bouteille. Ce long élevage sous bois, au contact contrôlé de l’oxygène, donne un blanc au profil évolué.</p><p>Il en résulte un vin complexe et singulier, aux notes de fruits secs, de miel et de cire associées à une acidité très vive. Il peut évoluer pendant de nombreuses années et s’apprécie mieux servi un peu moins froid qu’un blanc jeune.</p>",
+    "it": "<p>Viña Gravonia è uno dei bianchi di López de Heredia Viña Tondonia, la cantina di Haro fondata nel 1877, nota per mantenere uno stile tradizionale di affinamenti molto lunghi, anche nei vini bianchi. È commercializzato con la menzione Crianza, anche se il suo invecchiamento supera di gran lunga i minimi di questa categoria.</p><p>È prodotto esclusivamente con Viura (Macabeo), il vitigno bianco tradizionale della Rioja, proveniente da vigneti di proprietà della cantina nella Rioja Alta. Il vino fermenta in grandi tini di rovere e affina per diversi anni in barrique usate di rovere americano, con travasi manuali periodici, prima di trascorrere un periodo in bottiglia. Questo lungo affinamento in legno, a contatto controllato con l’ossigeno, dà origine a un bianco dal profilo evoluto.</p><p>Il risultato è un vino complesso e singolare, con note di frutta secca, miele e cera unite a un’acidità molto vivace. Può evolvere per molti anni e si gusta meglio servito un po’ meno freddo di un bianco giovane.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo dorado. Aromas de frutos secos, miel, cera, flores secas y notas de crianza. En boca es seco, de acidez muy viva, sabroso y largo.",
+    "en": "Golden yellow. Aromas of nuts, honey, wax, dried flowers and ageing notes. Dry, very lively in acidity, savoury and long on the palate.",
+    "fr": "Jaune doré. Arômes de fruits secs, de miel, de cire, de fleurs séchées et notes d’élevage. En bouche, il est sec, d’une acidité très vive, savoureux et long.",
+    "it": "Giallo dorato. Aromi di frutta secca, miele, cera, fiori secchi e note di affinamento. In bocca è secco, di acidità molto vivace, sapido e lungo."
+  },
+  "pairing": {
+    "es": "Bacalao, pescados en salsa, jamón ibérico, setas, quesos curados",
+    "en": "Salt cod, fish in sauce, Iberian ham, mushrooms, aged cheeses",
+    "fr": "Morue, poissons en sauce, jambon ibérique, champignons, fromages affinés",
+    "it": "Baccalà, pesce in salsa, prosciutto iberico, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "10-12 °C, copa amplia",
+    "en": "10-12 °C, large glass",
+    "fr": "10-12 °C, verre ample",
+    "it": "10-12 °C, calice ampio"
+  },
+  "search": "Viña Gravonia Crianza blanco López de Heredia"
+}

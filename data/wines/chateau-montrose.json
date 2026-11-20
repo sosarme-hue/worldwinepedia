@@ -1,0 +1,49 @@
+{
+  "slug": "chateau-montrose",
+  "name": "Château Montrose",
+  "winery": "chateau-montrose",
+  "region": "saint-estephe",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "2.º Gran Cru Clasificado 1855",
+    "en": "Second Growth (1855 Classification)",
+    "fr": "Second Grand Cru Classé en 1855",
+    "it": "Secondo Grand Cru Classé 1855"
+  },
+  "grapes": [
+    "cabernet-sauvignon",
+    "merlot"
+  ],
+  "summary": {
+    "es": "Grand vin de Château Montrose, segundo gran cru clasificado de Saint-Estèphe, un tinto potente y de larga guarda dominado por la Cabernet Sauvignon.",
+    "en": "Grand vin of Château Montrose, a Saint-Estèphe second growth: a powerful, long-lived red dominated by Cabernet Sauvignon.",
+    "fr": "Grand vin du Château Montrose, deuxième grand cru classé de Saint-Estèphe : un rouge puissant et de longue garde dominé par le cabernet sauvignon.",
+    "it": "Grand vin di Château Montrose, secondo grand cru classé di Saint-Estèphe: un rosso potente e di lunga conservazione dominato dal Cabernet Sauvignon."
+  },
+  "body": {
+    "es": "<p>Château Montrose es el gran vino de la finca del mismo nombre, clasificada como segundo gran cru en 1855 y situada en Saint-Estèphe, frente al estuario de la Gironda. Procede de un viñedo de un solo bloque sobre una loma de grava con subsuelo arcilloso.</p><p>El ensamblaje está dominado por la <strong>Cabernet Sauvignon</strong>, que aporta estructura, color y aromas de casis y cedro, completada por <strong>Merlot</strong> y pequeñas proporciones de Cabernet Franc y Petit Verdot, según la añada. La influencia del estuario modera las temperaturas y protege el viñedo de las heladas. El vino se cría en barrica de roble francés durante un periodo prolongado.</p><p>Es un tinto profundo y potente, de taninos densos, que en su juventud puede resultar austero. Necesita muchos años de botella para desarrollar su complejidad, con notas de tabaco, trufa y especias, y figura entre los vinos más longevos del Médoc.</p>",
+    "en": "<p>Château Montrose is the grand vin of the estate of the same name, classified as a second growth in 1855 and located in Saint-Estèphe, facing the Gironde estuary. It comes from a single-block vineyard on a gravel rise with a clay subsoil.</p><p>The blend is dominated by <strong>Cabernet Sauvignon</strong>, which brings structure, colour and aromas of blackcurrant and cedar, completed by <strong>Merlot</strong> and small proportions of Cabernet Franc and Petit Verdot, depending on the vintage. The estuary moderates temperatures and protects the vineyard from frost. The wine is aged in French oak barrels for an extended period.</p><p>It is a deep, powerful red with dense tannins, which can be austere in its youth. It needs many years in bottle to develop its complexity, with notes of tobacco, truffle and spice, and ranks among the longest-lived wines of the Médoc.</p>",
+    "fr": "<p>Château Montrose est le grand vin du domaine du même nom, classé deuxième grand cru en 1855 et situé à Saint-Estèphe, face à l'estuaire de la Gironde. Il provient d'un vignoble d'un seul tenant sur une croupe de graves au sous-sol argileux.</p><p>L'assemblage est dominé par le <strong>cabernet sauvignon</strong>, qui apporte structure, couleur et arômes de cassis et de cèdre, complété par le <strong>merlot</strong> et de petites proportions de cabernet franc et de petit verdot, selon les millésimes. L'estuaire modère les températures et protège le vignoble du gel. Le vin est élevé en barriques de chêne français pendant une longue période.</p><p>C'est un rouge profond et puissant, aux tanins denses, qui peut se montrer austère dans sa jeunesse. Il demande de nombreuses années de bouteille pour développer sa complexité, avec des notes de tabac, de truffe et d'épices, et compte parmi les vins les plus longévifs du Médoc.</p>",
+    "it": "<p>Château Montrose è il grand vin della tenuta omonima, classificata secondo grand cru nel 1855 e situata a Saint-Estèphe, di fronte all'estuario della Gironda. Proviene da un vigneto in un unico corpo su un rilievo ghiaioso con sottosuolo argilloso.</p><p>L'assemblaggio è dominato dal <strong>Cabernet Sauvignon</strong>, che apporta struttura, colore e aromi di ribes nero e cedro, completato da <strong>Merlot</strong> e piccole quote di Cabernet Franc e Petit Verdot, secondo l'annata. L'estuario modera le temperature e protegge il vigneto dalle gelate. Il vino è affinato in barrique di rovere francese per un lungo periodo.</p><p>È un rosso profondo e potente, dai tannini densi, che in gioventù può risultare austero. Ha bisogno di molti anni di bottiglia per sviluppare la sua complessità, con note di tabacco, tartufo e spezie, ed è tra i vini più longevi del Médoc.</p>"
+  },
+  "tasting": {
+    "es": "Rojo púrpura muy oscuro. Aromas de casis, mora, cedro, grafito y especias. Boca potente y densa, de taninos firmes y final muy largo.",
+    "en": "Very dark purple-red. Aromas of blackcurrant, blackberry, cedar, graphite and spice. Powerful, dense palate with firm tannins and a very long finish.",
+    "fr": "Rouge pourpre très sombre. Arômes de cassis, de mûre, de cèdre, de graphite et d'épices. Bouche puissante et dense, aux tanins fermes et à la finale très longue.",
+    "it": "Rosso porpora molto scuro. Aromi di ribes nero, mora, cedro, grafite e spezie. Bocca potente e densa, dai tannini decisi e dal finale molto lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, entrecot, caza, quesos curados",
+    "en": "Roast lamb, rib steak, game, aged cheeses",
+    "fr": "Agneau rôti, entrecôte, gibier, fromages affinés",
+    "it": "Agnello arrosto, entrecôte, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, decantado, copa amplia",
+    "en": "16-18 °C, decanted, large glass",
+    "fr": "16-18 °C, carafé, verre ample",
+    "it": "16-18 °C, decantato, calice ampio"
+  },
+  "search": "Château Montrose Saint-Estèphe"
+}

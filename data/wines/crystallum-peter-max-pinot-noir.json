@@ -1,0 +1,42 @@
+{
+  "slug": "crystallum-peter-max-pinot-noir",
+  "name": "Crystallum Peter Max Pinot Noir",
+  "winery": null,
+  "winery_name": "Crystallum",
+  "region": null,
+  "country": "sudafrica",
+  "appellation": "Western Cape",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Crystallum Peter Max Pinot Noir es un vino tinto de Crystallum, con la denominación Western Cape, en Sudáfrica.",
+    "en": "Crystallum Peter Max Pinot Noir is a red wine from Crystallum, made under the Western Cape appellation in South Africa.",
+    "fr": "Crystallum Peter Max Pinot Noir est un vin rouge de Crystallum, élaboré sous l’appellation Western Cape (Afrique du Sud).",
+    "it": "Crystallum Peter Max Pinot Noir è un vino rosso di Crystallum, prodotto nella denominazione Western Cape (Sudafrica)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Pinot Noir. Tiene crianza en madera. Su graduación es de 14,36 % vol.</p>",
+    "en": "<p>It is made from Pinot Noir. It is aged in wood. It has 14.36% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Pinot Noir. Il est élevé en bois. Il titre 14,36 % vol.</p>",
+    "it": "<p>È prodotto con Pinot Nero. È affinato in legno. Ha 14,36% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Crystallum Peter Max Pinot Noir Crystallum",
+  "brief": true,
+  "source": "decantalo"
+}

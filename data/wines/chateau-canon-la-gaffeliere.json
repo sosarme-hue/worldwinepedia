@@ -1,0 +1,50 @@
+{
+  "slug": "chateau-canon-la-gaffeliere",
+  "name": "Château Canon-La-Gaffelière",
+  "winery": "chateau-canon-la-gaffeliere",
+  "region": "saint-emilion",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Premier Grand Cru Classé B",
+    "en": "Premier Grand Cru Classé B",
+    "fr": "Premier grand cru classé B",
+    "it": "Premier Grand Cru Classé B"
+  },
+  "grapes": [
+    "merlot",
+    "cabernet-franc",
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "Grand vin de Château Canon-La-Gaffelière, Premier Grand Cru Classé de Saint-Émilion con una proporción poco habitual de Cabernet Franc y Cabernet Sauvignon.",
+    "en": "The grand vin of Château Canon-La-Gaffelière, a Saint-Émilion Premier Grand Cru Classé with an unusual share of Cabernet Franc and Cabernet Sauvignon.",
+    "fr": "Grand vin de Château Canon-La-Gaffelière, premier grand cru classé de Saint-Émilion à la part inhabituelle de cabernet franc et de cabernet-sauvignon.",
+    "it": "Grand vin di Château Canon-La-Gaffelière, Premier Grand Cru Classé di Saint-Émilion con una quota insolita di Cabernet Franc e Cabernet Sauvignon."
+  },
+  "body": {
+    "es": "<p><strong>Château Canon-La-Gaffelière</strong> es el vino principal de la propiedad de la familia von Neipperg en <strong>Saint-Émilion</strong>, ascendida a <strong>Premier Grand Cru Classé B</strong> en 2012. Procede de viñedos situados al pie de las laderas al sur del pueblo, sobre arcillas, calizas y arenas, cultivados en ecológico.</p><p>A diferencia de muchos vecinos, su ensamblaje no se basa casi exclusivamente en el <strong>Merlot</strong>: el <strong>Cabernet Franc</strong> y el <strong>Cabernet Sauvignon</strong> tienen un peso importante, lo que aporta frescura, notas especiadas y estructura. El vino se cría en barricas de roble tras una vinificación parcela por parcela.</p><p>Es un Saint-Émilion de textura sedosa y fruta generosa, con taninos finos y una buena tensión. Se muestra agradable relativamente pronto, pero tiene capacidad para envejecer muchos años y ganar complejidad. Con la edad desarrolla notas de tabaco, cuero y sotobosque, sin perder su frescura característica.</p>",
+    "en": "<p><strong>Château Canon-La-Gaffelière</strong> is the main wine of the von Neipperg family estate in <strong>Saint-Émilion</strong>, promoted to <strong>Premier Grand Cru Classé B</strong> in 2012. It comes from vineyards at the foot of the slopes south of the town, on clay, limestone and sand, farmed organically.</p><p>Unlike many of its neighbours, its blend does not rely almost exclusively on <strong>Merlot</strong>: <strong>Cabernet Franc</strong> and <strong>Cabernet Sauvignon</strong> play a major role, bringing freshness, spicy notes and structure. The wine is aged in oak barrels after plot-by-plot vinification.</p><p>It is a Saint-Émilion of silky texture and generous fruit, with fine tannins and good tension. It is enjoyable relatively early but has the capacity to age for many years and gain complexity. With age it develops notes of tobacco, leather and forest floor, while keeping its characteristic freshness.</p>",
+    "fr": "<p><strong>Château Canon-La-Gaffelière</strong> est le vin principal de la propriété de la famille von Neipperg à <strong>Saint-Émilion</strong>, promue <strong>premier grand cru classé B</strong> en 2012. Il provient de vignes situées au pied des coteaux au sud du bourg, sur argiles, calcaires et sables, conduites en agriculture biologique.</p><p>Contrairement à beaucoup de ses voisins, son assemblage ne repose pas presque exclusivement sur le <strong>merlot</strong> : le <strong>cabernet franc</strong> et le <strong>cabernet-sauvignon</strong> y tiennent une place importante, apportant fraîcheur, notes épicées et structure. Le vin est élevé en barriques de chêne après une vinification parcellaire.</p><p>C’est un Saint-Émilion à la texture soyeuse et au fruit généreux, aux tanins fins et à la belle tension. Il se montre agréable assez tôt, mais peut vieillir de longues années en gagnant en complexité. Avec l’âge, il développe des notes de tabac, de cuir et de sous-bois, sans perdre sa fraîcheur caractéristique.</p>",
+    "it": "<p><strong>Château Canon-La-Gaffelière</strong> è il vino principale della proprietà della famiglia von Neipperg a <strong>Saint-Émilion</strong>, promossa <strong>Premier Grand Cru Classé B</strong> nel 2012. Proviene da vigneti ai piedi dei pendii a sud del paese, su argille, calcari e sabbie, coltivati in biologico.</p><p>A differenza di molti vicini, il suo uvaggio non si basa quasi esclusivamente sul <strong>Merlot</strong>: <strong>Cabernet Franc</strong> e <strong>Cabernet Sauvignon</strong> hanno un peso importante, apportando freschezza, note speziate e struttura. Il vino affina in barrique di rovere dopo una vinificazione per parcelle.</p><p>È un Saint-Émilion dalla tessitura setosa e dal frutto generoso, con tannini fini e buona tensione. Si mostra piacevole relativamente presto, ma può invecchiare molti anni acquistando complessità. Con l’età sviluppa note di tabacco, cuoio e sottobosco, pur conservando la sua caratteristica freschezza.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota intenso. Aromas de mora, cereza negra, especias y notas florales. Boca sedosa y fresca, de taninos finos.",
+    "en": "Deep crimson. Aromas of blackberry, black cherry, spice and floral notes. Silky, fresh palate with fine tannins.",
+    "fr": "Rouge profond. Arômes de mûre, de cerise noire, d’épices et notes florales. Bouche soyeuse et fraîche, aux tanins fins.",
+    "it": "Rosso intenso. Aromi di mora, ciliegia nera, spezie e note floreali. Bocca setosa e fresca, dai tannini fini."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes rojas, pato, setas, quesos curados",
+    "en": "Roast lamb, red meat, duck, mushrooms, aged cheeses",
+    "fr": "Agneau rôti, viandes rouges, canard, champignons, fromages affinés",
+    "it": "Agnello arrosto, carni rosse, anatra, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Château Canon-La-Gaffelière Saint-Émilion"
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "poggio-al-tesoro-mediterra",
+  "name": "Poggio al Tesoro Mediterra",
+  "winery": "allegrini",
+  "region": "toscana",
+  "country": "italia",
+  "type": "tinto",
+  "category": {
+    "es": "Toscana IGT",
+    "en": "Toscana IGT",
+    "fr": "Toscana IGT",
+    "it": "Toscana IGT"
+  },
+  "grapes": [
+    "syrah",
+    "merlot",
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "Tinto de la finca Poggio al Tesoro, de la familia Allegrini en Bolgheri, que ensambla Syrah, Merlot y Cabernet Sauvignon bajo la indicación Toscana IGT.",
+    "en": "Red from the Allegrini family’s Poggio al Tesoro estate in Bolgheri, blending Syrah, Merlot and Cabernet Sauvignon under the Toscana IGT designation.",
+    "fr": "Rouge du domaine Poggio al Tesoro, propriété de la famille Allegrini à Bolgheri, assemblant syrah, merlot et cabernet-sauvignon sous l’indication Toscana IGT.",
+    "it": "Rosso della tenuta Poggio al Tesoro della famiglia Allegrini a Bolgheri, che unisce Syrah, Merlot e Cabernet Sauvignon con l’indicazione Toscana IGT."
+  },
+  "body": {
+    "es": "<p><strong>Poggio al Tesoro</strong> es la finca que la familia Allegrini, conocida por sus vinos de Valpolicella, creó a comienzos de los años 2000 en <strong>Bolgheri</strong>, en la costa de Toscana. La zona, abierta al mar Tirreno y protegida por las colinas del interior, se hizo célebre por sus tintos de variedades bordelesas y ofrece también buenas condiciones para blancos mediterráneos.</p><p><strong>Mediterra</strong> es el tinto más accesible de la finca. Su nombre alude al carácter mediterráneo de la costa toscana, y se elabora con un ensamblaje de Syrah, Merlot y Cabernet Sauvignon procedentes de viñedos de la zona. Al acogerse a la indicación Toscana IGT, la bodega tiene libertad para elegir las proporciones de cada variedad según la añada.</p><p>La crianza es moderada y busca preservar la fruta: el resultado es un tinto jugoso y especiado, de cuerpo medio y taninos suaves, pensado para disfrutar en sus primeros años.</p>",
+    "en": "<p><strong>Poggio al Tesoro</strong> is the estate that the Allegrini family, known for their Valpolicella wines, created in the early 2000s in <strong>Bolgheri</strong>, on the Tuscan coast. The area, open to the Tyrrhenian Sea and sheltered by inland hills, became famous for its reds from Bordeaux varieties and also offers good conditions for Mediterranean whites.</p><p><strong>Mediterra</strong> is the estate’s most approachable red. Its name refers to the Mediterranean character of the Tuscan coast, and it is made from a blend of Syrah, Merlot and Cabernet Sauvignon from vineyards in the area. As a Toscana IGT, the winery is free to choose the proportions of each variety according to the vintage.</p><p>Ageing is moderate and aims to preserve the fruit: the result is a juicy, spicy red of medium body and soft tannins, made to be enjoyed in its first few years.</p>",
+    "fr": "<p><strong>Poggio al Tesoro</strong> est le domaine que la famille Allegrini, connue pour ses vins de Valpolicella, a créé au début des années 2000 à <strong>Bolgheri</strong>, sur la côte toscane. Le secteur, ouvert sur la mer Tyrrhénienne et abrité par les collines de l’intérieur, s’est rendu célèbre pour ses rouges de cépages bordelais et offre aussi de bonnes conditions aux blancs méditerranéens.</p><p><strong>Mediterra</strong> est le rouge le plus accessible du domaine. Son nom évoque le caractère méditerranéen de la côte toscane, et il est élaboré à partir d’un assemblage de syrah, de merlot et de cabernet-sauvignon issus de vignes du secteur. Relevant de l’indication Toscana IGT, il laisse à la maison la liberté de choisir les proportions de chaque cépage selon le millésime.</p><p>L’élevage est modéré et cherche à préserver le fruit : le résultat est un rouge juteux et épicé, de corps moyen et aux tanins souples, à apprécier dans ses premières années.</p>",
+    "it": "<p><strong>Poggio al Tesoro</strong> è la tenuta che la famiglia Allegrini, nota per i suoi vini della Valpolicella, ha creato all’inizio degli anni Duemila a <strong>Bolgheri</strong>, sulla costa toscana. La zona, aperta sul Tirreno e protetta dalle colline dell’entroterra, è diventata celebre per i rossi da varietà bordolesi e offre buone condizioni anche per i bianchi mediterranei.</p><p><strong>Mediterra</strong> è il rosso più accessibile della tenuta. Il nome richiama il carattere mediterraneo della costa toscana, ed è prodotto con un uvaggio di Syrah, Merlot e Cabernet Sauvignon provenienti da vigneti della zona. Rientrando nell’indicazione Toscana IGT, la cantina è libera di scegliere le proporzioni di ogni varietà secondo l’annata.</p><p>L’affinamento è moderato e mira a preservare il frutto: il risultato è un rosso succoso e speziato, di medio corpo e tannini morbidi, pensato per essere gustato nei primi anni.</p>"
+  },
+  "tasting": {
+    "es": "Fruta negra y roja madura, pimienta, hierbas mediterráneas y un toque de regaliz. Boca jugosa, de taninos suaves.",
+    "en": "Ripe black and red fruit, pepper, Mediterranean herbs and a touch of liquorice. Juicy palate with soft tannins.",
+    "fr": "Fruits noirs et rouges mûrs, poivre, herbes méditerranéennes et touche de réglisse. Bouche juteuse, tanins souples.",
+    "it": "Frutta nera e rossa matura, pepe, erbe mediterranee e un tocco di liquirizia. Bocca succosa, tannini morbidi."
+  },
+  "pairing": {
+    "es": "Pasta con ragú, carnes a la brasa, embutidos, pizza, quesos semicurados",
+    "en": "Pasta with ragù, grilled meats, cured meats, pizza, semi-hard cheeses",
+    "fr": "Pâtes à la bolognaise, viandes grillées, charcuterie, pizza, fromages mi-affinés",
+    "it": "Pasta al ragù, carni alla brace, salumi, pizza, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Mediterra Poggio al Tesoro"
+}

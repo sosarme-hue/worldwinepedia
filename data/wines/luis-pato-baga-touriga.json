@@ -1,0 +1,40 @@
+{
+  "slug": "luis-pato-baga-touriga",
+  "name": "Luis Pato Baga-Touriga",
+  "winery": "luis-pato",
+  "winery_name": null,
+  "region": "bairrada",
+  "country": "portugal",
+  "appellation": "DOC Bairrada",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Luis Pato Baga-Touriga es un vino tinto de Luís Pato, con la denominación DOC Bairrada, en Portugal.",
+    "en": "Luis Pato Baga-Touriga is a red wine from Luís Pato, made under the DOC Bairrada appellation in Portugal.",
+    "fr": "Luis Pato Baga-Touriga est un vin rouge de Luís Pato, élaboré sous l’appellation DOC Bairrada (Portugal).",
+    "it": "Luis Pato Baga-Touriga è un vino rosso di Luís Pato, prodotto nella denominazione DOC Bairrada (Portogallo)."
+  },
+  "body": {
+    "es": "<p>Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 12 % vol.</p><p>Productor familiar de la Bairrada, en Óis do Bairro, cuyo trabajo con la uva Baga, en vinos de parcela y espumosos, contribuyó decisivamente al prestigio internacional de la región.</p><p>La Bairrada, entre Aveiro y Coimbra, es la tierra de la uva Baga, que da tintos tánicos y longevos, y una de las principales zonas de espumosos de Portugal.</p>",
+    "en": "<p>It is a young wine, meant to be drunk in its first years. It has 12% ABV.</p><p>Family producer in Bairrada, in Óis do Bairro, whose work with the Baga grape, in single-vineyard and sparkling wines, did much to build the region’s international reputation.</p><p>Bairrada, between Aveiro and Coimbra, is the home of the Baga grape, which gives tannic, long-lived reds, and one of Portugal’s main sparkling wine areas.</p>",
+    "fr": "<p>C’est un vin jeune, à boire dans ses premières années. Il titre 12 % vol.</p><p>Producteur familial de la Bairrada, à Óis do Bairro, dont le travail sur le baga, en vins parcellaires et en effervescents, a largement contribué au prestige international de la région.</p><p>La Bairrada, entre Aveiro et Coimbra, est le pays du baga, qui donne des rouges tanniques et de longue garde, et l’une des principales zones d’effervescents du Portugal.</p>",
+    "it": "<p>È un vino giovane, da bere nei primi anni. Ha 12% vol.</p><p>Produttore di famiglia della Bairrada, a Óis do Bairro, il cui lavoro con il Baga, in vini di singola vigna e spumanti, ha contribuito in modo decisivo al prestigio internazionale della regione.</p><p>La Bairrada, tra Aveiro e Coimbra, è la terra del Baga, che dà rossi tannici e longevi, ed è una delle principali zone di spumanti del Portogallo.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Luis Pato Baga-Touriga Luis Pato",
+  "brief": true,
+  "source": "decantalo"
+}

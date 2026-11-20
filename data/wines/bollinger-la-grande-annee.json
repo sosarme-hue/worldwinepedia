@@ -1,0 +1,41 @@
+{
+  "slug": "bollinger-la-grande-annee",
+  "name": "Bollinger La Grande Année",
+  "winery": "bollinger",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {"es": "Brut de añada", "en": "Vintage brut", "fr": "Brut millésimé", "it": "Brut millesimato"},
+  "grapes": ["pinot-noir", "chardonnay"],
+  "summary": {
+    "es": "El champagne de añada de Bollinger, de Pinot Noir y Chardonnay de grands y premiers crus, fermentado íntegramente en barrica.",
+    "en": "Bollinger’s vintage champagne, made from Grand and Premier Cru Pinot Noir and Chardonnay and fermented entirely in barrel.",
+    "fr": "Le champagne millésimé de Bollinger, issu de pinot noir et de chardonnay de grands et premiers crus et entièrement fermenté en fût.",
+    "it": "Lo champagne millesimato di Bollinger, da Pinot Noir e Chardonnay di grand e premier cru, fermentato interamente in botte."
+  },
+  "body": {
+    "es": "<p>La Grande Année se elabora únicamente en las añadas que Bollinger considera de calidad suficiente y procede de una selección de viñedos clasificados como grands crus y premiers crus. El Pinot Noir es la variedad mayoritaria, completada con Chardonnay.</p><p>Todos los vinos base fermentan en pequeñas barricas de roble usadas, lo que aporta textura y complejidad sin marcar el vino con sabores de madera. La segunda fermentación tiene lugar en botellas tapadas con corcho natural en lugar de chapa, una práctica artesanal poco frecuente, y el vino envejece varios años sobre sus lías antes del degüelle, que se realiza a mano.</p><p>Es un champagne de gran estructura y profundidad, pensado para acompañar platos elaborados y con capacidad de evolucionar en botella.</p>",
+    "en": "<p>La Grande Année is made only in vintages Bollinger considers of sufficient quality and comes from a selection of vineyards classified as grands crus and premiers crus. Pinot Noir is the majority variety, completed with Chardonnay.</p><p>All the base wines ferment in small, used oak barrels, which adds texture and complexity without marking the wine with oak flavours. The second fermentation takes place in bottles sealed with natural cork instead of a crown cap, an unusual artisanal practice, and the wine ages for several years on its lees before disgorgement, which is done by hand.</p><p>It is a champagne of great structure and depth, designed to accompany elaborate dishes and capable of evolving in bottle.</p>",
+    "fr": "<p>La Grande Année n’est élaborée que dans les millésimes que Bollinger juge de qualité suffisante et provient d’une sélection de vignes classées en grands crus et premiers crus. Le pinot noir y est majoritaire, complété par le chardonnay.</p><p>Tous les vins de base fermentent en petits fûts de chêne usagés, ce qui apporte texture et complexité sans marquer le vin de goûts boisés. La prise de mousse se fait en bouteilles bouchées liège plutôt que capsulées, une pratique artisanale peu répandue, et le vin vieillit plusieurs années sur lies avant un dégorgement réalisé à la main.</p><p>C’est un champagne d’une grande structure et d’une belle profondeur, pensé pour accompagner des plats élaborés et capable d’évoluer en bouteille.</p>",
+    "it": "<p>La Grande Année si produce solo nelle annate che Bollinger ritiene di qualità sufficiente e proviene da una selezione di vigneti classificati grand cru e premier cru. Il Pinot Noir è la varietà maggioritaria, completato dallo Chardonnay.</p><p>Tutti i vini base fermentano in piccole botti di rovere usate, che apportano consistenza e complessità senza segnare il vino con sentori di legno. La seconda fermentazione avviene in bottiglie chiuse con tappo di sughero naturale anziché con tappo a corona, una pratica artigianale poco diffusa, e il vino affina diversi anni sui lieviti prima della sboccatura, eseguita a mano.</p><p>È uno champagne di grande struttura e profondità, pensato per accompagnare piatti elaborati e capace di evolversi in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Dorado intenso. Aromas de fruta amarilla madura, cítricos confitados, especias, frutos secos tostados y notas de miel. En boca es potente, cremoso y largo, con una acidez que equilibra su riqueza.",
+    "en": "Deep gold. Aromas of ripe yellow fruit, candied citrus, spice, toasted nuts and notes of honey. Powerful, creamy and long on the palate, with acidity balancing its richness.",
+    "fr": "Or intense. Arômes de fruits jaunes mûrs, d’agrumes confits, d’épices, de fruits secs grillés et de miel. En bouche, puissant, crémeux et long, avec une acidité qui équilibre sa richesse.",
+    "it": "Oro intenso. Aromi di frutta gialla matura, agrumi canditi, spezie, frutta secca tostata e note di miele. In bocca è potente, cremoso e lungo, con un’acidità che ne equilibra la ricchezza."
+  },
+  "pairing": {
+    "es": "Aves de caza, ternera con setas, pescados con mantequilla, quesos de pasta dura curados",
+    "en": "Game birds, veal with mushrooms, fish with butter sauces, aged hard cheeses",
+    "fr": "Gibier à plume, veau aux champignons, poissons au beurre, fromages à pâte dure affinés",
+    "it": "Selvaggina da piuma, vitello ai funghi, pesce al burro, formaggi stagionati a pasta dura"
+  },
+  "serve": {
+    "es": "10-12 °C, copa de vino blanco amplia",
+    "en": "10-12 °C, large white wine glass",
+    "fr": "10-12 °C, grand verre à vin blanc",
+    "it": "10-12 °C, ampio calice da vino bianco"
+  },
+  "search": "Bollinger La Grande Année Champagne"
+}

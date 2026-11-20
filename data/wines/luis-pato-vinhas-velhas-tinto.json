@@ -1,0 +1,41 @@
+{
+  "slug": "luis-pato-vinhas-velhas-tinto",
+  "name": "Luís Pato Vinhas Velhas Tinto",
+  "winery": "luis-pato",
+  "region": "bairrada",
+  "country": "portugal",
+  "type": "tinto",
+  "category": null,
+  "grapes": ["baga"],
+  "summary": {
+    "es": "Tinto de Baga de viñas viejas de Luís Pato, de la zona de la Bairrada, que muestra el carácter fresco, tánico y longevo de esta variedad.",
+    "en": "Old-vine Baga red from Luís Pato, from the Bairrada area, showing the fresh, tannic and long-lived character of the variety.",
+    "fr": "Rouge de baga de vieilles vignes de Luís Pato, de la zone de la Bairrada, qui montre le caractère frais, tannique et de longue garde de ce cépage.",
+    "it": "Rosso di Baga da vigne vecchie di Luís Pato, dalla zona della Bairrada, che mostra il carattere fresco, tannico e longevo di questo vitigno."
+  },
+  "body": {
+    "es": "<p>Este tinto procede de viñas viejas de <strong>Baga</strong> que Luís Pato cultiva en los alrededores de Óis do Bairro, en la Bairrada, sobre suelos arcillo-calcáreos. Es uno de los vinos más representativos del productor y una buena introducción a su trabajo con esta variedad, antes de sus vinos de parcela.</p><p>La Baga es una uva de piel gruesa, maduración tardía, acidez alta y taninos firmes. Para suavizar esos taninos, Luís Pato despalilla la uva y cría el vino en barricas de roble, prácticas que introdujo en la región. El vino se comercializa bajo la indicación geográfica regional de la Beira Atlántico, que el productor emplea para buena parte de su gama, aunque procede del corazón de la Bairrada. Es un tinto de perfil fresco y estructurado, que puede resultar austero en su juventud y que gana complejidad con algunos años de botella.</p>",
+    "en": "<p>This red comes from old <strong>Baga</strong> vines that Luís Pato grows around Óis do Bairro, in Bairrada, on clay-limestone soils. It is one of the producer’s most representative wines and a good introduction to his work with the variety, ahead of his single-vineyard wines.</p><p>Baga is a thick-skinned, late-ripening grape with high acidity and firm tannins. To soften those tannins, Luís Pato destems the grapes and ages the wine in oak barrels, practices he introduced to the region. The wine is sold under the Beira Atlântico regional geographical indication, which the producer uses for much of his range, although it comes from the heart of Bairrada. It is a red with a fresh, structured profile, which can seem austere in its youth and gains complexity with a few years in bottle.</p>",
+    "fr": "<p>Ce rouge provient de vieilles vignes de <strong>baga</strong> que Luís Pato cultive autour d’Óis do Bairro, dans la Bairrada, sur des sols argilo-calcaires. C’est l’un des vins les plus représentatifs du producteur et une bonne introduction à son travail sur ce cépage, avant ses vins parcellaires.</p><p>Le baga est un raisin à peau épaisse, à maturité tardive, riche en acidité et aux tanins fermes. Pour assouplir ces tanins, Luís Pato égrappe la vendange et élève le vin en barriques de chêne, des pratiques qu’il a introduites dans la région. Le vin est commercialisé sous l’indication géographique régionale Beira Atlântico, que le producteur utilise pour une grande partie de sa gamme, bien qu’il provienne du cœur de la Bairrada. C’est un rouge au profil frais et structuré, qui peut paraître austère dans sa jeunesse et gagne en complexité après quelques années de bouteille.</p>",
+    "it": "<p>Questo rosso proviene da vecchie vigne di <strong>Baga</strong> che Luís Pato coltiva nei dintorni di Óis do Bairro, nella Bairrada, su suoli argilloso-calcarei. È uno dei vini più rappresentativi del produttore e una buona introduzione al suo lavoro con questo vitigno, prima dei suoi vini di singola vigna.</p><p>Il Baga è un’uva dalla buccia spessa, a maturazione tardiva, con acidità alta e tannini decisi. Per ammorbidire questi tannini, Luís Pato diraspa l’uva e affina il vino in barrique di rovere, pratiche che ha introdotto nella regione. Il vino è commercializzato con l’indicazione geografica regionale Beira Atlântico, che il produttore usa per buona parte della gamma, pur provenendo dal cuore della Bairrada. È un rosso dal profilo fresco e strutturato, che può risultare austero in gioventù e guadagna complessità con qualche anno di bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de guinda, frutos rojos ácidos, notas terrosas y de hierbas, con un toque de tostado. En boca es fresco, de taninos firmes y acidez marcada.",
+    "en": "Deep ruby. Aromas of sour cherry, tart red berries, earthy and herbal notes and a touch of toast. Fresh on the palate, with firm tannins and marked acidity.",
+    "fr": "Rubis intense. Arômes de griotte, de fruits rouges acidulés, notes terreuses et herbacées, avec une touche de grillé. En bouche, il est frais, avec des tanins fermes et une acidité marquée.",
+    "it": "Rubino intenso. Aromi di amarena, frutti rossi aciduli, note terrose ed erbacee e un tocco di tostatura. In bocca è fresco, con tannini decisi e acidità marcata."
+  },
+  "pairing": {
+    "es": "Cochinillo asado (leitão), carnes grasas, caza, quesos curados",
+    "en": "Roast suckling pig (leitão), rich meats, game, aged cheeses",
+    "fr": "Cochon de lait rôti (leitão), viandes grasses, gibier, fromages affinés",
+    "it": "Maialino da latte arrosto (leitão), carni grasse, selvaggina, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia; conviene decantarlo",
+    "en": "16-18 °C, large glass; decanting is advisable",
+    "fr": "16-18 °C, verre ample ; il gagne à être carafé",
+    "it": "16-18 °C, calice ampio; conviene decantarlo"
+  },
+  "search": "Luis Pato Vinhas Velhas Tinto Baga"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "blandys-10-year-old-sercial",
+  "name": "Blandy’s 10 Year Old Sercial",
+  "winery": "blandys",
+  "region": "madeira",
+  "country": "portugal",
+  "type": "generoso",
+  "category": {"es": "10 años · Sercial (seco)", "en": "10 Year Old · Sercial (dry)", "fr": "10 ans · Sercial (sec)", "it": "10 anni · Sercial (secco)"},
+  "grapes": ["sercial"],
+  "summary": {
+    "es": "Madeira seco de Sercial con indicación de edad de 10 años, elaborado por Blandy’s, de acidez muy viva y apto como aperitivo.",
+    "en": "Dry Sercial Madeira with a 10-year age indication, made by Blandy’s, with very lively acidity and well suited as an aperitif.",
+    "fr": "Madère sec de sercial avec indication d’âge de 10 ans, élaboré par Blandy’s, d’une acidité très vive et parfait en apéritif.",
+    "it": "Madeira secco di Sercial con indicazione d’età di 10 anni, prodotto da Blandy’s, di acidità molto vivace e adatto come aperitivo."
+  },
+  "body": {
+    "es": "<p>La <strong>Sercial</strong> es la variedad tradicional asociada a los Madeiras más secos. Se cultiva sobre todo en zonas frescas y elevadas de la isla y madura tarde, conservando una acidez muy alta. En este vino de Blandy’s, la fermentación avanza hasta que queda poco azúcar antes de añadir la aguardiente vínica, lo que da un estilo seco.</p><p>Después el vino envejece en barricas de roble en las bodegas de la casa en Funchal, con el sistema tradicional de crianza por calor de la isla, hasta alcanzar una edad media de unos diez años, como indica la etiqueta. La crianza oxidativa suaviza la acidez de la Sercial y desarrolla notas de frutos secos y especias, pero el vino conserva una frescura cortante. Por su perfil seco y tenso, es un Madeira adecuado como aperitivo o para acompañar platos salados, y se mantiene en buen estado durante mucho tiempo después de abierto.</p>",
+    "en": "<p><strong>Sercial</strong> is the traditional variety associated with the driest Madeiras. It is grown mainly in cooler, higher areas of the island and ripens late, retaining very high acidity. In this wine from Blandy’s, fermentation continues until little sugar remains before the grape spirit is added, giving a dry style.</p><p>The wine then ages in oak casks in the house’s lodges in Funchal, using the island’s traditional method of ageing with heat, until it reaches an average age of about ten years, as stated on the label. Oxidative ageing softens Sercial’s acidity and develops nutty and spicy notes, but the wine retains a cutting freshness. With its dry, taut profile, it is a Madeira suited to the aperitif or to savoury dishes, and it stays in good condition for a long time after opening.</p>",
+    "fr": "<p>Le <strong>sercial</strong> est le cépage traditionnel associé aux madères les plus secs. Il est cultivé surtout dans les zones fraîches et élevées de l’île et mûrit tard, en conservant une acidité très élevée. Dans ce vin de Blandy’s, la fermentation se poursuit jusqu’à ce qu’il reste peu de sucre avant l’ajout de l’eau-de-vie de vin, ce qui donne un style sec.</p><p>Le vin vieillit ensuite en fûts de chêne dans les chais de la maison à Funchal, selon la méthode traditionnelle de l’île de vieillissement à la chaleur, jusqu’à atteindre un âge moyen d’environ dix ans, comme l’indique l’étiquette. L’élevage oxydatif assouplit l’acidité du sercial et développe des notes de fruits secs et d’épices, mais le vin conserve une fraîcheur tranchante. Grâce à son profil sec et tendu, c’est un madère adapté à l’apéritif ou aux plats salés, qui reste en bon état longtemps après ouverture.</p>",
+    "it": "<p>Il <strong>Sercial</strong> è la varietà tradizionale associata ai Madeira più secchi. Si coltiva soprattutto nelle zone fresche ed elevate dell’isola e matura tardi, conservando un’acidità molto alta. In questo vino di Blandy’s la fermentazione prosegue finché resta poco zucchero prima dell’aggiunta dell’acquavite di vino, il che dà uno stile secco.</p><p>Il vino invecchia poi in botti di rovere nelle cantine della casa a Funchal, con il metodo tradizionale dell’isola di invecchiamento al calore, fino a raggiungere un’età media di circa dieci anni, come indicato in etichetta. L’invecchiamento ossidativo ammorbidisce l’acidità del Sercial e sviluppa note di frutta secca e spezie, ma il vino conserva una freschezza tagliente. Per il suo profilo secco e teso, è un Madeira adatto all’aperitivo o a piatti salati, e si mantiene in buono stato a lungo dopo l’apertura.</p>"
+  },
+  "tasting": {
+    "es": "Color ámbar dorado. Aromas de almendra, nuez, cítricos confitados y notas yodadas. En boca es seco, ligero y muy fresco, con una acidez penetrante y final largo.",
+    "en": "Golden amber. Aromas of almond, walnut, candied citrus and iodine notes. Dry, light and very fresh on the palate, with penetrating acidity and a long finish.",
+    "fr": "Ambre doré. Arômes d’amande, de noix, d’agrumes confits et notes iodées. En bouche, il est sec, léger et très frais, avec une acidité pénétrante et une finale longue.",
+    "it": "Ambra dorato. Aromi di mandorla, noce, agrumi canditi e note iodate. In bocca è secco, leggero e molto fresco, con un’acidità penetrante e finale lungo."
+  },
+  "pairing": {
+    "es": "Aperitivo, almendras saladas, sopas y consomés, sushi, quesos curados",
+    "en": "Aperitif, salted almonds, soups and consommés, sushi, aged cheeses",
+    "fr": "Apéritif, amandes salées, soupes et consommés, sushis, fromages affinés",
+    "it": "Aperitivo, mandorle salate, zuppe e consommé, sushi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "10-12 °C, copa pequeña de vino generoso",
+    "en": "10-12 °C, small fortified wine glass",
+    "fr": "10-12 °C, petit verre à vin muté",
+    "it": "10-12 °C, piccolo calice da vino fortificato"
+  },
+  "search": "Blandy's 10 Year Old Sercial Madeira"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "abadia-da-cova-fudre",
+  "name": "Abadía da Cova Fudre",
+  "winery": null,
+  "winery_name": "Adegas Moure",
+  "region": "ribeira-sacra",
+  "country": "espana",
+  "appellation": "DO Ribeira Sacra",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "mencia"
+  ],
+  "summary": {
+    "es": "Abadía da Cova Fudre es un vino tinto de Adegas Moure, con la denominación DO Ribeira Sacra, en España.",
+    "en": "Abadía da Cova Fudre is a red wine from Adegas Moure, made under the DO Ribeira Sacra appellation in Spain.",
+    "fr": "Abadía da Cova Fudre est un vin rouge de Adegas Moure, élaboré sous l’appellation DO Ribeira Sacra (Espagne).",
+    "it": "Abadía da Cova Fudre è un vino rosso di Adegas Moure, prodotto nella denominazione DO Ribeira Sacra (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Mencía. Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 12 % vol.</p><p>Ribeira Sacra, en el interior de Galicia, es una denominación de origen reconocida en 1996, famosa por sus viñedos en bancales sobre los cañones del Miño y del Sil. Su variedad principal es la Mencía.</p>",
+    "en": "<p>It is made from Mencía. It is a young wine, meant to be drunk in its first years. It has 12% ABV.</p><p>Ribeira Sacra, in inland Galicia, is a designation of origin recognised in 1996, famous for its terraced vineyards above the canyons of the Miño and Sil. Its main variety is Mencía.</p>",
+    "fr": "<p>Il est élaboré à partir de Mencía. C’est un vin jeune, à boire dans ses premières années. Il titre 12 % vol.</p><p>La Ribeira Sacra, dans l'intérieur de la Galice, est une dénomination d'origine reconnue en 1996, célèbre pour ses vignes en terrasses au-dessus des canyons du Minho et du Sil. Son cépage principal est le mencía.</p>",
+    "it": "<p>È prodotto con Mencía. È un vino giovane, da bere nei primi anni. Ha 12% vol.</p><p>Ribeira Sacra, nell'entroterra della Galizia, è una denominazione di origine riconosciuta nel 1996, famosa per i vigneti terrazzati sopra i canyon del Miño e del Sil. Il suo vitigno principale è il Mencía.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Abadía da Cova Fudre Adegas Moure",
+  "brief": true,
+  "source": "decantalo"
+}

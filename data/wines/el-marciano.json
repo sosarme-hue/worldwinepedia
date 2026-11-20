@@ -1,0 +1,42 @@
+{
+  "slug": "el-marciano",
+  "name": "El Marciano",
+  "winery": null,
+  "winery_name": "Alfredo Maestro",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Castilla y León",
+  "type": "espumoso",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "El Marciano es un vino espumoso de Alfredo Maestro, con la denominación VT Castilla y León, en España.",
+    "en": "El Marciano is a sparkling wine from Alfredo Maestro, made under the VT Castilla y León appellation in Spain.",
+    "fr": "El Marciano est un vin effervescent de Alfredo Maestro, élaboré sous l’appellation VT Castilla y León (Espagne).",
+    "it": "El Marciano è un vino spumante di Alfredo Maestro, prodotto nella denominazione VT Castilla y León (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 15 % vol.</p>",
+    "en": "<p>It is made from Grenache. It is a young wine, meant to be drunk in its first years. It has 15% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. C’est un vin jeune, à boire dans ses premières années. Il titre 15 % vol.</p>",
+    "it": "<p>È prodotto con Grenache. È un vino giovane, da bere nei primi anni. Ha 15% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "El Marciano Alfredo Maestro",
+  "brief": true,
+  "source": "decantalo"
+}

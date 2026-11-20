@@ -1,0 +1,42 @@
+{
+  "slug": "georg-breuer-estate-rudesheim-riesling",
+  "name": "Georg Breuer Estate Rüdesheim Riesling",
+  "winery": null,
+  "winery_name": "Georg Breuer",
+  "region": null,
+  "country": "alemania",
+  "appellation": "VDP Rheingau",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "riesling"
+  ],
+  "summary": {
+    "es": "Georg Breuer Estate Rüdesheim Riesling es un vino blanco de Georg Breuer, con la denominación VDP Rheingau, en Alemania.",
+    "en": "Georg Breuer Estate Rüdesheim Riesling is a white wine from Georg Breuer, made under the VDP Rheingau appellation in Germany.",
+    "fr": "Georg Breuer Estate Rüdesheim Riesling est un vin blanc de Georg Breuer, élaboré sous l’appellation VDP Rheingau (Allemagne).",
+    "it": "Georg Breuer Estate Rüdesheim Riesling è un vino bianco di Georg Breuer, prodotto nella denominazione VDP Rheingau (Germania)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Riesling. Su graduación es de 11,5 % vol.</p>",
+    "en": "<p>It is made from Riesling. It has 11.5% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Riesling. Il titre 11,5 % vol.</p>",
+    "it": "<p>È prodotto con Riesling Renano. Ha 11,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Georg Breuer Estate Rüdesheim Riesling Georg Breuer",
+  "brief": true,
+  "source": "decantalo"
+}

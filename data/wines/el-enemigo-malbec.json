@@ -1,0 +1,44 @@
+{
+  "slug": "el-enemigo-malbec",
+  "name": "El Enemigo Malbec",
+  "winery": "el-enemigo",
+  "region": "mendoza",
+  "country": "argentina",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "malbec",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Malbec mendocino de El Enemigo, el proyecto de Alejandro Vigil y Adrianna Catena, con una pequeña parte de Cabernet Franc y un estilo fresco y expresivo.",
+    "en": "Mendoza Malbec from El Enemigo, the project of Alejandro Vigil and Adrianna Catena, with a small share of Cabernet Franc and a fresh, expressive style.",
+    "fr": "Malbec mendocin d’El Enemigo, le projet d’Alejandro Vigil et d’Adrianna Catena, avec une petite part de cabernet franc et un style frais et expressif.",
+    "it": "Malbec mendocino di El Enemigo, il progetto di Alejandro Vigil e Adrianna Catena, con una piccola parte di Cabernet Franc e uno stile fresco ed espressivo."
+  },
+  "body": {
+    "es": "<p>El Malbec es uno de los vinos principales de la línea <strong>El Enemigo</strong>. Como otros varietales de la casa, no se elabora exclusivamente con una sola uva: al Malbec se le suele añadir una pequeña proporción de Cabernet Franc, que aporta notas herbáceas y especiadas y refuerza la frescura. Las proporciones varían según la añada.</p><p>Las uvas proceden principalmente del <strong>Valle de Uco</strong>, en especial de zonas de altitud como Gualtallary, donde los suelos calcáreos y pedregosos y las noches frías dan vinos de acidez marcada y taninos finos. La crianza se realiza en barricas y toneles de roble francés de distintos tamaños, con un uso de la madera que busca no imponerse a la fruta. El resultado es un Malbec de perfil más tenso y floral que el de los estilos mendocinos más maduros, con buena capacidad de guarda.</p>",
+    "en": "<p>Malbec is one of the main wines in the <strong>El Enemigo</strong> line. Like other varietals from the house, it is not made exclusively from a single grape: a small proportion of Cabernet Franc is usually added to the Malbec, contributing herbal and spicy notes and reinforcing freshness. The proportions vary with the vintage.</p><p>The grapes come mainly from the <strong>Uco Valley</strong>, especially from high-altitude areas such as Gualtallary, where calcareous, stony soils and cold nights give wines with marked acidity and fine tannins. Ageing takes place in French oak barrels and casks of different sizes, with a use of wood that seeks not to dominate the fruit. The result is a Malbec with a tauter, more floral profile than the riper Mendoza styles, with good ageing potential.</p>",
+    "fr": "<p>Le malbec est l’un des principaux vins de la ligne <strong>El Enemigo</strong>. Comme d’autres vins de cépage de la maison, il n’est pas élaboré exclusivement avec un seul raisin : on ajoute généralement au malbec une petite proportion de cabernet franc, qui apporte des notes herbacées et épicées et renforce la fraîcheur. Les proportions varient selon le millésime.</p><p>Les raisins proviennent principalement de la <strong>vallée d’Uco</strong>, en particulier de zones d’altitude comme Gualtallary, où les sols calcaires et caillouteux et les nuits froides donnent des vins à l’acidité marquée et aux tanins fins. L’élevage se fait en barriques et en foudres de chêne français de différentes tailles, avec un usage du bois qui cherche à ne pas dominer le fruit. Il en résulte un malbec au profil plus tendu et plus floral que les styles mendocins plus mûrs, avec un bon potentiel de garde.</p>",
+    "it": "<p>Il Malbec è uno dei vini principali della linea <strong>El Enemigo</strong>. Come altri varietali della casa, non è prodotto esclusivamente con una sola uva: al Malbec si aggiunge di solito una piccola percentuale di Cabernet Franc, che apporta note erbacee e speziate e rafforza la freschezza. Le proporzioni variano secondo l’annata.</p><p>Le uve provengono principalmente dalla <strong>Valle de Uco</strong>, in particolare da zone d’altura come Gualtallary, dove i suoli calcarei e sassosi e le notti fredde danno vini di acidità marcata e tannini fini. L’affinamento avviene in barrique e botti di rovere francese di diverse dimensioni, con un uso del legno che cerca di non sovrastare il frutto. Il risultato è un Malbec dal profilo più teso e floreale rispetto agli stili mendocini più maturi, con un buon potenziale di invecchiamento.</p>"
+  },
+  "tasting": {
+    "es": "Violáceo intenso. Aromas de violeta, ciruela, frutos negros, hierbas y especias. Boca fresca y tensa, de taninos finos.",
+    "en": "Intense purple. Aromas of violet, plum, black fruit, herbs and spice. Fresh, taut palate with fine tannins.",
+    "fr": "Violacé intense. Arômes de violette, de prune, de fruits noirs, d’herbes et d’épices. Bouche fraîche et tendue, aux tanins fins.",
+    "it": "Violaceo intenso. Aromi di viola, prugna, frutti neri, erbe e spezie. Bocca fresca e tesa, dai tannini fini."
+  },
+  "pairing": {
+    "es": "Asado argentino, carnes a la parrilla, empanadas, quesos semicurados",
+    "en": "Argentine asado, grilled meats, empanadas, semi-hard cheeses",
+    "fr": "Asado argentin, viandes grillées, empanadas, fromages mi-affinés",
+    "it": "Asado argentino, carni alla griglia, empanadas, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "El Enemigo Malbec Mendoza"
+}

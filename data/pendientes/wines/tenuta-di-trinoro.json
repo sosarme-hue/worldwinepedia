@@ -1,0 +1,40 @@
+{
+  "slug": "tenuta-di-trinoro",
+  "name": "Tenuta di Trinoro",
+  "winery": "tenuta-di-trinoro",
+  "winery_name": null,
+  "region": null,
+  "country": "italia",
+  "appellation": "IGP Rosso Toscana",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Tenuta di Trinoro es un vino tinto de Tenuta di Trinoro, con la denominación IGP Rosso Toscana, en Italia.",
+    "en": "Tenuta di Trinoro is a red wine from Tenuta di Trinoro, made under the IGP Rosso Toscana appellation in Italy.",
+    "fr": "Tenuta di Trinoro est un vin rouge de Tenuta di Trinoro, élaboré sous l’appellation IGP Rosso Toscana (Italie).",
+    "it": "Tenuta di Trinoro è un vino rosso di Tenuta di Trinoro, prodotto nella denominazione IGP Rosso Toscana (Italia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 15 % vol.</p><p>Finca del valle del Orcia, en el sur de Toscana, creada por Andrea Franchetti y dedicada a tintos de variedades bordelesas como la Cabernet Franc y la Merlot.</p>",
+    "en": "<p>It is aged in wood. It has 15% ABV.</p><p>Estate in the Val d’Orcia, southern Tuscany, created by Andrea Franchetti and devoted to reds from Bordeaux varieties such as Cabernet Franc and Merlot.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 15 % vol.</p><p>Domaine du Val d’Orcia, dans le sud de la Toscane, créé par Andrea Franchetti et consacré aux rouges de cépages bordelais comme le cabernet franc et le merlot.</p>",
+    "it": "<p>È affinato in legno. Ha 15% vol.</p><p>Tenuta della Val d’Orcia, nel sud della Toscana, creata da Andrea Franchetti e dedicata a rossi da varietà bordolesi come Cabernet Franc e Merlot.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Tenuta di Trinoro Tenuta di Trinoro",
+  "brief": true,
+  "source": "decantalo"
+}

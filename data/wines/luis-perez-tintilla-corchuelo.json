@@ -1,0 +1,40 @@
+{
+  "slug": "luis-perez-tintilla-corchuelo",
+  "name": "Luis Pérez Tintilla Corchuelo",
+  "winery": null,
+  "winery_name": "Bodegas Luis Pérez",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Cádiz",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Luis Pérez Tintilla Corchuelo es un vino tinto de Bodegas Luis Pérez, con la denominación VT Cádiz, en España.",
+    "en": "Luis Pérez Tintilla Corchuelo is a red wine from Bodegas Luis Pérez, made under the VT Cádiz appellation in Spain.",
+    "fr": "Luis Pérez Tintilla Corchuelo est un vin rouge de Bodegas Luis Pérez, élaboré sous l’appellation VT Cádiz (Espagne).",
+    "it": "Luis Pérez Tintilla Corchuelo è un vino rosso di Bodegas Luis Pérez, prodotto nella denominazione VT Cádiz (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 13,5 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 13.5% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 13,5 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 13,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Luis Pérez Tintilla Corchuelo Bodegas Luis Pérez",
+  "brief": true,
+  "source": "decantalo"
+}

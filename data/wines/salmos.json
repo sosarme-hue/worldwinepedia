@@ -1,0 +1,41 @@
+{
+  "slug": "salmos",
+  "name": "Salmos",
+  "winery": "familia-torres",
+  "region": "priorat",
+  "country": "espana",
+  "type": "tinto",
+  "category": null,
+  "grapes": ["garnacha", "carinena", "syrah"],
+  "summary": {
+    "es": "Tinto de Familia Torres en la D.O.Ca. Priorat, ensamblaje de garnacha, cariñena y syrah de viñedos sobre llicorella.",
+    "en": "Familia Torres red from the Priorat D.O.Ca., a blend of Garnacha, Carignan and Syrah from vineyards on llicorella slate.",
+    "fr": "Rouge de Familia Torres dans la D.O.Ca. Priorat, assemblage de grenache, de carignan et de syrah issus de vignes sur llicorella.",
+    "it": "Rosso di Familia Torres nella D.O.Ca. Priorat, assemblaggio di Grenache, Carignano e Syrah da vigneti sulla llicorella."
+  },
+  "body": {
+    "es": "<p>Salmos es el vino con el que Familia Torres está presente en el <strong>Priorat</strong>. Su nombre evoca el pasado monástico de la comarca, ligada desde la Edad Media a la cartuja de Scala Dei, cuyos monjes impulsaron el cultivo de la vid en la zona.</p><p>Se elabora con <strong>garnacha</strong>, <strong>cariñena</strong> y <strong>syrah</strong> procedentes de viñedos de la familia y de otras parcelas de la comarca, cultivados sobre la característica <strong>llicorella</strong>. Las uvas se vinifican por separado y el vino se cría en barricas de roble antes del ensamblaje final. Es un Priorat de perfil maduro y especiado, con la concentración típica de la denominación, que se presta tanto a beberse en sus primeros años como a una guarda de medio plazo.</p>",
+    "en": "<p>Salmos is the wine with which Familia Torres is represented in <strong>Priorat</strong>. Its name (Psalms) evokes the district's monastic past, linked since the Middle Ages to the charterhouse of Scala Dei, whose monks promoted vine growing in the area.</p><p>It is made from <strong>Garnacha</strong>, <strong>Carignan</strong> and <strong>Syrah</strong> from the family's vineyards and other plots in the district, grown on the characteristic <strong>llicorella</strong>. The grapes are vinified separately and the wine is aged in oak barrels before the final blend. It is a ripe, spicy Priorat with the concentration typical of the designation, suited both to drinking in its first years and to medium-term cellaring.</p>",
+    "fr": "<p>Salmos est le vin par lequel Familia Torres est présente dans le <strong>Priorat</strong>. Son nom (Psaumes) évoque le passé monastique de la région, liée depuis le Moyen Âge à la chartreuse de Scala Dei, dont les moines développèrent la culture de la vigne.</p><p>Il est élaboré avec du <strong>grenache</strong>, du <strong>carignan</strong> et de la <strong>syrah</strong> provenant des vignes de la famille et d'autres parcelles de la région, cultivées sur la fameuse <strong>llicorella</strong>. Les raisins sont vinifiés séparément et le vin est élevé en barriques de chêne avant l'assemblage final. C'est un Priorat de profil mûr et épicé, doté de la concentration typique de l'appellation, qui se prête aussi bien à une consommation dans ses premières années qu'à une garde à moyen terme.</p>",
+    "it": "<p>Salmos è il vino con cui Familia Torres è presente nel <strong>Priorat</strong>. Il nome (Salmi) evoca il passato monastico della zona, legata dal Medioevo alla certosa di Scala Dei, i cui monaci promossero la coltivazione della vite.</p><p>È prodotto con <strong>Grenache</strong>, <strong>Carignano</strong> e <strong>Syrah</strong> dai vigneti della famiglia e da altre parcelle della zona, coltivati sulla caratteristica <strong>llicorella</strong>. Le uve sono vinificate separatamente e il vino affina in barrique di rovere prima dell'assemblaggio finale. È un Priorat dal profilo maturo e speziato, con la concentrazione tipica della denominazione, adatto sia a essere bevuto nei primi anni sia a un invecchiamento di medio periodo.</p>"
+  },
+  "tasting": {
+    "es": "Fruta negra madura, notas de regaliz, especias y un fondo mineral. Boca amplia, con tanino maduro y final cálido.",
+    "en": "Ripe black fruit, notes of liquorice, spice and a mineral background. Broad palate with ripe tannins and a warm finish.",
+    "fr": "Fruits noirs mûrs, notes de réglisse, d'épices et fond minéral. Bouche ample, aux tanins mûrs et à la finale chaleureuse.",
+    "it": "Frutta nera matura, note di liquirizia, spezie e un fondo minerale. Bocca ampia, con tannino maturo e finale caldo."
+  },
+  "pairing": {
+    "es": "Carnes rojas, caza, guisos de montaña, quesos curados",
+    "en": "Red meats, game, hearty mountain stews, aged cheeses",
+    "fr": "Viandes rouges, gibier, plats mijotés de montagne, fromages affinés",
+    "it": "Carni rosse, selvaggina, stufati di montagna, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, grand verre",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Salmos Torres Priorat"
+}

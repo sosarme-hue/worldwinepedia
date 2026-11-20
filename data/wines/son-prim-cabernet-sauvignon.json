@@ -1,0 +1,42 @@
+{
+  "slug": "son-prim-cabernet-sauvignon",
+  "name": "Son Prim Cabernet Sauvignon",
+  "winery": null,
+  "winery_name": "Son Prim",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Mallorca",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-sauvignon"
+  ],
+  "summary": {
+    "es": "Son Prim Cabernet Sauvignon es un vino tinto de Son Prim, con la denominación VT Mallorca, en España.",
+    "en": "Son Prim Cabernet Sauvignon is a red wine from Son Prim, made under the VT Mallorca appellation in Spain.",
+    "fr": "Son Prim Cabernet Sauvignon est un vin rouge de Son Prim, élaboré sous l’appellation VT Mallorca (Espagne).",
+    "it": "Son Prim Cabernet Sauvignon è un vino rosso di Son Prim, prodotto nella denominazione VT Mallorca (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Cabernet Sauvignon. Tiene crianza en madera. Su graduación es de 15 % vol.</p>",
+    "en": "<p>It is made from Cabernet Sauvignon. It is aged in wood. It has 15% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Cabernet Sauvignon. Il est élevé en bois. Il titre 15 % vol.</p>",
+    "it": "<p>È prodotto con Cabernet Sauvignon. È affinato in legno. Ha 15% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Son Prim Cabernet Sauvignon Son Prim",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "chateau-la-gaffeliere",
+  "name": "Château La Gaffelière",
+  "winery": "chateau-la-gaffeliere",
+  "region": "saint-emilion",
+  "country": "francia",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "merlot",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Grand vin de Château La Gaffelière, Saint-Émilion Grand Cru de Merlot y Cabernet Franc de estilo elegante y fresco.",
+    "en": "The grand vin of Château La Gaffelière, a Saint-Émilion Grand Cru of Merlot and Cabernet Franc in an elegant, fresh style.",
+    "fr": "Grand vin de Château La Gaffelière, saint-émilion grand cru de merlot et de cabernet franc au style élégant et frais.",
+    "it": "Grand vin di Château La Gaffelière, Saint-Émilion Grand Cru di Merlot e Cabernet Franc dallo stile elegante e fresco."
+  },
+  "body": {
+    "es": "<p><strong>Château La Gaffelière</strong> es el vino principal de la propiedad de la familia Malet Roquefort, situada al pie de las laderas calizas al sur del pueblo de <strong>Saint-Émilion</strong>. Desde la primera clasificación de 1955 la finca figuró entre los Premiers Grands Crus Classés de la denominación.</p><p>Se elabora con una mayoría de <strong>Merlot</strong> y una proporción destacada de <strong>Cabernet Franc</strong>, procedentes de parcelas de ladera caliza, de arcilla y de suelos arenosos. Cada parcela se vinifica por separado y el vino se cría en barricas de roble antes del ensamblaje definitivo.</p><p>Su estilo privilegia la finura: fruta roja y negra precisa, notas florales y especiadas aportadas por el Cabernet Franc, y taninos sedosos sostenidos por una buena acidez. Puede apreciarse tras algunos años de botella, aunque está pensado para una guarda prolongada, durante la cual desarrolla matices de tabaco y sotobosque.</p>",
+    "en": "<p><strong>Château La Gaffelière</strong> is the main wine of the Malet Roquefort family estate, located at the foot of the limestone slopes south of the town of <strong>Saint-Émilion</strong>. From the first classification in 1955 the estate was listed among the appellation’s Premiers Grands Crus Classés.</p><p>It is made mostly from <strong>Merlot</strong> with a significant proportion of <strong>Cabernet Franc</strong>, from plots on the limestone slope, on clay and on sandy soils. Each plot is vinified separately and the wine is aged in oak barrels before the final blend.</p><p>Its style favours finesse: precise red and dark fruit, floral and spicy notes from the Cabernet Franc, and silky tannins supported by good acidity. It can be enjoyed after a few years in bottle, although it is designed for long cellaring, during which it develops nuances of tobacco and forest floor.</p>",
+    "fr": "<p><strong>Château La Gaffelière</strong> est le vin principal de la propriété de la famille Malet Roquefort, située au pied des coteaux calcaires au sud du bourg de <strong>Saint-Émilion</strong>. Dès le premier classement de 1955, le domaine figura parmi les premiers grands crus classés de l’appellation.</p><p>Il est issu majoritairement de <strong>merlot</strong>, avec une part notable de <strong>cabernet franc</strong>, provenant de parcelles de coteau calcaire, d’argile et de sols sableux. Chaque parcelle est vinifiée séparément et le vin est élevé en barriques de chêne avant l’assemblage final.</p><p>Son style privilégie la finesse : fruits rouges et noirs précis, notes florales et épicées apportées par le cabernet franc, et tanins soyeux soutenus par une bonne acidité. Il peut s’apprécier après quelques années de bouteille, mais il est conçu pour une longue garde, au cours de laquelle il développe des nuances de tabac et de sous-bois.</p>",
+    "it": "<p><strong>Château La Gaffelière</strong> è il vino principale della proprietà della famiglia Malet Roquefort, situata ai piedi dei pendii calcarei a sud del paese di <strong>Saint-Émilion</strong>. Fin dalla prima classificazione del 1955 la tenuta figurò tra i Premiers Grands Crus Classés della denominazione.</p><p>È prodotto in prevalenza con <strong>Merlot</strong> e una quota rilevante di <strong>Cabernet Franc</strong>, da parcelle sul pendio calcareo, su argilla e su suoli sabbiosi. Ogni parcella viene vinificata separatamente e il vino affina in barrique di rovere prima dell’assemblaggio finale.</p><p>Il suo stile privilegia la finezza: frutta rossa e nera precisa, note floreali e speziate date dal Cabernet Franc e tannini setosi sostenuti da una buona acidità. Si può apprezzare dopo qualche anno di bottiglia, ma è pensato per un lungo invecchiamento, durante il quale sviluppa sfumature di tabacco e sottobosco.</p>"
+  },
+  "tasting": {
+    "es": "Rubí profundo. Aromas de cereza, frambuesa, violeta y especias. Boca elegante y fresca, de taninos sedosos.",
+    "en": "Deep ruby. Aromas of cherry, raspberry, violet and spice. Elegant, fresh palate with silky tannins.",
+    "fr": "Rubis profond. Arômes de cerise, de framboise, de violette et d’épices. Bouche élégante et fraîche, aux tanins soyeux.",
+    "it": "Rubino profondo. Aromi di ciliegia, lampone, violetta e spezie. Bocca elegante e fresca, dai tannini setosi."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes rojas, pato, setas, quesos curados",
+    "en": "Roast lamb, red meat, duck, mushrooms, aged cheeses",
+    "fr": "Agneau rôti, viandes rouges, canard, champignons, fromages affinés",
+    "it": "Agnello arrosto, carni rosse, anatra, funghi, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Château La Gaffelière Saint-Émilion"
+}

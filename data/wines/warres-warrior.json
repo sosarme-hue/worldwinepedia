@@ -1,0 +1,49 @@
+{
+  "slug": "warres-warrior",
+  "name": "Warre’s Warrior Reserve Port",
+  "winery": "symington",
+  "region": "porto",
+  "country": "portugal",
+  "type": "generoso",
+  "category": {
+    "es": "Reserve (ruby)",
+    "en": "Reserve (ruby)",
+    "fr": "Reserve (ruby)",
+    "it": "Reserve (ruby)"
+  },
+  "grapes": [
+    "touriga-nacional",
+    "touriga-franca"
+  ],
+  "summary": {
+    "es": "Oporto ruby de categoría Reserve de Warre’s, una de las marcas de Oporto más antiguas, pensado para disfrutar de la fruta del Douro sin necesidad de guarda.",
+    "en": "Reserve ruby Port from Warre’s, one of the oldest Port brands, designed to show the fruit of the Douro without the need for cellaring.",
+    "fr": "Porto ruby de catégorie Reserve de Warre’s, l’une des plus anciennes marques de porto, conçu pour mettre en avant le fruit du Douro sans nécessiter de garde.",
+    "it": "Porto ruby di categoria Reserve di Warre’s, uno dei marchi di Porto più antichi, pensato per mostrare il frutto del Douro senza bisogno di invecchiamento."
+  },
+  "body": {
+    "es": "<p>Warrior es la marca de Oporto ruby de Warre’s, casa que forma parte de Symington Family Estates y que se considera la más antigua de las firmas británicas de Oporto. Se trata de una de las marcas de Oporto más antiguas que siguen en el mercado.</p><p>Es un Oporto de categoría Reserve, elaborado a partir de vinos de distintas cosechas procedentes del Douro, con variedades como la Touriga Nacional y la Touriga Franca. Tras la fermentación, interrumpida con aguardiente vínica, envejece varios años en grandes toneles de madera, un tipo de crianza que limita la oxidación y preserva el color y la fruta. Se embotella listo para beber y no necesita evolución en botella, aunque, como otros Oportos de crianza en madera, puede presentar algún depósito ligero.</p><p>Por su perfil afrutado y accesible, es un buen ejemplo del estilo ruby y una introducción sencilla al Oporto.</p>",
+    "en": "<p>Warrior is the ruby Port brand of Warre’s, a house that belongs to Symington Family Estates and is regarded as the oldest of the British Port firms. It is one of the oldest Port brands still on the market.</p><p>It is a Reserve-category Port, made from wines of different harvests from the Douro, with varieties such as Touriga Nacional and Touriga Franca. After fermentation, stopped with grape spirit, it ages for several years in large wooden vats, a type of ageing that limits oxidation and preserves colour and fruit. It is bottled ready to drink and does not need to develop in bottle, although, like other wood-aged Ports, it may show a light deposit.</p><p>With its fruity, approachable profile, it is a good example of the ruby style and an easy introduction to Port.</p>",
+    "fr": "<p>Warrior est la marque de porto ruby de Warre’s, maison qui fait partie de Symington Family Estates et qui est considérée comme la plus ancienne des maisons britanniques de porto. Il s’agit de l’une des plus anciennes marques de porto encore commercialisées.</p><p>C’est un porto de catégorie Reserve, élaboré à partir de vins de différentes récoltes provenant du Douro, avec des cépages comme la touriga nacional et la touriga franca. Après la fermentation, arrêtée par l’ajout d’eau-de-vie de vin, il vieillit plusieurs années dans de grands foudres de bois, un type d’élevage qui limite l’oxydation et préserve la couleur et le fruit. Il est mis en bouteille prêt à boire et ne nécessite pas d’évolution en bouteille, même s’il peut, comme d’autres portos élevés sous bois, présenter un léger dépôt.</p><p>Par son profil fruité et accessible, c’est un bon exemple du style ruby et une introduction simple au porto.</p>",
+    "it": "<p>Warrior è il marchio di Porto ruby di Warre’s, casa che fa parte di Symington Family Estates ed è considerata la più antica tra le case britanniche del Porto. Si tratta di uno dei marchi di Porto più antichi ancora in commercio.</p><p>È un Porto di categoria Reserve, ottenuto da vini di diverse vendemmie provenienti dal Douro, con varietà come Touriga Nacional e Touriga Franca. Dopo la fermentazione, interrotta con acquavite di vino, invecchia per alcuni anni in grandi botti di legno, un tipo di affinamento che limita l’ossidazione e preserva colore e frutto. Viene imbottigliato pronto da bere e non ha bisogno di evolvere in bottiglia, anche se, come altri Porto affinati in legno, può presentare un leggero deposito.</p><p>Per il suo profilo fruttato e accessibile, è un buon esempio dello stile ruby e un’introduzione semplice al Porto.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso, con aromas de fruta negra y roja madura, ciruela y notas especiadas. En boca es dulce, carnoso y con taninos suaves.",
+    "en": "Deep ruby, with aromas of ripe black and red fruit, plum and spicy notes. Sweet and fleshy on the palate, with soft tannins.",
+    "fr": "Rubis intense, avec des arômes de fruits noirs et rouges mûrs, de prune et des notes épicées. En bouche, il est doux, charnu, avec des tanins souples.",
+    "it": "Rubino intenso, con aromi di frutta nera e rossa matura, prugna e note speziate. In bocca è dolce, polposo, con tannini morbidi."
+  },
+  "pairing": {
+    "es": "Quesos curados y azules, postres de chocolate, frutos rojos",
+    "en": "Aged and blue cheeses, chocolate desserts, red berries",
+    "fr": "Fromages affinés et persillés, desserts au chocolat, fruits rouges",
+    "it": "Formaggi stagionati ed erborinati, dolci al cioccolato, frutti rossi"
+  },
+  "serve": {
+    "es": "15-17 °C, copa de vino generoso",
+    "en": "15-17 °C, Port glass",
+    "fr": "15-17 °C, verre à porto",
+    "it": "15-17 °C, calice da Porto"
+  },
+  "search": "Warre's Warrior Reserve Port"
+}

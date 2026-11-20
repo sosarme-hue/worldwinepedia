@@ -1,0 +1,50 @@
+{
+  "slug": "perrier-jouet-blason-rose",
+  "name": "Perrier-Jouët Blason Rosé",
+  "winery": "perrier-jouet",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut Rosé",
+    "en": "Brut Rosé",
+    "fr": "Brut Rosé",
+    "it": "Brut Rosé"
+  },
+  "grapes": [
+    "pinot-noir",
+    "pinot-meunier",
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "El champagne rosado sin añada de Perrier-Jouët, de perfil afrutado y floral, con el estilo delicado de la casa de Épernay.",
+    "en": "Perrier-Jouët’s non-vintage rosé champagne, fruity and floral, with the delicate style of the Épernay house.",
+    "fr": "Le champagne rosé non millésimé de Perrier-Jouët, au profil fruité et floral, dans le style délicat de la maison d’Épernay.",
+    "it": "Lo champagne rosé senza annata di Perrier-Jouët, dal profilo fruttato e floreale, con lo stile delicato della maison di Épernay."
+  },
+  "body": {
+    "es": "<p>El Blason Rosé es el champagne rosado sin añada de <strong>Perrier-Jouët</strong>, la casa fundada en 1811 en Épernay. Su nombre hace referencia al blasón que figura en la etiqueta, uno de los símbolos históricos de la casa.</p><p>Se elabora con las tres grandes variedades de Champagne: <strong>Pinot Noir</strong>, <strong>Pinot Meunier</strong> y <strong>Chardonnay</strong>. Como la mayoría de los rosados de la región, obtiene su color añadiendo al ensamblaje una pequeña proporción de vino tinto tranquilo de Pinot Noir, una práctica autorizada en Champagne. Los vinos de reserva de añadas anteriores ayudan a mantener la regularidad del estilo.</p><p>Tras la segunda fermentación en botella, el vino reposa sobre sus lías durante varios años antes del degüelle. El resultado es un rosado de color salmón, con aromas de frutos rojos, flores y notas de bollería, burbuja fina y una boca fresca y redonda, fiel al estilo elegante y poco opulento de la casa.</p>",
+    "en": "<p>Blason Rosé is the non-vintage rosé champagne of <strong>Perrier-Jouët</strong>, the house founded in 1811 in Épernay. Its name refers to the coat of arms on the label, one of the house’s historic symbols.</p><p>It is made from Champagne’s three main varieties: <strong>Pinot Noir</strong>, <strong>Pinot Meunier</strong> and <strong>Chardonnay</strong>. Like most rosés in the region, it gets its colour from the addition of a small proportion of still red Pinot Noir wine to the blend, a practice permitted in Champagne. Reserve wines from earlier vintages help maintain a consistent style.</p><p>After the second fermentation in bottle, the wine rests on its lees for several years before disgorgement. The result is a salmon-pink champagne with aromas of red berries, flowers and pastry notes, fine bubbles and a fresh, rounded palate, true to the house’s elegant, restrained style.</p>",
+    "fr": "<p>Le Blason Rosé est le champagne rosé non millésimé de <strong>Perrier-Jouët</strong>, la maison fondée en 1811 à Épernay. Son nom fait référence au blason qui figure sur l’étiquette, l’un des symboles historiques de la maison.</p><p>Il est élaboré à partir des trois grands cépages champenois : <strong>pinot noir</strong>, <strong>pinot meunier</strong> et <strong>chardonnay</strong>. Comme la plupart des rosés de la région, il tire sa couleur de l’ajout à l’assemblage d’une petite proportion de vin rouge tranquille de pinot noir, une pratique autorisée en Champagne. Les vins de réserve des années précédentes aident à maintenir la constance du style.</p><p>Après la seconde fermentation en bouteille, le vin repose sur lies pendant plusieurs années avant le dégorgement. Il en résulte un rosé à la robe saumonée, aux arômes de fruits rouges, de fleurs et aux notes de viennoiserie, à la bulle fine et à la bouche fraîche et ronde, fidèle au style élégant et peu opulent de la maison.</p>",
+    "it": "<p>Il Blason Rosé è lo champagne rosé senza annata di <strong>Perrier-Jouët</strong>, la maison fondata nel 1811 a Épernay. Il nome fa riferimento allo stemma presente in etichetta, uno dei simboli storici della maison.</p><p>È prodotto con i tre grandi vitigni della Champagne: <strong>Pinot Noir</strong>, <strong>Pinot Meunier</strong> e <strong>Chardonnay</strong>. Come la maggior parte dei rosé della regione, ottiene il colore aggiungendo all’assemblaggio una piccola quota di vino rosso fermo di Pinot Noir, pratica ammessa in Champagne. I vini di riserva delle annate precedenti aiutano a mantenere costante lo stile.</p><p>Dopo la seconda fermentazione in bottiglia, il vino riposa sui lieviti per diversi anni prima della sboccatura. Il risultato è un rosé color salmone, con aromi di frutti rossi, fiori e note di pasticceria, perlage fine e bocca fresca e rotonda, fedele allo stile elegante e poco opulento della maison.</p>"
+  },
+  "tasting": {
+    "es": "Rosa salmón. Aromas de fresa, frambuesa, grosella y flores, con notas de bollería. Boca fresca, afrutada y de burbuja fina.",
+    "en": "Salmon pink. Aromas of strawberry, raspberry, redcurrant and flowers, with pastry notes. Fresh, fruity palate with fine bubbles.",
+    "fr": "Rose saumoné. Arômes de fraise, de framboise, de groseille et de fleurs, avec des notes de viennoiserie. Bouche fraîche, fruitée, à la bulle fine.",
+    "it": "Rosa salmone. Aromi di fragola, lampone, ribes e fiori, con note di pasticceria. Bocca fresca, fruttata, dal perlage fine."
+  },
+  "pairing": {
+    "es": "Aperitivo, salmón ahumado, sushi, postres de frutos rojos",
+    "en": "Aperitif, smoked salmon, sushi, red-berry desserts",
+    "fr": "Apéritif, saumon fumé, sushis, desserts aux fruits rouges",
+    "it": "Aperitivo, salmone affumicato, sushi, dessert ai frutti rossi"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de champagne",
+    "en": "8-10 °C, champagne glass",
+    "fr": "8-10 °C, verre à champagne",
+    "it": "8-10 °C, calice da champagne"
+  },
+  "search": "Perrier-Jouët Blason Rosé Champagne"
+}

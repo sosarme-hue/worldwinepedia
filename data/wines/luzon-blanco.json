@@ -1,0 +1,40 @@
+{
+  "slug": "luzon-blanco",
+  "name": "Luzón Blanco",
+  "winery": null,
+  "winery_name": "Luzón",
+  "region": "jumilla",
+  "country": "espana",
+  "appellation": "DO Jumilla",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Luzón Blanco es un vino blanco de Luzón, con la denominación DO Jumilla, en España.",
+    "en": "Luzón Blanco is a white wine from Luzón, made under the DO Jumilla appellation in Spain.",
+    "fr": "Luzón Blanco est un vin blanc de Luzón, élaboré sous l’appellation DO Jumilla (Espagne).",
+    "it": "Luzón Blanco è un vino bianco di Luzón, prodotto nella denominazione DO Jumilla (Spagna)."
+  },
+  "body": {
+    "es": "<p>Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 11,5 % vol.</p><p>Jumilla es una denominación de origen del sureste de España, entre el norte de la Región de Murcia y el sureste de Albacete. Su variedad emblemática es la Monastrell, cultivada en un clima continental seco y, en parte, sobre pie franco.</p>",
+    "en": "<p>It is a young wine, meant to be drunk in its first years. It has 11.5% ABV.</p><p>Jumilla is a designation of origin in south-eastern Spain, between the north of the Region of Murcia and the south-east of Albacete. Its emblematic variety is Monastrell, grown in a dry continental climate and partly on its own roots.</p>",
+    "fr": "<p>C’est un vin jeune, à boire dans ses premières années. Il titre 11,5 % vol.</p><p>Jumilla est une dénomination d'origine du sud-est de l'Espagne, entre le nord de la Région de Murcie et le sud-est de la province d'Albacete. Son cépage emblématique est le monastrell, cultivé sous un climat continental sec et en partie franc de pied.</p>",
+    "it": "<p>È un vino giovane, da bere nei primi anni. Ha 11,5% vol.</p><p>Jumilla è una denominazione di origine del sud-est della Spagna, tra il nord della Regione di Murcia e il sud-est della provincia di Albacete. Il suo vitigno simbolo è il Monastrell, coltivato in un clima continentale secco e in parte a piede franco.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Luzón Blanco Luzón",
+  "brief": true,
+  "source": "decantalo"
+}

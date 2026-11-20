@@ -1,0 +1,41 @@
+{
+  "slug": "masciarelli-montepulciano-d-abruzzo",
+  "name": "Masciarelli Montepulciano d'Abruzzo",
+  "winery": "masciarelli",
+  "region": "abruzzo",
+  "country": "italia",
+  "type": "tinto",
+  "category": {"es": "Montepulciano d’Abruzzo DOC", "en": "Montepulciano d’Abruzzo DOC", "fr": "Montepulciano d’Abruzzo DOC", "it": "Montepulciano d’Abruzzo DOC"},
+  "grapes": ["montepulciano"],
+  "summary": {
+    "es": "El Montepulciano d’Abruzzo de la línea Classica de Masciarelli, un tinto afrutado, de color intenso y tanino suave, fácil de encontrar.",
+    "en": "The Montepulciano d’Abruzzo from Masciarelli’s Classica line, a fruity, deeply coloured red with soft tannins that is easy to find.",
+    "fr": "Le Montepulciano d’Abruzzo de la ligne Classica de Masciarelli, un rouge fruité, à la couleur intense et aux tanins souples, facile à trouver.",
+    "it": "Il Montepulciano d’Abruzzo della linea Classica di Masciarelli, un rosso fruttato, dal colore intenso e dal tannino morbido, facile da trovare."
+  },
+  "body": {
+    "es": "<p>El Montepulciano es la principal uva tinta de los Abruzos, en la costa adriática de Italia central. No debe confundirse con el Vino Nobile di Montepulciano de Toscana, que toma su nombre de un pueblo y se elabora con Sangiovese. La variedad da vinos de color muy intenso, fruta oscura y taninos abundantes pero suaves.</p><p>El Montepulciano d’Abruzzo de la gama Classica es el tinto más difundido de Masciarelli. Se elabora con uvas de los viñedos de la bodega en distintas zonas de la región, entre el macizo de la Maiella y el mar. La vinificación busca preservar la fruta, con una crianza breve.</p><p>Es un tinto de cuerpo medio, jugoso y versátil, que refleja bien el carácter generoso de la variedad. Se disfruta en sus primeros años.</p>",
+    "en": "<p>Montepulciano is the main red grape of Abruzzo, on the Adriatic coast of central Italy. It should not be confused with Tuscany’s Vino Nobile di Montepulciano, which takes its name from a town and is made from Sangiovese. The variety gives deeply coloured wines with dark fruit and plentiful but soft tannins.</p><p>The Montepulciano d’Abruzzo from the Classica range is Masciarelli’s most widely available red. It is made from grapes from the winery’s vineyards in different parts of the region, between the Maiella massif and the sea. Winemaking aims to preserve the fruit, with brief ageing.</p><p>It is a medium-bodied, juicy, versatile red that conveys the generous character of the variety well. It is best enjoyed in its first few years.</p>",
+    "fr": "<p>Le montepulciano est le principal cépage rouge des Abruzzes, sur la côte adriatique de l’Italie centrale. Il ne faut pas le confondre avec le Vino Nobile di Montepulciano de Toscane, qui doit son nom à une ville et est élaboré avec du sangiovese. Le cépage donne des vins à la couleur très intense, aux fruits noirs et aux tanins abondants mais souples.</p><p>Le Montepulciano d’Abruzzo de la gamme Classica est le rouge le plus diffusé de Masciarelli. Il est élaboré avec des raisins des vignes du domaine situées dans différentes zones de la région, entre le massif de la Maiella et la mer. La vinification vise à préserver le fruit, avec un élevage court.</p><p>C’est un rouge de corps moyen, gourmand et polyvalent, qui reflète bien le caractère généreux du cépage. Il s’apprécie dans ses premières années.</p>",
+    "it": "<p>Il Montepulciano è la principale uva a bacca rossa dell’Abruzzo, sulla costa adriatica dell’Italia centrale. Non va confuso con il Vino Nobile di Montepulciano della Toscana, che prende il nome da una città ed è prodotto con Sangiovese. Il vitigno dà vini dal colore molto intenso, dal frutto scuro e dai tannini abbondanti ma morbidi.</p><p>Il Montepulciano d’Abruzzo della gamma Classica è il rosso più diffuso di Masciarelli. È prodotto con uve dei vigneti della cantina in diverse zone della regione, tra il massiccio della Maiella e il mare. La vinificazione punta a preservare il frutto, con un affinamento breve.</p><p>È un rosso di medio corpo, succoso e versatile, che rispecchia bene il carattere generoso del vitigno. Si gusta nei primi anni.</p>"
+  },
+  "tasting": {
+    "es": "Rubí oscuro con reflejos violáceos. Aromas de cereza negra, ciruela, mora y un toque de regaliz y especias. En boca es jugoso y redondo, con tanino suave y buena frescura.",
+    "en": "Dark ruby with purple glints. Aromas of black cherry, plum, blackberry and a touch of liquorice and spice. Juicy and round on the palate, with soft tannins and good freshness.",
+    "fr": "Rubis sombre aux reflets violacés. Arômes de cerise noire, de prune, de mûre et une touche de réglisse et d’épices. En bouche, il est gourmand et rond, aux tanins souples et à la bonne fraîcheur.",
+    "it": "Rubino scuro con riflessi violacei. Profumi di ciliegia nera, prugna, mora e un tocco di liquirizia e spezie. In bocca è succoso e rotondo, con tannino morbido e buona freschezza."
+  },
+  "pairing": {
+    "es": "Arrosticini, pasta con ragú, pizza, carnes a la parrilla, quesos semicurados",
+    "en": "Arrosticini, pasta with ragù, pizza, grilled meat, semi-aged cheeses",
+    "fr": "Arrosticini, pâtes au ragù, pizza, viandes grillées, fromages mi-affinés",
+    "it": "Arrosticini, pasta al ragù, pizza, carni alla griglia, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa mediana",
+    "en": "16-18 °C, medium-sized glass",
+    "fr": "16-18 °C, verre moyen",
+    "it": "16-18 °C, calice medio"
+  },
+  "search": "Masciarelli Montepulciano d'Abruzzo"
+}

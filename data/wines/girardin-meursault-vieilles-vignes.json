@@ -1,0 +1,48 @@
+{
+  "slug": "girardin-meursault-vieilles-vignes",
+  "name": "Meursault Vieilles Vignes",
+  "winery": "vincent-girardin",
+  "region": "cote-de-beaune",
+  "country": "francia",
+  "type": "blanco",
+  "category": {
+    "es": "Vieilles Vignes",
+    "en": "Vieilles Vignes",
+    "fr": "Vieilles Vignes",
+    "it": "Vieilles Vignes"
+  },
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Meursault municipal de cepas viejas, uno de los blancos centrales de la gama de Vincent Girardin, casa establecida en el propio pueblo.",
+    "en": "Old-vine village Meursault, one of the core whites in the range of Vincent Girardin, a house based in the village itself.",
+    "fr": "Meursault village de vieilles vignes, l’un des blancs phares de la gamme de Vincent Girardin, maison installée dans le village même.",
+    "it": "Meursault comunale di vecchie viti, uno dei bianchi centrali della gamma di Vincent Girardin, casa con sede nello stesso paese."
+  },
+  "body": {
+    "es": "<p><strong>Meursault</strong> es el municipio con más superficie de Chardonnay de la Côte de Beaune y no cuenta con grands crus, aunque sí con <em>premiers crus</em> muy reputados. A los vinos de denominación municipal se les atribuye a menudo un perfil más amplio y redondo que a los de Puligny, con notas de frutos secos y mantequilla, aunque el estilo depende mucho del productor.</p><p>Vincent Girardin, con sede en Meursault, elabora esta cuvée con uvas de <strong>cepas viejas</strong> de diversas parcelas municipales. La fermentación y la crianza se realizan en barrica sobre lías, con un uso medido de la madera nueva, siguiendo el estilo de la casa, que busca precisión y frescura antes que opulencia.</p><p>Es un blanco con cuerpo y buena acidez, que puede disfrutarse a los pocos años de la cosecha y también evoluciona favorablemente durante un tiempo más largo en botella.</p>",
+    "en": "<p><strong>Meursault</strong> is the commune with the largest area of Chardonnay in the Côte de Beaune and has no grands crus, though it does have highly regarded <em>premiers crus</em>. Village-level wines are often credited with a broader, rounder profile than those of Puligny, with notes of nuts and butter, although the style depends very much on the producer.</p><p>Vincent Girardin, based in Meursault, makes this cuvée from <strong>old-vine</strong> grapes from various village plots. Fermentation and ageing take place in barrel on the lees, with measured use of new oak, following the house style, which seeks precision and freshness rather than opulence.</p><p>It is a white with body and good acidity, which can be enjoyed a few years after the vintage and also develops favourably over a longer period in bottle.</p>",
+    "fr": "<p><strong>Meursault</strong> est la commune qui compte la plus grande surface de chardonnay de la Côte de Beaune ; elle ne possède pas de grands crus, mais des <em>premiers crus</em> très réputés. On attribue souvent aux vins d’appellation village un profil plus ample et plus rond que ceux de Puligny, avec des notes de fruits secs et de beurre, même si le style dépend beaucoup du producteur.</p><p>Vincent Girardin, installé à Meursault, élabore cette cuvée avec des raisins de <strong>vieilles vignes</strong> issus de diverses parcelles village. La fermentation et l’élevage se font en barrique sur lies, avec un usage mesuré du bois neuf, selon le style de la maison, qui recherche la précision et la fraîcheur plutôt que l’opulence.</p><p>C’est un blanc doté de corps et d’une bonne acidité, qui peut s’apprécier quelques années après la récolte et évolue aussi favorablement sur une plus longue période en bouteille.</p>",
+    "it": "<p><strong>Meursault</strong> è il comune con la maggiore superficie di Chardonnay della Côte de Beaune e non ha grand cru, pur avendo <em>premiers crus</em> molto rinomati. Ai vini a denominazione comunale si attribuisce spesso un profilo più ampio e rotondo di quelli di Puligny, con note di frutta secca e burro, anche se lo stile dipende molto dal produttore.</p><p>Vincent Girardin, con sede a Meursault, produce questa cuvée con uve di <strong>vecchie viti</strong> di diverse parcelle comunali. Fermentazione e affinamento avvengono in barrique sui lieviti, con un uso misurato del legno nuovo, secondo lo stile della casa, che cerca precisione e freschezza più che opulenza.</p><p>È un bianco con corpo e buona acidità, che si può gustare pochi anni dopo la vendemmia ed evolve favorevolmente anche per un periodo più lungo in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Aromas de fruta blanca madura, avellana, mantequilla y notas minerales. Boca amplia y fresca, con final largo.",
+    "en": "Aromas of ripe white fruit, hazelnut, butter and mineral notes. Broad, fresh palate with a long finish.",
+    "fr": "Arômes de fruits blancs mûrs, de noisette, de beurre et notes minérales. Bouche ample et fraîche, à la finale longue.",
+    "it": "Aromi di frutta bianca matura, nocciola, burro e note minerali. Bocca ampia e fresca, con finale lungo."
+  },
+  "pairing": {
+    "es": "Pescados en salsa de mantequilla, aves con setas, langostinos, quesos de pasta prensada",
+    "en": "Fish in butter sauce, poultry with mushrooms, prawns, pressed cheeses",
+    "fr": "Poissons au beurre blanc, volaille aux champignons, langoustines, fromages à pâte pressée",
+    "it": "Pesce al burro, pollame con funghi, gamberoni, formaggi a pasta pressata"
+  },
+  "serve": {
+    "es": "11-13 °C, copa amplia de vino blanco",
+    "en": "11-13 °C, large white wine glass",
+    "fr": "11-13 °C, grand verre à vin blanc",
+    "it": "11-13 °C, ampio calice da vino bianco"
+  },
+  "search": "Meursault Vieilles Vignes Vincent Girardin"
+}

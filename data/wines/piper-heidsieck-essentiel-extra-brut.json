@@ -1,0 +1,50 @@
+{
+  "slug": "piper-heidsieck-essentiel-extra-brut",
+  "name": "Piper-Heidsieck Essentiel Extra Brut",
+  "winery": "piper-heidsieck",
+  "region": "champagne",
+  "country": "francia",
+  "type": "espumoso",
+  "category": {
+    "es": "Extra Brut",
+    "en": "Extra Brut",
+    "fr": "Extra Brut",
+    "it": "Extra Brut"
+  },
+  "grapes": [
+    "pinot-noir",
+    "pinot-meunier",
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Champagne Extra Brut de Piper-Heidsieck, de dosificación baja y crianza sobre lías prolongada, basado en las variedades tintas.",
+    "en": "Extra Brut Champagne from Piper-Heidsieck, with low dosage and extended lees ageing, based on the black grape varieties.",
+    "fr": "Champagne Extra Brut de Piper-Heidsieck, au dosage faible et au long vieillissement sur lies, fondé sur les cépages noirs.",
+    "it": "Champagne Extra Brut di Piper-Heidsieck, a basso dosaggio e con lungo affinamento sui lieviti, basato sui vitigni a bacca nera."
+  },
+  "body": {
+    "es": "<p>Piper-Heidsieck, casa de Reims, completa su gama con <strong>Essentiel</strong>, un champagne pensado como una versión más seca y profunda de su estilo. Como su Cuvée Brut, se apoya en las variedades tintas, <strong>Pinot Noir</strong> y <strong>Pinot Meunier</strong>, que aportan fruta y estructura, completadas con <strong>Chardonnay</strong>.</p><p>Se diferencia por dos rasgos: una crianza sobre lías más larga que la del champagne básico de la casa, que suma complejidad y notas de pastelería, y una <strong>dosificación Extra Brut</strong>, es decir, un licor de expedición con muy poco azúcar añadido tras el degüelle. Con ello se busca un champagne más tenso y de expresión más pura, en el que la acidez y el carácter del vino base tienen mayor protagonismo.</p><p>El resultado es un champagne seco y preciso, especialmente adecuado para la mesa y para quienes prefieren los estilos con poco dulzor.</p>",
+    "en": "<p>Piper-Heidsieck, a Reims house, completes its range with <strong>Essentiel</strong>, a Champagne conceived as a drier, deeper version of its style. Like its Cuvée Brut, it relies on the black varieties, <strong>Pinot Noir</strong> and <strong>Pinot Meunier</strong>, which bring fruit and structure, completed with <strong>Chardonnay</strong>.</p><p>It differs in two respects: longer lees ageing than the house's basic Champagne, which adds complexity and pastry notes, and an <strong>Extra Brut dosage</strong>, meaning a liqueur d'expédition with very little added sugar after disgorgement. The aim is a tauter Champagne of purer expression, in which acidity and the character of the base wine take centre stage.</p><p>The result is a dry, precise Champagne, particularly suited to the table and to those who prefer styles with little sweetness.</p>",
+    "fr": "<p>Piper-Heidsieck, maison rémoise, complète sa gamme avec <strong>Essentiel</strong>, un champagne conçu comme une version plus sèche et plus profonde de son style. Comme sa Cuvée Brut, il s'appuie sur les cépages noirs, <strong>pinot noir</strong> et <strong>pinot meunier</strong>, qui apportent fruit et structure, complétés par le <strong>chardonnay</strong>.</p><p>Il se distingue par deux traits : un vieillissement sur lies plus long que celui du champagne de base de la maison, qui ajoute complexité et notes pâtissières, et un <strong>dosage Extra Brut</strong>, c'est-à-dire une liqueur d'expédition très peu sucrée ajoutée après le dégorgement. On recherche ainsi un champagne plus tendu et d'expression plus pure, où l'acidité et le caractère du vin de base prennent le premier rôle.</p><p>Le résultat est un champagne sec et précis, particulièrement adapté à la table et aux amateurs de styles peu dosés.</p>",
+    "it": "<p>Piper-Heidsieck, maison di Reims, completa la sua gamma con <strong>Essentiel</strong>, uno champagne pensato come versione più secca e profonda del suo stile. Come la Cuvée Brut, si basa sui vitigni a bacca nera, <strong>Pinot Nero</strong> e <strong>Pinot Meunier</strong>, che apportano frutto e struttura, completati dallo <strong>Chardonnay</strong>.</p><p>Si distingue per due aspetti: un affinamento sui lieviti più lungo rispetto allo champagne di base della casa, che aggiunge complessità e note di pasticceria, e un <strong>dosaggio Extra Brut</strong>, cioè una liqueur d'expédition con pochissimo zucchero aggiunta dopo la sboccatura. Si cerca così uno champagne più teso e di espressione più pura, in cui acidità e carattere del vino base hanno maggiore protagonismo.</p><p>Il risultato è uno champagne secco e preciso, particolarmente adatto alla tavola e a chi preferisce stili poco dosati.</p>"
+  },
+  "tasting": {
+    "es": "Dorado pálido, burbuja fina. Aromas de cítricos, pera, frutos secos y brioche. Boca seca y tensa, con buena vinosidad y final limpio.",
+    "en": "Pale gold with fine bubbles. Aromas of citrus, pear, nuts and brioche. Dry, taut palate with good vinosity and a clean finish.",
+    "fr": "Or pâle, bulles fines. Arômes d'agrumes, de poire, de fruits secs et de brioche. Bouche sèche et tendue, vineuse, à la finale nette.",
+    "it": "Oro pallido, perlage fine. Aromi di agrumi, pera, frutta secca e brioche. In bocca è secco e teso, vinoso, con finale pulito."
+  },
+  "pairing": {
+    "es": "Ostras, marisco, sushi, pescados crudos, quesos curados",
+    "en": "Oysters, shellfish, sushi, raw fish, aged cheeses",
+    "fr": "Huîtres, fruits de mer, sushi, poissons crus, fromages affinés",
+    "it": "Ostriche, frutti di mare, sushi, crudi di pesce, formaggi stagionati"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco o tulipa",
+    "en": "8-10 °C, white wine or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da vino bianco o tulipano"
+  },
+  "search": "Piper-Heidsieck Essentiel Extra Brut Champagne"
+}

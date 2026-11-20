@@ -1,0 +1,40 @@
+{
+  "slug": "exedra-amphora-blanc",
+  "name": "Exedra Amphora Blanc",
+  "winery": null,
+  "winery_name": "Puiggròs",
+  "region": null,
+  "country": "espana",
+  "appellation": "DO Pla del Bages",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Exedra Amphora Blanc es un vino blanco de Puiggròs, con la denominación DO Pla del Bages, en España.",
+    "en": "Exedra Amphora Blanc is a white wine from Puiggròs, made under the DO Pla del Bages appellation in Spain.",
+    "fr": "Exedra Amphora Blanc est un vin blanc de Puiggròs, élaboré sous l’appellation DO Pla del Bages (Espagne).",
+    "it": "Exedra Amphora Blanc è un vino bianco di Puiggròs, prodotto nella denominazione DO Pla del Bages (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se cría en recipientes de barro, como ánforas o tinajas. Su graduación es de 14,14 % vol.</p>",
+    "en": "<p>It is aged in clay vessels such as amphorae. It has 14.14% ABV.</p>",
+    "fr": "<p>Il est élevé en jarres de terre cuite, comme des amphores. Il titre 14,14 % vol.</p>",
+    "it": "<p>Affina in contenitori di terracotta, come anfore. Ha 14,14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Exedra Amphora Blanc Puiggròs",
+  "brief": true,
+  "source": "decantalo"
+}

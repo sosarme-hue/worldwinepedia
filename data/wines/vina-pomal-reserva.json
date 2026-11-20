@@ -1,0 +1,48 @@
+{
+  "slug": "vina-pomal-reserva",
+  "name": "Viña Pomal Reserva",
+  "winery": "bodegas-bilbainas",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Reserva de Bodegas Bilbaínas bajo la marca Viña Pomal, elaborado sobre todo con Tempranillo de viñedos propios en Haro y envejecido al menos tres años.",
+    "en": "Reserva from Bodegas Bilbaínas under the Viña Pomal brand, made mainly from Tempranillo from its own vineyards in Haro and aged for at least three years.",
+    "fr": "Reserva de Bodegas Bilbaínas sous la marque Viña Pomal, élaboré surtout avec du tempranillo de ses vignes de Haro et vieilli au moins trois ans.",
+    "it": "Reserva di Bodegas Bilbaínas con il marchio Viña Pomal, prodotto soprattutto con Tempranillo dei vigneti di proprietà a Haro e invecchiato almeno tre anni."
+  },
+  "body": {
+    "es": "<p>Viña Pomal Reserva es uno de los vinos históricos de Bodegas Bilbaínas y una referencia del rioja clásico de Haro. Se elabora principalmente con Tempranillo de los viñedos propios de la bodega en la Rioja Alta, en ocasiones con pequeñas aportaciones de otras variedades tradicionales, según la añada.</p><p>De acuerdo con las normas de la categoría Reserva de la Denominación de Origen Calificada Rioja, el vino envejece un mínimo de tres años antes de su salida al mercado, con al menos uno en barrica de roble. La crianza se completa con un periodo de reposo en botella en los antiguos calados de la bodega, construidos a comienzos del siglo XX en el Barrio de la Estación.</p><p>El resultado es un tinto de perfil tradicional, con fruta roja madura, notas especiadas y de cuero suave procedentes de la crianza y una acidez fresca característica de la Rioja Alta, que le permite evolucionar varios años en botella.</p>",
+    "en": "<p>Viña Pomal Reserva is one of the historic wines of Bodegas Bilbaínas and a benchmark of classic Haro Rioja. It is made mainly from Tempranillo from the winery’s own vineyards in Rioja Alta, sometimes with small additions of other traditional varieties, depending on the vintage.</p><p>In accordance with the rules of the Reserva category in the Rioja Denominación de Origen Calificada, the wine ages for at least three years before release, with at least one in oak barrels. Ageing is completed by a period of bottle rest in the winery’s old cellars, built at the beginning of the twentieth century in the Station District.</p><p>The result is a red of traditional profile, with ripe red fruit, notes of spice and soft leather from ageing, and the fresh acidity characteristic of Rioja Alta, which allows it to develop for several years in bottle.</p>",
+    "fr": "<p>Viña Pomal Reserva est l’un des vins historiques de Bodegas Bilbaínas et une référence du rioja classique de Haro. Il est élaboré principalement avec du tempranillo des vignes de la bodega dans la Rioja Alta, parfois avec de petits apports d’autres cépages traditionnels, selon le millésime.</p><p>Conformément aux règles de la catégorie Reserva de la Denominación de Origen Calificada Rioja, le vin vieillit au moins trois ans avant sa commercialisation, dont un an minimum en barrique de chêne. L’élevage se complète par une période de repos en bouteille dans les anciennes caves de la bodega, construites au début du XXe siècle dans le Quartier de la Gare.</p><p>Il en résulte un rouge au profil traditionnel, aux fruits rouges mûrs, aux notes d’épices et de cuir léger issues de l’élevage, et à l’acidité fraîche caractéristique de la Rioja Alta, qui lui permet d’évoluer plusieurs années en bouteille.</p>",
+    "it": "<p>Viña Pomal Reserva è uno dei vini storici di Bodegas Bilbaínas e un riferimento del Rioja classico di Haro. È prodotto principalmente con Tempranillo dei vigneti di proprietà della cantina nella Rioja Alta, talvolta con piccoli apporti di altre varietà tradizionali, a seconda dell’annata.</p><p>Secondo le norme della categoria Reserva della Denominación de Origen Calificada Rioja, il vino invecchia almeno tre anni prima della messa in commercio, di cui almeno uno in barrique di rovere. L’affinamento si completa con un periodo di riposo in bottiglia nelle antiche gallerie della cantina, costruite all’inizio del Novecento nel Quartiere della Stazione.</p><p>Il risultato è un rosso dal profilo tradizionale, con frutto rosso maturo, note di spezie e cuoio leggero derivate dall’affinamento e la fresca acidità caratteristica della Rioja Alta, che gli permette di evolvere per diversi anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí con ribete teja. Fruta roja y negra madura, especias dulces, cuero suave y notas tostadas. En boca es amplio, de taninos pulidos y final largo.",
+    "en": "Ruby red with a brick rim. Ripe red and black fruit, sweet spice, soft leather and toasty notes. Broad on the palate, with polished tannins and a long finish.",
+    "fr": "Rouge rubis à reflets tuilés. Fruits rouges et noirs mûrs, épices douces, cuir léger et notes toastées. Ample en bouche, aux tanins polis et à la finale longue.",
+    "it": "Rosso rubino con unghia mattone. Frutta rossa e nera matura, spezie dolci, cuoio leggero e note tostate. In bocca è ampio, con tannini levigati e finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, chuletillas a la brasa, embutidos ibéricos, quesos semicurados",
+    "en": "Roast lamb, grilled lamb chops, Iberian cured meats, semi-cured cheeses",
+    "fr": "Agneau rôti, côtelettes grillées, charcuterie ibérique, fromages mi-affinés",
+    "it": "Agnello arrosto, costolette alla brace, salumi iberici, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Viña Pomal Reserva Bodegas Bilbaínas Rioja"
+}

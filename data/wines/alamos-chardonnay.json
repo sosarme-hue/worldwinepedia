@@ -1,0 +1,43 @@
+{
+  "slug": "alamos-chardonnay",
+  "name": "Alamos Chardonnay",
+  "winery": "catena-zapata",
+  "region": "mendoza",
+  "country": "argentina",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Chardonnay de Mendoza de la marca Alamos, de la familia Catena, un blanco afrutado y fresco de precio accesible.",
+    "en": "Mendoza Chardonnay from the Catena family’s Alamos brand, a fruity, fresh and affordable white.",
+    "fr": "Chardonnay de Mendoza de la marque Alamos, de la famille Catena, un blanc fruité et frais au prix accessible.",
+    "it": "Chardonnay di Mendoza del marchio Alamos, della famiglia Catena, un bianco fruttato e fresco dal prezzo accessibile."
+  },
+  "body": {
+    "es": "<p>Junto al Malbec, el Chardonnay es una de las referencias principales de <strong>Alamos</strong>, la marca de vinos asequibles de la familia Catena. La familia fue una de las primeras en plantar Chardonnay en zonas altas de Mendoza, y esa experiencia se refleja también en sus vinos de entrada de gama.</p><p>Las uvas proceden de distintos viñedos de <strong>Mendoza</strong>, con una parte importante de zonas de altitud, donde las noches frescas ayudan a conservar la acidez y los aromas. El vino se elabora principalmente en depósito, y una fracción se fermenta o se cría en barrica de roble, lo que le da algo más de volumen y notas suaves de vainilla. Es un blanco de fruta madura y frescura equilibrada, fácil de beber y versátil en la mesa, pensado para consumirse en sus primeros años.</p>",
+    "en": "<p>Alongside Malbec, Chardonnay is one of the main wines of <strong>Alamos</strong>, the Catena family’s brand of affordable wines. The family was one of the first to plant Chardonnay in the high-altitude areas of Mendoza, and that experience is also reflected in its entry-level wines.</p><p>The grapes come from different vineyards in <strong>Mendoza</strong>, with a significant share from high-altitude areas, where cool nights help retain acidity and aromas. The wine is made mainly in tank, and a portion is fermented or aged in oak barrels, which gives it a little more body and gentle vanilla notes. It is a white with ripe fruit and balanced freshness, easy to drink and versatile at the table, intended to be enjoyed in its first few years.</p>",
+    "fr": "<p>Aux côtés du malbec, le chardonnay est l’une des principales références d’<strong>Alamos</strong>, la marque de vins abordables de la famille Catena. La famille fut l’une des premières à planter du chardonnay dans les zones d’altitude de Mendoza, et cette expérience se retrouve aussi dans ses vins d’entrée de gamme.</p><p>Les raisins proviennent de différents vignobles de <strong>Mendoza</strong>, avec une part importante de zones d’altitude, où les nuits fraîches aident à préserver l’acidité et les arômes. Le vin est élaboré principalement en cuve, et une fraction fermente ou s’élève en fûts de chêne, ce qui lui donne un peu plus de volume et de légères notes vanillées. C’est un blanc au fruit mûr et à la fraîcheur équilibrée, facile à boire et polyvalent à table, à consommer dans ses premières années.</p>",
+    "it": "<p>Accanto al Malbec, lo Chardonnay è una delle etichette principali di <strong>Alamos</strong>, il marchio di vini accessibili della famiglia Catena. La famiglia è stata tra le prime a piantare Chardonnay nelle zone d’altura di Mendoza, e questa esperienza si riflette anche nei suoi vini d’ingresso.</p><p>Le uve provengono da diversi vigneti di <strong>Mendoza</strong>, con una parte importante da zone d’altura, dove le notti fresche aiutano a conservare acidità e aromi. Il vino si produce principalmente in vasca, e una frazione fermenta o affina in botti di rovere, il che gli conferisce un po’ più di volume e delicate note di vaniglia. È un bianco dal frutto maturo e dalla freschezza equilibrata, facile da bere e versatile a tavola, da consumare nei primi anni.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo pálido. Aromas de pera, manzana, durazno y fruta tropical con un leve toque de vainilla. Boca fresca y amable.",
+    "en": "Pale yellow. Aromas of pear, apple, peach and tropical fruit with a slight touch of vanilla. Fresh, friendly palate.",
+    "fr": "Jaune pâle. Arômes de poire, de pomme, de pêche et de fruits tropicaux avec une légère touche de vanille. Bouche fraîche et aimable.",
+    "it": "Giallo paglierino. Aromi di pera, mela, pesca e frutta tropicale con un lieve tocco di vaniglia. Bocca fresca e piacevole."
+  },
+  "pairing": {
+    "es": "Pollo a la plancha, empanadas de humita, pescados, ensaladas",
+    "en": "Grilled chicken, sweetcorn empanadas, fish, salads",
+    "fr": "Poulet grillé, empanadas au maïs, poissons, salades",
+    "it": "Pollo alla piastra, empanadas di mais, pesce, insalate"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Alamos Chardonnay Mendoza Catena"
+}

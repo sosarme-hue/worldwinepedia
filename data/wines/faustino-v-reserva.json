@@ -1,0 +1,48 @@
+{
+  "slug": "faustino-v-reserva",
+  "name": "Faustino V Reserva",
+  "winery": "bodegas-faustino",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Reserva de Bodegas Faustino, elaborado principalmente con Tempranillo y envejecido al menos tres años entre barrica y botella.",
+    "en": "Reserva from Bodegas Faustino, made mainly from Tempranillo and aged for at least three years between barrel and bottle.",
+    "fr": "Reserva de Bodegas Faustino, élaboré principalement avec du tempranillo et vieilli au moins trois ans entre barrique et bouteille.",
+    "it": "Reserva di Bodegas Faustino, prodotto principalmente con Tempranillo e invecchiato almeno tre anni tra barrique e bottiglia."
+  },
+  "body": {
+    "es": "<p>Faustino V Reserva ocupa el escalón intermedio de la gama clásica de Bodegas Faustino, entre el joven Faustino VII y el Faustino I Gran Reserva. Es, por tanto, un vino de crianza intermedia dentro de la escala clásica de Rioja. Se elabora principalmente con Tempranillo procedente de viñedos de la Rioja Alavesa y la Rioja Alta, a veces con pequeñas aportaciones de otras variedades tradicionales, según la añada.</p><p>Conforme a las normas de la categoría Reserva en la Denominación de Origen Calificada Rioja, el vino envejece al menos tres años antes de su comercialización, con un mínimo de un año en barrica de roble. La crianza en madera aporta notas especiadas y de vainilla, mientras que el reposo en botella en los calados de Oyón redondea el conjunto.</p><p>Es un rioja de estilo clásico, más ligero que el Gran Reserva, que combina la fruta madura del Tempranillo con la complejidad de la crianza.</p>",
+    "en": "<p>Faustino V Reserva occupies the middle step of Bodegas Faustino’s classic range, between the young Faustino VII and the Faustino I Gran Reserva. It is therefore a wine of intermediate ageing within Rioja’s classic ladder. It is made mainly from Tempranillo from vineyards in Rioja Alavesa and Rioja Alta, sometimes with small additions of other traditional varieties, depending on the vintage.</p><p>In accordance with the rules of the Reserva category in the Rioja Denominación de Origen Calificada, the wine ages for at least three years before release, with a minimum of one year in oak barrels. The wood ageing brings notes of spice and vanilla, while bottle rest in the Oyón cellars rounds out the whole.</p><p>It is a classic-style Rioja, lighter than the Gran Reserva, combining the ripe fruit of Tempranillo with the complexity of ageing.</p>",
+    "fr": "<p>Faustino V Reserva occupe la marche intermédiaire de la gamme classique de Bodegas Faustino, entre le jeune Faustino VII et le Faustino I Gran Reserva. C’est donc un vin d’élevage intermédiaire dans l’échelle classique de la Rioja. Il est élaboré principalement avec du tempranillo issu de vignes de la Rioja Alavesa et de la Rioja Alta, parfois avec de petits apports d’autres cépages traditionnels selon le millésime.</p><p>Conformément aux règles de la catégorie Reserva de la Denominación de Origen Calificada Rioja, le vin vieillit au moins trois ans avant sa commercialisation, dont un an minimum en barrique de chêne. L’élevage sous bois apporte des notes épicées et vanillées, tandis que le repos en bouteille dans les caves d’Oyón arrondit l’ensemble.</p><p>C’est un rioja de style classique, plus léger que le Gran Reserva, qui associe le fruit mûr du tempranillo à la complexité de l’élevage.</p>",
+    "it": "<p>Faustino V Reserva occupa il gradino intermedio della gamma classica di Bodegas Faustino, tra il giovane Faustino VII e il Faustino I Gran Reserva. È quindi un vino di affinamento intermedio nella scala classica della Rioja. È prodotto principalmente con Tempranillo da vigneti della Rioja Alavesa e della Rioja Alta, talvolta con piccoli apporti di altre varietà tradizionali, a seconda dell’annata.</p><p>Secondo le norme della categoria Reserva nella Denominación de Origen Calificada Rioja, il vino invecchia almeno tre anni prima della commercializzazione, di cui almeno uno in barrique di rovere. L’affinamento in legno apporta note speziate e di vaniglia, mentre il riposo in bottiglia nelle cantine di Oyón arrotonda l’insieme.</p><p>È un Rioja di stile classico, più leggero del Gran Reserva, che unisce il frutto maturo del Tempranillo alla complessità dell’affinamento.</p>"
+  },
+  "tasting": {
+    "es": "Rojo rubí con ribete teja. Fruta roja madura, vainilla, especias y un toque tostado. En boca es suave y equilibrado, con taninos amables.",
+    "en": "Ruby red with a brick rim. Ripe red fruit, vanilla, spice and a toasty touch. Smooth and balanced on the palate, with gentle tannins.",
+    "fr": "Rouge rubis à reflets tuilés. Fruits rouges mûrs, vanille, épices et une touche toastée. Souple et équilibré en bouche, aux tanins aimables.",
+    "it": "Rosso rubino con unghia mattone. Frutta rossa matura, vaniglia, spezie e un tocco tostato. In bocca è morbido ed equilibrato, con tannini gentili."
+  },
+  "pairing": {
+    "es": "Cordero asado, chuletillas a la brasa, embutidos ibéricos, quesos semicurados",
+    "en": "Roast lamb, grilled lamb chops, Iberian cured meats, semi-cured cheeses",
+    "fr": "Agneau rôti, côtelettes grillées, charcuterie ibérique, fromages mi-affinés",
+    "it": "Agnello arrosto, costolette alla brace, salumi iberici, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Faustino V Reserva Rioja"
+}

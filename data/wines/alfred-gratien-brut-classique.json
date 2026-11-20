@@ -1,0 +1,53 @@
+{
+  "slug": "alfred-gratien-brut-classique",
+  "name": "Alfred Gratien Brut Classique",
+  "winery": null,
+  "winery_name": "Alfred Gratien",
+  "region": null,
+  "country": "francia",
+  "appellation": null,
+  "type": "espumoso",
+  "category": {
+    "es": "Brut",
+    "en": "Brut",
+    "fr": "Brut",
+    "it": "Brut"
+  },
+  "grapes": [
+    "chardonnay",
+    "pinot-noir",
+    "pinot-meunier"
+  ],
+  "summary": {
+    "es": "Champagne Brut sin añada de Alfred Gratien, casa de Épernay conocida por fermentar sus vinos base en pequeñas barricas de roble.",
+    "en": "Non-vintage Brut Champagne from Alfred Gratien, an Épernay house known for fermenting its base wines in small oak casks.",
+    "fr": "Champagne brut sans année d'Alfred Gratien, maison d'Épernay connue pour fermenter ses vins de base en petits fûts de chêne.",
+    "it": "Champagne Brut senza annata di Alfred Gratien, maison di Épernay nota per far fermentare i vini base in piccole botti di rovere."
+  },
+  "body": {
+    "es": "<p><strong>Alfred Gratien</strong> es una casa de Champagne fundada en Épernay en 1864. Su rasgo más característico es la fermentación de los vinos base en pequeños toneles de roble usados, una práctica tradicional que pocas casas mantienen, y el hecho de evitar, por lo general, la fermentación maloláctica, lo que preserva la acidez natural y favorece una larga vida en botella.</p><p>El <strong>Brut Classique</strong> es el champagne sin añada de la casa y ensambla las tres variedades principales de la región: <strong>Chardonnay</strong>, <strong>Pinot Noir</strong> y <strong>Pinot Meunier</strong>, con vinos de reserva de cosechas anteriores para mantener un estilo constante. Tras la segunda fermentación en botella, reposa sobre sus lías durante un periodo prolongado antes del degüelle.</p><p>Con unos 12,5 % vol., es un champagne de burbuja fina, fresco y vinoso a la vez, en el que la crianza en madera aporta notas de frutos secos y una textura más amplia. Funciona tanto de aperitivo como en la mesa.</p>",
+    "en": "<p><strong>Alfred Gratien</strong> is a Champagne house founded in Épernay in 1864. Its most distinctive feature is the fermentation of its base wines in small used oak casks, a traditional practice few houses maintain, together with generally avoiding malolactic fermentation, which preserves natural acidity and supports a long life in bottle.</p><p><strong>Brut Classique</strong> is the house's non-vintage Champagne and blends the region's three main varieties: <strong>Chardonnay</strong>, <strong>Pinot Noir</strong> and <strong>Pinot Meunier</strong>, with reserve wines from earlier harvests to keep a consistent style. After the second fermentation in bottle, it rests on its lees for an extended period before disgorgement.</p><p>At around 12.5% ABV, it is a Champagne with fine bubbles, both fresh and vinous, in which the oak fermentation brings nutty notes and a broader texture. It works both as an aperitif and at the table.</p>",
+    "fr": "<p><strong>Alfred Gratien</strong> est une maison de Champagne fondée à Épernay en 1864. Son trait le plus caractéristique est la fermentation des vins de base en petits fûts de chêne usagés, pratique traditionnelle que peu de maisons conservent, ainsi que le fait d'éviter en général la fermentation malolactique, ce qui préserve l'acidité naturelle et favorise une longue vie en bouteille.</p><p>Le <strong>Brut Classique</strong> est le champagne sans année de la maison et assemble les trois principaux cépages de la région : <strong>chardonnay</strong>, <strong>pinot noir</strong> et <strong>pinot meunier</strong>, avec des vins de réserve de récoltes antérieures pour garder un style constant. Après la seconde fermentation en bouteille, il repose longuement sur lies avant le dégorgement.</p><p>D'environ 12,5 % vol., c'est un champagne à la bulle fine, à la fois frais et vineux, où le passage en bois apporte des notes de fruits secs et une texture plus ample. Il convient aussi bien à l'apéritif qu'à table.</p>",
+    "it": "<p><strong>Alfred Gratien</strong> è una maison di Champagne fondata a Épernay nel 1864. Il suo tratto più caratteristico è la fermentazione dei vini base in piccole botti di rovere usate, pratica tradizionale che poche case mantengono, unita al fatto di evitare in genere la fermentazione malolattica, che preserva l'acidità naturale e favorisce una lunga vita in bottiglia.</p><p>Il <strong>Brut Classique</strong> è lo champagne senza annata della maison e unisce i tre vitigni principali della regione: <strong>Chardonnay</strong>, <strong>Pinot Nero</strong> e <strong>Pinot Meunier</strong>, con vini di riserva di vendemmie precedenti per mantenere uno stile costante. Dopo la seconda fermentazione in bottiglia, riposa a lungo sui lieviti prima della sboccatura.</p><p>Con circa 12,5% vol., è uno champagne dal perlage fine, fresco e vinoso al tempo stesso, in cui il passaggio in legno apporta note di frutta secca e una trama più ampia. Funziona sia come aperitivo sia a tavola.</p>"
+  },
+  "tasting": {
+    "es": "Amarillo dorado pálido, burbuja fina. Aromas de manzana, cítricos, brioche, avellana y notas de pastelería. Boca fresca y cremosa, de acidez viva y final largo.",
+    "en": "Pale golden yellow with fine bubbles. Aromas of apple, citrus, brioche, hazelnut and pastry notes. Fresh, creamy palate with lively acidity and a long finish.",
+    "fr": "Jaune doré pâle, bulle fine. Arômes de pomme, d'agrumes, de brioche, de noisette et notes pâtissières. Bouche fraîche et crémeuse, à l'acidité vive et à la finale longue.",
+    "it": "Giallo dorato tenue, perlage fine. Aromi di mela, agrumi, brioche, nocciola e note di pasticceria. Bocca fresca e cremosa, acidità vivace e finale lungo."
+  },
+  "pairing": {
+    "es": "Aperitivo, ostras, marisco, pescados delicados, quesos de pasta blanda",
+    "en": "Aperitif, oysters, shellfish, delicate fish, soft cheeses",
+    "fr": "Apéritif, huîtres, fruits de mer, poissons délicats, fromages à pâte molle",
+    "it": "Aperitivo, ostriche, frutti di mare, pesce delicato, formaggi a pasta molle"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco o tulipa",
+    "en": "8-10 °C, white wine or tulip glass",
+    "fr": "8-10 °C, verre à vin blanc ou tulipe",
+    "it": "8-10 °C, calice da bianco o a tulipano"
+  },
+  "search": "Alfred Gratien Brut Classique Alfred Gratien",
+  "source": "decantalo"
+}

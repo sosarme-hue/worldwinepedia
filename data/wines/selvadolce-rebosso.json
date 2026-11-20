@@ -1,0 +1,40 @@
+{
+  "slug": "selvadolce-rebosso",
+  "name": "Selvadolce Rebosso",
+  "winery": null,
+  "winery_name": "Tenuta Selvadolce",
+  "region": null,
+  "country": "italia",
+  "appellation": "IGP Terrazze Imperiese",
+  "type": "blanco",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Selvadolce Rebosso es un vino blanco de Tenuta Selvadolce, con la denominación IGP Terrazze Imperiese, en Italia.",
+    "en": "Selvadolce Rebosso is a white wine from Tenuta Selvadolce, made under the IGP Terrazze Imperiese appellation in Italy.",
+    "fr": "Selvadolce Rebosso est un vin blanc de Tenuta Selvadolce, élaboré sous l’appellation IGP Terrazze Imperiese (Italie).",
+    "it": "Selvadolce Rebosso è un vino bianco di Tenuta Selvadolce, prodotto nella denominazione IGP Terrazze Imperiese (Italia)."
+  },
+  "body": {
+    "es": "<p>Se cría en depósitos de hormigón. Su graduación es de 14 % vol.</p>",
+    "en": "<p>It is aged in concrete vats. It has 14% ABV.</p>",
+    "fr": "<p>Il est élevé en cuves béton. Il titre 14 % vol.</p>",
+    "it": "<p>Affina in vasche di cemento. Ha 14% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Selvadolce Rebosso Tenuta Selvadolce",
+  "brief": true,
+  "source": "decantalo"
+}

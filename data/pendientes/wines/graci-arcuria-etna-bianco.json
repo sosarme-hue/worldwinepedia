@@ -1,0 +1,42 @@
+{
+  "slug": "graci-arcuria-etna-bianco",
+  "name": "Graci Arcuria Etna Bianco",
+  "winery": null,
+  "winery_name": "Graci",
+  "region": null,
+  "country": "italia",
+  "appellation": "DOC Arcurìa",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "carricante"
+  ],
+  "summary": {
+    "es": "Graci Arcuria Etna Bianco es un vino blanco de Graci, con la denominación DOC Arcurìa, en Italia.",
+    "en": "Graci Arcuria Etna Bianco is a white wine from Graci, made under the DOC Arcurìa appellation in Italy.",
+    "fr": "Graci Arcuria Etna Bianco est un vin blanc de Graci, élaboré sous l’appellation DOC Arcurìa (Italie).",
+    "it": "Graci Arcuria Etna Bianco è un vino bianco di Graci, prodotto nella denominazione DOC Arcurìa (Italia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Carricante. Se cría en depósitos de hormigón. Su graduación es de 12 % vol.</p>",
+    "en": "<p>It is made from Carricante. It is aged in concrete vats. It has 12% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Carricante. Il est élevé en cuves béton. Il titre 12 % vol.</p>",
+    "it": "<p>È prodotto con Carricante. Affina in vasche di cemento. Ha 12% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Graci Arcuria Etna Bianco Graci",
+  "brief": true,
+  "source": "decantalo"
+}

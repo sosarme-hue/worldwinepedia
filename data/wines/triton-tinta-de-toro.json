@@ -1,0 +1,42 @@
+{
+  "slug": "triton-tinta-de-toro",
+  "name": "Tritón Tinta de Toro",
+  "winery": "jorge-ordonez",
+  "winery_name": null,
+  "region": "toro",
+  "country": "espana",
+  "appellation": "DO Toro",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "tempranillo"
+  ],
+  "summary": {
+    "es": "Tritón Tinta de Toro es un vino tinto de Bodegas Jorge Ordóñez & Co., con la denominación DO Toro, en España.",
+    "en": "Tritón Tinta de Toro is a red wine from Bodegas Jorge Ordóñez & Co., made under the DO Toro appellation in Spain.",
+    "fr": "Tritón Tinta de Toro est un vin rouge de Bodegas Jorge Ordóñez & Co., élaboré sous l’appellation DO Toro (Espagne).",
+    "it": "Tritón Tinta de Toro è un vino rosso di Bodegas Jorge Ordóñez & Co., prodotto nella denominazione DO Toro (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Tempranillo. Tiene crianza en madera. Su graduación es de 14,5 % vol.</p><p>Bodega malagueña impulsada por el importador Jorge Ordóñez para recuperar los vinos de moscatel de la Axarquía, tanto secos como dulces.</p><p>Toro es una denominación de origen de Zamora y Valladolid, a orillas del Duero, reconocida en 1987. Sus tintos de Tinta de Toro, variante local de la Tempranillo, destacan por su color intenso, su estructura y su madurez.</p>",
+    "en": "<p>It is made from Tempranillo. It is aged in wood. It has 14.5% ABV.</p><p>Málaga winery founded by the importer Jorge Ordóñez to revive the Moscatel wines of the Axarquía, both dry and sweet.</p><p>Toro is a designation of origin in Zamora and Valladolid, on the banks of the Duero, recognised in 1987. Its reds from Tinta de Toro, the local form of Tempranillo, are noted for their deep colour, structure and ripeness.</p>",
+    "fr": "<p>Il est élaboré à partir de Tempranillo. Il est élevé en bois. Il titre 14,5 % vol.</p><p>Domaine de Málaga créé par l'importateur Jorge Ordóñez pour faire renaître les vins de muscat de l'Axarquía, secs comme doux.</p><p>Toro est une dénomination d'origine de Zamora et de Valladolid, sur les rives du Douro, reconnue en 1987. Ses rouges de tinta de Toro, forme locale du tempranillo, se distinguent par leur couleur intense, leur structure et leur maturité.</p>",
+    "it": "<p>È prodotto con Tempranillo. È affinato in legno. Ha 14,5% vol.</p><p>Cantina di Málaga fondata dall'importatore Jorge Ordóñez per rilanciare i vini di Moscato dell'Axarquía, sia secchi sia dolci.</p><p>Toro è una denominazione di origine di Zamora e Valladolid, sulle rive del Duero, riconosciuta nel 1987. I suoi rossi di Tinta de Toro, forma locale del Tempranillo, si distinguono per colore intenso, struttura e maturità.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Tritón Tinta de Toro Jorge Ordoñez",
+  "brief": true,
+  "source": "decantalo"
+}

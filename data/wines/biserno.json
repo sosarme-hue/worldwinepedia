@@ -1,0 +1,46 @@
+{
+  "slug": "biserno",
+  "name": "Biserno",
+  "winery": "tenuta-di-biserno",
+  "region": "toscana",
+  "country": "italia",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-franc",
+    "merlot",
+    "cabernet-sauvignon",
+    "petit-verdot"
+  ],
+  "summary": {
+    "es": "Tinto principal de Tenuta di Biserno, en la costa toscana, un ensamblaje de Cabernet Franc, Merlot, Cabernet Sauvignon y Petit Verdot.",
+    "en": "The flagship red of Tenuta di Biserno on the Tuscan coast, a blend of Cabernet Franc, Merlot, Cabernet Sauvignon and Petit Verdot.",
+    "fr": "Rouge phare de Tenuta di Biserno, sur la côte toscane, un assemblage de cabernet franc, merlot, cabernet sauvignon et petit verdot.",
+    "it": "Rosso di punta di Tenuta di Biserno, sulla costa toscana, un assemblaggio di Cabernet Franc, Merlot, Cabernet Sauvignon e Petit Verdot."
+  },
+  "body": {
+    "es": "<p>Biserno es el vino principal de Tenuta di Biserno, la finca de Bibbona creada por los hermanos Lodovico y Piero Antinori en la costa toscana, al norte de Bolgheri. No debe confundirse con los vinos de la casa Marchesi Antinori, de la que esta finca es independiente.</p><p>Se elabora con un ensamblaje de variedades bordelesas en el que la <strong>Cabernet Franc</strong> desempeña un papel destacado, junto a la Merlot, la Cabernet Sauvignon y la Petit Verdot, en proporciones que varían según la añada. Las variedades y parcelas se vinifican por separado y el vino se cría en barricas de roble francés antes del ensamblaje final y del reposo en botella. Se comercializa bajo la indicación geográfica <em>Toscana</em>.</p><p>Es un tinto de gran concentración, de fruta madura, taninos densos y pulidos y notas especiadas y balsámicas, representativo del estilo de los grandes vinos de la costa toscana. Está pensado para una larga guarda y gana complejidad con los años en botella.</p>",
+    "en": "<p>Biserno is the flagship wine of Tenuta di Biserno, the Bibbona estate created by the brothers Lodovico and Piero Antinori on the Tuscan coast, north of Bolgheri. It should not be confused with the wines of the Marchesi Antinori house, from which this estate is independent.</p><p>It is made from a blend of Bordeaux varieties in which <strong>Cabernet Franc</strong> plays a prominent role, alongside Merlot, Cabernet Sauvignon and Petit Verdot, in proportions that vary with the vintage. Varieties and plots are vinified separately and the wine is aged in French oak barrels before final blending and bottle ageing. It is sold under the <em>Toscana</em> geographical indication.</p><p>It is a highly concentrated red with ripe fruit, dense yet polished tannins and spicy, balsamic notes, representative of the style of the great wines of the Tuscan coast. It is built for long ageing and gains complexity over the years in bottle.</p>",
+    "fr": "<p>Biserno est le vin phare de Tenuta di Biserno, le domaine de Bibbona créé par les frères Lodovico et Piero Antinori sur la côte toscane, au nord de Bolgheri. Il ne faut pas le confondre avec les vins de la maison Marchesi Antinori, dont ce domaine est indépendant.</p><p>Il est élaboré à partir d’un assemblage de cépages bordelais dans lequel le <strong>cabernet franc</strong> joue un rôle de premier plan, aux côtés du merlot, du cabernet sauvignon et du petit verdot, dans des proportions qui varient selon le millésime. Cépages et parcelles sont vinifiés séparément et le vin est élevé en barriques de chêne français avant l’assemblage final et le repos en bouteille. Il est commercialisé sous l’indication géographique <em>Toscana</em>.</p><p>C’est un rouge très concentré, au fruit mûr, aux tanins denses et polis et aux notes épicées et balsamiques, représentatif du style des grands vins de la côte toscane. Il est conçu pour une longue garde et gagne en complexité avec les années en bouteille.</p>",
+    "it": "<p>Biserno è il vino di punta di Tenuta di Biserno, la tenuta di Bibbona creata dai fratelli Lodovico e Piero Antinori sulla costa toscana, a nord di Bolgheri. Non va confuso con i vini della Marchesi Antinori, da cui questa tenuta è indipendente.</p><p>È prodotto con un assemblaggio di vitigni bordolesi in cui il <strong>Cabernet Franc</strong> ha un ruolo di primo piano, accanto a Merlot, Cabernet Sauvignon e Petit Verdot, in proporzioni che variano secondo l’annata. Varietà e parcelle sono vinificate separatamente e il vino viene affinato in barrique di rovere francese prima dell’assemblaggio finale e del riposo in bottiglia. È commercializzato con l’indicazione geografica <em>Toscana</em>.</p><p>È un rosso di grande concentrazione, dal frutto maturo, dai tannini densi e levigati e dalle note speziate e balsamiche, rappresentativo dello stile dei grandi vini della costa toscana. È pensato per un lungo invecchiamento e acquista complessità con gli anni in bottiglia.</p>"
+  },
+  "tasting": {
+    "es": "Rubí muy intenso. Aromas de cassis, mora, ciruela, especias, tabaco y notas balsámicas. Boca concentrada y amplia, de taninos densos y final muy largo.",
+    "en": "Very deep ruby. Aromas of blackcurrant, blackberry, plum, spice, tobacco and balsamic notes. Concentrated, broad palate with dense tannins and a very long finish.",
+    "fr": "Rubis très intense. Arômes de cassis, de mûre, de prune, d’épices, de tabac et notes balsamiques. Bouche concentrée et ample, aux tanins denses, finale très longue.",
+    "it": "Rubino molto intenso. Aromi di cassis, mora, prugna, spezie, tabacco e note balsamiche. Bocca concentrata e ampia, tannini densi e finale molto lungo."
+  },
+  "pairing": {
+    "es": "Carnes rojas, caza, cordero asado, quesos curados",
+    "en": "Red meat, game, roast lamb, aged cheeses",
+    "fr": "Viandes rouges, gibier, agneau rôti, fromages affinés",
+    "it": "Carni rosse, selvaggina, agnello arrosto, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Biserno Tenuta di Biserno"
+}

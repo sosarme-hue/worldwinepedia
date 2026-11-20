@@ -1,0 +1,40 @@
+{
+  "slug": "domaine-thillardon-les-carrieres",
+  "name": "Domaine Thillardon Les Carrières",
+  "winery": null,
+  "winery_name": "Domaine Thillardon",
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Chénas",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Domaine Thillardon Les Carrières es un vino tinto de Domaine Thillardon, con la denominación AOC Chénas, en Francia.",
+    "en": "Domaine Thillardon Les Carrières is a red wine from Domaine Thillardon, made under the AOC Chénas appellation in France.",
+    "fr": "Domaine Thillardon Les Carrières est un vin rouge de Domaine Thillardon, élaboré sous l’appellation AOC Chénas (France).",
+    "it": "Domaine Thillardon Les Carrières è un vino rosso di Domaine Thillardon, prodotto nella denominazione AOC Chénas (Francia)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 12 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 12% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 12 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 12% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Domaine Thillardon Les Carrières Domaine Thillardon",
+  "brief": true,
+  "source": "decantalo"
+}

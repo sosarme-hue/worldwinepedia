@@ -1,0 +1,42 @@
+{
+  "slug": "chateau-pesquie-chardonnay-blanc",
+  "name": "Château Pesquié Chardonnay Blanc",
+  "winery": "chateau-pesquie",
+  "winery_name": null,
+  "region": null,
+  "country": "francia",
+  "appellation": "Vin de France",
+  "type": "blanco",
+  "category": null,
+  "grapes": [
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Château Pesquié Chardonnay Blanc es un vino blanco de Château Pesquié, con la denominación Vin de France, en Francia.",
+    "en": "Château Pesquié Chardonnay Blanc is a white wine from Château Pesquié, made under the Vin de France appellation in France.",
+    "fr": "Château Pesquié Chardonnay Blanc est un vin blanc de Château Pesquié, élaboré sous l’appellation Vin de France (France).",
+    "it": "Château Pesquié Chardonnay Blanc è un vino bianco di Château Pesquié, prodotto nella denominazione Vin de France (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Chardonnay. Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 13 % vol.</p><p>Finca familiar de Mormoiron, al pie del monte Ventoux, referencia de la denominación Ventoux en el sur del valle del Ródano.</p>",
+    "en": "<p>It is made from Chardonnay. It is a young wine, meant to be drunk in its first years. It has 13% ABV.</p><p>Family estate in Mormoiron, at the foot of Mont Ventoux, a reference for the Ventoux appellation in the southern Rhône Valley.</p>",
+    "fr": "<p>Il est élaboré à partir de Chardonnay. C’est un vin jeune, à boire dans ses premières années. Il titre 13 % vol.</p><p>Domaine familial de Mormoiron, au pied du mont Ventoux, référence de l’appellation Ventoux dans le sud de la vallée du Rhône.</p>",
+    "it": "<p>È prodotto con Chardonnay. È un vino giovane, da bere nei primi anni. Ha 13% vol.</p><p>Tenuta familiare di Mormoiron, ai piedi del Mont Ventoux, punto di riferimento della denominazione Ventoux nel sud della valle del Rodano.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Pescados, mariscos, arroces, quesos frescos",
+    "en": "Fish, shellfish, rice dishes, fresh cheeses",
+    "fr": "Poissons, fruits de mer, plats de riz, fromages frais",
+    "it": "Pesce, frutti di mare, risotti, formaggi freschi"
+  },
+  "serve": {
+    "es": "8-11 °C, copa de vino blanco",
+    "en": "8-11 °C, white wine glass",
+    "fr": "8-11 °C, verre à vin blanc",
+    "it": "8-11 °C, calice da vino bianco"
+  },
+  "search": "Château Pesquié Chardonnay Blanc Château Pesquié",
+  "brief": true,
+  "source": "decantalo"
+}

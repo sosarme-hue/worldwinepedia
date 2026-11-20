@@ -1,0 +1,42 @@
+{
+  "slug": "la-unidad-la-pantera-rosa",
+  "name": "La Unidad La Pantera Rosa",
+  "winery": null,
+  "winery_name": "La Unidad Bodegas",
+  "region": null,
+  "country": "espana",
+  "appellation": "DO Cebreros",
+  "type": "rosado",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "La Unidad La Pantera Rosa es un vino rosado de La Unidad Bodegas, con la denominación DO Cebreros, en España.",
+    "en": "La Unidad La Pantera Rosa is a rosé wine from La Unidad Bodegas, made under the DO Cebreros appellation in Spain.",
+    "fr": "La Unidad La Pantera Rosa est un vin rosé de La Unidad Bodegas, élaboré sous l’appellation DO Cebreros (Espagne).",
+    "it": "La Unidad La Pantera Rosa è un vino rosato di La Unidad Bodegas, prodotto nella denominazione DO Cebreros (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Se cría sobre sus lías. Su graduación es de 13 % vol.</p>",
+    "en": "<p>It is made from Grenache. It is aged on its lees. It has 13% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. Il est élevé sur lies. Il titre 13 % vol.</p>",
+    "it": "<p>È prodotto con Grenache. Affina sulle fecce fini. Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, ensaladas, arroces, pescados",
+    "en": "Aperitif, salads, rice dishes, fish",
+    "fr": "Apéritif, salades, plats de riz, poissons",
+    "it": "Aperitivo, insalate, risotti, pesce"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "La Unidad La Pantera Rosa La Unidad Bodegas",
+  "brief": true,
+  "source": "decantalo"
+}

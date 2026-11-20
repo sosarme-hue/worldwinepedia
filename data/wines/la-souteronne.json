@@ -1,0 +1,40 @@
+{
+  "slug": "la-souteronne",
+  "name": "La Souteronne",
+  "winery": null,
+  "winery_name": "Domaine Romaneaux",
+  "region": null,
+  "country": "francia",
+  "appellation": "Vin de France",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "La Souteronne es un vino tinto de Domaine Romaneaux, con la denominación Vin de France, en Francia.",
+    "en": "La Souteronne is a red wine from Domaine Romaneaux, made under the Vin de France appellation in France.",
+    "fr": "La Souteronne est un vin rouge de Domaine Romaneaux, élaboré sous l’appellation Vin de France (France).",
+    "it": "La Souteronne è un vino rosso di Domaine Romaneaux, prodotto nella denominazione Vin de France (Francia)."
+  },
+  "body": {
+    "es": "<p>Se cría sobre sus lías. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is aged on its lees. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élevé sur lies. Il titre 12,5 % vol.</p>",
+    "it": "<p>Affina sulle fecce fini. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "La Souteronne Domaine Romaneaux",
+  "brief": true,
+  "source": "decantalo"
+}

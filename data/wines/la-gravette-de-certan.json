@@ -1,0 +1,49 @@
+{
+  "slug": "la-gravette-de-certan",
+  "name": "La Gravette de Certan",
+  "winery": "vieux-chateau-certan",
+  "region": "pomerol",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Segundo vino",
+    "en": "Second wine",
+    "fr": "Second vin",
+    "it": "Secondo vino"
+  },
+  "grapes": [
+    "merlot",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Segundo vino de Vieux Château Certan, un Pomerol de Merlot y Cabernet Franc, afrutado y más accesible en su juventud.",
+    "en": "Second wine of Vieux Château Certan, a Pomerol of Merlot and Cabernet Franc, fruity and more approachable in its youth.",
+    "fr": "Second vin de Vieux Château Certan, un pomerol de merlot et de cabernet franc, fruité et plus accessible dans sa jeunesse.",
+    "it": "Secondo vino di Vieux Château Certan, un Pomerol di Merlot e Cabernet Franc, fruttato e più accessibile da giovane."
+  },
+  "body": {
+    "es": "<p><strong>La Gravette de Certan</strong> es el segundo vino de <strong>Vieux Château Certan</strong>, en la denominación <strong>Pomerol</strong>. Se elabora con los lotes que no se seleccionan para el gran vino, procedentes en buena parte de viñas más jóvenes de la finca, sobre los mismos suelos de arcillas y gravas de la meseta.</p><p>Como el gran vino, se basa en el <strong>Merlot</strong> con una parte de <strong>Cabernet Franc</strong>, lo que le da un perfil algo más fresco que el de muchos Pomerol. Se vinifica en la misma bodega y se cría en barrica, con un enfoque que privilegia la fruta.</p><p>Es un tinto de cuerpo medio, de textura suave y fruta roja y negra jugosa, con taninos amables. Permite conocer el estilo de la casa sin necesidad de una guarda larga y suele estar en buen momento en los primeros años tras la cosecha, aunque puede conservarse algún tiempo más.</p>",
+    "en": "<p><strong>La Gravette de Certan</strong> is the second wine of <strong>Vieux Château Certan</strong>, in the <strong>Pomerol</strong> appellation. It is made from lots not selected for the grand vin, largely from the estate’s younger vines, on the same clay and gravel soils of the plateau.</p><p>Like the grand vin, it is based on <strong>Merlot</strong> with a share of <strong>Cabernet Franc</strong>, which gives it a somewhat fresher profile than many Pomerols. It is vinified in the same winery and aged in barrel, with an approach that favours fruit.</p><p>It is a medium-bodied red with a smooth texture, juicy red and black fruit and friendly tannins. It offers a way to discover the house style without the need for long cellaring and is usually drinking well in the first years after the vintage, although it can be kept a while longer in good conditions.</p>",
+    "fr": "<p><strong>La Gravette de Certan</strong> est le second vin de <strong>Vieux Château Certan</strong>, dans l’appellation <strong>Pomerol</strong>. Il est élaboré à partir des lots non retenus pour le grand vin, issus en bonne partie des jeunes vignes du domaine, sur les mêmes sols d’argiles et de graves du plateau.</p><p>Comme le grand vin, il repose sur le <strong>merlot</strong> avec une part de <strong>cabernet franc</strong>, ce qui lui donne un profil un peu plus frais que celui de nombreux pomerols. Il est vinifié dans le même chai et élevé en barrique, selon une approche qui privilégie le fruit.</p><p>C’est un rouge de corps moyen, à la texture souple, au fruit rouge et noir juteux et aux tanins aimables. Il permet de découvrir le style de la maison sans longue garde et se montre généralement à son meilleur dans les premières années après la récolte, même s’il peut se conserver un peu plus.</p>",
+    "it": "<p><strong>La Gravette de Certan</strong> è il secondo vino di <strong>Vieux Château Certan</strong>, nella denominazione <strong>Pomerol</strong>. Si produce con i lotti non selezionati per il grand vin, provenienti in buona parte dalle viti più giovani della tenuta, sugli stessi suoli di argille e ghiaie dell’altopiano.</p><p>Come il grand vin, si basa sul <strong>Merlot</strong> con una parte di <strong>Cabernet Franc</strong>, che gli conferisce un profilo un po’ più fresco di molti Pomerol. Viene vinificato nella stessa cantina e affinato in barrique, con un approccio che privilegia il frutto.</p><p>È un rosso di medio corpo, dalla trama morbida, con frutto rosso e nero succoso e tannini gentili. Permette di conoscere lo stile della casa senza bisogno di un lungo invecchiamento e di solito è al meglio nei primi anni dopo la vendemmia, anche se può conservarsi ancora per qualche tempo.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de cereza, ciruela, frambuesa y un toque floral. Boca suave y jugosa, de taninos redondos y final fresco.",
+    "en": "Deep ruby. Aromas of cherry, plum, raspberry and a floral touch. Smooth, juicy palate with rounded tannins and a fresh finish.",
+    "fr": "Rubis intense. Arômes de cerise, de prune, de framboise et une touche florale. Bouche souple et juteuse, aux tanins ronds et finale fraîche.",
+    "it": "Rubino intenso. Aromi di ciliegia, prugna, lampone e un tocco floreale. Bocca morbida e succosa, dai tannini rotondi e finale fresco."
+  },
+  "pairing": {
+    "es": "Carnes rojas a la parrilla, aves asadas, quesos semicurados",
+    "en": "Grilled red meat, roast poultry, semi-hard cheeses",
+    "fr": "Viandes rouges grillées, volailles rôties, fromages mi-affinés",
+    "it": "Carni rosse alla griglia, pollame arrosto, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa de Burdeos",
+    "en": "16-18 °C, Bordeaux glass",
+    "fr": "16-18 °C, verre de type bordelais",
+    "it": "16-18 °C, calice tipo Bordeaux"
+  },
+  "search": "La Gravette de Certan Pomerol"
+}

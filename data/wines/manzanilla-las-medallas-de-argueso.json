@@ -1,0 +1,42 @@
+{
+  "slug": "manzanilla-las-medallas-de-argueso",
+  "name": "Manzanilla Las Medallas de Argüeso",
+  "winery": null,
+  "winery_name": "Bodegas Argüeso",
+  "region": null,
+  "country": "espana",
+  "appellation": "DO Manzanilla - Sanlúcar de Barrameda",
+  "type": "generoso",
+  "category": null,
+  "grapes": [
+    "palomino"
+  ],
+  "summary": {
+    "es": "Manzanilla Las Medallas de Argüeso es un vino generoso de Bodegas Argüeso, con la denominación DO Manzanilla - Sanlúcar de Barrameda, en España.",
+    "en": "Manzanilla Las Medallas de Argüeso is a fortified wine from Bodegas Argüeso, made under the DO Manzanilla - Sanlúcar de Barrameda appellation in Spain.",
+    "fr": "Manzanilla Las Medallas de Argüeso est un vin fortifié de Bodegas Argüeso, élaboré sous l’appellation DO Manzanilla - Sanlúcar de Barrameda (Espagne).",
+    "it": "Manzanilla Las Medallas de Argüeso è un vino liquoroso di Bodegas Argüeso, prodotto nella denominazione DO Manzanilla - Sanlúcar de Barrameda (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Palomino. Su graduación es de 15 % vol.</p>",
+    "en": "<p>It is made from Palomino. It has 15% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Palomino. Il titre 15 % vol.</p>",
+    "it": "<p>È prodotto con Palomino. Ha 15% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, jamón, frutos secos, quesos curados",
+    "en": "Aperitif, cured ham, nuts, aged cheeses",
+    "fr": "Apéritif, jambon sec, fruits secs, fromages affinés",
+    "it": "Aperitivo, prosciutto crudo, frutta secca, formaggi stagionati"
+  },
+  "serve": {
+    "es": "7-14 °C según el tipo, catavino",
+    "en": "7-14 °C depending on style, copita glass",
+    "fr": "7-14 °C selon le style, verre à xérès",
+    "it": "7-14 °C secondo lo stile, bicchiere da sherry"
+  },
+  "search": "Manzanilla Las Medallas de Argüeso Bodegas Argüeso",
+  "brief": true,
+  "source": "decantalo"
+}

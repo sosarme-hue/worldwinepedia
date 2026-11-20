@@ -1,0 +1,48 @@
+{
+  "slug": "del-duque",
+  "name": "Del Duque Amontillado VORS",
+  "winery": "gonzalez-byass",
+  "region": "jerez-xeres-sherry",
+  "country": "espana",
+  "type": "generoso",
+  "category": {
+    "es": "Amontillado VORS",
+    "en": "Amontillado VORS",
+    "fr": "Amontillado VORS",
+    "it": "Amontillado VORS"
+  },
+  "grapes": [
+    "palomino"
+  ],
+  "summary": {
+    "es": "Amontillado muy viejo de González Byass, certificado como VORS, de gran concentración y sequedad.",
+    "en": "Very old amontillado from González Byass, certified as VORS, highly concentrated and dry.",
+    "fr": "Amontillado très vieux de González Byass, certifié VORS, d'une grande concentration et sécheresse.",
+    "it": "Amontillado molto vecchio di González Byass, certificato VORS, di grande concentrazione e secchezza."
+  },
+  "body": {
+    "es": "<p>Del Duque es el amontillado de la colección de vinos muy viejos de <strong>González Byass</strong>, junto a Matusalem, Apóstoles y Noé. Lleva la certificación <strong>VORS</strong>, que garantiza una edad media superior a treinta años, verificada por el Consejo Regulador.</p><p>Como todo amontillado, se elabora con <strong>palomino</strong> y es fruto de una doble crianza. Comenzó su vida como un fino, bajo el velo de <strong>flor</strong>, y cuando este desapareció continuó envejeciendo durante décadas en contacto con el oxígeno, en el sistema de criaderas y solera. Una crianza tan larga transforma profundamente el vino: la evaporación a través de la madera lo concentra, intensifica la acidez y el amargor final, y desarrolla una gran complejidad de aromas de frutos secos, madera noble, especias y notas yodadas. El resultado es un vino seco, punzante e intenso, muy distinto de los amontillados jóvenes, que se disfruta en pequeñas cantidades y con calma.</p>",
+    "en": "<p>Del Duque is the amontillado in <strong>González Byass</strong>' collection of very old wines, alongside Matusalem, Apóstoles and Noé. It carries the <strong>VORS</strong> certification, which guarantees an average age of more than thirty years, verified by the Regulatory Council.</p><p>Like every amontillado, it is made from <strong>Palomino</strong> and is the result of dual ageing. It began life as a fino, under <strong>flor</strong>, and when the flor disappeared it continued ageing for decades in contact with oxygen, in the criaderas and solera system. Such long ageing transforms the wine profoundly: evaporation through the wood concentrates it, intensifies its acidity and final bitterness, and develops great complexity of aromas of nuts, fine wood, spice and iodine notes. The result is a dry, pungent, intense wine, very different from young amontillados, to be enjoyed slowly and in small quantities.</p>",
+    "fr": "<p>Del Duque est l'amontillado de la collection de vins très vieux de <strong>González Byass</strong>, avec Matusalem, Apóstoles et Noé. Il porte la certification <strong>VORS</strong>, qui garantit un âge moyen supérieur à trente ans, vérifié par le Conseil régulateur.</p><p>Comme tout amontillado, il est élaboré avec du <strong>palomino</strong> et naît d'un double élevage. Il a commencé sa vie comme un fino, sous voile de <strong>flor</strong>, puis, une fois celui-ci disparu, il a continué de vieillir pendant des décennies au contact de l'oxygène, dans le système des criaderas et solera. Un élevage aussi long transforme profondément le vin : l'évaporation à travers le bois le concentre, intensifie son acidité et son amertume finale, et développe une grande complexité d'arômes de fruits secs, de bois noble, d'épices et de notes iodées. Le résultat est un vin sec, piquant et intense, très différent des amontillados jeunes, à savourer lentement et en petites quantités.</p>",
+    "it": "<p>Del Duque è l'amontillado della collezione di vini molto vecchi di <strong>González Byass</strong>, insieme a Matusalem, Apóstoles e Noé. Porta la certificazione <strong>VORS</strong>, che garantisce un'età media superiore a trent'anni, verificata dal Consiglio regolatore.</p><p>Come ogni amontillado, è prodotto con <strong>Palomino</strong> ed è frutto di un doppio affinamento. Ha iniziato la sua vita come fino, sotto il velo di <strong>flor</strong>, e quando questo è scomparso ha continuato a invecchiare per decenni a contatto con l'ossigeno, nel sistema di criaderas e solera. Un affinamento così lungo trasforma profondamente il vino: l'evaporazione attraverso il legno lo concentra, ne intensifica l'acidità e l'amaro finale e sviluppa una grande complessità di aromi di frutta secca, legno nobile, spezie e note iodate. Il risultato è un vino secco, pungente e intenso, molto diverso dagli amontillado giovani, da gustare con calma e in piccole quantità.</p>"
+  },
+  "tasting": {
+    "es": "Ámbar oscuro con ribete verdoso. Aromas de avellana, nuez, madera vieja, especias y yodo. En boca es seco, muy intenso y punzante, con un final interminable.",
+    "en": "Dark amber with a greenish rim. Aromas of hazelnut, walnut, old wood, spice and iodine. Dry, very intense and pungent on the palate, with an endless finish.",
+    "fr": "Ambre foncé au disque verdâtre. Arômes de noisette, de noix, de vieux bois, d'épices et d'iode. En bouche, sec, très intense et piquant, à la finale interminable.",
+    "it": "Ambra scura con unghia verdognola. Aromi di nocciola, noce, legno vecchio, spezie e iodio. In bocca è secco, molto intenso e pungente, con un finale interminabile."
+  },
+  "pairing": {
+    "es": "Consomé, jamón ibérico, quesos muy curados, almendras tostadas",
+    "en": "Consommé, Iberian ham, well-aged cheeses, toasted almonds",
+    "fr": "Consommé, jambon ibérique, fromages très affinés, amandes grillées",
+    "it": "Consommé, prosciutto iberico, formaggi molto stagionati, mandorle tostate"
+  },
+  "serve": {
+    "es": "12-14 °C, copa de vino blanco",
+    "en": "12-14 °C, white wine glass",
+    "fr": "12-14 °C, verre à vin blanc",
+    "it": "12-14 °C, calice da vino bianco"
+  },
+  "search": "Del Duque Amontillado VORS González Byass"
+}

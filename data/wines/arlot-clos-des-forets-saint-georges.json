@@ -1,0 +1,48 @@
+{
+  "slug": "arlot-clos-des-forets-saint-georges",
+  "name": "Nuits-Saint-Georges 1er Cru Clos des Forêts Saint-Georges",
+  "winery": "domaine-de-l-arlot",
+  "region": "cote-de-nuits",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Premier Cru (monopolio)",
+    "en": "Premier Cru (monopole)",
+    "fr": "Premier Cru (monopole)",
+    "it": "Premier Cru (monopolio)"
+  },
+  "grapes": [
+    "pinot-noir"
+  ],
+  "summary": {
+    "es": "Nuits-Saint-Georges premier cru de Pinot Noir procedente del Clos des Forêts Saint-Georges, monopolio de Domaine de l’Arlot en Premeaux-Prissey.",
+    "en": "Nuits-Saint-Georges premier cru from Pinot Noir grown in the Clos des Forêts Saint-Georges, a monopole of Domaine de l’Arlot in Premeaux-Prissey.",
+    "fr": "Nuits-Saint-Georges premier cru de pinot noir issu du Clos des Forêts Saint-Georges, monopole du Domaine de l’Arlot à Premeaux-Prissey.",
+    "it": "Nuits-Saint-Georges premier cru di Pinot Noir proveniente dal Clos des Forêts Saint-Georges, monopolio del Domaine de l’Arlot a Premeaux-Prissey."
+  },
+  "body": {
+    "es": "<p>El <strong>Clos des Forêts Saint-Georges</strong> es un premier cru de la denominación <strong>Nuits-Saint-Georges</strong> situado en el municipio de Premeaux-Prissey, en la Côte de Nuits. Es un <strong>monopolio</strong> de Domaine de l’Arlot y la parcela más extensa del dominio, en una ladera de suelos calcáreos con proporciones variables de arcilla y piedra.</p><p>El vino se elabora exclusivamente con <strong>Pinot Noir</strong>. La vendimia es manual y la crianza se realiza en barricas de roble francés, con una proporción moderada de madera nueva para no ocultar la expresión del terruño.</p><p>Es un Nuits-Saint-Georges de buena estructura, con la firmeza propia de la denominación, pero con la finura aromática que caracteriza al dominio: fruta roja y negra, especias y matices florales. En su juventud puede mostrarse algo reservado; con varios años de guarda gana complejidad y desarrolla notas de sotobosque.</p>",
+    "en": "<p>The <strong>Clos des Forêts Saint-Georges</strong> is a premier cru of the <strong>Nuits-Saint-Georges</strong> appellation located in the commune of Premeaux-Prissey, in the Côte de Nuits. It is a <strong>monopole</strong> of Domaine de l’Arlot and the domaine’s largest plot, on a hillside of limestone soils with varying proportions of clay and stone.</p><p>The wine is made exclusively from <strong>Pinot Noir</strong>. Harvesting is by hand and ageing takes place in French oak barrels, with a moderate proportion of new wood so as not to mask the expression of the terroir.</p><p>It is a Nuits-Saint-Georges of good structure, with the firmness typical of the appellation but with the aromatic finesse that characterises the domaine: red and black fruit, spice and floral hints. In its youth it may seem somewhat reserved; with several years of cellaring it gains complexity and develops notes of forest floor and a more harmonious texture.</p>",
+    "fr": "<p>Le <strong>Clos des Forêts Saint-Georges</strong> est un premier cru de l’appellation <strong>Nuits-Saint-Georges</strong> situé sur la commune de Premeaux-Prissey, dans la Côte de Nuits. C’est un <strong>monopole</strong> du Domaine de l’Arlot et la plus grande parcelle du domaine, sur un coteau aux sols calcaires avec des proportions variables d’argile et de cailloux.</p><p>Le vin est élaboré exclusivement à partir de <strong>pinot noir</strong>. Les vendanges sont manuelles et l’élevage se fait en barriques de chêne français, avec une proportion modérée de bois neuf pour ne pas masquer l’expression du terroir.</p><p>C’est un nuits-saint-georges bien structuré, doté de la fermeté propre à l’appellation mais aussi de la finesse aromatique qui caractérise le domaine : fruits rouges et noirs, épices et touches florales. Jeune, il peut se montrer un peu réservé ; après plusieurs années de garde, il gagne en complexité et développe des notes de sous-bois.</p>",
+    "it": "<p>Il <strong>Clos des Forêts Saint-Georges</strong> è un premier cru della denominazione <strong>Nuits-Saint-Georges</strong> situato nel comune di Premeaux-Prissey, nella Côte de Nuits. È un <strong>monopolio</strong> del Domaine de l’Arlot e la parcella più estesa del domaine, su un pendio con suoli calcarei e proporzioni variabili di argilla e pietre.</p><p>Il vino è prodotto esclusivamente con <strong>Pinot Noir</strong>. La vendemmia è manuale e l’affinamento avviene in barrique di rovere francese, con una quota moderata di legno nuovo per non coprire l’espressione del terroir.</p><p>È un Nuits-Saint-Georges di buona struttura, con la fermezza tipica della denominazione ma con la finezza aromatica che contraddistingue il domaine: frutti rossi e neri, spezie e accenni floreali. Da giovane può apparire un po’ chiuso; con diversi anni di affinamento guadagna complessità e sviluppa note di sottobosco.</p>"
+  },
+  "tasting": {
+    "es": "Rubí intenso. Aromas de cereza, frambuesa, especias y notas florales y terrosas. Boca firme y fresca, de taninos finos y final largo.",
+    "en": "Deep ruby. Aromas of cherry, raspberry, spice and floral and earthy notes. Firm, fresh palate with fine tannins and a long finish.",
+    "fr": "Rubis intense. Arômes de cerise, de framboise, d’épices et notes florales et terriennes. Bouche ferme et fraîche, aux tanins fins, finale longue.",
+    "it": "Rubino intenso. Aromi di ciliegia, lampone, spezie e note floreali e terrose. Bocca salda e fresca, dai tannini fini e finale lungo."
+  },
+  "pairing": {
+    "es": "Caza de pluma, pato, carnes rojas en salsa, setas",
+    "en": "Game birds, duck, red meat in sauce, mushrooms",
+    "fr": "Gibier à plume, canard, viandes rouges en sauce, champignons",
+    "it": "Selvaggina da piuma, anatra, carni rosse in salsa, funghi"
+  },
+  "serve": {
+    "es": "15-17 °C, copa de Borgoña",
+    "en": "15-17 °C, Burgundy glass",
+    "fr": "15-17 °C, verre de type bourguignon",
+    "it": "15-17 °C, calice tipo Borgogna"
+  },
+  "search": "Clos des Forêts Saint-Georges Nuits-Saint-Georges Domaine de l’Arlot"
+}

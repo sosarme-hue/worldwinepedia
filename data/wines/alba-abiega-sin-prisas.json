@@ -1,0 +1,40 @@
+{
+  "slug": "alba-abiega-sin-prisas",
+  "name": "Alba Abiega Sin Prisas",
+  "winery": null,
+  "winery_name": "Alba en Ribera",
+  "region": null,
+  "country": "espana",
+  "appellation": "Ribera en DO Ribera del Duero",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Alba Abiega Sin Prisas es un vino tinto de Alba en Ribera, con la denominación Ribera en DO Ribera del Duero, en España.",
+    "en": "Alba Abiega Sin Prisas is a red wine from Alba en Ribera, made under the Ribera en DO Ribera del Duero appellation in Spain.",
+    "fr": "Alba Abiega Sin Prisas est un vin rouge de Alba en Ribera, élaboré sous l’appellation Ribera en DO Ribera del Duero (Espagne).",
+    "it": "Alba Abiega Sin Prisas è un vino rosso di Alba en Ribera, prodotto nella denominazione Ribera en DO Ribera del Duero (Spagna)."
+  },
+  "body": {
+    "es": "<p>Tiene crianza en madera. Su graduación es de 14,5 % vol.</p>",
+    "en": "<p>It is aged in wood. It has 14.5% ABV.</p>",
+    "fr": "<p>Il est élevé en bois. Il titre 14,5 % vol.</p>",
+    "it": "<p>È affinato in legno. Ha 14,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Alba Abiega Sin Prisas Alba en Ribera",
+  "brief": true,
+  "source": "decantalo"
+}

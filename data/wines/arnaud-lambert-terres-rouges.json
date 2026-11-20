@@ -1,0 +1,42 @@
+{
+  "slug": "arnaud-lambert-terres-rouges",
+  "name": "Arnaud Lambert Terres Rouges",
+  "winery": null,
+  "winery_name": "Arnaud Lambert",
+  "region": null,
+  "country": "francia",
+  "appellation": "AOC Saumur",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Arnaud Lambert Terres Rouges es un vino tinto de Arnaud Lambert, con la denominación AOC Saumur, en Francia.",
+    "en": "Arnaud Lambert Terres Rouges is a red wine from Arnaud Lambert, made under the AOC Saumur appellation in France.",
+    "fr": "Arnaud Lambert Terres Rouges est un vin rouge de Arnaud Lambert, élaboré sous l’appellation AOC Saumur (France).",
+    "it": "Arnaud Lambert Terres Rouges è un vino rosso di Arnaud Lambert, prodotto nella denominazione AOC Saumur (Francia)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Cabernet Franc. Su graduación es de 13 % vol.</p>",
+    "en": "<p>It is made from Cabernet Franc. It has 13% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Cabernet Franc. Il titre 13 % vol.</p>",
+    "it": "<p>È prodotto con Cabernet Franc. Ha 13% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Arnaud Lambert Terres Rouges Arnaud Lambert",
+  "brief": true,
+  "source": "decantalo"
+}

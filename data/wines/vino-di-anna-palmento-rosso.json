@@ -1,0 +1,40 @@
+{
+  "slug": "vino-di-anna-palmento-rosso",
+  "name": "Vino di Anna Palmento Rosso",
+  "winery": null,
+  "winery_name": "Vino di Anna",
+  "region": null,
+  "country": "italia",
+  "appellation": "Vino da Tavola",
+  "type": "tinto",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Vino di Anna Palmento Rosso es un vino tinto de Vino di Anna, con la denominación Vino da Tavola, en Italia.",
+    "en": "Vino di Anna Palmento Rosso is a red wine from Vino di Anna, made under the Vino da Tavola appellation in Italy.",
+    "fr": "Vino di Anna Palmento Rosso est un vin rouge de Vino di Anna, élaboré sous l’appellation Vino da Tavola (Italie).",
+    "it": "Vino di Anna Palmento Rosso è un vino rosso di Vino di Anna, prodotto nella denominazione Vino da Tavola (Italia)."
+  },
+  "body": {
+    "es": "<p>Se cría en recipientes de barro, como ánforas o tinajas. Su graduación es de 12,5 % vol.</p>",
+    "en": "<p>It is aged in clay vessels such as amphorae. It has 12.5% ABV.</p>",
+    "fr": "<p>Il est élevé en jarres de terre cuite, comme des amphores. Il titre 12,5 % vol.</p>",
+    "it": "<p>Affina in contenitori di terracotta, come anfore. Ha 12,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Vino di Anna Palmento Rosso Vino di Anna",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "chateau-gazin",
+  "name": "Château Gazin",
+  "winery": "chateau-gazin",
+  "region": "pomerol",
+  "country": "francia",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "merlot",
+    "cabernet-sauvignon",
+    "cabernet-franc"
+  ],
+  "summary": {
+    "es": "Grand vin de Château Gazin, Pomerol de Merlot de la meseta oriental de la denominación, carnoso y estructurado.",
+    "en": "The grand vin of Château Gazin, a Merlot-based Pomerol from the eastern plateau of the appellation, fleshy and structured.",
+    "fr": "Grand vin de Château Gazin, pomerol à base de merlot issu de la partie orientale du plateau, charnu et structuré.",
+    "it": "Grand vin di Château Gazin, Pomerol a base di Merlot della parte orientale dell’altopiano, polposo e strutturato."
+  },
+  "body": {
+    "es": "<p><strong>Château Gazin</strong> es el vino principal de esta propiedad de la familia de Bailliencourt dit Courcol, situada en la parte oriental de la meseta de <strong>Pomerol</strong>, junto a algunos de los viñedos más famosos de la denominación.</p><p>Se elabora mayoritariamente con <strong>Merlot</strong>, completado con pequeñas proporciones de <strong>Cabernet Sauvignon</strong> y <strong>Cabernet Franc</strong>, procedentes de suelos de arcilla y grava con subsuelo ferruginoso. Las uvas se vendimian a mano y se seleccionan con rigor; la parte que no se destina al grand vin se emplea en el segundo vino, L’Hospitalet de Gazin. El vino se cría en barricas de roble, en parte nuevas.</p><p>Es un Pomerol generoso y carnoso, con fruta negra madura, notas de especias y cacao y una estructura firme que le da buena capacidad de guarda. Con los años sus taninos se redondean y aparecen matices de trufa y cuero. Se aprecia mejor tras varios años de botella, aunque su riqueza frutal lo hace agradable relativamente pronto.</p>",
+    "en": "<p><strong>Château Gazin</strong> is the main wine of this de Bailliencourt dit Courcol family estate, located on the eastern part of the <strong>Pomerol</strong> plateau, beside some of the appellation’s most famous vineyards.</p><p>It is made mostly from <strong>Merlot</strong>, completed with small proportions of <strong>Cabernet Sauvignon</strong> and <strong>Cabernet Franc</strong>, from clay and gravel soils with an iron-rich subsoil. The grapes are hand-harvested and strictly selected; what is not used for the grand vin goes into the second wine, L’Hospitalet de Gazin. The wine is aged in oak barrels, partly new.</p><p>It is a generous, fleshy Pomerol, with ripe dark fruit, spice and cocoa notes and a firm structure that gives it good ageing potential. Over the years its tannins round out and nuances of truffle and leather appear. It shows best after several years in bottle, although its fruit richness makes it enjoyable relatively early.</p>",
+    "fr": "<p><strong>Château Gazin</strong> est le vin principal de cette propriété de la famille de Bailliencourt dit Courcol, située sur la partie orientale du plateau de <strong>Pomerol</strong>, à côté de certains des vignobles les plus célèbres de l’appellation.</p><p>Il est issu majoritairement de <strong>merlot</strong>, complété par de petites proportions de <strong>cabernet-sauvignon</strong> et de <strong>cabernet franc</strong>, provenant de sols d’argile et de graves au sous-sol ferrugineux. Les raisins sont vendangés à la main et sélectionnés avec rigueur ; ce qui n’entre pas dans le grand vin sert au second vin, L’Hospitalet de Gazin. Le vin est élevé en barriques de chêne, en partie neuves.</p><p>C’est un Pomerol généreux et charnu, aux fruits noirs mûrs, aux notes d’épices et de cacao, doté d’une structure ferme qui lui assure une bonne garde. Avec les années, ses tanins s’arrondissent et des nuances de truffe et de cuir apparaissent. Il s’apprécie mieux après plusieurs années de bouteille, même si la richesse de son fruit le rend agréable assez tôt.</p>",
+    "it": "<p><strong>Château Gazin</strong> è il vino principale di questa proprietà della famiglia de Bailliencourt dit Courcol, situata nella parte orientale dell’altopiano di <strong>Pomerol</strong>, accanto ad alcuni dei vigneti più famosi della denominazione.</p><p>È prodotto in prevalenza con <strong>Merlot</strong>, completato da piccole quote di <strong>Cabernet Sauvignon</strong> e <strong>Cabernet Franc</strong>, da suoli di argilla e ghiaia con sottosuolo ferroso. Le uve sono vendemmiate a mano e selezionate con rigore; ciò che non entra nel grand vin è destinato al secondo vino, L’Hospitalet de Gazin. Il vino affina in barrique di rovere, in parte nuove.</p><p>È un Pomerol generoso e polposo, con frutta nera matura, note di spezie e cacao e una struttura decisa che gli garantisce una buona longevità. Con gli anni i tannini si arrotondano e compaiono sfumature di tartufo e cuoio. Si apprezza al meglio dopo diversi anni di bottiglia, anche se la ricchezza del frutto lo rende piacevole relativamente presto.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota oscuro. Aromas de ciruela, mora, cacao y especias dulces. Boca carnosa y firme, de taninos densos y final largo.",
+    "en": "Dark crimson. Aromas of plum, blackberry, cocoa and sweet spice. Fleshy, firm palate with dense tannins and a long finish.",
+    "fr": "Rouge sombre. Arômes de prune, de mûre, de cacao et d’épices douces. Bouche charnue et ferme, aux tanins denses et à la finale longue.",
+    "it": "Rosso scuro. Aromi di prugna, mora, cacao e spezie dolci. Bocca polposa e decisa, dai tannini densi e dal finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, carnes rojas, pato, setas, trufa, quesos curados",
+    "en": "Roast lamb, red meat, duck, mushrooms, truffle, aged cheeses",
+    "fr": "Agneau rôti, viandes rouges, canard, champignons, truffe, fromages affinés",
+    "it": "Agnello arrosto, carni rosse, anatra, funghi, tartufo, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Château Gazin Pomerol"
+}

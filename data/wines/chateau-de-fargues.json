@@ -1,0 +1,49 @@
+{
+  "slug": "chateau-de-fargues",
+  "name": "Château de Fargues",
+  "winery": "chateau-de-fargues",
+  "region": "sauternes",
+  "country": "francia",
+  "type": "dulce",
+  "category": {
+    "es": "Sauternes",
+    "en": "Sauternes",
+    "fr": "Sauternes",
+    "it": "Sauternes"
+  },
+  "grapes": [
+    "semillon",
+    "sauvignon-blanc"
+  ],
+  "summary": {
+    "es": "Sauternes de la familia Lur-Saluces, elaborado con Sémillon y Sauvignon Blanc botritizados, rico, equilibrado y de larga guarda.",
+    "en": "Sauternes from the Lur-Saluces family, made from botrytised Sémillon and Sauvignon Blanc, rich, balanced and long-lived.",
+    "fr": "Sauternes de la famille de Lur-Saluces, issu de sémillon et de sauvignon blanc botrytisés, riche, équilibré et de longue garde.",
+    "it": "Sauternes della famiglia Lur-Saluces, prodotto con Sémillon e Sauvignon Blanc botritizzati, ricco, equilibrato e longevo."
+  },
+  "body": {
+    "es": "<p>El vino de <strong>Château de Fargues</strong> procede de la propiedad de la familia Lur-Saluces en la comuna de Fargues, dentro de la denominación <strong>Sauternes</strong>. Aunque no figura en la clasificación de 1855, se elabora con un nivel de exigencia comparable al de los grandes crus de la zona.</p><p>Se basa en el <strong>Sémillon</strong>, que aporta riqueza y textura, completado con <strong>Sauvignon Blanc</strong>, que da frescor y aromas. Las nieblas otoñales que genera el encuentro del Ciron y el Garona favorecen la <em>Botrytis cinerea</em>, la podredumbre noble que concentra los azúcares. La vendimia se hace a mano en pasadas sucesivas, y la fermentación y la crianza tienen lugar en barricas de roble durante un largo periodo.</p><p>Es un Sauternes untuoso y complejo, con una acidez que equilibra su dulzor. Joven muestra fruta confitada y notas de vainilla; con los años desarrolla matices de azafrán, miel, frutos secos y naranja amarga.</p>",
+    "en": "<p>The wine of <strong>Château de Fargues</strong> comes from the Lur-Saluces family estate in the commune of Fargues, within the <strong>Sauternes</strong> appellation. Although it is not included in the 1855 classification, it is made to a standard comparable to that of the area's great growths.</p><p>It is based on <strong>Sémillon</strong>, which brings richness and texture, completed with <strong>Sauvignon Blanc</strong>, which adds freshness and aroma. The autumn mists created where the Ciron meets the Garonne favour <em>Botrytis cinerea</em>, the noble rot that concentrates the sugars. Harvesting is done by hand in successive passes, and fermentation and ageing take place in oak barrels over a long period.</p><p>It is an unctuous, complex Sauternes with acidity that balances its sweetness. Young, it shows candied fruit and vanilla notes; over the years it develops hints of saffron, honey, nuts and bitter orange.</p>",
+    "fr": "<p>Le vin du <strong>Château de Fargues</strong> provient de la propriété de la famille de Lur-Saluces sur la commune de Fargues, dans l'appellation <strong>sauternes</strong>. Bien qu'il ne figure pas au classement de 1855, il est élaboré avec un niveau d'exigence comparable à celui des grands crus du secteur.</p><p>Il repose sur le <strong>sémillon</strong>, qui apporte richesse et texture, complété de <strong>sauvignon blanc</strong>, qui donne fraîcheur et arômes. Les brumes automnales nées de la rencontre du Ciron et de la Garonne favorisent le <em>Botrytis cinerea</em>, la pourriture noble qui concentre les sucres. Les vendanges se font à la main par tries successives, et la fermentation comme l'élevage ont lieu en barriques de chêne pendant une longue période.</p><p>C'est un sauternes onctueux et complexe, dont l'acidité équilibre la douceur. Jeune, il montre des fruits confits et des notes de vanille ; avec les années, il développe des nuances de safran, de miel, de fruits secs et d'orange amère.</p>",
+    "it": "<p>Il vino di <strong>Château de Fargues</strong> proviene dalla tenuta della famiglia Lur-Saluces nel comune di Fargues, nella denominazione <strong>Sauternes</strong>. Pur non figurando nella classificazione del 1855, è prodotto con un livello di rigore paragonabile a quello dei grandi cru della zona.</p><p>Si basa sul <strong>Sémillon</strong>, che apporta ricchezza e struttura, completato dal <strong>Sauvignon Blanc</strong>, che dà freschezza e aromi. Le nebbie autunnali create dall'incontro tra il Ciron e la Garonna favoriscono la <em>Botrytis cinerea</em>, la muffa nobile che concentra gli zuccheri. La vendemmia si fa a mano in passaggi successivi, e fermentazione e affinamento avvengono in barrique di rovere per un lungo periodo.</p><p>È un Sauternes untuoso e complesso, con un'acidità che equilibra la dolcezza. Giovane mostra frutta candita e note di vaniglia; con gli anni sviluppa sfumature di zafferano, miele, frutta secca e arancia amara.</p>"
+  },
+  "tasting": {
+    "es": "Dorado intenso. Aromas de albaricoque confitado, miel, piña, azafrán y vainilla. Boca untuosa, equilibrada por la acidez, de final muy largo.",
+    "en": "Deep gold. Aromas of candied apricot, honey, pineapple, saffron and vanilla. Unctuous palate balanced by acidity, with a very long finish.",
+    "fr": "Or intense. Arômes d'abricot confit, de miel, d'ananas, de safran et de vanille. Bouche onctueuse, équilibrée par l'acidité, finale très longue.",
+    "it": "Oro intenso. Aromi di albicocca candita, miele, ananas, zafferano e vaniglia. Bocca untuosa, equilibrata dall'acidità, finale lunghissimo."
+  },
+  "pairing": {
+    "es": "Foie gras, roquefort, ave en salsa, postres de frutas o almendra",
+    "en": "Foie gras, Roquefort, poultry in sauce, fruit or almond desserts",
+    "fr": "Foie gras, roquefort, volaille en sauce, desserts aux fruits ou aux amandes",
+    "it": "Foie gras, roquefort, pollame in salsa, dessert alla frutta o alle mandorle"
+  },
+  "serve": {
+    "es": "8-10 °C, copa pequeña de vino dulce",
+    "en": "8-10 °C, small dessert wine glass",
+    "fr": "8-10 °C, petit verre à vin liquoreux",
+    "it": "8-10 °C, calice piccolo da vino dolce"
+  },
+  "search": "Château de Fargues Sauternes"
+}

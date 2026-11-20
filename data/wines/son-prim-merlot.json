@@ -1,0 +1,42 @@
+{
+  "slug": "son-prim-merlot",
+  "name": "Son Prim Merlot",
+  "winery": null,
+  "winery_name": "Son Prim",
+  "region": null,
+  "country": "espana",
+  "appellation": "VT Mallorca",
+  "type": "tinto",
+  "category": null,
+  "grapes": [
+    "merlot"
+  ],
+  "summary": {
+    "es": "Son Prim Merlot es un vino tinto de Son Prim, con la denominación VT Mallorca, en España.",
+    "en": "Son Prim Merlot is a red wine from Son Prim, made under the VT Mallorca appellation in Spain.",
+    "fr": "Son Prim Merlot est un vin rouge de Son Prim, élaboré sous l’appellation VT Mallorca (Espagne).",
+    "it": "Son Prim Merlot è un vino rosso di Son Prim, prodotto nella denominazione VT Mallorca (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Merlot. Tiene crianza en madera. Su graduación es de 15 % vol.</p>",
+    "en": "<p>It is made from Merlot. It is aged in wood. It has 15% ABV.</p>",
+    "fr": "<p>Il est élaboré à partir de Merlot. Il est élevé en bois. Il titre 15 % vol.</p>",
+    "it": "<p>È prodotto con Merlot. È affinato in legno. Ha 15% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Carnes rojas, asados, guisos, quesos curados",
+    "en": "Red meat, roasts, stews, aged cheeses",
+    "fr": "Viandes rouges, rôtis, plats mijotés, fromages affinés",
+    "it": "Carni rosse, arrosti, stufati, formaggi stagionati"
+  },
+  "serve": {
+    "es": "15-18 °C, copa amplia",
+    "en": "15-18 °C, large glass",
+    "fr": "15-18 °C, verre ample",
+    "it": "15-18 °C, calice ampio"
+  },
+  "search": "Son Prim Merlot Son Prim",
+  "brief": true,
+  "source": "decantalo"
+}

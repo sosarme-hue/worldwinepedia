@@ -1,0 +1,48 @@
+{
+  "slug": "guigal-hermitage-rouge",
+  "name": "Hermitage Rouge",
+  "winery": "e-guigal",
+  "region": "hermitage",
+  "country": "francia",
+  "type": "tinto",
+  "category": {
+    "es": "Hermitage",
+    "en": "Hermitage",
+    "fr": "Hermitage",
+    "it": "Hermitage"
+  },
+  "grapes": [
+    "syrah"
+  ],
+  "summary": {
+    "es": "Hermitage tinto de E. Guigal, elaborado con Syrah de la célebre colina de granito que domina Tain-l’Hermitage y criado largamente en roble.",
+    "en": "Red Hermitage from E. Guigal, made from Syrah grown on the famous granite hill above Tain-l’Hermitage and given long oak ageing.",
+    "fr": "Hermitage rouge d’E. Guigal, élaboré avec la syrah de la célèbre colline granitique qui domine Tain-l’Hermitage et longuement élevé en chêne.",
+    "it": "Hermitage rosso di E. Guigal, prodotto con Syrah della celebre collina granitica che domina Tain-l’Hermitage e a lungo affinato in rovere."
+  },
+  "body": {
+    "es": "<p>La colina de <strong>Hermitage</strong>, orientada al sur sobre el Ródano en Tain-l’Hermitage, es una de las denominaciones más prestigiosas de Francia. Sus parcelas combinan granito en la parte occidental con suelos de aluviones, loess y cantos rodados en otras zonas, y la tradición local ha valorado siempre la mezcla de varios lugares para lograr un vino completo.</p><p>El Hermitage tinto de Guigal sigue esa lógica de ensamblaje y se elabora con <strong>Syrah</strong> procedente de distintas parcelas de la colina. Como en los grandes tintos de la casa, la crianza en barrica de roble es larga, de varios años, antes del embotellado.</p><p>El resultado es un tinto de cuerpo amplio y estructura firme, con fruta negra madura, especias y notas ahumadas y minerales que se van integrando con el tiempo. Es un vino concebido para la guarda, que suele necesitar algunos años en botella para mostrar toda su complejidad y que conviene decantar si se abre joven.</p>",
+    "en": "<p>The hill of <strong>Hermitage</strong>, facing south above the Rhône at Tain-l’Hermitage, is one of the most prestigious appellations in France. Its plots combine granite in the western part with alluvial soils, loess and rounded stones elsewhere, and local tradition has always valued blending several sites to achieve a complete wine.</p><p>Guigal’s red Hermitage follows that blending logic and is made from <strong>Syrah</strong> from different plots on the hill. As with the house’s great reds, oak barrel ageing is long, lasting several years before bottling.</p><p>The result is a full-bodied red with firm structure, ripe dark fruit, spice and smoky, mineral notes that integrate over time. It is a wine designed for cellaring, which usually needs some years in bottle to show its full complexity and is best decanted if opened young.</p>",
+    "fr": "<p>La colline de l’<strong>Hermitage</strong>, exposée au sud au-dessus du Rhône à Tain-l’Hermitage, est l’une des appellations les plus prestigieuses de France. Ses parcelles associent le granite dans la partie occidentale à des sols d’alluvions, de lœss et de galets ailleurs, et la tradition locale a toujours privilégié l’assemblage de plusieurs lieux pour obtenir un vin complet.</p><p>L’Hermitage rouge de Guigal suit cette logique d’assemblage et est élaboré avec de la <strong>syrah</strong> issue de différentes parcelles de la colline. Comme pour les grands rouges de la maison, l’élevage en fût de chêne est long et dure plusieurs années avant la mise en bouteille.</p><p>Il en résulte un rouge ample à la structure ferme, aux fruits noirs mûrs, aux épices et aux notes fumées et minérales qui s’intègrent avec le temps. C’est un vin de garde, qui demande généralement quelques années en bouteille pour révéler toute sa complexité et qu’il est préférable de carafer s’il est ouvert jeune.</p>",
+    "it": "<p>La collina dell’<strong>Hermitage</strong>, esposta a sud sopra il Rodano a Tain-l’Hermitage, è una delle denominazioni più prestigiose di Francia. Le sue parcelle uniscono il granito nella parte occidentale a suoli alluvionali, di loess e ciottoli in altre zone, e la tradizione locale ha sempre valorizzato l’assemblaggio di diversi luoghi per ottenere un vino completo.</p><p>L’Hermitage rosso di Guigal segue questa logica di assemblaggio ed è prodotto con <strong>Syrah</strong> proveniente da diverse parcelle della collina. Come per i grandi rossi della casa, l’affinamento in botti di rovere è lungo e dura diversi anni prima dell’imbottigliamento.</p><p>Il risultato è un rosso di corpo pieno e struttura salda, con frutto nero maturo, spezie e note affumicate e minerali che si integrano col tempo. È un vino pensato per l’invecchiamento, che di solito richiede alcuni anni in bottiglia per esprimere tutta la sua complessità e che conviene decantare se aperto giovane.</p>"
+  },
+  "tasting": {
+    "es": "Rojo oscuro casi opaco. Aromas de mora, ciruela, regaliz, pimienta, cuero y notas ahumadas. Boca potente y estructurada, con taninos densos y final largo.",
+    "en": "Dark, almost opaque red. Aromas of blackberry, plum, liquorice, pepper, leather and smoky notes. Powerful, structured palate with dense tannins and a long finish.",
+    "fr": "Rouge sombre presque opaque. Arômes de mûre, de prune, de réglisse, de poivre, de cuir et notes fumées. Bouche puissante et structurée, aux tanins denses et à la finale longue.",
+    "it": "Rosso scuro quasi impenetrabile. Aromi di mora, prugna, liquirizia, pepe, cuoio e note affumicate. Bocca potente e strutturata, con tannini fitti e finale lungo."
+  },
+  "pairing": {
+    "es": "Caza mayor, cordero asado, buey estofado, platos con trufa, quesos curados",
+    "en": "Large game, roast lamb, braised beef, truffle dishes, aged cheeses",
+    "fr": "Gros gibier, agneau rôti, bœuf braisé, plats truffés, fromages affinés",
+    "it": "Selvaggina di grossa taglia, agnello arrosto, manzo brasato, piatti al tartufo, formaggi stagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Hermitage Rouge E. Guigal"
+}

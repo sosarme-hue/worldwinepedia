@@ -1,0 +1,50 @@
+{
+  "slug": "gramona-imperial",
+  "name": "Gramona Imperial",
+  "winery": "gramona",
+  "region": "penedes",
+  "country": "espana",
+  "type": "espumoso",
+  "category": {
+    "es": "Brut",
+    "en": "Brut",
+    "fr": "Brut",
+    "it": "Brut"
+  },
+  "grapes": [
+    "xarel-lo",
+    "macabeo",
+    "chardonnay"
+  ],
+  "summary": {
+    "es": "Espumoso de larga crianza de Gramona, basado en xarel·lo y macabeo con aporte de chardonnay, de perfil gastronómico y una de las etiquetas más difundidas de la casa.",
+    "en": "Long-aged sparkling wine from Gramona, based on Xarel·lo and Macabeo with some Chardonnay, food-friendly in style and one of the house's most widely available labels.",
+    "fr": "Effervescent à long vieillissement de Gramona, fondé sur le xarel·lo et le macabeu avec un apport de chardonnay, de profil gastronomique et l'une des cuvées les plus diffusées de la maison.",
+    "it": "Spumante a lungo affinamento di Gramona, a base di Xarel·lo e Macabeo con un apporto di Chardonnay, dal profilo gastronomico e tra le etichette più diffuse della casa."
+  },
+  "body": {
+    "es": "<p>Imperial es uno de los espumosos clásicos de Gramona y uno de los más fáciles de encontrar de la casa. Se elabora con <strong>xarel·lo</strong> y <strong>macabeo</strong>, las variedades tradicionales del Penedès, con una pequeña parte de <strong>chardonnay</strong>.</p><p>Sigue el método tradicional, con segunda fermentación en botella y una crianza prolongada sobre lías, de varios años, que le da complejidad y una burbuja fina e integrada. A diferencia de los Brut Nature de la casa, recibe una dosificación moderada de licor de expedición, lo que redondea su paso por boca y lo hace especialmente versátil en la mesa. Desde la salida de Gramona de la D.O. Cava en 2019, se comercializa bajo la marca colectiva <strong>Corpinnat</strong>.</p><p>Conviene conservarlo tumbado, en un lugar fresco y oscuro, y servirlo bien frío, sin llegar a helarlo, para apreciar su burbuja y su frescura.</p>",
+    "en": "<p>Imperial is one of Gramona's classic sparkling wines and one of the house's easiest to find. It is made from <strong>Xarel·lo</strong> and <strong>Macabeo</strong>, Penedès's traditional varieties, with a small share of <strong>Chardonnay</strong>.</p><p>It follows the traditional method, with a second fermentation in bottle and extended ageing on the lees for several years, which brings complexity and fine, integrated bubbles. Unlike the house's Brut Nature wines, it receives a moderate dosage, which rounds out the palate and makes it particularly versatile at the table. Since Gramona left the Cava D.O. in 2019, it has been sold under the <strong>Corpinnat</strong> collective brand.</p><p>It should be stored lying down in a cool, dark place and served well chilled, but not ice-cold, to appreciate its bubbles and freshness.</p>",
+    "fr": "<p>Imperial est l'un des effervescents classiques de Gramona et l'un des plus faciles à trouver de la maison. Il est élaboré avec du <strong>xarel·lo</strong> et du <strong>macabeu</strong>, cépages traditionnels du Penedès, avec une petite part de <strong>chardonnay</strong>.</p><p>Il suit la méthode traditionnelle, avec seconde fermentation en bouteille et un long élevage sur lies de plusieurs années, qui lui apporte complexité et bulles fines et intégrées. Contrairement aux Brut Nature de la maison, il reçoit un dosage modéré de liqueur d'expédition, qui arrondit la bouche et le rend particulièrement polyvalent à table. Depuis la sortie de Gramona de la D.O. Cava en 2019, il est commercialisé sous la marque collective <strong>Corpinnat</strong>.</p><p>Il convient de le conserver couché, dans un endroit frais et obscur, et de le servir bien frais, sans le glacer, pour apprécier ses bulles et sa fraîcheur.</p>",
+    "it": "<p>Imperial è uno degli spumanti classici di Gramona e uno dei più facili da trovare della casa. È prodotto con <strong>Xarel·lo</strong> e <strong>Macabeo</strong>, varietà tradizionali del Penedès, con una piccola quota di <strong>Chardonnay</strong>.</p><p>Segue il metodo classico, con seconda fermentazione in bottiglia e un lungo affinamento sui lieviti di diversi anni, che conferisce complessità e un perlage fine e integrato. A differenza dei Brut Nature della casa, riceve un dosaggio moderato di liqueur d'expédition, che arrotonda il sorso e lo rende particolarmente versatile a tavola. Da quando Gramona ha lasciato la D.O. Cava nel 2019, è commercializzato con il marchio collettivo <strong>Corpinnat</strong>.</p><p>Conviene conservarlo coricato, in un luogo fresco e buio, e servirlo ben freddo, senza ghiacciarlo, per apprezzarne il perlage e la freschezza.</p>"
+  },
+  "tasting": {
+    "es": "Manzana, cítricos maduros, notas de bollería, frutos secos y miel suave. Boca cremosa, burbuja fina y final fresco.",
+    "en": "Apple, ripe citrus, notes of pastry, nuts and light honey. Creamy palate, fine bubbles and a fresh finish.",
+    "fr": "Pomme, agrumes mûrs, notes de viennoiserie, de fruits secs et de miel léger. Bouche crémeuse, bulles fines et finale fraîche.",
+    "it": "Mela, agrumi maturi, note di pasticceria, frutta secca e miele delicato. Bocca cremosa, perlage fine e finale fresco."
+  },
+  "pairing": {
+    "es": "Aperitivos, mariscos, pescados en salsa, aves, quesos suaves",
+    "en": "Appetisers, shellfish, fish in sauce, poultry, mild cheeses",
+    "fr": "Apéritifs, fruits de mer, poissons en sauce, volailles, fromages doux",
+    "it": "Aperitivi, frutti di mare, pesce in salsa, pollame, formaggi delicati"
+  },
+  "serve": {
+    "es": "7-9 °C, copa de vino blanco o tulipa",
+    "en": "7-9 °C, white wine or tulip glass",
+    "fr": "7-9 °C, verre à vin blanc ou tulipe",
+    "it": "7-9 °C, calice da bianco o a tulipano"
+  },
+  "search": "Gramona Imperial Brut"
+}

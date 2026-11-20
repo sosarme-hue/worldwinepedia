@@ -1,0 +1,40 @@
+{
+  "slug": "burmester-tawny-port",
+  "name": "Burmester Tawny Port",
+  "winery": null,
+  "winery_name": "Burmester",
+  "region": "porto",
+  "country": "portugal",
+  "appellation": "Porto",
+  "type": "generoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Burmester Tawny Port es un vino generoso de Burmester, con la denominación Porto, en Portugal.",
+    "en": "Burmester Tawny Port is a fortified wine from Burmester, made under the Porto appellation in Portugal.",
+    "fr": "Burmester Tawny Port est un vin fortifié de Burmester, élaboré sous l’appellation Porto (Portugal).",
+    "it": "Burmester Tawny Port è un vino liquoroso di Burmester, prodotto nella denominazione Porto (Portogallo)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 18,5 % vol.</p><p>La DOC Porto ampara el vino generoso elaborado con uvas del valle del Douro, cuya fermentación se interrumpe con aguardiente vínica. Tradicionalmente se cría en las bodegas o lodges de Vila Nova de Gaia, frente a la ciudad de Oporto.</p>",
+    "en": "<p>It has 18.5% ABV.</p><p>The Porto DOC covers the fortified wine made from Douro valley grapes, whose fermentation is stopped with grape spirit. It is traditionally aged in the lodges of Vila Nova de Gaia, across the river from the city of Porto.</p>",
+    "fr": "<p>Il titre 18,5 % vol.</p><p>La DOC Porto protège le vin muté élaboré avec des raisins de la vallée du Douro, dont la fermentation est arrêtée par l’ajout d’eau-de-vie de vin. Il vieillit traditionnellement dans les chais, ou lodges, de Vila Nova de Gaia, face à la ville de Porto.</p>",
+    "it": "<p>Ha 18,5% vol.</p><p>La DOC Porto tutela il vino fortificato prodotto con uve della valle del Douro, la cui fermentazione viene interrotta con acquavite di vino. Tradizionalmente invecchia nelle cantine, o lodges, di Vila Nova de Gaia, di fronte alla città di Porto.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, jamón, frutos secos, quesos curados",
+    "en": "Aperitif, cured ham, nuts, aged cheeses",
+    "fr": "Apéritif, jambon sec, fruits secs, fromages affinés",
+    "it": "Aperitivo, prosciutto crudo, frutta secca, formaggi stagionati"
+  },
+  "serve": {
+    "es": "7-14 °C según el tipo, catavino",
+    "en": "7-14 °C depending on style, copita glass",
+    "fr": "7-14 °C selon le style, verre à xérès",
+    "it": "7-14 °C secondo lo stile, bicchiere da sherry"
+  },
+  "search": "Burmester Tawny Port Burmester",
+  "brief": true,
+  "source": "decantalo"
+}

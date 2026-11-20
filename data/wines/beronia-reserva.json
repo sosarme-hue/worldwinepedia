@@ -1,0 +1,50 @@
+{
+  "slug": "beronia-reserva",
+  "name": "Beronia Reserva",
+  "winery": "beronia",
+  "region": "rioja",
+  "country": "espana",
+  "type": "tinto",
+  "category": {
+    "es": "Reserva",
+    "en": "Reserva",
+    "fr": "Reserva",
+    "it": "Reserva"
+  },
+  "grapes": [
+    "tempranillo",
+    "graciano",
+    "carinena"
+  ],
+  "summary": {
+    "es": "Reserva de Bodegas Beronia elaborado con Tempranillo y pequeñas proporciones de Graciano y Mazuelo, envejecido al menos tres años entre barrica y botella.",
+    "en": "Reserva from Bodegas Beronia made from Tempranillo with small proportions of Graciano and Mazuelo, aged for at least three years between barrel and bottle.",
+    "fr": "Reserva de Bodegas Beronia élaboré avec du tempranillo et de petites proportions de graciano et de mazuelo, vieilli au moins trois ans entre barrique et bouteille.",
+    "it": "Reserva di Bodegas Beronia prodotto con Tempranillo e piccole percentuali di Graciano e Mazuelo, invecchiato almeno tre anni tra barrique e bottiglia."
+  },
+  "body": {
+    "es": "<p>Beronia Reserva es uno de los vinos que mejor representan el estilo clásico de la bodega de Ollauri. Se elabora con uva de la Rioja Alta, mayoritariamente Tempranillo, completado con Graciano, que aporta frescura y aromas, y Mazuelo (Cariñena), que refuerza la acidez y la estructura. Las proporciones de cada variedad varían según la añada.</p><p>Como establece la normativa de la Denominación de Origen Calificada Rioja para los reservas, el vino envejece un mínimo de tres años, con al menos uno en barrica de roble. Beronia completa la crianza en madera con un periodo de reposo en botella en sus instalaciones, de modo que el vino sale al mercado con los aromas de la madera ya integrados.</p><p>El resultado es un tinto de fruta madura y notas especiadas, con más estructura y complejidad que el Crianza, que puede guardarse varios años en buenas condiciones.</p>",
+    "en": "<p>Beronia Reserva is one of the wines that best represents the classic style of the Ollauri winery. It is made from Rioja Alta grapes, mainly Tempranillo, completed with Graciano, which brings freshness and aroma, and Mazuelo (Carignan), which reinforces acidity and structure. The proportions of each variety vary with the vintage.</p><p>As the rules of the Rioja Denominación de Origen Calificada lay down for Reservas, the wine ages for at least three years, with at least one in oak barrels. Beronia completes the wood ageing with a period of bottle rest at its premises, so that the wine reaches the market with the oak aromas already integrated.</p><p>The result is a red with ripe fruit and spicy notes, with more structure and complexity than the Crianza, which can be kept for several years in good conditions.</p>",
+    "fr": "<p>Beronia Reserva est l’un des vins qui représentent le mieux le style classique de la bodega d’Ollauri. Il est élaboré avec du raisin de la Rioja Alta, majoritairement du tempranillo, complété par le graciano, qui apporte fraîcheur et arômes, et par le mazuelo (carignan), qui renforce acidité et structure. Les proportions de chaque cépage varient selon le millésime.</p><p>Comme le prévoit la réglementation de la Denominación de Origen Calificada Rioja pour les Reserva, le vin vieillit au moins trois ans, dont un minimum d’un an en barrique de chêne. Beronia complète l’élevage sous bois par une période de repos en bouteille dans ses installations, de sorte que le vin arrive sur le marché avec des arômes boisés déjà intégrés.</p><p>Il en résulte un rouge au fruit mûr et aux notes épicées, plus structuré et plus complexe que le Crianza, qui peut se garder plusieurs années dans de bonnes conditions.</p>",
+    "it": "<p>Beronia Reserva è uno dei vini che meglio rappresentano lo stile classico della cantina di Ollauri. È prodotto con uve della Rioja Alta, in maggioranza Tempranillo, completato dal Graciano, che apporta freschezza e aromi, e dal Mazuelo (Carignano), che rafforza acidità e struttura. Le proporzioni di ciascun vitigno variano a seconda dell’annata.</p><p>Come stabilisce la normativa della Denominación de Origen Calificada Rioja per i Reserva, il vino invecchia almeno tre anni, di cui almeno uno in barrique di rovere. Beronia completa l’affinamento in legno con un periodo di riposo in bottiglia nelle proprie cantine, così che il vino arriva sul mercato con gli aromi del legno già integrati.</p><p>Il risultato è un rosso dal frutto maturo e dalle note speziate, più strutturato e complesso del Crianza, che si può conservare per diversi anni in buone condizioni.</p>"
+  },
+  "tasting": {
+    "es": "Rojo picota con ribete teja. Fruta negra madura, especias dulces, vainilla y notas tostadas. En boca es amplio, con taninos pulidos y final largo.",
+    "en": "Deep cherry red with a brick rim. Ripe black fruit, sweet spice, vanilla and toasty notes. Broad on the palate, with polished tannins and a long finish.",
+    "fr": "Rouge cerise burlat à reflets tuilés. Fruits noirs mûrs, épices douces, vanille et notes toastées. Ample en bouche, aux tanins polis et à la finale longue.",
+    "it": "Rosso ciliegia con unghia mattone. Frutta nera matura, spezie dolci, vaniglia e note tostate. In bocca è ampio, con tannini levigati e finale lungo."
+  },
+  "pairing": {
+    "es": "Cordero asado, chuletillas a la brasa, embutidos ibéricos, quesos semicurados",
+    "en": "Roast lamb, grilled lamb chops, Iberian cured meats, semi-cured cheeses",
+    "fr": "Agneau rôti, côtelettes grillées, charcuterie ibérique, fromages mi-affinés",
+    "it": "Agnello arrosto, costolette alla brace, salumi iberici, formaggi semistagionati"
+  },
+  "serve": {
+    "es": "16-18 °C, copa amplia",
+    "en": "16-18 °C, large glass",
+    "fr": "16-18 °C, verre ample",
+    "it": "16-18 °C, calice ampio"
+  },
+  "search": "Beronia Reserva Rioja"
+}

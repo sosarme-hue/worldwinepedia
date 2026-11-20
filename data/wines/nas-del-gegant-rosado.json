@@ -1,0 +1,42 @@
+{
+  "slug": "nas-del-gegant-rosado",
+  "name": "Nas del Gegant Rosado",
+  "winery": null,
+  "winery_name": "Escoda Sanahuja",
+  "region": "conca-de-barbera",
+  "country": "espana",
+  "appellation": "DO Conca de Barberà",
+  "type": "rosado",
+  "category": null,
+  "grapes": [
+    "garnacha"
+  ],
+  "summary": {
+    "es": "Nas del Gegant Rosado es un vino rosado de Escoda Sanahuja, con la denominación DO Conca de Barberà, en España.",
+    "en": "Nas del Gegant Rosado is a rosé wine from Escoda Sanahuja, made under the DO Conca de Barberà appellation in Spain.",
+    "fr": "Nas del Gegant Rosado est un vin rosé de Escoda Sanahuja, élaboré sous l’appellation DO Conca de Barberà (Espagne).",
+    "it": "Nas del Gegant Rosado è un vino rosato di Escoda Sanahuja, prodotto nella denominazione DO Conca de Barberà (Spagna)."
+  },
+  "body": {
+    "es": "<p>Se elabora con Garnacha. Es un vino joven, pensado para beber en sus primeros años. Su graduación es de 13,5 % vol.</p><p>Conca de Barberà es una denominación de origen catalana situada en el interior de la provincia de Tarragona, en torno a Montblanc y al monasterio de Poblet. Es conocida por su variedad autóctona Trepat, con la que se elaboran rosados y tintos ligeros, y por sus uvas blancas destinadas en buena parte al cava.</p>",
+    "en": "<p>It is made from Grenache. It is a young wine, meant to be drunk in its first years. It has 13.5% ABV.</p><p>Conca de Barberà is a Catalan designation of origin in the interior of the province of Tarragona, around Montblanc and the monastery of Poblet. It is known for its native Trepat grape, used for rosés and light reds, and for its white grapes, a large share of which go into cava.</p>",
+    "fr": "<p>Il est élaboré à partir de Grenache. C’est un vin jeune, à boire dans ses premières années. Il titre 13,5 % vol.</p><p>Conca de Barberà est une dénomination d'origine catalane située à l'intérieur de la province de Tarragone, autour de Montblanc et du monastère de Poblet. Elle est connue pour son cépage autochtone, le trepat, dont on tire des rosés et des rouges légers, et pour ses raisins blancs, destinés en bonne partie au cava.</p>",
+    "it": "<p>È prodotto con Grenache. È un vino giovane, da bere nei primi anni. Ha 13,5% vol.</p><p>Conca de Barberà è una denominazione di origine catalana situata nell'interno della provincia di Tarragona, intorno a Montblanc e al monastero di Poblet. È nota per il suo vitigno autoctono Trepat, da cui si ottengono rosati e rossi leggeri, e per le sue uve bianche, destinate in buona parte al cava.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, ensaladas, arroces, pescados",
+    "en": "Aperitif, salads, rice dishes, fish",
+    "fr": "Apéritif, salades, plats de riz, poissons",
+    "it": "Aperitivo, insalate, risotti, pesce"
+  },
+  "serve": {
+    "es": "8-10 °C, copa de vino blanco",
+    "en": "8-10 °C, white wine glass",
+    "fr": "8-10 °C, verre à vin blanc",
+    "it": "8-10 °C, calice da vino bianco"
+  },
+  "search": "Nas del Gegant Rosado Escoda Sanahuja",
+  "brief": true,
+  "source": "decantalo"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "llopart-brut-rose-reserva",
+  "name": "Llopart Brut Rosé Reserva",
+  "winery": null,
+  "winery_name": "Llopart",
+  "region": null,
+  "country": "espana",
+  "appellation": null,
+  "type": "espumoso",
+  "category": null,
+  "grapes": [],
+  "summary": {
+    "es": "Llopart Brut Rosé Reserva es un vino espumoso de Llopart, en España.",
+    "en": "Llopart Brut Rosé Reserva is a sparkling wine from Llopart in Spain.",
+    "fr": "Llopart Brut Rosé Reserva est un vin effervescent de Llopart (Espagne).",
+    "it": "Llopart Brut Rosé Reserva è un vino spumante di Llopart (Spagna)."
+  },
+  "body": {
+    "es": "<p>Su graduación es de 11,5 % vol.</p>",
+    "en": "<p>It has 11.5% ABV.</p>",
+    "fr": "<p>Il titre 11,5 % vol.</p>",
+    "it": "<p>Ha 11,5% vol.</p>"
+  },
+  "tasting": null,
+  "pairing": {
+    "es": "Aperitivo, mariscos, fritos, pescados",
+    "en": "Aperitif, shellfish, fried food, fish",
+    "fr": "Apéritif, fruits de mer, fritures, poissons",
+    "it": "Aperitivo, frutti di mare, fritture, pesce"
+  },
+  "serve": {
+    "es": "6-8 °C, copa de espumoso",
+    "en": "6-8 °C, sparkling wine glass",
+    "fr": "6-8 °C, verre à vin effervescent",
+    "it": "6-8 °C, calice da spumante"
+  },
+  "search": "Llopart Brut Rosé Reserva Llopart",
+  "brief": true,
+  "source": "decantalo"
+}
