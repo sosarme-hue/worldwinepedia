@@ -28,7 +28,15 @@
     ship = v; set('wwp-ship', v);
     selects.forEach(function (s) { s.value = v; });
     renderBuy();
+    shipOnly();
   }
+  // Cajas que solo se muestran para ciertos países de envío (p. ej. Coravin, solo EE. UU.)
+  function shipOnly() {
+    document.querySelectorAll('[data-ship-only]').forEach(function (el) {
+      el.hidden = el.getAttribute('data-ship-only').split(',').indexOf(ship) < 0;
+    });
+  }
+  shipOnly();
   selects.forEach(function (s) { s.value = ship; s.addEventListener('change', function () { setShip(s.value); }); });
 
   // ---- Buy box ----
