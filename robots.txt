@@ -1,4 +1,8 @@
 User-agent: *
 Allow: /
+Disallow: /dist/
+Disallow: /tools/
+Disallow: /_blog/
+
 Sitemap: https://worldwinepedia.com/sitemap.xml
 Sitemap: https://worldwinepedia.com/sitemap-blog.xml

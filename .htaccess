@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www\.worldwinepedia\.com$ [NC]
+RewriteRule ^(.*)$ https://worldwinepedia.com/$1 [R=301,L]

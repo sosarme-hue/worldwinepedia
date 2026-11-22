@@ -132,15 +132,16 @@
   }
 })();
 
-/* Google Analytics (G-JQJP65WZSJ) con modo de consentimiento: todo denegado por defecto; gtag.js solo se carga si se aceptan «Estadísticas» (2026-11-08) */
+/* Google Analytics (G-JQJP65WZSJ) en modo de consentimiento avanzado (2026-11-22): gtag.js se carga siempre con todo denegado
+   por defecto, así que sin permiso solo envía avisos sin cookies; si se aceptan «Estadísticas» pasa a analytics_storage granted. */
 window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
 gtag('consent','default',{analytics_storage:'denied',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied'});
 (function(){
   var ID='G-JQJP65WZSJ';
-  function cargar(){if(window.gaCargado)return;window.gaCargado=true;gtag('consent','update',{analytics_storage:'granted'});
-    var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id='+ID;document.head.appendChild(s);gtag('js',new Date());gtag('config',ID);}
-  function borrar(){document.cookie.split(';').forEach(function(c){var n=c.split('=')[0].trim();if(/^_ga/.test(n))['','.worldwinepedia.com','worldwinepedia.com'].forEach(function(d){document.cookie=n+'=;expires=Thu, 01 Jan 1970 00:00:00 GMT;path=/'+(d?';domain='+d:'');});});}
   try{var v=JSON.parse(localStorage.getItem('aviso-cookies'));if(v&&v.v===2&&v.estadisticas&&Date.now()-v.d<365*864e5)cargar();}catch(e){}
+  var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id='+ID;document.head.appendChild(s);gtag('js',new Date());gtag('config',ID);
+  function cargar(){if(window.gaCargado)return;window.gaCargado=true;gtag('consent','update',{analytics_storage:'granted'});}
+  function borrar(){document.cookie.split(';').forEach(function(c){var n=c.split('=')[0].trim();if(/^_ga/.test(n))['','.worldwinepedia.com','worldwinepedia.com'].forEach(function(d){document.cookie=n+'=;expires=Thu, 01 Jan 1970 00:00:00 GMT;path=/'+(d?';domain='+d:'');});});}
   document.addEventListener('avisocookies',function(e){if(e.detail&&e.detail.estadisticas)cargar();else{if(window.gaCargado)gtag('consent','update',{analytics_storage:'denied'});borrar();}});
 })();
 /* Aviso de cookies: versión 2 (desde que se usa Google Analytics, se vuelve a preguntar a todos) */
