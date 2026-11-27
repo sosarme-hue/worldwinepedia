@@ -1,0 +1,58 @@
+{
+"slug": "barossa-valley",
+"group": "mundo",
+"region": "barossa-valley",
+"more_regions": [
+"eden-valley",
+"mclaren-vale"
+],
+"country": "australia",
+"name": {
+"es": "Barossa",
+"en": "Barossa",
+"fr": "Barossa",
+"it": "Barossa"
+},
+"kicker": {
+"es": "Australia · Australia Meridional",
+"en": "Australia · South Australia",
+"fr": "Australie · Australie-Méridionale",
+"it": "Australia · Australia Meridionale"
+},
+"summary": {
+"es": "Viñas viejas de shiraz, herencia de colonos silesios y alemanes, y algunas de las bodegas familiares más antiguas de Australia.",
+"en": "Old Shiraz vines, the legacy of Silesian and German settlers and some of Australia's oldest family wineries.",
+"fr": "De vieilles vignes de shiraz, l'héritage de colons silésiens et allemands et certains des plus anciens domaines familiaux d'Australie.",
+"it": "Vecchie vigne di shiraz, l'eredità di coloni slesiani e tedeschi e alcune delle cantine di famiglia più antiche dell'Australia."
+},
+"body": {
+"es": "<p>A una hora de Adelaida, el valle de Barossa fue colonizado en la década de 1840 por inmigrantes llegados de Silesia y de otras regiones de habla alemana, que dejaron su huella en las iglesias luteranas, las panaderías y las charcuterías de los pueblos.</p><h2>Viñas viejas</h2><p>Como la filoxera no llegó a Australia Meridional, Barossa conserva viñas de <strong>shiraz</strong>, garnacha y mourvèdre plantadas en el siglo XIX, algunas entre las más antiguas del mundo en producción. Dan los tintos potentes y maduros que hicieron famosa la región.</p><h2>Barossa y Eden Valley</h2><p>Pueblos como <strong>Tanunda</strong>, <strong>Angaston</strong> y <strong>Nuriootpa</strong> concentran bodegas, desde grandes casas históricas hasta pequeños productores. En las colinas más altas y frescas de <strong>Eden Valley</strong> destaca el riesling. Seppeltsfield, con su avenida de palmeras, es una de las imágenes clásicas de la zona.</p>",
+"en": "<p>An hour from Adelaide, the Barossa Valley was settled in the 1840s by immigrants from Silesia and other German-speaking regions, who left their mark on the Lutheran churches, bakeries and butchers of its towns.</p><h2>Old vines</h2><p>As phylloxera never reached South Australia, the Barossa keeps <strong>Shiraz</strong>, Grenache and Mourvèdre vines planted in the nineteenth century, some among the oldest producing vines in the world. They make the powerful, ripe reds that made the region famous.</p><h2>Barossa and Eden Valley</h2><p>Towns such as <strong>Tanunda</strong>, <strong>Angaston</strong> and <strong>Nuriootpa</strong> are full of wineries, from large historic houses to small producers. In the higher, cooler hills of <strong>Eden Valley</strong>, Riesling stands out. Seppeltsfield, with its avenue of palm trees, is one of the area's classic images.</p>",
+"fr": "<p>À une heure d'Adélaïde, la vallée de la Barossa fut colonisée dans les années 1840 par des immigrants de Silésie et d'autres régions germanophones, qui ont marqué de leur empreinte les églises luthériennes, les boulangeries et les charcuteries des villages.</p><h2>Vieilles vignes</h2><p>Le phylloxéra n'ayant jamais atteint l'Australie-Méridionale, la Barossa conserve des vignes de <strong>shiraz</strong>, de grenache et de mourvèdre plantées au XIXe siècle, parmi les plus vieilles encore en production au monde. Elles donnent les rouges puissants et mûrs qui ont fait la réputation de la région.</p><h2>Barossa et Eden Valley</h2><p>Des villages comme <strong>Tanunda</strong>, <strong>Angaston</strong> et <strong>Nuriootpa</strong> regroupent des domaines, des grandes maisons historiques aux petits producteurs. Sur les collines plus hautes et plus fraîches d'<strong>Eden Valley</strong>, le riesling se distingue. Seppeltsfield et son allée de palmiers sont l'une des images classiques de la région.</p>",
+"it": "<p>A un'ora da Adelaide, la valle di Barossa fu colonizzata negli anni Quaranta dell'Ottocento da immigrati della Slesia e di altre regioni di lingua tedesca, che lasciarono il segno nelle chiese luterane, nei forni e nelle macellerie dei paesi.</p><h2>Vigne vecchie</h2><p>Poiché la fillossera non è mai arrivata in Australia Meridionale, Barossa conserva vigne di <strong>shiraz</strong>, grenache e mourvèdre piantate nell'Ottocento, alcune tra le più antiche al mondo ancora in produzione. Danno i rossi potenti e maturi che hanno reso famosa la regione.</p><h2>Barossa ed Eden Valley</h2><p>Paesi come <strong>Tanunda</strong>, <strong>Angaston</strong> e <strong>Nuriootpa</strong> riuniscono cantine, dalle grandi case storiche ai piccoli produttori. Sulle colline più alte e fresche di <strong>Eden Valley</strong> spicca il riesling. Seppeltsfield, con il viale di palme, è una delle immagini classiche della zona.</p>"
+},
+"see": {
+"es": "<ul><li>Tanunda y Angaston.</li><li>Avenida de palmeras de Seppeltsfield.</li><li>Eden Valley.</li></ul>",
+"en": "<ul><li>Tanunda and Angaston.</li><li>Seppeltsfield palm avenue.</li><li>Eden Valley.</li></ul>",
+"fr": "<ul><li>Tanunda et Angaston.</li><li>Allée de palmiers de Seppeltsfield.</li><li>Eden Valley.</li></ul>",
+"it": "<ul><li>Tanunda e Angaston.</li><li>Viale di palme di Seppeltsfield.</li><li>Eden Valley.</li></ul>"
+},
+"season": {
+"es": "De marzo a mayo (vendimia y otoño austral) y en primavera (septiembre-noviembre).",
+"en": "March to May (harvest and southern autumn) and spring (September–November).",
+"fr": "De mars à mai (vendanges et automne austral) et au printemps (septembre-novembre).",
+"it": "Da marzo a maggio (vendemmia e autunno australe) e in primavera (settembre-novembre)."
+},
+"food": {
+"es": "Embutidos y panes de tradición alemana, quesos locales y producto del valle.",
+"en": "German-style smallgoods and breads, local cheeses and valley produce.",
+"fr": "Charcuteries et pains de tradition allemande, fromages locaux et produits de la vallée.",
+"it": "Salumi e pani di tradizione tedesca, formaggi locali e prodotti della valle."
+},
+"tip": {
+"es": "Combina Barossa con McLaren Vale o Adelaide Hills: las tres zonas están cerca de Adelaida.",
+"en": "Combine the Barossa with McLaren Vale or the Adelaide Hills: all three are a short drive from Adelaide.",
+"fr": "Associez la Barossa à McLaren Vale ou aux Adelaide Hills : les trois sont proches d'Adélaïde.",
+"it": "Unisci Barossa a McLaren Vale o alle Adelaide Hills: tutte e tre sono vicine ad Adelaide."
+}
+}

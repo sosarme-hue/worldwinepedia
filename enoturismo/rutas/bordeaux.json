@@ -1,0 +1,59 @@
+{
+"slug": "bordeaux",
+"group": "mundo",
+"region": "bordeaux",
+"more_regions": [
+"medoc",
+"saint-emilion",
+"sauternes"
+],
+"country": "francia",
+"name": {
+"es": "Burdeos",
+"en": "Bordeaux",
+"fr": "Bordeaux",
+"it": "Bordeaux"
+},
+"kicker": {
+"es": "Francia · Médoc, Saint-Émilion, Graves y Sauternes",
+"en": "France · Médoc, Saint-Émilion, Graves and Sauternes",
+"fr": "France · Médoc, Saint-Émilion, Graves et Sauternes",
+"it": "Francia · Médoc, Saint-Émilion, Graves e Sauternes"
+},
+"summary": {
+"es": "La Cité du Vin, la ruta de los châteaux del Médoc y el pueblo medieval de Saint-Émilion, Patrimonio Mundial: el gran clásico del enoturismo.",
+"en": "La Cité du Vin, the château route through the Médoc and the medieval village of Saint-Émilion, a World Heritage site: the great classic of wine tourism.",
+"fr": "La Cité du Vin, la route des châteaux du Médoc et le village médiéval de Saint-Émilion, patrimoine mondial : le grand classique de l'œnotourisme.",
+"it": "La Cité du Vin, la strada dei castelli del Médoc e il borgo medievale di Saint-Émilion, Patrimonio dell'Umanità: il grande classico dell'enoturismo."
+},
+"body": {
+"es": "<p>Burdeos es la ciudad del vino por excelencia. Su centro histórico y sus muelles sobre el Garona, el «Puerto de la Luna», son Patrimonio Mundial, y a orillas del río se alza <strong>La Cité du Vin</strong>, un gran centro cultural dedicado a las culturas del vino de todo el mundo.</p><h2>La orilla izquierda</h2><p>Al norte de la ciudad, la carretera de los châteaux recorre el <strong>Médoc</strong>, con Margaux, Saint-Julien, Pauillac y Saint-Estèphe: grandes propiedades con edificios que van del clasicismo del siglo XVIII a la arquitectura contemporánea. Al sur, las Graves y Pessac-Léognan, y más allá <strong>Sauternes</strong>, donde la podredumbre noble da vinos dulces de larga vida.</p><h2>La orilla derecha</h2><p><strong>Saint-Émilion</strong>, cuya jurisdicción es Patrimonio Mundial desde 1999, es un pueblo de piedra dorada con una iglesia monolítica excavada en la roca y canteras subterráneas que hoy sirven de bodega. Muy cerca está Pomerol, el reino del merlot.</p>",
+"en": "<p>Bordeaux is the wine city par excellence. Its historic centre and quays on the Garonne, the “Port of the Moon”, are a World Heritage site, and on the riverbank stands <strong>La Cité du Vin</strong>, a large cultural centre devoted to the wine cultures of the whole world.</p><h2>The Left Bank</h2><p>North of the city, the château road runs through the <strong>Médoc</strong>, with Margaux, Saint-Julien, Pauillac and Saint-Estèphe: great estates with buildings ranging from eighteenth-century classicism to contemporary architecture. To the south lie Graves and Pessac-Léognan, and beyond them <strong>Sauternes</strong>, where noble rot gives long-lived sweet wines.</p><h2>The Right Bank</h2><p><strong>Saint-Émilion</strong>, whose jurisdiction has been a World Heritage site since 1999, is a village of golden stone with a monolithic church carved into the rock and underground quarries now used as cellars. Nearby is Pomerol, the kingdom of Merlot.</p>",
+"fr": "<p>Bordeaux est la ville du vin par excellence. Son centre historique et ses quais sur la Garonne, le « Port de la Lune », sont inscrits au patrimoine mondial, et au bord du fleuve se dresse <strong>La Cité du Vin</strong>, grand centre culturel consacré aux cultures du vin du monde entier.</p><h2>La rive gauche</h2><p>Au nord de la ville, la route des châteaux parcourt le <strong>Médoc</strong>, avec Margaux, Saint-Julien, Pauillac et Saint-Estèphe : de grandes propriétés dont les bâtiments vont du classicisme du XVIIIe siècle à l'architecture contemporaine. Au sud s'étendent les Graves et Pessac-Léognan, et plus loin <strong>Sauternes</strong>, où la pourriture noble donne des liquoreux de longue garde.</p><h2>La rive droite</h2><p><strong>Saint-Émilion</strong>, dont la juridiction est inscrite au patrimoine mondial depuis 1999, est un village de pierre blonde avec une église monolithe creusée dans le roc et des carrières souterraines devenues chais. Tout près se trouve Pomerol, royaume du merlot.</p>",
+"it": "<p>Bordeaux è la città del vino per eccellenza. Il centro storico e i lungofiume sulla Garonna, il «Porto della Luna», sono Patrimonio dell'Umanità, e sulla riva sorge <strong>La Cité du Vin</strong>, un grande centro culturale dedicato alle culture del vino di tutto il mondo.</p><h2>La riva sinistra</h2><p>A nord della città, la strada dei castelli attraversa il <strong>Médoc</strong>, con Margaux, Saint-Julien, Pauillac e Saint-Estèphe: grandi proprietà con edifici che vanno dal classicismo settecentesco all'architettura contemporanea. A sud si trovano Graves e Pessac-Léognan e, più in là, <strong>Sauternes</strong>, dove la muffa nobile dà vini dolci longevi.</p><h2>La riva destra</h2><p><strong>Saint-Émilion</strong>, la cui giurisdizione è Patrimonio dell'Umanità dal 1999, è un borgo di pietra dorata con una chiesa monolitica scavata nella roccia e cave sotterranee oggi usate come cantine. Poco lontano c'è Pomerol, regno del merlot.</p>"
+},
+"see": {
+"es": "<ul><li>La Cité du Vin.</li><li>Ruta de los châteaux del Médoc.</li><li>Iglesia monolítica de Saint-Émilion.</li><li>Sauternes y sus châteaux.</li></ul>",
+"en": "<ul><li>La Cité du Vin.</li><li>Médoc château route.</li><li>Saint-Émilion's monolithic church.</li><li>Sauternes and its châteaux.</li></ul>",
+"fr": "<ul><li>La Cité du Vin.</li><li>Route des châteaux du Médoc.</li><li>Église monolithe de Saint-Émilion.</li><li>Sauternes et ses châteaux.</li></ul>",
+"it": "<ul><li>La Cité du Vin.</li><li>Strada dei castelli del Médoc.</li><li>Chiesa monolitica di Saint-Émilion.</li><li>Sauternes e i suoi castelli.</li></ul>"
+},
+"season": {
+"es": "De mayo a octubre; muchos châteaux cierran o reducen visitas en vendimia (septiembre-octubre).",
+"en": "May to October; many châteaux close or limit visits during the harvest (September–October).",
+"fr": "De mai à octobre ; beaucoup de châteaux ferment ou limitent les visites pendant les vendanges (septembre-octobre).",
+"it": "Da maggio a ottobre; molti castelli chiudono o limitano le visite in vendemmia (settembre-ottobre)."
+},
+"food": {
+"es": "Entrecot a la bordelesa, cordero de Pauillac, ostras de Arcachon y canelés.",
+"en": "Entrecôte bordelaise, Pauillac lamb, Arcachon oysters and canelés.",
+"fr": "Entrecôte bordelaise, agneau de Pauillac, huîtres d'Arcachon et canelés.",
+"it": "Entrecôte alla bordolese, agnello di Pauillac, ostriche di Arcachon e canelés."
+},
+"tip": {
+"es": "Los grandes châteaux casi siempre exigen cita previa: resérvala con semanas de antelación.",
+"en": "The great châteaux almost always require an appointment: book weeks in advance.",
+"fr": "Les grands châteaux exigent presque toujours un rendez-vous : réservez des semaines à l'avance.",
+"it": "I grandi castelli richiedono quasi sempre un appuntamento: prenota con settimane di anticipo."
+}
+}
